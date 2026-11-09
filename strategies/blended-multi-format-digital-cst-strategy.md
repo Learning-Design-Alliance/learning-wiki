@@ -50,6 +50,7 @@ Because users differed in interface preference, the authors recommend that "diff
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Combine online and role-playing formats in an inverted classroom for smoking cessation training](inverted-classroom-combining-online-roleplay.md)
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
+- [Communication domain: inform users, enable contact with faculty, and provide live interaction with experts](postgraduate-me-communication-live-expert-interaction.md)
 
 ## Examples
 -

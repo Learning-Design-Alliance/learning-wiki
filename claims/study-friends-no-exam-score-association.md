@@ -49,3 +49,4 @@ Linear regression of total midterm scores on Week 10 strategy use, demographics,
 - [Studying with friends in high school predicts college study-group use, but demographic and academic predictors are weak overall](high-school-study-friends-predicts-college-use.md) — related
 - [Better metacognitive knowledge of study strategies at course entry is associated with higher exam scores in introductory biology](metacognitive-knowledge-predicts-biology-exam-scores.md) — related
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
+- [Incoming cumulative college GPA significantly and positively predicts exam performance in introductory biology](incoming-gpa-predicts-intro-biology-exam-performance.md) — related

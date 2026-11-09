@@ -51,3 +51,4 @@ Day 1 Paas scale ratings in the randomized trial were equal (6.8 for both groups
 - [In initial dyad-versus-individual simulation training, individuals show larger increases in anxiety and stress than dyads](dyad-training-lower-stress-anxiety-increase.md) — related
 - [Dyads are faster than individuals at diagnosing bradycardia and recognizing pacing indication on initial training](dyads-faster-day1-time-metrics.md) — related
 - [Most medical students prefer individual over dyad simulation training despite higher stress](students-prefer-individual-simulation-training.md) — related
+- [Dyad practice yields higher training efficiency than individual practice in simulator score per attempt](dyad-practice-higher-training-efficiency.md) — related

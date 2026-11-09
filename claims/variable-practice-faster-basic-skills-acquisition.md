@@ -48,3 +48,4 @@ In the randomized trial (n = 36, 18 per group), novices trained four basic skill
 - [Variable practice improves retention: faster return to proficiency after 3-5 weeks than self-directed training](variable-practice-improved-retention-laparoscopy.md) — related
 - [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](retention-test-faster-than-initial-training-no-group-effect.md) — related
 - [Variable practice yields higher transfer to a procedural task (salpingectomy) than self-directed training](variable-practice-higher-transfer-procedural-task.md) — related
+- [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — reports the opposite

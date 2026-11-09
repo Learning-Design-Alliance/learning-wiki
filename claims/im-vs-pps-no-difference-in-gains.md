@@ -53,3 +53,4 @@ Between-group comparison in the randomized trial (30 students per module, matche
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](gamification-mixed-als-algorithm-knowledge.md) — related
 - [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related
 - [Web-based multimedia virtual simulation embedded in PowerPoint teaching increases Form Four students' achievement on the Islamic Studies pilgrimage topic compared with PowerPoint teaching without simulation](virtual-simulation-improves-pilgrimage-achievement.md) — related
+- [The eBook and PowerPoint groups did not differ in pre-test cell identification scores](no-pretest-difference-ime-tpp.md) — related

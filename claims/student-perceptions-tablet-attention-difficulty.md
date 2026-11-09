@@ -48,3 +48,4 @@ Five-point Likert scale student experience questionnaire administered in the pos
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
+- [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related

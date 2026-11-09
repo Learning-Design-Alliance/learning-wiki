@@ -60,6 +60,7 @@ Organize undergraduate training of invasive dental procedures by deconstructing 
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Phased training sequence: prepare and peer-evaluate a standard tooth, then practice with a colored tooth and iterative digital feedback before the exam](phased-colored-tooth-digital-feedback-sequence.md)
 - [Use a clinical skills checklist to document achievements and set clear, achievable stepwise goals](clinical-skills-checklist-stepwise-goals-strategy.md)
+- [Establish an Austrian-wide Competency Catalog for clinical training with supervisor accountability](competency-catalog-clinical-training-strategy.md)
 
 ## Examples
 -

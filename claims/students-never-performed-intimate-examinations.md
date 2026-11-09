@@ -49,3 +49,4 @@ Cross-sectional survey reporting never-performed proportions in 188 final-year J
 - [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](intimate-examination-gender-divide-jordan.md) — related
 - [Male medical students in Jordan consistently outperform female students in performing more than 10 general clinical examinations on any patient during training](males-more-general-examinations-jordan.md) — related
 - [Male students report far less supervisor support for intimate examinations than female students, while general-examination confidence shows no gender difference](supervisor-support-gender-difference-intimate-exams.md) — related
+- [Most Saudi final-year medical students in the surveyed colleges had never performed many types of intimate-area examination during clinical training](saudi-students-never-performed-iae-survey.md) — related

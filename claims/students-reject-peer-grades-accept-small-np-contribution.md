@@ -48,3 +48,4 @@ Attitudes survey completed by 72 of 86 eligible students (86% response rate), us
 - [Male students held more positive perceptions of peer and near-peer assessment as motivational, with large effect sizes](males-more-positive-np-assessment-motivation.md) — related
 - [Self and peer marks correlate moderately with faculty marks while self and near-peer marks correlate weakly on a clinical history-taking task](self-peer-marks-moderately-correlate-faculty-np-weak.md) — related
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
+- [Near-peers are participants at least one academic year apart; interdisciplinary same-year programmes should be treated as near-peer](near-peer-definition-academic-year-apart.md) — related

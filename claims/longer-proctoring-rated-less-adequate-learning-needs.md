@@ -50,3 +50,4 @@ Pearson correlation between proctoring duration and questionnaire item 1.2 in th
 - [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
+- [Students' general assessment of clinical training improves significantly the longer the training lasts (r = −0.94)](longer-clinical-training-duration-higher-student-rating.md) — reports the opposite

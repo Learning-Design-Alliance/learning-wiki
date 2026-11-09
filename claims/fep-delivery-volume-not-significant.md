@@ -52,3 +52,4 @@ Pre-post analysis of delivery logs for Cohort A2016/A2017 (n = 73) in the Result
 - [Stakeholders perceive FEP as a highly accepted program benefiting SBAs, trainers and HFOMCs](fep-high-stakeholder-acceptance.md) — related
 - [Non-FEP SBAs working at a facility with prior FEP show higher clinical skills, a trickle-down effect](fep-trickle-down-effect-clinical-skills.md) — related
 - [A one-time FEP is not sufficient for retaining clinical skills and knowledge over time](one-time-fep-insufficient-retention.md) — related
+- [Higher average annual delivery workload per skilled birth attendant is associated with higher vignette competence](higher-delivery-workload-associated-with-higher-competence.md) — related

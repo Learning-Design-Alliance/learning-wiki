@@ -52,3 +52,4 @@ All 52 experimental-class students completed a 15-question online survey on a 1-
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [PointSolutions wagering questions help keep poorly performing teams engaged in review games](wager-questions-engagement.md) — related
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related
+- [Students evaluated the serious game as more engaging but the e-module as easier to use](game-more-engaging-emodule-easier-to-use.md) — related

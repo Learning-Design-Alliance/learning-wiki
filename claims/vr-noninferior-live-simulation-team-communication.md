@@ -60,3 +60,4 @@ Scoping review of seven studies of VR communication training for undergraduate n
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [Communication and interprofessional skills showed the smallest self-efficacy improvements after SBE, possibly due to a ceiling effect](sbe-smallest-gains-communication-interprofessional-skills.md) — related
 - [Medical students' total interpersonal communication competence scores on the GICC-15 rose from pre-test to post-test after a 3-hour interprofessional communication training, in one single-group pre-post study](ipe-training-improves-total-gicc-15-scores.md) — related
+- [No statistically significant differences in self-efficacy between professional groups](se-12-profession-ranking-not-significant.md) — related

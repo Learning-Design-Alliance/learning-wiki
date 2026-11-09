@@ -56,3 +56,4 @@ Randomised cluster-sampling trial of 122 students (61 per arm) in a UCD surgical
 - [Medical students' confidence in obtaining patient consent rose significantly from pre-test to post-test within the CST group](cst-raises-consent-confidence.md) — related
 - [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related
 - [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related
+- [New-curriculum students scored significantly higher on the OSCE than old-curriculum students](pbl-higher-osce-scores-psychiatry.md) — related

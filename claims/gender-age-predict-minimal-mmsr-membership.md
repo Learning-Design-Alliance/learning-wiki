@@ -54,3 +54,4 @@ Latent multinomial logistic regression via the manual BCH method with profile 3 
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — reports the opposite
 - [Being female is positively associated with academic achievement in all models except Physical Education](female-gender-positive-achievement-except-pe.md) — related
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite

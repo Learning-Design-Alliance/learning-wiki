@@ -51,6 +51,7 @@ The article recommends that health systems use web-based VP cases as CPD for in-
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 - [Use practice VP cases with feedback for independent self-learning, leveraging that assessment drives learning](vp-practice-cases-self-learning-strategy.md)
 - [Use open free virtual courses and real-time smartphone consultation with specialists to train and support first-level providers in VIA/VILI](virtual-courses-smartphone-consultation-via-vili-training.md)
+- [Intensify communication-skills training, including telephone- or internet-based physician-patient interaction, and integrate telemedicine via dedicated modules](intensify-communication-and-telemedicine-training.md)
 
 ## Examples
 -

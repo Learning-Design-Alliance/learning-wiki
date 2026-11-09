@@ -55,3 +55,4 @@ Psychometric analysis of data from 111 third-year students at one Brazilian medi
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
 - [SEPC-Br and TS-Br scores correlate negatively and significantly, with magnitudes the article describes as ranging from weak to moderate](sepc-ts-negative-concurrent-validity.md) — related
 - [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related
+- [The AIMS three-subscale measurement structure fits the data and yields reliable Rasch measures for middle school students](aims-three-subscale-structure-validated.md) — related

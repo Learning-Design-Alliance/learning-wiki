@@ -49,3 +49,4 @@ Thematic content analysis of an open-ended survey question, performed post hoc w
 - [Lack of curriculum time (64%) and lack of obesity-related rotation sites (50%) are the most frequently reported barriers to integrating obesity education in dietetic supervised practice](curriculum-time-and-rotation-sites-barriers-obesity-education.md) — related
 - [Only about one third of dietetic supervised practice directors rate their graduates 'very prepared' to provide nutrition care for patients with obesity](dietetic-directors-graduates-not-very-prepared-obesity-care.md) — related
 - [More than 40% of dietetic supervised practice directors report obesity education is not a formal program objective](obesity-education-not-formal-objective-42-percent.md) — related
+- [Thematic analysis of program director comments yields four themes, with many directors identifying formal goals of care teaching as a curricular gap](gcc-teaching-themes-program-director-survey.md) — related

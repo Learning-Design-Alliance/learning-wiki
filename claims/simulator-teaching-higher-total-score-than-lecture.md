@@ -55,3 +55,4 @@ Randomized controlled trial of 118 Paris Descartes medical students randomized t
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) — related
 - [Simulator-based teaching improved scores on all three evaluation parts: coronary anatomy, angiographic projections, and real-case interpretation](simulator-teaching-improved-all-three-test-parts.md) — related
 - [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](im-vs-pps-no-difference-in-gains.md) — related
+- [Interns learning blood cell morphology with an interactive multimedia eBook achieved significantly better post-test scores than interns learning with a traditional PowerPoint atlas](ime-ebook-better-posttest-than-powerpoint.md) — related

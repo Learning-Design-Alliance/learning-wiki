@@ -65,3 +65,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [The online and offline groups showed no significant difference in prior third-year examination marks](baseline-third-year-marks-no-group-difference.md) — related
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — reports the opposite
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
+- [Skills lab training improves medical students' OSCE examination performance compared with classic bedside training alone](skills-lab-training-improves-osce-performance.md) — reports the opposite

@@ -51,3 +51,4 @@ Prospective self-controlled study of 199 registrants completing 10-item pre- and
 - [The cardiac auscultation lab has run annually since 2016, reaching 549 second-year medical students in three cohorts](auscultation-lab-549-students-since-2016.md) — related
 - [Cardiology rotation training is not associated with greater cardiac auscultation accuracy among junior doctors](cardiology-rotation-no-auscultation-advantage.md) — related
 - [Cardiac auscultation diagnostic accuracy rose from 28% before to 61% after a simple sound simulation lesson among junior doctors, in a single-group pre-post study with no comparison group](sound-simulation-lesson-improves-auscultation-accuracy.md) — related
+- [A standardized simulation training module significantly increases telestroke knowledge of emergency teams, from 59±13% to 82±10% correct answers](simulation-training-raises-telestroke-knowledge-overall.md) — related

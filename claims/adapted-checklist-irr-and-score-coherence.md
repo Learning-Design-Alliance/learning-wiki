@@ -65,3 +65,4 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
 - [Two independent faculty raters using the Ottawa CRM Global Rating Scale showed good interrater agreement (kappa = 0.74, 95% CI 0.66–0.82)](ottawa-crm-grs-interrater-kappa-074.md) — related
 - [Simulator metric z-scores correlate well with blinded ASSET performance scores](simulator-z-scores-correlate-with-asset-scores.md) — related
+- [The developed BLS assessment shows high overall inter-rater reliability (ICC = 0.84) across professional, student and peer assessors](bls-checklist-assessment-high-overall-icc-084.md) — related

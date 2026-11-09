@@ -51,3 +51,4 @@ Simple blind randomized clinical trial in which 24 professionals (12 per arm) we
 - [Both debriefing strategies raise compliance toward 100% by the third simulated scenario](compliance-approaches-100-percent-third-scenario.md) — a narrower finding that bears on this claim
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Both self-debriefing and instructor debriefing significantly improved CRM performance, with similar effectiveness between the two formats](both-debriefing-types-effective-and-similar.md) — related

@@ -56,3 +56,5 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [Unidimensionality of the MID competency scale was rejected](mid-competency-instrument-unidimensionality-rejected.md) — related
 - [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related
 - [Rasch fit statistics across phases led to removal of Questions 17, 2, 3, and 4, yielding the final 16-item IGCQ](igcq-item-removal-rasch-misfit.md) — related
+- [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
+- [The 12 SE-12 items form a single dominant factor, allowing item summarization](se-12-unidimensional-single-factor.md) — related

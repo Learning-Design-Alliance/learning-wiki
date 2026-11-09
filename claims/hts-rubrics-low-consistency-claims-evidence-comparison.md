@@ -56,3 +56,4 @@ Per-dimension consistency analysis from the pilot scoring session reported in th
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
 - [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](skt-srl-scoring-reduced-ceiling-effects.md) — related
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related
+- [Intervention theses scored significantly higher on most rubric dimensions tied to science literacy and critical thinking, especially analysis](rubric-dimension-gains-inquiry-analysis.md) — related

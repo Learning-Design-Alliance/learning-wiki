@@ -52,6 +52,7 @@ The authors recommend that decisions between asynchronous and synchronous delive
 - [Modality-sensitive online course design: structured templates for COC and synchronous elements embedded in asynchronous lessons](modality-sensitive-online-course-design-strategy.md)
 - [Blended Learning](blended_learning.md)
 - [Combine online and role-playing formats in an inverted classroom for smoking cessation training](inverted-classroom-combining-online-roleplay.md)
+- [Space blended course sessions over time and deepen asynchronous platform use to increase time on task and flexibility](space-sessions-and-asynchronous-activities-strategy.md)
 
 ## Examples
 -

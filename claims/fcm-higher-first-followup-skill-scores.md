@@ -48,3 +48,4 @@ Quasi-experimental skill assessment using researcher-developed checklists (SAFs)
 - [Within the flipped classroom group, persistence follow-up scores for BGM, NTI and DP skills were significantly higher than first follow-up scores](fcm-experimental-skill-improvement-over-time.md) — related
 - [Flipped classroom skill advantages persisted at final follow-up for BPM and DP, but persistence of BGM and NTI skills was not evaluated in the control group](fcm-skill-persistence-bpm-dp-only.md) — related
 - [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related
+- [Students taught with identical flipped active-learning instruction show no performance difference between a SCALE-UP–type classroom and a traditional lecture hall](scale-up-classroom-no-performance-advantage.md) — related

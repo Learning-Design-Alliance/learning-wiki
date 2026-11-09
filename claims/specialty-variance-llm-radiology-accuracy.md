@@ -53,3 +53,4 @@ Specialty-segmented analysis of the 150 questions across nine disease-focus area
 - [GPT-4 and GPT-4o show substantial improvement over GPT-3.5 across all clinical clerkships, with GPT-4o achieving 100% in family medicine and internal medicine](gpt-4o-clerkship-accuracy-including-perfect-family-and-internal-medicine.md) — a narrower finding that bears on this claim
 - [The four LLMs' accuracy varied across medical subject categories, with weaknesses in interdisciplinary questions, behavioral health, hematolymphoid topics, neurology and medical ethics](llm-accuracy-varies-by-medical-subject-category.md) — related
 - [Spine was the least understood musculoskeletal sub-topic in both curricular cohorts](spine-weakest-msk-topic.md) — related
+- [Relative knowledge gain varies by specialty: 'other specialties' gained most (44%) and sports medicine least (14%)](relative-gain-varies-by-md-specialty.md) — related

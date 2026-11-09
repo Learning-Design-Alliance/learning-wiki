@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (30 for, 24 mixed, 1 against) · 49 studies (21 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 49 report an effect size · 51 claims rest on one study
+> **Evidence** · 56 claims (31 for, 24 mixed, 1 against) · 50 studies (22 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 50 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [Step-by-step teaching yields significantly higher theoretical examination and skills assessment scores than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-theory-and-skills-scores-reproductive-ultrasound.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
 - [Step-by-step teaching yields a significantly higher total clinical competence score than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-total-clinical-competence-score.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
 - [In DL-first trainees, mean intubation time in the second series (VL) was significantly shorter than in the first series (DL), while VL-first trainees showed no significant difference between series](../claims/dl-first-second-series-intubation-time-shorter.md) [+W] — attached 2026-11-08 from Gu Minglu MM et al. (2019), which proposed "Teach endotracheal intubation with direct laryngoscopy before video laryngoscopy"; tests this page's relationship.
+- [Simple-before-complex training order yields better grammar learning than complex-before-simple order, driven by the simple rule](../claims/simple-first-training-order-better-grammar-learning.md) [+W] — attached 2026-11-09 from Antoniou Mark et al. (2016), which proposed "Sequence nonnative grammar training from simple to complex rules before testing"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

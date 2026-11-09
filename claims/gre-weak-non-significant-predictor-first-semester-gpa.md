@@ -50,3 +50,10 @@ Pearson correlation analysis of 37 IMSD trainees relating first-semester Ph.D. G
 - [Among HBCU-trained IMSD graduates, lower GRE verbal scores correlated with higher final graduate GPA, and higher publication counts correlated with first-authored publications and post-doctoral fellowships](hbcu-graduate-correlations-gre-verbal-final-gpa.md) — related
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [Faculty rating correlated with undergraduate country (US/Canada rated higher) but not with other performance metrics; domestic students scored higher on GRE analytical writing while nondomestic students scored higher on quantitative](undergraduate-country-faculty-rating-language-skills.md) — related
+- [GRE Quantitative and Verbal scores moderately predict first-semester grades in biomedical graduate coursework](gre-moderately-predict-first-semester-grades.md) — reports the opposite
+- [GRE subtest scores do not predict graduating with a Ph.D. among biomedical graduate students after controlling for other admissions criteria](gre-no-predict-phd-completion.md) — related
+- [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — related
+- [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related
+- [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — reports the opposite
+- [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](urm-status-mixed-graduate-outcomes.md) — related

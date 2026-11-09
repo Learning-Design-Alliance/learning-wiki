@@ -55,6 +55,9 @@ Because the study found marked skill decay within three months, the article reco
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Conduct short, simple skill-training sessions on a low-cost self-made model where full-scale simulators are unavailable, embedded in recurring refresher training](low-cost-model-short-fona-training-sessions.md)
+- [Combine refresher courses and/or tests with e-learning to prolong retention of hands-on skills](combine-refresher-courses-with-e-learning-for-retention.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

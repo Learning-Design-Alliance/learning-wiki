@@ -86,6 +86,7 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - [Use explanation essays as a sensitive measure of student understanding](../strategies/explanation-essays-assess-understanding.md)
 - [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](../strategies/tapps-listening-partner-verbalization-procedure.md)
 - [Provide explicit verbal instructions and facilitator prompting to guide students to articulate reasoning during in-class group work](../strategies/explicit-instructions-prompt-reasoning-strategy.md)
+- [Challenge students in small-group work to formulate a written open question on disease mechanisms to expose conceptual misunderstanding](../strategies/sgw-written-question-formulation-strategy.md)
 
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [doi:10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

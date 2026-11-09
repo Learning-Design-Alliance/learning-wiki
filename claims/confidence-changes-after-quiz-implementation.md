@@ -51,3 +51,4 @@ Questionnaire with ten 5-point Likert statements completed by the same cohort (n
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md) — related
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md) — related
 - [PBL students reported greater prescribing confidence and preparedness and completed more drug prescriptions during training, but confidence did not correlate with assessed skill](pbl-confidence-preparedness.md) — related
+- [Most European final‐year medical students lack confidence in prescribing skills and feel inadequately prepared and dissatisfied with their undergraduate CPT education](low-confidence-and-dissatisfaction-with-cpt-teaching.md) — related

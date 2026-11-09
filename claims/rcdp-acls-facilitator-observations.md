@@ -54,3 +54,5 @@ Qualitative facilitator observations of 84 junior anesthesiology residents acros
 - [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [Junior anesthesiology residents completing an RCDP-based ACLS simulation curriculum report high satisfaction and expect improved clinical performance](rcdp-acls-residents-high-satisfaction.md) — related
+- [Delegates endorsed simulation as a learning experience for teamwork and communication and as a means to assess ECMO competency](ecmo-simulation-endorsed-teamwork-competency.md) — related
+- [After the ECMO simulation course, most delegates perceived improvements in nontechnical skills including communication and leadership](ecmo-simulation-nontechnical-skill-gains.md) — related

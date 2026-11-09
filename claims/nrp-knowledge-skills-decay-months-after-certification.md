@@ -128,3 +128,8 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — related
 - [Bag-and-mask, pre-birth preparation, and OSCE skill scores rose from baseline to immediately after HBB training and were retained at 6 months in one single-group pre-post study with no comparison group](hbb-qic-skill-scores-retained-6-months.md) — related
+- [Birth attendants' resuscitation knowledge test pass rates rose from 74% before to 99% after initial HBB training in a single-group pre-post study](hbb-initial-training-improves-knowledge.md) — related
+- [Among birth attendants, OSCE B resuscitation skill pass rates rose from 81% before to 99% after a half-day refresher training, in one group with no comparison group](hbb-refresher-training-restores-skills.md) — related
+- [Tertiary-facility status and no prior resuscitation training predict loss of OSCE B skills, while catch-up training and the Nagpur site predict retention](hbb-skill-loss-risk-factors.md) — related
+- [Resuscitation skills decline more than knowledge in the months after initial HBB training](hbb-skills-decline-more-than-knowledge.md) — related
+- [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related

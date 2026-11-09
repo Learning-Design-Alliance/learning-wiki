@@ -52,3 +52,4 @@ Rasch rating-scale analysis (Winsteps 3.72) of 70 students' responses to the 20-
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [A Rasch-validated physiotherapy assessment scale (APP) showed all 20 items invariant across populations and contexts](app-scale-20-items-invariant.md) — related
+- [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related

@@ -1,0 +1,73 @@
+---
+type: claim
+title: "Composite completion showed the largest disparities: 20% of nMnP students achieved optimal completion versus under 10% of Māori and under 3% of Pacific students"
+description: "Composite completion showed the largest disparities: 20% of nMnP students achieved optimal completion versus under 10% of Māori and under 3% of Pacific students"
+id: composite-completion-disparities-privilege
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-09
+evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
+sources:
+  - id: wikaire-erena-2016
+    resource: "https://doi.org/10.1186/s12909-016-0782-2"
+    title: "Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi. (2016). Patterns of privilege: A total cohort analysis of admission and academic outcomes for Māori, Pacific and non-Māori non-Pacific health professional students. BMC Medical Education. https://doi.org/10.1186/s12909-016-0782-2"
+    author: Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+  - id: wikaire-erena-2016-2
+    resource: "https://doi.org/10.1186/s12909-016-0782-2"
+    title: "Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi. (2016). Patterns of privilege: A total cohort analysis of admission and academic outcomes for Māori, Pacific and non-Māori non-Pacific health professional students. BMC Medical Education. https://doi.org/10.1186/s12909-016-0782-2"
+    author: Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Composite completion showed the largest disparities: 20% of nMnP students achieved optimal completion versus under 10% of Māori and under 3% of Pacific students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
+
+## Subclaims
+`q2 i?` Optimal completion (intended programme, minimum time, A grade average) was achieved by 20% of nMnP, 9% of Māori and 2% of Pacific students (composite outcome p < 0.0001 for Pacific, p = 0.0002 for Māori). [→ Wikaire Erena 2016](#wikaire-erena-2016)
+`q2 i?` Nearly one third of both Māori and Pacific cohorts were categorised as non-completion of an FMHS bachelor programme. [→ Wikaire Erena 2016 (2)](#wikaire-erena-2016-2)
+
+## Evidence
+
+### Wikaire Erena 2016
+
+Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi. (2016). Patterns of privilege: A total cohort analysis of admission and academic outcomes for Māori, Pacific and non-Māori non-Pacific health professional students. BMC Medical Education. https://doi.org/10.1186/s12909-016-0782-2
+
+`q2 · i?` · `associational · r2`
+
+Observational analysis of the composite graduation outcome (optimal, suboptimal high, suboptimal low, non-completion) in the 2686-student cohort, tested by chi-square against the nMnP reference.
+
+> "Whilst 20 % of nMnP students achieved optimal completion (e.g. graduating from intended programme in the minimal time with an A grade average), less than 10 % of Māori and less than 3 % of Pacific students achieved this outcome."
+
+### Wikaire Erena 2016 (2)
+
+Wikaire Erena, Curtis Elana, Cormack Donna, Jiang Yannan, McMillan Louise, Loto Rob, Reid Papaarangi. (2016). Patterns of privilege: A total cohort analysis of admission and academic outcomes for Māori, Pacific and non-Māori non-Pacific health professional students. BMC Medical Education. https://doi.org/10.1186/s12909-016-0782-2
+
+`q2 · i?` · `associational · r2`
+
+Same composite outcome analysis; Table 3 prints non-completion at 29.3% for Māori and 28.4% for Pacific versus 20.2% for nMnP students.
+
+> "A large proportion of both Māori and Pacific cohorts for the composite graduation outcome had not completed a Bachelor level programme within FMHS, with nearly one third being categorised as non-completion"
+
+## Discussion
+
+
+## Related Claims
+- [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related
+- [Māori and Pacific students entered health professional programmes with significantly lower secondary school achievement than nMnP students](maori-pacific-lower-secondary-achievement-entry.md) — related
+- [Māori and Pacific students achieved significantly lower first-year academic outcomes than nMnP students](maori-pacific-lower-first-year-outcomes.md) — related
+- [Māori and Pacific students reached health professional programmes via different pathways: more bridging programmes, fewer direct school-leaver admissions](maori-pacific-bridging-pathway-differences.md) — related
+- [Māori and Pacific health professional students were far more likely than nMnP students to have attended low decile secondary schools](maori-pacific-low-decile-schools-overrepresented.md) — related
+- [The authors argue that achieving equitable outcomes for Māori and Pacific health students requires urgent institutional change, not student change](institutional-change-for-equitable-outcomes.md) — related

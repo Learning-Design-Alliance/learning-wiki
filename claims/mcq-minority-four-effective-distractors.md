@@ -48,3 +48,4 @@ Distractor analysis of end-of-semester exam responses at the first offering acro
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — a broader claim this one bears on
 - [Two-distractor MCQs contain fewer item-writing flaws and more frequently have all distractors functional compared with three-distractor MCQs](two-distractor-items-fewer-flaws-more-functional.md) — related
+- [Most SBA questions in undergraduate medical summative exams contain fewer than four functional distractors](fewer-than-four-functional-distractors-sba-medical-exams.md) — possibly the same claim (merge candidate)

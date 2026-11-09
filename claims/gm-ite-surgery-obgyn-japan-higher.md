@@ -53,3 +53,4 @@ One-way ANOVA across regional groups on GM-ITE field scores; Table 2 reports Sur
 - [Perceived forensic competence and defensive reporting attitudes differ across specialties, with emergency medicine residents scoring highest and obstetrics-gynecology and general surgery residents lowest](forensic-competence-differs-by-specialty.md) — related
 - [No significant difference in Obstetrics and Gynecology scores between integrated PBL + LBC and LBC groups](obgyn-no-significant-difference-integrated-pbl.md) — related
 - [No pooled performance differences between curricula in internal medicine, pediatrics, surgery, or obstetrics and gynecology](no-pooled-differences-clinical-areas.md) — reports the opposite
+- [Students holding misconceptions score lower on the topic’s formal examination, and the underperformance is topic-specific](misconceptions-negatively-associated-exam-score-topic-specific.md) — related

@@ -54,3 +54,4 @@ SAOM analysis of admire networks found a significant positive influence effect, 
 - [Similarity in academic engagement does not significantly affect formation of admire relations](no-engagement-similarity-admire-selection.md) — related
 - [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
 - [The magnitude of social influence on engagement does not differ between close friend and admire networks](equal-influence-friends-admired-peers.md) — related
+- [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related

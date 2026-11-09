@@ -82,3 +82,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Simulation facilitators carried multiple roles of teaching, promoting reflection and assessing needs, unlike traditional needs assessment facilitators](simulation-facilitator-multiple-roles.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
 - [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related
+- [Medical leads felt written feedback was qualitatively different to feedback on verbal presentations, allowing concentration on correcting the structure of students' work](medical-leads-written-feedback-qualitatively-different-structure.md) — related

@@ -48,3 +48,4 @@ Self-reported questionnaire data from the same 92-participant survey on LP teach
 ## Related Claims
 - [Among Nouakchott medical trainees surveyed in 2017, 13% had never performed a lumbar puncture, most often because they had low self-esteem](13-percent-trainees-never-performed-lp-low-self-esteem.md) — related
 - [First-attempt lumbar puncture failure rate was 45% among surveyed trainees](45-percent-first-attempt-lp-failure.md) — related
+- [Only 36.3% of surveyed students had a dedicated supervisor during clinical training](only-36-percent-dedicated-supervisor-clinical-training.md) — related

@@ -52,3 +52,4 @@ Participants were randomly assigned to clean or annotated engagement conditions 
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — related
+- [Collaborative annotation is equivalent to individual annotation for junior medical science students' quiz performance (no significant difference)](collaborative-wsi-annotation-equivalent-junior-students.md) — related

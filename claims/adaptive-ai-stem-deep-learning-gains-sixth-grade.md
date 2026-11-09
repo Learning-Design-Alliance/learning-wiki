@@ -55,3 +55,4 @@ Cluster-assigned posttest-only experiment with 30 sixth-grade girls (15 per cond
 - [Retention gains from computer-assisted instruction held for multiplication and division units but not for fractions](frizbi-retention-multiplication-division-not-fractions.md) — related
 - [Scientific process skills effects of STEM practices differ significantly by lesson type and education level, favoring science and math lessons and basic-education and higher-education students](stem-sps-moderators-lesson-type-education-level.md) — related
 - [Posttest creativity scores differed between the experimental and control groups in favor of the experimental group, though the text and Table 6 print conflicting statistics](ayturk-posttest-group-difference.md) — related
+- [Integrated training improved the analysis dimension of critical thinking but not other sub-dimensions](integrated-training-analysis-dimension-gain.md) — related

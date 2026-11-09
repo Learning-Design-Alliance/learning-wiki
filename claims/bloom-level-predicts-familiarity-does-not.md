@@ -50,3 +50,4 @@ Multiple regression on MLab exam question scores controlling for familiarity and
 - [In regression models, undergraduate GPA significantly predicted MLab exam performance while prior MLec completion, gender, and ethnicity did not](gpa-predicts-mlab-mlec-does-not-regression.md) — related
 - [Completing the microbiology lecture course did not significantly improve MLab exam performance on familiar questions for students who had versus had not taken it](mlec-completion-no-mlab-familiar-question-benefit.md) — related
 - [Students overwhelmingly came to believe the lecture prerequisite did not benefit MLab performance, regardless of whether they had taken it](students-believe-mlec-not-beneficial-mab-perception.md) — related
+- [For middle/high-SES male students, increasing an exam's weighted Bloom's level predicts decreased exam performance after controlling for prior GPA and exam difficulty](higher-blooms-level-lowers-overall-exam-performance.md) — related

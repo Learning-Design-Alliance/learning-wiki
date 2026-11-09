@@ -47,3 +47,4 @@ Descriptive results of a self-administered questionnaire survey of 274 medical s
 
 ## Related Claims
 - [Postgraduate medical students show higher interest, effort, and competency in statistics than undergraduates, yet both groups struggle to evaluate statistical methods in literature](postgraduate-undergraduate-statistics-competency-gap.md) — related
+- [Emergency medicine residents spend extracurricular time on education: 97.7% report at least one hour per week and 34.4% report two to four hours](em-residents-extracurricular-education-hours.md) — related

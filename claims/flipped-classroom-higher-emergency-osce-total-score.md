@@ -53,3 +53,4 @@ Prospective intervention-control study in which 165 fifth-year students (79 flip
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related
 - [OBE-PBL teaching improves total practical assessment scores, with no difference at the neurological examination station](obe-pbl-practical-assessment-station-pattern.md) — related
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
+- [Integrated training (simulation plus critical thinking strategies) yields higher OSCE performance than simulation-only training in nursing students](integrated-training-higher-osce-performance.md) — related

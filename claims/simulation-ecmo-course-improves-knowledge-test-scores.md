@@ -48,3 +48,4 @@ Pre/post knowledge testing of the 115 participants with two different 15-questio
 - [The course produced a roughly two-fold increase in behavioral self-assessment of ECMO team roles, with the largest gain in leading the ECMO team](simulation-ecmo-course-improves-behavioral-team-role-confidence.md) — related
 - [A three-day high-fidelity simulation-based ECMO course significantly improved physicians' cognitive self-assessments of ECMO management (p<0.001)](simulation-ecmo-course-improves-cognitive-self-assessment.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
+- [Delegates scored an average of 89% on the end-of-course ECMO knowledge assessment](ecmo-course-knowledge-assessment-89-percent.md) — related

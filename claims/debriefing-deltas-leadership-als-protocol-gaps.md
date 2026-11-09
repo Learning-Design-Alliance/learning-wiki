@@ -54,3 +54,5 @@ Analysis of plus/delta debriefing results from both universities' simulation gro
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — possibly the same claim (merge candidate)
 - [Participants valued hands-on practice in simulation because resuscitation skills could not be acquired without it and simulation revealed knowledge gaps](simulation-hands-on-practice-knowledge-gaps-overdose.md) — related
 - [Individual staff knowledge and skill gaps are the most common latent safety threat in operating theater simulations, reported in 82% of reports and 90% of sites](staff-knowledge-skills-most-common-lst.md) — related
+- [Delegates endorsed simulation as a learning experience for teamwork and communication and as a means to assess ECMO competency](ecmo-simulation-endorsed-teamwork-competency.md) — related
+- [After the ECMO simulation course, most delegates perceived improvements in nontechnical skills including communication and leadership](ecmo-simulation-nontechnical-skill-gains.md) — reports the opposite

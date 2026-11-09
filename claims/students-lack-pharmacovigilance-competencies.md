@@ -51,3 +51,4 @@ Cross-sectional online questionnaire of 298 final-year (6th-year) Dutch medical 
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md)
 - [Final-year medical students show a general lack of preparedness, self-confidence, knowledge and skills for prescribing, especially in general and antimicrobial prescribing and pharmacovigilance](final-year-students-insufficient-prescribing-competencies.md)
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md)
+- [Most European final‐year medical students lack confidence in prescribing skills and feel inadequately prepared and dissatisfied with their undergraduate CPT education](low-confidence-and-dissatisfaction-with-cpt-teaching.md) — related

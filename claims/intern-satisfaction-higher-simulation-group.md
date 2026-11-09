@@ -50,3 +50,4 @@ Self-report satisfaction questionnaire on a 5-point scale administered to both r
 - [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [Case-based learning combined with multidisciplinary team teaching yields significantly higher satisfaction rates across learning interest, clinical thinking, team collaboration, and communication skills dimensions.](cbl-mdt-higher-satisfaction-rates-competency-domains.md) — related
+- [M-learning group rates learning process items more positively than control group](m-learning-group-higher-process-ratings.md) — related

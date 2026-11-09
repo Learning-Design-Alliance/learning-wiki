@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 347 claims (263 show a difference, 47 mixed, 37 no difference) · 274 studies (94 causal, 89 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 274 report an effect size · 343 claims rest on one study
+> **Evidence** · 350 claims (264 show a difference, 47 mixed, 39 no difference) · 277 studies (95 causal, 90 associational, 33 review, 25 qualitative, 16 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 277 report an effect size · 346 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -378,6 +378,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](../claims/sdt-path-engagement-mediation-tbl.md) [+M] — learners who differ on it differ in outcomes
 - [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](../claims/online-bls-self-efficacy-confidence-rate.md) [+M] — measured as an outcome of the instruction studied
 - [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](../claims/confidence-statements-significant-gains-three-areas.md) [+W] — measured as an outcome of the instruction studied
+- [Most participants in a geriatric psychiatry online study group reported improved self-efficacy for passing the certification exam](../claims/osg-improved-efficacy-beliefs.md) [+M] — measured as an outcome of the instruction studied
+- [Neither intervention changed self-efficacy, motivation or anxiety relative to control, though all groups increased perceived competence over time](../claims/imi-outcomes-unchanged-perceived-competence-increase.md) [-M] — measured as an outcome of the instruction studied
+- [Perceived deepening of knowledge and confidence in answers did not significantly predict exam scores](../claims/participation-perceptions-not-predicting-exam-scores.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

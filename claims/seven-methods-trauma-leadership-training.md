@@ -48,3 +48,4 @@ Qualitative modified grounded theory analysis of 25 semi-structured interviews w
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
 - [Participants perceive informal training methods as the most important part of leadership training in trauma resuscitation](informal-curriculum-perceived-most-important.md) — related
 - [Perceived ideal training methods differ by learner level: novices benefit from supervision, role modeling, simulation, and didactics, while senior learners benefit from hands-on practice, feedback, and autonomy](learner-level-adaptation-trauma-leadership.md) — related
+- [Participants valued the feedback and reflection components as contributing to enhanced teaching capacity and confidence](sat-feedback-reflection-valued.md) — related

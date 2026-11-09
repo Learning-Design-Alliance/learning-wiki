@@ -55,6 +55,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
+- [Assessment domain: direct, continuous, personalized assessment and feedback, including self-assessment](postgraduate-me-assessment-continuous-personalized.md)
 
 ## Examples
 -

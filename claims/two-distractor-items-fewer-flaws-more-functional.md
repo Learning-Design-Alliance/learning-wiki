@@ -54,3 +54,4 @@ In the randomized exam comparison, flaws were assessed with the 19-item Tarrant 
 - [Item-writing flaws are reported to compromise assessment reliability and validity with inconsistent effects](item-flaws-compromise-validity.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Only a minority of five-option MCQs have four effective distractors, with 19% of questions having four effective distractors and 32% having three](mcq-minority-four-effective-distractors.md) — related
+- [Most SBA questions in undergraduate medical summative exams contain fewer than four functional distractors](fewer-than-four-functional-distractors-sba-medical-exams.md) — related

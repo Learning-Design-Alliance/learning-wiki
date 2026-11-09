@@ -54,6 +54,9 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
+- [Combine refresher courses and/or tests with e-learning to prolong retention of hands-on skills](combine-refresher-courses-with-e-learning-for-retention.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

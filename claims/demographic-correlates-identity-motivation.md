@@ -60,3 +60,4 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Demographic covariates showed modest baseline differences by age, ethnicity, and gender but no difference in rate of change](demographic-covariates-baseline-no-change-rate-difference.md) — related
 - [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — reports the opposite
 - [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related
+- [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related

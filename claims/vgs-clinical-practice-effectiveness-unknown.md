@@ -49,3 +49,4 @@ The authors' stated research gap in the future directions section; they call on 
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [The review concludes that low-cost simulation methods' ability to fully replace high-fidelity methods remains uncertain, as some critical psychomotor or situational skills may require more immersive training](low-cost-simulation-cannot-fully-replace-high-fidelity-uncertain.md) — related
+- [Prehospital physicians' mOSAUS scores rose from pre-test to post-test after ultrasound training in one uncontrolled pre-post study; clinical benefit and independent practice were not tested](us-training-gain-clinical-benefit-unproven.md) — related

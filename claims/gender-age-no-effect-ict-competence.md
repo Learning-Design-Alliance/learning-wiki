@@ -49,3 +49,4 @@ Same survey of 931 final-year pre-service teachers in Flanders analysed multilev
 - [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](no-negative-effect-demographics-vle-interaction.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — reports the opposite
 - [The more pre-service teachers perceive the six ICT-integration strategies occurring in their teacher education, the higher their perceived ICT competence](perceived-strategy-occurrence-positively-associated-ict-competence.md) — related
+- [Age and gender showed no statistical influence on students' ratings of clinical training](age-gender-no-influence-on-training-ratings.md) — related

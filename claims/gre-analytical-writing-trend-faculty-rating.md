@@ -48,3 +48,4 @@ Retrospective correlational analysis of 108 students; faculty rating was dichoto
 ## Related Claims
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [Faculty rating correlated with undergraduate country (US/Canada rated higher) but not with other performance metrics; domestic students scored higher on GRE analytical writing while nondomestic students scored higher on quantitative](undergraduate-country-faculty-rating-language-skills.md) — related
+- [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related

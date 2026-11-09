@@ -55,3 +55,4 @@ Discussion synthesis of a convergent mixed-method study of 19 students in one on
 - [Lecturers found engaging synchronous online students difficult during hybrid teaching, citing delay in student responses and loss of teaching time](lecturer-difficulty-engaging-online-students.md) — related
 - [Students experience interaction differently across formats: synchronous immediate feedback versus asynchronous delayed, more reflective questioning](sync-immediate-feedback-async-reflection-theme.md) — related
 - [Synchronous students felt constrained by the lecturer's schedule while asynchronous students appreciated flexibility in managing their own time](time-management-flexibility-theme.md) — related
+- [The three-site synchronous format made spontaneous questioning difficult and divided the teacher's attention between face-to-face and online groups](synchronous-format-limited-spontaneous-questions.md) — related

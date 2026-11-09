@@ -67,3 +67,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
+- [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related

@@ -53,3 +53,4 @@ The article reports, citing Böttcher et al. (2023), that the first German culin
 - [Culinary medicine and teaching-kitchen courses improve German undergraduate medical students' diet-related knowledge, skills and attitudes](cm-tk-improve-diet-related-competencies-german-medical-students.md) — a broader claim this one bears on
 - [All identified CM/TK courses were elective, so structured culinary medicine teaching reaches only a limited number of German medical students](cm-tk-elective-only-limited-reach.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
+- [Technology-based nutrition education addressed time, content and faculty constraints and yielded knowledge gains, positive attitudes, counselling skills and practice behaviour change](technology-based-nutrition-education-outcomes.md) — related

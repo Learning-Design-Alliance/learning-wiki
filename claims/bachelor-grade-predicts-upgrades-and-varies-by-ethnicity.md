@@ -48,3 +48,4 @@ Secondary linear regression analyses in the broadly sampled cohort. The article 
 - [Allowing supervisors to deviate from algorithm-derived broadly sampled scores reintroduces ethnicity-related differences, favouring native Dutch students](supervisor-deviation-reintroduces-ethnic-differences.md) — related
 - [After adjustment, significant ethnicity-related grade differences appear in global assessment but not in broadly sampled assessment](adjusted-ors-significant-global-not-broad-sampled.md) — related
 - [Ethnicity-related differences in clinical grades are smaller under broadly sampled assessment than under global assessment](broad-sampling-reduces-ethnic-grade-differences.md) — related
+- [Non-Western ethnic minority students underperform compared with Dutch students on clinical problem solving tests, the language test and OSCEs](non-western-minority-underperformance-cpst-language-osce.md) — related

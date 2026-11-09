@@ -174,3 +174,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Lack of fixed time constraints and pressure was an important reason some students discontinued the online ECG course prematurely](lack-of-time-pressure-online-course-discontinuation.md) — related
 - [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — related
 - [In time-scarce clinical practice, competency-driven portfolio checklists degenerate into bureaucratic exercises that stand between the learner and workplace learning opportunities](portfolio-bureaucracy-competency-based-checklists.md) — related
+- [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — a narrower finding that bears on this claim
+- [Lack of training, delayed salaries and insufficient medicines and supplies impede iCCM knowledge and skill development](supplies-salary-training-demotivate-lhws.md) — a narrower finding that bears on this claim

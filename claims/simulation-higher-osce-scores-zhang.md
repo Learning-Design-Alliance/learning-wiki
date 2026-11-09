@@ -75,3 +75,6 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [A brief mentored simulation session added to didactic teaching improves coronary angiographic interpretation test scores more than didactic teaching alone](simulation-plus-didactic-improves-angiographic-interpretation.md) — related
 - [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related
 - [First-year medical students with enhanced medical improv training scored significantly higher on ECRS-rated OSCE communication than students with no medical improv](enhanced-medical-improv-higher-ecrs-osce-scores.md) — a narrower finding that bears on this claim
+- [Integrated training (simulation plus critical thinking strategies) yields higher OSCE performance than simulation-only training in nursing students](integrated-training-higher-osce-performance.md) — related
+- [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — a narrower finding that bears on this claim
+- [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related

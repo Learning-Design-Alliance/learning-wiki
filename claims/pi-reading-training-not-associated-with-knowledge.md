@@ -87,3 +87,4 @@ Mann-Whitney U comparison of ever versus never having read a pressure-injury art
 - [Nurses' knowledge of pressure injury prevention is frequently inadequate, particularly in prevention-specific domains.](nurses-knowledge-pi-prevention-inadequate.md) — related
 - [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](no-demographic-differences-pi-staging-accuracy.md) — related
 - [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related
+- [Knowledge outcomes did not differ by district or by years since basic nursing training](no-district-or-experience-differences.md) — related

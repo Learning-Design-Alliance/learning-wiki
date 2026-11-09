@@ -65,3 +65,4 @@ The same repeated-measures anova tested the group size × training interaction; 
 
 ## Related Claims
 - [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related
+- [Simulation-based ultrasound training improves OSAUS performance from pre- to post-test in both groups, with no interaction with training type](simulation-training-pre-post-gain-no-interaction.md) — possibly the same claim (merge candidate)

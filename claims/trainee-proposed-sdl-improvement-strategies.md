@@ -56,3 +56,4 @@ Focus group theme on potential improvement strategies. Participants suggested st
 - [All participating trainees acknowledged the importance of SDL while most rated their own SDL competence as lacking](trainees-value-sdl-but-rate-competence-low.md) — related
 - [HCPs want interactive components and personal exchange in e-learning to enhance knowledge-practice transfer](interactive-components-knowledge-practice-transfer.md) — related
 - [Trainees reported a favorable institutional atmosphere for EBM implementation](favorable-institutional-atmosphere-ebm.md) — related
+- [Learning-by-teaching effect: participants described applying teaching strategies from the SAT program to improve their own learning behaviours](sat-learning-by-teaching-strategy-transfer.md) — related

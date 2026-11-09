@@ -48,3 +48,4 @@ Semi-experimental study of 120 nursing students randomly allocated by even-odd a
 - [Within the intervention group, mean skill scores rose significantly from pre-test to post-test on each of the nine skills after app use](intervention-within-group-skill-gains.md) — related
 - [Mobile learning shows better one-month knowledge retention than face-to-face training for NICU nurses' positioning performance](mlearning-better-one-month-retention.md) — related
 - [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — related
+- [No significant difference in theoretical knowledge between mobile app and control groups](no-theoretical-knowledge-difference-mobile-app.md) — related

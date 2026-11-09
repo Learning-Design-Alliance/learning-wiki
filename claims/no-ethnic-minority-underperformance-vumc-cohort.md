@@ -71,3 +71,5 @@ One-Way ANOVA, pre-clinical education. "Western students had higher scores on th
 - [Western minority medical students report higher controlled motivation than Dutch majority students in pre-clinical education, but not significantly in clinical education](western-students-higher-controlled-motivation-preclinical.md) — related
 - [Non-Western minority medical students report higher autonomous motivation than Dutch majority students in both pre-clinical and clinical education](non-western-students-higher-autonomous-motivation.md) — related
 - [Autonomous motivation is positively associated with GPA for Dutch students in pre-clinical education and for Western minority students in clinical education, but not for non-Western students](autonomous-motivation-gpa-association-ethnic-groups.md) — related
+- [Non-Western ethnic minority students underperform compared with Dutch students on clinical problem solving tests, the language test and OSCEs](non-western-minority-underperformance-cpst-language-osce.md) — reports the opposite
+- [OSCE station-level underperformance differs across ethnic minority subgroups](osce-station-disparities-vary-by-subgroup.md) — related

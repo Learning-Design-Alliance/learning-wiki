@@ -56,3 +56,4 @@ Post hoc internal consistency computation on nine attitudinal preference items f
 - [The app embeds a 14-item pre/post assessment questionnaire with 5-level responses, 9 items shared across both surveys](pre-post-14-item-in-app-questionnaire.md) — related
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
+- [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related

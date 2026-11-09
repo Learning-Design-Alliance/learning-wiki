@@ -48,3 +48,4 @@ Same quasi-randomized controlled curricular trial; Table 3 reports post-training
 - [The video-based 4-step Approach's short-term advantage is confined to the more complex subparts of both skills](video-4-step-complex-subparts-item-analysis.md) — a narrower finding that bears on this claim
 - [Immediately after training, students taught with the video-based 4-step Approach perform a structured facial examination significantly better than students taught with the video-based See One, Do One approach](video-4-step-sfe-short-term-superiority.md) — related
 - [At the 5–13-week retention OSCE no significant difference remains between the video-based 4-step and See One, Do One groups for either skill](no-retention-advantage-video-4-step-t2.md) — related
+- [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — related

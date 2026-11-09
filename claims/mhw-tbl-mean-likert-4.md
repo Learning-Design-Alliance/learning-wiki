@@ -59,3 +59,4 @@ Descriptive statistical analysis of the pilot's 5-point Likert questionnaire (1 
 - [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — a narrower finding that bears on this claim
 - [Students approved the MBCL platform, with survey mean scores ranging from 3.47 to 4.17 on a 5-point Likert scale](mbcl-student-approval-survey.md) — a narrower finding that bears on this claim
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
+- [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related

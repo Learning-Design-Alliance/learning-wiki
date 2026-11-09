@@ -50,3 +50,4 @@ As a secondary analysis, the authors constructed a generalized linear model (Ann
 - [Outcome expectations of reputation and network status do not increase intention to engage in collaborative OER development](reputation-expectations-no-effect-collaboration-intention.md) — related
 - [Age and gender did not significantly predict marshmallow-task wait-times in this sample when controlling for condition](age-gender-not-significant-wait-time-predictors.md) — related
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
+- [Age and gender showed no statistical influence on students' ratings of clinical training](age-gender-no-influence-on-training-ratings.md) — related

@@ -44,7 +44,8 @@ The article recommends MAS-based revision as "a desirable revision alternative w
 - [All three revision groups improved OSCE scores between baseline and post-revision catheterisation attempts, with mean gains of 8.7% (no resources), 19.8% (traditional resources) and 15.9% (mobile application simulator)](../claims/three-group-significant-pre-post-osce-gains-mas-trial.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer mental practice as a portable, accessible, inexpensive and safe adjunct to simulation and cadaveric dissection in surgical training](mental-practice-portable-adjunct-surgical-training.md)
 
 ## Examples
 -

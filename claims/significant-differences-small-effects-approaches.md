@@ -50,3 +50,4 @@ The commentary reports Richardson's (2013) cross-sectional study using data from
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](cohen-benchmarks-arbitrary.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related
+- [Problem-based learning enhances deep approaches to learning with a small positive average effect size of .11, though the vote-count difference is not statistically significant](pbl-small-positive-effect-deep-approach.md) — related

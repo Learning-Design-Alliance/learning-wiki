@@ -50,6 +50,7 @@ The review's forward-looking recommendation for research on music and surgical s
 ## Related Strategies
 
 - [Combine cognitive training with direct da Vinci simulator training, using larger samples and higher numbers of monitored training trials, in future robotic surgery curricula](combine-ct-davinci-training-future-curricula.md)
+- [Future scalpel-skills intervention research should use more engaged training, supervision, and larger participant numbers](scalpel-training-future-research-strategy.md)
 
 ## Examples
 -

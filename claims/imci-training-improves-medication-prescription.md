@@ -54,3 +54,4 @@ Meta-analysis of pooled effect estimates across 26 studies found IMCI training a
 - [Longer IMCI training duration (≥11 days) is associated with stronger performance benefits in most domains](imci-longer-training-duration-stronger-benefits.md)
 - [IMCI training shows no significant pooled effect on child vaccination rates (RR = 1.16, 95% CI: 0.98–1.36)](imci-training-no-significant-vaccination-effect.md)
 - [IMCI training benefits are stronger in lower-resource settings (lower HDI) for nutrition counseling and vaccinations](imci-training-stronger-lower-resource-settings.md)
+- [LHWs and LHSs show gaps in classifying dehydration, preparing ORS appropriately, and prescribing correct antibiotics for pneumonia](lhw-knowledge-gaps-iccm-dehydration-pneumonia.md) — related

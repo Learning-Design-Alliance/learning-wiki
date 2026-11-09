@@ -57,3 +57,4 @@ Multi-site cluster randomized trial in 39 classrooms (20 SSIS-CIP, 19 control) i
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](ptr-yc-increases-engaged-time-vs-bau.md) — related
 - [PTR-YC increases preschool children's social skills more than business-as-usual, as measured by the SSIS social skills subscale](ptr-yc-increases-ssis-social-skills-vs-bau.md) — related
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
+- [PATHS showed no statistically significant primary effects on child-rated SSIS social skills or teacher-rated pro-social behavior](paths-no-primary-effects-child-rated-sec.md) — related

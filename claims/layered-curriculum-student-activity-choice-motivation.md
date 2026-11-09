@@ -51,3 +51,4 @@ Descriptive qualitative analysis of diaries and semi-structured interviews with 
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — a narrower finding that bears on this claim
 - [Providing students with choice of activities and brief periods of free choice increases physical activity and MVPA during PE lessons](student-choice-increases-pe-physical-activity.md) — related
+- [A majority of residents (80.0%) choose extracurricular educational topics based on recent clinical encounters](topics-chosen-from-clinical-encounters.md) — related

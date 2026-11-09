@@ -48,6 +48,7 @@ The authors recommend that after initial instruction, students should undertake 
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Daily self-led skill drills with automated simulator feedback to maintain neonatal resuscitation skills](daily-skill-drills-simulator-feedback-strategy.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 
 ## Examples
 -

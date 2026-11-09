@@ -60,3 +60,4 @@ The dissertation's pretest-posttest control-group experiment analyzed between-gr
 - [Students in an unstructured educational robotics curriculum show higher engagement in the learning process than peers in a structured curriculum](unstructured-er-curriculum-higher-engagement.md) — related
 - [Trainees in the unstructured navigation condition showed better operational performance on the transfer task than trainees in the structured condition, approaching significance.](unstructured-navigation-better-transfer-performance.md) — reports the opposite
 - [CAI and control groups showed no significant differences in letter recognition or vocabulary recognition gains](prek-cai-no-difference-letter-vocabulary.md) — related
+- [Any form of structured skills training leads to better basic practical skills learning than unstructured clerkships or bedside teaching alone](structured-skills-training-beats-unstructured-clerkships.md) — related

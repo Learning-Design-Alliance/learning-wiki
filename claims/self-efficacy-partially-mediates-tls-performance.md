@@ -48,3 +48,4 @@ Hierarchical mediated regression analysis on the same 247-resident survey sample
 - [Employee-oriented organizational culture negatively moderates the relationship between teachers' contingent punishment and residents' self-efficacy](eoc-negatively-moderates-punishment-self-efficacy.md) — related
 - [EOC does not significantly moderate the relationship between teachers' contingent reward behavior and residents' self-efficacy](eoc-no-moderation-reward-self-efficacy.md) — related
 - [Clinical teachers' contingent reward and contingent punishment behaviors are positively related to residents' training performance in Chinese residency training](tls-contingent-reward-punishment-positively-predict-resident-performance.md) — related
+- [Perceived transactional leadership also correlates with self-efficacy (r=0.584), while passive-avoidant leadership shows no significant association](transactional-correlated-passive-avoidant-not-self-efficacy.md) — related

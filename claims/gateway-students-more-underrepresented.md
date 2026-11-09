@@ -53,3 +53,4 @@ Chi-square comparisons of demographic variables in Table 1 (N = 4340) with Bonfe
 - [Candidates from minority ethnic backgrounds, especially Black or Black British candidates, are significantly less likely to pass postgraduate medical examinations at first attempt](minority-ethnic-lower-first-attempt-pass-odds.md) — related
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
 - [First-sitting MRCP Part 1 pass rates are univariably associated with age, sex, ethnicity, graduate status, parental occupation and school type](mrcp-part1-univariable-sociodemographic-associations.md) — related
+- [First-generation university students underperformed only on the language skills test](first-generation-underperformance-language-test-only.md) — related

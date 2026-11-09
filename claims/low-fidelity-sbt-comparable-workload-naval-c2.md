@@ -54,3 +54,4 @@ A repeated-measures comparison of NASA-TLX total scores for a 10-person naval C2
 - [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Perceived mental workload (NASA-TLX) was significantly higher at baseline for high-fidelity simulation than for procedural simulation](nasa-tlx-higher-hf-than-ps-simulation.md) — related
+- [Physical fidelity of the simulation setting is not the most important aspect for individual and team learning](physical-fidelity-not-primary-driver-of-learning.md) — a broader claim this one bears on

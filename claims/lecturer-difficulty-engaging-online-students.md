@@ -47,3 +47,4 @@ Quote from Lecturer A in the focus group interviews, part of the thematic analys
 ## Related Claims
 - [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related
 - [During lecturing in blended teaching, teacher TPJ activity preceded student MFC activity by 8–10 s in time-lagged teacher–student neural synchronization](teacher-student-time-lagged-synchronization-tpj-mfc.md) — related
+- [The three-site synchronous format made spontaneous questioning difficult and divided the teacher's attention between face-to-face and online groups](synchronous-format-limited-spontaneous-questions.md) — related

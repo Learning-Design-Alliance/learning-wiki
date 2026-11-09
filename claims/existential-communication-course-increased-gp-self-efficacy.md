@@ -70,3 +70,4 @@ Row of Table 2(a) reporting the paired t-test for the R/S communication item: me
 - [GPs reported implementing all demonstrated non-pharmacological strategies, most frequently sleep hygiene education (67.8%) and the ICE model of communication (50.6%)](gps-implemented-nonpharmacological-strategies-elearning.md) — related
 - [Participants evaluated the course positively: 74% were very satisfied with its content and 89% rated their existential communication competences better than before](participants-satisfied-and-rate-competences-better.md) — related
 - [The course changed GPs' perceived importance of only two of the eight communication skills: communicating about R/S concerns and active listening and being present](perceived-importance-unchanged-except-two-skills.md) — related
+- [GPs reported changing their usual clinical practice with patients outside the pilot trial](gps-changed-usual-practice-beyond-pilot-patients.md) — related

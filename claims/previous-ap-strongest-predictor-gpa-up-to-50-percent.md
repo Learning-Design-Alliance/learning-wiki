@@ -59,3 +59,4 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 - [Cognitive and noncognitive predictors collectively explain less than 4% of variance in graduation](predictors-explain-under-4-percent-graduation-variance.md) — related
 - [Curriculum-sampling test scores show substantial incremental validity over high school GPA, with the combination explaining 37% of first-year and 49% of third-year GPA variance](curriculum-sampling-incremental-validity-over-hsgpa.md) — related
 - [The regression model based on cumulative GPA explains more variance than the model based on first-year GPA](cumulative-gpa-model-better-fit.md) — related
+- [The strongest Step 2 prediction model combined Step 1 results with four clinical mini board results, achieving an adjusted R2 of 62%](step2-strongest-prediction-step1-plus-clinical-miniboards-ar2-62.md) — related

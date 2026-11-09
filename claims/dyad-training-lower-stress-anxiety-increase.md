@@ -52,3 +52,4 @@ Randomized trial of 41 fourth-year medical students in a simulated bradycardia s
 - [Most medical students prefer individual over dyad simulation training despite higher stress](students-prefer-individual-simulation-training.md) — related
 - [On day 4 individual reassessment, dyad-trained students perform similarly to individual-trained students, except faster pacing-indication recognition for individual training](day4-equivalent-performance-individual-tp-advantage.md) — related
 - [Paired and individual bronchoscopy simulation training show no difference in effectiveness for medical students](dyad-versus-individual-simulation-training-null.md) — related
+- [Dyad practice yields higher training efficiency than individual practice in simulator score per attempt](dyad-practice-higher-training-efficiency.md) — related

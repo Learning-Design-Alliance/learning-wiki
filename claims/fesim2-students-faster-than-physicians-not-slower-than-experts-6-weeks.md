@@ -74,3 +74,4 @@ Between-group comparison (Mann–Whitney U) after 6 weeks among students (n = 11
 - [Ultrasound novices reach physician-level accuracy (RAI) in second-trimester standard plane acquisition after 8 hours of simulator-based training](sim-ut-novices-reach-physician-accuracy-8-hours.md) — related
 - [Total time to completion of the 23-plane protocol decreases significantly across the six-week training period, from 1238±283 to 620±189 seconds](sim-ut-ttc-decreases-over-training.md) — related
 - [The simulator's automatic plane rating shows a high false-rejection rate: 268 obtained images required expert reevaluation, of which only 32 were clinically insufficient](simulator-rating-discrepancy-268-reevaluated.md) — related
+- [No significant difference in time required to perform ultrasound or palpation examinations](no-examination-time-difference-mobile-app.md) — related

@@ -56,3 +56,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [A large-class flipped classroom with design thinking produced no statistically significant difference in classroom quiz scores versus traditional large-class teaching](dt-flipped-classroom-no-quiz-score-difference.md) — related
 - [Students in the TBL physiology course showed significant pre–post gains on a conceptual physiology test and daily concept quizzes](tbl-physiology-pre-post-gains.md) — related
 - [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related
+- [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-09
 recheck_by: 2031
 sources:
   - id: kamanga-martha-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Providers reported deviations in dilution technique and frequent omission of toxicity monitoring such as reflex checks. [→ Kamanga Martha 2026](#kamanga-martha-2026)
@@ -50,3 +51,4 @@ In the performance theme from FGDs and workshops, a clinical officer explained o
 - [System-level barriers including inadequate simulation-based training and lack of visual job aids constrain optimal MgSO4 practice](systemic-barriers-mgso4-training-job-aids.md) — related
 - [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
+- [Knowledge and use of magnesium sulphate among community health workers was sub-optimal, with diazepam repeatedly stated as the treatment of choice](mgso4-knowledge-suboptimal-diazepam-default.md) — related

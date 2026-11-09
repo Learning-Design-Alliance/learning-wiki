@@ -53,3 +53,4 @@ Prospective follow-up of the same randomised layperson cohorts (n=65 two-stage, 
 - [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — related
 - [Safety-control skill declines significantly over the year after BLS training, and chest compression depth deteriorates and becomes too deep](safety-control-and-compression-depth-decline-over-time.md) — related
 - [Three months after training, laypersons taught BLS/AED with a two-stage teaching technique show no difference in skill retention compared to those taught with a four-stage technique](two-stage-vs-four-stage-bls-aed-retention-null.md) — related
+- [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related

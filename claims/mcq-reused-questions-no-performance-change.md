@@ -47,3 +47,4 @@ Independent samples t-test comparison of marks on re-used questions between sequ
 ## Related Claims
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
+- [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related

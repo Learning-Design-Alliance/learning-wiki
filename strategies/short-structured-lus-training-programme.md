@@ -49,6 +49,7 @@ The PLUS-IS-LESS LUS training programme combined "an e-learning course and a hal
 ## Related Strategies
 
 - [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
+- [Use short one-day lecture-plus-practice workshops as a continuing education strategy to build physicians' PA assessment, counseling and prescription skills](one-day-pa-prescription-workshop-strategy.md)
 
 ## Examples
 -

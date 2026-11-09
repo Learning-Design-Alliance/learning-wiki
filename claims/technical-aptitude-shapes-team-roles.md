@@ -55,3 +55,4 @@ Qualitative content analysis of student reflections; students without prior comp
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](ar-gen2-features-foster-between-team-collaboration.md) — related
 - [Some students remained passive in pandemic e-learning, giving up and taking no effective action to support their learning](passive-surrender-elearning-challenges.md) — related
+- [Team members' judgments of the leader's confidence correlate with their own confidence, while observers' judgments do not](observer-vs-member-judgment-of-leader-confidence.md) — related

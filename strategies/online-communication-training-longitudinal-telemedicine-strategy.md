@@ -51,6 +51,7 @@ The article's Fazit für die Praxis recommends that communication trainings in o
 ## Related Strategies
 
 - [Embed fluency in telemedicine and remote clinical teaching within medical school curricula to prepare for future disruptions and to serve dispersed teaching sites](embed-telemedicine-remote-teaching-in-curricula.md)
+- [Intensify communication-skills training, including telephone- or internet-based physician-patient interaction, and integrate telemedicine via dedicated modules](intensify-communication-and-telemedicine-training.md)
 
 ## Examples
 -

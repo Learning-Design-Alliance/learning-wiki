@@ -50,6 +50,7 @@ As an implication for practice, the authors recommend implementing a structured 
 - [Use adaptable collaboration scripts that fade structure in or out over time according to students' needs](fade-peer-assessment-structure-over-time.md)
 - [Design peer assessment to encourage specific problem-identifying feedback, suggestions, and affective support rather than grades alone](peer-assessment-design-strategy-lu-law.md)
 - [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
+- [Feed-forward of student learning needs prior to clinical placements to support fitness to practise](feed-forward-student-needs-before-placements.md)
 
 ## Examples
 -

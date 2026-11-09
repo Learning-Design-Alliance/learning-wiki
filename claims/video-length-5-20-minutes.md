@@ -50,3 +50,4 @@ The article's review of video-length studies states that "most studies agree tha
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
 - [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
+- [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — related

@@ -49,7 +49,8 @@ The authors recommend that national and international surgical societies such as
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](../claims/viewers-prefer-longer-videos-with-objectives-and-quiz.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Communication domain: inform users, enable contact with faculty, and provide live interaction with experts](postgraduate-me-communication-live-expert-interaction.md)
 
 ## Examples
 -

@@ -52,3 +52,5 @@ Regression analysis using number of reading guides fully completed before class 
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
 - [ASPECT discriminates between activity types and student ethnicities on value and instructor contribution, but not on personal effort](aspect-discriminates-value-instructor-not-effort.md) — related
+- [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
+- [Prior knowledge and individual effort, not classroom type, predict postcourse content knowledge](prior-knowledge-effort-predict-post-knowledge.md) — related

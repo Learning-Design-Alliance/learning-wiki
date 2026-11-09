@@ -62,3 +62,4 @@ Random intercept linear mixed effects model (adjusting for within-facility depen
 - [Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case](predictors-of-training-case-logistic-regression.md) — related
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — related
 - [After adjustment for age and years in the profession, female GPs scored significantly higher than male GPs on three of the 13 questions](female-gps-higher-copd-scores-three-questions.md) — related
+- [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (105 show a difference, 23 mixed, 18 no difference) · 67 studies (31 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 31 of 67 report an effect size · 140 claims rest on one study
+> **Evidence** · 149 claims (106 show a difference, 25 mixed, 18 no difference) · 68 studies (32 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 31 of 68 report an effect size · 143 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -181,6 +181,9 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Objective numeracy improved over the first-year curriculum even without the methodology course](../claims/first-year-curriculum-improves-objective-numeracy.md) [+M] — measured as an outcome of the instruction studied
 - [Pretest numerical magnitude knowledge moderates the benefit of linear-spatial materials: children with better initial numeracy accurately used advanced strategies more at posttest only in the linear-spatial condition](../claims/pretest-numeracy-moderates-linear-spatial-benefit.md) [~M] — an instructional effect differs with it
 - [Students with high initial numeracy/profiling scores did not profit from repeated testing](../claims/high-numeracy-students-no-repeated-testing-benefit.md) [-M] — an instructional effect differs with it
+- [Non-symbolic training improved non-symbolic magnitude processing selectively by ratio and numerosity size](../claims/non-symbolic-training-ratio-and-size-selective-gains.md) [~M] — measured as an outcome of the instruction studied
+- [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](../claims/symbolic-training-symbolic-tasks-and-verbal-transfer.md) [+M] — measured as an outcome of the instruction studied
+- [Symbolic training produced modest improvement in some non-symbolic magnitude processing, consistent with symbolic learning refining the ANS](../claims/symbolic-training-refines-non-symbolic-processing.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

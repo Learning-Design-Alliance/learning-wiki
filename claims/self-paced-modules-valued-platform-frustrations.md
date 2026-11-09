@@ -54,3 +54,4 @@ Theme 1 of the thematic analysis of the 15 physiotherapist interviews. Participa
 - [Physiotherapists in the experimental e-learning intervention valued its communication strategies as highly useful, while traditional-intervention participants criticised their absence](eei-communication-strategies-valued-tei-lamented.md) — related
 - [A digital educational training on red flag screening is feasible for qualified physiotherapists, with a median FIM score of 5](digital-red-flag-training-feasible-physiotherapists.md) — related
 - [A randomised trial of an online self-management support package (Sassen et al.) found no significant effect on behaviour or intention, with poor uptake](sassen-rct-no-significant-effect-online-sms.md) — related
+- [Interviewed physiotherapists were initially sceptical of online training but found iBeST acceptable, reporting external and internal barriers and facilitators](interviews-scepticism-to-acceptability-barriers.md) — related

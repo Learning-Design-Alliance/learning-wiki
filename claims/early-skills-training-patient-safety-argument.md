@@ -50,3 +50,4 @@ Theoretical argument in the Discussion, not a tested result: the authors reason 
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
+- [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related

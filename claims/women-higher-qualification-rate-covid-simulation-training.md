@@ -50,3 +50,4 @@ Univariate comparison in a cross-sectional study of 1916 medical staff at the Th
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
 - [Women had a higher any-type injury incidence than men (43.3% vs 26.0%), including when accounting for exposure time](female-recruits-higher-injury-incidence.md) — related
+- [Gender has no significant effect on practical skill outcomes in spinal manipulation training](gender-no-effect-spinal-manipulation-outcomes.md) — reports the opposite

@@ -52,3 +52,4 @@ Interview finding from the Priming for Clinical Environments theme: participants
 - [Subjective and objective assessment skills were the most coded learning gain from the simulation placement, with outcome-measure practice carried into clinical placements](sbl-assessment-skills-most-coded.md) — related
 - [Manual handling and hospital-equipment training during the simulation placement prepared students for neurological practice placements](sbl-generic-skills-manual-handling.md) — related
 - [Higher-level clinical reasoning, handling of lines and wires, and dealing with out-of-textbook situations could not be achieved with the e-learning module alone](elearning-alone-limits-reasoning-lines.md) — related
+- [Evidence indicates graduates are unprepared for multidisciplinary team-working](graduates-unprepared-multidisciplinary-teamworking.md) — related

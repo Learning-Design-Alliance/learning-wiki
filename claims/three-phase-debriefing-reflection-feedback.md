@@ -88,3 +88,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Trainees perceived feedback as critically important for self-reflection, with meaningful feedback requiring a private space, an engaged supervisor and an unhurried manner](mini-cex-feedback-quality-conditions.md) — related
 - [Structured instructor-guided oral debriefing and video-assisted oral debriefing both improve neonatal resuscitation skills, with neither strategy superior to the other](oral-versus-video-debriefing-no-superiority-neonatal-resuscitation.md) — related
 - [Debriefing sessions after patient encounters serve three purposes: exchanging informative questions, reassuring trainees, and checking trainees' performance](debriefing-sessions-three-purposes.md) — related
+- [Participants valued the feedback and reflection components as contributing to enhanced teaching capacity and confidence](sat-feedback-reflection-valued.md) — related

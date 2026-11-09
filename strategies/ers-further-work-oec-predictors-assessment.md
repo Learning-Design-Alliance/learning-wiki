@@ -45,7 +45,8 @@ The review proposes three significant areas of focus for further work in ERS res
 - [Higher user satisfaction and self-evaluation do not necessarily correlate with academic performance in an ERS deployment](../claims/ers-satisfaction-not-correlate-academic-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assessment domain: direct, continuous, personalized assessment and feedback, including self-assessment](postgraduate-me-assessment-continuous-personalized.md)
 
 ## Examples
 -

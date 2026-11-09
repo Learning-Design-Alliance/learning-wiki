@@ -56,3 +56,5 @@ Pre-post evaluation of an online EBM course (six online didactic modules and ses
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
 - [Online EBP learning modules significantly improved health professions students' EBP competence as measured by the adapted Fresno test](online-ebp-modules-improve-aft-scores.md) — related
+- [Medical postgraduate students' attitude scores toward online literature searching rose from before to after a 4-month literature search training course in a single-group pre-post study without a comparison group](training-improves-attitudes-toward-online-searching.md) — related
+- [Students' competency scores concerning search strategy design and conducting a search rose from pre-test to post-test in one uncontrolled pre-post study](training-improves-search-strategy-design.md) — a narrower finding that bears on this claim

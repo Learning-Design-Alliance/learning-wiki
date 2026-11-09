@@ -78,3 +78,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Male students were significantly more likely than female students to report English proficiency and course relevance as barriers to e-resource use](gender-barriers-english-proficiency.md) — related
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related
 - [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — related
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite

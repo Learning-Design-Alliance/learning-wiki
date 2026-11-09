@@ -56,3 +56,4 @@ The review's narrative synthesis reports that "three (15%) studies found that th
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
 - [Thematic analysis identifies five barrier categories, with professional knowledge the most frequently cited barrier to diabetic foot management](five-barrier-categories-diabetic-foot-nursing.md) — related
 - [Only 19.9% of surveyed Primary Care nurses considered themselves sufficiently and up-to-date trained in diabetic foot management](under-one-fifth-nurses-feel-trained-diabetic-foot.md) — related
+- [At baseline, nurse knowledge was very poor despite most having SBA training, with no difference between trained and untrained staff](baseline-knowledge-poor-despite-sba-training.md) — reports the opposite

@@ -51,3 +51,4 @@ Domain-level retrospective comparison of mini-CEX scores among the same 154 firs
 - [PDPG trainees scored significantly higher than RE trainees on the end-of-year knowledge examination](pdpg-higher-knowledge-examination.md) — related
 - [Professional degree postgraduate trainees scored higher than resident trainees on overall mini-CEX performance in first-year resident standardization training](pdpg-higher-overall-mini-cex-than-re.md) — a broader claim this one bears on
 - [PGY trainees scored highest in nursing professionalism and lowest in physical examination on the nursing-specific Mini-CEX](pgy-trainees-highest-professionalism-lowest-physical-examination.md) — related
+- [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related

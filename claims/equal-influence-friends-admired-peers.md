@@ -48,3 +48,4 @@ Parameter comparison between the two SAOM models using independent-sample t-test
 - [Admired peers' academic engagement also contributes to adolescents' own engagement over time](admired-peer-engagement-influence.md) — related
 - [Close friends' academic engagement contributes to adolescents' own academic engagement over time](close-friend-engagement-influence.md) — related
 - [Close friend and admire networks show similar structural features including reciprocity and cohesive peer group structures](network-structure-friends-admired-peers.md) — related
+- [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related

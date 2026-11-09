@@ -57,3 +57,4 @@ Paired-sample t-test in a before-after pilot study of 27 psychiatrists using the
 - [Primary care physicians' knowledge of when to refer perinatal patients to a psychiatrist rose from mean 1.90 pre-test to 3.13 post-test after training, in one uncontrolled pre-post study.](pmh-training-improves-referral-knowledge.md) — related
 - [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim
 - [In an interprofessional needs assessment, all 32 learners showed significant self-efficacy improvements and feedback redirected the simulation toward early-career medical students](needs-assessment-32-learners-self-efficacy.md) — related
+- [The brief gatekeeper training produces significantly greater improvement in suicide-prevention self-efficacy than an attention control](brief-gatekeeper-training-self-efficacy-gains.md) — related

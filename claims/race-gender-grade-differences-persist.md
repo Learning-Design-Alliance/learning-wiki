@@ -90,3 +90,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Class schedule, gender, and prior achievement moderated outcomes: TTH sections and higher high school GPA predicted better results, with gender effects differing by measure](schedule-gpa-gender-moderators-college-algebra.md) — related
 - [Peer assessment is vulnerable to implicit bias influenced by status perceptions, with women and minoritized students receiving lower evaluations despite substantive contributions.](peer-assessment-implicit-bias-status-perceptions.md) — related
 - [International students earned significantly fewer exam points than the reference category in the regression model](international-students-lower-exam-points.md) — related
+- [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — a narrower finding that bears on this claim

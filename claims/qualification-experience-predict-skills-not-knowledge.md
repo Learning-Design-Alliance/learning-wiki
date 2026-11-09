@@ -88,3 +88,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related
 - [Confidence in procedure performance rises with professional experience and with Masters/PhD qualifications](confidence-rises-with-experience-and-qualifications.md) — a narrower finding that bears on this claim
 - [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related
+- [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related

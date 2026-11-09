@@ -57,3 +57,4 @@ Single-group pre/post study of 64 nursing students using the CTDI-CV; paired t-t
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related

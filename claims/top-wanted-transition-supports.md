@@ -51,3 +51,4 @@ In interviews and workshops, participant-advisors named over 70 desired supports
 - [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related
+- [Existing translational medicine educational programs provide foundational and functional skills training but remain limited in diffusion and long-term mentorship](existing-tm-programs-limited-diffusion-mentorship.md) — related

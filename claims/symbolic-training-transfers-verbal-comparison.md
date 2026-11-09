@@ -54,3 +54,4 @@ In the verbal number comparison task, the time × group interaction was marginal
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — a broader claim this one bears on
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — a broader claim this one bears on
+- [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](symbolic-training-symbolic-tasks-and-verbal-transfer.md) — possibly the same claim (merge candidate)

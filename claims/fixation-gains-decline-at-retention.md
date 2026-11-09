@@ -51,3 +51,4 @@ Repeated measures analysis of fixation hits in the PL group across baseline, pos
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [A four-week perceptual learning module significantly improves novice optometry students' diabetic retinopathy sign identification accuracy, while a no-training control shows no change](plm-improves-dr-identification-accuracy-novices.md) — related
 - [After perceptual learning training, novices' diagnostic accuracy matches that of senior students with formal clinical training and exceeds the no-training control](plm-novices-match-senior-benchmark-accuracy.md) — related
+- [Skill gains after mastery learning hold across all four PVC insertion subunits, but the post-to-follow-up decline is significant only for fixation of the PVC](pvc-subunit-decline-limited-to-fixation.md) — related

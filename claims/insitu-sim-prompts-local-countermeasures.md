@@ -47,3 +47,4 @@ Analysis of countermeasures recorded in postcourse reports. The results state "I
 ## Related Claims
 - [Equipment design, availability, and maintenance threats are common in operating theaters, reported in 58% of reports and 86% of sites](equipment-threats-common-operating-theater-lst.md) — related
 - [In situ simulation postcourse reports in operating theaters frequently record latent safety threats, with 77 of 103 reports containing codable LSTs across all London Protocol factor types](insitu-sim-reports-frequently-record-lsts.md) — a broader claim this one bears on
+- [Department-based local simulation, especially in situ simulation, leads to gains in organisational learning, with unannounced exceeding announced](department-based-simulation-organisational-learning-gains.md) — a broader claim this one bears on

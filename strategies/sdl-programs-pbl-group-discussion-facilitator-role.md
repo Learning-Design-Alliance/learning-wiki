@@ -49,6 +49,7 @@ Based on the survey findings, the article recommends that "SDL programs should b
 ## Related Strategies
 
 - [Add SDL components to nursing curricula and teach SDL skills through training courses, workshops, and problem-based, student-centered methods](sdl-components-and-training-courses-strategy.md)
+- [Incorporate self-directed, encounter-driven topics and online sources into traditional didactic schedules under educator direction](educator-directed-self-learning-topics.md)
 
 ## Examples
 -

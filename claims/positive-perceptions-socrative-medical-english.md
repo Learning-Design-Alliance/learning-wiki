@@ -50,3 +50,4 @@ Questionnaire survey of 46 year 2 medical students (100% response rate) in the 2
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](positive-student-ratings-mobile-ar-application.md) — related
 - [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — a broader claim this one bears on
 - [The WeChat mobile learning mode helped students learn literature in interest stimulation, ability improvement, and content learning](wechat-mobile-learning-literature-benefits.md) — related
+- [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — related

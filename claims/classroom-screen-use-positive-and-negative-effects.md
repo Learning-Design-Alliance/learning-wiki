@@ -48,3 +48,4 @@ The review reports, citing Kerawalla et al. (2007) and Sergi et al. (2017), that
 - [Classroom tablet use is negatively associated with reading comprehension achievement in PISA 2018 data](pisa-2018-tablet-use-negative-reading-association.md) — reports the opposite
 - [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](tablet-writing-frequency-positively-associated-emergent-literacy.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
+- [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related

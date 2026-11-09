@@ -60,3 +60,4 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
 - [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related
 - [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related
+- [The OSG was well received: most respondents would take it again and nearly all would recommend it](osg-high-satisfaction-recommendation.md) — related

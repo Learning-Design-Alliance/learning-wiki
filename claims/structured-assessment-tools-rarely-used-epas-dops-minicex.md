@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2030
 sources:
   - id: schlosserhupf-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 78.6% (33/42) of curricula explicitly implemented competency‐based learning objectives, but only 7.1% (3/42) defined EPAs. [→ Schlosser‐Hupf 2025](#schlosserhupf-2025)

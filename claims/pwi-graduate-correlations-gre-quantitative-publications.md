@@ -49,3 +49,5 @@ Spearman rank correlation analysis of IMSD graduates who received undergraduate 
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [Among HBCU-trained IMSD graduates, lower GRE verbal scores correlated with higher final graduate GPA, and higher publication counts correlated with first-authored publications and post-doctoral fellowships](hbcu-graduate-correlations-gre-verbal-final-gpa.md) — related
 - [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related
+- [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related

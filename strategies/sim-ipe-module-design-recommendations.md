@@ -59,6 +59,7 @@ Participants and faculty proposed concrete design features: dedicated simulation
 - [Adopt tabletop and virtual formats, and interprofessional participation, to address resource burden and the absence of IPE in on-call simulation](tabletop-and-ipe-innovation-for-on-call-simulation.md)
 - [Simulate the actual ED's resource constraints, including realistic delays for lab and radiology results](simulate-local-resource-constraints.md)
 - [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
+- [Promote interprofessional cooperation during undergraduate medical studies through combined courses with trainees and students of other medical care professions](combined-interprofessional-courses-undergraduate-medical.md)
 
 ## Examples
 -

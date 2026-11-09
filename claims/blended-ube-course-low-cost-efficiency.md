@@ -50,3 +50,4 @@ Authors' cost accounting in the Discussion, contrasting the 336 € total budget
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
 - [Cadaver-based colonoscopy simulation is presented as a low-cost alternative to commercial endoscopy simulators, whose high cost and low accessibility hinder training](cadaver-simulator-cost-advantage.md) — related
 - [The training model costs under $2 US excluding the catheter set and is reusable, unlike commercial single-use silicone bladder models](cystostomy-model-cost-effectiveness-reusability.md) — related
+- [Simulation cost reporting in medical education research is severely deficient, with only a small fraction of comparative studies mentioning costs](simulation-cost-reporting-deficient.md) — related

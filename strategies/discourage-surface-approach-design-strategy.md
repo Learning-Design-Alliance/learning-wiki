@@ -50,7 +50,8 @@ Based on the finding that strategic approach scores were positively and surface 
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](../claims/grade-variance-27-percent-model-ot.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design assessment and manage workload so that deep learning is explicitly rewarded in PBL environments](reward-deep-learning-in-assessment-strategy.md)
 
 ## Examples
 -

@@ -95,3 +95,5 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — reports the opposite
 - [Using competency frameworks alongside standards of practice facilitates improvement in pharmacists’ performance, with sustained gains reported at up to 12 months](competency-frameworks-improve-pharmacist-performance.md) — related
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
+- [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
+- [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related

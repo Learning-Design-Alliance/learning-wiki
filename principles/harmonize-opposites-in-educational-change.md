@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (48 for, 12 mixed, 2 against) · 49 studies (20 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 49 report an effect size · 60 claims rest on one study
+> **Evidence** · 63 claims (49 for, 12 mixed, 2 against) · 50 studies (21 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 50 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [US residents trained with PBL combined with LBL scored significantly higher on the proctored practical ultrasound examination than residents trained with LBL alone](../claims/pbl-lbl-higher-practical-score-ultrasound-residents.md) [+W] — attached 2026-11-07 from Lin Zi-mei et al. (2022), which proposed "Combine PBL with LBL rather than using PBL alone when online training must cover basic theory"; tests this page's relationship.
 - [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](../claims/pbl-lbl-higher-resident-satisfaction-ultrasound.md) [+W] — attached 2026-11-07 from Lin Zi-mei et al. (2022), which proposed "Combine PBL with LBL rather than using PBL alone when online training must cover basic theory".
 - [The advantage of cadaver training over anatomical models is region-specific: models matched or beat cadavers for carpal tunnel and knee infiltrations, while cadaver training produced more correct steps for the lateral epicondyle and knee anterior approach](../claims/training-method-advantage-region-specific-infiltrations.md) [+W] — attached 2026-11-08 from Michels Nele R. (2019), which proposed "Combine a theoretical lecture with practical training on cadavers (or anatomical models) to teach infiltration techniques, and add refresher courses for long-term effect".
+- [Integrated training (simulation plus critical thinking strategies) yields higher OSCE performance than simulation-only training in nursing students](../claims/integrated-training-higher-osce-performance.md) [+W] — attached 2026-11-09 from Zarifsanaiey N et al. (2016), which proposed "Integrate simulation with critical thinking strategies rather than using simulation alone for clinical skills training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

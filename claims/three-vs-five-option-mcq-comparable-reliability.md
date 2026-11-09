@@ -70,3 +70,4 @@ Descriptive SEM comparison from the same randomized test comparison; the article
 - [Three-option MCQ tests take markedly less time to administer than five-option tests of the same items](three-option-mcq-administration-time-savings.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related
+- [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related

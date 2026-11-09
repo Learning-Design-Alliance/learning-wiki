@@ -99,3 +99,4 @@ Control-group result in the same RCT: nurses receiving lecture plus routine inst
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
 - [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related
 - [A brief mentored simulation session added to didactic teaching improves coronary angiographic interpretation test scores more than didactic teaching alone](simulation-plus-didactic-improves-angiographic-interpretation.md) — related
+- [No significant difference in theoretical knowledge between mobile app and control groups](no-theoretical-knowledge-difference-mobile-app.md) — related

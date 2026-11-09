@@ -98,6 +98,7 @@ Peer critique converts assessment into a learning activity: reviewing others' wo
 5. Build in protected revision time, then optionally repeat the cycle on the revised draft.
 
 ## Related Strategies
+
 - [Comparing Cases](../elements/case-studies.md) — reviewing multiple peers' solutions works as a contrasting-cases comparison that sharpens criteria
 - [Self-Assessment](../elements/assessment.md) — critique criteria transfer to evaluating one's own drafts
 - [Gallery Walk](../strategies/gallery-walk.md) — a common peer critique format for visual and project work
@@ -106,6 +107,7 @@ Peer critique converts assessment into a learning activity: reviewing others' wo
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight reciprocal structure that builds the discussion habits critique requires
 - [Jigsaw](jigsaw.md) — another reciprocal interdependence structure; critique adds an evaluative layer to cooperation
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Examples
 - **Elaborated Feedback in Writing Courses** — Calibrated Peer Review (https://calibratedpeerreview.org) has students first review instructor-seeded calibration essays; only after their judgments align with expert scores do they review classmates, addressing the novice-accuracy problem.

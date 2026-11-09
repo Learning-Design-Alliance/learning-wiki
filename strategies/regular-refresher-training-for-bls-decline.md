@@ -68,6 +68,8 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Provide frequent continuing professional development refresher courses on ECG interpretation for generalist practitioners](frequent-cpd-refresher-ecg-interpretation.md)
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

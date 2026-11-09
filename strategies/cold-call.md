@@ -95,12 +95,14 @@ Cold calling dramatically broadens participation beyond volunteers, distributing
 5. Follow with [Practice](../elements/practice.md) or peer discussion so the whole class, not just the respondent, retrieves and applies the content.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — gives every student rehearsal time before a possible cold call, lowering threat and raising answer quality
 - [Wait Time](wait-time.md) — the pause that converts a cold call from a pop quiz into retrieval practice
 - [Random Calling](random-calling.md) — the fairness mechanism that makes cold call feel predictable rather than targeted
 - [Discussion Norms](class-discussion-norms.md) — establishing the climate that determines whether cold calling helps or harms
 - [Random Calling with Name Cards](random-calling-name-cards.md) — procedural tool for even distribution
 - [Class Discussion Facilitation](class-discussion-facilitation.md) — cold calling as one move within broader discussion leadership
+- [Instructors should explain the rationale for active learning practices and buffer cold calling with peer discussion](buffer-cold-calling-rationale-strategy.md)
 
 ## Examples
 - **Harvard Business School's case method** — cold calling is a signature norm; every student is expected to be called on in any class, which normalizes the practice and drives preparation (see [Case-Based Learning](../patterns/case-based-learning.md)).

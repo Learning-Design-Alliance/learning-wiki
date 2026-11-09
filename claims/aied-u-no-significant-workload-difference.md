@@ -68,3 +68,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Cognitive workload measures (SURG-TLX, heart rate, pupil size, fixation, blink frequency) are similar between virtual and face-to-face MIS training groups](similar-cognitive-workload-virtual-f2f.md) — related
 - [Perceived workload and desire to become a surgeon did not differ between video-platform and textbook groups](workload-and-career-goal-no-differences.md) — related
 - [Using the PediAppRREST app was not associated with increased team leaders' perceived workload compared with usual practice](pediaprrrest-no-workload-increase.md) — related
+- [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related

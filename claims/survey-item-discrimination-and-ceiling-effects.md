@@ -74,3 +74,4 @@ The same item analysis found all item means exceeded 3, with some above 4. The a
 - [Several of the group tests (Discriminating Colors, Mutilated Pictures, Tying Bowknot) showed little discriminative capacity as group tests and are slated for substitution](lowell-group-tests-low-discriminative-capacity.md) — related
 - [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related
 - [The study was affected by a ceiling effect despite control measures aimed at avoiding it](msf-ceiling-effect-despite-controls.md) — related
+- [The SE-12 shows a ceiling effect in 9 of 12 items, limiting responsiveness](se-12-ceiling-effect-nine-items.md) — a narrower finding that bears on this claim

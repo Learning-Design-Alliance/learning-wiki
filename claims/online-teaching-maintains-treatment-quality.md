@@ -49,3 +49,4 @@ Comparison of the two test groups of the same quasi-experimental cohort: test gr
 - [Adding an endodontic e-learning application to the traditional curriculum significantly improved dental students' performance scores on their first real-patient root canal treatment](e-learning-app-improves-first-rct-performance.md) — related
 - [Students who used the e-learning application made significantly fewer treatment errors in their first real-patient root canal treatment than control students](e-learning-app-reduces-treatment-errors.md) — related
 - [Students view e-learning as a useful supplement to, not a replacement for, practical seminars and lectures in local anaesthesia teaching](elearning-supplement-not-replacement-practical-seminars.md) — related
+- [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](standardized-patients-no-written-exam-difference.md) — related

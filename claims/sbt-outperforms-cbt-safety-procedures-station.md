@@ -51,3 +51,4 @@ Results of station 4 (safety procedures, simulated radioactive spill management)
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
 - [Prepandemic students significantly outperformed postpandemic students at OSCE station 1, associated by the authors with reduced in-person practical training](station1-osce-decline-postpandemic.md) — related
+- [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related

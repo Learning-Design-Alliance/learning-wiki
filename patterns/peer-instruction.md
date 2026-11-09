@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (14 for, 12 mixed) · 31 studies (11 causal, 5 quant-synthesis, 5 review, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 31 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (15 for, 12 mixed) · 32 studies (11 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 32 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 
@@ -99,6 +99,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](../claims/peer-instruction-higher-posttest-conceptual-comprehension.md) [+W] — attached 2026-11-03 from Safaa Mohammad Al-Hebaishi (2017), which proposed "Peer instruction lecture sequence: mini-lecture, individual concept-question response, peer discussion, and optional answer revision"; tests this page's relationship.
 - [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](../claims/pi-improves-short-term-performance-osteopathic-microbiology.md) [+M] — attached 2026-11-04 from Nepal Hari Prasad et al. (2026), which proposed "Structured peer instruction sequence combining individual polling, peer discussion, re-polling, student explanation, and faculty review."; tests this page's relationship.
+- [Number of peer-instructed seminars attended is positively associated with end-of-course exam scores, even when corrected for previous academic achievement](../claims/seminar-attendance-associated-exam-scores.md) [+W] — attached 2026-11-09 from Bouwmeester Rianne A. M. et al. (2016), which proposed "Peer-instructed seminar pattern: individual homework preparation, buzz-group consensus discussion, plenary presentation and wiki summarization"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

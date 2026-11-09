@@ -74,3 +74,4 @@ Principal component factor analysis with varimax rotation on the checklist data 
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
 - [The 5-item DPCC-MS matches a longer validated scale on internal consistency and convergent validity but shows better inter-rater reliability](dpcc-ms-compares-favorably-to-longer-scale.md) — related
+- [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related

@@ -49,6 +49,7 @@ The brief recommends schoolwide policies, practices, and programs that make educ
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
 - [Provide dedicated well-being supports such as Wobble rooms and junior doctor forums for redeployed staff](wobble-rooms-junior-doctor-forums-wellbeing.md)
 - [Strengthen school ethos through value-based policies and practices to support achievement and, indirectly, wellbeing](cultivate-school-ethos-strategy.md)
+- [Mental health first aid training and wellbeing curricula to support educators and students with mental health FTP issues](mental-health-first-aid-for-clinical-educators.md)
 
 ## Examples
 -

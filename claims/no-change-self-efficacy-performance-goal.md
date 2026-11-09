@@ -69,3 +69,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Attention test scores (FAIR2, TMT, ZVT) rose from pre-test to post-test within each of the three groups after training while general self-efficacy (ASKU) did not change](attention-tests-improved-asku-unchanged.md) — related
 - [Control-group overall self-efficacy did not change significantly over the study period while the intervention group's did](control-group-self-efficacy-unchanged.md) — related
 - [The change trend in self-efficacy differs significantly between each intervention group and the no-education control group](intervention-change-trends-differ-from-control-ms.md) — reports the opposite
+- [Neither intervention changed self-efficacy, motivation or anxiety relative to control, though all groups increased perceived competence over time](imi-outcomes-unchanged-perceived-competence-increase.md) — related

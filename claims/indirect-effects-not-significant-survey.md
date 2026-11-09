@@ -49,3 +49,4 @@ Bootstrap indirect-effect tests (5,000 case-resampling draws, percentile interva
 - [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](fostering-three-factors-learning-how-to-learn.md) — related
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](camil-enjoyment-immediate-interest-delayed-pathways.md) — related
 - [Emotional experience, social belonging, and higher-order thinking serially mediate technology acceptance and blended learning satisfaction](serial-mediation-emotion-belonging-higher-order-thinking.md) — related
+- [A significant serial mediation pathway runs from exposure to active learning to engagement via persuasion, identification, and commitment](serial-mediation-buy-in-engagement-pathway.md) — related

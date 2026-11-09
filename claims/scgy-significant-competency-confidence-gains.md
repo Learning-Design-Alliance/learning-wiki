@@ -50,3 +50,4 @@ Self-recall survey of 36 scGY alumni rating confidence on a 10-point Likert scal
 - [In one uncontrolled pre–post study, scores across all evaluated competency domains among medical students rose from pre-test to post-test after a structured simulation-based orthopedic workshop, with statistically significant differences and large effect sizes](orthopedic-simulation-workshop-prepost-gains-all-domains.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Self-reported confidence in telemedicine skills improved significantly after the interventions across nearly all domains](tm-training-significant-confidence-gains.md) — related
+- [SAT participants showed significant increases in teaching confidence and self-perceived teaching skills over the 7-month program](sat-significant-confidence-teaching-skill-gains.md) — related

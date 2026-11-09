@@ -68,3 +68,4 @@ Free-response survey items coded by the authors: 37% identified video lessons as
 - [Students rated the flipped illness script worksheet course positively overall (3.11 of 4), valuing peer learning and reasoning gains but citing time constraints](positive-learning-experience-illness-script-course.md) — related
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related
 - [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](flipped-classroom-two-thirds-preference-physiotherapy.md) — related
+- [Students most often explained learning from seminars by comparing and discussing answers with peers, applying knowledge to pathophysiology cases, and being stimulated to prepare](student-explanations-learning-from-seminars.md) — related

@@ -52,3 +52,6 @@ Paired t-tests on corrected point-biserial discrimination across the 150 matched
 - [The relationship between item difficulty and discrimination describes a dome, and reducing options did not significantly affect this relationship](mcq-difficulty-discrimination-dome-relationship.md) — related
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
 - [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related
+- [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related
+- [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
+- [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related

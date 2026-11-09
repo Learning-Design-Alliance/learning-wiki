@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 295 claims (164 for, 112 mixed, 19 against) · 165 studies (55 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 30 of 165 report an effect size · 289 claims rest on one study
+> **Evidence** · 298 claims (165 for, 114 mixed, 19 against) · 167 studies (57 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 31 of 167 report an effect size · 292 claims rest on one study
 
 ## Description and scope
 
@@ -223,6 +223,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](../claims/vp-perceived-motivating-safe-for-errors.md) [+W] — attached 2026-11-09 from Isaza-Restrepo Andrés et al. (2018), which proposed "Use virtual patients within a constructivist environment with feedback, repetition, and integration — not as a standalone replacement".
 - [PI and physician feedback show no statistically significant difference in overall matching with gold-standard ratings](../claims/pi-feedback-matches-gold-standard-equally.md) [~W] — attached 2026-11-09 from Krautter Markus et al. (2017), which proposed "Deploy trained patient instructors to assess students' physical examination skills where resources are limited".
 - [Qualitative analysis of 1375 participant comments generated seven themes, with the largest theme (46.0% of comments) reflecting positive experiences of working with the virtual patient](../claims/vp-mooc-seven-themes-positive-experience.md) [+W] — attached 2026-11-09 from Berman A.H. et al. (2017), which proposed "Offer more interactive virtual patient cases with varied levels of complexity and diverse backgrounds, as the most common participant suggestion".
+- [Students' self-reported confidence after simulation cases is independent of the role they took during the simulation](../claims/simulation-confidence-independent-of-role.md) [~W] — attached 2026-11-09 from Stroben Fabian et al. (2016), which proposed "Include observers as full participants with rotating roles in simulation, since role does not impair self-efficacy gains and enables multi-source peer feedback".
+- [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](../claims/standardized-patients-small-osce-improvement.md) [+W] — attached 2026-11-09 from Herbstreit Frank et al. (2017), which proposed "Adopt standardized-patient training for emergency-medicine teaching only where its small performance benefit justifies the additional resources"; tests this page's relationship.
+- [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](../claims/standardized-patients-no-written-exam-difference.md) [~W] — attached 2026-11-09 from Herbstreit Frank et al. (2017), which proposed "Adopt standardized-patient training for emergency-medicine teaching only where its small performance benefit justifies the additional resources".
 
 ## Illustrative design instance and observation record
 
@@ -348,6 +351,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](../strategies/enhanced-osce-simulation-preparation.md)
 - [Rehearse SP roles with an identity card, an ACP coach as conversational partner, and joint reflection to improve standardisation](../strategies/sp-rehearsal-identity-card-standardisation.md)
 - [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](../strategies/og-residency-selection-assessment-strategies.md)
+- [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](../strategies/standardized-360-feedback-sequence-strategy.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

@@ -51,3 +51,6 @@ Mann-Whitney tests comparing passed vs failed candidacy exam results in the GSBS
 - [Graduate GPA is not correlated with PhD time to degree](grad-gpa-not-correlated-ttd.md) — related
 - [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
+- [GRE subtest scores do not predict graduating with a Ph.D. among biomedical graduate students after controlling for other admissions criteria](gre-no-predict-phd-completion.md) — related
+- [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — reports the opposite

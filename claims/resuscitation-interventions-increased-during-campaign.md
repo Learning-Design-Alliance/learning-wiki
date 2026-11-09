@@ -52,3 +52,4 @@ Descriptive comparison of resuscitation practices across the four study periods 
 - [The proclivity to perform suction first delays ventilation during neonatal resuscitation, and suction is rarely clinically indicated](suction-first-delays-ventilation-air-air-air.md) — related
 - [Mechanically ventilated patients and DRG coefficients decreased sequentially after the intervention](ventilation-and-drg-decreased-post-intervention.md) — related
 - [Second edition scientific revisions: drying and stimulating babies born through meconium-stained fluid without suctioning, and initiating ventilation before cutting the cord](hbb2-scientific-revisions-suctioning-cord-clamping.md) — related
+- [Effective bag-and-mask ventilation skill among birth attendants rose from very low baseline to near-universal passing after initial HBB training, in a single-group pre-post study](hbb-initial-training-raises-bmv-skills.md) — related

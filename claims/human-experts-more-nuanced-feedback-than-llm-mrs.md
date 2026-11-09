@@ -54,3 +54,4 @@ Mixed-methods comparison of AI-generated and human expert mentoring in mixed rea
 - [100% of ChatGPT's coding comments are positive while experts mix positive and negative comments](chatgpt-overly-positive-comments.md) — a narrower finding that bears on this claim
 - [LLM-generated feedback is more comprehensive in volume than human feedback but is sometimes too generic, abstract, or misaligned with the assigned grade](llm-feedback-volume-vs-quality.md) — related
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
+- [Group-size format shapes PAL dynamics: mentoring offers an intimate setting while didactic teaching limits feedback and interaction](pal-group-size-format-dynamics.md) — related

@@ -71,3 +71,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](segmented-interactive-video-competence-level-descriptive-advantage.md) — a narrower finding that bears on this claim
 - [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — related
 - [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](no-attention-reset-after-al.md) — related
+- [Mind wandering increases and retention decreases across a 1-hour video lecture](mind-wandering-increases-across-long-lecture.md) — related

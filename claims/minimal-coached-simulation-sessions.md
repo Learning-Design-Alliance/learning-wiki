@@ -48,3 +48,4 @@ Descriptive survey results by postgraduate year: "Coaching or instruction from f
 ## Related Claims
 - [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
 - [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](training-level-by-time-interaction-modulates-simulation-impact.md) — related
+- [Residents attributed their lack of laparoscopic skill mainly to lack of training outside the operating room](residents-attribute-skill-gap-to-lack-of-training-outside-or.md) — related

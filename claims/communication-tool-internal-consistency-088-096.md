@@ -48,3 +48,4 @@ Internal-consistency analysis of the 17-item communication tool across the nine 
 ## Related Claims
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
+- [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related

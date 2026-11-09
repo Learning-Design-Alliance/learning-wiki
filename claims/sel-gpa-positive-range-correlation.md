@@ -69,3 +69,4 @@ Subgroup correlation analysis restricted to positive theta values. The article r
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related
 - [First-year DPT student SCT scores show no significant correlation with academic records including GPA, OSCE, benchmark exam, and course grades](sct-scores-uncorrelated-academic-records-dpt.md) — related
+- [SCT results showed no correlation with multiple-choice test results (R2 = 0.009), indicating a construct independent of factual knowledge](sct-uncorrelated-with-mcq-performance.md) — related

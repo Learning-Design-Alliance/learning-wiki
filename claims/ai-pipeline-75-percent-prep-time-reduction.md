@@ -57,3 +57,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](instructor-reported-time-savings-up-to-80-percent.md) — related
 - [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related
 - [The modified program was rated higher than the previous version on usefulness of supporting materials and preparation effort](revised-program-higher-materials-and-preparation-ratings.md) — related
+- [Peer-taught simulation reduced required physician time from nine hours to three hours per month](peer-taught-simulation-reduced-physician-time.md) — related

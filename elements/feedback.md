@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 280 claims (134 for, 127 mixed, 19 against) · 209 studies (91 causal, 36 review, 28 quant-synthesis, 19 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 50 of 209 report an effect size · 256 claims rest on one study
+> **Evidence** · 281 claims (135 for, 127 mixed, 19 against) · 210 studies (92 causal, 36 review, 28 quant-synthesis, 19 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 51 of 210 report an effect size · 257 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -328,6 +328,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](../claims/high-student-satisfaction-smartphone-video-feedback.md) [+W] — attached 2026-11-08 from Xiaoxian Yang et al. (2019), which proposed "Smartphone instant messaging video feedback procedure for fundamental nursing skills practice".
 - [Smartwatch feedback increases the proportion of infant chest compressions within the correct depth range in a randomized controlled simulation study](../claims/smartwatch-feedback-improves-correct-compression-depth-proportion.md) [+W] — attached 2026-11-08 from Lee Juncheol et al. (2018), which proposed "Smartwatch-based chest compression feedback application for infant CPR"; tests this page's relationship.
 - [Smartwatch feedback produces significantly deeper infant chest compressions than no feedback](../claims/smartwatch-feedback-deeper-compression-depth.md) [+W] — attached 2026-11-08 from Lee Juncheol et al. (2018), which proposed "Smartwatch-based chest compression feedback application for infant CPR"; tests this page's relationship.
+- [Student self-ratings of communication competence significantly improved in nine of ten VAS items after the 360° feedback CST, with a global pre-post effect size of ES = 0.74](../claims/self-rated-competence-gains-360-feedback-cst.md) [+W] — attached 2026-11-09 from Engerer Cosima et al. (2016), which proposed "360° behavior-orientated feedback communication skills training concept with feed-forward documentation".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -57,6 +57,7 @@ The article recommends a complementary teaching model in which theoretical knowl
 - [Integrate ultrasound and radiological training early into medical degree programs, combining practical and theoretical cross-sectional imaging teaching](early-ultrasound-radiology-training-integration.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
+- [Incorporate self-directed, encounter-driven topics and online sources into traditional didactic schedules under educator direction](educator-directed-self-learning-topics.md)
 
 ## Examples
 -

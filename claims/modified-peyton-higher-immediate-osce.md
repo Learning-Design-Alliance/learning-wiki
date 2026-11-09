@@ -62,3 +62,4 @@ Randomized controlled trial of 120 residents randomized to modified (n = 60) or 
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related
+- [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](peyton-four-step-superior-ospe-spinal-manipulation.md) — related

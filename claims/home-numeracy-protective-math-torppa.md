@@ -55,3 +55,4 @@ This paper reports, citing Torppa (2025) from the same special issue, a study wh
 - [Vocabulary was a promotive but not protective factor for word reading: its interaction with phonological awareness was skill-enhancing, benefiting the lower-risk group](vocabulary-promotive-not-protective-skill-enhancing.md) — related
 - [Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children](formal-hme-protective-effect.md) — related
 - [None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)](hme-no-promotive-effect.md) — related
+- [Household income directly predicts parent report of child skills but is unrelated to home math environment factors](household-income-direct-predictor-not-hme-related.md) — related

@@ -82,3 +82,4 @@ ANOVAs on the IMI perceived-choice and pressure sub-scales among active particip
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
 - [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
 - [Students' perceived effectiveness of e-learning was not associated with their e-learning readiness scores overall or in any domain](e-learning-readiness-not-associated-perceived-effectiveness.md) — related
+- [Neither intervention changed self-efficacy, motivation or anxiety relative to control, though all groups increased perceived competence over time](imi-outcomes-unchanged-perceived-competence-increase.md) — related

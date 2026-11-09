@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (151 show a difference, 64 mixed, 44 no difference) · 172 studies (95 causal, 32 review, 17 quant-synthesis, 11 theoretical, 10 associational, 4 design, 3 qualitative), `q1`–`q4` · 55 of 172 report an effect size · 251 claims rest on one study
+> **Evidence** · 262 claims (153 show a difference, 65 mixed, 44 no difference) · 173 studies (96 causal, 32 review, 17 quant-synthesis, 11 theoretical, 10 associational, 4 design, 3 qualitative), `q1`–`q4` · 56 of 173 report an effect size · 254 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -294,6 +294,9 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Medical students and residents show no significant difference in long-term knowledge retention (Test 2, after at least two months) between Virtual Patient training and a video-recorded lecture](../claims/vp-vs-lecture-similar-long-term-retention.md) [-M] — measured as an outcome of the instruction studied
 - [Passive exposure such as rereading is ineffective for creating memories, while retrieval practice and deliberate practice of skills support learning; frequent active homework can increase biology performance](../claims/active-homework-retrieval-practice-effectiveness.md) [+M] — measured as an outcome of the instruction studied
 - [Problem-based learning is reported to have positive effects on class attendance, student retention, knowledge retention, and conceptual understanding](../claims/problem-based-learning-positive-effects.md) [+M] — measured as an outcome of the instruction studied
+- [Declarative memory predicts learning of complex grammatical rules during initial grammar learning](../claims/declarative-memory-predicts-complex-grammar-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Memory-subsystem correlations with grammar learning appear only when training precedes test, implicating memory during acquisition rather than test](../claims/memory-effects-require-training-phase.md) [~W] — learners who differ on it differ in outcomes
+- [Procedural memory predicts learning of simple grammatical rules in exposure-based training](../claims/procedural-memory-predicts-simple-grammar-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -46,3 +46,4 @@ Student feedback analysis (simple ANOVAs) on self-reported hours spent on the e-
 
 ## Related Claims
 - [Time spent on e-learning modules and number of authentic videos watched did not correlate with MSE test performance](engagement-no-correlation-mse-scores.md) — related
+- [The game group spent roughly three times more self-reported learning time than the e-module group, with no association between learning time and outcomes](game-group-longer-learning-time-no-outcome-association.md) — related

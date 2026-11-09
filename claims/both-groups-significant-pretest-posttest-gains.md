@@ -71,3 +71,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Online instruction through the CMC-ELT blended model significantly improved MA TEFL students' teaching skills in Pakistan](online-instruction-improves-tefl-teaching-skills-pakistan.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Both instructional groups improved markedly on every outcome measure from pretest to posttest](both-groups-improved-laparoscopic-suturing.md) — possibly the same claim (merge candidate)
+- [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related

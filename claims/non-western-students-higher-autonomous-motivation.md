@@ -70,3 +70,4 @@ Same cross-sectional survey, clinical education phase. The Mann-Whitney follow-u
 - [The motivation–strategy–performance model differs by ethnic group, with achieving strategy mediating autonomous motivation and GPA only for Dutch students](achieving-strategy-mediation-dutch-only.md) — related
 - [Controlled motivation is positively associated with surface strategy only among non-Western minority students](controlled-motivation-surface-strategy-non-western.md) — related
 - [Western minority medical students report higher controlled motivation than Dutch majority students in pre-clinical education, but not significantly in clinical education](western-students-higher-controlled-motivation-preclinical.md) — related
+- [Western minority students showed no underperformance on the preclinical OSCEs despite previously reported lower clerkship grades](western-minority-no-osce-underperformance.md) — related

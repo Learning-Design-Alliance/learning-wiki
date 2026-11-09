@@ -59,3 +59,4 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
 - [Students reported improved confidence in instrument handling, cable knot tying and suture tying after the virtual session](virtual-session-confidence-gains-surgical-skills.md) — related
 - [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — related
+- [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — related

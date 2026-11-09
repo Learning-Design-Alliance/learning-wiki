@@ -59,8 +59,10 @@ Peer review works because reviewers must evaluate work against criteria, which a
 5. **Close the loop.** Have students log what changed across rounds; comparing drafts makes the value of each review visible ([Self-Explanation](../elements/self-explanation.md)).
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — peer review is formative assessment with students as the feedback source
 - [Collaborative Learning](../patterns/collaborative-learning.md) — review rounds are structured peer collaboration with an evaluative task
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the rubric-based evaluation act at the core of each round

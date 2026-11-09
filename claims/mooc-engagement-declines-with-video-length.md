@@ -67,3 +67,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — reports the opposite
 - [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — a narrower finding that bears on this claim
 - [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
+- [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — related

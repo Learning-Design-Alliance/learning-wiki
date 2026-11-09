@@ -48,3 +48,4 @@ Temporal stability (reliability) test with five randomly selected experts, sessi
 ## Related Claims
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [Number of self-guided practice sessions correlates significantly with total laparoscopic simulator performance score](practice-sessions-correlate-performance-score.md) — related

@@ -50,6 +50,7 @@ The article recommends assessing faculty supervisory performance through direct 
 
 - [Use direct observation, OSCEs, or chart reviews instead of self-report to assess students' clinical fluid-management competence](direct-observation-osce-chart-review-assessment.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Add a case observation with feedback component to supportive supervision rather than relying entirely on register review](supervision-case-observation-feedback-strategy.md)
 
 ## Examples
 -

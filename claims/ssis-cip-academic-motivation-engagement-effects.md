@@ -87,3 +87,4 @@ Multilevel models included product terms between SSIS-CIP and student-level pret
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](ssis-cip-teacher-rated-social-skills-effects.md) — a broader claim this one bears on
 - [SSIS-CIP shows no effects on directly observed positive social behavior or observed engaged time](ssis-cip-no-observed-behavior-effects.md) — related
 - [Treatment reduced the percentage of children in the clinical or borderline range on the SSIS-RS Problem Behavior subscale (SRD = −.186)](best-in-class-reduced-ssis-problem-behavior.md) — related
+- [PATHS showed no statistically significant primary effects on child-rated SSIS social skills or teacher-rated pro-social behavior](paths-no-primary-effects-child-rated-sec.md) — related

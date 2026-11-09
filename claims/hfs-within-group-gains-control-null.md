@@ -56,3 +56,4 @@ Table 2 paired-sample t-test results: intervention knowledge rose from 9.4 ± 1.
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — a broader claim this one bears on
 - [Cardiology rotation training is not associated with greater cardiac auscultation accuracy among junior doctors](cardiology-rotation-no-auscultation-advantage.md) — related
 - [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related
+- [Multimedia instruction improves basic practical skills learning when used in the right setting, with simpler interactivity outperforming complex interaction](multimedia-instruction-basic-practical-skills.md) — related

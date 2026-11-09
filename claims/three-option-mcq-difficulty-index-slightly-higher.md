@@ -53,3 +53,9 @@ Item-analysis comparison of the same 50 items in both formats; the DF difference
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
 - [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related
+- [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related
+- [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related
+- [Nonfunctioning distracters are more numerous in four- and five-option MCQs than in three-option MCQs](nonfunctioning-distracters-more-in-four-five-option-mcqs.md) — related
+- [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
+- [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related
+- [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — reports the opposite

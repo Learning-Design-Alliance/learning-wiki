@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 450 claims (219 for, 203 mixed, 28 against) · 336 studies (108 associational, 79 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 336 report an effect size · 443 claims rest on one study
+> **Evidence** · 453 claims (222 for, 203 mixed, 28 against) · 339 studies (108 associational, 82 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 339 report an effect size · 446 claims rest on one study
 
 ## Conditional relationship
 
@@ -294,6 +294,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Number-right scoring yields higher person reliability coefficients than formula scoring in Rasch analysis of progress-test MCQs](../claims/number-right-higher-person-reliability-rasch.md) [+W] — attached 2026-11-09 from Cecilio-Fernandes D et al. (2017), which proposed "Prefer number-right scoring for MCQ progress tests on psychometric grounds, while considering test-taking strategies"; tests this page's relationship.
 - [The 5-item DPCC-MS matches a longer validated scale on internal consistency and convergent validity but shows better inter-rater reliability](../claims/dpcc-ms-compares-favorably-to-longer-scale.md) [+W] — attached 2026-11-09 from Renaud Jean-Sébastien; Côté Luc (2017), which proposed "Short (5-item) instruments can reliably and validly assess a single competency in end-of-rotation summative assessment"; tests this page's relationship.
 - [The DPCC-MS shows acceptable internal consistency and item discrimination for both junior and senior medical students](../claims/dpcc-ms-acceptable-internal-consistency.md) [+W] — attached 2026-11-09 from Renaud Jean-Sébastien; Côté Luc (2017), which proposed "Short (5-item) instruments can reliably and validly assess a single competency in end-of-rotation summative assessment"; tests this page's relationship.
+- [SCT scores for acute-abdomen clinical reasoning reached acceptable reliability (Cronbach's α > 0.75) with every scoring method except single best answer](../claims/sct-acute-abdomen-reliability-acceptable-except-sba.md) [+W] — attached 2026-11-09 from Goos M et al. (2016), which proposed "Favor case-based item analysis over question-based analysis in SCTs because of its better validity".
+- [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](../claims/osce-shoulder-knee-interrater-agreement.md) [+W] — attached 2026-11-09 from Battistone Michael J. et al. (2017), which proposed "Develop OSCE content through multidisciplinary expert consensus (Delphi) to strengthen validity evidence".
+- [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](../claims/se-12-reliable-partially-valid-instrument.md) [+W] — attached 2026-11-09 from Axboe Mette K. et al. (2016), which proposed "Tailor training-evaluation instruments to the curriculum being taught".
 
 ## Objective and learner-valued goal
 

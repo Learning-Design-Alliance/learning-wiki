@@ -68,3 +68,4 @@ The analysis found learners felt better understood by physicians who "went throu
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
 - [Faculty who currently have a mentor have 3.50-fold increased odds of serving as a mentor to others](current-mentor-triples-odds-of-mentoring-others.md) — related
+- [Not all clinical teachers are positive role models: one cited study identified 40% of attending physicians as role models, and another found half of clerks felt their teachers were not good role models](not-all-clinical-teachers-are-role-models.md) — related

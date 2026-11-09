@@ -47,3 +47,4 @@ Same GPT-4o-scored comparison of 900 first- and last-term reports. "while C4 (P 
 ## Related Claims
 - [Improvement in resident reporting skills varies widely across individuals, with larger first-term revision rates predicting greater gains](individual-variation-resident-improvement.md) — related
 - [First-year radiology residents significantly improve in adding missing positive findings, deleting findings, and adding negative findings between first and last terms](resident-report-improvement-c1-c3.md) — related
+- [Confirmation bias shows a negative association with the ability to make a correct diagnosis](confirmation-bias-negative-association-correct-diagnosis.md) — related

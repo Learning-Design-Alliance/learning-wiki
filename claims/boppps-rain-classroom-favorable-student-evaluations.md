@@ -63,3 +63,5 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related
 - [Students in the integrative curriculum rated the Emergency Care course and teacher performance more highly than students in traditional teaching across all five evaluation dimensions](integrative-curriculum-higher-course-teacher-evaluations.md) — related
 - [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related
+- [M-learning group rates learning process items more positively than control group](m-learning-group-higher-process-ratings.md) — related
+- [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related

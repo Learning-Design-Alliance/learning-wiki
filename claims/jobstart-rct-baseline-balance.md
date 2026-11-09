@@ -53,3 +53,4 @@ Appendix A1 of the Cave et al. (1993) randomized controlled trial reports baseli
 - [Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment](promise-few-differences-job-characteristics-barriers.md) — related
 - [Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up](job-corps-more-education-training-hours.md) — related
 - [Randomization checks showed no imbalance between treatment and control conditions on student characteristics](randomization-balance-no-imbalance-set-experiment.md) — related
+- [Baseline demographic balance held except computer gaming history, where the control group had a significantly greater proportion with a gaming history](baseline-balance-gaming-history-imbalance.md) — related

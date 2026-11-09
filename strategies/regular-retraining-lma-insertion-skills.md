@@ -50,6 +50,7 @@ The article's recommendation for maintaining intubating LMA skills in doctors wh
 - [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

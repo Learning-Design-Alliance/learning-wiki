@@ -52,3 +52,4 @@ Self-report survey of 53 of 86 treatment-group students, collected before final 
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
 - [Students perceive that CBL helped retention and retrieval of information (item mean 4.3/5)](cbl-perceived-retention-retrieval-gain.md) — related
+- [Residents endorse podcasts as the most beneficial educational material (70.3%), above textbooks (54.3%), journals (36.5%), and Google (33.8%)](podcasts-most-beneficial-endorsed.md) — related

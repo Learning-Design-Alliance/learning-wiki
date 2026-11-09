@@ -50,3 +50,4 @@ Adjusted SEM analyses controlling for demographic variables in the 505-participa
 - [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related
 - [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
+- [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related

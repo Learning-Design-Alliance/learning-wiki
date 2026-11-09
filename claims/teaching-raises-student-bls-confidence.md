@@ -50,3 +50,4 @@ Self-report questionnaire applied at different times (case after teaching, contr
 - [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related
 - [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](online-bls-self-efficacy-confidence-rate.md) — related
 - [Two out of three participants felt confident applying the behavioral methods taught, compared to fewer than one in five who did not feel confident](vp-mooc-confidence-applying-interventions.md) — related
+- [SAT participants showed significant increases in teaching confidence and self-perceived teaching skills over the 7-month program](sat-significant-confidence-teaching-skill-gains.md) — related

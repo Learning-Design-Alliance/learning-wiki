@@ -80,3 +80,4 @@ NASA TLX final score results (Figure 9): the average workload score achieved by 
 - [Across all trainees, NASA-TLX scores were lower with AR-US than S-US in most dimensions except performance, without statistical significance](ar-us-nasa-tlx-lower-most-dimensions-nonsignificant.md) — related
 - [Frustration is the NASA-TLX component that differs by format, associated with the online examination](frustration-drives-online-examination-workload-difference.md) — related
 - [Variable practice raises perceived mental demand, frustration, and task complexity at the first session, but lower task complexity by the final session](variable-practice-sim-tlx-cognitive-load-pattern.md) — related
+- [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related

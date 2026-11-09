@@ -48,6 +48,7 @@ This strategy delivers self-determination instruction as two concrete skills: pr
 - [Promoting Self-Directed Learning Strategies](promoting_self-directed_learning_strategies.md)
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Prioritizing Agency for Students With Disabilities](prioritizing_agency_for_students_with_disabilities.md)
+- [Improve elearning engagement by signposting content, linking it explicitly to assessment, and building students' self-directed learning skills](signposting-assessment-links-elearning-engagement-strategy.md)
 
 ## Examples
 -

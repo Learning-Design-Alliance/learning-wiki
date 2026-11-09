@@ -50,3 +50,4 @@ Survey of 897 students across six large introductory biology classes at one univ
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
 - [Stronger positive emotions are associated with more overconfident predictions, and stronger negative emotions (anxiety, shame, hopelessness) with more underconfident predictions](emotions-prediction-accuracy-over-underconfidence.md) — related
+- [A subset (16%) of introductory biology students report moderately high general classroom anxiety, and anxiety levels differ among the three classes](intro-biology-16-percent-high-class-anxiety.md) — related

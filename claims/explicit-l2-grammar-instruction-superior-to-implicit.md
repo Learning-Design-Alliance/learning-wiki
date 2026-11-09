@@ -195,3 +195,4 @@ A quasi-experiment with Iranian intermediate EFL learners compared two ways of t
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — related
 - [Explicit and task-based genre instruction lead EFL students to outperform implicit and self-study instruction on lexical and discourse features of classified ads.](explicit-task-based-outperform-implicit-self-study-classified-ads.md) — a narrower finding that bears on this claim
+- [Passive, exposure-based training before test boosts learning of both simple and complex grammatical rules relative to test-only performance](exposure-training-boosts-grammar-learning.md) — related

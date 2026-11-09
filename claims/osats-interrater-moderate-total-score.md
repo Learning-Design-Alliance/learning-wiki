@@ -57,3 +57,4 @@ Interrater reliability analysis in the RCT: two blinded attending surgeons indep
 - [GOALS and ALL scores show good interrater and intrarater reliability for assessing laparoscopic skills](goals-all-scores-interrater-intrarater-reliability.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [The OSATS-based chest tube insertion scale shows moderate-to-good intermethod reliability between 'direct' on-site and 'indirect' video ratings](cti-osats-scale-intermethod-reliability.md) — related
+- [Blinded evaluators showed significant inter-rater correlation on the Task Specific Evaluation but not on the Global Evaluation of Mastoidectomy](inter-rater-reliability-task-specific-significant-global-not.md) — a narrower finding that bears on this claim

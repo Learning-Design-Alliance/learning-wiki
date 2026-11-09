@@ -17,7 +17,7 @@ sources:
 # Sawyer et al.'s six-step approach: Learn, See, Practice, Prove, Do, Maintain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes a six-step approach developed by Sawyer et al. (2016) combining preparation, skill acquisition, and maintenance: "Learn, See, Practice, Prove, Do, Maintain." Learn is knowledge acquisition; See is observation of the procedure; Practice is deliberate practice using simulation; Prove is competency assessment; Do is performing the procedure on a patient with direct supervision until entrusted to perform independently; Maintain is continued clinical practice supplemented by simulation-based training. It uses adult learning theory to reinforce development, assessment, and maintenance of procedural skills.

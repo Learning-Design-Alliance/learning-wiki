@@ -57,3 +57,4 @@ Content validity index assessment by six experts in healthcare decision-making, 
 - [Expert panel evaluation found the LBCS met requirements for relevance and clarity (S-CVI 0.90)](lbcs-content-validity-s-cvi-090.md) — related
 - [Expert-constructed competence frameworks for nurse airway training achieved a Content Validation Index of at least 0.85 on all items after Delphi revision](competence-frameworks-cvi-085-all-items.md) — related
 - [AS-NTS dimensions achieve excellent content validity indexes (0.9, 0.95, 0.8)](as-nts-content-validity-indexes-excellent.md) — related
+- [Eleven theses on the future of healthcare were generated from expert interviews and assessed by 738 registered physician experts](eleven-future-healthcare-theses-assessed-738-experts.md) — related

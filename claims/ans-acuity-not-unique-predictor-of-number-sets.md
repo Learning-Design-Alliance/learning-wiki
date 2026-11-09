@@ -81,3 +81,4 @@ In the longitudinal analysis of 112 children, ANS acuity (Panamath percent corre
 - [Vocabulary is not a significant predictor of performance on the numerical tasks when Hearing Age is included](vocabulary-not-predictor-numerical-tasks.md) — related
 - [Prior knowledge measures were strong predictors of both algebra outcomes](prior-knowledge-strong-predictor-algebra-outcomes.md) — related
 - [The hypothesized mediation of the IPS-arithmetic association by symbolic number processing was not tested because no IPS-mathematics association was found](ips-mediation-by-symbolic-number-not-conducted.md) — related
+- [Symbolic number magnitude training, but not non-symbolic or control training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-gains-preschool-exact-addition.md) — related

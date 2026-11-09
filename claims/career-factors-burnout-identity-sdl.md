@@ -56,3 +56,4 @@ Focus group theme on occupation-related factors. Conversely, "a more robust prof
 - [Fear of appearing incompetent acts as both a barrier and a facilitator to physicians' engagement in feedback-related SDL](fear-of-incompetence-dual-role-sdl-feedback.md) — related
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](sdl-cpd-four-key-tdf-domains.md) — a broader claim this one bears on
 - [Trainees identify personal factors — learning habits, personality and interests — as influences on SDL](personal-factors-shape-sdl-trainees.md) — related
+- [Poor work–life balance and lack of autonomy over job location can separate BME UKG and IMG trainees from family support, with reported stress, anxiety or burnout hindering learning and performance](work-life-balance-wellbeing-differential-attainment.md) — related

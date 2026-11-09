@@ -60,3 +60,4 @@ Post-test satisfaction survey of the experimental group (n = 58), an 11-item fiv
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
+- [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related

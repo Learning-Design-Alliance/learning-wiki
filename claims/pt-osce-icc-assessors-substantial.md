@@ -90,3 +90,6 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
+- [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
+- [Interrater reliability of the mOSAUS total pre-training score was good (ICC = 0.74), varying across assessment elements](mosaus-interrater-reliability-icc-074.md) — a narrower finding that bears on this claim
+- [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related

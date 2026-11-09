@@ -62,6 +62,7 @@ Because the study observed that resuscitation skills and patient safety attitude
 - [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

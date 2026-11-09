@@ -35,3 +35,4 @@ The OSAUS scale is a structured performance-assessment instrument for evaluating
 ## Key Sources
 - Gomes Sara Hora, Trindade Marta, Petrisor Cristina, Costa Dinis, Correia-Pinto Jorge, Costa Patrício S., Pêgo José M. (2023). Objective structured assessment ultrasound skill scale for hyomental distance competence – psychometric study. BMC Medical Education. https://doi.org/10.1186/s12909-023-04146-y
 - Lin Zi-mei, Hong Yu-rong, Liu Chun-mei, Luo Zhi-yan, Zhang Ying, Xie Xiao-jie, Huang Pin-tong. (2022). PBL teaching in ultrasonography resident standardization training in the COVID-19 pandemic. BMC Medical Education. https://doi.org/10.1186/s12909-022-03555-9
+- Tolsgaard MG, Madsen ME, Ringsted C, Oxlund BS, Oldenburg A, Sorensen JL, Ottesen B, Tabor A. (2015). The effect of dyad versus individual simulation‐based ultrasound training on skills transfer. Medical Education 49: 286–295. https://doi.org/10.1111/medu.12624

@@ -57,6 +57,7 @@ In their future implications the authors recommend that remote clinical teaching
 - [When clinical training is restricted, improve teaching methods so students can learn clinical judgment on-site, and develop methods for skills negatively affected by all-on-campus training](improve-on-site-dependent-skill-teaching-strategy.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 - [Designing future online medical curricula around flexibility, mindful communication, longitudinal patient contacts, and transparent structure](design-online-medical-curricula-flexibility-communication-structure.md)
+- [Intensify communication-skills training, including telephone- or internet-based physician-patient interaction, and integrate telemedicine via dedicated modules](intensify-communication-and-telemedicine-training.md)
 
 ## Examples
 -

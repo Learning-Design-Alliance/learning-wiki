@@ -50,3 +50,4 @@ Summary-of-findings statistic from the cross-sectional survey of 241 Saudi CT ra
 - [Department IVCM policy was strongly associated with consistent knowledge, and training-course attendance showed a marginally significant advantage](department-policy-and-training-course-knowledge-association.md) — related
 - [A formative needs assessment found substantial local knowledge gaps in tobacco use disorder management, including only 32% correctly identifying first-line pharmacotherapy](formative-survey-tobacco-knowledge-gaps.md) — related
 - [Despite high confidence, many MSK physiotherapists misjudge DCM prevalence and diagnostic delay](dcm-prevalence-and-delay-knowledge-gaps.md) — related
+- [GPs showed gaps in PTSD referral and treatment knowledge, with 31 % correctly identifying pain prominence as a referral indicator and 22 % correctly rejecting SSRIs as first-line](gp-knowledge-gaps-ptsd-pain-referral-ssri.md) — related

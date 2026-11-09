@@ -67,3 +67,5 @@ Multiple linear regression on the 27-student pilot sample comparing standardised
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — reports the opposite
 - [Medical students report variable and generally low self-assessed confidence across core clinical skills, with arterial blood gases and male urinary catheterisation rated lowest, and confidence did not differ significantly by year group](variable-low-student-confidence-core-clinical-skills.md) — related
+- [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — a narrower finding that bears on this claim
+- [Only about a third of students correctly estimated their OSCE performance, and self-assessment correlated only weakly with actual score (r=0.26)](self-assessment-overestimation-osce-r-026.md) — related

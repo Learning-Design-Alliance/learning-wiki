@@ -53,3 +53,4 @@ Self-report questionnaire (Module 2, six items, 5-point Likert scale) on perceiv
 - [Participants approved the simulation-based laparoscopic training program at very high rates, with module ratings of excellent or very good for all respondents](high-satisfaction-simulation-laparoscopic-program.md) — related
 - [Self-rated competency scores rose from pre-test to post-test for all technical skills after the online surgical skills course, in one uncontrolled pre-post study](self-rated-competency-improves-online-course.md) — related
 - [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](simulated-practice-improves-technical-skills.md) — a broader claim this one bears on
+- [Residents' self-rated laparoscopic skill improved significantly after the training program (Likert 1.3 to 2.7, p=0.000)](resident-self-rated-laparoscopic-skill-improved-after-training.md) — related

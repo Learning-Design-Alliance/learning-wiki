@@ -72,3 +72,4 @@ Same regression set predicting negative feelings in the national survey. The art
 - [Age and ethnicity significantly predicted PBL group interactions while gender did not](age-ethnicity-predict-interaction-gender-does-not.md) — related
 - [School type predicted autonomy and self-regulation but not motivation in regression models, with modest explained variance](school-type-predicts-autonomy-selfregulation-not-motivation.md) — related
 - [Age correlates negatively with ethnic identity and positively with multicultural experiences in PA students](age-correlations-ethnic-identity-multicultural-experiences.md) — related
+- [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — possibly the same claim (merge candidate)

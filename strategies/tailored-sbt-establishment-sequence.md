@@ -49,6 +49,7 @@ The article proposes a priority hierarchy for establishing SBT in an ED: first t
 ## Related Strategies
 
 - [Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT](regional-and-in-situ-simulation-cost-sharing-strategy.md)
+- [Plan unannounced in situ simulation with management support, cancellation rules, replacement staff, and simulation-only labelling of equipment](unannounced-iss-planning-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Observational ANCOVA from the same RCT: the interpersonal-skills total reached s
 - [Self-reflection prompts improve two specific procedural interviewing skills — specifying the problem behaviour and questioning its consequences — but not procedural skills overall](self-reflection-improves-specific-procedural-skills.md) — related
 - [After the OSCE, interns' self-reported confidence significantly increased for obtaining informed consent, providing sign-out, and responding to nursing pages, but not for calling a consult](osce-increased-confidence-three-of-four-skills.md) — related
 - [Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups](pps-training-improves-hcp-communication.md) — related
+- [Participants reported significant gains in communication skills, comfort providing verbal feedback, and reflection on their own learning](sat-communication-feedback-reflection-gains.md) — related

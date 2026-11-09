@@ -50,3 +50,4 @@ SAOM network structural effects were estimated for both network types; reciproci
 - [The magnitude of social influence on engagement does not differ between close friend and admire networks](equal-influence-friends-admired-peers.md) — related
 - [Friendship networks among Chinese middle-school students show homophily, reciprocity and rising achievement similarity across two years](friendship-network-descriptives-four-waves.md) — related
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related
+- [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related

@@ -78,3 +78,5 @@ Same mixed-factors ANOVA on final test proportion correct. The article reports "
 - [Nap benefits for no-feedback retrieval-practice items appear at both 90-minute immediate and 24-hour delayed tests](nap-benefit-nrp-immediate-and-delayed.md) — related
 - [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related
 - [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](cue-integration-improves-word-list-recall-exp3.md) — related
+- [Without feedback, restudy conditions outperformed repeated testing when all trials were analyzed, with no testing advantage at a 24-hour delay](no-testing-advantage-24h-all-trials.md) — reports the opposite
+- [Conditionalized on initial retrieval success, testing beats restudy at 24 hours, but a second test adds no reliable benefit](testing-effect-conditional-on-retrieval-success.md) — related

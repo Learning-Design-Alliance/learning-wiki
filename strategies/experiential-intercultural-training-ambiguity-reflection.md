@@ -52,6 +52,7 @@ Based on Experiential Learning Theory and the study's findings, the authors reco
 
 - [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](mixer-embed-debriefing-whole-learning-experience.md)
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
+- [Combine experiential learning with intercultural communication training in a module with reflective practice to build doctors' awareness of their intercultural communication behaviour](combine-experiential-learning-icc-training-reflective-practice.md)
 
 ## Examples
 -

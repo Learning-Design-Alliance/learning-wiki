@@ -56,3 +56,4 @@ Controlled experiments breaking a continuous narrated animation into learner-pac
 - [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](four-experiments-dynamic-visualization-main-effect.md) — related
 - Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning. — related
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a broader claim this one bears on
+- [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — a broader claim this one bears on

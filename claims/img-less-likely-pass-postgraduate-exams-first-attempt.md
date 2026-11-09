@@ -55,3 +55,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [Prior academic attainment predicts success at postgraduate medical written and clinical examinations](prior-attainment-predicts-postgraduate-exam-success.md) — related
 - [First-attempt pass rates differed between TPK and ZPDT (theoretical 29% vs. 8% failure; practical 44% vs. 29%), with final failure rates converging after repeat exams](first-attempt-fail-rates-tpk-zpdt.md) — related
 - [Asian and Black candidates are significantly less likely than White candidates to pass MRCS Part B at the first attempt after adjustment (OR 0.49 and OR 0.41)](asian-black-candidates-less-likely-pass-mrcs-part-b.md) — related
+- [BME UK graduates and international medical graduates in postgraduate training are perceived to face additional difficulties that affect their learning and performance compared with white UK graduates](bme-img-additional-training-difficulties-impede-learning.md) — related

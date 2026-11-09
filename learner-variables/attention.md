@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (139 show a difference, 45 mixed, 31 no difference) · 161 studies (57 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 161 report an effect size · 209 claims rest on one study
+> **Evidence** · 216 claims (140 show a difference, 45 mixed, 31 no difference) · 161 studies (57 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 161 report an effect size · 210 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -253,6 +253,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](../claims/no-attention-reset-after-al.md) [-W] — measured as an outcome of the instruction studied
 - [Participants rate in-class cycle desks as not intrusive or distracting and recommend incorporating activity into the classroom](../claims/cycle-desks-perceived-not-distracting-recommended.md) [-M] — measured as an outcome of the instruction studied
 - [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](../claims/positive-acceptance-neutral-intention-distractibility.md) [~M] — measured as an outcome of the instruction studied
+- [Mind wandering increases and retention decreases across a 1-hour video lecture](../claims/mind-wandering-increases-across-long-lecture.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

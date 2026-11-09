@@ -52,3 +52,5 @@ Quantitative survey arm of a single-center mixed methods study at Keck Medicine 
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
 - [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related
 - [The simulation significantly increased medical students' knowledge scores from 85% presurvey to 92% on a delayed postsurvey](brown-bag-simulation-increased-knowledge-scores.md) — related
+- [Delegates' confidence in dealing with ECMO increased after the simulation course, with 93% agreeing they felt more confident](ecmo-simulation-confidence-increase.md) — related
+- [Delegates endorsed simulation as a learning experience for teamwork and communication and as a means to assess ECMO competency](ecmo-simulation-endorsed-teamwork-competency.md) — related

@@ -82,3 +82,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related
 - [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related
+- [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — related

@@ -48,3 +48,4 @@ Descriptive statistical analysis of the 21 experimental-group students' percepti
 - [Saudi female secondary EFL students who used Edmodo alongside traditional teaching showed more positive EFL learning attitudes than a control group after six weeks](edmodo-blended-instruction-more-positive-efl-attitudes.md) — related
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Within the Edmodo group, EFL learning attitudes improved significantly from pre-test to post-test](edmodo-group-pre-post-attitude-gain.md) — related
+- [Caregivers valued the customization questionnaire most among pedagogical features, while search, social, and daily-task features scored lowest](understaid-customization-highest-pedagogical-score.md) — related

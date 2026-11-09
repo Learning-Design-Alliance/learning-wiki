@@ -47,3 +47,4 @@ Descriptive survey results (Fig. 3): "48.4% (n = 15) agreed or strongly agreed t
 ## Related Claims
 - [Only about one-third of residents believe FLS skills transfer to complex laparoscopic cases, with positivity declining as training advances](fls-skill-transferability-skepticism.md) — related
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](simulated-practice-decreases-after-fls-completion.md) — related
+- [TBT noninferiority holds for pattern cutting and intracorporeal knot-tying but not for peg transfer or extracorporeal knot-tying](tbt-noninferiority-task-specific.md) — related

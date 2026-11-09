@@ -57,3 +57,4 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — a narrower finding that bears on this claim
 - [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — related

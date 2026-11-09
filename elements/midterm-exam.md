@@ -72,9 +72,11 @@ Midterms leverage the testing effect — the act of retrieving information stren
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "assess performance" event, instantiated at course scale
 
 ## Examples
+
 - **AP and IB course examinations** — mid-course and mock exams mirror the final external assessment's format, using past papers as practice tests
 - **Medical licensing curricula (e.g., USMLE Step 1 preparation)** — block exams at the end of each organ-system unit function as midterms, with item feedback driving spaced review schedules
 - **[Khan Academy](https://www.khanacademy.org) unit tests** — a low-stakes digital analogue: unit-level mastery checks that gate progress, embodying the midterm's diagnostic function without the stakes
+- [Assessment domain: direct, continuous, personalized assessment and feedback, including self-assessment](../strategies/postgraduate-me-assessment-continuous-personalized.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

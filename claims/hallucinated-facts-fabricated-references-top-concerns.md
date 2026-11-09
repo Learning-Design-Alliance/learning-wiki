@@ -84,3 +84,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Generative AI in board exam prep emerged as a challenge in interviews but was not captured in the survey](generative-ai-emerging-challenge-board-prep.md) — related
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [The sampled practice material contains potentially inaccurate or misleading radiation therapy information, for which the authors propose specific corrections](inaccurate-rt-content-nbme-practice-questions.md) — related
+- [Most residents rarely evaluate the quality of evidence or review references in online educational materials](residents-rarely-review-references.md) — related

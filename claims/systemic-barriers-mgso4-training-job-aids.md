@@ -49,3 +49,4 @@ Across the three thematic domains, the study's abstract-level synthesis reports 
 - [Clinical performance of MgSO4 administration is inconsistent across cadres, with omitted toxicity monitoring and variable dilution technique](inconsistent-mgso4-clinical-performance.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
 - [Reported barriers to simulation effectiveness include insufficient debriefing, lack of repeated exposure, and inadequate faculty development](simulation-barriers-debriefing-faculty.md) — related
+- [Knowledge and use of magnesium sulphate among community health workers was sub-optimal, with diazepam repeatedly stated as the treatment of choice](mgso4-knowledge-suboptimal-diazepam-default.md) — related

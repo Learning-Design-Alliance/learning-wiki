@@ -49,3 +49,4 @@ Descriptive categorised results (Table 3) from the quasi-experiment: "only 17.7%
 - [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](item-level-vap-knowledge-gains-largest-low-baseline-domains.md) — related
 - [Among 524 Chinese clinical nurses, only 37.2% were rated good in frailty-management KAP, with good knowledge (10.3%) and practice (13.4%) far less common than good attitudes (65.3%)](nurses-frailty-kap-knowledge-practice-lag-attitudes.md) — related
 - [Baseline self-confidence moderates knowledge gains, with somewhat confident and neutral nurses improving most and very confident nurses least](baseline-confidence-moderates-sdl-ecg-gains.md) — related
+- [Nursing students show low baseline attitude and practice scores regarding patient privacy before any targeted education](low-baseline-privacy-attitude-practice.md) — related

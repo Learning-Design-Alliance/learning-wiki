@@ -50,3 +50,4 @@ Theme 4, combining exemplar survey student comments (e.g. friendliness, kindness
 - [Daily and ongoing welcome practices are foundational to student learning in exemplar clinical environments](ongoing-welcome-foundational-clinical-learning.md) — related
 - [Exemplar staff deliberately develop functional staff-student relationships, including mentor assignment, to support learning needs](staff-student-relationship-practices.md) — related
 - [In exemplar clinical areas, responsibility for teaching is collective across multidisciplinary and administrative staff](collective-responsibility-teaching-ecas.md) — related
+- [Positive personal attributes improve group interaction but do not always directly impact learning](positive-personal-attributes-interaction-not-learning.md) — related

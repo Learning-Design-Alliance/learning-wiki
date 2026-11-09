@@ -54,3 +54,4 @@ Longitudinal item-fit analysis across fall, winter, and spring 2024–2025 (Tabl
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
 - [At least 97.5% of Reading items and 92.5% of Mathematics items passed the fit check, with 7 Reading and 23 Mathematics items flagged for misfit](map-k2-misfit-flagging-rates.md) — related
 - [Multifaceted Rasch analysis flagged seven items for misfit, with items 5, 6, 14 and 23 misfitting in a sensitivity analysis](mfrma-item-misfit-flagged.md) — related
+- [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related

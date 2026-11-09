@@ -75,3 +75,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Accrual accounting and health economics were the least relevant courses and gained among the lowest post-test scores](accrual-accounting-health-economics-least-relevant-lowest-scores.md) — related
 - [Overall assessment of the SPs is very good, with a median of 1 and mean of 1.47](sp-overall-assessment-very-good.md) — related
 - [Students evaluated the online EBP modules positively, reporting new learning and future practice relevance](positive-student-evaluations-ebp-modules.md) — related
+- [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — related

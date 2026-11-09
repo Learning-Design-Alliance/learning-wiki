@@ -54,3 +54,4 @@ Paired-samples t-tests comparing pre- and posttest domain knowledge (12 open-end
 - [Percentage of on-task time predicts pretest and posttest performance but not pre-to-post learning gains in cooperative learning](on-task-time-predicts-scores-not-gains.md) — related
 - [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — reports the opposite
 - [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related
+- [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related

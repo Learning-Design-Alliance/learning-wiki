@@ -54,3 +54,4 @@ The fairness chapter reports Mantel-Haenszel DIF analyses using ETS classificati
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
+- [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related

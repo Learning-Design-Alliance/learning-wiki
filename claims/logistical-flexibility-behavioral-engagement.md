@@ -50,3 +50,4 @@ Findings from the three-week debate study of 19 students; the article states the
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — related
 - [Affectively, the quasi-synchronous Discord modality showed the most positive and least negative sentiment profile of the three modalities](quasi-synchronous-discord-most-positive-affect.md) — related
 - [Synchronous students felt constrained by the lecturer's schedule while asynchronous students appreciated flexibility in managing their own time](time-management-flexibility-theme.md) — related
+- [Students valued the blended design mainly for flexibility of place and time and for affordability, participating without disrupting daily work](blended-flexibility-and-affordability-benefits.md) — related

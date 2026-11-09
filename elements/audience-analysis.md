@@ -128,6 +128,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Design learner-tailored instructional systems by applying expertise reversal findings](../strategies/apply-expertise-reversal-to-adaptive-design.md)
 - [Fit VR learning applications to a specific target audience and support learners with little prior knowledge](../strategies/fit-vr-apps-to-target-audience-and-prior-knowledge.md)
 - [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](../strategies/baseline-cultural-competence-battery-tailoring-strategy.md)
+- [Feed-forward of student learning needs prior to clinical placements to support fitness to practise](../strategies/feed-forward-student-needs-before-placements.md)
 
 ## Key Sources
 - Tobias, S. (1994). Interest, prior knowledge, and learning. *Review of Educational Research, 64*(1), 37. [doi:10.2307/1170745](https://doi.org/10.2307/1170745)

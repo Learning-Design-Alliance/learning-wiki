@@ -73,3 +73,4 @@ Survey-reported median confidence ratings for specific vaginal surgeries among t
 - [71% of surveyed surgeons believe trainees should be competent in vaginal hysterectomy before completing general obstetrics and gynaecology training, an expectation the article reports is not consistently met](vh-competency-before-completion-expectation.md) — related
 - [Most surveyed surgeons self-report vaginal hysterectomy proficiency, yet two-thirds perform 30 or fewer annually and 45% report a decline over the last decade](vh-high-self-proficiency-declining-volume.md) — related
 - [Confidence to perform hysterectomy varies sharply by surgical approach among surveyed Italian residents](hysterectomy-confidence-varies-by-approach.md) — related
+- [Self-perceived competence improved for level 1 and 2 laparoscopic surgeries and for level 3 myomectomies, but not for most other level 3 procedures](competence-gains-level-1-2-surgeries-not-level-3.md) — related

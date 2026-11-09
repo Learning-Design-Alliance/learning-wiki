@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 288 claims (207 show a difference, 47 mixed, 34 no difference) · 195 studies (83 causal, 56 associational, 23 review, 15 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 195 report an effect size · 282 claims rest on one study
+> **Evidence** · 289 claims (208 show a difference, 47 mixed, 34 no difference) · 196 studies (83 causal, 57 associational, 23 review, 15 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 196 report an effect size · 283 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -323,6 +323,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Program interest diversity explains more variance in study results than individual student-program interest fit](../claims/diversity-beats-individual-fit.md) [+M] — learners who differ on it differ in outcomes
 - [Program interest diversity has a curvilinear, mixed relation with average program study results in open-access programs](../claims/curvilinear-diversity-study-results.md) [~M] — learners who differ on it differ in outcomes
 - [Program interest diversity is negatively related to autonomous motivation and positively related to controlled motivation in program student populations](../claims/interest-diversity-linked-to-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Students interested in surgery completed significantly more self-guided practice sessions than non-interested students](../claims/surgical-interest-more-self-guided-practice.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

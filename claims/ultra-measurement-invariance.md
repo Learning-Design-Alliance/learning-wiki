@@ -54,3 +54,4 @@ In phase 3, the authors tested measurement bias in the ULTrA using measurement i
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — related
 - [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related
+- [No differences in classroom anxiety by gender, ethnicity, or year in school were detected](no-anxiety-differences-demographics.md) — related

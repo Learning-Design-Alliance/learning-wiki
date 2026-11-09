@@ -70,3 +70,4 @@ Descriptive survey results on the paired-work item (162 valid responses due to 5
 - [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — reports the opposite
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — reports the opposite
+- [Participants rated short-answer questions most effective and journal club least effective among the OSG's instructional methods](osg-instructional-method-ratings.md) — related

@@ -51,3 +51,4 @@ The behavioural intention survey results showed that "99.2% of the learners woul
 - [Third-year medical students report high satisfaction with a customized GPT reproductive physiology companion](high-student-satisfaction-customized-gpt-reproductive-physiology-companion.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
 - [Most learners would have appreciated the possibility to interact with educators and/or other learners during the course](learners-requested-interaction-during-course.md) — related
+- [The OSG was well received: most respondents would take it again and nearly all would recommend it](osg-high-satisfaction-recommendation.md) — related

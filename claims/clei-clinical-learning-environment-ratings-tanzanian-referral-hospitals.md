@@ -48,3 +48,4 @@ Baseline survey (n = 151) using an adaptation of the Clinical Learning Environme
 ## Related Claims
 - [Students most strongly agreed preceptors modelled professionalism (85.2%) and helped them with problems (82.9%), and least agreed preceptors expressed concern about their lives outside work (31.8%)](ctbi-item-extremes-role-modelling-versus-personal-concern.md) — related
 - [Most nurses agreed they were clinically competent, but about 20% disagreed or were neutral about using evidence in nursing practice](competency-high-but-evidence-use-hesitation.md) — related
+- [Integration into the clinical team and supervision are the worst-rated aspects of clinical training, while improvement of clinical knowledge is the best rated](team-integration-and-supervision-worst-rated-subcategories.md) — related

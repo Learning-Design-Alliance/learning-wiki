@@ -54,3 +54,4 @@ Quasi-experimental randomized comparison of 60 phase 2 MBBS students (30 per gro
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [Modified Peyton training takes significantly less time than traditional Peyton training](modified-peyton-shorter-training-time.md) — related
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related
+- [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — possibly the same claim (merge candidate)

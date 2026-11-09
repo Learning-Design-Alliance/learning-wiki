@@ -49,3 +49,4 @@ Pearson correlation analysis (Table 2, N = 3,733) in the cross-sectional survey.
 - [Higher self-control independently predicts better home-based e-learning behavior in nursing and midwifery undergraduates](self-control-predicts-hbel-behavior.md) — related
 - [Higher self-efficacy independently predicts better home-based e-learning behavior in nursing and midwifery undergraduates](self-efficacy-predicts-hbel-behavior.md) — related
 - [Demographic characteristics — university province, grade level, and perceived health status — are associated with home-based e-learning behavior](demographics-predict-hbel-behavior.md) — related
+- [Self-efficacy was good in 53.3% of midwifery students, moderate in 42.2%, and poor in 4.3%](midwifery-self-efficacy-distribution-2013-cohort.md) — related

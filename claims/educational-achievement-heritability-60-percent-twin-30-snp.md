@@ -82,3 +82,6 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 - [SNP-based heritability of adolescent English, maths and science attainment is moderate to high (GREML 0.41–0.53), highest for science](snp-heritability-english-maths-science-adolescence.md) — related
 - [SNP-based heritability of the three early parenting domains is small and estimated with low precision](low-snp-heritability-parenting-domains.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — a narrower finding that bears on this claim
+- [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — a narrower finding that bears on this claim
+- [Choice of specific A-level subjects is more heritable (50–80%) and less influenced by shared environment (0–23%) than the choice to continue at A-level](subject-choice-more-heritable-than-continuation.md) — related
+- [Subject-specific A-level heritabilities range from 35% for history to 76% for chemistry, but the study lacks power to detect these differences](subject-heritability-range-history-chemistry.md) — a narrower finding that bears on this claim

@@ -71,3 +71,4 @@ The same crossover study reports median technical errors significantly lower und
 - [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — reports the opposite
 - [3D-trained novices' final 2D performance was not significantly better than 2D-trained novices' performance](3d-trained-final-2d-performance-not-significantly-better.md) — related
 - [3D-trained novices performed significantly faster than 2D-trained novices on every repetition of both box-trainer tasks](3d-faster-than-2d-every-repetition-box-trainer.md) — a narrower finding that bears on this claim
+- [Laser visual guidance shows no significant improvement over 2D vision in laparoscopic motor skill parameters among surgical novices](lvg-no-significant-motor-skill-improvement.md) — reports the opposite

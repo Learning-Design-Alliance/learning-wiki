@@ -60,6 +60,7 @@ The article recommends embedding structured non-technical skills training in sim
 - [Use a validated debriefing framework such as the 'Diamond' framework and extend debriefing to the operating room to support NTS skill retention](validated-debriefing-framework-diamond-nts.md)
 - [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
+- [Focused simulation-based training with debriefing and de-biasing strategies to help doctors recognize and manage cognitive errors](simulation-debriefing-debiasing-training-strategy.md)
 
 ## Examples
 -

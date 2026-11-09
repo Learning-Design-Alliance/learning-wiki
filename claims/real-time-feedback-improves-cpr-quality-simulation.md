@@ -101,3 +101,4 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [The 95% confidence interval of the difference in total chest compressions at 6 months did not exceed the a priori clinically important difference of 20 compressions](cpr-compression-ci-within-clinically-important-difference.md) — related
 - [Feedback-device recordings showed compression depth and ventilation volume fell short of guideline targets despite otherwise high completion rates](feedback-device-cpr-quality-metrics.md) — related
 - [Students who received a practical test with feedback report higher confidence and self-rated knowledge after CPR training than students with training only](cpr-test-feedback-higher-confidence-self-rated-knowledge.md) — related
+- [Peers rate school children more strictly than professionals on three specific BLS items](peers-rate-bls-items-more-strictly-than-professionals.md) — related

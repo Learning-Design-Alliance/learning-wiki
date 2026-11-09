@@ -48,3 +48,4 @@ Secondary correlational analysis in the randomized trial's Results section: the 
 - [Tutors' independent ratings of student performance correlate strongly across assessment domains](tutor-inter-rater-correlation-strong.md) — related
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related
 - [Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)](rtop-content-knowledge-correlation.md) — related
+- [SCT results showed no correlation with multiple-choice test results (R2 = 0.009), indicating a construct independent of factual knowledge](sct-uncorrelated-with-mcq-performance.md) — related

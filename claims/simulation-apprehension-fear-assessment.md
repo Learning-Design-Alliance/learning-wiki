@@ -48,3 +48,4 @@ Theme 1 of the inductive thematic analysis of participant interviews. The articl
 - [In situ simulation of a medical emergency is an acceptable and feasible interprofessional training approach in primary care, per participant reports in a qualitative proof of concept study](in-situ-simulation-acceptable-interprofessional-primary-care.md) — a broader claim this one bears on
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
+- [Approximately one-third of staff in one reported study found unannounced in situ simulation stressful and unpleasant](unannounced-iss-stressful-one-third-of-staff.md) — related

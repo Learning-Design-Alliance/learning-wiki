@@ -55,6 +55,7 @@ The article recommends deploying digital evaluation systems as a supplement to, 
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
+- [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
 
 ## Examples
 -

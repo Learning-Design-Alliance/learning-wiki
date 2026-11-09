@@ -55,3 +55,4 @@ Unpaired t-test comparison of procedural checklist scores (maximum 48) in the sa
 - [Clinicians who had completed residency training scored significantly higher on the final Fair Grader 2000 assessment than those still in residency](fair-grader-completed-vs-ongoing-final-scores.md) — related
 - [The self-serve training model significantly increases procedural confidence of novice ophthalmology residents but does not significantly improve skill assessment scores](self-serve-model-raises-confidence-not-skill-scores.md) — related
 - [Initial post-GBL performance did not differ significantly by practitioner type, though practicing clinicians scored lowest](gbl-practitioner-type-differences.md) — related
+- [A video and model-based simulation learning module raises novice residents' and allied health professionals' Pavlik harness application skill to the level of expert clinicians](simulation-module-pavlik-harness-expert-level-skill.md) — related

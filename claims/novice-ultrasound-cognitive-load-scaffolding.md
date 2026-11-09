@@ -50,3 +50,4 @@ Qualitative analysis in the discussion of the portfolio study found "novices exp
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — related
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — related
 - [Palpation-ultrasound correspondence supported optimal skills while deep-structure studies were more challenging](palpation-correlation-optimal-deep-structures-challenging.md) — related
+- [No significant difference in time required to perform ultrasound or palpation examinations](no-examination-time-difference-mobile-app.md) — related

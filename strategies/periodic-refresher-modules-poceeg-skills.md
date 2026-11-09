@@ -54,6 +54,8 @@ Because skill and confidence decayed between posttest and the 3-month retention 
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 
 ## Examples
 -

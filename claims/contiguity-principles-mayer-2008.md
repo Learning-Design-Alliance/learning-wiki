@@ -70,3 +70,4 @@ Controlled experiments comparing simultaneous versus successive presentation of 
 - [Most surveyed Algerian university teachers of English (61.9%) report presenting words and corresponding graphics simultaneously](teachers-report-simultaneous-words-graphics-presentation.md) — related
 - [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
+- [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — a broader claim this one bears on

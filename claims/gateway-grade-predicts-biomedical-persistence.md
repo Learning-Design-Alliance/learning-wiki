@@ -49,3 +49,4 @@ Path models added biology course grade as a predictor of both persistence outcom
 - [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](grades-mediate-uv-retention-effects.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
 - [A utility-value intervention interacted with students' confidence to predict enrollment in the second biology course and biomedical major two years post-intervention](uvi-confidence-interaction-biomedical-persistence.md) — related
+- [Higher general class anxiety is associated with lower self-reported course grade and intention to leave the biology major](general-anxiety-lower-grade-persistence.md) — related

@@ -139,6 +139,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
 - [Evaluate multifaceted training packages combining manikins, computer simulation, expert patients and clinical supervision for pelvic examination competency](multifaceted-pelvic-examination-training-package-strategy.md)
 - [Use interactive virtual patient cases to standardize clinical exposure and reinforce core internal medicine presentations for junior trainees](vp-cases-standardize-clinical-exposure-strategy.md)
+- [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 
 ## Examples
 -

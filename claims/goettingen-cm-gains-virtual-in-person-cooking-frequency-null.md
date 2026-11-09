@@ -72,3 +72,4 @@ Same longitudinal Böttcher study: the table marks cooking frequency as -/+ (no 
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
 - [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](virtual-dementia-learning-inconsistent-outcomes.md) — related
 - [Participation in a German culinary medicine elective improved medical students' counselling competencies, nutritional knowledge, attitudes, well-being and eating habits](culinary-medicine-elective-improves-counselling-competencies.md) — possibly the same claim (merge candidate)
+- [Technology-based nutrition education addressed time, content and faculty constraints and yielded knowledge gains, positive attitudes, counselling skills and practice behaviour change](technology-based-nutrition-education-outcomes.md) — related

@@ -56,3 +56,5 @@ Post-training satisfaction questionnaire in the 26-participant sample. "The mean
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Students rate the interprofessional training's content and teaching methods as appropriate](ipe-content-method-satisfaction-ratings.md) — related
 - [Physiotherapists were highly satisfied and fully engaged with the E-SOLAS e-learning training program](e-solas-high-satisfaction-engagement.md) — related
+- [Interviewed physiotherapists were initially sceptical of online training but found iBeST acceptable, reporting external and internal barriers and facilitators](interviews-scepticism-to-acceptability-barriers.md) — related
+- [Educational interventions designed around assessed participant needs produced greater satisfaction and significant knowledge gains](needs-assessment-nutrition-education-design.md) — related

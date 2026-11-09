@@ -49,3 +49,4 @@ The editorial cites psychophysical discrimination capacities as evidence of surp
 - [Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations](covert-attention-enhances-foveolar-discrimination.md) — related
 - [When light is well distributed and diffuse with no extremes of surface brightness, the eye is practically independent of illumination intensity within ordinary lighting ranges](good-distribution-eye-independent-of-intensity.md) — related
 - [The loss of efficiency sustained by the eye in an unfavorable lighting situation is muscular, not retinal](lighting-efficiency-loss-muscular-not-retinal.md) — a narrower finding that bears on this claim
+- [Learning goals for the sensory organ system were most frequently judged irrelevant for the future (65.0%), with skin, urogenital and GI tract goals also questioned (≥30.0% each)](sensory-organ-goals-most-often-irrelevant.md) — related

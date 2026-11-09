@@ -50,3 +50,4 @@ Narrative comparison in the Discussion attributing this finding to van Winkle et
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — a broader claim this one bears on
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [Effects of the brief gatekeeper training were measured only immediately after the intervention; durability is unknown](gatekeeper-training-durability-unknown.md) — related

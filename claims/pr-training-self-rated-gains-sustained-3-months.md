@@ -80,3 +80,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Using competency frameworks alongside standards of practice facilitates improvement in pharmacists’ performance, with sustained gains reported at up to 12 months](competency-frameworks-improve-pharmacist-performance.md) — related
 - [Pilot DVA/CS training increased general practice clinicians' confidence and self-efficacy, sustained at 3-month follow up](responds-training-increased-confidence-self-efficacy.md) — related
 - [Pilot DVA and child safeguarding training increased general practice clinicians' knowledge of DVA and CS, with gains sustained at 3-month follow up](responds-training-increased-knowledge-sustained.md) — related
+- [Implementing a structured weight management programme in practice increased GPs' confidence and self-efficacy for managing obesity](structured-programme-increased-gp-confidence-self-efficacy-obesity.md) — related

@@ -88,3 +88,4 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [Standardised patients rate the counselling of role-playing seminar students significantly better than that of online-course students](sp-rating-seminar-advantage.md) — a narrower finding that bears on this claim
 - [Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)](sp-module-higher-self-confidence-than-role-play.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
+- [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — a narrower finding that bears on this claim

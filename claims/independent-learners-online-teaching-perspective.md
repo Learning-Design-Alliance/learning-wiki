@@ -52,3 +52,5 @@ The review's third foundational concept, stated as an expert perspective on the 
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
 - [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — reports the opposite
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related
+- [Educational booklets may affect knowledge but are limited for changing practice because learners are passive and reading is uncontrolled](booklet-limits-for-practice-change.md) — related
+- [Students engaging with elearning behave as passive recipients, with completion of sections not equating to active learning](elearning-passivity-theme-medical-students.md) — related

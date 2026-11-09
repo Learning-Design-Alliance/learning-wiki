@@ -47,7 +47,9 @@ The article recommends that in contexts with prominent gender divisions, clinica
 - [Male students report far less supervisor support for intimate examinations than female students, while general-examination confidence shows no gender difference](../claims/supervisor-support-gender-difference-intimate-exams.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer students an SHT module, peer-assisted learning, and simulated-patient practice for intimate-area skills, with positive teacher support](sht-module-peer-assisted-simulated-patients-strategy.md)
+- [Give clinical supervisors more detailed guidance on their facilitation role and provide a demonstration before students' first intimate examination](supervisor-guidance-and-demonstration-before-first-intimate-exam.md)
 
 ## Examples
 -

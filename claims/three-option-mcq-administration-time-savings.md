@@ -48,3 +48,4 @@ Timing outcome from the randomized comparison; students required 55 s per item w
 - [Physicians spent less time per item on 3-option than 4-option items on both subspecialty exams, but response speed per word showed exam-dependent patterns](three-option-mci-faster-response-time.md) — related
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](three-vs-five-option-mcq-comparable-reliability.md) — related
+- [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — related

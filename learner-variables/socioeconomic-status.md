@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 289 claims (156 show a difference, 65 mixed, 68 no difference) · 217 studies (100 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 36 of 217 report an effect size · 288 claims rest on one study
+> **Evidence** · 292 claims (158 show a difference, 66 mixed, 68 no difference) · 219 studies (102 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 36 of 219 report an effect size · 291 claims rest on one study
 
 ## How to read this page
 
@@ -374,6 +374,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [First-generation university students, but not non-first-generation students, prefer rating formats over pick-one formats](../claims/first-generation-students-prefer-rating-format.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant main effects of gender, ethnic background or first-generation university status on applicant perceptions of an SJT](../claims/no-main-subgroup-differences-sjt-perceptions.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](../claims/ses-course-type-not-independent-predictors-epm.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [As the Bloom's level of introductory biology exams increases, low-SES students' performance declines more rapidly than middle/high-SES students' of equal prior academic ability, creating an SES-based achievement gap](../claims/higher-blooms-exams-widen-ses-gap-intro-biology.md) [+M] — an instructional effect differs by group
+- [First-generation university students underperformed only on the language skills test](../claims/first-generation-underperformance-language-test-only.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Increasing the percentage of constructed-response questions on introductory biology exams benefits middle/high-SES students more than low-SES students of equal prior academic ability](../claims/constructed-response-questions-favor-high-ses-students.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

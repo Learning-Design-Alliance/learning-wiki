@@ -53,3 +53,4 @@ Descriptive survey finding with an internal discrepancy the authors themselves n
 - [The TX Sprouts gardening-cooking-nutrition cluster-randomized trial improved diet quality, including the HEI-2015 Total Vegetables component and protein share, versus controls](tx-sprouts-improved-diet-quality-components.md) — related
 - [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — related
 - [Most surveyed family medicine residents reported receiving inadequate nutrition training and believed additional training would help their clinical care](residents-inadequate-nutrition-training-perception.md) — related
+- [Interventions improving healthcare professionals' own personal health habits led to healthier lifestyles and greater counselling confidence](personal-health-habits-nutrition-counselling.md) — related

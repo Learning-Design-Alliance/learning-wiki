@@ -50,3 +50,4 @@ Content-analysis finding on the remaining-passive theme from the interview data.
 - [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](peer-tutoring-barriers-commitment-passive-learning.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — reports the opposite
+- [Students engaging with elearning behave as passive recipients, with completion of sections not equating to active learning](elearning-passivity-theme-medical-students.md) — related

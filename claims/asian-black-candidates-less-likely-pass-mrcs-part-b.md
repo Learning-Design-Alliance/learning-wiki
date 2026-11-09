@@ -51,3 +51,4 @@ Multivariate logistic regression in the Part B cohort (final model N = 1125) adj
 - [Having attended a fee-paying school independently predicts passing MRCS Part B at the first attempt (OR 1.51)](fee-paying-school-independent-predictor-mrcs-part-b.md) — related
 - [Ethnic-group differences in confidence bias are an artefact of cognitive test performance, whereas confidence judgement differences persist after adjustment](ethnic-differences-confidence-metrics-diverge.md) — related
 - [Students from Asian, Black, Mixed and Other ethnic groups are significantly less likely than White students to finish in the top tier of EPM rankings](ethnic-minority-students-less-likely-top-epm-rankings.md) — related
+- [OSCE station-level underperformance differs across ethnic minority subgroups](osce-station-disparities-vary-by-subgroup.md) — related

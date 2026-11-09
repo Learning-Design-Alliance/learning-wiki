@@ -50,3 +50,4 @@ Results of the national resident survey on self-reported confidence by hysterect
 - [Ob/Gyn residents in the Ghanaian program reported uniformly low confidence in performing vaginal hysterectomy and other vaginal surgeries](ghana-residents-low-confidence-vaginal-surgery.md) — related
 - [Residents' vaginal surgery experience in the past 12 months was largely limited to obstetric procedures rather than gynecologic ones](ghana-residents-vaginal-experience-largely-obstetric.md) — related
 - [Most surveyed Italian residents had never performed an operative vaginal delivery and do not feel confident performing one](italian-residents-operative-vaginal-delivery-inexperience.md) — related
+- [Self-perceived competence improved for level 1 and 2 laparoscopic surgeries and for level 3 myomectomies, but not for most other level 3 procedures](competence-gains-level-1-2-surgeries-not-level-3.md) — related

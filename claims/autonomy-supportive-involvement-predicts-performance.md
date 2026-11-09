@@ -57,3 +57,4 @@ Cross-lagged SEM on the CEPS sample controlling for individual-, family-, school
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — a broader claim this one bears on
 - [Parental academic support and involvement predict child academic achievement](parental-academic-support-predicts-child-achievement.md) — related
 - [School SES is positively related to middle school students’ math achievement in China after controlling for family SES and other covariates](school-ses-positive-math-achievement-china.md) — related
+- [Students in schools with more academically demanding parents report lower levels of IT integration in mathematics lessons](parental-academic-pressure-lower-it-integration.md) — related

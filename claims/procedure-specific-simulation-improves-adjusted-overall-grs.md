@@ -52,3 +52,4 @@ Randomized controlled single-blind trial in junior gynecology residents at three
 - [Resident satisfaction with training is significantly higher for simulation-trained residents for vaginal hysterectomy only](simulation-satisfaction-higher-vh-only.md) — related
 - [Simulator training also significantly improves global rating scale scores (7.1 points, p = 0.023)](otoskills-training-improves-grs-score.md) — related
 - [Simulator training improves blinded assessors' Visual Analog Scale ratings of overall management of the first laparoscopic hysterectomy](simulator-training-improves-vas-overall-management.md) — related
+- [Self-perceived competence improved for level 1 and 2 laparoscopic surgeries and for level 3 myomectomies, but not for most other level 3 procedures](competence-gains-level-1-2-surgeries-not-level-3.md) — related

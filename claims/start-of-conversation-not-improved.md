@@ -47,3 +47,4 @@ Discussion of the Table 2 results: the start-of-conversation domain decreased fr
 ## Related Claims
 - [Within the CST-behav group of medical students, five of seven observed communication domains rose significantly from pre-test to post-test after communication skills training with specific behavior-oriented feedback, with the largest gain in handling patient's emotions (ES = 1.26)](cst-behav-improves-five-of-seven-communication-domains.md) — related
 - [Low-performing students benefit most from specific behavior-oriented feedback, improving significantly while high performers remain stable](low-performers-benefit-most-from-behavior-feedback.md) — related
+- [Five of six key communication aspects improved significantly (ES = 0.52–1.94), with the largest gain for starting conversations and no significant change for patient's perception](key-communication-aspects-gains-patient-perception-null.md) — reports the opposite

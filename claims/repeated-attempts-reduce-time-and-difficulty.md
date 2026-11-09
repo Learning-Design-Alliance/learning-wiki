@@ -49,3 +49,4 @@ Within-participant Wilcoxon signed-rank comparison of first vs second attempts a
 - [No significant differences in intubation time or success rate were found across physician training levels](no-training-level-difference-time-success.md) — related
 - [Model C, with the highest difficulty score (4.430), had the longest intubation time and lowest first-attempt success rate among the four manikins](model-c-highest-difficulty-score-longest-time-lowest-success.md) — related
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
+- [Simulated forgetting between attempts reduces the predicted resit effect](forgetting-reduces-resit-effect-in-model.md) — related

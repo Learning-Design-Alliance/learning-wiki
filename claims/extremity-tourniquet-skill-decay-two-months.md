@@ -63,3 +63,4 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Knowledge and skills declined significantly between post-coaching and evaluation a median of 21 months later, though remaining above baseline](eenc-gains-declined-by-21-month-evaluation.md) — related
 - [Both flipped classroom and traditional instruction groups improve EBN knowledge and self-efficacy after training, with scores declining by one month](both-groups-improve-then-decline-ebn.md) — related
+- [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related

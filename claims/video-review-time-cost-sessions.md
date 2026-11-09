@@ -49,3 +49,4 @@ The review's secondary outcome analysis of costs found "substantiate time effort
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — related
 - [Rating transcripts took significantly less time than rating videos (mean 12 vs 73 minutes).](transcript-rating-faster-than-video-rating.md) — related
+- [Video-based feedback sessions run substantially longer than direct observation feedback sessions (26.2 vs. 13.5 minutes)](video-feedback-sessions-longer-than-direct-observation.md) — related

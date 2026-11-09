@@ -48,3 +48,4 @@ Cross-sectional survey analysis of opposite-sex examination frequency in 188 Jor
 - [Cultural and religious traditions are the greatest reported barrier to examining patients of the opposite sex in this Jordanian cohort](cultural-religious-barrier-opposite-sex-examination.md) — related
 - [Male medical students in Jordan consistently outperform female students in performing more than 10 general clinical examinations on any patient during training](males-more-general-examinations-jordan.md) — related
 - [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](intimate-examination-gender-divide-jordan.md) — related
+- [Patient's opposite sex was the most commonly reported barrier to both intimate-area examination and sexual history taking](opposite-sex-greatest-iae-sht-barrier.md) — related

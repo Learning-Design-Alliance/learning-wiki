@@ -55,3 +55,6 @@ Cross-sectional survey of 188 Jordanian final-year medical students comparing in
 - [Fear of hurting the patient is the leading cause of student anxiety about pelvic and breast examination, with gender differences in other cited causes](fear-hurting-patient-main-anxiety-cause.md) — related
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — a broader claim this one bears on
 - [Male medical students in Jordan consistently outperform female students in performing more than 10 general clinical examinations on any patient during training](males-more-general-examinations-jordan.md) — related
+- [Patient's opposite sex was the most commonly reported barrier to both intimate-area examination and sexual history taking](opposite-sex-greatest-iae-sht-barrier.md) — related
+- [Most Saudi final-year medical students in the surveyed colleges had never performed many types of intimate-area examination during clinical training](saudi-students-never-performed-iae-survey.md) — related
+- [Sex-matched examination pattern: female students performed more female intimate-area examinations and male students more male ones](sex-matched-iae-experience-pattern.md) — possibly the same claim (merge candidate)

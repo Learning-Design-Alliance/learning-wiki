@@ -47,3 +47,4 @@ Descriptive time-expenditure comparison reported in the results section, contras
 ## Related Claims
 - [Cadaver-based emergency skill training reduced externally assessed required supervision levels for chest tube insertion in ICU fellows](cadaver-training-reduced-sl-chest-tube-insertion.md) — related
 - [Agreement between fellows' self-assessed and consultants' externally assessed supervision levels varied by skill, correlating for chest tube insertion but not for pericardiocentesis or post-training cricothyroidotomy](self-external-sl-agreement-varies-by-skill.md) — related
+- [Peer-taught simulation reduced required physician time from nine hours to three hours per month](peer-taught-simulation-reduced-physician-time.md) — related

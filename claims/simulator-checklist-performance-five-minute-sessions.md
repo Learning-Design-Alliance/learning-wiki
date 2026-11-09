@@ -46,3 +46,4 @@ Descriptive checklist data from the cross-sectional simulation session for simul
 
 ## Related Claims
 - [Medical students' task completion times on all four trained laparoscopic tasks decreased significantly from pre-test to post-test after a hands-on laparoscopic training workshop, in one uncontrolled pre-post study](laparoscopic-workshop-reduced-task-completion-times.md) — related
+- [Medical students naive to laparoscopy had lower laparoscopic task times and higher scores from pre-test to post-test after a 150-minute simulator training program, in one single-group pre-post study](naive-medical-students-gain-laparoscopic-skills-simulator-training.md) — related

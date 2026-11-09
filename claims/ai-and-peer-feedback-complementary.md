@@ -75,3 +75,4 @@ Qualitative coding of student reflections; students trusted peers more because o
 - [Written assignments are the most used object of peer assessment, and beliefs and perceptions are the most investigated outcome](peer-assessment-written-object-beliefs-outcome.md) — related
 - [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
+- [Students felt reassured by written feedback from faculty members familiar with summative assessment requirements and valued feedback aligned with those expectations](students-valued-faculty-feedback-summative-alignment.md) — related

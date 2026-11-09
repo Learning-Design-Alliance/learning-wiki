@@ -52,3 +52,6 @@ Multiple regression on UKMED graduate-entrant data predicting normalised FPAS SJ
 - [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](differential-attainment-national-prescribing-assessments.md) — related
 - [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
+- [Female gender, increasing age, white ethnicity and more affluent IMD quintile were significantly and positively associated with all four UKFPO outcome measures](sociodemographic-factors-predict-ukfpo-outcomes.md) — related
+- [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
+- [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related

@@ -47,6 +47,7 @@ Based on the weak predictive value of GPA and BCPM, the article suggests that ad
 ## Related Strategies
 
 - [Use early internal course assessments to flag students at risk of underperformance on high-stakes exams](early-internal-assessments-flag-at-risk-students.md)
+- [Pool anonymized institutional data nationally to build more robust and validatable predictive models](pool-anonymized-national-biomedical-data-strategy.md)
 
 ## Examples
 -

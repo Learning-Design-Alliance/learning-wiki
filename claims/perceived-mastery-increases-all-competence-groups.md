@@ -72,3 +72,4 @@ Descriptive box plots per competence group (figures 4–6) showed rising medians
 - [Self-judged level of training goal completion increases over the nine months of basic training, though weakly](self-judged-goal-completion-increases-over-training.md) — related
 - [Supervisor judgement of training goal completion increases over training, runs parallel to self-judgement, and shows less variance](supervisor-judgement-parallel-self-judgement-less-variance.md) — related
 - [About a quarter of junior physicians report learning needs at the end of basic training, with no meaningful differences between the three clinics](quarter-report-learning-needs-end-of-basic-training.md) — related
+- [Only 8% of skills required at advanced-training level were judged irrelevant, yet 42% of skills were assessed at the lowest mastery level (seen demonstrated)](advanced-training-skills-relevant-but-low-mastery.md) — related

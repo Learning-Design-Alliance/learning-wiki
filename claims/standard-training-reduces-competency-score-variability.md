@@ -48,3 +48,4 @@ Difference-in-differences comparison of standard deviations of total competency 
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
 - [In multivariate analysis, participation in standard clinical training was not significantly associated with mean increase in total competency score](training-participation-not-significant-multivariate.md) — related
 - [Provincial-hospital training venue was positively associated, and higher baseline competency negatively associated, with mean increase in total competency score](provincial-hospital-and-low-baseline-predict-greater-gains.md) — related
+- [Game-based preparation reduces variability in residents' clinical competency levels before classroom training](game-preparation-reduced-competency-variability.md) — related

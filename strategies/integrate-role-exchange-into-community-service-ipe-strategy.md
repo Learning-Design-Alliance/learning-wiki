@@ -37,7 +37,8 @@ The article recommends combining profession-role exchange with an existing IPE s
 - interprofessional role awareness and collaborative skill acquisition in a safe environment
 
 ## Related Strategies
-- 
+
+- [Promote interprofessional cooperation during undergraduate medical studies through combined courses with trainees and students of other medical care professions](combined-interprofessional-courses-undergraduate-medical.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Between-group comparison in the same three-arm RCT (n = 9 per group). Mean score
 - [The catheterisation assessment scenario showed construct validity evidence: three year-4 students lacking the prerequisite skills module scored a mean of 12.3/46](prerequisite-lacking-students-low-osce-construct-validity.md) — related
 - [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
+- [Mobile application supplement improves global ultrasound OSCE scores in physiotherapy students](mobile-app-improves-ultrasound-osce-physiotherapy.md) — related

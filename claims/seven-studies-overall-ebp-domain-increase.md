@@ -48,3 +48,4 @@ Narrative synthesis of the 20 included studies. The review reports that "Seven s
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
 - [Only 2 of the 20 included studies adopted an online approach to teach EBP, and both concluded that technology to teach research skills can facilitate EBP teaching](online-ebp-teaching-in-infancy-two-studies.md) — related
 - [Four of the seven reviewed studies included only a vague focus on teaching EBP principles, with research utilisation dominating](vague-focus-ebp-principles-four-studies.md) — related
+- [Students' attitudes and skills vital for efficient use of online databases rose from pre-test to post-test after training in online literature search, in one uncontrolled pre-post study](training-effective-information-literacy-delivery.md) — related

@@ -51,3 +51,5 @@ Comparison of overall MCQ scores between sequential cohorts (first offering five
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
 - [Three-option MCQ items tend to discriminate better between high and low performers than five-option items, but not significantly](three-option-mcq-discrimination-index-higher-not-significant.md) — related
 - [On re-used questions with the least effective distractor removed, three of four courses showed no significant change in student performance](mcq-reused-questions-no-performance-change.md) — related
+- [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
+- [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — reports the opposite

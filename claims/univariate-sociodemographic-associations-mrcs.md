@@ -54,3 +54,4 @@ Univariate chi-square analysis of first-attempt pass/fail outcomes for 5780 Part
 - [UK graduates from more socioeconomically deprived backgrounds are less likely to pass written, but not clinical, postgraduate examinations at first attempt](ukg-deprivation-lower-written-pass-odds.md) — related
 - [Being a non-graduate on entry to medicine independently predicts first-attempt success at both MRCS Part A (OR 1.98) and Part B (OR 1.77)](non-graduate-independent-predictor-mrcs.md) — related
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
+- [Female gender, increasing age, white ethnicity and more affluent IMD quintile were significantly and positively associated with all four UKFPO outcome measures](sociodemographic-factors-predict-ukfpo-outcomes.md) — related

@@ -60,3 +60,4 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
 - [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related
 - [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related
+- [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related

@@ -51,3 +51,4 @@ Wilcoxon pre-post analysis of 37 first-year dental students who completed the ei
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related
 - [From pre-test to post-test, fingertip sensitivity rose and grip strength fell in both hands in one group with no comparison group](sensitivity-gain-inverse-strength-loss-correlation.md) — related
 - [A four-week home-based online typing-game intervention improves children's MABC-2 manual dexterity standard scores compared to a control group](typing-intervention-improves-mabc2-manual-dexterity.md) — related
+- [Preload Duration of the non-dominant hand on the grip-lift task was the only dexterity variable differing between groups over time, favouring the control group](preload-duration-nondominant-group-difference.md) — related

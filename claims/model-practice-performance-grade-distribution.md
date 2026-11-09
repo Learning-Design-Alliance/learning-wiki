@@ -49,3 +49,4 @@ Fisher's exact test on performance levels graded by total score (Poor <85, Good 
 - [By the end of the course the experimental group's final grade distribution was markedly skewed toward higher grades and poor project presenters fell from 22% to 5%, versus 28% in the control group](cl-final-grades-poor-presenters.md) — possibly the same claim (merge candidate)
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related
 - [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
+- [PBL-curriculum students had significantly more grade-B and fewer grade-C scores than old-curriculum students in the psychiatry rotation](pbl-students-higher-grade-distribution-psychiatry.md) — related

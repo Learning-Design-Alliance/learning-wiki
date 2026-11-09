@@ -53,3 +53,4 @@ Bootstrapping analysis (10,000 resamples) of 45 examiner-pair combinations per v
 - [Score variability across examiner pairs is lower than variability across individual examiners in a mock clinical assessment](paired-examiners-lower-score-variability.md) — related
 - [The borderline (average) candidate's outcome differed between solo and paired marking, with pairs never failing that performance](paired-marking-changes-borderline-candidate-outcome.md) — related
 - [The expert rater scored performances lower than the non-expert raters, suggesting peer-assessment may be problematic compared with assessment by a more experienced clinician](expert-rater-lower-peer-assessment-problematic.md) — related
+- [Peers judged more examinations as failed than professionals (43 vs 22 of 339 ratings)](peers-fail-more-bls-examinations-than-professionals.md) — related

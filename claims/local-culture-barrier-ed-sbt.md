@@ -48,3 +48,4 @@ Qualitative semistructured interview study of 32 participants across 15 internat
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
 - [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — related
 - [Management and clinical staff prioritise different aspects of ED simulation training](clinician-management-priority-split-sbt.md) — related
+- [Department-based local simulation, especially in situ simulation, leads to gains in organisational learning, with unannounced exceeding announced](department-based-simulation-organisational-learning-gains.md) — related

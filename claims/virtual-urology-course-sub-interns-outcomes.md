@@ -55,3 +55,4 @@ The review reports, citing Margolin et al.'s multi-institutional virtual urology
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [Intern performance on validated AI-generated urology questions improved significantly across a three-week clinical rotation, from 45.2% at baseline to 78.4% at final assessment](ai-question-scores-improve-across-urology-rotation.md) — related
 - [Self-reported confidence in telemedicine skills improved significantly after the interventions across nearly all domains](tm-training-significant-confidence-gains.md) — related
+- [SAT participants showed significant increases in teaching confidence and self-perceived teaching skills over the 7-month program](sat-significant-confidence-teaching-skill-gains.md) — related

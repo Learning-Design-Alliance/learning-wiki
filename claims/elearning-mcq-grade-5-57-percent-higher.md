@@ -53,3 +53,4 @@ Comparative cohort study: 313 students in 2016/2017 (no online material) and 309
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
 - [Unrestricted 24/7 access to CAI materials is associated with better ECG outcomes, while restricted access is not](unrestricted-cai-access-benefit.md) — related
 - [Engagement with the online content was high, with 73.5% of the e-learning cohort having ≥80% engagement, and pathogen-focused clinical cases and HCAI material accessed most](high-engagement-pathogen-cases-most-accessed.md) — related
+- [New-curriculum students scored significantly higher on MCQ examinations than old-curriculum students](pbl-higher-mcq-scores-psychiatry.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 284 claims (191 show a difference, 57 mixed, 36 no difference) · 200 studies (66 causal, 49 associational, 44 review, 16 quant-synthesis, 15 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 53 of 200 report an effect size · 277 claims rest on one study
+> **Evidence** · 286 claims (192 show a difference, 57 mixed, 37 no difference) · 201 studies (67 causal, 49 associational, 44 review, 16 quant-synthesis, 15 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 54 of 201 report an effect size · 279 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -326,6 +326,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Shared purpose and camaraderie between peer tutors and students fostered close, personalised relationships in PAL](../claims/pal-camaraderie-shared-purpose.md) [+M] — measured as an outcome of the instruction studied
 - [Students showed a modest increase from retrospective pre-training to post-training in perspective taking, compassionate care, and willingness to show empathic behaviour](../claims/modest-pre-post-increase-empathy-factors.md) [+M] — measured as an outcome of the instruction studied
 - [The number of medical interviewing training sessions (1 to 3) showed no statistically significant relation to perspective taking, compassionate care, or willingness to show empathic behaviour](../claims/training-session-count-null-effect-empathy-factors.md) [-M] — measured as an outcome of the instruction studied
+- [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](../claims/paths-primary-effect-teacher-rated-secchi.md) [+M] — measured as an outcome of the instruction studied
+- [PATHS showed no statistically significant primary effects on child-rated SSIS social skills or teacher-rated pro-social behavior](../claims/paths-no-primary-effects-child-rated-sec.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

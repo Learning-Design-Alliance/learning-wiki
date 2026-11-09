@@ -52,3 +52,4 @@ Exploratory questionnaire (Table 2, n = 122) after simulator training in both gr
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related
 - [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](fluency-lumbar-puncture-five-trials-95-minutes.md) — related
+- [Trainees accept Peyton's approach well: Peyton-group students felt they learned more and control-group women preferred the Peyton group](peyton-approach-acceptance-evaluation.md) — related

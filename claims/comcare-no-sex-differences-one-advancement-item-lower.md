@@ -70,3 +70,4 @@ In a cross-sectional comparison of the three final-year thirds (n=53, n=17, n=32
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
 - [Male participants performed significantly better than females in final camera navigation and bimanual coordination, but not hand–eye coordination](sex-difference-laparoscopic-final-performance.md) — reports the opposite
 - [Final-year medical students self-rated their communication and interpersonal skills significantly higher than simulated patients rated them](students-self-ratings-exceed-simulated-patient-ratings-comcare.md) — related
+- [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — related

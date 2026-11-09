@@ -50,3 +50,4 @@ The discussion attributes this discrepancy to prior studies (citing refs 26–27
 - [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](lsat-logic-games-transfer-composite-reasoning.md) — related
 - [Commercialized critical thinking measures have limited validity for nursing-specific contextual performance](commercialized-ct-measures-limited-validity.md) — related
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](reading-comprehension-critical-thinking-correlated.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related

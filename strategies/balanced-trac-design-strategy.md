@@ -55,6 +55,7 @@ The article recommends that shared learning situations be designed so that both 
 
 - [Design simulation-based IPE scenarios that give every profession an active problem-solving role](scenario-design-active-participation-across-professions.md)
 - [Recommendations for future interprofessional OMP workshops: balance professions, stress efficiency, add a follow-up session, and refine micro-skill wording](interprofessional-omp-workshop-implementation-recommendations.md)
+- [Promote interprofessional cooperation during undergraduate medical studies through combined courses with trainees and students of other medical care professions](combined-interprofessional-courses-undergraduate-medical.md)
 
 ## Examples
 -

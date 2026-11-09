@@ -61,3 +61,5 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — related
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — a broader claim this one bears on
 - [Bag-and-mask, pre-birth preparation, and OSCE skill scores rose from baseline to immediately after HBB training and were retained at 6 months in one single-group pre-post study with no comparison group](hbb-qic-skill-scores-retained-6-months.md) — reports the opposite
+- [Among birth attendants, OSCE B resuscitation skill pass rates rose from 81% before to 99% after a half-day refresher training, in one group with no comparison group](hbb-refresher-training-restores-skills.md) — related
+- [Resuscitation skills decline more than knowledge in the months after initial HBB training](hbb-skills-decline-more-than-knowledge.md) — related

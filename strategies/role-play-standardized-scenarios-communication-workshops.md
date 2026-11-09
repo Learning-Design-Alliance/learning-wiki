@@ -56,6 +56,7 @@ Both interventions in the trial were built around role-play, which the authors d
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 - [Teach critical thinking through varied interactive activities — role plays, case scenarios, essays, and discussions — within a short foundation workshop](interactive-varied-activities-ct-workshop-strategy.md)
 - [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
+- [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](standardized-360-feedback-sequence-strategy.md)
 
 ## Examples
 -

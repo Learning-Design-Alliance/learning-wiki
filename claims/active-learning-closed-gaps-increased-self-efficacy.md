@@ -59,3 +59,4 @@ The review reports, citing Ballen et al. (2017), a study of underrepresented and
 - [A minority of students became less interested in biology after the course, and this disinterest came primarily from non-STEM students](ibis-non-stem-interest-decline.md) — related
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
 - [Classroom social belonging increases with active learning only for non-URM students](social-belonging-increases-only-non-urm.md) — related
+- [After SGM program implementation, URM students graduated with biology and NSE majors or minors at rates equal to non-URM students, closing a pre-program gap](pltl-sgm-urm-persistence-equal-non-urm.md) — related

@@ -57,3 +57,4 @@ Gender-differentiated analysis of the AI-enhanced experimental group (Table 7; 3
 - [Gender, age and SES correlate with EFL PsyCap, boredom, engagement and achievement](gender-age-ses-efl-outcomes.md) — related
 - [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — reports the opposite
 - [Male students reported higher e-learning readiness than female students, with no difference by age](e-learning-readiness-higher-males.md) — reports the opposite
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — related

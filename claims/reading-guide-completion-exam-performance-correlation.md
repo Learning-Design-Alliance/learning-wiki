@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-09
 sources:
   - id: lieu-2017
     resource: "https://doi.org/10.1187/cbe.16-11-0320"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multiple linear regression estimates for fully completing a single reading guide before class on exam score ranged from 1.35 ± 0.26 (exam 3) to 1.71 ± 0.26 (exam 2) percentage points, statistically significant for all four exams. [→ Lieu 2017](#lieu-2017)

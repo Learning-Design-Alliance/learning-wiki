@@ -51,3 +51,4 @@ One-year post-training DOPS assessment of both cohorts on 11 items scored out of
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
 - [The RCDP group exhibits significantly greater skill decay over one year than the traditional teaching group](rcdp-greater-skill-decay-than-ttm.md) — related
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
+- [Peyton's Four-Step Approach is more conducive than simple instructions for skills lab training, especially for observed professionalism and doctor-patient communication](peyton-four-step-superior-controlled-trial.md) — related

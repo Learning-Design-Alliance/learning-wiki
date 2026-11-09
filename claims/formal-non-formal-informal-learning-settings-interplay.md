@@ -57,3 +57,4 @@ A descriptive statement of the ISEE Assessment's third key question (where we le
 - [A majority of CMC studies (79%) produced effect sizes favoring CMC, while 21% favored face-to-face or non-computer-mediated communication](cmc-79-percent-positive-21-negative.md) — a narrower finding that bears on this claim
 - [VP collection may convey a hidden curriculum through unrepresentative demographics](vp-collection-hidden-curriculum.md) — a narrower finding that bears on this claim
 - [Prior studies of music technology in face-to-face settings and one e-learning composition study inform but do not settle the effectiveness of blended music instruction](music-technology-literature-gap-blended-effectiveness.md) — related
+- [Synchronous online discussions led by Makerere University were the central learning technique and enabled peer-to-peer learning across three countries](synchronous-online-discussions-central-peer-learning.md) — related

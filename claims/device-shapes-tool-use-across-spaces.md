@@ -67,3 +67,4 @@ Per-device, per-space bubble diagrams placed in the multi-spatial learning conte
 - [Creation tools prevail in dedicated spaces while appropriated spaces attract social and texting tools](creation-tools-dedicated-spaces-social-appropriated.md) — related
 - [During the pandemic teachers employed an array of digital tools, including non-institutional ones, to maintain content delivery and promote interaction](expanded-digital-tool-array-during-got.md) — related
 - [Teacher-prescribed tools dominate reading and interacting, while personal tools dominate creative uses](prescribed-tools-reading-personal-tools-creative.md) — related
+- [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related

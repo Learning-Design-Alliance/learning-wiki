@@ -43,6 +43,7 @@ The article's Notes for Practice state that because users have only surface-leve
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 - [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
+- [Communication domain: inform users, enable contact with faculty, and provide live interaction with experts](postgraduate-me-communication-live-expert-interaction.md)
 
 ## Examples
 -

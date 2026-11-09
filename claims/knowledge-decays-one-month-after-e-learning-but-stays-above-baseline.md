@@ -63,3 +63,4 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related
 - [NIPT training significantly improved midwives' self-perceived knowledge about NIPT at one-month follow-up](nipt-training-improved-perceived-knowledge.md) — related
+- [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related

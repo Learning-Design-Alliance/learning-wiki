@@ -67,3 +67,4 @@ Timed post-test practical evaluation conducted by the evaluator on the mannequin
 - [Correct identification of echocardiographic view titles improved after training, with the apical two-cavities view title rising from 21.4% to 100% correct](echo-view-title-identification-improved-after-sim-training.md) — related
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
 - [Blinded experts rate tutored residents as more autonomous and more competent in image acquisition and optimisation](expert-rated-autonomy-and-image-competency.md) — related
+- [Image optimization showed the least improvement, and the authors recommend US training courses emphasize image optimization before interpretation](image-optimization-least-improved-emphasize-in-training.md) — related

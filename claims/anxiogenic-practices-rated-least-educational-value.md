@@ -69,3 +69,4 @@ Ranking comparison of 11 EBIPs for anxiety versus contribution to learning, usin
 - [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related
 - [Students rate lecturing among the most valued practices, and ratings of practices changed little over the semester despite new EBIP adoption](lecture-rated-valued-ratings-stable-over-term.md) — related
 - [Use of participation-enforcement techniques (cold call, stretch it: explain logic) and participation rates declined over the term, while student-initiated contact and group volunteering increased](participation-techniques-declined-over-term.md) — related
+- [Cold calling and volunteering to answer questions cause higher student anxiety than clickers, group work, or worksheets](cold-calling-volunteering-highest-anxiety.md) — possibly the same claim (merge candidate)

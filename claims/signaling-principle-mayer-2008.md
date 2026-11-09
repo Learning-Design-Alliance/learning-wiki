@@ -53,3 +53,4 @@ Controlled experiments comparing signaled versus nonsignaled lessons (overview s
 -
 - [A narrative review reports that the signaling studies it cites found higher learning outcomes with signaled multimedia (illustrations with labeled text) than without](signaling-principle-increased-learning-outcomes.md) — a broader claim this one bears on
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](dhh-signaling-principle-valuable.md) — a narrower finding that bears on this claim
+- [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — a broader claim this one bears on

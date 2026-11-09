@@ -66,3 +66,4 @@ Post-hoc comparison in the pooled sample: rotation-3 students averaged "79.17 in
 ## Related Claims
 - [Final pediatrics grades were stable across three academic years, with grade C the most common outcome](final-grades-stable-across-three-years.md) — related
 - [End-of-block OSCE performance is positively correlated with final OSCE performance in pediatrics clerks (r = 0.508)](end-of-block-osce-correlates-final-osce-pediatrics.md) — related
+- [Composite score gains remained stable across the intervention years](stable-composite-gains-within-intervention.md) — related

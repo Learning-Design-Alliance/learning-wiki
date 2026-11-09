@@ -74,3 +74,5 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [Students mildly prefer live lectures over video lectures for exam preparation](students-prefer-live-lectures-mildly.md) — reports the opposite
 - [Residents rated bedside teaching, small group learning, and simulation as the best methods for learning palliative care, preferring them to lectures and online asynchronous modules](learning-method-preferences-palliative-care.md) — related
 - [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related
+- [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
+- [Most surveyed students perceive little or no positive impact of recorded lecture use on their grades](perceived-little-grade-impact-of-recordings.md) — related

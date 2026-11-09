@@ -67,3 +67,4 @@ The review reports, citing Lerman et al., that "LED light and piezoelectric buzz
 - [Human mentor feedback was often judged superior to automated simulator feedback for guiding skill acquisition](human-feedback-superior-to-automated-feedback-dp-sbst.md) — related
 - [IONM-based education lowered recurrent laryngeal nerve injury rates and enhanced procedural standardization](ionm-education-lowers-rln-injury-rates.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [Feedback frequency effects are mixed: higher-frequency intermittent feedback aided procedural skill acquisition, but overly intensive feedback can be inconducive early in learning](feedback-frequency-mixed-effects.md) — related

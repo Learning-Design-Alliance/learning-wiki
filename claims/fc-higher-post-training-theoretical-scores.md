@@ -62,3 +62,4 @@ Pre- and post-training 20-question multiple-choice examinations (100 points) dra
 - [First theoretical examination scores showed no significant difference across the four training groups before intervention](baseline-theoretical-scores-equivalent-across-groups.md) — related
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
 - [Flipped learning did not increase medical students' situational autonomous or controlled motivation to participate in simulation training](flipped-learning-no-motivation-increase.md) — related
+- [Overall exam score differences were negative, possibly inflated by a preceding in-training exam](negative-exam-score-differences-in-training-exam-confound.md) — related

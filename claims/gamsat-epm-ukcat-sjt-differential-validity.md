@@ -68,3 +68,4 @@ Intercorrelation of the two aptitude tests in the same UKMED cohorts: r = .608 f
 - [BME ethnicity is negatively related to EPM ranking while positively predicting completion, a disparity across success measures](bme-ethnicity-epm-completion-disparity.md) — related
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
 - [The three selection scores intercorrelate only weakly to moderately, with the highest correlation between EPM decile and SJT z-score](selection-measures-intercorrelations-rho-030.md) — related
+- [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related

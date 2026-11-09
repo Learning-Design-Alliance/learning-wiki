@@ -111,3 +111,5 @@ Regression analysis of final exam grades with Homework Type × High school math 
 - [Interleaved mathematics assignments nearly doubled final test performance compared with blocked assignments in seventh grade (72% vs. 38%, d = 1.05)](interleaved-math-practice-nearly-doubles-test-scores.md) — related
 - [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](demographic-disparities-overall-lab-grades.md) — related
 - [The Metacognition+TM intervention especially increased time management tool use among students from minoritized groups](minoritized-group-moderation-time-tools.md) — related
+- [Students with lower prior academic achievement and less educated mothers report higher levels of IT integration, suggesting compensatory use of technology](compensatory-it-use-lower-achieving-students.md) — related
+- [The historical URM–non-URM grade gap narrowed in Biology 2 but not in Biology 1 after program implementation](grade-gap-narrowed-biology2-only.md) — related

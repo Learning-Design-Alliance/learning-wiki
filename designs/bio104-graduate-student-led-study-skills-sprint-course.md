@@ -20,7 +20,7 @@ sources:
 > **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
-BIO 104 is a low-cost supplemental course designed and taught by graduate TAs alongside introductory biology, requiring no faculty labor. It adapts the study cycle (Cook et al., 2013), teaching students to "study early and often, in short but intensive bouts," to make an outline after every lecture, and to construct concept maps from memory for self-assessment. TAs collected and graded one outline and one concept map weekly on 10-point content and organization scales with feedback.
+BIO 104 is a low-cost supplemental course designed and taught by graduate TAs alongside introductory biology, requiring no faculty labor. It adapts the study cycle ([Cook et al., 2013](https://doi.org/10.3109/0142159x.2012.714886)), teaching students to "study early and often, in short but intensive bouts," to make an outline after every lecture, and to construct concept maps from memory for self-assessment. TAs collected and graded one outline and one concept map weekly on 10-point content and organization scales with feedback.
 
 ## Design Implications
 

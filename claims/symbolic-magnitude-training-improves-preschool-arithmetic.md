@@ -54,3 +54,5 @@ Randomized three-group training study with 56 preschoolers (non-symbolic, symbol
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
 - [The training shows no significant transfer to academic learning tasks, with only a marginal post-test advantage in number conservation](weak-academic-transfer-number-conservation-marginal.md) — related
 - [Training the approximate number system has not provided conclusive evidence of transfer to arithmetic, and the ANS-as-foundation claim is weak](ans-training-no-conclusive-transfer-to-arithmetic.md) — related
+- [Symbolic number magnitude training, but not non-symbolic or control training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-gains-preschool-exact-addition.md) — possibly the same claim (merge candidate)
+- [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](symbolic-training-symbolic-tasks-and-verbal-transfer.md) — related

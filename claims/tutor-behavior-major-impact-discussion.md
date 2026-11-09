@@ -52,3 +52,4 @@ Qualitative comparative case study, results section: some tutors dominated discu
 - [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
 - [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md) — a broader claim this one bears on
 - [The beginner tutor was unnerved by a dominant, critical student and by posting complexity, did not respond at times, and made no active contribution in the end phase](beginner-tutor-overwhelmed-withdrew.md) — related
+- [Dominant behaviour and criticism negatively influence group interaction but can act as triggers for learning](dominance-criticism-negative-interaction-trigger-learning.md) — related

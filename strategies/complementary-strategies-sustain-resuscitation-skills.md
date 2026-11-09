@@ -54,6 +54,7 @@ Because knowledge and skills declined significantly within about two years of co
 - [Daily self-led skill drills with automated simulator feedback to maintain neonatal resuscitation skills](daily-skill-drills-simulator-feedback-strategy.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 
 ## Examples
 -

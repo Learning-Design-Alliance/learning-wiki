@@ -81,3 +81,4 @@ Commentary assertion citing Deslauriers et al. (2019) via footnote; the article 
 - [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related
 - [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — a narrower finding that bears on this claim
 - [Students in active classrooms report a lower feeling of learning than students in passive lectures](active-learning-lower-fol-randomized-crossover.md) — a narrower finding that bears on this claim
+- [Medical students perceive elearning as intrinsically lower value than face-to-face teaching, generating a sense of injustice that obstructs engagement](elearning-injustice-theme-medical-students.md) — related

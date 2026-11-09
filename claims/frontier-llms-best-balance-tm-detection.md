@@ -85,3 +85,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction](t5-finetuning-average-loss-04098.md) — related
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](llm-plan-generation-adaptive-scaffolding-gbl.md) — related
+- [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related

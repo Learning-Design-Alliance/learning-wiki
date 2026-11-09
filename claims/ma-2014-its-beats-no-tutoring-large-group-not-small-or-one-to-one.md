@@ -60,3 +60,4 @@ The letter reports the Ma et al. (2014) meta-analysis of step-based ITSs: "posit
 - [Non-expert human tutors follow a limited 5-step collaborative reasoning repertoire, with far more student question-asking than classroom instruction](five-step-frame-human-tutor-corpus.md) — related
 - [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](vcr-tutor-significant-performance-gains.md) — a narrower finding that bears on this claim
 - [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — a narrower finding that bears on this claim
+- [Meta-analyses show simulation-based training is superior to no intervention and yields small-to-moderate advantages over other instruction methods](meta-analyses-simulation-superiority.md) — related
