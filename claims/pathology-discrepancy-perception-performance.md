@@ -46,3 +46,4 @@ Authors' observation comparing the Step 1 score plot with survey ratings: pathol
 
 ## Related Claims
 - [Students' perceptions of curricular insufficiency coincide with their school's lowest-performing disciplines and organ systems on USMLE Step 1](student-perceptions-coincide-with-step1-low-performance.md) — related
+- [USMLE scores, including the Musculoskeletal, Skin and Connective Tissue Diseases subtest, showed no improvement after the curricular changes](usmle-msk-subtest-no-improvement.md) — related

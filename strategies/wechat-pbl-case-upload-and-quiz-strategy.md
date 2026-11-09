@@ -51,6 +51,7 @@ The article's implementable recipe for WeChat-PBL: micro clinical cases with rel
 - [Implement a two-stage integrated PBL process: pre-class preparation, in-class group case discussion, self-study, and next-class group reporting](integrated-pbl-session-implementation-strategy.md)
 - [Deliver case-based learning inside a BOPPPS framework by sending real cases and questions to students before class, quizzing, discussing cases, testing, and having students build mind maps](cbl-boppps-case-delivery-strategy.md)
 - [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
+- [Use telephone video-conferencing for interim monitoring of structured surgical training programs](video-conferencing-interim-curriculum-monitoring.md)
 
 ## Examples
 -

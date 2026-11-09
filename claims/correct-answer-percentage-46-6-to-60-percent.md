@@ -66,3 +66,5 @@ Pre/post questionnaire study pooling five intern groups at RBWH; the article rep
 - [Improved PBM knowledge is associated with reduced blood transfusions, per prior literature cited in the article](improved-pbm-knowledge-reduces-transfusions.md) — related
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
 - [Staff knowledge about urinary catheter use rose significantly from baseline to follow-up after implementation of the intervention bundle, with small-to-moderate effect sizes, in one uncontrolled pre-post study](iuc-bundle-knowledge-increase.md) — related
+- [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
+- [Medical students answered more cardiovascular knowledge questions correctly after optional access to an LPM-based e-learning environment than before, in an uncontrolled pre-post test](lpm-ele-improves-cvs-knowledge-questions.md) — related

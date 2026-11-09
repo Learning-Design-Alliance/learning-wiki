@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 150 claims (112 for, 35 mixed, 3 against) · 103 studies (47 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 27 of 103 report an effect size · 144 claims rest on one study
+> **Evidence** · 153 claims (114 for, 36 mixed, 3 against) · 105 studies (48 associational, 21 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 28 of 105 report an effect size · 147 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -206,6 +206,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [The motivation–strategy–performance model differs by ethnic group, with achieving strategy mediating autonomous motivation and GPA only for Dutch students](../claims/achieving-strategy-mediation-dutch-only.md) [~W] — attached 2026-11-09 from Isik U. et al. (2018), which proposed "Self-determination theory's motivation-quality continuum with Biggs's three study strategies as mediators of performance".
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](../claims/autonomous-extrinsic-motivation-positive-cbt-attitude.md) [+W] — attached 2026-11-09 from Hariri-Akbari M et al. (2018), which proposed "Self-Determination Theory as a framework for the quality of motivation (intrinsic vs extrinsic) and its internalization".
 - [Residents with more autonomous relative motivation are more likely to participate in non-obligatory e-learning on antibiotic prescribing (adjusted OR 2.6 per 10-point RAM increase)](../claims/autonomous-motivation-predicts-elearning-participation.md) [+W] — attached 2026-11-09 from Caris MG et al. (2018), which proposed "Self-determination theory: autonomous versus controlled motivation on a continuum"; tests this page's relationship.
+- [Non-Western minority medical students report higher autonomous motivation than Dutch majority students in both pre-clinical and clinical education](../claims/non-western-students-higher-autonomous-motivation.md) [+W] — attached 2026-11-09 from Isik U et al. (2017), which proposed "Self-Determination Theory as the framework distinguishing autonomous from controlled motivation in medical students".
+- [Autonomous motivation is positively associated with GPA for Dutch students in pre-clinical education and for Western minority students in clinical education, but not for non-Western students](../claims/autonomous-motivation-gpa-association-ethnic-groups.md) [~W] — attached 2026-11-09 from Isik U et al. (2017), which proposed "Self-Determination Theory as the framework distinguishing autonomous from controlled motivation in medical students".
+- [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](../claims/sdt-path-engagement-mediation-tbl.md) [+W] — attached 2026-11-09 from Jeno Lucas M. et al. (2017), which proposed "Self-determination theory: basic psychological needs and a continuum of motivation types"; tests this page's relationship.
 
 ## The evidence by question
 

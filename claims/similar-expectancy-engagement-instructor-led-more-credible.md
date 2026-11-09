@@ -53,3 +53,4 @@ Acceptability comparison in the trial of 206 teachers, measuring expectancy at w
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related
 - [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related
 - [Most pilot participants preferred virtual delivery of the microaggression workshops despite the authors' initial expectation that in-person formats would build community best](virtual-delivery-preferred-for-dei-workshops.md) — related
+- [Participants' self-reported learning experience favours the Virtual Patient format in engagement, stimulation, general opinion and expectations, though group discrepancies were generally small](vp-higher-learning-experience-appraisals.md) — related

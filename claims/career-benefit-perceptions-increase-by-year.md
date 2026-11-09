@@ -48,3 +48,4 @@ Tukey's HSD post hoc comparisons (Table 4) on career development impact scores a
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
 - [Belief that OSPEs improve clinical skills correlates with OSPE and OSCE benefit scores but not with career development impact](ospe-skill-belief-correlates-benefit-not-career.md) — related
 - [Primary-program students show a significantly higher mean Stroop Effect than upper-secondary students](stroop-effect-primary-upper-secondary-difference.md) — related
+- [Theoretical learning gains did not differ significantly between 1st–2nd year and 3rd–4th year nursing students](bls-online-learning-no-year-group-difference.md) — related

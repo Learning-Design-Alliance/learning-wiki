@@ -59,3 +59,4 @@ Pearson correlation analysis among 97 Tehran Emergency Center personnel; the art
 - [EBM Confidence Scale scores correlated moderately positively with OSCE Physical Interview performance in the EBM-BOPPPS group](ebm-confidence-osce-physical-interview-correlation.md) — a narrower finding that bears on this claim
 - [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — reports the opposite
 - [Practical and theoretical OSCE scores correlate strongly across experience groups (Pearson's r = 0.755)](osce-tus-practical-theoretical-correlation.md) — related
+- [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — reports the opposite

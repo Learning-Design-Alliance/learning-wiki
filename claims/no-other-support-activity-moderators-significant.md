@@ -48,3 +48,4 @@ Meta-regression moderator analyses across the 28-study sample found no significa
 - [Providing feedback on lesson plans amplifies the intervention effect on teacher self-efficacy (large effect, near-significant)](feedback-lesson-plans-amplifies-self-efficacy-effect.md) — possibly the same claim (merge candidate)
 - [Guided reflection was the most frequently applied individual support activity in the included interventions](guided-reflection-most-frequent-support-activity.md) — related
 - [Interventions with individual support activities improve pre-service and beginning teachers' self-efficacy with a medium-sized overall effect](interventions-medium-effect-teacher-self-efficacy.md) — related
+- [Nurses reported that actively self-reflecting, including on what they did well, was useful for developing Teach-Back skills and analysing technique effectiveness](guided-self-reflection-useful-for-teachback-skills.md) — related

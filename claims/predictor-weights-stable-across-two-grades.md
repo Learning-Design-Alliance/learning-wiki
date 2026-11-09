@@ -50,3 +50,4 @@ Amos Graphics v.23 path model comparing an unconstrained model (coefficients fre
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
+- [The DV interview performance pattern does not differ between 3rd-year and 4th-year medical students](no-difference-dv-pattern-third-fourth-year.md) — related

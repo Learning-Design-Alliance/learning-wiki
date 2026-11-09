@@ -51,6 +51,7 @@ The authors' practice recommendation is for curriculum designers and educators "
 - [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
 - [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
 - [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
+- [Implement interprofessional simulation trainings and internships as longitudinal programs within the curricula of all involved health professions](longitudinal-interprofessional-simulation-curricula.md)
 
 ## Examples
 -

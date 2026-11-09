@@ -20,6 +20,7 @@ A physical laparoscopic skills-training simulator developed for medical students
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **EndoSuture Training Box simulator for endosuture skills training**: The EndoSuture Training Box is a real abdominal cavity simulator used in the BariUp course's endosuture exercises, designed and validated by Moura Júnior. Trainees view the preceptor's movements through an 80" TV monitor and "try to repeat them in simultaneous and continuous act", which the article says facilitates absorption of psychomotor concepts. It can be coupled to videosurgery equipment or a robotic platform, allowing two trainees to work simultaneously, one operating and one assisting at the camera. (de MOURA-JÚNIOR Luiz Gonzaga et al. (2017))
 
 ### Claims
 - [In a randomized crossover study, surgeons rated the EndoSuture Trainer Box Simulator higher overall than a standard laparoscopic trainer for training laparoscopic skills](../claims/estbs-overall-score-higher-than-slt.md) [+M]
@@ -30,3 +31,4 @@ A physical laparoscopic skills-training simulator developed for medical students
 
 ## Key Sources
 - de Moura Júnior LG, de Vasconcelos PRL, Fechine FV, de Moura MS, de Moura RLS, Rocha HAL, de Moraes Filho MO. (2018). Endosuture trainer box simulator as a tool for training and teaching in bariatric laparoscopic surgery. BMC Surgery. https://doi.org/10.1186/s12893-018-0412-5
+- de MOURA-JÚNIOR Luiz Gonzaga, RAMOS Almino, CAMPOS Josemberg Marins, FERRAZ Álvaro Antônio, ROCHA Hermano Ângelo Lima, COSTA Grijalva Otávio. (2017). TEACHING MODEL FOR EVALUATION OF THE ABILITY AND COMPETENCE PROGRESS IN ENDOSUTURE IN SURGICAL SKILL LABORATORY. Arquivos Brasileiros de Cirurgia Digestiva. https://doi.org/10.1590/0102-6720201700040007

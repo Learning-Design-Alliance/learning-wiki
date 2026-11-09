@@ -49,3 +49,4 @@ In the regression analysis (n = 93), "the regression coefficient (standardized b
 - [Academic stress significantly predicts depressive symptoms, explaining 34% of variance, among health professions students during COVID-19 virtual learning](academic-stress-predicts-depressive-symptoms-covid.md) — related
 - [High rates of academic stress, sleep disturbance, and depressive symptoms were reported: 79.6% poor sleep quality and 60.2% high depressive symptoms](high-prevalence-sleep-disturbance-depressive-symptoms.md) — related
 - [Resourcefulness does not moderate the relationship between academic stress and depressive symptoms nor predict depressive symptoms](resourcefulness-no-moderating-effect-depressive-symptoms.md) — related
+- [Cognition partially mediates the physical activity–academic performance association, which weakens but remains significant when cognition is included](cognition-partially-mediates-pa-academic-performance.md) — related

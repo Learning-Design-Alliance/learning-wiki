@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 117 claims (50 for, 63 mixed, 4 against) · 94 studies (60 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 23 of 94 report an effect size · 107 claims rest on one study
+> **Evidence** · 120 claims (52 for, 64 mixed, 4 against) · 96 studies (62 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 24 of 96 report an effect size · 110 claims rest on one study
 
 ## Description and scope
 
@@ -126,6 +126,9 @@ Claims linked to this page later go here until they are read against the model.
 - [Motion in pictures is of no value for teaching foreign vocabulary measured by written recall](../claims/motion-in-pictures-no-value-vocabulary.md) [~W] — attached 2026-10-29 from Kale et al. (1955), which proposed "Use still pictures instead of motion pictures for film-based vocabulary instruction to avoid production expense"; tests this page's relationship.
 - [No statistically significant difference was found between planar still images and animated stereo images as visual glosses for learning preposition senses](../claims/no-difference-planar-animated-visual-glosses.md) [~W] — attached 2026-11-02 from Takeshi Sato et al. (2012), which proposed "Optimize visual glosses according to the learning target rather than assuming technologically advanced glosses are better".
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Four-factor multimedia program design: segmentation, guidance, contiguity, and motivational appearance"; tests this page's relationship.
+- [Watching a novel lecture at 1.5× speed significantly reduced immediate quiz performance compared with 1.0× speed for the artifacts video](../claims/one-point-five-speed-significant-detriment-artifacts-quiz.md) [+M] — attached 2026-11-09 from Song K et al. (2018), which proposed "Do not assume faster podcast playback speeds save learners time when novel material must be retained"; tests this page's relationship.
+- [Animated-media instruction (video or animation-enriched VP) yields better adherence to temporal demands of PBLS than static-media VP in a randomized trial](../claims/animated-media-better-temporal-demands-pbls.md) [+W] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Combine animation with interactivity in self-instruction materials for complex procedural skills"; tests this page's relationship.
+- [No significant difference between video, animation-enriched VP, and static VP groups in adherence to the correct PBLS algorithm](../claims/no-group-difference-pbls-algorithm-adherence.md) [~W] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Combine animation with interactivity in self-instruction materials for complex procedural skills"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

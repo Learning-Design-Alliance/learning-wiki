@@ -51,3 +51,4 @@ Pearson correlation analysis in the 380-student cross-sectional study; the motiv
 - [Motivational regulation strategy use strongly and positively predicts cognitive learning strategy use among medical students in online learning](mrs-strongly-predicts-cls-online-medical-students.md) — related
 - [Outcome expectations were not a significant predictor of medical students' academic achievement](outcome-expectations-not-predict-cgpa-medical-students.md) — related
 - [In the SEM model, learning strategies had the greatest direct effect on CGPA among the three SCCT variables](sem-learning-strategies-greatest-effect-cgpa.md) — related
+- [cGPA is a strongly significant positive predictor of progress test performance](cgpa-strongly-predicts-progress-test.md) — related

@@ -50,6 +50,7 @@ The article's Educational Impact and Implications Statement recommends that educ
 
 - [Targeted interventions and adaptive feedback to move learners from Observation toward full-cycle Exploration](adaptive-feedback-move-observation-to-exploration.md)
 - [Calibrate academic task design to individual students and strengthen self-efficacy and peer support as malleable protective factors for momentary engagement](calibrate-tasks-and-protective-factors-for-engagement.md)
+- [Support teachers with interventions that stimulate adoption of approach-oriented goal profiles and recognize maladaptive multiple-goals profiles early](interventions-stimulate-approach-oriented-profiles.md)
 
 ## Examples
 -

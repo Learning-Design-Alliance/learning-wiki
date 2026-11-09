@@ -50,3 +50,4 @@ Hierarchical linear model of MMI station performance (N = 11,658 ratings within 
 - [Young female candidates outperform young male candidates at MMI simulation and interview stations but not at group stations, with the gender gap smaller or non-significant among candidates aged 21 or older](young-female-mmi-advantage-simulation-interview-not-group.md) — a narrower finding that bears on this claim
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related
 - [Candidates with German as their first language performed better at the Hamburg MMI irrespective of station type (b = 0.16, p < 0.001)](native-german-speakers-better-mmi-all-station-types.md) — related
+- [MMI performance is significantly related to gender and age: female and older candidates scored higher](hamburg-mmi-gender-age-control-variables.md) — related

@@ -43,6 +43,7 @@ The authors recommend that although some institutions already have graduate teac
 ## Related Strategies
 
 - [Five-component outcomes-oriented implementation training for scaling evidence-based treatment](five-component-outcomes-oriented-implementation-training.md)
+- [Graduate training programs should emphasize increasing access to quality training in EBT strategies](increase-access-quality-ebt-training-grad-programs.md)
 
 ## Examples
 -

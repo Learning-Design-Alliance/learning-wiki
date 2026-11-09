@@ -70,3 +70,4 @@ CMOC extracted from Sandau and Halm (2011), a mixed-methods study of a mandatory
 - [Short-duration supervision training interventions produce positive outcomes through mechanisms such as supervisor characteristics](short-duration-supervision-training-supervisor-characteristics-mechanism.md) — reports the opposite
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — a broader claim this one bears on
 - [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — related
+- [A theory-informed intervention combining a 2-h Teach-Back workshop with guided self-reflection enabled experienced telenurses to use Teach-Back in a telephone helpline](telenurse-teachback-intervention-enabled-use.md) — a narrower finding that bears on this claim

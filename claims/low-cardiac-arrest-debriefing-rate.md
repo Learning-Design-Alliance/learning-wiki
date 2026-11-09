@@ -48,3 +48,4 @@ Observational count from the study window; the authors state previous studies re
 ## Related Claims
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — related
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related
+- [Previous observational studies report associations between pit-crew implementation and improved outcomes, but they bundled pit-crew training with other interventions](pit-crew-observational-studies-bundled-interventions.md) — related

@@ -59,6 +59,7 @@ The review recommends that tertiary educators incorporate CMB (brief 4–10 min 
 - [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 - [Universities should promote physical activity through innovative motivational teaching strategies such as gamification](universities-promote-pa-innovative-motivational-strategies.md)
+- [Incorporate low-intensity cycle desks (RPE ≤2/10) into college lecture courses to reduce sedentary time without harming academic performance](cycle-desk-lecture-strategy.md)
 
 ## Examples
 -

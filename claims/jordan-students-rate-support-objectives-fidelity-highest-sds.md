@@ -49,3 +49,4 @@ Descriptive survey results from 966 Jordanian undergraduate nursing students res
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — reports the opposite
 - [INACSL-standard-based training improves perceived simulation design, especially objectives/information and guided reflection/feedback](inacsl-simulation-improves-design-perceptions.md) — related
+- [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related

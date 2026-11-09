@@ -53,3 +53,4 @@ In the same RCT, the week 2 mid-point assessment showed the VR group at 205.3 ±
 - [Initial spurt takes place as a general rule in addition, which the author argues chance variation cannot explain](initial-spurt-general-rule-addition.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
 - [The video group's advantage was concentrated in the first five cycles, after which the control group caught up through self-learning](video-advantage-concentrated-early-cycles.md) — related
+- [Two trainees temporarily decreased proficiency at the concept-teaching stage before reaching optimal proficiency, indicating adaptation costs mid-training](temporary-decrease-at-concept-teaching-stage.md) — related

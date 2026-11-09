@@ -49,6 +49,7 @@ The article recommends that schools and clinicians look beyond a presenting cond
 - [Systematic screening for gaming disorder among students with ADHD and vice versa, with gender-sensitive interventions](systematic-gd-adhd-mutual-screening-strategy.md)
 - [Provide early rehabilitative activities and special training modules adapted to the child from early school life for children with bilateral cataract](early-rehabilitation-training-modules-bilateral-cataract.md)
 - [Base additional school adjustments and special support on educational assessments rather than psychiatric diagnosis, with support preceding diagnosis](educational-assessment-before-diagnosis-support.md)
+- [Raise awareness among health care providers, teachers, and parents of TS-related school challenges and provide education and training to support children with TS](ts-school-awareness-education-training-strategy.md)
 
 ## Examples
 -

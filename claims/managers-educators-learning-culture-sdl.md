@@ -49,3 +49,4 @@ Thematic analysis of interviews with healthcare professionals, clinical educator
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [Implementation of the individualised intervention was easier in smaller homes and those with less hierarchical, more facilitative management](implementation-easier-smaller-homes-facilitative-management.md) — related
 - [Managers who led by example were more likely to facilitate staff participation in the intervention](manager-leads-by-example-participation.md) — related
+- [Strength of commitment was not significantly correlated with probability of realization, which participants attributed to workplace factors](commitment-strength-realization-null-correlation.md) — related

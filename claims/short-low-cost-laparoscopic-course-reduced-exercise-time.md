@@ -51,3 +51,4 @@ Pre/post paired comparison of timed laparoscopic stitch performance by 36 first-
 - [Skills trained in the FLS suture-with-intracorporeal-knot exercise did not easily transfer to the more complex SUTT1 stitching and knot-tying task](fls-suture-skills-poor-transfer-sutt1.md) — related
 - [Multidirectional stitching training shortens laparoscopic suturing time compared with traditional instruction in junior residents](multidirectional-stitching-faster-suturing.md) — related
 - [In novice residents, at-home box trainer training significantly reduced maximum exerted force on several laparoscopic tasks](at-home-training-reduced-max-force-laparoscopic-tasks.md) — related
+- [Staged simulation training increased the number of endosuture stitches completed in time, with an average increase of 1.36 points across training stages](staged-simulation-increases-endosuture-stitches.md) — related

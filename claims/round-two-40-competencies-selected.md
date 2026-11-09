@@ -47,3 +47,4 @@ Second-round quantitative rating (7-point Likert scale, n = 23) of the Delphi st
 ## Related Claims
 - [In Delphi round 2, all competency domains scored above 4.69 in mean importance with Consensus Deviation Index values between 0.06 and 0.10, meeting the pre-set consensus threshold.](round2-consensus-cdi-threshold-met.md) — related
 - [Indicator retention criteria were a mean importance score of at least 4.00, full score rate of at least 20% and coefficient of variation of at most 0.25](delphi-retention-criteria-importance-full-score-cv.md) — related
+- [Survey respondents rated all Delphi skills as important, with analytical skills rated most important and measurement skills least](all-delphi-skills-rated-important-analytical-highest.md) — related

@@ -58,3 +58,5 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
 - [Knowledge test scores increased significantly post-course, from a mean of 11.4 to approximately 13 out of 15 points (p<0.001)](simulation-ecmo-course-improves-knowledge-test-scores.md) — related
 - [Final-year medical students' Quick Risk Test performance rose from a median of 50% to about 90% correct after a 90-minute training session, in one single-group pre-test–post-test study](ninety-minute-training-raises-statistical-literacy.md) — related
+- [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related
+- [Theoretical post-test scores rose from pre-test to post-test among undergraduate nursing students after an online basic life support course, in one uncontrolled pre-post study](online-bls-course-increased-theoretical-test-scores.md) — related

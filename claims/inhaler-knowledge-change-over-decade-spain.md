@@ -51,3 +51,4 @@ Discussion comparison with a study conducted more than 10 years earlier by pract
 - [The review literature reports that healthcare professionals' inhaler technique is correct in a minority of cases and has declined over time](minority-hcp-correct-inhaler-technique-review.md) — related
 - [About 71% of professionals always train patients in correct use of a newly prescribed inhaler, with training shared between nurses and physicians](inhaler-patient-training-practices-survey.md) — related
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
+- [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related

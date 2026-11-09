@@ -50,3 +50,4 @@ Multiple regression on UKMED graduate-entrant data predicting normalised FPAS SJ
 - [GAMSAT correlates more strongly with FPAS-EPM whereas UKCAT correlates more strongly with FPAS-SJT, though the two aptitude tests share much variance](gamsat-epm-ukcat-sjt-differential-validity.md) — related
 - [Graduate entrants to 4-year courses differ in profile from 5-year entrants: older, less likely to be from Asian communities, lower HESA tariff, higher UKCAT and GAMSAT scores](four-year-entrant-profile-differs-from-five-year.md) — related
 - [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](differential-attainment-national-prescribing-assessments.md) — related
+- [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related

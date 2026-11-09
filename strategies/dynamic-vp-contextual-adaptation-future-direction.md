@@ -42,6 +42,7 @@ Looking beyond the pandemic, the authors state that "a more dynamic adaptation o
 - [Four-action strategy for rapidly adapting a virtual patient collection to a changed clinical context](four-action-vp-context-adaptation-strategy.md)
 - [Future direction: integrate large language models into branching virtual simulations for realistic dialogue generation and adaptive feedback](llm-integration-branching-simulation-future-strategy.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Advance clinical reasoning learning in VPs by providing large VP pools with selectable complexity, adaptive context and time pressure, and flexible feedback and activity recommendation](vp-advancement-strategy-adaptive-context-feedback.md)
 
 ## Examples
 -

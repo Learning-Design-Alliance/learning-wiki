@@ -53,3 +53,4 @@ TDF survey at 6-month follow-up (n = 11) with nine domains scored on 7-point sca
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
 - [Only about half of ICU nurses find it easy to identify priority sepsis interventions by order urgency](difficulty-prioritizing-sepsis-orders.md) — related
+- [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-09
 sources:
   - id: shen-jiliang-phd-2024
     resource: "https://doi.org/10.1097/JS9.0000000000001079"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized controlled trial, the operation time of the 3D-printed model group on the isolated swine organ model was significantly shorter than that of the suture and video observation groups (P=0.040). [→ Shen Jiliang PhD 2024](#shen-jiliang-phd-2024)

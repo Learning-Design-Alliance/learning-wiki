@@ -48,3 +48,4 @@ Testing-phase post hoc comparisons (same training, different testing) on total t
 - [Test performance in laparoscopic tasks is dictated by the viewing mode used during testing, not the mode used during training](test-performance-dictated-by-test-viewing-mode.md) — reports the opposite
 - [After crossover to the non-familiar viewing mode, 3D-trained and 2D-4 K-trained novices do not differ significantly in time or success rate on a precision transfer task](crossover-nonfamiliar-system-no-performance-difference.md) — related
 - [On a novel laparoscopic task, participants tested in 3D complete it significantly faster than those tested in 2D, regardless of training mode](novel-task-3d-testing-faster-regardless-of-training.md) — related
+- [Novices trained first on 3D performed significantly worse after switching to 2D, especially on technical errors in complicated tasks](3d-start-worsens-after-switch-to-2d.md) — related

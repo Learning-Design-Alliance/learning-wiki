@@ -41,6 +41,7 @@ The authors recommend that educators "actively cultivate positive perceptions of
 ## Related Strategies
 
 - [Integrate PBL modules into existing clinical nursing curricula to cultivate reflective thinking and engagement](integrate-pbl-modules-clinical-curricula-strategy.md)
+- [Produce e-learning resources where patients contribute to the learning and scenarios are grounded in real life](patient-contributing-elearning-resources-strategy.md)
 
 ## Examples
 -

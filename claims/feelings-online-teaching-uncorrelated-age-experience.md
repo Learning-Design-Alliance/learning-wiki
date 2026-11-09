@@ -48,3 +48,4 @@ Spearman correlation analysis of the same 107-teacher survey, supplemented by Kr
 ## Related Claims
 - [Most surveyed US K-12 teachers reported knowledge, comfort, and confidence for online teaching during early COVID-19, but only 19% preferred online teaching to classroom teaching](k12-teachers-covid-self-efficacy-online-teaching.md) — related
 - [During early COVID-19, surveyed K-12 teachers most often used video lectures and reading materials (65.4% each), with 45% describing their approach as learner-centered](k12-online-strategies-tools-covid-survey.md) — related
+- [Participants' prior ICT skills did not significantly correlate with e-learning experience or with blended learning score increment](prior-ict-skills-not-correlated-with-bl-outcomes.md) — related

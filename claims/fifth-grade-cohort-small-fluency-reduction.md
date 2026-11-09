@@ -57,3 +57,4 @@ In the same two-level randomized trial, Table 2 shows the fifth-grade cohort's A
 - [The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders](interventions-narrowed-reading-gap-word-attack.md) — related
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](younger-struggling-readers-benefited-more.md) — a broader claim this one bears on
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](lttp2-oral-reading-fluency-gains-not-sustained.md) — related

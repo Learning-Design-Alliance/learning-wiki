@@ -46,3 +46,4 @@ Descriptive comparison of University of Texas at Austin undergraduate average GP
 
 ## Related Claims
 - [Student performance increases attributed to daily online testing can be fully explained by selection bias in major composition](smoc-performance-gains-explained-by-selection-bias.md) — related
+- [The grade increase coincided with the 2014 assessment-policy change rather than the 2012 selection-procedure change](grade-increase-coincides-with-policy-change.md) — related

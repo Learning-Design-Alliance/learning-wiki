@@ -127,3 +127,5 @@ In three experiments, learners read a passage that came either with author-provi
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related
 - [Sequencing generated drawing before viewing a provided visual improves transfer, suggesting provided visuals work best as feedback](drawing-before-provided-visual-improves-transfer.md) — related
 - [Online testable concept maps improve pathology quiz scores with moderate-to-large effect sizes (Cohen's d = 0.7–0.8)](concept-maps-pathology-effect-sizes-ho.md) — related
+- [Worked example study combined with concept map completion outperforms worked example study combined with concept map study on near and far transfer in physiotherapy students](concept-map-completion-beats-study-transfer.md) — related
+- [Learning condition affected conceptual knowledge differently for advanced and novice learners: advanced learners benefited from concept map study, novices showed no condition effect](prior-ability-by-condition-conceptual-knowledge.md) — related

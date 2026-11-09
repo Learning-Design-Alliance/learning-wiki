@@ -46,3 +46,4 @@ Qualitative content analysis of VP descriptions. The Standardization subcategory
 
 ## Related Claims
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related
+- [Virtual patients are learner-centered and adaptable, but their degree of learner-centeredness is limited because VPs are often used to standardize teaching and assessment](vp-learner-centeredness-limited-by-standardization.md) — possibly the same claim (merge candidate)

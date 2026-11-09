@@ -50,3 +50,4 @@ Kirkpatrick Level 1 (reactions) of a descriptive cross-sectional survey of 106 p
 - [Classic lectures were the single most preferred whole-block format among surveyed students, ahead of PBL](classic-lectures-most-preferred-whole-block.md) — related
 - [Most surveyed students would recommend PBL and/or TBL to other medical students, but future-block preference was divided](recommendation-and-future-preference-pbl-tbl.md) — related
 - [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](cbl-perceived-more-engaging-than-lectures.md) — a broader claim this one bears on
+- [Medical students perceived clinician facilitation and the standardised TBL structure as providing more reliable guidance than their variable PBL tutor experiences](tbl-clinician-facilitation-guided-learning-perception.md) — reports the opposite

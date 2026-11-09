@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 80 claims (56 for, 21 mixed, 3 against) · 45 studies (26 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 45 report an effect size · 79 claims rest on one study
+> **Evidence** · 81 claims (57 for, 21 mixed, 3 against) · 46 studies (27 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 46 report an effect size · 80 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -104,6 +104,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Gamified group achieved significantly better final-exam performance than the control group](../claims/gamification-better-final-exam-performance-university-pe.md) [+W] — attached 2026-11-08 from Ferriz-Valero Alberto; Østerlie Ove; García Martínez Salvador; García-Jaén Miguel (2020), which proposed "Classcraft platform as gamified intervention tool in physical education teacher education".
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](../claims/gamification-program-improves-crf-college-students.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
 - [Intervention students reported very high satisfaction with the gamified program](../claims/high-satisfaction-gamified-program.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
+- [Students using the gamified interactive multimedia module report significantly higher satisfaction than those using the PowerPoint show module](../claims/im-module-higher-satisfaction.md) [+W] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Gamified interactive multimedia (IM) module for emergent ORL-HNS mobile e-learning".
 
 ## Examples
 

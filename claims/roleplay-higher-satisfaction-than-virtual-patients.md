@@ -49,3 +49,4 @@ Satisfaction questionnaire (adapted from Cook and colleagues, 7-point scale) com
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
 - [Satisfaction does not correlate significantly with patient-centered attitudes (PPOS scores)](satisfaction-ppos-no-correlation.md) — related
 - [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — related
+- [Virtual patients are learner-centered and adaptable, but their degree of learner-centeredness is limited because VPs are often used to standardize teaching and assessment](vp-learner-centeredness-limited-by-standardization.md) — related

@@ -52,3 +52,4 @@ Cross-sectional questionnaire study of 200 registered nurses at Hospital Univers
 - [Nurses show poor knowledge of post-transfusion nursing responsibilities (49.2%)](poor-post-transfusion-responsibility-knowledge.md) — related
 - [Frequency of performing blood transfusions is associated with knowledge score, while gender, qualification, ward, experience and training are not](transfusion-frequency-associated-with-knowledge.md) — related
 - [A quarter of nurses would omit the final bedside identity check in certain circumstances](omission-of-final-bedside-identity-check.md) — related
+- [Physicians in the non-operating room setting show low overall knowledge of transfusion medicine, with a mean score below 50 on a 0-100 scale](low-physician-transfusion-medicine-knowledge-mean-47-8.md) — related

@@ -47,3 +47,4 @@ Mann-Whitney test on global ratings (good/pass/borderline/fail) from 31 examiner
 ## Related Claims
 - [OSCE checklist item scores do not differ significantly between performances with and without a non-native English accent](nnea-no-effect-osce-checklist-scores.md) — related
 - [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related
+- [No significant difference in CHAT scores between nurses and medical students, or between students early versus late in placement](no-score-difference-nurses-students-placement-stage.md) — related

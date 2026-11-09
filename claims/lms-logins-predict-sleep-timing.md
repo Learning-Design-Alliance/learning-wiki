@@ -48,3 +48,4 @@ Correlational analysis comparing population-derived LMS login parameters (averag
 ## Related Claims
 - [Lms Inactive Period Shorter Early Classes](lms-inactive-period-shorter-early-classes.md)
 - [Actigraphy Sleep Shorter Early Classes](actigraphy-sleep-shorter-early-classes.md)
+- [LMS login patterns on non-class days show expected changes with gender, age, and season, validating them as containing circadian information](lms-logins-validate-circadian-information.md) — a narrower finding that bears on this claim

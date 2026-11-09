@@ -48,3 +48,4 @@ Multiple regression on the 645-student survey data showed both CSE→PEU (β = 0
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
 - [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](cse-mediates-anxiety-peu-lms.md) — possibly the same claim (merge candidate)
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
+- [Cognition partially mediates the physical activity–academic performance association, which weakens but remains significant when cognition is included](cognition-partially-mediates-pa-academic-performance.md) — related

@@ -53,3 +53,4 @@ Survey results on device selection (Table 4): "the main criteria for the choice 
 - [Systematic review evidence indicates only a minority of health care professionals demonstrate correct inhaler technique, with declining rates over time](minority-hcp-correct-inhaler-technique-review.md) — related
 - [Baseline inhaler technique knowledge among Northern Greek health care providers was inadequate, with nurses scoring lowest](baseline-it-knowledge-inadequate-nurses-lowest.md) — related
 - [Structured education significantly improves health care providers' asthma crisis management and inhaler technique scores over 12 months](structured-education-improves-hcp-inhaler-technique-scores.md) — related
+- [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related

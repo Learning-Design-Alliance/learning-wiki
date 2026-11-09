@@ -50,3 +50,4 @@ The review's synthesis of 24 included comparative studies in school PE, summariz
 - Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours](intervention-length-over-8-hours-decision-making.md) — related
+- [A small-sided games program with numerical equality produces no significant improvement in decision-making or pass execution in either skill-level group](numerical-equality-no-improvement-tactical.md) — related

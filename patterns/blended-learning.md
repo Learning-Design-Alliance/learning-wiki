@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 117 claims (76 for, 38 mixed, 3 against) · 82 studies (42 causal, 14 quant-synthesis, 10 associational, 7 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 19 of 82 report an effect size · 115 claims rest on one study
+> **Evidence** · 118 claims (76 for, 39 mixed, 3 against) · 83 studies (43 causal, 14 quant-synthesis, 10 associational, 7 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 19 of 83 report an effect size · 116 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Participants in the blended MHFA group were significantly more likely to complete the online course than those in the eLearning-only group](../claims/mhfa-blended-higher-online-completion.md) [+W] — attached 2026-11-09 from Reavley Nicola J. et al. (2018), which proposed "For workplace mental health literacy training, pair eLearning with a face-to-face session of discussion, case studies and role play to lift engagement and satisfaction without sacrificing learning gains"; tests this page's relationship.
 - [Both MHFA modes greatly improve the quality of helping intentions, and blended delivery adds a small additional advantage for the depression vignette only](../claims/mhfa-helping-intentions-quality.md) [+W] — attached 2026-11-09 from Reavley Nicola J. et al. (2018), which proposed "For workplace mental health literacy training, pair eLearning with a face-to-face session of discussion, case studies and role play to lift engagement and satisfaction without sacrificing learning gains"; tests this page's relationship.
 - [Blended learning (animated e-learning video plus structured face-to-face training) reduced OASIS incidence by 74% versus baseline and by 52% versus e-learning alone](../claims/blended-learning-reduced-oasis-74-percent.md) [+W] — attached 2026-11-09 from Ali-Masri Hadil et al. (2018), which proposed "Use blended learning rather than stand-alone e-learning when training clinical skills whose effect must generalize across learner subgroups"; tests this page's relationship.
+- [Degree of pre-test to post-test score increment did not differ significantly between blended learning and face-to-face arms for emergency airway management training](../claims/bl-noninferior-score-increment-vs-f2fl-airway.md) [~W] — attached 2026-11-09 from Kho Madeleine Huei Tze et al. (2018), which proposed "Blended learning can substitute part of face-to-face skill-based training when combined with an identical hands-on simulation session"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

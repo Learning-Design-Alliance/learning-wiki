@@ -50,3 +50,4 @@ Authors' discussion-level argument, not a tested result. The review proposes tha
 - [VR is implemented both as an automated independent assessment tool and as a supporting tool evaluated by human examiners](vr-automated-versus-supporting-assessment-implementation.md) — related
 - [OSCE appears to be an appropriate examination format little influenced by external factors such as examiner background or time of day](osce-appropriate-format-little-influenced-by-external-factors.md)
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
+- [The article reports that female doctors' better clinical examination performance may relate to communication style, values, examiner bias, and language or selection factors, with none fully confirmed](hypothesised-explanations-for-sex-difference.md) — related

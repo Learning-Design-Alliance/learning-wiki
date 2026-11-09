@@ -57,3 +57,5 @@ The review reports, citing Ballen et al. (2017), a study of underrepresented and
 - [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](si-urm-subgroup-positive-ite.md) — related
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim
 - [A minority of students became less interested in biology after the course, and this disinterest came primarily from non-STEM students](ibis-non-stem-interest-decline.md) — related
+- [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
+- [Classroom social belonging increases with active learning only for non-URM students](social-belonging-increases-only-non-urm.md) — related

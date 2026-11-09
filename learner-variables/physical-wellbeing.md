@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (145 show a difference, 51 mixed, 33 no difference) · 122 studies (41 causal, 41 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 31 of 122 report an effect size · 225 claims rest on one study
+> **Evidence** · 230 claims (145 show a difference, 51 mixed, 34 no difference) · 123 studies (42 associational, 41 causal, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 31 of 123 report an effect size · 226 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -266,6 +266,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Physical inactivity is associated with low academic performance in junior grades but not overall or in senior grades](../claims/physical-inactivity-academic-performance-junior-grades-only.md) [~M] — learners who differ on it differ in outcomes
 - [The final-year fitness advantage equals the two-year advantage in language-based subjects: F3 students were not significantly different from 2F students in language, foreign language and social science](../claims/f3-not-inferior-to-2f-language-subjects.md) [~M] — learners who differ on it differ in outcomes
 - [The fitness–achievement association is subject-dependent: stronger for math, science and social science than for language and foreign language](../claims/subject-dependent-fitness-achievement-association.md) [~M] — learners who differ on it differ in outcomes
+- [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](../claims/walking-seminar-perceptions-independent-of-activity-level.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

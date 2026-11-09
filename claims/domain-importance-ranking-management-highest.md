@@ -51,3 +51,5 @@ Descriptive analysis of domain scores in the cross-sectional survey of 2,625 phy
 - [Stress resistance, workload management and tactfulness are the highest-ranked individual competencies, while resistance to monotony, numeracy and mathematical reasoning rank lowest](og-item-level-competence-ranking.md) — related
 - [O&G physicians rate Social sensibility and Psychomotor & multitasking abilities as the most important competence areas for daily professional activity](og-social-sensibility-psychomotor-top-areas.md) — related
 - [Primary healthcare physicians prefer public health, essentials and clinical emergency domains more, while specialists and subspecialists prefer them less](primary-care-specialist-domain-preference-split.md) — related
+- [Accrual accounting and health economics were the least relevant courses and gained among the lowest post-test scores](accrual-accounting-health-economics-least-relevant-lowest-scores.md) — related
+- [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related

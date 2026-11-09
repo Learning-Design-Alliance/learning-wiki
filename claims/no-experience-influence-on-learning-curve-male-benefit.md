@@ -71,3 +71,4 @@ Linear regression of influencing factors on clinical FNA results (age, gender, p
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related
 - [Gender differences in prior disassembly experience and perceived competence did not affect DAA learning or transfer outcomes](daa-gender-experience-null-moderators.md) — related
 - [Prior ultrasound experience predicted early theoretical performance but its influence was no longer measurable after the tailored curriculum](prior-experience-influence-fades-after-curriculum.md) — related
+- [Prior vocational training as a pharmacy technician has no detectable influence on OSCE performance in this cohort](prior-pharmacy-technician-training-no-influence-osce.md) — related

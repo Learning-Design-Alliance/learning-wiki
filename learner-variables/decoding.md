@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (98 show a difference, 28 mixed, 23 no difference) · 99 studies (32 causal, 29 associational, 22 quant-synthesis, 10 review, 4 design, 2 theoretical), `q1`–`q4` · 32 of 99 report an effect size · 144 claims rest on one study
+> **Evidence** · 151 claims (99 show a difference, 29 mixed, 23 no difference) · 100 studies (33 causal, 29 associational, 22 quant-synthesis, 10 review, 4 design, 2 theoretical), `q1`–`q4` · 32 of 100 report an effect size · 146 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -190,6 +190,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [17 of 28 correlational studies reported significant correlations between phonological/phonemic awareness skills and reading comprehension in deaf readers](../claims/pa-ps-correlations-reading-comprehension-deaf.md) [~M] — learners who differ on it differ in outcomes
 - [Later introduction of exceptions improves category learning, suggesting delayed teaching of exception words may aid decoding](../claims/late-exception-introduction-benefits.md) [+W] — measured as an outcome of the instruction studied
 - [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](../claims/comprehension-not-decoding-predicts-wam.md) [-M] — learners who differ on it differ in outcomes
+- [In DHH signing children learning to read, reading skills improved over time and word reading development was predicted by imitation of unfamiliar signs, with only weak evidence that the sign-based intervention supported improvement](../claims/dhh-signing-reading-growth-predicted-unfamiliar-sign-imitation.md) [~M] — measured as an outcome of the instruction studied
+- [This study demonstrates, for the first time, a longitudinal link between sign-based abilities and word reading in DHH signing children learning to read](../claims/first-longitudinal-link-sign-abilities-word-reading-dhh.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

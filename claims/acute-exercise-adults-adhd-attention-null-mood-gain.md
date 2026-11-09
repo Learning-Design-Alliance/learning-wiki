@@ -71,3 +71,4 @@ Same study's mood outcomes: the exercise condition showed "signiﬁcantly higher
 - [Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD](non-cardio-exercise-effects-questionable-adhd.md) — related
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](classroom-exercise-no-cognitive-engagement-effect.md) — related
+- [Participants in same-day simulator training showed lower performance after training than at baseline, in one single-group pre-post study](same-day-training-fatigue-negative-learning-effects.md) — related

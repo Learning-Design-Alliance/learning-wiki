@@ -67,3 +67,4 @@ Generalizability theory variance-component analysis of the same assessment score
 ## Related Claims
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [More OSCE stations are needed to reach a target reliability with the extended scale than with the generic scale](decision-study-stations-to-target-reliability.md) — related
+- [Inter-station generalizability was unchanged at 0.3 across modalities, while the index of dependability varied across administrations (0.65 to 0.83)](generalizability-indices-across-modality-studies.md) — related

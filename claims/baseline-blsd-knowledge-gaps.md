@@ -49,3 +49,4 @@ Baseline descriptive results from questionnaire B in the observational survey of
 - [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [A brief BLS training session with real-time feedback improves future schoolteachers' CPR knowledge, raising self-declared ability to perform CPR from 58% to 100%](brief-bls-training-improves-teacher-cpr-knowledge.md) — related
+- [Baseline knowledge of positioning and attachment and hand expression is poor among BFHI-accredited hospital clinicians in China](poor-baseline-breastfeeding-knowledge-china.md) — related

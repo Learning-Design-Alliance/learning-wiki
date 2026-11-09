@@ -50,3 +50,6 @@ Group-specific SEM estimates (Table 3) show CM on SS β = 0.22 (SE = 0.10, p < 0
 ## Related Claims
 - [The motivation–strategy–performance model differs by ethnic group, with achieving strategy mediating autonomous motivation and GPA only for Dutch students](achieving-strategy-mediation-dutch-only.md) — related
 - [Non-Western minority students report higher autonomous motivation and deeper study strategy than Dutch majority students](non-western-students-higher-autonomous-motivation-deep-strategy.md) — related
+- [Controlled motivation is not associated with GPA after adjustment: the initially negative relation for Dutch pre-clinical students became non-significant, and CM-GPA associations were non-significant for all groups](controlled-motivation-gpa-null-after-adjustment.md) — related
+- [Non-Western minority medical students report higher autonomous motivation than Dutch majority students in both pre-clinical and clinical education](non-western-students-higher-autonomous-motivation.md) — related
+- [Western minority medical students report higher controlled motivation than Dutch majority students in pre-clinical education, but not significantly in clinical education](western-students-higher-controlled-motivation-preclinical.md) — related

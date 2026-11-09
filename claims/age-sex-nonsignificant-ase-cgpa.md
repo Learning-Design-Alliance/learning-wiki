@@ -66,3 +66,4 @@ Same models; the article reports "sex also failed to significantly predict ASE (
 ## Related Claims
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — a narrower finding that bears on this claim
 - [Age and sex predicted membership in the latent psychosocial profiles among Chilean university students](age-sex-predict-latent-profile-membership.md) — related
+- [Cumulative high school average and IELTS scores do not significantly predict preclinical cGPA](chsa-ielts-not-predictive-preclinical-cgpa.md) — related

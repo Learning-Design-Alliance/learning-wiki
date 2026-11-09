@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 sources:
   - id: wong-wei-jin-2025
     resource: "https://doi.org/10.3352/jeehp.2025.22.2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students valued time flexibility to engage with recorded lectures at their own convenience and the ability to revisit material through playback. [→ Wong Wei Jin 2025](#wong-wei-jin-2025)

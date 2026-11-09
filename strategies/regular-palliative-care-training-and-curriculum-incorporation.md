@@ -51,6 +51,7 @@ The review's concluding recommendation is to build nurses' palliative care knowl
 - [Include core diabetes competencies in nursing curricula and expand continuing professional development across SSA](core-diabetes-competencies-nursing-curricula-ssa.md)
 - [Implement structured, continuous in-service education programmes on spiritual care practices for nurses](structured-continuous-in-service-spiritual-care-education.md)
 - [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
+- [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
 
 ## Examples
 -

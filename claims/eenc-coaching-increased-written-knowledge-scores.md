@@ -53,3 +53,4 @@ Pre-post assessment of all 53 healthcare workers using the standardised EENC wri
 - [Prior newborn-care training did not improve skill retention and was associated with poorer retention in the Non-Breathing Baby scenario](prior-training-did-not-improve-retention.md) — related
 - [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](in-situ-simulated-patient-environment-improved-knowledge-attitude.md) — related
 - [Endline skill scores for managing a non-breathing baby were 2.89 points higher in the intervention arm, the largest between-arm difference among the skill subtests](eenc-non-breathing-baby-skill-2-89-points-higher.md) — related
+- [A short breastfeeding training DVD significantly increases healthcare professionals' total knowledge of positioning and attachment and hand expression immediately after viewing](dvd-training-increases-breastfeeding-knowledge.md) — related

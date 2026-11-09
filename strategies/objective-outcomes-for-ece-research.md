@@ -50,6 +50,7 @@ The authors recommend that "Future studies should prioritize using objective out
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Study empathy in clinical encounters using observational and qualitative methods rather than self-report alone](observational-qualitative-empathy-research-strategy.md)
 - [Use multiple actors, accent types, scripts and OSCE scenarios in future examiner-bias experiments to improve blinding and validity](multi-video-variations-examiner-bias-studies.md)
+- [Use an OSCE with blinded standardized patients and trained observers to assess clinical pharmacy competence](osce-blinded-standardized-patients-pharmacy-assessment-strategy.md)
 
 ## Examples
 -

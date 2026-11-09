@@ -40,7 +40,8 @@ The article recommends that counselor educators embed human sex trafficking cont
 - applying trauma-informed techniques with trafficked clients
 
 ## Related Strategies
-- 
+
+- [Pair human trafficking content with related existing topics when adapting the curriculum to other institutions](pair-trafficking-content-with-related-topics.md)
 
 ## Examples
 -

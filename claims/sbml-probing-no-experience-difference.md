@@ -55,3 +55,4 @@ Wilcoxon signed-rank group comparisons reported in supplementary material; 70% o
 - [No significant between-group differences in learning-process measures across the simulator's clinical cases](pocus-process-measures-no-between-group-difference.md) — related
 - [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related
 - [Completion times improved from pre-test to post-test in all groups, but training groups did not significantly differ on pre-to-post change](pre-post-completion-time-improvement-no-group-difference.md) — related
+- [Prior real or simulated arthroscopy experience, handedness, sports activity and video-game experience do not correlate with training improvement or final scores](no-demographic-predictors-of-simulator-training-gains.md) — related

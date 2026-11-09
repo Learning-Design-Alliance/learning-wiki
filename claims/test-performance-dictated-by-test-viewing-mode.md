@@ -51,3 +51,4 @@ Testing-phase analysis of the four-group counterbalanced experiment on total tes
 - [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](visual-spatial-ability-predicts-novel-task.md) — related
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related
 - [Performance improved across repetitions with a training effect, and participants switching to 3D reached their shortest times at the end](training-effect-display-switch-parkour-course.md) — related
+- [Novices trained first on 3D performed significantly worse after switching to 2D, especially on technical errors in complicated tasks](3d-start-worsens-after-switch-to-2d.md) — related

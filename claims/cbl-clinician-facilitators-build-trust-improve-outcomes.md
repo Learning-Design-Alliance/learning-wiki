@@ -48,3 +48,4 @@ The review's synthesis of clinician-facilitator evidence, citing Hay (2001), rep
 - [Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment](cimi-m-qualitative-utility-themes.md) — related
 - [Shared, non-purpose-designed teaching spaces disrupted CBL sessions but also fostered an informal community of practice among facilitators](shared-cbl-space-disruption-and-community-of-practice.md) — related
 - [Team-based learning with fewer faculty fosters competitiveness while problem-based learning yields more clinical reasoning, per cited comparison](tbl-vs-pbl-competitiveness-clinical-reasoning.md) — related
+- [Medical students perceived clinician facilitation and the standardised TBL structure as providing more reliable guidance than their variable PBL tutor experiences](tbl-clinician-facilitation-guided-learning-perception.md) — related

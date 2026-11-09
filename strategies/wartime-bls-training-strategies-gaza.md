@@ -54,6 +54,7 @@ The authors recommend resource-efficient interventions tailored to conflict sett
 - [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
+- [Use short online BLS courses for continuing education of health professionals](short-online-bls-continuing-education-strategy.md)
 
 ## Examples
 -

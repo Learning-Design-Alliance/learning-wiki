@@ -49,6 +49,7 @@ The article recommends enhancing asynchronous virtual care CPD modules by adding
 - [Six-part design recommendations for online modules that teach and assess critical thinking](six-recommendations-online-critical-thinking-modules.md)
 - [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
 - [Design online health-professional e-learning with a high pass mark, active interactivity, continuous feedback, and optional extension material](gen-equip-online-learning-design-strategies.md)
+- [Design continuing professional development as interactive blended programmes with multiple teaching strategies and self-set quality improvement targets](interactive-blended-multiple-strategies-cpd.md)
 
 ## Examples
 -

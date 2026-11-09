@@ -99,3 +99,5 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Students' reflection writing improved after guidance, and cloud-platform students showed greater progress in discussions, feedback, and analysis of Chinese readings](reflection-writing-guidance-and-discussion-progress.md) — related
 - [Collaborative writing and rubric-guided peer feedback were experienced as meaningful learning experiences supporting engagement with persuasive essay writing](collaborative-writing-peer-feedback-meaningful.md) — related
 - [Students engaged only shallowly in peer feedback on student-generated MCQs despite the opportunity](shallow-peer-feedback-student-mcqs.md) — related
+- [Proportion of peer-evaluation comments compatible with the provided criteria increased moderately across the 11 TBL classes](criteria-compatible-comments-increase-over-course.md) — related
+- [Most written peer-evaluation comments for high achievers in TBL are positive, reasonable, and compatible with the provided criteria, but about one-fifth are not compatible](high-achiever-comments-mostly-compatible-criteria.md) — related

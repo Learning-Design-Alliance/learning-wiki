@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion, citing Hadjerrouit (2007) that learni
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
 - [The blended learning group showed a slight but statistically significant improvement in SQL test scores from the first-week mid-test to the final test](blended-group-slight-significant-gain-mid-to-final.md) — related
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — a broader claim this one bears on
+- [A pilot study of 24 biology students found preliminary TBL effects but revealed design concerns about missing data, topic differences, and short TBL duration](pilot-study-tbl-design-concerns.md) — related

@@ -57,3 +57,4 @@ Small modified inquiry comparison in a Professional Development School: eleven s
 - [Adult ASL-fluent participants significantly improved STEM test scores by about 22% after watching four-to-six-minute ASL video lessons](asl-stem-video-lessons-pre-post-learning-gain.md) — related
 - [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related
 - [At-risk first graders required an average of 5.65 exposures to master a high-frequency sight word in a daily timed reading activity](five-point-six-five-exposures-average-sight-word-mastery.md) — related
+- [In DHH signing children learning to read, reading skills improved over time and word reading development was predicted by imitation of unfamiliar signs, with only weak evidence that the sign-based intervention supported improvement](dhh-signing-reading-growth-predicted-unfamiliar-sign-imitation.md) — related

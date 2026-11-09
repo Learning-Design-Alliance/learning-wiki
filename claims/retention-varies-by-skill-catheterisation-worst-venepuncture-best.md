@@ -47,3 +47,4 @@ Descriptive comparison across the 7 retested skills in the same 51-student cohor
 ## Related Claims
 - [Psychomotor skill elements decayed at retest for both procedures, while behavioural elements were retained better for venepuncture than catheterisation](psychomotor-decay-behavioural-retention-varies.md) — related
 - [Self-declared practice frequency after initial teaching correlates with competency on skills retest](self-declared-practice-correlates-with-retest-competency.md) — related
+- [Medical students report variable and generally low self-assessed confidence across core clinical skills, with arterial blood gases and male urinary catheterisation rated lowest, and confidence did not differ significantly by year group](variable-low-student-confidence-core-clinical-skills.md) — related

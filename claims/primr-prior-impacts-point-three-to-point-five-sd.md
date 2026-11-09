@@ -50,3 +50,4 @@ The abstract cites prior published analyses of the non-longitudinal PRIMR datase
 - [Frequency of TAC tutors' classroom visits was positively associated with learning outcomes, though the relationship is noncausal](tac-tutor-visit-frequency-associated-with-outcomes.md) — related
 - [PRIMR's first-year effects on reading comprehension were positive but inconsistent across language, grade, and school type](primr-comprehension-effects-mixed.md) — related
 - [One year of PRIMR produced statistically significant gains in oral reading fluency in grade 1 formal and nonformal schools and grade 2 nonformal schools, in both English and Kiswahili, but not in grade 2 formal schools](primr-oral-reading-fluency-first-year-gains.md) — related
+- [Kenya's Tusome program sharply reduced grade 2 nonreaders in English and Kiswahili, with targeted-skill effect sizes of 0.4 to 2.57 SD](tusome-nonreader-reduction-effect-sizes.md) — related

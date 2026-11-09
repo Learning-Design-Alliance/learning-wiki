@@ -54,3 +54,4 @@ Descriptive analysis of assessment and examination structures across the 42 nati
 - [OSCE and DOPS represent the gold standard for assessing student ultrasound competence according to current research](osce-dops-gold-standard-ultrasound-assessment.md) — related
 - [Many standardized feedback instruments are unknown to the majority of instructors, including CEC (72%), 360° feedback (65%), DOPS (62%) and mini-CEX (59%)](standardized-feedback-instruments-unknown-majority.md) — related
 - [Assessment of undergraduate US skills was mostly non-standardized; only a minority used OSCE or DOPS](us-assessment-mostly-nonstandardized.md) — related
+- [Structured assessment tools (GEARS/OSATS and NOTSS) were rarely implemented in practice, with tutors defaulting to open feedback despite curriculum requirements](structured-assessment-rarely-implemented-open-feedback.md) — a narrower finding that bears on this claim

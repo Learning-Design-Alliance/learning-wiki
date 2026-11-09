@@ -69,3 +69,4 @@ Same LMS dataset (39,458 students, five semesters); the inactive period between 
 - [Population-level LMS login parameters predict average student sleep timing with low prediction error](lms-logins-predict-sleep-timing.md) — a broader claim this one bears on
 - [Students frequently slept past the start of 08:00 classes, failing to wake in time for nearly one-third of them](students-oversleep-0800-classes.md) — related
 - [Wi-Fi-confirmed lecture attendance is about ten percentage points lower for 08:00 classes than for classes starting at 10:00 or later](wifi-attendance-lower-0800-classes.md) — related
+- [LMS login patterns on non-class days show expected changes with gender, age, and season, validating them as containing circadian information](lms-logins-validate-circadian-information.md) — related

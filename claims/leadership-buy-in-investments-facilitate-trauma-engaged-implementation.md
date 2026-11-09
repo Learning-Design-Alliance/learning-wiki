@@ -106,3 +106,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — related
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
 - [An inhibiting organizational culture, with unsupportive leadership, inadequate patient time, bureaucratic pressures, and non-facilitative practice structures, impedes humanistic practice.](organizational-barriers-to-humanistic-practice.md) — related
+- [Qualitative interviews identified team buy-in, colleagues' existing skills, policy drivers and free resources as facilitators of START implementation](start-implementation-facilitators-qualitative-themes.md) — related

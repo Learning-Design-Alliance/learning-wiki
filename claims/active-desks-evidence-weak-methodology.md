@@ -70,3 +70,4 @@ Methods/risk-of-bias section: two authors independently assessed five bias domai
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Standing desks are associated with higher academic engagement in primary-school classrooms](standing-desks-higher-academic-engagement.md) — related
 - [Musculoskeletal effects of active desks are mixed, with reduced neck discomfort in some studies and increased neck and shoulder discomfort in others](active-desks-mixed-musculoskeletal-effects.md) — related
+- [Participants rate in-class cycle desks as not intrusive or distracting and recommend incorporating activity into the classroom](cycle-desks-perceived-not-distracting-recommended.md) — related

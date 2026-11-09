@@ -59,3 +59,4 @@ The review reports, citing Pavo et al. (2016), that in a two-rescuer scenario wi
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related
 - [Simultaneous REBOA performance did not interfere with ACLS quality in simulated cardiac arrest resuscitation](reboa-did-not-interfere-acls-quality.md) — related
+- [Previous observational studies report associations between pit-crew implementation and improved outcomes, but they bundled pit-crew training with other interventions](pit-crew-observational-studies-bundled-interventions.md) — related

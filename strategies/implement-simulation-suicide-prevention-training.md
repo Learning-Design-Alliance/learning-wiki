@@ -55,6 +55,7 @@ Based on its encouraging findings, the review recommends implementing simulation
 ## Related Strategies
 
 - [Integrate structured suicide prevention training with simulated practice of responding to suicidal communication into clergy formation](structured-suicide-prevention-training-clergy-formation.md)
+- [Improving SP depression-scenario training through countertransference discussion, SP self-evaluation, and video supplements](improving-sp-depression-scenario-training.md)
 
 ## Examples
 -

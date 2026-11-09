@@ -58,6 +58,7 @@ The authors recommend four implementation strategies for educators adopting BOPP
 - [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 - [Deliver case-based learning inside a BOPPPS framework by sending real cases and questions to students before class, quizzing, discussing cases, testing, and having students build mind maps](cbl-boppps-case-delivery-strategy.md)
+- [Behaviour change workshops for clinicians built on an implementation of change model, the Theoretical Domains Framework, and selected behaviour change techniques](bci-workshop-design-tdf-behaviour-change-techniques.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Integrate student-active teaching methods such as TBL and formative assignments into preclinical curricula](integrate-active-learning-tbl-formative-assignments-medical-curricula.md)
 - [Combine E-learning with traditional teaching methods so each benefits from the other](combine-elearning-with-traditional-teaching-gp-residency.md)
 - [Adopt a flipped classroom combined with hybrid teaching methods as a suitable learning strategy for RN-to-BSN nursing programs](flipped-classroom-hybrid-rnbsn-strategy.md)
+- [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Same SEM on the MHH sample: the direct effect of Gymnasium attendance on M1 grad
 - [Higher secondary-school grades and private preparatory class attendance were independently associated with entrance exam success](grades-and-preparatory-classes-predict-entrance-success.md) — related
 - [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related
 - [The relation of pre-university educational attainment to study outcome is moderated by German federal state, with Lower Saxony grades yielding higher outcome than Hamburg grades](federal-state-moderates-pea-outcome.md) — related
+- [PMSS sum scores measured 2 and 14 months before the first medical examination independently predict medical students' M1 grade, with better grades for students with lower stress scores](pmss-scores-predict-m1-grade.md) — related

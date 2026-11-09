@@ -46,3 +46,4 @@ Independent-samples t-test comparing global TDE school achievement between resid
 
 ## Related Claims
 - [The incongruence between stationary schools and mobile hunter-gatherer lifestyles, including distant, poorly maintained schools and abusive hostels, blocks school access](infrastructural-barriers-mobile-hunter-gatherer-schooling.md) — related
+- [Knowledge scores rose from pre-test to post-test, with no significant differences by village, gender or age in one uncontrolled pre-post study](vicious-worm-improvement-no-demographic-differences.md) — related

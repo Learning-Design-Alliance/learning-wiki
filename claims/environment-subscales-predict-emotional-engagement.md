@@ -48,3 +48,4 @@ Cross-sectional path analysis (SEM) of self-report data from 554 HPE students at
 - [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related
 - [Students' Perception of Learning and Academic Self-Perceptions directly affect behavioral engagement, explaining 28% of its variance](learning-perception-academic-self-perception-behavioral-engagement.md) — related
 - [Students perceived the educational environment as generally positive (median DREEM 115), with lowest scores in academic and social self-perception](dreem-positive-environment-low-self-perception-scores.md) — related
+- [DREEM and MCPI subscale correlations are weaker than the total-score correlation (atmosphere–learning r = 0.63; teachers–training r = 0.50)](dreem-mcpi-subscale-correlations-weaker.md) — related

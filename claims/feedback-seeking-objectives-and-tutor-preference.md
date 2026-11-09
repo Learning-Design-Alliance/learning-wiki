@@ -88,3 +88,4 @@ Despite seeking peer feedback, lower-performing students "indicated a preference
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — related
 - [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related
+- [Students showed no single majority preference for how placement feedback should be sought; anonymous online surveys were the most popular option](no-majority-student-feedback-method-preference.md) — related

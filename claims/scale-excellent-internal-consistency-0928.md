@@ -58,3 +58,4 @@ Psychometric evaluation of the 72-item instrument administered via a digital tes
 - [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
+- [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — a narrower finding that bears on this claim

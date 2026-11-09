@@ -49,3 +49,4 @@ ANOVA and post hoc Bonferroni comparison of mean ventilation rate across the 3 s
 - [Among students, a medium-fidelity passive simulator configuration was associated with improved ventilation frequency and pressure during hands-on training](medium-fidelity-best-for-novice-students.md) — related
 - [Affinity-propagation clustering showed ventilation performance patterns were determined by ventilation behaviour rather than professional role](clustering-performance-by-behaviour-not-role.md) — related
 - [Simulation-based neonatal ventilation training improved theoretical knowledge in both medical students and health professionals in Tanzania](simulation-training-improves-neonatal-ventilation-knowledge.md) — related
+- [Ratings of skill importance, availability and increase did not differ significantly by project role or professional background](no-role-background-differences-skill-ratings.md) — related

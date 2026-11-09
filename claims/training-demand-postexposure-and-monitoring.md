@@ -50,3 +50,4 @@ Third logistic regression model predicting willingness to take specialist course
 - [About two-thirds of surveyed nurses (65.98%) reached a sufficient level of knowledge about nosocomial infections, with sufficiency cut at 14 of 20 points](nurses-65-98-percent-sufficient-nosocomial-knowledge.md) — related
 - [Holding a specialization raises the odds of sufficient nosocomial-infection knowledge, while medical high-school and vocational education lower them](specialization-and-education-predict-nosocomial-knowledge.md) — related
 - [Shorter time since the last training is associated with higher general knowledge of nosocomial infections and higher self-assessed knowledge](recent-training-linked-to-higher-nosocomial-knowledge.md) — related
+- [Nurses wanted more opportunity to learn how colleagues manage Teach-Back and more visual reminders to maintain use](nurses-wanted-peer-learning-and-visual-reminders.md) — related

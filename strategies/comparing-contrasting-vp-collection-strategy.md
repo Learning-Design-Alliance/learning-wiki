@@ -52,6 +52,8 @@ The article recommends building collections in which similar clinical presentati
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 - [Choose-your-own-adventure storytelling templates for training differential diagnosis](cyoa-storytelling-differential-diagnosis-strategy.md)
 - [Four-action strategy for rapidly adapting a virtual patient collection to a changed clinical context](four-action-vp-context-adaptation-strategy.md)
+- [Advance clinical reasoning learning in VPs by providing large VP pools with selectable complexity, adaptive context and time pressure, and flexible feedback and activity recommendation](vp-advancement-strategy-adaptive-context-feedback.md)
+- [Enrich patient presentation, embed provoked errors with feedback, and individualize management decisions in VPs; assess clinical reasoning as a multi-step process with varied methods](vp-patient-centeredness-errors-assessment-strategy.md)
 
 ## Examples
 -

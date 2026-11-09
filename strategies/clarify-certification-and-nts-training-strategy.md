@@ -46,7 +46,8 @@ Based on the observed certification drop and focus group confusion, the authors 
 - [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](../claims/insitu-simulation-emergent-leadership-team-identity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train resuscitation team leaders in all four non-technical skill domains, with additional selective leader-focused training beyond whole-team training](train-leaders-all-nontechnical-domains-strategy.md)
 
 ## Examples
 -

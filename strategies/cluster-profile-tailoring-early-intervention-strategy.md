@@ -54,6 +54,7 @@ The authors propose applying person-centered clustering as an ongoing educationa
 - [Integrate OSCE results into coaching or mentoring programs to target coaching and enable early identification of struggling interns](integrate-osce-results-into-coaching-mentoring.md)
 - [Use in-training examination scores to identify students needing early intervention to reduce final OSCE failure rates](early-intervention-poor-in-training-performance.md)
 - [Use FIAS-coded teaching observation with cluster analysis to provide objective, profile-based feedback to clinical teachers](fias-clustering-teacher-evaluation-strategy.md)
+- [Use PMSS scores early in medical education to identify students at risk of poor academic performance and offer tailored support programs](early-pmss-risk-identification-tailored-support.md)
 
 ## Examples
 -

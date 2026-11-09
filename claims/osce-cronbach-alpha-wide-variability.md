@@ -60,3 +60,5 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — a narrower finding that bears on this claim
 - [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — a narrower finding that bears on this claim
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
+- [Internal consistency of OSCE station scores remained high (alpha and omega above 0.8) regardless of paper or tablet rating modality](internal-consistency-stable-across-modality.md) — a narrower finding that bears on this claim
+- [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — related

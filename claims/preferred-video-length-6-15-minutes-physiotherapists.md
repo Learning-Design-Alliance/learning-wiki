@@ -51,3 +51,4 @@ Closed-question survey of the 30 completers on preferred length of digital educa
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — reports the opposite
 - [Educational videos of 5 to 20 minutes are appropriate, with 6 to 9 minutes suggested as ideal for maximizing learning gains while minimizing inattention](video-length-5-20-minutes.md) — related
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — reports the opposite
+- [Canadian anesthesiology residents preferred 15- to 30-minute didactic podcasts and 5- to 15-minute formats for other modalities, with little interest beyond 45 minutes](resident-length-preference-15-30-minutes.md) — related

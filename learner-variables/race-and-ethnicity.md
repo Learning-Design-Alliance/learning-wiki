@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 237 claims (185 show a difference, 36 mixed, 16 no difference) · 178 studies (96 associational, 33 causal, 28 review, 8 theoretical, 7 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 6 of 178 report an effect size · 235 claims rest on one study
+> **Evidence** · 241 claims (186 show a difference, 39 mixed, 16 no difference) · 182 studies (98 associational, 34 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 7 of 182 report an effect size · 239 claims rest on one study
 
 ## How to read this page
 
@@ -274,6 +274,10 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Talk-turn contributions differ by gender and URM status, with minority-status participants contributing below their fair share](../claims/talk-turn-equity-gender-urm.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Controlled motivation is positively associated with surface strategy only among non-Western minority students](../claims/controlled-motivation-surface-strategy-non-western.md) [~M] — an instructional effect differs by group
 - [No significant interaction effects of race/ethnicity with TD engagement on college teaching self-efficacy were found](../claims/no-race-ethnicity-td-interaction.md) [-M] — an instructional effect differs by group
+- [Classroom social belonging increases with active learning only for non-URM students](../claims/social-belonging-increases-only-non-urm.md) [~M] — an instructional effect differs by group
+- [Ethnic minority students did not underperform overall; Western minority students scored higher on two clerkship assessments, with most other performance measures not significantly different between groups](../claims/no-ethnic-minority-underperformance-vumc-cohort.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](../claims/race-ethnicity-grade-difference-active-learning.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Lower standardized test scores are not a fixed attribute of African American students](../claims/test-scores-not-fixed-attribute.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

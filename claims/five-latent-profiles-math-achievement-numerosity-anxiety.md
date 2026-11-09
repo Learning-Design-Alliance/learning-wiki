@@ -54,3 +54,4 @@ Latent profile analysis was applied to z-scored, residualized scores from 264 tw
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
 - [Children in the Accuracy instruction profile have lower initial math achievement than children in the General profile](accuracy-profile-lower-math-achievement.md) — related
+- [No significant associations were found between mathematics goal profile membership and developments in mathematics achievement](no-profile-math-achievement-association.md) — related

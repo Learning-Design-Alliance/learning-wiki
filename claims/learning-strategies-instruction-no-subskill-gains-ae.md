@@ -47,3 +47,4 @@ Strategy-specific outcome analyses in the same RCT: WRMT-R word identification a
 ## Related Claims
 - [Strategic instruction in four learning strategies produced no significantly different reading comprehension gains than typical adult education instruction](learning-strategies-instruction-no-comprehension-gains-ae.md) — related
 - [Intervention completers had significantly lower pretest basic reading scores and were about six years older than non-completers and non-intervention adults](completers-lower-pretest-older.md) — related
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](lttp2-oral-reading-fluency-gains-not-sustained.md) — related

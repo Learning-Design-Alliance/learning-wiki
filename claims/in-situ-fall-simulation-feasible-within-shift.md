@@ -49,3 +49,4 @@ Duration data from 16 of 27 completed simulations (59.3%) conducted July–Decem
 - [Implementing a structured PRD tool is feasible in acute clinical areas, with debriefs averaging 14.2 minutes](prd-feasible-short-debriefs-acute-care.md) — related
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — a broader claim this one bears on
 - [Postfall assessment was the most commonly identified key learning from the fall simulation, followed by postfall huddles and preventive interventions](postfall-assessment-top-key-learning-simulation.md) — related
+- [Reported medical education podcasts typically run 10 to 20 minutes with a mean of 18 minutes](podcast-length-mean-18-minutes.md) — related

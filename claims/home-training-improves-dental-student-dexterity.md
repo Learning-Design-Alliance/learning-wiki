@@ -50,3 +50,4 @@ Wilcoxon pre-post analysis of 37 first-year dental students who completed the ei
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](home-training-improves-tactile-sensitivity-dental-students.md) — related
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related
 - [From pre-test to post-test, fingertip sensitivity rose and grip strength fell in both hands in one group with no comparison group](sensitivity-gain-inverse-strength-loss-correlation.md) — related
+- [A four-week home-based online typing-game intervention improves children's MABC-2 manual dexterity standard scores compared to a control group](typing-intervention-improves-mabc2-manual-dexterity.md) — related

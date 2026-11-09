@@ -50,6 +50,7 @@ The article's intervention is a blended workshop in which both groups "completed
 - [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Structure pre-clerkship communication education as a lecture-based theory section followed by standardized-patient simulation with feedback and reflection](lbc-then-cbc-communication-curriculum-strategy.md)
+- [Give the face-to-face feedback a more prominent role in order and emphasis when delivering the doktormitSDM module](doktormitsdm-emphasize-face-to-face-feedback.md)
 
 ## Examples
 -

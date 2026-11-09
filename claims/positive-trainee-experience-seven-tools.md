@@ -52,3 +52,4 @@ The review's outcomes synthesis, using a modified Kirkpatrick hierarchy, reports
 - [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md) — related
 - [Across Kirkpatrick Levels 1 and 2, most studies found no statistically significant differences between observer and active participant roles in simulation-based education](observer-vs-active-role-mostly-no-difference-kirkpatrick-1-2.md) — related
 - [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related
+- [A 2016 systematic search identified 84 articles on audio podcasts in medical education, stratified by Kirkpatrick's hierarchy as 24 reaction, 11 learning, 1 behavior, and 0 patient-outcome studies](84-articles-podcasts-kirkpatrick-stratification.md) — related

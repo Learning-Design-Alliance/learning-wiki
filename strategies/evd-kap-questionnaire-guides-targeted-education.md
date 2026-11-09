@@ -50,6 +50,7 @@ The article recommends that nurse administrators administer the Adult EVD Nursin
 - [Use the DKSCQ-N to identify training needs and evaluate dysphagia training outcomes in hospital settings.](dkscqn-training-needs-assessment-strategy.md)
 - [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](baseline-cultural-competence-battery-tailoring-strategy.md)
 - [Administer the EBMQ to help policy makers identify knowledge, practice and barrier gaps and improve EBM uptake](ebmq-policy-maker-gap-identification-strategy.md)
+- [Use baseline questionnaires prior to educational interventions to identify problem areas for targeted CME](baseline-questionnaires-before-cme-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Pre/post comparison in a prospective observational survey of hospital personnel 
 - [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
 - [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related
+- [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related

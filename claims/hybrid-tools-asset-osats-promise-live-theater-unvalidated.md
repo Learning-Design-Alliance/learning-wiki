@@ -56,3 +56,4 @@ The review's synthesis of studies of hybrid tools combining task-specific checkl
 - [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related
 - [Structured grading rubrics such as OSATS and GEARS are validated to reliably distinguish levels of surgical expertise and remain the standard approach to surgical skill assessment](structured-rubrics-standard-surgical-skill-assessment.md) — related
 - [The unweighted and weighted A-OSATS scores correlated highly with the general OSATS global rating scale and with each other](a-osats-correlates-with-osats-grs.md) — related
+- [Structured assessment tools (GEARS/OSATS and NOTSS) were rarely implemented in practice, with tutors defaulting to open feedback despite curriculum requirements](structured-assessment-rarely-implemented-open-feedback.md) — related

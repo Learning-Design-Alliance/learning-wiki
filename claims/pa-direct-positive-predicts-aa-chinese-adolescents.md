@@ -54,3 +54,4 @@ Mediation analysis (PROCESS Model 6, bootstrap 5000 resamples) in a cross-sectio
 - [Mental health mediates the positive effect of physical activity on academic achievement at low and medium activity levels but not at high levels](mental-health-mediation-physical-activity-achievement.md) — related
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — reports the opposite
 - [Medium physical activity is associated with higher achievement, but the association is not significant once socio-cognitive factors are added](medium-physical-activity-achievement-mixed.md) — related
+- [Cognition partially mediates the physical activity–academic performance association, which weakens but remains significant when cognition is included](cognition-partially-mediates-pa-academic-performance.md) — related

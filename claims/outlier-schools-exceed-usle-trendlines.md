@@ -47,3 +47,4 @@ Studentized residual and leverage fit diagnostics on the Step 1 and Step 2 regre
 
 ## Related Claims
 - [Five institutions showed above-predicted and three below-predicted institutional USMLE performance relative to a GPA/MCAT regression model](institutions-above-below-predicted-usmle.md) — related
+- [MSM students' Step 1 scores exceeded those predicted from their MCAT scores by 22.6 points on average](msm-step1-exceeds-mcat-prediction.md) — a narrower finding that bears on this claim

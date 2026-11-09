@@ -72,3 +72,4 @@ Same training-phase analysis, on total performance score (time + error penalties
 - [During laparoscopic skills training, psychological flexibility, perceived task demands, and bimanual manual dexterity predict training repetitions beyond viewing mode](psych-flexibility-predicts-training-repetitions.md) — related
 - [Test performance in laparoscopic tasks is dictated by the viewing mode used during testing, not the mode used during training](test-performance-dictated-by-test-viewing-mode.md) — related
 - [Laparoscopic novices trained on a 3D setup complete basic box-trainer tasks significantly faster than novices trained on a 2D-4 K setup](3d-faster-than-2d4k-novice-laparoscopy-speed.md) — related
+- [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related

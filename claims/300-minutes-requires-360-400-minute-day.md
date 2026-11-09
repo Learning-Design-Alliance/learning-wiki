@@ -51,3 +51,4 @@ From the report's synthesis of its day-level observation data, even the best-man
 - [Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours](chicago-students-500-hours-not-900.md) — related
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — reports the opposite
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — related
+- [Both training approaches can be delivered in similar, roughly 45-minute sessions in a single training encounter](pit-crew-standard-similar-training-duration.md) — related

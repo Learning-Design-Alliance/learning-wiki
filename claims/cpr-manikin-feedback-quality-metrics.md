@@ -58,3 +58,4 @@ Objective manikin-based metrics recorded during the 2-minute compression task in
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
 - [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related
+- [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related

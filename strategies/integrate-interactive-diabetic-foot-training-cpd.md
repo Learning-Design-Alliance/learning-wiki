@@ -74,6 +74,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Use innovative, flexible dementia-learning formats (short app-based modules, interactive e-learning, monthly workshops, tele-mentoring) instead of conventional formal training](flexible-dementia-learning-formats-strategy.md)
 - [Design LGBT competency training around intergroup contact and experiential learning rather than didactic knowledge transmission alone](intergroup-contact-experiential-lgbt-training.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
+- [Design continuing professional development as interactive blended programmes with multiple teaching strategies and self-set quality improvement targets](interactive-blended-multiple-strategies-cpd.md)
 
 ## Examples
 -

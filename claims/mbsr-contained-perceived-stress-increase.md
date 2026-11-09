@@ -49,3 +49,4 @@ Within-cohort pairwise comparisons (Wilcoxon matched-pairs signed-ranks tests) o
 - [Mindfulness and perceived stress are inversely correlated in preclinical medical students at both measurement points](mindfulness-stress-inverse-correlation-medical-students.md) — related
 - [MBSR participation transiently improved exam performance, detectable only at completion of the intervention](mbsr-transient-exam-improvement.md) — related
 - [Raising the Year-1 standard increased perceived stress, with the increase confined to female students](raising-standard-increased-perceived-stress-females.md) — related
+- [Perceived Medical School stress increases significantly between the end of freshman year and the end of sophomore year, a potential window for stress-management interventions](pmss-stress-increases-freshman-to-sophomore.md) — related

@@ -68,3 +68,4 @@ Results table row from the confirmatory Study 2 (N = 611), same pre/post design 
 - [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
+- [Theoretical post-test scores rose from pre-test to post-test among undergraduate nursing students after an online basic life support course, in one uncontrolled pre-post study](online-bls-course-increased-theoretical-test-scores.md) — related

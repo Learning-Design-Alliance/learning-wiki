@@ -56,6 +56,7 @@ The article recommends embedding simulation-based life support training in conti
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
+- [Design continuing professional development as interactive blended programmes with multiple teaching strategies and self-set quality improvement targets](interactive-blended-multiple-strategies-cpd.md)
 
 ## Examples
 -

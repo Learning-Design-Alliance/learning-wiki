@@ -58,3 +58,4 @@ Concurrent validity study: the same 42 students completed two three-station OSCE
 - [Within VP cases, history and treatment section scores were consistently lower than lab and imaging scores, and first-two-year final grades were lower than later years](vp-section-score-differences.md) — related
 - [Diagnostic accuracy is higher for standardized patients than for virtual patients, and the two methods were not equivalent in grading](diagnostic-accuracy-higher-sps-than-vps.md) — related
 - [Exam-question performance does not differ between groups and does not correlate with OSCE performance](exam-no-group-differences-no-osce-correlation.md) — related
+- [The quantitative assessment methods often implemented in virtual patients do not sufficiently reflect the non-linearity of clinical reasoning](vp-assessment-methods-insufficient-for-nonlinear-reasoning.md) — related

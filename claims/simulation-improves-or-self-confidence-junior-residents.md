@@ -50,3 +50,4 @@ Resident-rated validated self-confidence scale in the randomized trial, measured
 - [Simulation-trained residents show significantly higher adjusted GRS scores for vaginal hysterectomy but not for anterior or posterior repair](simulation-grs-gain-vaginal-hysterectomy-only.md) — related
 - [Simulation training improves adjusted procedural steps knowledge for vaginal hysterectomy and posterior repair but not anterior repair](simulation-improves-procedural-steps-knowledge-vh-pr.md) — related
 - [Resident satisfaction with training is significantly higher for simulation-trained residents for vaginal hysterectomy only](simulation-satisfaction-higher-vh-only.md) — related
+- [Resident experience level predicted training assessment scores but not final assessment scores after simulation training](experience-predicts-training-not-final-scores.md) — related

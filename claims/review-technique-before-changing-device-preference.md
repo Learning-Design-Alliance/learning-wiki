@@ -53,3 +53,4 @@ Patient preferences and satisfaction section of the survey (Table 3, N = 554): "
 - [Structured education significantly improves health care providers' asthma crisis management and inhaler technique scores over 12 months](structured-education-improves-hcp-inhaler-technique-scores.md) — related
 - [Baseline inhaler technique knowledge among Northern Greek health care providers was inadequate, with nurses scoring lowest](baseline-it-knowledge-inadequate-nurses-lowest.md) — related
 - [Compared with a decade earlier, pMDI knowledge declined slightly while DPI knowledge improved and routine technique assessment increased](inhaler-knowledge-change-over-decade-spain.md) — related
+- [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related

@@ -53,7 +53,8 @@ The review recommends that when designing community-based health programmes, "fa
 - [Intervention designs with frequent supervision and continuous training led to better CHW performance in certain settings](../claims/frequent-supervision-continuous-training-better-chw-performance.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Target post-training supervision and support to older CHWs and emphasize faint-positive interpretation conditions and explaining results to patients](rdt-supervision-targeting-older-chws.md)
 
 ## Examples
 -

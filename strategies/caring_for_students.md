@@ -58,10 +58,12 @@ Perceived teacher care and support are consistently associated with higher engag
 5. Pair warmth with challenge: use [Coaching](../elements/coaching.md) and [Scaffolding](../principles/scaffolding.md) to hold expectations high while support remains available.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — the routine mechanism through which care becomes visible and actionable
 - [Building Empathy](../principles/building-empathy.md) — the teacher-side disposition work that makes care authentic
 - [Active Listening](active-listening.md) — the conversational skill underlying responsive relationships
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends relational trust to peer-to-peer dimensions of the learning environment
+- [Instructor trust-building strategies for active-learning courses](trust-building-strategies-active-learning.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — published K–8 program built around morning meetings and teacher language practices that operationalize care as daily structure.

@@ -48,3 +48,4 @@ Descriptive responder analysis using norm-referenced standard scores; no inferen
 - [The intervention showed no significant effects on distal, norm-referenced reading measures](plug-in-no-distal-effects-norm-referenced.md) — related
 - [Students with LD made statistically significant gains in oral reading fluency on off-grade-level passages but no significant gains on word reading or comprehension standard scores](resource-room-orf-gains-only-off-grade-level.md) — related
 - [Despite an average of 94 well-implemented intervention sessions, students remained about one standard deviation below national norms in reading comprehension with low vocabulary](students-remained-sd-behind-norms-after-94-sessions.md) — related
+- [Despite gains, the DHH signing children performed below the mean performance of hearing Grade 1 children on reading comprehension at all five assessment points](dhh-children-below-grade1-norms-reading-comprehension.md) — related

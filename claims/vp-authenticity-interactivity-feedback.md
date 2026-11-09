@@ -50,3 +50,4 @@ Qualitative content analysis of VP descriptions. The Interactivity & feedback su
 - [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related
 - [Allowing procedural constructs (branches, rules, loops, recursion) in an authoring tool dramatically raises authoring complexity and demands debugging support](procedural-authoring-constructs-raise-complexity.md) — related
 - [Standardization of learner activity is described as opposing learner-centeredness in virtual patient use](vp-standardization-versus-learner-centeredness-tension.md) — related
+- [Virtual patients are learner-centered and adaptable, but their degree of learner-centeredness is limited because VPs are often used to standardize teaching and assessment](vp-learner-centeredness-limited-by-standardization.md) — related

@@ -52,3 +52,4 @@ Moderator analysis within the meta-analysis (k = 14) splitting outcome measures 
 - [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — related
 - [No significant differences between SCMC and FTF interaction on L2 development overall](no-significant-scmc-ftf-differences-l2-development.md) — related
 - [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](scmc-ftf-interaction-significant-l2-development.md) — related
+- [Participation split by modality: orally strong students also outperformed in written forum interactions, while less orally participative students published most written interactions](participation-imbalance-oral-written-forums.md) — related

@@ -68,3 +68,4 @@ Item-level McNemar analysis of the same 105-participant KAP survey found signifi
 - [One study found significantly higher patient breastfeeding rates among physicians who participated in case-based PBL training](pbl-patient-outcomes-breastfeeding-rates-holmes.md) — related
 - [More recent frailty education is independently associated with higher total KAP scores among nurses](frailty-education-recency-associated-kap.md) — related
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
+- [A short breastfeeding training DVD significantly increases healthcare professionals' total knowledge of positioning and attachment and hand expression immediately after viewing](dvd-training-increases-breastfeeding-knowledge.md) — related

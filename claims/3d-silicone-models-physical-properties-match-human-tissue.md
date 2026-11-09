@@ -70,3 +70,4 @@ Bench-top material characterization of 10% PVA/PAM hydrogel: conductivity measur
 - [Most participants rated the porcine stomach model as having higher tissue and physiologic fidelity than the towel uterus model](porcine-stomach-fidelity-beats-towel-uterus.md) — related
 - [Compared with a biological tissue model, the 3D-printed model showed less dissection sensitivity but higher anatomical representation and easier reuse](hernia-model-vs-biological-model-tradeoff.md) — related
 - [A PVA-hydrogel robotic myomectomy model showed promising early validity, with 94% of resident surgeons and 83% of attending surgeons rating it a useful training tool](gyn-myomectomy-model-survey-validity.md) — related
+- [Mechanical testing of porcine heart regions showed the fibrous trigone was strongest and the papillary muscle brittle and delicate, matching the texture felt in actual operations](porcine-heart-region-mechanical-properties-match-surgical-feel.md) — related

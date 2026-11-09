@@ -17,7 +17,7 @@ sources:
 # Joyce and Showers' technical coaching: a cyclical training extension for transferring new teaching skills
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 3 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 7 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative, 1 design), `q2`–`q3` · 3 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 The paper analyzes Joyce and Showers' model, which borrows coaching from athletics and treats it as the next step after training. Drawing on their empirical work and a meta-analysis of training and staff development, they claim "the coaching process enables nearly all teachers to sustain practice and gain executive control over a large range of curricular and instructional practices." Effective training first has teachers study the rationale, see demonstrations, practice, and get feedback; coaching then supports transfer, first checking performance against an expert model with clinical assessment forms, then shifting to joint inquiry and collaborative lesson planning. Peer coaching can also build a professional learning community.
@@ -45,6 +45,7 @@ The paper analyzes Joyce and Showers' model, which borrows coaching from athleti
 - [CSC coaching significantly reduced teachers' need for change in instructional practices (IS discrepancy scores, d = .88)](../claims/csc-reduced-instructional-discrepancy-scores.md) [+W]
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 - [Overall teaching skills scores rose from pre-test to post-test after performance feedback, in one uncontrolled pre-post study among student teachers working with students with MDVI](../claims/performance-feedback-improves-teaching-skills-mdvi-student-teachers.md) [+W]
+- [Techniques discussed in training but not drilled were used at frequencies too low to quantify, supporting practice-based rather than discussion-based training](../claims/nondrilled-techniques-rarely-used.md) [+W] — attached 2026-11-09 from Becker Erin A. et al. (2017), which proposed "Practice-based teacher-training framework (deliberate practice of component skills with feedback)"; tests this page's relationship.
 
 ## The evidence by question
 

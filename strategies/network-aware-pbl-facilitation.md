@@ -39,6 +39,7 @@ The article recommends embedding SNA-informed feedback into PBL facilitation. Be
 ## Related Strategies
 
 - [Provide NLCs with repeated feedback on SNA, content and contextual analysis during their activity so they can reflect strategically on performance](repeated-sna-ca-feedback-to-nlcs.md)
+- [Use SNA visual analytics to monitor online discussions and guide teacher intervention](sna-visual-analytics-monitoring-intervention-strategy.md)
 
 ## Examples
 -

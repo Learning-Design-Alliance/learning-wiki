@@ -47,3 +47,4 @@ Time-and-cost comparison of the traditional versus secure electronic processes f
 ## Related Claims
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [Simply converting paper-based document flows to electronic ones makes the administrator a bottleneck, so process redesign should be an early step](administrator-bottleneck-requires-process-redesign.md) — related
+- [Tablet-based electronic data capture reduced OSCE preparation time, eliminated missing scores, and enabled immediate score availability](tablet-osce-administrative-efficiency-gains.md) — related

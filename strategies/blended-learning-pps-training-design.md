@@ -48,6 +48,7 @@ The review's evaluative synthesis found blended learning delivery was well recei
 - [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](online-theory-face-to-face-practice-strategy.md)
 - [Blended 3-hour workshop combining a 1.5-h online module with a 1.5-h experiential face-to-face session for patient-centered communication training](blended-3h-workshop-pcc-older-people.md)
+- [Behaviour change workshops for clinicians built on an implementation of change model, the Theoretical Domains Framework, and selected behaviour change techniques](bci-workshop-design-tdf-behaviour-change-techniques.md)
 
 ## Examples
 -

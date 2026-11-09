@@ -48,3 +48,4 @@ Spearman correlations among study variables in the 796-student sample; the inter
 ## Related Claims
 - [Performance-tested ERA and teacher-observed emotion regulation are only modestly correlated (r = 0.22), suggesting they measure distinct constructs](era-and-observer-reports-low-correlation.md) — related
 - [Ability-based emotion regulation scenarios explain more variance in future academic performance than the trait self-questionnaire (1.54% vs 0.38%)](ability-scenarios-beat-trait-scale-t3-gpa.md) — related
+- [MMI scores do not correlate significantly with ability emotional intelligence measured by the STEM emotion-management situational judgement test](hamburg-mmi-no-ability-ei-correlation.md) — related

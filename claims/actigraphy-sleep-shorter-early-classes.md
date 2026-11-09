@@ -87,3 +87,4 @@ Same actigraphy study; the −1.02 h midpoint advance is interpreted by the auth
 - [Population-level LMS login parameters predict average student sleep timing with low prediction error](lms-logins-predict-sleep-timing.md) — related
 - [Daytime napping is more frequent on days when students' first class is in the morning](napping-higher-morning-classes.md) — related
 - [Students frequently slept past the start of 08:00 classes, failing to wake in time for nearly one-third of them](students-oversleep-0800-classes.md) — related
+- [The majority of students experience more than 30 minutes of social jet lag on average, and greater SJL amplitude correlates with a significant decrease in academic performance](sjl-majority-over-30min-correlated-decreased-performance.md) — related

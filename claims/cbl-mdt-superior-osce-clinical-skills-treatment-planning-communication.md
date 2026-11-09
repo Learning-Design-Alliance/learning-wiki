@@ -83,3 +83,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Case-based learning improves practical knowledge application (OSCE scores) over traditional approaches, as reported in a cited study](cbl-improves-osce-practical-knowledge.md) — related
 - [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related
 - [Volunteer simulated patient communication skills training produced higher total OSCE scores than student roleplay training among second-year medical students](volunteer-sp-cst-higher-osce-total-than-roleplay.md) — related
+- [The ward-based course's largest effect is on practical OSCE tasks involving patient interaction, rather than theoretical paper-case tasks](ward-based-course-largest-effect-practical-osce-tasks.md) — related

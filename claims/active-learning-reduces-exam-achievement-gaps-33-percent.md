@@ -79,3 +79,4 @@ Individual-participant-data meta-analysis using hierarchical Bayesian regression
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — related
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim
 - [The experiment 3 design closed the achievement gap affecting underrepresented minority students, whose failure chance fell from 73% to 34%](exp3-urm-achievement-gap-closed.md) — a narrower finding that bears on this claim
+- [Active-learning pedagogy increases science self-efficacy equally for all demographic groups](active-learning-raises-self-efficacy-all-groups.md) — related

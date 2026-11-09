@@ -72,3 +72,5 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related
 - [Nursing students during COVID-19 confinement clearly preferred face-to-face teaching over e-learning, while evaluating synchronous videoconferences as the best online methodology](nursing-students-prefer-face-to-face-videoconference-best.md) — related
 - [Students mildly prefer live lectures over video lectures for exam preparation](students-prefer-live-lectures-mildly.md) — reports the opposite
+- [Residents rated bedside teaching, small group learning, and simulation as the best methods for learning palliative care, preferring them to lectures and online asynchronous modules](learning-method-preferences-palliative-care.md) — related
+- [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related

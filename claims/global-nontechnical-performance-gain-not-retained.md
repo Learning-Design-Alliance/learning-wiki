@@ -49,3 +49,4 @@ Analysis of the TEAM tool's global non-technical performance item (scored 0–10
 - [Among resident teams, leadership, teamwork, task management, and global non-technical performance scores rose from pre-test to post-test immediately after interprofessional simulation-based training with debriefing, in one single-group pre-post study.](simulation-debriefing-improves-nontechnical-skills-immediately.md) — related
 - [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related
 - [Global team non-technical skills performance on the TEAM scale improved from the first to the second simulation day](team-performance-improved-day-two.md) — related
+- [Pit-crew training does not improve team non-technical skills as measured by the TEAM tool compared with standard training](pit-crew-team-tool-nontechnical-null.md) — related

@@ -70,3 +70,4 @@ Regression analyses adding Big Five × gender interaction terms (reported in S2 
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
 - [Female occupational therapy students obtained better exam grades than male students](female-students-better-grades-ot.md) — related
 - [Women had significantly higher university-wide GPAs than men, with the gap reversing for first-year students](women-higher-university-gpa-level-gender-interaction.md) — reports the opposite
+- [Male students report higher commitment to active learning than female students, with no grade difference](gender-difference-commitment-active-learning.md) — related

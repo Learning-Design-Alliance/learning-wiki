@@ -48,6 +48,7 @@ The article's conclusion recommends GIS-based teaching as an innovative method G
 ## Related Strategies
 
 - [Recommend make a match for geography learning activities, especially geographic principles material](recommend-make-a-match-geography-principles.md)
+- [Support teachers with interventions that stimulate adoption of approach-oriented goal profiles and recognize maladaptive multiple-goals profiles early](interventions-stimulate-approach-oriented-profiles.md)
 
 ## Examples
 -

@@ -45,4 +45,4 @@ Relationships-with-other-variables analysis across the 13 trainees using Pearson
 
 
 ## Related Claims
--
+- [Participants' endosuture proficiency classifications progressed significantly across training stages, with students at the optimum level rising from one to six](endosuture-proficiency-classification-progression.md) — related

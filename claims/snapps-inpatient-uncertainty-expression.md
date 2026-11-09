@@ -68,3 +68,4 @@ Same trial, same unit of analysis. "Almost all students in the SNAPPS group form
 - [SNAPPS students express significantly more questions and uncertainties than OMP students in both simple and complex cases](snapps-more-questions-uncertainties.md) — related
 - [SNAPPS presentations supported differential diagnoses with more basic attributes, more justified diagnoses, and more explicit disease comparisons than traditional presentations](snapps-inpatient-differential-analysis.md) — related
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related
+- [SNAPPS users express diagnostic uncertainty more often than comparison groups without adding time to presentations, per the review](snapps-uncertainty-expression.md) — a broader claim this one bears on

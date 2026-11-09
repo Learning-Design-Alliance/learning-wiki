@@ -68,3 +68,4 @@ Same descriptive ranking from the 201-physician R-track survey; Table 1 prints t
 - [Physicians rated management competencies highest and communication competencies lowest among the six domains](domain-importance-ranking-management-highest.md) — related
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
 - [O&G physicians rate Social sensibility and Psychomotor & multitasking abilities as the most important competence areas for daily professional activity](og-social-sensibility-psychomotor-top-areas.md) — related
+- [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related

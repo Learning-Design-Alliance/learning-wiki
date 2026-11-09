@@ -53,3 +53,4 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 - [Half of students spent over two hours preparing for each pre-class test](pre-class-tests-preparation-time-investment.md) — related
 - [FCCL students showed high engagement with pre-class videos (average 2.8 of 3 videos viewed weekly; 78.5% average viewing proportion)](fccl-high-pre-class-video-engagement.md) — related
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
+- [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](link-timing-no-significant-viewing-difference.md) — related

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 240 claims (157 show a difference, 55 mixed, 28 no difference) · 208 studies (103 causal, 48 associational, 24 review, 15 quant-synthesis, 9 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 41 of 208 report an effect size · 236 claims rest on one study
+> **Evidence** · 244 claims (158 show a difference, 57 mixed, 29 no difference) · 210 studies (103 causal, 50 associational, 24 review, 15 quant-synthesis, 9 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 42 of 210 report an effect size · 240 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -297,6 +297,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Students instructed to learn in dyads spend more time on task during the self-study phase than students in the other groups](../claims/dyadic-instruction-increases-time-on-task.md) [+M] — measured as an outcome of the instruction studied
 - [Faculty members reportedly lose practice competence over time, motivating continuous professional development](../claims/faculty-lose-practice-competence-cpd-needed.md) [+M] — learners who differ on it differ in outcomes
 - [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](../claims/facilitators-awareness-accreditation-points.md) [+M] — learners who differ on it differ in outcomes
+- [Fathers attend parenting interventions at low rates, with only 17.2% of practitioners reporting fathers often attended](../claims/low-father-attendance-rates-parenting-interventions.md) [+M] — measured as an outcome of the instruction studied
+- [Grade retention and school absenteeism are not significantly associated with Tourette syndrome in this nationally representative sample](../claims/ts-grade-retention-absenteeism-not-significant.md) [-M] — measured as an outcome of the instruction studied
+- [High father attendance (often vs. rarely) is predicted by greater experience, high practitioner competence, and high organizational support](../claims/high-father-attendance-predictors-experience-competence-support.md) [~M] — measured as an outcome of the instruction studied
+- [Moderate father attendance (sometimes vs. rarely) is predicted only by practitioner years of experience](../claims/moderate-father-attendance-predicted-by-experience-only.md) [~W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

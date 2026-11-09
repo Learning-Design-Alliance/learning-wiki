@@ -52,3 +52,4 @@ Randomised trial of 31 medical students (16 3D, 15 2D) trained on the Medtronic 
 - [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related
 - [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
 - [Video-prepared trainees also scored significantly higher on efficiency (time, economy of motion, workspace range) than control trainees](educational-video-raises-robotic-simulation-efficiency-score.md) — related
+- [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related

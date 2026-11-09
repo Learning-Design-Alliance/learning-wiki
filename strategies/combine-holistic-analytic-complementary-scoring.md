@@ -50,6 +50,7 @@ The article relays a recommendation, attributed by its authors to prior work, th
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Match the refinement coordination strategy to the quality criterion: decentralized refinement for localized criteria, centralized planning for holistic ones](match-refinement-strategy-to-quality-criterion.md)
 - [Include students as active evaluators in the design and validation of learning analytics tools](include-students-as-active-evaluators-of-analytics-validity.md)
+- [A multifaceted approach combining incentivized higher-order assessment points, transparent rubric criteria, and facilitated scientific communication to improve ill-defined problem solving](multifaceted-ill-defined-problem-solving-strategy.md)
 
 ## Examples
 -

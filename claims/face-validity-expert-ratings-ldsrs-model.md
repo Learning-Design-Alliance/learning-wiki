@@ -64,3 +64,4 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
 - [Sim-OSSCAR shows strong face and content validity as rated by international expert surgeons](sim-osscar-face-content-validity.md) — related
 - [Experts rate the 3D-printed hemostasis simulator highly for realism and training suitability](experts-rate-3d-hemostasis-simulator-realistic.md) — related
+- [Mechanical testing of porcine heart regions showed the fibrous trigone was strongest and the papillary muscle brittle and delicate, matching the texture felt in actual operations](porcine-heart-region-mechanical-properties-match-surgical-feel.md) — related

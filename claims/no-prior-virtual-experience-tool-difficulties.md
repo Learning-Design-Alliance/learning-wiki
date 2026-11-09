@@ -47,3 +47,4 @@ Cross-case interview finding. In Case 4, participants P11 and P12, who had previ
 ## Related Claims
 - [Six major challenge themes faced by K-12 teachers during early COVID-19 online teaching emerged from thematic analysis](k12-teacher-challenges-covid-online-themes.md) — related
 - [Teachers of lower-SES students were less likely to have previous online teaching experience and reported the transition to remote instruction as more challenging](ses-gap-teacher-online-experience-transition.md) — related
+- [Students lacking prior technological skills had difficulty using the learning platform, making platform uptake an ongoing challenge](platform-skills-deficit-challenge.md) — related

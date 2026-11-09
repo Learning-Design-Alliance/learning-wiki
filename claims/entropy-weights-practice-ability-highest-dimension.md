@@ -52,3 +52,4 @@ Entropy weight method applied to the 52 tertiary indicators in the 906-student s
 - [Among the six first-level indicators, clinical nursing knowledge and skills received the highest importance score (5.00 ± 0.00)](clinical-nursing-knowledge-skills-highest-importance.md) — related
 - [AHP weighting assigns the highest weight to professional theoretical knowledge (0.2168) and the lowest to professional development ability (0.1649), with consistency ratio 0.0013](ahp-weights-primary-indicators-clinical-nutritionists.md) — related
 - [Experts ranked content knowledge, teaching skills, interactional competence, reflection and module design as the five most important health education teacher competencies](top-five-ranked-he-teacher-competencies.md) — related
+- [Pharmaceutical care and pharmaceutical public health competencies receive higher relevance weightings than research-related competencies](research-competencies-lowest-relevance-weighting.md) — related

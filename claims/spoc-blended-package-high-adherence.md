@@ -66,3 +66,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [A simulation-based training programme for urgent laryngectomy care is feasible, with 93% of accepted multidisciplinary healthcare professionals completing all activities](simulation-laryngectomy-training-feasible.md) — related
 - [Every participant engaged with the e-learning before the birth course, with 95 completing it in full](e-learning-engagement-before-birth-course.md) — related
 - [Blended PbL students attend fewer lectures on site but watch more lecture videos than conventional PbL students](bpbl-shifts-lecture-attendance-to-videos.md) — related
+- [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related

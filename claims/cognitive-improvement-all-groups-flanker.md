@@ -50,3 +50,4 @@ Within-group change scores in the cluster-RCT were significant for all four arms
 - [School-based PA, MMNS, and combined PA+MMNS interventions showed no significant effects on Flanker task accuracy or reaction time compared to placebo in Tanzanian schoolchildren](kazifya-no-cognitive-intervention-effects-flanker.md) — related
 - [Children's flanker-task accuracy improved over the summer and showed the expected congruency effect, regardless of intervention group](flanker-accuracy-time-and-congruency-effects.md) — related
 - [Stroop reaction time decreased in both groups across all three phases, with no difference between standing desk and control classes](stroop-reaction-time-time-effect-no-group-difference.md) — related
+- [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — reports the opposite

@@ -71,3 +71,4 @@ Same role requirements domain. Participants noted medical assistants operate wit
 - [Stakeholders expect DHNs to communicate professionally and sensitively, explain content in lay-friendly ways, and adapt communication to individual patients](dhn-communicative-competencies-expectations.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Trained, clearly supervised task sharing yields outcomes comparable to physician-led care for selected tasks while improving access and efficiency](trained-supervised-task-sharing-comparable-outcomes.md) — related
+- [A majority of surveyed medical professionals reported having no training on human trafficking identification and intervention](63-percent-medical-professionals-no-trafficking-training.md) — related

@@ -69,3 +69,4 @@ Grade 4 observations showed significant differences for modeling of strategies (
 - [After two years of SRI, the intervention effect on strategy knowledge had further increased, and positive effects emerged on reading comprehension](sri-two-year-effects-strategy-knowledge-comprehension.md) — related
 - [Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period](pathway-implementation-differences-emerged-late.md) — related
 - [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related
+- [Uganda classroom observations showed changed instructional practice: 95% of learners reading from printed material in program schools versus 11% in control schools](uganda-classroom-observation-practice-change.md) — related

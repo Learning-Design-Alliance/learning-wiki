@@ -63,3 +63,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [Viewing the 3D LP video is well tolerated, with cybersickness in a small minority](cybersickness-minority-3d-lp-video.md) — a broader claim this one bears on
 - [Simulator sickness and workload do not differ by viewing-mode group during training, and perceived workload at test is lower only for the 2D→3D transfer group](simulator-sickness-workload-null-group-effects.md) — related
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
+- [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related

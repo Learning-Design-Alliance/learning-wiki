@@ -49,3 +49,4 @@ Open-ended responses identified the research focus of promotion and tenure proce
 - [Faculty believe teaching can be improved even without smaller class sizes, though class size remains a major challenge.](class-size-challenge-but-improvement-possible.md) — related
 - [SoTL is inconsistently recognized by P&T committees: 58 articles (45%) addressed P&T, 15 described guideline revisions, and 40 (69%) warned of obstructions](sotl-inconsistently-recognized-by-promotion-tenure-committees.md) — a broader claim this one bears on
 - [Teachers refused monetary rewards for team participation, fearing harm to sustainability, but wanted team accomplishments counted in promotion decisions](rewards-refusal-promotion-recognition-team-pd.md) — related
+- [Most research universities' promotion and tenure policies value teaching in writing, but most provide only partial guidance and few require multiple forms of teaching evidence](policy-practice-gap-teaching-evaluation.md) — related

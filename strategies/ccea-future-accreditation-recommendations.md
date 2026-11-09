@@ -45,7 +45,8 @@ The article concludes with five recommendations, summarised in Table 5, for impr
 - [Both the 2009 and 2017 CCE-A competency standards remain silent on a definition of chiropractic and on vitalism and subluxation](../claims/ccea-standards-silent-vitalism-definition.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Chiropractic educators require new strategies to produce graduates who understand and deliver evidence-based health care](new-strategies-evidence-based-chiropractic-graduates.md)
 
 ## Examples
 -

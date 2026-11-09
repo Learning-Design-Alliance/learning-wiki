@@ -18,7 +18,7 @@ sources:
 # Immediate Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (2 review, 1 causal, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step. This page captures the element-level implementation of the broader immediate-feedback principle.
@@ -50,6 +50,7 @@ Immediate feedback is the element in which response information is delivered clo
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](../claims/its-improve-learning-outcomes-with-actionable-feedback.md) [+W]
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](../claims/immediate-feedback-limits-downstream-error-learning.md) [~W]
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](../claims/trat-same-mcqs-immediate-feedback-ifat.md) [+W]
+- [Device-measured CPR quality after the course reached only the basic performance level, at 43.7%](../claims/device-measured-cpr-quality-basic-level.md) [~W] — attached 2026-11-09 from Tobase Lucia et al. (2017), which proposed "Immediate-feedback electronic devices for monitoring CPR performance".
 
 ## Related Elements
 - [Feedback](feedback.md)

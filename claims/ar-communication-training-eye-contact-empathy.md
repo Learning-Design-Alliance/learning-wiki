@@ -52,3 +52,4 @@ The review attributes this to Masaki's evaluation of simulated communication ski
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [Interns identified communication delivery skills, especially making eye contact with immobilized patients, as lessons from the patient experience simulation](simulation-lessons-eye-contact-immobilized-patients.md) — related

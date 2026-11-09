@@ -51,3 +51,4 @@ Authors' interpretation of the Likert results from the twenty-participant qualit
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Clinicians and engineers differ only on postural discomfort and ease of aligning the instrument to AR viewfinders](profession-differences-postural-discomfort-viewfinder-alignment.md) — related
+- [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related

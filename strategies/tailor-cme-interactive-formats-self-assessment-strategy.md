@@ -53,6 +53,7 @@ Based on the observed subgroup preferences, the authors recommend adapting CME/C
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Build periodic diabetes care training for primary care physicians into mandatory annual CME](periodic-cme-diabetes-training-for-pcps.md)
 - [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
+- [Use field-of-practice opinion data to fine-tune post-basic training programmes tailored to predominantly clinical, managerial, or academic occupational physician roles](tailored-op-training-by-field-of-practice.md)
 
 ## Examples
 -

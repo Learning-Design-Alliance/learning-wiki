@@ -68,3 +68,4 @@ The article asserts as its framing premise that "Student engagement increases st
 - [Resistance can be reduced when instructors communicate the purpose of group work, and evidence-based explanations of its importance increased student participation and perceived value.](communicating-purpose-reduces-resistance.md) — related
 - [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related
 - [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](peer-support-participant-benefits-student-outcomes-rare.md) — related
+- [Some students committed plagiarism in forum posts, detected and flagged by peers and tutors](forum-plagiarism-incident-challenge.md) — related

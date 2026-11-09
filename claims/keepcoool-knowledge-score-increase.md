@@ -54,3 +54,4 @@ Knowledge test results reported for participants of the KeepCoool study, using t
 - [E-learning module on endocrine disruptors significantly improved residents' knowledge of household EDCs (mean 55.56-point increase, P<.001)](edc-elearning-knowledge-gains.md) — related
 - [Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-md-knowledge-gains.md) — related
 - [Pre-post knowledge scores rose for all staff groups during the project period, but univariate change-score comparisons against non-pilot areas were null for physicians](prepost-knowledge-gains-descriptive.md) — related
+- [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related

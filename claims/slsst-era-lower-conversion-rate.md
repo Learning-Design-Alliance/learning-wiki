@@ -49,3 +49,4 @@ Cross-sectional chart review of 244 TLHs; Table 4 reports conversion rates of 4.
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — reports the opposite
 - [Total laparoscopic hysterectomy operative time was significantly shorter for residents trained after SLSST implementation than before it](slsst-shortens-tlh-operative-time.md) — related
+- [Open feedback with less structured training resulted in a longer than envisaged training period to reach sufficient competence](unstructured-training-longer-time-to-competence.md) — related

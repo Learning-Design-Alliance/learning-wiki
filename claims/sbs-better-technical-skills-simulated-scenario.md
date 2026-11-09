@@ -57,3 +57,4 @@ Seven days after training, all students managed a novel perioperative anaphylaxi
 - [Median major checklist steps missed on infant LP fell from 5 to 1 after the just-in-time video intervention](jit-video-reduced-missed-lp-steps.md) — related
 - [Sandwich feedback-based training produces higher observed perioperative performance (DOPS) than traditional training](sandwich-feedback-higher-dops-performance.md) — related
 - [Interns hands-on trained on a scenario outperform other groups in simulated assessment of that scenario](simulation-trained-outperform-on-scenario-assessment.md) — a narrower finding that bears on this claim
+- [A period effect suggests simulator-based CPR scenarios induce self-reflection and improve non-technical performance without explicit feedback or debriefing](simulator-scenarios-self-reflection-improve-nontechnical-performance.md) — related

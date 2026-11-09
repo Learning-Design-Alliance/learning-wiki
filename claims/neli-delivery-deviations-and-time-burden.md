@@ -50,3 +50,4 @@ Process evaluation finding from staff interviews and project-team delivery data.
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
 - [Neither the 30-week nor the 20-week version of NELI showed reliable short-term impact on children's word-level literacy skills](neli-no-word-level-literacy-impact.md) — related
 - [Medium-of-instruction programme effectiveness is mixed and interacts with student proficiency, settings, implementation and practitioner skill](moi-effectiveness-mixed-interacts-with-proficiency.md) — related
+- [Some services delivered a modified, group-based variant of START despite no evidence for that format, and fidelity was not measured after training](start-modified-group-delivery-fidelity-unmeasured.md) — related

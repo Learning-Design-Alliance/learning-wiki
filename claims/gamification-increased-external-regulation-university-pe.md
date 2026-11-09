@@ -48,3 +48,4 @@ Quasi-experimental study of 127 university PETE students (GAM n = 62, CON n = 65
 ## Related Claims
 - [Gamified exergaming shows no intrinsic-motivation harm: intrinsic motivation and amotivation changed adversely only in the control group, and external regulation fell only in the experimental group](gamified-exergaming-motivation-sdt-outcomes.md) — reports the opposite
 - [Gamification did not change intrinsic motivation or amotivation in university PE students](gamification-no-intrinsic-motivation-amotivation-change.md) — related
+- [In a one-group physiotherapy pretest–posttest study, students' self-reported amotivation decreased and external regulation increased from pretest to posttest after team-based learning](tbl-mixed-effect-amotivation-external-regulation.md) — related

@@ -49,3 +49,4 @@ Increment tests in the same multiple regression model (Table 3, model 3) predict
 - [Total scores for first impression and MMI performance correlated at r = 0.49 in the 2012 selection cohort](fir-mmi-correlation-r049.md) — related
 - [First impression and MMI performance weakly predicted psychosocial OSCE performance 18 months later (8.4% explained variance, p(F) = 0.009)](weak-osce-prediction-fir-mmi.md) — related
 - [Prediction of OSCE performance did not depend on whether first impression and MMI performance were rated by the same rater or by different raters](prediction-independent-rater-identity.md) — related
+- [MMI scores significantly predict general-practitioner evaluations of psychosocial competencies during a one-week practice placement](hamburg-mmi-predicts-gp-competency-ratings.md) — related

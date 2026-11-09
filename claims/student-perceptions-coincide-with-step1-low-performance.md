@@ -49,3 +49,4 @@ Survey-plus-score-plot comparison at one medical school: 99 students' closed- an
 - [Students most frequently rated biochemistry, biostatistics-epidemiology, aging, embryology, cell biology, genetics and pharmacology as insufficiently covered disciplines](step1-perceived-insufficient-disciplines-ranked.md) — related
 - [Students most frequently rated pregnancy-childbirth-puerperium, behavioral health, cardiovascular and immune systems as insufficiently covered organ systems](step1-perceived-insufficient-organ-systems-ranked.md) — related
 - [Open-ended student feedback confirmed the same curricular deficiency areas as the closed-ended ratings](open-ended-feedback-confirms-closed-ended-gaps.md) — related
+- [USMLE scores, including the Musculoskeletal, Skin and Connective Tissue Diseases subtest, showed no improvement after the curricular changes](usmle-msk-subtest-no-improvement.md) — related

@@ -52,3 +52,4 @@ Mixed-methods classroom study with 45 university students using a rubric-based e
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — related
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
 - [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.](gps-wayfinding-actional-immersion-accessible.md) — related
+- [Medical students across years received a model-based cardiovascular e-learning environment positively](lpm-ele-positive-student-feedback.md) — a narrower finding that bears on this claim

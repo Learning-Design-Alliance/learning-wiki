@@ -47,6 +47,7 @@ TRI professional development combines an initial face-to-face summer institute w
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Use telephone video-conferencing for interim monitoring of structured surgical training programs](video-conferencing-interim-curriculum-monitoring.md)
 
 ## Examples
 -

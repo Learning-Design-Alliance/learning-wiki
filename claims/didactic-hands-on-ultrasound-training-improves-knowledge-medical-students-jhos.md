@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: ahmadzia-homa-2018
     resource: "https://doi.org/10.4314/ahs.v18i1.21"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Medical students and junior house officers showed a statistically significant increase in pre-post test scores after the didactic and hands-on teaching session (p<0.0001). [→ Ahmadzia Homa 2018](#ahmadzia-homa-2018)

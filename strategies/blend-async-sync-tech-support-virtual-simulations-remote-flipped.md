@@ -60,6 +60,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Mitigations for delivering virtual surgical skills courses: facilitators, re-playable demonstrations, and connectivity safeguards](virtual-course-technical-mitigations-strategy.md)
 - [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
+- [Couple a flipped-classroom didactic rotation with a practice-based FMEA project and ongoing incident learning participation](flipped-didactic-plus-fmea-project-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2030
 sources:
   - id: skariah-tisha-ann-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Chi-square tests showed statistically significant associations between reported competency deficiencies and country (χ2=595.89, p<0.001), experience (χ2=599.67, p=0.038), and qualification (χ2=745.63, p=0.030). [→ Skariah Tisha Ann 2025](#skariah-tisha-ann-2025)
@@ -49,3 +50,4 @@ Cross-tabulation analysis of the 181-respondent survey (Table 4) linked deficien
 - [Newly employed respiratory therapists show critical competency gaps (over 300%) in ECMO and lung ultrasound relative to mandatory-competency standards](critical-competency-gaps-ecmo-lung-ultrasound-rt.md) — related
 - [Perceptions of RT competency frameworks vary by career stage and qualification, with mid-career practitioners and certification-only holders more skeptical](perceptions-competency-frameworks-career-qualification.md) — related
 - [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
+- [Survey sample responses were homogeneous across country response groups for 89% of GbCF v1 behaviours](survey-sample-homogeneity-gbcf-behaviours.md) — related

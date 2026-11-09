@@ -51,3 +51,4 @@ Univariate Spearman correlation in a cross-sectional survey of 471 Italian unive
 - [Years of education correlate positively with pre-workshop digital literacy scores in older adults](education-correlates-pre-digital-literacy.md) — related
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Nurses' attitudes toward pain management become more negative with greater work experience, age, education and prior retraining participation](pain-attitudes-negative-demographic-correlations.md) — related
+- [Older medical students report higher perceived Medical School stress, with weak positive correlations between age and PMSS scores at both time points](age-correlates-with-pmss-stress.md) — related

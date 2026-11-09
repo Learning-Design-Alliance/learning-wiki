@@ -60,3 +60,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related
 - [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — related
 - [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — related
+- [Fellows improved their overall scores on DVSS virtual reality exercises over the 5-day intensive dry- and wet-lab course, with steeper gains for those starting with lower scores](dvss-score-improvement-five-day-course.md) — related

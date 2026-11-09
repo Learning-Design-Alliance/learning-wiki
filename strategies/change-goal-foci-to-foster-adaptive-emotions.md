@@ -51,6 +51,7 @@ Because the goal-emotion relations hold at the intraindividual level, the author
 ## Related Strategies
 
 - [Design programs that foster students' positive emotions and reduce negative emotions to support subsequent relationship quality and achievement](foster-positive-emotions-programs-strategy.md)
+- [Support teachers with interventions that stimulate adoption of approach-oriented goal profiles and recognize maladaptive multiple-goals profiles early](interventions-stimulate-approach-oriented-profiles.md)
 
 ## Examples
 -

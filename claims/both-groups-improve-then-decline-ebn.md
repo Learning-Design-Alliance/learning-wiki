@@ -52,3 +52,4 @@ Overall trajectory across the three time points (pre-course, post-course, one-mo
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
 - [GEE analysis shows the flipped classroom group's posttest knowledge improvement exceeds the control group's by 11.98 points](gee-knowledge-improvement-flipped-exceeds-control.md) — related
 - [GEE analysis shows the flipped classroom group's self-efficacy improvement exceeds the control group's at both post-course time points](gee-self-efficacy-improvement-flipped-exceeds-control.md) — related
+- [A higher percentage of flipped learning participants called emergency services immediately after training, a difference that disappeared at 6 months](flipped-learning-call-119-immediate-advantage.md) — related

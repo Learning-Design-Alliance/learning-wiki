@@ -59,3 +59,4 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Physicians rate the PallPan palliative care e-learning tool as highly feasible, satisfying, and useful for their work](pallpan-elearning-high-feasibility-ratings-physicians.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
 - [The evaluation methodology was reported as easy to use, clear, and easy to replicate, with positive feedback from curriculum planners](methodology-feasibility-feedback.md) — related
+- [Students rated app-based revision as a useful curriculum addition and rated the MAS useful and user-friendly, with post-test catheterisation confidence non-significantly highest in the MAS group](positive-student-ratings-of-mas-revision.md) — related

@@ -52,3 +52,4 @@ Analytic Hierarchy Process weighting results calculated with yaahp 12.8 software
 - [In the final mobile-nurse competency model, personality traits carry the highest weight (0.4447), exceeding knowledge and skills (0.3702) and professionalism (0.1851)](mobile-nurse-model-personality-traits-highest-weight.md) — related
 - [The Delphi process produced a final competency scale for clinical nutritionists with five primary, twelve secondary, and sixty-six tertiary indicators](delphi-scale-five-twelve-sixty-six-indicators.md) — related
 - [An analytical hierarchy process combined trainee-perceived usefulness and clinical significance with equal 50% weighting to rank the 18 competency areas](ahp-equal-weighting-competency-ranking.md) — related
+- [Survey respondents rated all Delphi skills as important, with analytical skills rated most important and measurement skills least](all-delphi-skills-rated-important-analytical-highest.md) — related

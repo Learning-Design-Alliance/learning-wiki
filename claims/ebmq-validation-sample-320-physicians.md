@@ -47,3 +47,4 @@ Recruitment for EBMQ validation from December 2015 to January 2016 among attende
 ## Related Claims
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [Delphi experts judged interprofessional team approaches essential in primary care for chronic disease, rehabilitation, end-of-life, and mental health cases, with physicians, nurses, and social workers as essential team members](delphi-team-approach-essential-cases-composition.md) — related
+- [Primary care physicians' current health promotion practice falls significantly below their ideal practice across all sixteen assessed elements](ideal-current-health-promotion-practice-gap.md) — related

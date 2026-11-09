@@ -50,3 +50,5 @@ Authors' interpretation of the fitted exponential decay parameters (plateau y0, 
 - [3D-trained novices performed significantly faster than 2D-trained novices on every repetition of both box-trainer tasks](3d-faster-than-2d-every-repetition-box-trainer.md) — related
 - [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — a broader claim this one bears on
 - [Laparoscopic novices trained on a 3D setup complete basic box-trainer tasks significantly faster than novices trained on a 2D-4 K setup](3d-faster-than-2d4k-novice-laparoscopy-speed.md) — a broader claim this one bears on
+- [Novices trained first on 3D performed significantly worse after switching to 2D, especially on technical errors in complicated tasks](3d-start-worsens-after-switch-to-2d.md) — related
+- [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related

@@ -48,3 +48,4 @@ Exploratory factor analysis (principal-component method) of the four-item Hodges
 ## Related Claims
 - [Measurement invariance of the four-item communication scale across OSCE stations was not established, undermining score comparisons across stations](cs-scale-invariance-fails-across-stations.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
+- [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — related

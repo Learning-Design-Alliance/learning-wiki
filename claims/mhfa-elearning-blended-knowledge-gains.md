@@ -52,3 +52,5 @@ Parallel-group RCT with 608 Australian public servants randomised 1:1:1 to eLear
 - [Both MHFA delivery modes improve confidence in helping a co-worker with depression or PTSD by medium effect sizes, with no significant difference between modes](mhfa-confidence-improvement.md) — related
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [Mental Health First Aid training improved school staff mental health knowledge, attitudes and confidence in helping colleagues](mhfa-improves-staff-mental-health-literacy.md) — related
+- [The MHFA eLearning course improved UK medical students' mental health first aid intentions relative to no-access control (ITT)](mhfa-elearning-improves-first-aid-intentions-itt.md) — related
+- [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related

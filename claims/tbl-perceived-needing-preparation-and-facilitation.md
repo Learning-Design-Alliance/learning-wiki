@@ -48,3 +48,4 @@ Kirkpatrick Level 3 (behavior) survey responses from the cross-sectional study o
 - [Preclinical medical students at Najran University enjoyed PBL and were more motivated to join it than TBL](pbl-more-enjoyed-and-motivating-than-tbl-nu-survey.md) — related
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
+- [Medical students perceived clinician facilitation and the standardised TBL structure as providing more reliable guidance than their variable PBL tutor experiences](tbl-clinician-facilitation-guided-learning-perception.md) — related

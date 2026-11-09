@@ -47,3 +47,4 @@ Qualitative sensitivity review of statistically flagged items, reported in the R
 ## Related Claims
 - [Statistically significant DIF appears in 20%, 15%, and 11% of items on anatomy, histology, and physiology preclinical exams respectively](dif-prevalence-three-preclinical-courses.md) — related
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
+- [A blinded ten-member expert panel could identify no plausible explanation for any of the eight notable DIF questions](blinded-panel-no-explanation-notable-dif.md) — related

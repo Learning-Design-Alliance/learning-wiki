@@ -65,3 +65,4 @@ Cross-sectional quality-control assessment of 586 emergency physicians and nurse
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
 - [Participation in theoretical or practical training did not differentially change knowledge scores over time](training-no-differential-knowledge-effect.md) — related
+- [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related

@@ -53,3 +53,4 @@ Correlational analysis comparing simulator analytic scores with blinded OSATS ra
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [First-session operative time did not correlate with surgical skills assessment score in this cohort](no-correlation-operative-time-skills-score-first-session.md) — related
 - [Simulator composite scores do not correlate with live-operation assessment scores or operative outcomes](no-correlation-simulator-composite-scores-live-operation-outcomes.md) — reports the opposite
+- [Simulator metric z-scores correlate well with blinded ASSET performance scores](simulator-z-scores-correlate-with-asset-scores.md) — related

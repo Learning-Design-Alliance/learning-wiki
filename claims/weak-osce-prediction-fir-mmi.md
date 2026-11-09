@@ -51,3 +51,6 @@ Multiple regression using mean ratings from two communication-skill OSCE station
 - [Total scores for first impression and MMI performance correlated at r = 0.49 in the 2012 selection cohort](fir-mmi-correlation-r049.md) — related
 - [First impression correlated with MMI performance slightly more strongly when both were rated by the same rater (r = 0.44) than by different raters (r = 0.37), but the correlation persisted across raters](fir-mmi-correlation-persists-across-raters.md) — related
 - [MMI performance significantly predicted OSCE communication station performance (r = 0.17) but was not significantly related to OSCE overall performance (r = 0.06)](mmi-predicts-osce-communication-not-overall.md) — related
+- [MMI scores show no significant correlation with specific OSCE communication and history-taking stations](hamburg-mmi-null-osce-communication-stations.md) — related
+- [MMI scores significantly predict general-practitioner evaluations of psychosocial competencies during a one-week practice placement](hamburg-mmi-predicts-gp-competency-ratings.md) — related
+- [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — related

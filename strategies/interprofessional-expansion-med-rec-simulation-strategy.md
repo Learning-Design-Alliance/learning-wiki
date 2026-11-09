@@ -48,6 +48,7 @@ For interprofessional use, the authors recommend "adding content and faculty rep
 - [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
+- [Implement the generic consensus assessment items locally by adding setting-specific components](local-implementation-of-generic-pbls-assessment-items.md)
 
 ## Examples
 -

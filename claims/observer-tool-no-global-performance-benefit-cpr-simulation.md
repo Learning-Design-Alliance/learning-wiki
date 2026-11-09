@@ -50,3 +50,4 @@ In this randomised controlled trial of second-year medical students, 40 dyads us
 - [Providing a non-technical observer tool during observation of high-fidelity crisis simulation does not significantly improve anaesthesia residents' overall non-technical skills performance (ANTS score)](observer-tool-no-ants-improvement.md) — related
 - [Using a procedural task-based observer tool during CVC simulation training did not improve the immediate composite learning score of incoming anesthesia residents](observer-tool-no-immediate-composite-score-benefit.md) — related
 - [Directly observed performance did not differ between scenarios with and without the hybrid model](no-observed-performance-difference-scenarios.md) — related
+- [A period effect suggests simulator-based CPR scenarios induce self-reflection and improve non-technical performance without explicit feedback or debriefing](simulator-scenarios-self-reflection-improve-nontechnical-performance.md) — related

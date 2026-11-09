@@ -49,3 +49,4 @@ Predictive logistic regression (Rapidminer, Table 6) on 215 students, with botto
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
 - [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — related
+- [Early SNA indicators plus previous performance classify at-risk students with 85.7% accuracy](sna-indicators-classify-at-risk-students-85-7-percent.md) — related

@@ -53,6 +53,8 @@ The article states that 'These findings support combining knowledge-based instru
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [Incorporate the consensus attributes into BLS, ILS, ALS and simulation-based resuscitation education](embed-consensus-attributes-in-resuscitation-training.md)
 - [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
+- [Provide practical activity both at the beginning and at the end of an online BLS course](practical-activity-beginning-and-end-online-course.md)
+- [Use short online BLS courses for continuing education of health professionals](short-online-bls-continuing-education-strategy.md)
 
 ## Examples
 -

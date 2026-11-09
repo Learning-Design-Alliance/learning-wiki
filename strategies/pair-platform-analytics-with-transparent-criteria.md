@@ -52,6 +52,7 @@ The article recommends treating evaluation itself as a first-class research obje
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
 - [Combine subjective scores, simulator metrics and EEG-based cognitive-load measures for multi-perspective skill assessment](multi-perspective-surgical-skill-assessment-strategy.md)
 - [Use eye tracking and neurophysiological measures to assess expertise and human factors in simulated medical emergencies](eye-tracking-assessment-simulated-emergencies.md)
+- [A multifaceted approach combining incentivized higher-order assessment points, transparent rubric criteria, and facilitated scientific communication to improve ill-defined problem solving](multifaceted-ill-defined-problem-solving-strategy.md)
 
 ## Examples
 -

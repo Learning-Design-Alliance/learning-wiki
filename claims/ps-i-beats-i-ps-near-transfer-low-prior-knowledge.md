@@ -61,3 +61,4 @@ Randomized classroom experiment with 367 introductory biology students assigned 
 - [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](pf-beats-di-near-transfer-butterfly-effect.md) — related
 - [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related
 - [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related
+- [The self-selected experimental group had significantly lower prior knowledge than the control group, while hard-working level and class attendance did not differ significantly](non-equivalent-groups-lower-prior-knowledge.md) — related

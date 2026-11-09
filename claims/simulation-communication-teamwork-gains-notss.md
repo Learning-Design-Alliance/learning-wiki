@@ -65,3 +65,4 @@ Descriptive synthesis across the 12 included studies in this systematic review. 
 - [Surgeons' mean HUFOES scores for non-technical skills rose significantly from 48.7 ± 16.6 to 59.2 ± 14.8 after simulation-based PCR training with an NTS-focused intervention, in one uncontrolled pre-post study (p < 0.001)](nts-simulation-training-improves-hufoes-scores.md) — related
 - [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — reports the opposite
 - [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related
+- [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related

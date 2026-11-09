@@ -49,3 +49,4 @@ Discrimination index analysis of the CSV-IE item against GM-ITE 2022 results, us
 - [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related
 - [VSAQ assessments demonstrate strong discriminatory power between high- and low-performing students](vsaq-strong-discrimination-pooled-fishers-z-1-45.md) — related
 - [All 12 cases had excellent discriminatory ability (item analysis: 0.31–0.84)](foi-test-all-12-cases-excellent-discrimination.md) — related
+- [The two-step pretest (expert consensus plus resident discrimination test) selected 94 questions in 23 domains, all with high discrimination power](two-step-pretest-94-question-tool-development.md) — related

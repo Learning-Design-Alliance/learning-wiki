@@ -68,3 +68,4 @@ Manikin-sampled and video-assessed compression and ventilation quality measures 
 - [Three of forty skills showed no significant improvement from pre-course to post-course](three-skills-no-significant-improvement.md) — related
 - [Safety-control skill declines significantly over the year after BLS training, and chest compression depth deteriorates and becomes too deep](safety-control-and-compression-depth-decline-over-time.md) — related
 - [Three months after training, laypersons taught BLS/AED with a two-stage teaching technique show no difference in skill retention compared to those taught with a four-stage technique](two-stage-vs-four-stage-bls-aed-retention-null.md) — related
+- [Experts de-emphasised guideline-specific algorithm steps and specific tasks, favouring general PBLS principles for layperson assessment](experts-favour-general-principles-over-algorithm-steps.md) — related

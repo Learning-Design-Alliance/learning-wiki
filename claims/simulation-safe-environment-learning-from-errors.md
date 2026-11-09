@@ -94,3 +94,4 @@ Theme 2 (learning from error) of the qualitative analysis. One participant said 
 - [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — related
 - [Students reported that MAES© decreases the anxiety inherent in simulation, allowing them to work more relaxed](maes-reduces-simulation-anxiety.md) — related
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — possibly the same claim (merge candidate)
+- [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — possibly the same claim (merge candidate)

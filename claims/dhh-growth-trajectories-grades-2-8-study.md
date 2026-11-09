@@ -50,3 +50,4 @@ The webinar description states the research design as "following the academic gr
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — related
 - Deaf students plateau at fourth-grade reading skill despite prolonged schooling — related
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
+- [Despite gains, the DHH signing children performed below the mean performance of hearing Grade 1 children on reading comprehension at all five assessment points](dhh-children-below-grade1-norms-reading-comprehension.md) — related

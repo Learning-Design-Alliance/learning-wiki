@@ -41,6 +41,7 @@ The article recommends that institutions in developing countries measuring stude
 - [Research agenda: develop an existential hope scale, then test the framework with SEM and network analysis in longitudinal designs](existential-hope-research-agenda.md)
 - [Use validated self-assessment questionnaires to identify core aspects that help or hinder youth participation in digital citizenship](self-assessment-youth-digital-citizenship.md)
 - [Tailor m-learning programmes to the cultural and economic realities of the local context](tailor-ml-programmes-cultural-economic-realities.md)
+- [Implement the generic consensus assessment items locally by adding setting-specific components](local-implementation-of-generic-pbls-assessment-items.md)
 
 ## Examples
 -

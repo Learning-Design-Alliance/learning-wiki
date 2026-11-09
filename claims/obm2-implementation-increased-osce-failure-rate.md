@@ -50,3 +50,7 @@ Analysis of administrative assessment records from the Phase 1 final OSCE (N = 2
 - [OBM2 reclassification of borderline grades did not significantly change mean scores across domains or stations](obm2-reclassification-no-mean-score-impact.md) — related
 - [Examiners, students and program leaders expressed satisfaction with the Borderline grade, resolution formula and outcomes](stakeholder-acceptance-of-obm2-borderline-grade.md) — related
 - [Students whose borderline grades were reclassified to Pass had significantly higher mean scores than those reclassified to Fail](reclassified-pass-higher-mean-scores-than-reclassified-fail.md) — related
+- [OBM2 pass/fail decisions correlate more strongly with observed OSCE marks than traditional-method decisions, with R2 often almost 50% higher](obm2-higher-correlation-pass-fail-decisions.md) — related
+- [Implementing OBM2 increased station failure rates two- to three-fold in eight of nine OSCE stations](obm2-increased-station-failure-rates.md) — related
+- [OBM2 reclassification did not meaningfully change students' mean station scores despite statistically significant small differences](obm2-negligible-mean-score-change.md) — related
+- [OBM2 did not alter grades for clear pass or clear fail performance, and raised the minimum passing pattern from two to three clear pass marks per station](obm2-unchanged-clear-grades-higher-pass-threshold.md) — related

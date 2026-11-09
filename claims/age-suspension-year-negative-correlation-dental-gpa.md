@@ -50,3 +50,4 @@ Pearson correlation analysis (Table 3) of the 900-student cross-sectional questi
 - [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
 - [Effects of pre-admission predictors on GPA are moderated by interactions, including age moderated by high school grade and aptitude score and conditional effects of gender, marital status, suspension, and English proficiency](interaction-effects-moderate-gpa-predictors.md) — related
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — related
+- [General Aptitude Test scores significantly negatively predict preclinical-year cGPA](gat-negatively-predicts-preclinical-cgpa.md) — related

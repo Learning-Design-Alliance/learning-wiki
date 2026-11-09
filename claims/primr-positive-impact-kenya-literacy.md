@@ -65,3 +65,6 @@ Findings from the PRIMR randomized control trial, in which clusters of Kenyan sc
 - [One year of PRIMR produced statistically significant gains in oral reading fluency in grade 1 formal and nonformal schools and grade 2 nonformal schools, in both English and Kiswahili, but not in grade 2 formal schools](primr-oral-reading-fluency-first-year-gains.md) — a narrower finding that bears on this claim
 - [The authors caution that PRIMR's first-year effects may not generalize beyond the study's disproportionately peri-urban setting](primr-peri-urban-scope-limit.md) — related
 - [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](targeted-training-doubles-reading-fluency-first-graders.md) — related
+- [Kenya's Tayari preprimary program showed larger school-readiness gains than controls (0.34 SD) in a cluster randomized controlled trial](tayari-cluster-rct-school-readiness-gains.md) — related
+- [Kenya's Tusome program sharply reduced grade 2 nonreaders in English and Kiswahili, with targeted-skill effect sizes of 0.4 to 2.57 SD](tusome-nonreader-reduction-effect-sizes.md) — related
+- [Uganda's SHRP produced oral reading fluency effect sizes ranging from 0.17 to 1.12 SD across eight local languages](uganda-shrp-fluency-effect-sizes-by-language.md) — related

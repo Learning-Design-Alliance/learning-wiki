@@ -51,6 +51,7 @@ The article recommends collecting baseline self-report data on cultural competen
 - [Assess nurses' spiritual care competencies as a baseline before implementing tailored training programs](baseline-assessment-before-spiritual-care-training.md)
 - [Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption](genai-rp-diagnostic-use-strategy.md)
 - [Use the validated KAP questionnaire to guide targeted educational interventions and programs for EVD care](evd-kap-questionnaire-guides-targeted-education.md)
+- [Use baseline questionnaires prior to educational interventions to identify problem areas for targeted CME](baseline-questionnaires-before-cme-strategy.md)
 
 ## Examples
 -

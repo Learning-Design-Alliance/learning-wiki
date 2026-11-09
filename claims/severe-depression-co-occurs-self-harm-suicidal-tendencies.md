@@ -52,3 +52,4 @@ Survey screening used a self-developed self-injury scale and the SBO-R suicide r
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
+- [SP roleplay of depression/suicidal tendencies is rated significantly worse than anxiety disorder and somatoform disorder, with small effects](depression-suicidal-roleplay-rated-worst.md) — related

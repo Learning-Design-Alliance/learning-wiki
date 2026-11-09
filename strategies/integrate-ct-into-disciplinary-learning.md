@@ -56,6 +56,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 - [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
 - [Integrate computational fluency practice into science lessons by having science teachers present numerical, computation-based examples](science-teachers-integrate-computational-practice.md)
+- [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 
 ## Examples
 -

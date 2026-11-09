@@ -85,3 +85,4 @@ Domain-level ANTS analysis in the same scenario test showed only teamwork and si
 - [Improvement from the intervention varies across nontechnical skill domains, with teamwork highest and situational awareness lowest](domain-varying-improvement-teamwork-highest-situational-awareness-lowest.md) — related
 - [A single didactic NTS seminar significantly improved medical students' teamwork, situational awareness and error handling, but decision making and patient outcomes did not differ from control](didactic-seminar-improves-teamwork-situational-awareness.md) — related
 - [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related
+- [A period effect suggests simulator-based CPR scenarios induce self-reflection and improve non-technical performance without explicit feedback or debriefing](simulator-scenarios-self-reflection-improve-nontechnical-performance.md) — related

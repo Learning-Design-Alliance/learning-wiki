@@ -56,3 +56,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related
 - [Men scored higher than women on academic hope subscales and academic motivation in this sample](men-higher-hope-descriptives.md) — related
 - [Women PA students show higher ethnocultural empathy and lower colorblindness and depersonalization than men](gender-differences-empathy-colorblindness-burnout.md) — related
+- [Male students report higher commitment to active learning than female students, with no grade difference](gender-difference-commitment-active-learning.md) — related

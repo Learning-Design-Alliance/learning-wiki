@@ -50,3 +50,4 @@ MANCOVA interaction analysis of 248 preschoolers (127 field-dependent, 121 field
 
 ## Related Claims
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
+- [Classical field-dependent learners show no significant knowledge or competence gains after M-TEL, unlike classical field-independent learners](classical-fd-learners-no-significant-gains.md) — related

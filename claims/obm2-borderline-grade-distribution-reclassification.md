@@ -49,3 +49,5 @@ Descriptive analysis of all grades generated in the Phase 1 OSCE before and afte
 - [Implementing the OBM2 in a high stakes OSCE increased the failure rate from 0.7% to 4.1%](obm2-implementation-increased-osce-failure-rate.md) — related
 - [Students whose borderline grades were reclassified to Pass had significantly higher mean scores than those reclassified to Fail](reclassified-pass-higher-mean-scores-than-reclassified-fail.md) — related
 - [OBM2 reclassification of borderline grades did not significantly change mean scores across domains or stations](obm2-reclassification-no-mean-score-impact.md) — reports the opposite
+- [OBM2 pass/fail decisions correlate more strongly with observed OSCE marks than traditional-method decisions, with R2 often almost 50% higher](obm2-higher-correlation-pass-fail-decisions.md) — related
+- [Implementing OBM2 increased station failure rates two- to three-fold in eight of nine OSCE stations](obm2-increased-station-failure-rates.md) — related

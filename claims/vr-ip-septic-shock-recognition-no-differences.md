@@ -47,3 +47,4 @@ Binomial test of septic shock recognition across the four arms of the pilot (n=3
 ## Related Claims
 - [No statistically significant differences in mQSAT simulation performance scores between VR and IP simulation groups across any domain](vr-ip-sepsis-mqsat-no-differences.md) — related
 - [Pre-hospital practitioners in Qatar correctly identified overt sepsis (79.2%) far more often than they correctly determined sepsis was absent in an ambiguous scenario (33.5%)](qatar-prehospital-sepsis-scenario-accuracy-overt-vs-absent.md) — related
+- [In scenario-based assessment, knowledge of multiple trauma scored highest and septic shock lowest among the five tested life-threatening conditions](scenario-based-assessment-condition-score-ranking.md) — related

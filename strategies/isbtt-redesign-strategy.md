@@ -54,6 +54,7 @@ The review's conclusions recommend that programs add "learning with, from and ab
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
 - [Embed curricular support for co- and socially shared regulation: awareness discussions in debriefing and regulation-focused feedback](curriculum-support-crl-ssrl-strategy.md)
 - [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
+- [Implement interprofessional simulation trainings and internships as longitudinal programs within the curricula of all involved health professions](longitudinal-interprofessional-simulation-curricula.md)
 
 ## Examples
 -

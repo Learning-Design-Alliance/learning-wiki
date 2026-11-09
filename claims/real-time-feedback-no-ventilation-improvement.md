@@ -63,3 +63,5 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [Medical students and PA students differ in CPR profiles: medical students compress deeper while PA students compress faster, ventilate more, and complete more cycles](medical-vs-pa-student-cpr-profiles.md) — related
 - [Ventilation outcomes after PBL with high-fidelity simulation are mixed: lower ventilation rate and tidal volume, with both groups below ERC recommendations](pbl-simulation-ventilation-quality-mixed.md) — related
 - [Ventilation-related scores improved less than chest-compression scores after feedback-device CPR training](ventilation-scores-improve-less-than-compression.md) — reports the opposite
+- [Feedback-device recordings showed compression depth and ventilation volume fell short of guideline targets despite otherwise high completion rates](feedback-device-cpr-quality-metrics.md) — related
+- [The authors argue that knowledge of LPV is directly related to its implementation and that education and feedback support adoption of intraoperative LPV](knowledge-drives-lpv-implementation-argument.md) — related

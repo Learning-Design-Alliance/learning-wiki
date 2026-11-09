@@ -49,3 +49,4 @@ Multigroup SEM with accelerometer-measured in-school ST among 517 students; the 
 - [Higher in-school MVPA is associated with higher GPA among boys, with no significant association among girls](mvpa-gpa-boys-positive.md) — related
 - [No significant associations were found between classroom peer ecology variables and in-school sedentary time for either gender](no-association-peer-ecology-st.md) — related
 - [Screen-based sedentary behavior is negatively associated with physical fitness in girls but not significantly in boys after full adjustment](screen-sb-physical-fitness-girls-only.md) — related
+- [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related

@@ -50,3 +50,4 @@ Process evaluation combining TA and trainer interviews, six school case studies,
 - [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Delivery of NELI deviated from the prescribed model in some schools, and teaching assistants reported difficulty devoting enough time to the programme](neli-delivery-deviations-and-time-burden.md) — related
 - [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related
+- [Some services delivered a modified, group-based variant of START despite no evidence for that format, and fidelity was not measured after training](start-modified-group-delivery-fidelity-unmeasured.md) — related

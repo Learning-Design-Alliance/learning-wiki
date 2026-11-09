@@ -47,3 +47,4 @@ Authors' interpretation of the tutoring sessions held with participating student
 ## Related Claims
 - [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related
 - [Experiential education interventions for medical residents showed little effect on medication reconciliation competence and skills](resident-experiential-interventions-little-effect.md) — related
+- [Nurses who acquired Teach-Back skills easily limited themselves to one or two Teach-Back phrases, while a wide range of offered phrases overwhelmed some nurses](limiting-to-one-or-two-teachback-phrases.md) — related

@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 138 claims (83 for, 53 mixed, 2 against) · 125 studies (38 causal, 30 review, 20 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 17 of 125 report an effect size · 124 claims rest on one study
+> **Evidence** · 139 claims (83 for, 54 mixed, 2 against) · 126 studies (38 causal, 30 review, 21 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 18 of 126 report an effect size · 125 claims rest on one study
 
 ## Conditional relationship
 
@@ -219,6 +219,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Rehabilitation students with at least one specific professional interest report higher self-determined academic motivation than students without one](../claims/specific-interest-higher-sdi-rehabilitation-students.md) [~W] — attached 2026-11-05 from Hu Huiling; Luo Hongmei (2026), which proposed "Foster early specialization and professional interest within rehabilitation curricula to enhance academic motivation".
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](../claims/flipped-classroom-raises-autonomous-learning-motivation.md) [+M] — attached 2026-11-06 from Wang Zhonger et al. (2025), which proposed "In flipped college English teaching, prioritize cultivating students' autonomous learning motivation and intrinsic learning motivation"; tests this page's relationship.
 - [Academic interest has a statistically significant positive effect on undergraduate academic performance after propensity score matching on demographic and family covariates](../claims/academic-interest-positive-effect-academic-performance-psm.md) [+W] — attached 2026-11-08 from Wu Hongbin et al. (2019), which proposed "Consider academic interest in student recruitment and foster domain-specific interest to enhance academic performance"; tests this page's relationship.
+- [Autonomous motivation is related to GPA only indirectly, via achieving strategy, in medical students](../claims/autonomous-motivation-achieving-strategy-gpa-path.md) [~W] — attached 2026-11-09 from Isik U. et al. (2018), which proposed "Choose assessment methods and learning goals that motivate use of deep study strategy".
 
 ## Objective and learner-valued goal
 

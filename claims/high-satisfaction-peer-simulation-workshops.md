@@ -66,3 +66,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
+- [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related

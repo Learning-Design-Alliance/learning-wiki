@@ -49,3 +49,4 @@ Secondary outcome in the three-group randomized trial: adherence to the correct 
 - [Animation-enriched virtual patients produce more overall 'competent' PBLS ratings than video instruction, which outperforms static-media VP](animation-enriched-vp-more-competent-ratings-pbls.md) — related
 - [Animation-enriched VP yields superior procedural quality compared with static-media VP, while video instruction does not differ from either](animation-enriched-vp-procedural-quality-pbls.md) — related
 - [Study group and performance domain interact strongly, indicating format effects differ across algorithm, temporal, and quality domains](group-by-domain-interaction-pbls-domains.md) — related
+- [Experts de-emphasised guideline-specific algorithm steps and specific tasks, favouring general PBLS principles for layperson assessment](experts-favour-general-principles-over-algorithm-steps.md) — related

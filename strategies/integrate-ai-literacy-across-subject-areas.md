@@ -55,6 +55,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 - [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
 - [Offer MLM training as elective modules or student-selected components to ease curriculum overcrowding](mlm-elective-modules-curb-saturation.md)
+- [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 
 ## Examples
 -

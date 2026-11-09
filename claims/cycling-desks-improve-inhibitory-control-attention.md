@@ -79,3 +79,4 @@ Table 4 entry for Ruiter et al. (2019), a non-randomized trial in which grade-8 
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — related
 - [Stroop reaction time decreased in both groups across all three phases, with no difference between standing desk and control classes](stroop-reaction-time-time-effect-no-group-difference.md) — related
 - [Combined breakfast and exercise improves mathematics test score over a morning in adolescents compared with fasting and sedentary behavior](breakfast-exercise-improve-math-score-adolescents.md) — related
+- [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — related

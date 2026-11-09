@@ -53,3 +53,4 @@ Spearman correlations and Mann Whitney U tests in the feasibility study (42 stud
 - [Gender, age, hand dominance, and gaming experience showed no significant association with speed or quality of robotic-assisted anastomoses](no-demographic-or-gaming-effects-on-robotic-microsurgery.md) — related
 - [Residents with previous video game experience scored significantly better on the pre-training laparoscopic exercise](videogame-experience-better-pre-training-scores.md) — reports the opposite
 - [Men outperformed in the VR condition, with gender and video game experience highly correlated, leaving the responsible variable unclear](gender-video-game-interaction-vr-advantage.md) — related
+- [Prior real or simulated arthroscopy experience, handedness, sports activity and video-game experience do not correlate with training improvement or final scores](no-demographic-predictors-of-simulator-training-gains.md) — related

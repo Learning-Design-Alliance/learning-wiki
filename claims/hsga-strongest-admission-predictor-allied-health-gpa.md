@@ -51,3 +51,4 @@ Multivariate linear regression in a retrospective cohort of 1634 complete gradua
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
 - [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related
+- [Cumulative high school average and IELTS scores do not significantly predict preclinical cGPA](chsa-ielts-not-predictive-preclinical-cgpa.md) — related

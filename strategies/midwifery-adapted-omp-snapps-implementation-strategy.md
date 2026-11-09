@@ -52,6 +52,7 @@ The article recommends adopting OMP and SNAPPS in midwifery practice by adding a
 ## Related Strategies
 
 - [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
+- [Match the clinical teaching model to the encounter type and learner level](match-teaching-model-to-encounter-type.md)
 
 ## Examples
 -

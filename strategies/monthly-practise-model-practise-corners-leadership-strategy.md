@@ -49,6 +49,7 @@ The authors recommend reshaping the intervention for future evaluation around a 
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 - [Optimize remote feedback quality by reducing group size and improving audio/video equipment](optimize-remote-feedback-quality-strategy.md)
+- [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
 
 ## Examples
 -

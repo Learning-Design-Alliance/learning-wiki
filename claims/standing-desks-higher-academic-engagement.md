@@ -50,3 +50,5 @@ Table 4 entry for Dornhecker et al. (2015), a non-randomized controlled study ac
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Higher kindergarten negative expressivity and steeper negative expressivity trajectories each inversely predicted first-grade observed school engagement](negative-expressivity-predicts-engagement.md) — related
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — reports the opposite
+- [An 11-week classroom standing desk intervention increases objectively measured standing time during lessons in primary school children](standing-desks-increase-lesson-standing-time-children.md) — related
+- [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — related

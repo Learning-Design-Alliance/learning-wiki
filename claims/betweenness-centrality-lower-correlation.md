@@ -50,3 +50,4 @@ Meta-analysis found betweenness centrality at "r=0.38 [CI 0.33:0.42]" with I²=4
 - [Eigenvector centrality has a combined correlation of r=0.41 with grades and is a consistent indicator of student success](eigenvector-centrality-consistent-indicator.md) — related
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — related
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md) — related
+- [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related

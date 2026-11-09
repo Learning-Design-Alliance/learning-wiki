@@ -51,3 +51,4 @@ Framework analysis of interviews with 31 staff from five hospitals in the early 
 - [All nine studies using ISS to assess and promote system readiness and safety cultures reported improvements in readiness scores and safety attitudes](iss-improves-readiness-safety-attitudes.md) — related
 - [In situ simulation postcourse reports in operating theaters frequently record latent safety threats, with 77 of 103 reports containing codable LSTs across all London Protocol factor types](insitu-sim-reports-frequently-record-lsts.md) — related
 - [Trained participants reported institutional, operational, and policy changes, including active screening and establishment of malnutrition units](malnutrition-elearning-policy-operational-changes.md) — related
+- [Surgical hierarchy and autocratic working culture were seen as major reasons negative feedback persists unchallenged in the operating theatre](hierarchy-perpetuates-negative-feedback.md) — related

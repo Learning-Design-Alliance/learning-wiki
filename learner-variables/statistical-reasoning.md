@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (29 show a difference, 9 mixed, 2 no difference) · 22 studies (13 causal, 3 review, 3 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 22 report an effect size · 40 claims rest on one study
+> **Evidence** · 41 claims (30 show a difference, 9 mixed, 2 no difference) · 23 studies (14 causal, 3 review, 3 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 23 report an effect size · 41 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -78,6 +78,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Figures providing take-home message verbiage facilitate inflated explanations in which students mimic legend text without understanding the data](../claims/take-home-messages-facilitate-inflated-explanations.md) [+W] — measured as an outcome of the instruction studied
 - [Students working with ICB figures lacking take-home messages practiced the process-of-science and quantitative-reasoning core competencies](../claims/icb-figures-elicit-core-competency-practice.md) [+W] — measured as an outcome of the instruction studied
 - [Higher-scoring students in the data collection phase envisioned more meaningful engagement between scientists and the public](../claims/cl-data-collection-phase-meaningful-public-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Instructor-rated poster performance improved significantly after the intervention for graph/table statements (1–3) and for interpretation statements 6 and 8](../claims/instructor-rated-performance-improved-lo1-and-partial-lo2.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

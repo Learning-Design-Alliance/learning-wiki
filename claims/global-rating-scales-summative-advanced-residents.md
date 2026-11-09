@@ -54,3 +54,4 @@ The review's narrative synthesis of global rating scale studies (19 studies). It
 - [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related
 - [Surgical technique subcomponents of the rating scale discriminate PGY levels better than non-technical subcomponents](technical-subcomponents-greater-discernibility.md) — a narrower finding that bears on this claim
 - [In its current form the four-item scale may not adequately differentiate students with poor communication skills from those who perform better](cs-scale-poor-differentiation-low-performers.md) — related
+- [The checklist sub-total outperforms the global score for measuring individual call quality, while the global score outperforms the checklist for measuring caller ability](checklist-versus-global-score-differential-performance.md) — a narrower finding that bears on this claim

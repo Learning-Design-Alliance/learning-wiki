@@ -52,3 +52,5 @@ Kidger et al.'s mixed-methods evaluation of Mental Health First Aid in six UK se
 - [Self-reported stigmatising attitude scores toward people with mental health conditions were significantly lower after MAGIC than before MAGIC in one uncontrolled pre-post study (OMS-HC-15)](magic-reduced-stigma-oms-hc.md) — related
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [Both eLearning and blended MHFA courses produce greater-than-large improvements in mental health first aid knowledge relative to a first aid control, with no significant difference between modes](mhfa-elearning-blended-knowledge-gains.md) — related
+- [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related
+- [The MHFA eLearning course decreased UK medical students' stigmatising attitudes (ITT)](mhfa-elearning-reduces-personal-stigma-itt.md) — related

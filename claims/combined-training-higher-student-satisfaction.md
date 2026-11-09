@@ -50,3 +50,4 @@ Post-teaching Likert questionnaire (Table 2) in the randomized experiment; items
 - [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](combined-training-higher-second-theoretical-scores.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Combined virtual-then-jaw (V-J) training yields higher second theoretical examination scores than single-method training in preclinical implant education](vj-combined-training-higher-second-theory-scores.md) — related
+- [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related

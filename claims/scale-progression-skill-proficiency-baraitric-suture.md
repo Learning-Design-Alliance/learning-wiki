@@ -47,3 +47,5 @@ Authors' interpretation of the stratified task-time data from the 37-participant
 ## Related Claims
 - [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](greenhouse-scores-increase-with-training-level.md) — related
+- [Participants' endosuture proficiency classifications progressed significantly across training stages, with students at the optimum level rising from one to six](endosuture-proficiency-classification-progression.md) — related
+- [No participant reached the highest proficiency level (under 12 minutes), and the authors state continued training is needed to reach maximum proficiency](no-participant-reached-maximum-endosuture-proficiency.md) — related

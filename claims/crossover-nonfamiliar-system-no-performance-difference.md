@@ -50,3 +50,4 @@ Secondary outcome of the randomized intervention: after crossover each group per
 - [Overall simulator task scores did not differ significantly between the 3D heads-up display and the conventional microscope in novice trainees](overall-simulator-scores-comparable-3d-vs-conventional.md) — related
 - [Test performance in laparoscopic tasks is dictated by the viewing mode used during testing, not the mode used during training](test-performance-dictated-by-test-viewing-mode.md) — related
 - [Switching viewing mode between training and testing changes test performance: 2D→3D transfer outperforms 2D-only control, while 3D→2D transfer underperforms 3D-only control](viewing-mode-switch-changes-test-performance.md) — related
+- [Novices trained first on 3D performed significantly worse after switching to 2D, especially on technical errors in complicated tasks](3d-start-worsens-after-switch-to-2d.md) — related

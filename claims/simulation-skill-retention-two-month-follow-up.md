@@ -76,3 +76,4 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
+- [At two-month follow-up, 91.9% of commitments were reported at least partly realized, with emergency nursing trainees reporting the best full-implementation rate](c2c-followup-realization-rate.md) — related

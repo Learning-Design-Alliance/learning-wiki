@@ -58,3 +58,4 @@ Observational analysis comparing CPS graduates who delayed college enrollment wi
 - [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
 - [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
+- [Course average in the two weed-out courses indicated progression to degree: six of ten non-completers failed one or both, and no student who passed both failed out](weed-out-course-average-predicts-degree-progression.md) — related
