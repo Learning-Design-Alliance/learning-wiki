@@ -64,3 +64,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Nurses with Basic Life Support certification obtained within the previous two years showed a significantly higher overall self-efficacy gain](recent-blsl-certification-higher-self-efficacy-gain.md) — related
 - [Prior BLS course attendance, prior healthcare certification, and real-life CPR provision are associated with better CPR performance, but observing CPR is not](prior-cpr-experience-associated-performance.md) — related
 - [Previous attendance at a BLS or AED course had no significant effect on knowledge test scores, and the test is applicable regardless of baseline knowledge](prior-bls-course-no-effect-on-test-score.md) — related
+- [Training is associated with increased odds of provider confidence, perceived resource availability and perceived support in making sepsis decisions](training-associated-enabling-environment-perceptions.md) — related

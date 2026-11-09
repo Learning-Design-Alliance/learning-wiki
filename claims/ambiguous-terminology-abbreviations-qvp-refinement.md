@@ -51,3 +51,4 @@ In the think-aloud cognitive interviews, students expressed uncertainty about te
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
 - [Open-ended QVP questions enabled nuanced reflection but introduced risk of socially desirable responses](open-ended-questions-reflection-and-bias-qvp.md) — related
 - [Undergraduate nursing students perceived the QVP as clear, well-constructed, and easy to understand](qvp-perceived-clear-well-constructed-nursing-students.md) — reports the opposite
+- [Constructing the HPV ontology from VIS documents posed challenges including class creation, inclusion decisions, and ambiguous medical terminology](viso-hpv-authoring-challenges-ambiguity.md) — a narrower finding that bears on this claim

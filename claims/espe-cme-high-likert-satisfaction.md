@@ -69,3 +69,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students in an introductory CRE through PBL perceive the course structure, group work, and their learning experience positively, with all survey items averaging over 4.0 out of 5](pbl-cre-students-positive-perceptions.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
 - [Facilitator preparation was the best-rated item in the survey (M = 9.02), with the teacher's role seen as crucial for initial motivation rather than knowledge transmission](maes-facilitators-best-rated-item.md) — a narrower finding that bears on this claim
+- [Postgraduate health professionals rated blended online modules as an effective preparation for face-to-face meetings, with a 7.6 median overall rating](blended-online-preparation-rated-effective-postgraduates.md) — related

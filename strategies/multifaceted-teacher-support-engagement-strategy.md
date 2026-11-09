@@ -49,7 +49,8 @@ The article recommends that teachers combine emotional, competence-oriented, and
 - [Class cadre status and grade level relate to learning engagement, and gender relates to achievement goal orientations, among Chinese junior high students](../claims/cadre-grade-gender-differences-engagement.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Design in-class interventions and school-based programs that facilitate, promote, and foster personal best](foster-personal-best-interventions-strategy.md)
 
 ## Examples
 -

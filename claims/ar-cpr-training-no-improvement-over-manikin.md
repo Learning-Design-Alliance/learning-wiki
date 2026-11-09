@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: sabery-mahdieh-2026
     resource: "https://doi.org/10.1186/s12873-026-01553-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The AR CPR training application did not improve chest compression rate and depth compared with the standard audio-visual feedback manikin in healthcare providers. [→ Sabery Mahdieh 2026](#sabery-mahdieh-2026)

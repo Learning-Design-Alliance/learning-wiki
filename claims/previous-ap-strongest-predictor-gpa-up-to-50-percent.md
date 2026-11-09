@@ -56,3 +56,4 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 - [A regression model with sex, 2-back reaction time, distancing and self-controlling coping explained about 55% of GPA variance](regression-model-55-percent-gpa-variance.md) — related
 - [A regression model combining self-regulation, engagement and self-efficacy explains 36% of variance in perceived academic success](three-predictors-explain-36-percent-variance-academic-success.md) — related
 - [Past academic performance is the strongest predictor of future academic performance, with T1 and T2 GPA jointly explaining 82.69% of the variance explained in T3 GPA](past-gpa-dominates-t3-academic-performance-dominance.md) — related
+- [Cognitive and noncognitive predictors collectively explain less than 4% of variance in graduation](predictors-explain-under-4-percent-graduation-variance.md) — related

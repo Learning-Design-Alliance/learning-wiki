@@ -55,6 +55,7 @@ A concrete design recipe drawn from the simulation training framework and the tr
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
 - [Integrate IVR as warmup or refresher training with self-guided or peer-to-peer debriefs followed by facilitated large-group debriefing](ivr-warmup-refresher-self-guided-debrief-strategy.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
+- [Run history-taking sessions with individual reflection, group discussion, and Pendleton-rule peer feedback supported by instructor probing questions](rp-feedback-history-taking-session-recipe.md)
 
 ## Examples
 -

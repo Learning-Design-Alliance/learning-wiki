@@ -49,3 +49,4 @@ Interview quote from Respondent 3 in Theme 1, illustrating the perceived adminis
 - [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related
 - [Youth and parents reimagined schools with more resources and supportive infrastructure, including transportation, everyday-life programs, and activities for economically constrained families](school-resources-supportive-infrastructure.md) — related
 - [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — related
+- [In exemplar clinical areas, responsibility for teaching is collective across multidisciplinary and administrative staff](collective-responsibility-teaching-ecas.md) — related

@@ -43,6 +43,7 @@ The review proposes using voluntary attendance as a signal of perceived session 
 ## Related Strategies
 
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
+- [Structure future flipped courses with assessed group-work elements and varied feedback sessions instead of mandating attendance](assessed-groupwork-and-varied-seminar-structure-strategy.md)
 
 ## Examples
 -

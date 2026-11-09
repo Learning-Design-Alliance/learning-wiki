@@ -50,3 +50,4 @@ Within-cohort subgroup comparison (18 PGY-1 vs 18 UGY) across both procedures an
 - [Experienced PGY-3 residents outperform novices in pericardiocentesis at the 3-month assessment despite comparable puncture times](pgy3-outperform-novices-pericardiocentesis.md) — related
 - [Handmade-phantom simulation training significantly increases novices' self-reported confidence in performing US-guided thoracocentesis and pericardiocentesis](handmade-phantom-training-confidence-increase.md) — related
 - [Novices show skill decay in pericardiocentesis at the 3-month assessment after handmade-phantom training when they lack clinical observation of the procedure](pericardiocentesis-skill-decay-three-months.md) — related
+- [Trainees with 19–24 months of PGY training scored higher than less-experienced trainees in all domains except counseling skills, but not significantly](pgy-experience-higher-mini-cex-scores-not-significant.md) — related

@@ -50,3 +50,4 @@ In this RCT's intergroup comparison, "there were no significant differences betw
 - [Process-oriented feedback reduces rework (repetition of procedural steps) in simulated central venous catheter placement, unlike the control condition](process-mining-feedback-reduces-rework-cvc.md) — related
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
 - [Both trained groups (remote and face-to-face) significantly outperformed the untrained control group on procedural performance](trained-groups-outperform-control-chest-tube.md) — related
+- [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](process-oriented-feedback-positive-student-reaction-cvc.md) — related

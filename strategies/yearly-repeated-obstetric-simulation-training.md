@@ -57,6 +57,7 @@ The article's discussion aligns with professional societies and guidelines "reco
 - [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
+- [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 
 ## Examples
 -

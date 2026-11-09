@@ -69,3 +69,4 @@ Same post-test questionnaire measure of perceived difficulty in the two sub-samp
 - [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](taia-perceived-support-hypothesis-argumentation.md) — related
 - [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](robotics-program-greater-ct-gains-early-childhood.md) — related
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](students-enjoyed-conducting-experiments-most.md) — related
+- [The juggling-math program significantly increased children's enjoyment of math lessons compared with the sedentary math program](juggling-math-increased-enjoyment.md) — related

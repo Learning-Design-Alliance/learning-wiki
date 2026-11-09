@@ -58,9 +58,11 @@ The strategy operationalizes the [intergroup contact](../theories/situated-learn
 5. **Debrief and repeat** — a short reflection consolidates the experience, and repetition converts a one-time event into a norm.
 
 ## Related Strategies
+
 - [Cooperative learning](../principles/collaborative-learning.md) — adds shared goals and accountability to cross-group contact, strengthening its effects
 - [Check-ins](../elements/check-in.md) — a low-stakes structured format that can serve as the mixing prompt itself
 - [Jigsaw](../patterns/collaborative-learning.md) — a task structure that makes cross-group interdependence unavoidable
+- [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
 
 ## Examples
 - **[Mix It Up at Lunch Day](https://www.learningforjustice.org/professional-development/mix-it-up-at-lunch-day)** (Learning for Justice, formerly Teaching Tolerance) — schools assign lunch-table groupings and provide conversation starter cards to break up cafeteria cliques.

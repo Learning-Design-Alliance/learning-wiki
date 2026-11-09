@@ -52,3 +52,4 @@ Cross-sectional Google Forms survey of medical and health sciences educators in 
 - [Iraqi educators report low or unknown course failure rates and predominantly view failing a student as a last resort rather than a necessary part of education](iraq-low-unknown-failure-rates-failing-last-resort.md) — related
 - [Formal assessment training and clarity of institutional guidelines did not statistically predict failure to fail or grading leniency](assessment-training-guidelines-not-predictive-iraq.md) — related
 - [A minority of dermatology assessors self-report failure to fail (12.5%) or grade inflation (18%) in the previous 12 months](dermatology-assessors-self-report-failure-to-fail-and-grade-inflation.md) — related
+- [If in doubt, progression decisions usually pass the student, and the article argues students should be regarded as incompetent until proven competent](leniency-failure-to-fail-standard-of-proof.md) — related

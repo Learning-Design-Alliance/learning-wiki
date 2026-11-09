@@ -53,3 +53,4 @@ Reliability analysis of the standardized surgical skills assessment tool applied
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — a broader claim this one bears on
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
 - [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related
+- [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related

@@ -51,3 +51,4 @@ Comparative observational study of 67 third-year medical students assigned by cl
 - [Compared with students receiving no prior training, structured-training students report lower apprehension about causing pain but lower postprocedure satisfaction](sensitivity-analysis-pain-apprehension-satisfaction.md) — related
 - [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related
 - [The two training modalities show complementary step-level strengths: CT outperforms VRT in preparation, anesthesia administration and procedure completion, while VRT outperforms CT in measuring CSF pressure](step-level-complementary-strengths-vr-vs-ct.md) — related
+- [Only 7.5% of surveyed trainees reported prescribing sedation or local anesthesia before lumbar puncture](rare-sedation-anesthesia-before-lp.md) — related

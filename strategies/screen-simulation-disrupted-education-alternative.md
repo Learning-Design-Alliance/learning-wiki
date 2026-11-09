@@ -50,6 +50,7 @@ The article recommends screen-based simulation for contexts where face-to-face e
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 - [Adopt interactive educational videos when face-to-face meetings are not possible](interactive-video-contingency-lockdown-strategy.md)
 - [Use simulation-based medical chart documentation as an alternative OSCE component, including during pandemics](chart-documentation-simulation-as-osce-alternative.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
 
 ## Examples
 -

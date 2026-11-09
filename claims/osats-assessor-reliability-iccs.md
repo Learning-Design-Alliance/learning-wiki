@@ -68,3 +68,6 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related
 - [The purpose-developed portrayal instrument showed good inter-rater reliability, with ICCs of 0.62–0.82 across assessor pairs](portrayal-instrument-good-inter-rater-reliability.md) — related
 - [Intrarater reliability of the OS-12 overall score is excellent (ICC 0.86) when recordings are re-rated after three months](os12-intrarater-reliability-icc-086.md) — related
+- [AS-NTS achieves excellent interrater reliability (mean 0.89) when used in simulation scenarios](as-nts-excellent-interrater-reliability.md) — related
+- [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
+- [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related

@@ -52,3 +52,4 @@ Post-survey module feedback from both cohorts. 84% (n = 166) endorsed continued 
 - [Most surveyed PA/DPT and MD students reported using the modules 1-2 hours per week, both with the donor and as a stand-alone study tool](module-usage-survey-hours-and-contexts.md) — related
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
+- [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related

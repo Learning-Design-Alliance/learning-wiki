@@ -52,3 +52,4 @@ Path analysis (JASP) of self-report questionnaire data from 250 Greek undergradu
 - [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related
 - [Extrinsic motivation correlates weakly with self-regulation, critical thinking, and achievement compared with intrinsic motivation](extrinsic-motivation-weak-correlations-higher-order-outcomes.md) — related
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — related
+- [Personal resolve and social relationship, but not self-efficacy, directly predict optimal best practice](psychological-agencies-predict-optimal-best.md) — related

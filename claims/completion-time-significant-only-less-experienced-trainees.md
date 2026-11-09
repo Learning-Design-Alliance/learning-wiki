@@ -55,3 +55,5 @@ The review reports, citing Kim et al., a porcine knee model training evaluation.
 - [More experienced surgeons rate knowledge of imaging anatomy and spatial perception as more important pre-operative general skills than trainees do](experience-level-differences-general-skill-importance-ratings.md) — related
 - [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related
 - [Exercise duration does not differentiate experience levels on the arthroscopic simulator task](exercise-duration-null-metric.md) — related
+- [Movement efficiency on the VR simulator was independently predicted by number of simulations, surgical experience level, and years since college graduation](movement-efficiency-predictors-simulations-experience-graduation.md) — related
+- [The training's effectiveness is established in senior nurses at a single cancer hospital and may not generalize to less experienced nurses](spiritual-care-training-effectiveness-limited-to-senior-nurses.md) — related

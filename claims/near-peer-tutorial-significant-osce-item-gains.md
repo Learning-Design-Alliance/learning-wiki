@@ -51,3 +51,4 @@ Item-level analysis of paired pre-post OSCE scores using a 15-item rubric with p
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — related
 - [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — related
 - [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](3d-printed-models-classroom-interactivity.md) — related
+- [Students' post-presentation spotter scores were significantly higher than pre-presentation spotter scores in one single-group pre-post study of creative muscle presentations](post-presentation-spotter-scores-significantly-higher.md) — related

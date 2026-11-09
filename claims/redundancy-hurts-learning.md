@@ -142,3 +142,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
 - [HCPs prefer e-learning content presented as written information combined with graphic presentations over spoken formats](written-graphic-presentation-preferred-pro-course.md) — related
 - [Two contextual differences — case format (serial cue vs. whole cases) and dual-channel information processing — are proposed explanations for why reflection phases are effective with text-based cases but not in simulation-based learning](case-format-and-channel-explanations-reflection-effectiveness.md) — related
+- [Students interacted with the presentation in varied ways, with multimedia engagement stimulating learning for some and distracting for others](prezi-varied-student-interaction-multimedia.md) — related

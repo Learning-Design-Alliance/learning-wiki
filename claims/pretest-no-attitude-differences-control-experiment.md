@@ -48,3 +48,4 @@ Pretest t-tests for independent samples compared Rasch mean SATS-36 scores of th
 - [Excel-based statistics instruction improved pre-service teachers' attitudes towards statistics more than theoretical instruction on all six SATS-36 factors](excel-instruction-improves-attitudes-towards-statistics.md) — related
 - [The common effect of instruction type and group was significantly positive in all six dimensions of attitudes towards statistics](mixed-model-common-effect-attitudes-positive.md) — related
 - [Intervention and control groups did not differ significantly in attitudes towards statistics at pre-test](pbl-statistics-attitude-no-pretest-difference.md) — possibly the same claim (merge candidate)
+- [No significant performance differences between randomly assigned Groups A and B on any assessment component](group-a-b-no-significant-differences.md) — related

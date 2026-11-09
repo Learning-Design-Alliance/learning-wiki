@@ -48,3 +48,4 @@ Access statistics reported in the Discussion, attributed by the article to prior
 ## Related Claims
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
+- [Most Italian paediatric residency programmes lack simulation facilities and support personnel](italian-paediatric-programmes-lack-simulation-facilities.md) — a narrower finding that bears on this claim

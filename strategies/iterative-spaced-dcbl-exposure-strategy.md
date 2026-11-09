@@ -46,6 +46,7 @@ The authors argue that the mixed individual response profile "argues for iterati
 ## Related Strategies
 
 - [Pair DCBL modules for URTI and diarrhoea stewardship with complementary strategies such as communication skills training, shared decision-making simulations, or reflective debriefing](complementary-strategies-urti-diarrhoea-dcbl.md)
+- [Deliver the Geriatrics 5Ms modules as individual sessions in a spaced longitudinal educational series to promote knowledge retention](geriatrics-5ms-spaced-educational-series-strategy.md)
 
 ## Examples
 -

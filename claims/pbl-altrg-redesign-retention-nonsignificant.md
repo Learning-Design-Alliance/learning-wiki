@@ -51,3 +51,4 @@ Quasi-experimental comparison of retention rates; Table 1 reports 21.05% DFW in 
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](focus-intervention-lower-course-withdrawal.md) — related
 - [Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics](chatbot-completion-effects-differ-by-subject.md) — related
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
+- [Failure rates in experiment 3 dropped from 48% to 25% relative to lecture-based control terms](exp3-dfw-rates-drop-48-to-25.md) — related

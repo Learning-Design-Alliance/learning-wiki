@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (36 for, 23 mixed) · 65 studies (21 causal, 14 review, 13 quant-synthesis, 6 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 65 report an effect size · 46 claims rest on one study
+> **Evidence** · 60 claims (36 for, 24 mixed) · 66 studies (22 causal, 14 review, 13 quant-synthesis, 6 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 66 report an effect size · 47 claims rest on one study
 
 ## Description
 
@@ -148,6 +148,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](../claims/pre-class-tests-increase-stress-anxiety.md) [~W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
 - [84.0% of students preferred to maintain or increase pre-class test frequency](../claims/pre-class-tests-high-acceptance-frequency-preference.md) [+W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
 - [Third formative assessment scores rose from pre-test to post-test, with no significant difference from summative examination scores after remediation, in one single-group pre-post study](../claims/post-remediation-gains-sustained-third-fa-to-sa.md) [~W] — attached 2026-11-07 from Hegde Shreelaxmi V. et al. (2024), which proposed "Identify underperforming students early in the curriculum and provide tailored remediation to enhance exam performance".
+- [Course grades show no significant difference between cohorts taught with and without the Socrative mobile application](../claims/no-grade-difference-socrative-cohorts.md) [~M] — attached 2026-11-08 from Kim Kyong-Jee (2019), which proposed "Integrate mobile classroom applications to support formative assessment and anonymous whole-class interaction in competency-based courses"; tests this page's relationship.
 
 ## Source verification and open tests
 

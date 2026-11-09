@@ -49,6 +49,7 @@ Drawing on the SUS and interview findings, the authors recommend that E-learning
 ## Related Strategies
 
 - [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
+- [Involve potential end users in focus groups at the design phase of a health app to align content and features with user-elicited preferences](user-centered-focus-groups-app-design.md)
 
 ## Examples
 -

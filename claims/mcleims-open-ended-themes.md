@@ -64,3 +64,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Free-text trainee comments yielded three additional learning-need themes: procedural skills, dealing with difficult colleagues, and acute care](trainee-free-text-three-themes.md) — related
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
+- [Free-text feedback: most students found the OSS realistic, while SPs mainly raised practical issues such as heat and clothing](oss-free-text-advantages-challenges.md) — related

@@ -52,6 +52,7 @@ The article's implementable training recipe is simulation training using Plan-Do
 - [Use plan-do-study-act cycles incorporating simulation to identify and revise process, infection control, and equipment threats in new workflows](pdsa-simulation-cycles-workflow-testing.md)
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 - [Use in-situ simulation within a PDSA cycle to gather real-time user feedback and iteratively refine a new clinical protocol](insitu-sim-pdsa-protocol-refinement.md)
+- [Deliver in situ simulation including all staff, with repeated low-time-cost equipment familiarisation sessions](all-staff-in-situ-simulation-equipment-familiarisation-strategy.md)
 
 ## Examples
 -

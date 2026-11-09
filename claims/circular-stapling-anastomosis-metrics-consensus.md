@@ -70,3 +70,4 @@ Results section of the modified Delphi stress test with 16 expert colorectal sur
 - [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related
 - [A modified Delphi process with an international expert panel produced a final unweighted A-OSATS score with four key steps and 15 defined substeps for minimally invasive linear-stapled intestinal anastomoses](a-osats-delphi-consensus-development.md) — related
 - [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related
+- [An international Delphi panel of 21 consultant-level interventional neuroradiologists reached consensus on procedure metrics for a reference approach to mechanical thrombectomy](delphi-consensus-mt-procedure-metrics.md) — related

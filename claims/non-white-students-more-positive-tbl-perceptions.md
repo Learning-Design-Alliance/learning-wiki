@@ -47,3 +47,4 @@ Cross-sectional survey comparing Likert-scale ratings between participant ethnic
 ## Related Claims
 - [African American secondary school staff perceived their schools' instructional equity less positively than staff of other races/ethnicities](african-american-staff-least-positive-instructional-equity-perceptions.md) — related
 - [Nearly three-quarters of Year 1 medical students report a positive or very positive overall experience of integrated team-based learning.](three-quarters-positive-overall-tbl-experience.md) — related
+- [Non-White PA students report higher ethnic identity, multicultural experiences, and ethnocultural empathy, and lower colorblindness, than White students](ethnic-group-differences-cultural-competence-pa-students.md) — related

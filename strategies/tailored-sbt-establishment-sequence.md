@@ -47,7 +47,8 @@ The article proposes a priority hierarchy for establishing SBT in an ED: first t
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](../claims/mental-barriers-in-situ-participation.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT](regional-and-in-situ-simulation-cost-sharing-strategy.md)
 
 ## Examples
 -

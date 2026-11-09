@@ -61,3 +61,4 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related
 - [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related
 - [Experts self-assess their simulated performance and knowledge significantly higher than novices, whose lower self-ratings may more accurately reflect measured performance](expert-novice-self-assessment-discrepancy.md) — related
+- [Beginner endoscopists take longer than experts on simulator hemostasis procedures](beginners-slower-than-experts-simulator-hemostasis.md) — a narrower finding that bears on this claim

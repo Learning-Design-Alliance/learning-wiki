@@ -52,3 +52,4 @@ Descriptive item-level comparison in the combined cohort; communication showed "
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — related
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
+- [Perceived importance of interprofessional communication education does not change significantly after training](ipe-importance-attitude-not-significant.md) — related

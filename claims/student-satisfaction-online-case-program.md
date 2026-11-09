@@ -48,3 +48,4 @@ Anonymous voluntary 11-item 5-point Likert survey run by the RCSI Quality Enhanc
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [Staff reported universally high satisfaction with the tele-education program](high-staff-satisfaction-tele-education.md) — related

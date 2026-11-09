@@ -66,3 +66,4 @@ Same pre-post questionnaire analysis (Mann-Whitney U for independent samples; Cr
 ## Related Claims
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [Overall knowledge test score distribution shifted upward after the A-SPIRE session (U = 995.00, P < 0.05), though the median score remained unchanged](a-spire-knowledge-test-distribution-upward-shift.md) — related
+- [Perceived importance of interprofessional communication education does not change significantly after training](ipe-importance-attitude-not-significant.md) — reports the opposite

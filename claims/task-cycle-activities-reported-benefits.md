@@ -55,3 +55,4 @@ Student self-reports from an eleven-week task-based speaking programme, given in
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [No students reported anxiety or avoidance when watching expert video techniques or receiving peer feedback, but 28% of open-ended comments expressed anxiety about being recorded themselves](anxiety-limited-to-self-recording.md) — related

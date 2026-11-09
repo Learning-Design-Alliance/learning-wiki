@@ -74,3 +74,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
+- [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related

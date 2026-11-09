@@ -48,3 +48,4 @@ Item-level descriptive analysis of SCCS-27 responses from the same 220-nurse cro
 - [Nurses at the NICC show a moderate overall spiritual care competency score of 100.71±10.60 on the SCCS-27](nicc-nurses-moderate-spiritual-care-competency.md) — related
 - [Participation in in-service spiritual care education is associated with higher spiritual care competency scores](in-service-education-higher-spiritual-care-competency.md) — related
 - [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related
+- [Sufficient resources received the lowest climate rating while autonomous learning was the highest-rated teaching behavior](descriptive-means-climate-and-behavior-subscales.md) — related

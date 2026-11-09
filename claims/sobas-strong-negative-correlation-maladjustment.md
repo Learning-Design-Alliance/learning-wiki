@@ -51,3 +51,4 @@ Correlational analysis of self-report data from 698 Italian adolescents (Table 1
 - [SOBAS retains a direct negative association with psychosocial maladjustment after mediators are included](sobas-direct-negative-maladjustment-mediation.md) — a narrower finding that bears on this claim
 - [SOBAS is indirectly linked to better grades and lower maladjustment through reduced social media addiction, not overall social media use](sobas-indirect-via-reduced-sma.md) — related
 - [SOBOSM is positively associated with social media addiction and social media use, mediating indirect negative effects on maladjustment](sobosm-positive-sma-use-indirect-maladjustment.md) — related
+- [School maladjustment correlates negatively with academic performance, ESI correlates positively with school maladjustment, and most correlation magnitudes are higher among males](school-maladjustment-negative-correlation-academic-performance.md) — related

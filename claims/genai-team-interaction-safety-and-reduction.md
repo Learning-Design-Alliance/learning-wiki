@@ -83,3 +83,4 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](peer-learning-psychological-safety-and-equity-conditions.md) — related
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [Anonymity in remote lectures increased student engagement in question-asking, while remote workshops suffered from absent non-verbal cues and reduced interactivity](remote-anonymity-engagement-workshop-communication-loss.md) — related
+- [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related

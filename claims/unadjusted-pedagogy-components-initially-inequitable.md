@@ -66,3 +66,4 @@ Student feedback from the same pre-adjustment period in the treatment section. T
 ## Related Claims
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — related
+- [Perceived alignment between online and face-to-face components differed per module and was judged insufficient by some students](online-face-to-face-alignment-perceived-insufficient.md) — related

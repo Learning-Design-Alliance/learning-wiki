@@ -52,3 +52,4 @@ Post-intervention 10-item 5-point Likert questionnaire adapted from Vuchkova et 
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related
 - [Attendees perceived that Anatomy Club workshops improved their understanding of anatomy and medical pathologies and increased their anatomical knowledge](anatomy-club-perceived-understanding-knowledge-gains.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
+- [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related

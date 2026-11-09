@@ -50,3 +50,4 @@ Subgroup analysis using the Wilcoxon signed-rank test on the low-performance gro
 - [Precepted video review and video review with supervised peer discussion produce equivalent post-remediation OSCE scores and self-efficacy gains](precepted-review-equals-peer-discussion-osce-gains.md) — related
 - [Students report higher educational satisfaction with precepted video review than with peer discussion](precepted-review-higher-satisfaction-than-peer-discussion.md) — related
 - [OSCE scores were below national average scores at pre-test and above national average scores at post-test in one uncontrolled pre-post study](post-osce-scores-exceeded-national-average.md) — related
+- [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related

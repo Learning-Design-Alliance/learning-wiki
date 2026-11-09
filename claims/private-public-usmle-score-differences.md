@@ -49,3 +49,4 @@ Descriptive comparison from Table 1 of 54 public versus 35 private schools. Tabl
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [Demographic and institutional factors correlated with institutional USMLE scores in bivariate analysis but were not significant after controlling for GPA and MCAT](institutional-factors-nonsignificant-controlling-gpa-mcat.md) — related
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
+- [Private schools average about five points higher on Step 1 than public schools](private-schools-higher-step1.md) — possibly the same claim (merge candidate)

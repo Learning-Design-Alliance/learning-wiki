@@ -54,3 +54,4 @@ Observational comparison of quiz participants (both quizzes n=45; at least one n
 - [Playing all five Kahoot quizzes was associated with significantly higher exam scores than playing none or only one](five-kahoots-higher-than-none-or-one.md) — a narrower finding that bears on this claim
 - [In the experimental cohort, students who participated in Kahoot scored 0.54 points higher on the final exam than non-participants](kahoot-participation-higher-exam-score.md) — a narrower finding that bears on this claim
 - [Full engagement with weekly Smartwork active-learning quizzes is associated with significantly higher marks on class test, exam, coursework and overall module performance](full-engagement-smartwork-higher-performance-all-assessments.md) — related
+- [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related

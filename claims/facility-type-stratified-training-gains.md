@@ -52,3 +52,4 @@ Subgroup comparison within the pre-post study of 207 medical officers (29% PHC, 
 - [In one single-group pre-post study with no comparison group, correct identification of the estimated MASLD prevalence in India among medical officers rose from 14% before to 15.9% after training, while approximately 84% underestimated the burden](persistent-masld-prevalence-knowledge-gap.md) — related
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
 - [Referral patterns differ geographically: terai PHCWs overwhelmingly refer to the tertiary eye hospital while mountain PHCWs refer to local eye care centres](referral-patterns-differ-terai-vs-mountains.md) — related
+- [After the training, medical students score highest on the glucagon administration test](glucagon-test-highest-post-score.md) — related

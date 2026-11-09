@@ -47,3 +47,4 @@ Subgroup meta-analysis by intervention type reported in the review's results (Fi
 ## Related Claims
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — a broader claim this one bears on
 - [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](digital-education-guidelines-skills-mixed.md) — related
+- [The video group showed higher voluntary engagement than the control group, including tutorial attendance (95.1% vs 64.0%), Introduction to Histology video time on task (2 h 40 m vs 1 h 17 m), and e-Learning module time on task (5 h 27 m vs 1 h 21 m)](video-group-higher-voluntary-engagement.md) — related

@@ -60,3 +60,4 @@ Manual chest compression tests at Resusci Anne QCPR stations with Session Viewer
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related
 - [Medical students and PA students differ in CPR profiles: medical students compress deeper while PA students compress faster, ventilate more, and complete more cycles](medical-vs-pa-student-cpr-profiles.md) — related
 - [QCPR-measured CPR quality rose from pre-test to post-test after retraining, in one uncontrolled pre-post study, with all numerical items nearly meeting AHA guideline targets](qcpr-numerical-data-meet-guidelines-after-retraining.md) — related
+- [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related

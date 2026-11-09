@@ -51,6 +51,7 @@ The authors recommend integrating the DNH model into structured ESD training cur
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Integrate cadaver-based ultrasound-guided procedure simulation workshops into PA curricula as low-stress, repeatable practice before live-patient training](integrate-cadaver-us-simulation-into-pa-curricula.md)
 - [Six-step implementation guideline for integrating collaborative simulation-based learning into health sciences curricula](collaborative-sbl-implementation-guidelines.md)
+- [Use low-cost 3D-printed simulators to train beginners in hemostasis before treating real bleeding patients](low-cost-3d-printed-hemostasis-training-strategy.md)
 
 ## Examples
 -

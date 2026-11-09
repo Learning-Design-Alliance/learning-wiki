@@ -48,3 +48,4 @@ Third theme in the Results section. Panelists highlighted accountability, time m
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
+- [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related

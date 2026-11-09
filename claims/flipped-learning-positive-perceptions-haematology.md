@@ -73,3 +73,6 @@ Within the same perception survey, descriptive results show a minority neutralit
 - [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related
+- [Most students preferred fixed groups, but group accountability did not always ensure pre-class preparation](fixed-groups-preferred-accountability-limited.md) — related
+- [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](flipped-classroom-two-thirds-preference-physiotherapy.md) — related
+- [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related

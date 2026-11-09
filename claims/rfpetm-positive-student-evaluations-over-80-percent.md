@@ -49,3 +49,4 @@ Questionnaire survey of RFPETM students across teaching-method aspects with IOC 
 - [Most RFPETM students reported that the model helped their knowledge acquisition, with 82.17% rating improvement or significant improvement](rfpetm-students-report-knowledge-acquisition-gains.md) — related
 - [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related
 - [RFETM students reported significantly higher questionnaire scores than TETM students for innovation ability, scientific research ideas, and learning interest](rfetm-questionnaire-scores-significantly-higher.md) — related
+- [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related

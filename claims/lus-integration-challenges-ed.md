@@ -50,3 +50,4 @@ Follow-up survey across all respondent groups (certified, non-certified, incompl
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - [Lack of time during the workday was the principal barrier to clinical POCUS use, reported by 68% of participants](iscan-time-principal-barrier-pocus-use.md) — related
+- [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related

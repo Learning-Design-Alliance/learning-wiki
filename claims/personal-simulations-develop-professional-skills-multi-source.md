@@ -50,3 +50,4 @@ Multi-source questionnaire evaluation (interns N = 37, actors N = 43, tutors N =
 ## Related Claims
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](personal-simulations-develop-communication-skills.md) — related
 - [In one uncontrolled pre-post study, interns' self-rated self-efficacy changed from pre-test to post-test after personal simulations across professional-knowledge confidence, responding to patients, and coping with patient resistance (all p < 0.01)](personal-simulations-increase-self-efficacy-significant.md) — related
+- [Communication skills training substantially increases pharmacy students' confidence in communicating with patients and counseling on special dosage forms](cst-confidence-gains-patient-counseling.md) — related

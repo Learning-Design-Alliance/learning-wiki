@@ -71,3 +71,4 @@ Random-effects pooled comparison for mathematical fluency from aggregated sample
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized mathematics measures, with a larger pooled deficit than for reading](preterm-aggregate-mathematics-deficit.md) — a broader claim this one bears on
 - [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related
 - [School-age children born preterm without severe sequelae show high failure rates in reading, mathematics and writing tests](preterm-school-age-high-academic-failure.md) — related
+- [The greatest knowledge gains occurred in the areas where teachers' knowledge was poorest: mathematics difficulties, poor social skills and inattention after preterm birth](largest-knowledge-gains-math-social-inattention.md) — related

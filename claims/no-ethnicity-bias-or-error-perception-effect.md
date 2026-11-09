@@ -74,3 +74,4 @@ The objective-errors outcome (0–20 estimated errors on the same writing sample
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md) — reports the opposite
 - [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md) — related
 - [Blind versus open grading shows no significant ethnic bias in university exam grades](no-ethnic-bias-blind-grading-quasi-experiment.md) — related
+- [Ethnic-group differences in confidence bias are an artefact of cognitive test performance, whereas confidence judgement differences persist after adjustment](ethnic-differences-confidence-metrics-diverge.md) — related

@@ -53,3 +53,4 @@ Authors' interpretation in the discussion, not a tested result: the review sugge
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
 - [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related
+- [Participants recommended experiential learning strategies — role-plays and contact with CAM practitioners — for teaching CAM to clinical psychologists](experiential-cam-learning-role-plays-practitioners.md) — a narrower finding that bears on this claim

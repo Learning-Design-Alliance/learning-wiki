@@ -49,3 +49,4 @@ Descriptive technical scoring (Donoghue et al. scale adapted to the scenario, ma
 - [Review-reported evidence holds that simulation-based team training improves communication, coordination and response times in acute care, and simulation-based mastery learning reduces catheter-related bloodstream infections](review-reported-simulation-team-and-mastery-learning-effects.md) — related
 - [Earlier chest compression initiation in the control group during ventricular fibrillation is the only notable ALS performance difference](control-earlier-chest-compressions-vf.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
+- [A four-step team-based REBOA training programme produced competency scores above the agreed cut score in simulated out-of-hospital cardiac arrest](four-step-reboa-training-adequate-competency-simulation.md) — related

@@ -54,3 +54,5 @@ Software-recorded analysis of baseline compressions in the training program. Tab
 - [Mandatory app use significantly increased the percentage of chest compressions with correct rate and correct depth versus no app](mandatory-app-improves-compression-rate-depth.md) — related
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
+- [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related
+- [Percentage of sufficient compressions, compression depth, and compression frequency show no significant difference between the teaching groups](sufficient-compressions-no-group-difference.md) — related

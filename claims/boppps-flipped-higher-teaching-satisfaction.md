@@ -95,3 +95,4 @@ Table 4 proportions for three dimensions: 97.14% vs 54.29% for practical operati
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
 - [Clinical thinking improvement and learning pressure showed no significant difference between the SBS & CBL and LBL & CBL groups](clinical-thinking-no-group-difference.md) — related
 - [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related
+- [Students rated all questionnaire items higher in the combined flipped classroom + PBL group, with significant advantages in motivation, interaction and multiple self-perceived abilities](flipped-pbl-higher-perceptions-and-competence-ratings.md) — related

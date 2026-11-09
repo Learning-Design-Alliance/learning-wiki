@@ -49,6 +49,7 @@ Based on the study's results, the author recommends that teachers and actors in 
 
 - [Blended Learning](blended_learning.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
 
 ## Examples
 -

@@ -86,3 +86,4 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [Trainee self-assessment scores are significantly lower than patient scores across all competencies](claim-self-scores-significantly-lower-than-patient-scores.md) — related
 - [Multi-modal training combining role-plays with immediate feedback, field practice and participatory teaching contributed to early competence development](multimodal-training-role-plays-feedback-field-practice.md) — related
 - [Standardised patients rate the counselling of role-playing seminar students significantly better than that of online-course students](sp-rating-seminar-advantage.md) — a narrower finding that bears on this claim
+- [Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)](sp-module-higher-self-confidence-than-role-play.md) — related

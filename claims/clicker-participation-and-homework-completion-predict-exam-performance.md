@@ -58,3 +58,4 @@ Observational analysis of 346 consenting students in two sections of an introduc
 - [Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [Class work completion rates were slightly lower for the clicker group when learning new content](clickers-lower-classwork-completion-new-content.md) — related
+- [Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect](worksheets-clear-effect-clickers-weak.md) — related

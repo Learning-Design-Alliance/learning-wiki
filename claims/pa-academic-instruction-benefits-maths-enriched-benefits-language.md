@@ -62,3 +62,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Leisure-time moderate-to-vigorous physical activity is positively associated with competency in all academic skills, with the strongest relationships for mathematics and classroom concentration](mvpa-academic-skill-competency-math-strongest.md) — related
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
 - [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related
+- [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — related

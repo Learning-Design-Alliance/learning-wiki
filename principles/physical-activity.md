@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (21 for, 20 mixed, 3 against) · 34 studies (13 causal, 8 quant-synthesis, 8 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 34 report an effect size · 38 claims rest on one study
+> **Evidence** · 45 claims (21 for, 21 mixed, 3 against) · 35 studies (14 causal, 8 quant-synthesis, 8 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 35 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [~W] — a review reporting lower heart rate and stress with green window views, and healthier cortisol rhythms in forest schooling that the review says could not be attributed to physical activity; bears on outdoor active breaks only as a reminder that setting and movement are separate causes.
 - [On-task behavior increased immediately after a 25-minute recess in a small uncontrolled pre-post study](../claims/on-task-behavior-increases-after-recess.md) [+W] — attached 2026-11-01 from Howie Erin K. et al. (2023), which proposed "Daily recess duration may beneficially exceed the CDC-recommended 20 minutes when split into shorter periods"; tests this page's relationship.
 - [Group work, the most common physically activating method, often produces only minimal movement](../claims/group-work-minimal-physical-activation.md) [+W] — attached 2026-11-08 from Rupp Robert et al. (2025), which proposed "Design physically active university teaching as stealth health: synchronise physical activity with learning rather than interrupting it".
+- [The juggling-math program significantly increased children's enjoyment of math lessons compared with the sedentary math program](../claims/juggling-math-increased-enjoyment.md) [~W] — attached 2026-11-08 from van den Berg V. et al. (2019), which proposed "Use children's enjoyment of physically active learning as the starting point for structurally incorporating physical activity in classrooms".
 
 ## Claims
 

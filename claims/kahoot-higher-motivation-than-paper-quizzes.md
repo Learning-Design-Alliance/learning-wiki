@@ -53,3 +53,4 @@ Ten-item motivation questionnaire (modified from Keller's Course Interest Survey
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
 - [Students expressed satisfaction, engagement and motivation with all three systems, with final average assessments of 4.28, 4.61 and 4.47 out of 5.](students-satisfied-gamified-crs-anatomy.md) — related
+- [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related

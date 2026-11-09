@@ -66,3 +66,4 @@ Linear mixed model with group, time and group-by-time fixed effects and subject 
 ## Related Claims
 - [Post-intervention, PBP e-learning produced the highest simulation proficiency (81.1%) among the three training groups, significantly above both comparison groups](pbp-elearning-highest-post-simulation-proficiency.md) — related
 - [An extra 67.6% of the PBP group became proficient from pre- to post-intervention, significantly more than either comparison group](pbp-elearning-greater-proficiency-gains.md) — related
+- [Adding proficiency-based progression simulation to e-learning produces higher proficiency rates in ISBAR communication than e-learning alone or e-learning plus standard simulation](pbp-simulation-higher-isbar-proficiency-than-e-learning-or-standard-simulation.md) — related

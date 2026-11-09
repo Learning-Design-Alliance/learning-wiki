@@ -1,0 +1,53 @@
+---
+type: claim
+title: "Residents who strongly agreed their program's didactics emphasized OKAP material scored higher than those who strongly disagreed, and program incentives but not repercussions or call coverage were associated with higher scores"
+description: "Residents who strongly agreed their program's didactics emphasized OKAP material scored higher than those who strongly disagreed, and program incentives but not repercussions or call coverage were associated with high..."
+id: didactics-emphasis-and-incentives-associated-okap
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-08
+evidence_strength: moderate
+newest_evidence: 2019
+sources:
+  - id: zafar-sidra-2019
+    resource: "https://doi.org/10.1186/s12909-019-1637-4"
+    title: "Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A. (2019). Resident and program characteristics that impact performance on the Ophthalmic Knowledge Assessment Program (OKAP). BMC Medical Education. https://doi.org/10.1186/s12909-019-1637-4"
+    author: Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Residents who strongly agreed their program's didactics emphasized OKAP material scored higher than those who strongly disagreed, and program incentives but not repercussions or call coverage were associated with higher scores
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Residents who strongly agreed that year-round didactics emphasized OKAP material scored significantly higher than those who strongly disagreed (65.8 versus 37.8, p = 0.002). [→ Zafar Sidra 2019](#zafar-sidra-2019)
+`q2 i?` Residents whose programs offered incentives scored higher than those without (72.9 versus 57.6, p = 0.003); repercussions (p = 0.98) and call coverage (p = 0.59) showed no significant differences. [→ Zafar Sidra 2019](#zafar-sidra-2019)
+
+## Evidence
+
+### Zafar Sidra 2019
+
+Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A. (2019). Resident and program characteristics that impact performance on the Ophthalmic Knowledge Assessment Program (OKAP). BMC Medical Education. https://doi.org/10.1186/s12909-019-1637-4
+
+`q2 · i?` · `associational · r2`
+
+Survey comparisons of mean self-reported OKAP percentile across Likert agreement groups (Table 4) and program-offering groups. Incentives comparison printed as "mean OKAP percentile 72.9 versus 57.6, p = 0.003"; repercussions and call coverage comparisons were non-significant.
+
+> "those who strongly agreed with the statement had significantly higher OKAP scores than those who strongly disagreed (mean OKAP percentile 65.8 versus 37.8, p = 0.002)."
+
+## Discussion
+
+
+## Related Claims
+- [Linear regression finds OKAP percentile associated with incentives, Step 1 scores, male gender, perceived usefulness of review sessions, and research hours exceeding 20 h/week](linear-regression-okap-percentile-continuous.md) — related
+- [On multivariable analysis, higher Step 1 scores, incentives, more weekly study hours, fewer research hours, and less dependence on group study predict scoring at or above the 75th OKAP percentile](multivariable-predictors-top-okap-percentile.md) — related
+- [More weekly hours spent studying for the OKAP correlates with higher OKAP percentile among ophthalmology residents](weekly-study-hours-correlate-okap-percentile.md) — related
+- [OKAP percentile was not significantly correlated with program size, total months spent studying, weekly research hours overall, or weekly duty hours](null-correlations-program-size-duty-hours.md) — related
+- [Greater use of online question banks and program-arranged review sessions correlates with higher OKAP percentile, while review books, BCSC books, question books, group study sessions, and review courses do not](question-banks-review-sessions-correlate-okap.md) — related

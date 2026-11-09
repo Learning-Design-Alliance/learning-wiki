@@ -54,3 +54,4 @@ Meta-analysis pooling 26 studies using Dersimonian-Laird random-effect models fo
 - [IMCI training improves appropriate medication prescription (RR = 1.77, 95% CI: 1.53–2.06)](imci-training-improves-medication-prescription.md)
 - [IMCI training shows no significant pooled effect on child vaccination rates (RR = 1.16, 95% CI: 0.98–1.36)](imci-training-no-significant-vaccination-effect.md)
 - [IMCI training benefits are stronger in lower-resource settings (lower HDI) for nutrition counseling and vaccinations](imci-training-stronger-lower-resource-settings.md)
+- [Previous IMCI training shows no significant effect on knowledge acquisition or retention from SCL-aHIT](imci-training-no-effect-scl-ahit-outcomes.md) — related

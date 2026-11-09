@@ -68,3 +68,4 @@ ANCOVA on the features section with its pre-test as covariate; Bonferroni compar
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](construction-dgs-equals-manipulatives-beat-traditional.md) — related
 - [DGS (Cabri II Plus) instruction produced the highest overall transformational geometry achievement, followed by manipulatives, with traditional instruction last](dgs-outperforms-manipulatives-traditional-total-test.md) — related
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
+- [Both teaching methods significantly improved quiz scores from pre- to post-quiz within each group](both-methods-improve-quiz-scores-pre-to-post.md) — related

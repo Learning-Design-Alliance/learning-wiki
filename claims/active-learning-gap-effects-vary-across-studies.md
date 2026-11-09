@@ -56,3 +56,4 @@ Granular analysis of per-study gap changes (Fig. 2) shows heterogeneous effects:
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — related
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — possibly the same claim (merge candidate)
+- [The experiment 3 design closed the achievement gap affecting underrepresented minority students, whose failure chance fell from 73% to 34%](exp3-urm-achievement-gap-closed.md) — a narrower finding that bears on this claim

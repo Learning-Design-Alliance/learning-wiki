@@ -74,6 +74,8 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Provide ongoing refresher training covering PPIUD eligibility and birth-spacing importance to sustain provider knowledge and reduce bias](ongoing-refresher-training-ppiud-eligibility-birth-spacing.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
+- [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
+- [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Descriptive statistics on eight 5-point Likert perception items in the 99,559-st
 - [Instructor characteristics significantly predict e-learning satisfaction (β = 0.221), with timely answers and enthusiasm rated highest (~4.2)](instructor-characteristics-predict-satisfaction.md) — related
 - [Most dental students were satisfied with and showed a positive attitude toward technology-based learning during the COVID-19 lockdown](dental-students-satisfied-positive-attitude-tbl.md) — related
 - [Instructors give feedback most often in learning groups during course sessions (71%) and almost never via learning platforms (89% never)](feedback-situations-learning-groups-dominant.md) — related
+- [Students appreciated e-moderator support (mean 3.4–4.1 of 5) though some found first-module messages too strict](e-moderator-support-appreciated-some-strict-messages.md) — related

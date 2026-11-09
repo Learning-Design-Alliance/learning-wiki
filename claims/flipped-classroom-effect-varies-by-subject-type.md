@@ -49,3 +49,4 @@ Moderator analysis across the 20 included studies (Table 2): between-group effec
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — a broader claim this one bears on
 - [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](social-activity-no-moderating-effect-flipped.md) — related
+- [The effect of academic interest on academic performance varies across disciplines, largest in natural sciences and smallest in social sciences](academic-interest-effect-varies-by-discipline.md) — related

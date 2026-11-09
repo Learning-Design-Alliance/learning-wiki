@@ -70,3 +70,4 @@ Hypothesis testing in the same PLS-SEM analysis: of the 14 hypotheses, 9 were su
 - [Parents' support significantly raises well-being, achievement, and interest but does not significantly reduce students' stress](parent-support-no-significant-stress-reduction.md) — related
 - [Teachers' academic support significantly increases well-being, mathematics achievement, and interest, and significantly reduces students' stress](teacher-academic-support-path-effects.md) — related
 - [In a cross-sectional questionnaire study, teacher support had the strongest positive association with the academic performance of mathematics education doctoral students in Indonesia](teacher-support-strongest-predictor-math-ed-doctoral-performance.md) — related
+- [Optimal best practice positively predicts personal well-being (β = .28) but not academic striving directly](optimal-best-predicts-well-being.md) — related

@@ -59,3 +59,4 @@ Three-round online Delphi survey (November 2024–February 2025) with 30 experts
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
 - [Advance care planning received the lowest mean rating, indicating performance only in a simulated setting with teacher supervision](advance-care-planning-lowest-mean-simulated-setting.md) — a narrower finding that bears on this claim
 - [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related
+- [A four-round Delphi panel of infection-control experts in Brazil reached consensus on 4 core, 14 generic and 17 specific competencies for HCRI prevention and control](delphi-consent-hcri-competencies-brazil.md) — related

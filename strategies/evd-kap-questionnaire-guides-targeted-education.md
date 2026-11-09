@@ -48,6 +48,7 @@ The article recommends that nurse administrators administer the Adult EVD Nursin
 
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Use the DKSCQ-N to identify training needs and evaluate dysphagia training outcomes in hospital settings.](dkscqn-training-needs-assessment-strategy.md)
+- [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](baseline-cultural-competence-battery-tailoring-strategy.md)
 
 ## Examples
 -

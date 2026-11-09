@@ -79,3 +79,4 @@ The review reports Hasler et al.'s (2007) comparison of four versions of materia
 - [Segmentation improves learning from dynamic visualizations, but because studies always used pauses, whether the pause's processing time or its segment-end signal drives the effect is unclear](segmentation-effect-cause-unclear.md) — related
 - Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning. — related
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related
+- [Students interacted with the presentation in varied ways, with multimedia engagement stimulating learning for some and distracting for others](prezi-varied-student-interaction-multimedia.md) — related

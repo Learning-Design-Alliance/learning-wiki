@@ -52,3 +52,4 @@ Between- and within-group attitude comparisons in the randomized experiment (n =
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [Caricature animations in the online learning environment did not significantly change students' attitudes toward humor](caricature-animation-no-attitude-toward-humor-effect.md) — related
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — related
+- [Animated instruction videos on tablets alone produced no significant change in episiotomy rates in intervention hospitals](animated-tablet-instruction-no-episiotomy-change.md) — related

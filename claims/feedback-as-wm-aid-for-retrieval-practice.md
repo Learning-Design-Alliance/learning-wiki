@@ -85,3 +85,4 @@ Cross-study comparison of published studies (Agarwal et al.; Bertilsson et al.; 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [The authors conclude that intentional practice with basic mathematics facts offers benefits regardless of the method used to rehearse](intentional-practice-any-method-benefits-fluency.md) — related
+- [The authors propose that the effect of concurrent or frequent feedback depends on the learner's skill level relative to task complexity, which may explain the null retention effect](feedback-skill-level-moderation-hypothesis.md) — related

@@ -59,6 +59,8 @@ The article recommends that future programmes address skill decay by building in
 - [Provide ongoing objective feedback and structured, supervised POCUS training to maintain emergency physicians' competencies](ongoing-objective-feedback-pocus-training.md)
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Provide ongoing refresher training covering PPIUD eligibility and birth-spacing importance to sustain provider knowledge and reduce bias](ongoing-refresher-training-ppiud-eligibility-birth-spacing.md)
+- [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
+- [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
 
 ## Examples
 -

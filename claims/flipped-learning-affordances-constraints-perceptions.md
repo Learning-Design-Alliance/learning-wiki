@@ -84,3 +84,6 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — related
 - [The authors hypothesize four factors—videos, interactive questions, smartphones, and audio explanations—drove understanding, pending further study](four-hypothesized-factors-video-elearning-understanding.md) — related
 - [Students primarily prepare for Clinical Skills Lab learning stations by watching instructional videos at home and concentrate on hands-on practice at the CSL](home-video-preparation-then-hands-on-csl.md) — related
+- [Students most valued interaction with peers and educators and flexibility of digital resources, while long seminars and preparation load were the most common complaints](flipped-classroom-positive-negative-factors-physiotherapy.md) — related
+- [Students used the online lectures far more than the assigned readings, citing lack of time as the main barrier](lecture-use-high-reading-use-low.md) — related
+- [Perceived relevance and difficulty of pre-class materials predicted pre-test scores, while preparedness did not](material-perceptions-predict-pretest.md) — related

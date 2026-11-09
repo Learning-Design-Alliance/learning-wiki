@@ -55,3 +55,4 @@ Time-use comparison from the questionnaire of the two groups of 16 students; Tab
 - [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — related
 - [Pre-class learning time and pre-class discussion time were significantly higher in the flipped classroom than in the traditional classroom](flipped-classroom-preclass-time-increase.md) — related
 - [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — a narrower finding that bears on this claim
+- [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related

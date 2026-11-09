@@ -53,6 +53,8 @@ A forward-looking recommendation for making the proposed competency framework fe
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 - [Prioritize layered models for budget-limited institutions and reserve VR simulators for advanced individualized training](budget-tiered-simulation-tool-selection.md)
+- [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
 
 ## Examples
 -

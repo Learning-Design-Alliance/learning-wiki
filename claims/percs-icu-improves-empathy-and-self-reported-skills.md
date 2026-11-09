@@ -51,3 +51,4 @@ Before-and-after, single-site observational study of 6 mandatory PERCS-ICU cours
 - [A mandatory communication course improved empathy and self-reported skills even among residents with differing motivation levels](mandatory-communication-training-effective.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Residents did not report significant decreases in anxiety or improvements in management of emotions after PERCS-ICU](percs-icu-no-anxiety-or-emotion-management-gains.md) — related
+- [Training improves self-rated empathy alongside other communication skills items](cst-empathy-item-improvement.md) — related

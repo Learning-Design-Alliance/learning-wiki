@@ -68,3 +68,4 @@ Same self-reported time data; total time (80.625 ± 9.483 min vs. 76 ± 15.425 m
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — a broader claim this one bears on
 - [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — possibly the same claim (merge candidate)
+- [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related

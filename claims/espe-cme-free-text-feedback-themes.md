@@ -52,3 +52,4 @@ Two authors independently coded free-text feedback into four categories by conse
 - [Students' most important lessons concerned consolidation of counseling skills (59.8% of comments), reflective practice (28.3%), and insight into clinical placement (12%)](key-learning-consolidation-reflection-placement-preparation.md) — related
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
 - [Praising comment orientation is moderately positively associated with quantitative competency ratings (β = 0.46)](praise-orientation-positive-rating-association.md) — related
+- [Learners praised the interactive, case-based format, handouts, and short individual modules in formative feedback](geriatrics-5ms-workshop-interactive-case-based-format-praised.md) — related

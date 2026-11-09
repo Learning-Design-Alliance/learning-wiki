@@ -48,3 +48,4 @@ Narrative review claim across multiple research paradigms (citing Hiebert et al.
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — possibly the same claim (merge candidate)
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — reports the opposite
+- [Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism](productive-struggle-mechanism-gps-care.md) — a narrower finding that bears on this claim

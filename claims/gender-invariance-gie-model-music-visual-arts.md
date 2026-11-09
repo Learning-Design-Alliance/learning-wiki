@@ -54,3 +54,4 @@ Multi-group invariance testing (Models 4–6; N = 436 with 180 boys, 256 girls) 
 - [Contrast effects appear between math-like and verbal-like domains in both self-concept and intrinsic value](contrast-effects-math-like-verbal-like-self-concept-intrinsic-value.md) — related
 - [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](within-domain-positive-achievement-self-concent-relations-eight-domains.md) — a narrower finding that bears on this claim
 - [No gender differences in visual art participation or academic performance among Chinese primary students](no-gender-differences-vap-academic.md) — related
+- [Gender-specific patterns: the high-duration achievement advantage appears only in girls, while the high-duration self-concept advantage appears only in boys](gender-specific-duration-effects-achievement-self-concept.md) — related

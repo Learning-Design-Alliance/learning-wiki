@@ -62,3 +62,4 @@ Chi-squared tests on profile membership of the 191-teacher sample showed "the pr
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — reports the opposite
 - [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — related
 - [Self-reported competence was significantly associated with campus and year of study, but not with age or gender.](namibia-competence-campus-year-association.md) — related
+- [Cluster membership is not associated with teacher sex, department, work experience, or hospital level](cluster-membership-no-demographic-association.md) — related

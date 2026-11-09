@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 96 claims (41 for, 50 mixed, 5 against) · 71 studies (39 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 71 report an effect size · 91 claims rest on one study
+> **Evidence** · 97 claims (42 for, 50 mixed, 5 against) · 72 studies (40 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 72 report an effect size · 92 claims rest on one study
 
 ## Description
 
@@ -117,6 +117,7 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](../claims/retention-test-faster-than-initial-training-no-group-effect.md) [~W] — attached 2026-11-07 from Tang Diana Hai Yen et al. (2024), which proposed "Schedule distributed skills training so sessions are separated by at least one night of sleep, and keep programs flexible for trainee schedules"; tests this page's relationship.
 - [Repeated simulation training with a one-month interval accelerated the learning curve and reduced inter-individual variability](../claims/repeated-simulation-sets-accelerate-learning-curve.md) [+W] — attached 2026-11-08 from Oh Eun Jung et al. (2020), which proposed "Use distributed repeated simulation training sets with an inter-training interval rather than massed training"; tests this page's relationship.
 - [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](../claims/shorter-cpr-intervals-faster-acquisition.md) [+W] — attached 2026-11-08 from Oermann Marilyn H. et al. (2020), which proposed "Space novice psychomotor skill practice at short intervals with real-time feedback to speed skill refinement"; tests this page's relationship.
+- [Frequent simulation repetition lowers 24-hour sympathetic activity on simulation days: group × time interaction in LF/HF ratio favoring the 9-session group](../claims/repeated-simulation-lowers-24h-sympathetic-activity.md) [+M] — attached 2026-11-08 from Ghazali Daniel Aiham et al. (2019), which proposed "Schedule repeated simulation sessions about every six weeks so trainees habituate and simulation stress ceases to spill into daily life"; tests this page's relationship.
 
 ## Elements
 

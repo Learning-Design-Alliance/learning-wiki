@@ -104,3 +104,4 @@ Moderator analysis using a three-way Trt × MGS × intensity interaction in the 
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — related
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — related
+- [Time spent on student group work is the strongest positive predictor of learning gains across 31 undergraduate biology sections](student-group-work-time-predicts-learning-gains-biology.md) — related

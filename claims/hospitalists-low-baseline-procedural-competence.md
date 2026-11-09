@@ -50,3 +50,4 @@ Prospective pre/post cohort study of hospitalists at a large urban academic medi
 - [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — related
 - [In one single-group pre-post study, all participating hospitalists reached the minimum passing standard immediately after one-on-one 60-minute SBML](sbml-immediate-mastery-hospitalists.md) — related
 - [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related
+- [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — related

@@ -47,3 +47,4 @@ Self-reported willingness data from the Nigerian study, contrasted with a Japane
 
 ## Related Claims
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
+- [Students with other native languages reported greater willingness to perform both compressions and ventilation on a stranger, while Swedish-native-language students preferred chest compressions only](onl-students-more-willing-stranger-cpr.md) — related

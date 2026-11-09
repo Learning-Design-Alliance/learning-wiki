@@ -49,3 +49,5 @@ Questionnaire study (results section): five trainees who completed the 3-step cu
 - [Trainees disagreed that simulator training prepared them for possible complications and technical difficulties of thrombectomy](simulator-training-inadequate-complication-preparation.md) — related
 - [VR simulator performance of interventional radiologists improved significantly from pretest to posttest on all outcome measures in both test cases, except contrast volume in case 1](vr-simulator-performance-improves-after-thrombectomy-training.md) — related
 - [The reported benefit and confidence gain of RESS support decay over consecutive thrombectomies, indicating increasing trainee autonomy](ress-benefit-decays-with-trainee-autonomy.md) — related
+- [Consultant INRs completed 40% more procedure phases than trainees in the simulated MT procedure](vr-metrics-experts-more-phases.md) — related
+- [Consultant INRs completed 20% more procedure steps than trainees in the simulated MT procedure](vr-metrics-experts-more-steps.md) — related

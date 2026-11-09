@@ -55,3 +55,4 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
 - [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
+- [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related

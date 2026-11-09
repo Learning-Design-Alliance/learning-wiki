@@ -70,6 +70,7 @@ Creative writing forces generative processing: to write a coherent story, learne
 - [Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site](reconstruct-language-foregrounding-kinship-with-nature.md)
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
 - [Multi-level integrative tasks at partially search, productive and creative levels for consolidating knowledge and developing professional skills](multi-level-integrative-tasks-three-difficulty-levels.md)
+- [Extend a vaccine education knowledgebase with multimedia, storytelling, cancer-awareness content, and subject matter expert accuracy evaluation](knowledgebase-multimedia-storytelling-expert-feedback-strategy.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — an exemplar story shows students what "content-accurate creativity" looks like

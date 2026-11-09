@@ -50,3 +50,4 @@ Population-wide longitudinal register analysis of 140,338 individuals born in 19
 ## Related Claims
 - [Exposure to neighbourhood affluence during childhood and adolescence is positively associated with educational attainment at age 23, with similar effects for whole-childhood and early-childhood exposure](affluence-exposure-positive-education-netherlands.md) — possibly the same claim (merge candidate)
 - [Exposure to neighbourhood poverty is negatively associated with educational attainment, with the strongest standardised effect during adolescence](poverty-exposure-negative-education-netherlands.md) — related
+- [Neighbourhood SES shows no association with adolescent educational attainment at age 17 in this Dutch cohort, before or after parental education is controlled](neighbourhood-ses-null-adolescent-attainment-netherlands.md) — reports the opposite

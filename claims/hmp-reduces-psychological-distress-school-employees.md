@@ -70,3 +70,4 @@ Same intention-to-treat mixed effects models at the three-month follow-up (T6) i
 - [The meditation app showed no evidence of elevated adverse events, with lower odds of symptom worsening at post-test](hmp-no-elevated-adverse-events.md) — related
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [Treatment effects were not moderated by employment category (teacher vs. other) or by intervention timing (summer vs. school year)](hmp-effects-not-moderated-employment-timing.md) — related
+- [Psychological distress decreased significantly from baseline to post-treatment in group-based MBCT completers](distress-reduction-group-mbct-cancer-completers.md) — related

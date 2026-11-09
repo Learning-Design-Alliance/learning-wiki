@@ -51,3 +51,4 @@ Descriptive synthesis of the 20 included studies' characteristics. The review re
 - [Prior discipline studies of IF-AT cards show mixed learning outcomes: significant advantages in nursing, physics and human resources, but equivalent scores in athletic training and pharmacy](ifat-prior-discipline-evidence-mixed.md) — related
 - [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related
 - [Self-rated self-efficacy did not change from pre-test to post-test among medical and nursing clinicians but changed among allied health and psychology clinicians, in one uncontrolled pre-post study](self-efficacy-gains-vary-by-profession.md) — related
+- [Evidence that interactional skills can be acquired through training exists across health disciplines, but the volume of high-quality trials is small](interactional-skills-acquirable-through-training.md) — related

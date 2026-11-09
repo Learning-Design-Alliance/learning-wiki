@@ -48,3 +48,4 @@ Manual categorisation of free-text feedback from the INT group showed "sentiment
 - [Prior cardiological clerkship experience distinguished students' sentiment toward the eye-tracking videos with CRR](clerkship-predicts-positive-video-sentiment.md) — related
 - [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
+- [Most students responded positively to video recording and feedback: 66% of open-ended survey comments were positive, and three quarters agreed the video provided an authentic picture of their skills (M = 4.0, SD = 1.47)](positive-student-perceptions-video-feedback.md) — related

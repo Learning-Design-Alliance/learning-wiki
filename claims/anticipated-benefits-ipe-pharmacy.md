@@ -52,3 +52,4 @@ A student participant in Theme 4 anticipated reduced medication errors: "If you 
 - [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
 - [Stakeholders at a Ugandan medical school perceive interprofessional collaboration, mutual learning, and preparation for future teamwork as key facilitators of simulation-enhanced IPE](sim-ipe-significance-facilitator-uganda.md) — related
 - [Students report that an interprofessional facilitator team providing immediate feedback helped consolidate learning and promote clinical reasoning](interprofessional-facilitator-feedback-consolidates-learning.md) — related
+- [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — related

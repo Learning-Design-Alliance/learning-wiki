@@ -51,3 +51,6 @@ Comparison of 20 sessions from 10 participants (feedback vs control) on mistake 
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — reports the opposite
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
 - [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](feedback-group-longer-hands-off-time.md) — related
+- [Models trained on pooled data generalised across learners because CPR is standardised, but only while the experimental setup remains unchanged](generalisation-across-learners-requires-unchanged-setup.md) — related
+- [Participants rated instructor feedback — including expert demonstration of mistakes and correct positions — as the most crucial aspect of their previous CPR training feedback](instructor-feedback-most-crucial-cpr.md) — related
+- [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related

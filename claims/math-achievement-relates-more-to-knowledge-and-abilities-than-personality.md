@@ -116,3 +116,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related
 - [Task monitoring correlates most strongly with general achievement (r = −0.531) while working memory correlates most strongly with specific achievement in Mathematics (r = −0.505) and Language Arts (r = −0.475)](task-monitoring-vs-working-memory-correlation-pattern.md) — related
+- [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — a narrower finding that bears on this claim

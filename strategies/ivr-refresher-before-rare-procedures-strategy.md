@@ -43,6 +43,7 @@ The article recommends immersive virtual reality simulation as an adjunctive ref
 
 - [Integrate IVR as warmup or refresher training with self-guided or peer-to-peer debriefs followed by facilitated large-group debriefing](ivr-warmup-refresher-self-guided-debrief-strategy.md)
 - [Structured return-to-work simulation bootcamp for surgeons returning after time out of training](return-to-work-surgical-bootcamp-strategy.md)
+- [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
 
 ## Examples
 -

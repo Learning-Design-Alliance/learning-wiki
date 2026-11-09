@@ -61,3 +61,4 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
 - [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — related
+- [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related

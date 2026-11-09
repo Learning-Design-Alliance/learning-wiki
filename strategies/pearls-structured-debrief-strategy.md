@@ -58,6 +58,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 - [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
+- [Four-step REBOA training programme: theory, basic skill training, interventional radiology practice, and high-fidelity simulation with debriefing](four-step-reboa-training-programme-strategy.md)
 
 ## Examples
 -

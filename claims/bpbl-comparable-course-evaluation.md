@@ -52,3 +52,4 @@ Questionnaire data collected at the final exam from the randomised main study, w
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
+- [Adding e-learning to PBL does not change students' perceptions of active participation or tutors' authority](bpbl-no-change-participation-tutor-authority.md) — related

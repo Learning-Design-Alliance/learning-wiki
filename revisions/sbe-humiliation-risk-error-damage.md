@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/sbe-humiliation-risk-error-damage.md
+---
+
+# Revision history: [claims/sbe-humiliation-risk-error-damage](../claims/sbe-humiliation-risk-error-damage.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-6518920 (The power of simulation: a large-scale narrative analysis of learners' experiences.) via eval_harness.py + ingest_extractions.py

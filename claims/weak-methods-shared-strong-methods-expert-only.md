@@ -50,3 +50,4 @@ The report attributes this to Glaser et al. (1985), who examined plan generation
 - [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related
 - [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — a broader claim this one bears on
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — reports the opposite
+- [Elstein and Shulman's research found no evidence that expert clinicians generate hypotheses better than novices; expertise lay in domain content knowledge](pbl-hypothetico-deduction-experts-no-better-hypothesis-generation.md) — related

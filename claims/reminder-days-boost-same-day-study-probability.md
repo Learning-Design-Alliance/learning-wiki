@@ -81,3 +81,4 @@ Intensive longitudinal micro-randomized study in which 130 children used the PRO
 - [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
 - [Strategy transfer to social studies content was incomplete without teacher reminders.](anticipatory-guide-transfer-social-studies.md) — related
+- [Reminders may be essential to colonoscopy app effectiveness: a cited randomized controlled trial found equal bowel cleanliness when the app could not send reminders](reminders-essential-colonoscopy-app-effectiveness.md) — related

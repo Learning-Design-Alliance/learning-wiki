@@ -51,3 +51,5 @@ Narrative synthesis of feasibility outcomes across seven PAL and four CMB studie
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
 - [Teachers perceive that the PAL program improves student attention and focus immediately after sessions, an effect that faded over the course of the day](pal-temporary-attention-focus-benefit.md) — related
 - [Perceived pupil benefits of PAL were the most widely reported theme, led by educational outcomes](pal-benefits-most-widely-reported-theme.md) — related
+- [No preliminary effectiveness of PAL training on students' sedentary time was demonstrated in either study, despite a measured increase in PAL delivery in the pilot](no-preliminary-effectiveness-sedentary-time.md) — related
+- [Students and senior leaders reported good acceptability of PAL across both studies, with most participating students wanting PAL to continue](student-senior-leader-acceptability-pal.md) — possibly the same claim (merge candidate)

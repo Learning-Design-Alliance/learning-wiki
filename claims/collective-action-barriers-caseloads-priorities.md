@@ -49,3 +49,4 @@ Qualitative framework analysis of staff interviews, observations and Stakeholder
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Staff uptake of REACT was low: 281 staff registered and sent 355 invitations to 310 relatives, of whom 159 registered, with only a minority of clinicians sending invites](react-low-staff-uptake-six-cases.md) — related
+- [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related

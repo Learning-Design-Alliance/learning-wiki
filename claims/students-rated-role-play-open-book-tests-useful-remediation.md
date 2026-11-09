@@ -67,3 +67,4 @@ Frequency distribution of views on less frequently engaged remediation methods i
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
+- [Pharmacy students overwhelmingly endorse communication skills training and prefer role play as the learning method](students-endorse-cst-role-play-preferred.md) — related

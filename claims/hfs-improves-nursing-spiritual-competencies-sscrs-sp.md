@@ -49,3 +49,4 @@ A quantitative pretest–posttest single-group study with 143 first-year nursing
 - [Religiosity perceptions do not change after spiritual care simulation, while the Religiosity subscale stays flat (p = 0.4862)](religiosity-subscale-unchanged-after-simulation.md) — related
 - [Students' perceived educational resources for addressing patients' spiritual needs significantly increase after simulation, regardless of religious beliefs](perceived-spiritual-care-resources-increase.md) — related
 - [Students' conceptualization of spirituality after simulation centers on life, peace, freedom, love, and self-knowledge](student-spirituality-themes-peace-freedom-love.md) — related
+- [Nurses' spiritual health and spiritual care competency scores rise from before to after the training within the study group](within-group-gains-spiritual-health-competency.md) — related

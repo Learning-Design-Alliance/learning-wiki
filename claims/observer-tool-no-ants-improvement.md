@@ -53,3 +53,4 @@ Randomised controlled trial at the Paris-Saclay simulation centre: 63 anaesthesi
 - [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
 - [Using an observer tool during CPR simulation did not improve medical students' global performance immediately after training](observer-tool-no-global-performance-benefit-cpr-simulation.md) — related
 - [Observer tools may be more effective when technical and non-technical skills are trained together, per the reviewed literature](observer-tools-mixed-skills-training-context.md) — related
+- [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related

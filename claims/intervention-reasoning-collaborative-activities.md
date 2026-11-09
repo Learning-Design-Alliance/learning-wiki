@@ -53,3 +53,4 @@ Theoretical argument from the abstract, elaborated in the introduction: the arti
 - [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — a narrower finding that bears on this claim
+- [The tele-education intervention prompted structural and process-of-care changes, with the vast majority evaluated as fully implemented](tele-education-structural-process-changes-icu.md) — a narrower finding that bears on this claim

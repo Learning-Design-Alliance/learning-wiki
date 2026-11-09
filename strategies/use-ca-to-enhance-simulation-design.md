@@ -56,6 +56,7 @@ The article recommends grounding simulated patient scenarios in conversation ana
 - [Use linear virtual patients as a substitute or supplement to role-play, not as the sole method](virtual-patients-substitute-supplement-roleplay.md)
 - [Include a patient panel discussion to ground communication training in patient experiences](patient-panel-discussion-communication-training.md)
 - [Enhance simulation-based methods with detailed visual materials and real-life examples to teach complex observational skills](enhance-simulation-visual-materials-observational-skills.md)
+- [Three recommendations for effective feedback practice: open up the floor, leave the floor open, and be careful in mitigating feedback](open-and-leave-open-floor-careful-mitigation-strategy.md)
 
 ## Examples
 -

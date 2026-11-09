@@ -54,3 +54,4 @@ Content validity phase in which panels of ten specialists, two per area (busines
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
+- [Content validity of the debriefing protocol's core questions was high, with total CVI of 0.92](debriefing-protocol-cvi-092.md) — related

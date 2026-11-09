@@ -54,3 +54,4 @@ Modified Delphi panel meeting with 21 expert members who evaluated each phase, s
 - [Expert consensus metrics for circular stapling anastomosis comprise three procedural phases, 36 steps, 42 errors and 39 critical errors with unanimous Delphi agreement](circular-stapling-anastomosis-metrics-consensus.md) — related
 - [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related
 - [An international Delphi panel of 19 experienced urologists reached consensus on a reference set of RARP performance metrics](delphi-consensus-rarp-metrics.md) — related
+- [An international Delphi panel of 21 consultant-level interventional neuroradiologists reached consensus on procedure metrics for a reference approach to mechanical thrombectomy](delphi-consensus-mt-procedure-metrics.md) — related

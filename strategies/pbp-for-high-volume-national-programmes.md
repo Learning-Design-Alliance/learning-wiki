@@ -57,6 +57,7 @@ The authors recommend integrating PBP into high-volume national training program
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 - [Use validated procedure metrics to set proficiency benchmarks trainees must demonstrate before progression to real patients](proficiency-benchmarks-before-progression-rarp-strategy.md)
+- [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 
 ## Examples
 -

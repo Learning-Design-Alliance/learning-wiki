@@ -52,3 +52,4 @@ Observational‐comparative study; paired t‐tests compared each phase with Con
 - [General self‐efficacy level shows no statistically significant difference in parasympathetic activity during the peer‐learning simulation](self-efficacy-no-effect-parasympathetic-peer-simulation.md) — related
 - [Parasympathetic stress relief marker (HF) is significantly lower in peer simulation than individual simulation during the first patient assessment](peer-simulation-hf-decreased-patient-assessment.md) — related
 - [Sympathetic stress marker (LF/HF) is significantly higher in peer simulation than individual simulation during the first patient assessment](peer-simulation-lfhf-increased-patient-assessment.md) — related
+- [Stress increases during every high-fidelity simulation session and decreases during and after debriefing, regardless of repetition regimen](stress-increases-during-simulation-decreases-debriefing.md) — related

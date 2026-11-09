@@ -76,3 +76,4 @@ The review reports Davis et al.'s randomized assignment of sedentary overweight 
 - [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md) — related
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related
 - [Aerobic exercise did not significantly improve math test performance or Stroop performance compared to non-exercise in this sample](aerobic-exercise-not-significant-vs-non-exercise.md) — related
+- [Five weeks of integrated juggling-math lessons did not significantly improve multiplication memorization performance in 10- to 11-year-olds compared with sedentary practice of the same multiplication tables](juggling-math-no-multiplication-effect.md) — related

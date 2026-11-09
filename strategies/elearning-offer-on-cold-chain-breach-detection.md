@@ -50,6 +50,7 @@ The article's workflow links continuous temperature monitoring to targeted educa
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
+- [Use quality improvement cycles with two-way feedback to reinforce guideline implementation and monitor progress](strategy-quality-improvement-cycles-feedback.md)
 
 ## Examples
 -

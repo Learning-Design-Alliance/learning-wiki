@@ -50,3 +50,4 @@ Descriptive comparison of resuscitation practices across the four study periods 
 - [Median time from birth to first ventilation decreased from 101 to 55 seconds during the intervention, then increased to 67 and 85 seconds in the postintervention years](time-to-first-ventilation-halved-during-campaign.md) — related
 - [Presence of trained providers and other early resuscitation steps at birth rose from pre-training to post-training after HBB training, except stimulation, in one uncontrolled pre-post study](hbb-training-increases-early-resuscitation-process-indicators.md) — related
 - [The proclivity to perform suction first delays ventilation during neonatal resuscitation, and suction is rarely clinically indicated](suction-first-delays-ventilation-air-air-air.md) — related
+- [Mechanically ventilated patients and DRG coefficients decreased sequentially after the intervention](ventilation-and-drg-decreased-post-intervention.md) — related

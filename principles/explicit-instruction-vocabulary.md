@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (44 for, 12 mixed, 4 against) · 60 studies (32 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 60 report an effect size · 49 claims rest on one study
+> **Evidence** · 61 claims (45 for, 12 mixed, 4 against) · 61 studies (32 causal, 14 quant-synthesis, 11 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 61 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Explicit teaching of formulaic sequences added to a traditional coursebook course produces significantly better receptive form-meaning learning than traditional coursebook instruction alone, with large effect sizes.](../claims/explicit-fs-teaching-beats-coursebook-only.md) [+M] — attached 2026-11-03 from Le-Thi et al. (2017), which proposed "Integrate systematic explicit teaching of formulaic sequences into language classes rather than relying on coursebook presentation alone."; tests this page's relationship.
 - [Explicit teaching combined with incidental exposure to formulaic sequences in the coursebook is superior to traditional coursebook instruction alone in a classroom setting.](../claims/explicit-plus-incidental-fs-superior.md) [+M] — attached 2026-11-03 from Le-Thi et al. (2017), which proposed "Integrate systematic explicit teaching of formulaic sequences into language classes rather than relying on coursebook presentation alone."; tests this page's relationship.
 - [L1 translation instruction produced higher free active vocabulary scores than L2 definitions](../claims/l1-translation-boosts-free-active-vocabulary.md) [+W] — attached 2026-11-03 from Asiyaban et al. (2012), which proposed "Use L1 translation deliberately in EFL vocabulary teaching to build free active vocabulary".
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](../claims/collocation-chunks-beat-individual-words.md) [+W] — attached 2026-11-08 from Ira Rasikawati (2019), which proposed "Integrate lexico-grammatical instruction — teaching multi-word sequences and complex syntax together — in corpus-based EAP reading classrooms".
 
 ## Objective and learner-valued goal
 

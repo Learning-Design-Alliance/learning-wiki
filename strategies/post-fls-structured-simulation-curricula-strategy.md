@@ -54,6 +54,7 @@ The article recommends that residency programs develop or adopt structured simul
 
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
+- [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
 
 ## Examples
 -

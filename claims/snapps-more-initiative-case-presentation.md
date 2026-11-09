@@ -52,3 +52,6 @@ In the RCT, e.g. presenting the most likely diagnosis: 30 (100%) SNAPPS vs 7 (23
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related
 - [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
 - [SNAPPS lengthens student speech but not total session time compared with OMP](snapps-time-efficient-student-speech.md) — related
+- [SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly](snapps-inpatient-student-initiated-discussions.md) — related
+- [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — related
+- [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related

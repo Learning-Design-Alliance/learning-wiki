@@ -50,3 +50,4 @@ Authors' interpretation of the pre-retraining baseline in their one-group pretes
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — a broader claim this one bears on
 - [Among first-year MBBS students, mean DOPS skill scores were comparable at one month but worse at six months and one year than immediately after BLS training, in a single-group pre-post study](bls-skill-retention-one-month-decay-six-months-one-year.md) — a broader claim this one bears on
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — a broader claim this one bears on
+- [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related

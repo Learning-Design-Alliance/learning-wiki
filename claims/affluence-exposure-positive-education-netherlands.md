@@ -52,3 +52,4 @@ Regression results from the cohort study of 140,338 Dutch individuals (Table 2),
 - [Exposure to neighbourhood poverty is negatively associated with educational attainment, with the strongest standardised effect during adolescence](poverty-exposure-negative-education-netherlands.md) — related
 - [All parental-education groups benefit from neighbourhood affluence, but children of higher educated parents gain less](affluence-benefits-all-parental-education-groups.md) — related
 - [Children with at least one higher educated parent are not affected by neighbourhood poverty, while children of lower and middle educated parents are negatively impacted](parental-education-buffers-neighbourhood-poverty.md) — related
+- [Neighbourhood SES shows no association with adolescent educational attainment at age 17 in this Dutch cohort, before or after parental education is controlled](neighbourhood-ses-null-adolescent-attainment-netherlands.md) — reports the opposite

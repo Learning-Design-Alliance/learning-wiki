@@ -47,3 +47,4 @@ Survey data (Kirkpatrick level 1) using a five-level Likert confidence scale col
 ## Related Claims
 - [Residents perform well on lower-order factual competencies but poorly on complex applied skills such as asynchrony correction (27.2% correct) and setting initial parameters in obstructive lung disease (25.9% correct)](complex-mv-competencies-low-performance.md) — related
 - [A competency-based mechanical ventilation course with virtual simulation significantly increases residents' knowledge, with a multiple-choice examination gain of 1.19 points on a 10-point scale](mce-score-increase-mv-virtual-simulation-course.md) — related
+- [Mechanically ventilated patients and DRG coefficients decreased sequentially after the intervention](ventilation-and-drg-decreased-post-intervention.md) — related

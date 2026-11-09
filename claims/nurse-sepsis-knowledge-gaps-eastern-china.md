@@ -56,3 +56,4 @@ Cross-sectional survey of 355 registered nurses using a 15-item multiple-choice 
 - [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related
 - [Most ICU nurses believe early sepsis detection saves lives and that their care can improve sepsis outcomes](icu-nurses-believe-early-sepsis-detection-saves-lives.md) — related
 - [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — related
+- [Provider awareness of maternal sepsis is low: most respondents had heard of maternal sepsis but few could correctly define it or identify its initial management](low-provider-sepsis-knowledge-baseline.md) — related

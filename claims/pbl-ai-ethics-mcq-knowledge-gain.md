@@ -53,3 +53,4 @@ Single-group pretest–posttest study of 118 fourth-year medical students; a lin
 - [After the program, students' essays used professional and ethical AI terminology more frequently, driven by new adoption of terms such as \"bias\" and \"personal info\"](ai-ethics-essay-term-adoption-shift.md) — related
 - [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related
 - [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — related
+- [Blended PBL produces greater knowledge gain between pre-test and post-test than original PBL in Japanese medical students](bpbl-greater-knowledge-gain.md) — related

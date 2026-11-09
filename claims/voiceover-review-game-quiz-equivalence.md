@@ -55,3 +55,4 @@ Multiyear randomized study of 123 first- and second-year medical students random
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [Quiz scores did not significantly change from before to after video review in the traditional teaching group](video-review-no-significant-further-gain.md) — related
 - [No significant effect of learning activity type on quiz performance remains after adjusting for device used and previous neuroscience experience](ancova-no-effect-learning-activity-on-quiz-scores.md) — related
+- [A single flashcard review plus didactic lectures produced only a small (~10%) score increase in residents, but residents uniformly endorsed the flashcard method](pilot-flashcard-review-small-score-rise-residents-endorse.md) — related

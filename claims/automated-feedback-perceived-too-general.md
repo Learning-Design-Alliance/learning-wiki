@@ -53,3 +53,4 @@ Descriptive analysis of the usability questionnaire responses from the 121 stude
 - [Students and supervisors in medical, veterinary and teacher education perceived the learning-analytics-enhanced E-portfolio as useful for monitoring professional development](la-eportfolio-perceived-useful-workplace-assessment.md) — related
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
 - [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — related
+- [Students appreciated e-moderator support (mean 3.4–4.1 of 5) though some found first-module messages too strict](e-moderator-support-appreciated-some-strict-messages.md) — related

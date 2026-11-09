@@ -51,3 +51,4 @@ Content analysis of student interviews (Category 3, Subcategory 3.3) on learning
 - [Students identified socio-emotional skills, interview technique, holistic approach, and not presupposing as skills requiring continued training for real GBV cases](gbv-simulation-skills-to-continue-training.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
+- [Training improves self-rated empathy alongside other communication skills items](cst-empathy-item-improvement.md) — related

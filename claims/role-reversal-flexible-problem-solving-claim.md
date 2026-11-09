@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion, contrasting traditional one-way teach
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Nursing students report that role-play and video simulations fostered empathy, enhanced communication, and built confidence in a safe practice environment](role-play-video-simulation-empathy-confidence.md) — related
+- [Participants recommended experiential learning strategies — role-plays and contact with CAM practitioners — for teaching CAM to clinical psychologists](experiential-cam-learning-role-plays-practitioners.md) — related

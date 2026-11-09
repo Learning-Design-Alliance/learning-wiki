@@ -69,3 +69,4 @@ Six-month post-course survey (Kirkpatrick level 3 attempt) answered by 6 of 16 s
 ## Related Claims
 - [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — a broader claim this one bears on
+- [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related

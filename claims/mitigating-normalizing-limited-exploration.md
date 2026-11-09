@@ -52,3 +52,4 @@ Microanalysis of a steering committee meeting episode where a teacher shared str
 - [Quick transition from emotion to practice indirectly recognizes the emotion to a somewhat greater extent than ignoring it](quick-transition-emotion-to-practice-partial-recognition.md) — related
 - [Common threat-mitigation strategies preceded and failed to prevent deficit narratives, whose introduction followed the failure of mitigation to restore the emotional regime](mitigation-failure-precedes-deficit-narratives.md) — related
 - [Pleasant emotions in PD facilitated implementation while unpleasant emotions hindered it, per teacher reports](pleasant-emotions-facilitate-implementation.md) — related
+- [Repeated PD mitigation of a resident-raised issue subverts an apparently dialogic exchange into a pseudo-dialogue dominated by the PD agenda](repeated-mitigation-subverts-dialogue-into-pseudo-dialogue.md) — related

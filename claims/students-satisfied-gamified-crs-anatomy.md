@@ -51,3 +51,4 @@ Nine-question five-point Likert questionnaire completed by 87, 71 and 38 student
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
+- [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related

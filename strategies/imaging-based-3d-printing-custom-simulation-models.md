@@ -54,6 +54,7 @@ The article recommends using a 3D printing technique to create lifelike simulati
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
+- [Use low-cost 3D-printed simulators to train beginners in hemostasis before treating real bleeding patients](low-cost-3d-printed-hemostasis-training-strategy.md)
 
 ## Examples
 -

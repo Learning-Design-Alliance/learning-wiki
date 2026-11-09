@@ -44,7 +44,8 @@ The authors' forward-looking recommendations for the developed media. They sugge
 - [A limited group of six students rated the media 94.4% overall, categorized as very valid](../claims/limited-group-testing-94-4-percent-very-valid.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend a vaccine education knowledgebase with multimedia, storytelling, cancer-awareness content, and subject matter expert accuracy evaluation](knowledgebase-multimedia-storytelling-expert-feedback-strategy.md)
 
 ## Examples
 -

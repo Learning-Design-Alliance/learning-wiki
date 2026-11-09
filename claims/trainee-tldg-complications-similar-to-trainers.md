@@ -47,3 +47,4 @@ Retrospective comparison of postoperative complications, stratified by Clavien-D
 ## Related Claims
 - [Billroth I reconstruction time with the augmented rectangle technique is similar between trainees and trainers](art-reconstruction-time-similar-trainees-trainers.md) — related
 - [Total operation time is significantly longer for trainee surgeons than trainers in TLDG](trainee-tldg-longer-operation-time.md) — related
+- [Trainee cases showed complication rates comparable to consultant cases in the emergency biliary series](trainee-complication-rates-comparable.md) — related

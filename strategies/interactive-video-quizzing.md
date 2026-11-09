@@ -68,6 +68,7 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 - [Combat mind wandering by interleaving questions and embedded activities](interleaved-questions-reduce-mind-wandering.md)
 - [Instructors can implement QBI by embedding targeted quizzes at strategic lecture points without new technology](qbi-instructor-implementation-strategy.md)
+- [Improve e-learning presentations by embedding social and emotional elements such as patient-case videos and reflection-triggering questions, and usability-test the tool with a few users first](embed-social-emotional-elements-and-usability-test-e-learning.md)
 
 ## Examples
 - **[Edpuzzle](https://edpuzzle.com)** — teachers overlay multiple-choice and open-ended questions on existing videos and track per-student watch and response data.

@@ -55,3 +55,4 @@ Survey of participating teachers (Figure 2 reports n=49) in the five-district Ch
 - [The MICRO online PD significantly increased teachers' confidence that they could integrate computing into their classrooms (g = 0.72)](micro-pd-increased-teacher-integration-confidence.md) — related
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

@@ -50,6 +50,7 @@ Student-based learning is implemented as small groups of two to four members who
 ## Related Strategies
 
 - [Implement CIRC through heterogeneous four-member groups reading, discussing, presenting and summarizing a shared text](circ-group-reading-discussion-presentation-strategy.md)
+- [Use near-peer teaching groups of about four trainee-teachers sharing the teaching task](shared-near-peer-teaching-group-of-four.md)
 
 ## Examples
 -

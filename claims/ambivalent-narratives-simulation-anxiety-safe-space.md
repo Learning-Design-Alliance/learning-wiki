@@ -61,3 +61,4 @@ Bardin's content analysis of free narratives on simulation days (Table 3) identi
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [The advance directive relieved participants of the decision to let the patient die but also evoked uncertainty and ambivalence](advance-directive-relieves-and-burdens.md) — related
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
+- [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related

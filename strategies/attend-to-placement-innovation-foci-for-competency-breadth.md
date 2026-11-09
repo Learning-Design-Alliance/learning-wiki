@@ -44,7 +44,8 @@ Because different innovation cases developed different competencies within the s
 - [Virtual care placements uniquely developed niche communication skills, including virtual group facilitation and virtual client communication](../claims/virtual-care-niche-communication-competencies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prepare students for realistic placement expectations and consider combined or role-emerging placement models in occupational therapy education](prepare-students-combined-placement-models-strategy.md)
 
 ## Examples
 -

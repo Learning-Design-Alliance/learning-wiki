@@ -51,3 +51,4 @@ The review's synthesis of 24 variable-based studies reports that "PC were consis
 - [Healthy perfectionist groups show better emotional well-being than unhealthy perfectionist groups among gifted students](healthy-vs-unhealthy-perfectionist-wellbeing-gifted.md) — related
 - [Perfectionistic concerns show a significant small negative relationship with academic achievement (r+ = −.08)](perfectionistic-concerns-negative-achievement.md) — related
 - [Only personal standard, among perfectionistic strivings facets, is significantly positively associated with extra training](personal-standard-positive-extra-training.md) — related
+- [Optimal best practice positively predicts personal well-being (β = .28) but not academic striving directly](optimal-best-predicts-well-being.md) — related

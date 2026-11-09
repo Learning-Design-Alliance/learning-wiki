@@ -50,3 +50,4 @@ Qualitative content analysis of pre- and postinstruction interviews with the 13 
 - [Generative instructors integrated PCK and PK to plan lessons targeting common student difficulties](generative-instructors-integrate-pck-pk-target-difficulties.md) — related
 - [Knowledge of creating opportunities for generative work alone was insufficient to produce generative instruction when lesson questions required only lower-order cognitive skills](generative-work-knowledge-insufficient-without-challenging-questions.md) — related
 - [Instructors whose lessons are generative engage students in a significantly greater proportion of class time spent working than instructors whose lessons are primarily active](generative-instructors-more-class-time-working.md) — related
+- [Instructor time moving among groups during activities (I-MG) was a negative predictor of learning gains](instructor-moving-among-groups-negative-predictor.md) — related

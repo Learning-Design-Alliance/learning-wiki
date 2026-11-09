@@ -52,3 +52,4 @@ Thematic analysis of semi-structured interviews with eight purposively selected 
 - [Limited supplies and insufficient training are the most reported barriers to infection control adherence, and only 28.8% of students had received formal training](supplies-and-training-barriers-infection-control.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
+- [Interviewed coordinators identify limited resources, poor quality of services, insufficient training and lack of protocols as barriers to maternal sepsis identification and management](qualitative-barriers-sepsis-identification.md) — related

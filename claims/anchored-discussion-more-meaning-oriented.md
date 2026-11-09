@@ -52,3 +52,4 @@ T-test on discussion-level protocol data from 36 discussions in a Dutch first-ye
 - [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related
 - [Concrete suggestions were produced more often in the Annotation system than in the Blackboard discussion forum, which showed more evaluative feedback](annotation-tool-more-concrete-suggestions-than-blackboard-forum.md) — related
 - [Teacher-focused reflection instructions produced a greater proportion of teacher/content-oriented reflection extracts; no effect on student/learning-oriented extracts](reflection-instruction-teacher-content-extracts.md) — related
+- [Discussion forums were rated moderately positively (mean 3.4–3.8 of 5) but obligatory participation and message volume drew negative comments](discussion-forums-moderately-positive-obligatory-comments-negative.md) — related

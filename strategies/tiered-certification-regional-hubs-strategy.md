@@ -54,6 +54,7 @@ To implement digitally enhanced certification equitably, the statement recommend
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
 - [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 - [Harmonize European HF nurse education, training and career pathways through an updated curriculum, accreditation and certification](harmonize-hf-nurse-education-career-pathway.md)
+- [Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT](regional-and-in-situ-simulation-cost-sharing-strategy.md)
 
 ## Examples
 -

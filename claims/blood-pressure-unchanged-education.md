@@ -47,3 +47,4 @@ Null secondary outcome in the randomized study: the article reports "no signific
 ## Related Claims
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
 - [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related
+- [Secondary physiological outcomes showed mixed group-specific effects: systolic blood pressure improved significantly only in the experimental group and LDL only in the control group, with no between-group BMI difference](se-cm-mixed-secondary-physiological-outcomes.md) — related

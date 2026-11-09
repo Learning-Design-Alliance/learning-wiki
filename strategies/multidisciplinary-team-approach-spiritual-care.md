@@ -48,6 +48,7 @@ The article's conclusions recommend a team-based route to spiritual care compete
 - [Hospitals and nursing educators should provide spiritual care education courses and integrate them into undergraduate nursing curricula](spiritual-care-education-courses-strategy.md)
 - [Assess nurses' spiritual care competencies as a baseline before implementing tailored training programs](baseline-assessment-before-spiritual-care-training.md)
 - [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
+- [Adopt the spiritual care training protocol as a reference for clinical nursing managers](nursing-managers-adopt-spiritual-care-protocol-strategy.md)
 
 ## Examples
 -

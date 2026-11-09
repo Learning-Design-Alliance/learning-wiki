@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: zhan-leilei-2026
     resource: "https://doi.org/10.1186/s12909-026-09434-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall teaching satisfaction was significantly higher in the intervention group (96.70 ± 4.64 vs. 90.88 ± 3.58, P < 0.001), with significant differences across all five questionnaire areas. [→ Zhan Leilei 2026](#zhan-leilei-2026)

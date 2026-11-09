@@ -52,3 +52,4 @@ Appendix A1 of the Cave et al. (1993) randomized controlled trial reports baseli
 - [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related
 - [Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment](promise-few-differences-job-characteristics-barriers.md) — related
 - [Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up](job-corps-more-education-training-hours.md) — related
+- [Randomization checks showed no imbalance between treatment and control conditions on student characteristics](randomization-balance-no-imbalance-set-experiment.md) — related

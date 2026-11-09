@@ -52,3 +52,4 @@ The article reports, citing two prior studies [14, 33], that "lack of time (66�
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Lack of resources relevant to faculty lectures was the most frequently cited reason for not using e-learning resources](lack-of-relevant-resources-top-reason-non-use.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
+- [Lack of technical support and time constraints are the most frequently reported barriers to active learning in Middle Eastern healthcare colleges](barriers-technical-support-time-constraints-active-learning.md) — related

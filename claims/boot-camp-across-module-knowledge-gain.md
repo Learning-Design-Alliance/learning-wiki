@@ -49,3 +49,4 @@ Within-group t-test comparisons of online clinical knowledge assessments across 
 - [The oral hygiene screening module showed a large pre-to-post knowledge gain (Cohen's d = 1.37)](oral-hygiene-screening-module-knowledge-gain.md) — a narrower finding that bears on this claim
 - [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related
 - [Most trainees reported the boot camp added to their knowledge, improved technical skills and increased confidence managing ENT on-call problems](ent-boot-camp-perceived-knowledge-skills-confidence.md) — related
+- [The training produces a very large improvement in medical students' hypoglycemia knowledge](hypoglycemia-knowledge-large-gain.md) — related

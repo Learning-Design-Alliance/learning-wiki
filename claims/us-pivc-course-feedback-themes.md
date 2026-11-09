@@ -55,3 +55,5 @@ Thematic grouping of free-text responses from the post-course questionnaire; par
 - [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
+- [Learners praised the interactive, case-based format, handouts, and short individual modules in formative feedback](geriatrics-5ms-workshop-interactive-case-based-format-praised.md) — related
+- [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related

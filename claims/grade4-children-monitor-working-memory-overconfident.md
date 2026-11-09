@@ -57,3 +57,4 @@ Correlational study of 73 Grade 4 children who completed the WMPT at five diffic
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — a broader claim this one bears on
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [When all students follow an identical task sequence, data from an easy-to-hard sequence with learning and a flat sequence without learning can be virtually indistinguishable](ordering-bias-task-sequence-indistinguishable.md) — related
+- [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](no-sweet-spot-online-confidence.md) — related

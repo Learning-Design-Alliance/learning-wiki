@@ -49,3 +49,4 @@ In the simulated consultation hour assessment, students' self-assessment (ComCar
 - [Simulated patients' general satisfaction with the consultation exceeded their mean skill ratings, while students' self-rated satisfaction fell below their self-rated skills](satisfaction-diverges-from-skill-scores-in-opposite-directions.md) — related
 - [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — related
 - [Students rate their own empathy higher than standardized patients rate them](students-rate-empathy-higher-than-sps.md) — related
+- [Medical students' total interpersonal communication competence scores on the GICC-15 rose from pre-test to post-test after a 3-hour interprofessional communication training, in one single-group pre-post study](ipe-training-improves-total-gicc-15-scores.md) — related

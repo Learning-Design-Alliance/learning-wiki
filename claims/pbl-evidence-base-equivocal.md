@@ -49,3 +49,4 @@ The essay reports this second-hand review finding as a caution on its own struct
 
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md)
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
+- [The problem-solving-skills and knowledge-acquisition approaches to PBL are epistemologically incompatible: problem-solving cannot be both content-independent and content-dependent](pbl-problem-solving-content-independent-and-dependent-incompatible.md) — related

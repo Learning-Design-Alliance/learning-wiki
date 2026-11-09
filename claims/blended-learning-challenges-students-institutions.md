@@ -50,3 +50,4 @@ The review's challenges section, citing Poon (2013) and Vaughan (2007), states t
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Conflated program rationales can place competing and unrealistic expectations on scholarship students](competing-rationales-burden-students.md) — related
 - [Six major challenge themes faced by K-12 teachers during early COVID-19 online teaching emerged from thematic analysis](k12-teacher-challenges-covid-online-themes.md) — related
+- [Replacing passive homework with interactive online preparation did not diminish the need for face-to-face meetings, contrary to expectations](face-to-face-need-not-diminished-by-blended-preparation.md) — a narrower finding that bears on this claim

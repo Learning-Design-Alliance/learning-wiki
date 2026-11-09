@@ -47,3 +47,4 @@ Among the Wilcoxon signed-rank comparisons of 40 separate skills from pre-course
 ## Related Claims
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
+- [At three months, the two-stage and four-stage groups differed in one individual skill (ensuring safety) but not in quality of chest compressions or rescue breaths](two-stage-four-stage-secondary-outcomes-null.md) — related

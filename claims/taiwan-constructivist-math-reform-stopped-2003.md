@@ -48,3 +48,4 @@ The article's introductory historical account reports that constructivism entere
 ## Related Claims
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
+- [McMaster abandoned the information-processing approach in 1993 after high failure rates on the national medical exam, adopting a content-oriented curriculum resembling Maastricht's](mcmaster-1993-abandoned-ipp-curriculum.md) — related

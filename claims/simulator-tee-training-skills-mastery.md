@@ -53,3 +53,4 @@ Skills assessment across both phases, in which faculty examiners judged whether 
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
 - [In one uncontrolled pre-post study, the frequency of novice students passing the full 16-view simulated TEE examination without major errors rose from Test 1 to Test 2 after TEE simulator training](tee-simulator-training-increases-pass-rate.md) — related
 - [Simulator training substantially shortened the total time novices needed to complete the 16-view simulated TEE examination](tee-simulator-training-shortens-examination-time.md) — related
+- [All participants completed both simulator modules successfully without malfunctions](simulator-feasibility-no-malfunctions.md) — related

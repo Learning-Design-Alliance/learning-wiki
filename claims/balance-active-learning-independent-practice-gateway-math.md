@@ -53,3 +53,4 @@ Secondary qualitative finding from the gateway math study. The report states "st
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
+- [Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism](productive-struggle-mechanism-gps-care.md) — related

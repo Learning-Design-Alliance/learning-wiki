@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1100 entries** · 0 stable · 1100 in review · 0 drafts
+**1102 entries** · 0 stable · 1102 in review · 0 drafts
 
 ---
 
@@ -666,6 +666,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### N {: #letter-n }
 
+* [N-gram text mining with elastic net variable selection for gender-bias detection in narrative evaluations](n-gram-text-mining-with-elastic-net-variable-selection-for-gender-bias-detection-in-narrat.md) - The article presents an analytic pipeline in which free-text evaluations are preprocessed (lowercased, punctuation and stop words removed, names replaced with placeholders), converted into unigrams and bigrams, and counted into a matrix of binary indicators.
 * [N-gram uptake analysis for human–AI co-writing](n-gram-uptake-analysis-for-humanai-co-writing.md) - The article proposes analyzing textual uptake in AI-supported writing via recurring n-grams between ChatGPT output and the writer's final text, extending Bereiter and Scardamalia's knowledge telling/knowledge transforming distinction to human–AI interaction.
 * [Nacu et al.'s ten educator roles heuristic evaluation framework](nacu-et-als-ten-educator-roles-heuristic-evaluation-framework.md) - The editorial centers the special issue on Nacu et al.
 * [Negative priming paradigm adapted to misleading strategies](negative-priming-paradigm-adapted-to-misleading-strategies.md) - The negative priming paradigm, originally designed by Tipper (1985), rests on the logic that \"if a distractor (or a strategy) is inhibited on a given item (i.e., the prime), then its activation on the following item (i.e., the probe) should be disrupted\".
@@ -689,6 +690,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### O {: #letter-o }
 
 * [Objective distance (OD) model for real-time competency measurement](objective-distance-od-model-for-real-time-competency-measurement.md) - The study adapts Chaichumpa and Temdee's (2018) objective distance model to compute learners' CT competency in real time during iThinkSmart gameplay.
+* [Observer-based process mining method for process-oriented feedback in procedural medical training](observer-based-process-mining-method-for-process-oriented-feedback-in-procedural-medical-t.md) - The article proposes a five-stage method — video recording, video tagging, event log generation, model discovery, and model analysis — inspired by the PM2 methodology, in which \"event logs are not generated automatically\" but are built from off-line observation of recorded videos by medical speciali
 * [Office-hours queue simulation framework](office-hours-queue-simulation-framework.md) - A simulation framework for comparing office-hours queue scheduling strategies without live experimentation.
 * [Offline evaluation with calibrated LLM judges for tutoring behaviors](offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors.md) - The team maintains targeted offline datasets sampled from production completions, including an answer-giveaway dataset where \"The final dataset consists of 63 data points\" and a Tutor Me input-classification dataset where \"the dataset consisted of 794 data points.\" LLM judges calibrated against huma
 * [On-line versus off-line methods for assessing strategy use](on-line-versus-off-line-methods-for-assessing-strategy-use.md) - The article distinguishes two families of strategy-use assessment.

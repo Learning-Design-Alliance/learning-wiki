@@ -64,3 +64,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
+- [A pharmacist-specific Chinese-language Mini-CEX with nine domains achieved acceptable inter-rater reliability (0.7) after expert Delphi validation and evaluator workshops](pharmacist-chinese-mini-cex-reliability-0-7.md) — related

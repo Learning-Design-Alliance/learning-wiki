@@ -64,3 +64,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [Higher conscientiousness predicts higher first-year university GPA among Italian freshmen](conscientiousness-positive-gpa-italian-freshmen.md) — a narrower finding that bears on this claim
 - [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — a narrower finding that bears on this claim
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — related
+- [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related

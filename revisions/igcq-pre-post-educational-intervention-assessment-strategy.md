@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/igcq-pre-post-educational-intervention-assessment-strategy.md
+---
+
+# Revision history: [strategies/igcq-pre-post-educational-intervention-assessment-strategy](../strategies/igcq-pre-post-educational-intervention-assessment-strategy.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-6591905 (Construction and preliminary evaluation of the inpatient glycemic control questionnaire (IGCQ): a survey tool assessing perceptions and knowledge of resident physicians.) via eval_harness.py + ingest_extractions.py

@@ -51,6 +51,7 @@ A two-hour clerkship session in which students receive in-person instruction on 
 
 - [Combine a short standardized didactic with one hour of hands-on simulation to initiate foundational pediatric TEE competency during residency](short-didactic-plus-one-hour-simulation-for-tee-competency.md)
 - [Provide all medical students with opportunities to learn surgical skills in dry laboratory training to foster interest in surgery](dry-lab-opportunities-foster-surgical-interest.md)
+- [Implement suturing/ligature tutoring in parallel with real patient practice, combining expert-led teaching with AI system-assisted self-assessment sessions](expert-led-plus-ai-suturing-tutoring-strategy.md)
 
 ## Examples
 -

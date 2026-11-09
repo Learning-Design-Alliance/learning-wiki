@@ -91,3 +91,4 @@ The gender analyses were exploratory with limited subgroup sizes; Table 3 footno
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
 - [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — reports the opposite
+- [Students who viewed expert histology technique demonstration videos or completed the online e-Learning module had significantly higher final grades than students who did not](expert-videos-elearning-module-higher-final-grades.md) — related

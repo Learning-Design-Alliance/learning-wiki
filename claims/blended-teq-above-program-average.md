@@ -47,3 +47,4 @@ University-administered teaching evaluation questionnaire numerical responses fo
 ## Related Claims
 - [PBL in family medicine residency programs is associated with high learner satisfaction, though not always rated above lectures](pbl-high-learner-satisfaction-family-medicine-pgme.md) — a broader claim this one bears on
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
+- [Student evaluations of teaching improved overall in experiment 3 relative to control terms](exp3-student-evaluations-improved.md) — related

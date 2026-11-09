@@ -49,3 +49,4 @@ Bland–Altman analysis (n = 34 groups) of peer versus instructor scores: bias M
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
 - [Three LLMs showed inconsistent systematic bias on multimodal OSPE grading: Claude over-scored by +2.5 points (proportional), Gemini under-scored by −5.0 and ChatGPT by −10.0 points (non-proportional)](llm-ospe-systematic-bias-bland-altman.md) — related
 - [GenAI-assisted and educator-crafted total scores were positively correlated (r=0.49) but showed limited agreement at the individual level](genai-mcq-score-agreement-limited.md) — related
+- [Examiners showed no systematic differences between their live and video-based scoring of the same OSCE performances](no-live-video-scoring-bias-osce.md) — related

@@ -81,3 +81,5 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
 - [Laparoscopy-exposed students reported higher NASA-TLX workload on robotic tasks, but the difference was not statistically significant](laparoscopy-exposure-higher-nasa-tlx-workload-nonsignificant.md) — related
 - [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related
+- [Subjective mental workload (NASA-TLX) declines continually across repeated ureterorenoscopy simulation sessions without plateauing in both tasks](mental-workload-declines-without-plateau-repeated-simulation.md) — a narrower finding that bears on this claim
+- [Participants report improved self-confidence after repeated simulation training, consistent with their NASA-TLX workload ratings](self-confidence-improves-with-repeated-training.md) — related

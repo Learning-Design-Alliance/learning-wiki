@@ -40,6 +40,7 @@ The article recommends that faculty advise graduates to take boards only when fu
 
 - [Coach students to flag rather than answer difficult items, return after completing the exam, and review all questions — not just missed ones — in one-on-one reviews](flag-and-return-answer-review-all-items.md)
 - [Use trauma-informed educational practices and have students write memorized information on blank paper before reading the first question to buffer stress responses](trauma-informed-test-taking-brain-dump.md)
+- [Use licensing-exam performance data to advise students and inform curriculum design for matching](licensing-exam-data-advising-curriculum-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Qualitative thematic analysis, impact theme (curriculum advancement category), f
 - [Post-graduate dental students perceived increased confidence and self-efficacy in handling communication situations similar to those experienced in SBE sessions](sbe-perceived-confidence-dental-postgraduates.md) — related
 - [Students reported that the SBE intervention changed their attitudes, including increased empathy and professionalism, beyond skills alone](sbe-attitude-change-empathy-professionalism.md) — related
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
+- [Students reflected on the system of care, recognizing that effective interprofessional coordination differed drastically in care quality from weak communication](gps-care-system-of-care-reflections.md) — related

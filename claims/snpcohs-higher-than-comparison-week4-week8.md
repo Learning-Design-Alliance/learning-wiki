@@ -50,3 +50,4 @@ Independent t-tests comparing 30 experimental and 30 comparison NPs at each time
 - [Within the experimental group, scores rose significantly from baseline to week 4 and week 8, with no significant change between week 4 and week 8; the comparison group showed no significant changes over time](snpcohs-within-group-gains-sustained-to-week8.md) — related
 - [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
+- [Practice placements significantly increase students' perceived personal and professional skills, with large effect sizes](placements-increase-personal-professional-skills.md) — related

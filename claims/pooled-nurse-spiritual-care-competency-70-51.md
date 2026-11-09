@@ -52,3 +52,4 @@ Meta-analysis of 16 cross-sectional studies of working nurses measured with the 
 - [Nurses assessed in 2023 had the highest average spiritual care score, with 2019–2023 mean differences statistically significant](spiritual-care-scores-highest-2023-subgroup.md) — related
 - [Mean spiritual care scores differ significantly between oncology and non-oncology nurses](oncology-vs-non-oncology-spiritual-care-difference.md)
 - [Nurses at the NICC show a moderate overall spiritual care competency score of 100.71±10.60 on the SCCS-27](nicc-nurses-moderate-spiritual-care-competency.md) — related
+- [A 12-month spiritual care training protocol produces higher spiritual health and spiritual care competency scores in oncology nurses than routine nursing education alone](spiritual-care-training-raises-nurse-spiritual-health-competency.md) — related

@@ -47,6 +47,7 @@ The article recommends that where commercial surgical trainers are unavailable, 
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
+- [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
 
 ## Examples
 -

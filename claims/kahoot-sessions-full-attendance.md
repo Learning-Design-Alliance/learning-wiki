@@ -48,3 +48,4 @@ Observational attendance record for the two Kahoot! sessions in the cardiovascul
 - [The gamified class attended more sessions and arrived late less often than the control class (78% vs 65% average attendance)](gamification-higher-attendance-programming-course.md) — related
 - [Student engagement in individual-level Kahoot! competition declined over the semester while team-based WWTBAM engagement remained unchanged](kahoot-engagement-decline-leaderboard-trailing.md) — related
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](intrinsic-motivation-full-participation.md) — related
+- [Participation in the voluntary gamified quizzes was very high, with 93% of students taking part](high-voluntary-participation-kahoot-quizzes.md) — related

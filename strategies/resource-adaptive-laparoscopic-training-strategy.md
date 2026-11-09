@@ -49,6 +49,7 @@ The authors recommend resource-adaptive adjustments to keep the program's multi-
 - [Use non-organic silicone materials for accessible, reproducible tendon repair simulation](non-organic-materials-tendon-simulation-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 - [Use low-cost homemade box trainers to expand access to laparoscopic training in resource-limited settings](low-cost-homemade-box-trainers-resource-limited-settings.md)
+- [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
 
 ## Examples
 -

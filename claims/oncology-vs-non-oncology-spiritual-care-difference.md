@@ -49,3 +49,4 @@ Subgroup meta-analysis comparing oncology (mean 76.39, 95% CI 63.10–89.67) and
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — related
 - [Nurses who received spiritual education courses scored higher in spiritual care ability, reported as the biggest influencing factor](spiritual-education-courses-biggest-factor.md) — related
 - [Nurses' pooled spiritual care competency score is 70.51 (95% CI: 70.23–70.79), indicating a medium level of ability](pooled-nurse-spiritual-care-competency-70-51.md)
+- [A 12-month spiritual care training protocol produces higher spiritual health and spiritual care competency scores in oncology nurses than routine nursing education alone](spiritual-care-training-raises-nurse-spiritual-health-competency.md) — related

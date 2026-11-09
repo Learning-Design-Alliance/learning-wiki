@@ -48,3 +48,4 @@ Fear‐of‐missed‐diagnosis survey item (Table 4): “58.33% expressed concer
 - [Despite high confidence, many MSK physiotherapists misjudge DCM prevalence and diagnostic delay](dcm-prevalence-and-delay-knowledge-gaps.md) — related
 - [MSK physiotherapists recognise conventional DCM symptoms well but unconventional symptoms poorly](dcm-symptom-awareness-conventional-vs-unconventional.md) — related
 - [Fear of not meeting professional standards and of legal responsibility are the main reasons students are unwilling to perform CPR, with the professional-standard worry more common in females](barriers-to-cpr-willingness-standards-and-legal-fear.md) — related
+- [Fear of making a mistake is the most commonly reported barrier to making correct and timely sepsis decisions among providers](fear-of-mistake-top-barrier.md) — related

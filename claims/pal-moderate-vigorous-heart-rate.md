@@ -50,3 +50,4 @@ Heart-rate monitoring (Polar RS400) in a subset of eight participants across all
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Children accumulated an average of 19.4 minutes (44.81%) of moderate-to-vigorous heart rate intensity per physical education lesson](mvpa-time-pe-lessons-19-4-min.md) — related
 - [The intended intensity of PAL depends on the desired learning outcome, setting, and teacher capability](pal-intensity-learning-outcome-dependence.md) — related
+- [No preliminary effectiveness of PAL training on students' sedentary time was demonstrated in either study, despite a measured increase in PAL delivery in the pilot](no-preliminary-effectiveness-sedentary-time.md) — related

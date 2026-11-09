@@ -104,3 +104,6 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — related
 - [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related
+- [Implementing the full high-structure format with reading-based preparation (experiment 2) produced no change in exam performance or DFW rates relative to lecturing](exp2-full-high-structure-no-change.md) — related
+- [In experiment 3 of a high-structure introductory biology course, exam scores increased by an average of 3.8% relative to lecture-based control terms](exp3-exam-scores-increase-3-8-percent.md) — related
+- [The experiment 3 design closed the achievement gap affecting underrepresented minority students, whose failure chance fell from 73% to 34%](exp3-urm-achievement-gap-closed.md) — related

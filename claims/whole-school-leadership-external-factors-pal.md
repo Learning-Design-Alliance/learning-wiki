@@ -71,3 +71,4 @@ External factors theme of the synthesis covering policy (education and health) a
 - [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Policy-level priorities for PAL include self-governance support, Ofsted compatibility, and investment in initial teacher training](pal-policy-priorities-ofsted-itt.md) — a narrower finding that bears on this claim
+- [Students and senior leaders reported good acceptability of PAL across both studies, with most participating students wanting PAL to continue](student-senior-leader-acceptability-pal.md) — related

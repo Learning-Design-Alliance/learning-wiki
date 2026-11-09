@@ -55,3 +55,6 @@ Per-protocol analysis of the randomized controlled trial's primary outcome: LP s
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related
 - [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related
+- [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](fluency-lumbar-puncture-five-trials-95-minutes.md) — related
+- [Adding standard simulation to e-learning did not significantly improve proficiency rates over e-learning alone](standard-simulation-no-significant-gain-over-e-learning-alone.md) — related
+- [Traumatic lumbar puncture (39%) and post-LP headache (20%) were the most commonly reported complications among trainees](traumatic-lp-and-headache-common-complications.md) — related

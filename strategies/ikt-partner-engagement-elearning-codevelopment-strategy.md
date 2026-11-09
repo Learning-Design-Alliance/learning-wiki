@@ -55,6 +55,7 @@ This strategy engages a diverse group of end-users and experts as partners acros
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Design E-learning for adoption by involving target users throughout development, catering to diverse learning preferences, and integrating the tool department-wide](strategy-design-for-adoption-e-learning.md)
+- [Involve potential end users in focus groups at the design phase of a health app to align content and features with user-elicited preferences](user-centered-focus-groups-app-design.md)
 
 ## Examples
 -

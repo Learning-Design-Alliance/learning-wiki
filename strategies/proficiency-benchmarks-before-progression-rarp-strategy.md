@@ -54,6 +54,7 @@ The article recommends implementing proficiency-based progression (PBP) training
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
+- [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 
 ## Examples
 -

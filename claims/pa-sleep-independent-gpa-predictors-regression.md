@@ -70,3 +70,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](pa-point-increases-pe-achievement.md) — related
 - [BMI is negatively correlated with science and mathematics GPA in schoolchild handball players](bmi-negatively-correlated-academic-gpa-handball-players.md) — reports the opposite
 - [Academic achievement and executive functioning correlate positively with gender, serotonin and physical activity score, and negatively with age, BMI and salivary cortisol](achievement-correlates-gender-serotonin-pa-negative-age-bmi-cortisol.md) — reports the opposite
+- [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related

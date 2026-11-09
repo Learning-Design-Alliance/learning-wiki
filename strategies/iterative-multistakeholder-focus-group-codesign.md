@@ -41,7 +41,8 @@ The article describes a three-phase participatory process: focus group 1 collect
 - [Stakeholder participants largely endorsed that the co-designed pedagogical design principles foster learning and motivation towards STEM](../claims/fg2-member-check-endorses-stem-design-principles.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Participatory co-design of e-learning content with multi-stakeholder workshops](preterm-birth-participatory-codesign.md)
 
 ## Examples
 -

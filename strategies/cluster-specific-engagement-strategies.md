@@ -46,6 +46,7 @@ The article proposes a rule-based decision mechanism that, once a learner is ass
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
 - [Use cluster analysis of student profiles to tailor teaching and enable early identification and support of at-risk students](cluster-profile-tailoring-early-intervention-strategy.md)
 - [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
+- [Use FIAS-coded teaching observation with cluster analysis to provide objective, profile-based feedback to clinical teachers](fias-clustering-teacher-evaluation-strategy.md)
 
 ## Examples
 -

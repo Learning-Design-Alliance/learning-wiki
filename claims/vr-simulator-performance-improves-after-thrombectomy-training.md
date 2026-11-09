@@ -53,3 +53,4 @@ Before-after study of 19 interventional radiologists and residents at three Norw
 - [Median virtual fluoroscopy time decreased from 19.3 min to 9.3 min after five repeated VR endovascular simulator training sessions among medical students in a single-group pre-post study](vr-simulator-training-reduces-virtual-fluoroscopy-time.md) — related
 - [Trainees rate simulator-based virtual thrombectomy training as highly beneficial for learning mechanical thrombectomy and for building confidence before treating patients](simulator-vt-training-learning-benefit-confidence-gain.md) — related
 - [Simulation training reduces fluoroscopy time and cumulative air kerma but not dose area product in resident angiography procedures](st-reduces-fluoroscopy-time-and-radiation-dose.md) — related
+- [Group differences in contrast agent use and fluoroscopy time in the simulated MT procedure were not statistically significant](mt-contrast-fluoroscopy-null.md) — related

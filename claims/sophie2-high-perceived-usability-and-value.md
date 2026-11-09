@@ -71,3 +71,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Both end-user groups considered the proof-of-concept easy to use](proof-of-concept-ease-of-use.md) — related
 - [Most participants found Virtual Doc usable and its gameplay elements useful, but only 30% found the interactive elements easy to work with](virtual-doc-gameplay-usability-mixed.md) — related
 - [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

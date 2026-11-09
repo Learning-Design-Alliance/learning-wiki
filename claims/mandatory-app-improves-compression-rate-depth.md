@@ -69,3 +69,4 @@ Table 3 of the same trial reports adjusted effects on correct compression depth:
 - [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Pre-training compression frequency and depth averages fell within AHA ranges, but quality was inadequate because the two parameters rarely occurred simultaneously](compression-frequency-depth-within-range-but-quality-inadequate.md) — related
+- [Percentage of sufficient compressions, compression depth, and compression frequency show no significant difference between the teaching groups](sufficient-compressions-no-group-difference.md) — related

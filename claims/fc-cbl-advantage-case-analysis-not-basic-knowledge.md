@@ -68,3 +68,4 @@ Same quiz analysis: basic theoretical knowledge (remember/understand items) show
 - [FC+CBL students scored higher on design questions than traditional-method students in Introduction to Environmental Health Science](fc-cbl-higher-design-question-scores-mph.md) — related
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — related
 - [Students taught with flipped classroom combined with case-based learning scored higher on post-class quizzes than lecture-based classroom students in undergraduate pathology](fc-cbl-higher-post-quiz-scores-pathology.md) — a broader claim this one bears on
+- [The post-quiz advantage of the combined flipped classroom + PBL group is confined to clinical case analysis, with no significant difference in basic theoretical knowledge](flipped-pbl-advantage-clinical-case-analysis-only.md) — related

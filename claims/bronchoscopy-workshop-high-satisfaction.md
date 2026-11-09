@@ -62,3 +62,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — a narrower finding that bears on this claim
 - [After the later workshops, 100% of attendees reported feeling more confident assisting in theatre and would recommend the course](unanimous-confidence-and-recommendation-later-workshops.md) — related
+- [Staff reported universally high satisfaction with the tele-education program](high-staff-satisfaction-tele-education.md) — related

@@ -47,3 +47,4 @@ Iterative qualitative coding of structured interviews with five purposively sele
 ## Related Claims
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](savvy-case-studies-expert-interviews-effectiveness.md) — related
+- [Simulation education experts raised feasibility concerns about question load and learner case experience, leading to modification of the metacognition questions](expert-interviews-protocol-modification.md) — related

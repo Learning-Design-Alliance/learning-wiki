@@ -55,3 +55,4 @@ Thematic analysis of six focus group discussions with the ten CBR workers at thr
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
+- [‘Being in the patient's shoes’ is the only learning feature particularly linked to a specific modality: role-play](being-patient-role-play-empathy.md) — related

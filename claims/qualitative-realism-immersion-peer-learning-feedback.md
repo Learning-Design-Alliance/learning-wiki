@@ -77,3 +77,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
+- [Staff valued using their own equipment and familiar surroundings in situ, reporting that equipment familiarity was a fundamental element for learning](own-equipment-familiarity-fundamental-learning.md) — related

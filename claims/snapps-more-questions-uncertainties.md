@@ -51,3 +51,4 @@ In the randomized controlled trial, mean questions and uncertainties were 1.6 (S
 - [SNAPPS lengthens student speech but not total session time compared with OMP](snapps-time-efficient-student-speech.md) — related
 - [SNAPPS students more often propose the appropriate management plan, with no difference in making the correct diagnosis](snapps-higher-management-plan-proportion.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
+- [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](snapps-inpatient-uncertainty-expression.md) — related

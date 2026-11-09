@@ -50,3 +50,4 @@ Systematic review of reaction-dimension outcomes reported in three studies with 
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
 - [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](debriefing-positive-effect-on-nts-ability.md) — related
+- [Brief NTS teaching can improve undergraduates' non-technical skills, supporting structured NTS assessment as a foundation for undergraduate implementation](brief-seminar-improves-undergraduate-nts.md) — related

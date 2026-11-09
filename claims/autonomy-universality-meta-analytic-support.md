@@ -52,3 +52,4 @@ The author's second-hand report of meta-analytic findings (citing Howard et al.,
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [A sense of relatedness moderates East Asian learners' internalization of others' choices, with benefits of other-made choices diminishing without belongingness](relatedness-moderates-other-made-choices.md) — related
 - [Autonomy need satisfaction and autonomy need frustration are each negatively correlated with outcomes among K-12 youth (ill-being and well-being respectively)](ans-anf-negative-outcomes-k12-meta.md) — related
+- [Embedded online quizzes are the article's proposed explanation for bPBL's knowledge gain among examination-oriented East Asian students](quizzes-explain-bpbl-knowledge-gain.md) — related

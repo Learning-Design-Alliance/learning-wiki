@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 286 claims (157 for, 110 mixed, 19 against) · 159 studies (50 causal, 36 review, 25 design, 20 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 28 of 159 report an effect size · 280 claims rest on one study
+> **Evidence** · 289 claims (159 for, 111 mixed, 19 against) · 160 studies (51 causal, 36 review, 25 design, 20 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 29 of 160 report an effect size · 283 claims rest on one study
 
 ## Description and scope
 
@@ -214,6 +214,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [A four-hour simulation-based breaking bad news training significantly improves communication skills measured with the mBAS versus a traditional ED rotation alone](../claims/bbn-simulation-training-improves-communication-skills.md) [+W] — attached 2026-11-08 from Servotte J-C et al. (2019), which proposed "Add a short simulation-based breaking bad news training to standard clinical rotations because it improves self-efficacy, the BBN process, and communication skills"; tests this page's relationship.
 - [Medical students who trained with the MPathic-VR virtual human simulation scored significantly higher on an OSCE than control students](../claims/mpathic-vr-improves-osce-communication-scores.md) [+W] — attached 2026-11-08 from Timothy C Guetterman et al. (2019), which proposed "Use virtual human simulations as a promising strategy for improving empathic communication in health care"; tests this page's relationship.
 - [Students identify ten design principles for Virtual Patients that foster learning of clinical reasoning, and perceive well-designed VPs as preparing them better than any previously experienced method](../claims/vp-ten-design-principles-student-focus-groups.md) [+W] — attached 2026-11-08 from Huwendiek S (2019), which proposed "Design Virtual Patients using instructional design criteria — appropriate difficulty, authenticity, interactivity, feedback and focus on relevant learning points — and embed virtual coaching on clinical reasoning".
+- [Fourth-year medical students' OSCE tobacco-cessation counseling scores rose significantly from baseline to post-intervention within both the SP and peer role-play groups](../claims/sp-and-role-play-modules-increase-osce-counseling-scores.md) [+M] — attached 2026-11-08 from Park Kye-Yeung et al. (2019), which proposed "Choose between SP and peer role-play modules for smoking-cessation counseling training based on available budget and self-confidence goals"; tests this page's relationship.
+- [Post-intervention OSCE scores and smoking-knowledge scores do not differ significantly between the SP module and the peer role-play module](../claims/no-difference-between-sp-and-role-play-osce-knowledge.md) [~M] — attached 2026-11-08 from Park Kye-Yeung et al. (2019), which proposed "Choose between SP and peer role-play modules for smoking-cessation counseling training based on available budget and self-confidence goals"; tests this page's relationship.
+- [Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)](../claims/sp-module-higher-self-confidence-than-role-play.md) [+W] — attached 2026-11-08 from Park Kye-Yeung et al. (2019), which proposed "Choose between SP and peer role-play modules for smoking-cessation counseling training based on available budget and self-confidence goals"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

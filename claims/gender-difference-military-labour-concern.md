@@ -55,3 +55,4 @@ Subgroup comparison from the survey's military-use concern question; the article
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
+- [Female healthcare faculty in the Middle East report using active learning techniques more often than male counterparts](gender-difference-active-learning-use-middle-east.md) — related

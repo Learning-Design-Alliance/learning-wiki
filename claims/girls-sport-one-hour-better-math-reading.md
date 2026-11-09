@@ -53,3 +53,4 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
 - [Gender-specific PA characteristics predict academic competence: PA frequency for girls and sports club participation for boys](gender-specific-pa-predictors-academic-competence.md) — related
 - [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related
+- [Among sports-club participants, children spending two or more weekly hours in structured PA score higher in mathematical achievement than low-duration participants, while low-duration participants do not differ from non-participants](high-duration-structured-pa-higher-math-achievement.md) — related

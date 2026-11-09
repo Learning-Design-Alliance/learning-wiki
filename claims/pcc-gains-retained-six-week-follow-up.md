@@ -57,3 +57,5 @@ McNemar tests on pre-test versus 6-week retention-test benchmark attainment show
 - [At 4-week follow-up, intervention-group clerks more often applied the acquired skills and reported more satisfied patients, with better retention](oscar-followup-transfer-retention.md) — related
 - [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related
 - [Virtual patient and small-group teaching groups show no significant difference in theoretical test performance six weeks after the intervention](vp-sgt-no-difference-six-week-retention.md) — related
+- [Both teaching methods significantly improved quiz scores from pre- to post-quiz within each group](both-methods-improve-quiz-scores-pre-to-post.md) — related
+- [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related

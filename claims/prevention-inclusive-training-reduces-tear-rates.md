@@ -49,3 +49,4 @@ Systematic review finding from the Results section. The review reports a "32%–
 - [Education and training programmes increase knowledge and skills of skilled birth attendants in perineal anatomy, assessment and classification of perineal tears.](perineal-tear-training-increases-knowledge-skills.md) — related
 - [The support of champions is evidenced as favourable in the application of the educational intervention.](champions-support-favourable-in-educational-intervention.md) — related
 - [The leadership and commitment of administrators and heads of units were fundamental for attendance at the educational programme.](leadership-and-commitment-fundamental-for-programme-attendance.md) — related
+- [Hands-on training of birth attendants in bimanual perineal support significantly reduced episiotomy rates among primiparous women in intervention hospitals](hands-on-bpst-training-reduced-episiotomy-rates.md) — related

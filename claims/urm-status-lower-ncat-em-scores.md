@@ -48,3 +48,4 @@ Retrospective single-center cohort of 1,881 NCAT-EM forms on 142 students analyz
 - [In a sensitivity analysis comparing Black to non-Black students, lower scores appeared in history/physical and prioritized differential domains with large positive race-concordance interactions](black-students-lower-scores-concordance-interactions.md) — related
 - [URM concordance between rater and student moderated the negative effect of URM status, lessening or reversing it in the observation/monitoring domain](urm-concordance-moderates-ncat-em-scores.md) — related
 - [URM students had fewer submitted NCAT-EM assessments than non-URM students](urm-students-fewer-ncat-em-forms.md) — related
+- [After adjustment, significant ethnicity-related grade differences appear in global assessment but not in broadly sampled assessment](adjusted-ors-significant-global-not-broad-sampled.md) — related

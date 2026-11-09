@@ -51,3 +51,4 @@ Reliability/agreement analysis reported in the statistical analysis and Table II
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
 - [Remote OSCE double scoring shows high rater agreement and total-score consistency (weighted Cohen's Kappa 0.97; Pearson correlation 0.9; Cronbach's alpha 0.66)](remote-osce-double-scoring-high-agreement-kappa-097.md) — related
 - [Blinded dual-rater scoring shows near-perfect interobserver agreement (ICC 0.98 for total PS, 0.99 for GRS)](otoskills-high-interobserver-agreement.md) — related
+- [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related

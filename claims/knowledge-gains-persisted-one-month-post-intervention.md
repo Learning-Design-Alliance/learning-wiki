@@ -57,3 +57,4 @@ One-month follow-up in the 45-nurse trial showed between-group differences remai
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Knowledge gains from the CMV eLearning course decline by three months but remain significantly above pre-course levels](cmv-elearning-knowledge-retained-three-months.md) — related
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — a narrower finding that bears on this claim
+- [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related

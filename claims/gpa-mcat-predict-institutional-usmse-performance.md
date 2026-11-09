@@ -50,3 +50,4 @@ Observational institution-level regression across 89 US allopathic medical schoo
 - [Demographic and institutional factors correlated with institutional USMLE scores in bivariate analysis but were not significant after controlling for GPA and MCAT](institutional-factors-nonsignificant-controlling-gpa-mcat.md) — related
 - [Private institutions scored higher than public institutions on USMLE Step 1 and Step 2 CK, with a 2.7-point MCAT advantage at matriculation](private-public-usmle-score-differences.md) — related
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
+- [Seven institutional variables correlate significantly with both Step 1 and Step 2 scores, while total enrollment does not](institutional-variables-correlate-usle-scores.md) — related

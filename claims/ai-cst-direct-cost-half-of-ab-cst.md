@@ -47,3 +47,4 @@ Cost comparison analysis of the two interventions as delivered. AB-CST costs inc
 ## Related Claims
 - [Adherence to the AI-driven virtual patient simulator intervention was lower than to actor-based simulation, with mean AI-CST completion time under the nominal 3 hours](ai-cst-adherence-and-time-on-task.md) — related
 - [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — a broader claim this one bears on
+- [Training delivery cost approximately £900 in both studies, with about 25% spent on equipment](pal-training-delivery-costs-900-pounds.md) — related

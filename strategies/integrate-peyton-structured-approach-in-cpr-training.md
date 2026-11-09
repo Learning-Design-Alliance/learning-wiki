@@ -51,6 +51,7 @@ The authors recommend incorporating Peyton's structured, stepwise instructional 
 - [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 - [Use video-based instruction showing perfect peer demonstrations to teach the ABCDE approach in resuscitation courses](vbi-perfect-peer-demonstration-strategy.md)
+- [Include time for systematic individual feedback in CPR education, since feedback is a powerful influence on performance](individual-feedback-in-cpr-education.md)
 
 ## Examples
 -

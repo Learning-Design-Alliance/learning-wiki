@@ -62,3 +62,4 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [IVR's animated, novel environment can act as a safe zone easing speaking up about mistakes, but recording and occluded vision can threaten psychological safety](ivr-psychological-safety-safe-zone-and-threats.md) — related
+- [Trainees perceived feedback as critically important for self-reflection, with meaningful feedback requiring a private space, an engaged supervisor and an unhurried manner](mini-cex-feedback-quality-conditions.md) — related

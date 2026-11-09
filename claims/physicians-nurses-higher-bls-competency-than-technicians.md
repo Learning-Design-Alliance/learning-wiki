@@ -76,3 +76,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
 - [Nurse educators showed better research knowledge and skills than clinical nurses (89.6% vs 58.9% with better knowledge)](educator-clinician-ebp-knowledge-gap-ghana.md) — related
 - [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related
+- [Nurses score significantly lower than physicians on knowledge outcomes at all time points](nurses-score-lower-than-physicians-scl-ahit.md) — related

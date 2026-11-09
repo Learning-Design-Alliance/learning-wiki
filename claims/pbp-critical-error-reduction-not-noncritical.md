@@ -69,3 +69,4 @@ Not used for this subclaim; see the separate duration and knowledge claims for t
 - [Requiring the proficiency benchmark in the eLearning module raised surgical knowledge scores: the PBP group scored 23% higher on surgical-task questions](pbp-elearning-benchmark-higher-knowledge-scores.md) — related
 - [The PBP group made the fewest critical errors post-intervention, significantly fewer than both comparison groups](pbp-elearning-fewer-critical-errors.md) — related
 - [Post-intervention, PBP e-learning produced the highest simulation proficiency (81.1%) among the three training groups, significantly above both comparison groups](pbp-elearning-highest-post-simulation-proficiency.md) — related
+- [E+PBP training produced more completed steps and fewer combined errors and critical errors than E or E+S training](pbp-more-steps-fewer-errors-secondary-outcomes.md) — related

@@ -59,3 +59,4 @@ Multi-group invariance testing on the N = 600 sample across subgroups by teachin
 - [The negative load–adaptability relationship is weaker in institutions with established technology support infrastructure](cl-institutional-infrastructure-moderates-load-adaptability.md) — related
 - [Technological adaptability mediates over half of the negative relationship between cognitive load and innovative teaching behavior](cl-mediation-tech-adaptability.md) — related
 - [The AGS shows scalar measurement invariance across gender among Chinese early adolescents](ags-scalar-invariance-gender.md) — related
+- [Teenagers’ gender moderates the links between parental socialization and adjustment and academic performance: the model structure is equivalent across gender but the structural relationships are not invariant](gender-moderates-parenting-academic-performance-links.md) — related

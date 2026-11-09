@@ -56,3 +56,4 @@ Pilot quasi-experimental action research study with 49 undergraduate psychology 
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — related
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
+- [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related

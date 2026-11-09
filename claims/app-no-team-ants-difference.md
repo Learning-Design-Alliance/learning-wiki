@@ -83,3 +83,4 @@ Video-rated ANTS assessment across 40 teams. "Across all four ANTS categories—
 - [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
 - [Self-assessed team performance reached a TEAM score of 39 ± 5.3 and a global rating of 8.2 ± 2.0, indicating good bilingual teamwork](team-score-good-bilingual-teamwork.md) — related
 - [Case complexity was related to task management performance but not to leadership or teamwork performance](case-complexity-task-management-link.md) — related
+- [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related

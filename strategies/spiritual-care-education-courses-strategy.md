@@ -50,6 +50,7 @@ The article recommends that hospitals conduct spiritual care education courses a
 - [Implement structured, continuous in-service education programmes on spiritual care practices for nurses](structured-continuous-in-service-spiritual-care-education.md)
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 - [Assess nurses' spiritual care competencies as a baseline before implementing tailored training programs](baseline-assessment-before-spiritual-care-training.md)
+- [Adopt the spiritual care training protocol as a reference for clinical nursing managers](nursing-managers-adopt-spiritual-care-protocol-strategy.md)
 
 ## Examples
 -

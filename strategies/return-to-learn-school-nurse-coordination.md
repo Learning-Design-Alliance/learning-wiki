@@ -45,7 +45,8 @@ The article recommends that schools implement early return-to-learn protocols af
 - [Years since injury, sex, age, and present accommodations were not significantly associated with negative grade changes after adjustment](../claims/non-significant-covariates-grade-change.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide individually tailored Return-to-Learn programs that match academic accommodations to symptom severity and predicted recovery length](individually-tailored-return-to-learn-programs.md)
 
 ## Examples
 -

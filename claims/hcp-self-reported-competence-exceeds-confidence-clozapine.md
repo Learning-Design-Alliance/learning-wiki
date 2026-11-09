@@ -51,3 +51,4 @@ Qualitative thematic synthesis of 34 studies of health care professionals managi
 - [Training improves competence in clozapine management, especially when integrated with clinical experience](clozapine-training-improves-competence.md) — related
 - [Exposure to clozapine use is associated with higher prescribing rates and better knowledge](clozapine-exposure-experience-prescribing.md) — related
 - [Nurses substantially overestimated their end-of-life care competence: about 80% rated themselves competent or confident while only 15% passed the knowledge quiz](nurses-overestimate-eol-competence.md) — related
+- [Family physicians reported that workshop training on a guideline made adherence much more likely than passive circulation](claim-workshop-training-guideline-adherence.md) — related

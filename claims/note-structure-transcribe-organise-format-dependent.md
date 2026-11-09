@@ -49,3 +49,4 @@ Narrative review of three Bui et al. (2013) experiments (n = 80, n = 76, n = 76)
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](note-quality-quantity-verbatim-overlap-effects.md) — related
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](test-format-timing-moderate-note-taking-effects.md) — related
+- [Students interacted with the presentation in varied ways, with multimedia engagement stimulating learning for some and distracting for others](prezi-varied-student-interaction-multimedia.md) — related

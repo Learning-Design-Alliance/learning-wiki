@@ -53,3 +53,4 @@ Focus group study (n = 17) using reflexive thematic analysis. Theme 2 captured t
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — a narrower finding that bears on this claim
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — reports the opposite
 - [Student paramedics reported that the realism of a group-based simulation assessment enhanced their engagement, decision-making and confidence](realism-enhanced-engagement-decision-confidence.md) — a narrower finding that bears on this claim
+- [Seven undergraduate nursing students reported improved reasoning competency and understanding of the reasoning flow after using the debriefing protocol](debriefing-protocol-feasibility-focus-groups.md) — a narrower finding that bears on this claim

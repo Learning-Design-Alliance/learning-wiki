@@ -54,3 +54,6 @@ Structural equation model (SEM) with the MLR estimator in a survey of 443 Sports
 - [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — related
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Perceived autonomy support relates indirectly to academic performance through needs satisfaction, intrinsic motivation, and perseverance, but not through passion](perseverance-mediation-autonomy-support-grades.md) — related
+- [Perceived autonomy-supportive teaching negatively predicts students' basic psychological need frustration in physical education classes](autonomy-supportive-teaching-predicts-need-frustration-pe.md) — related
+- [Perceived autonomy-supportive teaching positively predicts students' basic psychological need satisfaction in physical education classes](autonomy-supportive-teaching-predicts-need-satisfaction-pe.md) — related
+- [Trait mindfulness positively predicts need satisfaction and negatively predicts need frustration among PE students](mindfulness-predicts-need-satisfaction-frustration.md) — related

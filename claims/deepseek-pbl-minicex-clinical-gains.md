@@ -80,3 +80,4 @@ Mini-CEX rated independently by three faculty raters (mean Cohen's κ = 0.74) fo
 - [AI-empowered scenario-based simulation teaching produced higher Mini-CEX clinical skills scores than traditional teaching](ai-scenario-simulation-higher-mini-cex-clinical-skills.md) — related
 - [Medical students taught with combined PBL-CBL demonstrated stronger practical operation and clinical decision-making abilities in clinical skill assessment than traditionally taught students](pbl-cbl-stronger-clinical-skill-assessment.md) — related
 - [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related
+- [Across all 53 trainees, mean Mini-CEX ratings were highest in communication skills (7.26 ± 1.20) and lowest in organization and efficiency (6.79 ± 1.16)](mini-cex-mean-ratings-communication-highest.md) — related

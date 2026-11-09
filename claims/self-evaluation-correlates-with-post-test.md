@@ -55,3 +55,4 @@ Consistency test using Spearman's rank correlation between pre/post-course self-
 - [Live-streaming participants reported greater confidence in performing the procedure independently than face-to-face participants](ls-greater-confidence-independent-performance.md) — related
 - [Passing the one-year hands-on test correlated with number of clip uploads (r = 0.85), attendance at hands-on teaching sessions (r = 0.7), and attendance at monthly conferences (r = 0.5)](iscan-clip-uploads-hands-on-attendance-correlate-success.md) — related
 - [Confidence at one year correlated with hands-on performance (r = 0.55) but post-course confidence did not correlate with post-course hands-on performance](iscan-confidence-performance-correlation-emerges-over-year.md) — related
+- [Self-declared practice frequency after initial teaching correlates with competency on skills retest](self-declared-practice-correlates-with-retest-competency.md) — related

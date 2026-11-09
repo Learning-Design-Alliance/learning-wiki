@@ -48,3 +48,4 @@ Teacher interview quote from the thematic analysis of the implementation evaluat
 - [Feasibility of implementing PAL in classrooms was mixed: initial enthusiasm faded as teacher workload accumulated](pal-feasibility-mixed-enthusiasm-faded.md) — related
 - [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — related
 - [PAL and CMB interventions are feasible and acceptable to university students and staff](cmb-pal-feasible-acceptable-tertiary.md) — related
+- [PAL training was feasible and acceptable to secondary maths and English teachers in the feasibility study, with 100% recommending it to other teachers](pal-training-feasible-acceptable-feasibility-study.md) — related

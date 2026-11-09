@@ -50,3 +50,4 @@ Focus group finding from the competent-stage and proficient-stage groups contras
 - [Nurses at all career stages lacked knowledge of root cause analysis tools for medication error prevention](nurses-lack-rca-tool-knowledge.md) — related
 - [Focus groups with nurses at four clinical-ladder stages identify five educational needs for medication safety competence](five-educational-needs-medication-safety-nurses.md) — related
 - [Most senior nursing students entered training perceiving their patient safety knowledge as inadequate or moderate, and over half had encountered a medical error](nursing-students-baseline-patient-safety-gaps.md) — related
+- [The training's effectiveness is established in senior nurses at a single cancer hospital and may not generalize to less experienced nurses](spiritual-care-training-effectiveness-limited-to-senior-nurses.md) — related

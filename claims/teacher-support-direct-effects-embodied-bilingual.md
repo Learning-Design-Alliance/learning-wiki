@@ -56,3 +56,6 @@ SEM analysis of questionnaire data from 518 university students in bilingual Tai
 - [In PE classes, perceived autonomy-supportive teaching style positively predicts students' satisfaction of basic psychological needs, while a controlling style negatively predicts it](as-positive-cs-negative-predict-bpn-satisfaction-pe.md) — related
 - [Perceived teacher autonomy support positively predicts students' basic psychological needs satisfaction in college classes](autonomy-support-predicts-bpn-satisfaction-college.md) — related
 - [Perceived autonomy support relates indirectly to academic performance through needs satisfaction, intrinsic motivation, and perseverance, but not through passion](perseverance-mediation-autonomy-support-grades.md) — related
+- [Perceived autonomy-supportive teaching negatively predicts students' basic psychological need frustration in physical education classes](autonomy-supportive-teaching-predicts-need-frustration-pe.md) — related
+- [Perceived autonomy-supportive teaching positively predicts students' basic psychological need satisfaction in physical education classes](autonomy-supportive-teaching-predicts-need-satisfaction-pe.md) — related
+- [Trait mindfulness positively predicts need satisfaction and negatively predicts need frustration among PE students](mindfulness-predicts-need-satisfaction-frustration.md) — related

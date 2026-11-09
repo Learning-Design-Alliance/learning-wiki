@@ -97,3 +97,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Rubric-graded PowerPoint team presentations in all three biology courses showed learning gains in knowledge integration and synthesis](mbcl-presentations-show-deep-learning-gains.md) — related
 - [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
+- [Broad instructional style categories showed only weak differences in learning gains, with overlapping confidence intervals](instructional-style-weak-effect-overlapping-ci.md) — related

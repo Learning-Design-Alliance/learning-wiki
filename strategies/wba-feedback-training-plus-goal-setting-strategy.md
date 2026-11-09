@@ -55,6 +55,7 @@ The article's actionable implementation steps for workplace-based assessment pro
 - [Use direct workplace observation with immediate feedback to evaluate and reinforce faculty supervision performance](direct-observation-feedback-strategy.md)
 - [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
 - [Participatory supervisor and learner training on WBA purpose and feedback, within a trainee-focused relationship-centred teaching style](participatory-supervisor-learner-wba-training-strategy.md)
+- [Targeted supervisor education on supporting trainee SRL and improving feedback quality in formative workplace assessment](supervisor-education-supporting-trainee-srl.md)
 
 ## Examples
 -

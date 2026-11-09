@@ -68,3 +68,4 @@ Multiple logistic regression on negative grade changes (yes/no) adjusting for cl
 - [Incomplete or prolonged parent-reported recovery is associated with negative grade changes after pediatric mTBI](incomplete-recovery-grade-decline.md) — related
 - [Children with no pre-injury academic accommodations showed significant negative grade changes after mTBI regardless of post-injury accommodation status](no-preinjury-accommodations-grade-decline.md) — related
 - [Years since injury, sex, age, and present accommodations were not significantly associated with negative grade changes after adjustment](non-significant-covariates-grade-change.md) — related
+- [No significant difference in post-injury overall or core grades after adjusting for pre-injury grades](adjusted-post-injury-grades-no-difference.md) — related

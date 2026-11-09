@@ -56,3 +56,4 @@ Descriptive survey results from the same 318-student cross-sectional study, repo
 - [Students rated the ChatGPT-based virtual bedside teaching positively, with 75.6% satisfied with its impact on learning efficacy and 73.3% with learning experience](chatbot-bedside-teaching-positive-ratings.md) — related
 - [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related
 - [Among Pakistani pre-clinical health-sciences students experiencing e-learning for the first time, 81% report overall dissatisfaction with online learning](lmic-preclinical-students-81-percent-dissatisfied-with-e-learning.md) — related
+- [Students rate the interprofessional training's content and teaching methods as appropriate](ipe-content-method-satisfaction-ratings.md) — related

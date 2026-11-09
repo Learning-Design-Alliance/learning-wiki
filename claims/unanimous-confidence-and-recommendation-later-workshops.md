@@ -47,3 +47,4 @@ Closed-ended post-workshop questionnaire responses across the three NANSIG works
 ## Related Claims
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

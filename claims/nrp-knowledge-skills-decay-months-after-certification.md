@@ -123,3 +123,5 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Among unqualified students, willingness to perform CPR and recent training both decline as school grade increases](willingness-and-recent-training-decline-with-grade.md) — related
 - [Self-reported personal practice change at 12–18 months centered on obstetric hemorrhage, eclampsia, a structured ABC assessment approach, and spinal anesthesia, while neonatal resuscitation and airway management were reported only at 4 months](safe-ob-practice-change-themes-over-time.md) — related
 - [Technical performance in a simulated pediatric emergency differs significantly across groups trained at different times before assessment, declining from a maximum within 6 months of training (p < 0.0001).](simulation-training-performance-declines-over-time-pediatric.md) — related
+- [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
+- [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — a narrower finding that bears on this claim

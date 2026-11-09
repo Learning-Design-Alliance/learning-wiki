@@ -46,3 +46,4 @@ The authors' interpretation in the discussion of the survey's gender differences
 
 ## Related Claims
 - [Female medical faculty score lower on the formal authority teaching style than male faculty (regression coefficient −0.20)](female-faculty-less-authoritative-teaching-style.md) — related
+- [About half of surveyed students preferred more structured classroom activities over maximal autonomy](half-preferred-more-structure-seminars.md) — related

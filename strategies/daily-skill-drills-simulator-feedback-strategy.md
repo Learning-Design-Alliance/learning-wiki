@@ -46,6 +46,7 @@ The strategy is to have health workers perform brief daily resuscitation skill d
 ## Related Strategies
 
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
+- [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
 
 ## Examples
 -

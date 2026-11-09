@@ -75,3 +75,4 @@ Same theme: 'The students miss social contact with their fellow students, as the
 - [Loss of routine/structure was the most frequently reported challenge among New Zealand university students studying online during the 2020 lockdown, named by 59% of respondents](loss-of-routine-biggest-lockdown-challenge.md) — related
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
 - [More than half of dental students felt less engaged and motivated in following up with distant e-learning](reduced-engagement-distant-e-learning-dental.md) — reports the opposite
+- [Most responding postgraduates most liked interacting online with peers and faculty over individual passive homework](online-social-interaction-valued-over-passive-homework.md) — related

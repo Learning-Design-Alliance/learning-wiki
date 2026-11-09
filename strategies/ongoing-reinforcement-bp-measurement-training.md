@@ -51,6 +51,7 @@ The article recommends that remediation of nurses' BP measurement deficiencies g
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
 - [Include self-measured blood pressure (SMBP) education in BPM curricula](include-smbp-education-strategy.md)
 - [Sustain and reinforce restrictive catheter-use norms beyond the project period, using education as a platform for norm dissemination](sustain-reinforce-safety-norms-strategy.md)
+- [Use quality improvement cycles with two-way feedback to reinforce guideline implementation and monitor progress](strategy-quality-improvement-cycles-feedback.md)
 
 ## Examples
 -

@@ -78,3 +78,6 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [The expected-actions checklist achieved excellent inter-rater agreement (ICC = 0.899, Cronbach's alpha = 0.908)](checklist-icc-0899-cronbach-0908.md) — related
 - [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — reports the opposite
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related
+- [AS-NTS achieves excellent interrater reliability (mean 0.89) when used in simulation scenarios](as-nts-excellent-interrater-reliability.md) — related
+- [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
+- [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related

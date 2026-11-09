@@ -84,3 +84,4 @@ In the same interview study, the most cited barrier to delivery was "A lack of t
 - [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related
 - [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related
 - [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — related
+- [Pilot-study students received an average of 6–7 sixty-minute PAL per week, a dose the authors judge to have potential to reduce sedentary time if sufficient activity is introduced](pal-dose-six-to-seven-lessons-week.md) — related

@@ -50,3 +50,6 @@ Expert data collection phase with 10 participants performing four 1-minute sessi
 - [Dialogue-shuffling augmentation improves evaluator performance while downsampling reduces it](dialogue-shuffling-augmentation-improves-evaluator.md) — related
 - [The CPR Tutor architecture classifies a chest compression in about 70 milliseconds, supporting real-time feedback provision](cpr-tutor-real-time-classification-speed.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
+- [Models trained on pooled data generalised across learners because CPR is standardised, but only while the experimental setup remains unchanged](generalisation-across-learners-requires-unchanged-setup.md) — related
+- [Multimodal sensor data can classify standard CPR training mistakes on compression rate, depth and release with over 70% accuracy compared to a ResusciAnne manikin baseline](multimodal-data-detect-standard-cpr-mistakes.md) — related
+- [Multimodal data can detect additional CPR training mistakes not tracked by commercial manikins — locked arms and incorrect body weight — with over 93% accuracy](multimodal-detect-additional-cpr-mistakes.md) — related

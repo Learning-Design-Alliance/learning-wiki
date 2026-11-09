@@ -47,3 +47,4 @@ Observational report from the authors' third training session, described in the 
 ## Related Claims
 - [Initial simulation sessions revealed catheter-management errors in half of the scenarios, causing balloon piercing or unintentional extubation](catheter-management-errors-initial-sessions.md) — related
 - [Post-intervention, PBP e-learning produced the highest simulation proficiency (81.1%) among the three training groups, significantly above both comparison groups](pbp-elearning-highest-post-simulation-proficiency.md) — related
+- [In simulated prehospital cardiac arrest, teams established REBOA in a median of 8.5 minutes and inflated the balloon a median of 12.0 minutes after scene arrival](reboa-procedure-time-simulation-8-5-min.md) — related

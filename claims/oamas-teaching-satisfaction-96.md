@@ -57,3 +57,4 @@ Post-course self-made eight-item satisfaction questionnaire (Cronbach's alpha 0.
 - [More than 80% of SBME students were satisfied with the SBME course and its projects](sbme-student-satisfaction-over-80-percent.md) — related
 - [Most residents strongly agree the simulator is an effective training device that should be included in the ENT residency program](otoskills-resident-acceptance-strong-agreement.md) — related
 - [The 6D-approach flipped teaching with mentored journal clubs received approximately 89% student satisfaction in the MBPG course](6d-approach-high-student-satisfaction.md) — related
+- [Students report positive perceptions of and overall satisfaction with using the Socrative mobile classroom application in a medical English course](positive-perceptions-socrative-medical-english.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Observational heart rate variability comparison during the first patient assessm
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — a broader claim this one bears on
 - [Parasympathetic activity (HF heart rate variability) decreases significantly during individual patient‐observation phases of a peer‐learning simulation relative to baseline rest periods](hf-decreases-individual-observation-phases-peer-simulation.md) — related
 - [Repeated individual patient observations progressively lower parasympathetic activity within each simulation scene](repeated-observation-lowers-hf-peer-simulation.md) — related
+- [Stress increases during every high-fidelity simulation session and decreases during and after debriefing, regardless of repetition regimen](stress-increases-during-simulation-decreases-debriefing.md) — related

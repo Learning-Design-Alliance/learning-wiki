@@ -52,3 +52,4 @@ Longitudinal model estimates in the RCT (41 students scored at both post-interve
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related
 - [Students prefer traditional teaching over Jigsaw and believe it will improve their grades more](students-prefer-traditional-teaching-over-jigsaw.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
+- [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — related

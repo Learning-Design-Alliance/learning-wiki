@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: ming-jin-lain-2019
     resource: "https://doi.org/10.3390/ijerph16193648"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GEE analysis showed that self-reported confidence in coping skills was 3.94 points higher at post-test than at pre-test (p < 0.001). [→ Ming Jin-Lain 2019](#ming-jin-lain-2019)

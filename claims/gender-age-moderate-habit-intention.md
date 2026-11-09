@@ -70,3 +70,4 @@ Multiple-group analysis by age (<30 vs ≥30) within the SEM; the habit path was
 - [Social influence and price value do not significantly predict intention to use eLearning-based CPD](si-pv-null-predictors-elcpd.md) — related
 - [Gender moderates the relation between childhood spatial activities and spatial habits of mind, which is stronger for males than females](gender-moderates-childhood-activities-habits-of-mind.md) — related
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — related
+- [Female healthcare faculty in the Middle East report using active learning techniques more often than male counterparts](gender-difference-active-learning-use-middle-east.md) — related

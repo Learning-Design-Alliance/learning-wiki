@@ -68,3 +68,4 @@ Logistic regression in the same survey; printed effect sizes were OR = 3.92 (95%
 - [Roughly 28% of children declined by at least one letter grade after mTBI, with about 15% declining by two or more grades](grade-decline-prevalence-mtbi.md) — related
 - [Children with no pre-injury academic accommodations showed significant negative grade changes after mTBI regardless of post-injury accommodation status](no-preinjury-accommodations-grade-decline.md) — related
 - [Years since injury, sex, age, and present accommodations were not significantly associated with negative grade changes after adjustment](non-significant-covariates-grade-change.md) — related
+- [No significant difference in post-injury overall or core grades after adjusting for pre-injury grades](adjusted-post-injury-grades-no-difference.md) — related

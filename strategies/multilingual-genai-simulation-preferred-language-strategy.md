@@ -49,6 +49,7 @@ The article recommends leveraging the linguistic flexibility of large language m
 - [Translanguaging](translanguaging.md)
 - [Leverage the Native Language](leverage_the_native_language.md)
 - [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
+- [Offer CPR training materials in different language versions or with subtitles so students with other native languages receive instruction in their own language](language-versions-subtitles-cpr-training.md)
 
 ## Examples
 -

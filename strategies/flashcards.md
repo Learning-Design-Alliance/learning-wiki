@@ -67,6 +67,7 @@ Flashcards work because retrieval is a learning event, not merely an assessment:
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 - [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
 - [Integrate validated study techniques such as spaced repetition and wellness strategies (sleep, physical activity) into university support programs for entrance examinations](integrate-spaced-repetition-wellness-into-entrance-support-programs.md)
+- [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card review is a micro practice trial with retrieval as the task

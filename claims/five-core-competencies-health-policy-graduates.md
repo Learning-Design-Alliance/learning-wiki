@@ -48,3 +48,4 @@ Consensus phase of a multi-method study: an expert panel of nine members (minist
 - [Qualitative interviews with 36 health policy stakeholders identified six core competencies: research, education, policy analysis, decision-making, globalization and communication](interviews-six-competencies-health-policy.md) — related
 - [The scoping review classified competencies for health policy graduates into five domains: health system understanding, health policy research, knowledge translation, multidisciplinary work and knowledge of public health](scoping-review-five-competency-domains.md) — related
 - [Interviews revealed a discrepancy between researchers and policy-makers that impedes a unified language for planning and implementing health programmes](researcher-policy-maker-language-gap.md) — related
+- [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related

@@ -45,6 +45,7 @@ The review recommends that EBP educators "identify specific assessment tools (fo
 ## Related Strategies
 
 - [Train raters systematically and re-establish reliability and validity when applying ANTS in a new population or scenario](ants-rater-training-and-revalidation-strategy.md)
+- [Map e-learning resources to learning outcomes and clinical presentations to identify content gaps and guide development](map-resources-to-learning-outcomes-strategy.md)
 
 ## Examples
 -

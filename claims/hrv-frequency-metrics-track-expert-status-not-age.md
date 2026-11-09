@@ -47,3 +47,4 @@ Multivariate regression analysis of HRV metrics on expert status and age (Table 
 ## Related Claims
 - [Beginners show higher high-frequency HRV components and lower LF/HF ratio than experts during simulated angiographies](beginners-higher-hf-components-lower-lfhf-than-experts.md) — possibly the same claim (merge candidate)
 - [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — related
+- [Stress response differs by gender but not by professional status among EMS team members in simulation](gender-but-not-status-effect-on-stress-response.md) — reports the opposite

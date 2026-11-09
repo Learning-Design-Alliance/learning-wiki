@@ -56,3 +56,4 @@ Same 43-student randomized controlled trial, first-attempt comparison with and w
 - [After brief hands-on training with real-time feedback, more than 80% of chest compressions met the adequate-rate standard and all compressions used correct hand positions](cpr-quality-metrics-after-brief-feedback-training.md) — reports the opposite
 - [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related
 - [Feedback device use shows no significant difference in correct hand positioning during simulated CPR](truecpr-feedback-hand-position-null.md) — possibly the same claim (merge candidate)
+- [Smartwatch feedback does not significantly improve chest compression rate or full decompression in infant CPR simulation](smartwatch-feedback-no-effect-rate-decompression.md) — related

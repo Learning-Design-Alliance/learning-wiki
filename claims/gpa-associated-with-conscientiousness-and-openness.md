@@ -56,3 +56,4 @@ Aggregated GPA regression across the three TOSCA studies with all students, Mode
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — a broader claim this one bears on
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — possibly the same claim (merge candidate)
 - [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related
+- [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related

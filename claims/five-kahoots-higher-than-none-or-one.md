@@ -49,3 +49,4 @@ Bonferroni post-hoc comparisons after a significant ANOVA (p=0.007) on mean exam
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — a broader claim this one bears on
 - [In the experimental cohort, students who participated in Kahoot scored 0.54 points higher on the final exam than non-participants](kahoot-participation-higher-exam-score.md) — related
 - [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — a broader claim this one bears on
+- [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related

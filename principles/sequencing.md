@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (29 for, 24 mixed, 1 against) · 48 studies (20 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 48 report an effect size · 50 claims rest on one study
+> **Evidence** · 55 claims (30 for, 24 mixed, 1 against) · 49 studies (21 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 49 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,6 +182,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [After both training sessions, robotic novices who started with robotic simulation scored higher on the modified OSATS for robotic hepaticojejunostomy than novices who started with suture-pads](../claims/simulation-first-higher-osats-after-both-trainings.md) [+W] — attached 2026-11-07 from Menso Julia E. et al. (2024), which proposed "Sequence robotic suturing curricula to start with robotic simulation followed by suture-pad dry-lab training"; tests this page's relationship.
 - [Step-by-step teaching yields significantly higher theoretical examination and skills assessment scores than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-theory-and-skills-scores-reproductive-ultrasound.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
 - [Step-by-step teaching yields a significantly higher total clinical competence score than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-total-clinical-competence-score.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
+- [In DL-first trainees, mean intubation time in the second series (VL) was significantly shorter than in the first series (DL), while VL-first trainees showed no significant difference between series](../claims/dl-first-second-series-intubation-time-shorter.md) [+W] — attached 2026-11-08 from Gu Minglu MM et al. (2019), which proposed "Teach endotracheal intubation with direct laryngoscopy before video laryngoscopy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

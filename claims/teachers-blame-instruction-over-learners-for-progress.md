@@ -50,3 +50,4 @@ Categorization of open survey responses summarized in Figure 2, which plots the 
 - [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](no-pronunciation-assessment-clt-bangladesh.md) — related
 - [ESL teachers in Bangladesh lack adequate pronunciation-instruction training, leaving them unprepared to teach pronunciation](esl-teachers-bangladesh-unprepared-pronunciation.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
+- [Absence of pedagogical encounters with teachers and patients prevented students from placing presentation content in a larger context and hindered deeper learning](absence-of-pedagogical-encounters-hindered-deep-learning.md) — related

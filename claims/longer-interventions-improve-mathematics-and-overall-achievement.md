@@ -76,3 +76,4 @@ Subgroup analysis by intervention duration for overall academic achievement. The
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related
 - [Longer IMCI training duration (≥11 days) is associated with stronger performance benefits in most domains](imci-longer-training-duration-stronger-benefits.md)
+- [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — reports the opposite

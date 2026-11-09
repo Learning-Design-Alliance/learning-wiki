@@ -64,3 +64,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

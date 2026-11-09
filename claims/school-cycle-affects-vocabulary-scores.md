@@ -47,3 +47,4 @@ An ANOVA on total mean scores by school cycle in the quasi-experimental study fo
 ## Related Claims
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
 - [Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining](individual-score-gains-range-6-3-to-30-8-percent.md) — related
+- [First-placement-level students report significantly lower professional skills scores than students at the second and third placement levels](first-placement-level-lower-professional-skills.md) — related

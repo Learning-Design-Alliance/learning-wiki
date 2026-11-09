@@ -110,3 +110,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
 - [Instructors give feedback most often in learning groups during course sessions (71%) and almost never via learning platforms (89% never)](feedback-situations-learning-groups-dominant.md) — related
 - [Fifty-five percent of instructors desire further training, collaboration or information on feedback](majority-desire-feedback-training.md) — related
+- [Teacher interaction before face-to-face meetings was valued (mean 3.6–3.9 of 5), but inconsistent teacher replies frustrated some students](teacher-online-interaction-valued-inconsistent-replies.md) — related

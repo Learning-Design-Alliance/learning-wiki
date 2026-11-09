@@ -51,3 +51,4 @@ Content analysis of the eight interviews; Table 1 reports both collaboration sub
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — related

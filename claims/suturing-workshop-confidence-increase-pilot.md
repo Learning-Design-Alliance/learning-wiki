@@ -48,3 +48,4 @@ Program evaluation pilot: 15 online nurse-midwifery students completed a confide
 ## Related Claims
 - [An Australian interprofessional surgical skills pilot reported a statistically significant increase in confidence scores for both nursing and medical students](interprofessional-pilot-confidence-increase.md) — related
 - [Postworkshop suturing competence of pilot students, measured with an adapted OSCE, averaged at an advanced beginner level](suturing-workshop-osce-competence-advanced-beginner.md) — related
+- [Improvement in self-assessed confidence in suturing/ligature skills was greatest in the expert-led+AI group (60% of interns improved) compared with expert-led (31%) and regular (15%) groups](ai-tutoring-group-greatest-confidence-improvement.md) — related

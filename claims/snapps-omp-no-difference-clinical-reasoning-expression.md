@@ -55,3 +55,7 @@ Randomized controlled trial in which 30 students per group presented two written
 - [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — reports the opposite
 - [SNAPPS lengthens student speech but not total session time compared with OMP](snapps-time-efficient-student-speech.md) — related
 - [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
+- [SNAPPS presentations supported differential diagnoses with more basic attributes, more justified diagnoses, and more explicit disease comparisons than traditional presentations](snapps-inpatient-differential-analysis.md) — reports the opposite
+- [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — related
+- [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
+- [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](snapps-inpatient-uncertainty-expression.md) — related

@@ -52,3 +52,4 @@ Baseline t-tests (df = 38) in the randomized experiment: takeoff p = 0.30 (d = �
 - [Before standardized training, the CPOAL and control groups showed no significant differences on any of the six adaptability dimensions](no-baseline-differences-between-cpoal-and-control.md) — related
 - [SL and traditional groups did not differ significantly in speaking achievement at post-test](no-significant-posttest-difference-sl-traditional.md) — related
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](pretest-equivalence-self-efficacy-groups.md) — related
+- [No significant performance differences between randomly assigned Groups A and B on any assessment component](group-a-b-no-significant-differences.md) — related

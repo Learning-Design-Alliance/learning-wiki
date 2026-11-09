@@ -52,3 +52,4 @@ Paired-sample t-test analysis of pre- and post-test TGAT scores within each of t
 - [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related
 - [All three instruction groups (creative drama, computer-based, standard curriculum) showed statistically significant pre-test to post-test achievement gains](all-three-it-methods-improved-pre-post-scores.md) — related
 - [Experimental class showed a larger gain on the state standardized geometry assessment than the control class](state-assessment-gain-experimental-larger.md) — related
+- [Both teaching methods significantly improved quiz scores from pre- to post-quiz within each group](both-methods-improve-quiz-scores-pre-to-post.md) — possibly the same claim (merge candidate)

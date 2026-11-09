@@ -52,3 +52,4 @@ PROCESS Model 1 moderation analysis in the same cross-sectional sample of 233 nu
 - [The creative self-efficacy–clinical competence slope weakens with higher innovation climate and is non-significant at the highest examined SCI value](simple-slopes-cse-competence-weaken-high-sci.md) — a narrower finding that bears on this claim
 - [Poor mental health significantly moderated (weakened) the association between distance learning and self-assessed competency](mental-health-moderates-distance-learning-competency-association.md) — related
 - [Mental health symptoms moderate the association between perceived teaching quality and academic grades, weakening it as symptoms increase](mental-health-symptoms-moderate-teaching-quality-grades.md) — related
+- [Teamwork climate negatively moderates the effect of teachers' creative teaching ability on characteristics-and-motivations creative teaching behavior](teamwork-negatively-moderates-ability-behavior.md) — related

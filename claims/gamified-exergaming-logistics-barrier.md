@@ -51,3 +51,4 @@ Qualitative thematic analysis with content analysis of teacher interviews and fi
 - [The realism of the didactic design and its adaptability to different educational contexts were the main facilitators of applying the gamified exergaming intervention in primary schools](gamified-exergaming-facilitators-realism-adaptability.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [The main barriers to SBMT implementation are lack of experts, lack of school director support, lack of organisation and lack of teaching materials](barriers-sbmt-implementation-italian-residencies.md) — related

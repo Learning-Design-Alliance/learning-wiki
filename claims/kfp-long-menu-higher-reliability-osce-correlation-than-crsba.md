@@ -65,3 +65,4 @@ Same exam-format comparison study: correlations of the two question formats with
 
 ## Related Claims
 - [Clinical Diagnosis Assessment scores correlate significantly with end-of-trimester written examination scores across trimesters](cda-significant-correlation-exam-scores.md) — related
+- [Most examinees report that long-menu questions involve different reasoning and are closer to real life than classic MCQs](examinees-perceive-long-menu-different-reasoning-realistic.md) — related
