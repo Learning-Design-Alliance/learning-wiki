@@ -13,7 +13,7 @@ moved_from: [principle/behaviorism, principle/reinforcement-theory]
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (12 for, 10 mixed, 4 against) · 28 studies (12 causal, 7 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (13 for, 10 mixed, 4 against) · 29 studies (13 causal, 7 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 4 of 29 report an effect size · 23 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -87,6 +87,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Programmed instruction produced a large improvement in blood glucose monitoring skill (Cohen's d = 1.15) over traditional teaching](../claims/programmed-instruction-glucose-monitoring-skill.md) [+W] — attached 2026-11-05 from Zhang Ying et al. (2026), which proposed "Skinner's programmed instruction model: five principles for sequenced, feedback-driven learning".
 - [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](../claims/programmed-instruction-higher-diabetes-knowledge.md) [+W] — attached 2026-11-05 from Zhang Ying et al. (2026), which proposed "Skinner's programmed instruction model: five principles for sequenced, feedback-driven learning".
 - [Undergraduate students achieved a higher mean number of correct answers in the simulator than experienced health workers](../claims/students-higher-correct-answers-than-workers.md) [~W] — attached 2026-11-08 from Souza-Junior Valtuir Duarte De et al. (2020), which proposed "Operant conditioning as the theoretical framework for simulator-based reinforcement".
+- [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](../claims/fluency-lumbar-puncture-five-trials-95-minutes.md) [+W] — attached 2026-11-09 from Lydon Sinéad et al. (2019), which proposed "Precision teaching as an educational framework for establishing behavioural fluency in procedural skills".
 
 ## The evidence by question
 - *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]

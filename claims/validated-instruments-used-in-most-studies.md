@@ -48,3 +48,4 @@ Descriptive synthesis of assessment instruments across the 20 included studies. 
 - [Seven of the 20 included studies reported an overall increase across all EBP domains indicating higher EBP competence, and two studies focused on the searching databases skill](seven-studies-overall-ebp-domain-increase.md) — related
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
+- [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related

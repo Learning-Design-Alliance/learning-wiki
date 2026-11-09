@@ -72,3 +72,4 @@ Reliability analysis of the two large-scale diagnostic forms. The article report
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related
 - [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related
+- [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related

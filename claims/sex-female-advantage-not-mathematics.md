@@ -55,3 +55,4 @@ Regression analysis reported in the Discussion of results from both school group
 - [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](girls-higher-evaluation-math-anxiety.md) — related
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](mvpa-steps-predict-math-scores-middle-school.md) — related
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — reports the opposite
+- [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — reports the opposite

@@ -16,12 +16,14 @@ sources:
     author: Bisseling EM, Schellekens MPJ, Spinhoven P, Compen FR, Speckens AEM, van der Lee ML
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Observer-rated therapist competence did not predict reduction of psychological distress after group-based MBCT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bisseling EM, Schellekens MPJ, Spinhoven P, Compen FR, Speckens AEM, van der Lee ML. (2019). Therapeutic alliance—not therapist competence or group cohesion—contributes to reduction of psychological distress in group‐based mindfulness‐based cognitive therapy for cancer patients. Clinical Psychology & Psychotherapy. https://doi.org/10.1002/cpp.2352
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel analysis with MBI:TAC competence ratings (two videotaped sessions per therapist, rated by two independent raters, ICC total scale 0.70) predicting posttreatment HADS in the completer sample. The article reports no significant prediction.
 

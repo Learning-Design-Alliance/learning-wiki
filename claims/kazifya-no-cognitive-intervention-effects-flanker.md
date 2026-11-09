@@ -74,3 +74,4 @@ Same adjusted mixed-model analysis of the KaziAfya trial: reaction time on congr
 - [Cognitive performance improved significantly within all four intervention groups over the 12-week intervention](cognitive-improvement-all-groups-flanker.md) — related
 - [The combined PA + MMNS intervention did not significantly improve academic achievement compared with placebo](combined-intervention-no-academic-advantage-placebo.md) — related
 - [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](pa-mmns-intervention-no-cognitive-gains-south-africa.md) — related
+- [The intervention effect on Flanker incongruent-trial accuracy was modified by gender, with boys showing greater improvement](gender-interaction-flanker-accuracy-boys.md) — related

@@ -17,12 +17,14 @@ sources:
     author: "Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Cognitive ability is negatively related to physical ability and grit among entering cadets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D. (2019). Cognitive and noncognitive predictors of success. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1910510116
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Bivariate correlational analysis of pretraining measures from 9 cohorts of West Point cadets over a decade, reported in the Results section. The correlations were all statistically significant at P < 0.001, with "negatively related to both physical ability" and grit.
 

@@ -16,12 +16,14 @@ sources:
     author: Sanson-Fisher R, Hobden B, Carey M, Mackenzie L, Hyde L, Shepherd J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Evidence that interactional skills can be acquired through training exists across health disciplines, but the volume of high-quality trials is small
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sanson-Fisher R, Hobden B, Carey M, Mackenzie L, Hyde L, Shepherd J. (2019). Interactional skills training in undergraduate medical education: ten principles for guiding future research. BMC Medical Education. https://doi.org/10.1186/s12909-019-1566-2
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The debate paper reports, citing Roche et al. (1996), that students exposed to intervention arms including audio feedback, role-plays and video feedback "demonstrated significantly improved skills when compared to students experiencing traditional didactic teaching approaches". The paper attributes this to the cited study, which was not read here.
 

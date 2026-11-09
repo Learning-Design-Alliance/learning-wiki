@@ -75,3 +75,5 @@ Same longitudinal curriculum evaluation; Fresno test scores increased from basel
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
 - [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related
+- [First-year medical students completing an 8-week critical appraisal worksheet intervention showed an average 4% improvement in Berlin questionnaire correct answers](caw-pbl-4-percent-berlin-improvement.md) — related
+- [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related

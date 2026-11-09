@@ -16,12 +16,14 @@ sources:
     author: Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Peer-student ultrasound tutors trained by a course only, an internship only, or course plus internship all show significant, comparable gains in theoretical knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart. (2019). Outcomes of three different ways to train medical students as ultrasound tutors. BMC Medical Education. https://doi.org/10.1186/s12909-019-1556-4
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Prospective quasi-randomized pre-post study of 44 peer-student tutors (I-group n=10, C-group n=21, CI-group n=13); paired t-tests within groups. Table 2 prints relative MC gains of 61.5%, 90.0% and 114.0%, "all p < 0.001, paired t-tests".
 

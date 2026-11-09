@@ -47,6 +47,7 @@ The review identifies the frequency of intervention delivery as "an important as
 ## Related Strategies
 
 - [Future ISS research and evaluation should include detailed demographic and contextual data, develop valid data collection tools, and identify optimal frequency and length of simulations](iss-future-research-recommendations.md)
+- [Combine e-learning with face-to-face sessions or increase e-learning frequency and duration to achieve lasting attitude change](combine-elearning-face-to-face-attitude-change.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Realistic best practice positively predicts optimal best practice (β = .25 direct; total effect .41)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih (2019). Achieving optimal best practice: An inquiry into its nature and characteristics. PLoS ONE. https://doi.org/10.1371/journal.pone.0215732
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 SEM analysis of the Taiwanese university sample testing the hypothesized model (Model M1). The results report "the impact of realistic best practice on optimal best practice (β = .25, p < .001)"; Table 1 additionally shows an indirect effect of .16 and total effect of .41.
 

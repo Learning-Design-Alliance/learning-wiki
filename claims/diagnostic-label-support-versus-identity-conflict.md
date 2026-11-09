@@ -69,3 +69,4 @@ Same 'Purpose of terminology' theme, on the process of disclosure. The article r
 - [Learners across stakeholder groups agreed that terminology choices should be guided by the autistic individual's own preference](terminology-guided-by-individual-preference.md) — related
 - [Learners across groups reported that terms like 'disorder' medicalise autism and can elicit stigma in contexts such as schools](medicalising-terminology-elicits-stigma-schools.md) — related
 - [Learners across stakeholder groups held that fostering acceptance and neurodiversity, and meeting individual needs, matters more than the semantic choice of terminology](person-matters-more-than-terminology.md) — related
+- [Most autistic students received institutional support, but some received none even when requested, and support often targeted academic rather than social needs](autistic-students-support-received-gaps.md) — related

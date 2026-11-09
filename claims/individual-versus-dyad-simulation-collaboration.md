@@ -50,3 +50,4 @@ Design statement for the N = 178 experimental study: the collaboration factor ("
 - [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](static-feedback-detrimental-dyads.md) — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](collaborative-inquiry-outperforms-individual-overall.md) — related
+- [Students instructed to prepare in collaborative dyads during the self-study phase of an inverted classroom achieve higher knowledge-test scores than students instructed to prepare individually](dyadic-self-study-beats-individual-inverted-classroom.md) — related

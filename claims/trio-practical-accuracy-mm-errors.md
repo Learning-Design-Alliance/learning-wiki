@@ -49,3 +49,4 @@ Accuracy verification experiment in wet-lab training comparing the trinocular sy
 - [About 10% of data are missing in the cadaver system, a major challenge for applications beyond skill evaluation; IMU sensor fusion is proposed](ten-percent-missing-data-imu-sensor-fusion.md) — related
 - [During cadaver surgical training the system recorded six instruments with success rates of approximately 90% across 25 analyzable cases](cadaver-training-measurement-success-rates.md) — related
 - [The trinocular measurement system's success rate is significantly lower than the six-camera system's for all instruments in wet-lab training](trio-success-rate-lower-than-six-camera-wetlab.md) — related
+- [Perceived positioning accuracy of HoloLens AR targets on the simulator matches the target application's requirements](hololens-ar-target-positioning-accuracy-adequate.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Yang Ying-Ying, Shulruf Boaz
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # After the shared expert-led course, initial in-training assessment performance was similar between the expert-led and expert-led+AI groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Results section of the pilot: descriptive in-training assessment means in Table 2 (technical performance 69±8 vs 70±5; global rating 3.4±0.5 vs 3.6±0.2) are described as "similar between the expert-led and expert-led+AI tutoring groups"; no statistical test or effect size is printed for this contrast.
 

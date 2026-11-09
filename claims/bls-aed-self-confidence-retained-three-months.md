@@ -16,12 +16,14 @@ sources:
     author: Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Most laypersons felt capable of performing BLS/AED three months after course completion irrespective of teaching technique
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo. (2019). Three-Month Retention of Basic Life Support with an Automated External Defibrillator Using a Two-Stage versus Four-Stage Teaching Technique. BioMed Research International. https://doi.org/10.1155/2019/1394972
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Self-confidence was measured with a five-point Likert-scale questionnaire administered after the three-month simulated test scenario. The reported proportions are descriptive (98% vs 97%); no statistical test or effect size for this comparison is printed, and the contrast with low actual pass rates is not statistically analysed.
 
@@ -47,3 +49,4 @@ Self-confidence was measured with a five-point Likert-scale questionnaire admini
 - [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
+- [Teaching experience increased students' self-reported confidence to apply and teach BLS](teaching-raises-student-bls-confidence.md) — related

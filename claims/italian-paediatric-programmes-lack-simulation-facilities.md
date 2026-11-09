@@ -17,12 +17,14 @@ sources:
     author: Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most Italian paediatric residency programmes lack simulation facilities and support personnel
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi. (2019). Simulation-based medical training for paediatric residents in Italy: a nationwide survey. BMC Medical Education. https://doi.org/10.1186/s12909-019-1581-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey results on facilities and resources among the 274 respondents. The article also reports that "a lack of support personnel was reported in 53% of questionnaires", and that 28% answered there are no funds dedicated to SBMT while 60% did not know funding sources.
 

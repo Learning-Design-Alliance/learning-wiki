@@ -50,3 +50,5 @@ In the randomized exam comparison, flaws were assessed with the 19-item Tarrant 
 - [Reducing MCQ distractors from three to two does not compromise item difficulty, discriminative power, or overall quality in second-year medical exams](two-vs-three-distractors-no-psychometric-difference.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
+- [Half of MCQs sampled from 18 MOOCs contain at least one item-writing flaw](half-mooc-mcqs-have-item-writing-flaws.md) — related
+- [Item-writing flaws are reported to compromise assessment reliability and validity with inconsistent effects](item-flaws-compromise-validity.md) — related

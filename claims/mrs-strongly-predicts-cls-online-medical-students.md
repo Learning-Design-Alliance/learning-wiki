@@ -53,3 +53,4 @@ Structural equation modeling of survey data from 510 pre-medical and medical stu
 - [Medical students most used goal-oriented motivational regulation and elaboration, and least used interest enhancement and critical thinking](descriptive-mrs-cls-use-patterns.md) — related
 - [Motivational regulation strategies correlate positively with cognitive learning strategies but not with academic performance](mrs-cls-correlations-not-gpa.md) — related
 - [Motivational regulation strategies negatively predict academic performance directly but positively via cognitive learning, which mediates the relationship](mrs-negative-direct-mediated-cls-gpa.md) — related
+- [Motivational strategies correlate positively with medical students' CGPA](motivational-strategies-correlate-cgpa-medical-students.md) — related

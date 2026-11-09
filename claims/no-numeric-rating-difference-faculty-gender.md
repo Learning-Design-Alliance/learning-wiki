@@ -16,12 +16,14 @@ sources:
     author: Heath JK, Weissman GE, Clancy CB, Shou H, Farrar JT, Dine CJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant difference in mean numeric teaching-effectiveness ratings between female and male faculty, despite linguistic differences in the narrative comments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Heath JK, Weissman GE, Clancy CB, Shou H, Farrar JT, Dine CJ. (2019). Assessment of Gender-Based Linguistic Differences in Physician Trainee Evaluations of Medical Faculty Using Automated Text Mining. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2019.3520
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive comparison of mean numeric ratings across faculty gender using the Wilcoxon rank sum test in the same cohort. The article reports no significant difference; equivalence was not tested.
 

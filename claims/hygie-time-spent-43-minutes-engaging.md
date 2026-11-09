@@ -50,3 +50,4 @@ Server usage data for included Hygie participants, plus self-reported time in th
 - [GPs rated the Hygie game favorably, with 87% judging it of interest for updating medical knowledge and qualitative themes highlighting playful, interactive, and stimulating aspects](hygie-satisfaction-87-percent-favorable.md) — related
 - [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — related
 - [A significantly greater proportion of GPs in the Hygie group reported using the learned knowledge in their practice compared with the reading group](hygie-transfer-to-practice-odds-ratio-2-9.md) — related
+- [Students remain interested in a CPR serious game more than twice as long as in a video-based course](serious-game-longer-engagement-than-video-cpr.md) — related

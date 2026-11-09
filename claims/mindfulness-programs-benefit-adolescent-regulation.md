@@ -73,3 +73,4 @@ The brief's summary of its review of preventive self-regulation interventions re
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — a narrower finding that bears on this claim
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [Mindfulness shows no significant direct relationship with school results or well-being in adolescents](mindfulness-no-direct-effect-school-results-well-being.md) — related
+- [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — related

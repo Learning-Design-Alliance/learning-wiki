@@ -53,3 +53,5 @@ Scoping review of 17 Canadian articles on SDL in CPD for physicians; inductive c
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Organizational support, clear protocols, and ongoing reinforcement are associated with the most impactful CPD interventions](cpd-organizational-support-protocols-reinforcement.md) — related
+- [Four interdependent transformation theories of effective CPD were developed: transforming individual practice, skills for changing healthcare contexts, knowledge translation, and workplace cultures.](four-transformation-theories-effective-cpd.md) — related
+- [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — related

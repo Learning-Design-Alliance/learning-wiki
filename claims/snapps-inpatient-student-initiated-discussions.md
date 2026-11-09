@@ -24,12 +24,14 @@ sources:
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Jain Vishakha 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-09)
 
@@ -53,7 +55,7 @@ Open-label randomized controlled trial with case presentations as the unit of an
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same trial, same unit of analysis. Student-initiated selection of readings "occurred among all students using the SNAPPS technique as compared to only 33% in the control group (100% versus 33.33%, p value =0.083)."
 

@@ -16,12 +16,14 @@ sources:
     author: Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C.
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # A brief interactive training improves medical students' total diabetes knowledge scores by five percentage points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C. (2019). A brief interactive training with medical students improves their diabetes knowledge about hypoglycemia. BMC Medical Education. https://doi.org/10.1186/s12909-019-1615-x
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Pre-post feasibility study of 217 second-year medical students completing the 23-item DKT2 before and after the interactive training. Total knowledge rose from 77.5 ± 13.2% to 82.6 ± 11.0%, "improved by five percentage points", p < 0.001, Cohen's d = 0.42 (Table 2).
 

@@ -52,3 +52,4 @@ Second repeated-measures ANCOVA on 7-day accelerometer wear at pre, post, and 4-
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](playworks-no-boys-accelerometer-effect.md) — related
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — related
+- [Objective accelerometer assessment showed only a non-significant tendency toward higher physical activity during math lessons in the intervention group](pa-during-math-lessons-nonsignificant-increase.md) — related

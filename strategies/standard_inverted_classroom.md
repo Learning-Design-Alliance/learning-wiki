@@ -67,6 +67,7 @@ The model works only when both halves are redesigned: pre-class materials must b
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](cbcl-pre-session-readiness-strategy.md)
 - [Ensure self-study materials for inverted-classroom teaching are not too complex and avoid redundancies with classroom phases](icm-self-study-materials-complexity-strategy.md)
+- [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 
 ## Examples
 - **Bergmann & Sams' chemistry flip (Woodland Park High School, CO)** — the original K-12 implementation; recorded lessons for absent students became the default, with class time devoted to labs and problem solving ([flippedclassroom.org](https://flippedclassroom.org))

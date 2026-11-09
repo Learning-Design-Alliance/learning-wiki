@@ -48,6 +48,7 @@ The prebriefing prepares participants for the scenario: participants previously 
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Gender-sensitive pre-briefing and debriefing practices to support psychological safety in simulation-based assessment](gender-sensitive-prebriefing-debriefing-strategy.md)
 - [Two-stage prebriefing strategy: advance written communication plus a short in-person prebrief on the day of the simulation](two-stage-prebriefing-in-situ-simulation-strategy.md)
+- [Present a clinical case in class as a live theatrical performance with actors as an alternative to video projection](live-theatrical-clinical-case-presentation-strategy.md)
 
 ## Examples
 -

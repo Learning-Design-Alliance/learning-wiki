@@ -16,12 +16,14 @@ sources:
     author: Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In multivariable regression, median MCAT is the only significant predictor of Step 1 score, with the model explaining 58.4% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas. (2019). Multivariable analysis of factors associated with USMLE scores across U.S. medical schools. BMC Medical Education. https://doi.org/10.1186/s12909-019-1605-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multivariable linear regression (Table 3) on the 100-school dataset. The article reports the eight-variable model explained 58.4% of variance and that higher median MCAT significantly predicted higher Step 1 score (β = 1.28, P = 0.0002); all other variables were non-significant.
 

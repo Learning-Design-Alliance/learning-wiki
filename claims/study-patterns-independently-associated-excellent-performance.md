@@ -68,3 +68,4 @@ The same adjusted model found no significant independent associations for daily 
 - [More frequent use of evidence-based learning strategies is independently associated with higher odds of excellent academic performance among medical students](evidence-based-strategies-associated-excellent-performance-medical-students.md) — related
 - [More daily revision hours independently predict higher academic performance (OR = 1.08 per hour)](daily-revision-hours-predict-performance.md) — reports the opposite
 - [Use of spaced repetition is independently associated with higher odds of success in the medical school entrance examination](spaced-repetition-independent-predictor-medical-entrance-success.md) — related
+- [Studying at home less than one hour per weekday is independently associated with low academic performance, with a stronger odds ratio than SES](short-home-study-duration-associated-low-academic-performance.md) — related

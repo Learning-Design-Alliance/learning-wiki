@@ -16,12 +16,14 @@ sources:
     author: AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Active learning use is similar in public and private healthcare colleges in the Middle East despite differing reported barriers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed. (2019). The use of active learning strategies in healthcare colleges in the Middle East. BMC Medical Education. https://doi.org/10.1186/s12909-019-1580-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey comparison of technique use by institution funding source (617 public, 105 private responders). The article reports no significant differences in use, shown in Fig. 2.
 

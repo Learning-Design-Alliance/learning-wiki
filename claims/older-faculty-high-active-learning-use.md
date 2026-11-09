@@ -16,12 +16,14 @@ sources:
     author: AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Older (65–74) healthcare faculty used most active learning techniques at the highest rates, contradicting assumptions about senior faculty resistance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed. (2019). The use of active learning strategies in healthcare colleges in the Middle East. BMC Medical Education. https://doi.org/10.1186/s12909-019-1580-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Age-group comparison in the survey (Table 3); the 65–74 group had only 17 responders, and the 20–24 (4) and 75–84 (2) groups were excluded from this interpretation. The article reports this pattern "appears to contradict" the notion that older faculty avoid active learning.
 

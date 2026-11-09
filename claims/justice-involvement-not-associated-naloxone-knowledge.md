@@ -16,6 +16,8 @@ sources:
     author: Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gicquelais-rachel-e-2019-2
     resource: "https://doi.org/10.1186/s12954-019-0317-3"
     title: "Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3"
@@ -41,7 +43,7 @@ sources:
 
 Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Adjusted quasi-Poisson regression in the 514-participant sample using modal latent class assignment. The article reports "Naloxone knowledge among men did not differ by justice involvement after adjustment"; the figure caption gives the women's aPR as 0.97 [0.79–1.2]. No effect size was printed.
 

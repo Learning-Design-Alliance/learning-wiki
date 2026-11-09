@@ -66,3 +66,4 @@ The review reports, citing Sherwood and Francis's systematic review and meta-ana
 ## Related Claims
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md) — related
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
+- [Low-fidelity phantom models produced equivalent simulated UGRA skill outcomes to high-fidelity cadaveric or mannequin models in comparative studies](low-fidelity-equivalent-to-high-fidelity-ugra.md) — related

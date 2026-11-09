@@ -16,12 +16,14 @@ sources:
     author: Singh K, Bharatha A, Sa B, Adams OP, Majumder MAA
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most students reported benefiting from the strategy and recommended it for future cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Singh K, Bharatha A, Sa B, Adams OP, Majumder MAA. (2019). Teaching anatomy using an active and engaging learning strategy. BMC Medical Education. https://doi.org/10.1186/s12909-019-1590-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Anonymous online Survey Monkey questionnaire administered after final exam results; 38 of 66 students (57.5%) responded. Respondents reported they "benefitted from using the active and engaging learning strategy" and 92% recommended the sessions for future cohorts.
 

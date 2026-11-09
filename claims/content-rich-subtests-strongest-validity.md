@@ -71,3 +71,4 @@ Pearson correlation analyses of HAM-Nat subtests with PCGPA and M1, corrected fo
 - [The standardized M1 licensing examination is predicted more accurately than the preclinical grade point average (PCGPA)](m1-predicted-better-than-pcgpa.md) — related
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — a broader claim this one bears on
 - [Casper shows weak but significant correlations with cognitive admission criteria including Abitur grade, TMS, and HAM-Nat logical reasoning, but not with science knowledge or arithmetic subtests](casper-german-pilot-discriminant-validity-cognitive.md) — related
+- [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related

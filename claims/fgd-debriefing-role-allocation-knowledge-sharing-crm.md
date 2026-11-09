@@ -70,3 +70,4 @@ From the discussion section's summary of the qualitative arm: participants' refl
 - [Scores for all skills assessed by the Ottawa CRM Global Rating Scale rose from pre-test to post-test after a simulation-based CRM workshop in pediatric interprofessional teams, in a single-group pre-post study](simulation-crm-workshop-improves-ottawa-grs-skills.md) — related
 - [Nursing students valued the reflective DML debriefing over CRM-principles debriefing for euthanasia simulation](dml-debriefing-preferred-euthanasia-simulation.md) — related
 - [In situ simulation of a medical emergency is an acceptable and feasible interprofessional training approach in primary care, per participant reports in a qualitative proof of concept study](in-situ-simulation-acceptable-interprofessional-primary-care.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

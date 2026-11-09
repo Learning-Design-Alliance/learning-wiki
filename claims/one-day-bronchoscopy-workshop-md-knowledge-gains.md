@@ -50,3 +50,4 @@ Pre-test/post-test analysis of 38 MDs attending the one-day workshop, using a 50
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
 - [Vaccine storage knowledge scores rose from 5.6 to 9.8 of 11 correct answers among physicians and practice assistants after KeepCoool participation, in one single-group pre-post study with no comparison group](keepcoool-knowledge-score-increase.md) — related
 - [The simulation significantly increased medical students' knowledge scores from 85% presurvey to 92% on a delayed postsurvey](brown-bag-simulation-increased-knowledge-scores.md) — related
+- [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related

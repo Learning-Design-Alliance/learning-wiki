@@ -70,3 +70,4 @@ Same post-course survey. The article reports that 0.66% of participants found th
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Medical students rated the obesity management module positively on value, confidence, and navigability](positive-student-evaluation-obesity-module.md) — related

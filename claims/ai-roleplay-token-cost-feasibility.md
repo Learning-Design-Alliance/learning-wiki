@@ -47,3 +47,4 @@ Feasibility monitoring of computational costs during the final-year 20-minute cl
 ## Related Claims
 - [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related
 - [Simulation-based LISA training to the minimum passing score costs a median of USD 68 per novice using trained investigators as onsite raters](lisa-simulation-training-cost.md) — related
+- [VP operating cost per hour is low (USD 12) compared with high-fidelity simulators and standardized patients](vp-low-cost-per-hour.md) — related

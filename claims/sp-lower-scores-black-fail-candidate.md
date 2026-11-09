@@ -49,3 +49,4 @@ Randomised video-based study in which 163 simulated patients each scored one whi
 - [No statistically significant score differences between paired non-white and white candidates for the Asian fail, Chinese fail, and all pass-grade comparisons](no-significant-race-differences-other-pairings.md) — related
 - [Simulated patients' global impression scores concurred with their total-score differences by candidate race at fail and borderline grades](sp-global-impression-concurs-with-score-differences.md) — related
 - [Simulated patient assessors awarded significantly higher total scores to the black and Chinese borderline-grade candidates than to the white borderline-grade candidate](sp-higher-scores-black-chinese-borderline-candidates.md) — related
+- [No difference between Sierra Leonean and UK trainees on the MCQ test, nine of 12 performance parameters, assessors' global impression, or completion time](no-difference-mcq-nine-parameters-global-impression.md) — related

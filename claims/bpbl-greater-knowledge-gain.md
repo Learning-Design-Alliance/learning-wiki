@@ -16,12 +16,14 @@ sources:
     author: Shimizu Ikuo, Nakazawa Hideyuki, Sato Yoshihiko, Wolfhagen Ineke H. A. P., Könings Karen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Blended PBL produces greater knowledge gain between pre-test and post-test than original PBL in Japanese medical students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shimizu Ikuo, Nakazawa Hideyuki, Sato Yoshihiko, Wolfhagen Ineke H. A. P., Könings Karen D. (2019). Does blended problem-based learning make Asian medical students active learners?: a prospective comparative study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1575-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quasi-experimental comparison using a pre-test post-test design with 10 multiple-choice questions adapted from past national licence examinations. Progress in test scores was computed as the pre-post difference; PBL mean progress was -0.625 and bPBL 0.755 (Table 2, p = 0.026). No effect size is printed in the running text, so impact is uncoded.
 

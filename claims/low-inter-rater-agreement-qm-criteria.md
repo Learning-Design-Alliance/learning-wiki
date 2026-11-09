@@ -60,3 +60,4 @@ Reliability analysis of the human expert ratings: the article reports Fleiss' κ
 - [Overall inter-examiner agreement on grades and pass-fail classifications is slight, with Fleiss kappa of 0.07 and 0.14](fleiss-kappa-slight-agreement-examiners.md) — related
 - [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
+- [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — possibly the same claim (merge candidate)

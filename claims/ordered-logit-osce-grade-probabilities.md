@@ -50,3 +50,4 @@ Ordered logistic regression (Table A, Online Appendix; Fig. 2 marginal effects a
 - [Students admitted with excellent school grades perform best overall in the OSCE, but waiting-list students reverse the gap on the overall score once age and Abitur are controlled](nc-quota-best-overall-osce-reversal.md) — reports the opposite
 - [Waiting-list students with health-care work experience outperform NC-quota classmates in OSCE medical-skills stations once age and Abitur grade are controlled](waiting-list-experience-compensates-osce-skills.md) — related
 - [Higher OSCE scores are strongly associated with better final M1 grades, and students scoring below 80% seldom reach a good or very good M1](osce-score-predicts-m1-grade.md) — related
+- [Study outcome after three terms differs markedly by admission path, favouring entrance-test and excellence-quota students over waiting-list and foreign-quota students](admission-path-study-outcome-differences.md) — related

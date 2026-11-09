@@ -16,12 +16,14 @@ sources:
     author: Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # BLS+WEB participants had higher theoretical knowledge of stroke and AMI symptoms and healthy lifestyle factors than BLS-only participants, both directly and six months after training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan. (2019). Effectiveness of web-based education in addition to basic life support learning activities: A cluster randomised controlled trial. PLoS ONE. https://doi.org/10.1371/journal.pone.0219341
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Questionnaire assessment in the cluster randomised controlled trial of laymen, administered directly after training and six months later. The Results section reports a "significant difference, with a higher total score in the BLS+WEB group"; Table 4 prints, for example, stroke knowledge means of 5.5 vs 4.2 at post-test and 5.7 vs 4.6 at retention (both p < 0.0001), with no standardised effect size reported.
 
@@ -46,3 +48,4 @@ Questionnaire assessment in the cluster randomised controlled trial of laymen, a
 - [BLS+WEB participants more often knew to call 112 in the event of out-of-hospital cardiac arrest, both directly and six months after training, although awareness was low in both groups](web-education-higher-call-112-knowledge-ohca.md) — related
 - [Laymen who received web-based education on cardiovascular disease before BLS training achieved a significantly higher total score for practical skills six months after training than those receiving BLS training alone](web-cvd-education-higher-bls-retention-score.md) — related
 - [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — reports the opposite
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related

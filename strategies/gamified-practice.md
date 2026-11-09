@@ -71,6 +71,7 @@ Gamification works when game mechanics amplify the learning mechanics of practic
 - [Use family recognition and weekly ranked scoring to incentivize intern motivation](family-recognition-incentive-mechanism.md)
 - [Hybrid gamification design combining traditional instruction with gamified elements that emphasize individual progress and feedback over intense competition](hybrid-gamification-individual-progress-strategy.md)
 - [Award digital badges through an LMS for graded challenges in a gamified unit](lms-digital-badge-challenge-strategy.md)
+- [Use postdriving feedback mechanisms (drive scoring, leaderboards, achievement badges) instead of feedback during driving to avoid distraction](postdriving-feedback-scoring-leaderboards-badges.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — energy points, badges, and mastery levels layered onto practice exercises; progress mechanics reward accuracy over speed.

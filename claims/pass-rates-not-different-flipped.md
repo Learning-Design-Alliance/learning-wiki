@@ -50,3 +50,4 @@ Comparison of registrar-recorded pass rates (C or better) for 378 flipped and 41
 - [Students in flipped active-learning sections score significantly higher on common exam questions in general biology, with the gap widening across the semester](flipped-sections-higher-common-exam-questions.md) — reports the opposite
 - [Flipped classroom exam grade distribution shifted rightward, with more students achieving higher grades overall](fc-grade-distribution-rightward-shift.md) — reports the opposite
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
+- [The flipped classroom group obtained better qualitative exam grade distributions, with more merit and outstanding grades and fewer failures, than the lecture-based group](flipped-classroom-better-qualitative-grade-distribution-social-work.md) — reports the opposite

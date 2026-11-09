@@ -53,3 +53,4 @@ Reported in a footnote as a secondary analysis with a printed effect size of "d 
 - [Average HAM-SJT performance increased drastically in high-stakes years when the test counted toward selection (d = 0.92)](ham-sjt-performance-increases-high-stakes.md) — related
 - [Female medical school applicants outperformed male applicants on the piloted SJT in both years, with a medium effect size in 2017](sjt-gender-female-advantage-indonesia-pilot.md) — related
 - [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related
+- [Male students achieved slightly higher first-three-term outcome than female students (d = 0.19)](male-outcome-advantage-d019.md) — related

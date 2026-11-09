@@ -17,12 +17,14 @@ sources:
     author: Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Bullying comments were largely absent from exemplar departments' survey data, but the cause is undetermined
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim. (2019). “They cared about us students:” learning from exemplar clinical teaching environments. BMC Medical Education. https://doi.org/10.1186/s12909-019-1551-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative observation from the exemplar survey and focus groups. Elsewhere the article reports that 19/91 (21%) of unsupportive-practice comments could be confidently identified as bullying. The authors state further investigation is required; no effect size is printed.
 

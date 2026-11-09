@@ -75,3 +75,4 @@ The guidance states that coaching promotes retention and that "Early career teac
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](limited-mentoring-access-early-career-teachers-of-color.md) — related
 - [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — reports the opposite
+- [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related

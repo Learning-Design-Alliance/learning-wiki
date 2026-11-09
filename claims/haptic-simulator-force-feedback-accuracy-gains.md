@@ -75,3 +75,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Haptic exploration of a model before a laparoscopic task significantly reduces force parameters during training](haptic-exploration-lowers-force-laparoscopic-task.md) — a narrower finding that bears on this claim
 - [VR-trained physicians show significantly smaller implant placement deviations than conventionally trained peers across mesiodistal, buccolingual, depth, and angle dimensions](vr-dental-implant-training-lower-placement-deviations.md) — a narrower finding that bears on this claim
 - [Haptic exploration before practice shows no significant difference in laparoscopic task time or path length, with a trend toward shorter path length](no-time-path-length-difference-haptic-exploration.md) — related
+- [Feedback is essential for learning from simulation-based training](feedback-essential-for-simulation-based-training.md) — related

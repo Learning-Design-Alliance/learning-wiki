@@ -16,12 +16,14 @@ sources:
     author: Jin Hye Kyung, Park So Hyun, Kang Ji Eun, Choi Kyung Suk, Kim Hong Ah, Jeon Min Seon, Rhie Sandy Jeong
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Training improves self-rated empathy alongside other communication skills items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jin Hye Kyung, Park So Hyun, Kang Ji Eun, Choi Kyung Suk, Kim Hong Ah, Jeon Min Seon, Rhie Sandy Jeong. (2019). The influence of a patient counseling training session on pharmacy students’ self-perceived communication skills, confidence levels, and attitudes about communication skills training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1607-x
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Item-level result from Table 2 of the sixty-student pre-post survey: the "Show empathy 5.15 (1.34) 5.58 (1.12)" item improved significantly (p = 0.023) on the 7-point scale.
 

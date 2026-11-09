@@ -52,3 +52,4 @@ Reliability analysis of the study's OSCE rating procedure: two experienced facul
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — related
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
+- [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite

@@ -16,12 +16,14 @@ sources:
     author: Bisseling EM, Schellekens MPJ, Spinhoven P, Compen FR, Speckens AEM, van der Lee ML
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Group cohesion did not significantly predict reduction of psychological distress after group-based MBCT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bisseling EM, Schellekens MPJ, Spinhoven P, Compen FR, Speckens AEM, van der Lee ML. (2019). Therapeutic alliance—not therapist competence or group cohesion—contributes to reduction of psychological distress in group‐based mindfulness‐based cognitive therapy for cancer patients. Clinical Psychology & Psychotherapy. https://doi.org/10.1002/cpp.2352
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel analysis in the completer sample (n = 84) with GCQ-22 cohesion measured at the start of Session 5 as predictor of posttreatment HADS. The article reports no significant prediction; equivalence was not tested.
 

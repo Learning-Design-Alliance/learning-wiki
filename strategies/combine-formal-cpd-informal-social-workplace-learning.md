@@ -46,6 +46,7 @@ The authors recommend creating optimal environments for lifelong learning throug
 
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
 - [Operationalise workplace-based learning within national obstetric emergency training programmes, embedding learning visibly into real clinical settings alongside simulation](operationalise-wpbl-in-oe-training-programmes.md)
+- [Workplace facilitation of learning emphasizes team competence, dialogue about knowledge quality, and collaborative relationships](workplace-facilitation-collaborative-knowledge-strategy.md)
 
 ## Examples
 -

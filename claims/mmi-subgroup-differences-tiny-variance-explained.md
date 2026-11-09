@@ -16,12 +16,14 @@ sources:
     author: Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sociodemographic variables explain only 0.6% of variance in MMI station performance, which the authors consider marginal and not indicative of meaningful bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S. (2019). Exploring sociodemographic subgroup differences in multiple mini-interview (MMI) performance based on MMI station type and the implications for the predictive fairness of the Hamburg MMI. BMC Medical Education. https://doi.org/10.1186/s12909-019-1674-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical linear model of MMI station performance (N = 11,658 ratings within 1438 candidates over 8 years) reports R2 = .006, with 82.6% of variance within ratings. The authors state "we consider the differences we found to be marginal" despite statistically significant effects in a large sample.
 

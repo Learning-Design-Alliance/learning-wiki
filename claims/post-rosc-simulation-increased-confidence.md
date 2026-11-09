@@ -56,3 +56,4 @@ Pre/post surveys on 5-point Likert scale grouped into not confident (1-3) and co
 - [Completing the blended BLS learning path was followed by a significant increase in students' confidence regarding out-of-hospital cardiac arrest management](blended-bls-path-increases-confidence-ohca-management.md) — related
 - [Confidence in using a defibrillator rose significantly from 38.8% to 67.9% from pre-test to post-test in one group with no comparison group](defibrillator-confidence-increase.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
+- [Residents' confidence in knowing when to place a magnet over a patient's defibrillator increased after the simulation (Likert mean 2.69 to 4.13)](simulation-increases-confidence-magnet-placement-timing.md) — related

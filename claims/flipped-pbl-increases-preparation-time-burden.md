@@ -16,12 +16,14 @@ sources:
     author: Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong. (2019). Implementation of flipped classroom combined with problem-based learning: an approach to promote learning about hyperthyroidism in the endocrinology internship. BMC Medical Education. https://doi.org/10.1186/s12909-019-1714-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Time-on-task measurement in the randomized trial: CG preparation included watching videos, reading materials, and searching the Internet; TG preparation was textbook preview. The printed means are 172 ± 33 min (CG) vs 108 ± 15 min (TG), P < 0.001. No effect size is printed.
 
@@ -48,3 +50,4 @@ Time-on-task measurement in the randomized trial: CG preparation included watchi
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — related
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
+- [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — related

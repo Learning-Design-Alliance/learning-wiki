@@ -69,3 +69,4 @@ Same controlled simulation trial, regression-adjusted primary outcome. Total han
 - [Hands-off time during chest compressions was longer with facultative app use but not significantly different with mandatory app use](hands-off-during-compression-group-differences.md) — related
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [In the pilot simulation study, median time to first epinephrine administration was significantly longer for teams using the PediAppRREST app than for control teams](pediaprrrest-longer-epinephrine-time.md) — related
+- [Simulation-trained students activated emergency medical services faster than standard-trained students in a simulated cardiac arrest](sim-training-faster-ems-activation.md) — related

@@ -49,6 +49,7 @@ In the context of COVID-19 restrictions on surgical training, the article recomm
 - [Use simulation training prior to actual surgery when elective surgical experience for trainees is disrupted](simulation-training-before-surgery-during-disruption.md)
 - [Use high-quality surgical videos, ideally in faculty-led group study, to compensate for lost operating room time](faculty-led-surgical-video-group-review-strategy.md)
 - [Alternate on-site and remote teams every 14 days to maintain education and clinical continuity during a disruption](alternating-14-day-team-rotation-strategy.md)
+- [Use video-based 'indirect' rating as a resource-sparing alternative to on-site expert rating of procedural skills](indirect-video-rating-procedural-skills-strategy.md)
 
 ## Examples
 -

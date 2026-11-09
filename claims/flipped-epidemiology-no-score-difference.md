@@ -24,12 +24,14 @@ sources:
     author: Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Flipping an undergraduate epidemiology course produced no significant difference between pre-test and final exam scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Quantitative comparison of pre-test and final exam scores in the flipped 'practi
 
 Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Subset analysis repeating identical pre-test questions on the final exam (Fig. 1, Sets A and B). The article reports "average score difference=-0.26, p=0.90"; no effect size is printed.
 
@@ -64,3 +66,4 @@ Subset analysis repeating identical pre-test questions on the final exam (Fig. 1
 ## Related Claims
 - [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — related
 - [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related
+- [Second-year international medical students in a peer-guided exam preparation course scored significantly higher on a repeated-question post-test than on weekly pre-tests](peerguided-course-prepost-mcq-gain-international-students.md) — related

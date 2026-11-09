@@ -16,12 +16,14 @@ sources:
     author: Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Vertical-motion noise covariance did not differ significantly between the first and second halves of imitation trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko. (2019). Teacher-learner interaction quantifies scaffolding behaviour in imitation learning. Scientific Reports. https://doi.org/10.1038/s41598-019-44049-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Wilcoxon signed rank comparison of vertical-motion noise covariance across trial halves in 14 pairs; "did not show a significant difference between them (p = 0.106, R = 0.56)". Equivalence was not tested.
 

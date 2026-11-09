@@ -57,3 +57,4 @@ Stepwise multiple regression analysis for GPA in 65 men. Table 4 reports, for ex
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
 - [Physical activity appears to partially offset the adverse association between poor sleep and GPA](pa-offsets-sleep-gpa-association.md) — related
 - [In women with low academic performance, only non-verbal intelligence and preparatory GPA were significantly associated with GPA in the multivariate model](women-gpa-multivariate-model-low-performers.md) — related
+- [Weekly study hours related positively and outside employment negatively to CGPA, while demographic variables showed no differences](study-hours-positive-employment-negative-cgpa.md) — related

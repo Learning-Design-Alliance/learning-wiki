@@ -62,6 +62,7 @@ The review recommends incorporating digital anatomical models into the curriculu
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Introduce anatomy learning involving 3D mental rotation of anatomical structures and combined 2D pictures with 3D models to support low-spatial-ability dental students](3d-mental-rotation-anatomy-module-strategy.md)
 - [Deploy the Anatomage Table through an online platform to sustain anatomy and surgical training during emergencies](anatomage-online-platform-pandemic-training-strategy.md)
+- [Systematically introduce combined 3D and 2D training, with real clinical cases, early in surgical residency](early-combined-3d-2d-residency-training-strategy.md)
 
 ## Examples
 -

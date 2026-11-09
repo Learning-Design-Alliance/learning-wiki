@@ -46,6 +46,7 @@ Before both the pilot and main assessments, evaluators attended a two-session wo
 ## Related Strategies
 
 - [Two-session evaluator workshop with video scoring and consensus discussion to establish inter-rater reliability](evaluator-workshop-consensus-video-scoring-strategy.md)
+- [Train raters in the use of the SHORT (e.g., via webinars, e-learning with videos, or live-debriefing ratings) before implementation](short-rater-training-before-implementation.md)
 
 ## Examples
 -

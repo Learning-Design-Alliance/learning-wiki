@@ -52,3 +52,4 @@ Randomized controlled trial comparing intervention (custom video plus standard m
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
 - [A standardized training program significantly increases veterinary students' perceived knowledge and confidence in SBWGTT placement and POCUS pathology recognition](training-program-increases-student-knowledge-confidence-sbwgtt.md) — related
 - [Both video groups report higher pre-training self-rated confidence than controls, with no POV–F-t-F difference](pre-class-video-higher-pre-training-confidence-cvc.md) — related
+- [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related

@@ -53,3 +53,4 @@ In the final cross-lagged path models for the 954-student cohort, which included
 - [Aerobic and muscular fitness may positively predict academic achievement indirectly through motor skills.](fitness-indirect-effect-via-motor-skills.md) — related
 - [Better academic achievement predicts better motor skills, aerobic fitness, and muscular fitness one year later.](gpa-predicts-future-fitness.md) — related
 - [Changes in muscular fitness are positively associated with changes in academic achievement (GPA) over 2 years.](muscular-fitness-change-gpa-association.md) — related
+- [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — reports the opposite

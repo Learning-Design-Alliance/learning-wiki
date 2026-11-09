@@ -48,3 +48,4 @@ The review reports a quasiexperimental study in Germany comparing online (invert
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](videoconference-most-implemented-psychiatric-education.md) — related
+- [Video lectures are rated significantly better than live lectures on learning atmosphere, concentration, presence of other students and acoustic intelligibility](video-rated-better-on-atmosphere-concentration-acoustics.md) — related

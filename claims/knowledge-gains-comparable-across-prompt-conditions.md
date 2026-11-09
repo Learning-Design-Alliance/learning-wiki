@@ -55,3 +55,4 @@ Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the th
 - [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](first-order-knowledge-integration-mediation.md) — related
 - Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related
+- [Study group and performance domain interact strongly, indicating format effects differ across algorithm, temporal, and quality domains](group-by-domain-interaction-pbls-domains.md) — related

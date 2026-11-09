@@ -16,12 +16,14 @@ sources:
     author: Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The training shifts medical students toward rating hypoglycemia as very severe
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C. (2019). A brief interactive training with medical students improves their diabetes knowledge about hypoglycemia. BMC Medical Education. https://doi.org/10.1186/s12909-019-1615-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Chi-Square analysis of open-ended severity ratings before and after the training. Ratings of "very severe" rose from 78.9% (n = 153) to 88.1% (n = 192); the article reports "Χ2 = 49.700; p < 0.001" with no effect size.
 

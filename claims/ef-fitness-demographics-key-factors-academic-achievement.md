@@ -55,3 +55,6 @@ RFECV feature-selection analysis of 300 primary school students (151 boys, 149 g
 - [Sex is ranked the most significant single factor for academic achievement by the XGB feature-selection algorithm](sex-most-significant-factor-xgb.md) — reports the opposite
 - [Cardiorespiratory fitness is associated with working memory and cognitive flexibility but not inhibition in children](crf-associated-wm-cf-not-inhibition.md) — related
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
+- [A 9-month classroom-based physical activity intervention did not affect executive functions, aerobic fitness, or body mass index in 7-year-olds](active-math-no-effect-secondary-outcomes.md) — related
+- [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related
+- [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — related

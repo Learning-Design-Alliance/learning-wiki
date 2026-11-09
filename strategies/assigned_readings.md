@@ -66,6 +66,7 @@ Assigned readings only pay off when learners actually complete them and when cla
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 - [Structure group supervision content in advance and pair it with direct, pool-based supervision for novices](structured-group-supervision-with-direct-complement-strategy.md)
 - [Integrate a multimedia learning platform as a complement to traditional instruction, assigning curated playlists with embedded quizzes and flashcards for spaced repetition](multimedia-tool-complement-traditional-instruction-strategy.md)
+- [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 
 ## Examples
 - **Just-in-Time Teaching (Novak et al.)** — physics courses where students answer web-based warm-up questions on assigned readings before lecture; the instructor adjusts the session to common errors ([https://jittdl.physics.iupui.edu/jitt/](https://jittdl.physics.iupui.edu/jitt/))

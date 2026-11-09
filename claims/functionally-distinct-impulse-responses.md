@@ -16,12 +16,14 @@ sources:
     author: Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Bidirectional causal influences in teacher-learner imitation are functionally distinct: a positive lateral impulse response at 400–600 ms and a negative vertical impulse response at 600–800 ms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko. (2019). Teacher-learner interaction quantifies scaffolding behaviour in imitation learning. Scientific Reports. https://doi.org/10.1038/s41598-019-44049-x
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Impulse responses computed from the estimated bivariate autoregressive model, averaged across participants (Fig. 6); the lateral teacher-to-learner response "showed a high positive peak with a latency of 400–600 ms", the vertical learner-to-teacher response a low negative peak at 600–800 ms.
 

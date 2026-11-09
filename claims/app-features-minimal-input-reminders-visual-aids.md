@@ -16,12 +16,14 @@ sources:
     author: Sewitch MJ, Fallone CA, Ghali P, Lee GE
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Patients want a colonoscopy preparation app that minimizes data input, sends reminders and alerts up to 7 days precolonoscopy, and uses visual aids
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sewitch MJ, Fallone CA, Ghali P, Lee GE. (2019). What Patients Want in a Smartphone App That Supports Colonoscopy Preparation: Qualitative Study to Inform a User-Centered Smartphone App. JMIR Mhealth Uhealth. https://doi.org/10.2196/12242
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the same focus group study, thematic analysis of participant discussion identified desired features; the article states that "Minimization of data input, reminders and alerts up to 7 days precolonoscopy, and visual aids" emerged as possible app features.
 

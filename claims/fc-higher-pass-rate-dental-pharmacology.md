@@ -48,3 +48,4 @@ Descriptive comparison of ranked individual exam results from the same retrospec
 - [Flipped classroom exam grade distribution shifted rightward, with more students achieving higher grades overall](fc-grade-distribution-rightward-shift.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](fc-satisfaction-higher-not-significant.md) — related
+- [The flipped classroom group obtained better qualitative exam grade distributions, with more merit and outstanding grades and fewer failures, than the lecture-based group](flipped-classroom-better-qualitative-grade-distribution-social-work.md) — related

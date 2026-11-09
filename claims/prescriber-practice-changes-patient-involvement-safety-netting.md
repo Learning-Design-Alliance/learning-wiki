@@ -49,3 +49,4 @@ Qualitative thematic analysis of interviews (n=15). Examples include scheduling 
 - [The e-learning intervention was acceptable and its completion feasible for nurse and pharmacist prescribers](elearning-animation-acceptable-useful-prescribers.md) — related
 - [The evidence that ECHO improves physician preparedness for OUD rests almost entirely on self-report, so actual preparedness gains remain untested](echo-oud-evidence-self-report-limitation.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
+- [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related

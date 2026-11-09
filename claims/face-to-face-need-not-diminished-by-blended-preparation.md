@@ -16,12 +16,14 @@ sources:
     author: Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Replacing passive homework with interactive online preparation did not diminish the need for face-to-face meetings, contrary to expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M. (2019). Blended learning for postgraduates; an interactive experience. BMC Medical Education. https://doi.org/10.1186/s12909-019-1717-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' discussion of the informal teacher assessment after the face-to-face meetings. They attribute this partly to participants valuing the two face-to-face days highly, and partly to participants giving more input, which raised the level of education.
 

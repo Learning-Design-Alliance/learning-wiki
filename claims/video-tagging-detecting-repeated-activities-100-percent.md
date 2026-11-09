@@ -16,6 +16,8 @@ sources:
     author: Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: lira-ricardo-salas-morales-juan-leiva-luis-de-la-fuente-rene-fuentes-ricardo-delfino-alejandro-hurtado-nazal-claudia-sepúlveda-marcos-arias-michael-herskovic-valeria-munoz-gama-jorge-2019-2
     resource: "https://doi.org/10.3390/ijerph16111877"
     title: "Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge. (2019). Process-Oriented Feedback through Process Mining for Surgical Procedures in Medical Training: The Ultrasound-Guided Central Venous Catheter Placement Case. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16111877"
@@ -42,7 +44,7 @@ sources:
 
 Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge. (2019). Process-Oriented Feedback through Process Mining for Surgical Procedures in Medical Training: The Ultrasound-Guided Central Venous Catheter Placement Case. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16111877
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive survey results for the video-tagging intervention (Section 6.1, Figure 11). Percentages are printed; no effect size or test is reported. The article notes 10% found it not so helpful for activity duration.
 

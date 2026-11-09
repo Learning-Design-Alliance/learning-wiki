@@ -51,3 +51,4 @@ Post-survey result of the randomized trial on a five-point Likert scale (Table 4
 - [Knowledge test scores did not differ significantly between online and hands-on groups after ocular POCUS training](knowledge-test-no-group-difference-ocular-pocus.md) — related
 - [Twenty minutes of online learning produced ocular POCUS first-scan quality scores not inferior to a 30-minute hands-on session in novice emergency physicians](online-ocular-pocus-not-inferior-hands-on.md) — related
 - [Online-trained novices did not differ from hands-on-trained novices in time taken to complete ocular POCUS scans](scan-time-no-group-difference.md) — related
+- [After a 5-min didactic and 20-min hands-on session, military trainees' ONSD measurements do not differ significantly from those of emergency physician experts](onsd-trainee-measurements-nonsignificant-vs-experts.md) — related

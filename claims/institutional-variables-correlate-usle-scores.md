@@ -16,12 +16,14 @@ sources:
     author: Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Seven institutional variables correlate significantly with both Step 1 and Step 2 scores, while total enrollment does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas. (2019). Multivariable analysis of factors associated with USMLE scores across U.S. medical schools. BMC Medical Education. https://doi.org/10.1186/s12909-019-1605-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Univariate analysis (Table 2) of the 100-school USN&WR dataset reports significant correlations for GPA, MCAT, faculty ratio, NIH funds, NIH funds per faculty, residency director and peer assessment with both Step scores; enrollment correlations were not significant (−0.10, P = 0.33; 0.02, P = 0.86).
 

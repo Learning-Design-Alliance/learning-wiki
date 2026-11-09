@@ -49,6 +49,7 @@ The article recommends that the multisource evaluation process be sustained acro
 ## Related Strategies
 
 - [Embed MSF as a mandatory component within a program of assessment and actively promote it to faculty and staff to support rater recruitment](embed-msf-mandatory-programmatic-assessment.md)
+- [Use 360° competency assessment results to target professional development at low-scoring behavioural items](targeted-development-from-360-item-gaps.md)
 
 ## Examples
 -

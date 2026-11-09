@@ -17,12 +17,14 @@ sources:
     author: AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Active learning technique use varies significantly across fields of healthcare education in the Middle East
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed. (2019). The use of active learning strategies in healthcare colleges in the Middle East. BMC Medical Education. https://doi.org/10.1186/s12909-019-1580-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Chi-square comparison across college types (pharmacy, medicine, dentistry, nursing, applied medical sciences, public health) in the survey. The article reports "Nine of 15 types of active learning activities showed significant variability among schools".
 

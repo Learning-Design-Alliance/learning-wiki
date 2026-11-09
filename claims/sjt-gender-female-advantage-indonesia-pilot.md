@@ -67,3 +67,4 @@ Table 3 reports the 2017 gender comparison of SJT mean scores: the male and fema
 - [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
 - [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related
 - [SJT scores showed no significant differences across ethnic subgroups in two Indonesian applicant cohorts](sjt-no-ethnic-score-differences-indonesia-pilot.md) — related
+- [Male students achieved slightly higher first-three-term outcome than female students (d = 0.19)](male-outcome-advantage-d019.md) — related

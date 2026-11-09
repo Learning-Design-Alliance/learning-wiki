@@ -50,3 +50,4 @@ Between-group logistic mixed-effects model on daily log-file data in the same pr
 - [In two studies of children aged 10–12 and 9–13, students were more likely to study vocabulary on days they received a mobile-app study reminder than on days they did not](reminder-days-boost-same-day-study-probability.md) — related
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](reminder-overreliance-on-no-reminder-days.md) — related
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
+- [Active SMS reminders followed by actively acknowledging the reminder helped seniors perform more everyday activities and feel more independent and in control](active-sms-acknowledgment-supports-everyday-activities.md) — related

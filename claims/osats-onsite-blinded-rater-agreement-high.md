@@ -17,12 +17,14 @@ sources:
     author: Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Reliability analysis in which a blinded expert ureteroscopist reassessed a subset of session videos using OSATS found "Inter-rater reliability of the OSATS scores was high (Additional file 2: Figure S1 r = 0.8776, p < 0.0001)."
 
@@ -52,3 +54,4 @@ Reliability analysis in which a blinded expert ureteroscopist reassessed a subse
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
+- [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related

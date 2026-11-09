@@ -16,12 +16,14 @@ sources:
     author: Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Thirty percent of emergency laparoscopic cholecystectomies and bile duct explorations in a single-surgeon emergency biliary service involved trainees in part or whole
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM. (2019). Laparoscopic Training Opportunities in an Emergency Biliary Service. JSLS: Journal of the Society of Laparoendoscopic Surgeons. https://doi.org/10.4293/JSLS.2019.00031
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Prospective analysis of a single surgeon's practice of 2049 emergency laparoscopic cholecystectomies and common bile duct explorations between 1992 and 2016, with 2030 procedures having full difficulty-grading data. The article reports "Thirty percent of laparoscopic cholecystectomies were performed in part or completely by trainees".
 

@@ -49,3 +49,4 @@ The same quasi-experimental study re-administered the 20-item MCQ unexpectedly s
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — related
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — reports the opposite
 - [Skill retention one week after training did not differ significantly between remote, face-to-face, and control groups](no-retention-difference-three-groups.md) — related
+- [Long-term learning at eight months did not differ significantly between flipped classroom and lecture-based groups](flipped-classroom-no-long-term-learning-difference.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # In progression decision-making, more of the same type of assessment may not improve the decision; a new perspective or new data source may be required, with testing ceasing once information is sufficient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument extrapolating sequential testing from clinical information gathering: 'assessments cease when sufficient information is available on which to base a progress decision', and instead of repeating an assessment, targeted observation, closer supervision, or different assessments might be preferable.
 

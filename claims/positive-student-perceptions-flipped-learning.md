@@ -80,3 +80,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related
+- [Students strongly accept instructional videos as supplementary learning material and desire more of them](high-acceptance-instructional-videos-medical-students.md) — related

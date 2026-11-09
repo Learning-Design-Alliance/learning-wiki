@@ -49,3 +49,4 @@ Secondary correlational analysis of the six attendees' time reductions against t
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — reports the opposite
 - [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — a broader claim this one bears on
 - [Senior residents achieved significantly faster final anastomosis times than junior residents in S-T-S, E-T-S, and E-T-E anastomoses (P=0.039)](senior-faster-final-anastomosis-time-than-junior.md) — related
+- [Gamified simulation-based training improved resident competency, engagement, and narrowed baseline skill disparities across residency programs](gamification-improves-resident-training-engagement.md) — related

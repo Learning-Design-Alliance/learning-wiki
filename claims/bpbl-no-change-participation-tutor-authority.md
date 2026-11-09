@@ -16,12 +16,14 @@ sources:
     author: Shimizu Ikuo, Nakazawa Hideyuki, Sato Yoshihiko, Wolfhagen Ineke H. A. P., Könings Karen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adding e-learning to PBL does not change students' perceptions of active participation or tutors' authority
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Shimizu Ikuo, Nakazawa Hideyuki, Sato Yoshihiko, Wolfhagen Ineke H. A. P., Könings Karen D. (2019). Does blended problem-based learning make Asian medical students active learners?: a prospective comparative study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1575-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Same ANOVA comparison of tutorial group functioning subscales (Table 2): active participation (p = 0.247) and tutors' authority (p = 0.389) did not differ between conditions. The article reports no effect size for these null findings; equivalence was not tested.
 

@@ -49,3 +49,4 @@ Phase 1 survey results (n = 317 respondents; n varies because of missing data). 
 - [Occupational therapists rate their competency highest for the communicator, collaborator and professional roles compared with the other four Profile roles](ot-communicator-collaborator-professional-rated-highest.md) — related
 - [Perceived competency is higher with more time since graduation for the expert and change agent roles, and higher for preceptors in five of seven roles](ot-competency-higher-with-experience-and-preceptor-role.md) — related
 - [Despite being valued, the scholar role receives insufficient time in practice, forcing clinicians to enact it on personal time](ot-scholar-role-enacted-on-personal-time.md) — related
+- [Substantial minorities of managers score below competent in evidence-informed decision-making, resource management and healthcare environment knowledge](hsm-competency-gaps-evidence-resources-knowledge.md) — related

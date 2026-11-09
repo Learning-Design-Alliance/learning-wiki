@@ -16,12 +16,14 @@ sources:
     author: Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher MCAT scores are associated with lower odds of matching into first-choice residency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C. (2019). Student academic performance factors affecting matching into first-choice residency and competitive specialties. BMC Medical Education. https://doi.org/10.1186/s12909-019-1669-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Binary logistic regression in the 1726-graduate cohort. The article reports the odds of matching into first choice "decreasing by 5% per 5-point increment in highest mean MCAT score" after adjustment (OR = 0.95, 95% CI = (0.92, 0.98)); unadjusted decrease was 19%. The article prints no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 

@@ -50,3 +50,4 @@ Linear Mixed Model for the intervention group (n = 18) on the Fresno Test, a per
 - [The EBP course significantly improved ACE test scores in the intervention group, with a 10.8% gain](ebp-course-improves-ace-scores.md) — related
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
 - [The group-by-time interaction was significant for general EBP knowledge and Fresno Test scores but not for the ACE test](group-time-interaction-ebp-outcomes.md) — related
+- [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related

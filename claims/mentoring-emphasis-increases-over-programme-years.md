@@ -16,12 +16,14 @@ sources:
     author: Heeneman Sylvia, de Grave Willem
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mentees in successive years of the programme experienced more mentor emphasis on reflection, personal issues and professional identity development, with mentor presence roughly constant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Heeneman Sylvia, de Grave Willem. (2019). Development and initial validation of a dual-purpose questionnaire capturing mentors’ and mentees’ perceptions and expectations of the mentoring process. BMC Medical Education. https://doi.org/10.1186/s12909-019-1574-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 One-way ANOVA with Bonferroni post-hoc tests comparing Year 1 (n = 38), Year 2 (n = 31) and Year 3 (n = 33) mentee groups on experienced mentoring situations; e.g. Situation 28 rose from 3.56 ± 0.18 to 4.48 ± 0.11 (F = 8.56, p = 0.000).
 

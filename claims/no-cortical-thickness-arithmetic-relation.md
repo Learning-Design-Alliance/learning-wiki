@@ -48,3 +48,4 @@ Exploratory surface-based morphometry analysis using the CAT12 pipeline on the s
 - [In children and adolescents, arithmetic skill is positively related to gray matter volume in the left inferior frontal gyrus and left middle temporal gyrus](arithmetic-skill-left-ifg-mtg-gray-matter-volume.md) — related
 - [Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children](frontal-cortical-thinning-associated-better-arithmetic.md) — reports the opposite
 - Prior structural brain-wide association studies of arithmetic skills used small samples (n = 11 to n = 59), risking inflated, hard-to-replicate effects — related
+- [Higher diligence is associated with less gyrification of the right inferior frontal gyrus (exploratory), with no association for cortical thickness or fractal dimension](diligence-less-right-ifg-gyrification.md) — related

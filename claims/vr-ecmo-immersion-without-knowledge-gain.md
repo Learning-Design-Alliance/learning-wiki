@@ -53,3 +53,4 @@ The review reports a quasi-experimental study of 66 fourth-year nursing students
 - [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — reports the opposite
 - [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](apnea-duration-satisfaction-domain-gains.md) — related
 - [The self-efficacy gain does not extend to shared decision-making confidence, where groups showed no significant difference](self-efficacy-shared-decision-making-null-item.md) — related
+- [Clinical virtual simulation raises nursing students' satisfaction with the learning experience compared with low-fidelity simulation](cvs-raises-learning-satisfaction.md) — related

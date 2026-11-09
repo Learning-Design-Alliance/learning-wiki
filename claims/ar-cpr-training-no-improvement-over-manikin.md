@@ -57,3 +57,5 @@ The review reports, citing Leary et al. (2020), a comparison of an AR CPR traini
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [Simulated communication skills training using augmented reality with real-time feedback increases nursing students' eye contact and empathy versus traditional training](ar-communication-training-eye-contact-empathy.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — reports the opposite
+- [Feedback is essential for learning from simulation-based training](feedback-essential-for-simulation-based-training.md) — related
+- [High-fidelity simulation training produced higher compression fraction than standard low-fidelity manikin training](sim-training-higher-compression-fraction.md) — related

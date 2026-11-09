@@ -16,12 +16,14 @@ sources:
     author: Dapp Laura C., Roebers Claudia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sports-club participation alone shows no significant difference in mathematical achievement compared with non-participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Dapp Laura C., Roebers Claudia M. (2019). The Mediating Role of Self-Concept between Sports-Related Physical Activity and Mathematical Achievement in Fourth Graders. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16152658
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group comparison in the N = 138 cross-sectional sample: sports-club members versus non-members showed no significant difference in HRT math scores; equivalence was not tested. The finding held when girls and boys were analyzed separately.
 

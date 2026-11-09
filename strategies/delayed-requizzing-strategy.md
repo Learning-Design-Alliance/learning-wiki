@@ -53,6 +53,7 @@ The strategy is to take weekly low-stakes quizzes that already count for credit 
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
 - [Cumulative Quizzing](cumulative-quizzing.md)
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
+- [Email the self-study guide to targeted students 6-10 weeks before the exam deadline as a low-resource supplement to existing preparation resources](email-self-study-guide-before-exam-deadline.md)
 
 ## Examples
 -

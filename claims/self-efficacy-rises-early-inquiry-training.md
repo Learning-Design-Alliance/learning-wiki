@@ -52,3 +52,4 @@ Experiment with 61 third-year secondary students (mean age 14.7) randomly assign
 - [Individual students' self-efficacy values did not all increase across trials, with some dropping after the first real-time assessment](individual-self-efficacy-values-not-uniform-increase.md) — related
 - [Group self-efficacy means increased across all five questionnaire trials, from a baseline mean of 6.14 to 9.51 post-intervention](group-self-efficacy-increased-across-five-trials.md) — related
 - [Self-efficacy (GSES) scores were significantly higher in the intervention group at 1 month after on-call initiation](sps-cbl-higher-gses-one-month.md) — related
+- [Physical therapy self-efficacy increases during year two regardless of educational approach](pt-self-efficacy-increases-both-conditions.md) — related

@@ -16,18 +16,22 @@ sources:
     author: Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: sohn-sangho-2019-2
     resource: "https://doi.org/10.3946/kjme.2019.122"
     title: "Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122"
     author: Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Pre- and post-course survey of 97 students using paired t-tests (Table 4); e.g., participation in group discussions rose from 3.38±1.15 to 3.80±1.01 (p<0.001). No effect size is printed.
 
@@ -50,7 +54,7 @@ Pre- and post-course survey of 97 students using paired t-tests (Table 4); e.g.,
 
 Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Paired t-tests on satisfaction items (Table 4), e.g., general satisfaction 3.03±0.97 pre-course vs 3.32±0.98 post-course (p=0.93). The article prints no effect size for this null finding.
 

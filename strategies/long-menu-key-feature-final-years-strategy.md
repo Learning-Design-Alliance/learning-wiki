@@ -47,7 +47,8 @@ The article recommends deploying long-menu questions selectively rather than uni
 - [Key-Feature Problems with Long Menu show higher reliability and higher OSCE correlations than context-rich Single Best Answer questions, with no difference in difficulty](../claims/kfp-long-menu-higher-reliability-osce-correlation-than-crsba.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use problem-solving free-text tasks to test competency-based learning objectives, with e-based long-menu examinations to make evaluation feasible](e-based-long-menu-exams-conditional-knowledge.md)
 
 ## Examples
 -

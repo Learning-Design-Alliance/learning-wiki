@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 104 claims (45 for, 53 mixed, 6 against) · 103 studies (30 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 103 report an effect size · 98 claims rest on one study
+> **Evidence** · 105 claims (46 for, 53 mixed, 6 against) · 104 studies (31 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 104 report an effect size · 99 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [TAPPS produced no significant difference in troubleshooting success rate compared with working silently among secondary-level CTE students](../claims/tapps-no-success-rate-difference-secondary-cte.md) [~W] — attached 2026-11-02 from Michael L. Pate (2011), which proposed "Adopt TAPPS at the secondary level for purposes other than raising success rate or reducing completion time"; tests this page's relationship.
 - [Individual and collaborative study modes of learning objects produced no significant pre-post gain differences in three of four learning units](../claims/lo-modes-no-significant-difference-three-of-four-units.md) [~W] — attached 2026-11-02 from Akpinar (2014), which proposed "Design learning objects for use in multiple study modes, individual and collaborative"; tests this page's relationship.
 - [Pair-trained students achieved higher BOSATS scores than solo-trained students after the second, fourth, and fifth MIS RYGB repetitions](../claims/pair-training-higher-bosats-scores.md) [+W] — attached 2026-11-06 from Cizmic Amila et al. (2025), which proposed "Include pair training in simulation-based MIS training curricula because it reaches proficiency with fewer repetitions at equal or lower resource use"; tests this page's relationship.
+- [Students instructed to prepare in collaborative dyads during the self-study phase of an inverted classroom achieve higher knowledge-test scores than students instructed to prepare individually](../claims/dyadic-self-study-beats-individual-inverted-classroom.md) [+W] — attached 2026-11-09 from Kühl Susanne J. et al. (2019), which proposed "In inverted-classroom designs, instruct learners to prepare in collaborative dyads during the self-study phase"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

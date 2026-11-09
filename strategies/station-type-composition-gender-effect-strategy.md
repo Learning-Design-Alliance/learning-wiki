@@ -17,7 +17,7 @@ sources:
 # Use MMI station type composition to influence expected gender differences in admissions scores
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article derives design implications from the finding that gender differences depend on station type. Institutions wanting to avoid gender effects could use more group stations, where no gender or age effects were detected, while institutions wanting a gender-balancing effect could emphasize simulation and interview stations that favour female candidates. The authors caution that "more knowledge is needed about different dimensions, station types and gender differences in order to derive clear suggestions."

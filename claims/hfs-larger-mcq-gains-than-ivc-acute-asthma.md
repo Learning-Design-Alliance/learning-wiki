@@ -51,3 +51,4 @@ Randomized controlled study of 69 final-year medical students randomized to HFS 
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
 - [Student satisfaction was higher for high-fidelity simulation training than for interactive video-case training](hfs-higher-student-satisfaction.md) — related
 - [Knowledge of asthma diagnosis and treatment improves after simulation training in both groups, with no between-group difference](knowledge-improves-after-asthma-simulation.md) — related
+- [HF and LF simulation training produce equivalent gains in theoretical ALS knowledge in fourth-year medical students](hf-lf-simulation-equivalent-knowledge-gains.md) — related

@@ -51,3 +51,4 @@ Comparative observational analysis of platform registration logs for two single-
 - [New learner registrations on the NSTDC e-learning platform increased 34% in March 2020 and 86% in April 2020 above the prior 12-month monthly average during the early COVID-19 pandemic](nstdc-registrations-surge-covid-19.md) — related
 - [Creation of NSTDC learning groups increased 300% in March 2020 and 467% in April 2020 above the prior 12-month monthly average during the early COVID-19 pandemic](nstdc-learning-group-creation-surge-covid-19.md) — related
 - [Inquiries to use the VP collection increased markedly from April 2020, including new users from Latin America](vp-collection-use-increase-april-2020.md) — related
+- [Monthly click rates on the e-learning platform increased roughly sixfold from the first to the third year after launch, with clinical cases the most used category](elearning-click-rates-increased-three-years.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Transfer to a new scenario after the clerkship is significant in the role-play group (d = 0.62) but not in the SP group (d = 0.41)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik. (2019). Group randomized trial of teaching tobacco-cessation counseling to senior medical students: a peer role-play module versus a standardized patient module. BMC Medical Education. https://doi.org/10.1186/s12909-019-1668-x
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Post-clerkship mini-OSCE used a new scenario differing in the SP's motivational stage, to test transferability of counseling ability. The RP group's gain reached significance with printed effect size d = 0.62 (p = 0.02), while the SP group's did not (d = 0.41, p = 0.15).
 

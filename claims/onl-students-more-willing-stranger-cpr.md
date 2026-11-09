@@ -16,12 +16,14 @@ sources:
     author: Hollenberg Jacob, Claesson Andreas, Ringh Mattias, Nordberg Per, Hasselqvist-Ax Ingela, Nord Anette
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students with other native languages reported greater willingness to perform both compressions and ventilation on a stranger, while Swedish-native-language students preferred chest compressions only
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hollenberg Jacob, Claesson Andreas, Ringh Mattias, Nordberg Per, Hasselqvist-Ax Ingela, Nord Anette. (2019). Effects of native language on CPR skills and willingness to intervene in out-of-hospital cardiac arrest after film-based basic life support training: a subgroup analysis of a randomised trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025531
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Self-reported willingness from a fixed-response questionnaire at both measurement points in the subgroup of 641 students, analysed with logistic regression within generalised estimation equations. The Results quote gives "52% versus 38% directly after training (p<0.001); 42% versus 31% at 6 months (p=0.032)". No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 

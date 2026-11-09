@@ -16,18 +16,22 @@ sources:
     author: Kim Kyong-Jee, Kim Giwoon
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: kim-kyong-jee-2019-2
     resource: "https://doi.org/10.3946/kjme.2019.131"
     title: "Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131"
     author: Kim Kyong-Jee, Kim Giwoon
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # e-MedEdu contents grew from 811 in 2009 to 1,636 in 2018 and faculty contributors grew from 80 to 220, with development fastest on videos and cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive content statistics (Table 1; Fig. 2) on resources at e-MedEdu as of October 2018. Contents grew "from 811 in 2009 to 1,636 in 2018"; the text notes development was active on videos and cases and slow on images. No test applies.
 
@@ -50,7 +54,7 @@ Descriptive content statistics (Table 1; Fig. 2) on resources at e-MedEdu as of 
 
 Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive contributor statistics from the same Results section. Faculty contributors grew from 80 in 2009 to 220 in 2018 across 29 medical schools, with per-faculty contributions ranging from 1 to 334 (median=1). Descriptive only.
 

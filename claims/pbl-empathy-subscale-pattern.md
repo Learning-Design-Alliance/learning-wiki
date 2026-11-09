@@ -52,3 +52,4 @@ Sub-scale paired t-tests in the same pre/post study of 45 students; Table 1 prin
 - [Aging simulation suit improves the Perspective Taking and Compassionate Care subscales of clinical empathy but not Standing in the Patient's Shoes](aging-suit-perspective-taking-compassionate-care.md) — related
 - [Empathic tendency scores changed over time across all groups, rising after simulation and returning near baseline during counseling](empathy-changed-over-time-all-groups.md) — related
 - [Self-assessed empathy (JSPE and IRI subscales) does not differ significantly between students trained with a simulated, incognito, or real patient](no-self-assessed-empathy-difference-sp-ip-rp.md) — related
+- [Role-playing empathy training significantly raises all three Jefferson Scale dimensions — perspective-taking, compassionate care, and standing in patient's shoes — versus control](empathy-training-raises-all-jse-dimensions.md) — related

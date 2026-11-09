@@ -51,3 +51,4 @@ Null mapping finding from the deductive thematic analysis linking parent codes t
 - [Students' feedback literacy experiences during CEA implementation clustered into seven themes](cea-feedback-literacy-seven-themes.md) — related
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](thematic-analysis-lda-topics-set-themes.md) — related
+- [Grounding curriculum development in conceptual frameworks and a systematic process (Kern) enabled scholarly dissemination of a pediatrics curriculum beyond the authors' institution](kern-framework-scholarly-dissemination-pediatrics-curriculum.md) — related

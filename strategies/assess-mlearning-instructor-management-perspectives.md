@@ -47,7 +47,8 @@ The article recommends that universities evaluating m-Learning should not rely o
 - [User friendly design of content correlates highly positively with learner perceptions (r = 0.92961)](../claims/user-friendly-design-positive-correlation-learner-perceptions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
 
 ## Examples
 -

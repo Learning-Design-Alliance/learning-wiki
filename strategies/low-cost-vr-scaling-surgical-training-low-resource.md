@@ -17,7 +17,7 @@ sources:
 # Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends low-cost VR simulation as a scalable approach to surgical training where expensive simulators are infeasible: "The simulation was designed to be run with low-cost standard computer gaming equipment so that it may be more easily scaled in surgical training programs in lower-resource settings." The Zambian research team became self-sufficient after initial training, few technical issues arose, and the system worked effectively under local hospital conditions. The authors also note possible application in higher-resource settings for relearning open surgical approaches.

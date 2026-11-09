@@ -16,12 +16,14 @@ sources:
     author: Russell Kelly, Selci Erin, Black Brian, Cochrane Karis, Ellis Michael
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant difference in pre-to-post-injury change in overall or core school grades between concussion and fracture students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Russell Kelly, Selci Erin, Black Brian, Cochrane Karis, Ellis Michael. (2019). Academic outcomes following adolescent sport-related concussion or fracture injury: A prospective cohort study. PLoS ONE. https://doi.org/10.1371/journal.pone.0215900
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Report-card change analysis comparing overall and core subject grades (English, Sciences, Maths, Social Studies, Foreign Languages) extracted from immediate pre- and post-injury report cards; the study found "no significant differences in change" between injury groups.
 

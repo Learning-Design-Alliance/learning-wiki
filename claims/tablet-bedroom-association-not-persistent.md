@@ -65,3 +65,4 @@ The authors' discussion of the multivariable logistic regression (Table 5) repor
 
 ## Related Claims
 - [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socrative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Socrative is a cloud-based classroom response and assessment application developed by Socrative/Showbie that lets instructors deliver polls and quizzes, collect student responses, and display feedback or aggregate results.

@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (11 for, 6 mixed, 3 against) · 14 studies (8 causal, 3 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 14 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (13 for, 6 mixed, 3 against) · 15 studies (8 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 4 of 15 report an effect size · 22 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -43,6 +43,8 @@ Concrete modeling is the element in which physical or tangible representations a
 - [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](../claims/3d-printed-models-classroom-interactivity.md) [+W] — attached 2026-11-07 from Lisk Kristina (2024), which proposed "De-articulated 3D printed shoulder bone models (clavicle, scapula, humerus) as clinical skills learning adjuncts".
 - [Fourth-year medical students taught DDH with 3D-printed models plus CBL scored higher on post-course theoretical knowledge than students taught with conventional CBL alone](../claims/3d-cbl-higher-post-course-theory-scores-ddh.md) [+W] — attached 2026-11-07 from Feng Shuo et al. (2024), which proposed "Patient-specific 3D-printed DDH hip joint models built from CT data with Mimics, Geomagic and Solidworks"; tests this page's relationship.
 - [Students taught DDH with 3D-printed models plus CBL scored higher on post-course practical skills than students taught with conventional CBL alone](../claims/3d-cbl-higher-post-course-practical-skills-ddh.md) [+W] — attached 2026-11-07 from Feng Shuo et al. (2024), which proposed "Patient-specific 3D-printed DDH hip joint models built from CT data with Mimics, Geomagic and Solidworks"; tests this page's relationship.
+- [3D-printed models of coronary artery anomalies can be feasibly reconstructed and printed from cardiac CT data with accurate anatomical detail](../claims/3d-printed-coronary-anomaly-models-feasible.md) [+W] — attached 2026-11-09 from Lee Matthew et al. (2019), which proposed "Patient-specific 3D-printed coronary artery anomaly models produced from cardiac CT data".
+- [Both clinicians and researchers found 3D-printed coronary models helpful and complementary to viewing 3D CT scans](../claims/3d-models-complementary-to-ct-scans.md) [+W] — attached 2026-11-09 from Lee Matthew et al. (2019), which proposed "Patient-specific 3D-printed coronary artery anomaly models produced from cardiac CT data"; tests this page's relationship.
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

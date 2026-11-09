@@ -16,12 +16,14 @@ sources:
     author: Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Six months after training, the BLS+WEB group asked for an AED, attached electrode pads correctly, and delivered the first shock faster more often than the BLS group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan. (2019). Effectiveness of web-based education in addition to basic life support learning activities: A cluster randomised controlled trial. PLoS ONE. https://doi.org/10.1371/journal.pone.0219341
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Secondary outcomes of the cluster randomised controlled trial, from the discussion summarising retention-test results. Table 2 prints asking for AED at 86.8% vs 79.5% (p = 0.0006) and pads completely in areas at 94.3% vs 85.6% (p < 0.0001); Table 3 prints median time to first shock of 65 vs 68 seconds (p = 0.0004). No standardised effect size is reported.
 

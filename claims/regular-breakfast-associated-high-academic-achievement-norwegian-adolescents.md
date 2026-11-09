@@ -62,3 +62,4 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [The integrated program was associated with improved breakfast habits, school engagement, and academic grades](breakfast-morning-sport-improves-breakfast-habits-engagement-grades.md) — a narrower finding that bears on this claim
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
 - [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite

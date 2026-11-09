@@ -51,3 +51,4 @@ A randomized two-group experiment with 59 pre-service teachers (28 flipped, 31 c
 - [Blended e-learning did not significantly affect vocational students' achievement test scores compared with traditional learning after five weeks](blended-elearning-no-achievement-test-difference.md) — related
 - [The effect size for the indirect strategies group's pre-post improvement was moderate (η2 = 0.03)](indirect-strategies-moderate-effect-size-eta-003.md) — related
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — related
+- [Flipped classroom teaching produces significantly higher immediate post-course EBN knowledge scores than traditional lecture-based instruction](flipped-classroom-immediate-ebn-knowledge-gains.md) — reports the opposite

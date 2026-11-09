@@ -54,3 +54,4 @@ Moderation analyses in the same survey (Table 2, Models 1–4). The article repo
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [Extraversion, Agreeableness, and Conscientiousness are positively associated with non-performance and performance components of academic achievement](personality-traits-academic-achievement-paths.md) — related
 - [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
+- [Extraversion and resilience correlate with lower tutor stress; most other personality traits show no correlation](extraversion-resilience-protective-tutor-stress.md) — related

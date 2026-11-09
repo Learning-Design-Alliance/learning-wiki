@@ -16,12 +16,14 @@ sources:
     author: Akizuki Kazunori, Yamamoto Ryohei, Yamaguchi Kazuto, Yabuki Jun, Ohashi Yukari
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # During practice sessions, concurrent feedback produced significantly higher CPR performance than terminal feedback, but this advantage did not carry over to retention tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Akizuki Kazunori, Yamamoto Ryohei, Yamaguchi Kazuto, Yabuki Jun, Ohashi Yukari. (2019). The effects of feedback timing and frequency on the acquisition of cardiopulmonary resuscitation skills of health sciences undergraduate students: A 2 x 2 factorial quasi randomized study. PLoS ONE 14(7): e0220004. https://doi.org/10.1371/journal.pone.0220004
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Practice-session three-way ANOVA (timing x frequency x session) showed a significant timing main effect (p < 0.001) and a significant timing x measurement-sequence interaction (p = 0.005); post hoc tests favored concurrent feedback on five of six sessions. No effect size printed.
 

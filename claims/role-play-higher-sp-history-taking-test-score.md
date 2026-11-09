@@ -55,3 +55,4 @@ Final-evaluation three-station OSCE with one history-taking station; each studen
 - [Scripted peer role-play students achieve the highest group-based history-taking assessment scores, ahead of non-scripted peer role-play and teacher standardized patients](sprp-highest-group-consultation-scores.md) — related
 - [Scripted peer role-play yields the most complete history taking, with TSP lowest, driven by etiology, symptom-characteristics, and accompanying-symptoms items](sprp-most-complete-history-taking.md) — related
 - [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related
+- [The SP-trained cohort outperformed the roleplay cohort in the clinical communication (history-taking) OSCE domain](sp-cohort-superior-clinical-communication-osce.md) — related

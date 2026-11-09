@@ -17,12 +17,14 @@ sources:
     author: Breckwoldt Jan, Knecht Monika, Massée Ralph, Flach Barbara, Hofmann-Huber Caroline, Kaap-Fröhlich Sylvia, Witt Claudia M., Aeberhard Ruth, Sax Hugo
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # An inter-professional near-peer teaching module in which OR technician trainees teach infection prevention to medical students in a simulated OR is feasible with high satisfaction ratings from both student groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Breckwoldt Jan, Knecht Monika, Massée Ralph, Flach Barbara, Hofmann-Huber Caroline, Kaap-Fröhlich Sylvia, Witt Claudia M., Aeberhard Ruth, Sax Hugo. (2019). Operating room technician trainees teach medical students - an inter-professional peer teaching approach for infection prevention strategies in the operation room. Antimicrobial Resistance and Infection Control. https://doi.org/10.1186/s13756-019-0526-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive questionnaire evaluation after a single 2-h simulated-OR module with eight training groups of four ORTT and five to six MDS each; all participants (n = 32 ORTT, n = 46 MDS) completed the course and questionnaires. Mean overall satisfaction was "+ 1.91 (±0.3) for MDS and + 1.66 (±0.6 SD) for ORTT".
 

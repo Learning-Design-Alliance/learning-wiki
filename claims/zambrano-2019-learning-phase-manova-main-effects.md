@@ -52,3 +52,4 @@ Omnibus MANOVA over learning-phase performance, mental effort, and efficiency: g
 - [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related
 - [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](zambrano-2019-experienced-groups-outperform-inexperienced.md) — related
 - [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](zambrano-2019-low-density-benefit-shortlived.md) — related
+- [Study group and performance domain interact strongly, indicating format effects differ across algorithm, temporal, and quality domains](group-by-domain-interaction-pbls-domains.md) — related

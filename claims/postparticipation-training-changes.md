@@ -16,12 +16,14 @@ sources:
     author: Halls Amy, Kanagasundaram Mohan, Lau-Walker Margaret, Diack Hilary, Bettles Simon
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # All three centres changed staff training and equipment practices after the simulation, mainly to increase equipment familiarity and training frequency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Halls Amy, Kanagasundaram Mohan, Lau-Walker Margaret, Diack Hilary, Bettles Simon. (2019). Using in situ simulation to improve care of the acutely ill patient by enhancing interprofessional working: a qualitative proof of concept study in primary care in England. BMJ Open. https://doi.org/10.1136/bmjopen-2018-028572
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Reported in the Discussion as an outcome observed across the three participating centres after the simulation and debrief. Staff also suggested everyone on site should know how to use emergency equipment. No effect sizes are reported.
 

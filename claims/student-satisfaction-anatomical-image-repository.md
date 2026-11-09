@@ -52,3 +52,4 @@ Anonymous satisfaction survey of 54 students (60% of quiz participants; 30% of a
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
 - [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related
+- [Residents unanimously rated the module's embedded self-assessment checkpoint questions as helpful for reinforcing learning](embedded-checkpoint-questions-rated-helpful.md) — related

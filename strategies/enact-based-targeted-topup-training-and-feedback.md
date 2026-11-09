@@ -47,6 +47,7 @@ The article recommends that future feasibility studies use tools like ENACT-E in
 
 - [Schedule top-up or refresher sessions after short SBE workshops to maintain knowledge gains](top-up-sessions-maintain-sbe-gains.md)
 - [Provide structured sandwich feedback immediately after DOPS assessment as an alternative to traditional apprenticeship feedback](sandwich-feedback-after-dops-strategy.md)
+- [Use goal-setting, reflection, gamification, and video review to enhance feedback in simulation curricula](feedback-enhancement-strategies-sbt.md)
 
 ## Examples
 -

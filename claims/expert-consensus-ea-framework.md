@@ -55,3 +55,4 @@ Expert consultation procedure: a synchronous Zoom meeting (~60 min) with seven e
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [In Round 1 at least 80% of experts fundamentally agreed with the preliminary competencies, but suggested amendments that led to revisions, additions, and renaming of the Soft Skills area](round1-high-agreement-with-amendments.md) — related
 - [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
+- [Experts unanimously agree HI is grossly under-represented in UK postgraduate medical training and should be universal and integrated, not stand-alone](experts-hi-underrepresented-universal-integrated.md) — related

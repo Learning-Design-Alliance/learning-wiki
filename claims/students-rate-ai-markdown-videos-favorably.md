@@ -56,3 +56,4 @@ Descriptive post-test survey of 170 computing students at two U.S. institutions 
 - [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related
 - [Students rate the smartphone video learning materials positively, but about half report videos freezing](student-questionnaire-video-freezing-issue.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
+- [Students strongly accept instructional videos as supplementary learning material and desire more of them](high-acceptance-instructional-videos-medical-students.md) — related

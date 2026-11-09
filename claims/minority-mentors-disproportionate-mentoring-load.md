@@ -48,3 +48,4 @@ The commentary argues, from its intersectionality analysis and interviewee accou
 ## Related Claims
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
+- [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related

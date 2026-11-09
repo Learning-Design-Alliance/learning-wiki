@@ -44,7 +44,8 @@ In the pilot, after "weekly email reminders to use the preparation materials", s
 - [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](../claims/low-implementation-fidelity-comparison-materials.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Email the self-study guide to targeted students 6-10 weeks before the exam deadline as a low-resource supplement to existing preparation resources](email-self-study-guide-before-exam-deadline.md)
 
 ## Examples
 -

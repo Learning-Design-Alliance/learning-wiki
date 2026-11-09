@@ -54,3 +54,4 @@ Subgroup analysis by profession and training status (Table 3) in the cross-secti
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
 - [Students' trust in peers' clinical answers depends on perceived sense of authority and position of authority](trust-sense-and-position-of-authority-tbl.md) — related
 - [Most pediatric residents report insufficient ECG training and lack confidence in their ECG readings](residents-report-insufficient-ecg-training-low-confidence.md) — related
+- [Self-assessed knowledge and skills for pediatric emergencies differed significantly by profession and qualification level, with residents reporting the lowest preparedness](self-assessed-emergency-preparedness-residents-lowest.md) — related

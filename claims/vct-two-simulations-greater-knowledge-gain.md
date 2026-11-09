@@ -48,3 +48,4 @@ Repeated-measures ANOVA in a three-arm quasi-experimental study (N=525) comparin
 - [All students improved experimental design knowledge after simulation exposure (main effect of time)](vct-knowledge-main-effect-of-time.md) — related
 - [Any simulation exposure slightly improved scientific possible selves, but two simulations conferred no additional benefit](vct-possible-selves-small-gain-no-dose-effect.md) — related
 - [Exposure to two simulations produced greater gains in positive attitudes toward clinical trials than exposure to one](vct-two-simulations-greater-attitude-gain.md) — related
+- [Knowledge gains over time are group dependent: significant time × group interaction favoring the virtual simulation group](cvs-time-group-interaction-knowledge.md) — related

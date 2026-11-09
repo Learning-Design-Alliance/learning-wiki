@@ -50,3 +50,4 @@ Repeated-measures ANOVA on the clinical trials attitude scale (N=525). The artic
 - [All students improved experimental design knowledge after simulation exposure (main effect of time)](vct-knowledge-main-effect-of-time.md) — related
 - [Simulation exposure produced no detectable change in clinical trials career interest](vct-no-career-interest-change.md) — related
 - [Simulations benefited students regardless of gender or ethnicity, though females were more satisfied and minorities more engaged](vct-benefits-across-gender-ethnicity.md) — related
+- [Knowledge gains over time are group dependent: significant time × group interaction favoring the virtual simulation group](cvs-time-group-interaction-knowledge.md) — related

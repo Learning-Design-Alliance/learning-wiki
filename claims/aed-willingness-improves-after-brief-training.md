@@ -51,3 +51,4 @@ Pre-post questionnaire results from the same sample of 98 university students of
 - [Confidence in using a defibrillator rose significantly from 38.8% to 67.9% from pre-test to post-test in one group with no comparison group](defibrillator-confidence-increase.md) — related
 - [Most future schoolteachers value first-aid training and are willing to include BLS content in lessons with their students](teachers-willing-to-teach-bls.md) — related
 - [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related
+- [Teaching experience increased students' self-reported confidence to apply and teach BLS](teaching-raises-student-bls-confidence.md) — related

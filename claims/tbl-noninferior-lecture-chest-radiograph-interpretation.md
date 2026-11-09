@@ -52,3 +52,4 @@ Quasi-experimental cohort comparison with two consecutive PA student cohorts (87
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
 - [A brief resident-led checklist-guided session significantly improved chest radiograph interpretation scores over lecture-only instruction](checklist-session-improves-cxr-interpretation.md) — related
+- [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related

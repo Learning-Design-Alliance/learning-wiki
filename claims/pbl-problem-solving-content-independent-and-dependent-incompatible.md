@@ -51,3 +51,5 @@ Theoretical argument from the article's historical analysis. Barrows's PBL probl
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — a broader claim this one bears on
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
 - [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md) — related
+- [Problem-based medical education rests on a biomedical worldview that entrenches deterministic thinking about socioculturally-influenced health disparities](pbl-biomedical-worldview-entrenches-determinism.md) — related
+- [PBL case vignettes cast trainee-physicians as problem-solvers of individual biomedical problems abstracted from social circumstances](pbl-case-vignettes-cast-problem-solvers.md) — related

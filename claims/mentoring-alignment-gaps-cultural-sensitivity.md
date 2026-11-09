@@ -16,12 +16,14 @@ sources:
     author: Heeneman Sylvia, de Grave Willem
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mentors and mentees show both alignment and gaps in perceived critical incidents, with cultural sensitivity a top gap for both groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Heeneman Sylvia, de Grave Willem. (2019). Development and initial validation of a dual-purpose questionnaire capturing mentors’ and mentees’ perceptions and expectations of the mentoring process. BMC Medical Education. https://doi.org/10.1186/s12909-019-1574-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive gap analysis comparing experienced situations (question 1) with deemed-important situations (question 2) for mentees (n = 103) and mentors (n = 20); the cultural item scored 2.06 ± 0.34 (n = 17) for mentees and 2.31 ± 0.25 (n = 16) for mentors.
 

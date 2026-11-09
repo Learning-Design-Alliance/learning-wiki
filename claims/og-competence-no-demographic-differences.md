@@ -51,3 +51,4 @@ Null comparison across the 201-physician sample using t-tests for gender and tra
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related
 - [Academic adaptability differs significantly by gender, age, and grade but not by student type or residence](adaptability-demographic-differences-gender-age-grade.md) — related
+- [Baseline communication ratings did not differ significantly by PGY level or gender](no-baseline-communication-difference-pgy-gender.md) — related

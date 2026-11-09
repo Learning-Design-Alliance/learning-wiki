@@ -49,3 +49,4 @@ Quantitative analysis of assessor roles recorded on EPAA e-forms. The article re
 - [EPA assessment activity varied substantially across individual units, even within the same specialty](epa-activity-varies-substantially-across-units.md) — related
 - [EPA assessment frequency varied by type, with EPA1 most frequent and EPA2 least frequent](epa-assessment-frequency-varies-by-type.md) — related
 - [EPA assessments were feasible for interns across specialties, with 738 EPAAs submitted by 119 interns and 283 assessors, mostly completed in 10 minutes or less](epa-assessments-feasible-for-interns-national-framework-pilot.md) — related
+- [Feedback type in Mini-CEX forms was significantly associated with the assessor's clinical position, with consultants, GPs and registrars/fellows showing different patterns](minicex-feedback-assessor-position-association.md) — related

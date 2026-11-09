@@ -16,12 +16,14 @@ sources:
     author: Brede Jostein Rødseth, Lafrenz Thomas, Krüger Andreas J, Søvik Edmund, Steffensen Torjus, Kriesi Carlo, Steinert Martin, Klepstad Pål
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Simultaneous REBOA performance did not interfere with ACLS quality in simulated cardiac arrest resuscitation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Brede Jostein Rødseth, Lafrenz Thomas, Krüger Andreas J, Søvik Edmund, Steffensen Torjus, Kriesi Carlo, Steinert Martin, Klepstad Pål. (2019). Resuscitative endovascular balloon occlusion of the aorta (REBOA) in non-traumatic out-of-hospital cardiac arrest: evaluation of an educational programme. BMJ Open. https://doi.org/10.1136/bmjopen-2018-027980
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Feedback gathered in semistructured debriefing sessions after each high-fidelity simulation, led by the two observers with all team members participating. Teams' self-reported perceptions, not an independently measured ACLS quality metric.
 

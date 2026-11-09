@@ -54,3 +54,5 @@ An fMRI study using an appetitive go/no-go variant with happy and calm face cues
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
 - [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
 - [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related
+- [Participants respond faster to happy go trials than neutral go trials, and happy faces are rated as rewarding](faster-responses-rewarding-happy-faces.md) — related
+- [Ventral striatum activation shows an inhibition × emotion interaction: it is lower for happy no-go than happy go trials, with the reverse pattern for neutral trials](vs-inhibition-emotion-interaction.md) — related

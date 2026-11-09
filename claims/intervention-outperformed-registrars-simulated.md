@@ -16,12 +16,14 @@ sources:
     author: Lydon Sinéad, Reid McDermott Bronwyn, Ryan Ethel, O’Connor Paul, Dempsey Sharon, Walsh Chloe, Byrne Dara
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Post-intervention, trained senior house officers performed lumbar puncture with significantly higher accuracy than more senior paediatric registrars in the simulated setting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lydon Sinéad, Reid McDermott Bronwyn, Ryan Ethel, O’Connor Paul, Dempsey Sharon, Walsh Chloe, Byrne Dara. (2019). Can simulation-based education and precision teaching improve paediatric trainees’ behavioural fluency in performing lumbar puncture? A pilot study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1553-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Between-groups comparison in the simulated setting: the 10 trained senior house officers versus 10 paediatric registrars (comparator group A) tested under conditions equivalent to baseline testing. Only the test statistic and medians are printed; no effect size is reported. Comparator group A was not tested at baseline, a design limitation the authors acknowledge.
 

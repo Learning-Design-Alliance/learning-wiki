@@ -50,3 +50,4 @@ Correlational analysis of NOTSS scores against phase duration in the 30-case cro
 - [Acceleration of team displacement is positively correlated with overall NOTSS scores in cardiac surgery teams](team-displacement-acceleration-positively-correlated-notss.md) — related
 - [Regression models adjusted for patient factors associate team trajectory and entropy with NOTSS scores, with moderate explanatory power](regression-motion-features-notss-adjusted-patient-factors.md) — related
 - [Better team shared mental models in VATS lobectomy teams relate to shorter surgery duration and less intraoperative bleeding](shared-mental-models-shorter-surgery-less-bleeding.md) — related
+- [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related

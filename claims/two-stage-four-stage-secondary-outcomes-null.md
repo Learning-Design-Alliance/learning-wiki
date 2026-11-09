@@ -16,18 +16,22 @@ sources:
     author: Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bomholt-katrine-bjørnshave-2019-2
     resource: "https://doi.org/10.1155/2019/1394972"
     title: "Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo. (2019). Three-Month Retention of Basic Life Support with an Automated External Defibrillator Using a Two-Stage versus Four-Stage Teaching Technique. BioMed Research International. https://doi.org/10.1155/2019/1394972"
     author: Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # At three months, the two-stage and four-stage groups differed in one individual skill (ensuring safety) but not in quality of chest compressions or rescue breaths
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo. (2019). Three-Month Retention of Basic Life Support with an Automated External Defibrillator Using a Two-Stage versus Four-Stage Teaching Technique. BioMed Research International. https://doi.org/10.1155/2019/1394972
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Blinded video assessment of individual ERC checklist actions at three-month retention testing. Table 2 prints ensuring safety at 60 (92%) two-stage versus 48 (75%) four-stage with p=0.015; the article does not discuss or explain this single difference, so it may be a chance finding.
 
@@ -50,7 +54,7 @@ Blinded video assessment of individual ERC checklist actions at three-month rete
 
 Bomholt Katrine Bjørnshave, Krogh Lise Qvirin, Bomholt Svend Rosendahl, Nebsbjerg Mette Amalie, Thim Troels, Løfgren Bo. (2019). Three-Month Retention of Basic Life Support with an Automated External Defibrillator Using a Two-Stage versus Four-Stage Teaching Technique. BioMed Research International. https://doi.org/10.1155/2019/1394972
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Manikin-sampled and video-assessed compression and ventilation quality measures at three months (e.g., compression rate 108 vs 107 min−1, p=0.78; compression depth 43 vs 46 mm, p=0.12). The article notes some tidal volume data missing (n = 8 and n = 6) due to technical difficulties.
 

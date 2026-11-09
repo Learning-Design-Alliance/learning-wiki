@@ -16,12 +16,14 @@ sources:
     author: Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik. (2019). Group randomized trial of teaching tobacco-cessation counseling to senior medical students: a peer role-play module versus a standardized patient module. BMC Medical Education. https://doi.org/10.1186/s12909-019-1668-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Paired t-tests on the four OSCE components (patient satisfaction, history taking, patient education, patient-physician interaction) showed "the PPI component improved significantly after the SP module only", while HT and PE improved in both groups; component data were not shown in the figure.
 

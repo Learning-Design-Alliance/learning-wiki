@@ -16,12 +16,14 @@ sources:
     author: Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Both teaching methods significantly improved quiz scores from pre- to post-quiz within each group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong. (2019). Implementation of flipped classroom combined with problem-based learning: an approach to promote learning about hyperthyroidism in the endocrinology internship. BMC Medical Education. https://doi.org/10.1186/s12909-019-1714-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Paired-sample t-tests in the same randomized trial showed significant pre-to-post improvement in both quiz domains in both groups. Only p-values are printed; no effect sizes are printed.
 

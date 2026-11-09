@@ -17,12 +17,14 @@ sources:
     author: Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The prediction of OSCE communication performance by MMI scores did not differ across sociodemographic subgroups, supporting the predictive fairness of the Hamburg MMI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S. (2019). Exploring sociodemographic subgroup differences in multiple mini-interview (MMI) performance based on MMI station type and the implications for the predictive fairness of the Hamburg MMI. BMC Medical Education. https://doi.org/10.1186/s12909-019-1674-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regression on the student sample (N = 400). Model 1 showed a significant MMI main effect (b = 2.15, p = 0.001); Model 2 added interactions (zMMI x Male b = -1.91, p = 0.127; zMMI x 21-and-older b = -1.10, p = 0.396; zMMI x physician-parent b = 1.08, p = 0.409), none significant. German as first language was excluded due to multicollinearity (tolerance < 0.10).
 

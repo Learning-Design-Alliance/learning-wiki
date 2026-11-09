@@ -52,3 +52,4 @@ Same one-group pre-test–post-test study (n = 103). TCTDI total rose from "86.2
 - [First-year nursing students' self-reflection scores rose significantly from pre-test to post-test after an experiential learning program, in one uncontrolled pre-post study](elp-increased-self-reflection-nursing-freshmen.md) — related
 - [Self-reflection and critical thinking scores were significantly positively correlated in first-year nursing students](self-reflection-critical-thinking-positive-correlation-nursing.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related
+- [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related

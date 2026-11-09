@@ -49,3 +49,4 @@ SEM structure model in 1202 medical students reported in Results: "both BMI (β 
 - [Socioeconomic conditions (father's education, mother's occupation) indirectly affect GMKT performance via psychological/personality features and BMI, with no significant direct effect](socioeconomic-indirect-gmkt-pathway.md) — related
 - [Seven nonacademic variables are selected as predictors of GMKT performance from 98 candidate nonacademic factors in Chinese medical students](seven-nonacademic-predictors-gmkt.md) — related
 - [Longer working memory reaction time predicts lower GMKT performance, but working memory accuracy shows no such correlation](working-memory-rt-negative-gmkt.md) — related
+- [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related

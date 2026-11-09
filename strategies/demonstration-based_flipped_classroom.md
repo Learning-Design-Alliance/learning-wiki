@@ -68,6 +68,7 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Run the distance wet lab as a five-week course with weekly interactive lectures and two recorded, graded assignments per week sequenced across phacoemulsification steps](five-week-sequential-distance-phaco-wet-lab-course.md)
+- [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 
 ## Examples
 - Engineering courses using screencasts to demonstrate CAD software techniques, then dedicating lab sessions to instructor-supervised modeling tasks.

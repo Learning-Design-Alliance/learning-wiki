@@ -58,3 +58,4 @@ Model-fit comparison of five competing SEMs (Table 5), with the hypothesized mod
 - [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related
 - [The EU→EM→achievement cascade proposed by the cascading model of EI is not supported for academic achievement](no-eu-em-cascade-academic-achievement.md) — related
 - [An alternate model shows family income is also directly associated with youth stress about needs, and a reverse-causality model fits worse](alternate-models-income-direct-youth-needs.md) — related
+- [A path model shows HIV status relates to worse educational outcomes through cascades of cognitive, mental-health and physical-health difficulties](path-model-hiv-educational-cascade.md) — a broader claim this one bears on

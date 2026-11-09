@@ -52,6 +52,7 @@ The article recommends that hospital management, training institutions and the n
 
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Modify the Vietnamese physical therapy curriculum and use journal clubs to build EBP capacity and reduce the English language barrier](curriculum-and-journal-club-strategy-for-ebp-vietnam.md)
 
 ## Examples
 -

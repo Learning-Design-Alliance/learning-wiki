@@ -55,3 +55,4 @@ Multi-categorical mediation (PROCESS, 5000 bootstrap samples) on the full sample
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](input-timing-no-effect-knowledge-case-comparison.md) — related
+- [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related

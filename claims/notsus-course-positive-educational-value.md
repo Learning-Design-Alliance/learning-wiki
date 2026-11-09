@@ -57,3 +57,4 @@ Post-simulation evaluation questionnaire with 5-point Likert items and comment b
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
+- [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related

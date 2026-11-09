@@ -56,3 +56,4 @@ Psychometric validation of the 11-item satisfaction questionnaire using principa
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
 - [The Spanish SCLS shows high internal consistency, with Cronbach's alpha of .885 for the total questionnaire and above .81 for both dimensions](scls-spanish-high-internal-consistency.md) — related
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
+- [The 57-item questionnaire yields a two-factor structure of social functioning and academic functioning with good internal consistency](two-factor-social-academic-questionnaire-structure.md) — related

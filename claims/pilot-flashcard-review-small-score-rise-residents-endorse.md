@@ -16,6 +16,8 @@ sources:
     author: Morin CE, Hostetter JM, Jeudy J, Kim WG, McCabe JA, Merrow AC, Ropp AM, Shet NS, Sidhu AS, Kim JS
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: morin-ce-2019-2
     resource: "https://doi.org/10.1007/s00247-019-04415-3"
     title: "Morin CE, Hostetter JM, Jeudy J, Kim WG, McCabe JA, Merrow AC, Ropp AM, Shet NS, Sidhu AS, Kim JS. (2019). Spaced radiology: encouraging durable memory using spaced testing in pediatric radiology. Pediatric Radiology. https://doi.org/10.1007/s00247-019-04415-3"
@@ -42,7 +44,7 @@ sources:
 
 Morin CE, Hostetter JM, Jeudy J, Kim WG, McCabe JA, Merrow AC, Ropp AM, Shet NS, Sidhu AS, Kim JS. (2019). Spaced radiology: encouraging durable memory using spaced testing in pediatric radiology. Pediatric Radiology. https://doi.org/10.1007/s00247-019-04415-3
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Unpublished pilot study by the authors: eighteen residents reviewed an 84-card deck of adult chest radiographs twice, separated by a 2-week didactic block. The article reports "a small increase" of 10% with no test statistic or effect size.
 

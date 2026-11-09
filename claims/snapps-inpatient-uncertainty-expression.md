@@ -24,12 +24,14 @@ sources:
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Open-label randomized controlled trial with case presentations as the unit of an
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Same trial, same unit of analysis. "Almost all students in the SNAPPS group formulated uncertainties and sought clarification as compared to only 60% in the control group (96.29% vs.59.26%, p value =0.0031)."
 

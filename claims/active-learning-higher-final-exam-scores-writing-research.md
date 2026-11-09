@@ -57,3 +57,4 @@ Quasi-experimental comparison of two groups of female students (n=137 control, n
 - [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](fc-neurosurgery-higher-mean-score.md) — related
 - [Flipped-section students average significantly more correct answers on the 50 common comprehensive final exam questions than non-flipped students](flipped-higher-common-final-exam.md) — related
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
+- [Students taught with a flipped classroom methodology obtained higher quantitative exam grades than students taught with lecture-based learning in a social work university course](flipped-classroom-higher-quantitative-exam-grades-social-work.md) — related

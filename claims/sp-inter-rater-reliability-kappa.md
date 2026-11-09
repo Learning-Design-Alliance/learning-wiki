@@ -70,3 +70,4 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
 - [Extreme mismatches between modified ACIRS and ECRS scores appear driven by medical-knowledge checklist performance rather than empathetic communication](acirs-ecrs-mismatch-driven-by-medical-knowledge.md) — related
+- [The communication assessment tool showed high internal-consistency reliability (Cronbach's alpha 0.88–0.96) across the nine scenarios](communication-tool-internal-consistency-088-096.md) — related

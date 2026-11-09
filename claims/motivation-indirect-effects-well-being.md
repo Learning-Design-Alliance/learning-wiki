@@ -16,6 +16,8 @@ sources:
     author: Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
   - id: phan-hp-2019-2
     resource: "https://doi.org/10.1371/journal.pone.0215732"
     title: "Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih (2019). Achieving optimal best practice: An inquiry into its nature and characteristics. PLoS ONE. https://doi.org/10.1371/journal.pone.0215732"
@@ -51,7 +53,7 @@ sources:
 
 Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih (2019). Achieving optimal best practice: An inquiry into its nature and characteristics. PLoS ONE. https://doi.org/10.1371/journal.pone.0215732
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Decomposition of indirect effects in the SEM of the 1010-student sample. The results list "The indirect effect of motivation towards learning on personal well-being, mediated by optimal best practice (β = .20, p < .01)"; β = .20 is a medium standardized effect.
 

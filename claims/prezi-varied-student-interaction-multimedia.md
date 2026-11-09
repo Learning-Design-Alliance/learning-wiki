@@ -16,12 +16,14 @@ sources:
     author: Hyll Mary, Schvarcz Robert, Manninen Katri
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students interacted with the presentation in varied ways, with multimedia engagement stimulating learning for some and distracting for others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hyll Mary, Schvarcz Robert, Manninen Katri. (2019). Exploring how medical students learn with the help of a digital presentation: a qualitative study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1569-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the interview content analysis, students described watching, pausing, transcribing and repeating unclear sections; they "experienced the multimedia presentation as better than reading only text" because it engaged several senses, but the sound caused confusion for some when on-screen words did not match the narration.
 

@@ -56,3 +56,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
 - [Focus group analysis of simulation participants yields four themes — learning (32.6%), self-efficacy (29%), simulation method (21.3%), and development (16.5%)](focus-group-four-themes-als-simulation.md) — related
 - [A thematic analysis of an experts' symposium identified nine major suggestions for improving communication-competencies assessment in high-stakes OSCEs, classified into four areas](symposium-nine-suggestions-communication-osce.md) — related
+- [Participating international medical students reported benefiting from technical and didactic as well as social learning experiences in the peer-guided course](peerguided-course-qualitative-benefits-international-students.md) — related

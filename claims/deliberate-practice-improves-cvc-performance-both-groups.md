@@ -72,3 +72,4 @@ Before the process-oriented interventions, after web-based cognitive training, t
 - [Participation in the simulation-based CVC training session significantly increased learner knowledge test scores](sim-cvc-training-increased-knowledge.md) — a narrower finding that bears on this claim
 - [Failure rate of ultrasound-guided internal jugular CVC placement does not differ between non-proficient and proficient residents under direct consultant supervision](cvc-failure-rate-proficiency-no-difference.md) — related
 - [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](process-oriented-feedback-positive-student-reaction-cvc.md) — related
+- [Self-guided simulation practice produced checklist and GRS performance equal to coached simulation practice, cautioning against excessive external feedback](self-guided-practice-equals-coached-practice.md) — related

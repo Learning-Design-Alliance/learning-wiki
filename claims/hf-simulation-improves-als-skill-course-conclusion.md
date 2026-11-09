@@ -63,3 +63,6 @@ Meta-analysis of 21 RCTs measuring skill performance at course conclusion. The p
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — related
 - [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — reports the opposite
 - [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related
+- [HF and LF simulation training produce equivalent gains in theoretical ALS knowledge in fourth-year medical students](hf-lf-simulation-equivalent-knowledge-gains.md) — related
+- [LF participants' fear of being disadvantaged decreased significantly after experiencing LF training](lf-fear-of-disadvantage-decreased.md) — related
+- [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — reports the opposite

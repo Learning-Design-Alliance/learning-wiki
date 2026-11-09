@@ -49,3 +49,4 @@ Pre-post-follow-up study of 91 dental interns (of 161 invited) completing a vali
 - [Management competency improved by 13.5% immediately after the lecture but declined by 6% at the two-month follow-up](management-competency-gain-declines-at-follow-up.md) — related
 - [Prescription competency improved after the lecture but returned to nearly baseline level at two-month follow-up](prescription-competency-decays-to-baseline.md) — a narrower finding that bears on this claim
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — related
+- [Online father engagement training improves practitioner competencies, but confidence, competence and perceived effectiveness deteriorate from post-training to 2-month follow-up](ot-competencies-deteriorate-at-follow-up.md) — related

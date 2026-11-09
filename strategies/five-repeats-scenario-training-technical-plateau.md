@@ -17,7 +17,7 @@ sources:
 # Provide about five repeats of scenario training after an introductory session for the technical core, and train basket stone retrieval separately according to each trainee's skill level
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors derive a curriculum recommendation from their own plateau observations: "Based on our observation that OSATS scores reached a plateau in the 5th and 6th sessions, we consider that five repeats of scenario-training of stone treatment after the introduction session would be sufficient to learn the core tasks of stone surgery regarding technical aspects." Basket training is treated as a separable component, since the timed basket-catch step was the only one not accomplished and its completion time did not improve across sessions.

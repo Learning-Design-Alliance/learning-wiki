@@ -51,6 +51,7 @@ The article recommends "fostering a positive learning environment that requires 
 - [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 - [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
+- [Lecturers should use interactive, student-oriented teaching and foster students' self-regulating learning skills](interactive-teaching-self-regulation-skills-medical-students.md)
 
 ## Examples
 -

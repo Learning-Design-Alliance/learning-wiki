@@ -61,3 +61,4 @@ CTDI-CV comparison in the randomized study (n = 79 per group): total score 301.5
 - [AI-empowered scenario-based simulation teaching produced higher clinical critical thinking scores than traditional teaching](ai-scenario-simulation-higher-clinical-critical-thinking.md) — related
 - [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](mind-mapping-improves-critical-thinking-disposition-nursing.md) — related
+- [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related

@@ -48,3 +48,4 @@ Descriptive survey findings from the 299 research assistants. The article report
 ## Related Claims
 - [A SCAS cut-off score of 92 distinguishes research assistants participating in at least one publication or project, with AUC 0.669](scas-cut-off-92-roc-auc-0669.md) — related
 - [Foreign language knowledge, EBP training, following publications, scientific event participation, and research experience each associate with higher EBP and CDM scores](professional-engagement-factors-higher-ebp-cdm.md) — related
+- [English reading competence is the most critical barrier to applying EBP among Vietnamese physical therapists](english-competence-top-barrier-ebp-vietnam.md) — related

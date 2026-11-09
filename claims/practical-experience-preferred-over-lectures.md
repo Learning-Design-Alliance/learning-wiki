@@ -59,3 +59,4 @@ Focus-group theme on practical experience: students wanted opportunities to prac
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
 - [Trainees rated interactive lectures the most beneficial boot camp component, ahead of simulated case scenarios and procedural skills training](ent-boot-camp-interactive-lectures-preferred.md) — reports the opposite
 - [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related
+- [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related

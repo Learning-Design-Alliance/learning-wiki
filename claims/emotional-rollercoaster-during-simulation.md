@@ -72,3 +72,4 @@ The review reports, citing Fraser and McLaughlin (2018), a survey study of medic
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
 - [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — related
+- [Tutors maintain consistently high positive affect and low negative affect during teaching](tutors-high-positive-affect-low-negative-affect.md) — related

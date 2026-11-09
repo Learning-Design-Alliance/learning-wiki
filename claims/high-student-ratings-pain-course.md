@@ -51,3 +51,4 @@ Student evaluation of the course in the randomized study: simulation rated 1.1, 
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
+- [Students rated the Moodle e-learning environment very good, with average scores between 1.54 and 1.75 on a six-point scale](moodle-course-rated-very-good-154-175.md) — related

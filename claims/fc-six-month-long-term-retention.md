@@ -51,3 +51,4 @@ Six-month long-term test covering FC #1 and #2 topics, second semester, 15 quest
 - [Pre-seminar preparation did not clearly determine flipped-classroom test gains, and unprepared students were noninferior to conventional students](fc-preparation-noninferior-unprepared.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Participants judged pharmacology teaching insufficient, recommending it be taught for more than one semester](nqn-pharmacology-insufficient-content.md) — related
+- [Long-term learning at eight months did not differ significantly between flipped classroom and lecture-based groups](flipped-classroom-no-long-term-learning-difference.md) — related

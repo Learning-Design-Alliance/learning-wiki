@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: mixed
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: griffin-cora-2019
     resource: "https://doi.org/10.1007/s00345-019-02920-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Truta et al.'s single-day CRM course produced significant NTS improvement two months later in all aspects of NTS for all levels of training, and Yee et al. showed improvement at 1 and 2 months in all NTS categories. [→ Griffin Cora 2019](#griffin-cora-2019)

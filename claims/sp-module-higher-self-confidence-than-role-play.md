@@ -16,12 +16,14 @@ sources:
     author: Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik. (2019). Group randomized trial of teaching tobacco-cessation counseling to senior medical students: a peer role-play module versus a standardized patient module. BMC Medical Education. https://doi.org/10.1186/s12909-019-1668-x
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Group-randomized trial comparing self-administered ten-point Likert self-confidence ratings pre- and post-intervention. The SP group scored higher at both time points, with a printed effect size of d = 0.37 (p = 0.01) for the post-intervention between-group difference.
 

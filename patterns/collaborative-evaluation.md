@@ -24,7 +24,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (7 for, 14 mixed) · 41 studies (15 causal, 7 quant-synthesis, 7 associational, 5 theoretical, 3 review, 3 qualitative, 1 design), `q1`–`q4` · 5 of 41 report an effect size · 7 claims rest on one study
+> **Evidence** · 22 claims (8 for, 14 mixed) · 42 studies (15 causal, 7 quant-synthesis, 7 associational, 5 theoretical, 3 review, 3 qualitative, 2 design), `q1`–`q4` · 5 of 42 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -126,6 +126,7 @@ Claims the earlier page cited. Each keeps its old direction, capped by the claim
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — a review and a theoretical synthesis. Bears on the last step (comparing one's own work with a target and revising); no study of evaluation activities.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — one narrative review of goal-setting research (capped from the earlier `[~S]` to its recorded evidence). It does not bear on evaluating work, except as a general argument for explicit criteria.
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M] — rests on the same Double et al. (2020) entry as the peer assessment claim above, with the same subclaim; a duplicate of it, not a second study.
+- [Structured CCC discussions based on multiple assessment data and perspectives identify problematic and excellent resident performance that individual members would not have recognized](../claims/ccc-group-discussion-identifies-problematic-excellent-performance.md) [+W] — attached 2026-11-09 from Duitsman ME et al. (2019), which proposed "Three theoretical design principles for a CCC meeting: multiple assessment data and perspectives, a shared mental model, and structured discussion to reach consensus"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

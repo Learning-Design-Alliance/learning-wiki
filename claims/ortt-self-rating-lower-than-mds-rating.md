@@ -16,12 +16,14 @@ sources:
     author: Breckwoldt Jan, Knecht Monika, Massée Ralph, Flach Barbara, Hofmann-Huber Caroline, Kaap-Fröhlich Sylvia, Witt Claudia M., Aeberhard Ruth, Sax Hugo
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Operating room technician trainees rate their own teaching quality significantly lower than medical students rate the ORTTs' teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Breckwoldt Jan, Knecht Monika, Massée Ralph, Flach Barbara, Hofmann-Huber Caroline, Kaap-Fröhlich Sylvia, Witt Claudia M., Aeberhard Ruth, Sax Hugo. (2019). Operating room technician trainees teach medical students - an inter-professional peer teaching approach for infection prevention strategies in the operation room. Antimicrobial Resistance and Infection Control. https://doi.org/10.1186/s13756-019-0526-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of teaching-quality ratings on ten empirically based criteria using a t-test: MDS ratings versus ORTT self-ratings, both groups completing questionnaires after the module. The article reports a "mean difference: 0.55 points; p < .0001".
 

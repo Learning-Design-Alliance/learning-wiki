@@ -24,6 +24,8 @@ sources:
     author: Lotzin Annett, Buth Sven, Sehner Susanne, Hiller Philipp, Pawils Silke, Metzner Franka, Read John, Härter Martin, Schäfer Ingo
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Training significantly reduced fear of offending and fear of retraumatizing the client when asking about traumatic events
@@ -52,7 +54,7 @@ Covariate-adjusted linear mixed model from the cluster-randomized trial of SUD p
 
 Lotzin Annett, Buth Sven, Sehner Susanne, Hiller Philipp, Pawils Silke, Metzner Franka, Read John, Härter Martin, Schäfer Ingo. (2019). Reducing barriers to trauma inquiry in substance use disorder treatment – a cluster-randomized controlled trial. Substance Abuse Treatment, Prevention, and Policy. https://doi.org/10.1186/s13011-019-0211-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Separate linear mixed model on the same trial's barrier ratings. The article prints "b = − 0.45" with CI and p < .001; no standardized effect size is reported. The authors attribute this reduction to the training directly discussing this fear and presenting research that asking does not harm clients.
 

@@ -48,3 +48,4 @@ Logbook self-assessment of first IJV insertions during the first clinical month 
 - [Observer tool use did not improve early clinical transfer outcomes of first internal jugular CVC insertions](observer-tool-no-clinical-transfer-benefit.md) — related
 - [Using a procedural task-based observer tool during CVC simulation training did not improve the immediate composite learning score of incoming anesthesia residents](observer-tool-no-immediate-composite-score-benefit.md) — related
 - [Requiring all residents to practice the task hands-on at least once may attenuate any benefit of an observer tool](mandatory-hands-on-practice-may-mask-observer-tool-effect.md) — related
+- [All students trained with the model completed the simulated procedure successfully and reported experiencing the breakthrough sensation, and 87.5% expressed confidence in future performance](model-training-breakthrough-experience-confidence.md) — related

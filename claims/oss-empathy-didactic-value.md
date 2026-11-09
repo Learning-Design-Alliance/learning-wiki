@@ -16,12 +16,14 @@ sources:
     author: Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students tended to agree the OSS helped them empathise with the patient, and teachers rated its didactic value as quite high
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan. (2019). Is an obesity simulation suit in an undergraduate medical communication class a valuable teaching tool? A cross-sectional proof of concept study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029738
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive questionnaire results from the same simulated role play survey. Students' empathy rating was "M=4.44±1.61" and teachers' didactic value rating "M=5.63±1.41" on 1–7 scales; no inferential test is reported for these items.
 

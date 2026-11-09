@@ -63,3 +63,5 @@ In the same 90-student quasi-experiment, the experimental group's total CTDI-CV 
 - [Four CTDI-CV dimensions (open-mindedness, inquisitiveness, cognitive maturity, systematicity) scores rose significantly from pre-test to post-test after mind mapping, in one uncontrolled pre-post study](mind-mapping-improved-four-ctdi-dimensions.md) — related
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](mind-mapping-improves-critical-thinking-disposition-nursing.md) — related
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related
+- [Open-mindedness is the CT subscale that primarily predicts improvement in the preparation dimension of PBL performance](open-mindedness-predicts-preparation-improvement.md) — related
+- [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related

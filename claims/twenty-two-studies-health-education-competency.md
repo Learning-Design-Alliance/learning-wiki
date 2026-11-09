@@ -50,3 +50,4 @@ The scoping review's synthesis of health education skills reports that "Twenty-t
 - [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related
 - [Nurse-led biologics practices improve monitoring, therapy appropriateness, and quality of life while reducing costs](nurse-led-biologics-practices-improve-outcomes.md) — related
+- [Nurse-led patient education improved participants' knowledge of gout causes and long-term effects, which fostered engagement with urate-lowering therapy](nurse-education-knowledge-fostered-ult-engagement.md) — related

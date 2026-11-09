@@ -16,12 +16,14 @@ sources:
     author: Cerutti Bernard, Stollar Fabiola, Escher Monica, Blondon Katherine, Aujesky Susanne, Nendaz Mathieu, Galetto-Lacour Annick
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Most examinees report that long-menu questions involve different reasoning and are closer to real life than classic MCQs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Cerutti Bernard, Stollar Fabiola, Escher Monica, Blondon Katherine, Aujesky Susanne, Nendaz Mathieu, Galetto-Lacour Annick. (2019). Comparison of long-menu and single-best-answer multiple choice questions in computer-based summative assessments: a randomised controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-019-1651-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Self-administered four-item online Likert questionnaire answered by 184 examinees (60.3% response rate) at the end of the trial. Percentages are descriptive; no effect size is printed. The authors caution the survey does not constitute evidence about psychometric properties or reasoning processes.
 

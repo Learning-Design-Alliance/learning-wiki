@@ -48,3 +48,4 @@ Paired t-tests comparing post-test and follow-up OSCE skills scores among 210 pr
 - [Skills decline for feeding with a nasogastric tube differed significantly by education level, but post hoc tests revealed no significant pairwise differences](education-level-fngt-skills-decline.md) — related
 - [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — related
 - [Rural providers showed significantly greater skills declines in manual removal of the placenta and active management of the third stage of labor](rural-providers-greater-skills-decline-mrp-amtsl.md) — related
+- [Magnesium sulfate administration did not change from first to last simulated PE/E cases in a single-group pre-post comparison, despite overall management gains](magnesium-sulfate-administration-not-improved.md) — related

@@ -69,3 +69,4 @@ Multilevel regression treating governmental class as a continuous predictor, con
 - [The class–performance association holds significantly in only one of the six schools, with inconsistent patterns across school clusters](school-level-inconsistency-class-performance.md) — related
 - [Female students show higher academic performance than male students in this sample](female-higher-academic-performance-indian-adolescents.md) — related
 - [Average academic performance differs substantially across schools, with an intra-school correlation of 0.32](school-differences-academic-performance-icc-032.md) — related
+- [School SES is positively related to middle school students’ math achievement in China after controlling for family SES and other covariates](school-ses-positive-math-achievement-china.md) — related

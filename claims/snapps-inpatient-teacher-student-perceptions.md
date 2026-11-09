@@ -16,18 +16,22 @@ sources:
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: jain-vishakha-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1670-3"
     title: "Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3"
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Feedback from teachers after the case encounters favored the SNAPPS group: students "were more systemic in examination and included more relevant examination (p value < 0.01)" in the teachers' perception.
 
@@ -50,7 +54,7 @@ Feedback from teachers after the case encounters favored the SNAPPS group: stude
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Student feedback showed "similar perception on the different variables of feedback except that the student in the SNAPPS group felt they actively initiated and identifying case related issues for self study" compared with control students.
 

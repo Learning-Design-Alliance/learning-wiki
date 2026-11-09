@@ -70,3 +70,4 @@ Same validity sample regrouped pragmatically by prior experience: "categorizing 
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [On the MaiSurge model, expert gynecologists achieve significantly higher modified H-OSATS and general OSATS scores than novices performing a total laparoscopic hysterectomy](maisurge-differentiates-experts-novices-hosats.md) — related
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
+- [OSATS scores did not significantly distinguish groups stratified by formal professional level in the pilot study](osats-no-significant-distinction-by-professional-level.md) — reports the opposite

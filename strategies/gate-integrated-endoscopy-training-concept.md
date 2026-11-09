@@ -54,6 +54,7 @@ The review describes a training concept called "GATE- gastroenterological educat
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 - [Use plug-and-play virtual simulation for tip-control training targeted at novice and beginner endoscopists before patient-based endoscopy](plug-and-play-virtual-simulation-tip-control-novices.md)
+- [Combine preprocedural online didactics, video demonstration, case-based learning, and simulation to address both cognitive and psychomotor procedural learning](comprehensive-multimodal-procedure-education-package.md)
 
 ## Examples
 -

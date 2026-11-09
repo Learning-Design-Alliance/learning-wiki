@@ -57,3 +57,4 @@ Random-effects meta-analysis of six intervention samples (n = 725 students) from
 - [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
 - [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related
+- [Twenty weeks of classroom PA breaks did not improve children's spelling or reading performance in any condition](pa-breaks-no-spelling-reading-gains.md) — related

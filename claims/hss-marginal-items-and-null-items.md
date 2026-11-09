@@ -71,3 +71,4 @@ Same survey analysis: 19 of the 25 items showed no significant group differences
 - [Across all three screening component groupings, the test group showed higher posttest mean scores and greater percentage change than the control group](hss-higher-posttest-means-all-components.md) — related
 - [Test-group students reported that the simulator's hands-on experience was easy to use, useful, and increased their confidence in performing hearing screenings](hss-qualitative-hands-on-confidence.md) — related
 - [Among students with prior live screening experience, confidence changes were mixed, with a negative change in combined hearing screening scores for the control group](hss-prior-experience-subgroup-mixed.md) — related
+- [Group differences on individual CPR test items were mostly non-significant, with only one theoretical question and one checklist item reaching significance](item-level-cpr-differences-mostly-null.md) — related

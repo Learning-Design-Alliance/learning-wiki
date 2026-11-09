@@ -16,12 +16,14 @@ sources:
     author: "Duitsman, M. E., van Braak, M., Stommel, W., ten Kate-Booij, M., de Graaf, J., Fluit, C. R. M. G., & Jaarsma, D. A. D. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Unidirectional feedback in evaluation meetings shows three interactional features: the PD introduces the topic, the PD evaluates it, and resident responses are minimal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Duitsman, M. E., van Braak, M., Stommel, W., ten Kate-Booij, M., de Graaf, J., Fluit, C. R. M. G., & Jaarsma, D. A. D. C. (2019). Using conversation analysis to explore feedback on resident performance. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-019-09887-4
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Conversation-analytic microanalysis of unidirectional feedback fragments across the eight recorded meetings. The article states that "Unidirectional feedback activities have three interactional features", with the evaluation introduced and delivered by the PD and minimal resident responses; positive evaluations were brief and often superficial, sometimes supported by specific examples.
 

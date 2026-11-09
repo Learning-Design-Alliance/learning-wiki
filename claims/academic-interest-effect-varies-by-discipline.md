@@ -16,12 +16,14 @@ sources:
     author: Wu Hongbin, Zheng Juan, Li Shan, Guo Jianru
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The effect of academic interest on academic performance varies across disciplines, largest in natural sciences and smallest in social sciences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Wu Hongbin, Zheng Juan, Li Shan, Guo Jianru. (2019). Does academic interest play a more important role in medical sciences than in other disciplines? A nationwide cross-sectional study in China. BMC Medical Education. https://doi.org/10.1186/s12909-019-1737-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 PSM subgroup analyses for each of the five disciplines in the same 54,398-student NUSDS sample (Table 4), with ATTs, standard errors and 95% CIs printed per discipline; mean bias after matching ranged from 0.6 to 1.4%. Values are unstandardised grade-point differences, so no standardised effect size is reported.
 

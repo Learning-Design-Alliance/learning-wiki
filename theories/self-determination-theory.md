@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 144 claims (108 for, 33 mixed, 3 against) · 99 studies (43 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 25 of 99 report an effect size · 138 claims rest on one study
+> **Evidence** · 148 claims (110 for, 35 mixed, 3 against) · 101 studies (45 associational, 20 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 27 of 101 report an effect size · 142 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -200,6 +200,10 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Students' self-determined motivation in PE negatively predicts bullying perpetration and victimization](../claims/sdi-negative-predicts-bullying-pe.md) [+W] — attached 2026-11-08 from Montero-Carretero C. et al. (2020), which proposed "Self-determination theory model of bullying in physical education".
 - [Autonomy support has indirect negative effects and controlling style indirect positive effects on bullying perpetration and victimization](../claims/indirect-teaching-style-effects-bullying.md) [+W] — attached 2026-11-08 from Montero-Carretero C. et al. (2020), which proposed "Self-determination theory model of bullying in physical education"; tests this page's relationship.
 - [Giving students choice of date or place is associated with sharply lower odds of serious test-taking, unless the test is presented as assessment](../claims/choice-reduces-serious-test-taking-assessment-moderation.md) [~W] — attached 2026-11-08 from Schüttpelz-Brauns et al. (2020), which proposed "Self-determination theory as a framework for classifying institutional strategies affecting test-taking effort".
+- [Perceived autonomy-supportive teaching positively predicts students' basic psychological need satisfaction in physical education classes](../claims/autonomy-supportive-teaching-predicts-need-satisfaction-pe.md) [+W] — attached 2026-11-09 from Li Chunxiao et al. (2019), which proposed "Basic psychological needs theory within self-determination theory as applied to PE teaching climates and student mindfulness"; tests this page's relationship.
+- [Mindfulness moderates the positive association between autonomy-supportive teaching and need satisfaction, strengthening it at higher mindfulness](../claims/mindfulness-moderates-teaching-need-satisfaction.md) [+W] — attached 2026-11-09 from Li Chunxiao et al. (2019), which proposed "Basic psychological needs theory within self-determination theory as applied to PE teaching climates and student mindfulness".
+- [Autonomous motivation is related to GPA only indirectly, via achieving strategy, in medical students](../claims/autonomous-motivation-achieving-strategy-gpa-path.md) [~W] — attached 2026-11-09 from Isik U. et al. (2018), which proposed "Self-determination theory's motivation-quality continuum with Biggs's three study strategies as mediators of performance".
+- [The motivation–strategy–performance model differs by ethnic group, with achieving strategy mediating autonomous motivation and GPA only for Dutch students](../claims/achieving-strategy-mediation-dutch-only.md) [~W] — attached 2026-11-09 from Isik U. et al. (2018), which proposed "Self-determination theory's motivation-quality continuum with Biggs's three study strategies as mediators of performance".
 
 ## The evidence by question
 

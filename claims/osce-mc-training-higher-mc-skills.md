@@ -52,3 +52,4 @@ Cross-sectional comparison of three groups (learned students n = 15, unlearned s
 - [Correspondence analysis of CWM conversations identified distinct characteristic words per group: identification and politeness phrases for trained students and the word “dull” for physiotherapists](cwm-conversation-characteristic-words.md) — related
 - [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related
 - [First-year medical students with enhanced medical improv training scored significantly higher on ECRS-rated OSCE communication than students with no medical improv](enhanced-medical-improv-higher-ecrs-osce-scores.md) — related
+- [Students rate their general communication competency higher than their medical communication competency](gc-competency-rated-higher-than-mc.md) — related

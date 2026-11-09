@@ -49,3 +49,4 @@ Within-group repeated measures ANOVA in the control group (n = 20), which receiv
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
 - [Academic self-efficacy positively predicts clinical performance in nursing internship students](ase-positive-prediction-clinical-performance.md) — related
+- [Study-related self-efficacy (PsyCap) and eagerness to study do not change over the year and do not differ between SDL and IBL conditions](psycap-eagerness-no-change-no-group-difference.md) — related

@@ -48,3 +48,4 @@ Unconditional (null) HLM models on the KELS 6th-grade dataset (7,065 students, 4
 ## Related Claims
 - [Effort regulation positively predicts 6th-graders' literacy and math achievement both within and between schools](effort-regulation-predicts-elementary-achievement.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
+- [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related

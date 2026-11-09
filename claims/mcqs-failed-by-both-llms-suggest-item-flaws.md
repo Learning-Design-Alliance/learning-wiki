@@ -51,3 +51,4 @@ Faculty review of MCQs incorrectly answered by both models in the cross-sectiona
 - [ChatGPT responded significantly faster than DeepSeek on orthopedic MCQs (10.40 vs 34.42 seconds, P<.001)](chatgpt-faster-response-time-than-deepseek-mcqs.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — reports the opposite
+- [Item-writing flaws are reported to compromise assessment reliability and validity with inconsistent effects](item-flaws-compromise-validity.md) — related

@@ -47,6 +47,7 @@ From the identified curriculum gaps the authors derive recommendations: develop 
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Simulated Clinical Experience program with standardized patients and three-perspective feedback](sce-standardized-patient-feedback-strategy.md)
 - [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
+- [Iteratively refine teaching modules using learner feedback and expert review each course block](iterative-module-refinement-learner-expert-feedback.md)
 
 ## Examples
 -

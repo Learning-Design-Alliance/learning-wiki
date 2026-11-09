@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 530 claims (333 for, 172 mixed, 25 against) · 339 studies (144 causal, 81 review, 39 quant-synthesis, 37 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 339 report an effect size · 525 claims rest on one study
+> **Evidence** · 533 claims (336 for, 172 mixed, 25 against) · 341 studies (145 causal, 81 review, 39 quant-synthesis, 37 design, 25 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 63 of 341 report an effect size · 528 claims rest on one study
 
 ## Conditional relationship
 
@@ -528,6 +528,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Second-year medical students taking a PIDD OSCE question after simulation scored modestly but statistically significantly higher than students taking it before simulation](../claims/post-simulation-osce-scores-higher-pidd.md) [+W] — attached 2026-11-08 from Cavuoto Petrizzo Marie et al. (2019), which proposed "Initiate or expand simulation within non-clinical basic science courses such as immunology to bridge theory and practice"; tests this page's relationship.
 - [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](../claims/simulated-practice-improves-technical-skills.md) [+W] — attached 2026-11-08 from Travassos Thiago da Costa et al. (2019), which proposed "Teach laparoscopic skills outside the operating theater using low-cost physical simulators"; tests this page's relationship.
 - [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](../claims/vr-hip-arthroscopy-simulator-face-validity-realism.md) [~W] — attached 2026-11-08 from Bartlett Jonathan D. et al. (2018), which proposed "Use VR surgical simulation to pre-train surgeons so they operate below their attentional capacity threshold".
+- [Fourth-year medical students who received hands-on practice with the suprapubic cystostomy training model scored significantly higher on final performance than students trained without the model](../claims/model-practice-higher-cystostomy-performance-scores.md) [+M] — attached 2026-11-09 from Gao Wei et al. (2019), which proposed "Use low-cost reusable simulation models to train senior medical students and residents in emergent suprapubic catheter insertion before patient contact"; tests this page's relationship.
+- [The training model costs under $2 US excluding the catheter set and is reusable, unlike commercial single-use silicone bladder models](../claims/cystostomy-model-cost-effectiveness-reusability.md) [+W] — attached 2026-11-09 from Gao Wei et al. (2019), which proposed "Use low-cost reusable simulation models to train senior medical students and residents in emergent suprapubic catheter insertion before patient contact".
+- [LF-trained students significantly outperformed HF-trained students on several ALS practical sub-items in video-rated scenarios](../claims/lf-better-practical-subitems.md) [+W] — attached 2026-11-09 from Massoth C et al. (2019), which proposed "Match simulator fidelity to trainee level: for novice trainees, low-fidelity simulation achieves equal learning without inducing overconfidence".
 
 ## Objective and learner-valued goal
 

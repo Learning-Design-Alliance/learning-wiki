@@ -16,6 +16,8 @@ sources:
     author: Lotzin Annett, Buth Sven, Sehner Susanne, Hiller Philipp, Pawils Silke, Metzner Franka, Read John, Härter Martin, Schäfer Ingo
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: lotzin-annett-2019-2
     resource: "https://doi.org/10.1186/s13011-019-0211-8"
     title: "Lotzin Annett, Buth Sven, Sehner Susanne, Hiller Philipp, Pawils Silke, Metzner Franka, Read John, Härter Martin, Schäfer Ingo. (2019). Reducing barriers to trauma inquiry in substance use disorder treatment – a cluster-randomized controlled trial. Substance Abuse Treatment, Prevention, and Policy. https://doi.org/10.1186/s13011-019-0211-8"
@@ -42,7 +44,7 @@ sources:
 
 Lotzin Annett, Buth Sven, Sehner Susanne, Hiller Philipp, Pawils Silke, Metzner Franka, Read John, Härter Martin, Schäfer Ingo. (2019). Reducing barriers to trauma inquiry in substance use disorder treatment – a cluster-randomized controlled trial. Substance Abuse Treatment, Prevention, and Policy. https://doi.org/10.1186/s13011-019-0211-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed model from the cluster-randomized trial. The article prints "b = − 0.28" with CI and p = .009; no standardized effect size is reported. The authors suggest trained professionals may have experienced that clients continued treatment despite being asked.
 

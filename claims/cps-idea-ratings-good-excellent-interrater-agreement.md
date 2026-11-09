@@ -62,3 +62,4 @@ Psychometric analysis in Study 2, in which two postgraduate raters who received 
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
 - [Novice cytotechnicians achieved good overall concordance with an expert in p16/Ki67 dual stain interpretation of slides from older women (κ = 0.68; 84% agreement), slightly below the manufacturer-recommended ≥90%](novice-expert-dual-stain-concordance-good-overall.md) — related
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
+- [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related

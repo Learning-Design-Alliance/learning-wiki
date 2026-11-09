@@ -16,6 +16,8 @@ sources:
     author: Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: gammon-catherine-2019-2
     resource: "https://doi.org/10.1136/bmjopen-2018-025080"
     title: "Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther. (2019). Introducing physically active lessons in UK secondary schools: feasibility study and pilot cluster-randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025080"
@@ -29,7 +31,7 @@ sources:
 # No preliminary effectiveness of PAL training on students' sedentary time was demonstrated in either study, despite a measured increase in PAL delivery in the pilot
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther. (2019). Introducing physically active lessons in UK secondary schools: feasibility study and pilot cluster-randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025080
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Pilot cluster-randomised trial comparing intervention and control schools with accelerometer-assessed activity at baseline and ~8 weeks; the article reports "no evidence of preliminary effectiveness on sedentary time or light activity" or well-being indicators.
 

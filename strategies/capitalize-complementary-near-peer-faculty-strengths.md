@@ -47,7 +47,8 @@ The article recommends that medical schools treat near-peer teaching as "a delib
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](../claims/near-peer-bootcamp-feasibility.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deploy trained recently graduated doctors as near-peer tutors for critical appraisal skills teaching where faculty resources are limited](trained-near-peer-tutors-critical-appraisal.md)
 
 ## Examples
 -

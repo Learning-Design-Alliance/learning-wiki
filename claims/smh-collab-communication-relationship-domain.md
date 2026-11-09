@@ -54,3 +54,4 @@ First theme reported in the Results section of the Delphi study. Panelists ident
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](gbv-simulation-non-technical-skills.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
 - [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related
+- [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related

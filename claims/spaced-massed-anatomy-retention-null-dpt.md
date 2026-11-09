@@ -74,3 +74,4 @@ ANCOVA on improvement factor in the same two-cohort prospective study, with cova
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Pre-test anatomy score correlated strongly and negatively with improvement factor across the combined cohorts](pretest-improvement-negative-correlation-anatomy.md) — related
+- [Self-directed learning and instruction-based learning produce equal knowledge and performance outcomes at the end of year two in physical therapy education](sdl-ibl-equal-study-outcomes-pt.md) — related

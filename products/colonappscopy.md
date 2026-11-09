@@ -13,7 +13,7 @@ generated:
 # colonAPPscopy
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A smartphone preparation-support app developed by Sewitch MJ et al. for patients preparing for screening colonoscopy, providing tailored instructions, reminders, alerts, and accessibility features.

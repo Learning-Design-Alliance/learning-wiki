@@ -16,12 +16,14 @@ sources:
     author: Dapp Laura C., Roebers Claudia M.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Dapp Laura C., Roebers Claudia M. (2019). The Mediating Role of Self-Concept between Sports-Related Physical Activity and Mathematical Achievement in Fourth Graders. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16152658
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Cross-sectional correlational analysis in a sample of N = 138 Swiss fourth graders, using the MoMo self-report PA questionnaire and the HRT 1-4 math test. The study reports structured PA correlated with achievement ("r = 0.17, p < 0.05") while unstructured PA did not, even though children spent almost twice as much time in unstructured PA.
 

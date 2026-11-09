@@ -51,3 +51,4 @@ Fully unconditional three-level HLM run to justify multilevel modeling. The auth
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
+- [Between-class variance accounts for roughly a quarter of variance in students' system-thinking performance measures](between-class-variance-system-thinking.md) — related

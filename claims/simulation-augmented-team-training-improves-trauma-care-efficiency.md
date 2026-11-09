@@ -65,3 +65,4 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related
 - [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
+- [Regular in situ simulation had no effect on the incidence of urgent intubation in the acute care ward](iss-no-effect-urgent-intubation.md) — related

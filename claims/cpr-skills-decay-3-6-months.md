@@ -70,3 +70,4 @@ The review's introduction states, citing prior studies, that "their skills deter
 - [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — a narrower finding that bears on this claim
 - [The six-month advantage of PBL with high-fidelity simulation on guideline-conform CPR is not statistically significant](cpr-primary-endpoint-no-six-month-difference.md) — related
 - [Three months after training, laypersons taught BLS/AED with a two-stage teaching technique show no difference in skill retention compared to those taught with a four-stage technique](two-stage-vs-four-stage-bls-aed-retention-null.md) — a narrower finding that bears on this claim
+- [Novice UGRA skill attrition can occur as fast as 24 hours after initial learning, motivating periodic retraining](rapid-skill-attrition-within-24-hours-novices.md) — related

@@ -50,6 +50,7 @@ In its discussion of limitations, the article recommends training raters before 
 - [Have surgical residents regularly review and assess their own and others' procedure videos as part of training](resident-video-self-assessment-strategy.md)
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 - [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
+- [Train raters in the use of the SHORT (e.g., via webinars, e-learning with videos, or live-debriefing ratings) before implementation](short-rater-training-before-implementation.md)
 
 ## Examples
 -

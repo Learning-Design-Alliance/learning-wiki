@@ -53,3 +53,4 @@ Quasi-experimental comparison of 15-question immediate tests, Mann-Whitney test;
 - [Interview data indicated flipped classroom learners obtained immediate help and clarified misconceptions, while conventional-group learners crammed for tests](interviews-immediate-help-versus-cramming.md) — related
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
 - [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related
+- [Short-term learning was significantly worse in the flipped classroom group on two of the five topics, contrary to the initial prediction](flipped-classroom-worse-short-term-learning-topics-3-4.md) — reports the opposite

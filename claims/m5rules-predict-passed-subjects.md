@@ -17,24 +17,30 @@ sources:
     author: Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: fernández-soriano-francisco-luis-2019-2
     resource: "https://doi.org/10.3390/s19143226"
     title: "Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226"
     author: Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: fernández-soriano-francisco-luis-2019-3
     resource: "https://doi.org/10.3390/s19143226"
     title: "Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226"
     author: Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # An M5Rules rule model predicts the number of passed subjects from device and connection data with about 72% correlation on average
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -48,7 +54,7 @@ sources:
 
 Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Predictive modeling experiment with the M5Rules algorithm on the LMS connection dataset, repeated with different random training/test splits; the authors judge the model "robust since after repeating it for 5 times randomly it has given similar results obtaining a low standard deviation".
 
@@ -58,7 +64,7 @@ Predictive modeling experiment with the M5Rules algorithm on the LMS connection 
 
 Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Model fitness was evaluated with RMSE, MAE and correlation coefficient over the repeated runs; the model "obtains an average error of almost 2 subjects when predicting the number of passed subjects" and a correlation "of 72% on average".
 
@@ -68,7 +74,7 @@ Model fitness was evaluated with RMSE, MAE and correlation coefficient over the 
 
 Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Variable-relevance analysis of the rule list, counting variables used in at least 90% of rules: "Average number of connections per week (92.3%), maximum number of connections per week (95.4%), educational stage and type of device (98.1%)".
 

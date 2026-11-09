@@ -16,6 +16,8 @@ sources:
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: jain-vishakha-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1670-3"
     title: "Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3"
@@ -42,7 +44,7 @@ sources:
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Open-label randomized controlled trial in the inpatient setting of a Medicine department, with case presentations as the unit of analysis. SNAPPS presentations "took on average 1.6 min more to make their entire case presentations (7.19 vs. 5.56, p value < 0.01)."
 

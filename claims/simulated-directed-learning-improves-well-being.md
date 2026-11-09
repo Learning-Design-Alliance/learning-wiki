@@ -16,18 +16,22 @@ sources:
     author: Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: tsai-fu-ju-phd-2019-2
     resource: "https://doi.org/10.1097/MD.0000000000016330"
     title: "Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo. (2019). Simulated directed-learning in life-education intervention on the meaning of life, positive beliefs, and well-being among nursing students: A Quasi-experimental study. Medicine. https://doi.org/10.1097/MD.0000000000016330"
     author: Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Simulated directed-learning with a life-education intervention significantly improves nursing students' well-being immediately and 4 weeks later compared with control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo. (2019). Simulated directed-learning in life-education intervention on the meaning of life, positive beliefs, and well-being among nursing students: A Quasi-experimental study. Medicine. https://doi.org/10.1097/MD.0000000000016330
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 GEE analysis of the quasi-experiment (54 experimental, 56 control nursing students) reporting significant group differences on well-being at immediate and delayed post-tests; the β values are unstandardized GEE coefficients with no standardized effect size printed.
 
@@ -50,7 +54,7 @@ GEE analysis of the quasi-experiment (54 experimental, 56 control nursing studen
 
 Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo. (2019). Simulated directed-learning in life-education intervention on the meaning of life, positive beliefs, and well-being among nursing students: A Quasi-experimental study. Medicine. https://doi.org/10.1097/MD.0000000000016330
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive comparative mean scores from Table 4 of the quasi-experiment, showing the experimental group's well-being advantage over control growing from post-test to delayed post-test.
 

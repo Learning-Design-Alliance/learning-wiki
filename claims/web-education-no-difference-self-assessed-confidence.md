@@ -52,3 +52,4 @@ Null secondary outcome from the questionnaire in the cluster randomised controll
 - [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related
 - [Greater self-reported willingness to intervene in emergencies is associated with higher CPR knowledge among Syrian medical students](willingness-to-act-associated-cpr-knowledge.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related

@@ -51,3 +51,4 @@ Stepwise regression outcome for the 176-student cross-sectional sample: BMI and 
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](mvpa-steps-predict-math-scores-middle-school.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Bootstrap analysis found no mediating effects of attention measures or aerobic fitness between physical activity and mathematics achievement](no-mediation-pa-attention-math.md) — related
+- [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — reports the opposite

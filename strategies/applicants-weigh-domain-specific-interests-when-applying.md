@@ -17,7 +17,7 @@ sources:
 # Advise applicants to weigh their domain-specific academic interests when choosing universities and disciplines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A concrete guidance strategy aimed at high-school students applying to universities: the article recommends that "students should be aware of their domain-specific academic interests rather than merely relying on external factors such as occupational status or social preferences when submitting their applications to universities and colleges". It highlights that interest is of particular importance for performance in the hard natural sciences, while medical-school applicants need not have especially strong interest to achieve highly.

@@ -45,7 +45,8 @@ The authors recommend that instructors counter students' inherent bias against a
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Address student expectations of passive instruction early in the semester to promote buy-in](address-passive-expectations-early-buy-in-strategy.md)
 
 ## Examples
 -

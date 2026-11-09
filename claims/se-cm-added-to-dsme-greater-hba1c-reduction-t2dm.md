@@ -16,12 +16,14 @@ sources:
     author: Ji H, Chen R, Huang Y, Li W, Shi C, Zhou J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adding simulation education and case management to standard DSME produced a significantly greater HbA1c decrease than DSME alone over 6 months in adults with type 2 diabetes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ji H, Chen R, Huang Y, Li W, Shi C, Zhou J. (2019). Effect of simulation education and case management on glycemic control in type 2 diabetes. Diabetes/Metabolism Research and Reviews. https://doi.org/10.1002/dmrr.3112
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized pre-post pilot trial at Danyang People's Hospital: 100 T2DM patients on medication and basic DSME randomized 1:1; 91 analyzed (n=45 experimental, n=46 control). Table 2 reports the HbA1c between-group outcome difference of "−1.13 (−1.66 to −0.60)" with P < 0.001, with baseline HbA1c about 10.4–10.5% in both groups.
 

@@ -53,6 +53,7 @@ The authors recommend specific refinements to improve HBOPPPS efficiency while r
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
 - [Refine program materials based on teacher process evaluation to reduce preparation burden and content density](process-evaluation-driven-material-refinement.md)
 - [Optimize the medical English course by adding application class hours and rehabilitation-specific materials](optimize-medical-english-add-application-practice-hours.md)
+- [Iteratively refine hybrid genomics courses using student feedback: add synchronous video sessions, moderate discussion boards, and add a genomics policy advocacy assignment](iterative-refinement-hybrid-genomics-courses-strategy.md)
 
 ## Examples
 -

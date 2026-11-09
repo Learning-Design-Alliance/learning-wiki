@@ -16,12 +16,14 @@ sources:
     author: Ayllón Sara, Alsina Ángel, Colomer Jordi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived clarity of syllabus and evaluation-criteria presentation (STRUC_1) is negatively related to achievement, though with a small coefficient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ayllón Sara, Alsina Ángel, Colomer Jordi. (2019). Teachers’ involvement and students’ self-efficacy: Keys to achievement in higher education. PLoS ONE. https://doi.org/10.1371/journal.pone.0216865
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the fully controlled regression (column D, N = 86,038), STRUC_1 has coefficient −0.015** (p<0.05); the article calls the negative relation "rather surprising" and notes the "coefficient is of small magnitude."
 

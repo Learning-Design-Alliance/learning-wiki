@@ -51,3 +51,4 @@ Null findings from the pilot's LAST survey arm (N = 19): Table 2 reports P = 0.7
 - [FICB procedural simulation produced positive but non-significant increases in residents' perceived comfort and knowledge with performing the procedure](ficb-procedural-simulation-confidence-trend-pilot.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — reports the opposite
 - [E-learning significantly increased participants' satisfaction with knowledge and self-assessed ability to diagnose and manage patients, and by more than knowledge and practices scores.](mali-elearning-confidence-gains-exceed-knowledge.md) — related
+- [A therapeutic checklist improved trainees' management of simulated local anesthetic systemic toxicity events compared to reliance on memory](checklist-improves-last-crisis-management.md) — related

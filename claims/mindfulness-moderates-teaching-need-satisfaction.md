@@ -16,12 +16,14 @@ sources:
     author: Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mindfulness moderates the positive association between autonomy-supportive teaching and need satisfaction, strengthening it at higher mindfulness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong. (2019). Autonomy-Supportive Teaching and Basic Psychological Need Satisfaction among School Students: The Role of Mindfulness. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16142599
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cross-sectional survey regression, step 3 interaction term among 390 PE students; simple slopes were positive at both low (B = 0.49) and high (B = 0.67) mindfulness. Only the interaction β is printed; no effect size for the moderation is given.
 

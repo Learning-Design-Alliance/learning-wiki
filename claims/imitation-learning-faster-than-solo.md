@@ -16,6 +16,8 @@ sources:
     author: Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: okazaki-shuntaro-2019-2
     resource: "https://doi.org/10.1038/s41598-019-44049-x"
     title: "Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko. (2019). Teacher-learner interaction quantifies scaffolding behaviour in imitation learning. Scientific Reports. https://doi.org/10.1038/s41598-019-44049-x"
@@ -42,7 +44,7 @@ sources:
 
 Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko. (2019). Teacher-learner interaction quantifies scaffolding behaviour in imitation learning. Scientific Reports. https://doi.org/10.1038/s41598-019-44049-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Trial-by-trial Wilcoxon comparisons of puzzle-solving durations in 14 pairs; the article reports learners "significantly improved from the second trial, while that of teachers in the TP improved from the third", suggesting imitation learning is more efficient than solo learning.
 

@@ -16,12 +16,14 @@ sources:
     author: Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M.
     q: 3
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # Examiner cohort explained 5.7% of total percentage score variance in a fully nested OSCE, with a maximal cohort adjustment difference of 5.7% (Cohen's d = 1.06) for the same student ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · design `r2` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M. (2019). Developing a video‐based method to compare and adjust examiner effects in fully nested OSCEs. Medical Education, 53(3), 250–263. https://doi.org/10.1111/medu.13783
 
-`q3 · i3`
+`q3 · i3` · `design · r2`
 
 Linear mixed modelling of total percentage scores for 116 students, with station and cohort as fixed effects and student ability as a random effect. "station explained 26.1%, examiner cohort 5.7% and student ability 68.1% of the total score variance"; marginal R2 0.09, conditional R2 0.17.
 

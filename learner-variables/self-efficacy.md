@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 341 claims (257 show a difference, 47 mixed, 37 no difference) · 269 studies (90 causal, 88 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 56 of 269 report an effect size · 337 claims rest on one study
+> **Evidence** · 342 claims (258 show a difference, 47 mixed, 37 no difference) · 270 studies (91 causal, 88 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 56 of 270 report an effect size · 338 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -372,6 +372,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer](../claims/confidence-judgement-not-independent-offer-predictor.md) [~M] — learners who differ on it differ in outcomes
 - [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](../claims/no-sweet-spot-online-confidence.md) [-M] — learners who differ on it differ in outcomes
 - [Workshop participants showed higher geriatric self-efficacy than controls, with 75% of workshop completers rating high self-efficacy versus 40% of controls, though trends were not statistically significant](../claims/geriatrics-5ms-workshop-self-efficacy-higher-than-controls.md) [-M] — measured as an outcome of the instruction studied
+- [At ZSMU, the linear VP group reported significantly higher ratings than the branched group on Control of Learning Beliefs and Self-Efficacy for Learning and Performance](../claims/zsmu-linear-vp-higher-expectancy-ratings.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -54,3 +54,4 @@ Psychometric evaluation of translated instruments in 42 baseline respondents, in
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [The German translation of TEAM shows psychometric properties comparable to the English and French versions, with high internal consistency and a single dominant component](german-team-psychometrics-validated.md) — related

@@ -48,3 +48,4 @@ Testing-phase analysis of the novel Navigating in Space task (two timed test att
 - [Test performance in laparoscopic tasks is dictated by the viewing mode used during testing, not the mode used during training](test-performance-dictated-by-test-viewing-mode.md) — a broader claim this one bears on
 - [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](visual-spatial-ability-predicts-novel-task.md) — related
 - [Switching viewing mode between training and testing changes test performance: 2D→3D transfer outperforms 2D-only control, while 3D→2D transfer underperforms 3D-only control](viewing-mode-switch-changes-test-performance.md) — related
+- [PGY1 residents in the 3D group completed the test significantly faster than those in the CT group, with no group differences in later years](pgy1-3d-faster-answering.md) — related

@@ -55,3 +55,4 @@ Pre-post evaluation of a one-day multifaceted EBM workshop for pharmacy students
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
 - [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related
+- [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related

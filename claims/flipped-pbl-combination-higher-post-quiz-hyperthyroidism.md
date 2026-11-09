@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: hu-xiaolei-2019
     resource: "https://doi.org/10.1186/s12909-019-1714-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in the flipped classroom + PBL combination group scored significantly higher on the post-quiz than students in the traditional lecture-based group (p < 0.001). [→ Hu Xiaolei 2019](#hu-xiaolei-2019)

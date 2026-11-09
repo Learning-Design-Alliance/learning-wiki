@@ -49,3 +49,4 @@ Multiple regression with institution dummy variables (Table 4, N = 248) showed S
 - [Delegator is the most common preferred teaching style among medical faculty in seven PBL medical schools, with a median of 2.38 and mean of 2.45](delegator-most-common-teaching-style-medical-faculty.md) — related
 - [Changes in clinical teachers' conceptions of teaching are prompted by personal experience, institutional culture, teacher maturity, and global evolution in medical education](factors-prompting-teaching-style-change.md) — related
 - [Faculty across departments describe the same ideal learning style for students](faculty-uniform-ideal-learning-style.md) — related
+- [Institutions with prior experience of PBL-style VP sessions reported higher mean motivation ratings, which the authors attribute to an institutional effect](prior-pbl-experience-higher-motivation-ratings.md) — related

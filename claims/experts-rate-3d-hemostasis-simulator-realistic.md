@@ -17,12 +17,14 @@ sources:
     author: Lee Dong Seok, Ahn Ji Yong, Lee Gin Hyug
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Experts rate the 3D-printed hemostasis simulator highly for realism and training suitability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Lee Dong Seok, Ahn Ji Yong, Lee Gin Hyug. (2019). A Newly Designed 3-Dimensional Printer-Based Gastric Hemostasis Simulator with Two Modules for Endoscopic Trainees (with Video). Gut and Liver. https://doi.org/10.5009/gnl18389
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Questionnaire evaluation by the 10-member expert group using a 7-point Likert scale covering handling similarity, training suitability, skill improvement, patient risk reduction, and recommendation. Experts "strongly agreed that endoscopic handling in the simulator was realistic"; all felt training could reduce patient risk.
 

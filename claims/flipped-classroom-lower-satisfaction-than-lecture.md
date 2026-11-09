@@ -49,3 +49,4 @@ T-test comparison of 18-item Talimkhani satisfaction questionnaire (Cronbach's a
 - [FC residents rated good teaching and generic skills higher, and appropriate assessment lower, than LB residents, with no differences on clear goals or workload](fc-ceq-dimension-differences.md) — related
 - [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — reports the opposite
 - [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — reports the opposite
+- [Student satisfaction with the subject and teaching methodology did not differ significantly between flipped classroom and lecture-based groups](flipped-classroom-no-satisfaction-difference-social-work.md) — reports the opposite

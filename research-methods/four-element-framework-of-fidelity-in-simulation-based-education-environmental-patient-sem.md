@@ -20,6 +20,7 @@ The article cites a framework subdividing fidelity in simulation-based education
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Four-element framework of fidelity in simulation-based education: environmental, patient, semantical, and phenomenal elements**: The article cites a framework subdividing fidelity in simulation-based education into four elements. The article states "More recently, fidelity in simulation-based education has been subdivided into the following four elements [8]: (1) environmental element - the training facility and equipment used. (2) Patient element - the virtual reality, full body or part-task trainer used to represent the patient. (3) Semantical element - the scenario in which the simulator is used and the associated intention for the user. And (4) phenomenal element - the engagement of the user through their emotional and cognitive experiences while involved in the simulation activity." (Zekaria Yael MEng; Tzemanaki Antonia MEng et al. (2025))
+- **Realism framework: physical, semantic and phenomenological realism in simulation design**: Beyond fidelity, the article presents realism as "the extent to which the simulation feels and/or behaves the same way as the real-life system", decomposed into physical realism (how much it appears to be a real-life patient), semantic realism (whether the scenario would play out like this in the real world) and phenomenological realism (how the candidate feels in the scenario). It cites Owen's qualitative study showing semantic realism issues are most poorly tolerated. (Lawson Sara et al. (2018))
 
 ### Claims
 
@@ -30,3 +31,4 @@ The article cites a framework subdividing fidelity in simulation-based education
 
 ## Key Sources
 - Zekaria Yael MEng; Tzemanaki Antonia MEng, MSc, PhD; Rossiter Jonathan Prof Dr. (2025). Requirements and Value Elicitation for a High-Fidelity Pelvic Floor Simulator for Physiotherapists: Mixed Methods Study. JMIR Human Factors. https://doi.org/10.2196/72119
+- Lawson Sara, Reid James, Morrow Michael, Gardiner Keith. (2018). Simulation-based Education and Human Factors Training in Postgraduate Medical Education: A Northern Ireland Perspective. The Ulster Medical Journal 87(3):163-167. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169420/

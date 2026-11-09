@@ -68,3 +68,4 @@ Kruskal-Wallis H tests comparing the three study groups on CSES-Perception in th
 - [Landscape design students’ CSES-Feelings empathy scores increased significantly from pre-test to post-test for both female and male participants](landscape-students-significant-empathy-increase-interdisciplinary-refuge-project.md) — related
 - [The increase in ALS self-efficacy perception does not differ significantly between women and men](no-gender-difference-als-self-efficacy-change.md) — related
 - [Scenario-based ALS simulation training produces a significantly higher increase in combined self-efficacy perception than regular internship alone in final-year medical students](als-simulation-raises-self-efficacy-perception.md) — reports the opposite
+- [Clinical virtual simulation does not change nursing students' general self-efficacy perceptions after a single lesson](cvs-no-self-efficacy-effect.md) — possibly the same claim (merge candidate)

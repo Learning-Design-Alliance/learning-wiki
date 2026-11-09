@@ -24,12 +24,14 @@ sources:
     author: Homberg Angelika, Hundertmark Jan, Krause Jürgen, Brunnée Merle, Neumann Boris, Loukanova Svetla
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Tutors and training coordinators differ in role assignments, with the health advocate role assigned only by tutors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -52,7 +54,7 @@ Comparison of the separately presented tutor (T) and coordinator (C) allocations
 
 Homberg Angelika, Hundertmark Jan, Krause Jürgen, Brunnée Merle, Neumann Boris, Loukanova Svetla. (2019). Promoting medical competencies through a didactic tutor qualification programme – a qualitative study based on the CanMEDS Physician Competency Framework. BMC Medical Education. https://doi.org/10.1186/s12909-019-1636-5
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Group comparison within the same consensus mapping. Tutors allocated more role competencies per module than coordinators, with the largest difference in the reflection module, which the authors link to tutors' self-assessment of learning through collegial advice and self-reflection.
 

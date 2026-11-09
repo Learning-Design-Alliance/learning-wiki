@@ -48,6 +48,7 @@ Because a single blended or face-to-face session did not prevent rapid decay of 
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
+- [Combine e-learning with face-to-face sessions or increase e-learning frequency and duration to achieve lasting attitude change](combine-elearning-face-to-face-attitude-change.md)
 
 ## Examples
 -

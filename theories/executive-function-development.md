@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 231 claims (107 for, 119 mixed, 5 against) · 134 studies (72 associational, 25 review, 23 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 47 of 134 report an effect size · 223 claims rest on one study
+> **Evidence** · 232 claims (108 for, 119 mixed, 5 against) · 135 studies (72 associational, 25 review, 24 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 48 of 135 report an effect size · 224 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -272,6 +272,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [The integrated program was associated with improved Digit Span Backward (working memory) performance but not Digit Span Forward performance](../claims/breakfast-morning-sport-improves-digit-span-backward-not-forward.md) [~W]
 - [Organization and planning and self-control show the strongest loadings on the latent EF construct](../claims/ef-strongest-loadings-organization-self-control.md) [~W]
 - [Task monitoring and working memory jointly predict 32.5% of general academic achievement and 25.5% and 27.1% of Language Arts and Mathematics achievement](../claims/task-monitoring-working-memory-predict-achievement.md) [+W] — attached 2026-11-08 from Quílez-Robres A. et al. (2021), which proposed "Gioia et al.'s three-index model of executive functions (behavioral, emotional, and cognitive regulation) measured by the BRIEF-2".
+- [A 20-week classroom PA break program combining high cognitive engagement with high physical exertion improves children's shifting performance more than a low-cognitive-engagement aerobic program](../claims/combo-pa-breaks-improve-shifting.md) [+M] — attached 2026-11-09 from Egger Fabienne et al. (2019), which proposed "Cognitive stimulation hypothesis: cognitively demanding exercise activates brain regions underlying higher-order cognition, producing domain-specific EF benefits"; tests this page's relationship.
 
 ## Related Theories
 

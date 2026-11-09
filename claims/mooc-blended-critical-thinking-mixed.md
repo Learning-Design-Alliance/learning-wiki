@@ -72,3 +72,4 @@ Same trial, Table 4 mean-change comparisons: open mindedness and systemic capaci
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Critical thinking gains favour TA+CBL rounds on six of seven dimensions, with no significant difference on cognitive maturity](ta-cbl-critical-thinking-dimensions-cognitive-maturity-null.md) — related
+- [Open-mindedness is the CT subscale that primarily predicts improvement in the preparation dimension of PBL performance](open-mindedness-predicts-preparation-improvement.md) — related

@@ -50,6 +50,7 @@ The article recommends that the effective strategies identified for student lear
 ## Related Strategies
 
 - [Gradually introduce unpredictable elements into SBL to build adaptability for CALD students preferring structured preparation](gradual-unpredictability-in-sbl.md)
+- [Enhance systematic guiding and training of students throughout the PBL course, with attention to critical thinking dispositions](systematic-guiding-training-pbl-course.md)
 
 ## Examples
 -

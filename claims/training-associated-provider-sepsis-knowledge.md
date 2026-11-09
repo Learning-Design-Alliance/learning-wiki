@@ -16,12 +16,14 @@ sources:
     author: Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Specific training in maternal sepsis is associated with increased odds of provider knowledge of maternal sepsis after adjustment for qualifications, age, experience, region and facility characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A. (2019). Factors influencing awareness of healthcare providers on maternal sepsis: a mixed-methods approach. BMC Public Health. https://doi.org/10.1186/s12889-019-6920-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Logistic regression analysis of the 1555-provider baseline survey, adjusting for qualifications, age, experience, region, training and facility characteristics. Training was associated with increased odds of knowledge ("aOR 4.97, 95% CI 2.65-9.34"), and being from Europe with aOR 3.10 (95% CI 1.08–8.91).
 

@@ -54,3 +54,4 @@ CFA on the same survey (n = 1253) tested the institutional support measurement m
 - The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
 - [The hypothesized structural model of environmental factors, psychological health, and GPA fit the data well](sem-model-fit-environmental-psychological-gpa.md) — related
+- [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related

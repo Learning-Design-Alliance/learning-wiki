@@ -50,6 +50,7 @@ A specific implementable component of the article's SBME design: between their s
 
 - [Use an animated training video demonstrating the guided-surgery workflow to prepare inexperienced operators before hands-on performance](animated-video-tutorial-novice-surgical-training.md)
 - [Implement a two-stage integrated PBL process: pre-class preparation, in-class group case discussion, self-study, and next-class group reporting](integrated-pbl-session-implementation-strategy.md)
+- [Move factual and preparatory learning to presession work to maximize active, hands-on in-session learning](presession-prep-maximize-hands-on-learning.md)
 
 ## Examples
 -

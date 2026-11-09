@@ -16,6 +16,8 @@ sources:
     author: Kim Kyong-Jee, Kim Giwoon
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: kim-kyong-jee-2019-2
     resource: "https://doi.org/10.3946/kjme.2019.131"
     title: "Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131"
@@ -29,7 +31,7 @@ sources:
 # Procedural-skills videos received the most hits among e-MedEdu online videos, averaging 4,163.26 hits per clip versus 1,043.47 for patient-encounter clips
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive usage statistics on online videos (Table 4) from the same 7-year hit dataset. Procedural-skills videos averaged 4,163.26 hits per clip versus 1,043.47 for patient-encounter clips; no inferential comparison is reported.
 

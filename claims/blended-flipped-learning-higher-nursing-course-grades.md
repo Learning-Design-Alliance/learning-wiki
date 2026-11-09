@@ -54,3 +54,4 @@ Quasi-experimental post-test-only study of 125 second-year nursing students in t
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Undergraduate students taught Neurosurgery with a flipped classroom obtained a significantly higher mean exam score than students taught by traditional lecture in the same academic year](fc-neurosurgery-higher-mean-score.md) — related
 - [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related
+- [Students taught with a flipped classroom methodology obtained higher quantitative exam grades than students taught with lecture-based learning in a social work university course](flipped-classroom-higher-quantitative-exam-grades-social-work.md) — related

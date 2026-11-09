@@ -47,7 +47,8 @@ The article recommends mobile telesimulation as a way to provide expert mentorsh
 - [Both trained groups (remote and face-to-face) significantly outperformed the untrained control group on procedural performance](../claims/trained-groups-outperform-control-chest-tube.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use video-based 'indirect' rating as a resource-sparing alternative to on-site expert rating of procedural skills](indirect-video-rating-procedural-skills-strategy.md)
 
 ## Examples
 -

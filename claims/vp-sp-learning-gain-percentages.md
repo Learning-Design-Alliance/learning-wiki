@@ -51,3 +51,4 @@ Descriptive learning-gain analysis in the randomized trial, calculated by the fo
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Simulation training improves attitudes toward suicide risk assessment compared with active comparators immediately after training and compared with inactive comparators at 2–4 months](simulation-training-improves-attitudes-suicide-risk.md) — related
 - [Dental students taught with virtual patients significantly outperform small-group teaching peers on a theoretical test immediately after the intervention](vp-outperform-sgt-immediate-theoretical-test.md) — related
+- [VP operating cost per hour is low (USD 12) compared with high-fidelity simulators and standardized patients](vp-low-cost-per-hour.md) — related

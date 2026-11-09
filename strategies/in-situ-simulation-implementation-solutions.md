@@ -54,6 +54,7 @@ The article documents six challenges to running in situ interprofessional simula
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 - [Deliver brief, interprofessional, in situ simulation drills in vacant clinical spaces within days of real cases to implement urgent workflow changes](jit-in-situ-simulation-implementation-strategy.md)
+- [Use regular low-fidelity in situ simulation as a continuous education tool for first-line caregivers in acute care wards](regular-low-fidelity-iss-continuous-education-strategy.md)
 
 ## Examples
 -

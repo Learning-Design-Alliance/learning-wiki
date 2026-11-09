@@ -17,7 +17,7 @@ sources:
 # Mutual growth with patients as the organizing concept of spiritual care training
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The protocol was designed "based on the concept of mutual growth with patients": enhancing nurses' own spiritual health is the point of entry for building their spiritual care competency, on the premise that nurses with spiritual health better recognize and respond to patients' spiritual needs. The authors describe team members forming "a cooperative learning team that enjoyed mutual growth," and argue that helping patients find meaning also strengthens nurses' own meaning-making, making the process "mutually influencing and mutually reinforcing."

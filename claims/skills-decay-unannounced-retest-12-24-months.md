@@ -17,12 +17,14 @@ sources:
     author: Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Offiah G, Ekpotu LP, Murphy S, Kane D, Gordon A, O’Sullivan M, Sharifuddin SF, Hill ADK, Condron CM. (2019). Evaluation of medical student retention of clinical skills following simulation training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1663-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Prospective observational cohort of 51 final-year RCSI medical students who volunteered for unannounced task-trainer retesting of 7 skills taught over two years. The Results section reports that "55% did not achieve the MPS in 3 or more skills and 4% did not achieve the MPS in 5 or more skills." No effect size is printed.
 

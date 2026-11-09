@@ -72,6 +72,7 @@ Gamification reliably increases short-term engagement and activity completion, b
 - [Hybrid gamification design combining traditional instruction with gamified elements that emphasize individual progress and feedback over intense competition](hybrid-gamification-individual-progress-strategy.md)
 - [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
 - [Award digital badges through an LMS for graded challenges in a gamified unit](lms-digital-badge-challenge-strategy.md)
+- [Use postdriving feedback mechanisms (drive scoring, leaderboards, achievement badges) instead of feedback during driving to avoid distraction](postdriving-feedback-scoring-leaderboards-badges.md)
 
 ## Related Elements
 - [Provide feedback](../elements/provide-feedback.md) — points and badges are feedback delivery mechanisms; their instructional value depends on informational content

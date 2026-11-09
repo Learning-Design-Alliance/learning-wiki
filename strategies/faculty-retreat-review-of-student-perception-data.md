@@ -46,6 +46,7 @@ The authors describe sharing their perception–performance analyses with facult
 - [Student Voice In Curriculum Planning](student-voice-in-curriculum-planning.md)
 - [Use three continuous improvement mechanisms: annual Advisory Council meetings, program surveys, and weekly leadership meetings](three-mechanisms-residency-continuous-improvement.md)
 - [Strengthen PK-20 partnerships through annual summits of policy makers, practitioners, and teacher education faculty](annual-pk20-partnership-summits.md)
+- [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: Hyll Mary, Schvarcz Robert, Manninen Katri
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Technical obstacles with the Prezi presentation hindered rather than supported some students' learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hyll Mary, Schvarcz Robert, Manninen Katri. (2019). Exploring how medical students learn with the help of a digital presentation: a qualitative study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1569-z
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the interview content analysis, students reported technical obstacles: the presentation "did not load, or loaded very slowly", and most had not used Prezi before, so pausing and zooming functions went unnoticed; pausing often replayed an entire section. The authors state that in these cases the technology hindered learning.
 

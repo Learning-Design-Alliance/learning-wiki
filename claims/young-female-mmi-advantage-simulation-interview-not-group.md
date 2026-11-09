@@ -16,12 +16,14 @@ sources:
     author: Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Young female candidates outperform young male candidates at MMI simulation and interview stations but not at group stations, with the gender gap smaller or non-significant among candidates aged 21 or older
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Knorr M, Meyer H, Sehner S, Hampe W, Zimmermann S. (2019). Exploring sociodemographic subgroup differences in multiple mini-interview (MMI) performance based on MMI station type and the implications for the predictive fairness of the Hamburg MMI. BMC Medical Education. https://doi.org/10.1186/s12909-019-1674-z
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Hierarchical linear model of 11,658 station ratings within 1438 first-attempt MMI candidates over 8 years, with stations nested in candidates nested in year. The model found a significant gender x station type interaction (p = 0.003) and gender x age interaction (p = 0.003); "There were no gender or age effects in MMI group station performance."
 
@@ -49,3 +51,4 @@ Hierarchical linear model of 11,658 station ratings within 1438 first-attempt MM
 - [Candidates with German as their first language performed better at the Hamburg MMI irrespective of station type (b = 0.16, p < 0.001)](native-german-speakers-better-mmi-all-station-types.md) — related
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
 - [Candidates with a medical family background (at least one parent who is a physician) showed no significant performance differences at any MMI station type](no-medical-family-background-advantage-mmi.md) — related
+- [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — reports the opposite

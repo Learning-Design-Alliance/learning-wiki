@@ -55,3 +55,4 @@ Post-training satisfaction questionnaire in the 26-participant sample. "The mean
 - [GP-trainees showed high acceptance of the converted digital seminar format, with 99% willing to participate in an online seminar again and 58% satisfied or very satisfied with the implementation.](kwbw-webinar-high-acceptance-gp-trainees.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Students rate the interprofessional training's content and teaching methods as appropriate](ipe-content-method-satisfaction-ratings.md) — related
+- [Physiotherapists were highly satisfied and fully engaged with the E-SOLAS e-learning training program](e-solas-high-satisfaction-engagement.md) — related

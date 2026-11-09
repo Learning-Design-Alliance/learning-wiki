@@ -16,12 +16,14 @@ sources:
     author: Azizi Seyyed Mohsen, Soroush Ali, Khatony Alireza
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # All six BSMAS subscales (salience, tolerance, mood modification, withdrawal, relapse, conflict) correlate negatively and significantly with GPA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Azizi Seyyed Mohsen, Soroush Ali, Khatony Alireza. (2019). The relationship between social networking addiction and academic performance in Iranian students of medical sciences: a cross-sectional study. BMC Psychology 7, 28. https://doi.org/10.1186/s40359-019-0305-0
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Spearman correlation analysis in the same 360-student cross-sectional study; Table 3 prints per-subscale coefficients, all negative and significant, with a printed effect size for relapse of r = −0.215 (p = 0.000) and for conflict of r = −0.205 (p < 0.001).
 

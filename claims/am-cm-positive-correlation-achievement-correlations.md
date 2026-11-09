@@ -87,3 +87,4 @@ Bivariate correlation in the TIMSS 2019 descriptive statistics: achievement rela
 - [In 14 countries, a cubic effect of autonomous motivation best fit the motivation-achievement relation, explaining 10.7% of achievement variance (an 8.1% increase over the additive model)](group1-cubic-autonomy-effect-14-countries.md) — related
 - [Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — related
 - [Learning engagement is positively correlated with mathematics achievement among high school students.](learning-engagement-positive-correlation-math-achievement.md) — related
+- [Autonomous motivation correlates positively with surface, deep, and achieving strategy and with GPA](autonomous-motivation-correlates-study-strategies.md) — related

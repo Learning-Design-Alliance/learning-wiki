@@ -16,12 +16,14 @@ sources:
     author: Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C.
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # The training produces a very large improvement in medical students' hypoglycemia knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C. (2019). A brief interactive training with medical students improves their diabetes knowledge about hypoglycemia. BMC Medical Education. https://doi.org/10.1186/s12909-019-1615-x
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Pre-post assessment of the study's four hypoglycemia knowledge questions (n = 210 analyzed). Participants "averaged 55.7 ± 24.8% pre-training and 83.0 ± 22.4% post-training", p < 0.001; the article reports Cohen's d = 1.16, "indicating a very large effect".
 

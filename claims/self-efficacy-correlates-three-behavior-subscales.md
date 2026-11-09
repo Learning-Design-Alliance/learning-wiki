@@ -16,12 +16,14 @@ sources:
     author: Liu Hsing-Yuan, Wang I-Teng
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Creative teaching self-efficacy correlates with three of four creative teaching behavior subscales but not environment and opportunity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu Hsing-Yuan, Wang I-Teng. (2019). Creative teaching behaviors of health care school teachers in Taiwan: mediating and moderating effects. BMC Medical Education. https://doi.org/10.1186/s12909-019-1641-8
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Pearson correlation analysis in the 53-teacher survey; self-efficacy correlated with three CTBS subscales (r = .33 to .63) but showed no significant correlation with the environment and opportunity subscale.
 

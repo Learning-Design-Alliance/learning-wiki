@@ -67,3 +67,4 @@ Table 2 logistic regression results for the IQ ≥70 subgroup: full-time special
 ## Related Claims
 - [All very preterm children with full-scale IQ <70 or neurosensory impairment received at least one support service, and IQ <70 is more strongly associated with poor educational performance than NSI](preterm-iq70-nsi-support-need.md) — related
 - [Teacher-rated educational abilities of very preterm children with full-scale IQ ≥70 are age appropriate and do not differ from full-term controls at 11 years](very-preterm-age-appropriate-educational-abilities-iq70.md) — related
+- [Most autistic students received institutional support, but some received none even when requested, and support often targeted academic rather than social needs](autistic-students-support-received-gaps.md) — related

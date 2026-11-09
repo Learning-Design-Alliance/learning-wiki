@@ -49,3 +49,4 @@ The authors report that QMP's reporting functionalities, such as the Test Analys
 - [In one one-group study, students were reported to monitor problem-solving and correct irrelevant strategies by the end of a digital-literacy course that included self-evaluation sections; no pre-post result for self-regulation is reported](self-regulation-gains-from-self-evaluation-sections.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Students reported positive attitudes toward QMP-based automated formative evaluations](qmp-student-satisfaction-positive-attitudes.md) — related
+- [VP use enables better professor follow-up of student learning and reflection on the teaching-learning process](vp-supports-professor-follow-up.md) — related

@@ -54,3 +54,4 @@ Prospective cohort study comparing SFHC and traditional teaching groups on the N
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
 - [Baseline clinical communication self-efficacy (SE12) did not differ significantly between students allocated to the VR headset versus desktop application](se12-no-difference-between-modalities.md) — related
+- [Clinical virtual simulation does not change nursing students' general self-efficacy perceptions after a single lesson](cvs-no-self-efficacy-effect.md) — related

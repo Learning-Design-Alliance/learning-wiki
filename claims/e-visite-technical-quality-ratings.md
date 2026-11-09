@@ -53,3 +53,4 @@ Descriptive grade-scale ratings (1–6) from the 43-student evaluation: video "8
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [Most learners would have appreciated the possibility to interact with educators and/or other learners during the course](learners-requested-interaction-during-course.md) — related
 - [Live video streaming engaged a wider audience but poor lighting and audio limited its efficacy](video-streaming-engaged-audience-limited-by-audio-lighting.md) — related
+- [Students rated the Moodle e-learning environment very good, with average scores between 1.54 and 1.75 on a six-point scale](moodle-course-rated-very-good-154-175.md) — related

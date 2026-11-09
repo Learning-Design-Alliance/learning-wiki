@@ -88,3 +88,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Student-reported sleepiness at school was negatively associated with mathematics and science achievement among Norwegian 9th graders in 2019](student-sleepiness-associated-lower-achievement-2019.md) — a narrower finding that bears on this claim
 - [Treatment-seeking war-affected youth show chronic, frequent nightmares with severe sleep disturbance and daytime sleepiness at school](chronic-nightmares-sleep-disturbance-school-sleepiness.md) — related
 - [Delaying school start times reduces adolescent daytime sleepiness, with two exceptions among the reviewed studies](later-start-times-reduce-daytime-sleepiness.md) — related
+- [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](lower-ses-children-unhealthy-lifestyle-patterns.md) — related

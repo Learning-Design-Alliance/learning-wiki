@@ -17,12 +17,14 @@ sources:
     author: Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The main barriers to SBMT implementation are lack of experts, lack of school director support, lack of organisation and lack of teaching materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi. (2019). Simulation-based medical training for paediatric residents in Italy: a nationwide survey. BMC Medical Education. https://doi.org/10.1186/s12909-019-1581-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Survey results on barriers to SBMT implementation in Italian paediatric residencies. Limits to external course participation were costs including travel and accommodation (73%), lack of time (54%), and unavailability of nearby courses (29%).
 

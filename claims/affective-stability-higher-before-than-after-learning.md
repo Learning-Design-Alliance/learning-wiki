@@ -48,3 +48,4 @@ Time series analysis from the same 40-day daily diary study of medical students.
 - [Negative emotions, particularly anxiety and boredom, show greater day-to-day stability than positive emotions and anger during exam preparation](negative-emotions-greater-daily-stability-exam-prep.md) — related
 - [DSEM identifies both positive and negative feedback loops within and between daily learning sessions](dsem-positive-negative-feedback-loops-sessions.md) — related
 - [Cognitive appraisals and positive emotions form reciprocal daily feedback loops during exam preparation](daily-feedback-loops-appraisals-positive-emotions.md) — related
+- [Tutors maintain consistently high positive affect and low negative affect during teaching](tutors-high-positive-affect-low-negative-affect.md) — related

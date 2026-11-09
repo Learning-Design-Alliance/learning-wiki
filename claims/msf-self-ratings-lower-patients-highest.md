@@ -49,3 +49,4 @@ Cross-source comparison of mean item scores from the same 64-resident MSF admini
 - [The two-factor MSF structure supports graphical feedback reports that guide reflection on global domains rather than single items](msf-factor-based-feedback-reports.md) — related
 - [Patient questionnaires were difficult to collect, with only 40% of the expected forms returned from 31 of 64 residents](msf-patient-feedback-low-return-rate.md) — related
 - [Health advocate competency items had the highest proportion of Not Assessable responses](claim-health-advocate-items-highest-not-assessable-proportion.md) — related
+- [Combined-colleague assessment scores were consistently and significantly higher than managers' self-assessment scores](colleague-ratings-higher-than-self-assessment.md) — related

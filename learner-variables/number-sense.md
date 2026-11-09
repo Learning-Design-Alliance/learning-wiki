@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (105 show a difference, 22 mixed, 17 no difference) · 65 studies (29 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 30 of 65 report an effect size · 138 claims rest on one study
+> **Evidence** · 145 claims (105 show a difference, 23 mixed, 17 no difference) · 66 studies (30 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 31 of 66 report an effect size · 139 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -179,6 +179,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Embedding numerical expressions in a medical context is associated with maintained subjective numeracy](../claims/medical-context-embedding-maintains-subjective-numeracy.md) [~M] — measured as an outcome of the instruction studied
 - [Higher-year medical students score higher on both subjective and objective health numeracy than lower-year students](../claims/higher-medical-years-higher-numeracy.md) [+M] — measured as an outcome of the instruction studied
 - [Objective numeracy improved over the first-year curriculum even without the methodology course](../claims/first-year-curriculum-improves-objective-numeracy.md) [+M] — measured as an outcome of the instruction studied
+- [Pretest numerical magnitude knowledge moderates the benefit of linear-spatial materials: children with better initial numeracy accurately used advanced strategies more at posttest only in the linear-spatial condition](../claims/pretest-numeracy-moderates-linear-spatial-benefit.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

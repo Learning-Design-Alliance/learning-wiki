@@ -16,12 +16,14 @@ sources:
     author: van Andel C E E, Born M P, Themmen A P N, Stegers‐Jager K M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Overall clinical evaluations were higher under global assessment than under broadly sampled assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 van Andel C E E, Born M P, Themmen A P N, Stegers‐Jager K M. (2019). Broadly sampled assessment reduces ethnicity‐related differences in clinical grades. Medical Education, 53(3), 264–275. https://doi.org/10.1111/medu.13790
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Logistic regression in the combined 1667-student cohort. The article reports "higher clinical evaluations were received in the global assessment" (82.5%) than broadly sampled assessment (62.7%), Wald χ 2 (1) = 78.45, p < 0.01.
 

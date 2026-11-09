@@ -17,12 +17,14 @@ sources:
     author: Chin Ronald Yoon-Kong, Tjahjono Richard, Rutledge Michael John Raymond, Lambert Tim, Deboever Nathaniel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Chin Ronald Yoon-Kong, Tjahjono Richard, Rutledge Michael John Raymond, Lambert Tim, Deboever Nathaniel. (2019). The evaluation of e-learning resources as an adjunct to otolaryngology teaching: a pilot study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1618-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Post-study questionnaire distributed to all 19 students after OSCE results were released, each question scaled from 1 (strongly disagree) to 10 (strongly agree). Average scores ranged from 8.00 ± 0.88 (Q10) to 9.47 ± 0.90 (Q7) per Table 3. No inferential test was reported.
 

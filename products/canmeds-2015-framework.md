@@ -13,7 +13,7 @@ generated:
 # CanMEDS 2015 framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 review, 1 qualitative), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 qualitative, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 A physician-competency framework developed and maintained by the Royal College of Physicians and Surgeons of Canada, defining seven professional roles and their associated competencies.

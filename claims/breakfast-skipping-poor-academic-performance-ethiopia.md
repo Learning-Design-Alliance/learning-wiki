@@ -59,3 +59,4 @@ Subgroup meta-analysis of nutrition-related predictors within the review; four s
 - [Undernutrition burden was high among the sampled urban primary school children, with wasting at 34.0%, underweight at 24.0%, stunting at 23.8% and overweight at 4.3%](malnutrition-prevalence-urban-primary-schools-northern-ethiopia.md) — related
 - [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — related
 - [Breakfast eating frequency is significantly associated with academic performance among Chinese medical and dental students](breakfast-frequency-academic-performance-medical-dental.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite

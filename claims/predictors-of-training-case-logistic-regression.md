@@ -16,12 +16,14 @@ sources:
     author: Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM. (2019). Laparoscopic Training Opportunities in an Emergency Biliary Service. JSLS: Journal of the Society of Laparoendoscopic Surgeons. https://doi.org/10.4293/JSLS.2019.00031
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Binary logistic regression model (n = 2023, LR χ² = 101.87, P < .001, pseudo R² = 0.04) of perioperative parameters predictive of trainee involvement in the series. The article reports "lower age (OR, 1.3; 95% CI, 1.1-1.7)" among the independent predictors.
 

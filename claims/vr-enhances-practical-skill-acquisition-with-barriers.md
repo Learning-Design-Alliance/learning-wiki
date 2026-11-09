@@ -134,3 +134,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Simulation training enhances psychomotor skills and supports the transition from classroom learning to clinical practice in obstetrics and gynaecology](simulation-enhances-psychomotor-skills-obgyn.md) — related
 - [Prior evidence suggests IVR training can outperform video demonstration for surgical skill acquisition, though in a different procedural domain](ivr-outperforms-video-for-skill-acquisition-background.md) — a narrower finding that bears on this claim
 - [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related
+- [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related

@@ -51,3 +51,4 @@ Across all three phases, inexperienced endoscopists showed higher PDR-5 than exp
 - [Endoscopist-level analysis showed mixed individual changes with no group-level upskilling or deskilling trend](endoscopist-level-mixed-changes-no-group-trend.md) — related
 - [No upskilling or deskilling was observed after CADe exposure regardless of experience level](no-upskilling-or-deskilling-after-cade-exposure.md) — related
 - [Patient sex, age, and colonoscopy indication significantly affected PDR-5 across all endoscopist groups](sex-age-indication-affect-pdr5.md) — related
+- [A self-administered learning program combining still pictures with an in vivo practice phase achieves expert-level optical diagnosis of diminutive colorectal lesions](self-administered-program-expert-optical-diagnosis.md) — related

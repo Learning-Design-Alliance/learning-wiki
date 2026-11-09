@@ -51,3 +51,4 @@ Descriptive analysis of the post-training questionnaire (5-point Likert scale) c
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Clinical simulation for caregiver training was usually combined with complementary strategies such as dialogued classes, conversation circles and audiovisual resources](simulation-combined-with-complementary-strategies-caregivers.md) — related
 - [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related
+- [Both physicians and nurses expressed high interest in participating in an interprofessional course on pediatric emergencies](high-interest-interprofessional-emergency-course.md) — related

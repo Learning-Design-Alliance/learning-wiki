@@ -17,12 +17,14 @@ sources:
     author: Wei Chung-Jen, Lu Tzu-Hsuan, Chien Shu-Chen, Huang Wan-Tsui, Liu Yueh-Ping, Chan Cho-Yu, Chiu Chiung-Hsuan
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # PGY2 trainees scored significantly better than PGY1 trainees in organization and efficiency, communication skills, and overall performance on the pharmacist Mini-CEX
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Wei Chung-Jen, Lu Tzu-Hsuan, Chien Shu-Chen, Huang Wan-Tsui, Liu Yueh-Ping, Chan Cho-Yu, Chiu Chiung-Hsuan. (2019). The development and use of a pharmacist-specific Mini-CEX for postgraduate year trainees in Taiwan. BMC Medical Education. https://doi.org/10.1186/s12909-019-1602-2
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Cross-sectional main study of 53 PGY trainees rated by 22 senior pharmacist evaluators at three Taiwanese teaching hospitals, analyzed with the Kruskal-Wallis test. The article reports "PGY2 trainees performed significantly better (P < 0.05) than PGY1 trainees" in the three named domains; Table 2 shows post-hoc PGY2 > PGY1 for each.
 

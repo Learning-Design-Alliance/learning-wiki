@@ -16,12 +16,14 @@ sources:
     author: Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Paternal education independently predicts adolescent educational attainment at age 17, with high-educated fathers conferring higher odds than medium-educated fathers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H. (2019). The pathways from parental and neighbourhood socioeconomic status to adolescent educational attainment: An examination of the role of cognitive ability, teacher assessment, and educational expectations. PLoS ONE 14(5): e0216803. https://doi.org/10.1371/journal.pone.0216803
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Supplementary ordinal logistic regression with all three SES measures entered simultaneously, using medium-educated parents as the reference category; the model printed "OR = 2.36, 95% CI [1.92–2.90], p < .001" for high- versus medium-educated fathers. The article reports the odds ratios for paternal education showed a pattern similar to maternal education.
 

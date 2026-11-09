@@ -74,3 +74,4 @@ Model-estimated response bias parameter b in Exp. II context-setting blocks diff
 - [Prior influence on perception is stronger in autistic than neurotypical adults in a stable context, but not after a frequency-range change](stronger-prior-influence-asd-stable-context.md) — related
 - [Autistic adults adjust their prior expectation more slowly than neurotypical adults after a change in stimulus frequency range](slower-prior-adjustment-asd.md) — related
 - [Sensory adaptation occurs in neurotypical but not autistic adults in tactile detection](no-sensory-adaptation-asd.md) — related
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](sensory-overload-routine-change-university-autism.md) — related

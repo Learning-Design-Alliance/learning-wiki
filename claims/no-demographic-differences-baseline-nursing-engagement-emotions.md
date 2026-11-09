@@ -59,3 +59,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [Teaching-skill gains were unrelated to sociodemographic variables including gender, residency year, prior teaching experience, and undergraduate methodology](snapps-gains-independent-of-demographics.md) — related
 - [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related
 - [No statistically significant differences in nomophobia scores across academic level, residential status, marital status, college, or student habits](no-sociodemographic-differences-nomophobia-scores.md) — related
+- [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related

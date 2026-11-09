@@ -49,3 +49,4 @@ Authors' cost accounting in the Discussion, contrasting the 336 € total budget
 - [COLOMASTER is priced comparably to cadaver use and above porcine models, but avoids cadaver facility and animal anesthesia costs](colomaster-cost-comparison-cadaver-porcine.md) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
 - [Cadaver-based colonoscopy simulation is presented as a low-cost alternative to commercial endoscopy simulators, whose high cost and low accessibility hinder training](cadaver-simulator-cost-advantage.md) — related
+- [The training model costs under $2 US excluding the catheter set and is reusable, unlike commercial single-use silicone bladder models](cystostomy-model-cost-effectiveness-reusability.md) — related

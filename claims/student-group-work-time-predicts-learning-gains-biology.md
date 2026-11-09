@@ -16,12 +16,14 @@ sources:
     author: Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Time spent on student group work is the strongest positive predictor of learning gains across 31 undergraduate biology sections
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M. (2019). Small changes, big gains: A curriculum-wide study of teaching practices and student learning in undergraduate biology. PLoS ONE. https://doi.org/10.1371/journal.pone.0220900
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational study of 31 biology sections using COPUS data and concept-inventory effect sizes; model averaging over the top 2ΔAICc models showed S-GW retained in all top models with averaged coefficient 1.07 [0.46,1.67], described as "coefficients differed from zero".
 

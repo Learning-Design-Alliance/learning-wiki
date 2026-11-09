@@ -50,3 +50,4 @@ In the same single-group pre-post quasi-experimental study, satisfaction was mea
 - [Science teachers reported high satisfaction with the quality and usability of the online asynchronous PD, including positive beliefs about tie quality, depth of interaction, and access to expertise.](high-satisfaction-social-capital-online-asynchronous-pd.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Student teachers report high satisfaction with virtual exchange](student-teachers-satisfied-with-virtual-exchange.md) — related
+- [Evidence about the impact of CPD on healthcare outcomes is limited and rarely goes beyond satisfaction measures.](cpd-impact-evidence-limited.md) — a broader claim this one bears on

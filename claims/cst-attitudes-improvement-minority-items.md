@@ -16,6 +16,8 @@ sources:
     author: Jin Hye Kyung, Park So Hyun, Kang Ji Eun, Choi Kyung Suk, Kim Hong Ah, Jeon Min Seon, Rhie Sandy Jeong
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: jin-hye-kyung-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1607-x"
     title: "Jin Hye Kyung, Park So Hyun, Kang Ji Eun, Choi Kyung Suk, Kim Hong Ah, Jeon Min Seon, Rhie Sandy Jeong. (2019). The influence of a patient counseling training session on pharmacy students’ self-perceived communication skills, confidence levels, and attitudes about communication skills training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1607-x"
@@ -42,7 +44,7 @@ sources:
 
 Jin Hye Kyung, Park So Hyun, Kang Ji Eun, Choi Kyung Suk, Kim Hong Ah, Jeon Min Seon, Rhie Sandy Jeong. (2019). The influence of a patient counseling training session on pharmacy students’ self-perceived communication skills, confidence levels, and attitudes about communication skills training. BMC Medical Education. https://doi.org/10.1186/s12909-019-1607-x
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Paired t-test with Bonferroni correction on the modified CSAS attitude scale (19 items, 5-point Likert) in the same sixty-student pre-post survey; the "pre, 4.00 (0.45) vs. post, 4.22 (0.45) p < 0.001" total score improved significantly.
 

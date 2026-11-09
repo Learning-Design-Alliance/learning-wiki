@@ -58,3 +58,4 @@ Randomized controlled trial of 164 second-year medical students, gender-matched 
 - [Flexible e-learning video teaching improves medical students' diagnostic accuracy of funduscopic findings more than a face-to-face lecture](elearning-video-improves-fundus-diagnostic-accuracy.md) — related
 - [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related
 - [Face-to-face lecture teaching alone produced no statistically significant pre-to-post gain in funduscopic diagnostic accuracy](f2f-lecture-no-accuracy-gain.md) — related
+- [Perceived medical communication competency improves significantly after a lecture-based communication curriculum but shows no significant gain after a clinical skills-based simulation section](mc-competency-improves-post-lbc-not-post-cbc.md) — related

@@ -50,3 +50,4 @@ Quasi-experimental comparison of 53 simulation-trained versus 27 control final-y
 - [The increase in ALS self-efficacy perception does not differ significantly between women and men](no-gender-difference-als-self-efficacy-change.md) — related
 - [TMTD produces greater improvement in self-efficacy than the regular lecture method in MS patients](tmtd-superior-to-lecture-for-ms-self-efficacy.md) — a narrower finding that bears on this claim
 - [Self-reported CSES-Perception scores showed no statistically significant pre-post change in any study group, with only descriptive shifts between groups](no-significant-perception-empathy-change.md) — reports the opposite
+- [Clinical virtual simulation does not change nursing students' general self-efficacy perceptions after a single lesson](cvs-no-self-efficacy-effect.md) — reports the opposite

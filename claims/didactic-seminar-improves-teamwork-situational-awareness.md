@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: griffin-cora-2019
     resource: "https://doi.org/10.1007/s00345-019-02920-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the cited study of a single didactic NTS seminar versus control, the NTS group significantly improved teamwork and situational awareness and 'handling errors', while medical endpoints and patient outcome did not differ significantly between groups. [→ Griffin Cora 2019](#griffin-cora-2019)

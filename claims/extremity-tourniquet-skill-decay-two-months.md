@@ -62,3 +62,4 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Knowledge and skills declined significantly between post-coaching and evaluation a median of 21 months later, though remaining above baseline](eenc-gains-declined-by-21-month-evaluation.md) — related
+- [Both flipped classroom and traditional instruction groups improve EBN knowledge and self-efficacy after training, with scores declining by one month](both-groups-improve-then-decline-ebn.md) — related

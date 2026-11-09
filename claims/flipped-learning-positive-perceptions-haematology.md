@@ -76,3 +76,4 @@ Within the same perception survey, descriptive results show a minority neutralit
 - [Most students preferred fixed groups, but group accountability did not always ensure pre-class preparation](fixed-groups-preferred-accountability-limited.md) — related
 - [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](flipped-classroom-two-thirds-preference-physiotherapy.md) — related
 - [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related
+- [Students mildly prefer live lectures over video lectures for exam preparation](students-prefer-live-lectures-mildly.md) — related

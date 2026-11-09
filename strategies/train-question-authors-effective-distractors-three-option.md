@@ -44,7 +44,8 @@ Because each remaining distractor must function effectively once options are red
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](../claims/nfd-frequency-correlates-with-difficulty-and-discrimination.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the medical health education item-writing evidence base to evaluate MOOC assessment quality](medical-education-protocol-for-mooc-mcq-review.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Self-assessment of learning objectives from 23 post-scenario questionnaires (two
 - [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
 - [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related
 - [Only about half of students report applying seminar learning in the subsequent training session, hindered by a change of scenarios between sessions](limited-transfer-to-second-training-session.md) — related
+- [First-year doctors report transferring the ABCDE, ACCEPT and SBAR algorithms from simulation training to clinical practice, with SBAR followed less rigorously by staff](algorithms-transferred-to-clinical-praxis.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Liu Hsing-Yuan, Wang I-Teng
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teamwork climate negatively moderates the effect of teachers' creative teaching ability on characteristics-and-motivations creative teaching behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu Hsing-Yuan, Wang I-Teng. (2019). Creative teaching behaviors of health care school teachers in Taiwan: mediating and moderating effects. BMC Medical Education. https://doi.org/10.1186/s12909-019-1641-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Moderated regression using the PROCESS macro with mean-centered variables in the same 53-teacher survey. The interaction term "TW x CTA" was significant and negative (β = −0.01, p < 0.001), confirming Hypothesis 2.
 

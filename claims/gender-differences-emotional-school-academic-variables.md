@@ -16,18 +16,22 @@ sources:
     author: Bully P., Jaureguizar J., Bernaras E., Redondo I.
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
   - id: bully-p-2019-2
     resource: "https://doi.org/10.3390/ijerph16122231"
     title: "Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231"
     author: Bully P., Jaureguizar J., Bernaras E., Redondo I.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Male and female adolescents differed significantly in emotional symptoms, school maladjustment, academic performance, and fathers’ warmth, with a multivariate gender effect of η2p = 0.135
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Multivariate ANOVA on the study variables in the full sample of 823 students: "a significant effect of gender (F(7, 815) = 18.42, p < 0.001, η2p = 0.135)".
 
@@ -50,7 +54,7 @@ Multivariate ANOVA on the study variables in the full sample of 823 students: "a
 
 Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Post-hoc F tests from the same MANOVA found significant differences in "ESI (F(1, 821) = 17.07, p < 0.001), SM (F(1, 821) = 44.37, p < 0.001), and academic performance (F(1, 821) = 32.80, p < 0.001)", and in fathers’ warmth.
 

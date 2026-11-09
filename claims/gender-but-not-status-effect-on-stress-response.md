@@ -16,12 +16,14 @@ sources:
     author: Ghazali Daniel Aiham, Breque Cyril, Sosner Philippe, Lesbordes Mathieu, Chavagnat Jean-Jacques, Ragot Stéphanie, Oriot Denis
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Stress response differs by gender but not by professional status among EMS team members in simulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Ghazali Daniel Aiham, Breque Cyril, Sosner Philippe, Lesbordes Mathieu, Chavagnat Jean-Jacques, Ragot Stéphanie, Oriot Denis. (2019). Stress response in the daily lives of simulation repeaters. A randomized controlled trial assessing stress evolution over one year of repetitive immersive simulations. PLoS ONE 14(7): e0220111. https://doi.org/10.1371/journal.pone.0220111
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 ANOVA of Holter parameter evolution by status and gender (n = 48; Table 3). Baseline values show "60.02±8.20 for men and 71.40±8.25 for women, p<0.001" for HR and "3.59±1.70 for men and 2.45±1.22 for women, p = 0.006" for LF/HF ratio; no effect sizes are printed.
 

@@ -52,6 +52,8 @@ The article recommends two implementable actions arising from its findings: "The
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
+- [Use learning-by-teaching of BLS to community health professionals as a curricular activity combining student learning with knowledge dissemination](bls-learning-by-teaching-community-course-strategy.md)
+- [Develop multi-professional simulation-based training courses so nurses and doctors train the same algorithms and non-technical skills together](multi-professional-sbt-courses-strategy.md)
 
 ## Examples
 -

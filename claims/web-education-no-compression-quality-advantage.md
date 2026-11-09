@@ -16,12 +16,14 @@ sources:
     author: Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Hand placement for compressions was performed more correctly in the BLS group at six months, while compression depth and rate showed no significant group differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan. (2019). Effectiveness of web-based education in addition to basic life support learning activities: A cluster randomised controlled trial. PLoS ONE. https://doi.org/10.1371/journal.pone.0219341
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Secondary outcome from the retention test of the cluster randomised controlled trial, measured with the SkillReporting system and direct observation. The Results section reports the direction favouring BLS for hand placement and "no significant differences" for depth and rate; Table 2 prints hand placement correct at 20.0% vs 25.4% (p = 0.02). No effect size is reported.
 

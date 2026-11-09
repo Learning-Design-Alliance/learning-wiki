@@ -64,6 +64,7 @@ The number line's power comes from forcing a mapping between numerical magnitude
 - [Estimation Activities](../strategies/estimation-activities.md) — blank-line placement is a core estimation task
 - [Game-Based Learning](../principles/game-based-learning.md) — linear board games are the best-evidenced delivery format for young learners
 - [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
+- [Explicitly direct children to compare addends' magnitudes during arithmetic practice with linear materials](compare-addends-magnitudes-during-arithmetic-practice.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling placement reasoning before independent estimation

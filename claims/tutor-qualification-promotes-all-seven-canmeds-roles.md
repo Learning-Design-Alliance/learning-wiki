@@ -17,12 +17,14 @@ sources:
     author: Homberg Angelika, Hundertmark Jan, Krause Jürgen, Brunnée Merle, Neumann Boris, Loukanova Svetla
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Tutors and training coordinators mapped a structured didactic tutor qualification programme's modules to all seven CanMEDS roles between them, with only the tutors assigning the health-advocate role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Homberg Angelika, Hundertmark Jan, Krause Jürgen, Brunnée Merle, Neumann Boris, Loukanova Svetla. (2019). Promoting medical competencies through a didactic tutor qualification programme – a qualitative study based on the CanMEDS Physician Competency Framework. BMC Medical Education. https://doi.org/10.1186/s12909-019-1636-5
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative curricular mapping in which two tutors and three training coordinators independently assigned the programme's module components to CanMEDS key competencies and reached consensus within groups. The article reports "competencies of all seven CanMEDS roles" were promoted, with high agreement between the two rater groups. The health-advocate role "is only assigned to individual modules by the tutors, but not by the training coordinators". The finding is a mapping of curriculum content by five raters, not a measure of what tutors learned.
 

@@ -67,3 +67,4 @@ Correlational analysis of self-assessment versus objective performance in the sa
 - [Distributed preclinical practice is associated with roughly twofold odds of complete simulated calculus removal versus massed training](distributed-training-calculus-removal-or.md) — related
 - [The sonic scaler is faster than Gracey curettes across all strata, with no significant difference in cleaning effectiveness](sonic-scaler-faster-than-gracey.md) — related
 - [Distributed preclinical practice is associated with higher plaque-removal effectiveness than massed block training in dental students](distributed-preclinical-training-higher-esp.md) — related
+- [Teaching staff judge the performance and preparation of treatment and control students in the practical course as equal despite measured learning differences](staff-judgment-null-despite-learning-gain.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M. (2019). Small changes, big gains: A curriculum-wide study of teaching practices and student learning in undergraduate biology. PLoS ONE. https://doi.org/10.1371/journal.pone.0220900
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Section-level comparison of 31 sections, most using clickers (n = 26) and other group work (n = 26) but fewer than half using worksheets (n = 10). The authors note widespread clicker use limited their ability to detect a clicker effect.
 

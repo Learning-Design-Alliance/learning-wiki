@@ -61,3 +61,4 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [Ms Excel can be used to instruct most of the Basic Statistics Course content conceptually with pre-service science teachers](excel-feasible-teaching-basic-statistics-course.md) — related
 - [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](action-research-epistemic-shift.md) — related
 - [Action research shifted teacher-researchers from a problem-fixing orientation to a problem-posing orientation](action-research-shifts-to-problem-posing.md) — related
+- [Grounding curriculum development in conceptual frameworks and a systematic process (Kern) enabled scholarly dissemination of a pediatrics curriculum beyond the authors' institution](kern-framework-scholarly-dissemination-pediatrics-curriculum.md) — related

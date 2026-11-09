@@ -12,7 +12,7 @@ generated:
 # Observer-based process mining method for process-oriented feedback in procedural medical training
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes a five-stage method — video recording, video tagging, event log generation, model discovery, and model analysis — inspired by the PM2 methodology, in which "event logs are not generated automatically" but are built from off-line observation of recorded videos by medical specialists. Discovery models of each student's execution are compared against expert (EXP) models to identify rework, incorrect activity order, and slow activities or transitions, complementing checklist- and GRS-based feedback with a process perspective.

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (143 show a difference, 48 mixed, 32 no difference) · 119 studies (40 causal, 39 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 30 of 119 report an effect size · 219 claims rest on one study
+> **Evidence** · 229 claims (145 show a difference, 51 mixed, 33 no difference) · 122 studies (41 causal, 40 associational, 17 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 31 of 122 report an effect size · 225 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -260,6 +260,12 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Screen-based sedentary behavior is negatively associated with physical fitness in girls but not significantly in boys after full adjustment](../claims/screen-sb-physical-fitness-girls-only.md) [~M] — learners who differ on it differ in outcomes
 - [Study-based sedentary behavior is not significantly associated with physical fitness after adjusting for age](../claims/study-based-sb-no-physical-fitness-association.md) [-M] — learners who differ on it differ in outcomes
 - [The change in motor skills has a borderline significant association with the change in academic achievement.](../claims/motor-skills-change-gpa-borderline.md) [~W] — learners who differ on it differ in outcomes
+- [A 9-month classroom-based physical activity intervention did not affect executive functions, aerobic fitness, or body mass index in 7-year-olds](../claims/active-math-no-effect-secondary-outcomes.md) [-M] — measured as an outcome of the instruction studied
+- [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](../claims/recency-aerobic-fitness-final-year-exam-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](../claims/cumulative-aerobic-fitness-bctjh-exam-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Physical inactivity is associated with low academic performance in junior grades but not overall or in senior grades](../claims/physical-inactivity-academic-performance-junior-grades-only.md) [~M] — learners who differ on it differ in outcomes
+- [The final-year fitness advantage equals the two-year advantage in language-based subjects: F3 students were not significantly different from 2F students in language, foreign language and social science](../claims/f3-not-inferior-to-2f-language-subjects.md) [~M] — learners who differ on it differ in outcomes
+- [The fitness–achievement association is subject-dependent: stronger for math, science and social science than for language and foreign language](../claims/subject-dependent-fitness-achievement-association.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

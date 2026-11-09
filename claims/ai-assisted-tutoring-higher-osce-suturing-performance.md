@@ -16,18 +16,22 @@ sources:
     author: Yang Ying-Ying, Shulruf Boaz
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: yang-ying-ying-2019-2
     resource: "https://doi.org/10.3352/jeehp.2019.16.7"
     title: "Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7"
     author: Yang Ying-Ying, Shulruf Boaz
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In a prospective pilot study, the expert-led+AI tutoring group achieved higher end-of-surgical-block OSCE suturing/ligature performance than both the expert-led and regular groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Prospective comparative pilot at Taipei VGH with interns in regular (n=25), expert-led (n=24), and expert-led+AI (n=23) groups. The results report that "a significantly greater percentage of interns in the expert-led+AI tutoring group showed improvements" than the expert-led group; no effect size is printed.
 
@@ -50,7 +54,7 @@ Prospective comparative pilot at Taipei VGH with interns in regular (n=25), expe
 
 Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Table 2 of the pilot study reports end-of-block OSCE technical performance means with superscripted P<0.05 contrasts of the expert-led+AI group versus both the expert-led group (a) and the regular group (b); the "30% increase from baseline" is as printed. No effect size is reported.
 

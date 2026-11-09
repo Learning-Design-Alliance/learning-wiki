@@ -17,7 +17,7 @@ sources:
 # Multi-component HIV and AIDS programme design combining case studies, accredited training, clinical competencies, mentorship, repeated skills-practice sessions and a dedicated resource room
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 associational), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size
 
 ## Description
 The programme's design pattern combines six innovative processes: case studies targeting each year of study, NIMART training, HIV and AIDS clinical competencies, clinical mentorship that 'reinforces the correlation of theory to practice', twice-weekly HIV morning sessions, and an HIV resource room within the nursing clinical skills laboratory. Sessions used lectures, group discussions, clinical skills demonstration, a 1-week workshop, and electronic and visual media. Students could practise skills repeatedly 'until full mastery of the skill has been achieved by the students'.

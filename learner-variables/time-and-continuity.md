@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (154 show a difference, 54 mixed, 28 no difference) · 204 studies (101 causal, 48 associational, 24 review, 15 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 41 of 204 report an effect size · 232 claims rest on one study
+> **Evidence** · 238 claims (155 show a difference, 55 mixed, 28 no difference) · 206 studies (102 causal, 48 associational, 24 review, 15 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 41 of 206 report an effect size · 234 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -293,6 +293,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Delaying school start times is associated with improved mood, less illness absenteeism, better attention and reaction time, and reduced vehicle accident rates (by 16.5%)](../claims/later-start-secondary-outcomes-mood-accidents.md) [+M] — measured as an outcome of the instruction studied
 - [Health improvement activity is positively associated with attendance among high FSM schools, but organizational commitment shows a negative association with attendance in low FSM schools](../claims/health-improvement-attendance-fsm-interactions.md) [~M] — measured as an outcome of the instruction studied
 - [No intervention effect among high compliers at follow-up, suggesting an optimal dosage range of 1030–1347 minutes over two years](../claims/gbg-no-high-complier-effect-optimal-dosage.md) [-M] — an instructional effect differs with it
+- [Course-script knowledge shows a significant time-by-condition interaction: the treatment group increases continuously while the control group first decreases](../claims/time-condition-interaction-course-script-knowledge.md) [~M] — an instructional effect differs with it
+- [Students instructed to learn in dyads spend more time on task during the self-study phase than students in the other groups](../claims/dyadic-instruction-increases-time-on-task.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

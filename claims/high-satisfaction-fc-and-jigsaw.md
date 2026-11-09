@@ -53,3 +53,4 @@ A 12-item 5-point Likert satisfaction questionnaire (Cronbach's alpha 0.93) was 
 - [Nurses in the flipped classroom group reported substantially higher satisfaction with the teaching method, its effectiveness, and the overall educational experience than the lecture-based group](fc-higher-satisfaction-hemodialysis-training.md) — related
 - [Flipped classroom students reported significantly higher satisfaction than traditional lecture students](flipped-classroom-higher-satisfaction-gondar.md) — related
 - [Student satisfaction was significantly lower in the flipped classroom group than in the lecture group on course content, learning, prepared content, and total satisfaction](flipped-classroom-lower-satisfaction-than-lecture.md) — reports the opposite
+- [Student satisfaction with the subject and teaching methodology did not differ significantly between flipped classroom and lecture-based groups](flipped-classroom-no-satisfaction-difference-social-work.md) — related

@@ -55,3 +55,4 @@ Fisher exact test comparisons of complication occurrence between periods. Minor 
 - [In one uncontrolled pre-post study, neurological complication rates fell from 3.2% before to 1.0% after CDHT, and allergic reaction rates fell from 4.3% to 3.2%; neither change was statistically significant](cdht-no-safety-compromise-neurologic-allergic.md) — related
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
 - [Conversion to open surgery decreased across the training periods, reaching the lowest rate after SLSST](slsst-era-lower-conversion-rate.md) — reports the opposite
+- [The apprenticeship model of endoscopy training carries patient-safety, efficiency, and feedback-consistency drawbacks](apprenticeship-model-drawbacks-endoscopy.md) — related

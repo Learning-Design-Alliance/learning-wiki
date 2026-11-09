@@ -17,7 +17,7 @@ sources:
 # Proficiency-based VR training with performance targets, feedback, and structured self-assessment
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The training design sets movement and time targets for each substep, delivers immediate feedback (a chime, visual progression, and praise from an audio file of a senior surgeon's voice), and ends each simulation with a summary screen of step-specific scores and a composite proficiency score. Participants were "instructed to continue training on the simulator until they reached a proficiency score of 85 or higher five times in a row." After each session, participants identified areas needing improvement and reflected in writing on how to improve, which the authors intended to stimulate deliberate practice.

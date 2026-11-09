@@ -13,7 +13,7 @@ generated:
 # Sensory Integration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 18 claims (10 show a difference, 5 mixed, 3 no difference) · 8 studies (6 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 8 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (11 show a difference, 5 mixed, 3 no difference) · 9 studies (6 causal, 1 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 3 of 9 report an effect size · 19 claims rest on one study
 
 ## Description
 Sensory integration is the brain's capacity to receive, process and organise information arriving through several senses at once, such as sights, sounds, smells and touch, and turn it into appropriate physical and emotional responses. When it is difficult for a learner, sensory input can interfere with focusing on reading, writing or mathematics, and the LVN describes knock-on effects on peer relationships, participation in class activities and sleep, all of which can make learning and engagement harder. Learners can have higher or lower thresholds for input in a given sense, and difficulty can show as over-sensitivity or as sensory-motor difficulty. The LVN covers it from pre-kindergarten to grade 12, and notes that its link with mathematics performance weakens as children get older. It is measured with sensory profiles completed by parents, teachers or learners themselves, and with clinical test batteries of visual, tactile and kinaesthetic processing and motor performance. It overlaps with [self-regulation](self-regulation.md), since integration combines sensory processing with behavioural regulation, and with [learning disabilities and developmental differences](learning-disabilities.md).
@@ -53,6 +53,7 @@ Sensory integration is the brain's capacity to receive, process and organise inf
 - [From pre-test to post-test, fingertip sensitivity rose and grip strength fell in both hands in one group with no comparison group](../claims/sensitivity-gain-inverse-strength-loss-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Sensitivity changes differ exploratorily by sex, with women improving and men worsening on non-dominant fingertip discrimination](../claims/sex-difference-sensitivity-change-exploratory.md) [~M] — an instructional effect differs with it
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](../claims/home-training-improves-tactile-sensitivity-dental-students.md) [+W] — measured as an outcome of the instruction studied
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](../claims/sensory-overload-routine-change-university-autism.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sensory Profile 2 (SP2)** (Dunn, 2014): parent and teacher questionnaires on sensory processing, praxis and social participation from birth to about 15, in several languages.

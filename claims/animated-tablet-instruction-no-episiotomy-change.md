@@ -16,12 +16,14 @@ sources:
     author: Zimmo Kaled Mikki, Laine Katariina, Fosse Erik, Zimmo Mohammed, Ali-Masri Hadil, Böttcher Bettina, Zucknick Manuela, Vikanes Åse, Hassan Sahar
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Animated instruction videos on tablets alone produced no significant change in episiotomy rates in intervention hospitals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zimmo Kaled Mikki, Laine Katariina, Fosse Erik, Zimmo Mohammed, Ali-Masri Hadil, Böttcher Bettina, Zucknick Manuela, Vikanes Åse, Hassan Sahar. (2018). Impact of animated instruction on tablets and hands-on training in applying bimanual perineal support on episiotomy rates: an intervention study. International Urogynecology Journal. https://doi.org/10.1007/s00192-018-3711-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Results of the interventional cohort study comparing episiotomy rates before and after the tablet video intervention in Hospitals 1–4; the reported OR of 0.96 with CI crossing 1 indicates no significant change. Null result; equivalence was not tested.
 

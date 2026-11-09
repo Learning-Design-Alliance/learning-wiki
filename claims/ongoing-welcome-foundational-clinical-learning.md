@@ -16,12 +16,14 @@ sources:
     author: Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Daily and ongoing welcome practices are foundational to student learning in exemplar clinical environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim. (2019). “They cared about us students:” learning from exemplar clinical teaching environments. BMC Medical Education. https://doi.org/10.1186/s12909-019-1551-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Theme 1 of the thematic analysis, drawing on exemplar survey comments (31 comments on procedure-related welcome) and six ECA focus groups with 15 staff. Staff reported learning names quickly and preparing for arrival; no effect size is printed.
 

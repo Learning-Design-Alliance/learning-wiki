@@ -17,12 +17,14 @@ sources:
     author: Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Provider awareness of maternal sepsis is low: most respondents had heard of maternal sepsis but few could correctly define it or identify its initial management
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A. (2019). Factors influencing awareness of healthcare providers on maternal sepsis: a mixed-methods approach. BMC Public Health. https://doi.org/10.1186/s12889-019-6920-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Descriptive analysis of the baseline survey of 1555 providers in 48 countries. The survey found "92% (1409/1529) of respondents said they had heard about maternal sepsis" while only 15% identified the defining criteria; 43% (151/352) correctly identified antibiotics and fluids as initial treatment.
 

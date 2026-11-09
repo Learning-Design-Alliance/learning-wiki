@@ -68,3 +68,4 @@ Final assessment scores compared between the 2019 (control) and 2020 (experiment
 - [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](peer-roleplay-null-domains-mini-cex.md) — reports the opposite
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — related
 - [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — a broader claim this one bears on
+- [Volunteer simulated patient communication skills training produced higher total OSCE scores than student roleplay training among second-year medical students](volunteer-sp-cst-higher-osce-total-than-roleplay.md) — related

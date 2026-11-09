@@ -13,6 +13,8 @@ sources:
     title: Ngcobo 2019
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: ngcobo-2019-2
     title: Ngcobo 2019 (2)
     q: 2
@@ -24,7 +26,7 @@ sources:
 # Bachelor of Nursing students who completed an HIV and AIDS education programme at a selected KwaZulu-Natal university perceived knowledge gains across HIV topics, with prevention strategies highest (88.4%) and palliative care lowest (54.1%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -37,7 +39,7 @@ sources:
 
 Ngcobo, S.J. & Mchunu, G.G., 2019, 'Bachelor of Nursing students' HIV and AIDS knowledge in KwaZulu-Natal province: An evaluation study', Curationis 42(1), a1928. https://doi.org/10.4102/curationis.v42i1.1928
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive quantitative evaluation using total population sampling of programme recipients (133 of 164 targeted second- to fourth-year students), measured with a five-point Likert scale questionnaire (Section B Cronbach's alpha 0.865). Responses were categorised as 'knowledgeable' or 'unknowledgeable'; the mean average score for knowledge gain was 74.4% (n = 99).
 

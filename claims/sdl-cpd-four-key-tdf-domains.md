@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: dahn-j-2018
     resource: "https://doi.org/10.1097/ACM.0000000000002237"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 318 coded barriers and facilitators, 65.7% were coded in four key TDF domains, led by environmental context and resources (86 times, 27.0%) and social influences (73 times, 23.0%). [→ Dahn J 2018](#dahn-j-2018)
@@ -56,3 +57,5 @@ TDF-guided directed coding across the 17 included articles coded barriers and fa
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
 - [Ten of the 14 Theoretical Domains Framework domains aligned with PAL implementation themes](ten-of-fourteen-tdf-domains-aligned-pal.md) — related
 - [Both individual and organizational factors are perceived to influence competency enactment, with individual factors seen as easier to modify](ot-individual-organizational-factors-influence-competency.md) — related
+- [Four interdependent transformation theories of effective CPD were developed: transforming individual practice, skills for changing healthcare contexts, knowledge translation, and workplace cultures.](four-transformation-theories-effective-cpd.md) — related
+- [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — related

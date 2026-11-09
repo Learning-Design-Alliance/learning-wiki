@@ -53,3 +53,4 @@ The handbook's overview passage makes this claim about the field itself: it stat
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a narrower finding that bears on this claim
 - [In research-intensive managerial cultures, teaching and students have been comparatively neglected in favour of research and writing](teaching-devalued-in-research-intensive-cultures.md) — related
 - [Schools have historically neglected the education of the emotions for three stated reasons](schools-neglect-emotions-three-reasons.md) — related
+- [Medical education tacitly socializes students to attribute poor health to patients' personal responsibility while omitting social contexts](medical-education-socializes-personal-responsibility.md) — related

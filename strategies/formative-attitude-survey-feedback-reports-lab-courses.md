@@ -37,7 +37,8 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 - aligning laboratory instruction with the practices of professional research
 
 ## Related Strategies
-- 
+
+- [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
 
 ## Examples
 -

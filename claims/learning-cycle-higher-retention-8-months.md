@@ -53,3 +53,4 @@ Independent t-test comparing retention test scores (achievement test re-administ
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [Learning cycle approach-based teaching did not significantly change attitudes towards science course compared with teacher-centered teaching](learning-cycle-no-attitude-difference.md) — related
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
+- [Long-term learning at eight months did not differ significantly between flipped classroom and lecture-based groups](flipped-classroom-no-long-term-learning-difference.md) — reports the opposite

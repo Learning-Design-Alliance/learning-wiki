@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 111 claims (70 for, 38 mixed, 3 against) · 79 studies (39 causal, 14 quant-synthesis, 10 associational, 7 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 18 of 79 report an effect size · 109 claims rest on one study
+> **Evidence** · 113 claims (72 for, 38 mixed, 3 against) · 80 studies (40 causal, 14 quant-synthesis, 10 associational, 7 review, 3 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 18 of 80 report an effect size · 111 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](../claims/als-satisfaction-higher-face-to-face.md) [-W] — attached 2026-11-08 from Chaves Juan et al. (2020), which proposed "Use blended methodology with e-learning to reduce face-to-face session duration in ALS courses without apparent loss of performance".
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](../claims/students-prefer-blended-future.md) [+W] — attached 2026-11-08 from Puljak Livia et al. (2020), which proposed "Deliver health sciences education as blended learning, with practical education in person, as the post-pandemic norm".
 - [Higher-level clinical reasoning, handling of lines and wires, and dealing with out-of-textbook situations could not be achieved with the e-learning module alone](../claims/elearning-alone-limits-reasoning-lines.md) [+W] — attached 2026-11-08 from Major ME et al. (2020), which proposed "Integrate e-learning with, or closely connect it to, students' clinical placement when preparing for complex clinical environments".
+- [Blended PBL produces greater knowledge gain between pre-test and post-test than original PBL in Japanese medical students](../claims/bpbl-greater-knowledge-gain.md) [+W] — attached 2026-11-09 from Shimizu Ikuo et al. (2019), which proposed "Use quiz-embedded online self-study modules to strengthen PBL for students in examination-oriented learning cultures"; tests this page's relationship.
+- [Blended PBL raises medical students' self-efficacy and motivation triggered by group discussions more than original PBL](../claims/bpbl-higher-self-efficacy-motivation.md) [+W] — attached 2026-11-09 from Shimizu Ikuo et al. (2019), which proposed "Use quiz-embedded online self-study modules to strengthen PBL for students in examination-oriented learning cultures"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

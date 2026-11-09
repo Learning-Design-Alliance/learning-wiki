@@ -59,3 +59,4 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related
 - [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related
+- [E-learning on patient safety increased medical students' perceived preparedness for safe patient practice, sustained at one year](elpas-preparedness-increase-sustained.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Hsieh, M.-C. and Chen, T.-Y.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cluster membership is not associated with teacher sex, department, work experience, or hospital level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hsieh, M.-C. and Chen, T.-Y. (2019). Promoting innovation in the objective structured teaching examination and feedback: clustering teachers to aid teaching evaluation. Medical Education Online, 24(1). [doi:10.1080/10872981.2019.1620544](https://doi.org/10.1080/10872981.2019.1620544)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Chi-square/Fisher's exact tests of cluster membership against demographic variables in a sample of 38 clinical teachers. The article states that "No significant differences in the sex, department, experience, and group (hospital level) of these three groups of teachers were discovered", with printed p-values ranging from 0.123 to 0.895.
 

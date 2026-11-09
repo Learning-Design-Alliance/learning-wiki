@@ -60,3 +60,4 @@ Confirmatory factor analysis of FICSMath survey responses from 5,985 college cal
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
+- [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related

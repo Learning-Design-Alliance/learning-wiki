@@ -56,3 +56,4 @@ The review reports, citing Godat et al. (2007), a pilot study using survey, vide
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related
 - [Medical interns report high acceptance of VR training, with 90% agreeing it improved autonomous learning ability](vr-high-acceptance-autonomous-learning.md) — related
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — a broader claim this one bears on
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

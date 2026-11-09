@@ -52,3 +52,4 @@ Prospective pre-post interventional education study with real-world data collect
 - [Nurses report higher perceived stress than physicians during critical bronchoscopy scenarios, and nurses' self-rated stress exceeds physicians' ratings of it](nurses-higher-perceived-stress-bronchoscopy-scenarios.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
 - [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related
+- [Regular in situ simulation had no effect on the incidence of urgent intubation in the acute care ward](iss-no-effect-urgent-intubation.md) — related

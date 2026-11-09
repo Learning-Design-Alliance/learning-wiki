@@ -54,6 +54,7 @@ The article recommends that nursing education deliberately cultivate compassion,
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 - [Implement SDM EPAs through longitudinal workplace training integrated with EBM curricula and supervisor role modeling](longitudinal-workplace-training-sdm-epas-strategy.md)
+- [Use role-playing as a teaching method for clinical-skills training of operating room nursing students and revise the curriculum to include empathy](role-playing-teaching-method-or-nursing-curriculum.md)
 
 ## Examples
 -

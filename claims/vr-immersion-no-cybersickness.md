@@ -65,3 +65,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
 - [Simulator sickness decreased over virtual training relative to baseline for the conventional-cues group, with no increase for either VR group](ssq-discomfort-decreased-over-vr-training.md) — related
+- [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related

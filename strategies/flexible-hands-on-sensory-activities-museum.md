@@ -57,7 +57,8 @@ The article's implementation approach was a bank of EL activities that staff cou
 - [Educational games significantly improve self-help for eating food in 8-12-year-old educable mentally retarded girls](../claims/educational-games-improve-self-help-eating.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 
 ## Examples
 -

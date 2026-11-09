@@ -77,3 +77,4 @@ The review reports Davis et al.'s randomized assignment of sedentary overweight 
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related
 - [Aerobic exercise did not significantly improve math test performance or Stroop performance compared to non-exercise in this sample](aerobic-exercise-not-significant-vs-non-exercise.md) — related
 - [Five weeks of integrated juggling-math lessons did not significantly improve multiplication memorization performance in 10- to 11-year-olds compared with sedentary practice of the same multiplication tables](juggling-math-no-multiplication-effect.md) — related
+- [A 9-month classroom-based physical activity intervention did not affect executive functions, aerobic fitness, or body mass index in 7-year-olds](active-math-no-effect-secondary-outcomes.md) — reports the opposite

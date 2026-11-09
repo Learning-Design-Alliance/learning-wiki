@@ -53,3 +53,4 @@ Null findings from the linear mixed model analysis of the Lebanese adolescent lo
 - [Cigarette smoking and khat use were bivariably associated with poor academic performance](smoking-khat-bivariable-poor-academic-performance.md) — related
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Body mass index was negatively associated with GPA scores in children](bmi-negatively-associated-gpa.md) — related
+- [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — reports the opposite

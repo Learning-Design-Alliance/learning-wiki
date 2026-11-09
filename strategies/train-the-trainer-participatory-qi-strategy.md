@@ -54,6 +54,7 @@ The article's implementation strategy pairs a train-the-trainer faculty developm
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Iteratively refine teaching modules using learner feedback and expert review each course block](iterative-module-refinement-learner-expert-feedback.md)
 
 ## Examples
 -

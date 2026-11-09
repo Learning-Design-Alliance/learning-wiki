@@ -53,3 +53,4 @@ Construct validity test comparing three seniority groups on the RARP suturing ta
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — possibly the same claim (merge candidate)
 - [The 3D-printed LIIA model shows construct validity: MAOSATS scores differ significantly across expert, intermediate, and novice groups on the model](liia-3d-model-construct-validity.md) — related
+- [OSATS scores did not significantly distinguish groups stratified by formal professional level in the pilot study](osats-no-significant-distinction-by-professional-level.md) — related

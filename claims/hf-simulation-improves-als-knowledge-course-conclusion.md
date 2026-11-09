@@ -62,3 +62,4 @@ Meta-analysis of 15 RCTs reporting knowledge at course conclusion, synthesized i
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
 - [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — reports the opposite
 - [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related
+- [HF and LF simulation training produce equivalent gains in theoretical ALS knowledge in fourth-year medical students](hf-lf-simulation-equivalent-knowledge-gains.md) — reports the opposite

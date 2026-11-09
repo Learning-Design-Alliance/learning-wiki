@@ -16,12 +16,14 @@ sources:
     author: Dapp Laura C., Roebers Claudia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gender-specific patterns: the high-duration achievement advantage appears only in girls, while the high-duration self-concept advantage appears only in boys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Dapp Laura C., Roebers Claudia M. (2019). The Mediating Role of Self-Concept between Sports-Related Physical Activity and Mathematical Achievement in Fourth Graders. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16152658
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Subsample analyses in the same study, split by gender. The authors caution that small subsample sizes (the low-duration boys' group being the smallest) limited statistical power, so these partial differences should be interpreted with caution.
 

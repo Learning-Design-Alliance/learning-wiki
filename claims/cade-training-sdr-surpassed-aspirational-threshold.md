@@ -69,3 +69,4 @@ Logistic regression on the 6000-patient cohort identified AI-enhanced training a
 - [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related
 - [AI-trained endoscopists had longer withdrawal times (0.8 min longer) and higher odds of high-quality withdrawal time, though WT data quality was low](cade-training-longer-withdrawal-time.md) — related
 - [AI-assisted training improved detection of non-granular laterally spreading tumors smaller than 20 mm, with no differences for other LST subgroups and low analysis power](cade-training-lst-ng-small-lesion-detection.md) — related
+- [A self-administered learning program combining still pictures with an in vivo practice phase achieves expert-level optical diagnosis of diminutive colorectal lesions](self-administered-program-expert-optical-diagnosis.md) — related

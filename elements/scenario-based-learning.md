@@ -72,6 +72,7 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles](../strategies/scenario-based-lcp-facilitator-training.md)
 - [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](../strategies/og-residency-selection-assessment-strategies.md)
 - [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](../strategies/off-the-shelf-animation-scenario-production-strategy.md)
+- [Scenario-based simulation training before completing a standardized self-assessment instrument](../strategies/scenario-based-simulation-before-self-assessment.md)
 
 ## Key Sources
 - Clark, R. C. (2013). *Scenario-based e-learning*. Pfeiffer.

@@ -16,12 +16,14 @@ sources:
     author: Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Movement and time efficiency of surgical novices on a low-cost VR hysterectomy simulator increased over successive simulations and began to plateau at approximately 60 simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R. (2019). Using Low-Cost Virtual Reality Simulation to Build Surgical Capacity for Cervical Cancer Treatment. Journal of Global Oncology. https://doi.org/10.1200/JGO.18.00263
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational evaluation of ten surgical novices in Lusaka, Zambia, using the VR radical abdominal hysterectomy simulator; participants used the simulator 7.7 times on average. The article reports that "began to plateau at approximately 60 simulations," with greater variability at higher simulation counts because fewer participants completed high numbers.
 

@@ -58,6 +58,7 @@ The article prescribes a session sequence: a pre-simulation briefing that explai
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
 - [Briefing practices facilitators use to establish a safe simulation learning environment](simulation-briefing-safety-practices.md)
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
+- [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 
 ## Examples
 -

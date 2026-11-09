@@ -74,6 +74,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Structured prebriefing to establish psychological safety before the simulated scene](structured-prebriefing-psychological-safety.md)
 - [Deliver standard precautions training as biweekly mixed media sessions combining lectures, videos, role-play, and individual online supervision with feedback](mixed-media-sp-training-session-structure-strategy.md)
+- [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 
 ## Examples
 -

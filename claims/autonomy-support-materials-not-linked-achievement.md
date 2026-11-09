@@ -16,12 +16,14 @@ sources:
     author: Ayllón Sara, Alsina Ángel, Colomer Jordi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived autonomy support and provision of good materials are not directly linked to higher achievement once fixed effects are included
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ayllón Sara, Alsina Ángel, Colomer Jordi. (2019). Teachers’ involvement and students’ self-efficacy: Keys to achievement in higher education. PLoS ONE. https://doi.org/10.1371/journal.pone.0216865
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In columns (B)–(D) of the fixed-effects regressions (N = 86,038), the AUTON_1 coefficients are negative and non-significant and the STRUC_2 coefficients are near zero and non-significant; the article reports these perceptions are "not directly linked to higher levels of student achievement."
 

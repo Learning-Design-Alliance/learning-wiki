@@ -16,12 +16,14 @@ sources:
     author: Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students most valued interaction with peers and educators and flexibility of digital resources, while long seminars and preparation load were the most common complaints
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T. (2019). Learning with technology in physiotherapy education: design, implementation and evaluation of a flipped classroom teaching approach. BMC Medical Education. https://doi.org/10.1186/s12909-019-1728-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Thematic analysis of open-ended survey responses (46 respondents) categorised factors influencing learning at the seminars. Table 3 lists positive factors such as "Interaction with peers and educators" and negative factors including "Long and exhausting seminars".
 

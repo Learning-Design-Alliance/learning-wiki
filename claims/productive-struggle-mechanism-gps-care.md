@@ -16,12 +16,14 @@ sources:
     author: Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S. (2019). Using simulation to explore medical students' understanding of integrated care within geriatrics. BMC Medical Education. https://doi.org/10.1186/s12909-019-1758-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Authors' interpretation of the thematic analysis across the four themes, in the Discussion. The article defines productive struggle as experiences "where students first engage in problem solving before receiving instruction on underlying concepts". No effect size is reported.
 

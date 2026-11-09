@@ -16,12 +16,14 @@ sources:
     author: Peterson David A. M., Biederman Lori A., Andersen David, Ditonto Tessa M., Roe Kevin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Neither student sex nor the anti-bias treatment changed evaluations of male instructors, though female students rated male instructors less positively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Peterson David A. M., Biederman Lori A., Andersen David, Ditonto Tessa M., Roe Kevin. (2019). Mitigating gender bias in student evaluations of teaching. PLoS ONE. https://doi.org/10.1371/journal.pone.0216241
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Ordered logit models for male faculty by student sex (Table 4, N = 88 for instructor). Treatment coefficients for both female and male students were small and non-significant; the student-sex coefficient was -1.39 (SE 0.55), significant at p<0.05 for the instructor rating.
 

@@ -16,12 +16,14 @@ sources:
     author: Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students, teachers and standardised patients rated the OSS-worn encounter as realistic, with no significant difference between groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan. (2019). Is an obesity simulation suit in an undergraduate medical communication class a valuable teaching tool? A cross-sectional proof of concept study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029738
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Questionnaire survey in a simulated role play within a regular communication course at Tuebingen (n=246: 207 students, 22 teachers, 13 SPs). All groups rated realism "M=5.62±1.19" on a 1–7 scale; the Kruskal-Wallis test showed no significant between-group difference (χ2=2.65; df=2; p>0.05).
 

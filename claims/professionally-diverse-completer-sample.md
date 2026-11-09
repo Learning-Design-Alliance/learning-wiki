@@ -46,3 +46,4 @@ Descriptive composition analysis of the 240 completers reported in the Results s
 
 ## Related Claims
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related

@@ -17,12 +17,14 @@ sources:
     author: Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Italian paediatric residents receive very little simulation-based medical training, with 88% reporting under 5 hours in the 2015–2016 academic year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi. (2019). Simulation-based medical training for paediatric residents in Italy: a nationwide survey. BMC Medical Education. https://doi.org/10.1186/s12909-019-1581-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Nationwide cross-sectional survey of Italian paediatric residents distributed via programme directors, a web-based tool and national events. The abstract reports that "88% stated that they received less than 5 h of SBMT" and 66% had no simulation activity; Fig. 1 shows hours spent in simulation activities.
 

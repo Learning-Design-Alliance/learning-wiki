@@ -16,12 +16,14 @@ sources:
     author: Sewitch MJ, Fallone CA, Ghali P, Lee GE
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Patients preparing for colonoscopy identify five content areas for a preparation-support app: bowel preparation instructions, medication restrictions, appointment logistics, communication, and postcolonoscopy expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sewitch MJ, Fallone CA, Ghali P, Lee GE. (2019). What Patients Want in a Smartphone App That Supports Colonoscopy Preparation: Qualitative Study to Inform a User-Centered Smartphone App. JMIR Mhealth Uhealth. https://doi.org/10.2196/12242
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of 2 focus group discussions with 9 patients (7 male, 2 female) aged 50-75 who had undergone outpatient colonoscopy within 3 months. The article reports that "5 content areas emerged", enumerating bowel preparation, medication restrictions, logistics, communication, and postcolonoscopy expectations.
 

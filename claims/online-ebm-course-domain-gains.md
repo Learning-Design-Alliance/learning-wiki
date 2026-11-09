@@ -53,3 +53,4 @@ Pre-post evaluation of an online EBM course (six online didactic modules and ses
 - [Medical students who received multifaceted EBM training and searched PubMed or Medline more than three times per week increased from 9.7% to 31.7% (P<0.001)](search-frequency-increased-after-ebm-training.md) — related
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — reports the opposite
 - [A structured 15-hour critical thinking foundation course improved first-year postgraduate trainees' median CT knowledge score from 17 to 23 out of 27](ct-foundation-course-median-knowledge-score-gain.md) — related
+- [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related

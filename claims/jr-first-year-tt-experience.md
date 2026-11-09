@@ -49,3 +49,4 @@ Separate analysis of the two new Junior Registrars' first-year experience in the
 - [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related
 - [TT cases were selectively simpler, in older children, and performed during working hours on weekdays, reflecting ad hoc entrustment-based case selection](tt-case-selection-simpler-in-hours.md) — related
 - [No statistically significant difference in complications between TT and non-TT cases, supporting TT as a safe teaching model](tt-complications-no-significant-difference.md) — related
+- [The proportion of index procedures recorded as unsupervised increases through UK general surgery training and varies by procedure](unsupervised-index-procedures-increase-through-training.md) — related

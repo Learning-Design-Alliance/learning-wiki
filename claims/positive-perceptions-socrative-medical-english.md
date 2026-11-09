@@ -16,12 +16,14 @@ sources:
     author: Kim Kyong-Jee
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students report positive perceptions of and overall satisfaction with using the Socrative mobile classroom application in a medical English course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim Kyong-Jee. (2019). Enhancing students' active learning and self-efficacy using mobile technology in medical English classes. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.118
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Questionnaire survey of 46 year 2 medical students (100% response rate) in the 2016–2017 cohorts, using a 6-item perceptions scale adapted from Wash with Cronbach's α of 0.89. Item means ranged from 3.88±0.91 (motivation) to 4.23±0.72 (communicating expectations) on a 5-point scale, and "I was generally satisfied with the use of Socrative in this course" received 4.17±0.58.
 

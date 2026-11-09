@@ -52,3 +52,4 @@ Between-group comparison of training sources among participants reporting prior 
 - [All participants scored at the poor level on flow values for 100% FiO2 via face masks and nasal cannulas and key patient monitoring parameters](floor-effect-flow-fio2-monitoring-parameters.md)
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md)
 - [Knowledge of oxygen toxicity was higher among physicians than nurses](oxygen-toxicity-awareness-higher-physicians-than-nurses.md)
+- [Previous emergency training differed by profession: physicians relied on self-directed learning while nurses predominantly attended practical courses](emergency-training-mode-differs-physicians-self-directed-nurses-courses.md) — related

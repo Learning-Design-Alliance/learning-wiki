@@ -87,3 +87,4 @@ Same randomized study; Table 2 shows critical thinking self-confidence d = 0.21,
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](mind-mapping-improves-critical-thinking-disposition-nursing.md) — related
 - [Critical thinking skills, measured by CTDI-CV, showed no statistically significant improvement after the flipped classroom](ctdi-cv-no-critical-thinking-improvement.md) — related
 - [Senior nursing students earn higher critical thinking total scores than lower-grade peers](critical-thinking-total-score-increases-educational-level.md) — related
+- [Third-year medical students at Peking University showed a positive average critical thinking disposition (mean CTDI-CV 297.72)](positive-ct-disposition-medical-students.md) — related

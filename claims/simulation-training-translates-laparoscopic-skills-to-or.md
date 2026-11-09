@@ -62,3 +62,4 @@ Systematic review of randomized controlled trials examining simulation-based lap
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
 - [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related
 - [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related
+- [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related

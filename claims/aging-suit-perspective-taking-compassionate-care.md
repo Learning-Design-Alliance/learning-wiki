@@ -56,3 +56,4 @@ Repeated-measures ANOVA in the RCT: Perspective Taking interaction F(1, 80) = 4.
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Respectful and compassionate care competency did not show a statistically significant change from pre-test to post-test among nursing students in one group with no comparison group](rcc-training-no-significant-change-nursing-students.md) — related
 - [Lower-empathy students' gains appeared in fantasy, empathic concern and personal distress sub-scales but not perspective-taking](pbl-empathy-subscale-pattern.md) — related
+- [Role-playing empathy training significantly raises all three Jefferson Scale dimensions — perspective-taking, compassionate care, and standing in patient's shoes — versus control](empathy-training-raises-all-jse-dimensions.md) — related

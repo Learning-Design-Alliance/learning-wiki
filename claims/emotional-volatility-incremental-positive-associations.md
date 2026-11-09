@@ -50,3 +50,4 @@ Negative emotionality bifactor-(S-1) MSEM; although the domain and its facets we
 - The general organization reference factor is weakly negatively related to cognitive activation, student support, and teacher enthusiasm, but these associations become non-significant after controlling for covariates — related
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](teacher-level-self-efficacy-instructional-quality-association.md) — related
 - [Academic emotions show weak between-domain relations: the same emotion in different school subjects is only weakly correlated, even for similar domains](academic-emotions-weak-between-domain-relations.md) — related
+- [Enthusiasm for teaching the subject shows no significant relationship with students' performance, only a positive trend](enthusiasm-for-teaching-no-significant-relationship.md) — related

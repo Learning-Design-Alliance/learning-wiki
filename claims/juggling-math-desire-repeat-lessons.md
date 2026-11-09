@@ -16,12 +16,14 @@ sources:
     author: van den Berg V., Singh A.S., Komen A., Hazelebach C., van Hilvoorde I., Chinapaw M.J.M.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # 70% of children in the juggling-math group wanted to follow the program more often, compared with 20% in the sedentary control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 van den Berg V., Singh A.S., Komen A., Hazelebach C., van Hilvoorde I., Chinapaw M.J.M. (2019). Integrating Juggling with Math Lessons: A Randomized Controlled Trial Assessing Effects of Physically Active Learning on Maths Performance and Enjoyment in Primary School Children. International Journal of Environmental Research and Public Health 16(14): 2452. https://doi.org/10.3390/ijerph16142452
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Post-test evaluation questionnaire: "In the intervention group, 70% of the children reported that they would like to follow the intervention program" more often, against 20% in the control group; no statistical test was reported for this contrast.
 

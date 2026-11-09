@@ -43,6 +43,7 @@ Because UK obesity care uses a multidisciplinary team approach, the framework's 
 
 - [Import the competencies into existing specialist training programmes and use them to direct a new GPwER qualification](competencies-into-specialist-training-and-gpwer.md)
 - [Use competency-based education frameworks to make obesity care proficiencies explicit and measurable](competency-based-education-for-obesity-hcp-curricula.md)
+- [Teach a 15-minute-visit obesity management workflow using the 5A approach, motivational interviewing, and SMARTER goal setting](five-a-motivational-interviewing-smarter-15-minute-visit.md)
 
 ## Examples
 -

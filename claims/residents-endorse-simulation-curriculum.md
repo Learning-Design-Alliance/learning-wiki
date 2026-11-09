@@ -49,3 +49,4 @@ Posttest questionnaire administered to all 41 participants after the course and 
 - [Most participants agreed the simulator can teach basic instrument handling and clip application skills and should be integrated into training and workflows](medusa-basic-skills-and-integration-endorsement.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
 - [Overwhelming majorities of senior and junior trainees want laparoscopic suturing introduced early in the curriculum](trainees-want-early-suturing-introduction.md) — related
+- [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related

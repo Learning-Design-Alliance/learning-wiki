@@ -65,3 +65,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](aisp-cortex-catch-up-effect-low-performers.md) — related
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related
 - [Lower-GPA ('Satisfactory') students performed worse in the live lecture setting, with trends favoring flipped formats for lower-GPA subgroups](satisfactory-gpa-students-worse-live-lecture.md) — related
+- [Among students scoring at or below the 50th percentile on the pretest, number of correct answers rose by an average of 12% from pre-test to post-test in one uncontrolled pre-post study, with greatest gains among those most deficient in critical appraisal](caw-lowest-half-12-percent-gain.md) — related

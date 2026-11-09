@@ -48,3 +48,4 @@ The review attributes to Sheriff a comparison of virtual reality simulator (VRS)
 - [VR simulation improves anesthesia technical skills training across airway management, spinal/epidural anesthesia, nerve block skills, and pain management](vr-improves-anesthesia-technical-training.md) — related
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) — related
+- [A therapeutic checklist improved trainees' management of simulated local anesthetic systemic toxicity events compared to reliance on memory](checklist-improves-last-crisis-management.md) — related

@@ -17,7 +17,7 @@ sources:
 # Cognitive engagement of the motor task as moderator of physically active learning effects on academic performance
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's account: the cognitive engagement demanded by the motor task moderates the effect of school-time physical activity on academic performance. It reports that "Recent meta-analyses reported larger effects of long-term cognitively engaging PA (e.g., coordinative PA, team games, or complex motor skill training that require cognitive effort) on academic performance compared to non-cognitively engaging PA (e.g., simple, repetitive aerobic exercises) in children", motivating the choice of juggling.

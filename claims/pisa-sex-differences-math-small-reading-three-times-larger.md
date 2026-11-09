@@ -117,3 +117,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Emotional, self-esteem, and family HRQoL dimensions are all associated with high mathematics performance in both sexes; for language, only family-related HRQoL is significant in boys](hrqol-dimensions-math-emotional-self-esteem-family.md) — related
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — reports the opposite
 - [Female students obtain higher academic achievement in most models, but sex shows no significant differences in mathematics](sex-female-advantage-not-mathematics.md) — reports the opposite
+- [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — related

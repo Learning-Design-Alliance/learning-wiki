@@ -51,3 +51,4 @@ This claim comes from the review's Technological literacy section. The authors s
 - [Twenty-two studies support health education as a key nursing competency in biologics therapy](twenty-two-studies-health-education-competency.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they can efficiently provide digital support and solve technological problems](patients-experience-hcp-competence-efficient-digital-support.md) — related
 - [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related
+- [Nurse-led patient education improved participants' knowledge of gout causes and long-term effects, which fostered engagement with urate-lowering therapy](nurse-education-knowledge-fostered-ult-engagement.md) — related

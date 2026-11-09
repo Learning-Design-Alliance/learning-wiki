@@ -58,3 +58,4 @@ Frequency counts from grounded theory coding. Representative statements include 
 - [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](attentional-drift-pace-impatience-restless-switching.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Participants reported that the internship model's main weaknesses were using students as instruments, increased fatigue, and drift from principled scientific performance](anesthesia-internship-weaknesses-instrument-fatigue.md) — related
+- [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related

@@ -46,6 +46,7 @@ Based on the experiment's finding that test-group students lost about 4 minutes 
 ## Related Strategies
 
 - [Use AR applications with natural hardware markers for applied assembly and practice topics in vocational courses](ar-natural-markers-applied-vet-strategy.md)
+- [Use a multimedia CTA tool prior to operating theatre sessions to build a cognitive foundation and shorten the learning curve](cta-tool-before-theatre-session-strategy.md)
 
 ## Examples
 -

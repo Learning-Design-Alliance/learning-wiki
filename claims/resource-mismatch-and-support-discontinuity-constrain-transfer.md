@@ -156,3 +156,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Workplace-based peer support for clinical teachers is an acceptable and effective faculty development strategy, based on a review of 34 papers](peer-support-acceptable-effective-faculty-development-review.md) — related
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — related

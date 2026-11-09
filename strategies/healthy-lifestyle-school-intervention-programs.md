@@ -55,6 +55,7 @@ The authors recommend that high school policy makers and educators act on the st
 - [Promote healthy dietary habits and mental well-being among university students as a lever for academic success](promote-healthy-habits-mental-wellbeing-university.md)
 - [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
 - [School-based recommendations: teach healthy habits, mindfulness practice and healthy eating](school-healthy-habits-mindfulness-eating-strategy.md)
+- [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 
 ## Examples
 -

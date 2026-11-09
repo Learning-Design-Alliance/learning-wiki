@@ -16,12 +16,14 @@ sources:
     author: Madrazo Lorenzo, Lee Claire Bo, McConnell Meghan, Khamisa Karima, Pugh Debra
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Chi-square analyses found no relationship between mock OSCE participation (as examinee or standardized patient) and high versus low subsequent OSCE performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Madrazo Lorenzo, Lee Claire Bo, McConnell Meghan, Khamisa Karima, Pugh Debra. (2019). No observed effect of a student-led mock objective structured clinical examination on subsequent performance scores in medical students in Canada. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.14
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Chi-square tests for independence using median splits of OSCE performance, reported in Appendix Tables 2–4 (P=0.425, P=0.879, P=0.113). Reported in supplementary appendix; no effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 

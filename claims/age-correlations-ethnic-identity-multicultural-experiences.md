@@ -16,12 +16,14 @@ sources:
     author: Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Age correlates negatively with ethnic identity and positively with multicultural experiences in PA students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen. (2019). Baseline cultural competence in physician assistant students. PLoS ONE. https://doi.org/10.1371/journal.pone.0215910
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Spearman Rho correlations between age and cultural competence constructs in the full sample. Two significant relationships emerged: age with ethnic identity (R = -.203, p = .004) and age with multicultural experiences (R = .222, p = .002); both are small-to-moderate correlations.
 

@@ -24,6 +24,8 @@ sources:
     author: Kim Kyong-Jee, Kim Giwoon
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Clinical cases accounted for only 5.8% of e-MedEdu hits, and their use varied widely across subjects (98.05–360.22 per case by organ system)
@@ -52,7 +54,7 @@ Descriptive analysis of 7-year cumulative hits by resource type (Table 2) showin
 
 Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Secondary descriptive analysis of per-case hit variation (Table 3) in the same dataset. Per-case hits "ranged from 98.05 to 360.22" across organ systems; the mean was 243.41 per case over 7 years. No test reported.
 

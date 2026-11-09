@@ -57,3 +57,4 @@ One-way ANOVA in the same quasi-experiment (27 control, 34 treatment grade XI ph
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related
+- [Treatment students rate the FA as more relevant than control students, while motivation, course satisfaction and perceived course relevance do not differ](relevant-fa-raises-perceived-fa-relevance-only.md) — related

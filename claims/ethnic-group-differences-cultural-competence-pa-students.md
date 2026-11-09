@@ -16,12 +16,14 @@ sources:
     author: Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Non-White PA students report higher ethnic identity, multicultural experiences, and ethnocultural empathy, and lower colorblindness, than White students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen. (2019). Baseline cultural competence in physician assistant students. PLoS ONE. https://doi.org/10.1371/journal.pone.0215910
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Mann-Whitney U comparisons of White (n = 175) and non-White (n = 23) students. Non-White students had higher mean ranks on ethnic identity, multicultural experiences, desire, MEQ total, and ethnocultural empathy, and lower colorblindness (U = 1434.50, p = .025). No differences emerged in health beliefs or burnout.
 

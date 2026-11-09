@@ -49,3 +49,4 @@ Time series analysis of medical students' daily achievement emotions during the 
 - [Affective-motivational stability is higher before learning than after learning](affective-stability-higher-before-than-after-learning.md) — related
 - [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — related
 - [Interest is substantially more stable over time than boredom, whose autoregressive paths are low and decline](differential-stability-interest-boredom.md) — related
+- [Tutors maintain consistently high positive affect and low negative affect during teaching](tutors-high-positive-affect-low-negative-affect.md) — related

@@ -50,3 +50,4 @@ Secondary endpoint from the manikin-pair skill assessment two hours after traini
 - [PBL combined with high-fidelity simulation leads to a higher rate of immediately performed guideline-conform CPR than classical CPR training in medical students](pbl-high-fidelity-simulation-increases-immediate-cpr-competence.md) — related
 - [Percentage of sufficient compressions, compression depth, and compression frequency show no significant difference between the teaching groups](sufficient-compressions-no-group-difference.md) — related
 - [PBL with high-fidelity simulation produces a significantly lower percentage of hands-off time during CPR, retained at six months](pbl-simulation-lower-hands-off-time-retained.md) — related
+- [The authors attribute the simulation group's CPR performance advantage to real-time feedback and immersion fidelity (authors' interpretation, not a tested result)](realtime-feedback-attribution-interpretation.md) — related

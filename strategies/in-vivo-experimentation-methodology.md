@@ -44,6 +44,7 @@ In vivo experimentation is PSLC's primary methodology: running experimental cont
 
 - [Use design research to study the interplay of guidance and discovery, trading methodological control for ecological validity](design-research-for-guidance-discovery-interplay.md)
 - [In vivo experimentation: combine design research with controlled experimentation to balance control and ecological validity](in-vivo-experimentation-design-process.md)
+- [Combine validated still pictures with an in vivo phase of real colonoscopies using self-administered pathology feedback when designing a self-learning program for optical diagnosis](still-pictures-plus-in-vivo-self-feedback-strategy.md)
 
 ## Examples
 -

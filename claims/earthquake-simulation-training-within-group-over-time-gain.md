@@ -49,3 +49,5 @@ Within-group pre-post t-tests in the RCT: a "significant difference" over time i
 - [The over-time-by-group interaction on crisis management score was statistically significant (P = 0.002)](earthquake-simulation-training-time-group-interaction.md) — related
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related
 - [Brief single-session basic education alone produced no statistically significant score changes over 12 months](basic-education-no-significant-change.md) — reports the opposite
+- [Between-group difference in self-handicapping after problem solving training emerged one month after the intervention (p = 0.014) but not immediately after it (p = 0.761)](self-handicapping-group-difference-delayed-one-month.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

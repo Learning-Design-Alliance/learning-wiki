@@ -51,3 +51,4 @@ Independent groups t-test on immediate post-test scores of the 14-week quasi-exp
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — reports the opposite
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](flipped-classroom-grammar-achievement-gains-esl-efl.md) — reports the opposite
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
+- [Flipped classroom teaching produces significantly higher immediate post-course EBN knowledge scores than traditional lecture-based instruction](flipped-classroom-immediate-ebn-knowledge-gains.md) — reports the opposite

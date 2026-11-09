@@ -47,3 +47,4 @@ Descriptive results from the stakeholder survey (n=82) on learning preferences f
 ## Related Claims
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](forums-serial-monologues-mandatory-participation.md) — reports the opposite
 - [In a UK stakeholder survey (n=82), 40% of the 79 respondents who answered reported no previous training related to research involving adults lacking capacity to consent](survey-82-forty-percent-no-prior-training.md) — related
+- [More than half of surveyed students report better recall of critical hygiene practices after viewing instructional videos](videos-improve-hygiene-recall-self-report.md) — related

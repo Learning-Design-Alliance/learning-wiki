@@ -54,3 +54,4 @@ Thematic synthesis of 108 quotes under social design found that "Some felt isola
 - [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related
 - [Lecturer presence was experienced positively by synchronous students while asynchronous students reported reduced social pressure despite missing the personal contact](lecturer-presence-social-pressure-theme.md) — related
 - [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related
+- [Video lectures are rated significantly better than live lectures on learning atmosphere, concentration, presence of other students and acoustic intelligibility](video-rated-better-on-atmosphere-concentration-acoustics.md) — related

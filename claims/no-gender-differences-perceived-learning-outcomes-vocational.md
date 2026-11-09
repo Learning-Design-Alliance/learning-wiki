@@ -102,3 +102,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Pre-test OSCE scores differed by age and gender, but post-test scores did not](pre-test-osce-scores-differed-by-age-gender.md) — related
 - [Self-confidence levels did not differ significantly by GPA, gender, or university](cxr-confidence-no-differences-gpa-gender-university.md) — related
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related
+- [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — possibly the same claim (merge candidate)

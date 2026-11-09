@@ -17,7 +17,7 @@ sources:
 # Three combined educational strategies for inter-professional peer teaching of infection prevention
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article grounds its module in three named educational strategies: establishing a meaningful overarching learning objective, using an inter-professional setting for early professional identity formation, and using near-peer teaching to strengthen the self-confidence of teaching peers. The authors state they "drew on three specific well-founded educational strategies" and connected patient safety to inter-professional collaboration, arguing this combination explains the module's success in complex OR team settings.

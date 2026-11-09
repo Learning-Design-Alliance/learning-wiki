@@ -53,3 +53,4 @@ In the same study, the content comprehension sub-section of the Content Specific
 - [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](captions-any-type-effective-listening.md) — related
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](captions-perceived-as-vocabulary-aid-not-distraction.md) — related
+- [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related

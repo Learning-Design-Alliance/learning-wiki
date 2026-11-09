@@ -67,6 +67,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Adopt web-based training as continuing professional education to build nurses' EBP competencies](web-based-training-continuing-education-ebp-strategy.md)
 - [Managers facilitate newly graduated nurses' continued learning by creating structures for reflection and mentorship](manager-created-reflection-structures-nurse-transition.md)
+- [Modify the Vietnamese physical therapy curriculum and use journal clubs to build EBP capacity and reduce the English language barrier](curriculum-and-journal-club-strategy-for-ebp-vietnam.md)
 
 ## Examples
 -

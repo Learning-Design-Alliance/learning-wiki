@@ -55,3 +55,5 @@ Subgroup analysis of the skill meta-analysis by comparator type (Supplement 4). 
 - [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](hf-vs-lf-small-moderate-benefit.md) — related
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — reports the opposite
 - [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — reports the opposite
+- [Belief that HF simulation is the superior learning method persists in the HF group but drops sharply in the LF group after training](hf-superiority-belief-persists-in-hf-group.md) — related
+- [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — reports the opposite

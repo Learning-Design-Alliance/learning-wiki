@@ -69,6 +69,7 @@ Badges operate as extrinsic motivators, and their effect on learning depends alm
 - [Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers](atc-title-i-salary-supplement-strategy.md)
 - [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](e2l-badge-based-competency-coaching.md)
 - [Reward students with badges on the platform for participation and completion to encourage more participation in all project stages.](badges-encourage-platform-participation.md)
+- [Use postdriving feedback mechanisms (drive scoring, leaderboards, achievement badges) instead of feedback during driving to avoid distraction](postdriving-feedback-scoring-leaderboards-badges.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — badge criteria must be grounded in real assessment of the work

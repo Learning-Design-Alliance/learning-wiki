@@ -68,3 +68,5 @@ Chi-square testing in the results section compared over-rating frequency across 
 - [Trainees' self-assessed levels of supervision were slightly lower than supervisors' ratings, with no statistically significant difference](trainees-rate-own-supervision-level-slightly-lower.md) — related
 - [Trainees who overestimated themselves were rated less competent by the expert](overestimators-rated-less-competent.md) — related
 - [Divergent entrustment ratings arise when trainees weight a critical aspect supervisors do not, or when trainees are unaware of salient performance aspects or judge only the observed outcome](reasons-for-divergent-entrustment-ratings.md) — related
+- [Peer and report (staff) assessments rated managers significantly higher than managers rated themselves on all six competencies, while only knowledge differed significantly for supervisors](peer-report-ratings-higher-than-self-all-competencies.md) — related
+- [A small subgroup of managers rated themselves more than two standard deviations above their supervisors' ratings, suggesting overconfidence](self-assessment-overconfidence-subgroup.md) — related

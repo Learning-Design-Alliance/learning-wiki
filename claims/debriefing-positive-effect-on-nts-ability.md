@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-09
 sources:
   - id: kang-jiamin-2024
     resource: "https://doi.org/10.1136/bmjopen-2023-075019"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four included studies that used debriefing as a hypothesis supported its positive effect on NTS ability, though how debriefing affects NTS in different situations and whether NTS are retained need further exploration. [→ Kang Jiamin 2024](#kang-jiamin-2024)

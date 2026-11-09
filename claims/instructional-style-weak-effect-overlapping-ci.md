@@ -16,12 +16,14 @@ sources:
     author: Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Broad instructional style categories showed only weak differences in learning gains, with overlapping confidence intervals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weir Laura K., Barker Megan K., McDonnell Lisa M., Schimpf Natalie G., Rodela Tamara M., Schulte Patricia M. (2019). Small changes, big gains: A curriculum-wide study of teaching practices and student learning in undergraduate biology. PLoS ONE. https://doi.org/10.1371/journal.pone.0220900
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of 31 sections classified as five Mostly Lecture, 17 Emergence of Group Work, and nine Extensive Group Work; all effect sizes were positive, and the mean for Extensive Group Work was 1.8 times higher than Mostly Lecture but with overlapping 95% confidence intervals.
 

@@ -71,6 +71,8 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
 - [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
 - [Integrate unit-specific simulation training into regular workplace violence prevention programs](unit-specific-simulation-violence-prevention-strategy.md)
+- [Develop CPD strategies using realist synthesis CMO analysis (context-mechanism-outcome) with multi-stakeholder input](realist-synthesis-cmo-cpd-strategy.md)
+- [Workplace facilitation of learning emphasizes team competence, dialogue about knowledge quality, and collaborative relationships](workplace-facilitation-collaborative-knowledge-strategy.md)
 
 ## Examples
 -

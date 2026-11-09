@@ -60,3 +60,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
 - [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related
+- [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related

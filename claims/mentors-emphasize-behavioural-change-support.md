@@ -16,12 +16,14 @@ sources:
     author: Heeneman Sylvia, de Grave Willem
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mentors place relatively more emphasis than mentees on support of behavioural change as a critical mentoring function
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Heeneman Sylvia, de Grave Willem. (2019). Development and initial validation of a dual-purpose questionnaire capturing mentors’ and mentees’ perceptions and expectations of the mentoring process. BMC Medical Education. https://doi.org/10.1186/s12909-019-1574-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive comparison of Top 10 high-scoring experienced situations (question 1) between mentees (n = 103) and mentors (n = 20); the mentors' top item was Situation 10 on translating competencies into learning objectives (4.40 ± 0.13, Scale 4).
 

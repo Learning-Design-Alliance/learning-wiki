@@ -67,3 +67,4 @@ Table 4 logistic regressions within the preterm group found no significant acade
 - [Boys born preterm show more inattention symptoms, reading flaws and operational-memory IQ alterations than girls](preterm-boys-inattention-reading-working-memory.md) — related
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [In the full cohort, very preterm children had more problems with reading, text production, mathematics, independent work and persistency than controls, but not with social skills or group work](preterm-academic-classroom-problems-cohort.md) — related
+- [No significant gender differences in sCPEP-3 performance within the ASD group (multivariate F(13, 466) = 0.72, Wilks' Lambda = 0.98, p = .74)](scpep3-no-gender-differences-asd-group.md) — related

@@ -80,3 +80,4 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related
 - [Total practical skills scores decreased in both groups between the post-test and the six-month retention test](bls-practical-skills-decay-six-months.md) — related
 - [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related
+- [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related

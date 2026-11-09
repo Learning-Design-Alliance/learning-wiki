@@ -40,6 +40,7 @@ To address students' low willingness to apply EBM clinically, the authors recomm
 ## Related Strategies
 
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
+- [Extend worksheets into later units with general templates and student-selected articles addressing a group-generated clinical question](caw-student-selected-article-extension-strategy.md)
 
 ## Examples
 -

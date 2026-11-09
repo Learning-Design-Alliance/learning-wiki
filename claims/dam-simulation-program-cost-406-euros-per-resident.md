@@ -53,3 +53,4 @@ Economic cost assessment of the 7-session program at the Lyon simulation center,
 - [The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain](assistments-cer-462-per-sd.md) — related
 - [Self-rated non-technical skills did not differ between simulator types except for task management, rated slightly easier in the low-cost group](ants-task-management-easier-lc-group.md) — related
 - [High-fidelity simulator realism was rated higher but participant comfort lower than the low-cost simulator, without affecting overall perceived efficacy](hf-realism-higher-comfort-lower-than-lc.md) — related
+- [VP operating cost per hour is low (USD 12) compared with high-fidelity simulators and standardized patients](vp-low-cost-per-hour.md) — related

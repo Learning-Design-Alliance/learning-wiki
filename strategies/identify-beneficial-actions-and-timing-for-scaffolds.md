@@ -46,6 +46,7 @@ The article recommends analyzing which concrete suggested actions benefit learni
 - [Give Prompt Feedback](give_prompt_feedback.md)
 - [Action Oriented Feedback](action-oriented-feedback.md)
 - [Hint Design](hint-design.md)
+- [Provide initial instructions on the adequate sequence of actions before self-training game play](initial-instructions-before-serious-game-play.md)
 
 ## Examples
 -

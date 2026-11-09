@@ -16,12 +16,14 @@ sources:
     author: Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Discussion forums were rated moderately positively (mean 3.4–3.8 of 5) but obligatory participation and message volume drew negative comments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Westerlaken M, Christiaans-Dingelhoff I, Filius RM, de Vries B, de Bruijne M, van Dam M. (2019). Blended learning for postgraduates; an interactive experience. BMC Medical Education. https://doi.org/10.1186/s12909-019-1717-5
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Questionnaire evaluation of the collaborative activities; Table 2 reports mean forum scores from 3.4 (frequency of contributions) to 3.8 (quality of contributions). Ten students also gave positive remarks such as "Valuable to discuss with each other."
 

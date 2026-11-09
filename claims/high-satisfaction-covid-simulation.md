@@ -50,3 +50,4 @@ Self-administered satisfaction survey with Likert-type scores from 0 to 5, creat
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
+- [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-09
 sources:
   - id: evans-kerry-2022
     resource: "https://doi.org/10.1186/s12909-022-03401-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A systematic mapping review of published ISS literature organised findings into four categories reflecting the aims of included studies: assessment, system readiness/safety cultures, clinical skills and patient outcomes, and NTS, knowledge and confidence. [→ Evans Kerry 2022](#evans-kerry-2022)

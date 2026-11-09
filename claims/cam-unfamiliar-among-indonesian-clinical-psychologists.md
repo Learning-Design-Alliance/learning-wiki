@@ -17,12 +17,14 @@ sources:
     author: Liem Andrian
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Most Indonesian clinical psychologists in the study had little or no prior knowledge of CAM, with almost one-third never having heard of it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Liem Andrian. (2019). "I've Only Just Heard About It": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Semi-structured face-to-face interviews with 43 clinical psychologists at Indonesian public health centers, analyzed by deductive thematic analysis. In the CAM understanding theme, "Almost one-third of participants expressed that they had never heard of CAM at all before."
 

@@ -16,12 +16,14 @@ sources:
     author: Tiffin Paul A, Paton Lewis W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Confidence judgement showed no association with any undergraduate academic performance outcome in medical school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tiffin Paul A, Paton Lewis W. (2019). Does 'online confidence' predict application success and later academic performance in medical school? A UK-based national cohort study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-034437
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Cohort analysis linking confidence judgement to first- and second-year knowledge-based and skill-based exam outcomes (available for 1252 and 854 candidates respectively). The article reports no significant associations or trends; equivalence was not tested.
 

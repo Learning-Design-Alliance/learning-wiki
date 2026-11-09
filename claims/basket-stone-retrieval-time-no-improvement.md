@@ -16,12 +16,14 @@ sources:
     author: Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Time needed to catch the stone in the basket shows no significant improvement across the six ureterorenoscopy simulation sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Secondary analysis of the task-time data in the same 17-participant repeated-measures study found "no significant improvement in the time needed to catch the stone in the basket during the 6 sessions." Table 3 reports the after-basket MANOVA p-value; equivalence was not tested.
 

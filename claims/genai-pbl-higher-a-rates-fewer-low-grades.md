@@ -51,3 +51,4 @@ Historical cohort comparison of grade distributions before (2016–2017, 2020) v
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — related
 - [By the end of the course the experimental group's final grade distribution was markedly skewed toward higher grades and poor project presenters fell from 22% to 5%, versus 28% in the control group](cl-final-grades-poor-presenters.md) — related
+- [Hands-on model practice shifted the distribution of performance grades, with more excellent and fewer poor scores than video-and-literature training alone](model-practice-performance-grade-distribution.md) — related

@@ -70,3 +70,4 @@ Adjusted mixed-effects regression from the KaziAfya trial: sex significantly pre
 - [No intervention group showed significant effects on mathematics performance](kazifya-no-mathematics-intervention-effect.md) — related
 - [A possible ceiling effect in baseline Flanker accuracy may explain the lack of intervention effects on cognition](ceiling-effect-flanker-baseline-accuracy.md) — related
 - [A 12-week school-based PA and MMNS intervention showed no significant group × time effects on Flanker-task reaction time or accuracy in South African primary schoolchildren](pa-mmns-intervention-no-cognitive-gains-south-africa.md) — related
+- [The intervention effect on Flanker incongruent-trial accuracy was modified by gender, with boys showing greater improvement](gender-interaction-flanker-accuracy-boys.md) — related

@@ -104,3 +104,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [The expected-actions checklist achieved excellent inter-rater agreement (ICC = 0.899, Cronbach's alpha = 0.908)](checklist-icc-0899-cronbach-0908.md) — related
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
+- [Independent raters score the sCPEP-3 Performance Test consistently, with mean and median polychoric correlation coefficients from 0.64 to 0.93 across subtests](scpep3-interrater-reliability.md) — related

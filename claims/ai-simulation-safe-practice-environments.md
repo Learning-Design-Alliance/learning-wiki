@@ -131,3 +131,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [All participants agreed the VR simulation would benefit their future clinical practice, and several valued the safe learning environment for attempting risky communication.](vr-safe-environment-perceived-benefits.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
+- [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related

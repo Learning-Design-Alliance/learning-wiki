@@ -16,12 +16,14 @@ sources:
     author: Sewitch MJ, Fallone CA, Ghali P, Lee GE
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Tailored messaging makes a smartphone app preferable to paper, web-based, and SMS modes of delivering colonoscopy preparation information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sewitch MJ, Fallone CA, Ghali P, Lee GE. (2019). What Patients Want in a Smartphone App That Supports Colonoscopy Preparation: Qualitative Study to Inform a User-Centered Smartphone App. JMIR Mhealth Uhealth. https://doi.org/10.2196/12242
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Focus group finding from the qualitative study: participants compared the app against paper, web-based, and SMS delivery and reported that tailoring "made it preferable to other modes of information delivery". One participant said tailored alerts can remove fear and ensure the right thing at the right time.
 

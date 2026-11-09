@@ -48,3 +48,4 @@ The omnibus terms printed in Table 3 of the RCT include "Over time" (P = 0.008),
 - [Prehospital emergency personnel who received crisis management training with earthquake simulation scored significantly higher on crisis management after the intervention than controls (Cohen's d = 1.2)](earthquake-simulation-crisis-training-raises-crisis-management-scores.md) — related
 - [Crisis management scores increased significantly over time in the intervention group but not in the control group](earthquake-simulation-training-within-group-over-time-gain.md) — related
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

@@ -51,3 +51,4 @@ Split-plot ANOVA on difference scores in the RCT (n = 30; 15 per group) found no
 - [Conservative access cavity preparation is completed significantly faster than traditional access cavity preparation, with a training-method-by-technique interaction approaching significance](consac-faster-task-completion-time.md) — related
 - [Training method and test stage show significant main effects and a significant method-by-stage interaction on tooth preparation scores, while evaluation criteria do not differ](vr-simulation-anova-method-stage-interaction-tooth-preparation.md) — related
 - [Human-factor skills (HuFSHI) scores were comparable between VR-trained and theory-trained groups](husfhi-comparable-between-groups.md) — related
+- [Low-fidelity phantom models produced equivalent simulated UGRA skill outcomes to high-fidelity cadaveric or mannequin models in comparative studies](low-fidelity-equivalent-to-high-fidelity-ugra.md) — related

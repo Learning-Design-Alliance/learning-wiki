@@ -16,12 +16,14 @@ sources:
     author: Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students showed significantly stronger anti-fat stigmatisation than teachers and SPs on AFAT weight control/blame items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan. (2019). Is an obesity simulation suit in an undergraduate medical communication class a valuable teaching tool? A cross-sectional proof of concept study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029738
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Group comparison on the 'weight control/blame' AFAT subscale (Cronbach's α=0.792) across students, teachers and SPs; table 2 reports for 'If fat people really wanted to lose weight, they could' χ2=20.76; df=2; p<0.01, with students highest (M=2.99) and SPs lowest (M=2.14).
 

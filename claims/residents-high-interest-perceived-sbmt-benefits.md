@@ -16,12 +16,14 @@ sources:
     author: Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Italian paediatric residents show very high interest in SBMT and perceive benefits for decision-making, technical skills and non-technical skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi. (2019). Simulation-based medical training for paediatric residents in Italy: a nationwide survey. BMC Medical Education. https://doi.org/10.1186/s12909-019-1581-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Survey results on perceived benefits, rated on agreement items. The article states the interest for SBMT was high (93%) and that agreement held "without differences according to having or not experienced SBMT previously".
 

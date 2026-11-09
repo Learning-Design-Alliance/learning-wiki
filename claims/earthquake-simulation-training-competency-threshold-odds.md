@@ -51,3 +51,4 @@ The outcome is the Jahanbakhsh crisis-management questionnaire (14 Likert items,
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — reports the opposite
 - [Formal MID training is associated with higher knowledge, skills and attitudes and fewer perceived barriers](mid-training-higher-competency-fewer-barriers.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

@@ -16,6 +16,8 @@ sources:
     author: Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: sohn-sangho-2019-2
     resource: "https://doi.org/10.3946/kjme.2019.122"
     title: "Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122"
@@ -42,7 +44,7 @@ sources:
 
 Sohn Sangho, Lee Young-Mee, Jung Jaehun, Cha Eun Shil, Chun Byung Chul. (2019). The flipped classroom model for an undergraduate epidemiology course. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.122
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Survey of utilization and perception of pre-class materials across five sessions (Table 2). Viewing rates also "increased from 22.5% to 101% for the first three lectures". Percentages are descriptive; no effect size printed.
 

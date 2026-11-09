@@ -16,6 +16,8 @@ sources:
     author: Bully P., Jaureguizar J., Bernaras E., Redondo I.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bully-p-2019-2
     resource: "https://doi.org/10.3390/ijerph16122231"
     title: "Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231"
@@ -42,7 +44,7 @@ sources:
 
 Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Path model for the male subsample (n = 417 per Table 1) of the same survey. The article reports that "Only the father’s control and warmth were inversely related to school maladjustment" and that "The model explained 15% of the variance of academic performance".
 

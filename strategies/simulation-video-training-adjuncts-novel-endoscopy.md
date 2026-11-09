@@ -47,6 +47,7 @@ Because novel techniques are initially performed by few experts and pilgrimage t
 - [Use validated simulators to widen access to Aquablation training where clinical cases and robotic systems are scarce](simulator-training-access-scarce-robotic-procedures.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Adopt telemedicine and e-learning formats for ultrasonography teaching where flexibility, accessibility and cost savings matter](telemedicine-ultrasound-teaching-implementation-advantages.md)
+- [Use video-based 'indirect' rating as a resource-sparing alternative to on-site expert rating of procedural skills](indirect-video-rating-procedural-skills-strategy.md)
 
 ## Examples
 -

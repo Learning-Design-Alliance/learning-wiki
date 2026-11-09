@@ -58,6 +58,7 @@ The article's implementable recipe runs: instructors prepare PowerPoint, cases a
 - [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
 - [Use web-based preview before simulation practice so students prepare autonomously](web-based-preview-before-simulation-practice.md)
 - [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
+- [Move factual and preparatory learning to presession work to maximize active, hands-on in-session learning](presession-prep-maximize-hands-on-learning.md)
 
 ## Examples
 -

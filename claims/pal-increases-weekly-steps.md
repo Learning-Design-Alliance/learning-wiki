@@ -49,3 +49,4 @@ Accelerometer (Moki) step counts recorded for 7 days per week across a counterba
 - [Children's time on task is about 10 percentage points higher during PAL lessons (97%) than NAL lessons (87%)](pal-raises-time-on-task.md) — related
 - [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related
 - [PAL produces no difference in academic outcomes compared with NAL, though teaching raised scores in both conditions](pal-no-academic-difference.md) — related
+- [Objective accelerometer assessment showed only a non-significant tendency toward higher physical activity during math lessons in the intervention group](pa-during-math-lessons-nonsignificant-increase.md) — related

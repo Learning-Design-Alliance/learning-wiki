@@ -48,3 +48,4 @@ Adjusted analysis (Table 3) of the 237-nurse cross-sectional survey using the un
 - [Most nurses surveyed in Hohoe Municipality, Ghana (69.2%) were not knowledgeable about nosocomial infection preventive measures](ghana-nurses-nci-knowledge-low-69-percent.md) — related
 - [Attendance at in-service training or workshops is associated with roughly tenfold higher odds of knowledge of nosocomial infection preventive measures among Ghanaian nurses](in-service-training-nci-knowledge-odds.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
+- [Younger and less-experienced Vietnamese physical therapists report less EBP knowledge and are more likely to view EBP as an unreasonable demand](younger-therapists-less-ebp-knowledge-unreasonable-demand.md) — related

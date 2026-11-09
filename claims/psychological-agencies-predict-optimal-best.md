@@ -16,12 +16,14 @@ sources:
     author: Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Personal resolve and social relationship, but not self-efficacy, directly predict optimal best practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih (2019). Achieving optimal best practice: An inquiry into its nature and characteristics. PLoS ONE. https://doi.org/10.1371/journal.pone.0215732
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 SEM analysis of the 1010-student sample. The results name "social relationship (β = .11, p < .05) and personal resolve (β = .49, p < .001) as predictors of optimal best practice"; Table 1 shows the self-efficacy direct effect on optimal achievement best was .05 and non-significant.
 

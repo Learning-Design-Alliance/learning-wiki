@@ -50,3 +50,4 @@ Wilcoxon signed-rank test comparing pre- and post-course PTP-ML scores of the 28
 - [Self-efficacy scores of occupational therapy students increased significantly after OSCE with simulation-based learning](osce-self-efficacy-significant-increase.md) — related
 - [Self-efficacy scores showed a moderate, significant direct correlation with physical therapy students' OSCE performance](osce-self-efficacy-correlates-with-performance.md) — related
 - [Before the intervention, ML self-efficacy was low among last-semester students and experienced professionals, and did not differ between them](baseline-low-self-efficacy-seniors-professionals.md) — related
+- [Physical therapy self-efficacy increases during year two regardless of educational approach](pt-self-efficacy-increases-both-conditions.md) — related

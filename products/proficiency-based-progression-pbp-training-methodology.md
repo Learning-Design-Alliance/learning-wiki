@@ -13,7 +13,7 @@ generated:
 # Proficiency-based progression (PBP) training methodology
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (13 for) · 7 studies (2 causal, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 0 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 13 claims (13 for) · 7 studies (3 causal, 2 design, 1 associational, 1 theoretical), `q2`–`q4` · 0 of 7 report an effect size · 13 claims rest on one study
 
 ## Description
 A structured surgical-skills training methodology developed by its proponents that decomposes procedures into validated binary performance metrics and uses metric-based formative feedback to guide trainees toward proficiency.

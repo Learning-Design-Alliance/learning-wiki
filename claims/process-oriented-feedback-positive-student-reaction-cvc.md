@@ -16,12 +16,14 @@ sources:
     author: Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge. (2019). Process-Oriented Feedback through Process Mining for Surgical Procedures in Medical Training: The Ultrasound-Guided Central Venous Catheter Placement Case. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16111877
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Survey of 12 students after the training course, closed-ended 5-point Likert questions, reported in Section 6.1. Percentages are descriptive; no effect size or significance test is printed. The article reports "90% of positive responses" for the explanation and 70% for tagging.
 

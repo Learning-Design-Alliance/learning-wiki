@@ -56,6 +56,7 @@ The article recommends delivering innovative interventions through students' usu
 - [Deliver TAS as an embedded classroom intervention with teacher training, matched control, and withdrawal phase to test motivation effects](tas-embedded-quasi-experimental-intervention-strategy.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Integrate brief classroom-based SRL strategy training into regular math instruction](integrate-srl-training-into-regular-math-instruction.md)
+- [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 
 ## Examples
 -

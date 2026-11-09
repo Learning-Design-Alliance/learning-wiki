@@ -78,6 +78,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Use the simulator as the first step toward a BG-PDT simulation-based training program with multimodal competency assessment](bg-pdt-simulation-training-program-strategy.md)
+- [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](spaced-deliberate-practice-procedure-curriculum.md)
 
 ## Examples
 -

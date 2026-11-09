@@ -16,12 +16,14 @@ sources:
     author: Wright Barry; Richmond Mynett Joseph
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Internal-resource categories received the most resilience outcomes while lifestyle factors received the fewest in the evaluated curriculum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Wright Barry; Richmond Mynett Joseph. (2019). Training medical students to manage difficult circumstances- a curriculum for resilience and resourcefulness? BMC Medical Education. https://doi.org/10.1186/s12909-019-1712-x
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of logged resilience outcomes across the five-year MBBS course, summarised in Table 4 and Fig. 1. The authors report the highest average assignment was Internal factors, and separately that "The category with the lowest average LO assignment was “Lifestyle factors”", noting limited learning activities related to those factors.
 
