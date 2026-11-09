@@ -55,3 +55,4 @@ Pre-post evaluation of a multifaceted information-skills elective for 2nd and 3r
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — related
 - [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](pharmacy-elective-course-gains-and-preceptor-views.md) — related
+- [Students' competency scores concerning search strategy design and conducting a search rose from pre-test to post-test in one uncontrolled pre-post study](training-improves-search-strategy-design.md) — a narrower finding that bears on this claim

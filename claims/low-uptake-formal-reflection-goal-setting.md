@@ -49,3 +49,4 @@ Questionnaire item 10 (mean rating 3.43, N = 89): "only 47.20% of students found
 - [Students reported positive satisfaction with the Moodle module, rating self-test exercises (71.4% positive) and review usefulness (71.4%) highest](module-satisfaction-questionnaire-chinese-herbs.md) — related
 - [Participants rated both the 3-R technique as easy and useful, and rated exercise slightly below the agree threshold for usefulness](participant-perceptions-3r-and-exercise-exp1.md) — related
 - [Nurses reported that actively self-reflecting, including on what they did well, was useful for developing Teach-Back skills and analysing technique effectiveness](guided-self-reflection-useful-for-teachback-skills.md) — related
+- [Participants expressed high satisfaction with the SAT program structure, rating educational modules and practical teaching sessions as most helpful](sat-program-satisfaction-modules-practical-sessions.md) — possibly the same claim (merge candidate)

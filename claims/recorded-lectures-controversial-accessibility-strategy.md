@@ -54,3 +54,5 @@ Theme from thematic analysis of survey free-text and six faculty interviews on r
 - [Staff worried that recorded lectures become canonised material that students cite verbatim and rely on too heavily](staff-canonicity-worry-recorded-lectures.md) — related
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — reports the opposite
 - [Facilitator observations indicated higher student engagement than in lecture-based sessions](facilitator-observed-higher-engagement-than-lectures.md) — related
+- [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
+- [Medical students report that the availability of recorded lectures has little influence on their live lecture attendance](recordings-little-influence-attendance-med-students.md) — reports the opposite

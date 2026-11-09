@@ -58,3 +58,5 @@ Post-simulation evaluation questionnaire with 5-point Likert items and comment b
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
 - [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related
+- [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
+- [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related

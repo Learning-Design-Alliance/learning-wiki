@@ -57,3 +57,4 @@ Quasi-experimental longitudinal study of 66 participants (30 students, 36 profes
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
 - [After traditional training, subsequent VR training further improved scores, which then no longer differed significantly from the VR-only group](vr-after-traditional-further-improves-scores.md) — related
 - [Gen-Equip e-learning modules significantly improve primary care professionals' pre/post knowledge and skills test scores (overall 66.7% to 89.9%, p < 0.001)](gen-equip-prepost-knowledge-skills-gain.md) — related
+- [A standardized simulation training module significantly increases telestroke knowledge of emergency teams, from 59±13% to 82±10% correct answers](simulation-training-raises-telestroke-knowledge-overall.md) — related

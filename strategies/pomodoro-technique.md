@@ -62,6 +62,7 @@ The technique operationalizes two well-supported ideas: that sustained attention
 - [Time Boxing](time-boxing.md) — the general scheduling practice of which Pomodoro is a fixed-interval special case
 - [Goal Setting](../elements/goal-setting.md) — task selection per interval is a micro-goal-setting act
 - [Graded-difficulty probe tests interspersed in a fixed work period to locate the difficulty level a fatigued performer can still manage](graded-difficulty-probe-tests-fatigue.md)
+- [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 
 ## Examples
 - **Cirillo's original method** ([pomodorotechnique.com](https://www.pomodorotechnique.com)) — the canonical analog-timer workflow with interruption logging and daily pomodoro counts.

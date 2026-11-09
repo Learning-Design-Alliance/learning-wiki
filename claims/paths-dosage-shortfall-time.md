@@ -49,3 +49,4 @@ Structured lesson observations in intervention schools assessed dosage relative 
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related
 - [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related
+- [PATHS was implemented with high fidelity, quality, responsiveness and reach but roughly half the recommended lesson dosage](paths-implementation-high-fidelity-low-dosage.md) — possibly the same claim (merge candidate)

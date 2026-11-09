@@ -46,3 +46,4 @@ The review reports, citing Owston, Lupshenyuk and Wideman (2011), a study of 439
 
 ## Related Claims
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](recorded-lectures-controversial-accessibility-strategy.md) — reports the opposite
+- [Medical students report that the availability of recorded lectures has little influence on their live lecture attendance](recordings-little-influence-attendance-med-students.md) — a narrower finding that bears on this claim

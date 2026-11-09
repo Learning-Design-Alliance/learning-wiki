@@ -47,3 +47,4 @@ Dimension-level paired t-tests in the 124-student study support this: thesis wri
 ## Related Claims
 - [Total research competence scores rose from pretest to posttest among graduate nursing students in a single-group quasi-experiment after an FC-TBL-based literature seminar course](fc-tbl-seminar-improves-research-competence-nursing-graduates.md) — a broader claim this one bears on
 - [The FC-TBL seminar improved all five research self-efficacy dimensions, including collective research efficacy and theoretical research application](fc-tbl-seminar-improves-all-self-efficacy-dimensions.md) — related
+- [On-time senior thesis completion rose from roughly 36% to 80% after the writing-intensive intervention](on-time-thesis-completion-increase.md) — related

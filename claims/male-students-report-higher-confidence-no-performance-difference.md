@@ -63,3 +63,4 @@ A linear mixed-effects model for confidence as the dependent variable found male
 - [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related
 - [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related
 - [Female students significantly outperform male students on practical skills at 4 months and on communication ratings regardless of group](gender-differences-osce-scores.md) — related
+- [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — related

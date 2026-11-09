@@ -61,3 +61,5 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related
 - [Using videos in addition to traditional teaching materials improves performance and decreases procedure time in procedural training](videos-plus-traditional-teaching-improve-performance.md) — related
 - [Tablet-based video training produced MCQ knowledge gains comparable to traditional in-person training among community health workers in rural Uganda](tablet-training-comparable-mcq-gains-chws.md) — related
+- [The OSCE advantage from standardized-patient training does not transfer to an unrelated resuscitation (ACLS) scenario](standardized-patients-no-acls-transfer.md) — related
+- [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related

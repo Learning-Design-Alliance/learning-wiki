@@ -51,3 +51,4 @@ GEE analysis of the RCT using the 10-item attitude domain of the Nurse's Assessm
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related
 - [Learning attitudes toward caring for patients with infectious diseases did not differ significantly between the VRS and control groups at either time point](vrs-no-attitude-difference-between-groups.md) — related
+- [Interactive video control improves learning outcomes and satisfaction compared with noninteractive video](interactive-video-control-improves-learning.md) — related

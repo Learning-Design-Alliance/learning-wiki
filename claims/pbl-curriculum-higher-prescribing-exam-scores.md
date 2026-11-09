@@ -49,3 +49,4 @@ Cross-sectional comparison across 16 European medical schools comparing exam sco
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — a broader claim this one bears on
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — related
+- [Students taught mainly with problem‐based learning CPT curricula have significantly better prescribing competencies than students taught mainly with traditional learning curricula](pbl-curricula-better-prescribing-competencies.md) — possibly the same claim (merge candidate)

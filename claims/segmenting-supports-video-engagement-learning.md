@@ -68,3 +68,4 @@ The essay reports, citing Zhang et al. (2006), Guo et al. (2014), and Ibrahim et
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
 - [Segmentation improves learning from dynamic visualizations, but because studies always used pauses, whether the pause's processing time or its segment-end signal drives the effect is unclear](segmentation-effect-cause-unclear.md) — related
+- [Students who use recorded lectures strategically do so actively, chiefly by pausing recordings to take notes or consult other resources](strategic-active-use-pausing-recordings.md) — related

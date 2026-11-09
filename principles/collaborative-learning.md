@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 107 claims (47 for, 54 mixed, 6 against) · 105 studies (31 causal, 16 review, 16 theoretical, 13 quant-synthesis, 13 associational, 11 qualitative, 5 design), `q1`–`q4` · 17 of 105 report an effect size · 101 claims rest on one study
+> **Evidence** · 109 claims (49 for, 54 mixed, 6 against) · 107 studies (33 causal, 16 review, 16 theoretical, 13 quant-synthesis, 13 associational, 11 qualitative, 5 design), `q1`–`q4` · 18 of 107 report an effect size · 103 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,8 @@ Claims this page cites that do not change the model above. Each was read against
 - [Students instructed to prepare in collaborative dyads during the self-study phase of an inverted classroom achieve higher knowledge-test scores than students instructed to prepare individually](../claims/dyadic-self-study-beats-individual-inverted-classroom.md) [+W] — attached 2026-11-09 from Kühl Susanne J. et al. (2019), which proposed "In inverted-classroom designs, instruct learners to prepare in collaborative dyads during the self-study phase"; tests this page's relationship.
 - [Group cohesion and interactivity parameters (clustering coefficient, density, average degree) correlate positively with performance, while group size correlates negatively](../claims/group-cohesion-density-correlate-with-performance.md) [+W] — attached 2026-11-09 from Saqr M et al. (2018), which proposed "Design online PBL for small, interactive, cohesive groups and support isolated learners, since these modifiable factors correlate with better performance"; tests this page's relationship.
 - [Tutor interaction parameters show mixed or statistically insignificant correlations with performance, and small cohesive groups with limited tutor role tended to perform better](../claims/tutor-interaction-parameters-mixed-correlation.md) [~W] — attached 2026-11-09 from Saqr M et al. (2018), which proposed "Design online PBL for small, interactive, cohesive groups and support isolated learners, since these modifiable factors correlate with better performance"; tests this page's relationship.
+- [Collaborative annotation of whole slide images significantly improves quiz performance over individual annotation for senior medical students, with a large effect size](../claims/collaborative-wsi-annotation-superior-senior-students.md) [+W] — attached 2026-11-09 from Sahota Michael et al. (2016), which proposed "Deploy collaborative annotation of microscopic images for learners with sufficient background knowledge of the discipline"; tests this page's relationship.
+- [More dyad than single-practice trainees achieved OSAUS scores above the pass/fail standard on the clinical transfer test](../claims/dyad-higher-transfer-pass-rate.md) [+W] — attached 2026-11-09 from Tolsgaard MG et al. (2015), which proposed "Use dyad practice in early simulation-based training to lower time and monetary costs without compromising skills transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

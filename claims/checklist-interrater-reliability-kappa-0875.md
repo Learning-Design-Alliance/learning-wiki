@@ -60,3 +60,4 @@ Validation testing with a cohort of 3 attending critical care physicians at a lo
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
 - [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
+- [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related

@@ -67,3 +67,4 @@ Results of the generalizability-theory model for the formative OSCE: the station
 ## Related Claims
 - [About three quarters of students pass the formative four-station OSCE, with higher station-level pass rates](aalplus-osce-pass-rates.md) — related
 - [Corrected selectivities of formative OSCE stations are on average lower than in the summative comparison OSCEs, with two physical-examination stations markedly low](formative-osce-selectivity-lower-two-stations-low.md) — related
+- [In the G-study, residual error (51%), stations (11.4%), and their interactions dominate OSCE variance, while sites and test versions contribute almost none](osce-variance-components-residual-stations.md) — related

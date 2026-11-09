@@ -71,3 +71,4 @@ Systematic review of meta-analyses, family findings comparing parental education
 - [Within-family Mendelian randomization finds little evidence that mothers' or fathers' educational attainment causally affects children's depressive, anxiety, or ADHD traits at age 8](within-family-mr-little-evidence-parental-education-child-mental-health.md) — related
 - [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related
 - [Parental education, school type, and school grades shape the educational pathway: vocational training, age at enrolment, and study financing](educational-pathway-determinants-vocational-age-financing.md) — related
+- [The general home math environment factor positively predicts parent report of child math skills](general-hme-positive-predictor-parent-report.md) — related

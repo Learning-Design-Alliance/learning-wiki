@@ -85,3 +85,7 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
 - [Two independent faculty raters using the Ottawa CRM Global Rating Scale showed good interrater agreement (kappa = 0.74, 95% CI 0.66–0.82)](ottawa-crm-grs-interrater-kappa-074.md) — related
+- [The developed BLS assessment shows high overall inter-rater reliability (ICC = 0.84) across professional, student and peer assessors](bls-checklist-assessment-high-overall-icc-084.md) — related
+- [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
+- [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
+- [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related

@@ -53,3 +53,4 @@ A Wilcoxon signed-rank test on 127 participants' averaged OSCE ratings found per
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — reports the opposite
 - [OSCE skill levels declined over time in both groups, while the intervention group maintained comparatively higher skill levels at 6 months](osce-skills-declined-over-time-both-groups.md) — related
 - [The skills that decline over the 3–4 months follow-up are predominantly Crew Resources Management (CRM) skills](declining-skills-are-mostly-crm-skills.md) — related
+- [About a third of therapists implemented BeST in practice within six months, with no difference by training method](best-implementation-one-third-no-mode-difference.md) — related

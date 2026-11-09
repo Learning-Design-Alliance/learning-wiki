@@ -51,3 +51,4 @@ Implementation fidelity was assessed via online logs after every use and monthly
 - [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
 - [Playing the TRADERS board game once a week for three weeks significantly improves resilience among university students compared to not playing](tbg-once-weekly-improves-resilience.md) — related
+- [PATHS was implemented with high fidelity, quality, responsiveness and reach but roughly half the recommended lesson dosage](paths-implementation-high-fidelity-low-dosage.md) — related

@@ -73,3 +73,4 @@ Variance component estimates (Table 3) showed participant × scenario variance (
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
 - [Casper shows satisfactory internal consistency but only moderate interrater agreement and low test-retest reliability in the German pilot](casper-german-pilot-reliability-mixed.md) — related
 - [Generalizability analysis indicated eight assessors yield an EP2 of 0.78 and ten assessors 0.81, exceeding the 0.70 stability threshold](msf-award-ep2-eight-assessors-0-78.md) — related
+- [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related

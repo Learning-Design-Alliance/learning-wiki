@@ -48,3 +48,4 @@ Time spent in self-directed learning was compared between groups with Student's 
 - [GPs spent an average of 43 minutes on the Hygie game over the access week, with self-reported time more than twice that of the reading group](hygie-time-spent-43-minutes-engaging.md) — related
 - [After short exposure, video-based CPR self-training yields higher practical manikin simulation scores than a serious game](video-beats-serious-game-cpr-practical-posttest.md) — related
 - [After short exposure, video-based CPR self-training yields higher theoretical post-test scores than a serious game among first-year medical students](video-beats-serious-game-cpr-theoretical-posttest.md) — related
+- [The game group spent roughly three times more self-reported learning time than the e-module group, with no association between learning time and outcomes](game-group-longer-learning-time-no-outcome-association.md) — related

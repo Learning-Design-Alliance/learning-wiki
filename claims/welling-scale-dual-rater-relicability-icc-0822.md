@@ -55,3 +55,4 @@ Reliability/agreement analysis reported in the statistical analysis and Table II
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
+- [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related

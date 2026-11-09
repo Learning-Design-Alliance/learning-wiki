@@ -50,3 +50,4 @@ Qualitative Framework Method analysis found that "a didactic training approach m
 - [Quantity-based monitoring of TtT success (numbers trained and sessions delivered) can encourage undue focus on numbers rather than quality of cascaded MECC training](quantity-monitoring-overlooks-cascade-quality.md) — related
 - [Receivers' confidence in cascading newly learned eLearning knowledge to colleagues increased only after completing the full development process, while institutional support and resources remained barriers](cascading-knowledge-confidence-and-institutional-barriers.md) — related
 - [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related
+- [Students feel 'lost at sea' when facing a large, poorly signposted elearning resource, hindering study-time allocation](elearning-lost-at-sea-theme.md) — related

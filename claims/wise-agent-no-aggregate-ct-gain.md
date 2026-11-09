@@ -64,3 +64,4 @@ Paired-sample t-tests in SPSS 26.0 on pre/post CCTDI-adapted disposition scores 
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
 - [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](ai-teaching-ctdi-cv-total-score-higher.md) — related
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related

@@ -51,3 +51,4 @@ Consortium Elementary On-Track analysis (Seeskin, Massion, & Usher, 2022) of 93,
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
 - [Academic Support students, who attended regularly but earned below a 3.0 GPA, made up nearly 40 percent of students and saw academic struggles persist beyond the middle grades](condensed-eot-academic-support-persistent-struggles.md) — related
 - [More than one-half of Intensive Support students did not graduate high school in four years and more than 80 percent did not enroll directly in college](condensed-eot-intensive-support-low-outcomes.md) — related
+- [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related

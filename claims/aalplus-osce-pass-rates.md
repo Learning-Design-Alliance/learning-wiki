@@ -70,3 +70,4 @@ Station-level results from the same tutor-rated OSCE of 1556 students; the abstr
 - [Summative OSCE stations passed differed significantly across the three groups: 3-D skills attendees, unguided practice attendees, and year 3 students who did not attend.](cl-kruskal-wallis-three-group-summative-difference.md) — related
 - [Most students attribute their basic medical skills to the AaLplus program, except hand disinfection and blood pressure measurement](aalplus-skill-acquisition-attribution.md) — related
 - [In the formative OSCE, examiner influence accounts for about 10% of variance and the station x examiner interaction is not detectable](formative-osce-examiner-effects-small-no-interaction.md) — related
+- [Final-year medical students in a formative 4-station OSCE achieved a mean of 72.8% of the maximum score, with 9.3% scoring insufficiently](final-year-osce-mean-72-8-percent-9-3-insufficient.md) — related

@@ -41,7 +41,8 @@ This strategy embeds explicit strategy guidance into video-based learning: befor
 - [Clt Transient Information Strategies Video](../theories/cognitive-load-theory.md)
 
 ## Related Strategies
-- 
+
+- [Embed videos in active learning with interactive questions, student control, guiding questions, or homework integration](video-active-learning-embedding-strategies.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Descriptive comparison of post-test standard deviations from the global comparis
 - [Descriptive post-test means favoured the 5E inquiry group (7.30 vs 6.35) over the traditional group](5e-study-descriptive-posttest-means.md) — related
 - [Post-test scores of the supplementary-reading group were more homogeneous and covered a higher range than control-group scores](posttest-score-range-homogeneity.md) — related
 - [CTBL class became more homogeneous in proficiency while the GI class remained heterogeneous](ctbl-homogenizes-team-proficiency.md) — related
+- [Game-based preparation reduces variability in residents' clinical competency levels before classroom training](game-preparation-reduced-competency-variability.md) — related

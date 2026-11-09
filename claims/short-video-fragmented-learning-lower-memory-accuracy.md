@@ -51,3 +51,4 @@ Between-subjects fMRI experiment: 57 university students randomly assigned to sh
 - [Acute exposure to randomly selected short videos, combined with habitual daily viewing, is associated with poorer memory for continuous movies](random-short-video-impairs-continuous-memory.md) — related
 - [Random short video watching attenuates eye-movement synchronization (ISC) at event boundaries during subsequent movie encoding](random-short-video-reduces-boundary-isc.md) — related
 - [Short-video exposure does not impair memory encoding of static pictures (Study 2 null result)](short-video-no-effect-static-picture-encoding.md) — related
+- [Interspersed short answer questions or logic puzzles during video viewing produced no significant difference in immediate knowledge gain compared with uninterrupted viewing among pediatric residents](no-between-group-difference-immediate-knowledge-gain-video-elearning.md) — related

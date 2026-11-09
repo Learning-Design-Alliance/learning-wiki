@@ -49,6 +49,7 @@ The authors recommend that institutions considering reduced reliance on the MCAT
 
 - [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
 - [Medical schools should review admission requirements for students holding certain high school degrees and consider additional cognitive assessment before admission](review-admission-requirements-for-certain-high-school-degrees.md)
+- [Pool anonymized institutional data nationally to build more robust and validatable predictive models](pool-anonymized-national-biomedical-data-strategy.md)
 
 ## Examples
 -

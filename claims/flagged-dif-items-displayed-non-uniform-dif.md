@@ -50,3 +50,4 @@ ICCs were examined for items flagged as DIF in all method-by-purification condit
 - [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — related
 - Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment — related
 - [Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition](lords-chi-square-flags-more-dif-items-than-raju-ua.md) — related
+- [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related

@@ -47,3 +47,4 @@ Backwards stepwise multivariable logistic regression for health declarations (N 
 ## Related Claims
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
 - [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related
+- [Clinical educators report less confidence and comfort supporting student mental health issues than other fitness to practise domains](educators-less-confident-supporting-mental-health-ftp.md) — related

@@ -52,3 +52,5 @@ Systematic review synthesis of six included studies (three RCTs, two survey qual
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](tdl-virtual-reality-improved-empathy-confidence.md) — a narrower finding that bears on this claim
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — a narrower finding that bears on this claim
 - [Informants across professions reported enhanced self-efficacy and reduced stress after multi-professional PPH simulation training](enhanced-self-efficacy-reduced-stress-pph-simulation.md) — related
+- [Caregiver satisfaction with understAID was low, with 66.7% rating the application unacceptable overall](understaid-low-satisfaction-66-7-unacceptable.md) — related
+- [understAID use produced no change in caregivers' sense of competence or caregiving satisfaction, plausibly because participants were experienced caregivers](understaid-no-change-competence-satisfaction.md) — related

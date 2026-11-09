@@ -48,3 +48,5 @@ Hierarchical regression analysis of survey data from 247 residents in five terti
 - [Employee-oriented organizational culture negatively moderates the relationship between teachers' contingent punishment and residents' self-efficacy](eoc-negatively-moderates-punishment-self-efficacy.md) — related
 - [Residents' self-efficacy partially mediates the relationship between clinical teachers' transactional leadership and training performance](self-efficacy-partially-mediates-tls-performance.md) — related
 - [EOC does not significantly moderate the relationship between teachers' contingent reward behavior and residents' self-efficacy](eoc-no-moderation-reward-self-efficacy.md) — related
+- [Perceived transactional leadership also correlates with self-efficacy (r=0.584), while passive-avoidant leadership shows no significant association](transactional-correlated-passive-avoidant-not-self-efficacy.md) — related
+- [Perceived transformational teacher leadership style is significantly associated with midwifery students' clinical self-efficacy (r=0.55)](transformational-leadership-correlated-midwifery-self-efficacy.md) — related

@@ -51,3 +51,4 @@ Authors' concluding interpretation of the single-site pilot RCT; stress and anxi
 - [On day 4 individual reassessment, dyad-trained students perform similarly to individual-trained students, except faster pacing-indication recognition for individual training](day4-equivalent-performance-individual-tp-advantage.md) — possibly the same claim (merge candidate)
 - [Individuals improve more from day 1 to day 4 than dyads, with the learning effect dominating group effects](individuals-greater-improvement-learning-effect.md) — related
 - [Dyads are faster than individuals at diagnosing bradycardia and recognizing pacing indication on initial training](dyads-faster-day1-time-metrics.md) — related
+- [Dyad practice yields higher training efficiency than individual practice in simulator score per attempt](dyad-practice-higher-training-efficiency.md) — related

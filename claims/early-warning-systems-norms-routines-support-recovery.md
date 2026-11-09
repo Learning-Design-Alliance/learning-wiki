@@ -57,3 +57,4 @@ The brief lists early-warning monitoring paired with "strong norms and routines"
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — related
 - [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](la-feedback-warnings-encouragement-cognitive-load.md) — related
 - [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — related
+- [Medical leads valued the ePortfolio as a way to systematically record and track students' progress and identify students needing remediation](eportfolio-tracked-student-progress-remediation.md) — related

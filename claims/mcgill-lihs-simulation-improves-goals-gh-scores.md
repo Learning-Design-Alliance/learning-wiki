@@ -54,3 +54,4 @@ Randomised controlled trial in which 14 surgical residents were assigned to a si
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](inguinal-model-built-under-15-minutes.md) — related
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a narrower finding that bears on this claim
 - [Randomized controlled trials show improved trainee performance with iVR relative to control in analogous operating room assessments, but skill-translation evidence was previously limited to surrogate operating rooms](ivr-rct-evidence-improved-trainee-performance.md) — related
+- [Residents attributed their lack of laparoscopic skill mainly to lack of training outside the operating room](residents-attribute-skill-gap-to-lack-of-training-outside-or.md) — related

@@ -49,3 +49,4 @@ Nomogram built from the multivariate logistic regression and evaluated with ROC,
 - [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — related
 - [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](persistent-failure-moderate-discrimination-student-disjoint.md) — related
 - [Supplementary nonlinear models yield only modest AUC gains over the calibrated logistic baseline](nonlinear-models-modest-auc-gains-over-logistic-baseline.md) — related
+- [Used as a sole screening test at the cohort-mean cut-off, the UKCAT discriminates failing applicants only modestly (AUC 0.61) with a high number needed to reject of 1.18](ukcat-screening-auc-nnr.md) — related

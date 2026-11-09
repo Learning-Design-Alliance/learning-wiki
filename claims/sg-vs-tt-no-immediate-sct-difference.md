@@ -51,3 +51,4 @@ Primary outcome of a multicenter randomized controlled trial in which 73 nursing
 - [Both serious-game and traditional-teaching groups similarly expect positive professional impact, with no significant difference between groups](sg-tt-no-professional-impact-difference.md) — related
 - [Game-based learning improved observed patient safety performance at two weeks (p = 0.04) but the difference was no longer significant at two months (p = 0.63), with a moderate effect (partial η² = 0.034)](gbl-performance-short-term-only.md) — related
 - [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related
+- [Patient safety knowledge improved equally after the serious game and the e-module compared with a no-extra-education control group](game-and-e-module-equal-knowledge-gains-patient-safety.md) — related

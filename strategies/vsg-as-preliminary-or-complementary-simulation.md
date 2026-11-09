@@ -78,6 +78,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Supervised small-group seminars with simulated patients for communicative-skill training with patient-view feedback](simulated-patient-seminar-feedback-strategy.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 - [Combine face-to-face teaching with the VI, using pharmacists as educators, to deliver the best learning outcomes on clinical vancomycin use](combine-face-to-face-vi-learning-pharmacist-educators.md)
+- [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 
 ## Examples
 -

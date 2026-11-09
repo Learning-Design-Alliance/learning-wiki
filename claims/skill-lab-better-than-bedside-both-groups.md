@@ -54,3 +54,4 @@ Strongly agree	23 (76.7	18 (60.0)	525.00	0.169"
 - [Overall skill lab experience was rated excellent by most students in both groups, with no significant difference](overall-experience-excellent-both-groups.md) — related
 - [Simulation-based training produces higher neonatal TTE scores than bedside and theoretical training alone at 3 months](simulation-training-higher-tte-scores-3-months.md) — reports the opposite
 - [A minority of students in both groups reported technical difficulties during learning, mainly with needle holders, with no significant group difference](learning-difficulties-similar-groups.md) — related
+- [Any form of structured skills training leads to better basic practical skills learning than unstructured clerkships or bedside teaching alone](structured-skills-training-beats-unstructured-clerkships.md) — related

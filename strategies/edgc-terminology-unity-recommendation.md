@@ -41,7 +41,8 @@ Because the word analysis found the same meaning attached to different concepts 
 - [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](../claims/edgc-diverse-terminology-word-analysis.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt consistent PAL terminology based on the six proposed groupings and expand MeSH terms](consistent-pal-terminology-mesh-expansion-strategy.md)
 
 ## Examples
 -

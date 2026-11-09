@@ -81,3 +81,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Participants rated the EOL simulation workshop highly and believed it would ameliorate their future handling of EOL situations](eol-workshop-positive-participant-ratings.md) — related
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
 - [Simulator features that realistically simulate basic PPH management steps may have supported learning of those skills](realistic-simulator-features-support-basic-skill-learning.md) — related
+- [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related

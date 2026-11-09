@@ -53,3 +53,4 @@ Excellent	29 (96.7)	27 (90.0)	480.00	0.305"
 - [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — reports the opposite
 - [Peer tutors using Peyton's four-step method taught basic suturing skills to undergraduates as effectively as faculty, with no significant OSCE score difference between PAL and FAL groups](pal-fal-equivalent-suturing-osce.md) — related
 - [Both groups rated learning at the skill lab as a better alternative to bedside learning, with no significant group difference](skill-lab-better-than-bedside-both-groups.md) — related
+- [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — related

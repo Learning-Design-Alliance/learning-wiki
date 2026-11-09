@@ -69,3 +69,4 @@ Prescription-error screening (Dean et al. classification) within the same case-s
 - [Fear and clinical uncertainty were associated with more cautious clinical decisions, including more admissions, more diagnostic tests, and more antibiotic prescriptions](fear-and-uncertainty-lead-to-cautious-decisions.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
+- [Students who wrote more than 10 prescriptions as undergraduates and those with higher prescribing confidence had significantly lower rates of inappropriate drug prescribing](prescribing-experience-and-confidence-reduce-errors.md) — related

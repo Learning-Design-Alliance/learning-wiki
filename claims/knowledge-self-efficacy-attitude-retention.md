@@ -83,3 +83,4 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related
 - [Teamwork safety-relevant attitudes largely unchanged after the NTS seminar; handling errors improved but the teamwork attitude decreased in the NTS group](nts-seminar-attitude-changes-mixed.md) — related
 - [Self-efficacy for helping CYP who self-harm significantly decreased in the full follow-up sample (d = 0.29) but the decrease was not significant among intervention completers](self-efficacy-decrease-full-sample-not-completers.md) — related
+- [Composite score gains remained stable across the intervention years](stable-composite-gains-within-intervention.md) — related

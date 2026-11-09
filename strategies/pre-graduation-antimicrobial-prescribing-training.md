@@ -50,6 +50,7 @@ The authors recommend that antimicrobial stewardship efforts "include the provis
 - [Change undergraduate clinical pharmacology and therapeutics education to improve the prescribing competencies of future doctors](reform-undergraduate-cpt-education-prescribing.md)
 - [Implement standardized AMS modules early in dental and medical curricula, reinforced throughout training, with targeted support for underperforming groups](standardized-ams-modules-early-reinforced-curricula.md)
 - [Use higher-aligned curricula as practical models for targeted AMS curriculum revision across professions](high-alignment-curricula-as-revision-models.md)
+- [Increase active prescribing practice during undergraduate training, including writing prescriptions during clinical clerkships](increase-active-prescribing-practice-strategy.md)
 
 ## Examples
 -

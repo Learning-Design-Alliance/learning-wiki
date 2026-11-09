@@ -53,3 +53,4 @@ The review reports a Pakistani 8-day TBA training where intervention-arm TBAs "s
 - [High workload and large populations to cover were associated with lower CHW motivation and performance](high-workload-lower-chw-motivation-performance.md) — related
 - [Extended curative tasks increased CHW self-reported motivation and community recognition](curative-tasks-increase-chw-motivation-recognition.md) — related
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
+- [Prior community-based studies in Pakistan and elsewhere support the feasibility of training community health workers to administer emergency medications, including a 24% decrease in maternal mortality with TBA-administered misoprostol](chw-medication-administration-feasibility-evidence.md) — a narrower finding that bears on this claim

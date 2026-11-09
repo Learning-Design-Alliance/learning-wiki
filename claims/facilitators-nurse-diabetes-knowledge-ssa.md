@@ -53,3 +53,4 @@ Across four included studies, the review reports that "Facilitating factors were
 - [Specific knowledge deficits in Ghana and Libya studies: type 2 diabetes, DKA and complications](ssa-nurses-type2-dka-knowledge-deficits.md) — related
 - [The review reports that low confidence in counselling patients and perceived insignificance of nutrition contribute to the knowledge deficit among medical students and doctors](msad-low-confidence-perceived-insignificance.md)
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
+- [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related

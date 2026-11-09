@@ -51,6 +51,7 @@ The article recommends that microsurgical and basic surgical skills training be 
 - [Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors](implement-spaced-vr-simulator-training-novice-doctors.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
+- [Distributed low-cost simulation training schedule for basic laparoscopic skills](distributed-tbt-training-schedule-strategy.md)
 
 ## Examples
 -

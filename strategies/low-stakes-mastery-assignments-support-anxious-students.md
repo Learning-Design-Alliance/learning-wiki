@@ -51,6 +51,7 @@ The article proposes classroom actions to increase low-efficacy students' engage
 
 - [Math Anxiety Reduction](math-anxiety-reduction.md)
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
+- [Instructors should explain the rationale for active learning practices and buffer cold calling with peer discussion](buffer-cold-calling-rationale-strategy.md)
 
 ## Examples
 -

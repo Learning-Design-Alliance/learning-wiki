@@ -48,3 +48,4 @@ Paired t-test on Group A's within-subject crossover design (20 novices, 10 min b
 - [Novice trainees' confidence in laparoscopic skill rose from pre-test to post-test within Group A after training with AEDS real-time feedback](aeds-feedback-increases-novice-confidence.md) — related
 - [Novices trained with AEDS feedback make fewer recorded laparoscopic errors than novices trained the same total time without AEDS feedback](aeds-group-lower-errors-than-traditional-training-group.md) — related
 - [Novice trainees systematically underestimate their own laparoscopic error counts relative to AEDS-recorded errors](novices-underestimate-laparoscopic-errors-versus-aeds-recorded.md) — related
+- [Average error in laparoscopic simulator tasks decreased about 30% after training](average-error-decreased-30-percent-after-simulator-training.md) — related

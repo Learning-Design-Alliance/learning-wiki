@@ -68,3 +68,4 @@ Narrative synthesis in the concerns section of the review. The review reports ch
 - [Perceptions of the group simulation assessment's fairness varied, with concerns about grading subjectivity, uneven group participation and emotional intensity](fairness-perceptions-varied-grading-subjectivity.md) — related
 - [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related
+- [Workplace-based assessment and recruitment are perceived as vulnerable to bias, whereas Royal College examinations are typically perceived as more rigorous and fair](assessment-recruitment-bias-perceptions.md) — related

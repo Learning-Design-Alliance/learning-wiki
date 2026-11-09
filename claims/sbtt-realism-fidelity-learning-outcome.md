@@ -69,3 +69,4 @@ Participant quotes on the simulated patient: the midwife's body mass index was n
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — reports the opposite
+- [Physical fidelity of the simulation setting is not the most important aspect for individual and team learning](physical-fidelity-not-primary-driver-of-learning.md) — reports the opposite

@@ -73,3 +73,5 @@ Regression analyses testing group differences on the psychological variables. UR
 - [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](is-course-higher-attrition-rate.md) — related
 - [URM students underperformed relative to non-URM students on introductory biology exams at inclusive and selective 4-year institutions, but not at community colleges](urm-performance-gaps-vary-by-institution-type.md) — related
 - [Gateway students have higher attrition and are more likely to repeat a year than SEMED students](gateway-higher-attrition-repeat-year.md) — related
+- [Biology majors and minors enrolled in postcollege degree programs at higher rates than college alumni overall, with no URM or program differences](postgrad-enrollment-bio-majors-higher-no-urm-difference.md) — related
+- [URM students who persisted as biology majors still had significantly lower subsequent biology and NSE GPAs than non-URM peers](urm-subsequent-gpa-still-lower.md) — related

@@ -49,6 +49,7 @@ The article recommends integrating educational technology into a well-rounded cu
 - [Integrate teachable agents as a complement to, not a replacement for, the adopted classroom curriculum](ta-as-curriculum-complement-strategy.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
 
 ## Examples
 -

@@ -86,3 +86,4 @@ Chapter 3 analysis (Figure 10) relating semester absences to five-year graduatio
 - [In 2019–20, 71 percent of students with disabilities graduated high school within four years versus 87 percent of all students](graduation-rate-gap-71-versus-87-percent.md) — related
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
 - [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](freshman-gpa-predicts-80-percent-ontime-graduation.md) — related
+- [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related

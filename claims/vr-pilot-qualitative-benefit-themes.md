@@ -84,3 +84,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [All interns evaluated the patient experience simulation positively, citing realism and role modeling as strengths, and unanimously supported repeating it](interns-valued-simulation-realism-role-modeling.md) — related
 - [Virtual Patient participants more frequently acknowledged the clinical relevance of the trauma case than lecture participants in open-ended appraisals](vp-group-more-clinical-relevance-acknowledged.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
+- [Free-text comments showed pre-programme lack of exposure to genital examinations (especially male) and post-programme positive experience, with comments about tutor quality and the experience](free-text-themes-exposure-and-tutor-quality.md) — related

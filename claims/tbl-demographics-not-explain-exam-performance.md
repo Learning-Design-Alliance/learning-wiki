@@ -52,3 +52,4 @@ Regression analysis of three semesters of TBL course data (N = 134 per printed t
 - [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — related
 - [Natural uptake of the freely available Exam Playbook differed by gender and race but not academic ability or first-generation status](exam-playbook-natural-uptake-demographics.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
+- [Gender and other PGY levels showed no significant effect on predicted exam score difference](gender-and-other-pgy-no-effect-exam-score-difference.md) — related

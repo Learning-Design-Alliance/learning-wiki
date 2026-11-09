@@ -75,3 +75,4 @@ In Study 2 (70 participants, laptop-app probes), a repeated-measures ANOVA showe
 - [Media multitasking, but not mind wandering, is negatively associated with quiz performance](media-multitasking-negative-quiz-performance.md) — related
 - [Media multitasking during probed slides predicts lower quiz accuracy in multilevel analysis](slide-based-multitasking-lower-accuracy.md) — related
 - [Media multitasking is more detrimental to quiz performance than mind wandering](multitasking-worse-than-mind-wandering.md) — related
+- [Mind wandering increases and retention decreases across a 1-hour video lecture](mind-wandering-increases-across-long-lecture.md) — related

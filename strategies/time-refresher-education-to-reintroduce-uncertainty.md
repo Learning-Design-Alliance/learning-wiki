@@ -57,6 +57,7 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Schedule repeated hands-on simulation training for obstetric procedures on a yearly basis, with refresher sessions after initial training](yearly-repeated-obstetric-simulation-training.md)
 - [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
+- [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 
 ## Examples
 -

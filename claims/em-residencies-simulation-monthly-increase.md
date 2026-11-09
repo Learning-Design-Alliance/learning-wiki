@@ -50,3 +50,4 @@ Cross-sectional national survey of 100 EM program directors (36% response rate),
 - [Most EM residency programs use simulation to fulfill rare ACGME-mandated procedure requirements while routine procedures are simulated in fewer than 20% of cases](simulation-rare-procedure-requirements-em.md) — related
 - [About half of responding EM residency programs have simulation fellowship-trained faculty, and only 27.4% offer a simulation fellowship or scholarly track](simulation-fellowship-faculty-half-programs.md) — related
 - [Screen-based simulator access rose from 14% of programs in 2008 to 58.9% in 2022](screen-based-simulator-access-increase.md) — related
+- [Emergency medicine residents spend extracurricular time on education: 97.7% report at least one hour per week and 34.4% report two to four hours](em-residents-extracurricular-education-hours.md) — related

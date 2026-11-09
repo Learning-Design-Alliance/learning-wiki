@@ -49,3 +49,4 @@ Thematic analysis of semi-structured interviews with 10 nurse educators (8 RN, 2
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — a narrower finding that bears on this claim
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
+- [Evidence indicates graduates are unprepared for multidisciplinary team-working](graduates-unprepared-multidisciplinary-teamworking.md) — related

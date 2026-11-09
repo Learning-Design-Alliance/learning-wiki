@@ -52,3 +52,4 @@ Expert evaluation of GPT-4-generated misconceptions for 48 problems across Immun
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
 - [Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality](artifact-grounded-responses-rated-higher.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
+- [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related

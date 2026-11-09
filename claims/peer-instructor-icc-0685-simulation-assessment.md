@@ -53,3 +53,4 @@ Reliability analysis of assessment scores from 34 student groups rated by peers 
 - [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
+- [Peer assessors show strong-to-excellent reliability with professionals, students and other peers (ICC 0.76–0.91)](peer-assessor-reliability-icc-076-to-091.md) — related

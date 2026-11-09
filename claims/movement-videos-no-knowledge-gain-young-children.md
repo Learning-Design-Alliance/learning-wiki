@@ -50,3 +50,4 @@ Randomised MANCOVA with pre-test as covariate, group as independent variable, an
 - [The authors interpret the null movement effect as possibly due to experimenter-controlled video pacing obstructing children's memory encoding](experimenter-paced-segmentation-may-obstruct-encoding.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
 - [Free-movement VR increases task-relevant bodily movement compared with seated VR](free-movement-vr-increases-task-relevant-bodily-movement.md) — related
+- [Interactive video control improves learning outcomes and satisfaction compared with noninteractive video](interactive-video-control-improves-learning.md) — related

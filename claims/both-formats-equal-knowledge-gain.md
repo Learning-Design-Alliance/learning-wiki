@@ -69,3 +69,4 @@ Objective knowledge assessed by three multiple-choice questions in the obligator
 - [Standardised patients rate the counselling of role-playing seminar students significantly better than that of online-course students](sp-rating-seminar-advantage.md) — related
 - [The online course is more time-efficient than the attendance seminar for the same smoking cessation training](online-course-time-efficiency.md) — related
 - [Role-playing seminar students outperform online-course students on the Assist section of the 5A counselling model in the OSCE](assist-section-seminar-advantage-osce.md) — related
+- [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](standardized-patients-no-written-exam-difference.md) — related

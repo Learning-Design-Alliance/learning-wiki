@@ -47,3 +47,4 @@ Reflexive thematic analysis of semi-structured interviews with 30 of the 50 stud
 ## Related Claims
 - [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
+- [Direct observation and video-based feedback formats differ structurally in timing: immediate short feedback versus delayed feedback after student self-review of a videotaped encounter](osce-feedback-format-structural-timing-difference.md) — related

@@ -47,6 +47,7 @@ The article describes a strategy in which students are divided into small groups
 - [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 - [Conver-Stations](conver-stations.md)
 - [Learning Communities](learning-communities.md)
+- [Rotate students’ written questions among peers so they assess and discuss them to feed the dialogue](peer-rotation-written-questions-dialogue.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ A two-way ANOVA on CCTST pre-post gain scores showed a significant main effect o
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — related
 - [Gender is not a significant factor in EFL learners' critical thinking skill gains from debate instruction](gender-no-effect-critical-thinking-debate.md) — related
 - [The vast majority of EFL learners perceive debate instruction as effective for developing critical thinking skills](students-perceive-debate-effective-for-ct.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — reports the opposite

@@ -47,3 +47,4 @@ The review tabulated pedagogical tools and learning theories for each of the 68 
 ## Related Claims
 - [School-based substance use interventions with an explicit theoretical foundation are associated with more robust outcomes than atheorised models, which more often showed fluctuating outcomes](theory-grounded-substance-prevention-more-robust-outcomes.md) — related
 - [Included studies grounded their learning environments in diverse learning theories, and the review argues no single theory suffices](diverse-learning-theories-complementary-use.md) — related
+- [Existing translational medicine educational programs provide foundational and functional skills training but remain limited in diffusion and long-term mentorship](existing-tm-programs-limited-diffusion-mentorship.md) — related

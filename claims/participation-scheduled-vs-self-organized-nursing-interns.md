@@ -47,3 +47,4 @@ Cross-sectional descriptive survey of 318 final-year nursing interns at two Chin
 ## Related Claims
 - [Study-group membership and extracurricular participation were moderately correlated (r = 0.56), consistent with a shared scheduling constraint](study-group-extracurricular-correlation-r056.md) — related
 - [A compacted academic timetable without SSL slots contributes to student nurses' underutilisation of self-directed simulation learning](compacted-timetable-underutilisation-ssl.md) — related
+- [A majority of residents (80.0%) choose extracurricular educational topics based on recent clinical encounters](topics-chosen-from-clinical-encounters.md) — related

@@ -55,3 +55,4 @@ Mixed methods study (Banwell et al., as charted in Table 1) combining an RCT, a 
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — a broader claim this one bears on
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [From educators' perspectives, the key issues in teaching podiatry manual clinical skills are students' clinical exposure, motivation, levels of anxiety and dexterity](key-issues-exposure-motivation-anxiety-dexterity.md) — related
+- [In one uncontrolled pre-post study, participants' self-rated confidence in foot assessment rose from before to after the workshop, while the self-reported belief that only a podiatrist can stratify foot risk fell](workshop-confidence-and-podiatrist-belief-shift.md) — related

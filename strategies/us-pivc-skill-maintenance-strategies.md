@@ -60,6 +60,7 @@ To ensure skill retention beyond the initial course, the article's maintenance d
 - [Sustain framework use with rotation-start references, embedded evaluation prompts, and ongoing self-feedback](sustain-narrative-framework-with-references-and-self-feedback.md)
 - [Combine clinical simulation with complementary strategies and deliver it during hospitalization to prepare caregivers for discharge](simulation-plus-complementary-strategies-discharge-strategy.md)
 - [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 
 ## Examples
 -

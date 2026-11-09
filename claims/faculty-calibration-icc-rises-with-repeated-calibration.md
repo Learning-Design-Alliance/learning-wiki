@@ -61,3 +61,4 @@ The review reports, citing its reference 11, that instructional rubrics with fac
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite
+- [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related

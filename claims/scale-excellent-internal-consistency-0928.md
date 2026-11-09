@@ -60,3 +60,4 @@ Psychometric evaluation of the 72-item instrument administered via a digital tes
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
 - [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — a narrower finding that bears on this claim
 - [ASPECT's 16 items load onto three engagement factors (value of group activity, personal effort, instructor contribution) with Cronbach's alpha 0.78–0.91](aspect-sixteen-items-three-factors.md) — related
+- [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related

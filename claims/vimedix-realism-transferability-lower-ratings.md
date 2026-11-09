@@ -47,3 +47,4 @@ Likert-scale (1–7) evaluation of the CAE Vimedix 3.0 simulator by all course p
 
 ## Related Claims
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
+- [Trainee ratings of lighting favor the SBT while image sharpness favors the TBT, with no differences in overall satisfaction](trainer-perception-lighting-sharpness.md) — related

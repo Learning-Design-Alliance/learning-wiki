@@ -49,3 +49,4 @@ Thematic analysis of the qualitative questionnaires after the VF sessions in the
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](resident-perceptions-video-recording-positive.md) — reports the opposite
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related
 - [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related
+- [Watching one's own videotaped consultations made doctors aware of generic communication behaviour but did not prompt deeper reflection on intercultural communication](videotape-reflection-generic-awareness-only.md) — related

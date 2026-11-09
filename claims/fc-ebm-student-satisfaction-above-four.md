@@ -51,3 +51,4 @@ Self-made 14-question Likert 5-point satisfaction survey completed by the 38 FC-
 - [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
+- [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related

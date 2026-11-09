@@ -48,3 +48,4 @@ Pretest survey of the 69 RCT participants on patient safety perceptions and erro
 ## Related Claims
 - [In multivariate regression, flipped learning and initially inadequate perceived patient safety knowledge predicted higher competency gains](regression-flipped-learning-predicts-competency-gain.md) — related
 - [Less experienced nurses showed lower awareness of medication safety and repeated errors, while experienced groups showed heightened awareness](experience-gap-medication-safety-awareness.md) — related
+- [Nursing students show low baseline attitude and practice scores regarding patient privacy before any targeted education](low-baseline-privacy-attitude-practice.md) — related

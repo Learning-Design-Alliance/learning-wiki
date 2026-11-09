@@ -50,3 +50,4 @@ External validity check in the cross-sectional survey of 241 nurses using the Nu
 - [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](self-efficacy-peer-support-predict-profile-membership.md) — related
 - [Nursing students report moderate scores for PI, educator competence perception, and willingness to engage in geriatric nursing](descriptive-scores-pi-gents-weans.md) — related
 - [Oncology nurses fall into three distinct latent profiles of palliative care core competency: low (27%), moderate (45%), and high (28%).](three-latent-profiles-palliative-care-competency-oncology-nurses.md) — related
+- [No statistically significant differences in self-efficacy between professional groups](se-12-profession-ranking-not-significant.md) — related

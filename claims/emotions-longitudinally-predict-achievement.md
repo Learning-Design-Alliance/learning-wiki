@@ -60,3 +60,4 @@ Longitudinal studies using AEQ trait or state scales with university students, w
 - [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](engagement-scales-no-correlation-exam-scores.md) — related
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](test-anxiety-negative-correlation-performance-medical-students.md) — related
 - [Test anxiety was universally negatively associated with exam scores across community college, inclusive, and selective institutions](test-anxiety-negatively-associated-exam-scores-all-contexts.md) — related
+- [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](negative-achievement-emotions-elearning-rote-strategies.md) — related

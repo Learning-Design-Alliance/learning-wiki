@@ -51,3 +51,6 @@ In the non-symbolic number line task, the three-way interaction "F(2,49) = 3.25,
 - [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — related
 - [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related
 - [Training the approximate number system has not provided conclusive evidence of transfer to arithmetic, and the ANS-as-foundation claim is weak](ans-training-no-conclusive-transfer-to-arithmetic.md) — related
+- [Non-symbolic training improved non-symbolic magnitude processing selectively by ratio and numerosity size](non-symbolic-training-ratio-and-size-selective-gains.md) — related
+- [Symbolic training produced modest improvement in some non-symbolic magnitude processing, consistent with symbolic learning refining the ANS](symbolic-training-refines-non-symbolic-processing.md) — a broader claim this one bears on
+- [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](symbolic-training-symbolic-tasks-and-verbal-transfer.md) — related

@@ -72,3 +72,5 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Extreme mismatches between modified ACIRS and ECRS scores appear driven by medical-knowledge checklist performance rather than empathetic communication](acirs-ecrs-mismatch-driven-by-medical-knowledge.md) — related
 - [The communication assessment tool showed high internal-consistency reliability (Cronbach's alpha 0.88–0.96) across the nine scenarios](communication-tool-internal-consistency-088-096.md) — related
 - [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
+- [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
+- [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related

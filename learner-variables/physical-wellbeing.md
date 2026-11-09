@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 237 claims (150 show a difference, 53 mixed, 34 no difference) · 125 studies (43 associational, 41 causal, 18 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 32 of 125 report an effect size · 233 claims rest on one study
+> **Evidence** · 238 claims (151 show a difference, 53 mixed, 34 no difference) · 126 studies (43 associational, 42 causal, 18 review, 14 quant-synthesis, 6 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 32 of 126 report an effect size · 234 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -274,6 +274,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Higher physical fitness is associated with increased odds of commencing post-compulsory education (total-effect OR 1.87 per 10 VO2max units)](../claims/physical-fitness-total-effect-post-compulsory-commencement.md) [+W] — learners who differ on it differ in outcomes
 - [School-based physical activity that improves fitness is suggested as potentially beneficial for both scholastic abilities and health](../claims/school-physical-activity-beneficial-scholastic-health.md) [+M] — measured as an outcome of the instruction studied
 - [Self-selected motivational music during repetitive aerobic exercise improves affective responses, with effects most pronounced for self-paced exercise](../claims/motivational-music-improves-affective-responses.md) [~M] — measured as an outcome of the instruction studied
+- [Baseline PA prescription knowledge is associated with specialty, country, age over 40, meeting aerobic PA recommendations, and overweight/obesity](../claims/pretest-score-correlates-regression-pa-workshop.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

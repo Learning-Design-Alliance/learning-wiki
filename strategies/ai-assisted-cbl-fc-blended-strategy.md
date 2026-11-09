@@ -67,6 +67,7 @@ The article implements a blended instructional model in which foundational conte
 - [Blend identical pre-class theory teaching with group-based virtual simulation case practice in the internship class](vr-internship-class-group-case-strategy.md)
 - [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
 - [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
+- [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ The review's synthesis of multiple short-term pre-post intervention studies in w
 - [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — related
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related
 - [Training duration may moderate durability of role-playing empathy gains: a 40-minute workshop's gains were not persistent, unlike 12- and 20-hour programs](training-duration-moderates-empathy-gain-durability.md) — related
+- [Effects of the brief gatekeeper training were measured only immediately after the intervention; durability is unknown](gatekeeper-training-durability-unknown.md) — related

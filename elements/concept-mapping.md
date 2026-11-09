@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (18 for, 11 mixed, 2 against) · 22 studies (12 causal, 3 quant-synthesis, 3 associational, 2 design, 1 review, 1 qualitative), `q1`–`q4` · 9 of 22 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (19 for, 12 mixed, 2 against) · 23 studies (12 causal, 3 quant-synthesis, 3 associational, 3 design, 1 review, 1 qualitative), `q1`–`q4` · 9 of 23 report an effect size · 30 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -72,6 +72,8 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](../claims/pbl-small-group-mind-maps-idea-sharing-immunology.md) [~W] — attached 2026-11-04 from Abeysuriya V. et al. (2026), which proposed "PBL and knowledge-scaffolding mind mapping intervention for postgraduate immunology".
 - [Class-wide mind map integration boosted students' confidence to share ideas (83% agree or strongly agree)](../claims/class-wide-map-integration-confidence.md) [~W] — attached 2026-11-04 from Abeysuriya V. et al. (2026), which proposed "PBL and knowledge-scaffolding mind mapping intervention for postgraduate immunology".
 - [Maps in which learners gave up and requested the system's diagnosis contained fewer nodes, lower scores, fewer summary statements and lower confidence than maps solved by learners themselves](../claims/gave-up-maps-fewer-nodes-lower-scores.md) [+W] — attached 2026-11-09 from Hege I et al. (2018), which proposed "A concept mapping tool combined with virtual patients that documents, scores and gives feedback on the clinical reasoning process".
+- [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](../claims/crm-undergraduates-perceived-understanding-no-recall-advantage.md) [~M] — attached 2026-11-09 from Jayasinghe S (2016), which proposed "Clinical Reasoning Map (CRM): a bedside network diagram for complex clinical scenarios".
+- [Postgraduate trainees unanimously found the Clinical Reasoning Map useful for understanding interconnected patient problems, pathogenesis, differential diagnosis and investigation selection](../claims/crm-postgraduates-unanimous-usefulness.md) [+W] — attached 2026-11-09 from Jayasinghe S (2016), which proposed "Clinical Reasoning Map (CRM): a bedside network diagram for complex clinical scenarios".
 
 ## The evidence by question
 

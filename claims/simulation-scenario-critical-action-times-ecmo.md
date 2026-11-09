@@ -49,3 +49,4 @@ Exam simulation scenarios (pump failure in VA ECMO, gas supply failure on VV ECM
 - [Confidence in operating a syringe pump declines substantially in the two weeks after e-Learning-based device training, regardless of learning method](confidence-declines-after-device-training.md) — related
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
 - [Technical self-assessment showed the most pronounced improvement of the course, with a more than four-fold increase and pump-failure management rising from 1 to 5](simulation-ecmo-course-improves-technical-skills-most.md) — related
+- [After a 1-day ECMO simulation course, most delegates reported perceived gains in technical skills such as circuit troubleshooting and pump familiarity](ecmo-simulation-course-technical-skill-gains.md) — related

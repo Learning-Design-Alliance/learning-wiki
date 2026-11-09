@@ -53,3 +53,4 @@ Pilot study: 19 students attended a four-hour cadaver course (30-min lecture plu
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in change in student confidence after a simulated lumbar puncture workshop](peyton-vs-see-one-do-one-no-confidence-change-difference-slp.md) — related
+- [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](peyton-four-step-superior-ospe-spinal-manipulation.md) — related

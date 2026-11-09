@@ -52,6 +52,7 @@ The article recommends combining continuing professional education with organiza
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Develop updated MIH courses for dentists aligned with international guidelines](updated-mih-courses-international-guidelines.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
+- [Adopt interactive online diabetic foot education such as the FRAME program to build and maintain stratification skills](frame-online-diabetic-foot-education-strategy.md)
 
 ## Examples
 -

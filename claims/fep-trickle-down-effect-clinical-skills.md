@@ -50,3 +50,4 @@ Table 4 comparison in the Results section of Cohort B2017 non-FEP SBAs (n = 93) 
 - [SBAs who underwent FEP outperform non-FEP SBAs in knowledge, clinical skills and enabling environment in intergroup comparison](fep-vs-non-fep-intergroup-comparison.md) — related
 - [Skilled birth attendants' clinical skills scores rose by approximately 29% from pre-test to post-test after a one-time FEP, in one group with no comparison group](one-time-fep-increases-sba-clinical-skills.md) — related
 - [A successful CVC mastery-learning intervention transferred to a different hospital setting retained patient-safety benefits, with a trickle-down effect on untrained trainees](ml-cvc-intervention-dissemination-trickle-down.md) — related
+- [Tertiary-facility status and no prior resuscitation training predict loss of OSCE B skills, while catch-up training and the Nagpur site predict retention](hbb-skill-loss-risk-factors.md) — related

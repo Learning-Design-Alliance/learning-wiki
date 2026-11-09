@@ -51,3 +51,4 @@ Logistic regression among the 2569 incorrect responses found "questions answered
 - [Higher certainty is associated with lower odds of unsafe MCQ responses overall](mcq-certainty-lower-unsafe-odds.md) — reports the opposite
 - [Higher student certainty in MCQ responses is associated with higher odds of answering correctly](mcq-certainty-odds-of-correctness.md) — related
 - [Stated confidence discriminates correct from incorrect responses (GPT-5.2 AUROC approximately 0.87 to 0.90), though most configurations are net underconfident](llm-confidence-discriminates-correctness.md) — related
+- [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related

@@ -51,3 +51,4 @@ Performance was assessed by blinded structured observation with the WHOBARS chec
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
 - [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related
 - [Serious-game simulation and traditional teaching produce no significant immediate difference in script concordance test scores for detecting patient deterioration in nursing students](sg-vs-tt-no-immediate-sct-difference.md) — related
+- [Patient safety knowledge improved equally after the serious game and the e-module compared with a no-extra-education control group](game-and-e-module-equal-knowledge-gains-patient-safety.md) — related

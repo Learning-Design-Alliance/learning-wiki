@@ -48,3 +48,4 @@ Multiple linear regression on the 81 completing residents' virtual SBA scores, a
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
 - [Virtual simulation-based assessment scores do not differ significantly between post-graduate year 1 and year 2 residents (6.15 vs 6.48 on a 10-point scale)](virtual-sba-no-pgy-difference.md) — related
 - [A competency-based mechanical ventilation course with virtual simulation significantly increases residents' knowledge, with a multiple-choice examination gain of 1.19 points on a 10-point scale](mce-score-increase-mv-virtual-simulation-course.md) — related
+- [PGY 2 status had a significant negative effect on predicted exam score difference in EM residents](pgy2-status-negative-effect-knowledge-retention.md) — related

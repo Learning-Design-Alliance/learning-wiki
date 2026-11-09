@@ -52,3 +52,5 @@ Assessment of 91 residents on a laparoscopic training simulator for Peg Transfer
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
 - [FVS task-level scores distinguished experience level for one-handed knot tying and plication suturing but not for all five tasks](fvs-task-level-novice-experienced-differences-ghana.md) — related
 - [Peg-transfer FLS scores did not differ significantly between robotic and laparoscopic approaches, but robotic scores showed progressive improvement across trials](hinotori-peg-transfer-fls-comparable-progressive-improvement.md) — related
+- [LVG group outcome measures show smaller variances, significantly so for the TABLT performance score](lvg-smaller-variance-consistency.md) — related
+- [LVG group shows a non-significant tendency toward higher TABLT performance scores than the 2D group](lvg-tablt-score-tendency.md) — related

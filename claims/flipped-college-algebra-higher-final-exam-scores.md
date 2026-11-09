@@ -58,3 +58,4 @@ Quasi-experimental comparison of final exam scores across four flipped college a
 - [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](mobile-3g-use-higher-achievement-scores.md) — a narrower finding that bears on this claim
 - [Active learning instruction produced significantly higher overall final exam scores than traditional lecture instruction in a preparatory-year writing and research course](active-learning-higher-final-exam-scores-writing-research.md) — related
+- [Students taught with identical flipped active-learning instruction show no performance difference between a SCALE-UP–type classroom and a traditional lecture hall](scale-up-classroom-no-performance-advantage.md) — related

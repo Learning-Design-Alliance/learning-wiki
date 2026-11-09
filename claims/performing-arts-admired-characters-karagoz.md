@@ -48,3 +48,4 @@ From the same qualitative interview study of 15 experimental-group students: ans
 
 - [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md)
 - [Students reported behavior and awareness changes after the performing-arts unit, most often about spitting on the ground and protecting natural beauties](performing-arts-awareness-behavior-change.md)
+- [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related

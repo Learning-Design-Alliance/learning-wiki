@@ -74,3 +74,4 @@ Mediation analysis across the whole sample (PROCESS macro, OLS regression with b
 - [Intrinsic motivation predicted study completion, with a small effect (OR=1.05)](intrinsic-motivation-predicted-study-completion.md) — related
 - [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related
 - [Control group reported higher interest/enjoyment and perceived choice than the camera group](control-group-higher-interest-and-choice.md) — related
+- [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related

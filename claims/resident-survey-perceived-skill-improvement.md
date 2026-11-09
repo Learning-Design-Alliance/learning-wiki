@@ -48,3 +48,4 @@ Post-experiment questionnaire with five statements rated on a 5-point Likert sca
 - [Surgical residents who practiced sufficiently improved laparoscopic small bowel length measurement accuracy significantly in an ex vivo model](sufficient-exvivo-practice-improves-bowel-measurement-accuracy.md) — related
 - [Across all ten residents, the 13% improvement in bowel measurement accuracy was not statistically significant](all-resident-bowel-accuracy-gain-not-significant.md) — related
 - [Task completion time for the 150 cm bowel measurement did not significantly decrease after training](measurement-time-not-significantly-reduced.md) — reports the opposite
+- [Residents' self-rated laparoscopic skill improved significantly after the training program (Likert 1.3 to 2.7, p=0.000)](resident-self-rated-laparoscopic-skill-improved-after-training.md) — related

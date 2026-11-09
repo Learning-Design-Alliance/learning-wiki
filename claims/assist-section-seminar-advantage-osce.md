@@ -52,3 +52,4 @@ Sectional analysis of the same 36-student OSCE (n=36 printed in Figure 1 caption
 - [Among MME students, completing more intervention components was significantly associated with higher self-reported 5A skills but not significantly with OSCE scores](component-exposure-perceived-skills-significant.md) — related
 - [Both e-learning and role-playing formats equally and significantly increase medical students' theoretical knowledge of smoking cessation](both-formats-equal-knowledge-gain.md) — related
 - [The online course is more time-efficient than the attendance seminar for the same smoking cessation training](online-course-time-efficiency.md) — related
+- [Confidence gains were greatest for the 'Assist' and 'Arrange' phases of the 5As framework](assist-arrange-items-greatest-confidence-change.md) — related

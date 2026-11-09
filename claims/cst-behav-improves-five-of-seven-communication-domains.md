@@ -68,3 +68,4 @@ Table 2 primary outcome for CST-behav: the blinded-rater global rating rose from
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — a broader claim this one bears on
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — related
+- [Five of six key communication aspects improved significantly (ES = 0.52–1.94), with the largest gain for starting conversations and no significant change for patient's perception](key-communication-aspects-gains-patient-perception-null.md) — related

@@ -53,6 +53,7 @@ The article's implementable training recipe is simulation training using Plan-Do
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 - [Use in-situ simulation within a PDSA cycle to gather real-time user feedback and iteratively refine a new clinical protocol](insitu-sim-pdsa-protocol-refinement.md)
 - [Deliver in situ simulation including all staff, with repeated low-time-cost equipment familiarisation sessions](all-staff-in-situ-simulation-equipment-familiarisation-strategy.md)
+- [Plan unannounced in situ simulation with management support, cancellation rules, replacement staff, and simulation-only labelling of equipment](unannounced-iss-planning-strategy.md)
 
 ## Examples
 -

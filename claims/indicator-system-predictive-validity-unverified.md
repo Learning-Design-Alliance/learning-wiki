@@ -61,3 +61,4 @@ Authors' stated limitation in the Discussion: the Delphi process ensured content
 - [Predicting patient outcomes within developmental corridors is a largely unexplored cognitive process in intervention reasoning](developmental-corridors-prediction-unexplored.md) — related
 - [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related
 - [The SVI's validity for predicting future performance remains debated, and critics warn it may unintentionally diminish diversity in emergency medicine](svi-validity-debated-diversity-concern.md) — related
+- [The explorative Delphi method provides an adequate opportunity for experts to assess an outcome framework's future relevance and to anticipate future trends](explorative-delphi-adequate-for-of-review.md) — related

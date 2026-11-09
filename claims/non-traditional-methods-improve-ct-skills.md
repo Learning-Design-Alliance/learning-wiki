@@ -55,3 +55,4 @@ Meta-analysis using random effects model of six CCTST datasets from five studies
 - [TPS students scored significantly higher than Non-TPS students on posttest CT subscale scores](tps-posttest-subscale-significant.md) — a narrower finding that bears on this claim
 - [Students reported their thinking had improved after induction to the critical thinking module](students-perceived-thinking-improvement-after-module.md) — a narrower finding that bears on this claim
 - [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](discourse-analysis-student-reported-thinking-gains.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — reports the opposite

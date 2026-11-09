@@ -67,3 +67,4 @@ Narrative review reports that for complex skills including defibrillation, laryn
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [First-year OB-GYN residents taught with the refined Peyton four-step method score higher on basic skill operation assessments than residents taught with traditional simulation-based instruction](refined-peyton-higher-skill-operation-scores.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
+- [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — a narrower finding that bears on this claim

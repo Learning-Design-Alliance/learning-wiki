@@ -47,3 +47,4 @@ Descriptive statistics reported in the guide's overview, drawn from National Sci
 
 ## Related Claims
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
+- [Girls and boys differ substantially in A-level subject choices (e.g. biology 63% girls vs 37% boys; physics 23% girls vs 77% boys) but not much in A-level results](sex-differences-in-subject-choice-not-achievement.md) — related

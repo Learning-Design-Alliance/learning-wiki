@@ -51,3 +51,4 @@ Randomized controlled comparison of the same 6-station OSCE between Group A (ble
 - [Flipped classroom interns score significantly higher than traditional classroom interns in heart, lung, and abdominal physical examination OSCE stations](fc-higher-heart-lung-abdominal-osce.md) — related
 - [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related
 - [Both groups scored lowest on the rhinological and oral examination stations, though the e-learning group still significantly outperformed controls on those stations](rhinological-oral-stations-lowest-scores-both-groups.md) — related
+- [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related

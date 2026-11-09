@@ -50,3 +50,4 @@ Cross-sectional analysis of consented residents at hospitals hosting IMG residen
 - [In multivariable analysis, region of medical school graduation was not associated with GM-ITE total score, while postgraduate year, night shifts, and assigned inpatient caseload were](gm-ite-multivariable-region-not-associated-caseload-associated.md) — related
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — a narrower finding that bears on this claim
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
+- [Students holding misconceptions score lower on the topic’s formal examination, and the underperformance is topic-specific](misconceptions-negatively-associated-exam-score-topic-specific.md) — related

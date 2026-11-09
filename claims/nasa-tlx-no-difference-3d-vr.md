@@ -54,3 +54,4 @@ Secondary outcome of the feasibility RCT, NASA TLX completed after the video and
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
 - [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related
 - [Simulator sickness and workload do not differ by viewing-mode group during training, and perceived workload at test is lower only for the 2D→3D transfer group](simulator-sickness-workload-null-group-effects.md) — related
+- [LVG does not significantly reduce subjective cognitive workload (NASA-TLX) compared with 2D vision](lvg-nasa-tlx-no-difference.md) — related

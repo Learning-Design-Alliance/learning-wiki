@@ -44,6 +44,7 @@ A scheduling strategy for SMS-based learning support derived from students' stat
 
 - [Push-mode SMS support with three message types sent on non-class days](push-mode-three-type-sms-support-strategy.md)
 - [Send procedural training videos via text message before practical sessions](send-procedural-training-videos-text-message.md)
+- [Send text-message educational content at optimal times with repetition and keep messages concise](optimal-timing-repetition-concise-text-messages.md)
 
 ## Examples
 -

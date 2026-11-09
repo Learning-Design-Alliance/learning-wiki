@@ -87,3 +87,4 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
 - [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](collaborative-peer-teaching-pamphlet-strategies.md) — related
+- [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related

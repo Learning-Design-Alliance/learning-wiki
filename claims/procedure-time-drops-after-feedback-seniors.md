@@ -52,3 +52,4 @@ Descriptive subgroup analysis of median procedure times, illustrated in Fig. 2, 
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [Median major checklist steps missed on infant LP fell from 5 to 1 after the just-in-time video intervention](jit-video-reduced-missed-lp-steps.md) — related
 - [Novices' median total procedure time fell from 561 s to 216 s from pre-test to post-test in the novice group after self-training (p = 0.002)](self-training-halves-novice-procedure-time.md) — related
+- [Senior students rated learning effectiveness through collaboration significantly higher than junior students](senior-students-rate-collaboration-effectiveness-higher.md) — related

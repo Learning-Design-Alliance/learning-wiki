@@ -50,3 +50,4 @@ Content analysis of open-ended suggestions from the ten student groups at course
 - [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — related
 - [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related
 - [Student peer-to-peer feedback is perceived as beneficial but raises concerns about honesty and accuracy](peer-feedback-benefits-and-concerns.md) — possibly the same claim (merge candidate)
+- [Workplace-based assessment and recruitment are perceived as vulnerable to bias, whereas Royal College examinations are typically perceived as more rigorous and fair](assessment-recruitment-bias-perceptions.md) — related

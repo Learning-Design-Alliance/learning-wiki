@@ -51,6 +51,7 @@ The article's method pairs preliminary catalogs developed by specialty Scientifi
 - [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
 - [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
+- [Establish an Austrian-wide Competency Catalog for clinical training with supervisor accountability](competency-catalog-clinical-training-strategy.md)
 
 ## Examples
 -

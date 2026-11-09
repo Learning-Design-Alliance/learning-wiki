@@ -53,3 +53,4 @@ Quantitative analysis of district survey and administrative data reports that av
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
 - [The West-European context of the TPD review limits its international generalisability, since about half the world's students lack household computer access](tpd-review-west-european-context-limit.md) — related
 - [Teacher beliefs explain variance in computer use comparable to technology-related variables](beliefs-explain-variance-comparable-to-technology-variables.md) — related
+- [IT integration predictors explain 15.90% of school-level variance, with IT resources and teacher beliefs/practices as the most important determinants](predictors-explain-school-level-variance-it-integration.md) — related

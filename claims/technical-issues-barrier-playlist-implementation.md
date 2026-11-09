@@ -116,3 +116,4 @@ Observational and interview study of four after-school sites; educators reported
 - [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
 - [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related
 - [Technical obstacles with the Prezi presentation hindered rather than supported some students' learning](prezi-technical-obstacles-hindered-learning.md) — a narrower finding that bears on this claim
+- [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — a narrower finding that bears on this claim

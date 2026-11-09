@@ -77,3 +77,4 @@ Spearman's rank correlation for years in practice and a paired samples t-test fo
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
 - [A 2-hour BLS and AED course with an interactive lecture and practical workshop significantly improved schoolchildren's knowledge, with the largest gain on how basic life support is correctly performed (r = 0,71 in Study 1)](bls-aed-course-improves-schoolchildren-knowledge.md) — related
 - [Previous attendance at a BLS or AED course had no significant effect on knowledge test scores, and the test is applicable regardless of baseline knowledge](prior-bls-course-no-effect-on-test-score.md) — related
+- [Knowledge outcomes did not differ by district or by years since basic nursing training](no-district-or-experience-differences.md) — related

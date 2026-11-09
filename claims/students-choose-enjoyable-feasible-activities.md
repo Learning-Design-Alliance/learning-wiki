@@ -53,3 +53,4 @@ Descriptive analysis of interviews with 10 students, triangulated with student a
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related
 - [Clinical teachers judged the haptics software's available learning activities excessive for the required competence and curriculum time](haptics-tasks-exceed-required-competence.md) — related
 - [Willingness to learn was the leading competency in the can-do attitude domain](hst-willingness-to-learn-leading-cando-competency.md) — related
+- [A majority of residents (80.0%) choose extracurricular educational topics based on recent clinical encounters](topics-chosen-from-clinical-encounters.md) — related

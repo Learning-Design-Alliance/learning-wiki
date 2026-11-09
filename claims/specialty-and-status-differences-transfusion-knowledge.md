@@ -67,3 +67,4 @@ Multivariate linear regression models controlled for field of specialty, profess
 - [63% of physicians agreed that an absence of clear guidelines leads to confusion regarding RBC transfusion](guideline-absence-confusion-63-percent.md) — related
 - [Physicians in the non-operating room setting show low overall knowledge of transfusion medicine, with a mean score below 50 on a 0-100 scale](low-physician-transfusion-medicine-knowledge-mean-47-8.md) — related
 - [No difference was found among physician groups in knowledge regarding indications for transfusion](no-group-difference-transfusion-indications-knowledge.md) — reports the opposite
+- [Relative knowledge gain varies by specialty: 'other specialties' gained most (44%) and sports medicine least (14%)](relative-gain-varies-by-md-specialty.md) — related

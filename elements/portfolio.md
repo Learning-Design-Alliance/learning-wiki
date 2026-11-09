@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (18 for, 3 mixed) · 13 studies (6 causal, 2 associational, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (19 for, 4 mixed) · 14 studies (6 causal, 2 associational, 2 qualitative, 2 design, 1 review, 1 theoretical), `q1`–`q3` · 1 of 14 report an effect size · 23 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -72,6 +72,8 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Intermediate EFL students hold positive attitudes toward e-portfolio use across awareness, work/activity, and pros and cons](../claims/ep-positive-student-attitudes.md) [+W]
 - [Use of pre-structured e-portfolio forms varies greatly between trainees, with substantial percentages of non-use even for mandatory forms in later cohorts](../claims/high-variability-nonuse-of-eportfolio-forms.md) [~W] — attached 2026-11-08 from van der Gulden R et al. (2020), which proposed "Dutch GP training e-portfolio with eleven pre-structured forms designed to combine programmatic assessment with SRL support".
 - [E-portfolio content analysis shows groups addressed conceptualisation, practicality, and knowledge application in CBR](../claims/eportfolios-show-conceptualisation-practicality-application.md) [+M] — attached 2026-11-08 from Chung Eva Yin-han (2019), which proposed "E-portfolios as documentation and assessment tools for PBL processes and outcomes".
+- [Medical leads valued the ePortfolio as a way to systematically record and track students' progress and identify students needing remediation](../claims/eportfolio-tracked-student-progress-remediation.md) [+M] — attached 2026-11-09 from Bleasel J et al. (2016), which proposed "Sydney Medical Program Pebblepad ePortfolio for medicine long case feedback".
+- [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](../claims/pebblepad-technical-barriers-detracted-engagement.md) [~M] — attached 2026-11-09 from Bleasel J et al. (2016), which proposed "Sydney Medical Program Pebblepad ePortfolio for medicine long case feedback".
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]

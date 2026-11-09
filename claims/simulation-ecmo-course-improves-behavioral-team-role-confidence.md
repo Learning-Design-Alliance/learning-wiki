@@ -48,3 +48,4 @@ Pre/post ELSO behavioral self-assessment (4 questions, 5-point Likert) completed
 - [A three-day high-fidelity simulation-based ECMO course significantly improved physicians' cognitive self-assessments of ECMO management (p<0.001)](simulation-ecmo-course-improves-cognitive-self-assessment.md) — related
 - [Knowledge test scores increased significantly post-course, from a mean of 11.4 to approximately 13 out of 15 points (p<0.001)](simulation-ecmo-course-improves-knowledge-test-scores.md) — related
 - [Technical self-assessment showed the most pronounced improvement of the course, with a more than four-fold increase and pump-failure management rising from 1 to 5](simulation-ecmo-course-improves-technical-skills-most.md) — related
+- [After a 1-day ECMO simulation course, most delegates reported perceived gains in technical skills such as circuit troubleshooting and pump familiarity](ecmo-simulation-course-technical-skill-gains.md) — related

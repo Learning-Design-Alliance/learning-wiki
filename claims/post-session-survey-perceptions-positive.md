@@ -52,3 +52,4 @@ Summary of a seven-item post-session survey with three open-ended items administ
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related
 - [70% of participants planned to \"definitely use\" the knowledge in their work, with profession differences (public health 75.8% vs other 62.3%, P < 0.001), and relevance also differed by profession (P < 0.001)](intention-to-use-knowledge-70-percent-profession-differences.md) — related
+- [Students' attitudes and skills vital for efficient use of online databases rose from pre-test to post-test after training in online literature search, in one uncontrolled pre-post study](training-effective-information-literacy-delivery.md) — related

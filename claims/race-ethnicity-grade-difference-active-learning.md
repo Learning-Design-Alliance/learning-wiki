@@ -54,3 +54,4 @@ One-way ANOVAs by race/ethnicity in the N = 245 survey: only final grade differe
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — related
 - [Communication Access scores were higher for underrepresented-minority mentees, a difference the authors attribute to chance](communication-access-minority-chance-finding.md) — related
+- [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — possibly the same claim (merge candidate)

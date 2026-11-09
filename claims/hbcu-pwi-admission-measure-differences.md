@@ -50,3 +50,4 @@ Mann-Whitney U test comparing 23 PWI-trained and 14 HBCU-trained trainees among 
 - [No statistically significant differences in later matriculation outcomes existed between HBCU- and PWI-trained UR graduates, suggesting undergraduate training effects can be mitigated during graduate training](no-long-term-hbcu-pwi-performance-differences.md) — related
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — related
 - [Among PWI-trained IMSD graduates, lower GRE quantitative scores correlated with more first-authored publications, and higher first-semester GPA correlated with more first-authored publications](pwi-graduate-correlations-gre-quantitative-publications.md) — related
+- [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](urm-status-mixed-graduate-outcomes.md) — related

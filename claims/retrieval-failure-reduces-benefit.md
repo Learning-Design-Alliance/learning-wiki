@@ -106,3 +106,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Repeated exposure to the same question shows clear evidence of learning, while many attempts predict lower grades consistent with guessing](repeated-exposure-learning-guessing-at-high-attempts.md) — related
 - [Students initially struggled with game questions but acquired the concepts through repeated play](repeated-game-play-overcomes-initial-difficulty.md) — related
 - [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related
+- [Conditionalized on initial retrieval success, testing beats restudy at 24 hours, but a second test adds no reliable benefit](testing-effect-conditional-on-retrieval-success.md) — related

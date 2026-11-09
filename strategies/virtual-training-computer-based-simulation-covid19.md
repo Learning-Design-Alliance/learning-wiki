@@ -17,7 +17,7 @@ sources:
 # Virtual training via computer-based simulation exercises for off-site or at-home team training, with a development-time caveat
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 review, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Virtual training lets participants interact with computer-based simulation exercises, often available online, allowing training off-site or from home. The article notes this modality has great promise but cautions that the time needed to develop such simulations, in the absence of significant investment of acceleratory resources, may not allow realization of its full potential in the context of a rapidly evolving pandemic.

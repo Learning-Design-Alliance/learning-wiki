@@ -70,3 +70,5 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
 - [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — related
+- [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — related
+- [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related

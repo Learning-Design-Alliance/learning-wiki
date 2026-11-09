@@ -69,3 +69,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [Twin-shared environmental effects, not sibling-shared (family-wide) effects, explain part of grade variance, consistent with grades reflecting individual achievement](twin-shared-not-sibling-shared-environment-grades.md) — related
 - [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related
+- [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related

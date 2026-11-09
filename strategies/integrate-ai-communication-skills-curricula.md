@@ -51,6 +51,7 @@ The authors recommend that digital communication competencies receive systematic
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Develop standardized DHN training curricula that integrate interpersonal soft skills with digital competencies](dhn-training-integrating-soft-and-digital-skills.md)
 - [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
+- [Intensify communication-skills training, including telephone- or internet-based physician-patient interaction, and integrate telemedicine via dedicated modules](intensify-communication-and-telemedicine-training.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ ANOVA on ANTS scores in the cross-over simulator study detected a significant pe
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
+- [The OSCE advantage from standardized-patient training does not transfer to an unrelated resuscitation (ACLS) scenario](standardized-patients-no-acls-transfer.md) — related

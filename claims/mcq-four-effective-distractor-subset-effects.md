@@ -52,3 +52,4 @@ Paired analysis of the subset of 15 repeated questions that had four effective d
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [Only a minority of five-option MCQs have four effective distractors, with 19% of questions having four effective distractors and 32% having three](mcq-minority-four-effective-distractors.md) — related
 - [Pooled mixed-model ANOVA found no significant effect of offering (five vs four options) on item difficulty or discrimination](mcq-pooled-anova-no-offering-effect.md) — related
+- [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related

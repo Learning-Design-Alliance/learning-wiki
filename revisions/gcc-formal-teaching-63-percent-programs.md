@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gcc-formal-teaching-63-percent-programs.md
+---
+
+# Revision history: [claims/gcc-formal-teaching-63-percent-programs](../claims/gcc-formal-teaching-63-percent-programs.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-5217412 (Goals of care conversation teaching in residency - a cross-sectional survey of postgraduate program directors.) via eval_harness.py + ingest_extractions.py

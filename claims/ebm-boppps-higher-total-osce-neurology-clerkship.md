@@ -54,3 +54,4 @@ Stratified randomized controlled trial of 97 clerks (EBM-BOPPPS n = 47, BOPPPS n
 - [After the EBM-BOPPPS clerkship, clerks' preferred learning resources shifted toward evidence-based guidelines and away from general search engines](resource-preference-shift-evidence-based-guidelines.md) — related
 - [A non-study-related internal medicine assessment showed no between-group differences, arguing against a Hawthorne effect explanation](internal-medicine-control-hawthorne-effect.md) — related
 - [Prior academic performance directly affects both OSCE performance and clerkship performance](academic-performance-predicts-osce-and-clerkship.md) — related
+- [New-curriculum students scored significantly higher on the OSCE than old-curriculum students](pbl-higher-osce-scores-psychiatry.md) — related

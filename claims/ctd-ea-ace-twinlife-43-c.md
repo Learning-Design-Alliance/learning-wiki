@@ -69,3 +69,5 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Heritability of mathematics and GPA is higher in 17-year-olds than in 11-year-olds, but the reverse holds for German grades](cohort-effect-heritability-math-gpa-not-german.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related
+- [A-level achievement at age 18 is highly heritable (59% overall; 65% STEM, 49% humanities) with small shared-environment influence](a-level-achievement-highly-heritable.md) — related
+- [Choosing to continue to A-levels after compulsory education is moderately heritable (44%) with an equally large shared-environment influence (47%)](a-level-continuation-choice-moderately-heritable.md) — related

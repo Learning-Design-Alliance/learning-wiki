@@ -71,3 +71,4 @@ Generalizability analysis of the January scan-sheet-only control exam compared w
 - [Rasch analysis showed no relationship between rating modality and station difficulty, undermining the May exam's modality effect](rasch-no-modality-station-difficulty-relationship.md) — related
 - [In a between-candidates OSCE study, tablet-based ratings produced higher average total scores than scan-sheet ratings](tablet-higher-scores-between-candidates-osce.md) — related
 - [Tablet-based electronic data capture reduced OSCE preparation time, eliminated missing scores, and enabled immediate score availability](tablet-osce-administrative-efficiency-gains.md) — related
+- [An 18-station summative end-of-career OSCE achieves a generalizability coefficient of 0.93 and a dependability coefficient of 0.83](osce-g-coefficient-0-93-summative.md) — related

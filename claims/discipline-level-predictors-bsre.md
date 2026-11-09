@@ -52,3 +52,4 @@ Multivariate linear model of the six BSRE discipline scores among 61 registrars.
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
 - [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related
 - [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related
+- [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related

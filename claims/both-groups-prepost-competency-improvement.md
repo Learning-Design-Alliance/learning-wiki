@@ -54,3 +54,4 @@ Dependent-sample t-tests within each arm of the RCT showed significant pretest-t
 - [All three patient safety teaching methods (CBL, lecture, reflection) significantly improved nurses' knowledge, attitude, and practice scores from pre-test to post-test](three-methods-improve-nurse-patient-safety-kap.md) — related
 - [Both game-based and self-study learning significantly improved diabetes knowledge from pretest to post-test](both-conditions-improved-diabetes-knowledge.md) — related
 - [Scores rose significantly from pre-test to post-test in both groups, with a larger mean gain in the flipped classroom group](within-group-pre-post-gains-both-methods.md) — related
+- [Self-efficacy for patient safety did not differ between the game, e-module, and control groups](no-group-difference-patient-safety-self-efficacy.md) — related

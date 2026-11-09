@@ -49,3 +49,4 @@ Latent interaction models with age-5 HME-everyday activities as moderator (Model
 - [Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children](formal-hme-protective-effect.md) — related
 - [Among lower-risk children, higher formal HME was associated with worse arithmetic performance, a reversed association already present at ages 2 and 5](formal-hme-reversed-lower-risk.md) — related
 - [None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)](hme-no-promotive-effect.md) — related
+- [Household income directly predicts parent report of child skills but is unrelated to home math environment factors](household-income-direct-predictor-not-hme-related.md) — related

@@ -57,3 +57,4 @@ Adjusted regression coefficients from Model 4 of the multilevel analysis, each e
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Children of lower-educated parents report less positive academic self-concept than children of higher-educated parents, with differences stable from fourth to sixth grade](household-parental-education-lower-child-asc.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
+- [Students with lower prior academic achievement and less educated mothers report higher levels of IT integration, suggesting compensatory use of technology](compensatory-it-use-lower-achieving-students.md) — related

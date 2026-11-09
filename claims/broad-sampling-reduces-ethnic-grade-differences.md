@@ -49,3 +49,4 @@ Retrospective cohort logistic regression in 1667 medical students (818 global, 8
 - [Average bachelor grade positively predicts supervisor upgrades and is itself lower for some ethnic minority groups](bachelor-grade-predicts-upgrades-and-varies-by-ethnicity.md) — related
 - [Allowing supervisors to deviate from algorithm-derived broadly sampled scores reintroduces ethnicity-related differences, favouring native Dutch students](supervisor-deviation-reintroduces-ethnic-differences.md) — related
 - [Overall clinical evaluations were higher under global assessment than under broadly sampled assessment](global-assessment-higher-evaluations-overall.md) — related
+- [OSCE station-level underperformance differs across ethnic minority subgroups](osce-station-disparities-vary-by-subgroup.md) — related

@@ -63,3 +63,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](metrics-assessment-high-irr-construct-validity.md) — related
+- [Blinded evaluators showed significant inter-rater correlation on the Task Specific Evaluation but not on the Global Evaluation of Mastoidectomy](inter-rater-reliability-task-specific-significant-global-not.md) — a narrower finding that bears on this claim

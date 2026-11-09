@@ -65,3 +65,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [Standardized reading and math test scores showed no treatment effect](ssstp-no-test-score-effect.md) — related
 - [Randomization checks showed no imbalance between treatment and control conditions on student characteristics](randomization-balance-no-imbalance-set-experiment.md) — related
 - [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related
+- [Baseline demographic balance held except computer gaming history, where the control group had a significantly greater proportion with a gaming history](baseline-balance-gaming-history-imbalance.md) — related

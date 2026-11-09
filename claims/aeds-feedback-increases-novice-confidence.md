@@ -55,3 +55,5 @@ Wilcoxon signed-rank test on Group A's (n = 20) 5-point Likert confidence rating
 - [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — possibly the same claim (merge candidate)
 - [Residents' confidence increased significantly after two rounds of simulator practice in both feedback and no-feedback groups, with no significant difference between groups](simulator-confidence-increases-both-groups.md) — related
 - [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related
+- [Preceptors rated residents' laparoscopic skill significantly higher after training (Likert 2.1 to 4.8, p=0.000)](preceptor-rated-laparoscopic-skill-improved-after-training.md) — related
+- [Residents' self-rated laparoscopic skill improved significantly after the training program (Likert 1.3 to 2.7, p=0.000)](resident-self-rated-laparoscopic-skill-improved-after-training.md) — related

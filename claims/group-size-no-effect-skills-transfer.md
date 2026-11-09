@@ -54,3 +54,6 @@ Primary outcome of a randomised controlled trial with pre-post-transfer-test des
 - [Instructor type (medical student, clinical anatomist, or emergency medicine physician) did not significantly affect procedure time, attempts, performance scores, or self-confidence](instructor-type-no-effect-on-outcomes.md) — related
 - [OSAUS scale shows strong internal consistency (Cronbach's alpha 0.916) when used to assess ultrasound HMD measurement competence](osaus-hmd-internal-consistency-alpha-0916.md) — related
 - [Performance improved significantly from pre- to post-test in all group sizes, with no interaction between group size and training](pre-post-gains-all-group-sizes.md) — related
+- [More dyad than single-practice trainees achieved OSAUS scores above the pass/fail standard on the clinical transfer test](dyad-higher-transfer-pass-rate.md) — reports the opposite
+- [Dyad practice is non-inferior to individual practice in transferring simulation-based ultrasound skills to clinical performance with patients](dyad-practice-non-inferior-skills-transfer-ultrasound.md) — a narrower finding that bears on this claim
+- [Simulation-based ultrasound training improves OSAUS performance from pre- to post-test in both groups, with no interaction with training type](simulation-training-pre-post-gain-no-interaction.md) — related

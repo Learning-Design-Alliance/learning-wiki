@@ -48,6 +48,7 @@ The review's future-research agenda calls for "greater conceptual clarity in def
 - [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 - [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
+- [Adopt consistent PAL terminology based on the six proposed groupings and expand MeSH terms](consistent-pal-terminology-mesh-expansion-strategy.md)
 
 ## Examples
 -

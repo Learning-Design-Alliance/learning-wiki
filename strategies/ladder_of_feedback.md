@@ -59,9 +59,11 @@ The protocol operationalizes research showing that feedback improves learning mo
 6. **Close**: the creator responds briefly, naming what they will revise — no defense or debate required (link to [Class Discussion](../elements/class-discussion.md) norms).
 
 ## Related Strategies
+
 - [Critical Friends Protocol](../strategies/critical-friends-protocol.md) — a longer, more formalized critique cycle that embeds the ladder within a full tuning process
 - [Gallery Walk](../strategies/gallery-walk.md) — a format for collecting written ladder-style feedback across many works simultaneously
 - [Peer Review](../elements/peer-review.md) — the broader practice the ladder structures; the ladder supplies the sequencing peer review often lacks
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Examples
 - **Project Zero / Harvard Graduate School of Education** — the protocol's origin; documented in Perkins (2003) and used widely in Project Zero institutes and the [Visible Thinking](http://www.pz.harvard.edu/thinking-routines) routine collection.

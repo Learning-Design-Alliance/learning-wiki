@@ -46,6 +46,7 @@ A sequenced recipe for building students' assessment skills: first teach student
 - [Calibrated Peer Review](calibrated_peer_review.md)
 - [Use Rubrics And Exemplars](use-rubrics-and-exemplars.md)
 - [Use peer role-play with group-developed checklists and scenario exchange as a low-cost active-learning module for counseling skills training](peer-role-play-module-recipe.md)
+- [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](standardized-360-feedback-sequence-strategy.md)
 
 ## Examples
 -

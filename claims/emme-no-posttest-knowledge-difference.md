@@ -49,3 +49,4 @@ Independent samples t-test on the 30-item multiple-choice post-test (same questi
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — related
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
+- [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related

@@ -49,3 +49,4 @@ Post-hoc comparisons after a significant ANOVA (F = 12.13, p < 0.0001) on post-t
 - [All three patient safety teaching methods (CBL, lecture, reflection) significantly improved nurses' knowledge, attitude, and practice scores from pre-test to post-test](three-methods-improve-nurse-patient-safety-kap.md) — related
 - [Case-based learning yielded the highest attitude mean score, significantly above conventional teaching, but the 7E-versus-CBL attitude difference was not significant](cbl-attitude-7e-not-significant.md) — related
 - [No significant difference among CBL, lecture, and reflection groups in patient safety knowledge after the intervention](no-between-group-knowledge-difference-patient-safety.md) — related
+- [Group discussion produces significantly higher posttest patient-privacy attitude scores than an educational booklet in nursing students](group-discussion-beats-booklet-privacy-attitude.md) — related

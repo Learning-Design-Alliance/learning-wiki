@@ -50,3 +50,4 @@ Theoretical argument in the Discussion, attributed to Sigrist et al. and the gui
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related
+- [Feedback frequency effects are mixed: higher-frequency intermittent feedback aided procedural skill acquisition, but overly intensive feedback can be inconducive early in learning](feedback-frequency-mixed-effects.md) — a narrower finding that bears on this claim

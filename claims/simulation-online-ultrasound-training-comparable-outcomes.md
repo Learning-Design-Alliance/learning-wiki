@@ -55,3 +55,4 @@ Prospective randomized blinded trial with 68 physiotherapy students (n=34 per gr
 - [Physiotherapy students attending a hybrid chest physiotherapy seminar face-to-face achieved higher total scores than remote students](hybrid-face-to-face-higher-total-score-chest-physiotherapy.md) — related
 - [Medical students in a digital sonography course achieved overall test results comparable to students taught in person at the ultrasound machine](online-sonography-course-comparable-overall-scores.md) — a narrower finding that bears on this claim
 - [Undergraduate physiotherapy students in a guided self-study program scored significantly better on the OSCE and written exam than control-group students in an intention-to-treat analysis](gss-better-osce-mc-exam-scores.md) — related
+- [Mobile app group shows better patient positioning and probe handling in ultrasound skills](mobile-app-better-ultrasound-item-scores.md) — reports the opposite

@@ -52,3 +52,4 @@ Anonymous online feedback questionnaire at course end (n = 49 of 51). Descriptiv
 - [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](hboppps-student-satisfaction-and-preference.md) — related
 - [Most blended learning students preferred BL over didactic teaching and web-based e-learning, and platform opinions did not differ between BL and WEL users](students-prefer-bl-86-percent.md) — a narrower finding that bears on this claim
 - [Most blended learning participants were satisfied with online materials, but few interacted with other students' online postings](bl-satisfaction-high-online-interaction-low.md) — related
+- [Doctoral students were satisfied with the blended MADAS course and 94% would recommend it to fellow doctoral students](madas-blended-course-94-percent-recommend.md) — related

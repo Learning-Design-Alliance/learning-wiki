@@ -53,3 +53,4 @@ Focus group theme on family factors. One participant described supportive relati
 - [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related
 - [Trainees reported a favorable institutional atmosphere for EBM implementation](favorable-institutional-atmosphere-ebm.md) — related
+- [Poor work–life balance and lack of autonomy over job location can separate BME UKG and IMG trainees from family support, with reported stress, anxiety or burnout hindering learning and performance](work-life-balance-wellbeing-differential-attainment.md) — related

@@ -54,3 +54,4 @@ Group-level pre/post comparison using QS1 (24 questions) at the Nyembe workshop,
 - [Vaccine storage knowledge scores rose from 5.6 to 9.8 of 11 correct answers among physicians and practice assistants after KeepCoool participation, in one single-group pre-post study with no comparison group](keepcoool-knowledge-score-increase.md) — related
 - [QS2 individual scores rose from 62% pre to 82% post, with an average of 4.0 questions improving per student](vicious-worm-qs2-individual-improvement.md) — related
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
+- [A one-day physical activity prescription workshop significantly improves physicians' test scores from 67% to 82%](one-day-pa-workshop-improves-md-knowledge-scores.md) — related

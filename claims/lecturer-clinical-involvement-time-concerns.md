@@ -43,3 +43,4 @@ Descriptive survey (N = 184) of lecturers' role in clinical teaching, reported a
 
 ## Related Claims
 - [Gender, prior e-learning experience, level of study, adaptation, course content, interactivity, understanding of content, instructor participation in discussion, multimedia use, and adequate time showed significant relationships with medical students' e-learning satisfaction](positive-factors-medical-students-elearning-satisfaction.md) — related
+- [Only 36.3% of surveyed students had a dedicated supervisor during clinical training](only-36-percent-dedicated-supervisor-clinical-training.md) — related

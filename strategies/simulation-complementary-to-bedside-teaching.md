@@ -70,6 +70,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 - [Use simulated ward rounds with standardized patients to teach ward round competences to students](ward-round-simulation-strategy.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
+- [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
 
 ## Examples
 -

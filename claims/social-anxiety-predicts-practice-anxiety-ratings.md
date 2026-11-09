@@ -49,3 +49,4 @@ Series of linear regressions on beginning-of-term survey data from the N = 227 s
 - [Academic self-efficacy predicts final course grade and partially mediates the association between social anxiety and final grade](self-efficacy-predicts-final-grade-mediation.md) — related
 - [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related
 - [Students rate instructional practices with a social component as more anxiety provoking than non-social practices](social-ebips-more-anxiety-provoking-than-nonsocial.md) — a broader claim this one bears on
+- [Cold calling and volunteering to answer questions cause higher student anxiety than clickers, group work, or worksheets](cold-calling-volunteering-highest-anxiety.md) — related

@@ -80,3 +80,4 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Within the experimental group all pairwise score gains across assessments were significant, whereas the control group showed no significant admission-to-mid-term gain](within-group-score-trajectories-experimental-versus-control.md) — related
 - [The flipped classroom group showed a significant pre-to-post improvement in practical performance scores while the lecture group's improvement was not significant](flipped-classroom-practical-performance-gain.md) — related
 - [Flipped classroom teaching produces significantly higher immediate post-course EBN knowledge scores than traditional lecture-based instruction](flipped-classroom-immediate-ebn-knowledge-gains.md) — related
+- [Content knowledge increased significantly across the semester in both classroom types, with the Traditional section showing greater gains](content-knowledge-gains-both-sections.md) — related

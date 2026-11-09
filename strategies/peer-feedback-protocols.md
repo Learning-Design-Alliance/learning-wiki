@@ -85,6 +85,7 @@ Peer feedback works when it functions as formative assessment in the hands of le
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the same criteria applied to one's own work; peer review builds toward self-assessment
 - [Critique Protocols](critique-protocol.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu/) — web system where students first calibrate on instructor-scored exemplars, then review peers' writing in large STEM courses.

@@ -50,3 +50,4 @@ Prefeedback–postfeedback paired comparison of median LapSim scores from the re
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [Residents who are better teachers show greater knowledge of taught material and higher laparoscopic skills](better-teacher-residents-greater-knowledge-skills.md) — related
+- [Senior students rated learning effectiveness through collaboration significantly higher than junior students](senior-students-rate-collaboration-effectiveness-higher.md) — related

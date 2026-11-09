@@ -52,3 +52,4 @@ Descriptive analysis of 3109 participating students across 16 schools. The artic
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md) — related
 - [PBL students reported greater prescribing confidence and preparedness and completed more drug prescriptions during training, but confidence did not correlate with assessed skill](pbl-confidence-preparedness.md) — related
+- [Most European final‐year medical students lack confidence in prescribing skills and feel inadequately prepared and dissatisfied with their undergraduate CPT education](low-confidence-and-dissatisfaction-with-cpt-teaching.md) — related

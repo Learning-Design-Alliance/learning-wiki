@@ -50,3 +50,4 @@ Descriptive result from a ten-item Semantic Differential Scale satisfaction opin
 - [Final-year nursing students rated the Nik's story virtual simulation highly on usability, engagement, and impact on learning, and most would recommend its continued use](niks-story-high-usability-engagement-impact.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Nursing students taught with mobile-based learning show significantly higher skill performance than conventionally taught peers across all four operating theatre procedures](mbl-higher-skills-all-four-ot-procedures.md) — related
+- [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — possibly the same claim (merge candidate)

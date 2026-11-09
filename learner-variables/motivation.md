@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 457 claims (298 show a difference, 110 mixed, 49 no difference) · 324 studies (123 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 90 of 324 report an effect size · 445 claims rest on one study
+> **Evidence** · 458 claims (299 show a difference, 110 mixed, 49 no difference) · 325 studies (124 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 8 design), `q1`–`q4` · 90 of 325 report an effect size · 446 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -507,6 +507,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Autonomous extrinsic motivation correlated positively with intrinsic motivation and CBT, with a general positive attitude toward computer-based testing among Iranian paramedical students](../claims/autonomous-extrinsic-motivation-positive-cbt-attitude.md) [+M] — learners who differ on it differ in outcomes
 - [Global intrinsic motivation positively predicts students' perceived importance of physical education, which in turn predicts intentions to be physically active](../claims/intrinsic-motivation-importance-intentions-chain.md) [+M] — learners who differ on it differ in outcomes
 - [Students' perceptions of a controlling teaching style are negatively associated with their global intrinsic motivation in high school physical education](../claims/controlling-teaching-negative-intrinsic-motivation-pe.md) [+M] — measured as an outcome of the instruction studied
+- [Students interested in surgery completed significantly more self-guided practice sessions than non-interested students](../claims/surgical-interest-more-self-guided-practice.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

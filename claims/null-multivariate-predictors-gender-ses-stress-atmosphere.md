@@ -55,3 +55,4 @@ Multivariate ordinal logistic regression of the cross-sectional FMSo survey (n =
 - [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — related
 - [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — a narrower finding that bears on this claim
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](ses-course-type-not-independent-predictors-epm.md) — possibly the same claim (merge candidate)
+- [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related

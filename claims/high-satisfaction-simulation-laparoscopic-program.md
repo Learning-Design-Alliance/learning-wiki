@@ -55,3 +55,5 @@ Descriptive Kirkpatrick level-1 (reaction) results from the end-of-program quest
 - [Participants rated the simulation's effectiveness and performance very good or excellent, supporting content validity](vats-simulator-content-validity-rating.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
 - [In a randomized crossover study, surgeons rated the EndoSuture Trainer Box Simulator higher overall than a standard laparoscopic trainer for training laparoscopic skills](estbs-overall-score-higher-than-slt.md) — related
+- [Learner satisfaction with the telestroke simulation training is excellent, with more than 95% rating it 5/5](high-satisfaction-telestroke-simulation-training.md) — related
+- [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related

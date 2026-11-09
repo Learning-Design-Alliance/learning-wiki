@@ -51,3 +51,4 @@ The review reports a randomised study of 60 robotic novices allocated to CESIR m
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — a broader claim this one bears on
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
+- [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related

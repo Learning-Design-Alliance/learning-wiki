@@ -69,3 +69,4 @@ Sub-analysis within the correct diagnosis group (n = 31) using one-way repeated-
 - [In one group with no comparison group, a small number of misdiagnosed students changed their diagnosis at Step 2 or Step 3 after verbalizing evidence for and against the hypothesis; no student changed to the correct diagnosis at Step 3](diagnosis-changes-rare-single-question.md) — related
 - [Students who reached the correct diagnosis were significantly more confident in their predicted hypothesis than misdiagnosis students](correct-diagnosis-group-more-confident.md) — related
 - [The Step 3 confidence effect depended on case difficulty: confidence fell at Step 3 in the hardest case (7% accuracy) but not in the easiest case (71% accuracy)](step3-effect-moderated-by-case-difficulty.md) — related
+- [Confirmation bias shows a negative association with the ability to make a correct diagnosis](confirmation-bias-negative-association-correct-diagnosis.md) — related

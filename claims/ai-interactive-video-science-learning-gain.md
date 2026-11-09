@@ -49,3 +49,4 @@ Preregistered between-subjects RCT; regression analyses covaried age, baseline s
 - [Pseudo-interactive videos also outperformed non-interactive videos by 0.16 standard deviations on science learning](pseudo-interactive-beats-non-interactive.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
+- [Guiding questions provided while watching a video raise later test scores](guiding-questions-video-test-scores.md) — related

@@ -54,3 +54,4 @@ Psychometric analysis of assessment forms developed from literature review and e
 - [The five-scenario IC-MD achieves satisfactory inter-rater reliability (ICC = 0.627) and generalizability (Eρ² = 0.642), though participant × scenario variance exceeds participant variance](ic-md-reliability-generalizability.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [Remote OSCE double scoring shows high rater agreement and total-score consistency (weighted Cohen's Kappa 0.97; Pearson correlation 0.9; Cronbach's alpha 0.66)](remote-osce-double-scoring-high-agreement-kappa-097.md) — related
+- [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related

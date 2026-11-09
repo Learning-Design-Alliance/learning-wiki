@@ -48,6 +48,7 @@ During synchronous sessions, students rotate through roles (e.g., counselor, pat
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 - [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
+- [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](standardized-360-feedback-sequence-strategy.md)
 
 ## Examples
 -

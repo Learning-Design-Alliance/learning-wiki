@@ -49,3 +49,4 @@ Thematic analysis of semi-structured interviews with seven third-year medical st
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](task-cycle-activities-reported-benefits.md) — related
 - [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related
+- [Specialists reflecting on their own consultations focused on generic communication skills rather than specific intercultural communication skills](specialists-focus-generic-not-icc-skills.md) — a narrower finding that bears on this claim

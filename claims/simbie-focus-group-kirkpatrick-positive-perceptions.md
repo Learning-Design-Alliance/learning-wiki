@@ -56,3 +56,4 @@ Qualitative thematic analysis of 60-90 minute focus groups (5 disciplines per gr
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Team CPR training significantly improves skill confidence and active participation (Kirkpatrick behavior level)](cpr-training-improves-confidence-participation.md) — related
 - [Engaging the teaching team early is essential for curricular uptake of virtual gaming simulation](teaching-team-engagement-essential-vgs-uptake.md) — related
+- [Educational interventions designed around assessed participant needs produced greater satisfaction and significant knowledge gains](needs-assessment-nutrition-education-design.md) — related

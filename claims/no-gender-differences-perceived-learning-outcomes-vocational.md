@@ -104,3 +104,5 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — possibly the same claim (merge candidate)
 - [Prior vocational training as a pharmacy technician has no detectable influence on OSCE performance in this cohort](prior-pharmacy-technician-training-no-influence-osce.md) — related
+- [Gender differences in self-assessment were not significant for general programme questions, but only female students showed a significant pre-programme gap between female and male examination skill ratings](gender-analysis-mixed-significance.md) — related
+- [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — related

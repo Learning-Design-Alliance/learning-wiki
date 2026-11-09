@@ -67,3 +67,4 @@ The article reports "a statistically significant association between trust and c
 - [Growth mindset relates weakly to commitment and engagement and is nonsignificant for course outcomes once trust is modeled](growth-mindset-weak-predictor-active-learning.md) — related
 - [Student trust in the instructor positively predicts overall course engagement in an active-learning course](trust-predicts-engagement-active-learning.md) — related
 - [Student trust in the instructor positively predicts student commitment to active learning in a college science course](trust-predicts-commitment-active-learning.md) — related
+- [Engagement in self-regulated learning predicts final course grade in an active-learning undergraduate science course](srl-predicts-final-grade.md) — related

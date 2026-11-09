@@ -77,6 +77,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Use staged, short-interval, high-frequency emergency training with immediate practice while knowledge is fresh to consolidate first aid knowledge and skills](staged-short-interval-emergency-training-strategy.md)
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
+- [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 
 ## Examples
 -

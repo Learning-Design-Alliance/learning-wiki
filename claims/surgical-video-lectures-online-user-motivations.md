@@ -47,3 +47,4 @@ Online SurveyMonkey survey linked to each published video, restricted to medical
 
 ## Related Claims
 - [Preferred content of surgical e-lecture viewers is current guidelines, latest research topics, and complex surgical conditions](preferred-e-lecture-content-guidelines-research-complex-cases.md) — related
+- [Students advise new users to employ recordings purposefully—for missed lectures or exam preparation—rather than extensively](student-advice-purposeful-recording-use.md) — related

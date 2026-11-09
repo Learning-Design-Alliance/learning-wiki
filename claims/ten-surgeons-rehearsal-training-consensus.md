@@ -49,3 +49,4 @@ Field feedback session reported in the Discussion, in which ten general thoracic
 - [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — related
 - [Systematic review of 72 studies finds no universal MIS training model for neonates and infants, supporting structured proficiency-based curricula](no-universal-neonatal-mis-training-model.md) — related
 - [The TuThor porcine heart-lung trainer box was rated suitable and realistic by most participants at hands-on courses](tuthor-trainer-box-suitable-vats-training.md) — related
+- [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related

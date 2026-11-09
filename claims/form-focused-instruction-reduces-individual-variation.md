@@ -50,3 +50,4 @@ Descriptive analysis of standard deviations across the three groups on the writt
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [The treatment did not level out inter-subject differences and made the treatment group more diverse in second conditional performance](treatment-increased-inter-subject-variation.md) — reports the opposite
 - [CTBL class became more homogeneous in proficiency while the GI class remained heterogeneous](ctbl-homogenizes-team-proficiency.md) — related
+- [Game-based preparation reduces variability in residents' clinical competency levels before classroom training](game-preparation-reduced-competency-variability.md) — related

@@ -49,3 +49,5 @@ Multiple regression models of MLab exam performance controlling for GPA, gender,
 - [After controlling for Bloom’s level, question familiarity had no effect on MLab exam performance, while Bloom’s level was a significant predictor](bloom-level-predicts-familiarity-does-not.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
 - [Students overwhelmingly came to believe the lecture prerequisite did not benefit MLab performance, regardless of whether they had taken it](students-believe-mlec-not-beneficial-mab-perception.md) — related
+- [Gender and other PGY levels showed no significant effect on predicted exam score difference](gender-and-other-pgy-no-effect-exam-score-difference.md) — related
+- [For middle/high-SES male students, increasing an exam's weighted Bloom's level predicts decreased exam performance after controlling for prior GPA and exam difficulty](higher-blooms-level-lowers-overall-exam-performance.md) — related

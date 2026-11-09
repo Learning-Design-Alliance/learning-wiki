@@ -50,3 +50,4 @@ Pre/post ELSO technical self-assessment (6 questions, 5-point Likert) of the 115
 - [Self-assessed nontechnical, technical and bleeding management self-efficacy significantly increased after a multidisciplinary trauma masterclass](trauma-masterclass-self-efficacy-increase.md) — related
 - [The course produced a roughly two-fold increase in behavioral self-assessment of ECMO team roles, with the largest gain in leading the ECMO team](simulation-ecmo-course-improves-behavioral-team-role-confidence.md) — related
 - [In final simulation scenarios, physicians were slow to complete critical actions and commonly failed to provide adequate patient support](simulation-scenario-critical-action-times-ecmo.md) — related
+- [After a 1-day ECMO simulation course, most delegates reported perceived gains in technical skills such as circuit troubleshooting and pump familiarity](ecmo-simulation-course-technical-skill-gains.md) — related

@@ -56,3 +56,4 @@ Interrater reliability analysis via intra-class coefficients for rater groups as
 - [Interrater reliability of NOTSS ratings was low with 3 raters and improved with 2 raters](notss-interrater-reliability-low-three-raters-improved-two.md) — related
 - [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — related
+- [Interrater reliability of the mOSAUS total pre-training score was good (ICC = 0.74), varying across assessment elements](mosaus-interrater-reliability-icc-074.md) — related

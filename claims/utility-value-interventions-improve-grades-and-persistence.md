@@ -75,3 +75,4 @@ The review reports Asher et al. (2023) as a large-scale RCT of a utility-value i
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](fixed-mindset-instructors-larger-racial-grade-gaps.md) — related
 - [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](consent-and-trust-differ-for-underrepresented-minorities.md) — related
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
+- [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — related

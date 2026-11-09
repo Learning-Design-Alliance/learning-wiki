@@ -46,7 +46,8 @@ The article's concluding recommendations translate its correlational findings in
 - [More weekly hours spent studying for the OKAP correlates with higher OKAP percentile among ophthalmology residents](../claims/weekly-study-hours-correlate-okap-percentile.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate self-directed, encounter-driven topics and online sources into traditional didactic schedules under educator direction](educator-directed-self-learning-topics.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Self-reported study times recorded through the course's online studying platform
 - [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — a narrower finding that bears on this claim
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related
 - [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — reports the opposite
+- [Residents preparing with the serious game spent 2.5 extra hours on self-study compared with manual-only preparation](game-preparation-increased-self-study-time.md) — related

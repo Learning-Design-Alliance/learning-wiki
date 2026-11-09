@@ -53,3 +53,4 @@ Pre/post self-assessment of the 25 learners using the TTCA-24 domains (team flow
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
 - [SBTT increases awareness of teamwork through role clarification and precise communication, including a defined team leader](sbtt-awareness-teamwork-roles-communication.md) — related
 - [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](insitu-simulation-emergent-leadership-team-identity.md) — related
+- [Students' self-reported confidence after simulation cases is independent of the role they took during the simulation](simulation-confidence-independent-of-role.md) — related

@@ -48,3 +48,4 @@ Cross-sectional anonymous online survey of graduate entry medical students on cl
 - [DREEM and MCPI subscale correlations are weaker than the total-score correlation (atmosphere–learning r = 0.63; teachers–training r = 0.50)](dreem-mcpi-subscale-correlations-weaker.md) — related
 - [Graduate entry students rated the MCPI slightly more worthwhile than the DREEM for giving feedback (mean difference 0.23, p = 0.04)](mcpi-rated-more-worthwhile-than-dreem.md) — related
 - [MCPI free-text comments provide a richer description of the clinical learning environment than DREEM comments, yielding themes of learning at work, students in placement, and finding balance](mcpi-free-text-richer-clinical-environment-description.md) — related
+- [Students' interest in the medical field correlates very strongly with their ratings of team integration and supervision](field-interest-strongly-correlates-with-training-ratings.md) — related

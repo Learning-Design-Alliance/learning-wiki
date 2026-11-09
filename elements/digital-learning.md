@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 82 claims (46 for, 30 mixed, 6 against) · 65 studies (31 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 65 report an effect size · 81 claims rest on one study
+> **Evidence** · 83 claims (46 for, 31 mixed, 6 against) · 66 studies (32 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 8 of 66 report an effect size · 82 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -118,6 +118,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Novice trainees who received FRS plus virtual classroom training achieved greater mean R-OSAT proficiency than trainees receiving the FRS curriculum alone](../claims/vct-frs-greater-proficiency-than-frs-alone.md) [+M] — attached 2026-11-07 from Nathan Arjun et al. (2022), which proposed "Virtual classroom training (VCT) studio with BARCO weConnect remote connectivity for robotic surgery teaching"; tests this page's relationship.
 - [Participants held positive perceptions of virtual classroom training, with all respondents reporting additional educational benefit over the FRS curriculum](../claims/positive-perceptions-of-vct-sessions.md) [+M] — attached 2026-11-07 from Nathan Arjun et al. (2022), which proposed "Virtual classroom training (VCT) studio with BARCO weConnect remote connectivity for robotic surgery teaching".
 - [Providers exposed to blended learning show a non-significant trend toward fewer median total errors per participant across the three electrical procedures pooled than those exposed to face-to-face learning only](../claims/blended-learning-fewer-total-defibrillator-errors-trend.md) [~W] — attached 2026-11-07 from Siebert JN et al. (2022), which proposed "Tailored gamified e-learning course on manual defibrillator use (20-30 minutes)".
+- [Text message delivery did not enhance emergency medicine residents' knowledge retention more than email delivery](../claims/text-messaging-no-better-than-email-resident-knowledge-retention.md) [~W] — attached 2026-11-09 from Hoonpongsimanont W et al. (2016), which proposed "Text-message and email delivery intervention for EM resident knowledge retention".
 
 ## Related Elements
 

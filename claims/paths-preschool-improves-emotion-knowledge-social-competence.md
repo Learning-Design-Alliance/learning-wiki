@@ -58,3 +58,4 @@ Randomized clinical trial of Preschool PATHS in Head Start: "Twenty classrooms i
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
 - [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](preschool-relationships-predict-emotion-knowledge-gains.md) — related
+- [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](paths-primary-effect-teacher-rated-secchi.md) — related

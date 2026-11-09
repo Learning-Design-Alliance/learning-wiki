@@ -54,6 +54,7 @@ The article describes a workshop combining "didactic lectures, small group skill
 - [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
 - [Offer bronchoscopy simulation training in flexible formats—single-day, self-driven, in pairs, and with modeling examples](flexible-bronchoscopy-simulation-training-formats.md)
+- [Use short one-day lecture-plus-practice workshops as a continuing education strategy to build physicians' PA assessment, counseling and prescription skills](one-day-pa-prescription-workshop-strategy.md)
 
 ## Examples
 -

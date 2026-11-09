@@ -49,3 +49,5 @@ Spearman rank correlation analysis of IMSD graduates who received undergraduate 
 - [Among PWI-trained IMSD graduates, lower GRE quantitative scores correlated with more first-authored publications, and higher first-semester GPA correlated with more first-authored publications](pwi-graduate-correlations-gre-quantitative-publications.md) — related
 - [No statistically significant differences in later matriculation outcomes existed between HBCU- and PWI-trained UR graduates, suggesting undergraduate training effects can be mitigated during graduate training](no-long-term-hbcu-pwi-performance-differences.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
+- [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related

@@ -46,3 +46,6 @@ Neuroimaging evidence reviewed in the Perspective: subsequent memory fMRI analys
 
 ## Related Claims
 - [ERP components in distinct time windows index retrieval attempt and post-retrieval re-encoding](erp-time-windows-retrieval-and-re-encoding.md) — related
+- [The left PFC subsequent memory effect is larger for long-delay than short-delay testing, suggesting re-encoding matters more for long-term retention](left-pfc-effect-larger-long-delay.md) — related
+- [Initial study trials show subsequent memory effects in left-hemisphere ROIs, but restudy trials after initial study show none](restudy-trials-no-subsequent-memory-effects.md) — a narrower finding that bears on this claim
+- [Right-hemisphere activation during correct retrieval consistently predicts subsequent success, whether on the first or second correct recall](right-hemisphere-activation-predicts-subsequent-success.md) — related

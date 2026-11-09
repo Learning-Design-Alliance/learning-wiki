@@ -58,3 +58,4 @@ Anonymous post-training reaction survey using Likert-scale multiple-choice quest
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [First-year medical students reported that the simulation session increased their knowledge of the pulmonary system](students-report-increased-pulmonary-knowledge-from-sbe.md) — related
 - [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related
+- [Learner satisfaction with the telestroke simulation training is excellent, with more than 95% rating it 5/5](high-satisfaction-telestroke-simulation-training.md) — related

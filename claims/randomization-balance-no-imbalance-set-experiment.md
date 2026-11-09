@@ -48,3 +48,4 @@ Balance tests on survey items (S1 Table) preceding hypothesis tests in the rando
 - [Anti-bias language had no effect on student evaluations of male instructors](anti-bias-language-no-effect-male-instructors.md) — related
 - [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
 - [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related
+- [Baseline demographic balance held except computer gaming history, where the control group had a significantly greater proportion with a gaming history](baseline-balance-gaming-history-imbalance.md) — related

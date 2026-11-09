@@ -133,3 +133,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim
+- [Participants valued the feedback and reflection components as contributing to enhanced teaching capacity and confidence](sat-feedback-reflection-valued.md) — related
+- [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — related

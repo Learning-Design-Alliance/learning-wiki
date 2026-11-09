@@ -52,3 +52,4 @@ Qualitative theme from interview accounts: multiple participants named ego and c
 - [Some higher-ability pupils found the VEFP too easy and teachers felt such pupils should not have been in the study](vefp-higher-ability-pupils-found-programme-too-easy.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
 - [The program fostered professional legitimacy, including influence over the educational environment and perceived career advantage.](pedagogical-internship-track-professional-legitimacy.md) — related
+- [A common lack of respect for the learning activity negatively influences learning even when the group interacts well](lack-respect-learning-activity-harms-learning.md) — related

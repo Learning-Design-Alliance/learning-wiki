@@ -52,3 +52,5 @@ Cross-sectional questionnaire administered to 176 nurses from the Murcian Health
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
 - [Forty-seven percent of surveyed Namibian nursing students self-reported being clinically competent while 53% reported not being competent.](namibia-nursing-students-47-percent-self-reported-competent.md) — related
 - [Baseline survey revealed deficiencies in nurses' familiarity and confidence regarding treatment decision knowledge](baseline-deficiencies-nurse-treatment-decision-knowledge.md) — related
+- [Intermediate diabetic foot risk stratification remained poor from pre-test to post-test in one single-group pre-test/post-test study, with no improvement for non-palpable pulses](intermediate-foot-risk-stratification-poor-after-training.md) — related
+- [Baseline use of the NHMRC foot risk guidelines was low and assessment resources were scarce in rural and remote health services](rural-diabetic-foot-resource-availability-low.md) — related

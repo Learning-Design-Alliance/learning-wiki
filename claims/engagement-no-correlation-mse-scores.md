@@ -52,3 +52,4 @@ Pearson correlation analyses within the cluster-RCT using self-reported time on 
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim
 - [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related
+- [The game group spent roughly three times more self-reported learning time than the e-module group, with no association between learning time and outcomes](game-group-longer-learning-time-no-outcome-association.md) — related

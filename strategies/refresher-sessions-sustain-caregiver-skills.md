@@ -78,6 +78,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
 - [Use regular low-fidelity in situ simulation as a continuous education tool for first-line caregivers in acute care wards](regular-low-fidelity-iss-continuous-education-strategy.md)
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 
 ## Examples
 -

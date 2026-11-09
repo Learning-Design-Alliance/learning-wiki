@@ -62,6 +62,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback phrased as actionable next steps, the Feed Forward move
 - [Self-Assessment](../elements/self-assessment.md) — learners running the three questions independently
 - [Establish site-based professional learning structured around the three inquiry questions](teacher-inquiry-where-going-now-next.md)
+- [Feed-forward of student learning needs prior to clinical placements to support fitness to practise](feed-forward-student-needs-before-placements.md)
 
 ## Examples
 - **[Writing conferences](writing-conferences.md):** A teacher uses the model in a one-on-one conference — the student restates the learning intention (Feed Up), examines their draft against the success criteria (Feed Back), and selects a revision focus for the next draft (Feed Forward).

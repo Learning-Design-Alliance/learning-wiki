@@ -49,3 +49,4 @@ Pearson/Spearman correlation analysis among 440 ICU nurses in a multicentre cros
 - [In a structural equation model, delirium knowledge, self-efficacy and clinical reasoning each show significant negative direct paths to delirium care difficulties](sem-direct-paths-to-delirium-care-difficulties.md) — related
 - [ICU nurses reported moderate delirium care difficulties, with dealing with stress and distress the highest-scoring subdimension](moderate-difficulties-stress-distress-highest.md) — related
 - [Demographics plus knowledge, self-efficacy and clinical reasoning explain 33.5% of variance in delirium care difficulties in multiple regression](regression-explains-33-5-percent-difficulties-variance.md) — related
+- [Within the game group, game-time and successful patient-care mission points correlated with higher self-efficacy and lower reported stress during rotation](mission-success-correlates-self-efficacy-stress.md) — related

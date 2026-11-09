@@ -50,3 +50,4 @@ Psychometric results for the 24-case, 59-item SCT (Cronbach's alpha 0.78) compar
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](greenhouse-scores-increase-with-training-level.md) — related
 - [On the simulator's first exercise, expert and intermediate surgeons completed the trajectory faster than inexperienced interns and novices](experts-intermediates-faster-exercise1.md) — related
 - [A composite total simulator score on an expert-informed iVR simulator significantly discriminated between novice and experienced orthopedic surgeons after a single procedure (Cohen's d = 4.2)](ivr-total-score-discriminates-novices-experienced-drf.md) — related
+- [Medical students' SCT scores fell more than three expert standard deviations below the expert mean, clearly differentiating students from experts](sct-students-three-expert-sd-below-experts.md) — related

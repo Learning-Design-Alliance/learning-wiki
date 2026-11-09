@@ -53,3 +53,4 @@ Two authors independently coded free-text feedback into four categories by conse
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
 - [Praising comment orientation is moderately positively associated with quantitative competency ratings (β = 0.46)](praise-orientation-positive-rating-association.md) — related
 - [Learners praised the interactive, case-based format, handouts, and short individual modules in formative feedback](geriatrics-5ms-workshop-interactive-case-based-format-praised.md) — related
+- [After the improvement measures, fewer students complained about group size and lack of examination support, and more praised lecturers' motivation and case discussion](free-text-feedback-shift-after-measures.md) — related

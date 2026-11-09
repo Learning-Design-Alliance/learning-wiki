@@ -101,3 +101,4 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](instruction-type-comparison-inconclusive-implicit-slight-edge.md) — reports the opposite
 - [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related
 - [Focus on Form (FonF) has a place within meaning-oriented FL teaching but its effectiveness depends on teacher and learner characteristics](fonf-within-meaning-oriented-teaching.md) — related
+- [Passive, exposure-based training before test boosts learning of both simple and complex grammatical rules relative to test-only performance](exposure-training-boosts-grammar-learning.md) — related

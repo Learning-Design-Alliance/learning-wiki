@@ -48,3 +48,4 @@ Mean value analysis of the combined four communication dimensions for self- and 
 - [Externally rated empathy of medical students declined significantly between the first (2011) and last (2014) semester cohorts](externally-rated-empathy-declined-across-cohorts.md) — related
 - [No statistical correlation was found between students' self-ratings and standardized patients' ratings at the individual level](no-individual-level-correlation-self-external-ratings.md) — related
 - [In students' self-perception, only non-verbal expression changed significantly across the seven semester cohorts](self-perception-nonverbal-expression-significant-change.md) — related
+- [Lecturers' external assessment showed no statistically significant improvement within the semester, unlike the students' self-assessment](lecturer-within-semester-assessment-not-significant.md) — related

@@ -57,3 +57,4 @@ Confirmatory factor analysis of responses from 101 second-year nursing students 
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
 - [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related
 - [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related
+- [The AIMS three-subscale measurement structure fits the data and yields reliable Rasch measures for middle school students](aims-three-subscale-structure-validated.md) — related

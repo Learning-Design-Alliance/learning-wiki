@@ -47,3 +47,5 @@ One-way ANOVAs in the N = 245 survey comparing naturally occurring gender groups
 ## Related Claims
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
+- [Student buy-in to active learning is positively associated with engagement in self-regulated learning in an undergraduate science course](buy-in-positively-associated-with-self-regulated-learning.md) — related
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — possibly the same claim (merge candidate)

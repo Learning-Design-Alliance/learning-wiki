@@ -70,3 +70,5 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [Gender, age, ethnicity, boarding status, paternal education, paternal migration, and family assets show no significant association with self-esteem in adjusted models](null-associations-self-esteem-adjusted-model.md) — related
 - [SJT scores showed no significant differences by socio-economic status indicators (high school origin and parental educational background) in either pilot year](sjt-no-ses-score-differences-indonesia-pilot.md) — related
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
+- [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
+- [No differences in classroom anxiety by gender, ethnicity, or year in school were detected](no-anxiety-differences-demographics.md) — related

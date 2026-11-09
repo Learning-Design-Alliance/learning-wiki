@@ -69,3 +69,4 @@ Authors' interpretation (e) of the subgroup pattern: they link the smaller inter
 ## Related Claims
 - [Less experienced users benefit more from XR training, though evidence is mixed across longitudinal studies](novices-benefit-more-from-xr-training.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
+- [Overall exam score differences were negative, possibly inflated by a preceding in-training exam](negative-exam-score-differences-in-training-exam-confound.md) — related

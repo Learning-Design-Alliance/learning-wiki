@@ -56,3 +56,4 @@ Cohort comparison of 57 RP residents (2022 intake) with 59 TTM residents (2021 i
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related
+- [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](peyton-four-step-superior-ospe-spinal-manipulation.md) — related

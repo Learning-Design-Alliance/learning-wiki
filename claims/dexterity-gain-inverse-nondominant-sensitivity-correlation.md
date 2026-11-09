@@ -53,3 +53,4 @@ Correlational analysis of change scores (Table 3) in the 37-student pre-post coh
 - [Sensitivity changes differ exploratorily by sex, with women improving and men worsening on non-dominant fingertip discrimination](sex-difference-sensitivity-change-exploratory.md) — related
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](home-training-improves-tactile-sensitivity-dental-students.md) — related
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related
+- [Preload Duration of the non-dominant hand on the grip-lift task was the only dexterity variable differing between groups over time, favouring the control group](preload-duration-nondominant-group-difference.md) — related

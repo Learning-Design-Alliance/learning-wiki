@@ -48,3 +48,4 @@ Preference ratings on a bipolar scale from 271 respondents in the Göttingen cro
 - [Video lectures are rated significantly better than live lectures on learning atmosphere, concentration, presence of other students and acoustic intelligibility](video-rated-better-on-atmosphere-concentration-acoustics.md) — reports the opposite
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — reports the opposite
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related
+- [Students advise new users to employ recordings purposefully—for missed lectures or exam preparation—rather than extensively](student-advice-purposeful-recording-use.md) — related

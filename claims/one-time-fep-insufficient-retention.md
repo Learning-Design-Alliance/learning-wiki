@@ -51,3 +51,4 @@ Authors' conclusion drawn from the mixed-methods findings and the Discussion, wh
 - [Skilled birth attendants' clinical skills scores rose by approximately 29% from pre-test to post-test after a one-time FEP, in one group with no comparison group](one-time-fep-increases-sba-clinical-skills.md) — related
 - [A one-time FEP increases skilled birth attendants' knowledge scores by approximately 9% in pre-post analysis](one-time-fep-increases-sba-knowledge-scores.md) — related
 - [Stakeholders perceive FEP as a highly accepted program benefiting SBAs, trainers and HFOMCs](fep-high-stakeholder-acceptance.md) — related
+- [Case sheet use without mentoring added nothing to skilled birth attendant training on any of three knowledge indices](case-sheets-without-mentoring-no-gain.md) — a narrower finding that bears on this claim

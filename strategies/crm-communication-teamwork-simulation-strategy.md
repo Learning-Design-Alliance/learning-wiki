@@ -51,6 +51,7 @@ The authors propose simulation training strategies targeting the errors identifi
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
+- [Focused simulation-based training with debriefing and de-biasing strategies to help doctors recognize and manage cognitive errors](simulation-debriefing-debiasing-training-strategy.md)
 
 ## Examples
 -

@@ -74,3 +74,5 @@ Null results in the Results section for two routinely practiced skills ("no sign
 - [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — related
 - [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related
 - [Surveyed Italian residents show high volume and near-universal confidence in low-complexity procedures such as uterine curettage and low-degree tear sutures](italian-residents-low-complexity-procedure-confidence.md) — related
+- [New-curriculum students scored significantly higher on the OSCE than old-curriculum students](pbl-higher-osce-scores-psychiatry.md) — related
+- [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related

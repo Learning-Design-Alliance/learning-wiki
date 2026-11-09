@@ -98,7 +98,12 @@ class Wiki:
         self.root = root
         index = json.loads((root / "wiki-index.json").read_text(encoding="utf-8"))
         reverse = json.loads((root / "reverse-index.json").read_text(encoding="utf-8"))
-        self.pages = {f"{p['type']}/{p['id']}": p for p in index["pages"]}
+        # The page records are sharded under wiki-index/ (build_wiki_index.SHARD_DIR); a
+        # checkout from before 2026-11-09 still has them as `pages` in wiki-index.json.
+        shards = sorted((root / "wiki-index").glob("*/*.ndjson"))
+        recs = ([json.loads(l) for f in shards for l in f.read_text(encoding="utf-8").splitlines() if l.strip()]
+                if shards else index["pages"])
+        self.pages = {f"{p['type']}/{p['id']}": p for p in recs}
         self.resolve_map = index["resolve"]            # {kind: {slug-or-alias: id}}
         self.moved = index.get("moved", {})            # {old kind: {old slug: "new kind/new slug"}}
         self.folder_of = {kind: folder for folder, kind in reverse["kinds"].items()}

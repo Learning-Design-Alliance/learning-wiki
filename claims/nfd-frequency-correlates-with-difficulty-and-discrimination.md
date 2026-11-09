@@ -56,3 +56,5 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Functional distractors per item correlate negatively with difficulty index and positively with discrimination index, but far from perfectly](fds-item-correlations-difi-disi.md) — related
 - [The relationship between item difficulty and discrimination describes a dome, and reducing options did not significantly affect this relationship](mcq-difficulty-discrimination-dome-relationship.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
+- [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related
+- [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related

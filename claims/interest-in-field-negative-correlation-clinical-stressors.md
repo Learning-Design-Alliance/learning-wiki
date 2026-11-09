@@ -49,3 +49,4 @@ Correlational analysis (Pearson/Spearman) in the survey of 70 midwifery students
 - [Overall stress level correlates strongly and negatively with readiness for clinical practice among first-year nursing students (r = −0.85)](stress-readiness-strong-negative-correlation.md) — related
 - [All four stressor domains negatively and significantly predict first-year nursing students' readiness for clinical practice, together explaining 73.5% of its variance](stressors-negatively-predict-nursing-clinical-readiness.md) — related
 - [First-year nursing students before clinical practice reported mild-to-moderate overall stress, highest for education-related stressors](first-year-nursing-stress-mild-moderate-education-highest.md) — related
+- [Students' interest in the medical field correlates very strongly with their ratings of team integration and supervision](field-interest-strongly-correlates-with-training-ratings.md) — related

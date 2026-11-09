@@ -65,6 +65,7 @@ Peer feedback improves achievement most when it is structured and criterion-refe
 - [Model Receiving Feedback](../strategies/model_receiving_feedback.md) — the receiving side of the same normative culture
 - [Co-Construct Rubrics](../strategies/co-construct_rubrics.md) — shared criteria give critique something specific to be grounded in
 - [Establish psychological safety through shared ground rules, confidentiality, respect, and a mistakes-as-learning philosophy during simulation-based learning](psychological-safety-ground-rules-sbl.md)
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Examples
 - **Ron Berger's Expeditionary Learning critique culture** — elementary students use "kind, specific, helpful" norms and multiple-draft critique; documented in *An Ethic of Excellence* (2003).

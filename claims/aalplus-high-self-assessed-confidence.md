@@ -48,3 +48,4 @@ Five-year survey of all AaLplus participants (n = 1534 questionnaires, 98.6% res
 - [SP-based simulation produced significantly higher confidence in history-taking, physical examination, and interacting and communicating with patients than HFS and VR, which did not differ from each other](sp-higher-confidence-than-hfs-and-vr-three-skills-ajou.md) — related
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Most students attribute their basic medical skills to the AaLplus program, except hand disinfection and blood pressure measurement](aalplus-skill-acquisition-attribution.md) — related
+- [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related

@@ -80,3 +80,4 @@ The article reports, citing Miura et al, a pilot training program for NPs using 
 - [Short-duration supervision training can produce negative outcomes when new skills are not reinforced or preceptors lack protected supervision time](short-training-negative-outcomes-no-reinforcement-no-protected-time.md) — related
 - [The review reports that learners and preceptors favor the One-Minute Preceptor over traditional teaching models](omp-favored-over-traditional-teaching.md) — related
 - [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related
+- [Lack of feedback training and shorter OSCE supervision experience negatively influence the feedback process beyond tutor profile](feedback-training-and-experience-influence-osce-feedback-process.md) — related

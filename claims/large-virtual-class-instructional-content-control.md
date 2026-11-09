@@ -60,3 +60,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
 - [Pre-prepared flipped course material enabled uninterrupted online delivery of the dental materials course during the COVID-19 pandemic](fc-material-enabled-covid-online-delivery.md) — related
 - [Breakout groups developed unique, differing teaching plans rather than converging on one approach](breakout-groups-developed-unique-teaching-plans.md) — related
+- [Synchronous online discussions led by Makerere University were the central learning technique and enabled peer-to-peer learning across three countries](synchronous-online-discussions-central-peer-learning.md) — related

@@ -57,6 +57,7 @@ The review's forward-looking recommendation is to move from heterogeneous, mostl
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
 - [Recommendations for oral and maxillofacial surgery residency training: simulation-based skill modules, mandatory trainee-status disclosure with patient education, and stronger undergraduate basic clinical skills training](oms-residency-simulation-transparency-undergraduate-skills-strategy.md)
 - [Develop a pilot simulation course combining Reason's and Round's taxonomies to validate the blended framework](pilot-course-combined-taxonomies.md)
+- [Run workshops to familiarize midwifery teachers with the transformational leadership style](transformational-leadership-workshops-midwifery-teachers.md)
 
 ## Examples
 -

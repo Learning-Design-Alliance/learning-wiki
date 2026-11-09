@@ -68,3 +68,4 @@ Linear regression on PGY-1 FAST image quality with covariates age, sex, prior US
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — related
 - [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related
 - [No significant difference in FAST diagnostic accuracy between PGY-1 residents (users or non-users) and PGY-2 residents](no-diagnostic-accuracy-difference-pgy1-pgy2.md) — related
+- [PGY 2 status had a significant negative effect on predicted exam score difference in EM residents](pgy2-status-negative-effect-knowledge-retention.md) — related

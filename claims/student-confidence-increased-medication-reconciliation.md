@@ -78,3 +78,4 @@ Curriculum-integrated interactive learning exercise (n=158) for second-year stud
 - [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related
 - [After completing AaLplus, preclinical medical students report high confidence in history taking, physical examination and practical skills](aalplus-high-self-assessed-confidence.md) — related
 - [A brown bag medication reconciliation simulation significantly increased second-year medical students' self-efficacy across all four assessed domains](brown-bag-simulation-increased-self-efficacy.md) — related
+- [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — a broader claim this one bears on

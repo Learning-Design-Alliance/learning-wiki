@@ -51,6 +51,7 @@ The article recommends team training through in situ simulation that includes al
 
 - [Deliver brief, interprofessional, in situ simulation drills in vacant clinical spaces within days of real cases to implement urgent workflow changes](jit-in-situ-simulation-implementation-strategy.md)
 - [Conduct on-site simulation sessions with a first announced session and a second unannounced session within a PDSA cycle](onsite-simulation-announced-then-unannounced-pdsa-strategy.md)
+- [Plan unannounced in situ simulation with management support, cancellation rules, replacement staff, and simulation-only labelling of equipment](unannounced-iss-planning-strategy.md)
 
 ## Examples
 -

@@ -160,3 +160,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim
 - [Materials-only instruction with increasing irrelevant propositions improves experimental problem-solving accuracy for children with MD](materials-only-improves-md-experimental-problem-solving.md) — reports the opposite
 - [Visual elements of video may distract test takers and impose cognitive load during listening assessment](video-visuals-distract-test-takers.md) — a narrower finding that bears on this claim
+- [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — a broader claim this one bears on

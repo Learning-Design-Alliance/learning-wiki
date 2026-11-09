@@ -53,3 +53,4 @@ Early-phase (first to fifth attempts) group comparison in the same 40-participan
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related
 - [Learning potential and learning speed varied widely and depended on initial values and plateaus, with 2D showing higher speed but worse final results](learning-potential-speed-vary-initial-values-plateaus.md) — related
 - [Surgical novices training with 3D monitors on an open-console robotic simulator consistently outperform the 2D group on efficiency parameters](3d-monitors-outperform-2d-efficiency-hugo-ras.md) — related
+- [Laser visual guidance shows no significant improvement over 2D vision in laparoscopic motor skill parameters among surgical novices](lvg-no-significant-motor-skill-improvement.md) — reports the opposite

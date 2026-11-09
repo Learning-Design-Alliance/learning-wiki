@@ -1,0 +1,52 @@
+---
+type: claim
+title: Seventy-three percent of responding programs assess goals of care conversation skills, most commonly through direct observation and feedback
+description: Seventy-three percent of responding programs assess goals of care conversation skills, most commonly through direct observation and feedback
+id: gcc-skills-assessed-73-percent-programs
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-09
+evidence_strength: moderate
+newest_evidence: 2017
+sources:
+  - id: roze-des-ordons-amanda-2017
+    resource: "https://doi.org/10.1186/s12909-016-0839-2"
+    title: "Roze des Ordons Amanda, Kassam Aliya, Simon Jessica (2017). Goals of care conversation teaching in residency – a cross-sectional survey of postgraduate program directors. BMC Medical Education. https://doi.org/10.1186/s12909-016-0839-2"
+    author: Roze des Ordons Amanda, Kassam Aliya, Simon Jessica
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Seventy-three percent of responding programs assess goals of care conversation skills, most commonly through direct observation and feedback
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Goals of care conversation skills are assessed in 73% of responding programs, with direct observation and feedback the most common assessment approaches. [→ Roze des Ordons Amanda 2017](#roze-des-ordons-amanda-2017)
+
+## Evidence
+
+### Roze des Ordons Amanda 2017
+
+Roze des Ordons Amanda, Kassam Aliya, Simon Jessica (2017). Goals of care conversation teaching in residency – a cross-sectional survey of postgraduate program directors. BMC Medical Education. https://doi.org/10.1186/s12909-016-0839-2
+
+`q2 · i?` · `associational · r2`
+
+Descriptive analysis of assessment practices among responding programs found skills "assessed in 73% of programs", with direct observation and feedback reported as "the most common approaches to assessment".
+
+> "Goals of care conversation skills are assessed in 73% of programs; direct observation and feedback are the most common approaches to assessment."
+
+## Discussion
+
+
+## Related Claims
+- [Formal goals of care conversation teaching is incorporated into 63% of responding residency programs, most commonly didactic lectures](gcc-formal-teaching-63-percent-programs.md) — related
+- [Informal goals of care conversation teaching occurs in 86% of programs, involving discussion, direct observation and role modeling in the clinical setting](gcc-informal-clinical-teaching-86-percent.md) — related
+- [Workplace-based assessments such as 360-degree evaluations and mini-CEX are less frequently used than written examinations for assessing psychosomatic competency in Chinese GP residency programs.](workplace-based-assessment-less-frequent-than-written.md) — related
+- [Most program directors are interested in incorporating further goals of care conversation teaching and assessment into their programs](program-director-interest-gcc-teaching-resources.md) — related
+- [Program directors believe most clinical faculty are at least somewhat prepared to teach goals of care conversations](program-directors-faculty-preparedness-perceptions-gcc.md) — related

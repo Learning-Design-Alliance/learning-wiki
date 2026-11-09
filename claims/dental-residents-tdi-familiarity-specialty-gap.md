@@ -53,3 +53,4 @@ Cross-sectional survey of 256 dental residents at Wuhan University (55.1% respon
 - [94.5% of residents affirm the importance of vital pulp preservation, with significant specialty differences](residents-affirm-pulp-preservation-importance.md) — related
 - [Residents show higher TDI knowledge and awareness than undergraduates](residents-higher-tdi-knowledge-than-undergraduates.md) — related
 - [Self-reported familiarity with active learning techniques is lower than perceived importance, with no campus or year-group differences](familiarity-active-learning-techniques-lacking.md) — related
+- [Relative knowledge gain varies by specialty: 'other specialties' gained most (44%) and sports medicine least (14%)](relative-gain-varies-by-md-specialty.md) — related

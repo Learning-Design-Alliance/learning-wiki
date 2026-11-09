@@ -57,3 +57,4 @@ Quasi-experimental pretest–posttest study (Mtiraoui et al. 2025) of a 6-hour i
 - [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
 - [The web-based PFA simulation program improves nurses' self-leadership capacity more than e-book self-learning (medium effect)](web-pfa-sim-improves-self-leadership.md) — related
 - [A web-based PFA simulation program raised nurses' self-reported disaster response competence more than e-book self-learning (medium effect)](web-pfa-sim-raises-disaster-competencies.md) — related
+- [SAT participants showed significant increases in teaching confidence and self-perceived teaching skills over the 7-month program](sat-significant-confidence-teaching-skill-gains.md) — related

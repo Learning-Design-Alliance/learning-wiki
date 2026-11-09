@@ -72,3 +72,4 @@ From the same per-skill DOPS analysis (Table 1): scene safety showed a non-signi
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
 - [Hand placement for compressions was performed more correctly in the BLS group at six months, while compression depth and rate showed no significant group differences](web-education-no-compression-quality-advantage.md) — related
 - [Flipped learning and conventional learning show no significant difference in CPR skills retention 6 months after training in time to first chest compression or total chest compressions](flipped-learning-cpr-retention-no-difference-six-months.md) — related
+- [Peers rate school children more strictly than professionals on three specific BLS items](peers-rate-bls-items-more-strictly-than-professionals.md) — related

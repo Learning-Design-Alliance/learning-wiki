@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 72 claims (24 for, 42 mixed, 6 against) · 48 studies (15 associational, 14 causal, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 48 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (24 for, 44 mixed, 6 against) · 50 studies (16 associational, 15 causal, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 50 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,8 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Longer math tests are associated with a smaller gender gap: males lead by about 0.2 standard deviations on short tests, with parity reached at 125 questions](../claims/longer-math-tests-smaller-gender-gap.md) [+W] — attached 2026-11-08 from Balart et al. (2019), which proposed "Use test length as a tool for reducing gender gaps in test scores, extending time framed as rewarding sustained performance rather than compensating for weakness"; tests this page's relationship.
 - [GRE Q scores are negative predictors of STEM PhD completion for men, with men who left programs scoring significantly higher than men who completed](../claims/gre-q-negative-predictor-men-stem-phd-completion.md) [-W] — attached 2026-11-09 from Petersen Sandra L. et al. (2018), which proposed "Reconsider the role of GRE scores in STEM doctoral admissions and develop more inclusive and predictive selection processes"; tests this page's relationship.
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](../claims/gre-scores-no-prediction-women-stem-phd.md) [~W] — attached 2026-11-09 from Petersen Sandra L. et al. (2018), which proposed "Reconsider the role of GRE scores in STEM doctoral admissions and develop more inclusive and predictive selection processes"; tests this page's relationship.
+- [Student ethnicity (Asian vs white) had no influence on examiners' OSCE scores for knowledge, communication or overall performance](../claims/no-ethnicity-effect-examiner-scores.md) [~W] — attached 2026-11-09 from Yeates Peter et al. (2017), which proposed "Efforts to address differential attainment of Asian medical students should focus on social, psychological and cultural factors affecting learning and performance rather than on examiner bias"; tests this page's relationship.
+- [Confounders and socio-demographic variables largely explain ethnicity-related disparities in theoretical examinations but not in language, writing and clinical skills examinations](../claims/adjustment-explains-theoretical-not-skills-disparities.md) [~W] — attached 2026-11-09 from Stegers-Jager K. M. et al. (2016), which proposed "Design assessment strategies that create a level playing field for diverse student populations".
 
 ## Objective and learner-valued goal
 

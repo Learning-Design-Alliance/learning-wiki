@@ -48,3 +48,4 @@ Free-text survey responses from first-year students. A student carer reported th
 - [Staff framed lectures as performance and entertainment while first-year students framed lectures as a tool for study and revision](staff-show-versus-student-tool-framing-of-lectures.md) — related
 - [Freshmen rank lack of money as the leading cause of elimination, followed by ill-health; the authors attribute about 34 per cent of elimination to lack of means and 28 per cent to ill-health](money-and-health-leading-elimination-causes.md) — related
 - [Technical unpredictability of recordings severely frustrated students who valued them, while staff treated technical issues as abstract and eventually solved](technical-issues-asymmetric-impact-staff-students.md) — related
+- [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related

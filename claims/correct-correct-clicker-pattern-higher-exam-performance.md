@@ -71,3 +71,4 @@ Post hoc contrast from the same vote-pattern model on isomorphic exam questions;
 - [Experimental-group students who used all three approaches in their posttest answers tended to earn higher scores](using-all-three-approaches-linked-to-higher-scores.md) — related
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [During clicker implementation, students' average answering time decreased for both correct and incorrect answers while accuracy stayed nearly stable](clicker-answering-time-decreased-accuracy-stable.md) — related
+- [Perceived deepening of knowledge and confidence in answers did not significantly predict exam scores](participation-perceptions-not-predicting-exam-scores.md) — related

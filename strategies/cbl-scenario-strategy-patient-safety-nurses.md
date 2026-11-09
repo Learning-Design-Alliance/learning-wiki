@@ -53,6 +53,7 @@ The article's CBL intervention presented nurses with realistic hospital safety-e
 
 - [Case Based Learning](case-based-learning.md)
 - [Scenario Based Training](scenario-based-training.md)
+- [Use facilitated group discussion with clinical cases immediately before clinical entry to teach patient privacy](group-discussion-before-clinical-entry-privacy-strategy.md)
 
 ## Examples
 -

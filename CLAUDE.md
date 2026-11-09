@@ -187,15 +187,15 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   (`okf_lib.dump_json_records`). Change their shape only additively. **No copy of the index lives
   anywhere else** (checked 2026-10-20: not in the Lazuli app, not in learning-design-spec, whose
   docs describe a platform copy that was never committed). Its readers read this repo directly:
-  Learning-engineering-research's `wiki_agent.py` reads `pages` from a local checkout, and the spec's
-  `check-wiki-links.py` checks page URLs. So there is nothing to keep in sync.
-- **The page records are also written sharded, to `wiki-index/<kind>/<xx>.ndjson`** (first two characters
-  of the id, one record per line; maintainer, 2026-11-07). `wiki-index.json` had reached 48 MB, 41 MB of it
-  `pages`, growing about 1 MB a batch toward GitHub's 100 MB file limit. The shards are additive:
-  `wiki-index.json` keeps its full shape until the two readers above read `pages` from the shards, and only
-  then does `pages` leave it (`resolve`, `moved`, `kinds` and `counts` stay). `build_wiki_index.py --check`
-  checks both. Do not drop `pages` before both readers have moved: one is in another repo and would break
-  silently.
+  Learning-engineering-research's `wiki_agent.py` reads the page records from a local checkout, and the
+  spec's `check-wiki-links.py` checks page URLs (it never read the index). So there is nothing to keep in sync.
+- **The page records live in `wiki-index/<kind>/<xx>.ndjson`, not in `wiki-index.json`** (first two
+  characters of the id, one record per line; sharded 2026-11-07, `pages` dropped 2026-11-09, maintainer).
+  `wiki-index.json` had passed GitHub's 50 MB warning on its way to the 100 MB limit, 41 MB of it `pages`; it
+  now holds only `resolve`, `moved`, `kinds` and `counts` (9.4 MB). Its readers moved first: `wiki_agent.py`
+  (Learning-engineering-research#35) and `mcp_server.py` read the shards, falling back to `pages` for an
+  older checkout. `build_wiki_index.py --check` checks both. Do not put `pages` back: the shards are the
+  record, and a second copy is a second place to drift.
 - **`canonical: true`** marks the pages the candidate ledger settles against
   (`settle_candidates.py --mark-canonical`), and every learner-variable page. Search ranks them
   first when a query names them.

@@ -48,4 +48,4 @@ The article situates reading guides within high-structure (and flipped) course d
 -
 
 ## Key Sources
-- Lieu, R., Wong, A., Asefirad, A., & Shaffer, J. F. (2017). Improving Exam Performance in Introductory Biology through the Use of Preclass Reading Guides. CBE—Life Sciences Education. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5589426/
+- Lieu, R., Wong, A., Asefirad, A., & Shaffer, J. F. (2017). Improving Exam Performance in Introductory Biology through the Use of Preclass Reading Guides. CBE—Life Sciences Education. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5589426/. [doi:10.1187/cbe.16-11-0320](https://doi.org/10.1187/cbe.16-11-0320)

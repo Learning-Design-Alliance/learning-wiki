@@ -57,3 +57,4 @@ Narrative comparison in the Discussion (Section 4.3) in which the authors contra
 - [BMAT Section 2 scores predict written assessment performance on all written exams at both ICSM and LKCMedicine, with mainly small effect sizes](bmat-section2-predicts-written-assessments.md) — related
 - [BMAT Section 3a (writing task content) shows no consistent evidence of predictive utility, with one association below 0.1 at ICSM and none at LKCMedicine](bmat-section3a-no-predictive-utility.md) — a narrower finding that bears on this claim
 - [Baseline admission characteristics were equivalent between cohorts except UMAT scores, which were lower in the SP cohort](cohort-baseline-equivalence-except-umat.md) — related
+- [In contrast to the MCAT, UKCAT predictive validity appears to persist or increase into the final clinical years of medical school](ukcat-predictive-validity-persists-clinical-years.md) — related

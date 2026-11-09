@@ -50,3 +50,4 @@ Randomized post-test-only control group experiment with 90 undergraduates inexpe
 - [Undergraduate students who have not received library instruction generally lack basic database research skills, scoring about 51% on the post-test](uninstructed-students-lack-database-skills.md) — related
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
 - [Post-test ANOVA showed a significant difference among the three instruction groups after ten sessions](anova-posttest-significant-group-differences.md) — related
+- [Students' attitudes and skills vital for efficient use of online databases rose from pre-test to post-test after training in online literature search, in one uncontrolled pre-post study](training-effective-information-literacy-delivery.md) — a broader claim this one bears on

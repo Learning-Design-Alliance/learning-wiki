@@ -47,3 +47,4 @@ Independent t-tests/ANOVA comparison of mean scores across the three student gro
 ## Related Claims
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — related
 - [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](osce-gains-uneven-stations-modules.md) — related
+- [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related

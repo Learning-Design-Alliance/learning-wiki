@@ -54,3 +54,4 @@ Administrative data comparison of attendance and late arrivals between the contr
 - [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related
 - [The US-PIVC course showed high demand among final-year medical students, with all 126 places booked and a 78% attendance rate.](us-pivc-course-high-demand-reach.md) — related
 - [Attendance at interactive integration/feedback sessions was high when linked to course marks](high-attendance-marked-feedback-sessions.md) — related
+- [Student peer teachers were more likely to arrive on time and less likely to cancel than physician teachers](student-teachers-more-reliable-attendance.md) — related

@@ -50,3 +50,4 @@ Ethnographic analysis inferred increased task burden from observed behaviors suc
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
+- [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — related

@@ -51,3 +51,5 @@ The confidence theme from thematic analysis of provider discussions found that "
 - [Divergence between high self-reported collaboration and hesitancy in error reporting within perceived punitive environments](divergence-collaboration-scores-error-reporting-hesitancy.md) — related
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
 - [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related
+- [Available drugs and equipment were frequently not mentioned in vignettes, indicating competence gaps despite item availability](available-items-unused-in-vignettes.md) — related
+- [Lack of competence limited emergency obstetric care more often than lack of relevant drugs and equipment](competence-limits-emoc-more-than-infrastructure.md) — related

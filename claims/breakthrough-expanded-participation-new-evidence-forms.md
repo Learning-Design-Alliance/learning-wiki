@@ -54,3 +54,4 @@ Conceptual definition of the expanded-participation factor. The article illustra
 - [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related
 - Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research — a narrower finding that bears on this claim
 - [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — related
+- [Blended courses can reach students previously unable to participate, including working professionals and women, expanding doctoral training access](blended-reaches-nontraditional-doctoral-learners.md) — a narrower finding that bears on this claim

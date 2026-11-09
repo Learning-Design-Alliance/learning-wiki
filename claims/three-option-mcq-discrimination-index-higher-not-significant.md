@@ -49,3 +49,4 @@ Item-analysis comparison from the randomized study; the DS difference was not st
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [The relationship between item difficulty and discrimination describes a dome, and reducing options did not significantly affect this relationship](mcq-difficulty-discrimination-dome-relationship.md) — related
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
+- [Nonfunctioning distracters are more numerous in four- and five-option MCQs than in three-option MCQs](nonfunctioning-distracters-more-in-four-five-option-mcqs.md) — related

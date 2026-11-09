@@ -51,3 +51,4 @@ The article's argumentative review of critical studies in its section on empiric
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — related
 - [Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed](personalization-methods-achievement-inequality-mixed.md) — related
 - [Intelligent learning systems tend to focus more heavily on the cognitive rather than the affective nature of care](intelligent-systems-favour-cognitive-over-affective-care.md) — related
+- [Sustained uncritical imitation of role models may perpetuate undesirable practices and unintended institutional norms](sustained-imitation-perpetuates-undesirable-practices.md) — related

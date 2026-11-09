@@ -48,3 +48,4 @@ Descriptive comparison of the percentage of expected procedural steps completed 
 - [The recently trained group was slower on key procedural steps than all other groups, taking longer for bag-mask ventilation and pulse checking.](recently-trained-group-slower-on-procedural-steps.md) — related
 - [Performance at 4 years after training is statistically identical to that of untrained emergency physicians, indicating total loss of the training benefit.](training-benefit-total-loss-at-four-years.md) — possibly the same claim (merge candidate)
 - [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](higher-perceived-stress-in-recently-trained-group.md) — related
+- [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — related

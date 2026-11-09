@@ -51,3 +51,4 @@ Descriptive comparison of post-test standard deviations and variances (Exp. SD 3
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
 - [CTBL produced greater language proficiency gains than GI in Iranian EFL intermediate students](ctbl-outperforms-gi-language-proficiency.md) — related
 - [Variability in spirometry knowledge scores fell from pre-test to post-test among participants in one uncontrolled pre-post study](training-reduced-knowledge-score-variability.md) — related
+- [Game-based preparation reduces variability in residents' clinical competency levels before classroom training](game-preparation-reduced-competency-variability.md) — related

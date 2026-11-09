@@ -52,3 +52,4 @@ In the focus group study, participants identified key competencies including "pr
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related
+- [EUtrain fellows reported that the program created a solid, long-lasting European-wide professional network and developed multidimensional skills](eutrain-network-and-multidimensional-skills.md) — related

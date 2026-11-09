@@ -76,3 +76,5 @@ Distractor-per-item comparison (Table 7) from the same analysis; fully functioni
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Only a minority of five-option MCQs have four effective distractors, with 19% of questions having four effective distractors and 32% having three](mcq-minority-four-effective-distractors.md) — a narrower finding that bears on this claim
+- [Nonfunctioning distracters are more numerous in four- and five-option MCQs than in three-option MCQs](nonfunctioning-distracters-more-in-four-five-option-mcqs.md) — a broader claim this one bears on
+- [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related

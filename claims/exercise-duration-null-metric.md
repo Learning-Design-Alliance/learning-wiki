@@ -48,3 +48,4 @@ Null finding from the between-group simulator analysis: exercise duration did no
 ## Related Claims
 - [Completion time detects training gains only in less experienced trainees, per the review's account of Kim et al.](completion-time-significant-only-less-experienced-trainees.md) — related
 - [Experienced arthroscopic surgeons show no significant dominant/non-dominant difference on simulator performance, indicating greater ambidexterity](experienced-surgeons-ambidexterity-simulator.md) — related
+- [Preload Duration of the non-dominant hand on the grip-lift task was the only dexterity variable differing between groups over time, favouring the control group](preload-duration-nondominant-group-difference.md) — related

@@ -54,3 +54,4 @@ Correlational field study at a large four-year university measured the mindset b
 - [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related
 - [The growth-mindset performance advantage is driven by non-major courses, with no significant relationship for major courses](growth-mindset-effect-driven-by-non-major-courses.md) — related
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
+- [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — related

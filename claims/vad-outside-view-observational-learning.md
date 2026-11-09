@@ -81,3 +81,4 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Compliance scores rise substantially after each debriefing episode, with video-assisted gains of 33.55% and oral gains of 26.29% per scenario](per-scenario-compliance-gains-debriefing.md) — related
 - [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
 - [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related
+- [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related

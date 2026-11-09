@@ -49,3 +49,4 @@ ROC curve analysis conceptualising the standardised MEARS 'self-esteem' subscale
 - [Male gender is independently associated with increased odds of a conduct-related fitness-to-practise declaration among UK medical undergraduates](male-gender-independent-predictor-conduct-declarations.md) — related
 - [Higher self-reported 'self-esteem' on the MEARS non-cognitive test is independently associated with increased odds of a conduct-related declaration](mears-self-esteem-independent-predictor-conduct-declarations.md) — related
 - [The medical school attended has only a trivial effect on the likelihood of a fitness-to-practise declaration](university-effect-on-declarations-trivial.md) — related
+- [Used as a sole screening test at the cohort-mean cut-off, the UKCAT discriminates failing applicants only modestly (AUC 0.61) with a high number needed to reject of 1.18](ukcat-screening-auc-nnr.md) — related

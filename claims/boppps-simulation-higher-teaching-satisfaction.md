@@ -52,3 +52,4 @@ Questionnaire survey of all 76 students using the Student Evaluation of Faculty 
 - [Intern satisfaction with teaching is significantly higher in the simulation group than the control group on all five measured aspects](intern-satisfaction-higher-simulation-group.md) — related
 - [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related
 - [Residents report satisfaction above 4 points across all eight evaluated aspects of peer-assisted learning under the LSPPDM mode](high-satisfaction-pal-lsppdm-residents.md) — related
+- [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related

@@ -50,3 +50,4 @@ Dichotomous Rasch analysis of the knowledge and skills dimension (N = 197). Nine
 - [Both the competence test and the cognitive load ratings fit two-dimensional Rasch models significantly better than unidimensional models, supporting separate modeling of the two load dimensions](two-dimensional-rasch-models-fit-better.md) — related
 - [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](six-process-model-fits-better-than-unidimensional.md) — related
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
+- [The AIMS three-subscale measurement structure fits the data and yields reliable Rasch measures for middle school students](aims-three-subscale-structure-validated.md) — related

@@ -60,3 +60,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Adequate preparation, including setting clear expectations, priming the learner, and seeking patient permission, is crucial to successful clinical teaching (Level 2b, Grade B)](preparation-crucial-clinical-teaching.md) — related
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
 - [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related
+- [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related

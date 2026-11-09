@@ -52,3 +52,5 @@ Server usage data for included Hygie participants, plus self-reported time in th
 - [A significantly greater proportion of GPs in the Hygie group reported using the learned knowledge in their practice compared with the reading group](hygie-transfer-to-practice-odds-ratio-2-9.md) — related
 - [Students remain interested in a CPR serious game more than twice as long as in a video-based course](serious-game-longer-engagement-than-video-cpr.md) — related
 - [After a blended HIV-testing educational programme, participating GPs had twice as many laboratory-documented HIV tests as control GPs, versus 50% more before the programme](blended-programme-doubled-lab-hiv-tests.md) — related
+- [The game group spent roughly three times more self-reported learning time than the e-module group, with no association between learning time and outcomes](game-group-longer-learning-time-no-outcome-association.md) — related
+- [Residents preparing with the serious game spent 2.5 extra hours on self-study compared with manual-only preparation](game-preparation-increased-self-study-time.md) — related

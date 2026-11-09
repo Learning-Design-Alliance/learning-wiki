@@ -71,3 +71,7 @@ Same retrospective cohort correlational analysis of admissions statistics agains
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [Faculty rating correlated with undergraduate country (US/Canada rated higher) but not with other performance metrics; domestic students scored higher on GRE analytical writing while nondomestic students scored higher on quantitative](undergraduate-country-faculty-rating-language-skills.md) — related
 - [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related
+- [GRE Quantitative and Verbal scores moderately predict first-semester grades in biomedical graduate coursework](gre-moderately-predict-first-semester-grades.md) — related
+- [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related
+- [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — reports the opposite

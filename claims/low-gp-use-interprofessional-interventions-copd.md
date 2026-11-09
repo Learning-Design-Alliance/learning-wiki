@@ -49,3 +49,4 @@ Baseline questionnaire, question 10: "Twenty-eight percent received full points"
 - [GP COPD scores differ by PHCC, tending to be low in socially deprived areas and at privately owned PHCCs](copd-scores-low-deprived-private-phccs.md) — related
 - [Swedish GPs' baseline COPD knowledge and management skills are insufficient, with a mean score of 9.9 of a maximum 26 points](gps-insufficient-copd-knowledge-baseline.md) — a broader claim this one bears on
 - [Referral patterns differ geographically: terai PHCWs overwhelmingly refer to the tertiary eye hospital while mountain PHCWs refer to local eye care centres](referral-patterns-differ-terai-vs-mountains.md) — related
+- [GPs referred most commonly to physiotherapists (94 %) and least to vocational rehabilitation providers, with money-and-time concerns and uncertainty about allied health roles correlating with referral rates](gp-referral-patterns-and-barriers-rtc-injuries.md) — related

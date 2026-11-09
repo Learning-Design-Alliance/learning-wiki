@@ -65,3 +65,4 @@ Third Delphi round with nine representatives, using a lowered ≥50% threshold a
 
 ## Related Claims
 - [A consensus-based core assessment set for Austrian entry-level neurological physiotherapy education classifies 22 assessments as APPLYING, 15 as RECOGNISING, and 19 on a supplementary list](austrian-neuro-physio-core-set-22-applying-15-recognising.md) — related
+- [In a two-round explorative Delphi survey, 231 of the 288 Consensus Statement practical-skills learning goals were assessed as relevant and 57 as irrelevant for the short-term future of undergraduate medical education](delphi-231-of-288-practical-skills-goals-relevant.md) — related

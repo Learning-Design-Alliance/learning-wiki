@@ -55,3 +55,4 @@ Pre/post practical skills exam for 221 students in the Self-Directed Surgical Sk
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
 - [Students' written-exam knowledge of surgical instruments, materials, and techniques rises from 54% to 87% after the CBVT elective (P < 0.01)](cbvt-written-exam-54-to-87-percent.md) — related
 - [All OSATS scores increased significantly from pre- to post-course assessment across all six training tasks](osats-scores-increased-all-tasks.md) — related
+- [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — a broader claim this one bears on

@@ -58,3 +58,4 @@ Qualitative content analysis of VP descriptions. The Challenges subcategory repo
 - [Distance-learning challenges were mainly external (unstable internet, internet-quota cost) plus internal factors, and 35.2% of students experienced stress](distance-learning-challenges-connectivity-stress.md) — related
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
 - [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](vp-keyword-recognition-issues-not-detracting.md) — related
+- [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — a narrower finding that bears on this claim

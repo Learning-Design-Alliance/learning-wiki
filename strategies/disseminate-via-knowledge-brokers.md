@@ -44,6 +44,7 @@ Because classroom teachers rarely seek out research, the report recommends reach
 - [Five recommendations for scientists venturing into science communication with teachers](five-recommendations-scientists-scicomm.md)
 - [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
 - [Use professional societies, advocacy programs, and social media to disseminate cardio-obstetrics knowledge and training](society-advocacy-social-media-cardio-obstetrics-strategy.md)
+- [Build a misconceptions inventory from expert-rated written questions and disseminate it among tutors](misconceptions-inventory-for-tutors.md)
 
 ## Examples
 -

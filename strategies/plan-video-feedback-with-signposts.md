@@ -46,6 +46,7 @@ The article suggests that staff think about the generic feedback and identify 's
 - [Encourage students to post comments on video feedback to complete the feedback loop and foster dialogue.](student-comments-on-video-feedback-dialogue.md)
 - [Applicable Reflection](applicable_reflection.md)
 - [Signaling and Highlighting](signaling_and_highlighting.md)
+- [Feed-forward of student learning needs prior to clinical placements to support fitness to practise](feed-forward-student-needs-before-placements.md)
 
 ## Examples
 -

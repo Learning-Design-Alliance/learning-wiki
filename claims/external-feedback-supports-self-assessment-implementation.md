@@ -71,3 +71,4 @@ The review reports, citing Orsmond and Merry (2013), that "high-achieving studen
 - [Practice and training, external feedback, use of instruments, and environmental support facilitate students' implementation of self-assessment](instructional-factors-self-assessment-implementation.md) — related
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](remote-psychotherapy-supervision-comparable-quality-less-preferred.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
+- [Lack of feedback training and shorter OSCE supervision experience negatively influence the feedback process beyond tutor profile](feedback-training-and-experience-influence-osce-feedback-process.md) — related

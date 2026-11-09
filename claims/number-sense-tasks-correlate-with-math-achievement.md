@@ -67,3 +67,4 @@ The authors note that these correlations run against the expectation that numeri
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
 - [A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone](cognition-measures-beat-prior-achievement.md) — related
 - [Whole-number and fraction number line estimation are weakly correlated, suggesting they represent different estimation skills](whole-number-fraction-number-line-distinct-skills.md) — related
+- [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](symbolic-training-symbolic-tasks-and-verbal-transfer.md) — related

@@ -53,3 +53,4 @@ Cross-sectional study of 149 chiropractic students performing SMT on a force-sen
 - [Chiropractic students are confident in delivering 200N and 400N impulse forces but their confidence decreases for 800N forces](confidence-decreases-800n-impulse-force-students.md) — related
 - [Students' confidence in SMT force modulation may be built on factors other than force–time modulation ability, such as body anthropometrics](confidence-may-rest-on-non-force-factors.md) — related
 - [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](confidence-positively-associated-force-modulation-ability.md) — related
+- [Gender has no significant effect on practical skill outcomes in spinal manipulation training](gender-no-effect-spinal-manipulation-outcomes.md) — related

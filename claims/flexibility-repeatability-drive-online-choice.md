@@ -51,3 +51,4 @@ Interview findings from ten medical students; one student described being able t
 - [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related
 - [Students reported that HVRS training improved their psychomotor skills and confidence, and cited unlimited repetitions and better visualization as main benefits](hvrs-perceived-skill-confidence-benefits.md) — related
 - [Direct interaction with the lecturer was a key decision criterion for choosing the face-to-face format](lecturer-interaction-drives-face-to-face-choice.md) — related
+- [Students feel 'lost at sea' when facing a large, poorly signposted elearning resource, hindering study-time allocation](elearning-lost-at-sea-theme.md) — related

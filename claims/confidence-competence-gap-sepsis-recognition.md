@@ -52,3 +52,4 @@ Cross-sectional survey of 221 practitioners; the conclusion states that "Self-re
 - [Screening tool use among pre-hospital practitioners is predominantly reactive, applied only after sepsis is already suspected](reactive-confirmatory-sepsis-screening-use.md) — related
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — related
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related
+- [Prehospital physicians' mOSAUS scores rose from pre-test to post-test after ultrasound training in one uncontrolled pre-post study; clinical benefit and independent practice were not tested](us-training-gain-clinical-benefit-unproven.md) — related

@@ -63,6 +63,7 @@ Spacing exploits the fact that memory strengthens when retrieval is required aft
 - Pomodoro-style timeboxing — a work-routine adaptation of the same chunk-and-break structure
 - [Active Recess](active-recess.md) — structured physical movement that can serve as the break component in classroom implementations
 - [Graded-difficulty probe tests interspersed in a fixed work period to locate the difficulty level a fatigued performer can still manage](graded-difficulty-probe-tests-fatigue.md)
+- [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — retrieval practice at spaced intervals is what drives the retention benefit

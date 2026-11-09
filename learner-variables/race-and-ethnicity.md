@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (186 show a difference, 39 mixed, 17 no difference) · 183 studies (99 associational, 34 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 7 of 183 report an effect size · 240 claims rest on one study
+> **Evidence** · 247 claims (187 show a difference, 41 mixed, 19 no difference) · 188 studies (102 associational, 36 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 7 of 188 report an effect size · 245 claims rest on one study
 
 ## How to read this page
 
@@ -279,6 +279,11 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](../claims/race-ethnicity-grade-difference-active-learning.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Lower standardized test scores are not a fixed attribute of African American students](../claims/test-scores-not-fixed-attribute.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Communication Access scores were higher for underrepresented-minority mentees, a difference the authors attribute to chance](../claims/communication-access-minority-chance-finding.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [After SGM program implementation, URM students graduated with biology and NSE majors or minors at rates equal to non-URM students, closing a pre-program gap](../claims/pltl-sgm-urm-persistence-equal-non-urm.md) [~M] — an instructional effect differs by group
+- [Thesis-score gains from the writing intervention did not differ by ethnicity, Hispanic identity, or first-generation legacy status](../claims/equal-writing-intervention-gains-across-demographics.md) [-M] — an instructional effect differs by group
+- [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](../claims/urm-status-mixed-graduate-outcomes.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Western minority students showed no underperformance on the preclinical OSCEs despite previously reported lower clerkship grades](../claims/western-minority-no-osce-underperformance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [White students earned higher final course grades than underrepresented minority students in this course](../claims/racial-grade-gap-active-learning-course.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

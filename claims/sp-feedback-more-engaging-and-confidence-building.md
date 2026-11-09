@@ -52,3 +52,4 @@ Student feedback collected on a peer-validated 5-point Likert Google form regard
 - [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
+- [The OSCE advantage from standardized-patient training does not transfer to an unrelated resuscitation (ACLS) scenario](standardized-patients-no-acls-transfer.md) — related

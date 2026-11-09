@@ -76,3 +76,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Teachers perceive structured role-playing as promoting active learning and professional skill development, though time-intensive](role-playing-structured-use-positively-assessed.md) — related
 - [Simulation with dramatization yields a broad set of perceived gains including satisfaction, self-confidence, knowledge, empathy, realism, reduced anxiety, comfort, motivation, reflection, critical thinking and teamwork](broad-perceived-gains-dramatization-simulation.md) — a broader claim this one bears on
 - [Empathy development is a perceived gain of dramatization-based simulation, measured during role play in some studies](empathy-gain-role-play-simulation.md) — related
+- [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — related

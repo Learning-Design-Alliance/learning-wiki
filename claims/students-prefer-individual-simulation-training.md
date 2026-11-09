@@ -49,3 +49,4 @@ Chi-square test of stated training preference on day 4 in the randomized trial; 
 - [In initial dyad-versus-individual simulation training, individuals show larger increases in anxiety and stress than dyads](dyad-training-lower-stress-anxiety-increase.md) — related
 - [Cognitive load is similar for dyad and individual trainees in a complex non-procedural simulation scenario](dyad-cognitive-load-similar-complex-task.md) — related
 - [On day 4 individual reassessment, dyad-trained students perform similarly to individual-trained students, except faster pacing-indication recognition for individual training](day4-equivalent-performance-individual-tp-advantage.md) — related
+- [Dyad practice yields higher training efficiency than individual practice in simulator score per attempt](dyad-practice-higher-training-efficiency.md) — related

@@ -47,3 +47,4 @@ SAOM analysis of admire peer networks found a non-significant similar engagement
 ## Related Claims
 - [Admired peers' academic engagement also contributes to adolescents' own engagement over time](admired-peer-engagement-influence.md) — related
 - [Adolescents who are similar in academic engagement more often become close friends over the school year](similar-engagement-friend-selection.md) — related
+- [Learners' admired attributes may differ from the attributes they actually emulate in role models](admired-attributes-may-differ-from-emulated.md) — related

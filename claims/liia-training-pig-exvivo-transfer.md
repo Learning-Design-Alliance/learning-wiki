@@ -66,3 +66,4 @@ Same pig ex vivo comparison: trained intermediates matched expert operation scor
 ## Related Claims
 - [Repeated training on the 3D-printed model improves performance: after eight sessions novices approached untrained intermediate level and intermediates approached expert scores](liia-repeated-training-learning-curve.md) — related
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — related
+- [Simulator training brought novice students' laparoscopic scores toward expert surgeons' average scores, though a gap remained in peg transfer](simulator-training-approaches-student-scores-to-expert-scores.md) — related

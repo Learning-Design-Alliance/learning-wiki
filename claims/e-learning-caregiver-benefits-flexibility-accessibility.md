@@ -49,3 +49,5 @@ Review-level synthesis across all six detected studies; the review additionally 
 - [E-learning interventions for dementia caregivers show mixed outcomes, including high drop-out rates and a reduced sense of competence in one trial](e-learning-caregiver-mixed-outcomes-dropout.md)
 - [E-learning programs help informal dementia caregivers feel more confident, reduce perceived stress, and enhance empathy](e-learning-dementia-caregiver-confidence-stress-empathy.md)
 - [Using the understAID e-learning platform significantly decreased depressive symptomatology in informal caregivers](understaid-decreased-depressive-symptomatology.md) — reports the opposite
+- [Caregiver satisfaction with understAID was low, with 66.7% rating the application unacceptable overall](understaid-low-satisfaction-66-7-unacceptable.md) — related
+- [Technical acceptability of understAID was split overall and lowest among smartphone users](understaid-technical-ratings-device-dependent.md) — related

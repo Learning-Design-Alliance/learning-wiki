@@ -58,3 +58,4 @@ The rating sample is small (20 questions, two raters with modest agreement), and
 - [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related
 - [The authors interpret LLM-based MCQ generation as better suited to declarative, explicitly stated knowledge than to context-dependent, procedural, or inferential knowledge](llm-mcg-declarative-knowledge-clearer-items.md) — related
 - [Rarely chosen distractors can carry clinically important information about unsafe practices, so removing them loses diagnostic information](rarely-chosen-unsafe-distractors-informative.md) — related
+- [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related

@@ -47,3 +47,4 @@ Path analysis (Model 2_All) of the three-context survey decomposed the PBL-versu
 ## Related Claims
 - [An integrated lecture-based curriculum increases deep approaches (total standardized effect 0.26) and decreases surface approaches (−0.18) compared with a traditional lecture-based curriculum, through cumulative direct and perception-mediated paths](integrated-lecture-curriculum-cumulative-deep-approach-effect.md) — related
 - [In the traditional lecture-based curriculum, students used about as much deep as surface approaches, whereas in both integrated curricula they used deeper and less surface approaches](traditional-lecture-curriculum-deep-surface-parity.md) — related
+- [Curriculum-wide PBL implementation has a more positive impact on the deep approach (ES = .18) than single-course implementation (ES = −.05)](curriculum-wide-pbl-deep-approach-advantage.md) — related

@@ -24,7 +24,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (25 for, 7 mixed) · 45 studies (13 causal, 11 review, 6 qualitative, 5 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 45 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (25 for, 7 mixed) · 46 studies (13 causal, 12 review, 6 qualitative, 5 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 46 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

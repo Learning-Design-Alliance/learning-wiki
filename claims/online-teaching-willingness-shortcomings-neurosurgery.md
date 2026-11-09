@@ -70,3 +70,4 @@ Follow-up survey of online-group students on shortcomings, summarized in Fig. 4;
 - [Free-text comments from online-course students indicate high acceptance, citing contact maintenance and telemedicine practice as benefits and technical disruptions and difficulty evaluating nonverbal communication as drawbacks](online-format-student-comments-acceptance-critique.md) — reports the opposite
 - [Students preferred face-to-face tutoring and online answering as guidance methods in the blended course](students-prefer-face-to-face-and-online-guidance-mix.md) — related
 - [All participants who took pandemic-era online classes preferred traditional face-to-face classes and felt they would have performed better in classrooms](online-vs-face-to-face-preference-mbbs.md) — related
+- [Trainees accept Peyton's approach well: Peyton-group students felt they learned more and control-group women preferred the Peyton group](peyton-approach-acceptance-evaluation.md) — related

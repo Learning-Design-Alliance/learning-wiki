@@ -50,3 +50,4 @@ Repeated-measures ANOVA on knowledge scores in the randomized trial showed a sig
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Medical students and residents show no significant difference in long-term knowledge retention (Test 2, after at least two months) between Virtual Patient training and a video-recorded lecture](vp-vs-lecture-similar-long-term-retention.md) — related
 - [Medical students and residents show no significant difference in short-term knowledge retention (Test 1) between Virtual Patient training and a video-recorded lecture on a spinal trauma case](vp-vs-lecture-similar-short-term-retention.md) — related
+- [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related

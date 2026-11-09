@@ -49,3 +49,4 @@ Descriptive statistics across all 424 participants reporting mean scores for the
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related
+- [Student explanations of active-learning anxiety align with communication apprehension, social anxiety, and test anxiety](active-learning-anxiety-evaluative-types.md) — related

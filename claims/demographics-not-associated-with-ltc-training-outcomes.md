@@ -58,3 +58,5 @@ Multivariate linear regression in the 90-student study, controlling for gender, 
 - [Academic adaptability differs significantly by gender, age, and grade but not by student type or residence](adaptability-demographic-differences-gender-age-grade.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — reports the opposite
 - [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — a narrower finding that bears on this claim
+- [Gender has no significant effect on practical skill outcomes in spinal manipulation training](gender-no-effect-spinal-manipulation-outcomes.md) — a narrower finding that bears on this claim
+- [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related

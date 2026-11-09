@@ -53,3 +53,4 @@ Correlational analysis of latent factor correlations (Supplement Table 3) in the
 - [Among lower-risk children, higher formal HME was associated with worse arithmetic performance, a reversed association already present at ages 2 and 5](formal-hme-reversed-lower-risk.md) — related
 - [Explicit, instructional home numeracy activities acted as protective (not promotive) factors for 1st–2nd grade math performance in Torppa (2025)](home-numeracy-protective-math-torppa.md) — related
 - [Advanced formal home numeracy practices are positively associated with five-year-olds' transcoding and calculation skills.](advanced-formal-practices-transcoding-calculation.md) — related
+- [Household income directly predicts parent report of child skills but is unrelated to home math environment factors](household-income-direct-predictor-not-hme-related.md) — related

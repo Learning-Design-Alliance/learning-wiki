@@ -49,3 +49,4 @@ Cognition sub-theme of the teacher-centred interview analysis: "'inefficient lea
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related
 - [Distance education was perceived to negatively affect both professional competencies and critical thinking skills](distance-education-negative-effects-competencies-ct.md) — related
+- [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](negative-achievement-emotions-elearning-rote-strategies.md) — related

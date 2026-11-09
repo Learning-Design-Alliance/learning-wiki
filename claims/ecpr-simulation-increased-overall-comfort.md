@@ -47,3 +47,4 @@ Pre/post survey analysis across six simulation sessions using the Kruskal-Wallis
 ## Related Claims
 - [The eCPR simulation significantly increased comfort with cannulation procedures, eCPR candidacy criteria, and postcannulation resuscitation](ecpr-simulation-domain-comfort-gains.md) — related
 - [The eCPR simulation was well received, with positive postsimulation feedback from all respondents](ecpr-simulation-positive-reception.md) — related
+- [Most participants reported improved comfort with online learning after the OSG](osg-improved-comfort-online-learning.md) — related

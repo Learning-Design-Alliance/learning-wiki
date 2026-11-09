@@ -50,3 +50,4 @@ Post-intervention survey and student reflections; the authors attribute students
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
+- [Students felt reassured by written feedback from faculty members familiar with summative assessment requirements and valued feedback aligned with those expectations](students-valued-faculty-feedback-summative-alignment.md) — related

@@ -54,3 +54,4 @@ Exploratory subgroup analysis within the multilevel ITT model. Table 3 prints a 
 - [The OCR program shows a positive differential impact for Kindergarten students relative to other grades](ocr-positive-differential-impact-kindergarten.md) — related
 - [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](air-reading-no-significant-subgroup-differences.md) — related
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
+- [Thesis-score gains from the writing intervention did not differ by ethnicity, Hispanic identity, or first-generation legacy status](equal-writing-intervention-gains-across-demographics.md) — related

@@ -48,6 +48,7 @@ In the discussion the authors recommend extending camera navigation training bey
 
 - [Incorporate camera metrics into existing RAMIS proficiency-based curricula and automated feedback systems](camera-metrics-proficiency-curricula-strategy.md)
 - [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
+- [Design simulation scenarios around foreseeable crisis problems so participants practice troubleshooting skills](crisis-scenario-design-for-troubleshooting-practice.md)
 
 ## Examples
 -

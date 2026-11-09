@@ -52,3 +52,4 @@ Inductive qualitative analysis of open-ended questionnaire responses from the 14
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
 - [Keyword frequency analysis of reflective journals shows recurring education, busy work, patient, and practical training were the most frequent preceptorship concerns](keyword-frequency-recurring-education-busy-work.md) — related
 - [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related
+- [Shadowing and induction are considered efficacious for easing transition, but assistantship evidence is sparse](shadowing-induction-ease-transition-assistantship-sparse.md) — related

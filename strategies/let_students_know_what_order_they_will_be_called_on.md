@@ -78,12 +78,14 @@ Predictability reduces the cognitive and emotional load of participation: when s
 6. Re-shuffle or rotate visibly between rounds so no student is permanently "last."
 
 ## Related Strategies
+
 - Cold-calling with random selection — the accountability-oriented counterpart; announcing the order is a deliberate softening of it
 - Wait time extension — the planning window only pays off if the instructor actually pauses after naming the student
 - Talk tokens or equity sticks — alternative turn-management structures serving the same access goal
 - Cold calling with advance warning — announced order is cold calling made predictable; the warning is what changes its affective profile
 - Think-pair-share — pair rehearsal before the called-on turn improves response quality under the same structure
 - Volunteer-only discussion — the contrast case; equitable but often dominated by a few confident students
+- [Instructors should explain the rationale for active learning practices and buffer cold calling with peer discussion](buffer-cold-calling-rationale-strategy.md)
 
 ## Examples
 - **Harvard Business School-style cold-calling, modified**: some case-method instructors post the day's calling sequence on the board before class so students can prepare their case analysis for their slot — retaining accountability while adding preparation time.

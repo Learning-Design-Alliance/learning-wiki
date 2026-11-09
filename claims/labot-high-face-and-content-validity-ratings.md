@@ -55,3 +55,4 @@ Face validity was assessed by 25 residents and content validity by 35 expert sur
 - [Novices and experts rate the simulator's anatomical realism highly (means 4.4–5.39 on a 6-point scale), except the haptic realism of the pinna](vr-otoscopy-simulator-face-validity-ratings.md) — related
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
 - [Experts rate the 3D-printed hemostasis simulator highly for realism and training suitability](experts-rate-3d-hemostasis-simulator-realistic.md) — related
+- [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related

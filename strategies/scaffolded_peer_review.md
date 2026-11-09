@@ -67,6 +67,7 @@ Peer review doubles as assessment and learning: reviewing others' work requires 
 - [Calibrated Peer Review](calibrated_peer_review.md) — a specific technology-supported implementation of the calibration variation
 - [Revision Cycles](revision-cycles.md) — the author-side half of the review loop
 - [Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor](peer-to-peer-prompting-handover.md)
+- [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructor modeling of critique is the training phase for reviewers

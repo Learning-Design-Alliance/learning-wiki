@@ -50,3 +50,4 @@ Qualitative theme 'Technical issues' reported by VP-group trainees. The keyword 
 ## Related Claims
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
+- [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — related

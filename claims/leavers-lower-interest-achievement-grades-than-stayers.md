@@ -53,3 +53,4 @@ Orthogonal contrast-code regression comparing stayers to all leavers, with a Bon
 - [End-of-course interest in biology and introductory biology grades each predicted lower likelihood of leaving biomedical fields](end-of-course-interest-and-grades-predict-biomedical-attrition.md) — possibly the same claim (merge candidate)
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
+- [Higher general class anxiety is associated with lower self-reported course grade and intention to leave the biology major](general-anxiety-lower-grade-persistence.md) — related

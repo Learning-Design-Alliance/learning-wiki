@@ -48,6 +48,7 @@ The article recommends preparing healthcare providers for real clinical situatio
 
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
+- [Offer students an SHT module, peer-assisted learning, and simulated-patient practice for intimate-area skills, with positive teacher support](sht-module-peer-assisted-simulated-patients-strategy.md)
 
 ## Examples
 -

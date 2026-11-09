@@ -53,6 +53,7 @@ The article recommends a recurring low-dose training structure: deliver all HBB 
 - [Sustain program effects through refresher sessions, peer support, and integration into routine clinical practice](sustain-ehealth-learning-refresher-peer-support-strategy.md)
 - [Use staged, short-interval, high-frequency emergency training with immediate practice while knowledge is fresh to consolidate first aid knowledge and skills](staged-short-interval-emergency-training-strategy.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
+- [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 
 ## Examples
 -

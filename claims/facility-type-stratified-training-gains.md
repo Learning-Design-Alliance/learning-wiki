@@ -53,3 +53,4 @@ Subgroup comparison within the pre-post study of 207 medical officers (29% PHC, 
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
 - [Referral patterns differ geographically: terai PHCWs overwhelmingly refer to the tertiary eye hospital while mountain PHCWs refer to local eye care centres](referral-patterns-differ-terai-vs-mountains.md) — related
 - [After the training, medical students score highest on the glucagon administration test](glucagon-test-highest-post-score.md) — related
+- [Vignette competence varied significantly by facility type, with hospital respondents scoring highest (70%) and clinic respondents lowest (45%)](emoc-vignette-competence-varies-by-facility-type.md) — related

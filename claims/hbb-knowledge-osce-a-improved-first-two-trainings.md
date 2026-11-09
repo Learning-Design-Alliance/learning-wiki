@@ -54,3 +54,4 @@ McNemar tests of pass/fail among the 34 community midwives who completed all thr
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related
 - [Health workers' neonatal resuscitation knowledge scores rose from pre-test to post-test after HBB training plus the QIC and remained high at 6 months in one uncontrolled pre-post study](hbb-qic-knowledge-retained-6-months.md) — related
+- [Among birth attendants, OSCE B resuscitation skill pass rates rose from 81% before to 99% after a half-day refresher training, in one group with no comparison group](hbb-refresher-training-restores-skills.md) — related

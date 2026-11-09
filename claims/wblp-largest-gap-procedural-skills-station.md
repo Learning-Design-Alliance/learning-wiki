@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: wang-ji-nuo-2026
     resource: "https://doi.org/10.1186/s12909-026-08719-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Wang Ji-nuo 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-05)
 
 ## Subclaims
@@ -58,3 +59,4 @@ Subgroup analysis of OSCE stations in the retrospective cohort: the test group s
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
+- [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related

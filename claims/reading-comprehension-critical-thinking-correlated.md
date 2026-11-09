@@ -53,3 +53,4 @@ A Pearson Product-Moment Correlation Coefficient run on pre-post gain scores sho
 - [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
 - [Recent studies found LSAT-measured effect sizes three times smaller than CCTST-measured effect sizes for critical-thinking training](lsat-effect-sizes-smaller-than-cctst.md) — related
+- [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related

@@ -56,3 +56,4 @@ Randomised controlled trial of a single 2-hour workshop in EBM literature search
 - [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
 - [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related
+- [Medical postgraduate students' attitude scores toward online literature searching rose from before to after a 4-month literature search training course in a single-group pre-post study without a comparison group](training-improves-attitudes-toward-online-searching.md) — related

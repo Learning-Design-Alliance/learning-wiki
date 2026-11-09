@@ -47,3 +47,4 @@ In the same 24-MCQ knowledge assessment across the two cohorts (n=36 traditional
 ## Related Claims
 - [E-learning improves nurses' knowledge in continuing education on many topics, but effects are mixed and classroom learning was superior for drug dose calculations](e-learning-nurse-knowledge-mixed-effects.md) — related
 - [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related
+- [European final‐year medical students show an overall lack of essential prescribing knowledge, averaging 69.6% on knowledge questions with a low of 50.0% on interactions and contraindications](european-final-year-students-lack-prescribing-knowledge.md) — related

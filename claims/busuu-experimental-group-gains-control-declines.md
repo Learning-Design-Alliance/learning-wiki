@@ -49,3 +49,4 @@ Eight-week quasi-experiment with 94 volunteer Budapest Business School students 
 - [Actual app use was sporadic and short — about once per week for 10–15 minutes, roughly 120 minutes total — which the authors say cannot explain the significant difference between groups](busuu-low-usage-cannot-explain-gains.md) — related
 - [Students found busuu easy and useful especially for vocabulary and writing, but 73.3% thought it helps without being the ultimate tool, and language learning apps were largely unknown to them](busuu-user-satisfaction-limited-help.md) — related
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related
+- [No significant difference in theoretical knowledge between mobile app and control groups](no-theoretical-knowledge-difference-mobile-app.md) — related

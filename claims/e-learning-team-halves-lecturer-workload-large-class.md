@@ -47,3 +47,4 @@ The authors' comparison of staffing for the online course: "a small group of lec
 ## Related Claims
 - [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) — related
 - [Teachers controlled instructional content in large virtual classes by creating interactive environments through questioning, student presentations and out-of-class discussions, and by using learner-centred methods such as breakout rooms, flipped classroom and case study techniques](large-virtual-class-instructional-content-control.md) — related
+- [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — related

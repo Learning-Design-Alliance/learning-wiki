@@ -68,3 +68,4 @@ Post hoc regression predicting the free-response subscore (63/100 points) of the
 - [Delayed re-quizzing predicts higher low-stakes cumulative posttest scores when controlling for preparation](delayed-requizzing-posttest-gain.md) — related
 - [Preparation-by-re-quizzing interactions do not significantly improve the posttest model](no-posttest-preparation-interaction.md) — related
 - [Delayed re-quizzing benefits final exam performance more for students who previously struggled in General Chemistry I](requizzing-benefit-lower-chemistry-students.md) — related
+- [Students who did not prepare specifically for the exam scored significantly lower than prepared students (d=0.27)](unprepared-students-score-lower-osce-d-027.md) — related

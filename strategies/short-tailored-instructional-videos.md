@@ -49,6 +49,7 @@ The review recommends that instructional videos for programming courses be brief
 - [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
 - [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
+- [Maximize engagement by keeping videos brief, using conversational enthusiastic narration, and packaging videos for the specific course](video-engagement-style-strategies.md)
 
 ## Examples
 -

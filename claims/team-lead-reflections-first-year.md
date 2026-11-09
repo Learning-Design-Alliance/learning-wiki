@@ -51,3 +51,4 @@ Semi-structured December 2019 interviews with lighthouse project leaders. Motiva
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
 - [End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments](faculty-reflection-series-outcomes.md) — related
+- [The full potential of the Moodle platform was not used due to the short course timeline, a missed opportunity for a cross-institution community of inquiry](moodle-platform-underused-short-timeline.md) — related

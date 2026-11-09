@@ -14,7 +14,7 @@ generated:
 # Peyton's four-step approach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (2 design, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (2 causal, 2 review, 2 design), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 A structured clinical-skills teaching framework that sequences demonstration, deconstruction, comprehension, and independent performance, used by instructors to teach procedural skills.
@@ -31,6 +31,8 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 - [Correct answers on the knowledge question about Peyton's four-step model improved significantly from 0% to 90% after the workshop](../claims/peyton-knowledge-question-improved-0-to-90.md) [+M]
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](../claims/peyton-four-step-superior-controlled-trial.md) [+M]
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](../claims/io-access-taught-four-step-cadaver-course.md) [+M]
+- [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](../claims/peyton-four-step-superior-ospe-spinal-manipulation.md) [+M]
+- [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](../claims/spinal-manipulation-skills-decline-six-months.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -41,6 +43,7 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 <!-- merged 2026-11-07 from products/peytons-four-step-model ("Peyton's four-step model"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Burgess A, van Diggele C, Roberts C, Mellis C. (2020). Tips for teaching procedural skills. BMC Medical Education. https://doi.org/10.1186/s12909-020-02284-1
 - Afzali Monika, Kvisselgaard Ask Daffy, Lyngeraa Tobias Stenbjerg, Viggers Sandra. (2017). Intraosseous access can be taught to medical students using the four-step approach. BMC Medical Education. https://doi.org/10.1186/s12909-017-0882-7
+- Gradl-Dietsch G, Lübke C, Horst K, Simon M, Modabber A, Sönmez TT, Münker R, Nebelung S, Knobe M. (2016). Peyton's four-step approach for teaching complex spinal manipulation techniques – a prospective randomized trial. BMC Medical Education 16:284. https://doi.org/10.1186/s12909-016-0804-0
 
 # Peyton's four-step model
 

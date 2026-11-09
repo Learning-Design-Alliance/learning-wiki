@@ -47,3 +47,4 @@ Mann-Whitney U test on 18 IMSD graduates (11 PWI-trained, 7 HBCU-trained) compar
 ## Related Claims
 - [Among HBCU-trained IMSD graduates, lower GRE verbal scores correlated with higher final graduate GPA, and higher publication counts correlated with first-authored publications and post-doctoral fellowships](hbcu-graduate-correlations-gre-verbal-final-gpa.md) — related
 - [UR trainees trained at PWIs had significantly higher first-semester Ph.D. GPAs and GRE scores than UR trainees from HBCUs, but undergraduate GPA did not differ](hbcu-pwi-admission-measure-differences.md) — related
+- [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related

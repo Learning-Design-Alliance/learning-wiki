@@ -50,3 +50,4 @@ Latent regression on Rasch-modeled responses to the 22-item academic habit compl
 - [Academic habit complexity is positively related to General Chemistry 1A grades after controlling for prior achievement and BIOME enrollment](habit-complexity-predicts-chem-grades.md) — related
 - [BIOME's association with CHEM 1A grades and on-time CHEM 1B enrollment does not differ significantly by student ethnicity](biome-no-differential-ethnicity-benefit.md) — related
 - [BIOME enrollment is associated with higher CHEM 1A final grades of about 0.19 GPA points after covariate adjustment and propensity score matching](biome-higher-chem-1a-grades.md) — related
+- [Near-peers are participants at least one academic year apart; interdisciplinary same-year programmes should be treated as near-peer](near-peer-definition-academic-year-apart.md) — related

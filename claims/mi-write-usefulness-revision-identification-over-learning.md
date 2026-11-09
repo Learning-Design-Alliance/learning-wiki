@@ -52,3 +52,4 @@ Descriptive statistics from the same survey of middle school students. Students 
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students tended to make more edits than substantive revisions when responding to MI Write's automated feedback](more-edits-than-revisions-mi-write.md) — related
 - [Residents found the curriculum's grading rubrics helpful and reported knowing how to improve after graded feedback](rubric-feedback-helped-residents-know-how-to-improve.md) — related
+- [Students reported that assigning certainty ratings to MCQ answers made them aware of what they know and do not know and assisted in identifying knowledge gaps](crmcq-student-survey-awareness-gaps.md) — related

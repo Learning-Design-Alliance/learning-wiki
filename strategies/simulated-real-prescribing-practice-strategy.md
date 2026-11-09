@@ -44,6 +44,7 @@ The authors recommend, in line with the EACPT, four concrete improvements to pha
 
 - [Change undergraduate clinical pharmacology and therapeutics education to improve the prescribing competencies of future doctors](reform-undergraduate-cpt-education-prescribing.md)
 - [Implement SDM EPAs through longitudinal workplace training integrated with EBM curricula and supervisor role modeling](longitudinal-workplace-training-sdm-epas-strategy.md)
+- [Increase active prescribing practice during undergraduate training, including writing prescriptions during clinical clerkships](increase-active-prescribing-practice-strategy.md)
 
 ## Examples
 -

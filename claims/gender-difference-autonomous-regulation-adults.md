@@ -57,3 +57,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 - [Men scored higher than women on academic hope subscales and academic motivation in this sample](men-higher-hope-descriptives.md) — related
 - [Women PA students show higher ethnocultural empathy and lower colorblindness and depersonalization than men](gender-differences-empathy-colorblindness-burnout.md) — related
 - [Male students report higher commitment to active learning than female students, with no grade difference](gender-difference-commitment-active-learning.md) — related
+- [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite
