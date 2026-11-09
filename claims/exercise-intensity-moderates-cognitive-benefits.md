@@ -87,3 +87,4 @@ Narrative review describing a treadmill-walking study in individuals with Down s
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — reports the opposite
 - [Resistance exercise outperforms aerobic exercise on Stroop Test cognition but not on math performance](resistance-beats-aerobic-on-stroop-not-math.md) — related
+- [Both cognitively engaging PA break programs (combo and cognition) improve children's mathematics performance more than an aerobic PA break program](cognitively-engaging-pa-breaks-improve-math.md) — related

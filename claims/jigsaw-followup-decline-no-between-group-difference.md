@@ -77,3 +77,4 @@ Dependent t test within the jigsaw group (n=23) one month after instruction; the
 - [Both intervention groups showed significant performance decline from one week to one month post-intervention](both-groups-decline-one-month.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — related
+- [The flipped classroom advantage in EBN knowledge disappears by one month after the course](flipped-classroom-knowledge-advantage-fades-one-month.md) — related

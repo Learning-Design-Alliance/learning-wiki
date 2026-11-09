@@ -16,12 +16,14 @@ sources:
     author: Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Free-text feedback: most students found the OSS realistic, while SPs mainly raised practical issues such as heat and clothing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan. (2019). Is an obesity simulation suit in an undergraduate medical communication class a valuable teaching tool? A cross-sectional proof of concept study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029738
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Qualitative context analysis of free-text questions in the same survey. A second line reports "SPs mainly (75%) made specific comments regarding the practicability of the OSS", including matching clothing style to the storyline and improving clothing for quicker changes.
 

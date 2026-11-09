@@ -49,3 +49,4 @@ Exploratory subscale analysis in the randomized trial; "differed significantly b
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — related
 - [No difference in perceived workload between Visual Clot and ROTEM temograms in high-fidelity simulation](visual-clot-no-workload-difference-simulation.md) — related
+- [Gamified driving interventions may reduce unsafe driving by reducing boredom, but visual cues can increase cognitive workload and slow reaction times](gamification-reduces-boredom-visual-cues-workload.md) — related

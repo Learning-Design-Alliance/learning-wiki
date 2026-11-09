@@ -16,12 +16,14 @@ sources:
     author: Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived autonomy-supportive teaching positively predicts students' basic psychological need satisfaction in physical education classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong. (2019). Autonomy-Supportive Teaching and Basic Psychological Need Satisfaction among School Students: The Role of Mindfulness. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16142599
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Cross-sectional survey of 390 Hong Kong secondary students (Mage = 15) in PE classes; multiple regression with age and gender covariates. Autonomy-supportive teaching was a significant predictor, "β = 0.55, p < 0.001". No standardized effect size beyond β is printed.
 

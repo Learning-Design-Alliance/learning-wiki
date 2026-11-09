@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 183 claims (111 for, 68 mixed, 4 against) · 118 studies (69 causal, 19 quant-synthesis, 13 review, 7 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 118 report an effect size · 175 claims rest on one study
+> **Evidence** · 188 claims (114 for, 69 mixed, 5 against) · 121 studies (72 causal, 19 quant-synthesis, 13 review, 7 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 121 report an effect size · 180 claims rest on one study
 
 ## Conditional relationship
 
@@ -224,6 +224,11 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](../claims/fc-ebm-open-ended-feedback-ebook-case-discussion.md) [~W] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Streamline lecture content into short interactive eBook units for pre-class self-study when flipping an EBM course".
 - [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](../claims/flipped-classroom-two-thirds-preference-physiotherapy.md) [~M] — attached 2026-11-08 from Røe Y et al. (2019), which proposed "Flipped classroom design combining pre-class digital resources with full-day collaborative problem-based seminars".
 - [Students used the online lectures far more than the assigned readings, citing lack of time as the main barrier](../claims/lecture-use-high-reading-use-low.md) [~W] — attached 2026-11-08 from Sohn Sangho et al. (2019), which proposed "Restructure pre-existing curricular components in parallel when introducing a flipped classroom".
+- [The flipped classroom advantage in EBN knowledge disappears by one month after the course](../claims/flipped-classroom-knowledge-advantage-fades-one-month.md) [~W] — attached 2026-11-09 from Chu Tsung-Lan et al. (2019), which proposed "Extend flipped classroom intervention duration to improve long-term retention of EBN knowledge"; tests this page's relationship.
+- [Students taught with a flipped classroom methodology obtained higher quantitative exam grades than students taught with lecture-based learning in a social work university course](../claims/flipped-classroom-higher-quantitative-exam-grades-social-work.md) [+W] — attached 2026-11-09 from Oliván Blázquez Bárbara et al. (2019), which proposed "Use flipped classroom methodology to improve academic performance in social work university education"; tests this page's relationship.
+- [The flipped classroom group obtained better qualitative exam grade distributions, with more merit and outstanding grades and fewer failures, than the lecture-based group](../claims/flipped-classroom-better-qualitative-grade-distribution-social-work.md) [+W] — attached 2026-11-09 from Oliván Blázquez Bárbara et al. (2019), which proposed "Use flipped classroom methodology to improve academic performance in social work university education"; tests this page's relationship.
+- [Short-term learning was significantly worse in the flipped classroom group on two of the five topics, contrary to the initial prediction](../claims/flipped-classroom-worse-short-term-learning-topics-3-4.md) [-W] — attached 2026-11-09 from Oliván Blázquez Bárbara et al. (2019), which proposed "Use flipped classroom methodology to improve academic performance in social work university education"; tests this page's relationship.
+- [Laymen who received web-based education on cardiovascular disease before BLS training achieved a significantly higher total score for practical skills six months after training than those receiving BLS training alone](../claims/web-cvd-education-higher-bls-retention-score.md) [+W] — attached 2026-11-09 from Bylow Helene et al. (2019), which proposed "Offer improved web-based education on cardiovascular disease before public BLS training as an appropriate addition to BLS learning activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

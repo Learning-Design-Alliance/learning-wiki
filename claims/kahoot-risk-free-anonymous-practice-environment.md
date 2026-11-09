@@ -16,12 +16,14 @@ sources:
     author: Felszeghy Szabolcs, Pasonen-Seppänen Sanna, Koskela Ali, Nieminen Petteri, Härkönen Kai, Paldanius Kaisa M. A., Gabbouj Sami, Ketola Kirsi, Hiltunen Mikko, Lundin Mikael, Haapaniemi Tommi, Sointu Erkko, Bauman Eric B., Gilbert Gregory E., Morton David, Mahonen Anitta
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Felszeghy Szabolcs, Pasonen-Seppänen Sanna, Koskela Ali, Nieminen Petteri, Härkönen Kai, Paldanius Kaisa M. A., Gabbouj Sami, Ketola Kirsi, Hiltunen Mikko, Lundin Mikael, Haapaniemi Tommi, Sointu Erkko, Bauman Eric B., Gilbert Gregory E., Morton David, Mahonen Anitta. (2019). Using online game-based platforms to improve student performance and engagement in histology teaching. BMC Medical Education. https://doi.org/10.1186/s12909-019-1701-0
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Self-report survey item from the 160-respondent end-of-course questionnaire. The article reports "Eighty-three percent of students reported that this platform created a risk-free anonymous environment" for practicing and reviewing histology concepts.
 

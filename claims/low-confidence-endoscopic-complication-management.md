@@ -52,3 +52,5 @@ Self-reported confidence ratings from the cross-sectional survey, visualized in 
 - [Although 65.0% of early-career bariatric surgeons currently perform endoscopies, annual procedural volumes remain low](low-endoscopic-practice-volume-young-surgeons.md) — related
 - [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related
 - [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related
+- [Physicians report not integrating evidence-based obesity guidelines, citing deficiencies in knowledge, skills, and confidence](physicians-lack-obesity-management-confidence.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

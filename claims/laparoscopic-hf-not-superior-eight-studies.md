@@ -50,3 +50,5 @@ Synthesis of the eight laparoscopic surgery studies among the 17 reviewed, with 
 - [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — reports the opposite
 - [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — reports the opposite
 - [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related
+- [HF group participants overrated their performance and confidence relative to LF participants despite comparable or inferior outcomes](hf-simulation-induces-overconfidence.md) — related
+- [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — a narrower finding that bears on this claim

@@ -59,3 +59,4 @@ Cross-sectional partial correlation analysis of 713 adolescents, adjusted for ag
 - [Aerobic fitness (Yo-Yo IR1) is positively correlated with mathematics and science GPA in schoolchild handball players](aerobic-fitness-yoyo-positively-correlated-academic-gpa.md) — a narrower finding that bears on this claim
 - [Cardiorespiratory fitness is positively associated with general intelligence in adolescents on both the D48 and Raven tests, adjusting for sex and age](crf-associated-with-intelligence-adolescents.md) — related
 - [Students classified as fit show better academic achievement than unfit students across fitness components](fit-vs-unfit-groups-academic-achievement.md) — related
+- [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related

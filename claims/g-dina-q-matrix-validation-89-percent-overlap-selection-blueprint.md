@@ -51,3 +51,4 @@ Q-matrix validation analysis of all 547 second-round applicants in the 2016 sele
 - [Test-level classification accuracy was moderate for the V-SJT (0.72) but very low for the WAT (0.20), while attribute-level accuracies were acceptable for both tests.](test-level-accuracy-vs-attribute-level-accuracy-selection-tests.md) — related
 - [Time pressure affected performance on the last items of both selection tests and was subsequently included as a construct in the G-DINA analyses.](time-pressure-effect-final-selection-items.md) — related
 - [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](qmatrix-validation-low-change-rate.md) — related
+- [Medical students score significantly higher than flight school applicants on adherence to procedures and communication](medical-students-adherence-communication-higher.md) — related

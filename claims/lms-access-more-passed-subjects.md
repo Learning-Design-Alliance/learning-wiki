@@ -16,18 +16,22 @@ sources:
     author: Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: fernández-soriano-francisco-luis-2019-2
     resource: "https://doi.org/10.3390/s19143226"
     title: "Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226"
     author: Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students who ever log into the LMS pass significantly more subjects than students who never connect, in every educational stage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Inferential Mann-Whitney analysis comparing students who ever logged into the LMS with those who never logged in, across all stages and each stage separately; all four tests returned p = 0.0, the article concluding there are "significant differences with a 95% confidence level in the number of subjects passed".
 
@@ -50,7 +54,7 @@ Inferential Mann-Whitney analysis comparing students who ever logged into the LM
 
 Fernández-Soriano Francisco Luis, López Belén, Martínez-España Raquel, Muñoz Andrés, Cantabella Magdalena. (2019). Use of Computing Devices as Sensors to Measure Their Impact on Primary and Secondary Students' Performance. Sensors (Basel, Switzerland). https://doi.org/10.3390/s19143226
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis of the whole sample (Table 3) reports connectors "have an average of 9.27 passed subjects and 1.1 failed subjects" (SD 2.26 and 1.75), while students who never logged on show lower passed and higher failed means.
 

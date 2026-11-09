@@ -50,3 +50,4 @@ Unannounced six-month follow-up scenario with investigators blinded to prior gro
 - [PBL with high-fidelity simulation produces a significantly lower percentage of hands-off time during CPR, retained at six months](pbl-simulation-lower-hands-off-time-retained.md) — related
 - [PBL with high-fidelity simulation shortens time to the first ten consecutive sufficient compressions in the short term only](faster-first-ten-sufficient-compressions-short-term.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
+- [The authors attribute the simulation group's CPR performance advantage to real-time feedback and immersion fidelity (authors' interpretation, not a tested result)](realtime-feedback-attribution-interpretation.md) — related

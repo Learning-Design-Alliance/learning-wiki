@@ -16,18 +16,22 @@ sources:
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: zafar-zonobia-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1683-y"
     title: "Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y"
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Midwives were almost five times more likely than doctors to meet all 10 key counseling requirements, and complete counseling was linked to client satisfaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Analysis of structured client interviews about counseling sessions with trained providers. Midwives were "almost five times more likely than doctors to meet all 10 key requirements during PPIUD counseling sessions (63.9% versus 13.3%, p = 0.004)".
 
@@ -50,7 +54,7 @@ Analysis of structured client interviews about counseling sessions with trained 
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of client-reported satisfaction by counseling completeness in the same interview data. When "all 10 counseling requirements were met, clients were significantly more likely to be satisfied with the counseling (94% versus 52%, p < 0.05)".
 

@@ -16,12 +16,14 @@ sources:
     author: Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Examiners showed no systematic differences between their live and video-based scoring of the same OSCE performances
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yeates P, Cope N, Hawarden A, Bradshaw H, McCray G, Homer M. (2019). Developing a video‐based method to compare and adjust examiner effects in fully nested OSCEs. Medical Education, 53(3), 250–263. https://doi.org/10.1111/medu.13783
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Agreement analysis of 20 performances scored live and by video (~2.5 hours apart) by the same examiners, using Bland–Altman plots for global and percentage scores. "no obvious bias regarding the size or direction of the difference with change in underlying value"; equivalence was not formally tested.
 

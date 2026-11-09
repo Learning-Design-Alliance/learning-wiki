@@ -62,3 +62,4 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](practice-based-vad-training-superior-retention.md) — related
 - [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — a narrower finding that bears on this claim
 - [Most laypersons felt capable of performing BLS/AED three months after course completion irrespective of teaching technique](bls-aed-self-confidence-retained-three-months.md) — related
+- [Both self-training modalities improved CPR theoretical and practical scores from baseline](both-modalities-improve-cpr-scores.md) — related

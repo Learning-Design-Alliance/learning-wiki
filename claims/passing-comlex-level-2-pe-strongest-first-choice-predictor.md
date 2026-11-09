@@ -16,12 +16,14 @@ sources:
     author: Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C.
     q: 3
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Passing COMLEX Level 2 PE on first attempt is the strongest predictor of matching into first-choice residency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C. (2019). Student academic performance factors affecting matching into first-choice residency and competitive specialties. BMC Medical Education. https://doi.org/10.1186/s12909-019-1669-9
 
-`q3 · i2`
+`q3 · i2` · `associational · r2`
 
 Binary logistic regression on the retrospective cohort of 1726 graduates. The article reports "passing increased the odds of a match into first choice by 232% when considered alone, and by 268%" when adjusted (OR = 3.68, 95% CI = (1.2, 11.28)).
 

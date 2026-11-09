@@ -48,3 +48,4 @@ The review attributes this to the EBUSAT study (Konge et al.): "training using a
 - [Meta-analytic evidence cited by the review finds simulation-trained medical students outperformed traditionally trained peers in technical and non-technical skills assessments](meta-analysis-sbt-outperforms-traditional-training.md) — a broader claim this one bears on
 - [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related
 - [Sandwich feedback-based training produces higher observed perioperative performance (DOPS) than traditional training](sandwich-feedback-higher-dops-performance.md) — related
+- [VR simulation is not effective as a replacement for conventional endoscopy teaching](vr-sbt-not-a-replacement-for-conventional-teaching.md) — reports the opposite

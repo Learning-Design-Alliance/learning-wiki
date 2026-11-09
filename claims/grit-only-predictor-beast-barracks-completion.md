@@ -16,12 +16,14 @@ sources:
     author: "Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Grit is the only reliable pretraining predictor of completing Beast Barracks initiation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D. (2019). Cognitive and noncognitive predictors of success. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1910510116
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Binary logistic regression on Beast Barracks completion across 9 cohorts, with predictors standardized and demographic covariates included; significance threshold P = 0.01. Grit's "54% greater odds" contrasted with non-reliable effects of cognitive ability (OR = 1.06, P = 0.33) and physical ability (OR = 1.08, P = 0.14).
 

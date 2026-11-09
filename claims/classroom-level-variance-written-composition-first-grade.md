@@ -60,3 +60,4 @@ Baseline multilevel models fitted to partition variance in written composition o
 - [Most variability in reading outcomes was between pupils rather than between schools, with school-level heterogeneity explaining 8% (NGRT), 16% (SWRT) and 2% (PhAB) of total variability](butterfly-phonics-school-variability-icc.md) — related
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
+- [Fourteen percent of variance in academic achievement is attributable to differences between classrooms](classroom-level-achievement-variance-14-percent.md) — related

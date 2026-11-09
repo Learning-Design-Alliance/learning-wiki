@@ -55,3 +55,4 @@ Cluster-randomized controlled trial with 932 children in four quintile-3 South A
 - [Sex, hemoglobin level, age, and baseline scores were significant predictors of cognitive and academic outcomes](kazifya-sex-hb-baseline-predictors.md) — related
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — a broader claim this one bears on
+- [The intervention effect on Flanker incongruent-trial accuracy was modified by gender, with boys showing greater improvement](gender-interaction-flanker-accuracy-boys.md) — related

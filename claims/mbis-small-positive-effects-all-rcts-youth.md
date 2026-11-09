@@ -94,3 +94,4 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
 - [Two small pilot RCTs measuring resilience with validated scales reported significant improvement](pilot-rcts-significant-resilience-gains.md) — related
 - [Culture-based activities reduce student anxiety and stress](culture-activities-reduce-anxiety.md) — a narrower finding that bears on this claim
+- [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — a narrower finding that bears on this claim

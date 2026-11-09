@@ -16,12 +16,14 @@ sources:
     author: Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Where SBMT is used in Italian paediatric residencies it focuses on procedures and skills, with debriefing least common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Binotti Marco, Genoni Giulia, Rizzollo Stefano, De Luca Marco, Carenzo Luca, Monzani Alice, Ingrassia Pier Luigi. (2019). Simulation-based medical training for paediatric residents in Italy: a nationwide survey. BMC Medical Education. https://doi.org/10.1186/s12909-019-1581-3
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey results on current SBMT use. The article adds that SBMT was used for assessment of resuscitation skills in 15% of residents, and only 5% had been trained in teaching simulation and 1% had done research in the field.
 

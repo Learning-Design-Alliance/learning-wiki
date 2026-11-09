@@ -68,6 +68,7 @@ Emotions are not noise around cognition; they are part of it. Control-value theo
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 - [Communicate course structure and expectations early to support students' self-efficacy at course start](early-structure-communication-supports-self-efficacy.md)
 - [Support low-efficacy and socially anxious students with low-stakes mastery-focused assignments and by mitigating anxiety-exacerbating classroom features](low-stakes-mastery-assignments-support-anxious-students.md)
+- [Address student expectations of passive instruction early in the semester to promote buy-in](address-passive-expectations-early-buy-in-strategy.md)
 
 ## Examples
 - **Organic chemistry gateway course.** The instructor opens by acknowledging that many students arrive anxious, presents data on how prior students' grades improved after the first exam regardless of first-week performance, and describes the specific study strategies that worked — combining validation with an attributional reframe and a concrete pathway.

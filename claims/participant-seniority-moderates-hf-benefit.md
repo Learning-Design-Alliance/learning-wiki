@@ -71,3 +71,4 @@ Subgroup analysis of skill performance by participant seniority (Supplement 5). 
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
 - [Residents with three or more years of training outperformed first-two-year residents in the Opioid Side Effects domain, but not overall](senior-residents-better-opioid-side-effects-domain.md) — related
 - [Simulation-based training benefits are greater for residents under 26 years old](simulation-benefit-younger-residents-under-26.md) — related
+- [HF and LF simulation training produce equivalent gains in theoretical ALS knowledge in fourth-year medical students](hf-lf-simulation-equivalent-knowledge-gains.md) — related

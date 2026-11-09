@@ -48,3 +48,4 @@ Micro-costing analysis (four-step approach) based on the observed median 6 attem
 - [Novices reach the minimum passing LISA-AT score of 39/40 in a median of 6 attempts (range 4–9) within one 90-minute simulation session with per-attempt feedback](lisa-at-mastery-six-attempts.md) — related
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
 - [Running the AI role-play cost $USD 13.17 for a 20-minute activity with just over 20 students, corresponding to 408 API requests](ai-roleplay-token-cost-feasibility.md) — related
+- [VP operating cost per hour is low (USD 12) compared with high-fidelity simulators and standardized patients](vp-low-cost-per-hour.md) — related

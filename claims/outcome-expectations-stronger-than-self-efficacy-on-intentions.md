@@ -51,3 +51,4 @@ Path analysis results (Fig. 2) in the 144-participant sample: self-efficacy infl
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — a broader claim this one bears on
 - [Learning interest significantly influences social science learning outcomes of elementary students](learning-interest-influences-social-science-outcomes.md) — related
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related
+- [In the SEM model, learning strategies had the greatest direct effect on CGPA among the three SCCT variables](sem-learning-strategies-greatest-effect-cgpa.md) — related

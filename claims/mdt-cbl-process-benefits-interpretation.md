@@ -57,3 +57,4 @@ Authors' interpretation (type e) from the Discussion, not a tested result: the a
 - [Urologists teaching imaging content themselves may cover it less thoroughly than dedicated radiologists or ultrasonographers, motivating the MDT model](urologist-imaging-teaching-limitation-motivation.md) — related
 - [The article argues, on theoretical grounds, that PBL + CBL stimulates motivation, judgment, collaboration, and interdisciplinary integration in lymphoma training](pbl-cbl-theoretical-advantages-lymphoma.md) — related
 - [Asking students to engage in prior learning before CBL is likely to enhance their confidence to participate](prior-learning-enhances-confidence-cbl.md) — related
+- [The authors interpret the pattern of gains as showing students benefited most from practicing the SVI testing format rather than from gaining knowledge](svi-format-practice-benefited-most.md) — related

@@ -16,6 +16,8 @@ sources:
     author: Bully P., Jaureguizar J., Bernaras E., Redondo I.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bully-p-2019-2
     resource: "https://doi.org/10.3390/ijerph16122231"
     title: "Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231"
@@ -29,7 +31,7 @@ sources:
 # School maladjustment correlates negatively with academic performance, ESI correlates positively with school maladjustment, and most correlation magnitudes are higher among males
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -42,7 +44,7 @@ sources:
 
 Bully P., Jaureguizar J., Bernaras E., Redondo I. (2019). Relationship between Parental Socialization, Emotional Symptoms, and Academic Performance during Adolescence: The Influence of Parents’ and Teenagers’ Gender. International Journal of Environmental Research and Public Health, 16(12), 2231. https://doi.org/10.3390/ijerph16122231
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Bivariate correlational analysis of the main variables in the full sample, reported before controlling for other variables: "in the case of SM and academic performance, moderate, albeit negative, correlation coefficients were found".
 

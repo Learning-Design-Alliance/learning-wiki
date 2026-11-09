@@ -51,6 +51,7 @@ The authors recommend integrating the six shared competencies into interprofessi
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
 - [Integrate empirically sound communication concepts into health professions curricula instead of induction](integrate-empirical-communication-concepts.md)
+- [Guide integration of EPRs into undergraduate healthcare programmes using the six domains along a loose-to-tight coupling continuum](epr-curriculum-integration-coupling-continuum.md)
 
 ## Examples
 -

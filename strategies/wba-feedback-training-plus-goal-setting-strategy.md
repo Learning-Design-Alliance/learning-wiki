@@ -56,6 +56,7 @@ The article's actionable implementation steps for workplace-based assessment pro
 - [Combine Mini-CEX and DOPS workplace assessments with feedback at repeated time points during community outpatient training](minicex-dops-combined-repeated-feedback-strategy.md)
 - [Participatory supervisor and learner training on WBA purpose and feedback, within a trainee-focused relationship-centred teaching style](participatory-supervisor-learner-wba-training-strategy.md)
 - [Targeted supervisor education on supporting trainee SRL and improving feedback quality in formative workplace assessment](supervisor-education-supporting-trainee-srl.md)
+- [Provide structured training for clinical teachers and Mini-CEX assessors in specific, student-centred feedback](structured-assessor-training-specific-student-centred-feedback.md)
 
 ## Examples
 -

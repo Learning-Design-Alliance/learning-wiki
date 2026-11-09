@@ -47,3 +47,4 @@ Interrater reliability analysis of NOTSS ratings using a 2-way mixed consistency
 
 ## Related Claims
 - [Interrater reliability of QASSH ratings is moderate to good for most measures but low (ICC 0.21) for the high-quality procedural simulation scenario](qassh-interrater-icc-low-one-measure.md) — related
+- [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related

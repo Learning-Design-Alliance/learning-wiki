@@ -53,3 +53,4 @@ Same randomized cross-over simulation study (65 trainee doctors, 2-min compressi
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Pre-training compression frequency and depth averages fell within AHA ranges, but quality was inadequate because the two parameters rarely occurred simultaneously](compression-frequency-depth-within-range-but-quality-inadequate.md) — related
 - [The most frequent CPR training mistake in the sample was compressing the chest too fast, with a mean compression rate of 121.59 per minute, slightly above guideline range](most-common-mistake-compressing-too-fast.md) — related
+- [No statistically significant difference between simulation and standard training groups in compression rate or chest recoil](no-difference-compression-rate-recoil.md) — related

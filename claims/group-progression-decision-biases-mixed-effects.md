@@ -16,24 +16,30 @@ sources:
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: tweed-m-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1583-1"
     title: "Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1"
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: tweed-m-2019-3
     resource: "https://doi.org/10.1186/s12909-019-1583-1"
     title: "Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1"
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Group decision-making attenuates, amplifies, and reproduces individual biases with no consistent pattern, and consensus discussion is likely to lower candidate scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · review `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -47,7 +53,7 @@ sources:
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Narrative synthesis in Table 1 and accompanying text comparing individual and group decision biases (framing, preference reversal, sunk costs, extra-evidentiary, hindsight, base-rate, representativeness, overconfidence), with mixed group effects reported per bias.
 
@@ -57,7 +63,7 @@ Narrative synthesis in Table 1 and accompanying text comparing individual and gr
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Argument from group decision-making in assessment centres: 'consensus discussion is likely to lower candidate scores and therefore reduce the pass rate', an asymmetric influence during discussion of candidate assessment.
 
@@ -67,7 +73,7 @@ Argument from group decision-making in assessment centres: 'consensus discussion
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Argument that when people work collectively, social interactions and perceived power differentials influence individual estimates, so the apparent reassurance that groups make better decisions may be misplaced for narrative data or collective decisions.
 

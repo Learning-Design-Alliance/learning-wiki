@@ -54,3 +54,4 @@ We got bored as we conducted some of the experiments in the previous laboratory 
 - [Students also reported disadvantages of the jigsaw technique, most often that it is time consuming and boring](student-reported-jigsaw-disadvantages-time-consuming.md) — related
 - [Students in jigsaw learning groups report that teaching others helps them learn more and retain knowledge longer.](teaching-others-enhances-learning-retention-jigsaw.md) — related
 - [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related
+- [Students valued individual presentations in the tutorial as a good idea but mostly declined to give them because preparation was too time-consuming](individual-presentations-valued-but-skipped-time-cost.md) — related

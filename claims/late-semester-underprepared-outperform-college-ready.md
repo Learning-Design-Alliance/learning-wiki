@@ -52,3 +52,4 @@ Independent-sample t-test on Group 3 common questions (Chapters 8, 9, and 10) gi
 - [Underprepared students scored significantly lower on early-semester common questions, validating their need for support](early-semester-underprepared-lower-scores.md) — related
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — a broader claim this one bears on
+- [PBL performance improved significantly across the semester in Strong-CT students but not in Weak-CT students](pbl-improvement-strong-ct-only.md) — related

@@ -76,6 +76,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Implement educational programmes that enrich university class dynamics so students feel more motivated and can channel academic stress positively](enrich-class-dynamics-programmes-stress-motivation.md)
 - [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
 - [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
+- [Select, train and supervise peer tutors with attention to stressors and protective traits](tutor-selection-training-supervision-stress-prevention.md)
 
 ## Examples
 -

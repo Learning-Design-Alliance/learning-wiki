@@ -16,12 +16,14 @@ sources:
     author: Lee Dong Seok, Ahn Ji Yong, Lee Gin Hyug
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Beginners' simulator procedure times shorten significantly with repeated trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lee Dong Seok, Ahn Ji Yong, Lee Gin Hyug. (2019). A Newly Designed 3-Dimensional Printer-Based Gastric Hemostasis Simulator with Two Modules for Endoscopic Trainees (with Video). Gut and Liver. https://doi.org/10.5009/gnl18389
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Learning-effect analysis measuring procedure times five times per group in the simulator test. The article states the beginner group's time "became shorter with repetition and was significantly lower by the fifth trial", with Table 2 showing hemoclipping times falling from 116.1±15.3 to 30.5±4.1 seconds.
 

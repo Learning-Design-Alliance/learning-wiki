@@ -16,12 +16,14 @@ sources:
     author: Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Postoperative hospital stay was shorter in trainee cases than consultant cases, reflecting case mix rather than trainee performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jabbar Salman AA, Ahmed Z, Mirza A, Nassar AHM. (2019). Laparoscopic Training Opportunities in an Emergency Biliary Service. JSLS: Journal of the Society of Laparoendoscopic Surgeons. https://doi.org/10.4293/JSLS.2019.00031
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Secondary outcome in the same series: Table 4 reports postoperative stay of 4.44 days (consultant) versus 2.87 days (trainee), i-test P = .0025. The article attributes the difference to "the higher percentage of complex cases and those undergoing duct explorations" in the consultant cohort.
 

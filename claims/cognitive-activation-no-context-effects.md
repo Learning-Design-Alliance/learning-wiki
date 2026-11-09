@@ -50,3 +50,4 @@ Multilevel regression context-effect analyses on the TALIS 2018 Austrian sample.
 - [Schools with higher collective efficacy show stronger associations with self-reported instructional quality at the school level than at the teacher level](school-level-collective-efficacy-stronger-associations.md) — related
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](teacher-level-self-efficacy-instructional-quality-association.md) — related
 - [The relationship between teacher self-efficacy and self-reported cognitive activation does not vary across investigated school characteristics](no-cross-level-interactions-cognitive-activation.md) — related
+- [Teachers' self-efficacy shows no relationship with students' performance in a biology teaching-unit study](teacher-self-efficacy-no-relationship-student-performance.md) — related

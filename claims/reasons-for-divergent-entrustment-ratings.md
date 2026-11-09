@@ -48,3 +48,4 @@ Qualitative analysis of comment data from the 12 most discrepant low-rating pair
 ## Related Claims
 - [Trainee-supervisor rating agreement improves as supervisor ratings rise, with lower-rated trainees more likely to over-rate themselves](rating-agreement-improves-with-higher-supervisor-rating.md) — related
 - [No significant correlation between demographic variables and the trainee-supervisor rating difference](no-demographic-correlation-with-rating-difference.md) — related
+- [A small subgroup of managers rated themselves more than two standard deviations above their supervisors' ratings, suggesting overconfidence](self-assessment-overconfidence-subgroup.md) — related

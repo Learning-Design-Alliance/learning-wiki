@@ -12,7 +12,7 @@ generated:
 # Adolescent Brain Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (7 for, 6 mixed, 1 against) · 11 studies (5 associational, 4 review, 2 causal), `q2`–`q3` · 3 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 12 studies (6 associational, 4 review, 2 causal), `q2`–`q3` · 3 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 The adolescent brain undergoes substantial restructuring between roughly ages 10 and 25, and the *sequence* of that restructuring — not just its extent — has direct implications for how adolescents learn, take risks, and regulate emotion. The **limbic system**, which governs reward-seeking and emotional response, matures years ahead of the **prefrontal cortex**, which governs executive functions such as impulse control, planning, emotion regulation, and sustained attention. Steinberg (2008) describes this as "a powerful engine before the braking system is in place" — adolescents have an adult-level capacity for reward-seeking and emotional intensity well before they have an adult-level capacity to regulate it.
@@ -52,6 +52,7 @@ Executive functions — impulse control, cognitive flexibility, working memory, 
 - [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](../claims/screen-time-less-efficient-cognitive-control-adolescence.md) [-W]
 - [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](../claims/sex-specific-inhibition-coupling-development.md) [~W]
 - [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](../claims/vs-activation-peaks-mid-adolescence.md) [~W]
+- [Findings from adolescent girls' diligence are mostly inconsistent with the dual-systems hypothesis of adolescent self-control](../claims/dual-systems-hypothesis-not-supported-for-diligence.md) [-W] — attached 2026-11-09 from Fuhrmann Delia et al. (2019), which proposed "Dual-systems hypothesis of adolescent development: early-maturing striatal reward systems versus protracted frontal control systems"; tests this page's relationship.
 
 ## Related Theories
 

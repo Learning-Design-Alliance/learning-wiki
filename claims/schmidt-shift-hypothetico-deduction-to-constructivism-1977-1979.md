@@ -16,12 +16,14 @@ sources:
     author: Servant-Miklos, V. F. C.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Schmidt abandoned hypothetico-deduction between his 1977 and 1979 papers, coming to view hypothesis generation as automatic and untrainable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Servant-Miklos, V. F. C. (2018). Problem solving skills versus knowledge acquisition: the historical dispute that split problem-based learning into two camps. Advances in Health Sciences Education, 24(3), 619–635. https://doi.org/10.1007/s10459-018-9835-0
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Documentary comparison of the two papers, supported by Table 1, which contrasts the information-processing content of the 1977 paper (Barrows and Tamblyn's clinical reasoning model) with the constructivist content of the 1979 paper (Ausubel, Kelly, De Groot).
 

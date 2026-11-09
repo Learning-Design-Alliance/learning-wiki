@@ -56,3 +56,4 @@ Mixed-effect regression with Bonferroni post hoc correction across 160 adolescen
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
 - [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related
 - [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — related
+- [Gamified driving interventions may reduce unsafe driving by reducing boredom, but visual cues can increase cognitive workload and slow reaction times](gamification-reduces-boredom-visual-cues-workload.md) — a narrower finding that bears on this claim

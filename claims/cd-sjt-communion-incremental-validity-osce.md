@@ -50,3 +50,4 @@ Hierarchical regression on the high-stakes sample (nHS = 160): covariates (GPA, 
 - [After correcting for range restriction, the HAM-SJT's relation to OSCE Interaction performance in the high-stakes sample rises to r = .20, comparable to the communal scale](ham-sjt-range-restriction-corrected-osce.md) — related
 - [No SJT scale correlated significantly with OSCE performance in the low-stakes sample](sjt-osce-null-low-stakes.md) — related
 - [The agentic scale of the CD-SJT was unrelated to OSCE performance in both samples](cd-sjt-agency-unrelated-osce.md) — related
+- [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related

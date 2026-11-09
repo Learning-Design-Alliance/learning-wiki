@@ -67,3 +67,4 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Correct answers on AED/defibrillator questions rose from an average of 42.2% to 89.5% after the course, in one uncontrolled pre-post study](aed-question-gains-post-course.md) — related
 - [Intensive repeated practice over 3 days reduced Macintosh intubation failures to zero by day 3 on both manikins, indicating skill improvement with repeated performance](three-day-repeated-practice-reduces-intubation-failures.md) — related
 - [SBMT is the preferred method for teaching several emergency technical skills, including chest compressions and cardioversion/defibrillation](sbmt-preferred-method-emergency-technical-skills.md) — related
+- [Emergency medicine residents' quiz scores on defibrillator function improved from 60% to 84% after a lecture-plus-simulation intervention](simulation-improves-resident-defibrillator-quiz-scores.md) — related

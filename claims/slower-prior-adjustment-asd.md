@@ -54,3 +54,4 @@ Exp. III compared the accuracy-curve intercepts to the previous (30 Hz) versus c
 - [Massed exposure to a single frequency produces lasting suppression of detection at distant frequencies](massed-single-frequency-suppression.md) — related
 - [Sensory adaptation occurs in neurotypical but not autistic adults in tactile detection](no-sensory-adaptation-asd.md) — related
 - [Prior influence on perception is stronger in autistic than neurotypical adults in a stable context, but not after a frequency-range change](stronger-prior-influence-asd-stable-context.md) — related
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](sensory-overload-routine-change-university-autism.md) — related

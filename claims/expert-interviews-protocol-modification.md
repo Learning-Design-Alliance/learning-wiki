@@ -16,12 +16,14 @@ sources:
     author: Bae Juyeon, Lee JuHee, Jang Yeonsoo, Lee Yoonju
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Simulation education experts raised feasibility concerns about question load and learner case experience, leading to modification of the metacognition questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bae Juyeon, Lee JuHee, Jang Yeonsoo, Lee Yoonju. (2019). Development of simulation education debriefing protocol with faculty guide for enhancement clinical reasoning. BMC Medical Education. https://doi.org/10.1186/s12909-019-1633-8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In-depth interviews with 3 simulation education experts rechecked content validity and applicability of the preliminary protocol. Experts worried it "might be difficult to apply to learners who did not have many opportunities to practice in similar simulation cases"; metacognition questions were modified accordingly. No effect size printed.
 

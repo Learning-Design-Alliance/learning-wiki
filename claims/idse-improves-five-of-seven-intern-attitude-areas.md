@@ -16,12 +16,14 @@ sources:
     author: Bullard Mark J., Fox Sean M., Wares Catherine M., Heffner Alan C., Stephens Casey, Rossi Laura
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # IDSE-exposed interns showed statistically significant pre-post improvements in five of seven interdisciplinary attitude areas on a 10-point Likert survey
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bullard Mark J., Fox Sean M., Wares Catherine M., Heffner Alan C., Stephens Casey, Rossi Laura. (2019). Simulation-based interdisciplinary education improves intern attitudes and outlook toward colleagues in other disciplines. BMC Medical Education. https://doi.org/10.1186/s12909-019-1700-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quasi-experimental pre-post survey of 60 IDSE interns (58 paired) using a novel 10-point Likert instrument; mean changes with p-values as printed, e.g. comfort "x̅ = 1.164; p < 0.0001". No standardized effect sizes were printed, so impact is coded i? (no magnitude reported; not a null effect).
 

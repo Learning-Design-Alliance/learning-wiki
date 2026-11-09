@@ -72,3 +72,4 @@ The same study found a significant difference on the vocabulary sub-section of t
 - [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — a broader claim this one bears on
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
+- [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related

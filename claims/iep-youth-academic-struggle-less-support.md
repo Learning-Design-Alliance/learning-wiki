@@ -58,3 +58,4 @@ The report's key findings state that "Youth with an IEP are more likely than you
 - [Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs](iep-youth-lag-postsecondary-planning.md) — related
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs](youth-disabilities-academic-struggle-fewer-postsecondary-steps.md) — related
+- [Most autistic students received institutional support, but some received none even when requested, and support often targeted academic rather than social needs](autistic-students-support-received-gaps.md) — related

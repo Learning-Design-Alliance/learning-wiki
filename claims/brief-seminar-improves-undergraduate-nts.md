@@ -16,12 +16,14 @@ sources:
     author: Moll-Khosrawi P, Kamphausen A, Hampe W, Schulte-Uentrop L, Zimmermann S, Kubitz JC
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Brief NTS teaching can improve undergraduates' non-technical skills, supporting structured NTS assessment as a foundation for undergraduate implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Moll-Khosrawi P, Kamphausen A, Hampe W, Schulte-Uentrop L, Zimmermann S, Kubitz JC. (2019). Anaesthesiology students’ Non-Technical skills: development and evaluation of a behavioural marker system for students (AS-NTS). BMC Medical Education. https://doi.org/10.1186/s12909-019-1609-8
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Background literature attributed to Hagemann et al.: the review-level statement reports that a single brief seminar improved undergraduates' NTS; this article did not itself test teaching effects and provides no effect size for the attributed result.
 

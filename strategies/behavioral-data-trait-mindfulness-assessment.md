@@ -44,6 +44,7 @@ The article recommends that future studies assessing trait mindfulness should co
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 - [Future studies of executive function and academic achievement in depressed adolescents should combine performance-based executive measures with questionnaires and interviews on coping, motivation, self-efficacy and perfectionism, and include educational attainment data](comprehensive-ef-academic-study-design-mdd-adolescents.md)
 - [Use observational methods (e.g., CLASS) alongside self-report to assess classroom efficacy and reduce shared method variance](observational-methods-assess-classroom-efficacy.md)
+- [Use motivation and study-strategy instruments specific to clinical practice when investigating clerkship learning](clinical-practice-motivation-questionnaire.md)
 
 ## Examples
 -

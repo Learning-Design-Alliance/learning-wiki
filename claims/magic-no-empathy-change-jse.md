@@ -54,3 +54,4 @@ Paired pre/post JSE comparison in the 152-participant quasi-experiment found no 
 - [Newly enrolled Medicine students scored significantly higher on empathy than students from Dentistry, Nursing, and Pharmacy in Singapore](medicine-freshmen-highest-empathy-singapore.md) — related
 - [Empathy scores increased significantly from pre to post after MOOC participation in health sciences undergraduates](mooc-prepost-empathy-increase.md) — related
 - [Video-based feedback on real consultations is associated with a significant group-by-time increase in residents' self-perceived empathy on the Jefferson Scale](vf-real-consultations-increases-self-perceived-empathy.md) — reports the opposite
+- [Role-playing empathy training significantly raises all three Jefferson Scale dimensions — perspective-taking, compassionate care, and standing in patient's shoes — versus control](empathy-training-raises-all-jse-dimensions.md) — related

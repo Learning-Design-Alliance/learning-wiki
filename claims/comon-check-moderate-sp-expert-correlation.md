@@ -49,3 +49,4 @@ External validity analysis using standardized patients' single-item 10-cm visual
 - [ComOn check item-total correlations range from 0.31 to 0.78 among significant items, with item A1 not significantly associated and the global rating correlating 0.91 with the sum score](comon-check-item-total-correlations.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [No statistical correlation was found between students' self-ratings and standardized patients' ratings at the individual level](no-individual-level-correlation-self-external-ratings.md) — related
+- [Standardized patients' global evaluation of intervention-group students improves significantly with a large effect (ES = 1.62)](sp-global-evaluation-improves-large-effect.md) — related

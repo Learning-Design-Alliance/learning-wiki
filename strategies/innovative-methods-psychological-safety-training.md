@@ -49,6 +49,8 @@ Mentors recommended moving beyond lectures toward experiential and technology-su
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
+- [Use role-playing as a teaching method for clinical-skills training of operating room nursing students and revise the curriculum to include empathy](role-playing-teaching-method-or-nursing-curriculum.md)
+- [Use the two-challenge rule to support nurses in respectfully asserting patient-safety concerns with physicians](two-challenge-rule-nurse-physician-communication.md)
 
 ## Examples
 -

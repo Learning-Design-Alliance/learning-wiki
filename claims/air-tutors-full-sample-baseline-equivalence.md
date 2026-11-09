@@ -58,3 +58,4 @@ Baseline balance analysis for the full analytic sample (1,049 treatment students
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — reports the opposite
 - [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related
 - [Propensity score matching on respondent characteristics shows significantly different mean outcomes between trained and untrained groups, mitigating selection bias](psm-mitigates-selection-bias.md) — related
+- [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related

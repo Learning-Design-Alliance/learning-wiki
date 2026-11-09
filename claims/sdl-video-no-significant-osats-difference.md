@@ -50,3 +50,4 @@ Single-blinded randomized controlled trial; 22 general surgery residents (11 per
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
 - [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related
+- [Self-directed learning and instruction-based learning produce equal knowledge and performance outcomes at the end of year two in physical therapy education](sdl-ibl-equal-study-outcomes-pt.md) — related

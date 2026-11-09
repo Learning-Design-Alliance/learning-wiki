@@ -16,12 +16,14 @@ sources:
     author: Azizi Seyyed Mohsen, Soroush Ali, Khatony Alireza
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Social networking addiction among the sampled medical sciences students was at a moderate level, with most students classified as moderately addicted
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Azizi Seyyed Mohsen, Soroush Ali, Khatony Alireza. (2019). The relationship between social networking addiction and academic performance in Iranian students of medical sciences: a cross-sectional study. BMC Psychology 7, 28. https://doi.org/10.1186/s40359-019-0305-0
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive finding from the cross-sectional survey of 360 KUMS students, who were categorised by BSMAS score into natural use, mild, moderate, or severe addiction bands; the printed distribution places most students in the moderate band.
 

@@ -75,3 +75,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
 - [Students perceived the gamified quizzes as a risk-free anonymous environment for practicing histology without fear of judgment](kahoot-risk-free-anonymous-practice-environment.md) — related
+- [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related

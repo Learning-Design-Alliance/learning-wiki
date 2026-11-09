@@ -16,12 +16,14 @@ sources:
     author: Ghazali Daniel Aiham, Breque Cyril, Sosner Philippe, Lesbordes Mathieu, Chavagnat Jean-Jacques, Ragot Stéphanie, Oriot Denis
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No between-group difference in heart rate or heart rate variability during the simulation sessions themselves across the year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ghazali Daniel Aiham, Breque Cyril, Sosner Philippe, Lesbordes Mathieu, Chavagnat Jean-Jacques, Ragot Stéphanie, Oriot Denis. (2019). Stress response in the daily lives of simulation repeaters. A randomized controlled trial assessing stress evolution over one year of repetitive immersive simulations. PLoS ONE 14(7): e0220111. https://doi.org/10.1371/journal.pone.0220111
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Between-group ANOVA at T1–T7 during the three common sessions. The article prints HR comparisons of "F = 0.01, p = 0.92 for the initial session, F = 0.05, p = 0.82 for the intermediate session, and F = 0.02, p = 0.89 for the final session" and LF/HF comparisons of F = 1.10 p = 0.30, F = 3.35 p = 0.08, F = 1.85 p = 0.18.
 

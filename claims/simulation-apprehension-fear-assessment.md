@@ -16,12 +16,14 @@ sources:
     author: Halls Amy, Kanagasundaram Mohan, Lau-Walker Margaret, Diack Hilary, Bettles Simon
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Participants reported apprehension before the in situ simulation, driven by fear of the unknown, filming, and perceived assessment, which mostly changed afterwards
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Halls Amy, Kanagasundaram Mohan, Lau-Walker Margaret, Diack Hilary, Bettles Simon. (2019). Using in situ simulation to improve care of the acutely ill patient by enhancing interprofessional working: a qualitative proof of concept study in primary care in England. BMJ Open. https://doi.org/10.1136/bmjopen-2018-028572
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Theme 1 of the inductive thematic analysis of participant interviews. The article reports that "most people who felt this way at the beginning had a different view afterwards", and that fear of the unknown and concerns about filming contributed to anxiety. No effect sizes are reported.
 

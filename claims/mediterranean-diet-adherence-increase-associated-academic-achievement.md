@@ -53,3 +53,4 @@ Linear mixed model analysis of three-wave longitudinal data from 563 Lebanese ad
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
 - [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
 - [Higher adherence to the Mediterranean diet is associated with higher odds of high academic achievement among Lebanese adolescents](mediterranean-diet-adherence-academic-achievement-lebanon.md) — related
+- [Mediterranean diet adherence is positively but weakly correlated with elaboration strategies, organizational strategies, critical thinking, self-regulation, time and study habits, self-regulation of effort and intrinsically oriented goals](md-adherence-learning-strategies-correlations.md) — related

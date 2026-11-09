@@ -70,3 +70,4 @@ Field experiment reported by the review: Levitt et al. (2012) rewarded improveme
 - [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](manyclasses-no-feedback-timing-incentive-effect.md) — related
 - [A motivational strategy is unlikely to succeed unless learners personally value the gains of their effort and fear the losses of not exerting it](learner-values-levitate-motivational-strategy-leverage.md) — related
 - [Voluntary external supervisors were critical to sustaining the program, requiring ethical and career incentives when economic resources are scarce](voluntary-supervisor-incentives-scarce-resources.md) — related
+- [Low-cost group incentive schemes motivated young drivers to use a safe driving app, but the effect may have been temporary](group-incentives-safe-driving-app-uptake.md) — a narrower finding that bears on this claim

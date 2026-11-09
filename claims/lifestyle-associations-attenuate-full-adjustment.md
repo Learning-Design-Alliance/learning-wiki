@@ -51,3 +51,4 @@ Model 3 regressions (Tables 2–4) show frequency of screen use ORs of 1.09 (0.9
 - [The association between delinquent behavior and poor grades attenuates after adjustment for stressful life events and lifestyle, remaining significant only for mathematics](delinquent-behavior-grades-attenuated-math-only.md) — related
 - [Age-14 time-use composition is significantly associated with Attainment 8 in both weekday and weekend analyses](timeuse-composition-attainment8-association.md) — related
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
+- [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — reports the opposite

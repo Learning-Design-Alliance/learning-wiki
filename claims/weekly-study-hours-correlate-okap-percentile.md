@@ -16,12 +16,14 @@ sources:
     author: Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # More weekly hours spent studying for the OKAP correlates with higher OKAP percentile among ophthalmology residents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A. (2019). Resident and program characteristics that impact performance on the Ophthalmic Knowledge Assessment Program (OKAP). BMC Medical Education. https://doi.org/10.1186/s12909-019-1637-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-sectional survey of US ophthalmology residents (183 providing exact percentiles); Pearson correlation of self-reported weekly study hours with self-reported 2017 OKAP percentile. The article reports "significantly correlated with OKAP percentile (p = 0.007)"; Table 2 prints r = 0.201.
 

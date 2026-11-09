@@ -16,12 +16,14 @@ sources:
     author: Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Role-playing geriatric patients navigating a fragmented care system increased preclinical medical students' understanding of integrated care
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S. (2019). Using simulation to explore medical students' understanding of integrated care within geriatrics. BMC Medical Education. https://doi.org/10.1186/s12909-019-1758-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative thematic analysis of written reflections and one-on-one interviews from the GPS-Care simulation; data saturation was reached at 43 reflections and 7 transcripts. Students reported that "as students 'struggled' with care navigation they came to have a greater understanding of integrated care". No effect size is reported.
 

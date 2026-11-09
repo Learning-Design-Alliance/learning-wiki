@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (152 show a difference, 65 mixed, 66 no difference) · 212 studies (96 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 212 report an effect size · 282 claims rest on one study
+> **Evidence** · 286 claims (155 show a difference, 65 mixed, 66 no difference) · 215 studies (99 associational, 81 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 35 of 215 report an effect size · 285 claims rest on one study
 
 ## How to read this page
 
@@ -368,6 +368,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Socioeconomic status and epilepsy-related clinical variables show no significant effect on cognitive test scores in this sample](../claims/clinical-variables-no-cognitive-effect.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [High GPS partially compensates for low SES: 47% of high-GPS/low-SES children attended university](../claims/high-gps-compensates-low-ses-university.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sociodemographic disadvantage indicators relate to lower Math and Science grades](../claims/disadvantage-lower-math-science-grades.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](../claims/lower-ses-children-unhealthy-lifestyle-patterns.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](../claims/school-achievement-level-associated-ses-school-type.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School SES is positively related to middle school students’ Chinese achievement in China after controlling for family SES and other covariates](../claims/school-ses-positive-chinese-achievement-china.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

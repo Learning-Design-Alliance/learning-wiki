@@ -49,3 +49,4 @@ Adjusted GEE models from the national cohort. The quote reports the contrasting 
 - [Preterm comorbidities — necrotizing enterocolitis, retinopathy of prematurity, and bronchopulmonary dysplasia — are associated with higher odds of poor outcomes, while sepsis shows no association](preterm-comorbidities-attainment.md) — related
 - [Exclusive breastfeeding doubled the odds of good academic performance](exclusive-breastfeeding-doubled-odds-good-performance.md) — related
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — related
+- [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — related

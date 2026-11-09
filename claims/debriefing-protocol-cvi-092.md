@@ -16,12 +16,14 @@ sources:
     author: Bae Juyeon, Lee JuHee, Jang Yeonsoo, Lee Yoonju
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Content validity of the debriefing protocol's core questions was high, with total CVI of 0.92
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bae Juyeon, Lee JuHee, Jang Yeonsoo, Lee Yoonju. (2019). Development of simulation education debriefing protocol with faculty guide for enhancement clinical reasoning. BMC Medical Education. https://doi.org/10.1186/s12909-019-1633-8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Content validity verification by 5 simulation education experts using a 4-point appropriateness scale, with items retained at 80% or more agreement. The study reports "the total CVI was 0.92" with per-question CVI from 0.80 to 1.00; no effect size is printed.
 

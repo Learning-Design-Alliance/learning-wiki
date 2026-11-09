@@ -58,6 +58,7 @@ A session recipe for in situ simulation in clinical environments: keep the simul
 - [Deliver brief, interprofessional, in situ simulation drills in vacant clinical spaces within days of real cases to implement urgent workflow changes](jit-in-situ-simulation-implementation-strategy.md)
 - [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
 - [Tailor simulation scenarios to each board via a pre-workshop chair briefing selecting a starting point](pre-workshop-chair-briefing-scenario-tailoring.md)
+- [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 
 ## Examples
 -

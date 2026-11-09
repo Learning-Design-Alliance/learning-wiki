@@ -16,12 +16,14 @@ sources:
     author: "Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Cognitive ability is the strongest pretraining predictor of academic and military GPA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D. (2019). Cognitive and noncognitive predictors of success. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1910510116
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 OLS regression models on continuous military, academic, and physical GPA outcomes from the decade-long cadet dataset, controlling for demographic covariates. Cognitive ability's "especially strong predictor" status for academic GPA exceeded its military GPA coefficient.
 

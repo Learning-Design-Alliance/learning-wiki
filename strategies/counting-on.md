@@ -61,6 +61,7 @@ Counting On reduces working memory demand relative to counting all by shortening
 - [Doubles Plus One](doubles-plus-one.md) — a derived-fact strategy that typically develops after Counting On
 - [Make Ten](make-ten.md) — a decomposition strategy that supersedes counting for addends near 10
 - [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
+- [Explicitly direct children to compare addends' magnitudes during arithmetic practice with linear materials](compare-addends-magnitudes-during-arithmetic-practice.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../principles/responsive-teaching.md)).

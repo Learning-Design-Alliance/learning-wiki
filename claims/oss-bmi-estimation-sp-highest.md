@@ -16,12 +16,14 @@ sources:
     author: Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # BMI estimates of the OSS exceeded 30 kg/m² in all groups, with SPs wearing the suit estimating it significantly highest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Herrmann-Werner Anne, Loda Teresa, Wiesner Lisa M, Erschens Rebecca Sarah, Junne Florian, Zipfel Stephan. (2019). Is an obesity simulation suit in an undergraduate medical communication class a valuable teaching tool? A cross-sectional proof of concept study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029738
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Body-impression analysis using a figure rating scale (BMI 18 to 42) in the same survey. SPs' estimate "MBMI=41.25±1.86 kg/m2 (p<0.001)" was highest; students (M=38.00±3.01) and teachers (M=39.18±2.90) rated it grade 2 obesity.
 

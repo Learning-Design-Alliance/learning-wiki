@@ -53,3 +53,4 @@ The review reports, as an established finding of research on human learning, tha
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — possibly the same claim (merge candidate)
 - [Distributed (spaced) learning is reported to work best compared with massed study in one long session](distributed-practice-beats-cramming-principle.md) — possibly the same claim (merge candidate)
 - [Distributed (spaced) practice retains surgical skills better than massed practice, though no optimal gap has been identified](distributed-practice-retains-surgical-skills-better-than-massed.md) — a narrower finding that bears on this claim
+- [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — a narrower finding that bears on this claim

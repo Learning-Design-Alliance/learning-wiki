@@ -77,3 +77,5 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Knowledge and skills declined significantly between post-coaching and evaluation a median of 21 months later, though remaining above baseline](eenc-gains-declined-by-21-month-evaluation.md) — related
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — reports the opposite
+- [Both flipped classroom and traditional instruction groups improve EBN knowledge and self-efficacy after training, with scores declining by one month](both-groups-improve-then-decline-ebn.md) — related
+- [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related

@@ -54,6 +54,7 @@ The article recommends that instructors moving lectures outside the classroom as
 - [Assigned Readings](assigned_readings.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 - [Replace traditional textbook reading and lecture with multimedia learning modules as pre-class preparation for lecture-based tutorials](mlm-replace-lecture-for-tutorial-preparation.md)
+- [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
 
 ## Examples
 -

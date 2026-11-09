@@ -73,6 +73,8 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
 - [Use realistic simulation scenarios of STEMI assistance, adjusted to the local health system, in undergraduate medical teaching](realistic-stemi-simulation-teaching-strategy.md)
 - [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
+- [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
+- [Scenario-based simulation training before completing a standardized self-assessment instrument](scenario-based-simulation-before-self-assessment.md)
 
 ## Examples
 -

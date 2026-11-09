@@ -16,18 +16,22 @@ sources:
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: zafar-zonobia-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1683-y"
     title: "Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y"
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Competency-based training with the Mama-U model significantly improved provider knowledge, with midwives improving more than doctors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Pre- and post-training knowledge testing at the beginning and end of each training session in this observational mixed-methods study. The article reports that average scores on the "25-item knowledge test increased significantly after training for both doctors and midwives".
 
@@ -50,7 +54,7 @@ Pre- and post-training knowledge testing at the beginning and end of each traini
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Cadre comparison within the same pre/post knowledge analysis. Midwives had "lower scores than doctors in the pre-test" but their scores "increased significantly more than doctors after training (by 14.3 versus 9.9 percentage points)".
 

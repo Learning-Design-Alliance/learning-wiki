@@ -86,3 +86,4 @@ The review reports a Ugandan VR-based training program with a "20% reduction in 
 ## Related Claims
 - [Tele-mentoring programs in Rwanda and Ghana improved cardiac surgery outcomes](tele-mentoring-rwanda-ghana-cardiac-outcomes.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
+- [In the WHO HHSAF global surveys, the African region scored lowest, which the authors link to poorer IPC infrastructure and resources](african-region-lowest-hhsaf-score.md) — related

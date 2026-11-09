@@ -50,3 +50,4 @@ The review attributes this finding to Hoopes et al. (2020) on home surgical skil
 - [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
+- [Novice UGRA skill attrition can occur as fast as 24 hours after initial learning, motivating periodic retraining](rapid-skill-attrition-within-24-hours-novices.md) — related

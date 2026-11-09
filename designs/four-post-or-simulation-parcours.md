@@ -17,7 +17,7 @@ sources:
 # Four-post simulated OR parcours mirroring the surgical team workflow
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The teaching module is structured as a sequence of four learning posts in a full-scale OR simulator mirroring the workflow of a surgical team: OR entry procedure, surgical hand disinfection, dressing up for surgery and preparing a surgical field, and debriefing. The authors write that "the module was structured as a sequence of four learning posts mirroring the workflow of a surgical team", with modules 1–3 led by ORTT and module 4 facilitated by an educational supervisor.

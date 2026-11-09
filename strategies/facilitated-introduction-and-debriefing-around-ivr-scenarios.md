@@ -56,6 +56,7 @@ A concrete design recipe drawn from the simulation training framework and the tr
 - [Integrate IVR as warmup or refresher training with self-guided or peer-to-peer debriefs followed by facilitated large-group debriefing](ivr-warmup-refresher-self-guided-debrief-strategy.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Run history-taking sessions with individual reflection, group discussion, and Pendleton-rule peer feedback supported by instructor probing questions](rp-feedback-history-taking-session-recipe.md)
+- [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
 
 ## Examples
 -

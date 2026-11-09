@@ -58,3 +58,4 @@ Elastic regression on platform click data (400 categories, PCA-reduced, N = 1434
 - [An ML ensemble model predicts MCAT scores with limited accuracy, explaining 36% of variance](ml-mcat-prediction-limited-accuracy.md) — related
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
 - [Resilience is significantly associated with social adaptation among pre-service teachers, explaining about 30% of variance, with Positive Acceptance of Change and Secure Relationships the strongest contributor](resilience-associated-social-adaptation.md) — related
+- [Monthly click rates on the e-learning platform increased roughly sixfold from the first to the third year after launch, with clinical cases the most used category](elearning-click-rates-increased-three-years.md) — related

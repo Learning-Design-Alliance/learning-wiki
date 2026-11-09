@@ -45,6 +45,7 @@ The brief recommends that states embed data-driven continuous improvement criter
 
 - [States conduct a statewide survey of new teachers with comparable questions across all programs](statewide-new-teacher-survey-strategy.md)
 - [Use TPA results and completer-survey data to target programmatic support and continuous improvement](use-tpa-data-for-program-improvement.md)
+- [Translate HHSAF results into action plans and reassess at least annually](hhsaf-annual-action-plan-cycle.md)
 
 ## Examples
 -

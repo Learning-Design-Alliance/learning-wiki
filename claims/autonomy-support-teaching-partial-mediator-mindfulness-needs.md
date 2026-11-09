@@ -16,12 +16,14 @@ sources:
     author: Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Autonomy-supportive teaching partially mediates the relationships of mindfulness with need satisfaction and need frustration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong. (2019). Autonomy-Supportive Teaching and Basic Psychological Need Satisfaction among School Students: The Role of Mindfulness. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16142599
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory mediation analysis with bootstrapping (5000 samples) in the same 390-student survey; the frustration indirect effect was β = −0.07, 95%CI [−0.12, −0.03]. The authors conclude autonomy-supportive teaching was a partial mediator.
 

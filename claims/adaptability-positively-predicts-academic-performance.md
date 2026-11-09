@@ -16,12 +16,14 @@ sources:
     author: Xie Yu Jin, Cao De Pin, Sun Tao, Yang Li Bin
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Medical students' academic adaptability positively predicts academic performance (Beta = 0.407, P<0.01)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Xie Yu Jin, Cao De Pin, Sun Tao, Yang Li Bin. (2019). The effects of academic adaptability on academic burnout, immersion in learning, and academic performance among Chinese medical students: a cross-sectional study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1640-9
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical linear regression (M2) in the cross-sectional survey of 1977 medical students; academic performance was self-rated on a five-point scale against entrance or final exam grades. The article reports "a significant predictive effect on ... academic performance (Beta = 0.407, P<0.01)"; the Pearson correlation was 0.389 (P<0.01).
 

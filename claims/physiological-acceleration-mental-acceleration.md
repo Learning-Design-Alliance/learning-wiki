@@ -55,3 +55,4 @@ Partial-correlation analysis of height, weight, carpal-bone area and Stanford-Bi
 - Town's intensive study gave 52 first-year school children unusually thorough physical, anthropometric and mental measurement — related
 - [Mental growth curves of superior children diverge from those of average children and resemble physical growth curves](superior-children-growth-curves-diverge.md) — a broader claim this one bears on
 - [Exact parallelism between physical and mental development cannot be demonstrated; correlations vary enormously from individual to individual](no-exact-physical-mental-parallelism.md) — related
+- [Head circumference-for-age Z-score correlates positively with SIMCE achievement while prenatal nutritional measures do not](head-circumference-correlates-simce-prenatal-measures-do-not.md) — related

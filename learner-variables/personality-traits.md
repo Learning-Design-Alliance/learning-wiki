@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (109 show a difference, 34 mixed, 21 no difference) · 78 studies (45 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 25 of 78 report an effect size · 164 claims rest on one study
+> **Evidence** · 165 claims (109 show a difference, 35 mixed, 21 no difference) · 79 studies (46 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 25 of 79 report an effect size · 165 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -199,6 +199,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Neuroticism is negatively associated with self-regulation globally and with its decision-making and learning-from-mistakes factors](../claims/neuroticism-negative-self-regulation.md) [+M] — learners who differ on it differ in outcomes
 - [Neuroticism is positively associated with emotion-focused coping (especially emotional venting and isolation) while conscientiousness is positively associated with problem-focused coping](../claims/personality-coping-strategy-profiles.md) [+M] — learners who differ on it differ in outcomes
 - [Grit-perseverance, but not grit-passion, is significantly and positively related to college academic performance](../claims/perseverance-not-passion-predicts-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Extraversion and resilience correlate with lower tutor stress; most other personality traits show no correlation](../claims/extraversion-resilience-protective-tutor-stress.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

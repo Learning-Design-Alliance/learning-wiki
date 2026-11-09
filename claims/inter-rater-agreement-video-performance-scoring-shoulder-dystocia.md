@@ -55,3 +55,4 @@ Reliability analysis of blinded dual-rater scoring in the 17-case video review, 
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [Patient communication and situation awareness are associated with high technical performance in obstetric teams managing real-life shoulder dystocia](patient-communication-situation-awareness-associated-high-technical-performance-shoulder-dystocia.md) — related
 - [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — related
+- [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related

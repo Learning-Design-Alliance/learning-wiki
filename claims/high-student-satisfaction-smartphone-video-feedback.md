@@ -53,3 +53,4 @@ Ad hoc six-item questionnaire with 5 response categories administered to the vid
 - [Over 80% of students agreed ISF-VSAQs improve knowledge review, problem analysis, feedback quality, and electronic usability; perception questionnaire reliability was α = 0.90](isf-vsaq-positive-student-perceptions.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
+- [Students strongly accept instructional videos as supplementary learning material and desire more of them](high-acceptance-instructional-videos-medical-students.md) — related

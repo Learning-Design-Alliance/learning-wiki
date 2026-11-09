@@ -50,3 +50,4 @@ Quasi-experimental comparison of the 184 randomized SI-PASS volunteers against a
 - [SI-PASS group membership (leader) had no effect on exam performance, with only the TOLT logical thinking score predicting grades in multilevel analysis](si-pass-no-leader-group-effect.md) — related
 - [In a quasi-experimental comparison, SI-PASS participants completed far more online exercises than non-volunteering students (d = .72)](si-pass-quasi-experimental-engagement-difference.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — related
+- [Students volunteering to participate had higher prior study results than non-participants, limiting generalizability](participant-selection-higher-prior-results.md) — related

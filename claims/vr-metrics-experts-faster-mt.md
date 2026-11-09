@@ -17,12 +17,14 @@ sources:
     author: Crossley Robert, Liebig Thomas, Holtmannspoetter Markus, Lindkvist Johan, Henn Pat, Lonn Lars, Gallagher Anthony Gerald
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Experienced interventional neuroradiologists performed a simulated mechanical thrombectomy significantly faster than trainee INRs on the VIST virtual reality simulator
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Crossley Robert, Liebig Thomas, Holtmannspoetter Markus, Lindkvist Johan, Henn Pat, Lonn Lars, Gallagher Anthony Gerald. (2019). Validation studies of virtual reality simulation performance metrics for mechanical thrombectomy in ischemic stroke. Journal of Neurointerventional Surgery 11(8):775-780. https://doi.org/10.1136/neurintsurg-2018-014510
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Construct validity study on the VIST VR simulator comparing 8 consultant/professor-level INRs with 10 trainee INRs performing a simulated routine MT procedure. Consultant median time was 24 minutes versus trainee median 31 minutes; the article reports "Mann–Whitney U=17.0, Z=−2.04, P=0.043".
 

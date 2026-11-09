@@ -69,3 +69,4 @@ One-factor ANOVA on number of solution ideas, a dyad-level variable (n = 34 dyad
 - [In young students' collaborative PF, dyads that produced more constructive utterances generated more solution ideas](constructive-utterances-solution-ideas-correlation.md) — related
 - [Students' relative frequencies of interactive, constructive, and active utterances during collaborative PF correlated positively with their conceptual knowledge posttest scores](relative-utterance-frequencies-conceptual-knowledge.md) — related
 - [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
+- [Students instructed to prepare in collaborative dyads during the self-study phase of an inverted classroom achieve higher knowledge-test scores than students instructed to prepare individually](dyadic-self-study-beats-individual-inverted-classroom.md) — reports the opposite

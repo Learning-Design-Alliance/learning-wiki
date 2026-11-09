@@ -50,3 +50,4 @@ Observational contrast within the retrospective series; the authors also note th
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Non-console time showed an upward CUSUM trend between the 88th and 128th cases during surgeon transitions and assistant turnover](rats-non-console-time-upward-trend-transitions.md) — related
 - [Introducing new surgeons did not compromise institutional proficiency in RATS, with subsequent surgeons' CUSUM learning-curve peaks smaller than the lead surgeon's](rats-institutional-proficiency-maintained-with-new-surgeons.md) — related
+- [Annual surgical exposure and resident-per-attending-surgeon indices remained stable during the follow-up period, suggesting institutional changes did not drive the procedure increase](ase-rps-stable-during-followup.md) — related

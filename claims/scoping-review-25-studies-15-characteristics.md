@@ -51,3 +51,4 @@ Scoping review following PRISMA-ScR guidelines, searching Web of Science, Scopus
 - [Electronic risk management systems are identified as the main facilitators of nurse managers' decision-making](electronic-risk-management-systems-main-facilitators.md) — related
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — related
 - Systematic review identifies 25 scholarly articles on innovative pedagogical practices in higher education published between 2015 and 2023 — related
+- [Substantial minorities of managers score below competent in evidence-informed decision-making, resource management and healthcare environment knowledge](hsm-competency-gaps-evidence-resources-knowledge.md) — related

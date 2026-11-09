@@ -17,7 +17,7 @@ sources:
 # 4Cs Intern Simulation Common Critical Care Curriculum
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The 4Cs is a mandatory longitudinal simulation-based curriculum for approximately 60 postgraduate year one interns from seven disciplines, providing "focused instruction on core critical care topics and procedural skills imperative for interns caring for adult patients". Interns attend three four-hour sessions over six months in mixed-discipline groups of four, using Laerdal Sim Man 3G, with scenarios of about 10–15 minutes followed by roughly 45-minute PEARLS-model debriefings led by faculty dyads.

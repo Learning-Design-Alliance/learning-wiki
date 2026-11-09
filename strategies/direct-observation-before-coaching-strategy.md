@@ -44,6 +44,7 @@ The authors recommend that future iterations of the coaching intervention incorp
 
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
+- [Use goal-setting, reflection, gamification, and video review to enhance feedback in simulation curricula](feedback-enhancement-strategies-sbt.md)
 
 ## Examples
 -

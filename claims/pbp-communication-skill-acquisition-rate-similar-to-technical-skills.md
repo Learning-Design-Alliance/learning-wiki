@@ -16,12 +16,14 @@ sources:
     author: "Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala"
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # PBP training achieved communication skill acquisition rates of about 60%, similar to rates seen with technical skills using this approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala. (2019). Effect of a proficiency-based progression simulation programme on clinical communication for the deteriorating patient: a randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025992
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretation in the Discussion, comparing their observed 60% proficiency rate with rates reported for PBP training of technical procedures; this is an interpretive statement, not a tested comparison within the trial. The article offers no effect size for this comparison.
 

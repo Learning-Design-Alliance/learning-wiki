@@ -92,3 +92,4 @@ Prospective cohort study (n=8 neurosurgery residents) using Magic Leap One with 
 - [After one drilling session, AR‐trained novices scored 19.5 on the Welling Scale, above the novice group score of 13.9 reported by Frithioff et al.](ar-group-19-5-exceeds-frithioff-novice-13-9.md) — related
 - [A single AR‐guided session on a 3D‐printed temporal bone yields higher overall mastoidectomy drilling scores than traditional training in medical students](ar-guided-session-higher-overall-welling-score.md) — a narrower finding that bears on this claim
 - [AR guidance significantly improves specific mastoidectomy subtasks including margins, sinodural angle, tegmen/ossicles, antrum/semicircular canal, and external auditory canal](ar-guided-significant-welling-subsections.md) — related
+- [Perceived positioning accuracy of HoloLens AR targets on the simulator matches the target application's requirements](hololens-ar-target-positioning-accuracy-adequate.md) — related

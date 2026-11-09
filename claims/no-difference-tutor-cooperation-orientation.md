@@ -55,3 +55,4 @@ Cooperation orientation ratings did not differ significantly between tutor types
 - [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](student-tutors-social-congruence-focus-group.md) — related
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related
+- [Students rated their near-peer tutored sessions more positively than staff-tutored sessions on most tutorial-evaluation items in both halves of the module](near-peer-tutorials-rated-better.md) — related

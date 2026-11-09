@@ -50,3 +50,4 @@ Perceptions reported in the qualitative interviews; one participant stated that 
 - [Most Nurse Mentor Supervisors reported learning simulation facilitation techniques from the Super Divya module, including creating a comfortable training space and distinguishing positive from negative facilitation](super-divya-taught-facilitation-techniques.md) — related
 - [All but one Nurse Mentor Supervisor agreed Super Divya videos would be useful for Nurse Mentors to learn how to facilitate simulations](super-divya-useful-for-nurse-mentors.md) — related
 - [The Super Divya platform was largely accessible on phones, but internet connectivity and device capability were cited concerns for distribution to Nurse Mentors](super-divya-accessibility-connectivity-concerns.md) — related
+- [More than half of surveyed students report better recall of critical hygiene practices after viewing instructional videos](videos-improve-hygiene-recall-self-report.md) — related

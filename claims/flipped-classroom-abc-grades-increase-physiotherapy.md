@@ -16,12 +16,14 @@ sources:
     author: Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A flipped classroom approach in physiotherapy education was associated with a more than 10% increase in A-C course-exam performances relative to any previous year
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T. (2019). Learning with technology in physiotherapy education: design, implementation and evaluation of a flipped classroom teaching approach. BMC Medical Education. https://doi.org/10.1186/s12909-019-1728-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Historically controlled prospective cohort study of 54 students in an eight-week musculoskeletal disorders course; course grades compared with historical controls from 2013-2016 using descriptive statistics. The article reports "a higher rate by more than 10% relative to any previous year" for ABC performances.
 

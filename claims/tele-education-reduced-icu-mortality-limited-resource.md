@@ -24,6 +24,8 @@ sources:
     author: Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU
@@ -53,7 +55,7 @@ Before-after cohort study of all MICU patients in 2015 (before, n = 667) versus 
 
 Kovacevic Pedja, Dragic Sasa, Kovacevic Tijana, Momcicevic Danica, Festic Emir, Kashyap Rahul, Niven Alexander S., Dong Yue, Gajic Ognjen. (2019). Impact of weekly case-based tele-education on quality of care in a limited resource medical intensive care unit. Critical Care. https://doi.org/10.1186/s13054-019-2494-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Multivariate regression analyses reported in the Results section, adjusting for age, sex, mechanical ventilation, and vasopressors. The article reports the associations as statistically significant without printing coefficients or effect sizes in the supplied text.
 

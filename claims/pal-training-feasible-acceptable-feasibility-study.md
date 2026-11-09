@@ -16,12 +16,14 @@ sources:
     author: Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # PAL training was feasible and acceptable to secondary maths and English teachers in the feasibility study, with 100% recommending it to other teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther. (2019). Introducing physically active lessons in UK secondary schools: feasibility study and pilot cluster-randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025080
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Pre-post feasibility study at one secondary school with 15 maths and English teachers; questionnaires and focus groups assessed training acceptability. The article reports "100% recommending the training to other teachers" and efficacy gains from 2.7 to 3.2 (individual) and 2.4 to 3 (collective, out of 4).
 

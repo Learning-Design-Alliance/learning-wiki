@@ -16,12 +16,14 @@ sources:
     author: Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Pilot-study students received an average of 6–7 sixty-minute PAL per week, a dose the authors judge to have potential to reduce sedentary time if sufficient activity is introduced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gammon Catherine, Morton Katie, Atkin Andrew, Corder Kirsten, Daly-Smith Andy, Quarmby Thomas, Suhrcke Marc, Turner David, van Sluijs Esther. (2019). Introducing physically active lessons in UK secondary schools: feasibility study and pilot cluster-randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025080
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Teacher timetable self-report of PAL dose during the pilot follow-up week, across all subjects. The article reports year 7 and year 9 students each received "an average of 6.9 PAL", with teachers choosing how many PAL to deliver rather than following a prescribed target.
 

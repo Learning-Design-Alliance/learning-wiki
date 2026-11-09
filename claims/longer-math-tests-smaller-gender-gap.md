@@ -16,12 +16,14 @@ sources:
     author: "Balart, P. & Oosterveen, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Longer math tests are associated with a smaller gender gap: males lead by about 0.2 standard deviations on short tests, with parity reached at 125 questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balart, P. & Oosterveen, M. (2019). Females show more sustained performance during test-taking than males. Nature Communications, 10, 3798. https://doi.org/10.1038/s41467-019-11691-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 OLS regression (Table 1, N = 203) extending the Lindberg et al. meta-analytic dataset with test-length measures; the coefficient on number of questions is -0.00159 (p < 0.05), and the article reports "females are on par with males if the test reaches 125 questions". Robust to excluding an outlier, recalculated gaps, and weighted regression.
 

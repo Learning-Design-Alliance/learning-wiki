@@ -48,3 +48,4 @@ Within-group pre-post comparison in the same 56-professional cohort using a 25-i
 - [Nursing professionals showed insufficient baseline CPR knowledge and skills before training despite frequent exposure to resuscitation situations](cpr-baseline-deficits-nursing-professionals.md) — related
 - [Nine months after retraining, CPR knowledge and skills were statistically higher than nine months after the first training](cpr-nine-month-scores-higher-after-retraining.md) — related
 - [After retraining nine months after first training, theoretical knowledge and practical skills declined less over nine months than after first training among nursing professionals, in a single-group pre-post study](cpr-retraining-greater-retention-than-first-training.md) — related
+- [Both self-training modalities improved CPR theoretical and practical scores from baseline](both-modalities-improve-cpr-scores.md) — related

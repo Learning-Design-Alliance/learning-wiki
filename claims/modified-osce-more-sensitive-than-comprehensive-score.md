@@ -56,3 +56,4 @@ Authors' interpretive discussion of assessment sensitivity in the same quasi-exp
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related
+- [No difference in GAP-test competence scores between vertically integrated and non-vertically integrated curricula](no-curriculum-type-difference-gap-test.md) — related

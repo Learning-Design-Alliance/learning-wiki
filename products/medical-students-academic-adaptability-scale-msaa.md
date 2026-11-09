@@ -21,6 +21,7 @@ A 27-item five-point Likert questionnaire developed by Xie Yu Jin et al. to asse
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Six-factor structure of academic adaptability in medical students (MSAA)**: The study's 27-item Medical Students' Academic Adaptability scale, revised from the UAAQ, yielded six common factors with a cumulative contribution rate of 60.80%: self-learning, information utilization, environmental choice, goal orientation, coping with stress, and professional interest. The article defines each factor, e.g. "Self-learning refers to initiative, conscious and independent learning, and the intentional decision to manage learning autonomously." The scale showed Cronbach's α of 0.884 overall and KMO = 0.929. (Xie Yu Jin et al. (2019))
+- **Medical Students' Academic Adaptability (MSAA) scale**: A 27-item Chinese-language questionnaire measuring medical students' academic adaptability, revised from the University Academic Adaptability Questionnaire for medical students. It uses "A five-point Likert scale, where 1 point represented complete non-conformity and 5 points represented complete compliance", with higher scores indicating higher adaptability. In this study its Cronbach's α was 0.884, and exploratory factor analysis supported a six-factor structure. (Xie Yu Jin et al. (2019))
 
 ### Claims
 

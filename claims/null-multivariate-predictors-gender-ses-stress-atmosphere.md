@@ -52,3 +52,4 @@ Multivariate ordinal logistic regression of the cross-sectional FMSo survey (n =
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [Tunisian nationality independently predicts higher academic performance among Tunisian medical students (OR = 4.99)](tunisian-nationality-higher-academic-performance.md) — related
 - [No significant association was found between student gender and NCAT-EM scores across the seven domains](no-gender-association-ncat-em-scores.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — related

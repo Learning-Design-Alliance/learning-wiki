@@ -17,7 +17,7 @@ sources:
 # Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends collecting baseline self-report data on cultural competence constructs before training so programs can tailor interventions to the audience. Students "were able to complete the battery of surveys in about 20 minutes", making it feasible during class time. Programs can also return individual and group reports so students see their scores relative to peers, increasing self-awareness and enabling tracking of movement over time.

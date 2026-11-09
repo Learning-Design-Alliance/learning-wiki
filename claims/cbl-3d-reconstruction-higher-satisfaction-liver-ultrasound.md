@@ -70,3 +70,4 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [Digital-human simulation teaching yields significantly higher student satisfaction than traditional lecturing across multiple SEEQ dimensions](digital-human-higher-satisfaction-seeq.md) — related
 - [Interns in the 3D printing + PBL group rated teaching outcomes significantly higher than the traditional group across nine survey dimensions](3d-printing-pbl-higher-survey-scores-nine-dimensions.md) — related
 - [The combination of PBL with 3D visualization improved clinical trainee performance, learning efficiency, interest and clinical thinking in spinal surgery](pbl-3dv-overall-benefit-spinal-surgery-teaching.md) — related
+- [3D reconstructed images improved PGY1 surgical residents' imaging-reasoning accuracy versus 2D CT in a randomized controlled trial](3d-images-improve-pgy1-imaging-reasoning.md) — related

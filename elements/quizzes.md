@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (12 for, 7 mixed) · 26 studies (12 causal, 7 quant-synthesis, 4 review, 2 associational, 1 design), `q2`–`q4` · 11 of 26 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (13 for, 7 mixed) · 27 studies (13 causal, 7 quant-synthesis, 4 review, 2 associational, 1 design), `q2`–`q4` · 11 of 27 report an effect size · 16 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -68,6 +68,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Elaborated autograded quizzes with clinical contexts and constructive alignment (step II) increased medical students' pharmacotherapeutic knowledge](../claims/step-ii-quizzes-increase-pharmacotherapeutic-knowledge.md) [+W] — attached 2026-11-05 from Wallerstedt SM et al. (2026), which proposed "Autograded pharmacotherapeutic digital quizzes for practice and summative assessment"; tests this page's relationship.
 - [Greater practice-quiz use correlated with better knowledge-test scores, while more summative test attempts correlated with worse scores](../claims/practice-quiz-use-correlates-with-knowledge.md) [+M] — attached 2026-11-05 from Wallerstedt SM et al. (2026), which proposed "Autograded pharmacotherapeutic digital quizzes for practice and summative assessment"; tests this page's relationship.
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](../claims/testing-effect-endodontics-final-exam.md) [+W] — attached 2026-11-05 from Kalyva et al. (2026), which proposed "Post-lecture low-stakes multiple-choice testing with automated corrective feedback on Blackboard Learn"; tests this page's relationship.
+- [Performance on daily SMS quizzes is the strongest predictor of endline medical knowledge scores among HIV clinicians in an mCME intervention](../claims/sms-quiz-performance-predicts-endline-knowledge.md) [+W] — attached 2026-11-09 from Nofal MR et al. (2018), which proposed "mCME version 2.0 intervention: daily SMS quizzes, hyperlinked daily readings, and online CME courses for HIV clinicians in Vietnam".
 
 ## The evidence by question
 

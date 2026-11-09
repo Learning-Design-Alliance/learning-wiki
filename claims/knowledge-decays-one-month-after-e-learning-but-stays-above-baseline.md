@@ -61,3 +61,4 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
+- [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related

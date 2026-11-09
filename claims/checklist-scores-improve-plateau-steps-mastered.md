@@ -16,18 +16,22 @@ sources:
     author: Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: takashige-abe-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1752-2"
     title: "Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2"
     author: Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Procedural checklist scores improve over the sessions with similar plateauing, and all steps except the timed basket catch are accomplished
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Checklist performance (13 points for task 1, 8 points for task 2, one point per correctly and independently performed step) was scored by both authors each session; "Checklist scores also improved over the sessions with similar plateauing in score progression (Fig. 4)."
 
@@ -50,7 +54,7 @@ Checklist performance (13 points for task 1, 8 points for task 2, one point per 
 
 Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Step-by-step pass rates plotted across sessions showed that "All the steps except" the two-minute basket catch "were accomplished over the training sessions, as shown in Fig. 5."
 

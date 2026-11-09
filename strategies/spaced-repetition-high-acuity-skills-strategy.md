@@ -46,6 +46,7 @@ The article's pilot curriculum indicates that a didactics-simulation model with 
 ## Related Strategies
 
 - [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
+- [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](spaced-deliberate-practice-procedure-curriculum.md)
 
 ## Examples
 -

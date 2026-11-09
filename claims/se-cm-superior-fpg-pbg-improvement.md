@@ -16,12 +16,14 @@ sources:
     author: Ji H, Chen R, Huang Y, Li W, Shi C, Zhou J.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Fasting plasma glucose and postprandial blood glucose improved more in the DSME+SE+CM group than in the DSME-only group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ji H, Chen R, Huang Y, Li W, Shi C, Zhou J. (2019). Effect of simulation education and case management on glycemic control in type 2 diabetes. Diabetes/Metabolism Research and Reviews. https://doi.org/10.1002/dmrr.3112
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same randomized trial, Table 2: FPG outcome difference between groups "−0.90 (−1.60 to −0.19)" P = 0.013 and PBG difference "−1.74 (−2.66 to −0.82)" P < 0.001; both measures also improved significantly within each group.
 

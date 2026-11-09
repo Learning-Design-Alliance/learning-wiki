@@ -69,3 +69,4 @@ The discussion quantifies the Figure 1 contrast, reporting the ≥6 h/day weeken
 - [The weekday/weekend interaction with sedentary behavior on academic performance is significant in girls but not boys](weekday-weekend-sb-interaction-academic-performance-girls.md) — related
 - [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — related
+- [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related

@@ -57,3 +57,4 @@ Debriefing and focus-group data from the qualitative study. Students said "Struc
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on
 - [Students report mixed perceptions of whether debriefers focus on errors rather than successes, with about a third perceiving an error focus](error-focus-in-debriefing-mixed-perceptions.md) — related
 - [Students reported that MAES© decreases the anxiety inherent in simulation, allowing them to work more relaxed](maes-reduces-simulation-anxiety.md) — related
+- [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](vp-perceived-motivating-safe-for-errors.md) — related

@@ -64,3 +64,4 @@ Confirmatory factor analysis of survey responses from 1,253 students at a Colomb
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
 - [The three-factor structure of the University Student Engagement Inventory shows acceptable fit in this HPE sample](usei-three-factor-structure-fit.md) — related
 - [The hypothesized structural model of environmental factors, psychological health, and GPA fit the data well](sem-model-fit-environmental-psychological-gpa.md) — related
+- [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related

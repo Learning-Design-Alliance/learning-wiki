@@ -55,3 +55,4 @@ Fisher exact test comparison immediately after the 4-hour zone 1 seminar in the 
 - [No significant difference in BCLS skills scores exists between groups immediately after training, before personalized video feedback is provided](no-immediate-skills-difference-before-pvf.md) — related
 - [Personalized video feedback does not produce a significant difference in BCLS knowledge scores compared with in-person feedback alone](pvf-no-significant-bcls-knowledge-difference.md) — related
 - [No significant difference in immediate post-seminar knowledge between students with and without specified pre-placement materials](no-post-seminar-knowledge-difference-from-pre-placement-materials.md) — related
+- [The preparatory study material provided matters less than the learning instructions, since almost all students prepared regardless of material](instructions-outweigh-material-inverted-classroom.md) — related

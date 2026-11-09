@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (31 for, 41 mixed, 7 against) · 76 studies (23 causal, 13 quant-synthesis, 10 review, 9 associational, 8 design, 7 qualitative, 6 theoretical), `q1`–`q4` · 13 of 76 report an effect size · 71 claims rest on one study
+> **Evidence** · 80 claims (32 for, 41 mixed, 7 against) · 77 studies (23 causal, 13 quant-synthesis, 10 review, 10 associational, 8 design, 7 qualitative, 6 theoretical), `q1`–`q4` · 13 of 77 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,7 @@ Added 2026-10-17 after a search for competency-based, mastery-based and self-pac
 - [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](../claims/cbe-mdt-improves-exam-scores-radiation-oncology.md) [~W] — attached 2026-11-04 from Liu Min et al. (2025), which proposed "Adopt CBE-MDT approaches in medical education to build competencies that didactic teaching fails to develop".
 - [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](../claims/cbe-mdt-higher-satisfaction-radiation-oncology.md) [~W] — attached 2026-11-04 from Liu Min et al. (2025), which proposed "Adopt CBE-MDT approaches in medical education to build competencies that didactic teaching fails to develop".
 - [Once competence in infant chest compression is achieved, the likelihood of retaining it at follow-up does not differ by how many months it took to achieve competence](../claims/icc-retention-independent-of-months-to-competence.md) [~W] — attached 2026-11-07 from Gugelmin-Almeida Debora et al. (2022), which proposed "Base CPR retraining schedules on individual performance (competence-based) rather than pre-set intervals for everyone".
+- [A four-round Delphi panel of infection-control experts in Brazil reached consensus on 4 core, 14 generic and 17 specific competencies for HCRI prevention and control](../claims/delphi-consent-hcri-competencies-brazil.md) [+W] — attached 2026-11-09 from Massaroli Aline et al. (2019), which proposed "Initial nurse training should develop generic HCRI competencies because infection issues are present in all health services".
 
 ## Illustrative design instance and observation record
 

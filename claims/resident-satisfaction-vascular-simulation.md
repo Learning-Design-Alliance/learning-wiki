@@ -55,3 +55,4 @@ Self-report satisfaction data from the same 39 residents, collected with a valid
 - [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — related
+- [Residents unanimously rated the module's embedded self-assessment checkpoint questions as helpful for reinforcing learning](embedded-checkpoint-questions-rated-helpful.md) — related

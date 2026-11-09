@@ -76,6 +76,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
+- [Use regular low-fidelity in situ simulation as a continuous education tool for first-line caregivers in acute care wards](regular-low-fidelity-iss-continuous-education-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Pretest t-test analysis of the two intact grade-7 sections (control N 26, treatm
 - [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — possibly the same claim (merge candidate)
 - [No statistically significant difference in mathematics achievement between objectivist-based and constructivist-based teaching strategies](no-significant-difference-objectivist-constructivist-online-math.md) — related
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related
+- [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related

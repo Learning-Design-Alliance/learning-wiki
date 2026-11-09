@@ -16,12 +16,14 @@ sources:
     author: Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # About half of surveyed students preferred more structured classroom activities over maximal autonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Røe Y, Rowe M, Ødegaard NB, Sylliaas H, Dahl-Michelsen T. (2019). Learning with technology in physiotherapy education: design, implementation and evaluation of a flipped classroom teaching approach. BMC Medical Education. https://doi.org/10.1186/s12909-019-1728-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Survey item on preferred flexibility of in-class activities among 46 respondents. The article reports "20 students reported that they preferred a more structured classroom"; the authors attribute this to students' prior experience with fact-based courses.
 

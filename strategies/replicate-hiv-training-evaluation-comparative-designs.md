@@ -17,7 +17,7 @@ sources:
 # Replicate and extend the evaluation with comparative and correlative designs at other institutions, and evaluate enhanced postgraduate HIV training programmes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 associational), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size
 
 ## Description
 The article recommends that replicas of this study be conducted once similar training intervention programmes for upscaling HIV and AIDS training are established at other institutions, and that such studies 'can additionally be comparative and correlative in their implementation of research design methodology'. It also recommends enhanced HIV training programmes for postgraduate students, with similar research conducted on them to determine their outcomes.

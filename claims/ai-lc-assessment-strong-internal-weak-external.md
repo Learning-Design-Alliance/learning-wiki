@@ -96,3 +96,4 @@ The discussion notes that "AI-based CVS detection systems are the only tools to 
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](smartcoach-improves-cvs-achievement.md) — related
 - [The feedback group achieves the critical view of safety more often than the control group across all four laparoscopic cholecystectomies](cvs-annotation-increases-cvs-achievement.md) — related
+- [Evidence supporting the effectiveness of mentorship is limited, attributed to weak evaluation data](mentorship-effectiveness-evidence-limited.md) — related

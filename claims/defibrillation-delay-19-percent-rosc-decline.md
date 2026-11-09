@@ -48,3 +48,4 @@ Narrative literature review attributing this to cited studies [18,19,24]: "each 
 - [A team-focused, video-reviewed ED CPR bundle combining mechanical compression device training, in situ simulation, and multidisciplinary video review was followed by higher ROSC](ed-cpr-bundle-higher-rosc.md) — related
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
 - [Epinephrine improves ROSC rates but its effect on survival to discharge remains inconclusive, per the cited reviews](epinephrine-rosc-benefit-survival-inconclusive.md) — related
+- [Inappropriately delivered defibrillator discharges are uncommon (10%–24% of defibrillator-related presentations) but can be proarrhythmic and linked to increased mortality](inappropriate-icd-discharges-uncommon-but-dangerous.md) — related

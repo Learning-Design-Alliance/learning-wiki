@@ -49,3 +49,4 @@ Secondary endpoint from the same cross-over study of 66 ICU nurses: mean time to
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](simulation-reduces-procedure-completion-time.md) — related
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — related
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
+- [Time from blood pressure measurement to antihypertensive administration decreased non-significantly in simulated PE/E cases](time-to-antihypertensive-decreased-nonsignificant.md) — related

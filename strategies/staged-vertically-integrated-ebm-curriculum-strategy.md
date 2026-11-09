@@ -58,6 +58,7 @@ The authors recommend organising EBM instruction around the five steps (Ask, Acq
 - [Follow the EBM course with clinical laboratory counseling or real multidisciplinary patient-care questions to strengthen application skills](post-course-clinical-counseling-questions-ebm.md)
 - [Combine targeted EBM courses with integration of EBM terminology and concepts into other courses, with course placement after the second year](targeted-ebm-training-plus-integration-strategy.md)
 - [Map e-learning resources to learning outcomes and clinical presentations to identify content gaps and guide development](map-resources-to-learning-outcomes-strategy.md)
+- [Extend worksheets into later units with general templates and student-selected articles addressing a group-generated clinical question](caw-student-selected-article-extension-strategy.md)
 
 ## Examples
 -

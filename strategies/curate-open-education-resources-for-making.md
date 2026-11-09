@@ -45,6 +45,7 @@ In response to the survey finding that student project ideas and guides were the
 - [Hyperlinked Teaching](hyperlinked_teaching.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning](community-connected-pbl-support-structure.md)
+- [Use curated resources (BEME, Twelve tips, ALiEM primers, AMEE Guides, KeyLIME, ALiEM eBooks) to develop evidence-based educational initiatives](evidence-based-education-resource-toolbox.md)
 
 ## Examples
 -

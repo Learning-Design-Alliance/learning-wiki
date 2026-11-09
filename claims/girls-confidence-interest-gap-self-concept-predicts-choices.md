@@ -134,3 +134,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related
+- [A minority of students became less interested in biology after the course, and this disinterest came primarily from non-STEM students](ibis-non-stem-interest-decline.md) — related

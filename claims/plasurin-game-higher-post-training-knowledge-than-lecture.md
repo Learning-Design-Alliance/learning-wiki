@@ -49,3 +49,4 @@ Between-group comparison of post-training theoretical test scores (10 MCQs, rang
 - [Game-based virtual training with PlaSurIn yields higher OSCE setup scores and more bonuses than lecture-based virtual training among OR novices](plasurin-game-higher-osce-score-and-bonus-than-lecture.md) — related
 - [Game-based virtual training with PlaSurIn yields longer remained time for OSCE setup completion than lecture-based virtual training among OR novices](plasurin-game-longer-remained-time-than-lecture.md) — related
 - [Game-based virtual training with PlaSurIn yields fewer OSCE setup errors than lecture-based virtual training among OR novices](plasurin-game-fewer-osce-errors-than-lecture.md) — related
+- [After short exposure, video-based CPR self-training yields higher theoretical post-test scores than a serious game among first-year medical students](video-beats-serious-game-cpr-theoretical-posttest.md) — related

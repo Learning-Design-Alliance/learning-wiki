@@ -16,6 +16,8 @@ sources:
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: donkin-rebecca-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1745-1"
     title: "Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1"
@@ -42,7 +44,7 @@ sources:
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized comparison of 28 first-year histology students allocated to video (n=14) or control (n=14) groups, assessed by two histology experts on embedding and microtomy techniques. The video group scored "82.4%, ± SD 8.66" versus "55.6% ± SD 24.46" for controls (P value 0.01).
 

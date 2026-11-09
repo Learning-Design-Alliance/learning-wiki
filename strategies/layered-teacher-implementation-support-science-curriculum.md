@@ -86,6 +86,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Run multi-cycle faculty development workshops on student assessment using active teaching–learning strategies](fd-workshop-cycles-active-strategies-strategy.md)
 - [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 - [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
+- [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ The evaluation approach summarized here tracks whether colleges "successfully im
 ## Related Strategies
 
 - [Compare CBE program participants with students in traditional online and brick-and-mortar programs at the same colleges](same-college-comparison-design-for-cbe-evaluation.md)
+- [Use individual development plans with milestone tracking to evaluate career guidance](idp-milestone-tracking-mentorship-evaluation.md)
 
 ## Examples
 -

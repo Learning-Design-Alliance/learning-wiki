@@ -48,3 +48,4 @@ User group assessment sessions of mock-ups (six hemato-oncologists) showed the r
 - [In individual user testing, four of five junior oncologists expressed a willingness to use a digital training tool to acquire information-provision skills](junior-oncologists-willing-to-use-digital-cst.md) — related
 - [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](reminder-accuracy-unaffected-by-framing.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
+- [Seniors attach split symbolic value to digital reminder technology: modernity for some, a sign of aging and dependence for others](split-symbolic-value-digital-reminder-technology-seniors.md) — related

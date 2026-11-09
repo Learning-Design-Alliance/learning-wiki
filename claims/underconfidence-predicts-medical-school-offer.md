@@ -16,12 +16,14 @@ sources:
     author: Tiffin Paul A, Paton Lewis W.
     q: 3
     i: 1
+    kind: associational
+    rigour: 3
 ---
 
 # Relative underconfidence on an online confidence rating independently predicts the odds of receiving an offer to study medicine
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tiffin Paul A, Paton Lewis W. (2019). Does 'online confidence' predict application success and later academic performance in medical school? A UK-based national cohort study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-034437
 
-`q3 · i1`
+`q3 · i1` · `associational · r3`
 
 Multivariable multilevel logistic regression predicting offers (nested within candidates) among 2013 UKCAT applicants (n=7870), controlling for UKCAT subtest scores, secondary school tariff, gender, ethnicity and school type. The article reports "underconfidence remained a statistically significant independent predictor" with a printed odds ratio of OR = 1.48 (1.15 to 1.91, p=0.002).
 

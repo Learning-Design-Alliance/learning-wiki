@@ -50,3 +50,4 @@ Correlation analysis of OpenPose-derived motion features from 30 cardiac surgery
 - [Average team displacement and speed variability show no significant association with NOTSS scores](team-displacement-speed-variability-null-notss.md) — related
 - [Acceleration of team displacement is positively correlated with overall NOTSS scores in cardiac surgery teams](team-displacement-acceleration-positively-correlated-notss.md) — related
 - [Team displacement entropy is negatively correlated with overall NOTSS scores in cardiac surgery teams](team-displacement-entropy-negatively-correlated-notss.md) — related
+- [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](notss-improvement-after-scenario-simplification.md) — related

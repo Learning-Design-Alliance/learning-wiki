@@ -48,3 +48,4 @@ Satisfaction measured on day 10 with a 10-item Likert questionnaire (Cronbach's 
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
 - [Patients reported high satisfaction with the program's timing, clarity, relevance, and support](flipped-classroom-patient-education-high-satisfaction.md) — related
+- [Course satisfaction for the hybrid genomics series was comparable to or above school-wide averages, with the fundamentals course rated lowest](hybrid-genomics-course-satisfaction-comparable-to-school-average.md) — related

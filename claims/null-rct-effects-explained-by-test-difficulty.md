@@ -47,3 +47,4 @@ Authors' interpretation offered in the Discussion, not a tested result of this s
 ## Related Claims
 - [Improvements in cardiorespiratory fitness are longitudinally associated with improvement in an individual's worst (lowest) school-subject grade points](fitness-improvement-associated-lowest-gp.md) — related
 - [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) — related
+- [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related

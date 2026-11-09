@@ -76,3 +76,4 @@ In the younger group, spatial and verbal spans did not differ, "t(60) = 0.884 p 
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
 - [Extensive Chinese logographic literacy training is associated with higher visuospatial short-term storage that does not generalize to phonological storage](chinese-training-visuospatial-storage-domain-specific.md) — related
 - [Modality effects in statistical learning, specifically auditory-serial and visual-spatial advantages, are a relatively robust finding, though construct validity and causality remain open](modality-effects-statistical-learning-relatively-robust.md) — related
+- [The spatial–science association does not vary across ages 7 to 11, contrary to a developmental-fading hypothesis](no-age-moderation-spatial-science-link.md) — related

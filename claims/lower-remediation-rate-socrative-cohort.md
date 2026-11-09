@@ -16,12 +16,14 @@ sources:
     author: Kim Kyong-Jee
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The remediation rate after the mid-term examination was lower in the mobile-technology cohort than in the 2015 comparison cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kim Kyong-Jee. (2019). Enhancing students' active learning and self-efficacy using mobile technology in medical English classes. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.118
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive comparison of remediation rates across cohorts: 21.4% (3/14) in 2015, 9.5% (2/21) in 2016, and 12.0% (3/25) in 2017. All remediated students passed the retest. No significance test is reported for this contrast, and the comparison cohort is small.
 

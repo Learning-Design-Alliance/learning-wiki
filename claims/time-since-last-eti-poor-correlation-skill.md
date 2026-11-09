@@ -16,12 +16,14 @@ sources:
     author: Gillett Brian MD; Saloum David MD, MACM; Aghera Amish MD; Marshall John P. MD, MBA
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Time since last performing or supervising an intubation correlates poorly with intubation skill assessment scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gillett Brian MD; Saloum David MD, MACM; Aghera Amish MD; Marshall John P. MD, MBA. (2019). Skill Proficiency is Predicted by Intubation Frequency of Emergency Medicine Attending Physicians. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2019.6.42946
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlational analysis of recency intervals from the two-year EHR look-back in the same cohort; the article reports r = −0.5, p = 0.002 for time since last performing and r = −0.3, p = 0.07 for time since last supervising.
 

@@ -16,12 +16,14 @@ sources:
     author: Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Beverly Elizabeth A., Ritholz Marilyn D., Rennie Rochelle G., Mort Sophia C. (2019). A brief interactive training with medical students improves their diabetes knowledge about hypoglycemia. BMC Medical Education. https://doi.org/10.1186/s12909-019-1615-x
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Content and thematic analysis of post-training short answers from 209 of 217 participants (98.1% reported positive experiences). Students "agreed that the "15–15 Rule" and hands-on practice with the glucagon emergency kit was beneficial" and reported learning the patient's perspective; interrater Cohen's kappa was 0.959.
 

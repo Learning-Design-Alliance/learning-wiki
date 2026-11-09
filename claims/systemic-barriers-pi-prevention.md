@@ -64,3 +64,4 @@ Narrative synthesis identified these five barriers as "commonly reported" across
 - [Resource limitations and lack of practice hinder uptake of uterine balloon tamponade despite simulation training](ubt-uptake-resource-barriers.md) — a narrower finding that bears on this claim
 - [Lack of staff time was the most significant barrier to implementing the e-learning and care-planning intervention](staff-time-barrier-implementation.md) — a narrower finding that bears on this claim
 - [Interviewed coordinators identify limited resources, poor quality of services, insufficient training and lack of protocols as barriers to maternal sepsis identification and management](qualitative-barriers-sepsis-identification.md) — related
+- [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — a narrower finding that bears on this claim

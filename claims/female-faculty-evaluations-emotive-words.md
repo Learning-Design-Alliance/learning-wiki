@@ -16,12 +16,14 @@ sources:
     author: Heath JK, Weissman GE, Clancy CB, Shou H, Farrar JT, Dine CJ
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In physician trainee narrative evaluations, the words empathetic, delight, and warm are significantly associated with evaluations of female faculty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Heath JK, Weissman GE, Clancy CB, Shou H, Farrar JT, Dine CJ. (2019). Assessment of Gender-Based Linguistic Differences in Physician Trainee Evaluations of Medical Faculty Using Automated Text Mining. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2019.3520
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same mixed-effects logistic regression analysis of trainee n-gram frequencies by faculty gender. The article reports these emotive words as significantly associated with female faculty evaluations; no standardized effect size is printed.
 

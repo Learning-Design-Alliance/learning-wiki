@@ -53,3 +53,4 @@ Authors' summary of the correlation and cluster results in the cross-sectional s
 - [Pre-adolescents in the higher-fitness cluster score better on selective attention and concentration than those in the lower-fitness cluster](higher-fitness-cluster-better-selective-attention-concentration.md) — related
 - [Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression](anova-group-differences-cognitive-psychosocial.md) — related
 - [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
+- [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related

@@ -32,6 +32,8 @@ sources:
     author: "Balart, P. & Oosterveen, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Noncognitive skills, test-taking strategies, and test effort do not explain the female advantage in sustaining performance
@@ -71,7 +73,7 @@ Replication of the baseline analysis on computer-based PISA 2015 data in 58 coun
 
 Balart, P. & Oosterveen, M. (2019). Females show more sustained performance during test-taking than males. Nature Communications, 10, 3798. https://doi.org/10.1038/s41467-019-11691-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Analysis of PISA 2015 computer-log proxies for effort (time spent per question and number of actions per question); the article reports time per question showed no obvious pattern between sexes while "the number of actions per question during the test decreased more quickly for females than for males".
 

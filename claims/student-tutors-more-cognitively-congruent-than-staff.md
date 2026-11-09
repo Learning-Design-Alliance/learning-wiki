@@ -59,3 +59,5 @@ Questionnaire study in two eight-week first-year law courses (202 and 150 studen
 - [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [PBL tutorial groups tutored online synchronously score higher on cognitive aspects than groups with the tutor present in the room](online-synchronous-tutor-higher-cognitive-scores.md) — related
+- [Near-peer and staff tutoring produced no statistically significant difference in overall Evidence-based Practice Confidence (EPIC) scale scores at the end of the module](near-peer-staff-comparable-epic-confidence.md) — related
+- [Students rated their near-peer tutored sessions more positively than staff-tutored sessions on most tutorial-evaluation items in both halves of the module](near-peer-tutorials-rated-better.md) — related

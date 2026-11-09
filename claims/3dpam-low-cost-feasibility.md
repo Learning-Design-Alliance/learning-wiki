@@ -72,3 +72,4 @@ The review's discussion reports that "Eleven studies concluded that 3D printing 
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
 - [A 3D-printed baseboard variant costs $10 USD, is more durable, and could afford more practice repetitions](three-d-printed-baseboard-variant-cost-durability.md) — a narrower finding that bears on this claim
 - [The 3D‐printed temporal bone training model is inexpensive to produce (about 4 USD per model; printers from 300 USD)](3d-printed-temporal-bone-model-cost-4-usd.md) — a narrower finding that bears on this claim
+- [The training model costs under $2 US excluding the catheter set and is reusable, unlike commercial single-use silicone bladder models](cystostomy-model-cost-effectiveness-reusability.md) — related

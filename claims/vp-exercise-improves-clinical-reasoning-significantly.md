@@ -49,3 +49,4 @@ VP-arm within-group result of the randomized trial: residents completed a clinic
 - [Retention of clinical reasoning skills one month after the exercise does not differ between virtual-patient and standardized-patient training, though scores slightly decline from posttest](vp-sp-retention-one-month-no-difference.md) — related
 - [Normalized learning gain is comparable immediately after the exercise (51.46% SP vs 49.1% VP) and at one month (38.01% SP vs 40.12% VP)](vp-sp-learning-gain-percentages.md) — related
 - [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related
+- [VP operating cost per hour is low (USD 12) compared with high-fidelity simulators and standardized patients](vp-low-cost-per-hour.md) — related

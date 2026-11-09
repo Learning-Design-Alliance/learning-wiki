@@ -54,3 +54,4 @@ In Experiment I, each participant's detection threshold was measured four times;
 - [Both neurotypical and autistic adults implicitly learn a prior that biases tactile perception (time-order effect)](both-groups-implicitly-learn-tactile-prior.md) — related
 - [Sensory adaptation occurs in neurotypical but not autistic adults in tactile detection](no-sensory-adaptation-asd.md) — related
 - [Prior influence on perception is stronger in autistic than neurotypical adults in a stable context, but not after a frequency-range change](stronger-prior-influence-asd-stable-context.md) — related
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](sensory-overload-routine-change-university-autism.md) — related

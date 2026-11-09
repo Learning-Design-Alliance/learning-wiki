@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-09
 sources:
   - id: long-jennifer-a-2022
     resource: "https://doi.org/10.1097/SIH.0000000000000547"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 103 postcourse reports across 21 hospitals, 77 (74.7%) recorded latent safety threats with sufficient information for coding against the London Protocol. [→ Long Jennifer A. 2022](#long-jennifer-a-2022)

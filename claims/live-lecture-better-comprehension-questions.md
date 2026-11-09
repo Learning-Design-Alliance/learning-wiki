@@ -49,3 +49,4 @@ Comparison of comprehension-question performance between students who attended t
 - [Both PRL-user and PRL-non-user groups scored significantly higher on memory questions than on comprehension questions](prl-groups-higher-memory-than-comprehension.md) — related
 - [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](laptop-notes-verbatim-shallower.md) — related
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
+- [Prior comparative studies of live versus video lectures report contradictory results, mostly on restricted curriculum content](prior-live-video-studies-contradictory-restricted.md) — reports the opposite

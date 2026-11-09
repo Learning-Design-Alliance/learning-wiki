@@ -17,12 +17,14 @@ sources:
     author: Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Women PA students show higher ethnocultural empathy and lower colorblindness and depersonalization than men
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen. (2019). Baseline cultural competence in physician assistant students. PLoS ONE. https://doi.org/10.1371/journal.pone.0215910
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Gender comparison via Mann-Whitney U in the 204-student sample. Three differences were significant: ethnocultural empathy (U = 4142.00, p = .028), colorblindness (U = 6077.50, p = .028), and depersonalization (U = 6172.00, p = .003), with women lower on colorblindness and depersonalization.
 

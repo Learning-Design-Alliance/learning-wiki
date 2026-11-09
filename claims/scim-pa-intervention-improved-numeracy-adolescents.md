@@ -69,3 +69,4 @@ Same cluster RCT, same mixed-model analysis of national numeracy tests. The arti
 - [The physical activity interventions also improved reading performance versus controls, with very small effect sizes for both PAL and DWBH](scim-pa-intervention-improved-reading-adolescents.md) — related
 - [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](pal-gender-subgroup-girls-benefit.md) — related
 - [The PAL pilot found no differences in literacy or numeracy attainment between intervention and control pupils at post-test](pal-pilot-no-attainment-differences.md) — reports the opposite
+- [Integrating task-relevant physical activity into math lessons for one school year improves math achievement in 7-year-old children more than regular math teaching](active-math-improves-math-achievement-rct.md) — related

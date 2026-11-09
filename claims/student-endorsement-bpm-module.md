@@ -53,3 +53,4 @@ Post-survey module feedback from both cohorts. 84% (n = 166) endorsed continued 
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
 - [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related
+- [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related

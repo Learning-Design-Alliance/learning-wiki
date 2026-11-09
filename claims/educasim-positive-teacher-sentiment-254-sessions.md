@@ -53,3 +53,4 @@ Observational usage analysis of the two-week deployment (Table 2 reports 254 ses
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [The simulation with the creation of the artificial buddy was the most appreciated part of the session (45.40% of open answers)](simulation-most-appreciated-part-ibuddy.md) — related
+- [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related

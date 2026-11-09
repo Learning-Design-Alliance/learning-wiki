@@ -55,3 +55,4 @@ Experiment I behavioral analysis of threshold dispersions: NT showed adaptation 
 - [Prior influence on perception is stronger in autistic than neurotypical adults in a stable context, but not after a frequency-range change](stronger-prior-influence-asd-stable-context.md) — related
 - [Autistic adults adjust their prior expectation more slowly than neurotypical adults after a change in stimulus frequency range](slower-prior-adjustment-asd.md) — related
 - [Computational modeling shows a lower sensory/prior precision ratio in autistic adults in Exp. II and an opposite response bias across groups](lower-precision-ratio-and-response-bias-asd.md) — related
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](sensory-overload-routine-change-university-autism.md) — related

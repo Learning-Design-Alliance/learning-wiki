@@ -56,3 +56,4 @@ Faculty interview testimony in the limited-resources category; an instructor (P8
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
 - [Perceived barriers to implementing ophthalmic simulation in SSA include cost, inadequate supervision, lack of equipment or facilities, resistance to change and sustainability concerns](sbse-implementation-barriers-ssa.md) — related
 - [Qualitative analysis in a surgical-department PAR identified three main problems affecting clinical competencies: professional insufficiency, basic shortages and external influences.](par-three-competency-problems-surgical-ward.md) — related
+- [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — related

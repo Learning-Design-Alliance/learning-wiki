@@ -16,12 +16,14 @@ sources:
     author: Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Only about half of people who use opioids in justice diversion addiction treatment have naloxone knowledge despite very high overdose exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional survey of 514 people who use opioids in a residential justice diversion addiction treatment program in Michigan, 2014–2016. Descriptive results show "Only 56.2% of participants had naloxone knowledge" despite 68.1% having experienced and 79.2% having witnessed an overdose.
 

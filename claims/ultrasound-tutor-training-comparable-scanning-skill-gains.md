@@ -24,6 +24,8 @@ sources:
     author: Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Peer-student ultrasound tutors in three training groups had higher practical scanning-skill scores after training than before, in pre-post measurements without a comparison group
@@ -52,7 +54,7 @@ Pre-post OSCE (depict and label 15 anatomical structures in maximum three images
 
 Celebi Nora, Griewatz Jan, Malek Nisar Peter, Hoffmann Tatjana, Walter Carina, Muller Reinhold, Riessen Reimer, Pauluschke-Fröhlich Jan, Debove Ines, Zipfel Stephan, Fröhlich Eckhart. (2019). Outcomes of three different ways to train medical students as ultrasound tutors. BMC Medical Education. https://doi.org/10.1186/s12909-019-1556-4
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' interpretation in the Discussion of their own pre-post results: the one-week course-only group's scanning improvement was "comparable to the I- and CI-group" despite the latter having several weeks of practice.
 

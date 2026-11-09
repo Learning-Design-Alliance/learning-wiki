@@ -58,3 +58,4 @@ Cross-sectional study of 514 first-cycle primary students in North Shoa Zone, Et
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — related
 - [Breakfast eating frequency is significantly associated with academic performance among Chinese medical and dental students](breakfast-frequency-academic-performance-medical-dental.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite

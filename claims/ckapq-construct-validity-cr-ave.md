@@ -52,3 +52,4 @@ Construct validity assessment of the five-factor CFA measurement model (Table 6)
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related
+- [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related

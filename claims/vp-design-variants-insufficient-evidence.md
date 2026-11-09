@@ -69,3 +69,4 @@ Narrative synthesis of 4 design-comparison studies for skills outcomes; single s
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related
+- [Branched decision-making VPs produced no significant difference in undergraduate medical students' motivation or learning strategies compared with linear VPs](branched-vp-decision-making-no-motivation-difference.md) — a narrower finding that bears on this claim

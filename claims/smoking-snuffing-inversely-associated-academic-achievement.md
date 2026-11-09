@@ -55,3 +55,4 @@ Cross-sectional logistic regression of smoking and snuffing (occasional or daily
 - [Non-smoking university students in Southern Ethiopia had about three times higher odds of good academic performance than smokers](non-smokers-threefold-odds-good-academic-performance-ethiopia.md) — a narrower finding that bears on this claim
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — related
 - [Current smoking is associated with lower odds of high academic achievement among Lebanese adolescents](current-smoking-lower-academic-achievement.md) — a narrower finding that bears on this claim
+- [Both paternal and maternal smoking are independently associated with low academic performance, with maternal smoking showing the stronger association](parental-smoke-associated-low-academic-performance.md) — related

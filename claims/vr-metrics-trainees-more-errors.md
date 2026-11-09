@@ -16,12 +16,14 @@ sources:
     author: Crossley Robert, Liebig Thomas, Holtmannspoetter Markus, Lindkvist Johan, Henn Pat, Lonn Lars, Gallagher Anthony Gerald
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Trainee INRs made 42% more handling errors than consultant INRs in the simulated MT procedure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Crossley Robert, Liebig Thomas, Holtmannspoetter Markus, Lindkvist Johan, Henn Pat, Lonn Lars, Gallagher Anthony Gerald. (2019). Validation studies of virtual reality simulation performance metrics for mechanical thrombectomy in ischemic stroke. Journal of Neurointerventional Surgery 11(8):775-780. https://doi.org/10.1136/neurintsurg-2018-014510
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Same VIST construct validity study assessing computer-scored handling errors. Trainees made "42% more handling errors than the consultant INRs", median 44 versus 26, reported as "Mann–Whitney U=13.5, Z=−2.36, P=0.016".
 

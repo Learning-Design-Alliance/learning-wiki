@@ -70,3 +70,4 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [The largest learning-curve gains in basic laparoscopic skills occur within the first three training sessions](largest-pi-gains-first-three-sessions.md) — related
 - [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
 - [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
+- [Individual embryo transfer learning curves plateau after approximately 12 procedures, with competence acquisition varying between individuals](et-learning-curve-plateau-12-procedures.md) — related

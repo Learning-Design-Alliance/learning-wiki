@@ -16,12 +16,14 @@ sources:
     author: Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students rated all questionnaire items higher in the combined flipped classroom + PBL group, with significant advantages in motivation, interaction and multiple self-perceived abilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hu Xiaolei, Zhang Hengyan, Song Yuan, Wu Chenchen, Yang Qingqing, Shi Zhaoming, Zhang Xiaomei, Chen Weidong. (2019). Implementation of flipped classroom combined with problem-based learning: an approach to promote learning about hyperthyroidism in the endocrinology internship. BMC Medical Education. https://doi.org/10.1186/s12909-019-1714-8
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Post-class anonymous questionnaire with 11 items rated 1–5, plus a chi-square satisfaction analysis (score ≥ 4 = satisfactory). Table 3 shows e.g. teamwork satisfaction at 97.3% (CG) vs 13.5% (TG), χ2 = 49.224, P = 0.000. Only printed p-values and percentages are reported; no effect sizes are printed.
 

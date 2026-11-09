@@ -71,3 +71,4 @@ The Grade 5 questionnaire results showed the same pattern: higher satisfaction i
 - [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
 - [PRI-E consumed more student spare time than LBL, which may have reduced satisfaction](pri-e-spare-time-cost.md) — related
 - [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — reports the opposite
+- [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — related

@@ -51,6 +51,7 @@ Based on student optimization recommendations from the qualitative analysis, the
 - [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 - [Establish 3D printing teaching platforms in hospitals and universities to enhance interns' professional value recognition and internship teaching quality](establish-3d-printing-teaching-platforms-strategy.md)
 - [Adopt performance analytics and tele-simulation to individualize simulation learning and extend access across campuses](performance-analytics-tele-simulation-strategy.md)
+- [Combine e-learning with face-to-face sessions or increase e-learning frequency and duration to achieve lasting attitude change](combine-elearning-face-to-face-attitude-change.md)
 
 ## Examples
 -

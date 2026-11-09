@@ -103702,5 +103702,1405 @@
  "test-format\tthree-category response scale\tfive-category response scale": {
   "label": "Five-category vs three-category response scale",
   "treatment_is_a": false
+ },
+ "active-learning\t5-day simulation and active-learning curriculum\tpre-intervention": {
+  "label": "simulation-based active-learning curriculum vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tIBIS student-centered inquiry curriculum\tpre-course baseline": {
+  "label": "IBIS student-centered inquiry curriculum vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tNICU boot camp\tpre-boot-camp readiness": {
+  "label": "NICU boot camp vs pre-boot-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive sharing and use of different knowledge types in practice\tpractice without active knowledge sharing and blending": {
+  "label": "active knowledge sharing and integration in practice vs practice without active knowledge sharing or integration",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive sharing and use of different knowledge types in practice\tpractice without active knowledge sharing or integration": {
+  "label": "active knowledge sharing and integration in practice vs practice without active knowledge sharing or integration",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative dyadic preparation\tbasic preparation": {
+  "label": "collaborative dyadic preparation vs basic preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative dyadic preparation\tindividual preparation": {
+  "label": "collaborative dyadic preparation vs individual preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative dyadic self-study\tbasic self-study": {
+  "label": "collaborative dyadic self-study vs basic self-study",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative dyadic self-study\tindividual self-study": {
+  "label": "collaborative dyadic self-study vs individual self-study",
+  "treatment_is_a": true
+ },
+ "active-learning\tflip teaching\ttraditional lecturer-based learning": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional classroom instruction": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional classroom-based instruction": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional lecturer-based learning": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom active teaching\ttraditional lecturer-based learning": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with practice, discussion, clarification, and team-based learning\ttraditional classroom instruction with team-based practice": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with pre-class materials and in-class discussion\ttraditional lecturer-based learning": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with pre-class materials and in-class discussion\ttraditional lecturer-based master class": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom/flip teaching\ttraditional lecturer-based learning": {
+  "label": "flipped classroom or teaching vs traditional lecturer-based or classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion of resident performance in a clinical competency committee\tindividual recognition of resident performance": {
+  "label": "group discussion of performance vs individual recognition of performance",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on task-trainer practice\tinstructional video": {
+  "label": "hands-on task-trainer practice vs instructional video",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstructed collaborative dyadic preparation\tindividual preparation": {
+  "label": "instructed collaborative dyadic preparation vs individual preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstructed collaborative dyadic preparation\tinstructed individual preparation": {
+  "label": "instructed collaborative dyadic preparation vs instructed individual preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive peer-guided course\tmindless memorization or passive study": {
+  "label": "interactive peer-guided learning vs passive study or memorization",
+  "treatment_is_a": true
+ },
+ "active-learning\tnear-peer tutors who were newly graduated doctors\texperienced medical staff tutors": {
+  "label": "near-peer tutoring vs experienced-staff tutoring",
+  "treatment_is_a": true
+ },
+ "active-learning\tnear-peer-tutored tutorials\tstaff-tutored tutorials": {
+  "label": "near-peer tutoring vs staff tutoring",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-to-peer practice\tinstructional video": {
+  "label": "peer-to-peer practice vs instructional video",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-course IBIS student-centered inquiry curriculum\tpre-course baseline": {
+  "label": "IBIS student-centered inquiry curriculum vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpreparation in collaborative learning dyads\tpreparation individually": {
+  "label": "collaborative dyadic preparation vs individual preparation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpreparation in collaborative learning dyads\tvideo preparation without dyad instruction or comprehension questions": {
+  "label": "collaborative dyadic preparation vs video preparation without dyad instruction or comprehension questions",
+  "treatment_is_a": true
+ },
+ "active-learning\tprescribing skills workshop using Jigsaw interprofessional learning\tbefore the workshop": {
+  "label": "Jigsaw interprofessional prescribing-skills workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tprescribing skills workshop using Jigsaw learning\tbefore the workshop": {
+  "label": "Jigsaw prescribing-skills workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured group discussion using multiple assessment data and perspectives\tindividual judgments without group discussion": {
+  "label": "structured group discussion using multiple perspectives and assessment data vs individual judgment",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents after teaching BLS to community members\tstudents before teaching BLS": {
+  "label": "teaching BLS to community members vs before teaching BLS",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents taught BLS to community members\tstudents received BLS training but had not yet taught": {
+  "label": "teaching BLS to community members vs BLS training without subsequent teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tteaching BLS to community members\tBLS-trained students who did not teach before reassessment": {
+  "label": "teaching BLS to community members vs BLS-trained students who did not teach",
+  "treatment_is_a": true
+ },
+ "active-learning\tthree-session NICU boot camp with interactive lectures, case application, and simulation\tnot stated": {
+  "label": "NICU boot camp vs no boot camp or pre-boot-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraining with any of the three methods\tpre-training likelihood to perform otoscopy": {
+  "label": "active training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tvoluntary individual student presentations\tnot performing the presentations": {
+  "label": "student presentations vs no presentations",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tShared decision-making with the nurse about ULT options and risks\tUsual primary-care decision-making with less patient involvement": {
+  "label": "Shared decision-making vs usual care with less patient involvement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpractitioner-driven, work-based CPD with facilitated reflection\tad hoc CPD": {
+  "label": "Practitioner-driven, facilitated work-based CPD vs ad hoc CPD",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning (SDL)\tinstruction-based learning (IBL)": {
+  "label": "Self-directed learning vs instruction-based learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tshared decision-making about ULT risks, benefits, and options\tusual GP care with less patient involvement": {
+  "label": "Shared decision-making vs usual care with less patient involvement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tshared decision-making with nurse discussion of treatment options\tusual consultation without collaborative treatment decision-making": {
+  "label": "Shared decision-making vs usual care without collaborative treatment decision-making",
+  "treatment_is_a": true
+ },
+ "debriefing\tSHORT scale with holistic rating\tSHORT items 1–5 without holistic rating": {
+  "label": "holistic rating plus item ratings vs item ratings alone",
+  "treatment_is_a": true
+ },
+ "debriefing\tfull SHORT scale\tholistic rating alone": {
+  "label": "full scale vs holistic rating alone",
+  "treatment_is_a": true
+ },
+ "debriefing\tguided debriefing after the simulation\tno comparison; single-group survey": {
+  "label": "guided debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tone rater assessing four debriefings\tone rater assessing three debriefings": {
+  "label": "more debriefings assessed per rater vs fewer debriefings assessed per rater",
+  "treatment_is_a": true
+ },
+ "debriefing\tone rater assessing three debriefings\tone rater assessing two debriefings": {
+  "label": "more debriefings assessed per rater vs fewer debriefings assessed per rater",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tprogressive learning with progressively more difficult cases\tnon-progressive learning": {
+  "label": "progressive vs non-progressive",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week EBM course\tpre-course baseline": {
+  "label": "explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t1-week EBM course\tunrelated non-EBM course": {
+  "label": "EBM instruction vs unrelated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAMANAT workshops for physician leadership and clinical care\tphysician practice and support before the workshops": {
+  "label": "explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tNurse explanation of serum-urate targets and ULT up-titration\tFixed, low-dose ULT without adequate explanation or optimization": {
+  "label": "explicit instruction and treatment optimization vs fixed low-dose treatment without explanation or optimization",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tNurse-led education about gout, ULT, and up-titration\tPrior primary-care care with limited treatment information": {
+  "label": "nurse-led education vs limited-information usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSVI Self-Study Guide covering professionalism and interpersonal and communication skills\tprequiz before completing the guide": {
+  "label": "explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tadditional explanation and discussion of EPA and CanMEDS assessment criteria\tinitial meeting before the additional explanation": {
+  "label": "additional explicit explanation vs initial meeting without additional explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief didactic and guided hands-on ONSD training for military trainees\tmeasurements by trained physician experts": {
+  "label": "explicit training vs expert performance benchmark",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tindividualised explanation of ULT up-titration and target serum urate\tusual GP care": {
+  "label": "individualized instruction and treatment optimization vs usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinformed about unit outcome analysis\tbefore being informed": {
+  "label": "explicit information vs uninformed baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnurse-led education about gout and ULT\tusual GP care": {
+  "label": "nurse-led education vs usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnurse-led individualised education about gout and ULT\tusual general-practitioner care": {
+  "label": "individualized nurse-led education vs usual care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-learning obesity-management module\tno comparator reported": {
+  "label": "self-learning instruction vs no comparator reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstudent-taught BLS course\tpre-course theoretical assessment": {
+  "label": "explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tRepeated practical assessment after feedback\tInitial practical assessment before feedback": {
+  "label": "Reassessment after feedback vs initial assessment before feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\taugmented feedback\tno augmented feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\taugmented feedback during simulator training\tno augmented feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\taugmented feedback during simulator training\tno augmented feedback during simulator training": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfamily feedback with or without parental guidance\tno-feedback control": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\thigh-complexity clinical cases\tlower-complexity clinical cases": {
+  "label": "Higher-complexity cases vs lower-complexity cases",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treview whether prior feedback was acted on\tno review of prior feedback": {
+  "label": "Review of prior feedback vs no review of prior feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tself-guided practice\tcoached practice": {
+  "label": "Coached practice vs self-guided practice",
+  "treatment_is_a": false
+ },
+ "feedback-presence\tsimulation with performance feedback\tsimulation without performance feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsimulation-based training with feedback\tsimulation-based training without feedback": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tvisual feedback and weekly event reports to teens and parents\tno-intervention phase": {
+  "label": "Feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCST with specific, structured, behavior-oriented feedback\tpre-training baseline": {
+  "label": "feedback vs pre-training",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCST with specific, structured, behavior-oriented feedback\tpre-training performance before CST": {
+  "label": "feedback vs pre-training",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback whose message was mitigated by saying CCC members did not all agree\tfeedback without such mitigation": {
+  "label": "mitigated vs unmitigated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgeneral feedback on strengths\tspecific feedback on strengths": {
+  "label": "specific vs general feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tgeneral suggestions for development\tspecific suggestions for development": {
+  "label": "specific vs general feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tspecific structured behavioral feedback\tpre-training": {
+  "label": "feedback vs pre-training",
+  "treatment_is_a": true
+ },
+ "feedback-type\tspecific, structured, behavior-oriented feedback\tgeneral, experience-oriented feedback": {
+  "label": "specific vs general feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tspecific, structured, behavior-oriented feedback\tpre-training performance": {
+  "label": "feedback vs pre-training",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t17-item communication assessment tool across nine simulated scenarios\tnone": {
+  "label": "formative assessment vs none",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tCCC feedback and action plan without reviewing prior developmental needs at the next meeting\tfeedback loop in which prior feedback is reviewed and acted upon": {
+  "label": "reviewing prior feedback and acting on it vs not reviewing prior feedback",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tPeriodic nurse monitoring of serum urate with dose adjustment and supportive contact\tUsual primary-care care with less regular monitoring and review": {
+  "label": "regular nurse monitoring with dose adjustment and supportive contact vs usual care",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tRelevant open-book online formative assessment\tIrrelevant open-book online formative assessment": {
+  "label": "relevant formative assessment vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tassessment of system and team skill gaps informing CPD\tindividual-focused CPD without system or team gap assessment": {
+  "label": "system and team skill-gap assessment informing CPD vs individual-focused CPD without system or team assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tassessment of systems and team skill gaps informing CPD\tindividual-focused CPD without team or systems assessment": {
+  "label": "system and team skill-gap assessment informing CPD vs individual-focused CPD without system or team assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\topen-book formative assessment on the upcoming practical-course topic\topen-book formative assessment on an unrelated topic": {
+  "label": "relevant formative assessment vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\topen-book formative assessment relevant to the practical course\topen-book formative assessment on irrelevant human anatomy": {
+  "label": "relevant formative assessment vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular nurse monitoring of serum urate with dose up-titration\tusual general-practitioner care": {
+  "label": "regular nurse monitoring with dose adjustment vs usual care",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular serum-urate monitoring with dose adjustment and nurse review\tless intensive usual GP care": {
+  "label": "regular monitoring with dose adjustment and nurse review vs usual care",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trelevant open-book online formative assessment\tirrelevant open-book online formative assessment": {
+  "label": "relevant formative assessment vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trelevant open-book online formative assessment before the practical course\tirrelevant open-book online formative assessment": {
+  "label": "relevant formative assessment before the practical course vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trelevant open-book online formative assessment before the practical course\tirrelevant open-book online formative assessment on human anatomy": {
+  "label": "relevant formative assessment before the practical course vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trelevant open-book online formative assessment on Performance Physiology\tirrelevant open-book online formative assessment on Human Anatomy": {
+  "label": "relevant formative assessment vs irrelevant formative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified driving intervention\tcontrol condition": {
+  "label": "Gamified vs nongamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tserious game\tvideo-based online course": {
+  "label": "Serious game vs video-based course",
+  "treatment_is_a": true
+ },
+ "gamification\tteam competition integrated into simulation-based point-of-care ultrasound curriculum\ttraditional simulation-based curriculum": {
+  "label": "Team competition vs no team competition",
+  "treatment_is_a": true
+ },
+ "media-design\tanimated virtual patient\tstatic-media virtual patient": {
+  "label": "animated virtual patient vs static-media virtual patient",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation-enriched virtual patient\tstatic-media virtual patient": {
+  "label": "animated virtual patient vs static-media virtual patient",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation-enriched virtual patient\tvideo instruction": {
+  "label": "animation-enriched virtual patient vs video instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation-enriched virtual patients\tstatic-media virtual patients": {
+  "label": "animated virtual patient vs static-media virtual patient",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional videos with animated media\tstatic-media virtual patients": {
+  "label": "animated instructional video vs static-media virtual patient",
+  "treatment_is_a": true
+ },
+ "media-design\tlinear-spatial addend materials\tirregular-array addend materials": {
+  "label": "linear-spatial materials vs irregular-array materials",
+  "treatment_is_a": true
+ },
+ "media-design\tlinear-spatial addition materials\tirregular-array addition materials": {
+  "label": "linear-spatial materials vs irregular-array materials",
+  "treatment_is_a": true
+ },
+ "media-design\tlive simulated clinical scene\tvideo projection of the same scene": {
+  "label": "live simulated clinical scene vs video projection",
+  "treatment_is_a": true
+ },
+ "media-design\tlive simulated clinical scene with actors\tsame clinical case projected by video": {
+  "label": "live simulated clinical scene vs video projection",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo instruction\tanimation-enriched virtual patient": {
+  "label": "animation-enriched virtual patient vs video instruction",
+  "treatment_is_a": false
+ },
+ "media-design\tvideo instruction\tstatic-media virtual patient": {
+  "label": "video instruction vs static-media virtual patient",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual cues in the gamified intervention\tcontrol condition without the visual cues": {
+  "label": "visual cues vs no visual cues",
+  "treatment_is_a": true
+ },
+ "other\t0 < weekly physical activity < 3.5 h\tat least 3.5 h weekly physical activity": {
+  "label": "lower vs higher weekly physical activity",
+  "treatment_is_a": true
+ },
+ "other\t0 < weekly physical activity < 3.5 h\tno physical activity": {
+  "label": "physical activity vs none",
+  "treatment_is_a": true
+ },
+ "other\t1-year Karate Mind and Movement intervention during PE\thabitual PE lessons": {
+  "label": "Karate Mind and Movement intervention vs habitual PE",
+  "treatment_is_a": true
+ },
+ "other\t1-year problem-based learning\thome-sent patient information": {
+  "label": "problem-based learning vs home-sent patient information",
+  "treatment_is_a": true
+ },
+ "other\t1-year problem-based learning group\thome-sent patient information": {
+  "label": "problem-based learning vs home-sent patient information",
+  "treatment_is_a": true
+ },
+ "other\t1-year problem-based learning group sessions\thome-sent patient information": {
+  "label": "problem-based learning vs home-sent patient information",
+  "treatment_is_a": true
+ },
+ "other\t1-year school-based karate during PE\thabitual PE lessons": {
+  "label": "school-based karate vs habitual PE",
+  "treatment_is_a": true
+ },
+ "other\t1-year school-based karate during PE lessons\thabitual PE lessons": {
+  "label": "school-based karate vs habitual PE",
+  "treatment_is_a": true
+ },
+ "other\t1-year school-based karate intervention\thabitual physical education lessons": {
+  "label": "school-based karate vs habitual PE",
+  "treatment_is_a": true
+ },
+ "other\t1-year school-based karate intervention\tusual physical education lessons": {
+  "label": "school-based karate vs usual PE",
+  "treatment_is_a": true
+ },
+ "other\t10 am classes\t9 am classes": {
+  "label": "10 am classes vs 9 am classes",
+  "treatment_is_a": true
+ },
+ "other\t10 health centers with irregular ePOCT+ data patterns\toverall health-center reference patterns": {
+  "label": "irregular ePOCT+ data patterns vs health-center reference patterns",
+  "treatment_is_a": true
+ },
+ "other\t10 items and 2 raters\t4 items and 2 raters": {
+  "label": "10 items vs 4 items, same number of raters",
+  "treatment_is_a": true
+ },
+ "other\t10 minutes of vigorous physical activity added to each PE lesson\tPE as usual": {
+  "label": "PE plus 10 minutes of vigorous activity vs PE as usual",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training course with experiential learning\tno pre-course comparison; post-course satisfaction assessment": {
+  "label": "experiential critical-care training vs no comparison",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training course with experiential learning\tpre-course baseline": {
+  "label": "experiential critical-care training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with experiential learning\tbaseline before training": {
+  "label": "experiential critical-care training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with experiential learning\tnone": {
+  "label": "experiential critical-care training vs none",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with experiential learning\tpre-course baseline": {
+  "label": "experiential critical-care training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with lectures and experiential learning\tbaseline before training": {
+  "label": "lectures plus experiential critical-care training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with lectures and experiential learning\tno comparison; satisfaction assessed after training": {
+  "label": "lectures plus experiential critical-care training vs no comparison",
+  "treatment_is_a": true
+ },
+ "other\t10-day critical care training with lectures and experiential learning\tpre-course baseline": {
+  "label": "lectures plus experiential critical-care training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-item two-factor MUSCAT\tInterprofessional Collaboration Competency Scale": {
+  "label": "10-item two-factor MUSCAT vs Interprofessional Collaboration Competency Scale",
+  "treatment_is_a": true
+ },
+ "other\t10-meeting communication training\tbaseline before training": {
+  "label": "communication training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-meeting communication training with lectures, focus groups, and workshops\tbaseline before training": {
+  "label": "communication training with lectures, focus groups, and workshops vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-meeting communication training with lectures, focus groups, and workshops\tpre-training baseline": {
+  "label": "communication training with lectures, focus groups, and workshops vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-minute increase in daily school-day MVPA\tno increase in daily school-day MVPA": {
+  "label": "10-minute MVPA increase vs no increase",
+  "treatment_is_a": true
+ },
+ "other\t10-session happiness training workshop\tpre-training baseline": {
+  "label": "happiness training workshop vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t10-week WhatsApp rational emotive education program\t10-week WhatsApp stress-motivation control condition": {
+  "label": "rational emotive education via WhatsApp vs stress-motivation control",
+  "treatment_is_a": true
+ },
+ "other\t10-week WhatsApp rational emotive education program\tWhatsApp control group receiving motivational stress-management posts, pictures, and videos": {
+  "label": "rational emotive education via WhatsApp vs motivational stress-management control",
+  "treatment_is_a": true
+ },
+ "other\t10-week WhatsApp rational emotive education program\tWhatsApp motivational stress-management posts, pictures, and videos": {
+  "label": "rational emotive education via WhatsApp vs motivational stress-management control",
+  "treatment_is_a": true
+ },
+ "other\t10-week rational emotive education program via WhatsApp\tWhatsApp motivational stress-related posts, pictures, and videos": {
+  "label": "rational emotive education via WhatsApp vs motivational stress-management control",
+  "treatment_is_a": true
+ },
+ "other\t10-week rational emotive education via WhatsApp\t10-week WhatsApp motivational stress-information control": {
+  "label": "rational emotive education via WhatsApp vs motivational stress-information control",
+  "treatment_is_a": true
+ },
+ "other\t100% HAI only (HAI-O)\tacademic stress management only (ASM)": {
+  "label": "HAI only vs academic stress management only",
+  "treatment_is_a": true
+ },
+ "other\t100% HAI with therapy dogs\tacademic stress management content only": {
+  "label": "HAI with therapy dogs vs academic stress management only",
+  "treatment_is_a": true
+ },
+ "other\t100% HAI with therapy dogs\tacademic stress management content only (ASM)": {
+  "label": "HAI with therapy dogs vs academic stress management only",
+  "treatment_is_a": true
+ },
+ "other\t100% Year-1 credit standard\t67% Year-1 credit standard": {
+  "label": "100% Year-1 credit standard vs 67% standard",
+  "treatment_is_a": true
+ },
+ "other\t100% Year-1 credit standard, compared by gender\t67% Year-1 credit standard, compared by gender": {
+  "label": "100% Year-1 credit standard vs 67% standard",
+  "treatment_is_a": true
+ },
+ "other\t100% feedback frequency\t50% feedback frequency": {
+  "label": "100% feedback frequency vs 50% feedback frequency",
+  "treatment_is_a": true
+ },
+ "other\t10–25-minute units and 1.5–2-hour programme\tother course-duration format": {
+  "label": "shorter units and programme duration vs other course-duration format",
+  "treatment_is_a": true
+ },
+ "other\t10–30 cases to achieve and maintain proficiency\tnot stated": {
+  "label": "10–30 cases to achieve and maintain proficiency vs not stated",
+  "treatment_is_a": true
+ },
+ "other\t10–30 min daily active school transport\tnon-active transportation": {
+  "label": "10–30 minutes of active school transport vs non-active transportation",
+  "treatment_is_a": true
+ },
+ "other\t10–30 min of daily active school transport\tnon-active transportation": {
+  "label": "10–30 minutes of active school transport vs non-active transportation",
+  "treatment_is_a": true
+ },
+ "other\t10–30 minutes of daily active school transport\tnon-active transportation": {
+  "label": "10–30 minutes of active school transport vs non-active transportation",
+  "treatment_is_a": true
+ },
+ "other\t11 am classes\t9 am classes": {
+  "label": "11 am classes vs 9 am classes",
+  "treatment_is_a": true
+ },
+ "other\t11:30 test shift\t8:00 test shift": {
+  "label": "11:30 test shift vs 8:00 test shift",
+  "treatment_is_a": true
+ },
+ "other\t12 residents discussed in 120 minutes, with meetings held four times a year\t24 residents discussed in 150 minutes, with meetings held twice a year": {
+  "label": "12 residents in 120 minutes, four annual meetings vs 24 residents in 150 minutes, two annual meetings",
+  "treatment_is_a": true
+ },
+ "other\t12 textbooks on sexuality and human reproduction published in 2002\tno comparison condition reported": {
+  "label": "sexuality and human-reproduction textbooks vs no comparison",
+  "treatment_is_a": true
+ },
+ "other\t12-hour empathy role-playing training\tcontrol group": {
+  "label": "empathy role-playing training vs control",
+  "treatment_is_a": true
+ },
+ "other\t12-month spiritual care training\tmonthly hospital nursing education": {
+  "label": "spiritual care training vs routine nursing education",
+  "treatment_is_a": true
+ },
+ "other\t12-month spiritual care training\tpreintervention baseline": {
+  "label": "spiritual care training vs preintervention baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-month spiritual care training protocol\tmonthly routine nursing education": {
+  "label": "spiritual care training vs routine nursing education",
+  "treatment_is_a": true
+ },
+ "other\t12-month training and pilot experience\tweek 1 of training": {
+  "label": "training and pilot experience vs week 1 of training",
+  "treatment_is_a": true
+ },
+ "other\t12-session REBT group intervention\tplacebo control counseling": {
+  "label": "REBT group intervention vs placebo counseling",
+  "treatment_is_a": true
+ },
+ "other\t12-session REBT group intervention disputing irrational beliefs\tplacebo control regular counseling": {
+  "label": "REBT disputing irrational beliefs vs placebo counseling",
+  "treatment_is_a": true
+ },
+ "other\t12-week adapted recreational swimming program\tcontrol group without aquatic activity": {
+  "label": "adapted recreational swimming vs no aquatic activity",
+  "treatment_is_a": true
+ },
+ "other\t12-week adapted recreational swimming program\tno aquatic or swimming activities": {
+  "label": "adapted recreational swimming vs no aquatic activity",
+  "treatment_is_a": true
+ },
+ "other\t12-week classroom physical-activity breaks with nutritional education\tregular science lessons without physical activity": {
+  "label": "classroom physical-activity breaks plus nutrition education vs regular science lessons",
+  "treatment_is_a": true
+ },
+ "other\t12-week classroom-based physical activity breaks plus nutritional education during science classes\tregular science lessons": {
+  "label": "classroom physical-activity breaks plus nutrition education vs regular science lessons",
+  "treatment_is_a": true
+ },
+ "other\t12-week classroom-based physical activity breaks with nutritional education\tregular science lessons": {
+  "label": "classroom physical-activity breaks plus nutrition education vs regular science lessons",
+  "treatment_is_a": true
+ },
+ "other\t12-week classroom-based physical-activity breaks plus nutritional education\tregular science lessons": {
+  "label": "classroom physical-activity breaks plus nutrition education vs regular science lessons",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based multimodal intervention\tpre-intervention assessment": {
+  "label": "hemispheric-based multimodal intervention vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based multimodal intervention with primitive-reflex inhibition exercises\tpre-intervention baseline": {
+  "label": "hemispheric-based multimodal intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based multimodal training including synchronized metronome training\tpre-intervention assessment": {
+  "label": "hemispheric-based multimodal training vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based multimodal training program\tinitial pre-intervention testing": {
+  "label": "hemispheric-based multimodal training vs pre-intervention testing",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based multimodal training program\tpre-intervention baseline": {
+  "label": "hemispheric-based multimodal training vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week hemispheric-based training program with primitive-reflex inhibition exercises\tpre-intervention assessment": {
+  "label": "hemispheric-based training with primitive-reflex inhibition vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "other\t12-week multimodal hemispheric-based intervention\tpre-intervention baseline": {
+  "label": "multimodal hemispheric-based intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week multimodal hemispheric-based training program\tpre-intervention assessment": {
+  "label": "multimodal hemispheric-based training vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "other\t12-week music-based CBT group\tcontrol group": {
+  "label": "music-based CBT vs control",
+  "treatment_is_a": true
+ },
+ "other\t12-week music-based CBT intervention\tpretest baseline": {
+  "label": "music-based CBT vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week recreational swimming program\tcontrol group": {
+  "label": "recreational swimming vs control",
+  "treatment_is_a": true
+ },
+ "other\t12-week recreational swimming program\tcontrol group without aquatic activity": {
+  "label": "recreational swimming vs control without aquatic activity",
+  "treatment_is_a": true
+ },
+ "other\t12-week recreational swimming program\tcontrol group without aquatic/swimming activities": {
+  "label": "recreational swimming vs control without aquatic activity",
+  "treatment_is_a": true
+ },
+ "other\t12-week recreational swimming training based on games\tcontrol group with no aquatic or swimming activities": {
+  "label": "game-based recreational swimming vs no aquatic activity",
+  "treatment_is_a": true
+ },
+ "other\t12–18-month follow-up\t4-month follow-up": {
+  "label": "13–18-month follow-up vs 4-month follow-up",
+  "treatment_is_a": true
+ },
+ "other\t13:15 test shift\t8:00 test shift": {
+  "label": "13:15 test shift vs 8:00 test shift",
+  "treatment_is_a": true
+ },
+ "other\t14 assessment stations\t8 assessment stations": {
+  "label": "14 assessment stations vs 8 assessment stations",
+  "treatment_is_a": true
+ },
+ "other\t14-item Flipped-Learning Assessment Scale\tnone; internal-consistency analysis": {
+  "label": "14-item Flipped-Learning Assessment Scale vs none",
+  "treatment_is_a": true
+ },
+ "other\t15 behaviorally informed weekly email nudges to teachers\treminder-only email control": {
+  "label": "behaviorally informed email nudges vs reminder-only email",
+  "treatment_is_a": true
+ },
+ "other\t15 usability, usefulness, and acceptability criteria jointly included in a regression model\tnot applicable; no manipulated comparison condition": {
+  "label": "joint usability, usefulness, and acceptability criteria vs not applicable",
+  "treatment_is_a": true
+ },
+ "other\t15-hour critical thinking foundation course\tretrospective pre-course self-rating": {
+  "label": "critical-thinking foundation course vs retrospective pre-course rating",
+  "treatment_is_a": true
+ },
+ "other\t15-hour structured critical-thinking foundation course\tpre-course baseline": {
+  "label": "structured critical-thinking foundation course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "other\t15-hour structured critical-thinking foundation course\tpre-course self-rating": {
+  "label": "structured critical-thinking foundation course vs pre-course self-rating",
+  "treatment_is_a": true
+ },
+ "other\t15-min acute exercise before encoding\tno acute exercise": {
+  "label": "acute exercise before encoding vs no acute exercise",
+  "treatment_is_a": true
+ },
+ "other\t15-minute moderate-intensity exercise\tno exercise": {
+  "label": "moderate-intensity exercise vs no exercise",
+  "treatment_is_a": true
+ },
+ "other\t15-minute moderate-intensity exercise at approximately 64% of heart-rate maximum\tno exercise": {
+  "label": "moderate-intensity exercise at 64% heart-rate maximum vs no exercise",
+  "treatment_is_a": true
+ },
+ "other\t15-s post-offset boundary pattern\tmid-event non-boundary pattern": {
+  "label": "post-offset boundary pattern vs mid-event non-boundary pattern",
+  "treatment_is_a": true
+ },
+ "other\t150-minute HSE-based manager training workshop\tmanagers' baseline before training": {
+  "label": "HSE-based manager training workshop vs baseline",
+  "treatment_is_a": true
+ },
+ "other\t150-minute HSE-based manager training workshop\tsubordinate workers' baseline before manager training": {
+  "label": "HSE-based manager training workshop vs subordinate workers' baseline",
+  "treatment_is_a": true
+ },
+ "other\t150-minute in-person I&HCD workshop\tpre-workshop survey": {
+  "label": "in-person I&HCD workshop vs pre-workshop survey",
+  "treatment_is_a": true
+ },
+ "other\t150-minute in-person I&HCD workshop\tpretest": {
+  "label": "in-person I&HCD workshop vs pretest",
+  "treatment_is_a": true
+ },
+ "other\t150-minute in-person I&HCD workshop\tpretest before workshop": {
+  "label": "in-person I&HCD workshop vs pretest",
+  "treatment_is_a": true
+ },
+ "other\t150-minute management competency workshop\tbaseline before training": {
+  "label": "management competency workshop vs baseline",
+  "treatment_is_a": true
+ },
+ "other\t150-minute manager training workshop\tbaseline before training": {
+  "label": "manager training workshop vs baseline",
+  "treatment_is_a": true
+ },
+ "other\t16-item, four-category ANTStr model\toriginal ANTSdk four-category structure": {
+  "label": "16-item ANTStr model vs original ANTSdk structure",
+  "treatment_is_a": true
+ },
+ "other\t16-week classroom standing desk intervention\ttraditional sitting classes": {
+  "label": "classroom standing desks vs traditional sitting classes",
+  "treatment_is_a": true
+ },
+ "other\t16-week classroom standing desk intervention\ttraditional sitting classes without standing desks": {
+  "label": "classroom standing desks vs traditional sitting classes",
+  "treatment_is_a": true
+ },
+ "other\t16-week classroom standing-desk intervention\ttraditional sitting classes without standing desks": {
+  "label": "classroom standing desks vs traditional sitting classes",
+  "treatment_is_a": true
+ },
+ "other\t16-week escape room-based physical activity intervention\tstandard curriculum control": {
+  "label": "escape room-based physical activity intervention vs standard curriculum",
+  "treatment_is_a": true
+ },
+ "practice-amount\tLater blocks of 50 lesions\tEarlier blocks of 50 lesions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tOD practice before the 6-month stopping period\tOD after 6 months without performing OD": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter 36 cases\tbefore 36 cases": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tassessment after a 6-mo no-practice period\tassessment before the 6-mo no-practice period": {
+  "label": "practice vs no practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\tinitial learning of UGRA skilled tasks\tno repeated practice after initial learning": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater 50-lesion blocks versus earlier blocks within each study half\tearlier 50-lesion blocks versus later blocks within each study half": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater blocks of 50 lesions\tearlier blocks of 50 lesions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater blocks of 50 lesions in the first assessment half\tearlier blocks of 50 lesions in the first assessment half": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater blocks of 50 lesions in the second assessment half\tearlier blocks of 50 lesions in the second assessment half": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tongoing OD practice before the interruption\t6-mo period without performing OD": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tongoing OD practice before the stopping period\tafter a 6-month non-practice interval": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepetitive simulation practice\troutine ward work": {
+  "label": "repetitive simulation practice vs routine ward work",
+  "treatment_is_a": true
+ },
+ "prompts\tshared values implemented through feedback, critical reflection, peer support and challenge\tworkplace CPD without explicit shared values and reflective peer support": {
+  "label": "values-explicit reflective peer-support prompts vs values-neutral CPD prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tbetter daily SMS quiz performance with more frequent access to daily readings\tbetter daily SMS quiz performance with less frequent access to daily readings": {
+  "label": "more frequent access to daily readings vs less frequent access to daily readings",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tbetter daily SMS quiz performance with more frequent access to online CME courses\tbetter daily SMS quiz performance with less frequent access to online CME courses": {
+  "label": "more frequent access to online CME courses vs less frequent access to online CME courses",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\thigher participation in daily SMS quizzes\tlower participation in daily SMS quizzes": {
+  "label": "higher participation in daily SMS quizzes vs lower participation in daily SMS quizzes",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\thigher percentage of SMS quizzes answered correctly\tlower percentage of SMS quizzes answered correctly": {
+  "label": "higher SMS quiz accuracy vs lower SMS quiz accuracy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tmCME intervention with daily SMS quizzes, readings, and course invitations\tweekly nonmedical SMS control": {
+  "label": "daily SMS retrieval practice vs weekly nonmedical SMS control",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tsafe driving app with group incentive scheme\tapp use without incentives": {
+  "label": "incentives vs no incentives",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintroduction course, written manual, and weekly support phone calls\tno support comparison reported": {
+  "label": "structured support vs no support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tnurse-led periodic monitoring, individualized dose adjustment, and ongoing dialogue\tusual GP care": {
+  "label": "enhanced support vs usual care",
+  "treatment_is_a": true
+ },
+ "scaffolding\tnurse-led support addressing individual concerns about ULT\tprior primary-care management": {
+  "label": "enhanced support vs usual care",
+  "treatment_is_a": true
+ },
+ "simulation\t1-hour hands-on simulation training\tno simulation training": {
+  "label": "simulation training vs no simulation training",
+  "treatment_is_a": true
+ },
+ "simulation\t12-hour empathy training using role-playing\tno intervention": {
+  "label": "role-playing empathy training vs no intervention",
+  "treatment_is_a": true
+ },
+ "simulation\t12-hour empathy training with role-playing\tno intervention": {
+  "label": "role-playing empathy training vs no intervention",
+  "treatment_is_a": true
+ },
+ "simulation\t16-week constructivist course centered on virtual-patient simulation\tpre-course assessment before the course": {
+  "label": "virtual-patient constructivist course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t16-week constructivist course using a virtual patient\tpre-course performance": {
+  "label": "virtual-patient constructivist course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t2015 simulation-based training\t2011 simulation-based training": {
+  "label": "2015 simulation-based training vs 2011 simulation-based training",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training in handling critically ill patients\tbefore the course": {
+  "label": "simulation-based training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training in handling critically ill patients\tdoctors' pre-course or medical-student experience": {
+  "label": "simulation-based training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training in handling critically ill patients\texperience before the course": {
+  "label": "simulation-based training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training with ABCDE assessment\tclinical practice before the course or without the trained algorithm": {
+  "label": "simulation-based training with ABCDE vs usual practice without trained algorithm",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training with ACCEPT transfer algorithm\tclinical practice before the course or without the trained algorithm": {
+  "label": "simulation-based training with ACCEPT vs usual practice without trained algorithm",
+  "treatment_is_a": true
+ },
+ "simulation\t4-day simulation-based training with SBAR structured communication\tclinical practice before the course or without the trained algorithm": {
+  "label": "simulation-based training with SBAR vs usual practice without trained algorithm",
+  "treatment_is_a": true
+ },
+ "simulation\t5-day simulation and active-learning curriculum\tpre-intervention": {
+  "label": "simulation and active-learning curriculum vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t5-day simulation and active-learning curriculum\tpre-intervention baseline": {
+  "label": "simulation and active-learning curriculum vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tLiterature, video, and hands-on model practice\tLiterature and video without hands-on model practice": {
+  "label": "model practice vs no model practice",
+  "treatment_is_a": true
+ },
+ "simulation\tNICU boot camp with interactive lectures, case-based learning, and simulation\tno boot camp or baseline confidence, not directly measured": {
+  "label": "NICU simulation boot camp vs no boot camp or baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tNICU boot camp with simulation and case-based practice\tpre-boot-camp clinical performance": {
+  "label": "NICU simulation and case-based boot camp vs pre-boot-camp baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulation-based training\tno training or conventional teaching": {
+  "label": "virtual-reality simulation training vs no training or conventional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tVirtual Patient-based constructivist course\tpre-course assessment": {
+  "label": "virtual-patient constructivist course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tbranched decision-making VPs\tlinear VPs": {
+  "label": "branched decision-making virtual patients vs linear virtual patients",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical skills-based curriculum\tpost-lecture-based curriculum": {
+  "label": "clinical skills-based curriculum vs lecture-based curriculum",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical skills-based curriculum with standardized-patient simulations\tpre-lecture-based curriculum baseline": {
+  "label": "clinical skills-based curriculum with standardized-patient simulation vs lecture-based curriculum baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical virtual simulation\tlow-fidelity simulator in a realistic environment": {
+  "label": "clinical virtual simulation vs low-fidelity simulation in a realistic environment",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical virtual simulator\tlow-fidelity simulator in a realistic environment": {
+  "label": "clinical virtual simulation vs low-fidelity simulation in a realistic environment",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical virtual simulator with case-based learning\tlow-fidelity simulator and realistic environment with case-based learning": {
+  "label": "clinical virtual simulation vs low-fidelity simulation in a realistic environment",
+  "treatment_is_a": true
+ },
+ "simulation\tclinical virtual simulator with case-based learning\tlow-fidelity simulator in a realistic environment with case-based learning": {
+  "label": "clinical virtual simulation vs low-fidelity simulation in a realistic environment",
+  "treatment_is_a": true
+ },
+ "simulation\tcommunication performance in one simulated scenario\tcommunication performance in other simulated scenarios": {
+  "label": "communication performance in one simulated scenario vs other simulated scenarios",
+  "treatment_is_a": true
+ },
+ "simulation\themorrhage simulation module\tpre-course hemorrhage MCQ test": {
+  "label": "hemorrhage simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ALS simulation\tlow-fidelity ALS simulation": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tlow- and mid-fidelity simulation": {
+  "label": "high-fidelity vs low- or mid-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation of three realistic NICU patient scenarios with action-oriented debriefing\tnot stated": {
+  "label": "high-fidelity simulation vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\tlow-fidelity CPR manikin training": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\tlow-fidelity standard manikin training": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\tstandard low-fidelity CPR manikin training": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\tstandard low-fidelity manikin training": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thypertension simulation module\tpre-course hypertension MCQ test": {
+  "label": "hypertension simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation\tnot stated": {
+  "label": "in-situ simulation vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tintegrated case-based and simulation practice covering common NICU problems, emergencies, calculations, and respiratory management\tnot stated": {
+  "label": "integrated NICU case-based and simulation practice vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tlaparoscopic simulated training program (LSTP)\ttraditional training without LSTP": {
+  "label": "validated laparoscopic simulation training vs traditional training without simulation program",
+  "treatment_is_a": true
+ },
+ "simulation\tlast participation after simulation-enhanced nurse mentoring\tfirst participation in PE/E simulation": {
+  "label": "later vs earlier simulation participation",
+  "treatment_is_a": true
+ },
+ "simulation\tlast participation in PE/E simulation\tfirst participation in PE/E simulation": {
+  "label": "later vs earlier simulation participation",
+  "treatment_is_a": true
+ },
+ "simulation\tlast participation in a simulated PE/E case\tfirst participation in a simulated PE/E case": {
+  "label": "later vs earlier simulation participation",
+  "treatment_is_a": true
+ },
+ "simulation\tlast participation in simulation-enhanced nurse mentoring\tfirst participation in simulation-enhanced nurse mentoring": {
+  "label": "later vs earlier simulation participation",
+  "treatment_is_a": true
+ },
+ "simulation\tlecture followed by simulation and debriefing\tpresimulation baseline": {
+  "label": "lecture plus simulation and debriefing vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlecture plus high-fidelity simulation and debriefing\tpresimulation baseline": {
+  "label": "lecture plus high-fidelity simulation and debriefing vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlecture plus simulation case and debriefing\tpresimulation baseline": {
+  "label": "lecture plus simulation case and debriefing vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlecture, simulation, and debriefing\tpresimulation baseline": {
+  "label": "lecture plus simulation and debriefing vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tliterature, video, and hands-on model practice\tliterature and video without hands-on model practice": {
+  "label": "model practice vs no model practice",
+  "treatment_is_a": true
+ },
+ "simulation\tlive simulated clinical scene followed by seminar\tpre-seminar baseline": {
+  "label": "live simulated clinical scene plus seminar vs pre-seminar baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum\tbaseline performance": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum\tbaseline performance before later curriculum years": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum\tbaseline rating": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum\tbaseline ratings before subsequent yearly curriculum exposure": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum assessed by medical observers\tbaseline rating by medical observers": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum assessed by non-medical observers\tbaseline rating by non-medical observers": {
+  "label": "longitudinal simulation-based communication curriculum vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlongitudinal simulation-based communication curriculum with multisource assessment and debriefing\tlearners’ baseline ratings at entry": {
+  "label": "longitudinal simulation-based communication curriculum with multisource assessment and debriefing vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tmedical communication curriculum through clinical skills-based curriculum\tpre-curriculum baseline": {
+  "label": "clinical skills-based communication curriculum vs pre-curriculum baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tmedical communication curriculum through lecture-based and clinical skills-based instruction\tpre-curriculum baseline": {
+  "label": "lecture plus clinical skills-based communication curriculum vs pre-curriculum baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tobstetric emergency simulation course: hemorrhage module\tpre-course test": {
+  "label": "hemorrhage simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tobstetric emergency simulation course: hypertension module\tpre-course test": {
+  "label": "hypertension simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tobstetric emergency simulation course: resuscitation module\tpre-course test": {
+  "label": "resuscitation simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tobstetric emergency simulation course: sepsis module\tpre-course test": {
+  "label": "sepsis simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tpostthyroidectomy hematoma simulation\tno comparison; single-group survey": {
+  "label": "postthyroidectomy hematoma simulation vs no comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tpowered-wheelchair simulator training\tbaseline before training": {
+  "label": "powered-wheelchair simulator training vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tregular low-fidelity in situ simulation\tearly study period (2011–2012)": {
+  "label": "regular low-fidelity in-situ simulation vs early study period",
+  "treatment_is_a": true
+ },
+ "simulation\tregular low-fidelity in situ simulation\tpre-intervention period without the program": {
+  "label": "regular low-fidelity in-situ simulation vs pre-intervention period",
+  "treatment_is_a": true
+ },
+ "simulation\tregular low-fidelity in situ simulation period (2013–2015)\tearly/pre-intervention period (2011–2012)": {
+  "label": "later regular low-fidelity in-situ simulation period vs early period",
+  "treatment_is_a": true
+ },
+ "simulation\tregular low-fidelity in situ simulation with debriefing\tpre-intervention period without regular in situ simulation": {
+  "label": "regular low-fidelity in-situ simulation with debriefing vs pre-intervention period",
+  "treatment_is_a": true
+ },
+ "simulation\tresuscitation simulation module\tpre-course resuscitation MCQ test": {
+  "label": "resuscitation simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsepsis simulation module\tpre-course sepsis MCQ test": {
+  "label": "sepsis simulation module vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tnot stated": {
+  "label": "simulation training vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tunspecified comparison": {
+  "label": "simulation training vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training and mentoring during live cases\tbefore training or without simulation-supported mentoring": {
+  "label": "simulation-supported mentoring during live cases vs usual practice without it",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training and mentoring during live cases\ttheory or didactic training": {
+  "label": "simulation-supported mentoring during live cases vs theory or didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training emphasizing communication, teamwork, situational awareness and decision making\tpre-course clinical practice": {
+  "label": "simulation training in non-technical skills vs pre-course practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training in communication, teamwork, situational awareness and decision making\tdoctors' pre-course practice": {
+  "label": "simulation training in non-technical skills vs pre-course practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training using ABCDE, ACCEPT and SBAR algorithms\tdoctors' pre-course practice without these trained algorithms": {
+  "label": "simulation training with ABCDE, ACCEPT, and SBAR vs practice without trained algorithms",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training using ABCDE, ACCEPT and SBAR algorithms\tpractice before the course": {
+  "label": "simulation training with ABCDE, ACCEPT, and SBAR vs pre-course practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training using ABCDE, ACCEPT and SBAR algorithms\tpre-course practice without the trained algorithms": {
+  "label": "simulation training with ABCDE, ACCEPT, and SBAR vs practice without trained algorithms",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based learning\ttraditional lecture-style education": {
+  "label": "simulation-based learning vs lecture-based education",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based learning led by PGY-II residents\ttraditional lecture led by PGY-II residents": {
+  "label": "simulation-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based learning led by PGY-II residents\ttraditional one-way lectures led by PGY-II residents": {
+  "label": "simulation-based learning vs one-way lecture",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based learning with PGY-II peer teaching\ttraditional lecture with PGY-II peer teaching": {
+  "label": "simulation-based peer teaching vs lecture-based peer teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training in non-technical skills\tpractice before the course": {
+  "label": "simulation-based non-technical-skills training vs pre-course practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulator training in a virtual environment\tbaseline real powered-wheelchair performance": {
+  "label": "virtual-environment simulator training vs baseline real performance",
+  "treatment_is_a": true
+ },
+ "simulation\tsix-week simulation-based coronary anastomosis training on a low-fidelity simulator\tbaseline before training": {
+  "label": "low-fidelity simulator training vs baseline",
+  "treatment_is_a": true
+ },
+ "simulation\ttask-trainer practice\tinstructional video": {
+  "label": "task-trainer practice vs instructional video",
+  "treatment_is_a": true
+ },
+ "simulation\ttask-trainer practice\tpeer-to-peer practice": {
+  "label": "task-trainer practice vs peer-to-peer practice",
+  "treatment_is_a": true
+ },
+ "simulation\ttraining doctors to use closed-loop communication and structured tools\tsurrounding clinical staff unfamiliar or unwilling to use the tools": {
+  "label": "training in closed-loop communication and structured tools vs usual practice without tool adoption",
+  "treatment_is_a": true
+ },
+ "simulation\ttraining with model practice\ttraining without model practice": {
+  "label": "model practice vs no model practice",
+  "treatment_is_a": true
+ },
+ "simulation\tvalidated laparoscopic simulated training program\ttraditional training without LSTP": {
+  "label": "validated laparoscopic simulation training vs traditional training without simulation program",
+  "treatment_is_a": true
+ },
+ "simulation\tvalidated laparoscopic simulated training program\ttraditional training without simulation": {
+  "label": "validated laparoscopic simulation training vs traditional training without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvalidated laparoscopic simulated training program\ttraditional training without the simulated program": {
+  "label": "validated laparoscopic simulation training vs traditional training without simulated program",
+  "treatment_is_a": true
+ },
+ "simulation\tvalidated laparoscopic simulated training program (LSTP)\ttraditional training without LSTP (NLSTP)": {
+  "label": "validated laparoscopic simulation training vs traditional training without simulation program",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual-reality simulation-based training\tno training or conventional apprenticeship teaching": {
+  "label": "virtual-reality simulation training vs no training or conventional apprenticeship teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tvolunteer simulated patient CST\tstudent roleplay CST": {
+  "label": "volunteer simulated-patient clinical skills training vs student role-play clinical skills training",
+  "treatment_is_a": true
+ },
+ "simulation\tvolunteer simulated-patient CST\tstudent roleplay CST": {
+  "label": "volunteer simulated-patient clinical skills training vs student role-play clinical skills training",
+  "treatment_is_a": true
+ },
+ "simulation\tvolunteer simulated-patient CST\tstudent roleplay-only CST": {
+  "label": "volunteer simulated-patient clinical skills training vs student role-play-only clinical skills training",
+  "treatment_is_a": true
+ },
+ "simulation\tvolunteer simulated-patient clinical skills training\tstudent roleplay clinical skills training": {
+  "label": "volunteer simulated-patient clinical skills training vs student role-play clinical skills training",
+  "treatment_is_a": true
+ },
+ "spacing\tboot camp completed 1 or 2 months before the NICU rotation\tnot stated": {
+  "label": "Delayed vs not stated",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice sessions\tmassed practice": {
+  "label": "Spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tACE EBM knowledge test\tBerlin EBM knowledge test": {
+  "label": "binary-answer vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tACE test\tBerlin test": {
+  "label": "binary-answer vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tACE test\tFresno test": {
+  "label": "binary-answer vs open-ended",
+  "treatment_is_a": true
+ },
+ "test-format\tBerlin multiple-choice test\tACE binary-answer test": {
+  "label": "multiple-choice vs binary-answer",
+  "treatment_is_a": true
+ },
+ "test-format\tBerlin test\tFresno test": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": true
+ },
+ "test-format\tFresno EBM knowledge test\tACE EBM knowledge test": {
+  "label": "binary-answer vs open-ended",
+  "treatment_is_a": false
+ },
+ "test-format\tFresno EBM knowledge test\tBerlin EBM knowledge test": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": false
+ },
+ "test-format\tFresno open-ended test\tACE and Berlin closed-format tests": {
+  "label": "open-ended vs closed-format",
+  "treatment_is_a": true
+ },
+ "test-format\tFresno open-ended test\tACE binary-answer test": {
+  "label": "binary-answer vs open-ended",
+  "treatment_is_a": false
+ },
+ "test-format\tFresno open-ended test\tBerlin multiple-choice test": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": false
+ },
+ "test-format\tFresno test\tACE and Berlin tests": {
+  "label": "open-ended vs closed-format",
+  "treatment_is_a": true
+ },
+ "test-format\tSVI Self-Study Guide with practice answering in the SVI format\tprequiz baseline before completing the guide": {
+  "label": "SVI-format practice vs prequiz baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tSVI Self-Study Guide with practice answering within the SVI time limit\tprequiz baseline before completing the guide": {
+  "label": "SVI-format practice vs prequiz baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tSVI Self-Study Guide with practice questions in the SVI format\tprequiz baseline before completing the guide": {
+  "label": "SVI-format practice vs prequiz baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tSVI self-study guide with practice in the SVI testing format\tprequiz before completing the guide": {
+  "label": "SVI-format practice vs prequiz baseline",
+  "treatment_is_a": true
+ },
+ "test-format\tpractice answering questions in the SVI test format\tprequiz before guide use": {
+  "label": "SVI-format practice vs prequiz baseline",
+  "treatment_is_a": true
  }
 }

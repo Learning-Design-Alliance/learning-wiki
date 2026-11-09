@@ -53,3 +53,4 @@ Wilcoxon signed-rank within-group pre–post comparisons in the randomized trial
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
 - [In the simulation group, quiz scores increased significantly after both the lecture and simulator practice](simulation-group-significant-gains-lecture-and-practice.md) — related
 - [BLS training significantly improves first-year MBBS students' BLS knowledge scores (p < 0.001)](bls-training-improves-mbbs-knowledge-scores.md) — related
+- [Students who taught BLS gained more theoretical knowledge than controls, though both groups improved](teaching-bls-improves-student-theoretical-knowledge.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (87 show a difference, 30 mixed, 20 no difference) · 87 studies (38 causal, 28 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 87 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (91 show a difference, 31 mixed, 20 no difference) · 88 studies (38 causal, 29 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 23 of 88 report an effect size · 141 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -173,6 +173,11 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial–sequential working memory remains influential in 9–10-year-olds beyond the age at which the declarative shift from visuospatial to verbal reliance is predicted (around 7 years)](../claims/sequential-wm-past-declarative-shift.md) [+M] — learners who differ on it differ in outcomes
 - [Psychometric abilities relate to learning outcomes differently by tool: attention correlates with nominal scores in the text-only group and spatial short-term memory with spatial scores in the MR group](../claims/psychometric-abilities-correlate-differentially-by-tool.md) [~M] — learners who differ on it differ in outcomes
 - [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](../claims/mrt-moderates-anatomy-radiology-gains.md) [~W] — an instructional effect differs with it
+- [Mental folding uniquely predicts overall science achievement in 7- to 11-year-olds, controlling for age and verbal ability](../claims/mental-folding-predicts-primary-science-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Mental rotation accuracy and response time do not predict science achievement in this age range, unlike mental folding](../claims/mental-rotation-not-predicting-children-science.md) [~M] — learners who differ on it differ in outcomes
+- [Spatial scaling uniquely predicts overall science achievement beyond age and verbal ability in primary-school children](../claims/spatial-scaling-predicts-primary-science-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial skills combined account for 8% of variance in primary science scores after controlling for verbal ability and age](../claims/spatial-skills-eight-percent-variance-science.md) [+M] — learners who differ on it differ in outcomes
+- [The spatial–science association does not vary across ages 7 to 11, contrary to a developmental-fading hypothesis](../claims/no-age-moderation-spatial-science-link.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

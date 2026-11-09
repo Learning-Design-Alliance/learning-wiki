@@ -16,18 +16,22 @@ sources:
     author: Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: bing-eg-2019-2
     resource: "https://doi.org/10.1200/JGO.18.00263"
     title: "Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R. (2019). Using Low-Cost Virtual Reality Simulation to Build Surgical Capacity for Cervical Cancer Treatment. Journal of Global Oncology. https://doi.org/10.1200/JGO.18.00263"
     author: Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Time efficiency was independently predicted by number of simulations, days between sessions, sex, surgical experience, and age, with an interaction in which less experienced participants improved faster across simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R. (2019). Using Low-Cost Virtual Reality Simulation to Build Surgical Capacity for Cervical Cancer Treatment. Journal of Global Oncology. https://doi.org/10.1200/JGO.18.00263
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Generalized estimating equation modeling of repeated time efficiency scores in the ten-participant evaluation. The article reports that "Women, participants with a higher level of surgical experience, and younger participants were more time efficient than men, participants with less experience, and older participants, respectively."
 
@@ -50,7 +54,7 @@ Generalized estimating equation modeling of repeated time efficiency scores in t
 
 Bing EG, Parham GP, Cuevas A, Fisher B, Skinner J, Mwanahamuntu M, Sullivan R. (2019). Using Low-Cost Virtual Reality Simulation to Build Surgical Capacity for Cervical Cancer Treatment. Journal of Global Oncology. https://doi.org/10.1200/JGO.18.00263
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The same GEE analysis identified an interaction between simulations performed and experience level. The authors offer two interpretations in the discussion: possible greater video game exposure among medical students, and a revised, more specific self-assessment form introduced before residents and fellows were recruited.
 

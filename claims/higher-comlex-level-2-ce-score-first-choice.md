@@ -16,12 +16,14 @@ sources:
     author: Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher COMLEX Level 2 CE scores are associated with matching into first-choice residency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C. (2019). Student academic performance factors affecting matching into first-choice residency and competitive specialties. BMC Medical Education. https://doi.org/10.1186/s12909-019-1669-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Independent t-test comparing mean COMLEX Level 2 CE scores between first-choice and non-first-choice matchers in the 1726-graduate cohort. The study found "a 14.1-point difference (on a 990-point score scale)" (p < 0.001); multivariate analysis showed a small 1% odds increase per 5-point increment. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 

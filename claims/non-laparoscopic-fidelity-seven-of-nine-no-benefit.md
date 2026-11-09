@@ -66,3 +66,5 @@ The review identifies the two exceptional studies favoring HF training: intraven
 ## Related Claims
 - [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — related
 - [Across 17 randomized studies, training with a low-fidelity simulator was not inferior to training with a high-fidelity simulator in 15 of 17 studies of procedural skills](lf-simulators-not-inferior-hf-procedure-training.md) — a broader claim this one bears on
+- [HF group participants overrated their performance and confidence relative to LF participants despite comparable or inferior outcomes](hf-simulation-induces-overconfidence.md) — related
+- [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — a narrower finding that bears on this claim

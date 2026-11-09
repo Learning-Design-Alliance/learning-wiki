@@ -52,6 +52,7 @@ The review recommends linking distant medical educators from first-world countri
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
 - [Deliver patient communication training virtually and build an institution-independent virtual training network](virtual-training-network-patient-communication-medphys.md)
 - [Expand low-cost case-based tele-education to other emerging ICUs using a train-the-trainer model](train-the-trainer-tele-education-expansion.md)
+- [Private-public partnership to deliver free simulation training to public-sector health professionals in low- and middle-income settings](private-public-partnership-obstetric-training-strategy.md)
 
 ## Examples
 -

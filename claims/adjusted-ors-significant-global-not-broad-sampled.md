@@ -16,12 +16,14 @@ sources:
     author: van Andel C E E, Born M P, Themmen A P N, Stegers‐Jager K M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # After adjustment, significant ethnicity-related grade differences appear in global assessment but not in broadly sampled assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 van Andel C E E, Born M P, Themmen A P N, Stegers‐Jager K M. (2019). Broadly sampled assessment reduces ethnicity‐related differences in clinical grades. Medical Education, 53(3), 264–275. https://doi.org/10.1111/medu.13790
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Adjusted logistic regression controlling for gender, age, average bachelor grade and first-generation immigration status. For example, the Surinamese/Antillean adjusted OR moved from 0.17 (0.08–0.36) in global assessment to 1.02 (0.52–2.01) in broadly sampled assessment; "significant ethnicity‐related differences in clinical grades in global assessment, but not in broadly sampled assessment".
 

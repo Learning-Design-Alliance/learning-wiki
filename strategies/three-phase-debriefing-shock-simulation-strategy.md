@@ -45,6 +45,7 @@ The course's debriefing followed a standard format applied immediately after eac
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Under time-limited simulation training, not every student needs to fulfil the leadership role if the course is well designed and debriefing is constructive](time-limited-simulation-leadership-not-required-strategy.md)
+- [Use an advocacy-inquiry approach when debriefing unfamiliar simulation content](advocacy-inquiry-debriefing-unfamiliar-content-strategy.md)
 
 ## Examples
 -

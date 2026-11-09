@@ -16,12 +16,14 @@ sources:
     author: Lee Juncheol, Song Yeongtak, Oh Jaehoon, Chee Youngjoon, Ahn Chiwon, Shin Hyungoo, Kang Hyunggoo, Lim Tae Ho
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Smartwatch feedback increases the proportion of infant chest compressions within the correct depth range in a randomized controlled simulation study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lee Juncheol, Song Yeongtak, Oh Jaehoon, Chee Youngjoon, Ahn Chiwon, Shin Hyungoo, Kang Hyunggoo, Lim Tae Ho. (2018). Smartwatch feedback device for high-quality chest compressions by a single rescuer during infant cardiac arrest: a randomized, controlled simulation study. European Journal of Emergency Medicine. https://doi.org/10.1097/MEJ.0000000000000537
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized controlled parallel simulation study of 30 medical-college volunteers performing 2 min of continuous two-finger chest compressions on an infant mannequin; intervention group used smartwatch feedback. The article reports "99% (97–100) and 83% (58–97), respectively (P = 0.002)".
 

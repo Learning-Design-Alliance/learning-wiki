@@ -16,12 +16,14 @@ sources:
     author: Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Trainees with a learning goal orientation selected more challenging tasks, planned more strategically, and reported more positive assessment outcomes when feedback targeted their goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn. (2019). Self-regulated learning lens on trainee perceptions of the mini-CEX: a qualitative study. BMJ Open. https://doi.org/10.1136/bmjopen-2018-026796
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Authors' synthesis of interview findings in the Discussion. The article adds that these participants described expending more effort in strategic planning of the assessment during task translation and were more likely to report positive outcomes, with the proviso that feedback had effectively targeted their goals.
 

@@ -48,3 +48,4 @@ Three-way ANOVA on log-file time-on-task (dyad-level for collaborative pairs) sh
 - [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](collaboration-enhances-intuitive-knowledge.md) — related
 - [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related
+- [Students instructed to learn in dyads spend more time on task during the self-study phase than students in the other groups](dyadic-instruction-increases-time-on-task.md) — reports the opposite

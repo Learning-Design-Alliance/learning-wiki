@@ -16,12 +16,14 @@ sources:
     author: Tiffin Paul A, Paton Lewis W.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tiffin Paul A, Paton Lewis W. (2019). Does 'online confidence' predict application success and later academic performance in medical school? A UK-based national cohort study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-034437
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel logistic regression of offers among 2013 UKCAT applicants. The article reports confidence judgement was a univariable predictor of only borderline significance (OR 1.22, 1.01 to 1.47, p=0.04); once cognitive ability and background variables were controlled it was not significant (OR 0.98, 0.80 to 1.20, p=0.8).
 

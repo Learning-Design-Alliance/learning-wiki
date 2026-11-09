@@ -62,3 +62,4 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [The novel Precision Score correlates strongly with real-world OSATS performance and final implant orientation in cadaveric RSA](precision-score-validity-ivr-rating-scale.md) — related
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
+- [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related

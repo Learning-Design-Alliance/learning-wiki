@@ -53,3 +53,5 @@ Randomized controlled non-inferiority trial in an academic emergency department;
 - [A single short education session enabled novices to measure optic nerve sheath diameter accurately regardless of whether training was online or hands-on](onsd-measurement-accurate-both-groups.md) — related
 - [Hands-on trainees reported significantly higher satisfaction with their training method than online trainees, despite equivalent performance](hands-on-higher-satisfaction-ocular-pocus.md) — related
 - [The review reports that simulator training was not inferior to live training for beginners without prior transthoracic echocardiography experience](simulator-training-not-inferior-to-live-training-beginners.md) — related
+- [After a 5-min didactic and 20-min hands-on session, military trainees' ONSD measurements do not differ significantly from those of emergency physician experts](onsd-trainee-measurements-nonsignificant-vs-experts.md) — related
+- [Trainees in the study were genuine novices, averaging 11.5 prior ultrasounds and minimal ocular ultrasound experience](onsd-trainees-novice-baseline.md) — related

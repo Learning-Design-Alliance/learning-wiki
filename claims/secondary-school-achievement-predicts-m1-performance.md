@@ -70,3 +70,4 @@ Same SEM on the MHH sample: the direct effect of Gymnasium attendance on M1 grad
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Higher secondary-school grades and private preparatory class attendance were independently associated with entrance exam success](grades-and-preparatory-classes-predict-entrance-success.md) — related
 - [English proficiency, class attendance, and entrance exam score were bivariably associated with academic performance](english-proficiency-attendance-entrance-score-bivariable-associations.md) — related
+- [The relation of pre-university educational attainment to study outcome is moderated by German federal state, with Lower Saxony grades yielding higher outcome than Hamburg grades](federal-state-moderates-pea-outcome.md) — related

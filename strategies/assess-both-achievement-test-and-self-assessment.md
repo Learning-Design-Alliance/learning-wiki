@@ -48,6 +48,7 @@ Because the study found blended e-learning had no significant impact on achievem
 
 - [Vary the sequence of traditional learning and e-learning in blended course design](elearning-sequence-future-studies.md)
 - [Implement blended BOPPPS teaching by combining online platform phases with the six BOPPPS steps](blended-boppps-implementation-strategy.md)
+- [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
 
 ## Examples
 -

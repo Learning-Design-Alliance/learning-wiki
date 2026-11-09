@@ -55,3 +55,4 @@ Pre-test comparison in the RCT: intervention group mean 37.03±3.63, control 37.
 - [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — related
 - [The over-time-by-group interaction on crisis management score was statistically significant (P = 0.002)](earthquake-simulation-training-time-group-interaction.md) — related
 - [Crisis management scores increased significantly over time in the intervention group but not in the control group](earthquake-simulation-training-within-group-over-time-gain.md) — related
+- [Between-group difference in self-handicapping after problem solving training emerged one month after the intervention (p = 0.014) but not immediately after it (p = 0.761)](self-handicapping-group-difference-delayed-one-month.md) — related

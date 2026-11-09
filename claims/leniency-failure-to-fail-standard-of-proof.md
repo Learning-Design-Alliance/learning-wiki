@@ -16,24 +16,30 @@ sources:
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: tweed-m-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1583-1"
     title: "Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1"
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: tweed-m-2019-3
     resource: "https://doi.org/10.1186/s12909-019-1583-1"
     title: "Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1"
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # If in doubt, progression decisions usually pass the student, and the article argues students should be regarded as incompetent until proven competent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · review `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -47,7 +53,7 @@ sources:
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Argument paralleling jury leniency and the failure-to-fail phenomenon: juries favour acquittal if in doubt and deliberations tend towards leniency, mostly accounted for by the standard of proof.
 
@@ -57,7 +63,7 @@ Argument paralleling jury leniency and the failure-to-fail phenomenon: juries fa
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The article's normative argument on burden of proof for high-stakes pass/fail decisions: the onus on the progress panel should be to find student competence proven, not to presume competence.
 
@@ -67,7 +73,7 @@ The article's normative argument on burden of proof for high-stakes pass/fail de
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Argument from predictive value and pre-test probability: as less able students are removed, prevalence of passing rises, so equivocal results favour the student; but as graduation nears, stakes increase and duty to society should override.
 

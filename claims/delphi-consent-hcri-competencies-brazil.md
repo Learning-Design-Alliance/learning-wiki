@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: massaroli-aline-2019
     resource: "https://doi.org/10.1590/1518-8345.2620.3134"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Brazilian experts via a four-round Delphi process defined and reached consensus on competencies for HCRI prevention and control, organized into 4 core, 14 generic and 17 specific competencies with a name and description of each. [→ Massaroli Aline 2019](#massaroli-aline-2019)

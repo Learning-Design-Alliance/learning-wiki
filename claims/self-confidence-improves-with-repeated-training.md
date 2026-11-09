@@ -16,12 +16,14 @@ sources:
     author: Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Participants report improved self-confidence after repeated simulation training, consistent with their NASA-TLX workload ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Takashige Abe, Faizan Dar, Passakorn Amnattrakul, Abdullatif Aydin, Nicholas Raison, Nobuo Shinohara, Muhammad Shamim Khan, Kamran Ahmed, Prokar Dasgupta. (2019). The effect of repeated full immersion simulation training in ureterorenoscopy on mental workload of novice operators. BMC Medical Education. https://doi.org/10.1186/s12909-019-1752-2
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 A self-assessment questionnaire on difficulty and confidence completed after each session showed scores "consistent with the results of NASA-TLX", and "Participants showed improved self-confidence after repeated training (Additional file 3: Figure S2)." No effect size is printed.
 

@@ -16,12 +16,14 @@ sources:
     author: Tiffin Paul A, Paton Lewis W.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Confidence bias is strongly dependent on cognitive task performance (r = 0.51 with decision analysis), whereas confidence judgement is only modestly correlated (r = 0.16)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tiffin Paul A, Paton Lewis W. (2019). Does 'online confidence' predict application success and later academic performance in medical school? A UK-based national cohort study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-034437
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Correlational analysis of the full valid-confidence sample (n=56,785 for CB; 56,479 for CJ) reported in table 3. The article reports a printed correlation of r = 0.51 for confidence bias with decision analysis and, in contrast, "a more modest correlation" (r = 0.16) for confidence judgement.
 

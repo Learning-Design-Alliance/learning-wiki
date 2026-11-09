@@ -58,3 +58,4 @@ This multisite clustered, observer-blinded RCT randomized 190 post-registration 
 - [Consequences of clinical readiness include personal and job-related satisfactory outcomes](consequences-personal-job-related-outcomes.md) — related
 - [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related
+- [OSCE red-card outcomes did not differ significantly between the video cohort (2016) and the no-video cohort (2013), though odds of a red card were 3.36 times higher in 2013](osce-red-cards-no-significant-difference-videos.md) — related

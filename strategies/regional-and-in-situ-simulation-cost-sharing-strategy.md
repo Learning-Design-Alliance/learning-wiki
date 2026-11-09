@@ -17,7 +17,7 @@ sources:
 # Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes two organisational solutions to the resource barriers residents reported. Regional simulation centres would allow sharing of equipment and faculty resources, and in-situ simulation is described as "a cost-sparing but highly effective alternative". The authors also note that more than one residency school can aggregate in a single simulation centre to limit costs and the need for personnel.

@@ -58,3 +58,4 @@ Field experiment aggregating achievement data at the tutorial-group level across
 - [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
 - [Early Larks achieve slightly higher average marks than Night Owls among first-year medical students](early-larks-slightly-higher-marks.md) — related
+- [Near-peer and staff tutoring produced no statistically significant difference in overall Evidence-based Practice Confidence (EPIC) scale scores at the end of the module](near-peer-staff-comparable-epic-confidence.md) — related

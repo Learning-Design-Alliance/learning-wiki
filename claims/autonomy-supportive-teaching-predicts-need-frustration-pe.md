@@ -16,12 +16,14 @@ sources:
     author: Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived autonomy-supportive teaching negatively predicts students' basic psychological need frustration in physical education classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Li Chunxiao, Kee Ying Hwa, Kong Leng Chee, Zou Liye, Ng Ka Lok, Li Hong. (2019). Autonomy-Supportive Teaching and Basic Psychological Need Satisfaction among School Students: The Role of Mindfulness. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16142599
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Same cross-sectional survey of 390 secondary PE students; the second multiple regression predicting need frustration. The printed standardized coefficients are "β = −0.26, p < 0.001" for teaching and "β = −0.45, p < 0.001" for mindfulness.
 

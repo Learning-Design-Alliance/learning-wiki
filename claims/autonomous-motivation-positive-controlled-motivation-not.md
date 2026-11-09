@@ -62,3 +62,4 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [No significant relationship found between extrinsic motivation and academic performance or burnout](extrinsic-motivation-no-relationship-performance-burnout.md) — related
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — a narrower finding that bears on this claim
 - [Intrinsic motivation correlates positively with both conscientiousness and exam score, while extrinsic motivation correlates negatively with conscientiousness and shows no significant relationship with score](intrinsic-motivation-positive-extrinsic-null-with-exam-score.md) — related
+- [Autonomous motivation, controlled motivation, and study strategy are not associated with clerkship performance](motivation-strategy-not-associated-clerkship-performance.md) — reports the opposite

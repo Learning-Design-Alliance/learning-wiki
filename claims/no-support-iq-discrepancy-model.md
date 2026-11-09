@@ -59,3 +59,4 @@ Pearson correlations between the KBIT-2 Matrices measure and Year 1 measures in 
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures](attention-measures-correlate-literacy.md) — related
 - [Nearly half of screened K-2 children in two New Orleans charter schools screened at risk for dyslexia, and most tested at-risk children met dyslexia criteria](nearly-half-k2-charter-children-at-risk-dyslexia.md) — related
+- [Students' pre-test performance and verbal and non-verbal cognitive abilities significantly predict post-test performance](pretest-cognitive-abilities-predict-posttest.md) — related

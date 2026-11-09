@@ -56,3 +56,4 @@ Self-report questionnaire on a 10-point scale administered to both groups after 
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Students taught with step-by-step teaching rate their instructors' teaching ability and teaching methods significantly higher than traditionally taught students do](sbs-students-rate-teaching-ability-methods-higher.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
+- [Medical students score significantly lower than flight school applicants on teamwork and stress resistance](medical-students-teamwork-stress-resistance-lower.md) — related

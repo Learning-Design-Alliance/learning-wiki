@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (79 show a difference, 25 mixed, 9 no difference) · 99 studies (24 causal, 20 review, 20 qualitative, 16 design, 8 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 13 of 99 report an effect size · 109 claims rest on one study
+> **Evidence** · 114 claims (79 show a difference, 26 mixed, 9 no difference) · 100 studies (24 causal, 21 qualitative, 20 review, 16 design, 8 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 13 of 100 report an effect size · 110 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -154,6 +154,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Final-year students from discipline-based and competency-based medical programmes do not differ in selection of relevant diagnostic tests in acute dyspnoea cases](../claims/no-difference-relevant-diagnostic-test-selection-tc-cc.md) [-M] — learners who differ on it differ in outcomes
 - [Higher nursing level is associated with higher workplace violence perception scores, while prior violence experience and prior training are associated with lower scores](../claims/nursing-level-and-violence-experience-moderate-perception.md) [+M] — learners who differ on it differ in outcomes
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](../claims/pbl-separate-problems-isolation.md) [+M] — measured as an outcome of the instruction studied
+- [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](../claims/practitioner-driven-cpd-supportive-contexts.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

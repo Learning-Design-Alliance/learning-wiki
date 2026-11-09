@@ -16,12 +16,14 @@ sources:
     author: Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Linear regression finds OKAP percentile associated with incentives, Step 1 scores, male gender, perceived usefulness of review sessions, and research hours exceeding 20 h/week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Zafar Sidra, Wang Xueyang, Srikumaran Divya, Sikder Shameema, Ramulu Pradeep, Boland Michael V., Singman Eric, Woreta Fasika A. (2019). Resident and program characteristics that impact performance on the Ophthalmic Knowledge Assessment Program (OKAP). BMC Medical Education. https://doi.org/10.1186/s12909-019-1637-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Linear regression predicting OKAP percentile as a continuous outcome on the same survey variables. The article additionally prints beta = −8.18 (p = 0.022) for limited-value review sessions and beta = −17.42 (p = 0.023) for >20 h/week research.
 

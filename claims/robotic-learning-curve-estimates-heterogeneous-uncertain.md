@@ -58,3 +58,4 @@ Review synthesis of the 27 duration-of-surgery studies reporting whether the lea
 - [ERCP competency thresholds reported across studies vary widely, illustrating that minimal procedural numbers are an elusive and flawed sole endpoint for competence assessment](ercp-competency-thresholds-vary-flawed-endpoint.md) — related
 - [Endoscopic sleeve gastroplasty learning-curve efficiency thresholds varied from 7 to 38 cases in studies of already-experienced suturing endoscopists](esg-learning-curve-7-to-38-cases.md) — a narrower finding that bears on this claim
 - [POEM learning-curve plateau estimates conflict widely (7 to 100 cases), and one swine-model study reported mastery after 26 cases](poem-learning-curve-conflicting.md) — a narrower finding that bears on this claim
+- [Individual embryo transfer learning curves plateau after approximately 12 procedures, with competence acquisition varying between individuals](et-learning-curve-plateau-12-procedures.md) — related

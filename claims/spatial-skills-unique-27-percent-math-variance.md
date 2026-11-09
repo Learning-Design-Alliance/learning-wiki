@@ -58,3 +58,4 @@ Step-2 change statistic of the final hierarchical regression in the same 44-chil
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a broader claim this one bears on
+- [The spatial–science association does not vary across ages 7 to 11, contrary to a developmental-fading hypothesis](no-age-moderation-spatial-science-link.md) — related

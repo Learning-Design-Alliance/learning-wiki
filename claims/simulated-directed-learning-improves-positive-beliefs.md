@@ -16,12 +16,14 @@ sources:
     author: Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Simulated directed-learning with a life-education intervention significantly improves nursing students' positive beliefs immediately and 4 weeks later compared with control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tsai Fu-Ju PhD, Hu Yih-Jin PhD, Chen Cheng-Yu PhD, Yeh Gwo-Liang PhD, Tseng Chie-Chien PhD, Chen Si-Chi PhD, Tusconi Massimo. (2019). Simulated directed-learning in life-education intervention on the meaning of life, positive beliefs, and well-being among nursing students: A Quasi-experimental study. Medicine. https://doi.org/10.1097/MD.0000000000016330
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 GEE analysis in the quasi-experiment with 54 experimental and 56 control nursing students found significant group differences on positive beliefs at both post-test and 4-week delayed post-test; the printed β values are unstandardized GEE coefficients, so no effect size is reported.
 

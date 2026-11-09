@@ -16,6 +16,8 @@ sources:
     author: Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: berger-c-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1626-7"
     title: "Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K. (2019). Combination of problem-based learning with high-fidelity simulation in CPR training improves short and long-term CPR skills: a randomised single blinded trial. BMC Medical Education 19:180. https://doi.org/10.1186/s12909-019-1626-7"
@@ -43,7 +45,7 @@ sources:
 
 Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K. (2019). Combination of problem-based learning with high-fidelity simulation in CPR training improves short and long-term CPR skills: a randomised single blinded trial. BMC Medical Education 19:180. https://doi.org/10.1186/s12909-019-1626-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Ventilation-quality secondary endpoint measured by the manikin data system at skill assessment and follow-up. Both groups "tended to administer a lower ventilation rate than recommended by the ERC guidelines"; no effect size is printed.
 

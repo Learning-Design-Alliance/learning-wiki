@@ -16,12 +16,14 @@ sources:
     author: Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Total practical skills scores decreased in both groups between the post-test and the six-month retention test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bylow Helene, Karlsson Thomas, Lepp Margret, Claesson Andreas, Lindqvist Jonny, Herlitz Johan. (2019). Effectiveness of web-based education in addition to basic life support learning activities: A cluster randomised controlled trial. PLoS ONE. https://doi.org/10.1371/journal.pone.0219341
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Result from the Results section of the cluster randomised controlled trial: the total Cardiff Test score declined from post-test to retention test in both the BLS and BLS+WEB groups (Table 2 prints, e.g., BLS means of 58.7 to 58.0 and BLS+WEB means of 59.6 to 58.8). No statistical test of the within-group decrease is reported.
 

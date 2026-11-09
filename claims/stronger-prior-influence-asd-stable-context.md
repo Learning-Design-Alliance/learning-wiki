@@ -74,3 +74,4 @@ Exp. III TOE-block comparison after the stimulus mean changed from 30 to 26 Hz: 
 - [Sensory adaptation occurs in neurotypical but not autistic adults in tactile detection](no-sensory-adaptation-asd.md) — related
 - [Autistic adults adjust their prior expectation more slowly than neurotypical adults after a change in stimulus frequency range](slower-prior-adjustment-asd.md) — related
 - [Autistic adults show more consistent (less variable) tactile detection thresholds than neurotypical adults](asd-lower-intra-individual-threshold-variability.md) — related
+- [Autistic students report sensory overload and sensitivity to change affecting academic performance and social participation](sensory-overload-routine-change-university-autism.md) — related

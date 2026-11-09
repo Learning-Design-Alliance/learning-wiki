@@ -16,12 +16,14 @@ sources:
     author: Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adolescents with medium- and high-educated mothers have higher odds of higher educational attainment at age 17 than adolescents with low-educated mothers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H. (2019). The pathways from parental and neighbourhood socioeconomic status to adolescent educational attainment: An examination of the role of cognitive ability, teacher assessment, and educational expectations. PLoS ONE 14(5): e0216803. https://doi.org/10.1371/journal.pone.0216803
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Ordinal logistic regressions (Model 1d) on 2,814 PIAMA adolescents with maternal education, paternal education, and neighbourhood SES entered simultaneously; Table 5 reports the contrast, with adolescents with high-educated mothers having "over 3 times the odds" relative to low-educated mothers. No standardised effect size was printed for this finding.
 

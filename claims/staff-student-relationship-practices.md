@@ -16,12 +16,14 @@ sources:
     author: Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Exemplar staff deliberately develop functional staff-student relationships, including mentor assignment, to support learning needs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gamble Blakey Althea, Smith-Han Kelby, Anderson Lynley, Collins Emma, Berryman Elizabeth, Wilkinson Tim. (2019). “They cared about us students:” learning from exemplar clinical teaching environments. BMC Medical Education. https://doi.org/10.1186/s12909-019-1551-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Theme 3, from ECA staff focus groups; practices also included communicating about a student's level and specific needs before procedures and keeping notes and photo sheets on individual students rather than treating them en masse. No effect size is printed.
 

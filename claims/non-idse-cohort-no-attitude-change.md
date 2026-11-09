@@ -16,12 +16,14 @@ sources:
     author: Bullard Mark J., Fox Sean M., Wares Catherine M., Heffner Alan C., Stephens Casey, Rossi Laura
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Non-IDSE interns exposed only to within-discipline simulation showed no statistically significant change in interdisciplinary attitude ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bullard Mark J., Fox Sean M., Wares Catherine M., Heffner Alan C., Stephens Casey, Rossi Laura. (2019). Simulation-based interdisciplinary education improves intern attitudes and outlook toward colleagues in other disciplines. BMC Medical Education. https://doi.org/10.1186/s12909-019-1700-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Pre-post surveys from 12 pediatric interns receiving a within-discipline simulation curriculum; Table 2 shows e.g. comfort change 0.000 (p = 1.000). Only p-values and means are printed; no effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 

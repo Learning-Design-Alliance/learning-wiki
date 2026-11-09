@@ -48,3 +48,5 @@ Mixed-effects regression accounting for clustering of learners on 1,869 assessme
 ## Related Claims
 - [Interpersonal and communication skills ratings do not increase significantly over training, unlike other competencies](communication-skills-ratings-no-significant-increase.md) — related
 - [Narrative comment themes shift over training: medical knowledge emphasized in year 1, autonomy, leadership, and teaching in later years](comment-themes-shift-over-training-years.md) — related
+- [Communication ratings increased significantly over time for medical assessors but not for non-medical assessors](medical-nonmedical-rater-divergence-communication-growth.md) — related
+- [Primary-surgeon procedure volume progressed across residency years, with 22.1% in PGY1, 36.3% in PGY2 and 41.6% in PGY3](procedure-volume-progresses-across-pgy.md) — related

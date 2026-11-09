@@ -50,3 +50,4 @@ Flaw co-occurrence analysis over the 242 MCQs deemed correct, counting violation
 - [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [Half of MCQs sampled from 18 MOOCs contain at least one item-writing flaw](half-mooc-mcqs-have-item-writing-flaws.md) — related

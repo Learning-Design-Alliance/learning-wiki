@@ -47,3 +47,4 @@ Exploratory Spearman bivariate analysis of survey responses from 141 first-year 
 ## Related Claims
 - [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related
 - [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related
+- [Tutors' PBL experience correlates moderately with their mean ratings, while male and female tutors' mean ratings do not differ significantly](tutor-experience-correlates-with-ratings.md) — related

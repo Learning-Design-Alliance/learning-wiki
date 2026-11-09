@@ -16,12 +16,14 @@ sources:
     author: Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # MCAT scores show the strongest correlation with USMLE Step 1 scores among nine institutional variables
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ghaffari-Rafi Arash, Lee Rachel Elizabeth, Fang Rui, Miles J. Douglas. (2019). Multivariable analysis of factors associated with USMLE scores across U.S. medical schools. BMC Medical Education. https://doi.org/10.1186/s12909-019-1605-z
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Univariate analysis of 2014 USN&WR data from 100 U.S. medical schools using Pearson/Spearman correlations. The article reports "the strongest correlation (corr = 0.72, P < .0001)" between MCAT and Step 1 scores; r = .72 corresponds to a large association.
 

@@ -391,3 +391,4 @@ Experiment 1 of the article. Undergraduates at a US university learned to count 
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related
 - [Reducing cognitive load, interleaving, spaced/retrieval practice, and increased wait-times are recommended to support learning in clinical teaching (Level 2a, Grade B)](cognitive-load-interleaving-spaced-retrieval-waittime-recommendation.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
+- [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related

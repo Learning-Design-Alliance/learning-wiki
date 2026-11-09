@@ -53,3 +53,4 @@ Narrative synthesis of moderator evidence, citing Quinto Romani et al.'s finding
 - [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related
 - [Including behavior change techniques in acute physical activity interventions is the only moderator associated with larger academic effects (g = 0.54 vs 0.23)](behavior-change-techniques-moderate-acute-pa-academic-effects.md) — related
 - [Regular twice-weekly 40-minute physical education alone lacked sufficient intensity to enhance cardiovascular endurance](regular-pe-insufficient-intensity-cardiovascular-endurance.md) — a narrower finding that bears on this claim
+- [Adding 180 extra minutes of weekly physical education did not detract from children's math achievement](extra-pe-did-not-detract-math.md) — related

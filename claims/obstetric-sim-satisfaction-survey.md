@@ -54,3 +54,4 @@ Post-training anonymous questionnaire (60 of 65 recovered, Cronbach's α = 0.891
 - [Trainees reported high course satisfaction, with a total average score of 45.08 (SD ± 5.41) on a 10–50 scale](high-satisfaction-critical-care-course.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related
+- [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related

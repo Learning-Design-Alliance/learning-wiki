@@ -54,3 +54,4 @@ Theme from rapid qualitative analysis of three virtual focus groups with 19 Hisp
 - Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions — related
 - [Students value NANDA-I diagnoses for professional communication but report challenges in understanding, cultural adaptation, and anticipated workload](students-value-nanda-but-report-comprehension-challenges.md) — related
 - [Stakeholders expect DHNs to communicate professionally and sensitively, explain content in lay-friendly ways, and adapt communication to individual patients](dhn-communicative-competencies-expectations.md) — related
+- [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related

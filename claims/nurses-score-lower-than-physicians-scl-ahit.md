@@ -16,12 +16,14 @@ sources:
     author: Meaney Peter Andrew, Joyce Christine Lynn, Setlhare Segolame, Smith Hannah E, Mensinger Janell L, Zhang Bingqing, Kalenga Kitenge, Kloeck David, Kgosiesele Thandie, Jibril Haruna, Mazhani Loeto, de Caen Allan, Steenhoff Andrew P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Nurses score significantly lower than physicians on knowledge outcomes at all time points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Meaney Peter Andrew, Joyce Christine Lynn, Setlhare Segolame, Smith Hannah E, Mensinger Janell L, Zhang Bingqing, Kalenga Kitenge, Kloeck David, Kgosiesele Thandie, Jibril Haruna, Mazhani Loeto, de Caen Allan, Steenhoff Andrew P. (2019). Knowledge acquisition and retention following Saving Children's Lives course for healthcare providers in Botswana: a longitudinal cohort study. BMJ Open. https://doi.org/10.1136/bmjopen-2019-029575
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Adjusted mixed-model results across the 211-provider cohort (91% nurses). The article reports the professional-status contrast, quoted as "(b=−19.39±3.30, p<0.0001) on total score", with similar significant gaps on both subscores.
 

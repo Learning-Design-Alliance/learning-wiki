@@ -87,3 +87,6 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Perceived value of and interest in the simulation was high immediately post-session but declined significantly at 4 and 8 months](simulation-interest-declines-months.md) — related
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
 - [Total MI utilization scores increased from pre-test to 1-month follow-up after a 1-h didactic, though only some individual skills changed](brief-mi-didactic-utilization-total-increase.md) — related
+- [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related
+- [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related
+- [Online father engagement training improves practitioner competencies, but confidence, competence and perceived effectiveness deteriorate from post-training to 2-month follow-up](ot-competencies-deteriorate-at-follow-up.md) — related

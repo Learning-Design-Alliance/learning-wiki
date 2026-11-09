@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 645 claims (343 show a difference, 146 mixed, 156 no difference) · 456 studies (229 associational, 167 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 456 report an effect size · 637 claims rest on one study
+> **Evidence** · 649 claims (344 show a difference, 147 mixed, 158 no difference) · 460 studies (232 associational, 167 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 460 report an effect size · 641 claims rest on one study
 
 ## How to read this page
 
@@ -684,6 +684,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Longer math tests are associated with a smaller gender gap: males lead by about 0.2 standard deviations on short tests, with parity reached at 125 questions](../claims/longer-math-tests-smaller-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Neither student sex nor the anti-bias treatment changed evaluations of male instructors, though female students rated male instructors less positively](../claims/no-treatment-effect-male-instructors-by-student-sex.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Treatment effects on evaluations of female instructors appear concentrated among male students, though the male-versus-female difference is not statistically significant](../claims/student-sex-moderation-female-instructor-ratings.md) [-M] — an instructional effect differs by group
+- [Male students achieved slightly higher first-three-term outcome than female students (d = 0.19)](../claims/male-outcome-advantage-d019.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No gender difference in any of the six GAP-test competence domains among medical students](../claims/no-gender-difference-gap-test-domains.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](../claims/sex-differences-simce-high-school-males.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Total operative experience averages 2060 procedures and does not differ by sex but varies by special interest](../claims/total-operative-experience-cohort-averages.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

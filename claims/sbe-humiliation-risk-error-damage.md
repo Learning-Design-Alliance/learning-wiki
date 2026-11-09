@@ -16,12 +16,14 @@ sources:
     author: Bearman Margaret, Greenhill Jennene, Nestel Debra
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Humiliation narratives show SBE can negatively impact learners' emotions for years, and that without appropriate design and facilitation, experiencing error may cause damage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bearman Margaret, Greenhill Jennene, Nestel Debra. (2019). The power of simulation: a large‐scale narrative analysis of learners’ experiences. Medical Education. https://doi.org/10.1111/medu.13747
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion of the 327-narrative dataset: humiliation narratives (8/327) were associated with only negative emotions such as feeling 'mortified', 'embarrassed' and 'unsafe', and the article states SBE "has the capacity to negatively impact on learners' emotions for many years afterwards". Good practice — appropriate environment, design and expert debriefing — is said likely to reduce humiliation.
 

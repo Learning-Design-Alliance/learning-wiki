@@ -16,6 +16,8 @@ sources:
     author: Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: park-kye-yeung-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1668-x"
     title: "Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik. (2019). Group randomized trial of teaching tobacco-cessation counseling to senior medical students: a peer role-play module versus a standardized patient module. BMC Medical Education. https://doi.org/10.1186/s12909-019-1668-x"
@@ -42,7 +44,7 @@ sources:
 
 Park Kye-Yeung, Park Hoon-Ki, Hwang Hwan-Sik. (2019). Group randomized trial of teaching tobacco-cessation counseling to senior medical students: a peer role-play module versus a standardized patient module. BMC Medical Education. https://doi.org/10.1186/s12909-019-1668-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated-measures ANOVA with Bonferroni post-hoc comparisons across four evaluation periods over two to eight months. "students’ OSCE scores were highest before the KMLE-CSA in both groups"; the authors attribute this partly to self-directed learning before the licensing exam.
 

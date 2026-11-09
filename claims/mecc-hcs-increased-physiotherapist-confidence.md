@@ -52,3 +52,4 @@ Wilcoxon matched-pairs signed-rank tests on 10-point confidence ratings taken di
 - [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related
 - [Research staff self-rated recruitment communication skills improve significantly after the GOSCE](gosce-significant-self-rated-skill-improvement.md) — related
 - [Residents' self-rated confidence using MI skills rose from pre-test to post-test and remained elevated at 1-month follow-up in one uncontrolled pre-post study](brief-mi-didactic-confidence-gains-residents.md) — related
+- [E-learning on patient safety showed no effect on medical students' error disclosure confidence](elpas-no-effect-error-disclosure.md) — related

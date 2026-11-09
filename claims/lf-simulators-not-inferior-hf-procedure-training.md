@@ -48,3 +48,5 @@ A PRISMA-guided literature review of 17 randomized studies directly comparing HF
 - [In all eight reviewed laparoscopic skill training studies, high-fidelity simulators did not yield outcomes superior to low-fidelity simulators](laparoscopic-hf-not-superior-eight-studies.md) — a narrower finding that bears on this claim
 - [In seven of nine non-laparoscopic procedure training studies, high-fidelity simulator training was not better than low-fidelity, with two exceptions favoring HF](non-laparoscopic-fidelity-seven-of-nine-no-benefit.md) — a narrower finding that bears on this claim
 - [Simulation training (high or low fidelity) improved performance compared to no training or didactic training alone](simulation-beats-no-training-or-didactic-only.md) — related
+- [HF group participants overrated their performance and confidence relative to LF participants despite comparable or inferior outcomes](hf-simulation-induces-overconfidence.md) — related
+- [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — a narrower finding that bears on this claim

@@ -17,12 +17,14 @@ sources:
     author: Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mean licensing exam scores differ substantially between students matching into high- versus low-competitiveness specialties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Mitsouras Katherine, Dong Fanglong, Safaoui Marian N., Helf Scott C. (2019). Student academic performance factors affecting matching into first-choice residency and competitive specialties. BMC Medical Education. https://doi.org/10.1186/s12909-019-1669-9
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANOVA comparing mean scores across specialty competitiveness levels in the retrospective cohort. The study reports differences of "COMLEX Level 1 62.7 points, Level 2 CE 50.5 points, USMLE Step 1 13.6 points, Step 2 CK 7 points (all p < 0.001)" and a 2.4-point pre-clinical GPA difference. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 

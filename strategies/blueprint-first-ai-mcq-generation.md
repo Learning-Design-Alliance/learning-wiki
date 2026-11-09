@@ -43,6 +43,7 @@ The article's first tip instructs item writers to define learning objectives and
 - [Subject AI-generated items to trained human expert review, including a technical review and difficulty refinement](human-expert-review-of-ai-mcqs.md)
 - [Pilot AI-generated items as unscored exam items, review their psychometrics, and bank those meeting quality standards](pilot-and-bank-ai-generated-items.md)
 - [Hybrid AI question-development workflow: AI generation with standardized prompts, then expert review, psychometric validation, and continuous monitoring](hybrid-ai-question-generation-expert-validation-workflow.md)
+- [Use the medical health education item-writing evidence base to evaluate MOOC assessment quality](medical-education-protocol-for-mooc-mcq-review.md)
 
 ## Examples
 -

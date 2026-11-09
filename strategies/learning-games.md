@@ -65,6 +65,7 @@ Games support learning primarily through tight feedback cycles, adaptive challen
 - [Productive Failure](../strategies/productive-failure.md) — games naturally permit safe failure, which can be leveraged for exploration before instruction
 - [Embed puzzles and challenges in simulations for continued engagement and self-assessment](embed-puzzles-and-challenges-in-sims.md)
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
+- [Provide initial instructions on the adequate sequence of actions before self-training game play](initial-instructions-before-serious-game-play.md)
 
 ## Examples
 - **[DragonBox](https://dragonbox.com)** — algebra learning embedded in puzzle mechanics; players solve for unknowns before any formal notation appears, then notation is introduced as a re-skin of mechanics they already master.

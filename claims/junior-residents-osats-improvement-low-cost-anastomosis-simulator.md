@@ -52,3 +52,4 @@ Observational multicenter study of 140 residents from nine centers, with 55.71% 
 - [Senior residents achieved significantly faster final anastomosis times than junior residents in S-T-S, E-T-S, and E-T-E anastomoses (P=0.039)](senior-faster-final-anastomosis-time-than-junior.md) — related
 - [Senior cardiothoracic surgery residents significantly improved most modified OSATS motor skills and anastomosis time across all three anastomosis types](senior-residents-osats-improvement-low-cost-anastomosis-simulator.md) — related
 - [After MR simulator training, correct angle and direction of the puncture needle improved from 22/40 to 35/40 (p = 0.0001).](mr-training-improved-needle-angle-direction.md) — related
+- [Gamified simulation-based training improved resident competency, engagement, and narrowed baseline skill disparities across residency programs](gamification-improves-resident-training-engagement.md) — related

@@ -17,18 +17,22 @@ sources:
     author: Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: gicquelais-rachel-e-2019-2
     resource: "https://doi.org/10.1186/s12954-019-0317-3"
     title: "Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3"
     author: Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gender-stratified latent class analysis identifies two justice involvement classes (high and low) among justice-diverted people who use opioids, with differing class sizes by gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -41,7 +45,7 @@ sources:
 
 Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Latent class analysis of five justice involvement indicators among 514 PWUO, fit separately by gender. The quote characterizes the low-involvement class among men (20.3% of men); women's low-involvement class comprised 46.5% of women.
 
@@ -51,7 +55,7 @@ Latent class analysis of five justice involvement indicators among 514 PWUO, fit
 
 Gicquelais Rachel E., Mezuk Briana, Foxman Betsy, Thomas Laura, Bohnert Amy S. B. (2019). Justice involvement patterns, overdose experiences, and naloxone knowledge among men and women in criminal justice diversion addiction treatment. Harm Reduction Journal. https://doi.org/10.1186/s12954-019-0317-3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Likelihood ratio test comparing the constrained and unconstrained two-class LCA models in the same 514-participant sample. The test "rejected the null hypothesis of measurement invariance", so a gender-stratified model was used for all subsequent analyses.
 

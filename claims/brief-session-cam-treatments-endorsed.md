@@ -16,12 +16,14 @@ sources:
     author: Liem Andrian
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Participants recommended teaching only CAM treatments that fit brief psychotherapy sessions, favoring NLP, hypnotherapy, brain gym, and EMDR
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liem Andrian. (2019). "I've Only Just Heard About It": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the 'what and how to learn?' theme, participants endorsed treatments usable in brief sessions; "neuro-linguistic programming (NLP) was the most commonly endorsed treatment, followed by hypnotherapy, brain gym, and eye movement desensitization and reprocessing (EMDR)."
 

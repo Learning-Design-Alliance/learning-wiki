@@ -16,12 +16,14 @@ sources:
     author: Tawanwongsri W, Phenwan T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Only a minority of fourth-year Thai medical students reached the higher stages of Gibbs' reflective cycle during individual reflective practice, with 33% at the evaluation stage and 4% at the action plan stage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tawanwongsri W, Phenwan T. (2019). Reflective and feedback performances on Thai medical students’ patient history-taking skills. BMC Medical Education. https://doi.org/10.1186/s12909-019-1585-z
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Retrospective analysis of 24 individual reflection sessions from a ten-week introduction course; two instructors categorised students' highest reflective stage using a constant comparative method. The study reports "33% of participants reached the evaluation level" and "Only 4%" reached the action plan stage; no effect size is printed.
 

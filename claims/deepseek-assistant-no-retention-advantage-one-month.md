@@ -51,3 +51,4 @@ In the same stratified RCT, a follow-up test one month after the course compared
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — reports the opposite
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [The SML+AI group showed significantly higher 5-month retention of anatomical knowledge than the control and SML groups](chatgpt-virtual-manipulatives-higher-retention.md) — reports the opposite
+- [The flipped classroom advantage in EBN knowledge disappears by one month after the course](flipped-classroom-knowledge-advantage-fades-one-month.md) — related

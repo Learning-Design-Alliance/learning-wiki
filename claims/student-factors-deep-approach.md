@@ -113,3 +113,4 @@ Review synthesis of correlational studies on self-confidence, self-efficacy and 
 - [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](source-of-knowledge-beliefs-predict-learning-approaches.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
 - [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related
+- [Autonomous motivation correlates positively with surface, deep, and achieving strategy and with GPA](autonomous-motivation-correlates-study-strategies.md) — related

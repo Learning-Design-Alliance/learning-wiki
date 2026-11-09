@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (18 for, 7 mixed, 3 against) · 21 studies (10 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 28 claims rest on one study
+> **Evidence** · 28 claims (18 for, 7 mixed, 3 against) · 21 studies (10 causal, 5 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 28 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.

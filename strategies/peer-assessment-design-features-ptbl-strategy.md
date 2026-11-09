@@ -48,6 +48,7 @@ The article recommends implementing peer assessment in PtBL with specific design
 ## Related Strategies
 
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
+- [Train raters in the use of the SHORT (e.g., via webinars, e-learning with videos, or live-debriefing ratings) before implementation](short-rater-training-before-implementation.md)
 
 ## Examples
 -

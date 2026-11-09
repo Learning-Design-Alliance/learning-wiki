@@ -58,3 +58,6 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
 - [Intervention students reported very high satisfaction with the gamified program](high-satisfaction-gamified-program.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
+- [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
+- [Residents rated the paracentesis curriculum highly, ranking it fourth of 14 core curricular activities with an average quality rating of 3.88 of 5](paracentesis-curriculum-positive-feedback-ratings.md) — related
+- [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related

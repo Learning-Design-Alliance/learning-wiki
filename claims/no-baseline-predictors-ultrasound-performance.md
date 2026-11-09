@@ -61,3 +61,4 @@ In this RCT, baseline MRT and anatomical knowledge tests showed no significant c
 - [MRT and VVIQ scores are uncorrelated (r = 0.01), and neither significantly affected survey scores except VVIQ on extraneous cognitive load (p < 0.05)](mrt-vviq-uncorrelated-null-main-effects.md) — reports the opposite
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — related
 - [Mental rotation ability moderated elective-course gains: Theory-group students with high MRT scores improved significantly more than low-MRT peers, while Magic Mirror improvement was independent of MRT score.](mrt-moderates-anatomy-radiology-gains.md) — related
+- [Mental rotation accuracy and response time do not predict science achievement in this age range, unlike mental folding](mental-rotation-not-predicting-children-science.md) — related

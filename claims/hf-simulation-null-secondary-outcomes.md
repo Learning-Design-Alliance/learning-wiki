@@ -88,3 +88,4 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [Both high-fidelity simulation and case-based discussion increased theoretical knowledge scores, with no significant difference between groups](hfs-cbd-equal-knowledge-gains.md) — related
 - [Student satisfaction was higher for high-fidelity simulation training than for interactive video-case training](hfs-higher-student-satisfaction.md) — reports the opposite
 - [High-fidelity simulation training produced higher team skills scores than interactive video-case training on the Mayo High Performance Teamwork Scale](hfs-higher-team-skills-score.md) — related
+- [HF and LF simulation training produce equivalent gains in theoretical ALS knowledge in fourth-year medical students](hf-lf-simulation-equivalent-knowledge-gains.md) — related

@@ -56,3 +56,5 @@ Indirect effects analysis in the 954-student cohort found borderline significant
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — related
 - [The change in motor skills has a borderline significant association with the change in academic achievement.](motor-skills-change-gpa-borderline.md) — related
+- [Cumulative aerobic fitness is associated with exam performance: students highly fit in all three junior high years score higher than those highly fit for fewer years across all five subjects](cumulative-aerobic-fitness-bctjh-exam-scores.md) — related
+- [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — related

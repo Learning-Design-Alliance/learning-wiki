@@ -16,12 +16,14 @@ sources:
     author: Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Training is associated with increased odds of provider confidence, perceived resource availability and perceived support in making sepsis decisions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Brizuela V, Bonet M, Souza JP, Tunçalp Ö, Viswanath K, Langer A. (2019). Factors influencing awareness of healthcare providers on maternal sepsis: a mixed-methods approach. BMC Public Health. https://doi.org/10.1186/s12889-019-6920-0
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Logistic regression on the same 1555-provider survey for the enabling-environment component. Baseline perceptions were low: 33% felt very confident, 38% reported resources always available, 48% felt very supported; training was associated with all three ("aOR 2.06, 95% CI 1.59–2.68").
 

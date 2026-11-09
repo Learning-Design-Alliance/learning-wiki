@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-09
 sources:
   - id: varman-sumantla-devi-2025
     resource: "https://doi.org/10.1186/s12889-025-22364-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Caregivers reported mixed, limited perceived changes in children's knowledge, attitudes and behaviours after the program. [→ Varman Sumantla Devi 2025](#varman-sumantla-devi-2025)

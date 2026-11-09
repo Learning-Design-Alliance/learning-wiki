@@ -52,3 +52,4 @@ GEE analysis of the same two-group RCT (n = 108) measuring confidence with a sin
 - [Nurses who encounter delirium cases during follow-up report higher confidence than those without such experience](clinical-exposure-reinforces-confidence.md) — related
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
 - [Speechreading training produces short-term vocabulary gains at immediate post-test that are not sustained at later follow-ups](speechreading-training-short-term-vocabulary-gains.md) — a narrower finding that bears on this claim
+- [E-learning produced a small immediate effect on situation-monitoring attitudes that was not sustained at one-year follow-up](elpas-situation-monitoring-effect-not-sustained.md) — related

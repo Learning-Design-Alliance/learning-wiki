@@ -50,3 +50,4 @@ The review's conclusions section synthesises knowledge outcomes across the inclu
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md)
 - [Voice advisory mannequin training produces better CPR skill acquisition than other training resources among health science students, though not in every comparison](vam-training-better-cpr-skills-health-students.md) — related
 - [Interactive multimedia CD-ROM self-learning produced higher achievement than online self-learning with mentor support, with no significant differences between CD and print or between print and online](imm-cd-higher-achievement-than-online-ignou.md) — related
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related

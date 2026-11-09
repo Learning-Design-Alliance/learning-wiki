@@ -17,7 +17,7 @@ sources:
 # Schools may recommend as the main option those devices that allow MacOS, based on the study's operating-system findings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Following the finding that operating system relates to passed subjects, the authors state that "the school associated with this study will be recommending as the main option those devices that allow the use of such an operating system", because "students who use MacOS as operating system have a better success rate on average". This is a procurement-and-guidance action for schools whose students access an LMS from varied devices.

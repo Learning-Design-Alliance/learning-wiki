@@ -51,3 +51,4 @@ Across the five reviewed studies that included an HF group, an LF group, and a d
 - [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — related
 - [Skill benefit of HF simulation holds against LF simulation (SMD = 0.36) but not against traditional training (SMD = -0.08)](hf-skill-benefit-lf-not-traditional.md) — reports the opposite
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
+- [HF group participants overrated their performance and confidence relative to LF participants despite comparable or inferior outcomes](hf-simulation-induces-overconfidence.md) — related

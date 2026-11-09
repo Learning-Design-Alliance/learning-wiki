@@ -69,3 +69,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [The Study Smart cohort showed greater knowledge growth across exams than the prior, untrained cohort](study-smart-cohort-greater-exam-growth.md) — related
 - [Simulation participants also scored higher on the pulmonary physiology section of the block test](sbe-higher-pulmonary-physiology-section-scores.md) — related
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
+- [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related

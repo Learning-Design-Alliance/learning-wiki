@@ -67,3 +67,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Students’ learning outcomes did not differ significantly in their pre-test-to-post-test changes by gender, age, admission type, or residency status across the two teaching methods in one study without a comparison group](background-characteristics-not-moderating-e-learning-outcomes.md) — related
 - [Perceived stress was not significantly related to any measured student, instructor or clinical-environment characteristic](no-significant-stress-characteristic-relationships.md) — related
 - [Academic achievement rises with educational level but is not significantly related to age or marital status](gpa-increases-educational-level-nursing.md) — related
+- [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related

@@ -71,3 +71,4 @@ T2 follow-up comparison of total scores in the same study; the overall competenc
 - [The experiential learning program improves patient health engagement at the immediate posttest, but the difference is no longer significant 3 months later](elt-ehealth-program-patient-engagement-mixed.md) — related
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
 - [Speechreading training produces short-term vocabulary gains at immediate post-test that are not sustained at later follow-ups](speechreading-training-short-term-vocabulary-gains.md) — a narrower finding that bears on this claim
+- [The empathy-score gains of operating room nursing students after role-playing training persist at 1 month, with no significant change between the immediate and 1-month posttests](empathy-gains-persist-one-month-role-playing.md) — related

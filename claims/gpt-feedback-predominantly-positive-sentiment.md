@@ -50,3 +50,4 @@ TextBlob lexicon-based sentiment analysis of the GPT-generated hints; polarity r
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [LLM-generated forum replies are more neutral and less varied in sentiment than human replies](llm-replies-more-neutral-than-human.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
+- [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related

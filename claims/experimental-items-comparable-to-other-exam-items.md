@@ -16,12 +16,14 @@ sources:
     author: Cerutti Bernard, Stollar Fabiola, Escher Monica, Blondon Katherine, Aujesky Susanne, Nendaz Mathieu, Galetto-Lacour Annick
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Experimental items performed comparably to the other exam items, supporting generalisability of the format comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Cerutti Bernard, Stollar Fabiola, Escher Monica, Blondon Katherine, Aujesky Susanne, Nendaz Mathieu, Galetto-Lacour Annick. (2019). Comparison of long-menu and single-best-answer multiple choice questions in computer-based summative assessments: a randomised controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-019-1651-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis comparing the 88 experimental items with all other items in the 22 exams. Non-experimental item difficulty (78.1% ± 20.3%) was similar to Type A experimental items (p = 0.8715) but higher than long-menu items (p = 0.010). No effect size is printed.
 

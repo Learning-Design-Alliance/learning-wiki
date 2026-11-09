@@ -49,3 +49,4 @@ Narrative review discussion citing Haycock et al. (2009), described as a "single
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — related
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related
+- [Trainees receiving virtual reality simulation-based training improve early endoscopic performance across procedure types](vr-sbt-improves-early-endoscopic-performance.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Primary outcome of a parallel cluster randomised controlled trial in which 2,623
 - [The advantage of BLS+WEB over BLS alone in total practical skills score was present both directly after training and at the six-month retention test](web-cvd-education-higher-bls-post-test-score.md) — possibly the same claim (merge candidate)
 - [Six months after training, the BLS+WEB group asked for an AED, attached electrode pads correctly, and delivered the first shock faster more often than the BLS group](web-education-better-aed-related-skills.md) — related
 - [BLS+WEB participants had higher theoretical knowledge of stroke and AMI symptoms and healthy lifestyle factors than BLS-only participants, both directly and six months after training](web-education-higher-cvd-theoretical-knowledge.md) — related
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related

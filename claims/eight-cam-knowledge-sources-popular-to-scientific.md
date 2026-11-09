@@ -17,18 +17,22 @@ sources:
     author: Liem Andrian
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: liem-andrian-2019-2
     resource: "https://doi.org/10.3390/medicina55070333"
     title: "Liem Andrian. (2019). \"I've Only Just Heard About It\": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333"
     author: Liem Andrian
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Indonesian clinical psychologists gained CAM knowledge from eight sources ranging from popular to scientific literature, with family the most influential
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -41,7 +45,7 @@ sources:
 
 Liem Andrian. (2019). "I've Only Just Heard About It": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Thematic analysis of interviews with 43 clinical psychologists identified eight knowledge-source sub-themes; "Participants access ranged widely in terms of references, from popular to scientific literature."
 
@@ -51,7 +55,7 @@ Thematic analysis of interviews with 43 clinical psychologists identified eight 
 
 Liem Andrian. (2019). "I've Only Just Heard About It": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Within the source-of-knowledge theme of the interview study, the article reports that "Family members, including partners and parents, were the most influential persons" for participants' CAM knowledge and behavior.
 

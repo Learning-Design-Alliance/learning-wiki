@@ -44,6 +44,7 @@ The article's concluding recommendation is that institutions responsible for you
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 - [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
 - [Develop school-based healthy-lifestyle education and free intervention programs (workshops, afterschool programs) targeting eating, sleep, and screen-time habits](healthy-lifestyle-school-intervention-programs.md)
+- [Deliver intervention programs within the educational context to improve healthy dietary and physical activity habits of adolescents](school-based-healthy-habits-intervention-programs.md)
 
 ## Examples
 -

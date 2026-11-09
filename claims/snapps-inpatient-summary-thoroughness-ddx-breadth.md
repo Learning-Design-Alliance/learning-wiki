@@ -16,18 +16,22 @@ sources:
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: jain-vishakha-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1670-3"
     title: "Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3"
     author: Jain Vishakha, Rao Siddharth, Jinadani Mariya
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Open-label randomized controlled trial with case presentations as the unit of analysis. SNAPPS residents "reported an average of 7 clinical attributes as compared to the control group" which reported 5.2 (p value = 0.006).
 
@@ -50,7 +54,7 @@ Open-label randomized controlled trial with case presentations as the unit of an
 
 Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same trial, same unit of analysis. Students using SNAPPS "expressed 1.5 times more differential diagnosis as compared to the control group (2.56 vs. 1.74, p value =0.002)."
 

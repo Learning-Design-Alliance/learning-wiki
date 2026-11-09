@@ -87,3 +87,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — related
 - [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
+- [The German translation of TEAM shows psychometric properties comparable to the English and French versions, with high internal consistency and a single dominant component](german-team-psychometrics-validated.md) — related

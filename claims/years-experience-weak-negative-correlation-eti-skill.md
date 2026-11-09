@@ -16,12 +16,14 @@ sources:
     author: Gillett Brian MD; Saloum David MD, MACM; Aghera Amish MD; Marshall John P. MD, MBA
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Years of experience show a weak negative correlation with intubation skill assessment scores among attending physicians
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gillett Brian MD; Saloum David MD, MACM; Aghera Amish MD; Marshall John P. MD, MBA. (2019). Skill Proficiency is Predicted by Intubation Frequency of Emergency Medicine Attending Physicians. Western Journal of Emergency Medicine. https://doi.org/10.5811/westjem.2019.6.42946
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Post hoc correlation analysis in the same cross-sectional cohort (mean years of practice 10.3, 95% CI 7.4–13.3). The article reports "r = −0.4, p = 0.004" for years of experience versus assessment score.
 

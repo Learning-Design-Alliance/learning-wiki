@@ -16,18 +16,22 @@ sources:
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: donkin-rebecca-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1745-1"
     title: "Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1"
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # No students reported anxiety or avoidance when watching expert video techniques or receiving peer feedback, but 28% of open-ended comments expressed anxiety about being recorded themselves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Discussion section observation contrasting the absence of anxiety around expert videos and peer feedback with the anxiety reported around being recorded. "Interestingly, no students in this study reported anxiety or avoidance when watching the 'expert' video technique or when receiving feedback from a peer."
 
@@ -50,7 +54,7 @@ Discussion section observation contrasting the absence of anxiety around expert 
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative survey analysis of open-ended responses. "The negative comments (28%) involved anxiety of being recorded" and avoidance of participating while recorded in front of peers.
 

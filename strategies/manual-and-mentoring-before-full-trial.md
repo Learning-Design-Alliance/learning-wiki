@@ -48,6 +48,7 @@ The evaluation's development recommendation for PAL: address inconsistent delive
 - [Co-train coaches across schools to capture economies of scale in training and equipping coaching programmes](co-train-coaches-economies-of-scale.md)
 - [Implement a 2-hour guided extracurricular outdoor physical activity program after school on school days](two-hour-after-school-outdoor-physical-activity-program.md)
 - [Review PAL training content, particularly the outdoor component and the amount of activity introduced, before further secondary-school PAL research](review-pal-training-content-strategy.md)
+- [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 
 ## Examples
 -

@@ -64,6 +64,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 - Make-a-ten / decomposition strategies — the conceptual bridge out of counting
 - Number line estimation activities — ground counting sequences in spatial magnitude
 - [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
+- [Explicitly direct children to compare addends' magnitudes during arithmetic practice with linear materials](compare-addends-magnitudes-during-arithmetic-practice.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../principles/responsive-teaching.md)).

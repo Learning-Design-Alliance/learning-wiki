@@ -16,12 +16,14 @@ sources:
     author: Chin Ronald Yoon-Kong, Tjahjono Richard, Rutledge Michael John Raymond, Lambert Tim, Deboever Nathaniel
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # With a 65% pass mark, the majority of e-learning-access students passed the OHNS OSCE while the majority of study-as-usual students failed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Chin Ronald Yoon-Kong, Tjahjono Richard, Rutledge Michael John Raymond, Lambert Tim, Deboever Nathaniel. (2019). The evaluation of e-learning resources as an adjunct to otolaryngology teaching: a pilot study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1618-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Chi-squared comparison of pass rates in the same pilot RCT (Group A n=8, Group B n=11) using the University of Sydney's standard 65% benchmark. The article reports "87.50% v. 9.10%; P = 0.01" for overall pass rates. No effect size was printed.
 

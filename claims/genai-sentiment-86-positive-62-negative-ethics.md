@@ -53,3 +53,4 @@ Sentiment analysis component of the mixed-methods study of 112 student reflectio
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Both writing-based and AI-based alternative-ending activities motivated students, though with distinct concerns in each group](alternative-ending-tasks-motivated-both-groups.md) — related
 - [Open feedback on Ethics Quarter content is overwhelmingly positive (99% of 71 responses)](ethics-quarter-open-feedback-99-percent-positive.md) — related
+- [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related

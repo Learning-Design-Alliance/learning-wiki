@@ -58,3 +58,4 @@ A single fictional network scenario with printed centrality values (Table 1): no
 - A citation analysis of 276 articles citing the DEGREE 2000 paper identifies six groups of aspects the community referred to, sampled from 53 articles — related
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related
 - [Game implementations were mostly single-institution and single-setting, limiting evidence quality and diffusion](single-institution-single-setting-implementations.md) — related
+- [The words 'information' and 'transfer' are integral to students' medical communication perceptions, with 'information' centrality rising at each stage](information-transfer-central-in-mc-perceptions.md) — related

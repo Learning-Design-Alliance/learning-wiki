@@ -67,3 +67,4 @@ Post-Round-1 revision process: new competencies on artificial intelligence and g
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [Round-1 expert agreement of 91.9% (57 of 62 items) suggests health literacy competency understandings are similar across US, Europe, and Taiwan](high-cross-regional-agreement-health-literacy-competencies.md) — related
+- [Experts unanimously agree HI is grossly under-represented in UK postgraduate medical training and should be universal and integrated, not stand-alone](experts-hi-underrepresented-universal-integrated.md) — related

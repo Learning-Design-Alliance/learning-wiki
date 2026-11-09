@@ -54,3 +54,4 @@ Interrater reliability analysis of the same 57 rated debriefings comparing singl
 - [Averaging T-NOTECHS scores across three assessors yields excellent reliability for all five behavioral domains, whereas single-rater reliability is fair for two domains](tnotechs-three-rater-domain-reliability.md) — related
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — related
 - [G-OSAD test-retest reliability over two months was excellent (ICC = 0.976), higher than the original English OSAD's reported value](gosad-test-retest-reliability-excellent.md) — related
+- [A single rater assessing three debriefings by a debriefer achieves high reliability (φ = 0.84) with the SHORT scale](short-single-rater-three-observations-reliable.md) — related

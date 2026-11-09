@@ -16,12 +16,14 @@ sources:
     author: Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Shared noise covariance in lateral motion increases across imitation trials, quantifying transfer of responsibility as common knowledge of the puzzle solution is acquired
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Okazaki Shuntaro, Muraoka Yoshihiro, Osu Rieko. (2019). Teacher-learner interaction quantifies scaffolding behaviour in imitation learning. Scientific Reports. https://doi.org/10.1038/s41598-019-44049-x
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Wilcoxon signed rank comparison of lateral-motion noise covariance across trial halves in 14 pairs; the article reports "a significant difference (p = 0.005, R = 0.78)", and interprets rising covariance as learners anticipating the teacher's motion rather than merely imitating.
 

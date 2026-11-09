@@ -50,3 +50,4 @@ The review's synthesis of 23 articles: confidence measures were collected immedi
 - [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
 - [Confidence in managing ENT scenarios is higher among participants who received simulation training](simulation-raises-ent-confidence.md) — a narrower finding that bears on this claim
+- [First-year doctors report that simulation-based training in handling critically ill patients increased their preparedness for clinical practice six months after the course](sbt-increases-preparedness-first-year-doctors.md) — related

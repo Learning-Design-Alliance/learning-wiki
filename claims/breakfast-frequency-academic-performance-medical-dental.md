@@ -51,3 +51,4 @@ Smartcard-based dietary behavior analysis of medical and dental students. The ar
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
 - [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md) — a broader claim this one bears on
 - [Eating breakfast at least 4 days per week is associated with higher subjective academic achievement among university students](breakfast-four-days-higher-saas.md) — related
+- [Skipping breakfast is associated with low academic performance in univariate analysis but not after adjustment for other lifestyle factors](breakfast-skipping-null-after-adjustment-academic-performance.md) — reports the opposite

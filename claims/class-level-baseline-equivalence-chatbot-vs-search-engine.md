@@ -77,3 +77,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — related
 - [Feedback and control groups were comparable at baseline in conversation length and sociodemographics before the feedback intervention](baseline-comparability-chat-transcript-word-count.md) — related
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
+- [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related

@@ -51,6 +51,7 @@ The article recommends that when learning moves online, each element of the E-5C
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 - [Multi-level preparation strategy for converting SP cases to digital delivery](sp-case-digital-conversion-preparation-strategy.md)
+- [Adapt e-learning training with time estimates, blended learning, and peer mentoring to support communication-strategy delivery](e-solas-future-adaptations-blended-peer-mentor.md)
 
 ## Examples
 -

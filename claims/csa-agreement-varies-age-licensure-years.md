@@ -49,3 +49,4 @@ Chi-square comparison of agree (n = 1819) versus disagree (n = 163) respondents 
 - [Most non-opposing respondents favored introducing CSA in 2025, and preferred timing was associated with perceived need](csa-preferred-introduction-timing-2025.md) — related
 - [Surveyed DKMs prioritize patient care, clinical skills, and completion of the medical record as the competencies a CSA should assess](csa-competency-priorities-patient-care-top.md) — related
 - [OSCE scores are highest before the licensing examination, with no significant group-by-time interaction across four assessment periods](osce-highest-before-kmle-no-group-by-time-interaction.md) — related
+- [Younger and less-experienced Vietnamese physical therapists report less EBP knowledge and are more likely to view EBP as an unreasonable demand](younger-therapists-less-ebp-knowledge-unreasonable-demand.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Hollenberg Jacob, Claesson Andreas, Ringh Mattias, Nordberg Per, Hasselqvist-Ax Ingela, Nord Anette
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Native language remains associated with CPR skill test total score after adjusting for gender and previous training in multiple linear regression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hollenberg Jacob, Claesson Andreas, Ringh Mattias, Nordberg Per, Hasselqvist-Ax Ingela, Nord Anette. (2019). Effects of native language on CPR skills and willingness to intervene in out-of-hospital cardiac arrest after film-based basic life support training: a subgroup analysis of a randomised trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025531
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Multiple linear regression analyses for the total score of the modified Cardiff test including baseline covariates (gender, native language, previous compression and ventilation training), reported in table 3. The native language estimate is "−1.83 (−2.58 to −1.09)" in model 1 and −1.85 in model 4; the unstandardised coefficient is not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 

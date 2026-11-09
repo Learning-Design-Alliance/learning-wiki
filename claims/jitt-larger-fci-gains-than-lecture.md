@@ -59,3 +59,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](non-mlm-group-below-national-average-gain.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
 - [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — a broader claim this one bears on
+- [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related

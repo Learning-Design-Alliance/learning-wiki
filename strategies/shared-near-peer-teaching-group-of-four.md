@@ -17,7 +17,7 @@ sources:
 # Use near-peer teaching groups of about four trainee-teachers sharing the teaching task
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article suggests structuring near-peer teaching with a small team of teachers who share the teaching task. The authors note the "group size of four gave the opportunity to share the teaching tasks, therefore not being exposed as a single instructor", and propose considering a reduction to two ORTT in further development. This recipe made teaching feasible for trainees without formal teaching experience and supported their self-efficacy.

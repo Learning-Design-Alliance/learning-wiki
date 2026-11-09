@@ -60,3 +60,4 @@ Mann-Whitney U comparison of quiz-score gains between participants without versu
 - [Prior practical ultrasound experience correlates with better pre-course test results, engagement with other radiological topics correlates with better post-course results, and participants of a pre-study medical admission test score significantly better overall (p < 0.01)](prior-experience-influences-test-results.md) — related
 - [Students rate the HMD-based course's learning experience comparable to tutor-led and significantly better than e-learning](hmd-learning-experience-better-than-elearning.md) — related
 - [Prior vocational education, prior obstetric emergency experience, and gender showed no significant influence on simulation performance](no-significant-influence-prior-experience-gender-simulation.md) — related
+- [Trainees in the study were genuine novices, averaging 11.5 prior ultrasounds and minimal ocular ultrasound experience](onsd-trainees-novice-baseline.md) — related

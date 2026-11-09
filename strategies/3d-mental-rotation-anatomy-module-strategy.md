@@ -47,6 +47,7 @@ The article recommends supplementing anatomy education for students with low spa
 
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
+- [Systematically introduce combined 3D and 2D training, with real clinical cases, early in surgical residency](early-combined-3d-2d-residency-training-strategy.md)
 
 ## Examples
 -

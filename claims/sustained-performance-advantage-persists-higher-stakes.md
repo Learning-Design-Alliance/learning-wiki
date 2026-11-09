@@ -16,18 +16,22 @@ sources:
     author: "Balart, P. & Oosterveen, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
   - id: balart-2019-2
     resource: "https://doi.org/10.1038/s41467-019-11691-y"
     title: "Balart, P. & Oosterveen, M. (2019). Females show more sustained performance during test-taking than males. Nature Communications, 10, 3798. https://doi.org/10.1038/s41467-019-11691-y"
     author: "Balart, P. & Oosterveen, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # The female advantage in sustaining performance appears smaller but not absent in higher-stakes testing contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Balart, P. & Oosterveen, M. (2019). Females show more sustained performance during test-taking than males. Nature Communications, 10, 3798. https://doi.org/10.1038/s41467-019-11691-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Cross-country comparison motivated by research on testing culture; the article reports that in Asian countries the gender difference is smaller but "not entirely eliminated; in 60% of the Asian countries, it is present and statistically significant". In Shanghai, males lead initially by more than 3 percentage points but the gap becomes negligible by the end.
 
@@ -50,7 +54,7 @@ Cross-country comparison motivated by research on testing culture; the article r
 
 Balart, P. & Oosterveen, M. (2019). Females show more sustained performance during test-taking than males. Nature Communications, 10, 3798. https://doi.org/10.1038/s41467-019-11691-y
 
-`q2 · i?`
+`q2 · i?` · `associational · r3`
 
 Using average unanswered questions per country as a subjective-stakes measure, the article reports the cross-country regression "does not reveal a significant positive relationship", so low stakes cannot fully account for the gender difference.
 

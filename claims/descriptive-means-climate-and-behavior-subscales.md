@@ -16,12 +16,14 @@ sources:
     author: Liu Hsing-Yuan, Wang I-Teng
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Sufficient resources received the lowest climate rating while autonomous learning was the highest-rated teaching behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu Hsing-Yuan, Wang I-Teng. (2019). Creative teaching behaviors of health care school teachers in Taiwan: mediating and moderating effects. BMC Medical Education. https://doi.org/10.1186/s12909-019-1641-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive statistics from the 53-teacher survey (Table 3). Teachers reported high creative teaching behaviors but comparatively low perceived school creative climate, with sufficient resources rated lowest (mean = 2.78, SD = 1.15).
 

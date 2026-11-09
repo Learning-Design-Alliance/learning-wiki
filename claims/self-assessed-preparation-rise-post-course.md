@@ -52,3 +52,5 @@ Mc Nemar comparison of pre/post self-assessment (question 18 of questionnaire A)
 - [Most ACLS-trained health care professionals (73.4%) demonstrated adequate ACLS knowledge and skills immediately after training](ghana-heart-initiative-acls-adequate-73-4-percent.md) — related
 - [Accuracy on case-analysis emergency questions rose significantly from pre-test to post-test after KSS training, in one group with no comparison group, including defibrillation knowledge rising from 52.6% to 95.4%](kss-training-improves-case-analysis-accuracy.md) — related
 - [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related
+- [Community health professionals and laymen learned BLS effectively from student-led courses](community-learns-bls-from-student-teachers.md) — related
+- [Teaching experience increased students' self-reported confidence to apply and teach BLS](teaching-raises-student-bls-confidence.md) — related

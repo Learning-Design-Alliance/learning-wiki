@@ -16,12 +16,14 @@ sources:
     author: Pather MK, Mash R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Family physicians reported that workshop training on a guideline made adherence much more likely than passive circulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pather MK, Mash R. (2019). Family physicians' experience and understanding of evidence-based practice and guideline implementation in primary care practice, Cape Town, South Africa. Afr J Prm Health Care Fam Med. 11(1), a1592. https://doi.org/10.4102/phcfm.v11i1.1592
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative interview finding: formal and ongoing training on a new guideline was described as essential to successful implementation. One FP reported that after "some form of a workshop in the line of a guideline" his chances of adhering were "much, much better" than passive circulation.
 

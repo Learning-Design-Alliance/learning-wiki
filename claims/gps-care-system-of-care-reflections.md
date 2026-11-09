@@ -16,12 +16,14 @@ sources:
     author: Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students reflected on the system of care, recognizing that effective interprofessional coordination differed drastically in care quality from weak communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yang S, Chaudhary Z, Mylopoulos M, Hashmi R, Kwok Y, Colman S, Yogaparan T, Sockalingam S. (2019). Using simulation to explore medical students' understanding of integrated care within geriatrics. BMC Medical Education. https://doi.org/10.1186/s12909-019-1758-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Theme 2 of the thematic analysis of student reflections and interviews from the GPS-Care simulation; students also learned the roles of different healthcare professionals and barriers to accessing care. No effect size is reported.
 

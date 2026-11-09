@@ -50,3 +50,4 @@ In the RCT's post-test comparison of 64 prehospital emergency personnel randomly
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related
 - [The over-time-by-group interaction on crisis management score was statistically significant (P = 0.002)](earthquake-simulation-training-time-group-interaction.md) — related
 - [Trained prehospital personnel were 3.4 times more likely than controls to reach the competency threshold on a self-report crisis-management questionnaire (OR = 3.40, 95% CI 1.8–6.2)](earthquake-simulation-training-competency-threshold-odds.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

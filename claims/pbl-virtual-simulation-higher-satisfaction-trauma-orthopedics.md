@@ -93,3 +93,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Resident satisfaction was significantly higher in the PBL+LBL group (96%) than in the LBL-only group (80%)](pbl-lbl-higher-resident-satisfaction-ultrasound.md) — related
 - Interns taught with an intelligent medical simulation system report significantly higher satisfaction with teaching than traditionally taught peers (94.0% vs 53.8%) — related
 - Training satisfaction was 96.30% in the simulated teaching group versus 58.49% in the traditional group — related
+- [Clinical virtual simulation raises nursing students' satisfaction with the learning experience compared with low-fidelity simulation](cvs-raises-learning-satisfaction.md) — related

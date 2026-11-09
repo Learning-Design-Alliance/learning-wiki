@@ -68,3 +68,4 @@ The same dynamic models estimated for the senior student subsample found no cred
 - [Within-student increases in high-beta student-teacher inter-brain coupling predict subsequent improvement in both Chinese and math scores](high-beta-coupling-increase-predicts-score-improvement.md) — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
 - [The coupling-performance relationship differs across baseline achievement groups](coupling-effects-vary-by-achievement-group.md) — related
+- [Physical inactivity is associated with low academic performance in junior grades but not overall or in senior grades](physical-inactivity-academic-performance-junior-grades-only.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Wu Hongbin, Zheng Juan, Li Shan, Guo Jianru
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic interest has a statistically significant positive effect on undergraduate academic performance after propensity score matching on demographic and family covariates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Wu Hongbin, Zheng Juan, Li Shan, Guo Jianru. (2019). Does academic interest play a more important role in medical sciences than in other disciplines? A nationwide cross-sectional study in China. BMC Medical Education. https://doi.org/10.1186/s12909-019-1737-1
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Retrospective cross-sectional PSM analysis of the 2014 NUSDS, resampled to 54,398 undergraduates from 87 Chinese universities, using nearest-neighbour matching on demographic and family covariates. The article reports "an effect size of 2.545 (p = 0.000)"; treated mean 80.187 vs control 77.642 (Table 3). The ATT is a grade-point difference, not a standardised effect size.
 

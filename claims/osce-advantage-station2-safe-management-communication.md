@@ -71,3 +71,4 @@ Domain-level Welch t-tests with Holm adjustment in the same quasi-experimental c
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
 - [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related
+- [No difference in GAP-test competence scores between vertically integrated and non-vertically integrated curricula](no-curriculum-type-difference-gap-test.md) — related

@@ -56,3 +56,4 @@ Interrater reliability analysis in the RCT: two blinded attending surgeons indep
 - [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related
 - [GOALS and ALL scores show good interrater and intrarater reliability for assessing laparoscopic skills](goals-all-scores-interrater-intrarater-reliability.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
+- [The OSATS-based chest tube insertion scale shows moderate-to-good intermethod reliability between 'direct' on-site and 'indirect' video ratings](cti-osats-scale-intermethod-reliability.md) — related

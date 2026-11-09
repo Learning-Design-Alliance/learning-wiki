@@ -16,12 +16,14 @@ sources:
     author: Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Motivation towards learning positively predicts realistic best practice in university students (β = .56)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Phan H.P., Ngu B.H., Wang Hui-Wen, Shih Jen-Hwa, Shi Sheng-Ying, Lin Ruey-Yih (2019). Achieving optimal best practice: An inquiry into its nature and characteristics. PLoS ONE. https://doi.org/10.1371/journal.pone.0215732
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Cross-sectional SEM analysis of 1010 Taiwanese undergraduates (405 males, 605 females) testing the a priori model. The results section reports "motivation towards learning as an antecedent of realistic best practice (β = .56, p < .001)"; the standardized β of .56 is large.
 

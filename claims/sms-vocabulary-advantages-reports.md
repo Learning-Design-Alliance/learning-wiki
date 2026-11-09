@@ -54,3 +54,4 @@ Qualitative analysis of 25 written reports (eight open-ended questions) submitte
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related
 - [Not all students responded to every SMS message, with students citing lack of time, though code-word returns were later collected via e-mail](sms-read-receipt-tracking-outcomes.md) — related
+- [Active SMS reminders followed by actively acknowledging the reminder helped seniors perform more everyday activities and feel more independent and in control](active-sms-acknowledgment-supports-everyday-activities.md) — related

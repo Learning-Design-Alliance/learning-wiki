@@ -49,3 +49,4 @@ Authors' interpretation in the discussion, not a tested result: the programme "w
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
 - [Private practice clinicians report high willingness to pay for PR training when linked to funding rebates](pp-clinicians-willing-to-pay-pr-training-rebate.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Grounding curriculum development in conceptual frameworks and a systematic process (Kern) enabled scholarly dissemination of a pediatrics curriculum beyond the authors' institution](kern-framework-scholarly-dissemination-pediatrics-curriculum.md) — related

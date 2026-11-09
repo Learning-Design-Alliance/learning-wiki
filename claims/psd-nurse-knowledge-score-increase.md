@@ -51,3 +51,4 @@ Pre-post knowledge questionnaire completed by the same 14 nurses before and afte
 - [Knowledge scores of nurses improved significantly from pre-test to post-test after the PPH training, with average correct answers rising from 3.8 of 15 to 13.24 of 15](pph-simulation-pre-post-knowledge-gain.md) — related
 - [A brief structured VAP prevention workshop significantly improved ICU nurses' knowledge scores in a resource-limited setting (group-level improvement)](structured-workshop-improved-icu-nurse-vap-knowledge.md) — related
 - [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related
+- [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related

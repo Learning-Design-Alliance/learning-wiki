@@ -16,12 +16,14 @@ sources:
     author: AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Female healthcare faculty in the Middle East report using active learning techniques more often than male counterparts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed. (2019). The use of active learning strategies in healthcare colleges in the Middle East. BMC Medical Education. https://doi.org/10.1186/s12909-019-1580-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Chi-square comparisons of technique use by gender in the 722-responder survey. The article reports the learning-by-teaching contrast (p = 0.0005) and, for class games, "20.18% vs. 6.75%; p < 0.0001".
 

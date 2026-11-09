@@ -47,6 +47,7 @@ The authors propose iterative improvements to IBVR to address its lower satisfac
 ## Related Strategies
 
 - [Add explicit information-literacy modules or quests to gamified open-book assessments to convert engagement into high-quality evidence-based inquiry](information-literacy-quests-in-gamified-assessment.md)
+- [Iteratively refine teaching modules using learner feedback and expert review each course block](iterative-module-refinement-learner-expert-feedback.md)
 
 ## Examples
 -

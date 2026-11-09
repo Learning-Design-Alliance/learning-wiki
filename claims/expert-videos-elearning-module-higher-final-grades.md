@@ -24,6 +24,8 @@ sources:
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: donkin-rebecca-2019-3
     resource: "https://doi.org/10.1186/s12909-019-1745-1"
     title: "Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1"
@@ -66,7 +68,7 @@ Did not view (n = 20)	62.03 (± 24.54)"
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Table 2 comparison for the microtomy video: viewers scored "75.25 (± 6.54)" versus "61.72 (± 24.44)" for non-viewers, T value 2.279, P value 0.03.
 

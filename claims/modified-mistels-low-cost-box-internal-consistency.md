@@ -16,12 +16,14 @@ sources:
     author: Hasnaoui Anis, Zaafouri Haithem, Haddad Dhafer, Bouhafa Ahmed, Ben Maamer Anis
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A modified MISTELS score using a low-cost trainer box shows high internal consistency (Cronbach's alpha 0.929)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hasnaoui Anis, Zaafouri Haithem, Haddad Dhafer, Bouhafa Ahmed, Ben Maamer Anis. (2019). Reliability testing of a modified MISTELS score using a low-cost trainer box. BMC Medical Education. https://doi.org/10.1186/s12909-019-1572-4
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Prospective study of 26 surgical residents at Habib Thameur Hospital performing three MISTELS tasks with a low-cost trainer box; internal consistency was assessed by Cronbach's alpha across four series, described as "an acceptable score". No effect size is printed.
 

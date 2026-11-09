@@ -52,3 +52,4 @@ Cross-sectional analysis of the Mindell et al. cross-cultural dataset reported i
 - [Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)](shorter-sleep-more-screen-time-early-years.md)
 - [The later, shorter, inconsistent sleep health class shows later bedtimes, shorter sleep duration, less consistent routines, and higher pre-bedtime caffeine consumption than the earlier, longer, consistent class](later-shorter-inconsistent-class-profile.md) — related
 - [91.1% of students reported longer sleep onset latency during the pandemic, characterizing a discontinuous sleep cycle](delayed-sleep-onset-91-percent-pandemic.md) — related
+- [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](lower-ses-children-unhealthy-lifestyle-patterns.md) — related

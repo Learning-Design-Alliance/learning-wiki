@@ -55,3 +55,4 @@ Narrative synthesis of 20 interventional studies (RCTs and quasi-experimental de
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
 - [Massed instruction may potentiate learning in certain circumstances, particularly those involving motor learning](massed-learning-motor-learning-circumstances.md) — reports the opposite
+- [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related

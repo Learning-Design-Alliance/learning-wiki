@@ -53,3 +53,4 @@ Narrative review attribution: the review reports, citing Barger et al. and Jones
 - [Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects](sleep-restriction-emotional-regulation-toddlers.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [A split sleep schedule raises subjective alertness and focus in the afternoon during learning, and post-nap psychomotor vigilance, in sleep-restricted adolescents](split-sleep-afternoon-alertness-focus.md) — related
+- [Gamified driving interventions may reduce unsafe driving by reducing boredom, but visual cues can increase cognitive workload and slow reaction times](gamification-reduces-boredom-visual-cues-workload.md) — related

@@ -51,6 +51,7 @@ Each 30-minute station presented one ICA pattern case with textual information, 
 - [Stations: Interacting with Multiple Texts](stations-interacting_with_multiple_texts.md)
 - [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 - [Provide small groups with de-articulated 3D printed bone models at each learning station during clinical skills practice](de-articulated-3d-bones-at-stations-strategy.md)
+- [Present 3D-printed anatomical models alongside corresponding CT scans to stakeholders for comparative evaluation](present-models-alongside-ct-scans.md)
 
 ## Examples
 -

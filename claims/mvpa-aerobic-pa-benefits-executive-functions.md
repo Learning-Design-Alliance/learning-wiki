@@ -57,3 +57,5 @@ Exploratory three-level meta-regression on executive function outcomes reported 
 - [Physical activity interventions in childhood improve creativity with a moderate summary effect, based on low-certainty evidence](pa-interventions-improve-creativity-childhood.md) — related
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](pa-interventions-improve-fluid-intelligence-childhood.md) — related
 - [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — reports the opposite
+- [Both cognitively engaging PA break programs (combo and cognition) improve children's mathematics performance more than an aerobic PA break program](cognitively-engaging-pa-breaks-improve-math.md) — related
+- [A 20-week classroom PA break program combining high cognitive engagement with high physical exertion improves children's shifting performance more than a low-cognitive-engagement aerobic program](combo-pa-breaks-improve-shifting.md) — a narrower finding that bears on this claim

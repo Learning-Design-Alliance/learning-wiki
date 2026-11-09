@@ -16,6 +16,8 @@ sources:
     author: Yang Ying-Ying, Shulruf Boaz
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: yang-ying-ying-2019-2
     resource: "https://doi.org/10.3352/jeehp.2019.16.7"
     title: "Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7"
@@ -42,7 +44,7 @@ sources:
 
 Yang Ying-Ying, Shulruf Boaz. (2019). An expert-led and artificial intelligence system-assisted tutoring course to improve the confidence of Chinese medical interns in suturing and ligature skills: a prospective pilot study. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Table 3 of the pilot reports last-session means by practice frequency: 3 sessions (n=6) TP 87.1±8 and pass rate 81.00±3.8 versus 2 sessions (n=13) TP 80.4±9 and 55.00±3.2, marked a) P<0.05 vs the 1-practice group and b) P<0.05 vs the 2-practice group for the pass rate. No effect size is printed.
 

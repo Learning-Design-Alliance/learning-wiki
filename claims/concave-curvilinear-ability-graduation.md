@@ -16,12 +16,14 @@ sources:
     author: "Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Very high cognitive and physical ability predict decreased odds of graduating (concave curvilinear effects)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Duckworth, A. L., Quirk, A., Gallop, R., Hoyle, R. H., Kelly, D. R., & Matthews, M. D. (2019). Cognitive and noncognitive predictors of success. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1910510116
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Quadratic terms in the graduation logistic regression models, with inflection points determined following Gillespie et al. The relationships were concave but "not symmetric"—odds of graduating were lowest for cadets entering with the lowest levels of all three attributes.
 

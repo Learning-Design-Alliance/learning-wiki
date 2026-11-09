@@ -60,3 +60,4 @@ The review reports, citing its reference 11, that instructional rubrics with fac
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related
+- [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite

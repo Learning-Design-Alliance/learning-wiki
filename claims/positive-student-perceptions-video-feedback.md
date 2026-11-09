@@ -16,18 +16,22 @@ sources:
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: donkin-rebecca-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1745-1"
     title: "Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1"
     author: Donkin Rebecca, Askew Elizabeth, Stevenson Hollie
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most students responded positively to video recording and feedback: 66% of open-ended survey comments were positive, and three quarters agreed the video provided an authentic picture of their skills (M = 4.0, SD = 1.47)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Qualitative content analysis of open-ended survey responses from 19 participants (68% response rate), coded by two academic experts using a coding scheme. "The majority (66%) expressed positive comments" highlighting engagement, technique improvement, and learning importance.
 
@@ -50,7 +54,7 @@ Qualitative content analysis of open-ended survey responses from 19 participants
 
 Donkin Rebecca, Askew Elizabeth, Stevenson Hollie. (2019). Video feedback and e-Learning enhances laboratory skills and engagement in medical laboratory science students. BMC Medical Education. https://doi.org/10.1186/s12909-019-1745-1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 End-of-semester survey using a 5-point Likert scale (1 = strongly disagree to 5 = strongly agree), completed by 13 video-group students. "Three quarters of the 'video' students agreed or strongly believed the video recording provided an authentic picture of their histology skills (M = 4.0, SD =1.47)".
 

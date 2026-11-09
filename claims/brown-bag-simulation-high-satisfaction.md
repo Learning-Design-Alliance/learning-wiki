@@ -50,3 +50,4 @@ Postsimulation formative feedback on a 5-point Likert satisfaction scale collect
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
+- [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related

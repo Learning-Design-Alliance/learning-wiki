@@ -17,12 +17,14 @@ sources:
     author: Pather MK, Mash R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Pather MK, Mash R. (2019). Family physicians' experience and understanding of evidence-based practice and guideline implementation in primary care practice, Cape Town, South Africa. Afr J Prm Health Care Fam Med. 11(1), a1592. https://doi.org/10.4102/phcfm.v11i1.1592
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Framework-method analysis of 27 interviews identified "time constraints, the lack of financial resources and how the health care system is organised" as major barriers; one FP described a junior medical officer writing up medication quickly instead of following asthma guideline steps under time pressure.
 

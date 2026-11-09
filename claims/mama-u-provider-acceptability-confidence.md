@@ -16,6 +16,8 @@ sources:
     author: Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: zafar-zonobia-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1683-y"
     title: "Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y"
@@ -42,7 +44,7 @@ sources:
 
 Zafar Zonobia, Habib Hammad, Kols Adrienne, Assad Fauzia, Lu Enriquito R., Schuster Anne. (2019). Reinvigorating postpartum intrauterine contraceptive device use in Pakistan: an observational assessment of competency-based training of health providers using low-cost simulation models. BMC Medical Education 19:261. https://doi.org/10.1186/s12909-019-1683-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Anonymous five-point evaluation forms completed by training participants. "The vast majority of providers agreed that the Mama-U model was easy to use and a good tool to teach insertion skills; about 70% strongly agreed with those statements".
 

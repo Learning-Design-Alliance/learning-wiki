@@ -75,3 +75,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [Where SBMT is used in Italian paediatric residencies it focuses on procedures and skills, with debriefing least common](sbmt-use-focuses-on-procedures-not-debriefing.md) — related
+- [The authors argue low-fidelity equipment with high environmental and psychological fidelity can impact clinical outcomes, making in situ simulation feasible for resource-limited institutions](low-fidelity-iss-high-psychological-fidelity.md) — related

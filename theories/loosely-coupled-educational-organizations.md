@@ -49,6 +49,7 @@ Following Weick (1976), the paper portrays educational organizations as "loosely
 - [Design professional learning communities around situated teacher agency and practice, not attitude change](../principles/communities-of-practice.md)
 - [Professional Learning Communities](../strategies/professional-learning-communities.md)
 - [SQLSpaces](../products/sqlspaces.md)
+- [Guide integration of EPRs into undergraduate healthcare programmes using the six domains along a loose-to-tight coupling continuum](../strategies/epr-curriculum-integration-coupling-continuum.md)
 
 ## Key Sources
 - Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje

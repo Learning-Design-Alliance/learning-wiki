@@ -17,7 +17,7 @@ sources:
 # Study the curricula of institutions that outperform USMLE trend lines to identify transferable learning-enhancing factors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend that, having identified outlier institutions whose USMLE scores exceed trend-line predictions, researchers should examine those schools' curricula to determine what enhances student learning. They write that "further evaluation of the curriculum at schools exceeding predictions of Step scores should be conducted to determine what is being done differently from other U.S. medical schools," with University of Missouri-Columbia's "patient-based learning" curriculum as the named candidate.

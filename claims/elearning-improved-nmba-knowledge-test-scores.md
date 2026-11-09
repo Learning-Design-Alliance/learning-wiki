@@ -52,3 +52,4 @@ Pre- and post-course ten-question multiple-choice test completed by 367 of 429 a
 - [A perioperative medicine e-module completed during clinical rotations significantly improves trainees' knowledge test scores](perioperative-e-module-improves-knowledge.md) — related
 - [Participation in the simulation-based CVC training session significantly increased learner knowledge test scores](sim-cvc-training-increased-knowledge.md) — related
 - [Acceleromyography use did not change detectably from before to after an e-learning module on neuromuscular monitoring across six Danish anaesthesia departments, in one pre-post study with no comparison group](elearning-no-overall-monitoring-effect.md) — related
+- [Second-year international medical students in a peer-guided exam preparation course scored significantly higher on a repeated-question post-test than on weekly pre-tests](peerguided-course-prepost-mcq-gain-international-students.md) — related

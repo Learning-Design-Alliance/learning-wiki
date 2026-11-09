@@ -16,12 +16,14 @@ sources:
     author: Vietz E, März E, Lottspeich C, Wölfel T, Fischer MR, Schmidmaier R.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Empathy is more frequently attributed to psychiatric than surgical residents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Vietz E, März E, Lottspeich C, Wölfel T, Fischer MR, Schmidmaier R. (2019). Ward round competences in surgery and psychiatry - a comparative multidisciplinary interview study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1554-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Comparison of the tasks-and-skills interview part for residents, using the Mercer and Reynolds empathy definition. The article reports ɸ = .370, ɸnorm = .508, χ2 (1, N = 59) = 6.60, p = .01, with a non-significant trend for senior doctors (S: 13%/ PP: 44%, p = .07).
 

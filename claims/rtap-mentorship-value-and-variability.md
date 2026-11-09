@@ -57,3 +57,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Effective telementored psychomotor feedback requires a shared psychomotor vocabulary and a dual feedback role combining real-time instruction with supportive mentorship](telementoring-dual-feedback-mentorship.md) — related
 - [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
+- [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related

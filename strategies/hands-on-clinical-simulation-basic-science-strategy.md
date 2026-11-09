@@ -54,6 +54,7 @@ The article suggests that incorporating simulation into basic science curricula 
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
+- [Incorporate hands-on active learning techniques (task trainer or peer-to-peer practice) into otoscopy skills training](hands-on-otoscopy-training-strategy.md)
 
 ## Examples
 -

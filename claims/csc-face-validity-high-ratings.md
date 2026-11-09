@@ -71,3 +71,4 @@ Participation analysis across the three iterations of the CSC among University o
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
 - [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related
 - [Participants rated the training positively on organization, content, material, assessment, and overall competency after each session, with slight declines in most domains except materials.](hbb-training-satisfaction-positive-all-domains.md) — related
+- [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related

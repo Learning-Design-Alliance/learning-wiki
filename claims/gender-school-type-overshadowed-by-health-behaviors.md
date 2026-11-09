@@ -49,3 +49,4 @@ Hierarchical multivariate logistic regression: Model 1 (private school aOR 2.39,
 - [Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls](background-covariates-predict-off-track.md) — related
 - [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — related
 - [Medium physical activity is associated with higher achievement, but the association is not significant once socio-cognitive factors are added](medium-physical-activity-achievement-mixed.md) — related
+- [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — related

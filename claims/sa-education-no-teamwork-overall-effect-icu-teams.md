@@ -54,3 +54,4 @@ GEE analyses in the randomized study of 20 ICU teams found no significant group 
 - [Situation awareness education produced no significant differences in SAGAT-measured situation awareness or ABCDE task performance in ICU teams](sa-education-no-sagat-abcde-effect-icu-teams.md) — related
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](genarch-null-did-collaborative-attitudes-teamwork.md) — related
+- [Team performance in simulated emergencies is highly case-specific: teams varied considerably across cases, with no superb or incapable teams per se](team-performance-context-specificity-simulation.md) — related

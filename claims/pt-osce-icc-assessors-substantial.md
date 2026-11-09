@@ -81,3 +81,6 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [AS-NTS achieves excellent interrater reliability (mean 0.89) when used in simulation scenarios](as-nts-excellent-interrater-reliability.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related
+- [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite
+- [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
+- [Independent raters score the sCPEP-3 Performance Test consistently, with mean and median polychoric correlation coefficients from 0.64 to 0.93 across subtests](scpep3-interrater-reliability.md) — related

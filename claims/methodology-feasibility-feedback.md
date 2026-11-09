@@ -16,12 +16,14 @@ sources:
     author: Wright Barry; Richmond Mynett Joseph
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The evaluation methodology was reported as easy to use, clear, and easy to replicate, with positive feedback from curriculum planners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Wright Barry; Richmond Mynett Joseph. (2019). Training medical students to manage difficult circumstances- a curriculum for resilience and resourcefulness? BMC Medical Education. https://doi.org/10.1186/s12909-019-1712-x
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' evaluative account in the Discussion of applying the methodology to the five-year curriculum; no quantitative feasibility data are reported. They state it "received good feedback from the curriculum planners" and was agreed easy to replicate.
 

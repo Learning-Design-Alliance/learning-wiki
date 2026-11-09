@@ -77,3 +77,6 @@ The review attributes to Wai et al. (2009) the finding, based on Project TALENT 
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
 - [Five specialized structural systems emerge as separate factors in factorial studies from preschool age to adulthood](five-sss-separate-factors-factorial-studies.md) — related
+- [Mental folding uniquely predicts overall science achievement in 7- to 11-year-olds, controlling for age and verbal ability](mental-folding-predicts-primary-science-achievement.md) — a narrower finding that bears on this claim
+- [Spatial scaling uniquely predicts overall science achievement beyond age and verbal ability in primary-school children](spatial-scaling-predicts-primary-science-achievement.md) — a narrower finding that bears on this claim
+- [Spatial skills combined account for 8% of variance in primary science scores after controlling for verbal ability and age](spatial-skills-eight-percent-variance-science.md) — a narrower finding that bears on this claim

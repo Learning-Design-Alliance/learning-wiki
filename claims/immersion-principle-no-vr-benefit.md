@@ -107,3 +107,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Trainees support extending the 3D video format to other medical procedures](support-extending-vr-to-other-procedures.md) — related
 - [Across 21 reviewed studies, 3D visualization methods were significantly more effective than traditional methods for learning anatomy in twelve studies, while nine found no significant advantage](3d-visualization-more-effective-anatomy-review.md) — related
 - [Virtual reality anatomy learning showed no consistent advantage: three of four reviewed VR studies favored VR over books, but one found no advantage over static 2D depictions](virtual-reality-anatomy-no-consistent-advantage.md) — related
+- [Atlas of anatomy and textbooks dominated residents' anatomy learning approaches, and no resident used 3D forms](atlas-textbook-dominant-anatomy-learning-approaches.md) — related

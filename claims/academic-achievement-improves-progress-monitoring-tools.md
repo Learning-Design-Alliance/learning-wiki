@@ -57,3 +57,4 @@ Random-effects meta-analysis of 4 studies using progress monitoring tools as the
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
 - [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — a narrower finding that bears on this claim
 - [Elementary classrooms that are physically active support greater academic achievement compared to traditional sedentary elementary classrooms](active-elementary-classrooms-greater-academic-achievement.md) — a broader claim this one bears on
+- [Twenty weeks of classroom PA breaks did not improve children's spelling or reading performance in any condition](pa-breaks-no-spelling-reading-gains.md) — related

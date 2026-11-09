@@ -58,3 +58,4 @@ Authors' interpretive discussion of the null ANCOVA result, offered without new 
 - [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related
 - [Insufficient session time and large group size were the main reported limitations](insufficient-time-and-group-size-limitations.md) — related
 - [The null result may reflect that residents already engage in reflective reasoning naturally, or that the taught procedure was learned but not adopted at test](explanations-for-null-reflection-transfer.md) — related
+- [Authors interpret that six weeks of exposure was sufficient to overcome any short-term negative impact of branched decision-making on motivation and self-efficacy](six-week-exposure-overcomes-short-term-motivation-impact.md) — related

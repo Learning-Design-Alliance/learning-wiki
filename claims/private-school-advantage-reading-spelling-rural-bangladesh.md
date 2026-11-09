@@ -52,3 +52,4 @@ Adjusted multiple linear regression (Table 5) comparing school types in the 372-
 - [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](short-term-memory-predicts-achievement-rural-bangladesh.md) — related
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [Difficult behaviour was negatively associated with reading only, and anthropometry was largely null in adjusted models, with WAZ the sole remaining anthropometric predictor](behaviour-anthropometry-adjusted-associations-rural-bangladesh.md) — related
+- [Urban, private, and larger schools tend to have higher SES and higher achievement in the Chinese sample](school-characteristics-ses-achievement-correlates-china.md) — related

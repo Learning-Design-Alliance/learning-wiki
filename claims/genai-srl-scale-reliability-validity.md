@@ -72,3 +72,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
 - [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related
+- [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related

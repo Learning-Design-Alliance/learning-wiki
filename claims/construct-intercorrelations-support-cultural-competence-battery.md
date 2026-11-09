@@ -16,12 +16,14 @@ sources:
     author: Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Cultural competence constructs intercorrelate as expected, supporting the battery as a cohesive but multidimensional measure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Domenech Rodríguez Melanie M., Phelps Paula B., Tarp H. Cathleen. (2019). Baseline cultural competence in physician assistant students. PLoS ONE. https://doi.org/10.1371/journal.pone.0215910
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analysis (Table 3) among the battery's constructs. Lower colorblindness was associated with more positive patient-centered attitudes, greater desire for multicultural experiences, and higher empathy; colorblindness was unrelated to burnout scales. The authors conclude each scale provided unique information.
 

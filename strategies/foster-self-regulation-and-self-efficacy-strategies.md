@@ -56,6 +56,7 @@ Based on the path-model findings, the article recommends that educators prioriti
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](relational-resources-low-efficacy-students.md)
 - [Foster non-cognitive skills as an avenue for educational intervention, particularly in later school years](foster-noncognitive-skills-intervention-strategy.md)
 - [Fostering students' academic self-efficacy through feedback, encouragement and peer-success modeling](foster-academic-self-efficacy-feedback-peers.md)
+- [Lecturers should use interactive, student-oriented teaching and foster students' self-regulating learning skills](interactive-teaching-self-regulation-skills-medical-students.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Paired samples t-test on gain for each group: experimental t(119) = 17.852, cont
 - [Both traditional teaching and the OCRA approach significantly improved pre-test to post-test achievement, with a larger gain in the OCRA group](ocra-and-control-pre-post-gains.md) — related
 - [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related
 - [Students in the online communication training reported a significantly larger pre/post gain in self-assessed communication skills than the face-to-face group](online-group-double-self-assessed-gain.md) — related
+- [Students who taught BLS gained more theoretical knowledge than controls, though both groups improved](teaching-bls-improves-student-theoretical-knowledge.md) — related

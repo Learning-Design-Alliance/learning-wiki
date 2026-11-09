@@ -106,3 +106,4 @@ Primary adjusted proportional odds analysis (Table 3) of 3322 grade 3 and 2084 g
 - [Children in this sample averaged more than 3 hours of screen time per day, about three times recommended limits](children-exceed-3-hours-daily-screen-time.md) — related
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — a narrower finding that bears on this claim
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — a narrower finding that bears on this claim
+- [Studying at home less than one hour per weekday is independently associated with low academic performance, with a stronger odds ratio than SES](short-home-study-duration-associated-low-academic-performance.md) — related

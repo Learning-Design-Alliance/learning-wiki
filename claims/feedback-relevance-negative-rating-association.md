@@ -48,3 +48,4 @@ Mixed-effects regression of coded comment relevance on average ratings for one c
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](msf-written-comments-quality-varies-actionability-limited.md) — related
 - [No specific number of respondents needed for reliable narrative MSF could be defined; feedback detail matters more than assessor count](narrative-msf-respondents-needed-undefined.md) — related
 - [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related
+- [Higher student clinical performance ratings were associated with less specific feedback for development (weak negative correlations)](minicex-higher-ratings-less-specific-development-feedback.md) — possibly the same claim (merge candidate)

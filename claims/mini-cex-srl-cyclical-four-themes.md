@@ -16,12 +16,14 @@ sources:
     author: Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Trainees perceive the mini-CEX as a cyclical process of goal setting, task translation and perceived outcome that maps onto the three SRL phases and is influenced throughout by supervisor co-regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn. (2019). Self-regulated learning lens on trainee perceptions of the mini-CEX: a qualitative study. BMJ Open. https://doi.org/10.1136/bmjopen-2018-026796
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of semi-structured interviews with twelve advanced trainees in geriatric medicine in Melbourne, analysed following Braun and Clarke's six-phase approach. The article reports that "Four major themes emerged in the interviews with participants" and that three "cluster around the three phases of the SRL framework".
 

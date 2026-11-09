@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: warshafsky-c-2026
     resource: "https://doi.org/10.15766/mep_2374-8265.11604"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Running simulations in the actual clinical environment surfaced latent safety threats that prompted protocol changes. [→ Warshafsky C 2026](#warshafsky-c-2026)

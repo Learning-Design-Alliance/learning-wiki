@@ -49,3 +49,4 @@ D-study optimization analyses (Table 4) varying the number of raters from 1 to 4
 - [The QASSH shows very high reliability (absolute G coefficients ≥0.96) for assessing scenario quality across immersive simulation, procedural simulation and simulated participants](qassh-high-g-coefficients-three-variants.md) — a broader claim this one bears on
 - [Scenario quality is the largest non-residual source of score variance in the QASSH, reaching 41.8% for procedural simulation](qassh-scenario-quality-dominant-variance.md) — related
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related
+- [A single rater assessing three debriefings by a debriefer achieves high reliability (φ = 0.84) with the SHORT scale](short-single-rater-three-observations-reliable.md) — related

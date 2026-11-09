@@ -17,12 +17,14 @@ sources:
     author: Abderrahmane Moulaye
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # About 10% of surveyed trainees had never learned lumbar puncture and 22% had learned it without senior-doctor supervision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Abderrahmane Moulaye. (2019). Assessment of lumbar puncture skills in students, interns and residents attending hospital internship. The Pan African Medical Journal. https://doi.org/10.11604/pamj.2019.33.56.16986
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Self-reported questionnaire data from the same 92-participant survey on LP teaching and practice. The article reports that "Nearly 10% of students had never learned to do this procedure and 22% had learned it without a supervisor (senior doctor)." No effect sizes are printed.
 

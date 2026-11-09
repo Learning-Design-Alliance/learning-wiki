@@ -17,18 +17,22 @@ sources:
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: tweed-m-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1583-1"
     title: "Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1"
     author: Tweed M, Wilkinson T.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Synthesising single pieces of assessment information constructs a more robust picture of readiness to progress, but equally plausible aggregation algorithms can lead to different outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · review `r2` · `q1`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -41,7 +45,7 @@ sources:
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theoretical argument drawing the parallel with clinical synthesis, where information from history, examination, and investigations considered in isolation generates different lists of likely diagnoses, but synthesised becomes clearer and held with increasing certainty.
 
@@ -51,7 +55,7 @@ Theoretical argument drawing the parallel with clinical synthesis, where informa
 
 Tweed M, Wilkinson T. (2019). Student progress decision-making in programmatic assessment: can we extrapolate from clinical decision-making and jury decision-making? BMC Medical Education 19:176. https://doi.org/10.1186/s12909-019-1583-1
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theoretical argument on mechanical aggregation: 'combining scores using algorithms is possible', yet plausible algorithms diverge, and simply adding test results may not give the best information for decision-making.
 

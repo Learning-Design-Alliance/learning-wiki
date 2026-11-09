@@ -53,3 +53,5 @@ Descriptive survey results from Table 2 of the 273-respondent cross-sectional st
 - [Only half of early-career metabolic and bariatric surgeons reported endoscopic education integrated into their general surgery residency, and 30.8% performed no endoscopic procedures during residency](young-ifso-endoscopy-training-integration-gaps.md) — related
 - [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related
 - [Hospitalists report very low annual procedural volumes, limiting opportunity to maintain procedural skill](hospitalists-low-annual-procedural-volume.md) — related
+- [Physicians report not integrating evidence-based obesity guidelines, citing deficiencies in knowledge, skills, and confidence](physicians-lack-obesity-management-confidence.md) — related
+- [Simulation training is associated with better crisis management in endoscopic emergencies](simulation-training-endoscopic-emergency-crisis-management.md) — related

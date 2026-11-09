@@ -58,4 +58,4 @@ The article proposes extending FIAS-based observation with statistical clusterin
 -
 
 ## Key Sources
-- Hsieh, M.-C. and Chen, T.-Y. (2019). Promoting innovation in the objective structured teaching examination and feedback: clustering teachers to aid teaching evaluation. Medical Education Online, 24(1). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6567259/
+- Hsieh, M.-C. and Chen, T.-Y. (2019). Promoting innovation in the objective structured teaching examination and feedback: clustering teachers to aid teaching evaluation. Medical Education Online, 24(1). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6567259/. [doi:10.1080/10872981.2019.1620544](https://doi.org/10.1080/10872981.2019.1620544)

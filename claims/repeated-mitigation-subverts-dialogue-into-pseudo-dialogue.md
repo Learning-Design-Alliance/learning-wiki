@@ -47,3 +47,4 @@ Conversation-analytic case analysis of Extract 4, in which both PDs challenged a
 ## Related Claims
 - [Dialogic feedback opens with a PD question inviting the resident to introduce a topic, leaving room for resident narration and elaboration](dialogic-feedback-question-initiated-structure.md) — related
 - [Mitigating and normalizing the emotion recognizes it more than acknowledging-to-prevent but limits exploration to attributions that avoid critique of PD design](mitigating-normalizing-limited-exploration.md) — related
+- [Residents were not always satisfied with CCC feedback and did not always take it seriously because supervisors mitigated the message](ccc-feedback-mitigation-residents-dissatisfied.md) — related

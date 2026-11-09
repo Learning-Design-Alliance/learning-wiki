@@ -16,12 +16,14 @@ sources:
     author: Liu Yueh-Ping, Jensen Dana, Chan Cho-yu, Wei Chung-jen, Chang Yuanmay, Wu Chih-Hsiung, Chiu Chiung-hsuan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # PGY trainees scored highest in nursing professionalism and lowest in physical examination on the nursing-specific Mini-CEX
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu Yueh-Ping, Jensen Dana, Chan Cho-yu, Wei Chung-jen, Chang Yuanmay, Wu Chih-Hsiung, Chiu Chiung-hsuan. (2019). Development of a nursing-specific Mini-CEX and evaluation of the core competencies of new nurses in postgraduate year training programs in Taiwan. BMC Medical Education. https://doi.org/10.1186/s12909-019-1705-9
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of Mini-CEX ratings from the cross-sectional main study of 32 PGY trainees in three Taipei teaching hospitals. The mean overall competency score was 6.53 (SD 1.14), described as meeting expectations. The article reports "a mean score of 6.56 (SD 1.19)" for professionalism.
 

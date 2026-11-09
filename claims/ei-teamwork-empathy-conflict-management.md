@@ -60,3 +60,4 @@ Thematic analysis of student interviews on group-based learning; participants de
 - [Physicians' lifelong learning attention focuses on medical knowledge and clinical/procedural skills, with less articulation of interpersonal, emotional, and professionalism domains](clinical-skills-dominate-lifelong-learning-content.md) — related
 - [Flexibility, openmindedness and cultural empathy show no relationship with effectiveness, stress or pro-active communication in the Barnga simulation](flexibility-openmindedness-empathy-null-barnga.md) — related
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](gbv-simulation-non-technical-skills.md) — related
+- [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related

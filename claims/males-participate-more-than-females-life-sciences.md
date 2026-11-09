@@ -54,3 +54,4 @@ Classroom observation study of 34 life sciences courses; paired t tests compared
 - [A higher overall call rate (proportion of raised hands called on) predicts greater female verbal participation](call-rate-predicts-female-participation.md) — related
 - [Female under-participation persists when only each student's first participation event is counted, so talkers do not explain the gap](participation-gap-not-explained-by-talkers.md) — related
 - [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related
+- [Male students wrote good-quality MCQ in Pathophysiology significantly more frequently than female students](gender-difference-good-mcq-production.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Educational expectations at age 14 mediate a small part of the association between parental SES and adolescent educational attainment, retaining their effect alongside cognitive ability and teacher assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Weinberg D., Stevens G. W. J. M., Finkenauer C., Brunekreef B., Smit H. A., Wijga A. H. (2019). The pathways from parental and neighbourhood socioeconomic status to adolescent educational attainment: An examination of the role of cognitive ability, teacher assessment, and educational expectations. PLoS ONE 14(5): e0216803. https://doi.org/10.1371/journal.pone.0216803
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Interpretation of the SEM results (Model 2d) on the PIAMA cohort: the article states "educational expectations retain their mediation effect in the model with cognitive ability and teacher assessment", indicating a small independent pathway. The article separately reports expectations explained 2.2% of the total association in separate tests and 1.2% concurrently.
 

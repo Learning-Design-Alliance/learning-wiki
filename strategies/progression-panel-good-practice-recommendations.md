@@ -17,7 +17,7 @@ sources:
 # Institutional good-practice recommendations for progression decision-making: selected panels, documented policy, sufficient information, bias reduction, consensus, and demonstrated competence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's concluding set of implementable recommendations: 'decisions should be made by appropriately selected decision-making panels; educational institutions should have policies, procedures, and practice documentation related to progression decision-making; panels and panellists should be provided with sufficient information'. Panels should optimise information synthesis and reduce bias, reach decisions by consensus rather than voting, and treat demonstrated competence as the standard of proof.

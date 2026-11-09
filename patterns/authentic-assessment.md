@@ -160,6 +160,7 @@ This pattern is scoped to judging a performance capability through an extended, 
 **Medical education — OSCEs (Objective Structured Clinical Examinations):** Students perform standardized patient encounters assessed with structured checklists and global ratings — a hybrid that adds scoring reliability to authentic performance.
 - [Blueprint-aligned OSCE station assessment for consent-taking skills](../elements/osce-blueprint-consent-domains-assessment.md)
 - [Scenario-based standardized assessments with simulated peer and teacher interaction](../elements/scenario-based-simulated-interaction-assessments.md)
+- [Scenario-based simulation training before completing a standardized self-assessment instrument](../strategies/scenario-based-simulation-before-self-assessment.md)
 
 ## Key Sources
 - Wiggins, G. (1989). A true test: Toward more authentic and equitable assessment. *Phi Delta Kappan, 70*(9), 703–713. [doi:10.1177/003172171109200721](https://doi.org/10.1177/003172171109200721)

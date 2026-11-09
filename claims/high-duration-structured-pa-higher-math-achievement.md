@@ -24,6 +24,8 @@ sources:
     author: Dapp Laura C., Roebers Claudia M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among sports-club participants, children spending two or more weekly hours in structured PA score higher in mathematical achievement than low-duration participants, while low-duration participants do not differ from non-participants
@@ -52,7 +54,7 @@ Group comparison within the N = 138 cross-sectional sample: children in sports c
 
 Dapp Laura C., Roebers Claudia M. (2019). The Mediating Role of Self-Concept between Sports-Related Physical Activity and Mathematical Achievement in Fourth Graders. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph16152658
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Null comparison in the same sample: low-duration sports-club children did not differ from non-participants in mathematical achievement, suggesting a minimum duration threshold; equivalence was not tested.
 

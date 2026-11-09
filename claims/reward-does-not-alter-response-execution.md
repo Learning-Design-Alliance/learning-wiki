@@ -75,3 +75,4 @@ Repeated measures ANOVA of the standard deviation of go reaction time across rew
 - [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](reward-lowered-go-trial-accuracy-order-dependent.md) — related
 - [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](reward-improves-ssrt-cancellation-and-restraint.md) — related
 - [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](ssrt-faster-cancellation-than-restraint.md) — related
+- [Participants respond faster to happy go trials than neutral go trials, and happy faces are rated as rewarding](faster-responses-rewarding-happy-faces.md) — related

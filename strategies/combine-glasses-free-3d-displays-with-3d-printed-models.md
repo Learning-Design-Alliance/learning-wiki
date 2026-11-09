@@ -46,6 +46,7 @@ The article recommends integrating glasses-free 3D digital visualization with ph
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Refine tactile properties of 3D-printed simulators by adjusting photopolymer resin formulations](refine-tactile-properties-resin-formulation-adjustment.md)
 - [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
+- [Present 3D-printed anatomical models alongside corresponding CT scans to stakeholders for comparative evaluation](present-models-alongside-ct-scans.md)
 
 ## Examples
 -

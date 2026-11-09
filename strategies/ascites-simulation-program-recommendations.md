@@ -46,6 +46,7 @@ Based on its limitations, the study recommends implementing standardized simulat
 ## Related Strategies
 
 - [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
+- [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](spaced-deliberate-practice-procedure-curriculum.md)
 
 ## Examples
 -

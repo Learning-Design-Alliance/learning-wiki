@@ -51,3 +51,4 @@ Independent samples t-test on pre- and post-knowledge scores of the two groups o
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](ecme-posttest-higher-than-lecture.md) — related
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [Training gains did not differ significantly by physician gender across the assessed knowledge domains.](pmh-training-gains-no-gender-difference.md) — related
+- [Self-directed learning and instruction-based learning produce equal knowledge and performance outcomes at the end of year two in physical therapy education](sdl-ibl-equal-study-outcomes-pt.md) — related

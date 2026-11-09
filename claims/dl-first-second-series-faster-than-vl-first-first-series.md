@@ -16,12 +16,14 @@ sources:
     author: Gu Minglu MM, Lian Ming MM, Gong Chao MM, Chen Lianhua MD, PhD, LI Shitong MD, PhD, Lu. Min
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The second series of the DL-first group had significantly shorter mean intubation time than the first series of the VL-first group, but the first series of the DL-first group did not differ from the second series of the VL-first group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gu Minglu MM, Lian Ming MM, Gong Chao MM, Chen Lianhua MD, PhD, LI Shitong MD, PhD, Lu. Min. (2019). The teaching order of using direct laryngoscopy first may improve the learning outcome of endotracheal incubation: A preliminary, randomized controlled trial. Medicine 98(21): e15624. https://doi.org/10.1097/MD.0000000000015624
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Intergroup comparison of the four subgroups (two groups × two series) in the same randomized trial of 20 trainees. The quote reports both directional contrasts with their printed P values (.008 and .082), showing the advantage of the DL-first ordering for intubation time.
 

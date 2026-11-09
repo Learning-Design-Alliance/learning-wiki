@@ -72,3 +72,4 @@ Within-group pre-to-post knowledge comparisons after the intervention using pair
 - [P-MASE pedagogy produced higher closed-book examination scores than traditional instruction in an undergraduate hospital management course RCT](pmase-higher-closed-book-exam-scores.md) — related
 - [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related
 - [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](reflective-sessions-improve-mcq-knowledge-or-students.md) — related
+- [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related

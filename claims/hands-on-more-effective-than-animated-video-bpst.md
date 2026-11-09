@@ -16,12 +16,14 @@ sources:
     author: Zimmo Kaled Mikki, Laine Katariina, Fosse Erik, Zimmo Mohammed, Ali-Masri Hadil, Böttcher Bettina, Zucknick Manuela, Vikanes Åse, Hassan Sahar
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Hands-on training was significantly more effective than animated instruction videos alone in reducing episiotomy rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zimmo Kaled Mikki, Laine Katariina, Fosse Erik, Zimmo Mohammed, Ali-Masri Hadil, Böttcher Bettina, Zucknick Manuela, Vikanes Åse, Hassan Sahar. (2018). Impact of animated instruction on tablets and hands-on training in applying bimanual perineal support on episiotomy rates: an intervention study. International Urogynecology Journal. https://doi.org/10.1007/s00192-018-3711-6
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Results section comparison of episiotomy rates during the video-only phase versus the hands-on phase in the two hospitals that received both interventions, with chi-square tests and odds ratios as printed.
 

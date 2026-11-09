@@ -16,12 +16,14 @@ sources:
     author: Casper Anne M., Eddy Sarah L., Freeman Scott
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Failure rates in experiment 3 dropped from 48% to 25% relative to lecture-based control terms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Casper Anne M., Eddy Sarah L., Freeman Scott. (2019). True Grit: Passion and persistence make an innovative course design work. PLoS Biology. https://doi.org/10.1371/journal.pbio.3000359
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Semester-level quasi-experiment at EMU measuring DFW rate (percentage withdrawing or earning D/F). The article reports raw DFW rates "went from 48% to 25%" and describes the drop as highly significant; no effect size is printed.
 

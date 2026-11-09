@@ -24,6 +24,8 @@ sources:
     author: Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Trainees perceived feedback as critically important for self-reflection, with meaningful feedback requiring a private space, an engaged supervisor and an unhurried manner
@@ -52,7 +54,7 @@ Finding from the perceived-outcome theme of the thematic analysis of twelve trai
 
 Kipen Eva, Flynn Eleanor, Woodward-Kron Robyn. (2019). Self-regulated learning lens on trainee perceptions of the mini-CEX: a qualitative study. BMJ Open. https://doi.org/10.1136/bmjopen-2018-026796
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Subtheme of feedback within the perceived-outcome theme. The article contrasts this with feedback perceived as unhelpful, which was "brief, generic and delivered by supervisors in the workflow, without much forethought or time".
 

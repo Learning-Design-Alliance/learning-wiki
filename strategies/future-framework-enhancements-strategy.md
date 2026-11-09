@@ -46,6 +46,7 @@ The authors list planned features to address the framework's stated limitations:
 ## Related Strategies
 
 - [Use personalized courses to prepare patients for specialist meetings and support treatment learning between visits](courses-prepare-patients-for-specialist-meetings.md)
+- [Extend worksheets into later units with general templates and student-selected articles addressing a group-generated clinical question](caw-student-selected-article-extension-strategy.md)
 
 ## Examples
 -

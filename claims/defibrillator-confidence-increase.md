@@ -49,3 +49,4 @@ Pre/post McNemar comparison of question 11 (defibrillator use) in the observatio
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — related
 - [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — related
+- [Residents' self-reported confidence in managing patients with inappropriately firing defibrillators increased after the simulation (Likert mean 2.69 to 4.06)](simulation-increases-confidence-managing-inappropriate-icd-firing.md) — related

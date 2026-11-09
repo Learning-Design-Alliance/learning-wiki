@@ -60,3 +60,4 @@ Authors' stated limitation in the Discussion: the Delphi process ensured content
 - [The authors state that educational effectiveness of 3DOVR-DR on clinical skills remains untested and requires quantitative assessment](3dovr-dr-effectiveness-untested-needs-quantitative-assessment.md) — related
 - [Predicting patient outcomes within developmental corridors is a largely unexplored cognitive process in intervention reasoning](developmental-corridors-prediction-unexplored.md) — related
 - [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related
+- [The SVI's validity for predicting future performance remains debated, and critics warn it may unintentionally diminish diversity in emergency medicine](svi-validity-debated-diversity-concern.md) — related

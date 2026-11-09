@@ -48,3 +48,4 @@ Frequency-distribution analysis of exam grades from the retrospective cohort com
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](fc-higher-pass-rate-dental-pharmacology.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Pass rates and grade distributions in the general biology course itself are not significantly different between flipped and non-flipped sections](pass-rates-not-different-flipped.md) — reports the opposite
+- [The flipped classroom group obtained better qualitative exam grade distributions, with more merit and outstanding grades and fewer failures, than the lecture-based group](flipped-classroom-better-qualitative-grade-distribution-social-work.md) — related

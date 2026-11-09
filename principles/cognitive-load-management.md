@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 95 claims (41 for, 51 mixed, 3 against) · 80 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 4 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 80 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (42 for, 51 mixed, 3 against) · 81 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 5 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 81 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [At high WMC, children with math difficulties performed significantly better under visual-only strategy conditions relative to other conditions at Wave 4](../claims/visual-only-strategy-advantage-high-wmc-md.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
 - [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](../claims/visual-only-disadvantage-low-wmc-md.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
 - [At high WMC, children without math difficulties performed better under verbal + visual conditions compared to control](../claims/verbal-visual-advantage-high-wmc-nmd.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
+- [Nontechnical skills performance improved after scenario distractors were removed, as measured by the NOTSS scale](../claims/notss-improvement-after-scenario-simplification.md) [+W] — attached 2026-11-09 from Wu Kitty et al. (2019), which proposed "Minimize extraneous distractors in crisis simulation scenarios for novice learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -16,12 +16,14 @@ sources:
     author: Hu Yanli, Jiao Miaorui, Li Fan
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A 12-month spiritual care training protocol produces higher spiritual health and spiritual care competency scores in oncology nurses than routine nursing education alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hu Yanli, Jiao Miaorui, Li Fan. (2019). Effectiveness of spiritual care training to enhance spiritual health and spiritual care competency among oncology nurses. BMC Palliative Care. https://doi.org/10.1186/s12904-019-0489-3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Nonrandomized controlled trial: 92 nurses at one cancer hospital assigned by coin toss to a training group (45) or wait-listed control (47). The results section reports the study group "had higher total spiritual health and spiritual care competency scores" than controls (P < 0.05); no effect size is printed within this contrast's quote.
 

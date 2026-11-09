@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 60 claims (41 for, 19 mixed) · 56 studies (33 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 55 claims rest on one study
+> **Evidence** · 62 claims (42 for, 20 mixed) · 57 studies (34 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 15 of 57 report an effect size · 57 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -96,6 +96,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [An interactive educational animated video alone is non-inferior to combined regular and interactive videos for children's MRI cooperativeness outcomes](../claims/interactive-video-noninferior-combined-videos-mri.md) [~W] — attached 2026-11-07 from Utama Evelyn Gabriela MD et al. (2024), which proposed "Interactive educational animated video for MRI preparation".
 - [In children aged 3–7 years, the confidence benefit appeared only in the combined videos group, with no between-group differences](../claims/age-3-7-subgroup-confidence-gain-combined-only.md) [~W] — attached 2026-11-07 from Utama Evelyn Gabriela MD et al. (2024), which proposed "Interactive educational animated video for MRI preparation".
 - [Smartphone e-learning video materials produce significantly larger pre-to-post examination score gains than no learning material in dental hygiene students](../claims/smartphone-elearning-dental-treatment-videos-outperform-no-material.md) [+W] — attached 2026-11-08 from Takenouchi A et al. (2020), which proposed "Smartphone e-learning materials on dental treatment procedures with videos, interactive questions, and audio explanations".
+- [Animation-enriched virtual patients produce more overall 'competent' PBLS ratings than video instruction, which outperforms static-media VP](../claims/animation-enriched-vp-more-competent-ratings-pbls.md) [+W] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Animation-enriched virtual patients for pediatric basic life support self-instruction (CAMPUS-based VP with interactive questions and video clips)"; tests this page's relationship.
+- [Animation-enriched VP yields superior procedural quality compared with static-media VP, while video instruction does not differ from either](../claims/animation-enriched-vp-procedural-quality-pbls.md) [~M] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Animation-enriched virtual patients for pediatric basic life support self-instruction (CAMPUS-based VP with interactive questions and video clips)"; tests this page's relationship.
 
 ## The evidence by question
 

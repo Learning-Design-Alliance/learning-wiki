@@ -56,3 +56,4 @@ Authors' interpretation of the randomized trial's primary outcome, consistent wi
 - [OSAUS sum scores increased for all POCUS applications at three-month follow-up, with Cohen's d representing a medium or large effect size](osaus-sum-score-increase-follow-up.md) — related
 - [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related
 - [Skill scores decline within seven days after video-based acquisition, while self-study after an initial low score raises performance](skill-decline-seven-days-after-video.md) — related
+- [Both self-training modalities improved CPR theoretical and practical scores from baseline](both-modalities-improve-cpr-scores.md) — reports the opposite

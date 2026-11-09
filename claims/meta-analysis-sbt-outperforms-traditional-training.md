@@ -54,3 +54,4 @@ The review reports, as an example of supporting evidence, that "a meta-analysis 
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — a narrower finding that bears on this claim
 - [In EBUS training, simulator-based training produced higher objectively scored performance than traditional apprenticeship-style training](simulator-training-outperformed-apprenticeship-ebusat.md) — a narrower finding that bears on this claim
+- [VR simulation is not effective as a replacement for conventional endoscopy teaching](vr-sbt-not-a-replacement-for-conventional-teaching.md) — reports the opposite

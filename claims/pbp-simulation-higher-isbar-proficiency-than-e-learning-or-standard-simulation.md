@@ -16,12 +16,14 @@ sources:
     author: "Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adding proficiency-based progression simulation to e-learning produces higher proficiency rates in ISBAR communication than e-learning alone or e-learning plus standard simulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala. (2019). Effect of a proficiency-based progression simulation programme on clinical communication for the deteriorating patient: a randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025992
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Three-arm randomised controlled trial of 90 undergraduates randomised to E, E+S or E+PBP training; the primary outcome was reaching a predefined proficiency benchmark on a standardised high-fidelity simulation assessment case scored by two blinded assessors. The results report "6.9% (2/29) of the E group and 13% (3/23) of the E+S group demonstrated proficiency in comparison to 60% (15/25) of the E+PBP group".
 

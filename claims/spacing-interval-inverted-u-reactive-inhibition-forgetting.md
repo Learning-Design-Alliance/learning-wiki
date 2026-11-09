@@ -53,3 +53,4 @@ Theoretical argument in the review's discussion, drawing on Smith et al.'s sugge
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Distributed (spaced) practice retains surgical skills better than massed practice, though no optimal gap has been identified](distributed-practice-retains-surgical-skills-better-than-massed.md) — related
 - [Novice surgeons in cognitive and integrational learning phases are especially vulnerable to skill decay after short retention intervals](novice-surgeons-decay-susceptible.md) — a narrower finding that bears on this claim
+- [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related

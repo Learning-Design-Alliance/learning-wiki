@@ -16,12 +16,14 @@ sources:
     author: Liem Andrian
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liem Andrian. (2019). "I've Only Just Heard About It": Complementary and Alternative Medicine Knowledge and Educational Needs of Clinical Psychologists in Indonesia. Medicina. https://doi.org/10.3390/medicina55070333
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the challenges theme of the interviews, "The challenges for improving participants' knowledge came from personal and institutional levels," with financial and time constraints hindering workshop participation; participants also criticized seminar content as too basic.
 

@@ -53,3 +53,5 @@ Four subthemes from the interviews; novices reported nervousness affecting perfo
 - [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](mini-cex-dops-true-reflection-abilities.md) — related
 - [Most residents reported positive perceptions of the Mini-CEX plus DOPS evaluation mode, with 85% support and 15% reporting increased learning burden](resident-feedback-supports-minicex-dops-mode.md) — related
 - [Formative DOPS assessments at least every 10 training procedures are recommended to track EUS skill progression, and assessment frequency increases reliability of competency estimation](formative-dops-every-10-eus-cases.md) — related
+- [Feedback on students' strengths was significantly associated with clinical case complexity in Mini-CEX assessments](minicex-strength-feedback-case-complexity-association.md) — related
+- [Written feedback on Mini-CEX assessment forms was predominantly general, with less than 30% of feedback comments specific to a clinical performance domain](minicex-written-feedback-mostly-general.md) — related

@@ -68,3 +68,4 @@ One-way ANOVA across age groups in the same sample found no significant differen
 - [Academic self-efficacy and academic buoyancy each positively predict mathematics performance, with buoyancy the stronger path](ase-ab-predict-math-performance.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Perceived teacher support has a significant positive direct effect on middle school students' mathematics performance after controlling for gender and age](teacher-support-direct-effect-math-performance.md) — related
+- [Male participants showed lower adherence to the web-based program, and gender differences appeared in baseline stress and buoyancy](gender-differences-adherence-stress-buoyancy.md) — related

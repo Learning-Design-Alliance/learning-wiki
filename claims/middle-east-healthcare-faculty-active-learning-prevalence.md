@@ -16,12 +16,14 @@ sources:
     author: AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most healthcare faculty respondents in the Middle East use at least one active learning technique, with discussion formats most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 AlRuthia Yazed, Alhawas Solaiman, Alodaibi Faris, Almutairi Lama, Algasem Reem, Alrabiah Haitham K., Sales Ibrahim, Alsobayel Hana, Ghawaa Yazeed. (2019). The use of active learning strategies in healthcare colleges in the Middle East. BMC Medical Education. https://doi.org/10.1186/s12909-019-1580-4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-sectional web survey of faculty in healthcare colleges in 17 Middle Eastern countries; 722 of 22,734 invited faculty completed the questionnaire. The article reports "Eighty-seven percent of the responders utilized at least one technique of active learning."
 

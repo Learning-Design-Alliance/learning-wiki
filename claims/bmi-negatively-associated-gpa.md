@@ -52,3 +52,5 @@ Regression result from the Discussion for the 130-child cross-sectional sample; 
 - [Sex, body mass index, muscle strength, cardiorespiratory function, inhibition, working memory, and shifting are key factors collaboratively influencing primary school students' academic achievement, with shifting rated most important by most algorithms](ef-fitness-demographics-key-factors-academic-achievement.md) — related
 - [BMI is negatively correlated with science and mathematics GPA in schoolchild handball players](bmi-negatively-correlated-academic-gpa-handball-players.md) — a narrower finding that bears on this claim
 - [The change in motor skills has a borderline significant association with the change in academic achievement.](motor-skills-change-gpa-borderline.md) — related
+- [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related
+- [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — related

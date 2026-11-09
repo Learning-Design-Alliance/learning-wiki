@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (51 for, 42 mixed, 3 against) · 68 studies (39 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 17 of 68 report an effect size · 88 claims rest on one study
+> **Evidence** · 98 claims (53 for, 42 mixed, 3 against) · 70 studies (40 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 70 report an effect size · 90 claims rest on one study
 
 ## Description
 
@@ -189,6 +189,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Nine months after retraining, CPR knowledge and skills were statistically higher than nine months after the first training](../claims/cpr-nine-month-scores-higher-after-retraining.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](../claims/spaced-massed-anatomy-retention-null-dpt.md) [~W] — attached 2026-11-08 from Amabile Amy H. et al. (2021), which proposed "Front-loading content-heavy basic science material is a viable curricular option when compressed delivery serves broader program goals"; tests this page's relationship.
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](../claims/repetition-format-no-effect-retention.md) [~W] — attached 2026-11-08 from Kooloos Jan G.M. et al. (2020), which proposed "Facilitate retrieval of earlier learned knowledge at the right position in a spiral curriculum, in any format".
+- [Most optical diagnosis performance parameters fell significantly from before to after a 6-month non-practice period without a refresher course, with specificity most affected, in one uncontrolled pre-post study](../claims/non-practice-period-drops-od-performance.md) [+W] — attached 2026-11-09 from Bustamante-Balén M et al. (2019), which proposed "Require continuous practice with a refresher course after any long non-practice period to maintain optical diagnosis performance"; tests this page's relationship.
+- [Most residents (80.40%) agreed that holding the boot camp prior to each NICU rotation would be useful](../claims/residents-support-repeat-boot-camp-each-rotation.md) [+W] — attached 2026-11-09 from Surcouf JW et al. (2018), which proposed "Schedule preparatory boot camps close to the target rotation and protect faculty time to sustain implementation".
 
 ## Source verification and open tests
 
@@ -504,6 +506,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 ## Examples
 
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](../strategies/spread-skills-courses-over-several-days-strategy.md)
+- [Deliver procedural education through spaced simulation with deliberate practice: assisted step-by-step practice, an unassisted evaluation, and return sessions at 3–6 months](../strategies/spaced-deliberate-practice-procedure-curriculum.md)
 
 ## Key Sources
 

@@ -71,3 +71,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
 - [The TUM hygiene courses received good to very good student evaluations across four semesters](tum-hygiene-course-evaluations-good.md) — related
+- [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related

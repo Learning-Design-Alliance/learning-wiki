@@ -24,6 +24,8 @@ sources:
     author: Russell Kelly, Selci Erin, Black Brian, Cochrane Karis, Ellis Michael
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No significant difference in post-injury overall or core grades after adjusting for pre-injury grades
@@ -52,7 +54,7 @@ Linear regression with manual purposeful backward elimination on report-card dat
 
 Russell Kelly, Selci Erin, Black Brian, Cochrane Karis, Ellis Michael. (2019). Academic outcomes following adolescent sport-related concussion or fracture injury: A prospective cohort study. PLoS ONE. https://doi.org/10.1371/journal.pone.0215900
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The core-subject regression, adjusted for pre-injury core grades, found "no significant difference in post-injury core subject grades" between SRC and SRF students (-0.4%; 95% CI: -3.0, 2.2), with no evidence of effect modification by age, sex, previous concussion or school type.
 

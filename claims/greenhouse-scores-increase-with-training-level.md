@@ -56,3 +56,4 @@ Construct-validity comparison using a low-fidelity mitral valve replacement trai
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related
 - [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — a narrower finding that bears on this claim
+- [Gamified simulation-based training improved resident competency, engagement, and narrowed baseline skill disparities across residency programs](gamification-improves-resident-training-engagement.md) — related

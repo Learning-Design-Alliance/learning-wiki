@@ -72,3 +72,4 @@ Paired Wilcoxon signed-rank tests in the longitudinal subset evaluated at both t
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — reports the opposite
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — a broader claim this one bears on
 - [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — related
+- [Augmented feedback improves the speed-accuracy tradeoff distribution during and immediately after training, but not at two-day retention](augmented-feedback-speed-accuracy-distribution-effect.md) — related

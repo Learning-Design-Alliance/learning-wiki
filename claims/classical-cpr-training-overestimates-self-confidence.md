@@ -16,18 +16,22 @@ sources:
     author: Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: berger-c-2019-2
     resource: "https://doi.org/10.1186/s12909-019-1626-7"
     title: "Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K. (2019). Combination of problem-based learning with high-fidelity simulation in CPR training improves short and long-term CPR skills: a randomised single blinded trial. BMC Medical Education 19:180. https://doi.org/10.1186/s12909-019-1626-7"
     author: Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Classical CPR training produces higher self-assessed CPR competence and teaching-effectiveness ratings despite worse objective performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K. (2019). Combination of problem-based learning with high-fidelity simulation in CPR training improves short and long-term CPR skills: a randomised single blinded trial. BMC Medical Education 19:180. https://doi.org/10.1186/s12909-019-1626-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Post-training Likert-scale questionnaires completed by both randomised groups after the educational units. The intervention group rated lower on all three self-assessment items despite performing better on the primary endpoint; no effect size is printed.
 
@@ -50,7 +54,7 @@ Post-training Likert-scale questionnaires completed by both randomised groups af
 
 Berger C, Brinkrolf P, Ertmer C, Becker J, Friederichs H, Wenk M, Van Aken H, Hahnenkamp K. (2019). Combination of problem-based learning with high-fidelity simulation in CPR training improves short and long-term CPR skills: a randomised single blinded trial. BMC Medical Education 19:180. https://doi.org/10.1186/s12909-019-1626-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-group pre-post questionnaire comparison of self-assessed CPR competence for both randomised groups. The increase was statistically significant in each group with no between-group difference; no effect size is printed.
 

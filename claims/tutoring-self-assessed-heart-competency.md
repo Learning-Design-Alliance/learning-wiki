@@ -54,3 +54,4 @@ Self-assessment survey (5-point Likert, dichotomized) administered after the cou
 - [Hands-on lung POCUS proficiency improved from a pre-course median score of 0% to a post-course median of 67%](lus-hands-on-proficiency-gain.md) — related
 - [Students rate the HMD-based course's learning experience comparable to tutor-led and significantly better than e-learning](hmd-learning-experience-better-than-elearning.md) — related
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related
+- [Medical students taught cardiac ultrasound hands-on by student teaching assistants scored higher on a 6-minute practical image-acquisition test than students taught by qualified trainers](peer-taught-cardiac-ultrasound-higher-practical-test-scores.md) — related

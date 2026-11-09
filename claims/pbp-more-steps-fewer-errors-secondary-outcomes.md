@@ -16,12 +16,14 @@ sources:
     author: "Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # E+PBP training produced more completed steps and fewer combined errors and critical errors than E or E+S training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Breen Dorothy, O'Brien Sinead, McCarthy Nora, Gallagher Anthony, Walshe Nuala. (2019). Effect of a proficiency-based progression simulation programme on clinical communication for the deteriorating patient: a randomised controlled trial. BMJ Open. https://doi.org/10.1136/bmjopen-2018-025992
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary outcome analysis of the RCT comparing the number of successfully completed steps, errors and critical errors across the three groups. The article reports the quoted means and p-values; for errors it reports "combined errors and critical errors were significantly less in the E+PBP group, mean 3.7 (1.6)". No standardised effect size is printed.
 

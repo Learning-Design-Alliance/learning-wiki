@@ -17,12 +17,14 @@ sources:
     author: Peterson David A. M., Biederman Lori A., Andersen David, Ditonto Tessa M., Roe Kevin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Anti-bias language in SET surveys produced significantly higher ratings of female instructors than the standard instrument
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Peterson David A. M., Biederman Lori A., Andersen David, Ditonto Tessa M., Roe Kevin. (2019). Mitigating gender bias in student evaluations of teaching. PLoS ONE. https://doi.org/10.1371/journal.pone.0216241
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized within-course experiment in four large introductory courses (two biology, two American politics) in Spring 2018; students randomly assigned to standard or anti-bias SET instrument. T-tests show "0.41 points higher in the treatment condition" for instructor rating and 0.30 points for effectiveness, both significant; the course rating difference was 0.51 points (t = 3.77, p<0.01).
 

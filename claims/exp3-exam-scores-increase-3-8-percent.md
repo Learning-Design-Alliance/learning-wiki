@@ -16,12 +16,14 @@ sources:
     author: Casper Anne M., Eddy Sarah L., Freeman Scott
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In experiment 3 of a high-structure introductory biology course, exam scores increased by an average of 3.8% relative to lecture-based control terms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Casper Anne M., Eddy Sarah L., Freeman Scott. (2019). True Grit: Passion and persistence make an innovative course design work. PLoS Biology. https://doi.org/10.1371/journal.pbio.3000359
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quasi-experimental comparison across semesters at Eastern Michigan University in which the same instructor, contact time, and content were held constant while high-structure elements were added. The article reports that "exam scores during experiment 3 increased by an average of 3.8%" with ACT, gender, and transfer status controlled.
 

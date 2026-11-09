@@ -48,7 +48,8 @@ The article recommends establishing peer teaching as "an effective tool to stimu
 - [Subjective learning outcomes correlate moderately with objective clinical reasoning performance at post-test and delayed post-test](../claims/subjective-outcomes-correlate-with-knowledge-application.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Recruit former participants with international backgrounds as peer tutors for international students](recruit-international-background-former-participants-as-tutors.md)
 
 ## Examples
 -

@@ -94,3 +94,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
 - [Students reported that the SBE intervention changed their attitudes, including increased empathy and professionalism, beyond skills alone](sbe-attitude-change-empathy-professionalism.md) — related
 - [Students self-assessed all five targeted skills as significantly improved after the combined simulation and bedside course](self-assessed-competence-gains-pain-course.md) — a narrower finding that bears on this claim
+- [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related

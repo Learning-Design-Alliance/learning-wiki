@@ -64,3 +64,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [Students in SWH treatment schools gained about one-tenth of a standard deviation in Mathematics scores per quarter of exposure, erasing an initial disadvantage of roughly 0.4 SD after four semesters](swh-math-scores-gain-per-quarter.md) — related
 - [Standardized reading and math test scores showed no treatment effect](ssstp-no-test-score-effect.md) — related
 - [Randomization checks showed no imbalance between treatment and control conditions on student characteristics](randomization-balance-no-imbalance-set-experiment.md) — related
+- [Baseline equivalence checks show treatment and control groups did not differ in prior grades or gender distribution](baseline-equivalence-checks-fa-experiment.md) — related

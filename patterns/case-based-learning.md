@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 98 claims (55 for, 41 mixed, 2 against) · 73 studies (39 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 73 report an effect size · 93 claims rest on one study
+> **Evidence** · 99 claims (56 for, 41 mixed, 2 against) · 74 studies (40 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 74 report an effect size · 94 claims rest on one study
 
 ## Description and scope
 
@@ -166,6 +166,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [CBL combined with BOPPPS improved four of five modified Mini-CEX clinical-thinking dimensions; for medical history writing the article's text reports no significant difference but its table prints p = 0.002](../claims/cbl-boppps-mini-cex-clinical-thinking-dimensions.md) [+W] — attached 2026-11-07 from Gao Ning et al. (2024), which proposed "Combine case-based learning with a structured session framework such as BOPPPS to strengthen clinical thinking in case-rich medical specialties"; tests this page's relationship.
 - [In one uncontrolled pre-post study, dental students' total error rates in classifying periodontal patients were significantly lower after participation in an ICM-based, case-based periodontology module, with a medium effect size](../claims/icm-periodontology-module-total-error-rate-reduction.md) [+W] — attached 2026-11-08 from Crome Marius et al. (2021), which proposed "Use ICM-based case teaching as a supplement to, not a replacement for, patient-based learning in clinical dental education"; tests this page's relationship.
 - [Two weeks after the course, live and video CCD formats no longer differ but both outperform printed cases on clinical reasoning](../claims/delayed-post-test-live-video-beat-paper.md) [+M] — attached 2026-11-08 from Weidenbusch M et al. (2019), which proposed "Clinical case discussion (CCD) session structure: admission, interactive discussion, summary"; tests this page's relationship.
+- [Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU](../claims/tele-education-reduced-icu-mortality-limited-resource.md) [+W] — attached 2026-11-09 from Kovacevic Pedja et al. (2019), which proposed "Weekly 45-min case-based tele-education rounds in three phases".
 
 ## Illustrative design instance and observation record
 

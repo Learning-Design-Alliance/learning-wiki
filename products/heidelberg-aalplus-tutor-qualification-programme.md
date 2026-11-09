@@ -13,7 +13,7 @@ generated:
 # Heidelberg AalPlus tutor qualification programme
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A four-module, approximately 40-hour qualification programme run by Heidelberg Medical Faculty to prepare medical student tutors in didactics, group leadership, subject-specific teaching, and reflective practice.

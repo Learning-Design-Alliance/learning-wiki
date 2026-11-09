@@ -16,12 +16,14 @@ sources:
     author: Lydon Sinéad, Reid McDermott Bronwyn, Ryan Ethel, O’Connor Paul, Dempsey Sharon, Walsh Chloe, Byrne Dara
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Retrospective chart audit found no statistically significant difference in traumatic lumbar puncture rates between trained trainees and more senior physicians, with interpretation limited by few clinical lumbar punctures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lydon Sinéad, Reid McDermott Bronwyn, Ryan Ethel, O’Connor Paul, Dempsey Sharon, Walsh Chloe, Byrne Dara. (2019). Can simulation-based education and precision teaching improve paediatric trainees’ behavioural fluency in performing lumbar puncture? A pilot study. BMC Medical Education. https://doi.org/10.1186/s12909-019-1553-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Retrospective chart audit of lumbar punctures in infants under 12 months over 12 months from July 2016: intervention group performed 12 LPs (1 traumatic, 8.3%) versus comparator group B’s 45 LPs (20 traumatic, 44.4%). Table 1 prints relative risk = 0.19, 95% CI = .03 to 1.3, z = 1.7, p = .09. The authors state the analyses are "limited by a low number of lumbar punctures performed in the clinical setting".
 

@@ -51,3 +51,4 @@ Longitudinal analysis of the CATS cohort (1239 children, multiple imputation), u
 - [Each additional hour per day of total screen time in young children is associated with 9% to 10% lower odds of achieving a higher level in grade 3 reading, grade 3 math, and grade 6 math on standardized tests](total-screen-time-lower-reading-math-achievement.md) — a broader claim this one bears on
 - [Videogame use showed no association with reading or numeracy performance in late childhood](videogame-use-no-reading-numeracy-association.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
+- [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related

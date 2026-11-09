@@ -74,3 +74,4 @@ The same prospective Hale et al. study linked age-3 language-based routines to a
 - [Two parent-reported sleep health patterns characterize low-income pre-kindergarteners: an earlier, longer, consistent class (87%) and a later, shorter, inconsistent class (13%)](two-sleep-health-classes-prek-low-income.md) — related
 - [Later bedtime at 3 years of age is associated with lower first-grade national language scores](age-3-bedtime-lower-national-language-scores.md) — related
 - [A bedtime of 23:00 or later at age 3 is associated with lower first-grade math scores](age-3-late-bedtime-lower-math-scores.md) — related
+- [Children of lower socioeconomic status tend to have longer screen time, later bedtimes, more daytime sleepiness, and lower cram school attendance](lower-ses-children-unhealthy-lifestyle-patterns.md) — related

@@ -257,6 +257,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md) — a pattern where the tension is live, since the mechanics sustaining repetition are not the mechanics carrying the concept
 - [Frame simulation lessons as a movie-director game with scaffolding, varied texts, and reflective discussion to sustain engagement](../strategies/movie-director-framing-scaffolding-engagement.md)
 - [Set of commercial video educational games used with a linguistic approach over 36 sessions](../designs/linguistic-video-game-set-36-sessions.md)
+- [Provide initial instructions on the adequate sequence of actions before self-training game play](../strategies/initial-instructions-before-serious-game-play.md)
 
 ## Key Sources
 - Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.

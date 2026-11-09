@@ -52,3 +52,4 @@ Wilcoxon Signed Rank tests on the 11 experimental-group children's pre- and post
 - [GEMS education produced a large post-test advantage on the Material Usage Problems subscale (d = 1.77)](gems-material-usage-problems-advantage.md) — related
 - [Parents reported that after GEMS education children's interest in science and mathematics increased and they asked more questions](gems-parents-report-increased-science-interest.md) — related
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
+- [Total self-rated SAIL-10 and both self-rated domain scores were significantly higher from pre-workshop to post-workshop among students attending the prescribing skills workshop, in one uncontrolled pre-post study](prescribing-workshop-raises-ipl-acceptance.md) — related

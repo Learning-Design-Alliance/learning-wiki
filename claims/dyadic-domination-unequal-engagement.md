@@ -48,3 +48,4 @@ Researcher observation during lab sessions in the quasi-experimental study; the 
 - [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — related
+- [The dyadic-learning advantage is not explained by pairing a more knowledgeable student with a less knowledgeable one; both students benefit](dyad-advantage-not-knowledgeable-partner-effect.md) — related

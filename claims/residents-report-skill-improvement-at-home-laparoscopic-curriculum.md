@@ -49,3 +49,4 @@ Postcurriculum survey of 22 residents (47% of invited) after the four-month at-h
 - [Residents found the curriculum's grading rubrics helpful and reported knowing how to improve after graded feedback](rubric-feedback-helped-residents-know-how-to-improve.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](simulated-practice-decreases-after-fls-completion.md) — related
+- [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related

@@ -13,7 +13,7 @@ generated:
 # Prezi
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Prezi is a web-based presentation platform developed by Prezi Inc. for creating and delivering zoomable, non-linear visual presentations.

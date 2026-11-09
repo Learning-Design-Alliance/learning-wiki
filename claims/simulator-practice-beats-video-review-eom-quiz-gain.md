@@ -53,3 +53,4 @@ Randomized comparative study of 84 undergraduate medical students at Peking Unio
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
+- [Emergency medicine residents' quiz scores on defibrillator function improved from 60% to 84% after a lecture-plus-simulation intervention](simulation-improves-resident-defibrillator-quiz-scores.md) — related

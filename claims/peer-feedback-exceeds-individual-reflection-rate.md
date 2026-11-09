@@ -16,12 +16,14 @@ sources:
     author: Tawanwongsri W, Phenwan T.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Peers recognised areas for improvement and suggested action plans at a higher rate (15%) than students did in individual reflective practice (4%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Tawanwongsri W, Phenwan T. (2019). Reflective and feedback performances on Thai medical students’ patient history-taking skills. BMC Medical Education. https://doi.org/10.1186/s12909-019-1585-z
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of 48 students' feedback performances across 117 feedback sessions, evaluated against Pendleton's rule by two instructors. The study reports "22 and 15% of participants" stating what peers did well and suggesting improvements; no effect size is printed.
 

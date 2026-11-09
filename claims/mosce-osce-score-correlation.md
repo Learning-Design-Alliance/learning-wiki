@@ -17,12 +17,14 @@ sources:
     author: Madrazo Lorenzo, Lee Claire Bo, McConnell Meghan, Khamisa Karima, Pugh Debra
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Mock OSCE scores significantly correlated with subsequent third-year OSCE scores (Pearson r=0.52)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Madrazo Lorenzo, Lee Claire Bo, McConnell Meghan, Khamisa Karima, Pugh Debra. (2019). No observed effect of a student-led mock objective structured clinical examination on subsequent performance scores in medical students in Canada. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2019.16.14
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Pearson correlation analysis on the subset of students who took both the MOSCE and the OSCE, with data from the 2016 and 2017 cohorts combined after no cohort effect was found. "Pearson r=0.52, P<0.001"; this correlation does not establish that participation improved OSCE scores.
 

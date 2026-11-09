@@ -74,3 +74,4 @@ Same HLM analysis of college enrollment for all students (n = 867 ISHS / 1,997 c
 - [ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges](ishs-more-core-stem-courses-four-year-only.md) — related
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related
 - [Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students](majority-studies-40-percent-economically-disadvantaged.md) — related
+- [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — related
