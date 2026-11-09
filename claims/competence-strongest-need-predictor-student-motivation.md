@@ -94,3 +94,4 @@ Relative weight analysis of need satisfaction predicting intrinsic motivation fr
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related
+- [In a one-group pretest–posttest study of physiotherapy students, self-reported intrinsic motivation, identified regulation, perceived competence, and perceived autonomy support rose from the lecture period to the TBL period](tbl-increases-autonomous-motivation-competence.md) — related

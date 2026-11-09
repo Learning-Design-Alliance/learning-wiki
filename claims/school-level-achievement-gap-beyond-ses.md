@@ -58,3 +58,4 @@ School-level analysis of 2004–06 Cal-SCHLS and testing data. After socioeconom
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related
 - [The SES achievement gap produced by evaluators occurs even in the absence of actual performance differences](gap-created-absent-performance-differences.md) — related
+- [Lower standardized test scores are not a fixed attribute of African American students](test-scores-not-fixed-attribute.md) — related

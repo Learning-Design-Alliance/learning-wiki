@@ -52,3 +52,4 @@ In the randomized controlled trial's baseline assessment, the first three OSCE s
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
+- [Nine papers reported improved test scores with podcasts, but few used control groups, and overall evidence for podcasts as educational tools is weak and mixed](podcast-learning-outcomes-mixed-weak.md) — related

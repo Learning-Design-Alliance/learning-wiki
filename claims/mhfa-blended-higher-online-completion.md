@@ -52,3 +52,4 @@ Objective course-website usage data from the RCT; the blended group's online com
 - [Both MHFA modes greatly improve the quality of helping intentions, and blended delivery adds a small additional advantage for the depression vignette only](mhfa-helping-intentions-quality.md) — related
 - [Both MHFA delivery modes shift beliefs about professional treatments toward health-professional consensus, with large effects for depression and medium effects for PTSD](mhfa-treatment-beliefs-improvement.md) — related
 - [Both MHFA delivery modes improve confidence in helping a co-worker with depression or PTSD by medium effect sizes, with no significant difference between modes](mhfa-confidence-improvement.md) — related
+- [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related

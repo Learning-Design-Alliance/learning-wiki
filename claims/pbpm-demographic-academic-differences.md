@@ -49,3 +49,4 @@ Demographic and academic comparison of the three matriculant groups (2015–2017
 - [PBPM pathways admit a substantially higher proportion of underrepresented-in-medicine students than the broader matriculant cohort](pbpm-pathways-increase-urim-representation.md) — possibly the same claim (merge candidate)
 - [PBPM program participants scored significantly lower on USMLE Step 1 than non-PBPM students, but Step 1 pass rates did not differ between groups](pbpm-step1-scores-lower-pass-rates-similar.md) — related
 - [UCSD PBPM program alumni's preclerkship exam performance does not significantly differ from classmates who did not participate in a PBPM program, despite lower incoming GPA and MCAT percentiles](ucsd-pbpm-preclerkship-performance-not-different.md) — related
+- [Entering MCAT scores showed no significant difference between the cohorts taught under the old and new curricula](mcat-no-group-difference.md) — related

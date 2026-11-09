@@ -50,3 +50,6 @@ Survey of the 2015 cohort with 174 responses (38.2%); reflexive thematic analysi
 - [Answering PeerWise questions significantly predicts Stage 4 exam performance in fourth-year medical students after controlling for Stage 3 performance](peerwise-answering-predicts-stage4-exam.md) — related
 - [Stage 4 exam score drop was significantly smaller in cohorts after PeerWise introduction than in cohorts before it](peerwise-smaller-stage4-score-drop-post-introduction.md) — related
 - [Students found PeerWise easy to use but did not perceive it as useful for enhancing learning](peerwise-easy-but-not-useful.md) — related
+- [PeerWise activity spikes before examinations and students report using it to reinforce knowledge close to exams](peerwise-activity-spikes-before-exams.md) — related
+- [Summative score rose stepwise with writing and commenting frequency, while answering showed a threshold effect only for prolific answerers](peerwise-frequency-group-threshold-answering.md) — related
+- [Students valued the curriculum specificity of PeerWise questions and faculty review, but expressed concerns about student-authored question quality](student-perceptions-curriculum-specificity-faculty-review.md) — related

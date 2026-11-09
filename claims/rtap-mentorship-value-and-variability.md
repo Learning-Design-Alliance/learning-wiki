@@ -58,3 +58,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
 - [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related
+- [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related

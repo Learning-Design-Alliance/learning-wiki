@@ -62,6 +62,7 @@ Remote AR support is essentially [Demonstration](../elements/demonstration.md) a
 - Just-in-Time Performance Support — recorded AR overlays serve the same function asynchronously
 - Video Coaching — similar expert-observation loop without in-context annotation
 - [Provide remote real-time guidance during student practice, allowing the teacher to observe operations and correct technique from a distance](remote-real-time-practice-guidance-strategy.md)
+- [Visual-axis interactive instructional guidance via wireless AR/MR video-conferencing with educator-inserted 3D visual cues](visual-axis-interactive-instructional-guidance-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the expert's annotated modeling is a demonstration embedded in the learner's own environment

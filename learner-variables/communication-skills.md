@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (119 show a difference, 34 mixed, 25 no difference) · 148 studies (56 causal, 26 review, 25 associational, 20 quant-synthesis, 8 design, 7 qualitative, 6 theoretical), `q1`–`q4` · 22 of 148 report an effect size · 174 claims rest on one study
+> **Evidence** · 181 claims (122 show a difference, 34 mixed, 25 no difference) · 149 studies (57 causal, 26 review, 25 associational, 20 quant-synthesis, 8 design, 7 qualitative, 6 theoretical), `q1`–`q4` · 22 of 149 report an effect size · 177 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -220,6 +220,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [In a randomized EM clerkship trial, students receiving a multimodal communication curriculum at the midpoint achieved maximum CAT scores more often than controls in weeks 3–4 (OR 1.65, p = 0.008)](../claims/multimodal-curriculum-patient-feedback-improves-cat-max-scores.md) [+M] — measured as an outcome of the instruction studied
 - [Interpersonal and communication skills ratings do not increase significantly over training, unlike other competencies](../claims/communication-skills-ratings-no-significant-increase.md) [-M] — measured as an outcome of the instruction studied
 - [The course changed GPs' perceived importance of only two of the eight communication skills: communicating about R/S concerns and active listening and being present](../claims/perceived-importance-unchanged-except-two-skills.md) [~M] — measured as an outcome of the instruction studied
+- [Computer Science students reported significantly greater improvement in possibilities to speak than Media Technology students, possibly because their seminar groups were larger](../claims/cs-students-speaking-improvement-larger-groups.md) [+M] — measured as an outcome of the instruction studied
+- [Splitting a seminar into small walking subgroups roughly triples each student's talking time compared with a whole-group indoor seminar](../claims/walking-subgroups-triple-talking-time.md) [+W] — measured as an outcome of the instruction studied
+- [Students perceived that outdoor walking seminars improved discussions, sense of well-being, seminar quality and possibilities to speak compared with previous indoor seminars](../claims/walking-seminars-improve-perceived-discussion-wellbeing-quality.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

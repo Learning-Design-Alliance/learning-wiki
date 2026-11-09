@@ -70,3 +70,4 @@ Same cohort analysis broken down by race and gender (Figure 6). The report state
 - The share of CPS students whose test scores were included in public reporting declined through the 1990s, reaching 74.2 percent in 2000 — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](high-stakes-testing-pervasive-efficacy-contested.md) — related
+- [Attrition and progression rates indicate the Step 1 gains were not due to extended preclinical time or high attrition](gains-not-explained-by-attrition-or-delay.md) — related

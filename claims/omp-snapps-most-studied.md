@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` OMP appears in 16 of 26 included articles and SNAPPS in 6 of 26, while STEPS, RIME, Aunt Minnie, BOPPPS, ED STAT, and MiPLAN each appear in only one article. [→ Munguiko Clement 2026](#munguiko-clement-2026)
@@ -55,3 +56,4 @@ Descriptive frequency analysis of the 26 included articles in the scoping review
 - [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
 - [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related
 - [The One-Minute Preceptor model shows high learner and instructor satisfaction, with learners preferring it over traditional precepting (Level 2b, Grade B)](omp-high-satisfaction-preferred-over-traditional.md) — related
+- [A single reported study found ED STAT! training increased preceptors' self-reported teaching amount, quality, and confidence](ed-stat-faculty-development-study.md) — related

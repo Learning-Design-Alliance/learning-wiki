@@ -50,3 +50,4 @@ Cross-sectional study of 148 first-year medical students; chi-square test of chr
 - [In-depth exploration mediates the link between chronotype and school performance](in-depth-exploration-mediation-chronotype-school-performance.md) — related
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
 - [Evening chronotypes report higher perceived stress than Morning chronotypes among first-year medical students](evening-chronotype-higher-perceived-stress.md) — related
+- [Owls (late chronotypes) show a significant academic performance deficit compared to larks and finches at all class times of day](owls-academic-deficit-all-class-times.md) — related

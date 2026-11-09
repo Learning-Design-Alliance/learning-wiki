@@ -72,3 +72,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Academic achievement and executive functioning correlate positively with gender, serotonin and physical activity score, and negatively with age, BMI and salivary cortisol](achievement-correlates-gender-serotonin-pa-negative-age-bmi-cortisol.md) — reports the opposite
 - [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — reports the opposite
+- [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](walking-seminar-perceptions-independent-of-activity-level.md) — related

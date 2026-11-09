@@ -50,3 +50,4 @@ TAM-framed analysis of interview and student-response data reported "High percei
 - [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
+- [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](positive-acceptance-neutral-intention-distractibility.md) — related

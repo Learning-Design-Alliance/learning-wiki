@@ -85,3 +85,4 @@ Results section of the same cross-sectional survey: in the pre-exam preparation 
 ## Related Claims
 - [Students rate course-provided OLRs as more useful in post-class and pre-exam stages than in the pre-class stage](olr-perceived-usefulness-increases-later-stages.md) — related
 - [Reading materials and discussion platforms receive consistently low preference ratings across all three learning stages](reading-materials-consistently-low-preference.md) — related
+- [EM-bound medical students completed optional pre-class videos at a higher rate than students pursuing other specialties](em-bound-students-higher-video-completion.md) — related

@@ -70,3 +70,4 @@ Category 4 groups stayed mostly in the task enactment phase; the study reports "
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
+- [Commitments to change clustered into four categories — communication, behavior, knowledge, and attitude — with roughly one third of behavior- and attitude-related commitments interprofessional](c2c-commitments-four-categories.md) — related

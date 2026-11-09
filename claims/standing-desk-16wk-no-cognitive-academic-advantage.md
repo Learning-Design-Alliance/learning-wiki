@@ -54,3 +54,5 @@ Cluster-controlled trial with two 6th-grade classes (intervention n = 22, contro
 - [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related
 - [Cycling desks increase students' classroom energy expenditure by around 36% relative to normal class hours](cycling-desks-increase-classroom-energy-expenditure-36-percent.md) — related
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
+- [Low-intensity in-class cycling during a 12-week college lecture course shows no statistically significant difference from sitting on test scores or course grades](in-class-cycling-no-significant-academic-difference.md) — related
+- [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — possibly the same claim (merge candidate)

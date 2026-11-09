@@ -51,3 +51,4 @@ Comparison of post-intervention CTS and Ottawa GRS measures across the three ran
 - [Participants regard post-simulation debriefing, role allocation, and interprofessional knowledge-sharing as critical to learning CRM skills](fgd-debriefing-role-allocation-knowledge-sharing-crm.md) — related
 - [A simulation-based CRM workshop significantly improves situational awareness, decision-making, and role responsibility ratings on the Clinical Teamwork Scale](simulation-crm-workshop-improves-cts-awareness-decision-role.md) — related
 - [Neither RCDP nor TRD is meaningfully better than the other for improving teamwork knowledge or team performance in interprofessional pediatric emergency department simulation training](rcdp-vs-trd-no-meaningful-difference.md) — related
+- [Observational learning during simulation scenarios was associated with gradual improvement in CRM skills across successive teams in the course](observational-learning-crm-gradual-improvement.md) — related

@@ -58,3 +58,4 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
 - [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related
 - [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related
+- [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](positive-acceptance-neutral-intention-distractibility.md) — related

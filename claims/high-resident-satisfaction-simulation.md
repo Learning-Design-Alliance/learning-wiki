@@ -61,3 +61,4 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
 - [Residents rated the paracentesis curriculum highly, ranking it fourth of 14 core curricular activities with an average quality rating of 3.88 of 5](paracentesis-curriculum-positive-feedback-ratings.md) — related
 - [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related
+- [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related

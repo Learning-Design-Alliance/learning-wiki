@@ -49,6 +49,7 @@ Observing substantial attrition in refresher attendance and differential results
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
+- [Use field-of-practice opinion data to fine-tune post-basic training programmes tailored to predominantly clinical, managerial, or academic occupational physician roles](tailored-op-training-by-field-of-practice.md)
 
 ## Examples
 -

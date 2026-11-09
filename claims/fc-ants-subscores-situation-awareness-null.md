@@ -73,3 +73,4 @@ Null result for the Situation awareness subcategory in the same ANTS rating of t
 - [The decision-making sub-item of the ANTS score was significantly better in the observer-tool group than in the control group](observer-tool-decision-making-better.md) — related
 - [LSPPDM group scored higher on most NOTSS non-technical skills, with no difference in situation awareness](lsppdm-higher-notss-scores.md) — related
 - [Post-test non-technical skill performance of the flipped learning group is significantly better than the lecture-based group on teamwork/leadership and team orientation, but not on planning/problem-solving](post-test-between-group-nts-differences.md) — related
+- [All four ANTS domains (task management, team working, situation awareness, decision-making) correlate with technical performance under stressors but not under control conditions](all-ants-domains-correlate-under-stress.md) — related

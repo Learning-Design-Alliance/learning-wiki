@@ -51,6 +51,7 @@ Based on student feedback criticizing long recordings, the article recommends th
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Integrate targeted one-hour interactive online lectures on common orofacial conditions into continuing dental education, with periodic reinforcement](targeted-online-lecture-continuing-dental-education.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
+- [Keep guideline e-learning concise and integrate text with images and videos](concise-multimedia-guideline-e-learning-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Post-hoc validity ANOVAs using class membership as the grouping variable found s
 - [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — related
 - [No statistically significant mean differences by sleep health class on literacy, mathematics, or executive functioning after covariate adjustment](no-sleep-class-differences-literacy-math-ef.md) — related
 - [School language achievement differs largely across the three motivation–metacognition profiles after adjusting for covariates](achievement-differs-large-across-mmsr-profiles.md) — related
+- [No significant associations were found between mathematics goal profile membership and developments in mathematics achievement](no-profile-math-achievement-association.md) — related

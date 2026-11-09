@@ -63,3 +63,4 @@ Psychometric analysis in Study 2, in which two postgraduate raters who received 
 - [Novice cytotechnicians achieved good overall concordance with an expert in p16/Ki67 dual stain interpretation of slides from older women (κ = 0.68; 84% agreement), slightly below the manufacturer-recommended ≥90%](novice-expert-dual-stain-concordance-good-overall.md) — related
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
+- [Two independent faculty raters using the Ottawa CRM Global Rating Scale showed good interrater agreement (kappa = 0.74, 95% CI 0.66–0.82)](ottawa-crm-grs-interrater-kappa-074.md) — related

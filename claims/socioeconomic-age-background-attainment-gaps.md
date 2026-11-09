@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-09
 sources:
   - id: jones-rebecca-l-2024
     resource: "https://doi.org/10.1186/s12909-024-05580-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trainees from the two most deprived deprivation quintiles received significantly more non-satisfactory ARCP outcomes (24.4%) than those from DQ4 and DQ5 (14.2%). [→ Jones Rebecca L. 2024](#jones-rebecca-l-2024)
@@ -78,3 +79,5 @@ The review reports the single included disability study found significantly lowe
 - [First-Conscientiousness-decile students have worse ARCP outcomes in year 2 of training but not in year 1](ci-first-decile-arcp-year2-only.md) — related
 - [Gateway students are significantly more likely than SEMED students to have demographic characteristics associated with low socioeconomic status and under-representation](gateway-students-more-underrepresented.md) — related
 - [UK overseas graduates were more likely than other graduate groups to receive a less satisfactory ARCP outcome in postgraduate training](uk-og-less-satisfactory-arcp-outcomes.md) — related
+- [Non-professional socioeconomic background is a strong independent predictor of declaring depression during undergraduate medical education](non-professional-background-independent-predictor-depression.md) — related
+- [The PA–academic performance relationship varied by school socioeconomic decile: moderate and significant for low-decile schools in Model 1, non-significant for mid-decile schools](pa-academic-relationship-ses-decile-subgroup.md) — related

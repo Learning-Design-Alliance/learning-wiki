@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 55 claims (33 for, 17 mixed, 5 against) · 67 studies (30 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 14 of 67 report an effect size · 42 claims rest on one study
+> **Evidence** · 56 claims (34 for, 17 mixed, 5 against) · 68 studies (31 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 14 of 68 report an effect size · 43 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -109,6 +109,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](../claims/timed-reading-positive-attitudes.md) [~W] — attached 2026-11-02 from Molood Mahdizadeh (2018), which proposed "Timed reading activity with Asian and Pacific Speed Readings for ESL Learners passages".
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](../claims/learnbot-error-decrease-residual-errors.md) [~W]
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](../claims/suturing-knot-tying-most-critical-component.md) [~W]
+- [A four-week home-based online typing-game intervention improves children's MABC-2 manual dexterity standard scores compared to a control group](../claims/typing-intervention-improves-mabc2-manual-dexterity.md) [+W] — attached 2026-11-09 from McGlashan H.L. et al. (2017), which proposed "Free online typing games (Dance Mat Typing, Typing Chef) as a home-based fine motor intervention for 8–10-year-olds"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

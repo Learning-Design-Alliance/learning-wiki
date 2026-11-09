@@ -48,3 +48,4 @@ Phi coefficient co-occurrence analysis over the 120 annotated incorrect response
 ## Related Claims
 - [Among GPT-4o's incorrect CONACEM responses, unsupported medical claims are the most common error (40.69%), followed by incorrect or vague conclusions (22.07%)](gpt4o-unsupported-medical-claims-most-common-error.md) — related
 - [Unsupported medical claims are significantly more prevalent in the Understanding domain than other domains (Cramér's V = 0.382), the only error type significant after correction](unsupported-claims-prevalent-understanding-domain.md) — related
+- [In Evaluate, unsatisfactory responses extend into other domains or state incorrect results; in Integrate, unsubstantiated conclusions predict lower scores](evaluate-extend-incorrect-integrate-unsubstantiated.md) — related

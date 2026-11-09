@@ -55,3 +55,4 @@ Satisfaction questionnaire with six statements covering overall satisfaction, pe
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Simulation-mannequin training yields higher post-training theoretical TEE test scores than e-learning or hands-on operating-room training in novice residents](simulation-mannequin-higher-post-training-tee-theoretical-scores.md) — related
 - [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related
+- [Residents reported significantly higher overall satisfaction with mannequin-based than computer-based training](higher-satisfaction-mannequin-training.md) — reports the opposite

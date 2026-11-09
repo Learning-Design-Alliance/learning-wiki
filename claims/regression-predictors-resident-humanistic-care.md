@@ -54,3 +54,4 @@ Multiple linear regression on the 236-resident survey data, using socio-demograp
 - [Self-emotional appraisal is the emotional intelligence dimension most strongly correlated with humanistic care competence (r = 0.402)](self-emotional-appraisal-strongest-correlation.md) — related
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
 - In multiple linear regression, self-development, emotional stability, managing relations, altruistic behaviour and commitment positively predicted CGPA — related
+- [None of the five pre-admission variables significantly predicts cGPA in clinical years](no-preadmission-variable-predicts-clinical-cgpa.md) — related

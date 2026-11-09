@@ -68,3 +68,4 @@ Linear regression model of Y6 Management Viva results (Table 7) with the same co
 - [Common OSCE and Management Viva assessor biases such as familiarity with the student were not observed in this rural-campus cohort](examiner-familiarity-bias-not-observed.md) — related
 - [Home site in either Year 3 or Year 6 had no significant impact on Year 6 MCQ results; the only impact was of Year 3 MCQ results](y3-mcq-predicts-y6-mcq-home-site-no-impact.md) — related
 - [In Year 3 OSCE results, examination site had the largest effect among the variables considered yet was not statistically significant, while Year 3 MCQ results had a small significant impact](y3-osce-site-effect-largest-not-significant.md) — related
+- [Prior vocational training as a pharmacy technician has no detectable influence on OSCE performance in this cohort](prior-pharmacy-technician-training-no-influence-osce.md) — related

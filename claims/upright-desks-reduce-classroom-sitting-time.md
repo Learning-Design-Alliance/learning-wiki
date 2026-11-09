@@ -73,3 +73,5 @@ Table 3 entry for Clemes et al. (2020), an RCT across 8 classrooms (IG N=86, CG 
 - [Screen time increased more in the control group than in the physical activity intervention group over the academic year](outdoor-activity-associated-less-screen-time-increase.md) — related
 - [Non-verbal fluid intelligence (Raven matrices) declined in the standing desk intervention group while the control group increased slightly](raven-matrices-declined-intervention-group.md) — related
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — related
+- [An 11-week classroom standing desk intervention increases objectively measured standing time during lessons in primary school children](standing-desks-increase-lesson-standing-time-children.md) — a narrower finding that bears on this claim
+- [The standing desk intervention reduces sitting time during lessons by about 13 minutes per day](standing-desks-reduce-lesson-sitting-time-children.md) — related

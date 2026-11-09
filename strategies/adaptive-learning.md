@@ -70,6 +70,7 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 - [Intelligent tutoring systems can adapt practice schedules based on prior knowledge and target knowledge type.](adaptive-practice-schedules-its.md)
 - [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](dp-ongoing-difficulty-tailoring.md)
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
+- [Embed mastery-threshold questions in computerized health education, requiring at least 80% accuracy to advance through content domains](mastery-threshold-embedded-questions-strategy.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free math platform that adapts problem selection and scaffolding based on student responses; evaluated in randomized controlled trials in Maine middle schools.

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-09
 sources:
   - id: vail-brennan-2018
     resource: "https://doi.org/10.1186/s12887-018-1254-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` From week 4 to 8 of training, proper neck extension increased 13.5 percentage points, PPV with visible chest rise increased 19.0 percentage points, and heart rate assessment increased 11.6 percentage points (all significant). [→ Vail Brennan 2018](#vail-brennan-2018)

@@ -71,3 +71,4 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [Facilitators reported professional and personal rewards from delivering the intervention, including transferable communication skills](facilitator-rewards-transferable-communication-skills.md) — related
 - [Evidence for bootcamp benefits is limited by absent control groups, self-reported subjective measures and lack of long-term follow-up](bootcamp-evidence-limits-no-control-no-followup.md) — related
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
+- [Using competency frameworks alongside standards of practice facilitates improvement in pharmacists’ performance, with sustained gains reported at up to 12 months](competency-frameworks-improve-pharmacist-performance.md) — reports the opposite

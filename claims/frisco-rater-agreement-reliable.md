@@ -105,3 +105,5 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Agreement on the global rating scale is only slight to fair (κ = 0.12 to 0.31)](pocus-grs-slight-fair-agreement.md) — related
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
+- [Two independent faculty raters using the Ottawa CRM Global Rating Scale showed good interrater agreement (kappa = 0.74, 95% CI 0.66–0.82)](ottawa-crm-grs-interrater-kappa-074.md) — related
+- [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related

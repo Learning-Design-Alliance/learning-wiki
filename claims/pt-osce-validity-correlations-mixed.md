@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-09
 recheck_by: 2024
 sources:
   - id: bobos-pavlos-2021
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-09 (automated, 3 of 3 entries) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Supervised clinical practice performance correlated very weakly with OSCE scores (Spearman ρ = -0.13 in 48 postgrad students). [→ Bobos Pavlos 2021](#bobos-pavlos-2021)

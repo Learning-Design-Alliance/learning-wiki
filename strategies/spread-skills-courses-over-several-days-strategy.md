@@ -51,6 +51,7 @@ For time-limited skills courses that typically use massed practice, the authors 
 - [Distributed Practice (Spacing Effect)](distributed-practice-spacing-effect.md)
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 - [Divide lengthy clinical-skills workshops into a longitudinal series of shorter sessions to ameliorate fatigue and enable spaced repetition](longitudinal-shorter-clinical-skills-sessions-strategy.md)
+- [Design competitive learning strategies to distribute knowledge sessions uniformly over time](competitive-strategies-uniform-knowledge-sessions.md)
 
 ## Examples
 -

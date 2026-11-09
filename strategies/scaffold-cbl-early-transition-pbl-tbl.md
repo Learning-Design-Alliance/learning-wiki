@@ -78,6 +78,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [PBL-case fusion teaching via a problem chain around real clinical hematological disease cases](pbl-case-fusion-problem-chain-strategy.md)
 - [Case-study-focused PBL unit design combining weekly in-person tutorials, case-based practicals and H5P interactive activities for large cohorts](case-study-pbl-unit-design-strategy.md)
 - [Adopt TBL over lecture-based learning to develop clinical reasoning and engagement in health-professions education](adopt-tbl-for-clinical-reasoning-strategy.md)
+- [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
 
 ## Examples
 -

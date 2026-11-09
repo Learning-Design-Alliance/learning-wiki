@@ -49,3 +49,4 @@ Gaze-communication coupling analysis (Table 3): fixation at team members during 
 - [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — a broader claim this one bears on
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
 - [Expert teachers fixate more on struggling, underestimating, and uninterested students during individual seatwork, while novices show longer fixations on strong and overestimating students](expert-gaze-attends-to-support-needed-profiles.md) — related
+- [Interns identified communication delivery skills, especially making eye contact with immobilized patients, as lessons from the patient experience simulation](simulation-lessons-eye-contact-immobilized-patients.md) — related

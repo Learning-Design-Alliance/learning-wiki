@@ -55,6 +55,7 @@ In the discussion the authors recommend sequencing behaviourist and cognitive ap
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
 - [Use simulation-based learning with scaffolding to train intervention reasoning skills](simulation-scaffolding-intervention-reasoning-training.md)
+- [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
 
 ## Examples
 -

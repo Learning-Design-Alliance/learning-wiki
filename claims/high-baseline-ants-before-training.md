@@ -51,3 +51,4 @@ Secondary analysis of the sub-group of residents involved in the first scenario 
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [In situ simulation training did not further improve ANTS-rated non-technical skills and team interaction during actual postnatal stabilization, which were already high before training](ants-nontechnical-skills-no-improvement-in-situ-sbt.md) — related
 - [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related
+- [A period effect suggests simulator-based CPR scenarios induce self-reflection and improve non-technical performance without explicit feedback or debriefing](simulator-scenarios-self-reflection-improve-nontechnical-performance.md) — related

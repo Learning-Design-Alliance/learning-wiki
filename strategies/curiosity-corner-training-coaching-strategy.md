@@ -49,6 +49,7 @@ The program's professional development model combines initial training with sust
 - [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
 - [Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews](lightning-squad-tutor-training-support-strategy.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
+- [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 
 ## Examples
 -

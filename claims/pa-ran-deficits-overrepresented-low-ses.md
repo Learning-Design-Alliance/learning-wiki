@@ -56,3 +56,4 @@ Chi-square test of profile distribution across high, middle, and low SES school 
 - [Students with SEN are more likely to belong to motivational profiles with maladaptive patterns](sen-students-more-likely-maladaptive-motivational-profiles.md) — related
 - [Kindergarten SEB profile membership is differentially associated with gender, age, language background, SES, and learning disability status](seb-profile-socioeducational-associations.md) — related
 - [Extracardiac anomalies, genetic diagnosis, CHD severity, surgical/hospitalization factors and low SES are risk factors for poorer academic achievement or higher SEN in CHD](chd-risk-factors-academic-achievement.md) — related
+- [The PA–academic performance relationship varied by school socioeconomic decile: moderate and significant for low-decile schools in Model 1, non-significant for mid-decile schools](pa-academic-relationship-ses-decile-subgroup.md) — related

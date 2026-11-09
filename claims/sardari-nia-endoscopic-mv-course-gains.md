@@ -76,3 +76,4 @@ Same 2-day course (103 participants): accuracy of posterior and anterior leaflet
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
 - [All medical students significantly improved endoscopic forceps time-trial performance from the first to the second half of two-week dry laboratory training](all-students-improved-forceps-skills-repeated-practice.md) — related
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
+- [The 3D-printed thoracic and cardiac model permitted full simulation of minimally invasive mitral valve repair procedures with real MICS instruments and a robot](mimvr-simulation-feasibility-with-real-mics-tools.md) — related

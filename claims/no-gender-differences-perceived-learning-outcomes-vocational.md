@@ -103,3 +103,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Self-confidence levels did not differ significantly by GPA, gender, or university](cxr-confidence-no-differences-gpa-gender-university.md) — related
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — related
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — possibly the same claim (merge candidate)
+- [Prior vocational training as a pharmacy technician has no detectable influence on OSCE performance in this cohort](prior-pharmacy-technician-training-no-influence-osce.md) — related

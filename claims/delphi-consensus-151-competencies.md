@@ -61,3 +61,4 @@ In the three-round Delphi study, Round 2 retained 124 items meeting consensus cr
 - [Expert consensus above 90.2% was achieved on admission and development criteria of teaching resource for nursing undergraduates comprising 6 domains and 43 items](nursing-teaching-resource-criteria-consent-902.md) — related
 - [A checklist-based BPMN model of ultrasound-guided CVC placement reached expert consensus in two Delphi rounds, producing a final model of 32 activities](bpmn-cvc-delphi-consensus-32-activities.md) — related
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
+- [A Delphi study identified 18 skills for Advanced Access and 22 skills for Process Redesign logistics improvement projects](delphi-18-22-skills-logistics-improvement.md) — related

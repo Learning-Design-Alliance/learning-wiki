@@ -69,3 +69,4 @@ Surface Motivation (Z = 0.95, P = 0.34, r = 0.13) and Surface Strategy (Z = 1.24
 - [There was no difference between groups in the change in deep learning approach across time](no-difference-deep-approach-change-cbl.md) — reports the opposite
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
 - [Learning strategy use differs significantly across academic years, with deep strategies lower and surface strategies higher in fifth-year students](learning-strategies-vary-across-academic-years.md) — related
+- [Second-year midwifery students in a hybrid flipped-classroom program scored higher on the deep than the superficial learning approach](deep-over-superficial-approach-midwifery-hybrid.md) — related

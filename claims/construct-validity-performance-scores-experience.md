@@ -69,3 +69,4 @@ Construct validity was assessed by comparing operative scores and times across t
 - [Professor-rated surgical proficiency scores improved significantly for all 10 procedures across three simulation surgeries, with summed scores rising from 28.58 to 67.33](simulation-surgery-3d-tof-model-improves-proficiency-scores.md) — related
 - [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
 - [Movement efficiency on the VR simulator was independently predicted by number of simulations, surgical experience level, and years since college graduation](movement-efficiency-predictors-simulations-experience-graduation.md) — related
+- [Resident experience level predicted training assessment scores but not final assessment scores after simulation training](experience-predicts-training-not-final-scores.md) — related

@@ -98,3 +98,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related
 - [Talk-aloud interviews with 28 junior residents and expert physicians identified 5 thematic sources of cognitive load in trauma resuscitation videos](cinevr-talk-aloud-five-cognitive-load-sources.md) — related
 - [Interactive learning activities yield significantly higher professional-factor scores (theoretical knowledge, critical thinking, clinical competence) than traditional learning](interactive-learning-higher-professional-factors.md) — related
+- [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related

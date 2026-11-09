@@ -51,6 +51,7 @@ The review recommends transitioning robotic surgical education to validated digi
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Use discarded inedible livestock organs as surgical training models to reduce live-animal use](discarded-livestock-organs-surgical-training-strategy.md)
 - [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
+- [Use life-like 3D-printed organ models rather than virtual simulators or animal organs to train less experienced surgeons in minimally invasive procedures](life-like-3d-printed-models-over-virtual-and-animal-training.md)
 
 ## Examples
 -

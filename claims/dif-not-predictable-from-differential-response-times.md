@@ -55,3 +55,4 @@ Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-ve
 - Differential item functioning was found in four items across the function, form and level dimensions — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — related
+- [Of 217 questions exhibiting DIF at the .01 alpha level, the effects were almost always negligible](217-dif-questions-almost-always-negligible.md) — related

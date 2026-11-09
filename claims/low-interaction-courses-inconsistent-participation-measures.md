@@ -56,3 +56,4 @@ The study plotted centrality measures against course network characteristics (Fi
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
 - [Eigenvector centrality has a combined correlation of r=0.41 with grades and is a consistent indicator of student success](eigenvector-centrality-consistent-indicator.md) — related
 - [Students' SNA centrality measures (participation, information exchange, connectedness, social capital) correlate moderately to strongly with grades in online PBL](sna-centrality-correlates-with-pbl-performance.md) — related
+- [Information-relay centralities and eigenvector centrality are positively correlated with final, clinical and MCQ performance](information-relay-eigenvector-centrality-correlate-performance.md) — related

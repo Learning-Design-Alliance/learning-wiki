@@ -63,3 +63,4 @@ The article reports this figure from studies it cites (Dharmalingam et al. 2015;
 - [The dietetics curriculum in Indonesian schools provides inadequate opportunities for students to learn about and interact with PLHIV, with HIV taught only within other courses](dietetic-curriculum-inadequate-hiv-opportunities-indonesia.md) — related
 - [Lecturers bar dietetic students from caring for HIV-positive patients during clerkship, citing danger and fear of contagion](lecturers-bar-students-from-plhiv-clerkship.md) — related
 - [Lecturers' restrictive teaching practices risk transmitting stigma to students and doing harm to stigma-reduction efforts](lecturer-practices-transmit-stigma-intergenerational.md) — related
+- [Specific misconceptions about NCC acquisition and transmission persisted after the workshop](vicious-worm-persistent-ncc-misconceptions.md) — a narrower finding that bears on this claim

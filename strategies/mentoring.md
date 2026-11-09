@@ -70,6 +70,7 @@ Mentoring works because it combines [Coaching](../elements/coaching.md) with sus
 - [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](stage-matched-teacher-education-policy.md)
 - [When planning mentoring to support evidence uptake, plan regular meetings over time, choose an appropriate delivery approach, establish a mentor-mentee matching process, and consider combining mentoring with other KT interventions](plan-mentoring-kt-implementation-recommendations.md)
 - [Career mentoring through local professional presentations on educational and vocational pathways](local-professional-career-presentations-strategy.md)
+- [Incorporate dedicated grant-writing and professional development guidance into interventions supporting PhD students toward academic careers](dedicated-grant-writing-guidance-strategy.md)
 
 ## Examples
 - **[Big Brothers Big Sisters of America](https://www.bbbs.org)** — the most-studied youth mentoring program; its randomized evaluations shaped the "evidence-based practices" now standard in program design (training, monitoring, minimum 12-month commitment).

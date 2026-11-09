@@ -51,3 +51,4 @@ Multi-level correlation meta-analysis pooling 69 course offerings found "r=0.56 
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — a broader claim this one bears on
 - [Degree centrality correlates positively with academic performance in all 69 course offerings studied](degree-centrality-positive-correlation-all-courses.md) — a broader claim this one bears on
 - [Study-group membership and extracurricular participation were moderately correlated (r = 0.56), consistent with a shared scheduling constraint](study-group-extracurricular-correlation-r056.md) — related
+- [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — related

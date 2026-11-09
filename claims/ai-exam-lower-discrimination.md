@@ -86,3 +86,4 @@ Comparison of discrimination indices between AI-generated validated questions an
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
 - [Summative examination quality was equivalent between the two academic years in difficulty, discrimination, and minimal passing level](equivalent-exam-quality-between-years.md) — related
 - [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related
+- [Second-year student-authored questions were significantly easier and less discriminatory than first-year questions](year2-questions-easier-less-discriminatory.md) — related

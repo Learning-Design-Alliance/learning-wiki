@@ -50,3 +50,5 @@ Linear regression on the student sample (N = 400). Model 1 showed a significant 
 - [Candidates with a medical family background (at least one parent who is a physician) showed no significant performance differences at any MMI station type](no-medical-family-background-advantage-mmi.md) — related
 - [Sociodemographic variables explain only 0.6% of variance in MMI station performance, which the authors consider marginal and not indicative of meaningful bias](mmi-subgroup-differences-tiny-variance-explained.md) — related
 - [Young female candidates outperform young male candidates at MMI simulation and interview stations but not at group stations, with the gender gap smaller or non-significant among candidates aged 21 or older](young-female-mmi-advantage-simulation-interview-not-group.md) — related
+- [MMI performance is significantly related to gender and age: female and older candidates scored higher](hamburg-mmi-gender-age-control-variables.md) — related
+- [MMI scores show no significant correlation with specific OSCE communication and history-taking stations](hamburg-mmi-null-osce-communication-stations.md) — related

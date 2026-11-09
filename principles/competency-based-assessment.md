@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (30 for, 38 mixed, 2 against) · 70 studies (18 design, 15 causal, 12 associational, 11 review, 9 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 70 report an effect size · 65 claims rest on one study
+> **Evidence** · 71 claims (31 for, 38 mixed, 2 against) · 71 studies (18 design, 15 causal, 13 associational, 11 review, 9 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 71 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [A modified Delphi process with an international expert panel produced a final unweighted A-OSATS score with four key steps and 15 defined substeps for minimally invasive linear-stapled intestinal anastomoses](../claims/a-osats-delphi-consensus-development.md) [+W] — attached 2026-11-07 from Development and validity evidence of an objective structured assessment of technical skill, which proposed "Weight procedural assessment substeps by expert-judged importance for patient outcomes rather than treating all steps as equivalent".
 - [A thematic analysis of an experts' symposium identified nine major suggestions for improving communication-competencies assessment in high-stakes OSCEs, classified into four areas](../claims/symposium-nine-suggestions-communication-osce.md) [+W] — attached 2026-11-08 from Monti Matteo et al. (2020), which proposed "Adapt raters' training to communication-focused OSCE stations and keep rating scales simple and intuitive".
 - [Using a codebook alongside the OS-12 assessment tool yields good interrater reliability (ICC 0.74) for the overall score of audio-recorded clinical consultations](../claims/os12-codebook-interrater-reliability-icc-074.md) [+W] — attached 2026-11-08 from Iversen Else Dalsgaard et al. (2020), which proposed "Codebook pattern: operationalizing a crude 5-point rating scale into described micro-skills with point-allocation criteria per item".
+- [International expert consensus identified nine PBLS and eight FBAOM assessment items as essential for assessing laypersons' skills](../claims/delphi-consensus-pbls-fbaom-assessment-items.md) [+W] — attached 2026-11-09 from Hasselager AB et al. (2018), which proposed "Assess laypersons' resuscitation skills to enable competency-based rather than time-based training".
 
 ## Objective and learner-valued goal
 

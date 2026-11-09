@@ -54,3 +54,4 @@ Cumulative error scores over all five attempts were compared with the Mann–Whi
 - [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
 - [Risk and safety metrics show no increased error risk on either robotic platform, supporting safe contemporaneous multi-console training](risk-safety-metrics-equivalent.md) — related
 - [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — related
+- [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related

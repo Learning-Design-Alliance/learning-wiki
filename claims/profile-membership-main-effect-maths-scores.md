@@ -48,3 +48,4 @@ Unadjusted Wald tests on T3 mathematics test scores (gender controlled) in the l
 - [Positive-profile students outperformed Mixed-profile students on the T3 mathematics test even after controlling for prior achievement, but did not significantly outperform Negative-profile students](positive-profile-higher-t3-maths-than-mixed.md) — reports the opposite
 - [Higher negative math emotions are associated with lower odds of membership in the positively oriented profiles](negative-math-emotions-associated-with-profile-membership.md) — related
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
+- [No significant associations were found between mathematics goal profile membership and developments in mathematics achievement](no-profile-math-achievement-association.md) — related

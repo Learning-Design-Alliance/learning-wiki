@@ -58,3 +58,4 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Diagnosis with mental illness independently predicts low self-esteem among Saudi medical students](mental-illness-diagnosis-predicts-low-self-esteem.md) — related
 - [Female gender and depressive symptomatology are statistically significant, lower-power predictors of poor academic performance during distance education](gender-depression-predictors-poor-performance.md) — related
 - [Lower academic achievement predicts higher later depressive symptoms in girls around the later stages of compulsory education, and poor results at age 16 predict later depressive symptoms in both sexes](low-achievement-predicts-depression-girls-and-age-16-both-sexes.md) — related
+- [Age and gender significantly predict M1 grade, with better grades for male and younger medical students](age-gender-predict-m1-grade.md) — related

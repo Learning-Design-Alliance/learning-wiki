@@ -50,6 +50,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 - [Implement scientific and comprehensive pain management and control educational programs for emergency nurses and health workers](comprehensive-pain-management-education-programs.md)
 - [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
 - [Provide primary care doctors a simplified diabetes management algorithm and specialist mentorship programs](simplified-diabetes-algorithm-and-pcp-mentorship.md)
+- [Provide in-service physicians compulsory hands-on training in health promotion through continuing medical education](compulsory-hands-on-health-promotion-cme.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ The essay's synthesis of critique literature (Johnson, 2022; Matthews et al., 20
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
 - [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](e-emr-no-significant-main-effects-high-school.md) — a narrower finding that bears on this claim
+- [Social belonging is not significantly related to either performance metric across semesters](social-belonging-not-related-to-performance.md) — related

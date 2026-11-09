@@ -55,3 +55,4 @@ One-way ANOVA on self-reported GPA at T4 across three chronotype groups yielded 
 - [Later chronotypes obtain lower academic performance (chronotype effect), moderated by age, school subject and school timing](chronotype-main-effect-grades.md) — a broader claim this one bears on
 - [Morning chronotype is associated with higher academic performance category among first-year medical students](morning-chronotype-associated-excellent-performance.md) — a narrower finding that bears on this claim
 - [Evening chronotypes report higher perceived stress than Morning chronotypes among first-year medical students](evening-chronotype-higher-perceived-stress.md) — related
+- [Owls (late chronotypes) show a significant academic performance deficit compared to larks and finches at all class times of day](owls-academic-deficit-all-class-times.md) — related

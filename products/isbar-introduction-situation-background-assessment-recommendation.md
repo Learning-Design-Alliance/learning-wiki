@@ -21,6 +21,7 @@ A structured clinical handover framework used by healthcare professionals and ed
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **ISBAR framework for structured clinical handover**: ISBAR (Introduction, Situation, Background, Assessment, Recommendation) is described as the most internationally recognized structured handover tool, whose five components guide nurses in transmitting and receiving cognition about a patient's current condition. The framework guides both the sender and receiver of handover to communicate systematically according to the patient's condition, helping to reduce the omission of critical information, eliminate irrelevant content and enhance continuity of care. In this study it served as the organizing structure for a simulation-based teaching intervention in obstetric nursing education. (Sun Jui-Chiung et al. (2026))
+- **ISBAR handover framework**: ISBAR (Introduction, Situation, Background, Assessment, Recommendation) is a structured, mnemonic-based handover format used widely and endorsed by the World Health Organisation. The article reports it "has been shown to improve the content and clarity of inter-professional non face-to-face handover in hospital settings" and that it addresses the information-processing, stereotypical-narrative and resilience framings of handover. It served as the content basis for the CHAT items. (Moore Malcolm et al. (2017))
 
 ### Claims
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](../claims/isbar-simulation-improves-communication-clarity.md) [+W]
@@ -31,3 +32,4 @@ A structured clinical handover framework used by healthcare professionals and ed
 
 ## Key Sources
 - Sun Jui-Chiung, Chang Min-Yu, Tsai Yi-Chun. (2026). Changes in Nursing Students' Clinical Handover Performance Following ISBAR-Structured Handover Simulation Teaching: A Mixed-Methods Study. Nursing Open. https://doi.org/10.1002/nop2.70955
+- Moore Malcolm, Roberts Chris, Newbury Jonathan, Crossley Jim. (2017). Am I getting an accurate picture: a tool to assess clinical handover in remote settings? BMC Medical Education. https://doi.org/10.1186/s12909-017-1067-0

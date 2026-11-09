@@ -48,3 +48,4 @@ Cross-sectional survey analysis using the Kruskal Wallis Test to compare knowled
 - [In an April 2020 survey at a Nepali tertiary care hospital, only 19.3% of health care professionals and medical students had good COVID-19 knowledge while 22.7% had poor knowledge](covid19-knowledge-good-fair-poor-distribution-nepal.md) — related
 - [Medical professionals show significantly higher Alzheimer's disease knowledge than pharmacy, nursing, and allied health professionals](medicine-higher-adks-than-other-professions-jeddah.md) — related
 - [Perceived importance of post-COVID rehabilitation techniques shows no significant differences between student and professional groups](no-group-differences-in-perceived-importance.md) — related
+- [No difference was found among physician groups in knowledge regarding indications for transfusion](no-group-difference-transfusion-indications-knowledge.md) — a narrower finding that bears on this claim

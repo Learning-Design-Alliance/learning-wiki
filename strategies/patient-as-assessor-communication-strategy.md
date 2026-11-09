@@ -48,6 +48,7 @@ The article recommends using the patient as the assessor of communication skills
 - [Use the ComOn check for time-efficient assessment and feedback of student communication skills in teaching and OSCE contexts](comon-check-teaching-osce-use-strategy.md)
 - [Involve standardized patients in assessment and allow flexible portrayals, with training that standardizes responses to unsatisfactory, intermediate, and good examinee behavior](sp-assessment-flexible-portrayal-strategy.md)
 - [Adopt a categorical approach with a validated OSCE communication threshold and logistic regression to evaluate the predictive utility of simulated-patient evaluations in distinguishing lower-performing learners](categorical-threshold-logistic-regression-early-identification.md)
+- [Use an OSCE with blinded standardized patients and trained observers to assess clinical pharmacy competence](osce-blinded-standardized-patients-pharmacy-assessment-strategy.md)
 
 ## Examples
 -

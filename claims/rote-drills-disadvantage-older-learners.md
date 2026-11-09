@@ -65,3 +65,4 @@ In its classroom practices section, the digest states that oral drills and memor
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related
 - [The authors tentatively suggest fast-paced reading may potentially improve reading comprehension for adult ESL learners](fast-paced-reading-may-improve-comprehension.md) — related
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related
+- [The authors theorize that playback speed matters more for learning multi-step processes than for rote memorization facts](playback-speed-matters-more-for-multistep-processes.md) — related

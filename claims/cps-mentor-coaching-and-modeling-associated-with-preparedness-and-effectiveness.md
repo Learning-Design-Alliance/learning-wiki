@@ -99,3 +99,4 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related
 - [Undergraduate ophthalmology teaching is widely perceived as inadequate preparation for ED work](undergraduate-ophthalmology-teaching-inadequate.md) — a narrower finding that bears on this claim
 - [Comprehensive induction had no impact on teacher satisfaction or feelings of preparedness](induction-no-impact-satisfaction-preparedness.md) — related
+- [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related

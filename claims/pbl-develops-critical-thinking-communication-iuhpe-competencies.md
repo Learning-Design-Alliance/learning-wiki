@@ -59,3 +59,4 @@ Inductive qualitative analysis of five academic staff interviews (20–30 minute
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
+- [Students and tutors positively welcomed the blended PBL course and used PBL strategies to resolve implementation issues](positive-reception-pbl-strategies-resolve-issues.md) — related

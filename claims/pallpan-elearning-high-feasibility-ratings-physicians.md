@@ -48,3 +48,4 @@ Descriptive feasibility analysis of the global evaluation part of the questionna
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
+- [Physicians-in-training rated VLCAM highly on all satisfaction items, with all scores over 3 on a 4-point scale](vlcam-high-user-satisfaction.md) — related

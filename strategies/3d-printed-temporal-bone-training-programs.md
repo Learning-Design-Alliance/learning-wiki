@@ -54,6 +54,7 @@ The authors recommend integrating 3D-printed temporal bone models into surgical 
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Add real‐time AR anatomical overlay to single‐session drilling practice on 3D‐printed temporal bone models for novices](real-time-ar-overlay-during-3d-printed-drilling-practice.md)
 - [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
+- [Use patient-specific CT-derived cardiac models for preoperative simulation, training, and patient education](patient-specific-ct-models-preoperative-simulation-education.md)
 
 ## Examples
 -

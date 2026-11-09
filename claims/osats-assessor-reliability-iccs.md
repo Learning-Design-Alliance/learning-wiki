@@ -77,3 +77,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Independent raters score the sCPEP-3 Performance Test consistently, with mean and median polychoric correlation coefficients from 0.64 to 0.93 across subtests](scpep3-interrater-reliability.md) — related
 - [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related
 - [Blinded video-based raters also scored the serious-game group significantly higher, and combined direct-plus-video ratings confirmed the difference](serious-game-osats-video-ratings.md) — related
+- [The CHAT achieves good reliability for assessing an individual handover call, with G = 0.73 using four assessors and G = 0.80 using six](chat-good-reliability-assessing-call.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 444 claims (214 for, 202 mixed, 28 against) · 332 studies (106 associational, 79 design, 55 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 29 of 332 report an effect size · 437 claims rest on one study
+> **Evidence** · 447 claims (216 for, 203 mixed, 28 against) · 334 studies (107 associational, 79 design, 56 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 334 report an effect size · 440 claims rest on one study
 
 ## Conditional relationship
 
@@ -288,6 +288,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The most lenient and most stringent PBL tutors differ significantly in their mean ratings](../claims/lenient-stringent-rater-difference-t2-t13.md) [+W] — attached 2026-11-09 from Sa Bidyadhar et al. (2019), which proposed "Train PBL tutors rigorously in assessment principles and in applying them to overcome leniency and stringency in process ratings"; tests this page's relationship.
 - [Lenient tutors significantly increase and stringent tutors significantly decrease group mean scores in the highest- and lowest-rated PBL groups](../claims/leniency-stringency-dilute-pbl-group-scores.md) [+W] — attached 2026-11-09 from Sa Bidyadhar et al. (2019), which proposed "Train PBL tutors rigorously in assessment principles and in applying them to overcome leniency and stringency in process ratings"; tests this page's relationship.
 - [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](../claims/awareness-of-biases-improves-progression-decisions.md) [+W] — attached 2026-11-09 from Tweed M (2019), which proposed "Select progression decision panels for decision-making expertise and metacognitive recognition of bias, not seniority or content familiarity".
+- [In a within-candidates counterbalanced OSCE study, the tablet–scan-sheet score difference shrank to 2% with scan sheets higher, and was not considered meaningful](../claims/counterbalanced-modality-difference-reduced-two-percent.md) [~W] — attached 2026-11-09 from Monteiro S et al. (2018), which proposed "Evaluate rating-technology changes in high-stakes assessments with comprehensive psychometric analyses, not average scores alone"; tests this page's relationship.
+- [Rasch analysis showed no relationship between rating modality and station difficulty, undermining the May exam's modality effect](../claims/rasch-no-modality-station-difficulty-relationship.md) [+W] — attached 2026-11-09 from Monteiro S et al. (2018), which proposed "Evaluate rating-technology changes in high-stakes assessments with comprehensive psychometric analyses, not average scores alone"; tests this page's relationship.
+- [A literature-based curriculum-sampling admission test shows high, cohort-consistent operational predictive validity for first-year GPA (rc = .56) in undergraduate psychology applicants](../claims/curriculum-sampling-test-high-predictive-validity-fygpa.md) [+M] — attached 2026-11-09 from Niessen A. Susan M. et al. (2018), which proposed "Use curriculum-sampling admission tests when self-selection or student-program fit are major admission objectives, alongside or instead of high school GPA"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

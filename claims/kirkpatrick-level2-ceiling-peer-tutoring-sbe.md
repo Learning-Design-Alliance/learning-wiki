@@ -70,3 +70,4 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
 - [The HUSP simulator enabled students to reach Kirkpatrick level 2 (acquisition of knowledge and skills)](husp-kirkpatrick-level-2.md) — a narrower finding that bears on this claim
 - [Evaluation of the auscultation lab is limited to Kirkpatrick level one perception data, with insufficient data on knowledge retention in clinical practice](auscultation-lab-evaluation-limited-to-level-one.md) — related
+- [A 2016 systematic search identified 84 articles on audio podcasts in medical education, stratified by Kirkpatrick's hierarchy as 24 reaction, 11 learning, 1 behavior, and 0 patient-outcome studies](84-articles-podcasts-kirkpatrick-stratification.md) — related

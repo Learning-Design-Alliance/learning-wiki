@@ -56,3 +56,4 @@ Authors' interpretive finding from the interview data (Theme 3, Recognizing one'
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — a narrower finding that bears on this claim
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
 - [Training did not enhance perceived preparedness for CB-EMS operations, and transferability of training content was ranked lower after training](preparedness-and-transfer-not-enhanced.md) — related
+- [All interns evaluated the patient experience simulation positively, citing realism and role modeling as strengths, and unanimously supported repeating it](interns-valued-simulation-realism-role-modeling.md) — related

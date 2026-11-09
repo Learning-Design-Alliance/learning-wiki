@@ -55,3 +55,4 @@ Discussion of the Kirkpatrick level 3 synthesis across the 22 included SRs. The 
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — related
 - [After new, modified or improved training programs, patient outcomes remained unchanged or improved in 16 of 17 studies](training-interventions-unchanged-or-improved-outcomes.md) — related
+- [A 2016 systematic search identified 84 articles on audio podcasts in medical education, stratified by Kirkpatrick's hierarchy as 24 reaction, 11 learning, 1 behavior, and 0 patient-outcome studies](84-articles-podcasts-kirkpatrick-stratification.md) — related

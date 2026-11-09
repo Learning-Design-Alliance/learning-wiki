@@ -50,3 +50,4 @@ Descriptive pre/post averages from questionnaire B in the observational survey; 
 - [Knowledge of manual external defibrillator handling showed the lowest improvement after simulation training](low-gain-manual-defibrillator-handling.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
 - [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related
+- [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related

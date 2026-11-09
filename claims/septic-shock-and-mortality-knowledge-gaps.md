@@ -48,3 +48,4 @@ Knowledge section (Q10–13) of the 25-item questionnaire administered to 292 st
 ## Related Claims
 - [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](nurse-sepsis-knowledge-gaps-eastern-china.md) — related
 - [Nearly all Jamaican healthcare students agree more sepsis training is needed and that sepsis care bundles should be implemented during training, though few knew the SSC guidelines](students-agree-more-sepsis-training-needed.md) — related
+- [In scenario-based assessment, knowledge of multiple trauma scored highest and septic shock lowest among the five tested life-threatening conditions](scenario-based-assessment-condition-score-ranking.md) — related

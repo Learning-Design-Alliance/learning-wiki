@@ -53,3 +53,4 @@ Descriptive app-usage statistics reported in the Results for the 344 HMP-assigne
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [Actual app use was sporadic and short — about once per week for 10–15 minutes, roughly 120 minutes total — which the authors say cannot explain the significant difference between groups](busuu-low-usage-cannot-explain-gains.md) — related
 - [Only half of the facultative-group participants chose to use the app, and the authors attribute actual use to differences in familiarization](half-facultative-used-app-familiarization.md) — related
+- [During the intervention period, DHH participants worked with Omega-is-d2 for an average of 12 days and about 33 minutes per day, more than three times the recommended minimum](omega-is-d2-dose-12-days-33-minutes-day.md) — related

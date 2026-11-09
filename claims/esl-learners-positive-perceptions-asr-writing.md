@@ -71,3 +71,4 @@ Mixed-methods one-shot study: 17 ESL students in a university EAP class trained 
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related
 - [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — a narrower finding that bears on this claim
 - [Students with general anxiety reported lower perceived usefulness, ease of use, attitude, and continuance intention toward e-learning than non-anxious students](anxiety-group-lower-tam-perceptions.md) — related
+- [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](positive-acceptance-neutral-intention-distractibility.md) — related

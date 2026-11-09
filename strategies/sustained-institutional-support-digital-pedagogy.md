@@ -58,6 +58,7 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Institutional expert support and one-on-one matching to help faculty adopt digital education tools](faculty-one-on-one-matching-digital-adoption-strategy.md)
 - [Use faculty development programs to provide structured training in teaching skills and support the transition from teacher to facilitator](faculty-development-teaching-style-transition-strategy.md)
 - [Develop a suitable mix of presence and digital formats for continuing medical education seminar programs.](mix-presence-and-digital-formats-cme.md)
+- [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
 
 ## Examples
 -

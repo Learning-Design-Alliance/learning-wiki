@@ -70,3 +70,4 @@ User-experience ratings from the same 40-participant experiment: a large majorit
 ## Related Claims
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](aixspeed-adaptive-playback-higher-listenability.md) — related
 - An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related
+- [Watching a novel lecture at 1.5× speed showed no significant difference in immediate quiz performance compared with 1.0× speed for the transducers video](one-point-five-speed-no-significant-difference-transducers-quiz.md) — related

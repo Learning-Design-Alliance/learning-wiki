@@ -52,6 +52,7 @@ The authors recommend that VR simulation "could complement legacy mannequin simu
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
 - [Incorporate dedicated simulation learning centers within active hospital environments for accessible, distanced skills practice](dedicated-in-hospital-simulation-learning-centers.md)
+- [Implement nodal point operation primers in self-educational simulation-based laparoscopic teaching programs](implement-operation-primers-in-laparoscopic-self-training.md)
 
 ## Examples
 -

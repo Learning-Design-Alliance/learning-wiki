@@ -68,3 +68,4 @@ In the same spring model, heterogeneous groups showed URM lab report grades of "
 - [In the fall semester course, group formation strategy (maximally heterogeneous vs. random) had no detectable effect on students' lab report grades](fall-lab-report-grade-null-group-formation.md) — related
 - [Group formation method did not impact students' overall lab grades in either course](no-difference-heterogeneous-vs-random-biology-lab.md) — related
 - [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](demographic-disparities-overall-lab-grades.md) — reports the opposite
+- [Active learning eliminates the performance gap between URM and non-URM students in course grades and knowledge-assessment gains](active-learning-closes-urm-performance-gap.md) — related

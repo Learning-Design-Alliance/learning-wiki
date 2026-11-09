@@ -56,9 +56,11 @@ Classroom physical characteristics account for a meaningful portion of variance 
 5. Reassess periodically — reconfigure deliberately when a pattern stops serving the current task, rather than leaving furniture static.
 
 ## Related Strategies
+
 - [Assigned Positions](../elements/assigned-positions.md) — the structured counterpart; deliberate assignment when choice would undermine task fit
 - [Choice Boards](../elements/choice-boards.md) — the same autonomy-within-structure logic applied to task selection
 - [Check-in](../elements/check-in.md) — the monitoring mechanism that makes student seat choice self-corrective
+- [Use standing desks for at least 1 hour per school day with teacher reminders and direct-feedback self-monitoring](standing-desk-daily-hour-strategy.md)
 
 ## Examples
 - **Flexible classroom pilots in the UK HEAD study** — Barrett et al.'s multi-level analysis of 153 classrooms found naturalness and individualization/flexibility features of the physical space predicted learning progress ([Building and Environment](https://doi.org/10.1016/j.buildenv.2012.09.016)).

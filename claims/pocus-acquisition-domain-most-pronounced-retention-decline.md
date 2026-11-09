@@ -54,3 +54,4 @@ Systematic review synthesis of 31 studies (1638 participants) using median perce
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [Knowledge declined at 3 and 6 months in both groups but significantly more in the theory-only group, which reverted to near pre-training levels (45.4%)](knowledge-declines-faster-in-theory-only-group.md) — related
 - [Hands-on POCUS image acquisition skill was maintained from the end of the two-day course to one year (median 75% vs 74%)](iscan-hands-on-skill-maintained-one-year.md) — reports the opposite
+- [Using competency frameworks alongside standards of practice facilitates improvement in pharmacists’ performance, with sustained gains reported at up to 12 months](competency-frameworks-improve-pharmacist-performance.md) — reports the opposite

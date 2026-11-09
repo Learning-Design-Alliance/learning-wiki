@@ -77,6 +77,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Establish school-based health and wellbeing programs to prevent health-risk behaviors and improve academic performance](school-health-wellbeing-programs-academic-performance.md)
 - [Daily teleconferences and interval wellness surveys to protect team psychosocial well-being during remote rotations](daily-teleconference-wellbeing-monitoring-strategy.md)
 - [Select, train and supervise peer tutors with attention to stressors and protective traits](tutor-selection-training-supervision-stress-prevention.md)
+- [Use PMSS scores early in medical education to identify students at risk of poor academic performance and offer tailored support programs](early-pmss-risk-identification-tailored-support.md)
 
 ## Examples
 -

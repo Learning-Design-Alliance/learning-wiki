@@ -56,3 +56,4 @@ Subgroup analyses extended the main OLS model with treatment-by-characteristic i
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
 - [Achievement variation by gender and ethnicity appears slighter in the self-affirmation condition](self-affirmation-slighter-achievement-variation.md) — related
 - [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](no-gender-ses-interaction-gst-learning-gains.md) — related
+- [There was no evidence of an interaction between candidate sex and ethnicity in any of the three subgroups](no-sex-ethnicity-interaction-paces.md) — related

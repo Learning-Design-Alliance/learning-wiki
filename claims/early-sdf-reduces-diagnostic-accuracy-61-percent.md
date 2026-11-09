@@ -48,3 +48,4 @@ Within-group incomplete block experiment in which 58 fourth-year medical student
 - [Only early SDF presentation is associated with reduced processing time per word, consistent with premature closure](early-sdf-reduced-processing-time-premature-closure.md) — related
 - [Late SDF presentation reduces diagnostic accuracy without reducing processing time, contradicting the competition hypothesis for early bias](late-sdf-accuracy-without-time-reduction.md) — related
 - [SDF presence increases SDF-related diagnostic mistakes by around 60% regardless of presentation position](sdf-increases-sdf-related-mistakes.md) — related
+- [Second-year medical students showed very low absolute diagnostic accuracy (means near 0.20 on a 0–1 scale) on unfamiliar cardiovascular cases](low-absolute-diagnostic-accuracy-second-year-students.md) — related

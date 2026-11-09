@@ -219,6 +219,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Accommodations](../elements/accommodations.md) — changes to test conditions for learners whose access needs would otherwise be measured instead of the construct
 - [Use multiple criteria and non-traditional measures to identify diverse gifted learners](../strategies/multiple-criteria-nontraditional-identification.md)
 - [Use differential item functioning analysis and psychometric equating studies to validate FCI gender fairness](../strategies/dif-analysis-fci-gender-fairness.md)
+- [Make routine DIF analysis part of high-stakes assessment governance: identify, review, withdraw and publicise questions with notable DIF](../strategies/routine-dif-monitoring-and-question-removal-strategy.md)
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.

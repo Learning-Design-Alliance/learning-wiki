@@ -58,3 +58,4 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 - [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — related
 - [Effects of technology-delivered literacy instruction did not significantly differ by outcome domain, though comprehension effects appeared particularly small (g = 0.12)](outcome-domain-effects-descriptive.md) — related
 - [Passport to Literacy showed no significant effects on word reading, decoding, or oral reading fluency outcomes](passport-literacy-no-word-reading-fluency-effects.md) — related
+- [Uganda's SHRP produced oral reading fluency effect sizes ranging from 0.17 to 1.12 SD across eight local languages](uganda-shrp-fluency-effect-sizes-by-language.md) — related

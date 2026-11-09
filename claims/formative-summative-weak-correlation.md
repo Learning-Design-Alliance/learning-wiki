@@ -47,3 +47,4 @@ Correlational analysis in the COVID-year cohort of students meeting 80% attendan
 ## Related Claims
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
+- [Student satisfaction with the competitive experience correlates weakly but significantly with academic improvement (r = 0.292)](weak-correlation-satisfaction-improvement-competition.md) — possibly the same claim (merge candidate)

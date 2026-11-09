@@ -50,3 +50,4 @@ Subgroup t-test for village-located schools (Table 2): t = 12.927, df = 84, Sig.
 - [In transition-area primary schools, PBL yielded a significantly greater mathematical literacy increase than DI](pbl-beats-di-transition-schools.md) — related
 - [Problem-based learning produced a significantly greater increase in primary students' mathematical literacy than direct instruction](pbl-greater-literacy-gain-than-direct-instruction.md) — a broader claim this one bears on
 - [A 10-minute-per-lesson Direct Instruction music literacy program significantly improves Year 7 students' music literacy over one trimester](di-music-literacy-significant-improvement-year7.md) — related
+- [Knowledge scores rose from pre-test to post-test, with no significant differences by village, gender or age in one uncontrolled pre-post study](vicious-worm-improvement-no-demographic-differences.md) — related

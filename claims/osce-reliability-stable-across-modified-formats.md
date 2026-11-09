@@ -48,3 +48,4 @@ Reliability analysis of anonymised results from the three ACS OSCE sittings (201
 - [Majorities of students rated both modified OSCEs as safe, well-coordinated and fair, but roughly half reported face masks impeded communication with patients](modified-osce-student-satisfaction-masks-communication.md) — related
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related
 - [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](osce-duration-not-major-factor-when-station-number-varies.md) — related
+- [Internal consistency of OSCE station scores remained high (alpha and omega above 0.8) regardless of paper or tablet rating modality](internal-consistency-stable-across-modality.md) — related

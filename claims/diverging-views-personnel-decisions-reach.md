@@ -49,3 +49,4 @@ Survey of teacher and administrator opinions on high-stakes uses of REACH rating
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
+- [Instructional staff agree teaching is valued by administrations but rate effective teaching's role in annual review, salary, and promotion/tenure processes near neutral](faculty-survey-teaching-reward-gap.md) — related

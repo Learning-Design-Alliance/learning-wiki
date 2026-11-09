@@ -47,3 +47,4 @@ Mann-Whitney comparison of pre-training scores between the 17 residents with vid
 ## Related Claims
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — reports the opposite
 - [Gamified test scores correlate significantly with technical aptitude test scores (r=0.46), remaining significant after controlling for video game experience (semipartial r=0.38)](gba-technical-aptitude-correlation.md) — related
+- [Prior real or simulated arthroscopy experience, handedness, sports activity and video-game experience do not correlate with training improvement or final scores](no-demographic-predictors-of-simulator-training-gains.md) — related

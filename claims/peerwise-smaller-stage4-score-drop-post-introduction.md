@@ -50,3 +50,4 @@ Repeated-measures ANOVA of Stage 3 and 4 results across two pre-PeerWise cohorts
 - [PeerWise answering benefits were significant only for students in the higher two Stage 3 ability quartiles](peerwise-benefit-limited-to-upper-ability-quartiles.md) — related
 - [Question authoring and rating are not significant predictors of Stage 4 exam performance once answering and prior performance are controlled](peerwise-authoring-rating-not-significant-predictors.md) — related
 - [Students engaged most highly with answering PeerWise questions and perceived answering as the most beneficial element for learning](peerwise-answering-most-engaged-and-perceived-benefit.md) — related
+- [PeerWise users performed significantly better on summative examinations than non-users](peerwise-users-outperform-non-users-summative.md) — related

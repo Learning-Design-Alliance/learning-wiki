@@ -47,3 +47,4 @@ Anecdotal feedback gathered through committee discussions, reported in the Discu
 ## Related Claims
 - [Implementing the OBM2 in a high stakes OSCE increased the failure rate from 0.7% to 4.1%](obm2-implementation-increased-osce-failure-rate.md) — related
 - [Students whose borderline grades were reclassified to Pass had significantly higher mean scores than those reclassified to Fail](reclassified-pass-higher-mean-scores-than-reclassified-fail.md) — related
+- [Students and examiners expressed high satisfaction with the Borderline grade, and the Faculty adopted OBM2 for all future clinical examinations](obm2-stakeholder-acceptability-adoption.md) — possibly the same claim (merge candidate)

@@ -59,3 +59,4 @@ In the first consensus iteration, participants evaluated each proposed competenc
 - [A French Delphi panel selected 24 technical skills and 20 non-technical skills to be taught as a priority through simulation during emergency medicine residency](delphi-selected-24-ts-20-nts-priority-simulation-em-residency.md) — related
 - [A three-round modified Delphi process led Taiwanese experts to consensus on 42 of 62 health literacy competencies (12 knowledge, 9 attitude, 21 skill items)](delphi-taiwan-consensus-42-of-62-competencies.md) — related
 - [The lowest-agreement items (90.2%–93.7%) each prompted specific expert revision advice, including a suggested 2–3:1 bed-to-student ratio](lowest-agreement-items-revision-advice.md) — related
+- [A Delphi study identified 18 skills for Advanced Access and 22 skills for Process Redesign logistics improvement projects](delphi-18-22-skills-logistics-improvement.md) — related

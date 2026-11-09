@@ -50,3 +50,4 @@ Descriptive statistics from the combined dataset of 44 students across both inst
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related
 - [Nurse interns feel most ready in clinical problem solving and least ready in trials and tribulations](readiness-domain-profile-clinical-problem-solving-highest.md) — related
+- [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related

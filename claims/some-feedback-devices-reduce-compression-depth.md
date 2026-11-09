@@ -57,3 +57,4 @@ Narrative synthesis of the review's included studies, citing Fischer et al.'s ra
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — reports the opposite
 - [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related
+- [Feedback-device recordings showed compression depth and ventilation volume fell short of guideline targets despite otherwise high completion rates](feedback-device-cpr-quality-metrics.md) — related

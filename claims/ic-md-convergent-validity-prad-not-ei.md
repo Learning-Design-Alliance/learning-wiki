@@ -68,3 +68,5 @@ In the same N = 70 validation study, Bonferroni-Holm-corrected correlations with
 - [Empathy and patient orientation correlate positively with VA-MeCo scores, most strongly with the building relationship dimension](va-meco-patient-interaction-convergent-validity.md) — related
 - [IC-MD scores are independent of cognitive admission criteria (TMS r = .01; GPA r = .14), supporting divergent validity](ic-md-divergent-validity-cognitive-criteria.md) — related
 - [General satisfaction with the consultation correlates positively with ComCare total scores, more strongly for simulated-patient ratings than student self-ratings](satisfaction-correlates-comcare-total-scores.md) — related
+- [MMI scores do not correlate significantly with ability emotional intelligence measured by the STEM emotion-management situational judgement test](hamburg-mmi-no-ability-ei-correlation.md) — related
+- [MMI scores do not correlate significantly with global trait emotional intelligence measured by the TEIQue-SF](hamburg-mmi-no-trait-ei-correlation.md) — related

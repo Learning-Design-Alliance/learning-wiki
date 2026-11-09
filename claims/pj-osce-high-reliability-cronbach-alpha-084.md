@@ -53,3 +53,4 @@ Psychometric analysis of the 15 examination circuits in the June 2024 PJ-OSCE. R
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [The basic thoracic ultrasound OSCE shows high internal consistency reliability (Cronbach's alpha 0.87 across practical stations)](osce-tus-internal-consistency-alpha-087.md) — related
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
+- [Internal consistency of OSCE station scores remained high (alpha and omega above 0.8) regardless of paper or tablet rating modality](internal-consistency-stable-across-modality.md) — related

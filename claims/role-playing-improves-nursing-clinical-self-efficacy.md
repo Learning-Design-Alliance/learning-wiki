@@ -48,3 +48,4 @@ Quasi-experimental pretest–posttest study at Zahedan University of Medical Sci
 - [Small group discussion improves nursing students' clinical self-efficacy, producing a 50.9% improvement (p = 0.02)](small-group-discussion-improves-nursing-self-efficacy.md) — related
 - [Post hoc pairwise comparisons show role-playing outperformed both group discussion and traditional teaching, and group discussion outperformed traditional teaching on post-intervention self-efficacy](posthoc-role-playing-outperforms-discussion-and-lecture.md) — related
 - [Traditional lecture-based teaching produced only a negligible, non-significant 0.8% increase in nursing students' self-efficacy](traditional-lecture-negligible-self-efficacy-change.md) — related
+- [Active-learning pedagogy increases science self-efficacy equally for all demographic groups](active-learning-raises-self-efficacy-all-groups.md) — related

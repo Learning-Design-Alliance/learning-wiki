@@ -56,3 +56,4 @@ Theme 2 of the reflexive thematic analysis of seven interviews with ten first-ye
 - [Residents' motivation to train with the PLET was poor in both groups, driven by workload and time constraints](poor-motivation-workload-time-constraints-plet.md) — related
 - [Protected teaching time and dedicated space are reported barriers, while equipment cost is not for clinical staff](time-space-equipment-barriers-ed-sbt.md) — related
 - [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
+- [Time constraints and implementation logistics in the emergency department were rated the most challenging factors for initiating palliative care](ed-time-constraints-barrier-palliative-care.md) — related

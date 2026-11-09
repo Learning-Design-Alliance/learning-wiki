@@ -164,6 +164,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](../strategies/teacher-engagement-with-pla-interventions.md)
 - [Build APLE features that let students choose learning goals and receive indicator-based guidance, plus an early warning system for students at risk of failing](../strategies/goal-choice-features-and-early-warning-system.md)
 - [Deploy analytical tools on learning platforms to detect learners exhibiting behaviours that may lead to failure or dropout and propose actions to recover them.](../strategies/deploy-analytical-tools-to-detect-at-risk-mooc-learners.md)
+- [Use SNA visual analytics to monitor online discussions and guide teacher intervention](../strategies/sna-visual-analytics-monitoring-intervention-strategy.md)
 
 ## Key Sources
 - Baker, R. S., & Inventado, P. S. (2016). Educational data mining and learning analytics: Potentials and possibilities for online education. In G. Veletsianos (Ed.), *Emergence and Innovation in Digital Learning* (pp. 83–98). AU Press. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)

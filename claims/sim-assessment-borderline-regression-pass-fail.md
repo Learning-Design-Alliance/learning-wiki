@@ -49,3 +49,4 @@ Consequences-domain analysis generating per-station pass scores via borderline r
 - [The Borderline Regression method produced higher OSCE pass rates than Angoff methods (97.5% vs 86.6%) and discrepancies raise concerns for small cohorts](borderline-regression-higher-pass-rates-than-angoff-osce.md) — related
 - [The eight-station simulation-based assessment produced a significant difference in mean station score between junior (ST2–ST4) and senior (ST5–ST8) trainees](sim-assessment-junior-senior-score-difference.md) — related
 - [An 80% benchmark distinguishes pass from fail participants, with 63.82% passing the summative curriculum exam](m-gears-benchmark-80-percent-pass-mark.md) — related
+- [Year-1 medical students under a compensatory higher-stakes, higher-standard assessment policy earn significantly higher average grades than students under a conjunctive lower-stakes policy](higher-stakes-policy-higher-average-grades.md) — related

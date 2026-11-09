@@ -44,6 +44,7 @@ Based on the finding that residents performed poorly on complex applied competen
 ## Related Strategies
 
 - [Deliver standardized mechanical ventilation training covering modes, synchrony and waveform analysis to improve asynchrony recognition](standardized-ventilation-waveform-training-strategy.md)
+- [Use in situ high-fidelity simulation with an integrated lung simulator as an affordable training and assessment tool for mechanical ventilation, targeting frequently missed skills](in-situ-hfs-lung-simulator-mv-training-strategy.md)
 
 ## Examples
 -

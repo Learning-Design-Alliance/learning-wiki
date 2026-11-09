@@ -47,3 +47,4 @@ Kirkpatrick Level 3 preference item in the cross-sectional survey of preclinical
 ## Related Claims
 - [Most surveyed students would recommend PBL and/or TBL to other medical students, but future-block preference was divided](recommendation-and-future-preference-pbl-tbl.md) — related
 - [Preclinical medical students at Najran University enjoyed PBL and were more motivated to join it than TBL](pbl-more-enjoyed-and-motivating-than-tbl-nu-survey.md) — related
+- [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — reports the opposite

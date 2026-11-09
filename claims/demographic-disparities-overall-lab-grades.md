@@ -77,3 +77,4 @@ The same overall-lab-grade models showed URM students scoring "3.17 points less"
 - [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — reports the opposite
 - [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](women-more-likely-top-grades-stem.md) — related
+- [Active learning eliminates the performance gap between URM and non-URM students in course grades and knowledge-assessment gains](active-learning-closes-urm-performance-gap.md) — related

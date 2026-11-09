@@ -70,3 +70,4 @@ Planned contrast between the two MHFA modes from the same mixed-effects analysis
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [eLearning MHFA reduces desire for social distance from people with depression or PTSD relative to control; the blended mode's reduction did not significantly exceed control](mhfa-social-distance-reduction.md) — related
 - [Both MHFA delivery modes shift beliefs about professional treatments toward health-professional consensus, with large effects for depression and medium effects for PTSD](mhfa-treatment-beliefs-improvement.md) — related
+- [The MHFA eLearning course improved UK medical students' mental health first aid intentions relative to no-access control (ITT)](mhfa-elearning-improves-first-aid-intentions-itt.md) — related

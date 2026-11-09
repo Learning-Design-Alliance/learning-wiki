@@ -48,3 +48,4 @@ Pearson correlation of undergraduate GPA with time to degree across the 2007–2
 - [Graduate GPA is not correlated with PhD time to degree](grad-gpa-not-correlated-ttd.md) — related
 - [Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students](gre-quant-percentiles-correlated-ttd.md) — related
 - [Admissions committee scores do not predict PhD time to degree for any demographic group analyzed](admissions-scores-not-correlated-time-to-degree.md) — related
+- [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related

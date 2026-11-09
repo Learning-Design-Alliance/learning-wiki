@@ -52,6 +52,7 @@ The article's closing recommendation is that education must continue on both sid
 ## Related Strategies
 
 - [Deliver inhaler technique education through a multi-stage session combining practical mannequin demonstration, questionnaires, and presentations](multi-stage-it-education-session.md)
+- [Collaborative COPD education combining specialist-led training events, spirometry interpretation training, clinical audit with individual benchmarking, and a mobile app](collaborative-copd-education-audit-benchmarking-strategy.md)
 
 ## Examples
 -

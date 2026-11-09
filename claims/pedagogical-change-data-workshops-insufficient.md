@@ -47,3 +47,4 @@ The essay's framing synthesis of prior change-effort literature, opening the Int
 ## Related Claims
 - [Graduate admissions historically select for students who succeeded in lecture classrooms, favoring lecture in the next faculty generation](graduate-admissions-select-lecture-successful-students.md) — related
 - [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — a broader claim this one bears on
+- [Graduate students who sought out nonmandatory teaching or training experiences progressed further toward EBT adoption](seeking-teaching-opportunities-linked-ebt-adoption.md) — related

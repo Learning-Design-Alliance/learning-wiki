@@ -51,3 +51,4 @@ Post-course administration of the 33-item TBL-SAI (Cronbach's alpha 0.941) to 18
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
 - [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — related
+- [Students prefer more contact hours for team-based learning and simulation and fewer for large group case-based learning](contact-hour-preferences-tbl-simulation-more.md) — related

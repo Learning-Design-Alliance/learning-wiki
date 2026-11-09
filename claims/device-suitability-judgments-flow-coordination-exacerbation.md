@@ -49,3 +49,4 @@ Technical knowledge results (Table 2) on matching device to patient factors: "58
 - [Compared with a decade earlier, pMDI knowledge declined slightly while DPI knowledge improved and routine technique assessment increased](inhaler-knowledge-change-over-decade-spain.md) — related
 - [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related
 - [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
+- [GPs frequently choose incorrect corticosteroid treatment for COPD, omitting oral steroids in exacerbations and over-selecting ICS in maintenance therapy](gp-incorrect-corticosteroid-choices-copd.md) — related

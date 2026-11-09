@@ -49,3 +49,4 @@ Analysis of course grades in 33,818 students with an equivalent course credit wo
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](afternoon-memory-fatigue-five-six-percent.md) — related
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — related
 - [Chronotype predicts grade retention through its interaction with school timing (synchrony effect), not through a main chronotype effect: morning-attending late chronotypes with low math grades show higher retention odds than their evening peers](chronotype-school-timing-retention.md) — related
+- [All chronotypes exhibit significant academic improvement in later classes, with evening class grades at least 0.27 points higher than morning class grades](grades-improve-later-class-times.md) — reports the opposite

@@ -54,3 +54,4 @@ Gender-stratified Pearson correlations (females N = 274, males N = 209 for Step 
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Test Strategies explains the largest share of performance variation for all students across M1, preclinical, and USMLE Step 1 measures](test-strategies-largest-performance-variation-contributor.md) — related
 - [Preadmission academic variables correlate moderately with preclerkship and USMLE Step 1 performance, and the two outcomes correlate strongly with each other (r = 0.75)](preadmission-variables-correlate-with-outcomes.md) — related
+- [Age and gender significantly predict M1 grade, with better grades for male and younger medical students](age-gender-predict-m1-grade.md) — related

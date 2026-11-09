@@ -53,3 +53,4 @@ Mann–Whitney U comparison of the 3D group's final 2D cycle against the 2D grou
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — reports the opposite
 - [Learning potential and learning speed varied widely and depended on initial values and plateaus, with 2D showing higher speed but worse final results](learning-potential-speed-vary-initial-values-plateaus.md) — related
 - [Viewing mode (3D vs. 2D-4 K) does not significantly affect task failure rates of laparoscopic novices on tasks 1 and 2](viewing-mode-no-significant-failure-rate-difference-novices.md) — related
+- [3D stereoscopic vision yields better laparoscopic task performance than 2D for novices on operative time, path length, and technical errors](3d-laparoscopy-better-performance-novices.md) — related

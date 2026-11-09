@@ -50,3 +50,4 @@ The authors' reflective observation from the initial unit redesign, reported in 
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
 - [Higher tutorial attendance was associated with higher numbers of honors grades on the online long case examination](attendance-associated-with-honors-grades.md) — related
+- [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related

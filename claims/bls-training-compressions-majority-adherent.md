@@ -50,3 +50,4 @@ Manikin-based assessment of a two-minute CPR cycle using ResusciAnne QCPR maniki
 - [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
 - [A majority of students self-report confidence in CPR skills despite measured performance deficiencies after BLS training](cpr-self-confidence-exceeds-performance.md) — related
 - [Male students show greater mean compression depth than female students, a difference maintained among medical students but absent among PA students](gender-compression-depth-difference.md) — related
+- [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related

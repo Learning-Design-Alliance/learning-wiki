@@ -53,3 +53,4 @@ Stratified analysis of fourth-year students (n = 120 pre, n = 113 post) using Ma
 - [Empathy scores on the Jefferson Scale for Empathy did not significantly change from pre-test to post-test after MAGIC, in one uncontrolled pre-post study](magic-no-empathy-change-jse.md) — related
 - [Respectful and compassionate care competency did not show a statistically significant change from pre-test to post-test among nursing students in one group with no comparison group](rcc-training-no-significant-change-nursing-students.md) — related
 - [Role-playing empathy training significantly raises all three Jefferson Scale dimensions — perspective-taking, compassionate care, and standing in patient's shoes — versus control](empathy-training-raises-all-jse-dimensions.md) — related
+- [After the online course, learning no longer differed between early-year and late-year nursing students](bls-online-learning-no-year-group-difference.md) — related

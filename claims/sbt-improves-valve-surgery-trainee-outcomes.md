@@ -69,3 +69,4 @@ Systematic review (PRISMA) of PubMed and Embase to May 2022; 1322 articles scree
 - [The review attributes to prior literature that simulation-based surgical training improves technical skills, reduces operative time, and enhances patient safety](surgical-simulation-attributed-benefits.md) — a broader claim this one bears on
 - [Participants significantly reduce technical errors in dry-lab tasks as measured by the OCHRA error methodology over the four-day curriculum](dry-ochra-error-reduction-curriculum.md) — a narrower finding that bears on this claim
 - [VR simulation is not effective as a replacement for conventional endoscopy teaching](vr-sbt-not-a-replacement-for-conventional-teaching.md) — reports the opposite
+- [The 3D-printed thoracic and cardiac model permitted full simulation of minimally invasive mitral valve repair procedures with real MICS instruments and a robot](mimvr-simulation-feasibility-with-real-mics-tools.md) — related

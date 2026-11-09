@@ -45,6 +45,7 @@ The article recommends that integrating family caregiving competencies need not 
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Improve surgical education by reorganising existing curricula and minimising 'dead time' rather than adding time-consuming new courses](reorganise-curricula-minimise-dead-time.md)
+- [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 
 ## Examples
 -

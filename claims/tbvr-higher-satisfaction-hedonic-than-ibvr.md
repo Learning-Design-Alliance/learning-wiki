@@ -50,3 +50,4 @@ AttrakDiff2 questionnaire administered post-intervention in the cross-over pilot
 - [Thematic analysis of group interviews identifies usability of instructional content and easy engagement as key themes, with 70% positive on IBVR and 50% on TBVR](qualitative-themes-usability-engagement-vr-modules.md) — related
 - [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related
 - [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related
+- [Students using the gamified interactive multimedia module report significantly higher satisfaction than those using the PowerPoint show module](im-module-higher-satisfaction.md) — related

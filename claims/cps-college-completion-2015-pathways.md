@@ -67,3 +67,4 @@ Cohort tracking of the CPS graduating class of 2015, the most recent cohort with
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
 - [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
 - [Students who enroll in developmental education courses attain degrees at lower rates than comparable entrants who do not](dev-ed-enrollment-lower-degree-attainment.md) — related
+- [Course average in the two weed-out courses indicated progression to degree: six of ten non-completers failed one or both, and no student who passed both failed out](weed-out-course-average-predicts-degree-progression.md) — related

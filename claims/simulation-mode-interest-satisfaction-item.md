@@ -69,3 +69,4 @@ On the remaining four satisfaction and self-confidence items, the trial found no
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
 - [Students in flipped college algebra rated 'The instructor encouraged my interest in the course' significantly lower than lecture-based students (p = .008)](flipped-course-lower-interest-ratings.md) — related
+- [Residents reported significantly higher overall satisfaction with mannequin-based than computer-based training](higher-satisfaction-mannequin-training.md) — related

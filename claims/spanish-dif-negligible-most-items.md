@@ -58,3 +58,4 @@ DIF analysis comparing male–female and Hispanic–White examinees across terms
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
+- [Of 217 questions exhibiting DIF at the .01 alpha level, the effects were almost always negligible](217-dif-questions-almost-always-negligible.md) — related

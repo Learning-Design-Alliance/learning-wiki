@@ -48,6 +48,7 @@ The authors recommend changing pedagogical strategies in nursing and midwifery e
 ## Related Strategies
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
 
 ## Examples
 -

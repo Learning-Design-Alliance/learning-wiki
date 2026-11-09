@@ -60,3 +60,4 @@ TDF-guided directed coding across the 17 included articles coded barriers and fa
 - [Four interdependent transformation theories of effective CPD were developed: transforming individual practice, skills for changing healthcare contexts, knowledge translation, and workplace cultures.](four-transformation-theories-effective-cpd.md) — related
 - [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — related
 - [Addressing organizational factors is at least equally important as individual-level interventions for sustaining humanistic practice and countering physician burnout.](organizational-change-as-important-as-individual-humanism-interventions.md) — related
+- [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related

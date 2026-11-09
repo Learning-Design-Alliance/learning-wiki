@@ -51,6 +51,7 @@ The article recommends formal training initiatives, "such as structured mentorsh
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Use team-based training approaches so clinical leadership development transfers skills while building teams and reducing resistance to change](team-based-clinical-leadership-training-strategy.md)
+- [Provide formal training and accreditation for surgical trainers to support effective feedback delivery, and evaluate such interventions robustly](formal-trainer-training-effective-feedback.md)
 
 ## Examples
 -

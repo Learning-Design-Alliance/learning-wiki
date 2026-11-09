@@ -46,6 +46,7 @@ A recommendation from the study's suggestions: incorporate social network sites 
 
 - [Create a relaxed, worry-free discussion environment with student-chosen topics and rotating team leadership](relaxed-environment-student-chosen-topics-strategy.md)
 - [Future SNA e-learning studies should examine two-mode networks and additional communication channels such as chat rooms, wikis, blogs and microblogs](sna-elearning-future-two-mode-networks-channels.md)
+- [Visual-axis interactive instructional guidance via wireless AR/MR video-conferencing with educator-inserted 3D visual cues](visual-axis-interactive-instructional-guidance-strategy.md)
 
 ## Examples
 -

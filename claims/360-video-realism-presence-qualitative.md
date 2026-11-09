@@ -69,3 +69,4 @@ From the qualitative section on the HMD 360-degree video experience: "Several pa
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
 - [Nursing students rated the 360-degree video VR schizophrenia simulation as easy to use, with device-operation difficulty scored low (2.6 on a 0-10 scale).](vr-schizophrenia-simulation-usability-60-nursing-students.md) — related
+- [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related

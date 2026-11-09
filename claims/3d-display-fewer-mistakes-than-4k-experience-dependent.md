@@ -50,3 +50,4 @@ Same randomized cross-over trial; the mistake outcome was analyzed per stratum. 
 - [Perceived task load (NASA-TLX) was significantly lower with 3D than 4K for all experience levels](3d-display-lower-nasa-tlx-task-load.md) — related
 - [Performance improved across repetitions with a training effect, and participants switching to 3D reached their shortest times at the end](training-effect-display-switch-parkour-course.md) — related
 - [3D display reduces overall Parkour performance time compared to 4K across all experience levels in a randomized cross-over training trial](3d-display-shorter-parkour-time-than-4k.md) — related
+- [The deleterious effect of losing 3D depth perception depends on both task difficulty and the surgeon's lack of experience](switch-effect-moderated-by-experience.md) — related

@@ -66,3 +66,4 @@ Univariate analysis of the survey data in the quasi-experiment; agreement with a
 ## Related Claims
 - [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — related
 - [Participants rated the training highly relevant and reported clear objectives and applicability to practice](training-rated-relevant-and-applicable.md) — related
+- [Knowledge gains from the DVD were larger for county-hospital clinicians than provincial-hospital clinicians, with no moderation by other personal or job variables](subgroup-moderation-knowledge-gains.md) — related

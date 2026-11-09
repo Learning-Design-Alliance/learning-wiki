@@ -72,3 +72,4 @@ Same multivariable regression (Table 7): Centre 2 carried an unadjusted associat
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [The podcast group showed a significantly greater improvement in cumulative OSCE score than controls over the intervention period](osce-podcast-greater-score-improvement.md) — related
 - [Listening to all podcast episodes once is associated with higher exam scores than listening to only some episodes](complete-once-podcast-listening-higher-exam-scores.md) — a narrower finding that bears on this claim
+- [Podcast utilization was measured mainly as downloads, views, and website traffic, and no paper measured listener retention within a single episode](utilization-metrics-downloads-no-retention.md) — related

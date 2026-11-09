@@ -49,3 +49,4 @@ Mann-Whitney test and column analysis comparing GRE percentiles with candidacy e
 - [GRE scores and undergraduate GPA do not predict PhD candidacy exam outcomes](gre-scores-gpa-no-candidacy-prediction.md) — reports the opposite
 - [Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students](gre-quant-percentiles-correlated-ttd.md) — related
 - [GRE scores correlate with time to degree in opposite directions for international and URM students](gre-scores-ttd-demographic-specific.md) — related
+- [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related

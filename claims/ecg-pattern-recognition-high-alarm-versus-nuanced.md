@@ -52,3 +52,4 @@ Item-level analysis of the 14-item ECG test across all 220 interns (Table 3). Th
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [Asystole was the best-recognised ECG emergency (69.9% correct) while third-degree A-V block was the least recognised](asystole-best-recognised-ecg-emergency.md) — related
 - [Diagnosis recognition, transfer persistence and communication are the weakest checklist items in simulated STEMI care](stemi-checklist-diagnosis-transfer-communication-gaps.md) — related
+- [In scenario-based assessment, knowledge of multiple trauma scored highest and septic shock lowest among the five tested life-threatening conditions](scenario-based-assessment-condition-score-ranking.md) — related

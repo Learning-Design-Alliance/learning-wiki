@@ -61,3 +61,4 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
 - [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related
 - [Girls show significantly higher academic competence than boys across most measures in the sample](girls-higher-academic-competence-than-boys.md) — related
+- [No significant associations were found between mathematics goal profile membership and developments in mathematics achievement](no-profile-math-achievement-association.md) — related

@@ -47,3 +47,4 @@ Authors' summary in the Discussion of the occupational-group-specific agreement 
 ## Related Claims
 - [Face validity assessment with 10 ICU nurses using the Impact Score formula led to removal of two items that demonstrated inconsistent interpretations of abstract concepts or partial conceptual overlap.](crcdc-face-validity-impact-score.md) — related
 - [The Great Debate: occupational therapists hold conflicting views on whether psychotherapy falls within occupational therapy's scope of practice](great-debate-scope-of-practice-conflict.md) — related
+- [Disagreement on relevance of GbCF v1 behaviours is associated with area of pharmacy practice and patient-facing involvement](competency-relevance-disagreement-practice-area.md) — related

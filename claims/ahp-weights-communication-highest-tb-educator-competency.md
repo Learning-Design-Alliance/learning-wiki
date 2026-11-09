@@ -57,3 +57,6 @@ AHP weight calculation in YAAHP 12.11 using pairwise comparisons on the 1–9 Sa
 - [Stress resistance, workload management and tactfulness are the highest-ranked individual competencies, while resistance to monotony, numeracy and mathematical reasoning rank lowest](og-item-level-competence-ranking.md) — related
 - [O&G physicians rate Social sensibility and Psychomotor & multitasking abilities as the most important competence areas for daily professional activity](og-social-sensibility-psychomotor-top-areas.md) — related
 - [An analytical hierarchy process combined trainee-perceived usefulness and clinical significance with equal 50% weighting to rank the 18 competency areas](ahp-equal-weighting-competency-ranking.md) — related
+- [Survey respondents rated all Delphi skills as important, with analytical skills rated most important and measurement skills least](all-delphi-skills-rated-important-analytical-highest.md) — related
+- [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related
+- [Pharmaceutical care and pharmaceutical public health competencies receive higher relevance weightings than research-related competencies](research-competencies-lowest-relevance-weighting.md) — related

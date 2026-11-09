@@ -45,7 +45,8 @@ The article recommends using the STEEM questionnaire, administered online, to id
 - [UK podiatric surgery trainees rate the theatre educational environment at a mean of 122/160 (76.73%), a satisfactory score](../claims/podiatric-theatre-steem-mean-122-160-satisfactory.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use baseline questionnaires prior to educational interventions to identify problem areas for targeted CME](baseline-questionnaires-before-cme-strategy.md)
 
 ## Examples
 -

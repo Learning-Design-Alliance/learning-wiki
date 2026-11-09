@@ -47,3 +47,4 @@ The review reports a randomized cross-over trial by Krage et al. assessing anest
 ## Related Claims
 - [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
+- [Team-leader non-technical skills correlate with team technical CPR performance only when external stressors are present](leader-non-technical-skills-technical-performance-only-under-stress.md) — related

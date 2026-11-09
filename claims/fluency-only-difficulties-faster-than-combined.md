@@ -53,3 +53,4 @@ A contrast reported in the Discussion section to explain why the decoding-harm a
 ## Related Claims
 - [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](adhd-reduced-oral-reading-fluency.md) — related
 - [Below Basic adults read far fewer words per minute than higher-level readers, with 49% reading at 60 wcpm or slower](below-basic-adults-slow-oral-reading.md) — related
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](lttp2-oral-reading-fluency-gains-not-sustained.md) — related

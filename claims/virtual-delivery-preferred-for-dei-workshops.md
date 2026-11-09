@@ -47,3 +47,4 @@ Authors' implementation observation from the pilot, in which workshops were cond
 ## Related Claims
 - [Pupils felt comfortable carrying out discussion tasks in the 3D virtual environment and did not prefer to carry them out face-to-face, despite technological problems with sound](tila-opensim-comfort-despite-sound-problems.md) — related
 - [Both mindfulness training formats showed similar participant expectancy and engagement, but teachers perceived the instructor-led arm as more credible](similar-expectancy-engagement-instructor-led-more-credible.md) — related
+- [Participants' self-reported learning experience favours the Virtual Patient format in engagement, stimulation, general opinion and expectations, though group discrepancies were generally small](vp-higher-learning-experience-appraisals.md) — related

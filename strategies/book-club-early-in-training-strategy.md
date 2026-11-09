@@ -45,7 +45,8 @@ The article recommends scheduling a professional development book club at the st
 - [Participants reported the book club contributed to peer bonding and engagement with the residency program](../claims/book-club-bonding-engagement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Hold the patient experience simulation early in orientation, before interns know the staff and location](simulation-early-orientation-timing-strategy.md)
 
 ## Examples
 -

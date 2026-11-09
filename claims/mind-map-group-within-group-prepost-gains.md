@@ -58,3 +58,4 @@ Paired sample t-test analysis within the experimental group (n=30, df=29) in the
 - [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
 - [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related
+- [Students under the higher-stakes policy report higher metacognition, effort regulation, time management, task value, self-efficacy and organisation, but not higher intrinsic goal orientation or elaboration](higher-stakes-policy-higher-srl-scores.md) — related

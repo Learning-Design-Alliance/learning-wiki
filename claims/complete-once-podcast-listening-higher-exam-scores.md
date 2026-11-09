@@ -48,3 +48,5 @@ Podcast-usage cohort comparison in the survey study (Fig. 6 lower panel; ANOVA F
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — a broader claim this one bears on
 - [Students valuing Team-Based Learning as useful achieved higher exam scores than those rating it not useful](tbl-valuation-associated-with-higher-exam-scores.md) — related
 - [Time spent studying renal physiology shows no significant difference in exam performance across study-time cohorts](renal-physiology-study-time-no-performance-difference.md) — related
+- [Prior podcast experience moderated learning gains: learners who had used four or more educational podcasts benefited more from a new podcast intervention](prior-podcast-experience-moderates-gains.md) — related
+- [Podcast utilization was measured mainly as downloads, views, and website traffic, and no paper measured listener retention within a single episode](utilization-metrics-downloads-no-retention.md) — related

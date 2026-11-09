@@ -48,3 +48,4 @@ The article reports, citing its own earlier studies [41] and [43], a simulation 
 ## Related Claims
 - [Borderline grades constituted 4.69% of OSCE grades and were reclassified roughly evenly to Fail and Pass](obm2-borderline-grade-distribution-reclassification.md) — related
 - [Implementing the OBM2 in a high stakes OSCE increased the failure rate from 0.7% to 4.1%](obm2-implementation-increased-osce-failure-rate.md) — related
+- [OBM2 pass/fail decisions correlate more strongly with observed OSCE marks than traditional-method decisions, with R2 often almost 50% higher](obm2-higher-correlation-pass-fail-decisions.md) — related

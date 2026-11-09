@@ -68,3 +68,4 @@ Safety evaluation in the multisite trial used exclusion criteria (seizures, migr
 - [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a broader claim this one bears on
 - [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related
+- [A two-hour AR/MR-enhanced pilot procedural training session with approximately 40 learners was completed without physical discomfort, but with no objective metrics obtained](ar-mr-pilot-session-feasibility-40-learners.md) — related

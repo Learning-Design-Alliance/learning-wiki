@@ -54,3 +54,4 @@ Analysis of the 2003 NAAL supplemental study of 19,714 adults administered decod
 - [Adults read ordinary prose much faster than arithmetic problem material or isolated numerals](prose-read-faster-than-numerals-and-problems.md) — related
 - [More effective readers are those who vary their reading rate to suit the type of material](rate-flexibility-marks-effective-readers.md) — related
 - [National writing assessment data show most US 8th graders perform below proficiency in writing](naep-8th-grade-writing-below-proficiency.md) — related
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](lttp2-oral-reading-fluency-gains-not-sustained.md) — related

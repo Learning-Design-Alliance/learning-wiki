@@ -56,3 +56,4 @@ The third-round survey of the modified Delphi process, completed by 31 KOLs, "re
 - [Patient positioning with pinning and flap design, ICP probe insertion, and EVD insertion were ranked the three highest-priority procedural skills for neurosurgical SBE](top-three-neurosurgical-sbe-skills-positioning-icp-evd.md) — a narrower finding that bears on this claim
 - [The Delphi panel selected 15 situations as starting points for priority use in emergency medicine residency simulation scenarios](delphi-selected-15-ssps-priority-simulation-scenarios.md) — related
 - [A two-step needs assessment (faculty nomination then intern prioritization) identified 15 common diseases for the mobile curriculum](faculty-intern-needs-assessment-15-diseases.md) — related
+- [A Delphi study identified 18 skills for Advanced Access and 22 skills for Process Redesign logistics improvement projects](delphi-18-22-skills-logistics-improvement.md) — related

@@ -49,3 +49,4 @@ Clinical examinations using Silness & Löe plaque and gingival indices at baseli
 - [Certainty of evidence for e-learning effects on oral health outcomes is very low or low per GRADE assessment](e-learning-oral-health-certainty-very-low.md) — a broader claim this one bears on
 - [E-learning shows no significant overall effect on gingival index compared with conventional oral health education](e-learning-no-effect-gingival-index.md) — related
 - [E-learning shows no significant overall effect on plaque index compared with conventional oral health education](e-learning-no-effect-plaque-index.md) — related
+- [Both educational methods significantly improved oral health knowledge and reduced plaque and gingival scores within clusters over 12 weeks.](both-methods-improved-knowledge-and-oral-hygiene.md) — related

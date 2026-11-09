@@ -47,3 +47,4 @@ Retrospective two-center cohort. Non-diagnostic frame-based biopsies occurred in
 ## Related Claims
 - [Supervised resident-performed stereotactic brain biopsies had complication rates comparable to staff-performed cases (1.7% vs 1.9%)](resident-biopsy-complication-rates-comparable.md) — related
 - [Residents required significantly longer operation and anesthesia times than staff for frame-based biopsies, but not for navigated frameless biopsies](resident-frame-based-biopsy-longer-times.md) — related
+- [Diagnostic power was maintained after trainee involvement, with a significant reduction in median passes needed for an adequate core](diagnostic-power-maintained-fewer-passes-after-2012.md) — related

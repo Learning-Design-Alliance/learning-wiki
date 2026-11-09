@@ -62,6 +62,8 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
 - [Embed personal-ethical and personal-professional competencies across subjects, planned experiences and incidental teachable moments](tdc-integration-across-subjects-strategy.md)
 - [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
+- [Pair human trafficking content with related existing topics when adapting the curriculum to other institutions](pair-trafficking-content-with-related-topics.md)
+- [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 
 ## Examples
 -

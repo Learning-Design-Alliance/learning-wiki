@@ -63,3 +63,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
 - [Medical students perceive standardized patients as more authentic than virtual patients across realness, involvement, and spatial presence in performance-based assessment](sps-higher-perceived-authenticity-than-vps.md) — possibly the same claim (merge candidate)
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
+- [Overall assessment of the SPs is very good, with a median of 1 and mean of 1.47](sp-overall-assessment-very-good.md) — related

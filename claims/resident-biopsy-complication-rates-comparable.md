@@ -49,3 +49,4 @@ Retrospective two-center cohort study of 217 consecutive stereotactic brain biop
 - [Residents required significantly longer operation and anesthesia times than staff for frame-based biopsies, but not for navigated frameless biopsies](resident-frame-based-biopsy-longer-times.md) — related
 - [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — related
 - [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related
+- [Expanding biopsy-performing personnel to include nephrology fellows under tutor supervision was not associated with increased complication rates or severity](trainee-involvement-no-complication-increase.md) — related

@@ -85,6 +85,7 @@ Self assessment works when learners have accurate standards to judge against; ru
 - [Portfolio Assessment](portfolio-assessment.md) — rubric-based self evaluation gives portfolios their reflective component
 - [Require a rubric-aligned self-evaluation before students receive GenAI critique](self-evaluation-before-genai-critique.md)
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
+- [Share evaluation rubrics with students at course start and use them for feedback sessions](rubrics-shared-upfront-pbl-feedback.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.

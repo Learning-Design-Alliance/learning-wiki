@@ -71,3 +71,4 @@ Participant quotation from the moderation-and-trust theme illustrating the perce
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Qualitative theme: real-time sharing of digital resources in MHW enhanced peer collaboration and communication compared with classroom TBL](mhw-tbl-collaboration-theme.md) — related
 - [Participating international medical students reported benefiting from technical and didactic as well as social learning experiences in the peer-guided course](peerguided-course-qualitative-benefits-international-students.md) — related
+- [Students valued the curriculum specificity of PeerWise questions and faculty review, but expressed concerns about student-authored question quality](student-perceptions-curriculum-specificity-faculty-review.md) — related

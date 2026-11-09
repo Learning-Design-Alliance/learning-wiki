@@ -45,6 +45,7 @@ This strategy delivers a hands-on psychomotor workshop fully remotely. During th
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Use multiple camera angles, key points, enlargements, and replays to depict essential examination aspects](multi-angle-keypoints-video-production-strategy.md)
+- [Visual-axis interactive instructional guidance via wireless AR/MR video-conferencing with educator-inserted 3D visual cues](visual-axis-interactive-instructional-guidance-strategy.md)
 
 ## Examples
 -

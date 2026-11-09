@@ -49,3 +49,4 @@ Survey of 201 O&G physicians in French-speaking Switzerland rating 66 R-track it
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
 - [Physicians rated management competencies highest and communication competencies lowest among the six domains](domain-importance-ranking-management-highest.md) — related
 - [Stress resistance, workload management and tactfulness are the highest-ranked individual competencies, while resistance to monotony, numeracy and mathematical reasoning rank lowest](og-item-level-competence-ranking.md) — related
+- [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related

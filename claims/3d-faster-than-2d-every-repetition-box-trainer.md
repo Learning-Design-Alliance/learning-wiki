@@ -51,3 +51,4 @@ Randomised comparison of 40 novices training Task 1 (ten repetitions) and Task 2
 - [3D-trained novices' final 2D performance was not significantly better than 2D-trained novices' performance](3d-trained-final-2d-performance-not-significantly-better.md) — reports the opposite
 - [Novices training in 3D take fewer repetitions and achieve lower time-plus-error performance scores than novices training in 2D during proficiency-based laparoscopic training](3d-training-fewer-repetitions-lower-scores-laparoscopic.md) — related
 - [Learning potential and learning speed varied widely and depended on initial values and plateaus, with 2D showing higher speed but worse final results](learning-potential-speed-vary-initial-values-plateaus.md) — related
+- [3D stereoscopic vision yields better laparoscopic task performance than 2D for novices on operative time, path length, and technical errors](3d-laparoscopy-better-performance-novices.md) — a broader claim this one bears on

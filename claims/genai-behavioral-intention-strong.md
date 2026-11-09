@@ -51,3 +51,4 @@ One-sample t-test from the 64-student Study 1 questionnaire; the behavioral-inte
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related
+- [Students showed slightly positive acceptance of the hybrid model but neutral intention to use it, alongside distractibility and time problems](positive-acceptance-neutral-intention-distractibility.md) — related

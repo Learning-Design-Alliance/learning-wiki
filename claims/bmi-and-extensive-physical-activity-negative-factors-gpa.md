@@ -60,3 +60,4 @@ Multivariable analysis in the questionnaire study identified "a higher BMI (0.90
 - [Changes in physical activity, BMI, smoking, and alcohol status were not significantly associated with changes in academic achievement over 12 months](pa-bmi-smoking-alcohol-change-null-achievement.md) — reports the opposite
 - [Academic achievement and executive functioning correlate positively with gender, serotonin and physical activity score, and negatively with age, BMI and salivary cortisol](achievement-correlates-gender-serotonin-pa-negative-age-bmi-cortisol.md) — reports the opposite
 - [Television and computer use associations with academic performance persisted after adjustment for emotional and behavioural problems and BMI](media-academic-associations-robust-sdq-bmi.md) — related
+- [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](walking-seminar-perceptions-independent-of-activity-level.md) — related

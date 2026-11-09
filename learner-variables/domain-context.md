@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (80 show a difference, 26 mixed, 9 no difference) · 101 studies (24 causal, 22 qualitative, 20 review, 16 design, 8 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 13 of 101 report an effect size · 111 claims rest on one study
+> **Evidence** · 118 claims (83 show a difference, 26 mixed, 9 no difference) · 103 studies (25 causal, 22 qualitative, 20 review, 16 design, 9 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 13 of 103 report an effect size · 114 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -156,6 +156,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](../claims/pbl-separate-problems-isolation.md) [+M] — measured as an outcome of the instruction studied
 - [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](../claims/practitioner-driven-cpd-supportive-contexts.md) [~M] — an instructional effect differs with it
 - [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](../claims/facilitators-awareness-accreditation-points.md) [+M] — learners who differ on it differ in outcomes
+- [Disagreement on relevance of GbCF v1 behaviours is associated with area of pharmacy practice and patient-facing involvement](../claims/competency-relevance-disagreement-practice-area.md) [+M] — learners who differ on it differ in outcomes
+- [Inter-country variability in relevance weighting occurs in the pharmaceutical care and organisation-and-management clusters but not the public health or professional-personal clusters](../claims/inter-country-variability-two-gbcf-clusters.md) [+M] — learners who differ on it differ in outcomes
+- [Virtual Patient participants more frequently acknowledged the clinical relevance of the trauma case than lecture participants in open-ended appraisals](../claims/vp-group-more-clinical-relevance-acknowledged.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

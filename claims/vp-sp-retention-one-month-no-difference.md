@@ -50,3 +50,5 @@ One-month follow-up posttest in the same randomized trial (one resident missed t
 - [Normalized learning gain is comparable immediately after the exercise (51.46% SP vs 49.1% VP) and at one month (38.01% SP vs 40.12% VP)](vp-sp-learning-gain-percentages.md) — possibly the same claim (merge candidate)
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related
+- [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
+- [Medical students and residents show no significant difference in long-term knowledge retention (Test 2, after at least two months) between Virtual Patient training and a video-recorded lecture](vp-vs-lecture-similar-long-term-retention.md) — related

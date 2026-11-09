@@ -74,9 +74,11 @@ Perceived teacher caring and warmth are among the strongest relational predictor
 6. Distribute attention deliberately and track it, so that caring signals reach all learners rather than the most vocal or most struggling.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the conversational skill through which caring is most often expressed and perceived
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a structural routine that guarantees individualized caring contact at scale
 - [Check-ins](../principles/check-ins.md) — low-cost repeated signals of individual attention embedded in session openings
+- [Instructor trust-building strategies for active-learning courses](trust-building-strategies-active-learning.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md) framework** — in online courses, "teaching presence" and instructor social presence operationalize caring at a distance through timely, personalized responses and visible instructor investment in discussion.

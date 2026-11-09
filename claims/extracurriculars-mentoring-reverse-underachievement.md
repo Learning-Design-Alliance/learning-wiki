@@ -50,3 +50,4 @@ The brief reports, citing prior studies, that "Gifted students who have reversed
 - Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases — related
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related
 - [Conspicuous talent does not reliably succeed on its own; success requires physical energy and willpower that gifted individuals often lack](talent-not-self-realizing-without-will-and-energy.md) — related
+- [High-quality mentorship is associated with lower odds of being stalled in academic rank (OR 0.28), while never having had a mentor raises the odds (OR 3.38)](high-quality-mentorship-less-stalled-in-rank.md) — related

@@ -57,6 +57,7 @@ Based on the meta-analytic advantage of TBL for theoretical test scores and team
 - [Align teaching method with competency gap and prioritize TBL for communication-focused courses](align-method-to-competency-gap-tbl-communication.md)
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Educators should flexibly use PBL alone or combined with other methods, matched to teaching content and the learning situation, rather than adopting one mode universally](flexibly-match-pbl-to-content-and-learners.md)
+- [Adopt a hybrid TBL-PBL approach that extends TBL duration and adds clinical reasoning prompts](hybrid-tbl-pbl-implementation-strategy.md)
 
 ## Examples
 -

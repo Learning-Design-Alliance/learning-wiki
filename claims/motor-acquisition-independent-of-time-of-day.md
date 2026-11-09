@@ -55,3 +55,4 @@ Main experiment: 36 healthy adults randomly assigned to G10am, G3pm, or G8pm tra
 - [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
 - [Participants improved tapping speed from the first block to the block where 95% of learning was achieved (d = −1.72)](early-motor-learning-improvement-large-effect.md) — related
 - [Mere passage of time awake after evening training does not produce offline skill improvement; the night of sleep is the key factor](passage-of-time-awake-does-not-consolidate.md) — related
+- [Sequence learning on the tapping task was greater in the first session than the second for both groups, suggesting a ceiling or session effect](srtt-learning-greater-first-session.md) — related

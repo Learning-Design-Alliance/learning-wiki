@@ -53,3 +53,4 @@ Model 2 of the multivariate logistic regression (aOR 2.73; 95% CI 1.13–6.60; p
 - [Physical activity directly and positively predicts adolescents' academic achievement (β = 0.241, 68.86% of total effect)](pa-direct-positive-predicts-aa-chinese-adolescents.md) — related
 - [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md) — a broader claim this one bears on
 - [Overweight and obesity are associated with lower odds of high achievement, but not significantly once socio-cognitive factors are added](overweight-obesity-achievement-mixed.md) — related
+- [Cognition partially mediates the physical activity–academic performance association, which weakens but remains significant when cognition is included](cognition-partially-mediates-pa-academic-performance.md) — related

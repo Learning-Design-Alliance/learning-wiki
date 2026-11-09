@@ -62,6 +62,7 @@ The page specifies a professional development model for implementing Readable En
 - [Run an after-school literacy tutoring program pairing an existing after-school site, a structured scripted curriculum, and service-learning college student tutors](service-learning-after-school-tutoring-model.md)
 - [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 
 ## Examples
 -

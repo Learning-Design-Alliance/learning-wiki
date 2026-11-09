@@ -53,3 +53,4 @@ In this assessor-blinded pilot RCT, 30 medical students randomized 1:1 to online
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related
 - [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related
+- [Adding a nodal point operation primer to video-assisted self-educational training yields a higher composed laparoscopic knot score than video-assisted learning alone in surgical novices](operation-primer-higher-composed-knot-score.md) — related

@@ -49,3 +49,4 @@ Multivariate regression in the same 1,099-student survey (Table 5); 18.2% of par
 - [Female gender independently predicts low self-esteem among Saudi medical students](female-gender-predicts-low-self-esteem-medical-students.md) — related
 - [Female students with positive mental health symptoms show higher odds of poor academic performance, while male students show no significant association](female-mental-health-poorer-gpa-males-null.md) — related
 - [24.1% of surveyed Saudi medical students have low self-esteem, 67.2% normal, and 8.7% high](quarter-saudi-medical-students-low-self-esteem.md) — related
+- [Higher self-reported 'self-esteem' on the MEARS non-cognitive test is independently associated with increased odds of a conduct-related declaration](mears-self-esteem-independent-predictor-conduct-declarations.md) — related

@@ -55,3 +55,4 @@ Voluntary anonymous 5-point Likert-type perception questionnaire administered on
 - [Students rate hologram-based AR anatomy learning positively, with high willingness to use it again for theoretical and practical learning](positive-user-experience-and-willingness-to-reuse-ar.md) — related
 - [Self-perceived eye and ear anatomy comprehension significantly improved after the VR learning session in pooled data (effect sizes 0.54 and 0.62), but cohort-level significance was limited to MSc ear comprehension](vr-session-improved-self-perceived-eye-ear-comprehension.md) — related
 - [First-year medical students reported broad interest in monthly, workshop-style anatomy review sessions using MCQ-format questions](student-interest-monthly-workshop-mcq-format.md) — related
+- [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related

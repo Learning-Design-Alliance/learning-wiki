@@ -56,3 +56,5 @@ Qualitative content analysis of the interviews generated the main category 'Barr
 - [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
 - [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](facilitators-awareness-accreditation-points.md) — related
+- [Nurses wanted more opportunity to learn how colleagues manage Teach-Back and more visual reminders to maintain use](nurses-wanted-peer-learning-and-visual-reminders.md) — related
+- [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related

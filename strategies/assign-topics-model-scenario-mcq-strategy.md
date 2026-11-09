@@ -47,6 +47,7 @@ The authors recommend redesigning student MCQ-writing tasks to reduce perceived 
 
 - [Reduce extraneous uncertainty and cognitive load through a thorough pre-brief, clear simulation plan and educator support](prebrief-reduce-extraneous-uncertainty-cognitive-load.md)
 - [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](famuplus-online-training-smart-template-strategy.md)
+- [Implement student-authored question banks with targeted faculty feedback and anti-trolling community measures](student-question-bank-faculty-feedback-anti-trolling-strategy.md)
 
 ## Examples
 -

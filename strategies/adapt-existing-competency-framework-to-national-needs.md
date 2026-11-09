@@ -47,6 +47,7 @@ The article's methodological approach adapts the European Common Training Framew
 - [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
 - [Use the framework as a global reference to guide national AI competency frameworks, teacher training, and assessment parameters](use-ai-competency-framework-as-global-reference.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
+- [Adapt the GbCF v1 to country context to design skill development and learning activities for early career pharmacy practitioners](adapt-gbcf-country-specific-frameworks-strategy.md)
 
 ## Examples
 -

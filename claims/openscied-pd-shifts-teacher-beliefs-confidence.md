@@ -93,3 +93,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Longer-serving clinical faculty show lower preference for teacher-centeredness, suggesting teaching conceptions shift with experience](longer-serving-faculty-less-teacher-centered.md) — related
 - [The workshop produced its largest attitude shift toward agreement that a person's experience of breathlessness should guide treatment decisions](breathlessness-workshop-shifts-experience-guides-treatment-attitude.md) — a narrower finding that bears on this claim
 - [A quarter-long science-specific pedagogy course is insufficient to shift inexperienced GTAs' beliefs from teacher focused to student focused](quarter-pedagogy-course-insufficient-student-focused-shift.md) — a narrower finding that bears on this claim
+- [Reported workshop studies found measurable improvements from activated demonstration training](activated-demonstration-workshop-improvements.md) — related

@@ -56,6 +56,7 @@ The authors recommend that "curriculum developers could create subject-specific 
 - [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
+- [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 
 ## Examples
 -

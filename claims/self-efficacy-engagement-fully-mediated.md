@@ -57,3 +57,4 @@ SEM results from the survey of 1435 undergraduates showed the direct path "β = 
 - [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related
 - [Instructional communication fully mediates the relationship between general pedagogical knowledge and student engagement](ic-fully-mediates-gpk-engagement.md) — related
 - [Self-efficacy has no significant direct effect on English learning performance; its effect is indirect through burnout](self-efficacy-effect-on-performance-mediated-by-burnout.md) — related
+- [For URM students, the self-efficacy increase fully mediates the effect of active learning on grades and KAI gains; no mediation occurs for non-URM students](self-efficacy-mediation-urm-only.md) — related

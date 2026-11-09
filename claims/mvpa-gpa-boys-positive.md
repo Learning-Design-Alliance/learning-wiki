@@ -53,3 +53,4 @@ In the same multigroup SEM with accelerometer-measured in-school MVPA, the boys'
 - [Greater in-school sedentary time is linked to higher GPA among girls but not boys, and this gender difference was statistically significant](st-gpa-girls-positive.md) — related
 - [Formal tests did not indicate statistically significant gender differences in the MVPA-related associations](no-significant-gender-difference-mvpa-paths.md) — related
 - [No significant associations were found between classroom peer ecology variables and in-school sedentary time for either gender](no-association-peer-ecology-st.md) — related
+- [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related

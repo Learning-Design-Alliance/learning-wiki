@@ -53,3 +53,4 @@ The commentary cites Watkins and Hattie (1985), who surveyed Australian tertiary
 - Attrition of 130 students (35%) between pretest and posttest was not systematically related to baseline characteristics — reports the opposite
 - Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points — a narrower finding that bears on this claim
 - [Experienced financial scarcity, but not perceived family wealth, predicts school dropout among tertiary vocational students](financial-scarcity-predicts-vocational-dropout.md) — related
+- [Dropout at follow-up was significantly higher in the intervention group than in the control group](mhfa-elearning-higher-intervention-dropout.md) — related

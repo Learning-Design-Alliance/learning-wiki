@@ -58,3 +58,4 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 - [SP assessors detect communication details that examiners neglect, such as interruptions and lack of empathy](sps-detect-communication-details-examiners-neglect.md) — related
 - [Examiner and standardized-patient evaluations in an OSCE were blinded and internally consistent, supporting the validity of the attitude assessment](blinded-osce-examiner-sp-assessment-validity.md) — related
 - [Standardized patients' global evaluation correlates moderately with expert global ratings of the same consultations (Spearman's rho = 0.40)](comon-check-moderate-sp-expert-correlation.md) — related
+- [Medical students perform more poorly in standardized patient domestic violence stations than in other patient-encounter stations in the same examination](dv-station-scores-lower-than-other-sp-stations.md) — related

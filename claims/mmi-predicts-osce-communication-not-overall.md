@@ -49,3 +49,6 @@ Correlational analysis of the student sample (N = 400 admitted students with fir
 - [The prediction of OSCE communication performance by MMI scores did not differ across sociodemographic subgroups, supporting the predictive fairness of the Hamburg MMI](hamburg-mmi-predictively-fair-across-subgroups.md) — related
 - [First impression and MMI performance weakly predicted psychosocial OSCE performance 18 months later (8.4% explained variance, p(F) = 0.009)](weak-osce-prediction-fir-mmi.md) — related
 - [Both general and specific IC show borderline, moderate associations with VR-OSCE station performance (r=0.41, P=.06; r=0.37, P=.09) but neither relates to overall analog OSCE performance](ic-borderline-association-vr-osce-not-analog-osce.md) — related
+- [MMI scores show no significant correlation with specific OSCE communication and history-taking stations](hamburg-mmi-null-osce-communication-stations.md) — reports the opposite
+- [MMI scores significantly predict general-practitioner ratings of students' suitability for the medical profession, the strongest association found](hamburg-mmi-predicts-gp-suitability.md) — related
+- [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — reports the opposite

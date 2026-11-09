@@ -61,3 +61,4 @@ Quasi-experimental 2x2 factorial study in two Malaysian secondary schools: 40 ex
 - [Students taught with the eHistoLab virtual microscopy web application achieved significantly higher histology post-test scores than students taught by e-lecturing](ehistolab-higher-posttest-than-e-lecturing.md) — a narrower finding that bears on this claim
 - [3D game-based simulation produces no significant difference in vital signs academic achievement compared with traditional instruction (d = 0.02)](3d-game-simulation-no-achievement-difference-vital-signs.md) — related
 - [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related
+- [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](im-vs-pps-no-difference-in-gains.md) — related

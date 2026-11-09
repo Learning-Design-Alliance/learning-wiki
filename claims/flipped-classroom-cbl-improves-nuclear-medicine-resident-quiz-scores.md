@@ -63,3 +63,4 @@ Retrospective single-group pre/post analysis of 40 nuclear medicine residents us
 - [Postsession quiz scores improved significantly after the integrated CBL session (p < .001)](cbl-session-significant-quiz-score-improvement.md) — related
 - [Clinical teachers' MCQ knowledge scores rose stepwise from pre-test to mid-test to post-test in one uncontrolled pre-post study of TOTR flipped-classroom training](totr-stepwise-knowledge-gain.md) — related
 - [Final-year medical students' Quick Risk Test performance rose from a median of 50% to about 90% correct after a 90-minute training session, in one single-group pre-test–post-test study](ninety-minute-training-raises-statistical-literacy.md) — related
+- [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related

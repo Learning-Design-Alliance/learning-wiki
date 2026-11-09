@@ -71,3 +71,4 @@ The same single-group pretest–posttest study of 100 social work and nursing st
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [Practitioners are least confident working with fathers who have been violent or abusive or have substance use issues](least-confidence-violent-substance-using-fathers.md) — related

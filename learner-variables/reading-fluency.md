@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (85 show a difference, 25 mixed, 22 no difference) · 85 studies (41 causal, 18 associational, 12 review, 9 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 19 of 85 report an effect size · 131 claims rest on one study
+> **Evidence** · 135 claims (87 show a difference, 26 mixed, 22 no difference) · 86 studies (41 causal, 18 associational, 13 review, 9 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 20 of 86 report an effect size · 134 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -172,6 +172,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](../claims/literacy-quartile-association-academic-marks.md) [+M] — learners who differ on it differ in outcomes
 - [Cognitive activity training significantly improved reading speed in refugee children while controls showed no change](../claims/cat-improves-reading-speed.md) [+M] — measured as an outcome of the instruction studied
 - [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](../claims/targeted-training-doubles-reading-fluency-first-graders.md) [+M] — measured as an outcome of the instruction studied
+- [Kenya's Tusome program sharply reduced grade 2 nonreaders in English and Kiswahili, with targeted-skill effect sizes of 0.4 to 2.57 SD](../claims/tusome-nonreader-reduction-effect-sizes.md) [+M] — measured as an outcome of the instruction studied
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](../claims/lttp2-oral-reading-fluency-gains-not-sustained.md) [~W] — measured as an outcome of the instruction studied
+- [Uganda's SHRP produced oral reading fluency effect sizes ranging from 0.17 to 1.12 SD across eight local languages](../claims/uganda-shrp-fluency-effect-sizes-by-language.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

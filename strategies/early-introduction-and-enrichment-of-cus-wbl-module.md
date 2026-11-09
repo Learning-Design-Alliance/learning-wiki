@@ -50,6 +50,7 @@ Based on trainee feedback and the finding that senior trainees had better pre-te
 ## Related Strategies
 
 - [Actively encourage trainees to analyse and interpret ECGs during clinical training, supported by mobile learning strategies](active-ecg-analysis-during-clerkships-with-mobile-learning.md)
+- [Introduce integrated decision-support tools early in clinical training and train supervisors to model their use](introduce-decision-support-tools-early-and-model-use.md)
 
 ## Examples
 -

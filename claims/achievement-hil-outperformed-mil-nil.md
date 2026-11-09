@@ -67,3 +67,4 @@ Simple-effects one-way ANOVAs per iteration: no differences at iteration 1 (F (2
 - [Students' post-writing effort in online forums increased significantly over iterations and differed between the MIL and HIL conditions](post-writing-effort-increases-iterations-mil-hil.md) — related
 - [Knowledge exploration and integration in forum discourse showed no MIL-HIL differences in the first iteration but significant differences in the second and third iterations](thinking-advances-emerged-iterations-2-3.md) — related
 - [Density of idea linking in forum posts increased over iterations, developing somewhat more highly in the HIL design than in MIL](idea-linking-density-increased-hil.md) — related
+- [Baseline (pre-exposure) question performance improved between iterations of the environment, attributed by the authors to more senior student cohorts](baseline-improvement-between-iterations.md) — related

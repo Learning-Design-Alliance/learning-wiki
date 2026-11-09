@@ -51,3 +51,4 @@ Between-gender comparison within PA groups in the 150-participant cross-sectiona
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
 - [Adolescents with moderate and active physical activity scores show significantly higher academic achievement and executive functioning scores than mildly active peers](pa-groups-higher-academic-achievement-adolescents.md) — related
 - [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related
+- [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related

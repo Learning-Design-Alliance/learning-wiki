@@ -57,3 +57,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [Small-group training in the HMSS was associated with students strengthening communication skills and resolving team conflicts](hmss-small-group-conflict-resolution.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
 - [The training program was designed in collaboration with medical school faculty and emphasizes experiential, practice-based learning over didactic presentations](experiential-practice-based-communication-training-medical-physicists.md) — related
+- [Participants' self-reported learning experience favours the Virtual Patient format in engagement, stimulation, general opinion and expectations, though group discrepancies were generally small](vp-higher-learning-experience-appraisals.md) — related

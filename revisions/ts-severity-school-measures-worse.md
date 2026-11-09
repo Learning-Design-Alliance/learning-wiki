@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ts-severity-school-measures-worse.md
+---
+
+# Revision history: [claims/ts-severity-school-measures-worse](../claims/ts-severity-school-measures-worse.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-5930055 (Impact of Tourette Syndrome on School Measures in a Nationally Representative Sample.) via eval_harness.py + ingest_extractions.py

@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (59 show a difference, 36 mixed, 8 no difference) · 48 studies (24 associational, 12 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 14 of 48 report an effect size · 101 claims rest on one study
+> **Evidence** · 104 claims (59 show a difference, 37 mixed, 8 no difference) · 49 studies (25 associational, 12 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 15 of 49 report an effect size · 102 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -134,6 +134,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The fixed-versus-growth mindset teacher moderation of the mindset–choice link replicated for comfort with academic risk-taking across all four studies, with slight differences in simple effects in a few cases](../claims/mindset-moderation-academic-risk-taking.md) [~W] — an instructional effect differs with it
 - [A values-aligned intervention increases teachers' intentions to use growth mindset–supportive practices and their growth mindset beliefs relative to control](../claims/values-aligned-intervention-raises-teacher-practice-intentions-and-beliefs.md) [+W] — measured as an outcome of the instruction studied
 - [Self-reported growth mindset moderated HCPs' task performance in the RETAIN video game](../claims/growth-mindset-moderates-retain-performance.md) [~M] — an instructional effect differs with it
+- [Growth mindset relates weakly to commitment and engagement and is nonsignificant for course outcomes once trust is modeled](../claims/growth-mindset-weak-predictor-active-learning.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

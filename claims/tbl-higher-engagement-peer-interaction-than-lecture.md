@@ -58,3 +58,4 @@ Post-session survey using adapted SEEQ and SSES items on a 5-point Likert scale 
 - [TBL + peer teaching cohort showed significantly higher emotional and participation/interaction engagement, with no difference in skills or performance engagement](tbl-pt-engagement-emotional-participation-gains.md) — related
 - [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](self-assessed-clinical-reasoning-competency-improves-tbl.md) — related
 - [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related
+- [Students prefer more contact hours for team-based learning and simulation and fewer for large group case-based learning](contact-hour-preferences-tbl-simulation-more.md) — related

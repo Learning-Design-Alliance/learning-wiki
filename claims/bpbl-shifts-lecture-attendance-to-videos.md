@@ -68,3 +68,4 @@ Video use was compared with Fisher's exact test in the same randomised main stud
 - [Students name travel savings and free choice of location as the main advantages, and chat-communication limits and lack of personal contact as the main drawbacks, of chat-based PbL](bpbl-interview-advantages-drawbacks.md) — related
 - [Only 15% of students previewed all nine vodcasts before lectures, with 77% viewing at least one.](low-vodcast-preview-uptake-gem-students.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
+- [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related

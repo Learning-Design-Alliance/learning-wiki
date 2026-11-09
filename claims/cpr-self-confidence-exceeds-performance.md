@@ -53,3 +53,4 @@ Pre-assessment survey of perceived comfort administered to the 80 participants b
 - [After standard AHA BLS training, medical and PA students maintain guideline-adherent compression rate, depth, and recoil for a majority of a two-minute CPR cycle](bls-training-compressions-majority-adherent.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
+- [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](online-bls-self-efficacy-confidence-rate.md) — related

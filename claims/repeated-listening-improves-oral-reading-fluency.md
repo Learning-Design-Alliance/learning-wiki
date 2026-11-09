@@ -81,3 +81,4 @@ Same Jablonski (2019) experiment, EasyCBM comprehension posttest. The review rep
 - [Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time](noninstruction-transition-round-robin-consume-31-percent.md) — related
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
 - [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](wpm-gain-39-percent-vision-span.md) — related
+- [Liberia's LTTP II cohort 1 improved oral reading fluency from 4.8 to 14.2 correct words per minute (0.3 SD), but gains were not sustained](lttp2-oral-reading-fluency-gains-not-sustained.md) — related

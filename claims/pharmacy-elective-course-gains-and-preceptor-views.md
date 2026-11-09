@@ -56,3 +56,4 @@ Pre-post evaluation of a 2-hour weekly elective EBM course (case studies, proble
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
+- [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related

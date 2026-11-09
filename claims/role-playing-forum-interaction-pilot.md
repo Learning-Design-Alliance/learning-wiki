@@ -52,3 +52,4 @@ The editorial describes the concluding article of the issue as a small-scale pil
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md) — related
 - [Effective collaborative learning in discussion forums requires relatively small group sizes](forum-collaborative-learning-small-group-sizes.md) — related
 - [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](no-task-courses-low-posting-activity.md) — related
+- [Some students committed plagiarism in forum posts, detected and flagged by peers and tutors](forum-plagiarism-incident-challenge.md) — related

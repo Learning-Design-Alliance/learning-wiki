@@ -66,3 +66,4 @@ Same anonymous follow-up survey (50 responses to the beyond-emergencies item); t
 ## Related Claims
 - [A real-life paediatric emergency occurring after the intervention was managed well by staff who had not participated in SimLab, suggesting cascade of the transformed practices](simlab-real-emergency-cascade-benefit.md) — related
 - [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](real-cpr-experience-higher-confidence-skill.md) — related
+- [At two-month follow-up, 91.9% of commitments were reported at least partly realized, with emergency nursing trainees reporting the best full-implementation rate](c2c-followup-realization-rate.md) — related

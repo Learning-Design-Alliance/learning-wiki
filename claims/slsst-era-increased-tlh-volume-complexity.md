@@ -68,3 +68,4 @@ Authors' interpretation of the chart-review data: routine bilateral salpingectom
 - [Conversion to open surgery decreased across the training periods, reaching the lowest rate after SLSST](slsst-era-lower-conversion-rate.md) — related
 - [Under a structured MIE training program, the trainee's operative-time learning curve was completed after about 45 cases (47 following risk adjustment)](mie-trainee-operative-time-lc-45-cases.md) — related
 - [Hospital stays longer than 2 days decreased after SLSST implementation](slsst-reduces-hospital-stay-over-2-days.md) — related
+- [Open feedback with less structured training resulted in a longer than envisaged training period to reach sufficient competence](unstructured-training-longer-time-to-competence.md) — related

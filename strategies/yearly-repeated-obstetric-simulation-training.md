@@ -58,6 +58,7 @@ The article's discussion aligns with professional societies and guidelines "reco
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
+- [Provide practical activity both at the beginning and at the end of an online BLS course](practical-activity-beginning-and-end-online-course.md)
 
 ## Examples
 -

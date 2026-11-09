@@ -51,3 +51,4 @@ Primary outcome in the 608-participant RCT, measured with the Social Distance Sc
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [Both MHFA modes greatly improve the quality of helping intentions, and blended delivery adds a small additional advantage for the depression vignette only](mhfa-helping-intentions-quality.md) — related
 - [Blended MHFA participants rate the course higher on amount learned, usefulness and intention to recommend than eLearning MHFA participants](mhfa-blended-higher-satisfaction.md) — related
+- [The MHFA eLearning course decreased UK medical students' stigmatising attitudes (ITT)](mhfa-elearning-reduces-personal-stigma-itt.md) — related

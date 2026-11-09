@@ -47,6 +47,7 @@ The article recommends implementing SNAPPS systematically as part of a resident-
 
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
 - [Incorporate SNAPPS into existing pathology case discussions and slide review sessions rather than separate teaching sessions](snapps-within-existing-pathology-activities.md)
+- [Match the clinical teaching model to the encounter type and learner level](match-teaching-model-to-encounter-type.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ The review's cross-study synthesis of the included literature found modality–o
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
 - [LLM use in nursing education is associated with enhanced cognitive skills and increased quality and accessibility of education](llm-nursing-education-positive-consequences.md) — related
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
+- [Participants' self-reported learning experience favours the Virtual Patient format in engagement, stimulation, general opinion and expectations, though group discrepancies were generally small](vp-higher-learning-experience-appraisals.md) — related

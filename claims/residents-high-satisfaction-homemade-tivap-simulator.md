@@ -53,3 +53,4 @@ Post-course feedback survey of 28 first-year surgery residents after completing 
 - [Participants rated the simulation session highly on meeting learner expectations and practical organization (mean 9 of 10, SD 1)](dam-simulation-high-satisfaction-scores.md) — related
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
 - [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related
+- [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related

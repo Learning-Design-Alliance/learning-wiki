@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (85 show a difference, 42 mixed, 20 no difference) · 62 studies (27 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 62 report an effect size · 145 claims rest on one study
+> **Evidence** · 152 claims (89 show a difference, 43 mixed, 20 no difference) · 63 studies (28 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 21 of 63 report an effect size · 150 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -182,6 +182,11 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Lay theory factors plus demographics predict 13–25% of outcome variance, with performance-avoid goals an exception at 4%](../claims/sem-variance-explained-lay-theories.md) [~M] — learners who differ on it differ in outcomes
 - [Identity motivation and performance-approach goal orientation each increase the likelihood of academic resilience among disadvantaged students](../claims/identity-motivation-performance-approach-predict-resilience.md) [+M] — learners who differ on it differ in outcomes
 - [Final score correlated weakly and positively with extrinsic goal orientation, control of learning belief and rehearsal only in the blended learning group](../claims/srl-score-correlation-only-in-bl.md) [~M] — learners who differ on it differ in outcomes
+- [A small group of students transitioning from a moderate to an approach-oriented profile in mathematics showed large self-reported effort gains, but this result rests on very few students](../claims/moderate-to-approach-transition-math-effort-gains.md) [+M] — learners who differ on it differ in outcomes
+- [In mathematics, teachers rated students with an approach-oriented goal profile as making more effort than students with a multiple-goals profile, and students who moved from a moderate to an approach-oriented profile gained more in teacher-rated effort than those who did not change](../claims/approach-profile-higher-teacher-rated-effort-math.md) [+M] — learners who differ on it differ in outcomes
+- [Students who transitioned from a multiple goals profile to a moderate/indifferent profile showed stronger language achievement growth than students who retained the multiple goals profile](../claims/transition-multiple-to-moderate-language-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Students with an approach-oriented or moderate goal profile report higher self-reported effort in language than students with a multiple goals profile, though their effort declines over time while the multiple goals profile's effort increases](../claims/approach-profile-higher-self-reported-effort-language.md) [~M] — learners who differ on it differ in outcomes
+- [Students with approach-oriented or moderate goal profiles show stronger language achievement gains over time than students with a multiple goals profile, with no difference in average achievement levels](../claims/favourable-profiles-stronger-language-achievement-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

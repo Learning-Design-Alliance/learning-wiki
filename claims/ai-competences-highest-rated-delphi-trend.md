@@ -52,3 +52,4 @@ Delphi survey phase in which 70 international experts rated 15 AI-in-education t
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
 - A Delphi panel of twelve international experts agreed on five important areas of development in learning analytics — related
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related
+- [Survey respondents rated all Delphi skills as important, with analytical skills rated most important and measurement skills least](all-delphi-skills-rated-important-analytical-highest.md) — related

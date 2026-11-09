@@ -51,3 +51,4 @@ Generalised linear model (gamma distribution, log link) on the 4110-nurse survey
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
 - [Nurses in Hunan province, China show a medium level of PICC maintenance knowledge, with a mean score of 72.86±14.86](picc-maintenance-knowledge-medium-level-hunan-nurses.md) — related
 - [Nurses who previously received PICC maintenance training scored significantly higher on PICC maintenance knowledge than those who had not](prior-picc-training-associated-higher-knowledge.md) — related
+- [Knowledge gains from the DVD were larger for county-hospital clinicians than provincial-hospital clinicians, with no moderation by other personal or job variables](subgroup-moderation-knowledge-gains.md) — related

@@ -74,3 +74,4 @@ Post-test results from the same RCT: "the average number of correct answers was 
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
 - [Knowledge of postpartum hemorrhage correlates positively with clinical reasoning on postpartum hemorrhage](knowledge-correlates-with-clinical-reasoning-pph.md) — related
+- [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related

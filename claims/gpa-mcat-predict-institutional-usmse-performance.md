@@ -51,3 +51,5 @@ Observational institution-level regression across 89 US allopathic medical schoo
 - [Private institutions scored higher than public institutions on USMLE Step 1 and Step 2 CK, with a 2.7-point MCAT advantage at matriculation](private-public-usmle-score-differences.md) — related
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
 - [Seven institutional variables correlate significantly with both Step 1 and Step 2 scores, while total enrollment does not](institutional-variables-correlate-usle-scores.md) — related
+- [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
+- [MSM students' Step 1 scores exceeded those predicted from their MCAT scores by 22.6 points on average](msm-step1-exceeds-mcat-prediction.md) — related

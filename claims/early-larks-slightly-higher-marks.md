@@ -49,3 +49,4 @@ Independent t-test comparing percentage of total marks between Early Larks (n = 
 - [Morning chronotype is associated with higher academic performance category among first-year medical students](morning-chronotype-associated-excellent-performance.md) — related
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — related
+- [Owls (late chronotypes) show a significant academic performance deficit compared to larks and finches at all class times of day](owls-academic-deficit-all-class-times.md) — related

@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (21 for, 12 mixed, 1 against) · 31 studies (12 design, 8 causal, 5 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 31 report an effect size · 33 claims rest on one study
+> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 32 studies (13 design, 8 causal, 5 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 32 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Read against the model on 2026-10-19; these three are relevant but do not change
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [~W] — attached 2026-10-29 from Karrenbauer et al. (2023), which proposed "Multi-functionality in a digital study assistant must not come at the expense of the depth and content of individual functionalities".
 - [Nearly a third of students never used the navigation map and overall task-test performance was mediocre](../claims/map-nonuse-and-task-test-performance.md) [+M] — attached 2026-10-29 from Stanton et al. (1997), which proposed "Design hypermedia for fundamental usability rather than adding map-based navigational aids".
 - [A significant dropout of participants with mild dementia occurred mainly due to difficulties in understanding and coordinating the game control interface](../claims/dementia-participant-dropout-due-to-game-control-difficulties.md) [+M] — attached 2026-11-08 from Zając-Lamparska Ludmiła et al. (2019), which proposed "Recommend VR-based cognitive training games such as GRADYS for cognitive enhancement in normal cognitive ageing, but make game control natural and easy before use with people living with dementia".
+- [Medical students across years received a model-based cardiovascular e-learning environment positively](../claims/lpm-ele-positive-student-feedback.md) [+W] — attached 2026-11-09 from Warriner DR et al. (2017), which proposed "Develop e-learning environments iteratively with user-directed feedback at each stage".
 
 ## Objective and learner-valued goal
 

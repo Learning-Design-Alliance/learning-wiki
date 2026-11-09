@@ -55,3 +55,4 @@ Meta-analytic moderator result reported in the article's abstract summary: probl
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
 - [Instructional support has a moderate positive effect on diagnostic competences in higher education (g = 0.39)](instructional-support-moderate-effect-diagnostic-competences.md)
 - [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — related
+- [The review reports improved diagnostic accuracy from teaching both analytic and nonanalytic reasoning strategies](combined-reasoning-strategies-diagnostic-accuracy.md) — related

@@ -53,6 +53,7 @@ The article recommends that training providers use the identified at-risk groups
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
 - [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
 - [Weighted student-based funding formulas that allocate resources according to student needs](weighted-student-based-funding-formulas.md)
+- [Provide targeted support and mentoring for widening-participation medical entrants from non-professional backgrounds](targeted-support-widening-participation-entrants.md)
 
 ## Examples
 -

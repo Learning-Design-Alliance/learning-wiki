@@ -54,3 +54,4 @@ Randomized classroom experiment with 138 biochemistry students assigned to I-PS 
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
 - [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — reports the opposite
+- [The self-selected experimental group had significantly lower prior knowledge than the control group, while hard-working level and class attendance did not differ significantly](non-equivalent-groups-lower-prior-knowledge.md) — related

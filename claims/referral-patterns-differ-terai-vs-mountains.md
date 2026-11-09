@@ -50,3 +50,4 @@ Referral-question responses from the 107-PHCW quantitative survey: corneal ulcer
 - [Only 8.4% of primary health care workers in eastern Nepal had received eye care training during their professional career](phcws-eastern-nepal-8-4-percent-eye-care-training.md) — related
 - [Post-test knowledge scores varied by facility type, with tertiary-centre medical officers scoring highest and pre-test-to-post-test rises more pronounced at secondary and tertiary levels in one single-group pre-post study with no comparison group](facility-type-stratified-training-gains.md) — related
 - [Nurses in tertiary hospitals scored higher on PICC care knowledge than nurses in secondary/primary hospitals](tertiary-hospital-nurses-higher-picc-knowledge.md) — related
+- [GPs' use of interprofessional interventions and pulmonary rehabilitation referrals is low, with only 28% receiving full points](low-gp-use-interprofessional-interventions-copd.md) — related

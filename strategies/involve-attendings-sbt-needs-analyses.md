@@ -46,6 +46,7 @@ The article recommends directing simulation-based training resources toward atte
 - [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Assess available resources and develop targeted team training to improve trauma care efficiency in resource-limited hospitals](resource-assessment-targeted-team-training-strategy.md)
+- [Implement the generic consensus assessment items locally by adding setting-specific components](local-implementation-of-generic-pbls-assessment-items.md)
 
 ## Examples
 -

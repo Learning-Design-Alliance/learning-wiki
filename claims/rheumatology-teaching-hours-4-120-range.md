@@ -51,3 +51,4 @@ Systematic review of eight cross-sectional surveys of undergraduate rheumatology
 - [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related
 - [Factors identified for poor rheumatology exposure include lack of full-time rheumatologists, absent local specialty training, and emphasis on acute specialties](factors-poor-rheumatology-exposure.md) — related
 - [In the UK, rheumatology is taught in the latter years of study, whereas in the USA it is taught every year](uk-latter-years-usa-every-year-rheumatology.md) — related
+- [A dedicated second-year rheumatology course was followed by improved performance on the survey's arthritis-based question](rheumatology-course-arthritis-improvement.md) — related

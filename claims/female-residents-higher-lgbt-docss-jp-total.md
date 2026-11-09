@@ -50,3 +50,4 @@ Multivariable linear regression among 280 residents adjusting for age, hospital 
 - [Japanese PGY-1 residents show moderate overall LGBT-related clinical competence, with attitudinal awareness highest and clinical preparedness and training lowest](japan-pgy1-lgbt-docss-moderate-competence-attitude-gap.md) — a broader claim this one bears on
 - [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — reports the opposite
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — related
+- [After adjustment for age and years in the profession, female GPs scored significantly higher than male GPs on three of the 13 questions](female-gps-higher-copd-scores-three-questions.md) — related

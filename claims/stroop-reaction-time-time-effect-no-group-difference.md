@@ -52,3 +52,4 @@ GEE analysis of computerized Stroop Color word test reaction times pre/post in t
 - [A 16-week classroom standing desk intervention did not improve cognitive performance or academic achievement in 6th-grade students more than traditional sitting classes](standing-desk-16wk-no-cognitive-academic-advantage.md) — a broader claim this one bears on
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Stroop color-word scores improved significantly during Cog-Fun intervention for all three participants](stroop-color-word-improved-cog-fun.md) — related
+- [Standing desk use shows no meaningful group or group × time effects on inhibitory control (Eriksen flanker task)](standing-desks-no-flanker-effect.md) — related

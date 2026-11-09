@@ -51,3 +51,4 @@ Cross-sectional observational analysis of 401 students using IPAQ-SF and measure
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
 - [Intervention groups differed significantly in age and BMI at post-test, with the PA+MMNS group oldest and highest in BMI](kazifya-group-differences-age-bmi-t3.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related
+- [Students' positive perceptions of walking seminars were independent of their general physical activity level and BMI](walking-seminar-perceptions-independent-of-activity-level.md) — related

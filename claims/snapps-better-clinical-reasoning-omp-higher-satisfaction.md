@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-09
 sources:
   - id: taylor-margaret-c-2026
     resource: "https://doi.org/10.1111/jmwh.70075"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparative research found SNAPPS performed better for clinical reasoning scores, but OMP had a higher user satisfaction rating. [→ Taylor Margaret C. 2026](#taylor-margaret-c-2026)
@@ -59,3 +60,4 @@ The article reports, citing comparison research (ref 31), that SNAPPS performed 
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite
 - [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
+- [The review reports that learners and preceptors favor the One-Minute Preceptor over traditional teaching models](omp-favored-over-traditional-teaching.md) — related

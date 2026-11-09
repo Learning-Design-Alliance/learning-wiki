@@ -49,3 +49,4 @@ Descriptive software time-stamp analysis of VPS activity in the RCT (single-user
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
 - [Without repetition, students lost about 30% of anatomical knowledge over six months, versus about 20% with any repetition activity](knowledge-loss-30-percent-without-repetition.md) — related
 - [Undergraduate students achieved a higher mean number of correct answers in the simulator than experienced health workers](students-higher-correct-answers-than-workers.md) — related
+- [Both training approaches can be delivered in similar, roughly 45-minute sessions in a single training encounter](pit-crew-standard-similar-training-duration.md) — related

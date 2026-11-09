@@ -53,3 +53,4 @@ Facilitating-factors theme from the focus groups and interviews: participants sa
 - [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
 - [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
+- [Strength of commitment was not significantly correlated with probability of realization, which participants attributed to workplace factors](commitment-strength-realization-null-correlation.md) — related

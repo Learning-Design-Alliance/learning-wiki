@@ -51,3 +51,4 @@ Feasibility evaluation of 3D printing coronary artery anomalies from cardiac CT 
 - [3D-printed models enhanced awareness of coronary anatomy and abnormality in 98% of evaluated cases](models-enhance-anatomical-awareness-98-percent.md) — related
 - [3D-printed models were rated more effective than CT scans alone for understanding coronary abnormalities by both stakeholder groups](models-more-effective-than-ct-alone.md) — related
 - [Clinicians rated 3D-printed coronary models significantly higher than researchers on clarity of anatomy, clarity of abnormality, and usefulness](clinicians-rate-models-higher-than-researchers.md) — related
+- [CT scans confirmed the 3D-printed cardiac replica's structure and valve positions were nearly the same as a human heart](ct-verification-of-3d-printed-cardiac-replica-shape.md) — related

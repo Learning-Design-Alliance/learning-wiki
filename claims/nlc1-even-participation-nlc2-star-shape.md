@@ -56,3 +56,4 @@ Sociogram and centrality analysis (in-/out-degree, UCINET) of interaction patter
 - [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related
 - [Most cyber leaders rated their contribution as Level 7 on Hart's Ladder of Participation, initiating and directing their own ideas with adults in advisory roles](cyber-leaders-hart-ladder-level-7.md) — related
 - [Graph theory parameters distinguish centralized from decentralized discussion groups (density and centralization)](graph-parameters-centralized-decentralized.md) — related
+- [The course network was instructor-centered with low student-to-student density, as shown by sociogram visualization](instructor-centered-network-low-density-sociograms.md) — related

@@ -112,3 +112,4 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related
 - [Outlining training led to higher organization-of-ideas scores than depicting training](outlining-improves-organization-more-than-depicting.md) — related
+- [Learning condition affected conceptual knowledge differently for advanced and novice learners: advanced learners benefited from concept map study, novices showed no condition effect](prior-ability-by-condition-conceptual-knowledge.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Narrative review of the survey articles reports that structured rubrics includin
 - [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — related
 - [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — a narrower finding that bears on this claim
 - [The OCHRA error-assessment tool shows excellent inter-rater reliability in robotic basic skills assessment](ochra-inter-rater-reliability-excellent.md) — a narrower finding that bears on this claim
+- [Structured assessment tools (GEARS/OSATS and NOTSS) were rarely implemented in practice, with tutors defaulting to open feedback despite curriculum requirements](structured-assessment-rarely-implemented-open-feedback.md) — related

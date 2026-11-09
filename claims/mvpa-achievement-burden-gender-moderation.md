@@ -67,3 +67,4 @@ Gender-stratified logistic regression in the same survey: girls meeting the guid
 - [Children and adolescents who meet the WHO PA guideline are more likely to report above-average academic achievement than those who do not](mvpa-meeting-guidelines-above-average-achievement.md) — a broader claim this one bears on
 - [Children and adolescents who meet the WHO PA guideline are more likely to report no academic burden than those who do not](mvpa-meeting-guidelines-no-academic-burden.md) — related
 - [Meeting the PA guideline is associated with above-average achievement and no academic burden only in middle school students, not primary or high school students](mvpa-middle-school-only-association.md) — related
+- [The PA–academic performance relationship in Model 2 was significant for girls but not for boys](pa-academic-relationship-gender-subgroup.md) — related

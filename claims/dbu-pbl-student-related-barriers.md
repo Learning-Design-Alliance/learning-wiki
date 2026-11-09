@@ -52,3 +52,4 @@ Qualitative cross-sectional study at Debre Berhan University medical school (Feb
 - [Assessment-related barriers — subjective tutor judgment instead of the assessment checklist and one-time end-of-module spot evaluation — create dissatisfaction among PBL students](dbu-pbl-assessment-related-barriers.md) — related
 - [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](macro-demanding-curriculum-hinders-implementation.md) — related
 - [Periodic evaluations showed active student participation and tutor-reported improvement in theoretical study and scientific research abilities](wechat-pbl-periodic-evaluation-participation.md) — related
+- [Students and tutors positively welcomed the blended PBL course and used PBL strategies to resolve implementation issues](positive-reception-pbl-strategies-resolve-issues.md) — related

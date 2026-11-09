@@ -52,3 +52,4 @@ Cohort-level comparability analysis of incoming academic measures for the 2023 (
 - [MCAT scores and USGPA correlate with academic outcomes and alter LASSI correlations when controlled](mcat-usgpa-control-effects-on-lassi-correlations.md) — related
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
 - [MCAT-inclusive composites eliminate predictive validity for final-year grades among bottom-tertile students](mcat-bottom-tertile-predictive-validity-eliminated.md) — related
+- [Entering MCAT scores showed no significant difference between the cohorts taught under the old and new curricula](mcat-no-group-difference.md) — related

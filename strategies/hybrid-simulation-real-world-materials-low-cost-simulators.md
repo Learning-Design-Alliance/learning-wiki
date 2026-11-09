@@ -66,6 +66,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Replace or supplement mannequins with coached actors and multidisciplinary role play to increase realism](actor-based-dysphagia-simulation-strategy.md)
 - [Increase patients' practice opportunities with an inexpensive wearable simulation tool to overcome limited nurse training time](wearable-simulation-increase-practice-opportunities.md)
 - [Use hybrid simulation with high psychological fidelity, including induced stress, when teaching complex intimate-examination skills](hybrid-simulation-psychological-fidelity-strategy.md)
+- [Use in situ high-fidelity simulation with an integrated lung simulator as an affordable training and assessment tool for mechanical ventilation, targeting frequently missed skills](in-situ-hfs-lung-simulator-mv-training-strategy.md)
 
 ## Examples
 -

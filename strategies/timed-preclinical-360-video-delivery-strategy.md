@@ -51,6 +51,7 @@ The article's findings indicate that 360-video and VR resources should be introd
 
 - [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
+- [Hold the patient experience simulation early in orientation, before interns know the staff and location](simulation-early-orientation-timing-strategy.md)
 
 ## Examples
 -

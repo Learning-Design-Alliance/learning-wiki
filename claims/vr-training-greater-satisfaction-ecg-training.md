@@ -57,3 +57,4 @@ Anonymous 16-item satisfaction questionnaire (three-point Likert scale, previous
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) — related
 - [Patients rated the procedure duration perception significantly better with simulator-trained students and tended to feel more at ease](patient-perception-better-simulator-trained-students.md) — related
 - [Medical students trained with the VR NVD simulator achieved significantly higher post-simulation knowledge scores than those trained with the mannequin simulator](vr-simulator-higher-post-simulation-knowledge-scores.md) — related
+- [Residents reported significantly higher overall satisfaction with mannequin-based than computer-based training](higher-satisfaction-mannequin-training.md) — reports the opposite

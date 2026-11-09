@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (57 for, 35 mixed, 4 against) · 78 studies (39 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 15 of 78 report an effect size · 88 claims rest on one study
+> **Evidence** · 98 claims (59 for, 35 mixed, 4 against) · 79 studies (40 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 15 of 79 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Average heart rate rose about 1.5 bpm during active learning sessions, then returned immediately to a level similar to or lower than before, in one single-group pre-post study with no comparison group](../claims/al-hr-uptick-no-reset.md) [~W] — attached 2026-11-08 from Darnell et al. (2019), which proposed "Value active learning for the activity itself, not for an expected attention reset afterward".
 - [Students who wrote good-quality MCQ on Respiratory pathophysiology scored significantly better on that section than students who wrote good MCQ on Blood](../claims/good-mcq-quality-respiratory-exam-gain.md) [+W] — attached 2026-11-09 from Herrero Jose Ignacio et al. (2019), which proposed "Expect student question-writing to benefit learning mainly when question quality is high enough"; tests this page's relationship.
 - [Critical thinking CAT scores rose significantly from pre-test to post-test in flipped intermediate and upper-level life science courses using active learning, in one uncontrolled pre-post study](../claims/flipped-active-learning-cat-gains-upper-level.md) [+M] — attached 2026-11-09 from Styers M. L. et al. (2018), which proposed "Disperse even small amounts of active learning throughout introductory lectures, and target upper-level electives for flipped active learning, to promote critical thinking"; tests this page's relationship.
+- [Active learning eliminates the performance gap between URM and non-URM students in course grades and knowledge-assessment gains](../claims/active-learning-closes-urm-performance-gap.md) [+W] — attached 2026-11-09 from Ballen C. J. et al. (2017), which proposed "Active-learning course redesign combining preparation, low-risk quizzing, structured group work, response systems, and redistributed grading"; tests this page's relationship.
+- [Active-learning pedagogy increases science self-efficacy equally for all demographic groups](../claims/active-learning-raises-self-efficacy-all-groups.md) [+W] — attached 2026-11-09 from Ballen C. J. et al. (2017), which proposed "Incorporate active learning into curricula as one pathway to a diversified STEM workforce, since it benefits all students and disproportionately benefits URM students".
 
 ## Objective and learner-valued goal
 

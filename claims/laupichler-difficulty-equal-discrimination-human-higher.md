@@ -52,3 +52,5 @@ Second-hand citation: the review reports this result from a paper by Laupichler 
 - [The AI-generated and human-designed examinations showed comparable split-half reliability and difficulty distributions](ai-exam-comparable-reliability-difficulty.md) — related
 - [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — possibly the same claim (merge candidate)
 - [Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups](discrimination-peaks-moderate-difficulty.md) — related
+- [Item analysis found acceptable discriminatory quality in student-authored questions, with only two of 300 most-answered questions below the local r-pbis threshold](student-authored-question-quality-item-analysis.md) — related
+- [Second-year student-authored questions were significantly easier and less discriminatory than first-year questions](year2-questions-easier-less-discriminatory.md) — related

@@ -52,3 +52,4 @@ Preference question in the end-of-course gamer survey (n=30), with first, second
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — a broader claim this one bears on
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Most teaching staff easily adapted to TBL and preferred blended learning after the pandemic, but few favored TBL for all activities](staff-adapted-tbl-prefer-blended.md) — related
+- [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related

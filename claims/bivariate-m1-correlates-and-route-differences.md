@@ -68,3 +68,4 @@ Bivariate Mann-Whitney U-tests on Table 1 means (AQ 1.51, SQ 1.91, WQ 2.17); the
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
 - [Study outcome after three terms differs markedly by admission path, favouring entrance-test and excellence-quota students over waiting-list and foreign-quota students](admission-path-study-outcome-differences.md) — related
+- [PMSS sum scores measured 2 and 14 months before the first medical examination independently predict medical students' M1 grade, with better grades for students with lower stress scores](pmss-scores-predict-m1-grade.md) — related

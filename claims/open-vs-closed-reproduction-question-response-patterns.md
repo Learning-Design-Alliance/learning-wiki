@@ -67,3 +67,4 @@ Abstract-level summary consistent with the tree result: closed reproduction ques
 - [Follow-up reasoning questions elicit the highest share of elaborative student answers and the lowest non-response in CBL](follow-up-reasoning-questions-elicit-elaboration-low-nonresponse.md) — related
 - [A high proportion (median 54%) of teacher questions in CBL seminars receive no student response](cbl-high-student-non-response-54-percent.md) — a broader claim this one bears on
 - [Initial reasoning questions in CBL are associated with high student non-response (61%)](initial-reasoning-questions-high-non-response.md) — related
+- [Follow-up response differed by profession: emergency nursing trainees and paramedics responded significantly more often than medical students](c2c-followup-nonresponse-by-profession.md) — related

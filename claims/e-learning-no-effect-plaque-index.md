@@ -48,3 +48,4 @@ Random-effects meta-analysis of 8 randomized trials comparing e-learning with co
 - [For adults, e-learning is more effective than conventional education for oral health practice](adults-e-learning-better-oral-health-practice.md) — related
 - [Certainty of evidence for e-learning effects on oral health outcomes is very low or low per GRADE assessment](e-learning-oral-health-certainty-very-low.md) — related
 - [Plaque index improved in trained groups while gingival index showed no statistically significant change](plaque-improved-gingival-unchanged-after-oral-health-education.md) — related
+- [Both educational methods significantly improved oral health knowledge and reduced plaque and gingival scores within clusters over 12 weeks.](both-methods-improved-knowledge-and-oral-hygiene.md) — related

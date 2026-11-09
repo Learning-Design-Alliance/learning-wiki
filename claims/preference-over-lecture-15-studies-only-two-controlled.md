@@ -83,3 +83,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — a narrower finding that bears on this claim
 - [Students report more positive attitudes to learning with PBL than lectures, including stronger motivation (P<.001 on attitude items)](pbl-more-positive-learning-attitudes.md) — related
 - [Students prefer PBL over traditional lectures for better linking knowledge of basic and clinical sciences (t = 10.15, P<.001)](pbl-preferred-linking-basic-clinical-sciences.md) — a narrower finding that bears on this claim
+- [Students prefer more contact hours for team-based learning and simulation and fewer for large group case-based learning](contact-hour-preferences-tbl-simulation-more.md) — a narrower finding that bears on this claim

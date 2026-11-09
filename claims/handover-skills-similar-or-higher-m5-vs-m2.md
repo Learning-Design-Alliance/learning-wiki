@@ -67,3 +67,4 @@ Table 5 shows clarifying questions mean 60% (SD 40.2%) in M2 (n = 243) versus 49
 - [The share of medical students requiring additional practice to reach the EPA 8 entrustability threshold is far lower post-clerkship (M5, 29%) than pre-clerkship (M2, 89%)](entrustability-threshold-pass-rates-m2-m5.md) — related
 - [In the M5 handover exercise, 71.2% of medical students successfully managed a prescribed interruption](m5-interruption-management-71-percent.md) — related
 - [Each of the five Team FIRST modules significantly improves medical students' self-efficacy for teamwork competencies from pre- to post-activity survey](team-first-modules-improve-teamwork-self-efficacy.md) — related
+- [Low-complexity handover cases received higher CHAT scores than medium-complexity cases, supporting construct validity](low-complexity-handovers-scored-higher.md) — reports the opposite

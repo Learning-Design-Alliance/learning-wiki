@@ -47,3 +47,4 @@ Weekly game-log analysis of the EG (n = 25 at T1) measured mastered words at fou
 ## Related Claims
 - [Students advanced significantly in game levels each successive week of the intervention](advanced-game-levels-increase-weekly.md) — related
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [A four-week home-based online typing-game intervention improves children's MABC-2 manual dexterity standard scores compared to a control group](typing-intervention-improves-mabc2-manual-dexterity.md) — related

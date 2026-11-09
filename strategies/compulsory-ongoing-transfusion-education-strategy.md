@@ -47,6 +47,7 @@ Based on the finding that overall knowledge was moderate with deficits across al
 ## Related Strategies
 
 - [Recommend ongoing delivery of the PBM education programme to interns with yearly evaluation](ongoing-pbm-education-yearly-evaluation-strategy.md)
+- [Increase transfusion medicine education from medical school onward, combined with electronic pop-up alerts on RBC orders](transfusion-education-and-popup-alert-strategy.md)
 
 ## Examples
 -

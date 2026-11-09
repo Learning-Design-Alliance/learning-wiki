@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 343 claims (259 show a difference, 47 mixed, 37 no difference) · 271 studies (91 causal, 89 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 56 of 271 report an effect size · 339 claims rest on one study
+> **Evidence** · 346 claims (262 show a difference, 47 mixed, 37 no difference) · 273 studies (93 causal, 89 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 57 of 273 report an effect size · 342 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -374,6 +374,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Workshop participants showed higher geriatric self-efficacy than controls, with 75% of workshop completers rating high self-efficacy versus 40% of controls, though trends were not statistically significant](../claims/geriatrics-5ms-workshop-self-efficacy-higher-than-controls.md) [-M] — measured as an outcome of the instruction studied
 - [At ZSMU, the linear VP group reported significantly higher ratings than the branched group on Control of Learning Beliefs and Self-Efficacy for Learning and Performance](../claims/zsmu-linear-vp-higher-expectancy-ratings.md) [+W] — measured as an outcome of the instruction studied
 - [Physicians whose gynecology/obstetric clerkship was in armed forces/police hospitals reported higher self-perceived competence for VIA and VILI than those clerked in MINSA hospitals](../claims/clerkship-armed-forces-police-higher-self-perceived-competence-via-vili.md) [+M] — measured as an outcome of the instruction studied
+- [In a one-group pretest–posttest study of physiotherapy students, self-reported intrinsic motivation, identified regulation, perceived competence, and perceived autonomy support rose from the lecture period to the TBL period](../claims/tbl-increases-autonomous-motivation-competence.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](../claims/sdt-path-engagement-mediation-tbl.md) [+M] — learners who differ on it differ in outcomes
+- [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](../claims/online-bls-self-efficacy-confidence-rate.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 
