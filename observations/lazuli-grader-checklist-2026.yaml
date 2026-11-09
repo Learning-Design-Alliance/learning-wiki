@@ -1,0 +1,493 @@
+# ============================================================================
+# EMBARGOED — staged in learning-engineering-research (private), not in the wiki.
+#
+# DRAFT for the maintainer's review (2026-11-06). Which of these results the
+# wiki should carry, and which claims they bear on, is the maintainer's call.
+#
+# Precise yes/no checklists against a Likert rubric for two LLM graders of
+# student work: reliability, agreement with human raters, and planted errors.
+#
+# READ `provenance.source_type` BEFORE POOLING ANYTHING: `platform-experiment`,
+# an experiment by the makers of an LLM grading tool on LLM graders, not a
+# finding from the corpora's depositors.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-checklist-2026
+  release:
+    ref: checklist-grading-2026
+    version: 1.0.0
+  design:
+    family: other
+    design_detail: >-
+      A within-item comparison of two rubric formats on two public graded
+      corpora. Every sampled item was graded in both formats (a Likert rubric
+      and a model-written checklist of yes/no checks, scored as the share of
+      YES), by two LLMs, twice each, on identical inputs, so contrasts are
+      within-item. Human scores from the corpora are the reference. A planted-
+      defect arm appends a false sentence (to good answers) or a sentence of
+      key terms without understanding (to weak answers) against a
+      length-matched neutral sentence on the same answer. Verdicts, margins
+      and predictions were registered in the analysis script before any model
+      call; a follow-up decomposition was registered after the primary
+      results were read and before its own estimates.
+    preregistration:
+      status: preregistered
+      registry: the release's code package
+      id: code/studies/measurement/grader-boolean-rubrics/boolean.py (docstring)
+      source_quote: >-
+        "The design, the thresholds, the predictions and the verdict strings
+        were registered in the analysis script before any model call."
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-11-06
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: precise-yes-no-checklists-do-not-make-llm-grading-more-reliable
+    bearing: supports
+    note: >-
+      Short-answer test–retest was already 0.96–0.99 with a Likert prompt; the
+      checklist was 0.011 lower, inside the ±0.03 margin. On programs every
+      clear difference favored the Likert format.
+  - claim: a-model-written-checklist-agrees-less-with-human-raters-on-short-answers
+    bearing: supports
+    note: >-
+      dH −0.106 on 620 short answers, for both models; the checklist
+      under-credited partly and fully correct answers.
+  - claim: reference-answer-checklists-miss-false-claims-and-reward-key-terms
+    bearing: supports
+    note: >-
+      A false sentence lowered the checklist 0.302 less than the Likert score;
+      key terms raised it 0.075 more; error checks carried 76% of the
+      checklist's loss where they existed.
+
+evidence_base:
+  unit: items
+  size:
+    value: 620
+    unit: items
+  additional_sizes:
+    - value: 272
+      unit: items
+      note: >-
+        Menagerie first-year Java submissions graded on four dimensions; 226
+        remain in every programming table after dropping submissions with any
+        unparseable call (46 checklist calls on 45 submissions, and one Likert
+        call).
+    - value: 240
+      unit: items
+      note: >-
+        Short answers drawn for the planted defects: 120 the raters scored at
+        least 4.5 (false sentence) and 120 at most 2.5 (key terms), of which
+        120 and 112 passed the manipulation check.
+    - value: 10976
+      unit: other
+      note: Model gradings in all; none failed.
+  population:
+    description: >-
+      Undergraduate answers to data-structures questions (Mohler, two raters,
+      0–5) and first-year Java coursework re-graded by recruited raters on four
+      dimensions (Menagerie, three or four raters, 14-level letter scale).
+    age_or_stage: postsecondary
+  context:
+    description: >-
+      Two LLM graders: Gemini 3.5 Flash Lite and GPT-5.4 mini. Checklists and
+      planted sentences written by GPT-5.5; manipulation check by Gemini 3.1 Pro.
+  arms:
+    - id: likert
+      description: >-
+        A Likert rubric: one score per answer on the corpus scale (0–5 in steps
+        of 0.5), or one letter grade per programming dimension with its six
+        rubric bands.
+    - id: checklist
+      description: >-
+        A model-written checklist of yes/no checks from the same criterion (3–7
+        checks per short-answer question, 10–12 per programming dimension),
+        scored as the unweighted share of YES, as in Mallinar et al. (2026).
+
+comparisons:
+  - id: checklist-vs-likert
+    kind: other
+    index_arm: checklist
+    reference_arm: likert
+    description: >-
+      Checklist minus Likert on the same items, the same models and the same
+      calls; pooled estimates are the mean of the two models' estimates. 95%
+      intervals from a cluster bootstrap (4,000 resamples) over questions
+      (short answers) or submissions (programs).
+
+observations:
+  - id: retest-short-answers
+    sample: {value: 620, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Test–retest reliability of an LLM grader's scores
+      source_language: dR, the checklist-minus-Likert difference in test–retest r
+      measure: Pearson r between a model's two independent calls, differenced and averaged over two models
+      scale: "-2 to 2"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Two independent calls per item}
+    result:
+      measure_type: other
+      estimate: -0.011
+      ci_lower: -0.023
+      ci_upper: -0.001
+      interval_type: confidence
+      model: >-
+        Test–retest r 0.987 / 0.961 (Gemini, Likert / checklist) and 0.962 /
+        0.965 (GPT-5.4 mini). Registered verdict LIKERT-MORE-RELIABLE; the
+        difference also lies inside the ±0.03 margin and came from Gemini
+        (−0.026); GPT-5.4 mini's was EQUIVALENT (+0.003).
+      interpretation: >-
+        Both formats were near the ceiling of repeatability, so there was
+        almost no room for a checklist to improve consistency. The detection
+        floor showed that a checklist's fewer possible scores alone produce a
+        spurious LIKERT-MORE-RELIABLE verdict in 22.5% of simulated runs, so
+        the sign is not evidence that checklists are less consistent.
+    moderators:
+      reported:
+        - variable: output grid (number of possible scores)
+          relationship: >-
+            A coarser score lowers test–retest r on its own when the
+            correlation is high; in simulation, seven possible scores against
+            eleven gave the spurious verdict in 22.5% of runs.
+          source_quote: >-
+            "in a simulation that gave the checklist seven possible scores (six
+            checks) this alone produced a spurious 'Likert more reliable'
+            verdict in 22.5% (short-answer assessments)"
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "The checklist was lower by 0.011 in test–retest … That difference is
+      clear by the registered rule and also lies inside the ±0.03 margin."
+    source_location: article §5.1, Table 1
+
+  - id: cross-model-short-answers
+    sample: {value: 620, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Agreement between two LLM graders
+      source_language: dX, the checklist-minus-Likert difference in cross-model r
+      measure: Pearson r between the two models' mean scores, differenced
+      scale: "-2 to 2"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Mean of two calls per model}
+    result:
+      measure_type: other
+      estimate: 0.021
+      ci_lower: -0.022
+      ci_upper: 0.067
+      interval_type: confidence
+      model: Cross-model r 0.885 (Likert) and 0.906 (checklist); verdict UNRESOLVED.
+      interpretation: Too uncertain to call; the registered prediction (dX above zero) held only on the point estimate.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "Agreement between the two models was 0.885 for Likert and 0.906 for the
+      checklist, a difference of +0.021 too uncertain to call."
+    source_location: article §5.1, Table 1
+
+  - id: reliability-programs
+    sample: {value: 226, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Reliability of an LLM grader's scores on student programs
+      source_language: dX (cross-model) on Readability; dR and dX across four dimensions
+      measure: Checklist-minus-Likert difference in Pearson r
+      scale: "-2 to 2"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Two independent calls per item}
+    result:
+      measure_type: other
+      estimate: -0.567
+      ci_lower: -0.675
+      ci_upper: -0.428
+      interval_type: confidence
+      model: >-
+        Readability cross-model, the largest of four clear differences, all
+        favoring Likert: test–retest Correctness −0.174 [−0.280, −0.063] and
+        Readability −0.192 [−0.429, −0.076]; cross-model Code Elegance −0.354
+        [−0.486, −0.200] and Readability −0.567. The other four program
+        comparisons were too uncertain to call.
+      interpretation: >-
+        Where the data clearly showed a difference on programs, the checklist
+        was less reliable. Part of the cross-model loss is Gemini's checklist
+        answering YES to nearly every check on Code Elegance and Readability
+        (mean scores 0.990 and 0.994), so its scores barely varied.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "In the assessments of software programs, every clear difference favored
+      the Likert format, by 0.17 to 0.57."
+    source_location: article §5.1, Table 1
+
+  - id: human-agreement-short-answers
+    sample: {value: 620, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Agreement of an LLM grader's scores with human raters
+      source_language: dH, the checklist-minus-Likert difference in r with the mean human score (registered as validity)
+      measure: Pearson r with the mean of two raters' scores, differenced and averaged over two models
+      scale: "-2 to 2"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Mean of two calls}
+    result:
+      measure_type: other
+      estimate: -0.106
+      ci_lower: -0.165
+      ci_upper: -0.048
+      interval_type: confidence
+      model: >-
+        r with the human mean 0.764 / 0.688 (Gemini, Likert / checklist) and
+        0.819 / 0.682 (GPT-5.4 mini); the two raters agree with each other at
+        0.621. Registered verdict LIKERT-MORE-VALID.
+      interpretation: >-
+        The checklist agreed less with the human raters for both models, and
+        not because its scores varied more from call to call (test–retest 0.96
+        or above in both formats).
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The human reference is itself unreliable (r 0.621 between the raters);
+      attenuation scales both formats' correlations by the same factor, so it
+      can shrink the difference but not reverse its sign.
+    source_quote: >-
+      "In the short-answer assessments the checklist agreed less with the
+      raters for both models, by 0.075 for Gemini and 0.137 for GPT-5.4 mini."
+    source_location: article §5.2, Table 2
+
+  - id: under-credit-partly-correct
+    sample: {value: 145, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-checklist-defects
+    outcome:
+      construct: Signed error against human raters for partly correct answers
+      source_language: G, checklist minus Likert signed error in the MID band (human mean between 2.5 and 4.5)
+      measure: Score minus human mean over 5, on 0–1, pooled over models; difference between formats
+      scale: "-1 to 1"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Mean of two calls}
+    result:
+      measure_type: mean_difference
+      estimate: -0.178
+      ci_lower: -0.234
+      ci_upper: -0.120
+      interval_type: confidence
+      unit: share of the 0–1 scale
+      model: >-
+        MID band, verdict CHECKLIST-LOWER. HIGH band (410 answers): −0.111
+        [−0.143, −0.081], CHECKLIST-LOWER. LOW band (65 answers): +0.022
+        [−0.071, +0.120], too uncertain to call; the registered prediction that
+        the checklist would over-credit wrong answers failed.
+      interpretation: >-
+        The checklist under-credited partly and fully correct answers, which is
+        consistent with its lower agreement with the raters. Band means do not
+        decompose a correlation.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "It under-credited answers the raters judged partly correct by 0.178
+      more than the Likert format in the MID band, and fully correct ones by
+      0.111 more in the HIGH band."
+    source_location: article §5.2, Table 3
+
+  - id: false-sentence-contrast
+    sample: {value: 120, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Sensitivity of a grader's score to a false claim in an answer
+      source_language: C, the checklist's change minus the Likert change when a false sentence replaces a length-matched neutral one
+      measure: Mean change in score on 0–1, pooled over two models
+      scale: "-2 to 2"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Two calls per form}
+    result:
+      measure_type: mean_difference
+      estimate: 0.302
+      ci_lower: 0.255
+      ci_upper: 0.348
+      interval_type: confidence
+      unit: share of the 0–1 scale
+      model: >-
+        A false sentence lowered a good answer 0.473 on the Likert scale and
+        0.172 on the checklist. Same direction for both models (0.361 and 0.243
+        smaller). Verdict CHECKLIST-BLIND-TO-CONTRADICTION.
+      interpretation: >-
+        The checklist registered a false claim about a third as much as the
+        Likert format (0.36 times, computed before rounding).
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The planted sentences were written by one model and checked by another,
+      not by a person; they are clear contradictions of the key point, and
+      subtler errors may be registered less by both formats.
+    source_quote: >-
+      "One false sentence lowered a good answer 0.473 on the Likert scale and
+      0.172 on the checklist score."
+    source_location: article §5.3, Table 4
+
+  - id: key-terms-contrast
+    sample: {value: 112, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Credit given for key terms used without understanding
+      source_language: C for a key-terms sentence appended to a weak answer
+      measure: Mean change in score on 0–1, pooled over two models
+      scale: "-2 to 2"
+      direction: lower-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Two calls per form}
+    result:
+      measure_type: mean_difference
+      estimate: 0.075
+      ci_lower: 0.014
+      ci_upper: 0.136
+      interval_type: confidence
+      unit: share of the 0–1 scale
+      model: >-
+        Key terms raised the Likert score 0.273 and the checklist 0.348.
+        Verdict CHECKLIST-REWARDS-STUFFING; clear pooled and for Gemini, too
+        uncertain to call for GPT-5.4 mini (+0.031 [−0.028, +0.089]).
+      interpretation: >-
+        Both formats credited key terms without understanding, the checklist
+        more; the gain came entirely from presence checks turning NO to YES.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "Key terms without understanding raised both formats, by 0.273 (Likert)
+      and 0.348 (checklist)."
+    source_location: article §5.3, Table 4
+
+  - id: error-checks-share
+    sample: {value: 77, unit: items}
+    arm_ref: checklist
+    analysis_ref: grader-checklist-defects
+    outcome:
+      construct: Share of a checklist's response to a false claim carried by checks that look for errors
+      source_language: S, the error checks' share of the checklist's loss to a false sentence (registered as the avoid share)
+      measure: Mean change on error checks divided by mean change in the checklist score, pooled over two models
+      scale: "ratio"
+      direction: contextual
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Two calls per form}
+    result:
+      measure_type: other
+      estimate: 0.760
+      ci_lower: 0.639
+      ci_upper: 0.915
+      interval_type: confidence
+      model: >-
+        On the 77 answers whose checklist had at least one error check. Verdict
+        AVOID-CHECKS-CARRY-THE-LOSS. Re-scored on presence checks alone, the
+        same answers would have lost 0.095 instead of 0.224 (K +0.129 [+0.084,
+        +0.177], AVOID-CHECKS-ADD-SENSITIVITY). The 43 answers with no error
+        check lost 0.079, where the Likert format lost 0.442.
+      interpretation: >-
+        A checklist written from a reference answer registers a false claim
+        mainly through checks written to look for errors; as counted items they
+        did not bring it to the Likert format's sensitivity.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Error checks are identified by a word rule ("avoid") over checklist text
+      the release does not publish; checks that look for errors without that
+      word count as presence checks.
+    source_quote: >-
+      "Where a checklist had error checks, those checks carried 76% of its loss
+      to a false sentence."
+    source_location: article §5.3, Table 5
+
+  - id: human-agreement-programs
+    sample: {value: 226, unit: items}
+    comparison_ref: checklist-vs-likert
+    analysis_ref: grader-boolean-rubrics
+    outcome:
+      construct: Agreement of an LLM grader's scores with human raters on student programs
+      source_language: dH on Menagerie Correctness
+      measure: Pearson r with the mean human grade, differenced and averaged over two models
+      scale: "-2 to 2"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+    time: {label: Mean of two calls}
+    result:
+      measure_type: other
+      estimate: 0.073
+      ci_lower: -0.008
+      ci_upper: 0.150
+      interval_type: confidence
+      model: >-
+        Correctness, the one dimension both models scored with any agreement
+        (Gemini 0.405 / 0.433); verdict UNRESOLVED. On Code Elegance,
+        Readability and Documentation the models tracked the raters weakly or
+        not at all (GPT-5.4 mini negative in both formats on every dimension).
+      interpretation: >-
+        Uninformative about the formats: a comparison is not interpretable where
+        neither format tracks the raters. With 226 submissions, differences up
+        to about 0.15 in r could go undetected.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    source_quote: >-
+      "In the assessments of software programs the question could not be
+      answered, because the models tracked the raters weakly or not at all on
+      most dimensions."
+    source_location: article §5.2, Table 2
+
+not_yet_extracted:
+  - The per-tuple ICC comparison with the health framework's unit (§5.1).
+  - Per-model human-agreement differences on programs that part in opposite directions (§5.2).
+  - Reversal rates of error and presence checks against call-to-call disagreement (§5.3).
