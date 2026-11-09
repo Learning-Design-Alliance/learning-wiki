@@ -2209,15 +2209,15 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   (<code>okf_lib.dump_json_records</code>). Change their shape only additively. <strong>No copy of the index lives
   anywhere else</strong> (checked 2026-10-20: not in the Lazuli app, not in learning-design-spec, whose
   docs describe a platform copy that was never committed). Its readers read this repo directly:
-  Learning-engineering-research's <code>wiki_agent.py</code> reads <code>pages</code> from a local checkout, and the spec's
-  <code>check-wiki-links.py</code> checks page URLs. So there is nothing to keep in sync.</li>
-<li><strong>The page records are also written sharded, to <code>wiki-index/&lt;kind&gt;/&lt;xx&gt;.ndjson</code></strong> (first two characters
-  of the id, one record per line; maintainer, 2026-11-07). <code>wiki-index.json</code> had reached 48 MB, 41 MB of it
-  <code>pages</code>, growing about 1 MB a batch toward GitHub's 100 MB file limit. The shards are additive:
-  <code>wiki-index.json</code> keeps its full shape until the two readers above read <code>pages</code> from the shards, and only
-  then does <code>pages</code> leave it (<code>resolve</code>, <code>moved</code>, <code>kinds</code> and <code>counts</code> stay). <code>build_wiki_index.py --check</code>
-  checks both. Do not drop <code>pages</code> before both readers have moved: one is in another repo and would break
-  silently.</li>
+  Learning-engineering-research's <code>wiki_agent.py</code> reads the page records from a local checkout, and the
+  spec's <code>check-wiki-links.py</code> checks page URLs (it never read the index). So there is nothing to keep in sync.</li>
+<li><strong>The page records live in <code>wiki-index/&lt;kind&gt;/&lt;xx&gt;.ndjson</code>, not in <code>wiki-index.json</code></strong> (first two
+  characters of the id, one record per line; sharded 2026-11-07, <code>pages</code> dropped 2026-11-09, maintainer).
+  <code>wiki-index.json</code> had passed GitHub's 50 MB warning on its way to the 100 MB limit, 41 MB of it <code>pages</code>; it
+  now holds only <code>resolve</code>, <code>moved</code>, <code>kinds</code> and <code>counts</code> (9.4 MB). Its readers moved first: <code>wiki_agent.py</code>
+  (Learning-engineering-research#35) and <code>mcp_server.py</code> read the shards, falling back to <code>pages</code> for an
+  older checkout. <code>build_wiki_index.py --check</code> checks both. Do not put <code>pages</code> back: the shards are the
+  record, and a second copy is a second place to drift.</li>
 <li><strong><code>canonical: true</code></strong> marks the pages the candidate ledger settles against
   (<code>settle_candidates.py --mark-canonical</code>), and every learner-variable page. Search ranks them
   first when a query names them.</li>
