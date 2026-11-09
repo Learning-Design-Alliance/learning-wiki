@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/modified-mistels-low-cost-box-inter-rater-reliability.md
+---
+
+# Revision history: [claims/modified-mistels-low-cost-box-inter-rater-reliability](../claims/modified-mistels-low-cost-box-inter-rater-reliability.md)
+
+### 2026-11-08 · ingest · process:wiki-ingest
+Ingested from pmc-6503379 (Reliability testing of a modified MISTELS score using a low-cost trainer box.) via eval_harness.py + ingest_extractions.py

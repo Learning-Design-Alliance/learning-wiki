@@ -54,3 +54,4 @@ Descriptive within-group training data for the five 3D-model trainees (Table 2 a
 - [Across repeated simulation sessions, residents showed a slight increase in skills assessment score and a decline in operative time](repeated-simulation-sessions-slight-score-increase-time-decline.md) — related
 - [In one single-group pre-post study, VSD and RVOT patch appliance times fell significantly from the first to third simulation surgery among inexperienced cardiothoracic surgeons on a 3D-printed TOF model](simulation-surgery-3d-tof-model-reduces-patch-appliance-time.md) — related
 - [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
+- [Beginners' simulator procedure times shorten significantly with repeated trials](beginner-procedure-times-shorten-with-repetition.md) — a narrower finding that bears on this claim

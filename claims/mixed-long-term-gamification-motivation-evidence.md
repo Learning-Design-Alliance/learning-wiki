@@ -48,3 +48,4 @@ This is a narrative-review claim: the article attributes, citing Hanus et al. (2
 - [Review reports contradictory findings in prior literature on whether gamification yields long-term benefits for motivation and learning outcomes](prior-literature-contradictory-long-term-benefits-gamification.md) — possibly the same claim (merge candidate)
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
+- [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — reports the opposite

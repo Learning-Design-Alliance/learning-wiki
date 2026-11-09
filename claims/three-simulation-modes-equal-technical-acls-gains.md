@@ -75,3 +75,4 @@ Between-group ANOVA comparison at baseline and immediately after training found 
 - [Secondary task times (e.g., time to defibrillation) improved then decayed, with no between-group differences; compression quality showed no group differences](secondary-outcomes-no-group-differences.md) — related
 - [Other timed ACLS actions (first pulse check, compressions, defibrillation, epinephrine, antiarrhythmic) did not differ significantly between RCDP and IS groups, though trends favored RCDP](rcdp-other-timed-acls-metrics-null.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
+- [SBMT is the preferred method for teaching several emergency technical skills, including chest compressions and cardioversion/defibrillation](sbmt-preferred-method-emergency-technical-skills.md) — related

@@ -78,3 +78,4 @@ Participant quote framing simulation as practice for adapting communication appr
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — related
 - [SPs maintained agitation throughout the inpatient case but de-escalated much quicker in the outpatient case, and SPs reported difficulty sustaining high agitation](sp-agitation-maintenance-varied-by-case.md) — a narrower finding that bears on this claim
 - [Teachers perceive structured role-playing as promoting active learning and professional skill development, though time-intensive](role-playing-structured-use-positively-assessed.md) — related
+- [Role-playing patients led students to reflect on the experiences of complex geriatric patients, including frustration when their perspectives were dismissed](gps-care-complex-patient-perspective-reflections.md) — related

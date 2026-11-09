@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (16 for, 7 mixed, 3 against) · 19 studies (9 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 19 report an effect size · 26 claims rest on one study
+> **Evidence** · 28 claims (18 for, 7 mixed, 3 against) · 21 studies (10 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 28 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -62,6 +62,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Peer role-play did not significantly improve mini-CEX history-taking, communication, professionalism, or management scores](../claims/peer-roleplay-null-domains-mini-cex.md) [-W] — attached 2026-11-08 from Yamauchi Kazuyo et al. (2021), which proposed "Peer role-playing simulation programme for MSK physical examination and clinical reasoning"; tests this page's relationship.
 - [Adding profession-role exchange to interprofessional community service learning markedly further increases medical and pharmacy students' positive attitudes toward physician-pharmacist collaboration compared with the control IPE activity](../claims/role-exchange-increases-physician-pharmacist-collaboration-attitudes.md) [+W] — attached 2026-11-08 from Wang J et al. (2020), which proposed "Profession-role exchange component in an interprofessional student team-based community health service-learning experience"; tests this page's relationship.
 - [Profession-role exchange further increases role clarification scores on the RIPLS Roles and responsibilities subscale among students from all three health-care professions](../claims/role-exchange-increases-ripls-role-clarification.md) [+W] — attached 2026-11-08 from Wang J et al. (2020), which proposed "Profession-role exchange component in an interprofessional student team-based community health service-learning experience"; tests this page's relationship.
+- [Pharmacy students overwhelmingly endorse communication skills training and prefer role play as the learning method](../claims/students-endorse-cst-role-play-preferred.md) [+W] — attached 2026-11-08 from Jin Hye Kyung et al. (2019), which proposed "Communication skills and patient counseling training session combining lecture, role play, video review, and instructor feedback".
+- [Role-playing geriatric patients navigating a fragmented care system increased preclinical medical students' understanding of integrated care](../claims/gps-care-role-play-increased-ic-understanding.md) [+M] — attached 2026-11-08 from Yang S et al. (2019), which proposed "GPS-Care (Getting to Know Patients' System of Care) interprofessional simulation"; tests this page's relationship.
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

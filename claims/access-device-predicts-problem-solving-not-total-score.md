@@ -71,3 +71,4 @@ In the same regression analyses, access modality did not significantly predict t
 - [Students with access to problem-based learning modules in the blended course had a significantly higher total medical statistics score than blended-learning-only students](pbl-modules-higher-total-medical-statistics-score.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
+- [Number of failed subjects differs significantly by connecting device type among LMS-connecting students](device-type-failed-subjects-differences.md) — related

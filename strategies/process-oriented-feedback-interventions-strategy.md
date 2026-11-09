@@ -48,6 +48,7 @@ This strategy supplements a deliberate-practice simulation program with three co
 ## Related Strategies
 
 - [Implement process-oriented procedural training programs and then assess transfer of the approach to real-world clinical settings](assess-transfer-process-oriented-training-clinical-settings.md)
+- [Use composed PRE–POST–EXP process model views to give feedback on rework, order, and time performance](composed-pre-post-exp-model-views-strategy.md)
 
 ## Examples
 -

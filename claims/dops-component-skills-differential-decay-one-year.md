@@ -70,3 +70,4 @@ From the same per-skill DOPS analysis (Table 1): scene safety showed a non-signi
 - [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
+- [Hand placement for compressions was performed more correctly in the BLS group at six months, while compression depth and rate showed no significant group differences](web-education-no-compression-quality-advantage.md) — related

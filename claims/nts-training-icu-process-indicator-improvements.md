@@ -51,3 +51,4 @@ Systematic review synthesis of process indicators from before-and-after studies 
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
 - [A mortality reduction from trauma training appeared only in the severe-injury subgroup, not overall](ttt-mortality-reduction-severe-injuries-subgroup.md) — related
 - [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
+- [Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU](tele-education-reduced-icu-mortality-limited-resource.md) — related

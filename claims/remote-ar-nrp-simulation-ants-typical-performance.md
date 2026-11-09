@@ -70,3 +70,4 @@ Descriptive ANTS element-level results from the same feasibility study (Table 2)
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
 - [Some nontechnical skill behaviors remain unimproved or below average after the educational intervention](some-behaviors-unimproved-after-educational-intervention.md) — related
+- [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 349 claims (244 show a difference, 66 mixed, 39 no difference) · 231 studies (89 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 50 of 231 report an effect size · 341 claims rest on one study
+> **Evidence** · 354 claims (248 show a difference, 67 mixed, 39 no difference) · 232 studies (90 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 51 of 232 report an effect size · 346 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -389,6 +389,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](../claims/higher-perceived-stress-in-recently-trained-group.md) [+M] — measured as an outcome of the instruction studied
 - [The test anxiety interventions did not change end-of-course self-declared trait anxiety](../claims/test-anxiety-intervention-no-trait-anxiety-change.md) [-M] — measured as an outcome of the instruction studied
 - [In one single-group pre-post study, nurses' self-reported confidence in coping with patient aggression rose from pre-test to post-test after workplace violence simulation training](../claims/simulation-training-increases-confidence-coping-aggression.md) [+M] — measured as an outcome of the instruction studied
+- [Autonomy-supportive teaching partially mediates the relationships of mindfulness with need satisfaction and need frustration](../claims/autonomy-support-teaching-partial-mediator-mindfulness-needs.md) [+W] — learners who differ on it differ in outcomes
+- [Autonomy-supportive teaching, mindfulness, and need outcomes are intercorrelated, with mindfulness most strongly linked to lower need frustration](../claims/correlations-teaching-mindfulness-need-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Mindfulness buffers the negative association between autonomy-supportive teaching and need frustration](../claims/mindfulness-buffers-teaching-need-frustration.md) [~W] — an instructional effect differs with it
+- [Perceived autonomy-supportive teaching negatively predicts students' basic psychological need frustration in physical education classes](../claims/autonomy-supportive-teaching-predicts-need-frustration-pe.md) [+M] — measured as an outcome of the instruction studied
+- [Trait mindfulness positively predicts need satisfaction and negatively predicts need frustration among PE students](../claims/mindfulness-predicts-need-satisfaction-frustration.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

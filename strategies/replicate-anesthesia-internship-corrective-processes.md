@@ -48,6 +48,7 @@ The authors recommend extending evaluation of the internship model beyond their 
 
 - [Tailor postgraduate educational programs to performance-trajectory subtypes and average internship scores across a year of monthly evaluations](tailored-programs-and-yearlong-internship-score-averaging.md)
 - [Extend experiential radiology education with clinical participation programmes such as radiology triage and department internships](radiology-triage-internship-extension-strategy.md)
+- [Replicate and extend the evaluation with comparative and correlative designs at other institutions, and evaluate enhanced postgraduate HIV training programmes](replicate-hiv-training-evaluation-comparative-designs.md)
 
 ## Examples
 -

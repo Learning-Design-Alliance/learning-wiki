@@ -51,6 +51,7 @@ The article recommends that the first part of the learning curve take place in '
 - [Incorporate PBP systematically into academic/institutional surgical training curricula for novice CIED implanters](systematic-pbp-in-cardiology-training-curricula.md)
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
+- [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 
 ## Examples
 -

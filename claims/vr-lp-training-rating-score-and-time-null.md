@@ -57,3 +57,4 @@ First LP assessment in the randomized trial (88 students, blinded dual scoring).
 - [Nonimmersive VR simulation training produced no significant difference in theoretical test scores compared with conventional training](nivr-isolation-training-no-theoretical-score-difference.md) — related
 - [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related
 - [Students who received LP simulation training had a higher first-LP success rate in real patients than untrained controls (67% vs 14%)](lp-simulation-higher-first-lp-success.md) — related
+- [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](fluency-lumbar-puncture-five-trials-95-minutes.md) — related

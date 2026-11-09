@@ -72,3 +72,4 @@ Exploratory quartile analysis of the same presence effect on homework explanatio
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best](clicker-vote-patterns-null-on-homework-explanations.md) — related
+- [Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect](worksheets-clear-effect-clickers-weak.md) — related

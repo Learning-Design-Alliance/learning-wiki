@@ -61,3 +61,4 @@ Platform usage tracking in the crossover RCT measured AI-group time on task, sho
 - [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](time-task-days-handin-word-forum-related-to-marks.md) — related
 - [Self-paced VPS repetition is modest in practice: learners complete about 2 attempts per scenario in roughly 45 minutes despite a 70-minute allowance](vps-modest-time-on-task-attempts.md) — related
 - [Participants spent less time on an e-learning module (mean 88.1 minutes) than on all written course material (mean 162.9 minutes)](elearning-preparation-time-shorter.md) — related
+- [A 10% increase in group work time correlates with a 0.30 increase in effect size (about 3% performance improvement)](ten-percent-group-work-time-effect-size-gain.md) — related

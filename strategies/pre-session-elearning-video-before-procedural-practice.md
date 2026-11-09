@@ -61,6 +61,7 @@ Provide learners with a short instructional video available for flexible, repeat
 - [Alternate short e-Learning units with separate hands-on exercises that require active recall of the content away from the screen](alternating-elearning-units-with-separate-hands-on-recall.md)
 - [Demonstration-Based Flipped Classroom](demonstration-based_flipped_classroom.md)
 - [Deliver flipped-learning pre-simulation briefing materials (short online videos plus a theory-based briefing form) before simulation practice](flipped-pre-simulation-briefing-strategy.md)
+- [Bedside hands-on training combining lectures, pelvic model practice, and supervised clinical application](hands-on-bpst-bedside-training-strategy.md)
 
 ## Examples
 -

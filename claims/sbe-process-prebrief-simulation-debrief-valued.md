@@ -49,3 +49,4 @@ Qualitative thematic analysis, process theme (debrief category), from focus grou
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — related
+- [Five mechanisms supported learning in powerful SBE narratives: verisimilitude; feedback, debriefing and facilitation; observation of self and others; repetition of activities; and role-playing the patient](sbe-learning-mechanism-themes.md) — related

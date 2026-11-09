@@ -70,3 +70,4 @@ Welch's t-test comparison of time to first IM epinephrine in VR2; the article re
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
 - [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — related
 - [VR training after crossover was associated with a significantly shorter diagnosis-to-delivery time, driven by the control group](vr-training-shorter-diagnosis-to-delivery-time.md) — related
+- [Beginners' simulator procedure times shorten significantly with repeated trials](beginner-procedure-times-shorten-with-repetition.md) — related

@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (23 for, 41 mixed, 5 against) · 46 studies (14 causal, 13 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 46 report an effect size · 68 claims rest on one study
+> **Evidence** · 70 claims (24 for, 41 mixed, 5 against) · 47 studies (14 causal, 13 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 47 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [GRE scores correlate with time to degree in opposite directions for international and URM students](../claims/gre-scores-ttd-demographic-specific.md) [+M] — attached 2026-11-07 from Walters T et al. (2022), which proposed "Use GRE percentiles rather than GRE scores within a nuanced holistic review"; tests this page's relationship.
 - [OSCE checklist item scores do not differ significantly between performances with and without a non-native English accent](../claims/nnea-no-effect-osce-checklist-scores.md) [~W] — attached 2026-11-08 from Kozato An et al. (2020), which proposed "Reassure students with non-native English accents that OSCE examiners mark performance, not accent, to prevent stereotype-threat impedance"; tests this page's relationship.
 - [OSCE global scores show no statistically significant difference by accent, though a minor non-significant increase favouring unaccented videos was observed](../claims/nnea-no-significant-effect-osce-global-scores.md) [~W] — attached 2026-11-08 from Kozato An et al. (2020), which proposed "Reassure students with non-native English accents that OSCE examiners mark performance, not accent, to prevent stereotype-threat impedance"; tests this page's relationship.
+- [Longer math tests are associated with a smaller gender gap: males lead by about 0.2 standard deviations on short tests, with parity reached at 125 questions](../claims/longer-math-tests-smaller-gender-gap.md) [+W] — attached 2026-11-08 from Balart et al. (2019), which proposed "Use test length as a tool for reducing gender gaps in test scores, extending time framed as rewarding sustained performance rather than compensating for weakness"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

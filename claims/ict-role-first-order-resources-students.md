@@ -50,3 +50,4 @@ Initial interview findings from seven science teachers and six educational stake
 - [Transformation of curriculum and traditional courses is an important prerequisite for scaled implementation, requiring substantial resources and support](curriculum-redesign-prerequisite-resources.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
+- [The main barriers to SBMT implementation are lack of experts, lack of school director support, lack of organisation and lack of teaching materials](barriers-sbmt-implementation-italian-residencies.md) — related

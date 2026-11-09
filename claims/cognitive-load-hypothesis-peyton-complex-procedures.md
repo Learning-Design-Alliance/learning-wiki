@@ -54,3 +54,4 @@ Authors' theoretical interpretation in the Discussion, invoking cognitive load t
 - [The authors attribute the absent additive effect to possible cognitive overload of novice learners exposed to multiple complex modalities simultaneously](cognitive-overload-explanation-dual-modality.md) — related
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related
+- [The authors propose that the effect of concurrent or frequent feedback depends on the learner's skill level relative to task complexity, which may explain the null retention effect](feedback-skill-level-moderation-hypothesis.md) — related

@@ -47,3 +47,4 @@ Within the 'OSCEs are inauthentic' theme of the 31-interview qualitative study, 
 ## Related Claims
 - [Students who perceive assessment demands as assessing deep, higher-level cognitive processing employ deep approaches, while those perceiving rote-recall demands employ surface approaches](perceived-assessment-demands-approaches.md) — a broader claim this one bears on
 - [OSCE raters perceive the examination as fundamentally inauthentic, including its scenarios, simulated patients and marking systems](raters-perceive-osces-inauthentic.md) — related
+- [Trainees who adopted a tick-box goal generally took an opportunistic approach in the translation phase and consequently perceived less positive mini-CEX outcomes](tick-box-goal-opportunistic-poorer-outcomes.md) — related

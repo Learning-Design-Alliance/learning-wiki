@@ -48,7 +48,8 @@ The article reports that students proved able to use the SNAPPS method after a s
 - [SNAPPS lengthens student speech but not total session time compared with OMP](../claims/snapps-time-efficient-student-speech.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Sensitize both preceptors and residents to SNAPPS through two 30-minute sessions using instructional video, role-play and a six-step handout before inpatient implementation](snapps-two-session-sensitization-protocol.md)
 
 ## Examples
 -

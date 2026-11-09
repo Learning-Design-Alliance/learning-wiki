@@ -52,3 +52,4 @@ Quasi-experiment assigning 117 third-year clinical medicine students to FC (n = 
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
+- [The post-quiz advantage of the combined flipped classroom + PBL group is confined to clinical case analysis, with no significant difference in basic theoretical knowledge](flipped-pbl-advantage-clinical-case-analysis-only.md) — related

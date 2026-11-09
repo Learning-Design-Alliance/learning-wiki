@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 335 claims (257 show a difference, 44 mixed, 34 no difference) · 267 studies (90 causal, 87 associational, 33 review, 25 qualitative, 14 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 55 of 267 report an effect size · 331 claims rest on one study
+> **Evidence** · 341 claims (257 show a difference, 47 mixed, 37 no difference) · 269 studies (90 causal, 88 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 56 of 269 report an effect size · 337 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -366,6 +366,12 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [GP supervisors also increase confidence in clinical abilities after a modified dementia workshop, but registrars improve significantly more](../claims/supervisor-confidence-gain-smaller-than-registrars.md) [+M] — measured as an outcome of the instruction studied
 - [At baseline, substantial minorities of Flemish GPs reported attitudes, perceptions and self-efficacy beliefs that were barriers to adhering to BZD prescribing guidance](../claims/baseline-bzd-prescribing-barriers-flemish-gps.md) [+M] — learners who differ on it differ in outcomes
 - [GPs had difficulty making psychiatric diagnoses due to lacking ability and confidence, misunderstandings about diagnoses, and unclear qualifications](../claims/gps-difficulty-making-psychiatric-diagnosis.md) [+M] — learners who differ on it differ in outcomes
+- [Confidence bias is strongly dependent on cognitive task performance (r = 0.51 with decision analysis), whereas confidence judgement is only modestly correlated (r = 0.16)](../claims/confidence-bias-dependent-on-task-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Confidence bias predicted passing first year of medical school at first attempt, but the effect did not survive control for background variables](../claims/confidence-bias-predicts-first-year-pass-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [Confidence judgement showed no association with any undergraduate academic performance outcome in medical school](../claims/confidence-judgement-no-academic-outcome-association.md) [-M] — learners who differ on it differ in outcomes
+- [Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer](../claims/confidence-judgement-not-independent-offer-predictor.md) [~M] — learners who differ on it differ in outcomes
+- [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](../claims/no-sweet-spot-online-confidence.md) [-M] — learners who differ on it differ in outcomes
+- [Workshop participants showed higher geriatric self-efficacy than controls, with 75% of workshop completers rating high self-efficacy versus 40% of controls, though trends were not statistically significant](../claims/geriatrics-5ms-workshop-self-efficacy-higher-than-controls.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

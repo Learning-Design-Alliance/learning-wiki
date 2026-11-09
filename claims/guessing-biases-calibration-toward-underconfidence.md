@@ -53,3 +53,4 @@ Analytical argument in the simulation study's discussion section: because guesse
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related
+- [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](no-sweet-spot-online-confidence.md) — related

@@ -55,3 +55,4 @@ Feedback questionnaire given to observation-group students only (n=25) after the
 - [Medical students' confidence in obtaining patient consent rose significantly from pre-test to post-test within the CST group](cst-raises-consent-confidence.md) — related
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
 - [Role-play scores did not correlate with next-day patient-encounter scores when the complaint was the same](same-complaint-no-correlation-roleplay-encounter.md) — related
+- [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related

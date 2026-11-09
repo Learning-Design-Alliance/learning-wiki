@@ -51,3 +51,4 @@ Propensity-matched comparison of 13,432 AVR pairs from the national audit; the a
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
 - [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related
+- [Postoperative hospital stay was shorter in trainee cases than consultant cases, reflecting case mix rather than trainee performance](shorter-stay-trainee-cases.md) — related

@@ -51,3 +51,4 @@ Residents' opinions, not a tested comparison: this is the article's own summary 
 - [Residency year is the only independent predictor of residents' contribution to teaching at FMSo](residency-year-predictor-teaching-contribution.md) — related
 - [Participants perceive formal training as less effective than informal techniques but still valuable, preferring simulation and didactics combined with hands-on methods over didactics alone](formal-training-valued-but-secondary.md) — related
 - [Incomplete participation in a short supervision training workshop was associated with no significant improvement in teaching ability](incomplete-participation-no-teaching-ability-gain.md) — related
+- [Participants recommended experiential learning strategies — role-plays and contact with CAM practitioners — for teaching CAM to clinical psychologists](experiential-cam-learning-role-plays-practitioners.md) — related

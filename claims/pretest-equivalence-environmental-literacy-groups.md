@@ -53,3 +53,4 @@ Independent samples t-tests on pre-test Environmental Literacy Scale scores (Tab
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
 - [Experimental and control groups differed systematically at pretest in budget knowledge, science interest, environmental concern, and environmental actions](pretest-group-differences-self-selection.md) — reports the opposite
 - [Learning gains did not differ by campus location.](pi-gains-comparable-across-campuses.md) — related
+- [No significant performance differences between randomly assigned Groups A and B on any assessment component](group-a-b-no-significant-differences.md) — related

@@ -50,3 +50,4 @@ Multiple regression using mean ratings from two communication-skill OSCE station
 - [Prediction of OSCE performance did not depend on whether first impression and MMI performance were rated by the same rater or by different raters](prediction-independent-rater-identity.md) — related
 - [Total scores for first impression and MMI performance correlated at r = 0.49 in the 2012 selection cohort](fir-mmi-correlation-r049.md) — related
 - [First impression correlated with MMI performance slightly more strongly when both were rated by the same rater (r = 0.44) than by different raters (r = 0.37), but the correlation persisted across raters](fir-mmi-correlation-persists-across-raters.md) — related
+- [MMI performance significantly predicted OSCE communication station performance (r = 0.17) but was not significantly related to OSCE overall performance (r = 0.06)](mmi-predicts-osce-communication-not-overall.md) — related

@@ -54,3 +54,4 @@ Comparative analysis at the end of the rotation between a PBL+CBL group (n = 40)
 - [Students taught with PBL-CBL reported higher course satisfaction and teacher-student interaction than LBL students](pbl-cbl-higher-satisfaction-interaction.md) — related
 - [Students taught with a progressive blended case-based model scored significantly higher on the post-test than lecture-taught students in an integrated urology module](blended-cbl-higher-posttest-urology.md) — related
 - [After operation training, second theoretical scores improved significantly over the first in the combined groups (V-J and J-V, P < 0.0001)](operation-training-improved-theoretical-scores-combined-groups.md) — related
+- [Randomized trial: flipped classroom combined with PBL yields significantly higher post-quiz total scores than traditional lecture-based teaching in a hyperthyroidism endocrinology internship](flipped-pbl-combination-higher-post-quiz-hyperthyroidism.md) — related

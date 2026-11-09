@@ -48,3 +48,4 @@ Repeated-measures analysis of a randomized two-group study of 120 T2DM outpatien
 - [No significant difference in glucose and lipid reduction between peer support education and medical staff education](no-difference-peer-vs-staff-education.md) — possibly the same claim (merge candidate)
 - [Glucose and HbA1c improvements hold after stratification by age, sex, and education level, with no between-method difference](stratified-glucose-results-consistent.md) — possibly the same claim (merge candidate)
 - [Happiness, depression, quality-of-life, and self-care scale scores change significantly at 3 months in both groups, with no difference between education methods](psychosocial-scales-improve-3-months.md) — related
+- [Self-care behavior adherence for healthy diet, physical activity, blood glucose self-monitoring and risk reduction increased significantly more in the DSME+SE+CM group than in controls](se-cm-greater-self-care-behavior-improvement.md) — related

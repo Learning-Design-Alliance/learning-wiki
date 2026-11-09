@@ -54,3 +54,4 @@ A quantitative meta-analysis of correlational studies of classroom structure and
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
 - [Teacher autonomy support and provision of structure are positively correlated across studies, with a pooled correlation of r = 0.53](autonomy-support-structure-positive-correlation.md) — related
 - [Change in participants' context belief was predicted by the change in teachers' instructional practice with a low to medium Cohen (1988) effect size, with a negative β pointing out an inverse relationship.](context-belief-predicted-by-instructional-practice.md) — related
+- [Perceived autonomy support and provision of good materials are not directly linked to higher achievement once fixed effects are included](autonomy-support-materials-not-linked-achievement.md) — related

@@ -45,6 +45,7 @@ A sequenced recipe for building students' assessment skills: first teach student
 - [Checklists](checklists.md)
 - [Calibrated Peer Review](calibrated_peer_review.md)
 - [Use Rubrics And Exemplars](use-rubrics-and-exemplars.md)
+- [Use peer role-play with group-developed checklists and scenario exchange as a low-cost active-learning module for counseling skills training](peer-role-play-module-recipe.md)
 
 ## Examples
 -

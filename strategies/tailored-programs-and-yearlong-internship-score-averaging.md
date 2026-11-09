@@ -46,6 +46,7 @@ The authors recommend postgraduate programs matched to the three identified traj
 ## Related Strategies
 
 - [Replicate the internship model in Type 1 and 2 universities and apply corrective processes to eliminate identified weaknesses](replicate-anesthesia-internship-corrective-processes.md)
+- [Replicate and extend the evaluation with comparative and correlative designs at other institutions, and evaluate enhanced postgraduate HIV training programmes](replicate-hiv-training-evaluation-comparative-designs.md)
 
 ## Examples
 -

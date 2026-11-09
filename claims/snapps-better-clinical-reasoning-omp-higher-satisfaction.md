@@ -58,3 +58,4 @@ The article reports, citing comparison research (ref 31), that SNAPPS performed 
 - [SNAPPS students more often take the initiative to present and justify diagnoses and management plans than OMP students](snapps-more-initiative-case-presentation.md) — related
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite
 - [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
+- [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related

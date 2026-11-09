@@ -51,3 +51,4 @@ Monocentric prospective controlled simple-blind randomized study during 2017–2
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [No difference between simulation and control groups in students' subjective experience or number of puncture attempts at first real LP](lp-simulation-no-difference-experience-attempts.md) — related
+- [First-attempt lumbar puncture failure rate was 45% among surveyed trainees](45-percent-first-attempt-lp-failure.md) — related

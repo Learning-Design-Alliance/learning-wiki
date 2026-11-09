@@ -50,3 +50,5 @@ Self-report outcome from the same pre-post confidence questionnaire completed by
 - [Confidence gains after psychiatric simulation training are significant for each scenario: post-injection syndrome, deliberate self-harm, and non-fatal hanging](scenario-specific-confidence-gains-psychiatric-simulation.md) — related
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
+- [Staff valued using their own equipment and familiar surroundings in situ, reporting that equipment familiarity was a fundamental element for learning](own-equipment-familiarity-fundamental-learning.md) — related
+- [All three centres changed staff training and equipment practices after the simulation, mainly to increase equipment familiarity and training frequency](postparticipation-training-changes.md) — related

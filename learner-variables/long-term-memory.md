@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (148 show a difference, 62 mixed, 43 no difference) · 167 studies (92 causal, 32 review, 17 quant-synthesis, 10 associational, 10 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 55 of 167 report an effect size · 245 claims rest on one study
+> **Evidence** · 255 claims (149 show a difference, 63 mixed, 43 no difference) · 169 studies (93 causal, 32 review, 17 quant-synthesis, 10 associational, 10 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 55 of 169 report an effect size · 247 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -288,6 +288,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](../claims/cue-integration-improves-word-list-recall-exp3.md) [+M] — measured as an outcome of the instruction studied
 - [In Experiment 3's delayed recall 1, the exercise-plus-cue-integration group outperformed the learning-only group, though the overall interaction was non-significant](../claims/exp3-del1-exercise-plus-learning-beats-learning-only.md) [~M] — measured as an outcome of the instruction studied
 - [The 3-R (read-recite-review) technique significantly improves short- and long-term memory of narrative passages versus no learning strategy (Experiment 1)](../claims/3r-technique-improves-memory-exp1.md) [+M] — measured as an outcome of the instruction studied
+- [The authors hypothesise that the long-menu format encourages retrieval practice that may support mid- and long-term retention](../claims/long-menu-encourages-retrieval-practice-hypothesis.md) [~W] — measured as an outcome of the instruction studied
+- [The review reports that repeated testing produced better long-term retention than repeated spaced study in a randomized controlled trial of residents, up to 6 months after a conference](../claims/repeated-testing-beats-spaced-study-residents-rct-reported.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -82,3 +82,4 @@ The review's synthesis of Table 3 outcome data across the 30 studies, assessed v
 - [Telesimulation develops cognitive and communication skills but does not facilitate hands-on procedural practice](telesimulation-scope-cognitive-not-procedural.md) — a narrower finding that bears on this claim
 - [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a narrower finding that bears on this claim
 - [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related
+- [Evidence that interactional skills can be acquired through training exists across health disciplines, but the volume of high-quality trials is small](interactional-skills-acquirable-through-training.md) — a narrower finding that bears on this claim

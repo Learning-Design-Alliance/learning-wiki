@@ -49,3 +49,4 @@ Unadjusted one-way ANOVA (Table 4) relating willingness to act to CPR knowledge 
 - [Syrian medical students show moderate CPR knowledge (mean 5.03/11) and MI symptom knowledge (mean 11.50/18) with the largest CPR gaps in AED timing and defibrillation parameters](syrian-medical-students-moderate-cpr-mi-knowledge-aed-gaps.md) — related
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
 - [Clinical-year students at Syrian medical schools have higher CPR knowledge than pre-clinical students after adjustment](clinical-year-higher-cpr-knowledge-syria.md) — related
+- [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related

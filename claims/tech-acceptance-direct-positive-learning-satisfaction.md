@@ -50,3 +50,4 @@ Regression-path analysis of questionnaire data from 110 undergraduates after 11 
 - [Online learning behaviors (login time and posts) do not significantly mediate technology acceptance and blended learning satisfaction](online-behaviors-no-mediation-satisfaction.md) — related
 - [Emotional experience, social belonging, and higher-order thinking serially mediate technology acceptance and blended learning satisfaction](serial-mediation-emotion-belonging-higher-order-thinking.md) — related
 - [LMS quality predicts blended-learning satisfaction, which predicts academic performance (β = .604 and β = .535)](lms-quality-satisfaction-performance-chain.md) — related
+- [Students' self-directed learning is positively associated with their acceptance of blended learning in bPBL](self-directed-learning-predicts-blended-acceptance.md) — related

@@ -61,3 +61,4 @@ Baseline comparison of the two intact sections prior to intervention: the contro
 - [The SR and SU groups were roughly equal in English proficiency before the treatment, as measured by their mid-term exam](sr-su-groups-equal-pretest-proficiency.md) — reports the opposite
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — reports the opposite
+- [Pre-test quiz scores did not differ statistically between the 2016 and 2017 cohorts (P value 0.58) or between the 2017 video and control groups (P value 0.15), supporting baseline comparability](pretest-quiz-no-baseline-difference.md) — reports the opposite

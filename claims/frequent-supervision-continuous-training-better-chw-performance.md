@@ -67,3 +67,4 @@ The review reports that refresher training receipt correlated with CHV performan
 - [Higher education level, experience with the health condition, fewer household duties and income dependence were associated with better CHW performance, while gender, residence, age, marital status and social class had mixed effects](chw-characteristics-performance-associations.md) — related
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
 - [Higher frequency of performing a procedure is linked to higher confidence and lower training needs in that area](procedure-frequency-linked-confidence-training-needs.md) — related
+- [Family physicians reported that workshop training on a guideline made adherence much more likely than passive circulation](claim-workshop-training-guideline-adherence.md) — related

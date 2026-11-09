@@ -61,3 +61,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [The NoTSUS rating scale correlates strongly with the validated NoTSS scale and shows inter-rater agreement between the two NTS-trained expert raters](notsus-scale-correlates-with-notss.md) — related
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
 - [Interrater correlation between the two OSATS evaluators was moderate (r = 0.58) for total score](osats-interrater-moderate-total-score.md) — related
+- [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related

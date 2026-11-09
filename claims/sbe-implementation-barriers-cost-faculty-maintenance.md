@@ -73,3 +73,5 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Challenges in the transition included connectivity problems, clinical skills training limits, preparation workload, and doubts about student self-directed learning](challenges-e-learning-transition-optometry.md) — related
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
+- [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
+- [Where SBMT is used in Italian paediatric residencies it focuses on procedures and skills, with debriefing least common](sbmt-use-focuses-on-procedures-not-debriefing.md) — related

@@ -51,6 +51,7 @@ The article recommends positioning the 3D-printed model as a training supplement
 ## Related Strategies
 
 - [Use patient-specific 3D-printed phantoms to educate junior surgeons and preoperative patients and for preoperative rehearsal planning](patient-specific-phantom-education-strategy.md)
+- [Use low-cost 3D-printed simulators to train beginners in hemostasis before treating real bleeding patients](low-cost-3d-printed-hemostasis-training-strategy.md)
 
 ## Examples
 -

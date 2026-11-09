@@ -80,3 +80,4 @@ The chapter reports the other half of this pattern: "when initial retrieval succ
 - [Answering MCQs benefits learning when learners retrieve knowledge from memory to evaluate plausible alternatives, but such retrieval may not occur with easy-to-guess answers.](mcq-retrieval-not-always-occurs.md) — related
 - [Retrieval practice success is not causally linked to the magnitude of the testing effect](retrieval-success-not-causal-for-testing-effect.md) — related
 - [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](mcq-exclusive-use-retention-risk.md) — related
+- [The authors hypothesise that the long-menu format encourages retrieval practice that may support mid- and long-term retention](long-menu-encourages-retrieval-practice-hypothesis.md) — related

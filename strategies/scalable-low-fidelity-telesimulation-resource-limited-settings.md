@@ -49,6 +49,7 @@ The review's forward-looking implementation and research agenda. It argues that 
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 - [Implement SBML as a teaching modality for procedural-based training and cross-discipline education initiatives](sbml-procedural-cross-discipline-strategy.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
 
 ## Examples
 -

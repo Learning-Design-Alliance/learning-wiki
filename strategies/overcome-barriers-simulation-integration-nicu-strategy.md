@@ -45,6 +45,7 @@ The review recommends addressing barriers to fully integrate simulation into the
 ## Related Strategies
 
 - [Address communication, faculty training, curriculum integration, resource allocation, and hierarchical attitudes when implementing Sim-IPE in resource-limited settings](sim-ipe-implementation-address-barriers-strategy.md)
+- [Use regional simulation centres and in-situ simulation to overcome cost and resource barriers to SBMT](regional-and-in-situ-simulation-cost-sharing-strategy.md)
 
 ## Examples
 -

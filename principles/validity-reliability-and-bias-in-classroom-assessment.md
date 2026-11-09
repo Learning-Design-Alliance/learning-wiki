@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 434 claims (204 for, 202 mixed, 28 against) · 326 studies (104 associational, 78 design, 53 causal, 47 review, 27 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 28 of 326 report an effect size · 427 claims rest on one study
+> **Evidence** · 435 claims (205 for, 202 mixed, 28 against) · 327 studies (104 associational, 78 design, 53 causal, 47 review, 27 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 28 of 327 report an effect size · 428 claims rest on one study
 
 ## Conditional relationship
 
@@ -278,6 +278,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Two OS-12 items — attending to timekeeping and checking the patient's understanding — show insufficient interrater reliability (ICC below 0.5)](../claims/os12-items-7-and-9-insufficient-icc.md) [~W] — attached 2026-11-08 from Iversen Else Dalsgaard et al. (2020), which proposed "Retain all OS-12 items and maintain the 5-point scale; use 'not applicable' only for technical recording problems".
 - [Score variability across examiner pairs is lower than variability across individual examiners in a mock clinical assessment](../claims/paired-examiners-lower-score-variability.md) [+W] — attached 2026-11-08 from Faherty Aileen et al. (2020), which proposed "Use paired examiners with consensus scoring in high-stakes clinical assessments"; tests this page's relationship.
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](../claims/paired-single-examiner-reliability-comparable.md) [~W] — attached 2026-11-08 from Faherty Aileen et al. (2020), which proposed "Use paired examiners with consensus scoring in high-stakes clinical assessments"; tests this page's relationship.
+- [Anti-bias language in SET surveys produced significantly higher ratings of female instructors than the standard instrument](../claims/anti-bias-language-raises-female-instructor-set-ratings.md) [+W] — attached 2026-11-08 from Peterson David A. M. et al. (2019), which proposed "Universities should adopt bias-mitigating language in student evaluations of teaching to reduce gender bias"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

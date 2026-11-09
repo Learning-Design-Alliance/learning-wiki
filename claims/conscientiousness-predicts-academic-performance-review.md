@@ -60,3 +60,4 @@ Narrative review reporting, citing Spielmann et al. (2022), that "conscientiousn
 - [Broad conscientiousness is the strongest Big Five predictor of both academic GPA and clinical marks in dental students](conscientiousness-predicts-dental-gpa-and-clinic.md) — a narrower finding that bears on this claim
 - [Prior literature identifies conscientiousness as the most consistent Big Five predictor of post-secondary grades, with openness the most sizeable of the remaining traits](literature-review-conscientiousness-most-consistent-predictor.md) — possibly the same claim (merge candidate)
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — a narrower finding that bears on this claim
+- [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related

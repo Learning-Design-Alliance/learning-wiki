@@ -49,3 +49,4 @@ Demographic subgroup analysis of the 62-participant NoTSUS cohort, comparing mea
 - [The NoTSUS rating scale correlates strongly with the validated NoTSS scale and shows inter-rater agreement between the two NTS-trained expert raters](notsus-scale-correlates-with-notss.md) — related
 - [NoTSS-trained expert raters scored participants significantly differently from non-trained raters, which the authors cite as highlighting the value of training the trainers](trained-vs-non-trained-rater-score-difference.md) — related
 - [Novices taught ureteroscopy and NTS in a full immersion/distributed simulation ('igloo') environment gained significantly higher NoTSS scores than novices taught by didactic methods](fids-igloo-outperformed-didactic-notss-novices.md) — related
+- [Rating agreement with AS-NTS is detached from raters' anaesthesiology training level and experience in medical education](as-nts-agreement-independent-of-rater-experience.md) — related

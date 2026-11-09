@@ -71,3 +71,4 @@ Same cognitive interview analysis; the abstract-terminology pattern is illustrat
 - [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](dietitians-unrecognised-simulation-activities.md) — related
 - [Ambiguous technological terminology and unexplained abbreviations in the QVP required refinement for consistent interpretation](ambiguous-terminology-abbreviations-qvp-refinement.md) — related
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
+- [Constructing the HPV ontology from VIS documents posed challenges including class creation, inclusion decisions, and ambiguous medical terminology](viso-hpv-authoring-challenges-ambiguity.md) — a narrower finding that bears on this claim

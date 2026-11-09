@@ -68,3 +68,4 @@ Wilcoxon test on questionnaire item C1Q2 (ease of use) in the same questionnaire
 - [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](collaborative-mar-physical-activity-tool-use.md) — related
 - [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related
 - [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

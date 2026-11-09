@@ -50,3 +50,4 @@ Likert-scale questionnaire responses from the seven students who completed the p
 - [Qualitative theme: students attributed high engagement and better retention of pharmacology concepts to the immersive, distraction-free MHW environment and its interactive tools](mhw-tbl-engagement-retention-theme.md) — related
 - [Qualitative theme: real-time sharing of digital resources in MHW enhanced peer collaboration and communication compared with classroom TBL](mhw-tbl-collaboration-theme.md) — related
 - [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related
+- [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related

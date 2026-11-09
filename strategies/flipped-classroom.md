@@ -72,6 +72,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
 - [Deliver tailored written education material by timed email before appointments and reserve appointment time for question-and-answer collaborative learning](timed-email-flipped-classroom-patient-education-strategy.md)
 - [Brief students on the flipped classroom model's intention and value before class to foster self-active study](brief-students-on-fc-intention-before-class.md)
+- [Structure future flipped courses with assessed group-work elements and varied feedback sessions instead of mandating attendance](assessed-groupwork-and-varied-seminar-structure-strategy.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

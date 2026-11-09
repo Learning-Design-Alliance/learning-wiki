@@ -52,3 +52,4 @@ The author's interpretive explanation (not a tested result) for the perception-a
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - [Students reported lower difficulty in the DPBL approach than in the direct instruction approach](dpbl-lower-student-difficulty-than-direct-instruction.md) — related
 - [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — related
+- [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related

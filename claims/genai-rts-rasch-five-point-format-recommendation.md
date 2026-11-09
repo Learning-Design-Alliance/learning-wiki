@@ -52,3 +52,4 @@ Andrich's rating scale model was applied within each of the five subscales using
 - [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related
 - [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related
 - [ARPS is a valid and reliable instrument for measuring presence in AR environments per Rasch analysis](arps-valid-reliable-rasch.md) — related
+- [Reducing Likert answer choices from five to three categories improved Rasch threshold ordering in the IGCQ](igcq-three-category-scale-improved-rasch-thresholds.md) — reports the opposite

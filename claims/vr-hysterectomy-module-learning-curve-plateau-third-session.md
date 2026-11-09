@@ -48,3 +48,4 @@ Analysis of automatically recorded practice-session parameters for the ten inter
 - [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
 - [Offline haptic VR practice scores improved across six weekly sessions, with several procedural items reaching a plateau after 2 to 4 practice sessions](offline-haptic-practice-plateau-two-to-four-sessions.md) — related
+- [Movement and time efficiency of surgical novices on a low-cost VR hysterectomy simulator increased over successive simulations and began to plateau at approximately 60 simulations](vr-hysterectomy-efficiency-increases-plateau-60-simulations.md) — related

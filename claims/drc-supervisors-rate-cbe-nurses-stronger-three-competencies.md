@@ -49,3 +49,4 @@ Qualitative descriptive study using conventional content analysis of 20 supervis
 - [CBE-trained nurses as a workplace minority struggle to demonstrate their competencies where most colleagues and supervisors are OBE-trained](cbe-minority-workplace-barriers.md) — reports the opposite
 - [CBE-trained nurses' clinical skills are relatively weak compared with their other competencies, per supervisors and nurse FGDs](cbe-nurses-weak-clinical-skills.md) — related
 - [Simultaneous implementation of OBE and CBE creates challenges for supervisors in assuring standardised nursing care in health facilities](mixed-obe-cbe-standardised-care-challenge.md) — related
+- [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related

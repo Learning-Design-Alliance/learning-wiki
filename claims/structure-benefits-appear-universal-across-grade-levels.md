@@ -56,3 +56,4 @@ Grade-level moderator analyses across the pooled correlational and intervention 
 - [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related
 - [This synthesis is the first comprehensive quantitative meta-analysis of links between teachers' observed or perceived classroom structure practice and students' engagement, competence beliefs, disengagement, and achievement](structure-meta-analysis-first-comprehensive-synthesis.md) — related
 - [No clear pattern linked student, teacher, or school characteristics to the effectiveness of the interventions](no-clear-pattern-characteristics-and-effectiveness.md) — reports the opposite
+- [Perceived autonomy support and provision of good materials are not directly linked to higher achievement once fixed effects are included](autonomy-support-materials-not-linked-achievement.md) — related

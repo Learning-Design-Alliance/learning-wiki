@@ -13,7 +13,7 @@ generated:
 # SNAPPS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 4 studies (3 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 5 studies (4 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
 
 ## Description
 SNAPPS is a six-step learner-centred clinical-teaching framework developed for outpatient education in which learners summarise, narrow, analyse, probe, plan, and pursue self-directed learning.
@@ -31,6 +31,8 @@ SNAPPS is a six-step learner-centred clinical-teaching framework developed for o
 - [SNAPPS students express significantly more questions and uncertainties than OMP students in both simple and complex cases](../claims/snapps-more-questions-uncertainties.md) [+M]
 - [SNAPPS students more often take the initiative to present and justify diagnoses and management plans than OMP students](../claims/snapps-more-initiative-case-presentation.md) [+M]
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](../claims/snapps-omp-no-difference-clinical-reasoning-expression.md) [~M]
+- [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](../claims/snapps-inpatient-uncertainty-expression.md) [+M]
+- [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](../claims/snapps-inpatient-summary-thoroughness-ddx-breadth.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -40,3 +42,4 @@ SNAPPS is a six-step learner-centred clinical-teaching framework developed for o
 - Taylor Margaret C., Diaz Hannah L. (2026). Guiding Midwives to Precept Students: Two Evidence‐Based Models. Journal of Midwifery & Women's Health. https://doi.org/10.1111/jmwh.70075
 - Feijó Lorena Pinho, Pereira Guilherme Abreu, Ruffini Vitor Maia Teles, Valente Fernando Salvetti, dos Santos Renato Antunes, Fakhouri Saadallah Azor Filho, Nunes Maria do Patrocínio Tenório, Augusto Kristopherson Lustosa. (2023). Effectiveness of a SNAPPS in psychiatric residents assessed using objective structured teaching encounters: a case-control study. São Paulo Medical Journal. https://doi.org/10.1590/1516-3180.2021.1028.R1.13072022
 - Fagundes E. D. T., Ibiapina C. C., Alvim C. G., Fernandes R. A. F., Carvalho-Filho M. A., Brand P. L. P. (2020). Case presentation methods: a randomized controlled trial of the one-minute preceptor versus SNAPPS in a controlled setting. Perspectives on Medical Education. https://doi.org/10.1007/s40037-020-00588-y
+- Jain Vishakha, Rao Siddharth, Jinadani Mariya. (2019). Effectiveness of SNAPPS for improving clinical reasoning in postgraduates: randomized controlled trial. BMC Medical Education 19: 224. https://doi.org/10.1186/s12909-019-1670-3

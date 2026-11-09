@@ -52,3 +52,4 @@ Pearson correlation analysis (Table 2, N = 3871) of the four study variables. Th
 - [Learning adaptation and academic self-efficacy chain-mediate the negative relationship between mental health and academic achievement, accounting for 40.57% of the total effect](chain-mediation-learning-adaptation-self-efficacy.md) — related
 - [Learning adaptation partially mediates the relationship between mental health and academic self-efficacy](learning-adaptation-partial-mediation-self-efficacy.md) — related
 - [Teacher support, academic self-efficacy, academic emotions and academic achievement are all strongly positively correlated](teacher-support-efficacy-emotions-achievement-correlations.md) — related
+- [Medical students' academic adaptability positively predicts academic performance (Beta = 0.407, P<0.01)](adaptability-positively-predicts-academic-performance.md) — related

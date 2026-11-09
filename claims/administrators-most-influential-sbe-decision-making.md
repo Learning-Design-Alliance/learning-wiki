@@ -49,3 +49,4 @@ Descriptive analysis of Section D of the SCORS survey on sustainable education d
 - [Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)](institutional-strategic-orientation-pagerank-most-influential.md) — related
 - [PLC development by promoting role: administrative-staff-led PLCs rated shared leadership lower but shared values higher than teacher- and student-led PLCs, with no statistically significant differences](plc-promoting-role-type-a-leadership-values-pattern.md) — related
 - [Staff perceive the organisation as 'somewhat ready' to implement simulation-based education, with an overall SCORS score of 103.86](scors-overall-readiness-somewhat-ready-103-86.md) — a broader claim this one bears on
+- [In exemplar clinical areas, responsibility for teaching is collective across multidisciplinary and administrative staff](collective-responsibility-teaching-ecas.md) — related

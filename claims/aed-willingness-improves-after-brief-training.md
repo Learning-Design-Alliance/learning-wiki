@@ -50,3 +50,4 @@ Pre-post questionnaire results from the same sample of 98 university students of
 - [BLS and ALS knowledge scores rose significantly from pre-test to post-test after KSS training in one uncontrolled pre-post study, with BLS rising 15 points](kss-training-improves-bls-als-scores.md) — related
 - [Confidence in using a defibrillator rose significantly from 38.8% to 67.9% from pre-test to post-test in one group with no comparison group](defibrillator-confidence-increase.md) — related
 - [Most future schoolteachers value first-aid training and are willing to include BLS content in lessons with their students](teachers-willing-to-teach-bls.md) — related
+- [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related

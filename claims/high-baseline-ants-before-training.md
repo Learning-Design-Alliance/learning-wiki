@@ -50,3 +50,4 @@ Secondary analysis of the sub-group of residents involved in the first scenario 
 - [Flipped classroom preparation before anesthesia crisis management simulation yields higher overall ANTS non-technical skills scores than conventional lecture](fc-higher-overall-ants-scores-anesthesia-simulation.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [In situ simulation training did not further improve ANTS-rated non-technical skills and team interaction during actual postnatal stabilization, which were already high before training](ants-nontechnical-skills-no-improvement-in-situ-sbt.md) — related
+- [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related

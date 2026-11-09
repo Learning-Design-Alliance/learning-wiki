@@ -52,3 +52,4 @@ Safety outcomes of the randomized trial: traumatic LP incidence (CSF with more t
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related
 - [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related
 - [Participation in real-life evaluation of simulation training was low (41 of 388 randomized students performed a first LP)](lp-study-low-participation-rate.md) — related
+- [Traumatic lumbar puncture (39%) and post-LP headache (20%) were the most commonly reported complications among trainees](traumatic-lp-and-headache-common-complications.md) — related

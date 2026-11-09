@@ -46,6 +46,7 @@ The article recommends a hybrid model that balances gamified engagement with ind
 
 - [Gamified Practice](gamified-practice.md)
 - [Gamification](gamification.md)
+- [Use team-based gamified quizzes at the start and end of teaching sessions to complement traditional histology teaching](team-based-gamified-quiz-strategy.md)
 
 ## Examples
 -

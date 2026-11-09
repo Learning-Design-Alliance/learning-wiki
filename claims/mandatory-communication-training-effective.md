@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion comparing PERCS-ICU with other Italian
 - [After the PERCS-ICU course, residents reported significant improvements in empathy, preparation, communication skills, relational skills, confidence, emotional awareness, and self-reflection](percs-icu-improves-empathy-and-self-reported-skills.md) — related
 - [Residents rated PERCS-ICU as very useful and high-quality, rated the case scenario as very realistic, and all would recommend the course](percs-icu-high-satisfaction-ratings.md) — related
 - [Residents did not report significant decreases in anxiety or improvements in management of emotions after PERCS-ICU](percs-icu-no-anxiety-or-emotion-management-gains.md) — related
+- [Training improves self-rated empathy alongside other communication skills items](cst-empathy-item-improvement.md) — related

@@ -57,3 +57,4 @@ Indirect-effect estimates (Table 4) from the path analysis of 261 nursing studen
 - [Learning burnout is negatively related to English learning performance](burnout-negatively-related-to-english-performance.md) — related
 - [Stress level negatively affects doctoral students' well-being, and well-being positively affects academic performance, giving stress an indirect negative effect on performance](stress-wellbeing-indirect-performance-effect.md) — related
 - [The hypothesized path model from interpersonal motivation through engagement to performance fits the data well](path-model-fit-interpersonal-motivation-engagement-performance.md) — related
+- [Motivation towards learning indirectly improves personal well-being via optimal best practice, social relationship, and self-efficacy](motivation-indirect-effects-well-being.md) — related

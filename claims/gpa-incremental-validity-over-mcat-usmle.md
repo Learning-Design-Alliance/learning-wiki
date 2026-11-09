@@ -49,3 +49,5 @@ Regression analysis across 89 institutions testing GPA's contribution beyond MCA
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [In hierarchical regression for PBPM students, PBPM program GPA explained an additional 7% of variance in USMLE Step 1 performance beyond BCPM GPA and MCAT, for 27% total](pbpm-gpa-predicts-usmle-step1-performance.md) — related
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
+- [MCAT scores show the strongest correlation with USMLE Step 1 scores among nine institutional variables](mcat-strongest-correlate-usle-step1.md) — related
+- [Higher MCAT predicts higher Step 2 score while higher NIH research grant funds per faculty member predict lower Step 2 score](step2-mcat-positive-nih-funds-negative.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2028
 sources:
   - id: ntumi-simon-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Inter-rater reliability (ICC 0.77–0.84) and internal consistency (alpha 0.83) support the scoring inference that trained assessors applied the rubric consistently. [→ Ntumi Simon 2025](#ntumi-simon-2025)
@@ -79,3 +80,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Communication competencies appear harder to assess reliably than other clinical skills, showing low inter-case and low inter-rater reliability in OSCEs](communication-osce-low-reliability-claim.md) — reports the opposite
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related
+- [AS-NTS achieves excellent interrater reliability (mean 0.89) when used in simulation scenarios](as-nts-excellent-interrater-reliability.md) — related

@@ -245,6 +245,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Support basic psychological needs and mindfulness through family education sessions and school conditions](../strategies/family-education-sessions-needs-mindfulness.md)
 - [Develop gender-specific, motivation-based curricula that support autonomy and increase intrinsic motivation in PE teacher education](../strategies/gender-specific-motivation-based-pe-curriculum.md)
 - [PE teachers should support autonomy (offering choices, justifying decisions, minimizing pressure) and avoid controlling strategies to help reduce bullying](../strategies/pe-autonomy-support-anti-bullying-strategies.md)
+- [Combine autonomy-supportive teaching environments with school-based mindfulness training to support students' need satisfaction](../strategies/combine-autonomy-support-teaching-with-mindfulness-training.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

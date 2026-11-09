@@ -69,3 +69,4 @@ Simple-slopes analysis at one SD above and below the mean of classroom autonomy 
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](positive-expectations-stronger-than-negative-tee.md) — related
 - Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related
+- [Mindfulness moderates the positive association between autonomy-supportive teaching and need satisfaction, strengthening it at higher mindfulness](mindfulness-moderates-teaching-need-satisfaction.md) — related

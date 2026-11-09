@@ -47,6 +47,7 @@ Participants' open-ended questionnaire answers should drive the next iteration o
 - [Replace Wizard of Oz facilitation with generative AI chatbots and automated AI-driven assessment in future simulator iterations](generative-ai-replacement-for-woz-simulation-strategy.md)
 - [Session-design adjustments suggested by student feedback: shorten or split the manual, add facilitators, schedule the session earlier, and keep facilitator synthesis pauses](gas-exchange-session-design-adjustments-strategy.md)
 - [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
+- [Provide real-time audio feedback during CPR training, supplemented with visualisations and end-of-session dashboards](real-time-audio-feedback-cpr-strategy.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ Based on student and facilitator feedback that productivity declined near the en
 - [Deliver online course content in multiple shorter sessions with end-of-session recaps](multiple-shorter-sessions-with-recaps-strategy.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
+- [Deliver the Geriatrics 5Ms modules as individual sessions in a spaced longitudinal educational series to promote knowledge retention](geriatrics-5ms-spaced-educational-series-strategy.md)
 
 ## Examples
 -

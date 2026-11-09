@@ -51,6 +51,7 @@ Before each OSCE, the authors ran a structured training sequence: scripts and re
 - [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](enhanced-osce-simulation-preparation.md)
 - [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
 - [Involve standardized patients in assessment and allow flexible portrayals, with training that standardizes responses to unsatisfactory, intermediate, and good examinee behavior](sp-assessment-flexible-portrayal-strategy.md)
+- [Assess clinical examination skills with blinded, dual-examiner OSCE scoring using analytical rubrics with perform/did-not-perform items](blinded-dual-examiner-osce-analytical-rubric-strategy.md)
 
 ## Examples
 -

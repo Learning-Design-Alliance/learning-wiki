@@ -55,3 +55,4 @@ Qualitative process evaluation coding interview and survey data in NVivo 12 agai
 - [IMPETUS-D training did not improve staff palliative care knowledge and attitudes (qPAD) at 6 months](impetus-d-no-staff-knowledge-attitude-gain-qpad.md) — related
 - [Online-only course conveyed case-management and organisational competencies but not physical examination or manual skills](online-course-competencies-gained-and-missing-manual-skills.md) — related
 - [The major implementation barriers were located in collective action: high caseloads, competing priorities and financial incentives pushed carer support below measurable service-user targets](collective-action-barriers-caseloads-priorities.md) — related
+- [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related

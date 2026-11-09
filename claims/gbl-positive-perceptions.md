@@ -52,3 +52,4 @@ Self-report perception survey of intervention-group participants in the pilot RC
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](comparable-outcomes-gbl-versus-gamified-robotics.md) — related
+- [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related

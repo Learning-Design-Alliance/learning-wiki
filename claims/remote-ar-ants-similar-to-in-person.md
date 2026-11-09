@@ -49,3 +49,4 @@ Author interpretation in the Discussion comparing this single-arm feasibility st
 - [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [BARS ratings confirm measurable non-technical skill performance (5.2–5.4 on a 1–9 scale) in remote AR neonatal resuscitation simulation](remote-ar-nrp-bars-secondary-nts.md) — related
+- [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related

@@ -49,3 +49,4 @@ Questionnaire survey of 153 students; frequency analysis. Table 3 shows 89 (58.2
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a broader claim this one bears on
+- [The evaluation methodology was reported as easy to use, clear, and easy to replicate, with positive feedback from curriculum planners](methodology-feasibility-feedback.md) — related

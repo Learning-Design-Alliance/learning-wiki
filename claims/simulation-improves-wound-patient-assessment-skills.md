@@ -62,3 +62,4 @@ Before-and-after quasi-experiment with 50 students comparing checklist performan
 - [Students self-assessed all five targeted skills as significantly improved after the combined simulation and bedside course](self-assessed-competence-gains-pain-course.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [Second-year medical students taking a PIDD OSCE question after simulation scored modestly but statistically significantly higher than students taking it before simulation](post-simulation-osce-scores-higher-pidd.md) — related
+- [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related

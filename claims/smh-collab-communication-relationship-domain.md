@@ -53,3 +53,4 @@ First theme reported in the Results section of the Delphi study. Panelists ident
 - [The framework comprises nine key areas of competency spanning knowledge, skills, attitudes and organisational competences](nine-competency-areas-inpatient-framework.md) — related
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](gbv-simulation-non-technical-skills.md) — related
 - [Collaborative practice develops students' interprofessional communication competency, including conflict resolution and adapting language to patients](ipe-develops-communication-competency.md) — related
+- [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related

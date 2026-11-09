@@ -58,6 +58,8 @@ After the simulation, the entire teaching session is reviewed on video with resi
 - [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 - [Guided reflection sessions built on video-recorded teaching with smart-ring arousal episodes (critical incident technique and stimulated recall)](arousal-episode-guided-reflection-strategy.md)
 - [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
+- [Include video debriefing and reflective writing in the description and analysis stages of simulation debriefing](video-debriefing-reflective-writing-in-protocol.md)
+- [Use simulated ward rounds with standardized patients to teach ward round competences to students](ward-round-simulation-strategy.md)
 
 ## Examples
 -

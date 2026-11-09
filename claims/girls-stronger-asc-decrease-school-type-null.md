@@ -58,3 +58,4 @@ Control-variable results from the final three-level model, with male as the refe
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
 - [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](asc-declines-over-1-5-years-mid-adolescence.md) — related
 - [Over the three years, academic performance significantly declined while cognitive control measures generally improved, with no gender difference in cognitive control change](grades-decline-cognitive-control-improves.md) — related
+- [Gender-specific patterns: the high-duration achievement advantage appears only in girls, while the high-duration self-concept advantage appears only in boys](gender-specific-duration-effects-achievement-self-concept.md) — related

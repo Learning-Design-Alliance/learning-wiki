@@ -49,3 +49,4 @@ Interview data from nine facilitators: an experienced facilitator (Mary) stated 
 - [Adult learners expect AI to foster involvement by sparking questions, tapping interests, and providing continuous feedback and effort acknowledgment](ai-fosters-adult-learner-involvement.md) — related
 - [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](actor-simulation-feedback-crucial.md) — related
 - [International SBL trainers perceive their primary role as facilitators and consider structuring sessions, facilitating group learning, and stimulating reflection crucial themes](sbl-trainers-perceive-facilitator-role-three-themes.md) — related
+- [Participants rated instructor feedback — including expert demonstration of mistakes and correct positions — as the most crucial aspect of their previous CPR training feedback](instructor-feedback-most-crucial-cpr.md) — related

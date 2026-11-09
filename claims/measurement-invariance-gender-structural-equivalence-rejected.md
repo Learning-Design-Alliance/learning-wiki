@@ -64,3 +64,4 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 - [The AGS shows scalar measurement invariance across gender among Chinese early adolescents](ags-scalar-invariance-gender.md) — related
 - [The factor structure of the Spanish ARS is invariant with respect to gender at the measurement-weight level](spanish-ars-gender-invariance.md) — related
 - [Effects of mathematics tutoring quality were similar across below-average, average, and above-average performing students](tutoring-quality-effects-similar-across-achievement-subgroups.md) — related
+- [Teenagers’ gender moderates the links between parental socialization and adjustment and academic performance: the model structure is equivalent across gender but the structural relationships are not invariant](gender-moderates-parenting-academic-performance-links.md) — related

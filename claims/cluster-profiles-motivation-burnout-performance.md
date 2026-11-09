@@ -47,3 +47,4 @@ K-means cluster analysis of 398 students into three groups (N = 42, 10.55%; N = 
 ## Related Claims
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](three-motivational-profiles-pe-cluster-analysis.md) — related
 - [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [Chinese medical students report middle-level adaptability, immersion, and performance and low-level burnout](chinese-medical-students-descriptive-levels-adaptability-burnout.md) — related

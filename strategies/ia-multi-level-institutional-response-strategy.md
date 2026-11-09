@@ -55,6 +55,7 @@ The review recommends that interventions "extend beyond general awareness and in
 - [Multi-stakeholder strategies for managing children's screen time](screen-time-management-strategies-children.md)
 - [Adopt gamification-based training as a cost-effective approach to preventing adolescent addiction](gamification-based-adolescent-addiction-prevention-strategy.md)
 - [Hold training workshops on the risks of Internet addiction and refer affected students to psychological services](internet-addiction-awareness-training-workshops.md)
+- [Counseling programs and Cognitive Behavioral Therapy to reduce social networking dependency among at-risk students](cbt-counseling-reduce-social-networking-dependency.md)
 
 ## Examples
 -

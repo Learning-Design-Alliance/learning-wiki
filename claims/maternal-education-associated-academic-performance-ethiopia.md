@@ -56,3 +56,4 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Parents in high and medium bushfire-impact regions had significantly lower Year-12-or-equivalent education rates than in low-impact regions](parental-education-lower-in-high-impact-regions.md) — related
+- [Adolescents with medium- and high-educated mothers have higher odds of higher educational attainment at age 17 than adolescents with low-educated mothers](maternal-education-predicts-adolescent-attainment-netherlands.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 275 claims (184 show a difference, 57 mixed, 34 no difference) · 196 studies (64 causal, 48 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 52 of 196 report an effect size · 268 claims rest on one study
+> **Evidence** · 276 claims (185 show a difference, 57 mixed, 34 no difference) · 197 studies (64 causal, 48 associational, 44 review, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 52 of 197 report an effect size · 269 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -317,6 +317,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Overall empathy scores of pre-clinical medical students did not change significantly after a semester-long project-based empathy course](../claims/pbl-empathy-course-no-overall-change.md) [-M] — measured as an outcome of the instruction studied
 - [Students reported the empathy project improved their understanding of empathy and empathic communication skills](../claims/pbl-empathy-student-reflections.md) [+W] — measured as an outcome of the instruction studied
 - [Students with lower pre-test empathy improved significantly in empathy scores after the project-based course, while higher-empathy students did not](../claims/pbl-empathy-lower-group-improved.md) [~M] — an instructional effect differs with it
+- [Training improves self-rated empathy alongside other communication skills items](../claims/cst-empathy-item-improvement.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

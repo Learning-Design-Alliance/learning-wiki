@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 181 claims (111 for, 66 mixed, 4 against) · 116 studies (68 causal, 19 quant-synthesis, 13 review, 6 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 116 report an effect size · 173 claims rest on one study
+> **Evidence** · 183 claims (111 for, 68 mixed, 4 against) · 118 studies (69 causal, 19 quant-synthesis, 13 review, 7 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 118 report an effect size · 175 claims rest on one study
 
 ## Conditional relationship
 
@@ -222,6 +222,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classroom combined with a human anatomy web-based learning system produced higher post-quiz anatomy scores than traditional classroom teaching in medical freshmen](../claims/flipped-classroom-web-system-higher-anatomy-post-quiz.md) [+W] — attached 2026-11-08 from Yang C et al. (2020), which proposed "Two-stage flipped classroom design: pre-class self-study with the web system followed by interactive in-class application"; tests this page's relationship.
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](../claims/blended-flipped-learning-higher-nursing-course-grades.md) [+W] — attached 2026-11-08 from Halasa S et al. (2020), which proposed "Combine blended learning with a flipped classroom design so students prepare material at home and class time is used for higher-order, student-centred work".
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](../claims/fc-ebm-open-ended-feedback-ebook-case-discussion.md) [~W] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Streamline lecture content into short interactive eBook units for pre-class self-study when flipping an EBM course".
+- [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](../claims/flipped-classroom-two-thirds-preference-physiotherapy.md) [~M] — attached 2026-11-08 from Røe Y et al. (2019), which proposed "Flipped classroom design combining pre-class digital resources with full-day collaborative problem-based seminars".
+- [Students used the online lectures far more than the assigned readings, citing lack of time as the main barrier](../claims/lecture-use-high-reading-use-low.md) [~W] — attached 2026-11-08 from Sohn Sangho et al. (2019), which proposed "Restructure pre-existing curricular components in parallel when introducing a flipped classroom".
 
 ## Objective and learner-valued goal
 

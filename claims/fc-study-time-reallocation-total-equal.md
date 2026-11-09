@@ -56,3 +56,4 @@ Self-reported study times recorded through the course's online studying platform
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
 - [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — related
 - [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — a narrower finding that bears on this claim
+- [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related

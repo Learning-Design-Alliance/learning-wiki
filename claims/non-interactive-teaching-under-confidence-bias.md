@@ -52,3 +52,4 @@ In the same IPD synthesis (N = 1074), metacognitive bias was computed as the dif
 - [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
 - [Meta-analyses report a small but significant advantage of non-interactive teaching over control, with large between-study variability](meta-analytic-small-advantage-non-interactive-teaching.md)
+- [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](no-sweet-spot-online-confidence.md) — related

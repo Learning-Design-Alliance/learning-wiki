@@ -65,3 +65,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [Self-reported preparedness to repair OASIS increased after simulation training, with most participants moving from not ready to ready](oasis-simulator-self-rated-preparedness-increase.md) — related
 - [Peer-led workshops increase competency mastery and success in biology, particularly for PEERs and women, though all groups benefit](peer-led-workshops-increase-mastery-biology.md) — related
 - [In one uncontrolled pre-post study, health professionals' familiarity with all eight workshop objectives was significantly greater after a 3-day chronic breathlessness training workshop](breathlessness-workshop-increases-familiarity-all-objectives.md) — related
+- [Students' perceived preparedness, participation, and effectiveness improved after the flipped course, while satisfaction changes were insignificant](flipped-course-survey-improvements.md) — related

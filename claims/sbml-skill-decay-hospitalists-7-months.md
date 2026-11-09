@@ -71,3 +71,4 @@ Wilcoxon rank sum tests compared mean checklist scores at baseline and delayed r
 - [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related
 - [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](simulation-ascites-puncture-three-month-skill-retention.md) — reports the opposite
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — related

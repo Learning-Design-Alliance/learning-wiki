@@ -71,3 +71,4 @@ Same regression set predicting negative feelings in the national survey. The art
 - [Demographic covariates explain less than 15% of within-school variance in science test scores but much more at the school level](demographics-explain-under-15-percent-within-school.md) — related
 - [Age and ethnicity significantly predicted PBL group interactions while gender did not](age-ethnicity-predict-interaction-gender-does-not.md) — related
 - [School type predicted autonomy and self-regulation but not motivation in regression models, with modest explained variance](school-type-predicts-autonomy-selfregulation-not-motivation.md) — related
+- [Age correlates negatively with ethnic identity and positively with multicultural experiences in PA students](age-correlations-ethnic-identity-multicultural-experiences.md) — related

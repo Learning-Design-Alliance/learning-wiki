@@ -61,6 +61,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Design flipped pre-class materials with limited video length, varied learning formats, and post-video assessment](fc-preclass-material-design-strategy.md)
 - [Post pre-class online review materials for forgotten prerequisite knowledge (e.g., neuroanatomy) to free class time](preclass-online-review-of-prerequisite-knowledge.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
+- [Use flipped classroom pre-class materials to offset PBL's preparation burden and small-group PBL discussion to add structure to flipped classrooms](flip-pbl-complementary-design-strategy.md)
 
 ## Examples
 -

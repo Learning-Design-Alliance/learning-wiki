@@ -59,3 +59,4 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related
 - [The feedback group takes significantly longer total operative time than the control group](feedback-group-longer-operative-time.md) — related
 - [The review reports that trainee participation in thyroid and parathyroid surgery was not associated with increased complication rates, though operative time was longer](trainee-participation-no-complication-increase.md) — related
+- [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related

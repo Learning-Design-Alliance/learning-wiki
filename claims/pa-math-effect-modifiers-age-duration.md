@@ -59,3 +59,4 @@ Meta-regression of study-level variables across the 11 studies in the meta-analy
 - [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
 - [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related
+- [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — reports the opposite

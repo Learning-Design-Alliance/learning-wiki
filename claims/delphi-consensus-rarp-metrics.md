@@ -53,3 +53,4 @@ Face and content validity study (Study 1): a procedure characterisation group dr
 - [Per-phase counts of steps, errors and critical errors showed no statistically significant change after the Delphi process](delphi-no-significant-count-change.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
+- [An international Delphi panel of 21 consultant-level interventional neuroradiologists reached consensus on procedure metrics for a reference approach to mechanical thrombectomy](delphi-consensus-mt-procedure-metrics.md) — related

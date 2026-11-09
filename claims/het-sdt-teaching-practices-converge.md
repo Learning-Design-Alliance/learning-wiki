@@ -49,3 +49,4 @@ This is the review's own theoretical synthesis comparing the two theories' teach
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — related
 - [Specific imbalance factors in autonomy support, structure, and involvement contribute to some aspects of classroom-level engagement](need-supportive-specific-imbalance-factors-contribute.md) — related
+- [The relative importance of NST dimensions differs by knowledge area: involvement matters in Humanities, Social Sciences and Architecture/Engineering, autonomy support only in Humanities, and support materials only in Architecture/Engineering](nst-needs-differ-by-knowledge-area.md) — related

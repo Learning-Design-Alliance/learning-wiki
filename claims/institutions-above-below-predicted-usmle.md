@@ -47,3 +47,4 @@ Institution-level observational analysis identifying schools whose 3-year averag
 ## Related Claims
 - [Institutional mean GPA and MCAT strongly predict institutional mean USMLE Step 1 (adjusted R² 72%) and Step 2 CK (adjusted R² 41%) scores](gpa-mcat-predict-institutional-usmse-performance.md) — related
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
+- [Six outlier institutions, with University of Missouri-Columbia the only school outperforming on both Step 1 and Step 2, exceed trend-line predictions irrespective of entering qualifications](outlier-schools-exceed-usle-trendlines.md) — related

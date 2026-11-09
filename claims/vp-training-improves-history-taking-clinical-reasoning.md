@@ -65,3 +65,4 @@ Pre-post intervention analysis of the 50-resident single-group cohort using pair
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
 - [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related
+- [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related

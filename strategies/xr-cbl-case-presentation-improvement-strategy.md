@@ -47,6 +47,7 @@ From student feedback, the article identifies concrete enhancements to XR-CBL ca
 - [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](success-cues-labelling-hybrid-documentation.md)
 - [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
 - [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
+- [Improve e-learning presentations by embedding social and emotional elements such as patient-case videos and reflection-triggering questions, and usability-test the tool with a few users first](embed-social-emotional-elements-and-usability-test-e-learning.md)
 
 ## Examples
 -

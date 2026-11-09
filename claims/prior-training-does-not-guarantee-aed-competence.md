@@ -48,3 +48,4 @@ First-phase subgroup analysis of 6 students with prior training out of 42 total 
 - [Modified, clearer AED verbal instructions significantly improve dental students' simulated performance and reduce time to shock delivery](modified-aed-verbal-instructions-improve-performance.md) — related
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
 - [Post-shock sequence deficiencies persist regardless of instruction modification](post-shock-sequence-deficiencies-persist.md) — related
+- [Six months after training, the BLS+WEB group asked for an AED, attached electrode pads correctly, and delivered the first shock faster more often than the BLS group](web-education-better-aed-related-skills.md) — related

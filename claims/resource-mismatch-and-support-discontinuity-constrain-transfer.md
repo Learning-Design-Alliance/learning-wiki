@@ -154,3 +154,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Lack of time and logistics are the common workplace barriers to peer support, and embedding the strategy into organisational routines proved effective](embedding-peer-support-organisational-routines.md) — related
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [Workplace-based peer support for clinical teachers is an acceptable and effective faculty development strategy, based on a review of 34 papers](peer-support-acceptable-effective-faculty-development-review.md) — related
+- [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
+- [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related

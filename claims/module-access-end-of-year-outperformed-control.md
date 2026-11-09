@@ -54,3 +54,4 @@ Mann-Whitney U comparison of eight end-of-year PGY1 residents against eight risi
 - [Within the PGY1 cohort, drill plunge accuracy and angled drilling time improved significantly from beginning to end of year, while other accuracy and time measures did not change significantly](within-cohort-drill-plunge-accuracy-angled-drilling-time.md) — related
 - [Residents used the modules an average of 10.6 total hours over the academic year, with wide variation and two residents reporting zero hours](module-use-averaged-10-6-hours-self-reported.md) — related
 - [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](self-confidence-no-significant-difference-modules.md) — related
+- [C-PGY trainees scored significantly better than PGY1 trainees in organization and efficiency and overall performance](c-pgy-outperform-pgy1-organization-overall.md) — related

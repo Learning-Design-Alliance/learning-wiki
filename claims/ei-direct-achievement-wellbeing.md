@@ -56,3 +56,4 @@ SEM direct-effect estimates in Table 3 show EI→Academic Achievement of 0.330**
 - [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
 - [Academic engagement and study processes each have a statistically significant positive effect on the GPA of physical education and sport university students](engagement-and-study-process-predict-gpa-pes-students.md) — related
 - [Emotional intelligence is positively associated with positive emotions, self-determined motivation, resilience, academic performance and intention to be physically active among PE students](ei-positive-associations-pe-outcomes.md) — related
+- [Optimal best practice positively predicts personal well-being (β = .28) but not academic striving directly](optimal-best-predicts-well-being.md) — related

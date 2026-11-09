@@ -61,3 +61,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — a narrower finding that bears on this claim
 - [Conscientiousness is positively associated with interest/enjoyment, effort/importance, and perceived competence in hybrid flipped learning](conscientiousness-positive-motivation-hybrid-flipped.md) — a narrower finding that bears on this claim
 - [Pilot interviews: students perceived perseverance as the main predictor of academic success and saw empathy as a pre-existing trait medical school cannot teach](interviews-perseverance-empathy-perceptions.md) — related
+- Self-awareness, empathy, self-motivation, integrity and value orientation showed no significant positive influence on academic success in the regression — a narrower finding that bears on this claim

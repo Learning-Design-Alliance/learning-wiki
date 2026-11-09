@@ -53,3 +53,4 @@ Descriptive baseline finding from the Personal Information Form and pre-interven
 - [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](netm-reduces-vaccine-hesitancy-nicu-parents.md) — related
 - [All NICU parents in the sample were willing to receive structured, evidence-based vaccine information](parents-willing-receive-structured-vaccine-information.md) — related
 - [Smartphone access among informal caregivers ranges from 61% to 99% depending on country](caregiver-smartphone-access-61-99-percent.md) — related
+- [Patients often rely on Internet sources for vaccine information, and printed VIS materials represent an inactive learning approach that may not produce adequate understanding](printed-vis-materials-insufficient-inactive-learning.md) — a broader claim this one bears on

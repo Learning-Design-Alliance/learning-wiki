@@ -53,3 +53,4 @@ Qualitative co-occurrence analysis of the rule-based case study. Participants wh
 - [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
+- [Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism](productive-struggle-mechanism-gps-care.md) — related

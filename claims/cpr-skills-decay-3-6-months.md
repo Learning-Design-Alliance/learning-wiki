@@ -67,3 +67,6 @@ The review's introduction states, citing prior studies, that "their skills deter
 - [Simulation has been shown to prevent skills decay and teach new technical skills to novice learners who delayed training initiation](simulation-prevents-skills-decay-novices.md) — related
 - [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — a narrower finding that bears on this claim
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — a narrower finding that bears on this claim
+- [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — a narrower finding that bears on this claim
+- [The six-month advantage of PBL with high-fidelity simulation on guideline-conform CPR is not statistically significant](cpr-primary-endpoint-no-six-month-difference.md) — related
+- [Three months after training, laypersons taught BLS/AED with a two-stage teaching technique show no difference in skill retention compared to those taught with a four-stage technique](two-stage-vs-four-stage-bls-aed-retention-null.md) — a narrower finding that bears on this claim

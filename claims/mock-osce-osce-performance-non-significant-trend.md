@@ -51,3 +51,5 @@ Summative OSCE scores (five stations, checklist-scored 0–10, faculty examiners
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
 - [Third-year medical students taught with the 3-D skills model at a formative OSCE achieved significantly higher summative OSCE station pass rates than the rest of the year cohort, with a higher median grade banding of educational significance.](cl-3d-skills-summative-osce-improvement.md) — related
 - [A multidisciplinary discussion-group workshop on breaking bad news is associated with a significantly higher summative OSCE score than conventional university teaching](discussion-group-workshop-higher-osce-breaking-bad-news.md) — related
+- [Mock OSCE scores significantly correlated with subsequent third-year OSCE scores (Pearson r=0.52)](mosce-osce-score-correlation.md) — related
+- [Participation as an examinee in a student-led mock OSCE had no effect on subsequent third-year OSCE scores in medical students](mosce-participation-no-osce-score-effect.md) — related

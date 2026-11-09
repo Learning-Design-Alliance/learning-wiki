@@ -50,6 +50,7 @@ To sustain progress and ensure efficacy of the POG framework, the brief recommen
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
 - [Use Kotter's 8-step and COM-B models within iterative action-research cycles to co-design EPA implementation improvements with expert and stakeholder panels](kotter-comb-action-research-epa-implementation.md)
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
+- [Use quality improvement cycles with two-way feedback to reinforce guideline implementation and monitor progress](strategy-quality-improvement-cycles-feedback.md)
 
 ## Examples
 -

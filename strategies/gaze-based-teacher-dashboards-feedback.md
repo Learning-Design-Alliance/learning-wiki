@@ -52,6 +52,7 @@ The article proposes that automated gaze-based strategy identification can enabl
 - [Instructor Feedback Loops](instructor-feedback-loops.md)
 - [Translate coupling indices into intuitive dashboards for teachers' reflective evaluation](coupling-dashboard-reflective-evaluation-strategy.md)
 - [Use gaze tracking as a feedback tool to alert students and instructors to key moments in simulation learning](gaze-tracking-feedback-simulation-debriefing.md)
+- [Provide real-time audio feedback during CPR training, supplemented with visualisations and end-of-session dashboards](real-time-audio-feedback-cpr-strategy.md)
 
 ## Examples
 -

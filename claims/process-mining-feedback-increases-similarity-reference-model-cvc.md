@@ -48,3 +48,4 @@ In this RCT, 20 postgraduate year-one residents were randomized to a process-ori
 ## Related Claims
 - [Simulation-based training with deliberate practice improves residents' ultrasound-guided central venous catheter placement performance regardless of process-oriented supplementation](deliberate-practice-improves-cvc-performance-both-groups.md) — related
 - [Process-oriented feedback reduces rework (repetition of procedural steps) in simulated central venous catheter placement, unlike the control condition](process-mining-feedback-reduces-rework-cvc.md) — related
+- [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](process-oriented-feedback-positive-student-reaction-cvc.md) — related

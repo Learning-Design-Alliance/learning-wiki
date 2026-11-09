@@ -50,3 +50,4 @@ Pre/post 10-question multiple-choice exam in the 221-student elective cohort; th
 - [Novice medical students' product quality, technique (GRS), and speed rose significantly from pre-test to post-test across all six assessed knot-tying and suturing skills after a self-directed sequential CBVT course, in one uncontrolled pre-post study](cbvt-improves-pqs-grs-speed-six-skills.md) — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
 - [An objective pre/post knowledge quiz showed improvement, but the sample remains too small for formal analysis](objective-knowledge-quiz-improvement-small-sample.md) — related
+- [After the training, medical students score highest on the glucagon administration test](glucagon-test-highest-post-score.md) — related

@@ -48,3 +48,5 @@ Debate-article argument (type e) citing prior literature. The author asserts cli
 - [Computer-based delivery makes longer MCQ option lists feasible without impairing examinee performance](computer-delivery-feasible-long-option-lists.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Most examinees report that long-menu questions involve different reasoning and are closer to real life than classic MCQs](examinees-perceive-long-menu-different-reasoning-realistic.md) — related
+- [A majority of answer options chosen in long-menu questions were not offered as distractors in the corresponding Type A questions](long-menu-chosen-options-outside-type-a-distractors.md) — related

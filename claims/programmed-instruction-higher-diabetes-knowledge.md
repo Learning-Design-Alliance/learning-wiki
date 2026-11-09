@@ -52,3 +52,4 @@ In the randomised controlled trial (n = 80, 40 per group), post-intervention kno
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — a broader claim this one bears on
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
+- [A brief interactive training improves medical students' total diabetes knowledge scores by five percentage points](interactive-training-improves-total-diabetes-knowledge.md) — related

@@ -52,3 +52,4 @@ Correlational analysis of the three SJT scores and cognitive load proxies in the
 - [Pre-admission UCAT SJT scores are not statistically significantly predictive of professionalism lapses in medical students](ucat-sjt-not-predictive-of-lapses.md) — related
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — related
 - [End-of-course UKFP SJT scores predict professionalism lapses univariably but not independently of academic and cognitive performance](ukfp-sjt-not-independent-predictor.md) — related
+- [Confidence bias is strongly dependent on cognitive task performance (r = 0.51 with decision analysis), whereas confidence judgement is only modestly correlated (r = 0.16)](confidence-bias-dependent-on-task-performance.md) — related

@@ -56,3 +56,5 @@ Longitudinal DOPS re-assessment of 100 students at 1 month, 6 months and 1 year 
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
 - [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](practice-based-vad-training-superior-retention.md) — related
 - [BLS knowledge and practical skills are not maintained 2 years after initial training in dental students](bls-skills-decay-two-years-without-retraining.md) — a narrower finding that bears on this claim
+- [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
+- [Total practical skills scores decreased in both groups between the post-test and the six-month retention test](bls-practical-skills-decay-six-months.md) — related

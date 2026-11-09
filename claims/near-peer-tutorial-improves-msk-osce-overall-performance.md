@@ -50,3 +50,4 @@ Quasi-experimental pre-post study with 23 second-year medical students completin
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — related
 - [Students identify logical organisation, clinical reasoning integration, demonstration, and hands-on practice as key strengths of the near-peer tutorial](near-peer-tutorial-qualitative-strengths.md) — related
 - [Clinical tests used most often broadly match the most sensitive and specific tests, except the Tromner test is little known or used](dcm-clinical-test-use-tromner-exception.md) — related
+- [Students' post-presentation spotter scores were significantly higher than pre-presentation spotter scores in one single-group pre-post study of creative muscle presentations](post-presentation-spotter-scores-significantly-higher.md) — related

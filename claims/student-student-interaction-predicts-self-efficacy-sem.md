@@ -48,3 +48,4 @@ SEM analysis of the 524-respondent questionnaire dataset (Table 7 direct effects
 - [Student-content interaction significantly and positively predicts self-efficacy in student-centered classrooms (β=0.462, p<0.001)](student-content-interaction-predicts-self-efficacy-sem.md) — related
 - [Student-student interaction significantly predicts learning achievement (β=0.164, p<0.01)](student-student-interaction-predicts-achievement-sem.md) — related
 - [Self-efficacy strongly predicts learning achievement (β=0.647, p<0.001)](self-efficacy-predicts-achievement-sem.md) — related
+- [Personal resolve and social relationship, but not self-efficacy, directly predict optimal best practice](psychological-agencies-predict-optimal-best.md) — related

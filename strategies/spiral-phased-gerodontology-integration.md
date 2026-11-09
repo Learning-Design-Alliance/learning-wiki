@@ -46,6 +46,7 @@ The article recommends integrating gerodontology learning content across the who
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Reduce assessment burden in integrated spiral curricula by combining formative and summative assessments or using technology-enhanced assessment platforms](reduce-assessment-burden-integrated-curricula.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
+- [Integrate communication skills training early and repeatedly within the regular pharmacy curriculum rather than as a single course](integrate-cst-early-repeated-curriculum.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [International medical students define academic success as mastery of medical knowledge, clinical skills and communication skills, not only grades](mbbs-success-beyond-grades.md) — related
 - [Students reported that the SBE intervention changed their attitudes, including increased empathy and professionalism, beyond skills alone](sbe-attitude-change-empathy-professionalism.md) — related
 - [Communication and interprofessional skills showed the smallest self-efficacy improvements after SBE, possibly due to a ceiling effect](sbe-smallest-gains-communication-interprofessional-skills.md) — related
+- [Training improves self-rated empathy alongside other communication skills items](cst-empathy-item-improvement.md) — related

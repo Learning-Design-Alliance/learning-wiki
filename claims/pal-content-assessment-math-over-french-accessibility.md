@@ -65,3 +65,4 @@ Teacher recommendation recorded in the program-component assessment section. The
 
 ## Related Claims
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
+- [In the pilot study, teachers' acceptability of the PAL training was lower, with teachers judging activities insufficiently challenging for secondary students](pilot-teacher-acceptability-lower-training-review.md) — related

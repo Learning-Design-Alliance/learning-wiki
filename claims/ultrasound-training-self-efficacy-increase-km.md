@@ -57,3 +57,4 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 - [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related
 - [Confidence to perform the procedure on a live patient without help rose from 1.06 to 3.70 on the 5-point scale after training](live-patient-confidence-item-increase.md) — related
 - [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related
+- [Practice placements significantly increase students' perceived personal and professional skills, with large effect sizes](placements-increase-personal-professional-skills.md) — related

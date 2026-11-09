@@ -53,3 +53,4 @@ Study Ability Model from the ten-day daily-diary study (N = 57), marginal R2 = 0
 - [On days when university students do more leisure-time physical activity, they report higher functional stress and lower dysfunctional stress during home studying](ltpa-daily-functional-dysfunctional-stress.md) — related
 - [Leisure-time physical activity, but not PA breaks, is positively associated with daily psychological detachment from studying](ltpa-daily-psychological-detachment.md) — related
 - [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related
+- [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related

@@ -45,6 +45,7 @@ The review recommends that facilitators require preparation before implementing 
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
+- [Use role-play with video recording and small group discussion to teach interprofessional conflict communication](roleplay-video-small-group-conflict-strategy.md)
 
 ## Examples
 -

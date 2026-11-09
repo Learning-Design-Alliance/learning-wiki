@@ -53,3 +53,4 @@ Pilot study with six sixth- and eighth-semester medical students in an NKLM-base
 - [Engagement with interactive H5P online activities was low relative to formative MCQs, with 30% completion of case study activities and 65% of weekly MCQs in 22/23](h5p-online-engagement-lower-than-mcqs.md) — related
 - [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — a narrower finding that bears on this claim
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
+- [All participants completed both simulator modules successfully without malfunctions](simulator-feasibility-no-malfunctions.md) — related

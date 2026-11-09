@@ -50,6 +50,8 @@ The article recommends that organizations first measure nurses' readiness and co
 - [Build spiritual care competency through team learning and multidisciplinary collaboration with religious/spiritual care professionals](multidisciplinary-team-approach-spiritual-care.md)
 - [Implement structured, continuous in-service education programmes on spiritual care practices for nurses](structured-continuous-in-service-spiritual-care-education.md)
 - [Hospitals and nursing educators should provide spiritual care education courses and integrate them into undergraduate nursing curricula](spiritual-care-education-courses-strategy.md)
+- [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](baseline-cultural-competence-battery-tailoring-strategy.md)
+- [Adopt the spiritual care training protocol as a reference for clinical nursing managers](nursing-managers-adopt-spiritual-care-protocol-strategy.md)
 
 ## Examples
 -

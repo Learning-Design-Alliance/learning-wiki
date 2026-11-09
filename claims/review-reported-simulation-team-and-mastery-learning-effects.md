@@ -54,3 +54,4 @@ Narrative review section attributing these findings to cited prior studies (e.g.
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — a narrower finding that bears on this claim
 - [Simulator-based learning curves do not translate directly to clinical performance, and prior studies report shorter mastery times for simpler ultrasound procedures](simulator-learning-curves-do-not-translate-directly-to-clinical-performance.md) — a narrower finding that bears on this claim
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
+- [Simultaneous REBOA performance did not interfere with ACLS quality in simulated cardiac arrest resuscitation](reboa-did-not-interfere-acls-quality.md) — a narrower finding that bears on this claim

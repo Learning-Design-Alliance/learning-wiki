@@ -66,6 +66,7 @@ The article recommends embedding the standards into structured professional lear
 - [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
 - [Reform Iraqi student assessment through a national framework with standardized rubrics, mandatory faculty training, peer-reviewed grading, structured remediation pathways, and external accreditation](iraq-assessment-reform-recommendations-strategy.md)
 - [University strategy of mentoring, training, and trial online exams to enrich the e-learning environment and foster engagement](elearning-training-mentoring-implications.md)
+- [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
 
 ## Examples
 -

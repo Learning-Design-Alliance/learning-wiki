@@ -44,6 +44,7 @@ From their reflections, the authors recommend concrete practices for large-scale
 ## Related Strategies
 
 - [Use liberating structures — World Café rotations and Spiral Journaling — to balance power dynamics in co-design workshops](world-cafe-spiral-journal-codesign-engagement.md)
+- [Participatory co-design of e-learning content with multi-stakeholder workshops](preterm-birth-participatory-codesign.md)
 
 ## Examples
 -

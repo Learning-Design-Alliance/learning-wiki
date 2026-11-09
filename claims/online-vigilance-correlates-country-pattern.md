@@ -71,3 +71,4 @@ Correlational analysis of the three Online Vigilance Scale subscales against aca
 - [Media use and online vigilance predict substantially more variance in academic performance among Namibian (27%) than South African (4%) students](namibia-south-africa-variance-difference.md) — related
 - [Adding online vigilance to the media use model increases explained variance in academic performance only from 8% to 9% for the full sample](online-vigilance-negligible-full-sample.md) — related
 - [Instant messaging is a positive predictor of academic performance in the full-sample regression models](instant-messaging-positive-predictor-academic-performance.md)
+- [All six BSMAS subscales (salience, tolerance, mood modification, withdrawal, relapse, conflict) correlate negatively and significantly with GPA](bsmas-subscales-negative-gpa-correlations.md) — related

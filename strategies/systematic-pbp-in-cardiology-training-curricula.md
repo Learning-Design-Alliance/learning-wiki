@@ -55,6 +55,7 @@ The authors' forward-looking recommendation is that "formal surgical training fo
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Use validated procedure metrics to set proficiency benchmarks trainees must demonstrate before progression to real patients](proficiency-benchmarks-before-progression-rarp-strategy.md)
 - [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
+- [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 
 ## Examples
 -

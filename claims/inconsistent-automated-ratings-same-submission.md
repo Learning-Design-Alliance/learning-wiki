@@ -47,3 +47,4 @@ Student post-survey response from School D in the qualitative case study; the st
 
 ## Related Claims
 - [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](divided-views-star-rating-display.md) — related
+- [Teacher interaction before face-to-face meetings was valued (mean 3.6–3.9 of 5), but inconsistent teacher replies frustrated some students](teacher-online-interaction-valued-inconsistent-replies.md) — related

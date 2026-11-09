@@ -51,6 +51,8 @@ The review proposes a ten-item checklist guiding institutions through adopting v
 - [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 - [Adapt guided inquiry laboratory instruction to resource-limited settings using locally available materials, virtual labs, and teacher training](low-resource-guided-inquiry-adaptation-strategy.md)
 - [Place mannequins and self-study resources in each community midwife's practice setting with virtually proctored practice sessions by peer mentors to reduce dropout at scale-up.](mannequins-self-study-peer-mentored-practice-strategy.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
+- [Expand low-cost case-based tele-education to other emerging ICUs using a train-the-trainer model](train-the-trainer-tele-education-expansion.md)
 
 ## Examples
 -

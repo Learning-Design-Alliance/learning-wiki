@@ -46,3 +46,4 @@ Paired pre/post knowledge questions in the same 30-participant matched survey an
 
 ## Related Claims
 - [Postworkshop attitudinal scores improved significantly for all five attitudinal questions among residents and fellows, including confidence in applying instructional design theory to procedural skills teaching](teaching-procedures-workshop-attitudes-improved.md) — related
+- [Geriatric knowledge scores showed no change after the workshop, averaging 82% correct on both pre- and postworkshop assessments and 78% among controls](geriatrics-5ms-workshop-knowledge-unchanged.md) — related

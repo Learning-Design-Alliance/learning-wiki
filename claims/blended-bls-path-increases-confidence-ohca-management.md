@@ -49,3 +49,4 @@ Paired comparison of precourse and postcourse confidence (1-5 Likert) among the 
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — related
 - [Students with higher postcourse confidence in resuscitation skills were more likely to register as first responders](postcourse-confidence-associated-first-responder-registration.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
+- [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related

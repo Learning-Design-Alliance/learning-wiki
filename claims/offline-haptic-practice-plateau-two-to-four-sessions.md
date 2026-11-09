@@ -51,3 +51,5 @@ Repeated-measures comparison across six weekly offline VSTES sessions (two-way A
 - [Online VLNP test scores for etching, rinsing, bracket positioning and total score rose 3–17% from formative test to final online test](online-vlnp-formative-to-final-gains.md) — related
 - [Tablet-based training reaches peak accuracy faster in training time than real-world practice, with similar repetitions-to-plateau but more total repetitions](tablet-faster-peak-performance-time.md) — related
 - [Learning curves on the VR hysterectomy module plateau after the third training session for time, path length and number of movements](vr-hysterectomy-module-learning-curve-plateau-third-session.md) — related
+- [Procedural checklist scores improve over the sessions with similar plateauing, and all steps except the timed basket catch are accomplished](checklist-scores-improve-plateau-steps-mastered.md) — related
+- [The median percentage of clinical performance scores significantly increased in the third practice (p = 0.03) and then remained unchanged](clinical-performance-increased-third-practice.md) — related

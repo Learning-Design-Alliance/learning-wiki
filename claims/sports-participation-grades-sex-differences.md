@@ -75,3 +75,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — related
 - [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related
 - [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related
+- [Sports-club participation alone shows no significant difference in mathematical achievement compared with non-participation](sports-club-participation-no-math-achievement-difference.md) — related

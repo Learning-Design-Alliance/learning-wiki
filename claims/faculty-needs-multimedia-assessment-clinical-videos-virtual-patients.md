@@ -47,3 +47,4 @@ Figure 1 summarizes faculty responses on which e-learning resources need to be d
 
 ## Related Claims
 - [Faculty called for a repository mapped to national learning-outcome standards, faculty development programs, and better promotion of the portal](faculty-development-and-mapped-repository-needs.md) — possibly the same claim (merge candidate)
+- [Annual website hits at the e-MedEdu medical e-learning portal rose consistently over the decade from 84,361 in 2009 to 508,857 in 2018](emedu-annual-hits-increase-2009-2018.md) — related

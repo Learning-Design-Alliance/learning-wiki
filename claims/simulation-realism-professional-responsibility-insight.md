@@ -71,3 +71,4 @@ Within the same theme, “asking for help was mentioned by several students as a
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — related
 - [Male nursing students saw maternity simulation as preparation for realistic situations and as essential to integrating theory into clinical practice](simulation-preparation-realistic-situations-theory-integration.md) — related
 - [Students translated a reflected insight into active experimentation by matching female Afghan patients with all-female care teams](all-female-team-triage-adaptation.md) — related
+- [Including caregiver roles in the simulation provided insights into integrated care not previously described in the IC education literature](caregiver-roles-novel-ic-insights.md) — related

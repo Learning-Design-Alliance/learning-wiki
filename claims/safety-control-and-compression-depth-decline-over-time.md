@@ -69,3 +69,5 @@ Table 5 reports correct depth at 55%, 81% and 17% (p = 0.0003) and median depth 
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [Among first-year MBBS students, mean DOPS skill scores were comparable at one month but worse at six months and one year than immediately after BLS training, in a single-group pre-post study](bls-skill-retention-one-month-decay-six-months-one-year.md) — related
+- [BLS/AED skills decay markedly over the first three months after training regardless of teaching technique](bls-aed-skill-decay-three-months.md) — related
+- [At three months, the two-stage and four-stage groups differed in one individual skill (ensuring safety) but not in quality of chest compressions or rescue breaths](two-stage-four-stage-secondary-outcomes-null.md) — related

@@ -49,3 +49,4 @@ Subjective mental workload was measured using the NASA-TLX after each training s
 - [Perceived mental, physical and technical workload on the cadaver model was higher the lower the participant's endoscopic experience level](rhccs-workload-nasa-tlx.md) — a broader claim this one bears on
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — related
 - [Self-rated cognitive workload is lower for digitally trained novices only during the Peg transfer task, with no differences on the other three tasks](digital-training-lower-nasa-tlx-peg-transfer-only.md) — related
+- [Mental workload is significantly higher for the flexible ureterorenoscopy stone-retrieval task than for the rigid cystoscope preparation task in every session](flexible-ureterorenoscopy-task-higher-workload-than-cystoscopy.md) — related

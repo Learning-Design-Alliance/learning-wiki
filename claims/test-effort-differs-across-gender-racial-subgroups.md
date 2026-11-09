@@ -62,3 +62,4 @@ Compares rates of rapid guessing, a behavioural proxy for test effort (answering
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference](survey-self-reports-do-not-explain-gender-grade-gap.md) — related
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](subgroup-differences-reflect-opportunities-to-learn.md) — related
+- [Noncognitive skills, test-taking strategies, and test effort do not explain the female advantage in sustaining performance](determinants-of-sustained-performance-unexplained.md) — related

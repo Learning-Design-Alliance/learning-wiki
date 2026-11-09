@@ -54,3 +54,4 @@ Ordered logistic regression on the same 27,954-child cross-sectional survey (Tab
 - [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — a broader claim this one bears on
+- [Sports-club participation alone shows no significant difference in mathematical achievement compared with non-participation](sports-club-participation-no-math-achievement-difference.md) — related

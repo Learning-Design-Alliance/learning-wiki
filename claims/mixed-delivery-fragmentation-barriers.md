@@ -55,3 +55,4 @@ Descriptive analysis in the report's background section enumerates challenges of
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — a narrower finding that bears on this claim
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — related
+- [Clinical and non-clinical staff reported joint training as beneficial given the siloed nature of primary care, though practical barriers exist](joint-training-beneficial-siloed-primary-care.md) — related

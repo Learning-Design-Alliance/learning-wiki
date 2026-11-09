@@ -47,3 +47,4 @@ Questionnaire survey of 153 students at three South African HEIs; frequency anal
 ## Related Claims
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
+- [Trainees perceived feedback as critically important for self-reflection, with meaningful feedback requiring a private space, an engaged supervisor and an unhurried manner](mini-cex-feedback-quality-conditions.md) — related

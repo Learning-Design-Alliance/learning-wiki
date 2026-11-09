@@ -54,6 +54,7 @@ In its Linking Evidence to Action section, the review recommends that clinical e
 - [Mentoring](mentoring.md)
 - [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 - [Refinements for future mentoring interventions: extend duration, embed in curricula, train mentors, activate mentees, assess quality, and use richer reflective assessment](future-mentoring-intervention-refinements.md)
+- [Regularly evaluate mentoring practices with a dual-purpose questionnaire and feed results into mentor training and organisational revision](regular-mentoring-evaluation-feeds-faculty-development.md)
 
 ## Examples
 -

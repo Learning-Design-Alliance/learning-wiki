@@ -50,6 +50,7 @@ The article recommends that educators should develop an integrated laparoscopic 
 - [Integrate multiple simulation modalities into a blended simulation-based surgical curriculum rather than using simulation as an adjunct](blended-simulation-curriculum-integration-strategy.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
 - [Use low-cost homemade box trainers to expand access to laparoscopic training in resource-limited settings](low-cost-homemade-box-trainers-resource-limited-settings.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
 
 ## Examples
 -

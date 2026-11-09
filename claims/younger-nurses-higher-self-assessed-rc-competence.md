@@ -56,3 +56,4 @@ One-way ANOVA on survey data from 438 nursing professionals. The article reports
 - [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related
 - [The experimental and control groups differed significantly in age, nursing seniority, professional level, and department at baseline](group-imbalance-age-seniority-department.md) — related
 - [Senior physician-leaders (older age, longer oncology experience, longer leadership experience) consistently rate task management and leading others higher than less experienced leaders](senior-leaders-rate-task-management-leading-others-higher.md) — reports the opposite
+- [Older (65–74) healthcare faculty used most active learning techniques at the highest rates, contradicting assumptions about senior faculty resistance](older-faculty-high-active-learning-use.md) — reports the opposite

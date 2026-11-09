@@ -39,6 +39,7 @@ The article's discussion and future-work sections recommend improving voice inpu
 ## Related Strategies
 
 - [Teacher strategies for alleviating EFL speaking anxiety: warm atmosphere, encouragement, L1 use, and learner-centered activities](teacher-strategies-alleviate-speaking-anxiety.md)
+- [Offer CPR training materials in different language versions or with subtitles so students with other native languages receive instruction in their own language](language-versions-subtitles-cpr-training.md)
 
 ## Examples
 -

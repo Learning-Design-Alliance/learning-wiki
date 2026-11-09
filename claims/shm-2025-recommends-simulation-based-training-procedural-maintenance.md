@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-09
 sources:
   - id: nichani-s-2025
     resource: "https://doi.org/10.1002/jhm.70042"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Hospitalists should practice and maintain procedural knowledge and skills, which may include simulation-based training, for procedures such as arthrocentesis and lumbar puncture, and use simulation training for resuscitation skills. [→ Nichani S 2025](#nichani-s-2025)

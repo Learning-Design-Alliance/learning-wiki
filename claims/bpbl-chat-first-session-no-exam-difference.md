@@ -52,3 +52,5 @@ Randomised controlled trial comparing exam boxplots for bPbL (n = 92) and cPbL (
 - [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) — related
 - [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — related
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [Blended PBL produces greater knowledge gain between pre-test and post-test than original PBL in Japanese medical students](bpbl-greater-knowledge-gain.md) — related
+- [Adding e-learning to PBL does not change students' perceptions of active participation or tutors' authority](bpbl-no-change-participation-tutor-authority.md) — related

@@ -49,3 +49,4 @@ Pilot RCT OSCE results for the shoulder pain scenario: between-group Mann–Whit
 - [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related
 - [Multiple-choice survey responses showed the chatbot group perceived improvement in interview structuring while the PRP group perceived improvement in rapport, stress management, and handling unexpected situations](perceived-skill-improvements-differ-by-training-method.md) — related
 - [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related
+- [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related

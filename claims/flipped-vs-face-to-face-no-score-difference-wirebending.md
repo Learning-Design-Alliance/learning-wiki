@@ -49,3 +49,4 @@ Blinded rubric-based assessment of four wire components (maximum overall score 4
 - [Active processors score higher than reflective processors in both formats, and sequential learners score higher in the flipped classroom](learning-style-wirebending-score-differences.md) — related
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — reports the opposite
 - [Female participants outperformed males in appliance quality across all three courses (p = 0.0207)](female-students-better-orthodontic-appliance-quality.md) — related
+- [Flipping an undergraduate epidemiology course produced no significant difference between pre-test and final exam scores](flipped-epidemiology-no-score-difference.md) — related

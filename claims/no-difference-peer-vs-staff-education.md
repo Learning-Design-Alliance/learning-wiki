@@ -49,3 +49,4 @@ Between-group comparison in the randomized study of 120 T2DM patients: the artic
 - [Glucose and HbA1c improvements hold after stratification by age, sex, and education level, with no between-method difference](stratified-glucose-results-consistent.md) — possibly the same claim (merge candidate)
 - [Total cholesterol, triglycerides, and LDL-C decrease significantly at 3 months but show no further change at 6 months in both groups](lipid-improvement-3-months-not-6.md) — related
 - [Happiness, depression, quality-of-life, and self-care scale scores change significantly at 3 months in both groups, with no difference between education methods](psychosocial-scales-improve-3-months.md) — related
+- [Self-care behavior adherence for healthy diet, physical activity, blood glucose self-monitoring and risk reduction increased significantly more in the DSME+SE+CM group than in controls](se-cm-greater-self-care-behavior-improvement.md) — related

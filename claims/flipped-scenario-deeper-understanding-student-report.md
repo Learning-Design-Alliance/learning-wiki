@@ -52,3 +52,4 @@ Authors' interpretation of student feedback from the intervention group, reporte
 - [Students perceive interactive virtual exploration of a case family as deepening understanding and aiding retention compared with traditional teaching](vr-exploration-deeper-understanding-retention.md) — related
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Students perceive that CBL helped retention and retrieval of information (item mean 4.3/5)](cbl-perceived-retention-retrieval-gain.md) — related
+- [Absence of pedagogical encounters with teachers and patients prevented students from placing presentation content in a larger context and hindered deeper learning](absence-of-pedagogical-encounters-hindered-deep-learning.md) — related

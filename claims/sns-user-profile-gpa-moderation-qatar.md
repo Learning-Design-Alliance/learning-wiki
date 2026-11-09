@@ -46,3 +46,7 @@ Cross-sectional Qatari study (n = 273) using the SNS-adapted CIAS. Among addicte
 
 ## Related Claims
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
+- [All six BSMAS subscales (salience, tolerance, mood modification, withdrawal, relapse, conflict) correlate negatively and significantly with GPA](bsmas-subscales-negative-gpa-correlations.md) — related
+- [Male medical sciences students report significantly higher social networking addiction than female students](male-students-higher-social-networking-addiction.md) — related
+- [Social networking addiction among the sampled medical sciences students was at a moderate level, with most students classified as moderately addicted](moderate-social-networking-addiction-level-medical-students.md) — related
+- [Social networking addiction is negatively and significantly correlated with academic performance (GPA) among medical sciences students](social-networking-addiction-negative-gpa-correlation.md) — related

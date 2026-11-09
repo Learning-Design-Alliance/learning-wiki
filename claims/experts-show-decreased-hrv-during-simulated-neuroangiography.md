@@ -51,3 +51,4 @@ Simulator study in which six beginners and five experts each performed diagnosti
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
 - [Physiotherapy students show significant differences in time-domain HRV across OSCE scenarios, indicating a large anticipatory stress response maintained during the entire evaluation](osce-anticipatory-stress-response-physiotherapy-hrv.md) — related
+- [Stress response differs by gender but not by professional status among EMS team members in simulation](gender-but-not-status-effect-on-stress-response.md) — reports the opposite

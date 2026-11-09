@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 639 claims (340 show a difference, 145 mixed, 154 no difference) · 453 studies (227 associational, 166 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 453 report an effect size · 631 claims rest on one study
+> **Evidence** · 645 claims (343 show a difference, 146 mixed, 156 no difference) · 456 studies (229 associational, 167 causal, 20 review, 16 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 65 of 456 report an effect size · 637 claims rest on one study
 
 ## How to read this page
 
@@ -678,6 +678,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male gender relates to lower English grades but not Math or Science grades](../claims/male-gender-lower-english-grades-only.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No gender gap in exam points, but women earned more non-exam points, in the control section](../claims/no-gender-gap-exam-points-women-more-nonexam-points.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women report higher trait test anxiety than men at the start of an introductory biology course](../claims/women-report-higher-trait-test-anxiety-than-men-intro-biology.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys missed significantly less school than girls regardless of injury type](../claims/boys-miss-less-school-than-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Females are better able to sustain their performance during a test than males across cognitive domains, including where males hold an initial advantage](../claims/females-sustain-test-performance-better-than-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences in coping with time pressure are an unlikely explanation for the smaller gender gap on longer tests](../claims/time-pressure-unlikely-explanation-test-length.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Longer math tests are associated with a smaller gender gap: males lead by about 0.2 standard deviations on short tests, with parity reached at 125 questions](../claims/longer-math-tests-smaller-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Neither student sex nor the anti-bias treatment changed evaluations of male instructors, though female students rated male instructors less positively](../claims/no-treatment-effect-male-instructors-by-student-sex.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Treatment effects on evaluations of female instructors appear concentrated among male students, though the male-versus-female difference is not statistically significant](../claims/student-sex-moderation-female-instructor-ratings.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

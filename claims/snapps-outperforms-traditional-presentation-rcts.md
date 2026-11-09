@@ -76,3 +76,7 @@ The article reports, citing Shindala et al (2024), an RCT with 30 Family Medicin
 - [SNAPPS students more often take the initiative to present and justify diagnoses and management plans than OMP students](snapps-more-initiative-case-presentation.md) — related
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
+- [Diagnostic Thinking Inventory scores after training were similar between the SNAPPS and control groups and low relative to the respondents' peer-group means](snapps-inpatient-dti-scores-comparable-low.md) — related
+- [SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly](snapps-inpatient-student-initiated-discussions.md) — related
+- [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — a narrower finding that bears on this claim
+- [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related

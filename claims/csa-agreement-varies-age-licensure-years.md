@@ -48,3 +48,4 @@ Chi-square comparison of agree (n = 1819) versus disagree (n = 163) respondents 
 - [Most surveyed Doctors of Korean Medicine (81.9%) agree that a clinical skills assessment should be introduced in the national licensure examination](dkm-survey-819-agree-csa-necessary.md) — related
 - [Most non-opposing respondents favored introducing CSA in 2025, and preferred timing was associated with perceived need](csa-preferred-introduction-timing-2025.md) — related
 - [Surveyed DKMs prioritize patient care, clinical skills, and completion of the medical record as the competencies a CSA should assess](csa-competency-priorities-patient-care-top.md) — related
+- [OSCE scores are highest before the licensing examination, with no significant group-by-time interaction across four assessment periods](osce-highest-before-kmle-no-group-by-time-interaction.md) — related

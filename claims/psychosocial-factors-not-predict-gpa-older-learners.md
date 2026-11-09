@@ -66,3 +66,4 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Higher perceived stress is associated with lower e-learning satisfaction in university students](stress-inversely-associated-e-learning-satisfaction.md) — related
 - [Self-reported anxiety and positive affect did not significantly predict NAPLAN scores, though anxiety may have a small non-significant positive effect when depression is held fixed](anxiety-positive-affect-null-naplan.md) — related
 - [Baseline depressive symptoms, but not anxiety symptoms, predict lower GPA at six-month follow-up, though not after controlling for baseline GPA](depression-not-anxiety-predicts-followup-gpa.md) — related
+- [Social networking addiction is negatively and significantly correlated with academic performance (GPA) among medical sciences students](social-networking-addiction-negative-gpa-correlation.md) — related

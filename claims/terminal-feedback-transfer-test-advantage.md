@@ -47,3 +47,4 @@ Single RCT (Walsh et al., colonoscopy simulation, 30 medical students) contribut
 ## Related Claims
 - [Mental practice shows no effect on movement duration, and feedback timing shows no significant effect on post-acquisition or retention performance](movement-duration-and-feedback-null-findings.md) — related
 - [The video-feedback group differed from other groups on specific Fishman feedback subcategories including auditory form, concurrent and terminal timing, evaluative and explicative intent, and space referent](fishman-subcategory-differences-video-feedback-group.md) — related
+- [During practice sessions, concurrent feedback produced significantly higher CPR performance than terminal feedback, but this advantage did not carry over to retention tests](concurrent-feedback-superior-during-practice-only.md) — reports the opposite

@@ -62,3 +62,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [Intern satisfaction with teaching is significantly higher in the simulation group than the control group on all five measured aspects](intern-satisfaction-higher-simulation-group.md) — related
 - [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related
 - [Students in the integrative curriculum rated the Emergency Care course and teacher performance more highly than students in traditional teaching across all five evaluation dimensions](integrative-curriculum-higher-course-teacher-evaluations.md) — related
+- [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related

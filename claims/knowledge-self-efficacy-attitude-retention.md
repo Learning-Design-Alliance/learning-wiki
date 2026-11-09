@@ -78,3 +78,5 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Within-group improvements in mental health knowledge, attitudes, and clinical competence occurred in both RESHAPE and control groups](reshape-knowledge-competence-within-group-gains.md) — related
 - [Within the treatment group, perceived stress dropped significantly from pre-test to post-test and remained stable from post-test to follow-up](ree-within-group-stress-change-sustained.md) — related
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related
+- [Total practical skills scores decreased in both groups between the post-test and the six-month retention test](bls-practical-skills-decay-six-months.md) — related
+- [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related

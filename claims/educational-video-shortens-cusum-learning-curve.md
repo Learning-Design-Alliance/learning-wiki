@@ -52,3 +52,4 @@ CUSUM analysis of pooled mean cumulative sums of differences in total time to co
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
 - [The LASPME learning curve divides into three proficiency stages, with the preliminary stage ending around the 91st procedure and proficiency reached around the 125th](laspme-three-stage-learning-curve-91-125.md) — related
+- [Beginners' simulator procedure times shorten significantly with repeated trials](beginner-procedure-times-shorten-with-repetition.md) — a narrower finding that bears on this claim

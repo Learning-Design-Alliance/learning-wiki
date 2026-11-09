@@ -50,3 +50,4 @@ Post-survey perceptions in the same study: usefulness for summarization, web res
 ## Related Claims
 - [GenAI assistance narrows the productivity gap between native and non-native English speaking students](genai-productivity-leveling-nnes.md) — related
 - [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](genai-quality-leveling-nnes.md) — related
+- [Students' self-efficacy in English rose significantly from pre-test to post-test in the reading and writing domains but did not change in listening or speaking, in one single-group pre-post study](self-efficacy-gains-reading-writing.md) — related

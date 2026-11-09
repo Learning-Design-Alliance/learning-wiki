@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 648 claims (448 for, 174 mixed, 26 against) · 411 studies (177 causal, 80 review, 77 design, 38 quant-synthesis, 19 associational, 17 qualitative, 3 theoretical), `q1`–`q4` · 58 of 411 report an effect size · 637 claims rest on one study
+> **Evidence** · 650 claims (450 for, 174 mixed, 26 against) · 413 studies (177 causal, 80 review, 78 design, 38 quant-synthesis, 19 associational, 17 qualitative, 3 theoretical), `q1`–`q4` · 58 of 413 report an effect size · 639 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -706,6 +706,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [In one uncontrolled pre-post study, undergraduate physiotherapy students' self-rated self-efficacy in paediatric assessment and management rose significantly from pre-test to post-test across all surveyed skills after simulation-based education](../claims/sbe-increases-paediatric-physiotherapy-self-efficacy.md) [+W] — attached 2026-11-08 from Hough J et al. (2019), which proposed "Three-session paediatric physiotherapy SBE program with high-fidelity simulators and preparatory eLearning"; tests this page's relationship.
 - [Simulation-mannequin training yields higher post-training practical TEE examination scores than e-learning or hands-on operating-room training](../claims/simulation-mannequin-higher-post-training-tee-practical-scores.md) [+W] — attached 2026-11-08 from Weber U et al. (2019), which proposed "Web-based TEE simulator and CAE Vimedix mannequin simulator as TEE training tools"; tests this page's relationship.
 - [Surgical task completion time depends strongly on training status, supporting the temporal bone model's validity](../claims/training-status-determines-surgical-time.md) [+W] — attached 2026-11-08 from Anschuetz Lukas et al. (2019), which proposed "Standardized Thiel-fixed temporal bone model for basic ear-surgery skills training and assessment".
+- [Movement and time efficiency of surgical novices on a low-cost VR hysterectomy simulator increased over successive simulations and began to plateau at approximately 60 simulations](../claims/vr-hysterectomy-efficiency-increases-plateau-60-simulations.md) [+W] — attached 2026-11-08 from Bing EG et al. (2019), which proposed "Low-cost VR radical abdominal hysterectomy simulator built on Oculus Rift and Unreal Engine"; tests this page's relationship.
+- [Providers found the Mama-U model easy to use and a good tool for teaching insertion skills, and 81.8% felt confident providing PPIUD services after training](../claims/mama-u-provider-acceptability-confidence.md) [+W] — attached 2026-11-08 from Zafar Zonobia et al. (2019), which proposed "Mama-U: a portable, low-cost postpartum uterus simulator for PPIUD insertion training".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

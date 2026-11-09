@@ -71,3 +71,4 @@ The review contrasts low expectation teachers' diffident, tightly structured pra
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
 - [Residents experience EPAs as compliance-driven documentation that thwarts autonomy](epas-experienced-as-compliance-documentation.md) — a narrower finding that bears on this claim
+- [Trait mindfulness positively predicts need satisfaction and negatively predicts need frustration among PE students](mindfulness-predicts-need-satisfaction-frustration.md) — related

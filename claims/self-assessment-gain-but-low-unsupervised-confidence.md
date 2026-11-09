@@ -70,3 +70,4 @@ Descriptive Likert questionnaire results from the same end-of-program survey of 
 - [VR training shifts residents' self-rated ease of understanding and performance ratings upward, though the trend was not statistically significant](vr-improves-self-assessed-performance.md) — related
 - [Resident self-confidence in providing wet reads at the scanner rose from 73% neutral or disagreeing before training to 91% agreeing or strongly agreeing after training](simulation-boosted-resident-wet-read-confidence.md) — related
 - [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related
+- [Students’ perceptions of self-efficacy (feeling that they are learning and that evaluation lets them show knowledge) are positively related to achievement across all knowledge areas](self-efficacy-perceptions-positively-related-achievement-all-areas.md) — related

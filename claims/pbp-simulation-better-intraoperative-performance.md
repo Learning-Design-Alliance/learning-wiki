@@ -51,3 +51,5 @@ The article attributes this to cited trials in other interventional disciplines 
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
 - [The PBP group made the fewest critical errors post-intervention, significantly fewer than both comparison groups](pbp-elearning-fewer-critical-errors.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
+- [PBP training achieved communication skill acquisition rates of about 60%, similar to rates seen with technical skills using this approach](pbp-communication-skill-acquisition-rate-similar-to-technical-skills.md) — related
+- [E+PBP training produced more completed steps and fewer combined errors and critical errors than E or E+S training](pbp-more-steps-fewer-errors-secondary-outcomes.md) — a narrower finding that bears on this claim

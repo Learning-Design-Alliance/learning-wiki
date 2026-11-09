@@ -76,3 +76,4 @@ Keyword coding of open-ended answers from 44 students, visualised as word clouds
 - [Flipped classroom models offer advantages for critical thinking, problem solving, and team-based learning, but face implementation challenges](flipped-classroom-advantages-and-challenges.md) — related
 - [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related
+- [Students most valued interaction with peers and educators and flexibility of digital resources, while long seminars and preparation load were the most common complaints](flipped-classroom-positive-negative-factors-physiotherapy.md) — related

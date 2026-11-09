@@ -52,3 +52,6 @@ Multi-arm randomised double-blind controlled trial; primary analysis of 114 fina
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — a broader claim this one bears on
 - [PBP training significantly reduces Critical Errors, while the reduction in non-critical Errors is not statistically significant](pbp-critical-error-reduction-not-noncritical.md) — related
 - [A short 15-min low-tech simulator pre-training step was followed by fewer extubations and no balloon piercing in subsequent full-scale scenarios](low-tech-pretraining-reduced-extubation-errors.md) — related
+- [E+PBP training produced more completed steps and fewer combined errors and critical errors than E or E+S training](pbp-more-steps-fewer-errors-secondary-outcomes.md) — related
+- [Adding proficiency-based progression simulation to e-learning produces higher proficiency rates in ISBAR communication than e-learning alone or e-learning plus standard simulation](pbp-simulation-higher-isbar-proficiency-than-e-learning-or-standard-simulation.md) — related
+- [Adding standard simulation to e-learning did not significantly improve proficiency rates over e-learning alone](standard-simulation-no-significant-gain-over-e-learning-alone.md) — related

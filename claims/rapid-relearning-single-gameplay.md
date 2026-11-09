@@ -50,3 +50,4 @@ Retention analysis of the Lumosity data (Fig. 6) comparing first and second game
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — a broader claim this one bears on
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
+- [A single facilitated work-through with instant feedback restored decayed performance to proficiency on a simulated model](brief-facilitated-retraining-restores-proficiency.md) — related

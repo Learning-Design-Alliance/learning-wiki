@@ -54,3 +54,4 @@ Meta-analysis of 11 randomised controlled trials using Cohen's d with a random e
 - [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — related
 - [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related
 - [Physical activity interventions show beneficial effects on academic outcomes in pediatric populations](physical-activity-interventions-benefit-academic-outcomes.md) — a broader claim this one bears on
+- [High-duration structured PA is associated with higher mathematical self-concept than low-duration structured PA, with no difference between low-duration participants and non-participants](high-duration-structured-pa-higher-math-self-concept.md) — related

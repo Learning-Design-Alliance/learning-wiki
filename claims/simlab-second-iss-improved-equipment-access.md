@@ -59,3 +59,4 @@ Participant self-report in the session 3 group interview following the second IS
 - [In-situ simulation training significantly improves self-efficacy for managing outpatient hysteroscopy emergencies across multiple domains](in-situ-simulation-improves-self-efficacy-outpatient-hysteroscopy-emergencies.md) — related
 - [In situ simulations identified latent safety threats on the unit, which were reviewed with leadership and addressed through mitigation strategies](in-situ-simulation-latent-safety-threats.md) — related
 - [In situ simulation for staff managing critically ill COVID-19 patients can identify safety issues and optimise workflow](in-situ-simulation-covid-icu-safety-workflow.md) — a broader claim this one bears on
+- [All three centres changed staff training and equipment practices after the simulation, mainly to increase equipment familiarity and training frequency](postparticipation-training-changes.md) — related

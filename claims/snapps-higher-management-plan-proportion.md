@@ -51,3 +51,4 @@ Secondary outcome in the RCT: right management plan promptly 28 (93.3%) SNAPPS v
 - [In the only midwifery study, SNAPPS-trained fourth-year midwifery students performed better in history taking, diagnosis, and management planning than teacher-centered education](snapps-midwifery-gynecology-trial.md) — related
 - [SNAPPS students express significantly more questions and uncertainties than OMP students in both simple and complex cases](snapps-more-questions-uncertainties.md) — related
 - [SNAPPS lengthens student speech but not total session time compared with OMP](snapps-time-efficient-student-speech.md) — related
+- [SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly](snapps-inpatient-student-initiated-discussions.md) — related

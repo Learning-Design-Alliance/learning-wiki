@@ -49,3 +49,4 @@ Table 2 of the cohort study reports immediate post-training performance: 19 of 1
 - [Most credentialed hospitalists fail to meet minimum passing standards on LP and AP simulators at baseline](hospitalists-low-baseline-procedural-competence.md) — related
 - [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related
 - [In one uncontrolled pre-post study, only 40% of hospitalists achieved passing scores at a mean of 7 months after SBML (40% for LP and 40% for AP)](sbml-skill-decay-hospitalists-7-months.md) — related
+- [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — related

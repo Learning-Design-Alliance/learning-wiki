@@ -115,3 +115,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](vp-keyword-recognition-issues-not-detracting.md) — related
 - [The main barrier to applying the gamified exergaming intervention was the logistics of materials and spaces](gamified-exergaming-logistics-barrier.md) — related
 - [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related
+- [Technical obstacles with the Prezi presentation hindered rather than supported some students' learning](prezi-technical-obstacles-hindered-learning.md) — a narrower finding that bears on this claim

@@ -103,3 +103,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Metacognitive self-regulation is positively associated with college course grades and GPA](metacognitive-self-regulation-grades-gpa-association.md) — related
 - [Motivational strategy use differed little between blended and didactic learning, and test anxiety, time management and effort regulation showed no group differences](motivational-strategies-little-difference-bl-dt.md) — related
 - [Academic stress negatively predicts motivation, metacognitive strategies, critical thinking and academic performance](academic-stress-negatively-predicts-motivation-strategies-thinking-performance.md) — related
+- [Trainees with a learning goal orientation selected more challenging tasks, planned more strategically, and reported more positive assessment outcomes when feedback targeted their goals](learning-goal-orientation-strategic-planning-positive-outcomes.md) — related

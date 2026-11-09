@@ -54,3 +54,4 @@ Paired t-test of 26 providers' standardised HBB Knowledge Checks (18 multiple-ch
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Total attitude scores (APuP) significantly improved after training (dz = 1.728)](apup-attitude-scores-improved-after-training.md) — related
+- [SCL-aHIT significantly increases provider knowledge of recognition and treatment of serious childhood illness immediately after training](scl-ahit-increases-provider-knowledge-acquisition.md) — related

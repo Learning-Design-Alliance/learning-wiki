@@ -49,3 +49,4 @@ Regression analysis of success rates across the three attempts in the mannequin 
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Success rate and intubation time are strongly negatively correlated for both methods (DL r = -0.86, VL r = -0.83)](negative-correlation-success-time-dl-vl.md) — related
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
+- [Intubation success rates were higher and adverse events lower with VL than with DL across both groups, and the DL-first group's overall success rate exceeded the VL-first group's](vl-higher-success-lower-adverse-events-dl-first-group-higher-success.md) — related

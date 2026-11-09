@@ -52,3 +52,5 @@ Randomized controlled trial of 88 medical students randomly assigned to CT (N=45
 - [Students who received VR-supplemented LP training report higher interest in LP and higher training satisfaction than conventionally trained students](vr-training-higher-interest-and-satisfaction.md) — related
 - [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
+- [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](fluency-lumbar-puncture-five-trials-95-minutes.md) — related
+- [Adding standard simulation to e-learning did not significantly improve proficiency rates over e-learning alone](standard-simulation-no-significant-gain-over-e-learning-alone.md) — related

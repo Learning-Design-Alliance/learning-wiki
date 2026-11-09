@@ -54,6 +54,7 @@ The review recommends that OSS be combined with didactic prebriefing, experienti
 - [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
 - [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
+- [Use an OSS worn by a standardised patient in communication teaching to raise awareness of patients with obesity](oss-sp-communication-teaching-strategy.md)
 
 ## Examples
 -

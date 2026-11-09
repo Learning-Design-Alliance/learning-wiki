@@ -82,6 +82,7 @@ The strategy works because it converts an invisible influence into an object of 
 - [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 - [Counter-design practices for deliberate AI engagement](counter-design-ai-offloading-practices.md)
 - [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
+- [Design faculty evaluation forms to encourage standard descriptors for both genders and provide implicit bias training for trainees](standard-descriptors-evaluation-forms-strategy.md)
 
 ## Examples
 - **Prejudice habit-breaking intervention ([Devine et al., 2012](https://doi.org/10.1016/j.jesp.2012.06.003))** — a multi-week program combining bias education, counter-stereotype practice, and daily habit monitoring, producing implicit-bias reductions lasting eight weeks.

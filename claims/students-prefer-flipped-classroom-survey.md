@@ -48,3 +48,4 @@ Review-level synthesis of five included studies that compared student preference
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](flipped-classroom-evidence-inconsistent.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [For community health and clinical medicine topics students prefer community postings and bedside teaching over PBL or lectures](chs-icm-prefer-community-bedside-teaching.md) — related
+- [About two thirds of surveyed students preferred the flipped classroom approach over conventional teaching](flipped-classroom-two-thirds-preference-physiotherapy.md) — a narrower finding that bears on this claim

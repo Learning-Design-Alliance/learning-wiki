@@ -57,3 +57,4 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
 - [Female gender is independently and positively associated with academic achievement (adjusted OR 2.66)](female-gender-independent-positive-factor-gpa.md) — related
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — reports the opposite
+- [Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case](predictors-of-training-case-logistic-regression.md) — related

@@ -49,3 +49,5 @@ Background synthesis attributing to a 2016 systematic review (Saposnik et al.) t
 - [Immediate feedback combined with reflection improved diagnostic accuracy on training cases versus outpatient clinic attendance or lecture](immediate-feedback-reflection-diagnostic-accuracy-training-cases.md) — related
 - [Workshop participants reported increased awareness of their decision-making processes and of decision-making biases](workshop-increased-decision-making-awareness-self-report.md) — related
 - [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related
+- [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](awareness-of-biases-improves-progression-decisions.md) — related
+- [Group decision-making attenuates, amplifies, and reproduces individual biases with no consistent pattern, and consensus discussion is likely to lower candidate scores](group-progression-decision-biases-mixed-effects.md) — related

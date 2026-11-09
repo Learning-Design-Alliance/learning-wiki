@@ -54,3 +54,4 @@ Secondary endpoint validating OSATS for the inanimate PJ model: interclass corre
 - [All six OSATS global rating scale variables scored significantly higher in the final drill than the first drill](osats-six-variables-improve-first-to-final-drill.md) — related
 - [Blinded scoring of MaiSurge performances shows excellent interrater reliability for the modified H-OSATS score and good reliability for the general OSATS score](maisurge-hosats-interrater-reliability-icc.md) — related
 - [Blinded gesture-level annotation of real robotic suturing video achieves strong to very strong inter-rater reliability for OSATS, M-GEARS and OCHRA](ochra-osats-mgears-reliability-real-robotic-video.md) — related
+- [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related

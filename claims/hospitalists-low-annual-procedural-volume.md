@@ -52,3 +52,4 @@ Authors' report of self-reported prior-year procedure counts in the Discussion, 
 - [Self-reported procedural confidence rises immediately after SBML then declines without returning fully to baseline](procedural-confidence-rise-then-decline.md) — related
 - [Although 65.0% of early-career bariatric surgeons currently perform endoscopies, annual procedural volumes remain low](low-endoscopic-practice-volume-young-surgeons.md) — related
 - [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related
+- [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — related

@@ -49,3 +49,4 @@ Ten-day daily-diary study (N = 57) with two-level regression models; day-level v
 - [Leisure-time physical activity, but not PA breaks, is positively associated with daily psychological detachment from studying](ltpa-daily-psychological-detachment.md) — related
 - [Both PA breaks and leisure-time physical activity are positively associated with daily perceived study ability](pa-breaks-ltpa-study-ability.md) — related
 - [Home study behavior relates to recovery and study ability: more daily breaks predict higher study ability, while breaks and longer uninterrupted study stretches predict lower psychological detachment](home-study-breaks-detachment-study-ability.md) — related
+- [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related

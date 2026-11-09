@@ -48,6 +48,7 @@ The review's implication states that to ensure high-quality interprofessional cl
 ## Related Strategies
 
 - [Develop healthcare leaders' digital competence through continuous education, mentoring, and organizational structures](develop-leaders-digital-competence-education-mentoring.md)
+- [Regularly evaluate mentoring practices with a dual-purpose questionnaire and feed results into mentor training and organisational revision](regular-mentoring-evaluation-feeds-faculty-development.md)
 
 ## Examples
 -

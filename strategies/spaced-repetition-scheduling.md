@@ -86,6 +86,7 @@ Spacing produces substantially better long-term retention than massed study of t
 - [Organize course vocabulary by normal use rather than contrived semantically-related sets, and present SR items at different times or in different contexts](avoid-contrived-semantic-sets-presentation.md)
 - [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
+- [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source SRS using the SM-2 expanding-interval algorithm; widely used in medical education, where studies report improved exam retention for spaced flashcard users.

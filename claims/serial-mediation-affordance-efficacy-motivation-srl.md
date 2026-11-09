@@ -71,3 +71,4 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](challenge-emotions-mediation-genai-literacy-srlb.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Self-efficacy mediates the effects of both interaction types on learning achievement, with the model explaining 73.2% of achievement variance](self-efficacy-mediation-interaction-achievement.md) — related
+- [Motivation towards learning indirectly improves personal well-being via optimal best practice, social relationship, and self-efficacy](motivation-indirect-effects-well-being.md) — related

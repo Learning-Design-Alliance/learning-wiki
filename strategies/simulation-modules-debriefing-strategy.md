@@ -72,6 +72,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
 - [Small-group, tutor-led VPS training sessions (5–9 students) as an accessible simulation strategy](small-group-tutor-led-vps-session-strategy.md)
 - [Use realistic simulation scenarios of STEMI assistance, adjusted to the local health system, in undergraduate medical teaching](realistic-stemi-simulation-teaching-strategy.md)
+- [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
 
 ## Examples
 -

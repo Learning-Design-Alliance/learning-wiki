@@ -69,3 +69,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [Previous voluntary history-taking group participation is associated with better self-rated conversational structure](history-taking-groups-better-self-rated-structure.md) — related
 - [Second-year medical students taking a PIDD OSCE question after simulation scored modestly but statistically significantly higher than students taking it before simulation](post-simulation-osce-scores-higher-pidd.md) — related
+- [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — related

@@ -60,3 +60,4 @@ The study compared rates of rapid guessing, a behavioral proxy for test effort, 
 - [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
 - [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — related
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](rapid-guessing-mastery-feedback-loop.md) — related
+- [Noncognitive skills, test-taking strategies, and test effort do not explain the female advantage in sustaining performance](determinants-of-sustained-performance-unexplained.md) — related

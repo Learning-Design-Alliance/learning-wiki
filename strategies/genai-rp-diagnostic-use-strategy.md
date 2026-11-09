@@ -54,6 +54,7 @@ The article recommends that institutions and instructors administer the GenAI-RP
 - [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
 - [Use the LBCS to identify needs for education concerning breastfeeding beyond 12 months](lbcs-identify-education-needs.md)
 - [Institutional expert support and one-on-one matching to help faculty adopt digital education tools](faculty-one-on-one-matching-digital-adoption-strategy.md)
+- [Administer a brief self-report cultural competence battery at baseline to tailor training and raise student self-awareness](baseline-cultural-competence-battery-tailoring-strategy.md)
 
 ## Examples
 -

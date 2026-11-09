@@ -62,3 +62,4 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [Non-HPS students did more physical activity while HPS students more often walked or cycled to school](non-hps-more-physical-activity-hps-active-transport.md) — related
 - [Each additional point of physical activity score was associated with a 0.423-point increase in Physical Education achievement](pa-point-increases-pe-achievement.md) — related
 - [Strengthened PE lowers math scores, with the decrease concentrated among girls](strengthened-pe-lowers-math-scores-girls.md) — reports the opposite
+- [Among sports-club participants, children spending two or more weekly hours in structured PA score higher in mathematical achievement than low-duration participants, while low-duration participants do not differ from non-participants](high-duration-structured-pa-higher-math-achievement.md) — related

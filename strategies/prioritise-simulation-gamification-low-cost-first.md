@@ -46,6 +46,7 @@ The review's practice recommendation is a strategic sequencing of investment: "a
 ## Related Strategies
 
 - [Prioritise cost-effective and low-fidelity or remote modalities in resource-limited settings and pursue longitudinal, context-specific SBE research](scalable-low-fidelity-telesimulation-resource-limited-settings.md)
+- [Deploy low-cost consumer VR simulation to scale surgical training in low-resource settings](low-cost-vr-scaling-surgical-training-low-resource.md)
 
 ## Examples
 -

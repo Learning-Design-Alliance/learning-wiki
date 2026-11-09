@@ -54,3 +54,4 @@ Within-subject quasi-experimental comparison of mid-stake end-of-block exam scor
 - [Medical students taught embryology with a gamification platform added to routine instruction scored significantly higher on the final exam than students taught by routine instruction alone](gamification-final-exam-scores-higher-embryology.md) — related
 - [The effectiveness of gamification in medical education is context-dependent, with design choices such as competition versus collaboration and personalization moderating outcomes](gamification-effectiveness-context-dependent.md) — related
 - [Medical interns taught via the smartphone application scored significantly higher than traditionally taught peers on pediatric, cardiovascular and respiratory exam topics](mobile-app-interns-higher-exam-scores-three-topics.md) — related
+- [Participation in the voluntary gamified quizzes was very high, with 93% of students taking part](high-voluntary-participation-kahoot-quizzes.md) — related

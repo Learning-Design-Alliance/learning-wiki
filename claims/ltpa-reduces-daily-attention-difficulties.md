@@ -54,3 +54,4 @@ Attention Difficulties Model from the daily-diary study (N = 57), marginal R2 = 
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
+- [Time spent in structured leisure-time PA is positively correlated with fourth graders' mathematical achievement, whereas unstructured PA is not](structured-pa-correlated-math-achievement-unstructured-not.md) — related

@@ -54,3 +54,4 @@ In the randomized controlled trial, 43 medical students completed a baseline pra
 - [Compression skill success rates among final-year medical students are low despite generally high self-efficacy perceptions](low-compression-success-rates-despite-high-sep.md) — related
 - [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related
 - [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](truecpr-feedback-increases-compression-depth.md) — related
+- [CPR overall and compression scores rose by roughly 30% from pre-test to follow-up after training with a feedback device, in one uncontrolled pre-post study, with skills largely retained at 3 months](feedback-device-training-30-percent-gain-retained-3-months.md) — related

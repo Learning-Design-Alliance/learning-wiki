@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The process-oriented group showed a greater reduction in rework than the control group, and the control group showed no significant improvement in process indicators. [→ de la Fuente Rene 2025](#de-la-fuente-rene-2025)
@@ -66,3 +66,4 @@ The same trial reports that the "CG showed no significant improvement in the pro
 - [Simulation-based training with deliberate practice improves residents' ultrasound-guided central venous catheter placement performance regardless of process-oriented supplementation](deliberate-practice-improves-cvc-performance-both-groups.md) — related
 - [Process-oriented feedback based on process mining increases residents' similarity to the reference process model for ultrasound-guided central venous catheter placement in simulation](process-mining-feedback-increases-similarity-reference-model-cvc.md) — related
 - [Classic procedural assessment indicators (global rating scale, checklist, execution time) show no intergroup difference despite process-level gains from process-oriented feedback](classic-indicators-miss-process-level-gains.md) — related
+- [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](process-oriented-feedback-positive-student-reaction-cvc.md) — related

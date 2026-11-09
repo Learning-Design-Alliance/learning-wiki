@@ -51,3 +51,4 @@ Time outcomes in the RCT: total meeting length 7.6 (2.4) vs 7.4 (2.5) minutes si
 - [SNAPPS versus OMP outcomes do not differ between simple and complex cases](snapps-omp-no-simple-complex-difference.md) — related
 - [SNAPPS students more often propose the appropriate management plan, with no difference in making the correct diagnosis](snapps-higher-management-plan-proportion.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
+- [In inpatient postgraduate teaching, SNAPPS case presentations took more total time than traditional presentations, with less time summarizing and more time in discussion](snapps-inpatient-presentation-time-reallocation.md) — related

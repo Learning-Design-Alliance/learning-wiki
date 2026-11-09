@@ -81,3 +81,4 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related
 - [DAA students showed superior transfer to a variant design task even after controlling for relevant prior knowledge of the spring mechanism](daa-transfer-variant-design-controlled-prior-knowledge.md) — a narrower finding that bears on this claim
 - [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](heuristic-students-invented-strategies-transfer-interpretation.md) — related
+- [Struggling with navigation before debrief instruction preceded students' understanding of integrated care concepts, supporting productive struggle as a mechanism](productive-struggle-mechanism-gps-care.md) — related

@@ -57,3 +57,5 @@ Operative scores and times in the 10th training session were compared across the
 - [Beginner participants improved their simulator scores after repeated practice, with significant improvement after 10 experiments](epidurosim-beginners-improve-repeated-practice.md) — related
 - [Junior residents score lower on OSAKA knowledge than senior residents (83.3% vs 88.9%; p = 0.0219)](junior-residents-lower-osaka-knowledge-scores.md) — related
 - [Median assessment scores decreased from PGY 3 to PGY 1, which the authors cite as construct validity evidence for the simulation assessment](pgy-subgroup-scores-support-construct-validity.md) — related
+- [Beginners' simulator procedure times shorten significantly with repeated trials](beginner-procedure-times-shorten-with-repetition.md) — related
+- [Beginner endoscopists take longer than experts on simulator hemostasis procedures](beginners-slower-than-experts-simulator-hemostasis.md) — a narrower finding that bears on this claim

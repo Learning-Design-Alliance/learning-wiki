@@ -28,3 +28,4 @@ e-MedEdu is an e-learning portal and shared repository operated by a consortium 
 
 ## Key Sources
 - Kim Kyong-Jee, Kim Giwoon, Kang Youngjoon. (2023). Faculty perceptions and use of e-learning resources for medical education and future predictions. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2023.270
+- Kim Kyong-Jee, Kim Giwoon. (2019). Development of e-learning in medical education: 10 years’ experience of Korean medical schools. Korean Journal of Medical Education. https://doi.org/10.3946/kjme.2019.131

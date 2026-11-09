@@ -51,3 +51,4 @@ Post-hoc survey of 17 students (73.9% of participants) using five-point Likert-s
 - [Student confidence in laparoscopic skills improved significantly after practice, with no difference between near-peer-taught and self-taught groups](confidence-improves-independent-of-group.md) — related
 - [Most graduating medical students (57%) feel very confident in a teaching role, having mainly developed teaching skills through informal near-peer mentorship](informal-near-peer-development-confidence.md) — related
 - [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](3d-printed-models-classroom-interactivity.md) — related
+- [Students' post-presentation spotter scores were significantly higher than pre-presentation spotter scores in one single-group pre-post study of creative muscle presentations](post-presentation-spotter-scores-significantly-higher.md) — related

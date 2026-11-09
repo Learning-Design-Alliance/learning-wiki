@@ -74,3 +74,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
 - [Laparoscopic training facilities were available to only 55% of US residency programs in 2006 and 73% of North American programs in 2014](laparoscopic-training-facilities-access-gap.md) — related
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
+- [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related

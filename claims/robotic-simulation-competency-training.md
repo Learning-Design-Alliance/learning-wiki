@@ -52,3 +52,4 @@ Trial by De Groote et al. (2022): 36 junior residents from 16 training centers r
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — related
+- [PBP training achieved communication skill acquisition rates of about 60%, similar to rates seen with technical skills using this approach](pbp-communication-skill-acquisition-rate-similar-to-technical-skills.md) — related

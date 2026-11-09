@@ -47,3 +47,4 @@ Multiple logistic regression with backward selection in the RCT (70 per group), 
 ## Related Claims
 - [Smartphone education reduced colonoscopy-related embarrassment over time compared with traditional education in an RCT](smartphone-education-reduces-colonoscopy-embarrassment.md) — related
 - [Smartphone education improved satisfaction with colonoscopy care compared with traditional education](smartphone-education-improves-satisfaction-colonoscopy-care.md) — related
+- [Reminders may be essential to colonoscopy app effectiveness: a cited randomized controlled trial found equal bowel cleanliness when the app could not send reminders](reminders-essential-colonoscopy-app-effectiveness.md) — related

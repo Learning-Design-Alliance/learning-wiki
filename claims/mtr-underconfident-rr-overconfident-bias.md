@@ -94,3 +94,4 @@ Post-hoc contrast of bias on the one-week delayed test: the single-reading group
 - [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](non-interactive-teaching-under-confidence-bias.md) — related
+- [No non-linear effects of confidence bias were observed, suggesting no 'sweet spot' in online confidence for the outcomes studied](no-sweet-spot-online-confidence.md) — related

@@ -76,3 +76,4 @@ Message-length analysis over the complete collection of messages (n = 1,342). Fo
 - [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — reports the opposite
 - [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related
 - [Social support features were prevalent in the reviewed Web-based substance use interventions](social-support-prevalence-encouraging.md) — related
+- [Discussion forums were rated moderately positively (mean 3.4–3.8 of 5) but obligatory participation and message volume drew negative comments](discussion-forums-moderately-positive-obligatory-comments-negative.md) — related

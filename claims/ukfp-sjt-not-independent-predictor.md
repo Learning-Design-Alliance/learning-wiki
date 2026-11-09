@@ -51,3 +51,4 @@ Logistic regression analyses in the 705-student cohort comparing univariable and
 - [Pre-admission UCAT SJT scores are not statistically significantly predictive of professionalism lapses in medical students](ucat-sjt-not-predictive-of-lapses.md) — related
 - [UCAT SJT predictive validity appears larger for the 2013 introductory sitting than for later sittings, consistent with practice effects](ucat-sjt-practice-effect-attenuation.md) — related
 - [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related
+- [Confidence judgement was a univariable but not an independent predictor of receiving a medical school offer](confidence-judgement-not-independent-offer-predictor.md) — related

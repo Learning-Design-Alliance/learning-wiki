@@ -68,6 +68,8 @@ The article describes a standardized simulation-based training protocol structur
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 - [Remotely delivered hands-on suturing workshop using multi-angle streaming and peer review via video conferencing](remote-hands-on-suturing-workshop-strategy.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Implement suturing/ligature tutoring in parallel with real patient practice, combining expert-led teaching with AI system-assisted self-assessment sessions](expert-led-plus-ai-suturing-tutoring-strategy.md)
+- [Bedside hands-on training combining lectures, pelvic model practice, and supervised clinical application](hands-on-bpst-bedside-training-strategy.md)
 
 ## Examples
 -

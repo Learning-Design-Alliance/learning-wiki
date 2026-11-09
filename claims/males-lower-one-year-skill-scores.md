@@ -59,3 +59,4 @@ Random intercept linear mixed effects model (adjusting for within-facility depen
 - [Female residents scored significantly higher than male residents on total LGBT-DOCSS-JP scores](female-residents-higher-lgbt-docss-jp-total.md) — related
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — reports the opposite
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
+- [Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case](predictors-of-training-case-logistic-regression.md) — related

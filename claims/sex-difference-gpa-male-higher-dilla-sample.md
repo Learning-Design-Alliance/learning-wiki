@@ -55,3 +55,4 @@ Results summary of the Dilla University study (n = 30; 20 males, 10 females). De
 - [Male nursing students scored slightly higher GPA than female students in this sample](male-students-higher-gpa-sample.md) — possibly the same claim (merge candidate)
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — reports the opposite
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — reports the opposite
+- [Logistic regression identified younger age, female sex, normal weight, lower difficulty grade, and ASA score ≤ 2 as independent predictors of a training case](predictors-of-training-case-logistic-regression.md) — related

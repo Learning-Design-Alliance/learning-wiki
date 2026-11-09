@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 137 claims (82 for, 53 mixed, 2 against) · 124 studies (38 causal, 30 review, 19 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 17 of 124 report an effect size · 123 claims rest on one study
+> **Evidence** · 138 claims (83 for, 53 mixed, 2 against) · 125 studies (38 causal, 30 review, 19 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 17 of 125 report an effect size · 124 claims rest on one study
 
 ## Conditional relationship
 
@@ -218,6 +218,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Actual effort is a significant positive predictor of test achievement across all three learning tasks](../claims/actual-effort-predicts-test-achievement-across-tasks.md) [+W] — attached 2026-11-05 from Kehle et al. (2025), which proposed "Foster both interest and effort, cultivating effort by making learning goals explicit and guiding purposeful learning pathways".
 - [Rehabilitation students with at least one specific professional interest report higher self-determined academic motivation than students without one](../claims/specific-interest-higher-sdi-rehabilitation-students.md) [~W] — attached 2026-11-05 from Hu Huiling; Luo Hongmei (2026), which proposed "Foster early specialization and professional interest within rehabilitation curricula to enhance academic motivation".
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](../claims/flipped-classroom-raises-autonomous-learning-motivation.md) [+M] — attached 2026-11-06 from Wang Zhonger et al. (2025), which proposed "In flipped college English teaching, prioritize cultivating students' autonomous learning motivation and intrinsic learning motivation"; tests this page's relationship.
+- [Academic interest has a statistically significant positive effect on undergraduate academic performance after propensity score matching on demographic and family covariates](../claims/academic-interest-positive-effect-academic-performance-psm.md) [+W] — attached 2026-11-08 from Wu Hongbin et al. (2019), which proposed "Consider academic interest in student recruitment and foster domain-specific interest to enhance academic performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -53,7 +53,8 @@ The article describes a concrete implementation: Kahoot quizzes of 10–15 quest
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](../claims/student-favorable-perceptions-kahoot.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use team-based gamified quizzes at the start and end of teaching sessions to complement traditional histology teaching](team-based-gamified-quiz-strategy.md)
 
 ## Examples
 -

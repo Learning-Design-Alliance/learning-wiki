@@ -73,6 +73,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Develop structured in vitro training curricula with objectively evaluated procedural metrics for endovascular skills](structured-in-vitro-endovascular-curriculum-strategy.md)
 - [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
 - [Use Sim-OSSCAR as formative assessment with a benchmark before progression to live surgery](sim-osscar-formative-benchmark-progression-strategy.md)
+- [Four-step REBOA training programme: theory, basic skill training, interventional radiology practice, and high-fidelity simulation with debriefing](four-step-reboa-training-programme-strategy.md)
+- [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Authors' stated limitation in the conclusion section, not an empirical result. T
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
 - [Online FMA-LE training is limited by unverifiable engagement and unequal lecture-review access, and results do not generalize beyond video-based scoring](online-fma-training-limitations-video-only.md) — a narrower finding that bears on this claim
 - [The article reports that FL implementation success depends on pre-class material quality, student readiness, and instructor facilitation ability](fl-success-depends-on-materials-readiness-facilitation.md) — related
+- [Students used the online lectures far more than the assigned readings, citing lack of time as the main barrier](lecture-use-high-reading-use-low.md) — related

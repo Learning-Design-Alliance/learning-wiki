@@ -54,6 +54,7 @@ The article recommends parental warmth (acceptance and affection from parents) a
 
 - [Strengthen family systems and provide financial support to foster student emotional intelligence](family-strengthening-financial-support-ei-strategy.md)
 - [Include positive parenting style components in interventions aiming to improve adolescent academic performance](parenting-style-components-in-academic-interventions.md)
+- [Parent awareness-raising programs and parent schools should emphasize both parents’ warmth and replace excessive control with communication and inductive discipline](parent-schools-both-parents-warmth-program.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Prospective comparative study at the University of Würzburg; 38 students (19 pe
 - [Both e-learning and role-playing formats equally and significantly increase medical students' theoretical knowledge of smoking cessation](both-formats-equal-knowledge-gain.md) — related
 - [The online course is more time-efficient than the attendance seminar for the same smoking cessation training](online-course-time-efficiency.md) — related
 - [Standardised patients rate the counselling of role-playing seminar students significantly better than that of online-course students](sp-rating-seminar-advantage.md) — related
+- [Fourth-year medical students' OSCE tobacco-cessation counseling scores rose significantly from baseline to post-intervention within both the SP and peer role-play groups](sp-and-role-play-modules-increase-osce-counseling-scores.md) — related

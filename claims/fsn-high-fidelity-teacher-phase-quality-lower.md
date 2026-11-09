@@ -73,3 +73,4 @@ Fidelity quality ratings on the five-point IFC scale were collected by observers
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
+- [Teachers implemented on average 98% of juggling-math lessons and 99% of control math lessons over the 5-week program](juggling-math-high-implementation-rates.md) — related

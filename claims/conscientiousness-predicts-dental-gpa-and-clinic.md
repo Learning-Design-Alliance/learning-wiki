@@ -55,3 +55,4 @@ Correlational analysis of 144 dental students' BFI scores against weighted GPA o
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [Deliberation failed to predict any success criterion, diverging from previous dental-education findings](deliberation-null-dental-performance.md) — related
+- [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related

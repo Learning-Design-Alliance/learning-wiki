@@ -47,6 +47,7 @@ The evaluation's development recommendation for PAL: address inconsistent delive
 - [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 - [Co-train coaches across schools to capture economies of scale in training and equipping coaching programmes](co-train-coaches-economies-of-scale.md)
 - [Implement a 2-hour guided extracurricular outdoor physical activity program after school on school days](two-hour-after-school-outdoor-physical-activity-program.md)
+- [Review PAL training content, particularly the outdoor component and the amount of activity introduced, before further secondary-school PAL research](review-pal-training-content-strategy.md)
 
 ## Examples
 -

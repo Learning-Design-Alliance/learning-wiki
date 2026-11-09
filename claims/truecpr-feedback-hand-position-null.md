@@ -51,3 +51,4 @@ Null result from the same randomized cross-over simulation study; Table 1 report
 - [Feedback device use dramatically increases complete chest relaxation during simulated CPR](truecpr-feedback-increases-chest-relaxation.md) — related
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related
 - [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](truecpr-feedback-increases-compression-depth.md) — related
+- [Smartwatch feedback does not significantly improve chest compression rate or full decompression in infant CPR simulation](smartwatch-feedback-no-effect-rate-decompression.md) — related

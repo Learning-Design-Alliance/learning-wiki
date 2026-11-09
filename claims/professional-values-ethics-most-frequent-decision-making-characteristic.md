@@ -49,3 +49,4 @@ Frequency analysis of 168 characteristics extracted from 25 included studies, gr
 - [Twenty-five studies were included identifying 15 core characteristics of nurse managers' decision-making competency](scoping-review-25-studies-15-characteristics.md) — related
 - [Clinical Assessment and Clinical Management were the most frequently reported competency domains](clinical-assessment-management-most-frequent-obesity-competencies.md) — related
 - [At the individual-relational level, nurses' moral competence is supported by valuing professional ethics, valuing others (including creating listening spaces) and working on oneself](individual-relational-support-moral-competence.md) — related
+- [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related

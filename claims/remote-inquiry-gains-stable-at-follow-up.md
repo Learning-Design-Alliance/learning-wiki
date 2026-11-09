@@ -55,3 +55,4 @@ Post-to-follow-up mixed ANOVA in the randomized experiment, based on only n = 72
 - [Daily assessments were associated with slightly lower student evaluations of faculty](daily-assessments-lower-student-evaluations.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Knowledge gains from both PAL and NAL weeks were not significantly retained at the one-week follow-up](pal-nal-retention-not-significant.md) — related
+- [In one uncontrolled pre-post study, intervention-group accuracy rose significantly from baseline to final training and was similar at follow-up and under distraction](lp-accuracy-retention-stability.md) — related
