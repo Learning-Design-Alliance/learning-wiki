@@ -49,3 +49,4 @@ Theme 2 from the same 26-GP qualitative interview study; Respondent Z asked for 
 - [Fast-paced, high-stimulus clinical settings with short appointments, lack of privacy and limited access to mental health specialists are major barriers to personality disorder care.](clinical-environment-barriers-to-pd-care.md) — related
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
+- [SPs would not change the training concept overall but wished for more repetitions and practice of the DRE](sp-dre-wish-for-more-repetitions.md) — related

@@ -76,3 +76,4 @@ Same pre-registered OLS analysis applied to pair accuracy, a stricter post hoc m
 - [After the Creative AI workshop, more middle school students correctly answered how a GAN discriminator's feedback drives the generator (70.6% post vs 41.2% pre)](gan-understanding-gains-creative-ai.md) — related
 - [Graduate graders can distinguish LLM-generated assessment responses from student responses with accuracy better than random guessing, and experience with generative AI improves detection accuracy](graders-detect-llm-responses-neuroscience.md) — related
 - [Before instruction, most prospective teachers believed long consecutive runs of heads or tails were impossible and failed to distinguish real from fake coin-flip data](pretest-consecutive-run-misconceptions.md) — related
+- [Training shifted novices' response bias toward saying 'at risk' without improving sensitivity](training-shifts-bias-not-sensitivity.md) — related

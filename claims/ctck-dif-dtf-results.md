@@ -48,3 +48,4 @@ Mantel-Haenszel DIF analyses on the calibration data (352 pre-service teachers) 
 ## Related Claims
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — possibly the same claim (merge candidate)
 - [Pre-university GPA was positively related to performance on six of 19 selection items, while gender and age effects outweighed each other and did not affect overall performance.](pu-gpa-dif-selection-items-gender-age-null.md) — related
+- [SEPCQ-27 items show negligible gender-related differential item function except two Factor 3 items](sepcq-minimal-gender-dif.md) — related

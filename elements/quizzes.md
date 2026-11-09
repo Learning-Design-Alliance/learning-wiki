@@ -110,6 +110,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](../strategies/pre-quiz-unlocks-module-post-quiz-feedback.md)
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](../strategies/seminar-quiz-formative-feedback-strategy.md)
 - [Provide answers to probing questions one week after the session so students can quiz themselves for spaced repetition](../strategies/delayed-answer-sheet-spaced-repetition.md)
+- [Provide corrective feedback on low-stakes quizzes when using test-enhanced learning](../strategies/corrective-feedback-on-quizzes-strategy.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

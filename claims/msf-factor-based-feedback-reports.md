@@ -49,3 +49,4 @@ Authors' implementation and interpretive account (type e): the two-factor model 
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](msf-written-comments-quality-varies-actionability-limited.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
 - [Anaesthesiology residents rate themselves lower than colleagues and coworkers rate them, while patients give the highest ratings](msf-self-ratings-lower-patients-highest.md) — related
+- [Rater idiosyncrasy accounts for a large share of variance in social-support ratings but little for other TRENT dimensions](rater-idiosyncrasy-social-support-high.md) — related

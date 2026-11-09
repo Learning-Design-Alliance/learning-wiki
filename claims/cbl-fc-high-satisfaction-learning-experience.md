@@ -66,3 +66,4 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [MPH students reported high overall satisfaction with the FC+CBL format in Introduction to Environmental Health Science](mph-high-satisfaction-fc-cbl-environmental-health.md) — related
 - [All FC+CBL students perceived blended learning as beneficial for the course](mph-unanimous-blended-learning-beneficial.md) — related
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related

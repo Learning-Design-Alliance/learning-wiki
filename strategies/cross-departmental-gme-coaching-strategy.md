@@ -47,6 +47,7 @@ The article recommends structuring GME coaching so that coaches work with learne
 
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Creating Space for New Ideas](creating_space_for_new_ideas.md)
+- [Train department Chairs and Directors on providing peer-evaluation feedback in a constructive and motivating manner](train-chairs-constructive-peer-feedback.md)
 
 ## Examples
 -

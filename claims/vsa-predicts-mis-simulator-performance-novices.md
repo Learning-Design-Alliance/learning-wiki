@@ -58,3 +58,4 @@ Systematic review synthesis of 22 correlational and 4 comparative studies (26 in
 - [The transparent SAPIENS model is considered ideal for inexperienced surgeons because it visualizes hidden anatomical structures](transparent-model-ideal-for-inexperienced-surgeons.md) — a narrower finding that bears on this claim
 - [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — reports the opposite
 - [Structured VR simulator training significantly increases visual spatial ability scores compared with no training](vr-training-increases-vsa-scores.md) — related
+- [Simulation-group trainees scored significantly better on the Shape Memory visuo-spatial test at baseline than control trainees](shape-memory-baseline-imbalance-simulation-group.md) — related

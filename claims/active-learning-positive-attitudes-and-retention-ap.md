@@ -51,3 +51,4 @@ Anonymous Likert-scale attitude survey administered to the treatment group and a
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](students-strongly-prefer-flipped-courses.md) — related
 - [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
+- [Learning gains in flipped classrooms are most likely attributable to active learning rather than the order of instructor facilitation](active-learning-not-flipping-drives-gains.md) — related

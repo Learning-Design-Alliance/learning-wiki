@@ -76,3 +76,4 @@ Chi-square test of gender against chronotype category among all 148 participants
 - [Perceived stress was negatively associated with final course grade (P < 0.05) but unrelated to either assignment grade measure](perceived-stress-negative-final-grade.md) — related
 - [Female medical laboratory sciences students earn significantly higher average final grades than male students in the same courses](female-medical-lab-sciences-students-higher-grades.md) — related
 - [Raising the Year-1 standard increased perceived stress, with the increase confined to female students](raising-standard-increased-perceived-stress-females.md) — reports the opposite
+- [Medical students in both cohorts reported perceived stress above population norms for a similar age group](medical-students-stress-above-norms.md) — related

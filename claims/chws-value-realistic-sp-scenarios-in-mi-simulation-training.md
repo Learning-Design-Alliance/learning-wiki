@@ -76,3 +76,6 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [In one uncontrolled pre-post study, frequencies of open body position and adequate facial expression rose, while frequencies of unnecessary silence, un-purposive movements, and giggling fell from pre-course interview to post-course OSCE](sp-training-improves-specific-nonverbal-behaviors.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — a narrower finding that bears on this claim
+- [SPs see the advantage of SP-based DRE teaching as students receiving feedback from the patient perspective and feeling more secure](sp-dre-patient-perspective-feedback-advantage.md) — related
+- [Students perceived that video made the PBL scenario seem more real by providing visual cues and context absent from text](vp-pbl-video-makes-scenario-real.md) — related

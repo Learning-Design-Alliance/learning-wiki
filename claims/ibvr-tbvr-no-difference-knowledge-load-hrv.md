@@ -72,3 +72,4 @@ Generalized estimating equations controlling for age, sex, residence level, and 
 - [TBVR yields higher global satisfaction and hedonic appeal than IBVR despite IBVR's performance advantage](tbvr-higher-satisfaction-hedonic-than-ibvr.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Talk-aloud interviews with 28 junior residents and expert physicians identified 5 thematic sources of cognitive load in trauma resuscitation videos](cinevr-talk-aloud-five-cognitive-load-sources.md) — related
+- [E-learning modules and peer-reviewed PDF articles both improved global health conceptual knowledge with no statistically significant difference between the two approaches](e-learning-versus-pdf-articles-no-knowledge-difference-global-health.md) — related

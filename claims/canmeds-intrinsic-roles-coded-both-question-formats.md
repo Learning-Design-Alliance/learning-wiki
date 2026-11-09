@@ -49,3 +49,4 @@ Qualitative content analysis of 1024 perceived-needs comments and 892 challenge 
 - [Communicator and Health Advocate (and to a lesser extent Collaborator) roles are frequently described in physicians' narratives of challenges in practice but appear in under 10% of descriptions of perceived learning needs](canmeds-communicator-health-advocate-challenges-not-perceived-needs.md) — related
 - [Narrative comments associated with low patient-generated physician ratings align well with the CanMEDS 2015 physician competency framework](patient-reviews-align-canmeds-roles.md) — related
 - [The Chinese doctors' competencies framework is similar to the ACGME and CanMEDS frameworks](chinese-framework-similar-acgme-canmeds.md) — related
+- [Self-perceived global health competency improved significantly in five of seven CanMEDS roles, with small effect sizes, but not for communicator and collaborator](canmeds-self-assessment-five-of-seven-roles-improved.md) — related

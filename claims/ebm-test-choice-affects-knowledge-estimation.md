@@ -54,3 +54,5 @@ Within-group comparison of the three tests in the EBM group (n = 39) after the c
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
 - [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
+- [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
+- [Blended learning is no more effective than didactic learning at increasing medical students' EBM competency as measured by the Berlin Questionnaire](bl-vs-dl-no-competency-difference-berlin.md) — related

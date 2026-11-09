@@ -53,3 +53,4 @@ Experiment 1 fact-type analysis: no significant fact-type differences on free or
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
 - [SRL interventions for teachers become more effective when addressing teachers' opposing beliefs to facilitate conceptual change](srl-teacher-interventions-conceptual-change-beliefs.md) — related
 - [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](misconception-addressing-techniques-science-review.md) — related
+- [Recall accuracy evolved in accordance with learning factors, supporting its consistency with knowledge retention without proving the relationship](recall-accuracy-consistent-with-retention.md) — related

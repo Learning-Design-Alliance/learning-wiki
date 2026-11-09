@@ -51,3 +51,4 @@ Interview study of 20 first-year doctors 6 months after SBT; NTS was a main them
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [First-year doctors report that simulation-based training in handling critically ill patients increased their preparedness for clinical practice six months after the course](sbt-increases-preparedness-first-year-doctors.md) — related
 - [Application of algorithms and non-technical skills in clinical practice is more difficult when the surrounding clinical staff are unfamiliar with these tools](staff-unfamiliarity-impedes-transfer.md) — related
+- [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related

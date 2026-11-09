@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (45 for, 33 mixed, 3 against) · 71 studies (32 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 18 of 71 report an effect size · 73 claims rest on one study
+> **Evidence** · 83 claims (47 for, 33 mixed, 3 against) · 72 studies (32 causal, 16 review, 15 quant-synthesis, 4 associational, 3 design, 2 theoretical), `q1`–`q4` · 18 of 72 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Students using the badge-equipped gamified response system RB-G-SIDRA obtained higher final exam grades than students using the non-gamified SIDRA and the ranking-only R-G-SIDRA.](../claims/badges-gamified-crs-higher-final-exam-grades.md) [+W] — attached 2026-11-08 from López-Jiménez et al. (2021), which proposed "Prefer badges over public rankings to reward progress, because badges reward without imposing competitive penalty on lagging students"; tests this page's relationship.
 - [MCQ test scores were higher with both gamified systems than with the non-gamified SIDRA, but ranking plus teams plus points without badges did not differ from badges.](../claims/gamified-crs-higher-mcq-scores.md) [+W] — attached 2026-11-08 from López-Jiménez et al. (2021), which proposed "Prefer badges over public rankings to reward progress, because badges reward without imposing competitive penalty on lagging students"; tests this page's relationship.
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](../claims/gamification-program-improves-crf-college-students.md) [+W] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "Narrative-embedded gamification with roles, scores, and weekly progression"; tests this page's relationship.
+- [First-year medical students largely perceived gamified TurningPoint ARS games as engaging and as an effective learning tool in medical microbiology lectures.](../claims/gamified-ars-games-engaging-learning-medical-students.md) [+W] — attached 2026-11-09 from Pettit RK et al. (2015), which proposed "Gamified ARS interaction pattern: multiple varied game elements and mechanics embedded in clicker presentations".
+- [Variety of gamified TP interactions ranked in the top three for both engagement and learning, with 91% finding the variety engaging.](../claims/variety-of-tp-interactions-top-rated.md) [+W] — attached 2026-11-09 from Pettit RK et al. (2015), which proposed "Gamified ARS interaction pattern: multiple varied game elements and mechanics embedded in clicker presentations".
 
 ## Objective and learner-valued goal
 

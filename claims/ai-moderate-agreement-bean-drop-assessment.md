@@ -50,3 +50,4 @@ Agreement analysis on 64 randomly selected bean drop test videos not used in tra
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](ai-almost-perfect-agreement-peg-transfer-assessment.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward](nlp-la-performance-kappa-accuracy-benchmarks.md) — a broader claim this one bears on
+- [Flashcard G-coefficient indicated almost perfect agreement (91%) in the quiz group but only moderate agreement (47%) in the study-quiz group](flashcard-g-coefficient-agreement.md) — related

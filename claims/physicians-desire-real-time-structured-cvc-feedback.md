@@ -51,3 +51,4 @@ Interview finding (Subtheme 3a); one participant requested "should be immediate 
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related
 - [Post-intervention, residents more often used scaffolding for procedures, demonstrating a technique first and then allowing supervised student attempts with real-time feedback](post-intervention-scaffolding-hands-on-supervised-practice.md) — related
+- [Residents prefer to practice certain procedures on simulation models first, especially in endourology and laparoscopy](residents-prefer-simulation-first-endourology.md) — related

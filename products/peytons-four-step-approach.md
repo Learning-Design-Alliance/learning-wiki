@@ -14,7 +14,7 @@ generated:
 # Peyton's four-step approach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (2 causal, 2 review, 2 design), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 7 studies (3 causal, 2 review, 2 design), `q2`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 A structured clinical-skills teaching framework that sequences demonstration, deconstruction, comprehension, and independent performance, used by instructors to teach procedural skills.
@@ -24,6 +24,7 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 - **Peyton's four-step approach as a staged clinical skills teaching model**: Peyton's four-step approach is a skill-teaching method comprising four structured stages: "demonstration, deconstruction, comprehension, and performance". The instructor first performs the scan without theoretical explanation, then lectures while repeating scans, then has trainees recite the procedure while the instructor scans and corrects errors, and finally trainees perform independently. The article applies it to ultrasound scanning of the thyroid and cervical lymph nodes and reports it as aligned with human cognitive learning, particularly through the comprehension stage's self-assessment via guiding others. (Wang Jiajia et al. (2024))
 - **Peyton's four-step model for skills training integrated into Gagne's framework**: Peyton's four-step model is an evidence-based approach to teaching clinical skills with four steps: demonstration (teacher performs without explanation), deconstruction (teacher performs while explaining each step), reconstruction (teacher performs while the learner explains each step), and performance (learner performs and describes the skill). The workshop integrated it into Gagne's framework to give more detailed instruction for the learning-guidance and learner-performance steps, and a cited meta-analysis found students trained with Peyton's model "had higher skills performance scores and required less time to complete the procedure than students receiving traditional teaching methods." (Smith Christopher J. MD et al. (2024))
 - **Modified Walker and Peyton four-step approach for teaching procedural skills in small groups**: The article uses a modified version of Walker and Peyton's four-step approach as the teaching method for IO needle insertion in a cadaver workshop. It consists of four phases: a Demonstration phase at real-life speed, a Deconstruction phase where the instructor performs slowly while verbally breaking the task into simple steps, a Formulation phase where participants talk the instructor through the task, and a Performance phase where participants perform with immediate feedback and may repeat until confident. The authors note the approach was developed for 1:1 teaching but that students also welcome it for small group training, and that its implementation for procedural skill teaching is recommended. (Afzali Monika et al. (2017))
+- **Peyton's Four-Step Approach as a springboard establishing high baseline performance before repetitive practice**: The article uses Peyton's Four-Step Approach (demonstration, deconstruction, comprehension, execution) as the instructional frame for initial skill instruction before repetitive practice. It describes the approach as "a springboard which enhances the benefit from subsequent repetitive practice", attributing the very high first-independent-performance scores (~90%) to "the success of Peyton's four-step framework of deconstruction and learners' comprehension before actually performing the skill". Within the framework, no specific feedback is scheduled. (Bosse Hans Martin et al. (2015))
 
 ### Claims
 - [Residents taught with Peyton's four-step approach plus flipped classroom and CBL scored higher on ultrasound skills assessment than residents taught with traditional methods](../claims/peyton-flipped-higher-skill-assessment-ultrasound.md) [+M]
@@ -33,6 +34,7 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](../claims/io-access-taught-four-step-cadaver-course.md) [+M]
 - [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](../claims/peyton-four-step-superior-ospe-spinal-manipulation.md) [+M]
 - [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](../claims/spinal-manipulation-skills-decline-six-months.md) [~M]
+- [Repetitive deliberate practice with intermittent feedback significantly improves early procedural skill performance regardless of feedback frequency](../claims/repetitive-practice-intermittent-feedback-improves-procedural-skills.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -44,6 +46,7 @@ A structured clinical-skills teaching framework that sequences demonstration, de
 - Burgess A, van Diggele C, Roberts C, Mellis C. (2020). Tips for teaching procedural skills. BMC Medical Education. https://doi.org/10.1186/s12909-020-02284-1
 - Afzali Monika, Kvisselgaard Ask Daffy, Lyngeraa Tobias Stenbjerg, Viggers Sandra. (2017). Intraosseous access can be taught to medical students using the four-step approach. BMC Medical Education. https://doi.org/10.1186/s12909-017-0882-7
 - Gradl-Dietsch G, Lübke C, Horst K, Simon M, Modabber A, Sönmez TT, Münker R, Nebelung S, Knobe M. (2016). Peyton's four-step approach for teaching complex spinal manipulation techniques – a prospective randomized trial. BMC Medical Education 16:284. https://doi.org/10.1186/s12909-016-0804-0
+- Bosse Hans Martin, Mohr Jonathan, Buss Beate, Krautter Markus, Weyrich Peter, Herzog Wolfgang, Jünger Jana, Nikendei Christoph. (2015). The benefit of repetitive skills training and frequency of expert feedback in the early acquisition of procedural skills. BMC Medical Education. https://doi.org/10.1186/s12909-015-0286-5
 
 # Peyton's four-step model
 

@@ -64,6 +64,7 @@ Peer Instruction operationalizes the finding that interactive engagement outperf
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
 - [Challenge the challenger: students create group quiz questions and challenge the opposing group to answer them](challenge-the-challenger-technique.md)
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
+- [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 
 ## Examples
 - **[Peer Instruction Network / Mazur Group resources](https://blog.peerinstruction.net)** — Eric Mazur's original implementation in Harvard Physics 1, replacing most lecture with ConcepTests; documented in *Peer Instruction: A User's Manual* (1997).

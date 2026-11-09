@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 300 claims (165 for, 115 mixed, 20 against) · 168 studies (58 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 32 of 168 report an effect size · 294 claims rest on one study
+> **Evidence** · 301 claims (166 for, 115 mixed, 20 against) · 169 studies (59 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 32 of 169 report an effect size · 295 claims rest on one study
 
 ## Description and scope
 
@@ -228,6 +228,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](../claims/standardized-patients-no-written-exam-difference.md) [~W] — attached 2026-11-09 from Herbstreit Frank et al. (2017), which proposed "Adopt standardized-patient training for emergency-medicine teaching only where its small performance benefit justifies the additional resources".
 - [A single 30-minute conversational placement raises speech pathology students' self-reported communication skill, knowledge and confidence regardless of whether the partner is a real patient, standardised patient or virtual patient](../claims/single-conversational-placement-raises-communication-self-efficacy.md) [~M] — attached 2026-11-09 from Quail Michelle et al. (2016), which proposed "Integrate sustainable, standardised virtual patient-based placements into allied health training for communication skills, since they yield comparable self-reported gains to traditional placements"; tests this page's relationship.
 - [The virtual patient placement was rated less realistic, natural, engaging and enjoyable than the simulated and traditional placements, and both simulation groups reported more pre-placement anxiety, with no differences in perceived learning](../claims/vle-rated-less-realistic-engaging-more-anxiety.md) [-M] — attached 2026-11-09 from Quail Michelle et al. (2016), which proposed "Integrate sustainable, standardised virtual patient-based placements into allied health training for communication skills, since they yield comparable self-reported gains to traditional placements"; tests this page's relationship.
+- [In one group of resident psychiatrists, scores on a knowledge test covering PTSD diagnosis, clinical management and basic communication skills were higher immediately after one virtual patient session than before it](../claims/vp-session-immediate-knowledge-gain.md) [+W] — attached 2026-11-09 from Pantziaras I et al. (2015), which proposed "Pair virtual patient encounters with individualized automated feedback to support knowledge acquisition"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

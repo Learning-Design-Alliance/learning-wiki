@@ -50,3 +50,4 @@ The review reports that in studies allowing material reinspection, "the closed-b
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand](closed-book-prompts-reduce-self-explanations-without-active-processing.md) — related
+- [Chronic exposure to open-note testing produces a significant open/closed difference on Bloom's 1–2 questions and shifts student beliefs about which format is advantageous](chronic-open-note-exposure-alters-performance-and-beliefs.md) — related

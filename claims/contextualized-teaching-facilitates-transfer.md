@@ -177,3 +177,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Higher-level clinical reasoning, handling of lines and wires, and dealing with out-of-textbook situations could not be achieved with the e-learning module alone](elearning-alone-limits-reasoning-lines.md) — related
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
 - [Students rate virtual patient cases as a rewarding learning experience that prepares them for real patients, but only partially experience authentic clinical decision-making](vp-design-evaluation-student-ratings.md) — a narrower finding that bears on this claim
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — a narrower finding that bears on this claim

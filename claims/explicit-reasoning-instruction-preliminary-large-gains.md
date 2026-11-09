@@ -69,3 +69,4 @@ Preliminary test class (15 students from both physics-major and general-educatio
 - [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related
 - [Without prompting, 14 students wrote on course evaluations that the course improved critical thinking, with other unprompted comments citing skepticism and scientific reasoning.](unprompted-evaluations-critical-thinking.md) — related
+- [Scientific reasoning gains (LCTSR) are equal between flipped and nonflipped active classrooms and significant within both](lctsr-reasoning-gains-equal-flipped-nonflipped.md) — related

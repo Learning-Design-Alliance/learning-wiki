@@ -69,3 +69,4 @@ Descriptive group comparison of students aged 25 or older versus younger student
 - [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related
 - [Female students scored higher on the strategic approach scale than male students](female-students-higher-strategic-approach.md) — related
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
+- [Male and younger TMGs scored significantly higher on the knowledge test, and men scored higher on the physical exam, at follow-up](demographic-factors-knowledge-physical-exam-scores.md) — reports the opposite

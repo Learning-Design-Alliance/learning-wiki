@@ -52,3 +52,4 @@ Qualitative content analysis of semi-structured interviews with undergraduate nu
 - [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](peer-tutoring-barriers-commitment-passive-learning.md) — related
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Tutees in the program reported improvements in study methods, time management, motivation, and confidence, with high satisfaction and willingness to recommend](tutee-descriptive-survey-improvements.md) — related
+- [Seminar-like session structure, an anxiety-free atmosphere and tutors' personal commitment were the frame conditions tutees perceived as making the course beneficial](peer-exam-prep-frame-conditions.md) — related

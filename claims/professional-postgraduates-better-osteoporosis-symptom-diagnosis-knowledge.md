@@ -50,3 +50,4 @@ Cross-sectional survey of 97 postgraduates at West China School of Clinical Medi
 - [Postgraduates show deficient knowledge of osteoporosis epidemiology, with no difference between degree tracks](osteoporosis-epidemiology-knowledge-deficit.md) — related
 - [Learning channels for osteoporosis differ by degree track: academic students prefer journals, professional students prefer the internet](osteoporosis-learning-channels-differ-by-degree-track.md) — related
 - [Professional-degree postgraduates report more osteoporosis instruction and training than academic-degree postgraduates](professional-postgraduates-more-osteoporosis-training.md) — related
+- [Participants reported that the symptom-oriented approach and integration of epidemiological knowledge improved their understanding of diagnostic reasoning](symptom-oriented-approach-epidemiology-themes.md) — related

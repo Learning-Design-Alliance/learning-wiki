@@ -75,3 +75,4 @@ Mechanism identification during the review's synthesis stage. The review "identi
 - [Follow-up training and regular supervision from formal health staff, with logistical support, trigger a sense of legitimacy and professional identity in CHVs](chv-role-legitimacy-health-system.md) — related
 - [A stable and supportive social, material and political context facilitates CHV intervention success, while unsupportive contexts prevent motivation mechanisms from firing](chv-performance-contextual-moderators.md) — related
 - [The highest page revision and discussion levels were observed in a small wiki reserved to a closed community, suggesting strong user commitment can overcome volunteering limitations](closed-community-high-revision-levels.md) — related
+- [A committed professional subgroup inspired less-motivated colleagues and triggered self-efficacy through shared learning spaces](committed-subgroup-inspires-colleagues.md) — related

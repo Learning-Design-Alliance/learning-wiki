@@ -50,3 +50,4 @@ Survey results reported with a country-by-country table (Table 1); the article s
 - [Qualification programs for primary care teaching physicians exist at many German sites but are mandatory at fewer sites, and formats and duration vary](teaching-practice-qualification-programs-coverage-mandatory.md) — related
 - [The duration of EBP interventions, varying from some hours to even months, was not related to students' EBP competence](intervention-duration-not-related-to-ebp-competence.md) — related
 - [Australian medical schools vary considerably in the teaching methods used for intellectual disability content, with lectures the most frequent method for compulsory units](id-content-teaching-method-variability-australian-medical-schools.md) — related
+- [Tutor basic training scope varies widely across faculties, most frequently 10–20 hours but ranging from about 3 to 50 hours](tutor-basic-training-hours-variation.md) — related

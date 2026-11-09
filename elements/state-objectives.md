@@ -95,6 +95,7 @@ Stated objectives improve learning primarily by directing attention and supporti
 
 **Corporate training (e.g., ATD-aligned course design)** — Standard practice is to open modules with terminal and enabling objectives so learners can map training to job requirements; the objective statement doubles as a relevance argument.
 - [Frame course specifications in competencies and build in 'I can do...' benchmark tasks as informal assessment](../strategies/competency-course-specifications-benchmark-tasks.md)
+- [Make target behaviours and change mechanisms explicit in simulation debriefing design](../strategies/explicit-target-behaviours-debrief-design.md)
 
 ## Key Sources
 - Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). *Principles of instructional design* (4th ed.). Harcourt Brace Jovanovich.

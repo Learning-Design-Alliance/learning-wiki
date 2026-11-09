@@ -55,3 +55,4 @@ The fairness chapter reports Mantel-Haenszel DIF analyses using ETS classificati
 - [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
 - [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related
+- [SEPCQ-27 items show negligible gender-related differential item function except two Factor 3 items](sepcq-minimal-gender-dif.md) — related

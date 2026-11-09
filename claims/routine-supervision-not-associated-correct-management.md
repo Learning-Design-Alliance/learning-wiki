@@ -50,3 +50,5 @@ Multivariate logistic regression from the cross-sectional survey of 103 health p
 - [Children managed by a Health Extension Worker who attended a performance review and clinical mentoring meeting had about eight times the odds of being correctly managed for iCCM illnesses](prcmm-attendance-associated-correct-management.md) — related
 - [In bivariate analyses, PRCMM and follow-up training were significantly associated with correct management while supervision was not](bivariate-associations-quality-improvement-interventions.md) — related
 - [Greater supervisory visit frequency is associated with stronger IMCI training benefits in most performance domains](imci-supervision-associated-stronger-benefits.md) — related
+- [After IMCI training, 63.6% of children with a potentially life-threatening illness received guideline-recommended treatment and 77.8% received life-saving treatment](imci-benin-63-6-recommended-77-8-adequate-treatment.md) — related
+- [Supervision visits in the previous six months were associated with improved care for fever and anemia, but with lower odds of recommended pneumonia treatment](imci-benin-supervision-mixed-effects.md) — related

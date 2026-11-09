@@ -92,6 +92,7 @@ Retrieval practice produces substantially stronger long-term retention than rest
 - [Iterate the app with automatic zoom for small structures and longitudinally saved, personalized quiz content](brain-app-iteration-zoom-personalized-quizzes.md)
 - [Integrate a multimedia learning platform as a complement to traditional instruction, assigning curated playlists with embedded quizzes and flashcards for spaced repetition](multimedia-tool-complement-traditional-instruction-strategy.md)
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
+- [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 
 ## Examples
 - **[Team-Based Learning](https://www.teambasedlearning.org)** — Readiness Assurance Tests given at the start of each unit include items from all prior units, so earlier content is re-retrieved throughout the course.

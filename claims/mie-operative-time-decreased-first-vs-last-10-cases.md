@@ -55,3 +55,4 @@ Comparative analysis of initial 10 versus final 10 cases (Fig. 4) in the retrosp
 - [Billroth I reconstruction time with the augmented rectangle technique is similar between trainees and trainers](art-reconstruction-time-similar-trainees-trainers.md) — related
 - [Trainee learning curve for TLDG plateaus after five cases, though a gap with trainers remains](trainee-tldg-learning-curve-plateau-five-cases.md) — related
 - [Total operation time is significantly longer for trainee surgeons than trainers in TLDG](trainee-tldg-longer-operation-time.md) — related
+- [When comparing between surgeons rather than within surgeons, operative times differed significantly across all first, middle, and last cohorts](between-surgeon-operative-time-differences.md) — related

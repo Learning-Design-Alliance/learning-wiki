@@ -51,3 +51,4 @@ Qualitative thematic analysis of interviews (n=15). Examples include scheduling 
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
 - [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related
 - [Intervention physicians engaged in better shared decision-making with standardized patients despite no between-group difference in shared decision-making knowledge](shared-decision-making-behavior-better-web-group.md) — related
+- [Fewer than one-third of new depressed patients prescribed an antidepressant are followed up soon and regularly in accordance with FDA recommendations](fewer-than-one-third-antidepressant-followup.md) — related

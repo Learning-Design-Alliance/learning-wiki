@@ -48,3 +48,4 @@ Quasi‐experimental study in 23 group homes (127 intervention, 94 control staff
 ## Related Claims
 - [Dementia Care Mapping shows no significant effect on secondary work experience outcomes (self‐esteem, work commitment, professional efficacy, work perception, person‐centred care provision)](dcm-no-effect-secondary-work-outcomes.md) — possibly the same claim (merge candidate)
 - [Implementation of the capabilities model of dementia care was associated with better staff work satisfaction and family-rated quality of life at 12 months](capabilities-model-dementia-care-improved-satisfaction-qol.md) — related
+- [Intervention group staff rated job satisfaction better over time for personal development and position in the group](e-training-improves-job-satisfaction-factors.md) — related

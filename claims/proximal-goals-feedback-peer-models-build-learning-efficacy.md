@@ -114,3 +114,4 @@ Both entries come from one narrative review (Schunk 1996), which reports the fin
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
 - [Playing REMind significantly increased children's perceived self-efficacy for defending peers](remind-increased-self-efficacy-for-defending.md) — a narrower finding that bears on this claim
+- [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — reports the opposite

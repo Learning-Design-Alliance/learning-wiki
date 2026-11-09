@@ -49,3 +49,4 @@ Review discussion of the single included FONA study (Kovatch 2020), a 3D-printed
 - [Of 939 screened studies, only 17 articles validating 29 airway simulators met inclusion criteria, and most studies assessed only one or two validity domains](airway-simulator-validation-sparse-17-studies-29-simulators.md) — a broader claim this one bears on
 - [Predictive validity of airway simulators is rarely evaluated, and the two tracheal-intubation studies assessing it found no improvement in real-world neonatal intubation outcomes after simulator training](airway-simulator-predictive-validity-rarely-shown.md) — related
 - [FONA procedure duration after three months was on average 3.6 seconds longer for the self-made-model group, with no pre-specified non-inferiority threshold](fona-duration-self-made-plus-3-6s.md) — related
+- [Content validity was validated in only one simulator, for training of emergency procedures](ips-content-validity-single-simulator.md) — related

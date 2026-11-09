@@ -73,3 +73,5 @@ The same adjusted models found no association of screen viewing measures with ex
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
 - [Concurrent heavy television and computer use at grade 5 were associated with lower numeracy scores at grade 5](concurrent-tv-computer-grade5-lower-numeracy.md) — a narrower finding that bears on this claim
 - [Children who watched more than two hours of television per day at grade 3 had a lower NAPLAN reading score at grade 5 than those watching one hour or less](tv-over-two-hours-grade3-lower-grade5-reading.md) — a narrower finding that bears on this claim
+- [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related
+- [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related

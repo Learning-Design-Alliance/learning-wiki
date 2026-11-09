@@ -61,3 +61,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
 - [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related
+- [Scientific reasoning gains (LCTSR) are equal between flipped and nonflipped active classrooms and significant within both](lctsr-reasoning-gains-equal-flipped-nonflipped.md) — related

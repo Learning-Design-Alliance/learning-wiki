@@ -67,3 +67,4 @@ Behavioral evaluation of 2,520 programming tasks from three benchmarks, judged w
 - [LLMs exhibit an inherent abstraction bias, consistently generating questions at higher-than-intended cognitive levels regardless of prompting strategy](llm-abstraction-bias-higher-order-overproduction.md) — related
 - [In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps](prompt-features-predict-dok-gap.md) — related
 - [The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward](divergent-lexical-mutation-strategies.md) — related
+- [The cognitive level of assessments does not explain variation in students' higher-order cognitive skill gains](assessment-bloom-level-no-effect-on-gains.md) — related

@@ -59,3 +59,4 @@ Exploratory factor analysis of the adapted simulation rubric reported in Results
 - [Exploratory factor analysis supports the survey tool for evaluating ECMO team training, with standardized Cronbach α of 0.717 presurvey and 0.919 postsurvey](ecmo-sim-survey-efa-validation.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
 - [A four-item communication global rating scale shows a reliable one-factor structure within individual OSCE stations](cs-scale-reliable-within-osce-stations.md) — related
+- [GRAS-DK could not be confirmed as a one-dimensional scale either](gras-dk-not-one-dimensional.md) — related

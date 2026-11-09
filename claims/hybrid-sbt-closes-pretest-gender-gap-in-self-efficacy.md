@@ -55,3 +55,4 @@ Mann-Whitney U subgroup analysis of SE by sex (n = 91 after dropping two 'prefer
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
 - [After simulation-based training, students report high satisfaction and self-confidence with no difference between genders](high-satisfaction-self-confidence-after-sbt.md) — related
+- [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related

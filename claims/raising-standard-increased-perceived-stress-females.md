@@ -68,3 +68,4 @@ Gender sub-analysis of PSS scores (female n = 166 vs 169; Table 2 prints d = 0.6
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite
 - [The MBSR intervention contained the rise in perceived stress over six months, with a significant increase only in controls](mbsr-contained-perceived-stress-increase.md) — related
 - [Raising the Year-1 credit standard from 67% to 100% significantly increased Year-1 pass rates in medical students](raising-year1-standard-increased-pass-rates.md) — related
+- [Perceived stress increased significantly across the year for the traditional assessment cohort but not for the progress testing cohort](pt-reduced-stress-traditional-increase.md) — related

@@ -61,3 +61,5 @@ The review reports Coffey et al.'s survey percentages on high-fidelity simulatio
 - [Users of the interactive clinical avatar perceived clinical reasoning skill development to a greater extent than problem-solving or decision-making skill development](avatar-clinical-reasoning-over-lower-skills.md) — related
 - [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related
 - [Italian paediatric residents show very high interest in SBMT and perceive benefits for decision-making, technical skills and non-technical skills](residents-high-interest-perceived-sbmt-benefits.md) — a narrower finding that bears on this claim
+- [HFS raises students' self-rated knowledge perception and makes more students revise their prior knowledge self-assessment](hfs-raises-knowledge-perception-and-recalibration.md) — related
+- [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related

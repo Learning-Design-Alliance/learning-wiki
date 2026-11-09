@@ -67,6 +67,7 @@ AARs work because they force comparison between expected and observed outcomes, 
 - [Run short report-based debriefing sessions in which coach and coachee pinpoint problems and set improvement plans for the next case](report-based-debriefing-improvement-plan-strategy.md)
 - [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](two-step-self-then-group-debrief-vgs.md)
 - [Two-question structured debriefing after each simulation scenario](two-question-structured-debriefing-strategy.md)
+- [Make target behaviours and change mechanisms explicit in simulation debriefing design](explicit-target-behaviours-debrief-design.md)
 
 ## Examples
 - **U.S. Army training doctrine** — the original AAR format, run at soldier, team, and unit levels after every training exercise, with lessons rolled into the next iteration ([Army field guidance](https://armypubs.army.mil)).

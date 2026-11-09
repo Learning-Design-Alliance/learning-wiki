@@ -54,3 +54,4 @@ Thematic analysis of semi-structured interviews with eight purposively selected 
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Interviewed coordinators identify limited resources, poor quality of services, insufficient training and lack of protocols as barriers to maternal sepsis identification and management](qualitative-barriers-sepsis-identification.md) — related
 - [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — related
+- [Students identified SBL weaknesses of insufficient resources and facilities (68%), lack of trained staff (66%), and lack of accessibility (58%)](sbl-weaknesses-resources-staff-accessibility.md) — related

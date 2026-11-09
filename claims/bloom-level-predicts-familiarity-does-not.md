@@ -51,3 +51,4 @@ Multiple regression on MLab exam question scores controlling for familiarity and
 - [Completing the microbiology lecture course did not significantly improve MLab exam performance on familiar questions for students who had versus had not taken it](mlec-completion-no-mlab-familiar-question-benefit.md) — related
 - [Students overwhelmingly came to believe the lecture prerequisite did not benefit MLab performance, regardless of whether they had taken it](students-believe-mlec-not-beneficial-mab-perception.md) — related
 - [For middle/high-SES male students, increasing an exam's weighted Bloom's level predicts decreased exam performance after controlling for prior GPA and exam difficulty](higher-blooms-level-lowers-overall-exam-performance.md) — related
+- [Classroom alignment between learning objective and assessment Bloom levels does not explain students' higher-order cognitive skill gains](alignment-no-effect-on-critical-thinking-gains.md) — related

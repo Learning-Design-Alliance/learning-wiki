@@ -51,3 +51,4 @@ Surgical outcomes comparison in the retrospective cohort of 92 TLDG cases. Table
 - [Operative times of both trainer and trainee decreased significantly from the first 10 to the last 10 cases of the observation period (both p < 0.001)](mie-operative-time-decreased-first-vs-last-10-cases.md) — related
 - [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — related
 - [Regional lymph node dissection times are longer for trainees than trainers except along the lesser curvature](trainee-ln-dissection-times-longer-regional.md) — possibly the same claim (merge candidate)
+- [When comparing between surgeons rather than within surgeons, operative times differed significantly across all first, middle, and last cohorts](between-surgeon-operative-time-differences.md) — related

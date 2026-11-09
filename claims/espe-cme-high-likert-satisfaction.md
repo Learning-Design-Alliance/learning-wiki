@@ -75,3 +75,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students evaluated the online EBP modules positively, reporting new learning and future practice relevance](positive-student-evaluations-ebp-modules.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
+- [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related

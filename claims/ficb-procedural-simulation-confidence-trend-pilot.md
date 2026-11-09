@@ -52,3 +52,4 @@ Prospective pilot study of 16 EM residents (PGY 1–3) at a Level I trauma cente
 - [Immersive LAST simulation showed no change in residents' perceived comfort with diagnosing and managing uncommon conditions generally or with interdisciplinary teamwork](last-simulation-no-change-uncommon-conditions-teamwork.md) — related
 - [Resident self-confidence in providing wet reads at the scanner rose from 73% neutral or disagreeing before training to 91% agreeing or strongly agreeing after training](simulation-boosted-resident-wet-read-confidence.md) — related
 - [Perceived importance of patient empowerment showed a positive but statistically non-significant trend after e-learning](elpas-patient-empowerment-nonsignificant-trend.md) — related
+- [A non-significant trend showed a longer interval from traditional training to block performance in the simulation group than the control group](longer-training-to-block-interval-simulation-group-trend.md) — related

@@ -68,3 +68,4 @@ Single-rater reliability from the same study was lower than three-rater reliabil
 - [T-NOTECHS assessment of trauma-team non-technical skills by video analysis shows excellent reliability for the overall score (average ICC 0.94; single-rater ICC 0.84)](tnotechs-video-reliability-overall-excellent.md) — related
 - [T-NOTECHS inter-rater reliability varies widely across ED video-review studies, from moderate (ICC 0.48) to excellent (ICC 0.94)](tnotechs-reliability-variable-icc-ed-video.md) — related
 - [Single-rater G-OSAD ratings are less reliable than averaged ratings, indicating two or three raters are needed for highly reliable debriefing-quality measurement](gosad-single-rater-reliability-lower-than-averaged.md) — related
+- [Five assessors per assessee yield 95% CIs of ±0.5 around mean SPRAT scores in the Japanese validation sample](five-assessors-95ci-half-point-japanese-sprat.md) — related

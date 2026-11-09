@@ -72,3 +72,4 @@ Within the intervention group, Wilcoxon signed-rank tests showed self-rated clin
 - [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](in-situ-set-no-effect-critical-thinking.md) — related
 - [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](self-assessed-clinical-reasoning-competency-improves-tbl.md) — related
 - [Choice of physical simulation setting does not seem to influence individual and team learning in simulation-based medical education](simulation-setting-does-not-influence-individual-team-learning.md) — related
+- [HFS raises students' self-rated knowledge perception and makes more students revise their prior knowledge self-assessment](hfs-raises-knowledge-perception-and-recalibration.md) — related

@@ -50,6 +50,7 @@ Based on their null results and the literature, the authors recommend that "futu
 - [Include all provider types, simulation, legible ACP materials, and one-to-one field coaching in future care-home ACP training](future-acp-training-program-characteristics.md)
 - [Advocate regular simulation training for the whole delivery team, including senior staff](whole-team-regular-simulation-training.md)
 - [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
+- [Involve local domain-unit staff for the full workshop day rather than as an end-of-day panel](local-domain-staff-full-day-workshop-involvement.md)
 
 ## Examples
 -

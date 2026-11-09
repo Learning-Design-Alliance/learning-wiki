@@ -49,3 +49,4 @@ Small survey-based questionnaire emailed to students after AY 2022–23; 17 stud
 - [Partial engagement with Smartwork quizzes is associated with significantly higher class test and coursework marks but not exam or overall module performance](partial-engagement-class-test-coursework-only.md) — related
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
+- [Student agreement that weekly quizzes helped prepare for summative examinations rose from 35.8% to almost 80% after corrective feedback was added](quiz-helpfulness-ratings-rose-with-feedback.md) — related

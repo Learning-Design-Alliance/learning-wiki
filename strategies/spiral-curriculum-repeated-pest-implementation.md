@@ -50,6 +50,7 @@ The authors recommend extending one-off teaching of structured reasoning tools i
 ## Related Strategies
 
 - [Use free-response clinical vignettes rather than multiple-choice questions to simulate real-life antibiotic decision making](free-response-clinical-vignettes-antibiotic-reasoning.md)
+- [Integrate multiple simulations and case-based discussions into the clerkship curriculum and prospectively evaluate randomized groups](integrate-multiple-simulations-and-case-discussions.md)
 
 ## Examples
 -

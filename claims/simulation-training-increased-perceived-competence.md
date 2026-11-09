@@ -71,3 +71,4 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [First aid knowledge and self-efficacy increase strongly immediately after training, with no difference between simulated patient and control trainings](simulated-patient-no-immediate-knowledge-selfefficacy-gain.md) — related
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
 - [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](confidence-statements-significant-gains-three-areas.md) — related
+- [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — related

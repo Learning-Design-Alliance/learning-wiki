@@ -49,3 +49,4 @@ Authors' argument in the Challenges section of this viewpoint, not a tested resu
 - [Nursing students struggle to label observed changes as delirium and often misinterpret them as other conditions](students-misattribute-delirium-symptoms.md) — related
 - [Most mental health nursing assessment tools target specific competences such as physical health and therapeutic restraint, with fewer addressing crosscutting competences](mhn-tools-target-specific-over-crosscutting-competences.md) — related
 - [Mental health nursing assessment overemphasizes knowledge and attitudes relative to practical skills, risking theoretically knowledgeable but hands-on incompetent clinicians](mhn-assessment-overemphasizes-knowledge-attitudes-over-skills.md) — related
+- [Quetiapine represents one-half of all antipsychotic prescriptions in Canada, with rapidly increasing use in mood, anxiety, and insomnia indications](quetiapine-half-canadian-antipsychotic-prescriptions.md) — related

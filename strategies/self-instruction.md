@@ -81,6 +81,7 @@ Self-instruction converts executive control from external (teacher prompts) to i
 - [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
 - [Teach metacognitive writing strategies through direct instruction, teacher modelling with thinking out loud, and guided application](direct-instruction-modelling-guided-application-metacognitive-writing.md)
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Examples
 - **SRSD for writing (Graham & Harris)** — struggling writers learn self-statements ("Who will read this? What do they need to know?") alongside planning strategies; a widely replicated intervention in elementary writing instruction

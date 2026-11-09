@@ -53,6 +53,7 @@ The article's implementable recipe: students first complete a multiple-choice te
 - [Two Stage Exams](two-stage-exams.md)
 - [Numbered Heads Together](numbered-heads-together.md)
 - [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
+- [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 
 ## Examples
 -

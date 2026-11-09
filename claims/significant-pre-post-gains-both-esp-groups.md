@@ -51,3 +51,4 @@ Comparison of pre-test and post-test means reported in Table 1 for both groups o
 - [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](journal-entry-practice-outperforms-vocabulary-exercises.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — related
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — possibly the same claim (merge candidate)

@@ -53,3 +53,4 @@ Organisational-support theme: students reported being exposed to "real-life scen
 - [CBL facilitated active learning and enjoyment for first-year medical students at a multicultural medical school](cbl-facilitates-active-learning-multicultural-medical-students.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — related

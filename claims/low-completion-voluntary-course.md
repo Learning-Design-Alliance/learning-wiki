@@ -54,3 +54,4 @@ Descriptive participation statistics from the results overview of 199 registrant
 - [High early dropout (65% after the first registration page) means feasibility findings may reflect a self-selecting subset](early-dropout-limits-feasibility-interpretation.md) — related
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
 - [The G-SS program as scheduled was not feasible: student responsiveness reached 23% against an a priori 83% target](gss-responsiveness-below-target-not-feasible.md) — related
+- [Attendance at R@W group sessions was high for sessions 1 to 3 but lower for the final session](raw-group-session-attendance-pattern.md) — related

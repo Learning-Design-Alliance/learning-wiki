@@ -50,3 +50,4 @@ Descriptive survey results for the simulated activity section of the modified sa
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Most students rate asthma exacerbation simulation-based training as necessary and valuable](students-rate-asthma-sbt-valuable.md) — related
+- [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related

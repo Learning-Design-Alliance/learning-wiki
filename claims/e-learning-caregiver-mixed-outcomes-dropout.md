@@ -70,3 +70,4 @@ Experimental study of 149 family caregivers using the guided self-help Internet 
 - [Using the understAID e-learning platform significantly decreased depressive symptomatology in informal caregivers](understaid-decreased-depressive-symptomatology.md) — related
 - [High drop-out: 54% of the in-person group and 70% of the Lapp group did not complete the training course](lapp-high-drop-out-rates.md) — related
 - [understAID use produced no change in caregivers' sense of competence or caregiving satisfaction, plausibly because participants were experienced caregivers](understaid-no-change-competence-satisfaction.md) — a narrower finding that bears on this claim
+- [Elderly care staff who completed the e-training program rated their psychosomatic health, including sleep, as better over time](e-training-improves-psychosomatic-health-elderly-care-staff.md) — related

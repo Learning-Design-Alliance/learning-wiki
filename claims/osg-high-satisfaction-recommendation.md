@@ -50,3 +50,4 @@ Post-test-only self-report items in the 2012–2013 OSG web survey (29 responden
 - [Fewer than half of OSG respondents reported improved perceived knowledge of geriatric psychiatry](osg-perceived-knowledge-mixed.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
 - [Almost 100% of learners would recommend the modules to others and intended to take future UMC courses](almost-100-percent-recommend-modules-and-intend-future-courses.md) — related
+- [100% of participants found the clinical assessment tools useful and 90% would use them again](assessment-tools-useful-would-reuse.md) — related

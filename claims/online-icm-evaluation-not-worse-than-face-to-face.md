@@ -68,3 +68,5 @@ Brief feedback rounds directly following the seminar asked what students particu
 - [The online evaluation response rate was higher than in previous classroom-based courses or asynchronous teaching](online-evaluation-higher-response-rate.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [ICM implementation in health professions courses is associated with significantly improved exam results and high satisfaction compared with traditionally instructed prior semesters](icm-improved-exam-results-health-professions.md) — related
+- [The seminar's inverted classroom concept received the highest possible marks in the standardized university evaluation](highest-marks-standardized-evaluation.md) — related
+- [All students appreciated the inverted classroom approach because it freed seminar time for interactive, practice-based learning](inverted-classroom-appreciated-interactive-time.md) — related

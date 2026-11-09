@@ -51,3 +51,5 @@ The discussion attributes this discrepancy to prior studies (citing refs 26–27
 - [Commercialized critical thinking measures have limited validity for nursing-specific contextual performance](commercialized-ct-measures-limited-validity.md) — related
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](reading-comprehension-critical-thinking-correlated.md) — related
 - [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related
+- [Among peer leaders, questionnaire responses indicated critical thinking improvement for 62%, while 43% of peer leaders had higher CCTST scores at post-test than pre-test](peer-leader-perceived-versus-measured-critical-thinking.md) — related
+- [Peer leaders' overall CCTST critical thinking scores showed no significant change from pre-test to post-test in the PLTL training and leadership-experience group](pltl-peer-leaders-no-overall-cctst-gain.md) — related

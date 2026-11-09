@@ -59,3 +59,4 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [Access to web-based information creates illusions of learning and reduces memorization](web-access-illusion-of-learning.md) — related
 - [Condition effects on complex learning-task performance appeared for suitability, justification and correctness but not for elaboration, continuity or final answer quality](task-performance-subdimension-effects.md) — related
 - [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related
+- [A non-significant trend showed a longer interval from traditional training to block performance in the simulation group than the control group](longer-training-to-block-interval-simulation-group-trend.md) — related

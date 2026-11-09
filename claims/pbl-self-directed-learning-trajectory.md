@@ -56,3 +56,4 @@ Theme from thematic analysis of focus groups and reflective journals with 21 pos
 - [Engagement with continuous personal and professional development sustains teachers' motivation](continuous-personal-professional-development-sustains-teacher-motivation.md) — related
 - [Pleasure in the teaching profession, via multidimensionality and positive self-worth, sustains teachers' motivation](pleasure-in-teaching-profession-sustains-teacher-motivation.md) — related
 - [The article claims the WeChat–PBL model increases learning enthusiasm and works for students with poor self-motivation](wechat-pbl-learning-enthusiasm.md) — related
+- [A committed professional subgroup inspired less-motivated colleagues and triggered self-efficacy through shared learning spaces](committed-subgroup-inspires-colleagues.md) — related

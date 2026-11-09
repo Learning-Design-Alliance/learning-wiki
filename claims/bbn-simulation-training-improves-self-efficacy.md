@@ -54,3 +54,4 @@ Cluster-randomized feasibility trial (TG n=37, CG n=31) with pre-test and four-w
 - [Prior to training, most residents lacked specific bad news training and knowledge of communication protocols](residents-lack-prior-bad-news-training.md) — related
 - [Simulation-based BBN training closes the skills gap between clinically inexperienced trainees and more experienced controls, equalizing performance at post-test](bbn-training-closes-experience-gap.md) — related
 - [At baseline, control-group students scored higher on BBN process and communication skills while self-efficacy did not differ between groups](bbn-trial-baseline-imbalances.md) — related
+- [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](communication-training-improves-oncologist-bad-news-skills.md) — related

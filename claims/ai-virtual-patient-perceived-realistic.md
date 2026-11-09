@@ -58,3 +58,4 @@ Descriptive perception-of-AI-performance results from questionnaire 2 (Table 5).
 - [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related
 - [The rigid DC/TMD conversation structure limits the video's dialogue naturalness](dctmd-rigid-dialogue-limitation.md) — related
 - [Students, teachers and standardised patients rated the OSS-worn encounter as realistic, with no significant difference between groups](oss-realistic-encounter-all-groups.md) — related
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 456 claims (223 for, 205 mixed, 28 against) · 341 studies (109 associational, 83 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 341 report an effect size · 449 claims rest on one study
+> **Evidence** · 459 claims (226 for, 205 mixed, 28 against) · 343 studies (109 associational, 84 design, 58 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 343 report an effect size · 452 claims rest on one study
 
 ## Conditional relationship
 
@@ -300,6 +300,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Males and females show no significant difference in mean key-concept scores on constructed-response natural selection items or item strands](../claims/no-gender-difference-mean-kc-scores-cr-items.md) [~W] — attached 2026-11-09 from Federer Meghan Rector et al. (2016), which proposed "Examine gender effects on performance when designing and interpreting written assessment tasks in biology".
 - [The vast majority of ACORNS items showed no differential item functioning by gender; only the Prosimian and Penguin items showed KC performance differences](../claims/dif-limited-to-prosimian-penguin-items.md) [~W] — attached 2026-11-09 from Federer Meghan Rector et al. (2016), which proposed "Examine gender effects on performance when designing and interpreting written assessment tasks in biology"; tests this page's relationship.
 - [The SAFT shows excellent test-retest and inter-rater reliability for total scores](../claims/saft-excellent-reliability.md) [+W] — attached 2026-11-09 from Buchanan H et al. (2015), which proposed "Shortening an instrument to match learners' baseline knowledge: removing overly advanced items and simplifying response formats".
+- [Formula scoring with a don't know option introduces construct-irrelevant variance into progress test knowledge scores](../claims/fs-dko-construct-irrelevant-variance-progress-tests.md) [+W] — attached 2026-11-09 from Ravesloot C. J. et al. (2015), which proposed "Choose between formula scoring and number-right scoring by weighing systematic bias against random measurement error in progress tests"; tests this page's relationship.
+- [Number-right scoring yields substantially lower progress test reliability than formula scoring](../claims/nr-scoring-lower-reliability-than-fs-progress-tests.md) [+W] — attached 2026-11-09 from Ravesloot C. J. et al. (2015), which proposed "Choose between formula scoring and number-right scoring by weighing systematic bias against random measurement error in progress tests"; tests this page's relationship.
+- [The confirmatory factor analysis of GRAS-DK did not replicate the original three-factor model of personal reflection](../claims/gras-dk-cfa-fails-three-factor-model.md) [+W] — attached 2026-11-09 from Andersen Nina Bjerre et al. (2014), which proposed "Do not use a reflection scale for effect measurements or group comparisons before its construct validity is established in the new setting".
 
 ## Objective and learner-valued goal
 

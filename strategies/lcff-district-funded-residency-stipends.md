@@ -44,6 +44,7 @@ A financial sustainability strategy in which partner districts write the residen
 - [Strategic staffing models that redirect district instructional-support funds to subsidize paid residency stipends](strategic-staffing-residency-stipend-strategy.md)
 - [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [International resident fellowship model for developing shared online pathology teaching content](resident-fellowship-content-development-strategy.md)
 
 ## Examples
 -

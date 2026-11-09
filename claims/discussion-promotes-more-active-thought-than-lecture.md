@@ -160,3 +160,5 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
 - [Lectures are effective for conveying factual information but less effective for promoting active thought and influencing attitudes](lectures-factual-not-attitude-effective.md) — related
+- [Learning gains in flipped classrooms are most likely attributable to active learning rather than the order of instructor facilitation](active-learning-not-flipping-drives-gains.md) — related
+- [Most Extensive-section students report positive attitudes toward the active-learning pedagogies and judge the preparation workload worthwhile](extensive-section-positive-pedagogy-attitudes.md) — related

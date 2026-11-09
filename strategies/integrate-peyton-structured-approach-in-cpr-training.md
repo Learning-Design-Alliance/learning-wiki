@@ -52,6 +52,7 @@ The authors recommend incorporating Peyton's structured, stepwise instructional 
 - [Use interactive stepwise learning algorithms to guide novices through procedures and prevent missed steps](algorithm-driven-stepwise-procedure-algorithms.md)
 - [Use video-based instruction showing perfect peer demonstrations to teach the ABCDE approach in resuscitation courses](vbi-perfect-peer-demonstration-strategy.md)
 - [Include time for systematic individual feedback in CPR education, since feedback is a powerful influence on performance](individual-feedback-in-cpr-education.md)
+- [Develop novice patient educators through observation of experienced educators, experiential training (roleplay and rehearsal), and supervised practice with constructive critical reflection](observation-experiential-training-supervised-practice-strategy.md)
 
 ## Examples
 -

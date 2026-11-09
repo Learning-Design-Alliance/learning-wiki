@@ -48,3 +48,4 @@ The report attributes this to field tests of GUIDON, a medical diagnosis tutor b
 
 - [The report attributes to Kieras and Bovair (1984) that device-model instruction improved procedure learning, retention, execution speed, and procedure simplification relative to rote learning](device-model-instruction-aids-procedure-learning-kieras-bovair.md)
 - [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md)
+- [Participants reported that the symptom-oriented approach and integration of epidemiological knowledge improved their understanding of diagnostic reasoning](symptom-oriented-approach-epidemiology-themes.md) — related

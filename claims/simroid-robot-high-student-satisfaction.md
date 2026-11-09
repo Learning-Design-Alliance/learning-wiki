@@ -57,3 +57,4 @@ Self-designed satisfaction survey distributed to all 34 experimental group stude
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - Experimental-group students rated the simulation course as improving enthusiasm, practical operation ability, and teamwork, with weaker gains in doctor-patient communication — related
 - [eCREST was highly acceptable to students, with acceptability higher in the integrated cohort](ecrest-high-student-acceptability.md) — related
+- [Most student respondents perceived that SDL sessions improved their performance of the specific skills practised](students-perceive-sdl-improves-practised-skills.md) — related

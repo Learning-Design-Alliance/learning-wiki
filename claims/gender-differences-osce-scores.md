@@ -70,3 +70,4 @@ Analysis of Global Rating Scale communication and interaction items via multiple
 - [Female physicians rate all six competency domains higher than male physicians](female-physicians-higher-competency-domain-scores.md) — related
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
+- [Female raters scored residents significantly lower than male raters on the ICAR (6.12 vs 6.82), the only significant rater-characteristic main effect](rater-gender-effect-icar-scores.md) — related

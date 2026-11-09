@@ -49,3 +49,4 @@ Quasi-experimental study of 58 clerkship students cluster-assigned to puzzle-bas
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
 - [Advantage of game-based blended learning increases with cognitive complexity of EBM tasks, with no significant difference for question formulation](effect-size-gradient-ebm-task-complexity.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
+- [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related

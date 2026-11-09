@@ -54,3 +54,4 @@ IPA interview theme on workload: each case required four 90-minute sessions tota
 - [Students felt overwhelmed by the course workload and found contact time with lecturers inadequate](students-overwhelmed-workload-inadequate-contact-time.md) — related
 - [Resistance from specific stakeholders who believed traditional teaching superior to flipped teaching emerged despite preparation](stakeholder-resistance-flipped-teaching.md) — related
 - [Lack of fixed time constraints and pressure was an important reason some students discontinued the online ECG course prematurely](lack-of-time-pressure-online-course-discontinuation.md) — related
+- [The authors attribute students' strong preference for expert facilitators to lack of prior cultural exposure to active-learning pedagogies](lack-of-pbl-exposure-shapes-facilitator-expertise-perceptions.md) — related

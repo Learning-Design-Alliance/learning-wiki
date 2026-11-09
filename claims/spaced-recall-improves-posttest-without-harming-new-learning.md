@@ -73,3 +73,4 @@ Comparison of quarter three final exam (open response, group-graded) scores betw
 - [No-review, spaced review, and spaced oral review conditions yielded about the same mean post-film scores](spaced-review-similar-to-no-review.md) — related
 - [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — related
 - [Formative testing with feedback alone yields higher mathematics achievement than testing without feedback](feedback-only-outperforms-test-only-control-math-jss.md) — related
+- [Quiz-only testing with open-ended questions produced a modest but statistically significant increase in recall accuracy across spaced sessions](quiz-only-modest-recall-increase.md) — related

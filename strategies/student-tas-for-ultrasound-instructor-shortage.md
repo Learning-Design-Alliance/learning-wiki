@@ -52,6 +52,7 @@ The article recommends replacing or supplementing scarce expert instructors with
 - [Use peer-assisted learning by PGY-II residents to staff simulation-based learning where expert tutors are scarce](pgy2-peer-tutors-for-simulation-tutor-shortage.md)
 - [Adopt mastery learning and peer-assisted learning models to maximize ultrasound training effectiveness in resource-limited settings](mastery-peer-assisted-ultrasound-resource-limited.md)
 - [Recruit educated peers or non-physicians as instructors for the technical teaching of basic practical skills](recruit-peer-non-physician-instructors-technical-skills.md)
+- [Provide substantive technical and didactic basic training for PAL tutors, including group leadership, role playing, feedback and learning-transfer didactics](structured-tutor-training-technical-didactic.md)
 
 ## Examples
 -

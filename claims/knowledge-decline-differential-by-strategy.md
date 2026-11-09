@@ -49,3 +49,5 @@ At 12-month follow-up after RR-OHE, dentist-led and peer-led groups showed signi
 - [Repeated and reinforced OHE produced sustained improvements in oral health behavior and oral hygiene status across all educator strategies](rr-ohe-behavior-hygiene-gains.md) — related
 - [One-time OHE produced significant but limited improvements: knowledge and gingivitis-prevention behavior improved but oral cancer prevention behavior and oral hygiene status did not](one-time-ohe-limited-effects.md) — related
 - [One-time teacher-led OHE was ineffective in improving adolescents' oral health knowledge and behavior](one-time-teacher-led-ohe-ineffective.md) — related
+- [Oral health behavior and attitude rose from baseline to 6 months and fell by 18 months in both groups; within-group changes were not statistically significant](behavior-attitude-gains-not-sustained.md) — related
+- [Both experiential learning and traditional lecturing programs significantly improved children's oral health knowledge at 6 and 18 months](both-el-and-tl-improved-knowledge.md) — related

@@ -66,3 +66,4 @@ Self-reported confidence item on the same post-training evaluation forms. "81.8%
 ## Related Claims
 - [About 70% of providers met counseling standards and 86.7% met the PPIUD insertion standard at end of training, with no significant change two months later](ppiud-skills-standards-retained-two-months.md) — related
 - [Competency-based training with the Mama-U model significantly improved provider knowledge, with midwives improving more than doctors](ppiud-knowledge-gains-mama-u-training.md) — related
+- [Experienced urologists rated the transparent and non-transparent simulators as anatomically accurate, easy to use and good training tools](urologist-preliminary-simulator-ratings.md) — related

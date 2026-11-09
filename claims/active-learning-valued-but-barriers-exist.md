@@ -56,3 +56,4 @@ Survey participants overwhelmingly endorsed active learning (72% strongly agree,
 - [Pre-clinical medical students overwhelmingly agree active learning is important but define it narrowly as active recall](medical-students-narrow-active-recall-definition.md) — related
 - [A group size of twenty students per CBL session is the most cited barrier, endorsed by 54.4% of students](cbl-twenty-student-group-size-barrier.md) — related
 - [Senior faculty influence, limited institutional technology support, variable trainee competence, and time constraints are perceived barriers to adopting preferred teaching styles](barriers-to-teaching-style-change.md) — related
+- [Faculty identify setting, faculty, and resident barriers to facilitating active learning in resident conferences](faculty-barriers-active-learning-resident-conferences.md) — related

@@ -50,3 +50,4 @@ Same quasi-experimental three-section comparison; one-way ANOVA for final course
 - [Web-facilitated section students earned significantly higher final exam means than both hybrid and online section students in an undergraduate exercise psychology course](web-facilitated-higher-final-exam-than-hybrid-online.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related

@@ -60,3 +60,4 @@ Univariate ANCOVA on the seven-week posttest (parallel 14-item multiple-choice f
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](bkt-adaptivity-log-practice-allocation.md) — related
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related
+- [Quiz-only testing with open-ended questions produced a modest but statistically significant increase in recall accuracy across spaced sessions](quiz-only-modest-recall-increase.md) — related

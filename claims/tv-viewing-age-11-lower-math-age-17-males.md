@@ -57,3 +57,5 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Screen viewing time, particularly television viewing, is negatively associated with academic achievement but not with executive function](screen-viewing-tv-negative-academic-achievement.md) — a broader claim this one bears on
 - [Daily digital game playing is associated with lower reading competence in girls, while TV time was not a significant predictor](digital-games-lower-reading-competence-girls.md) — related
 - [Screen time measures are negatively correlated with academic performance in female high school students, with few associations in male students](screen-time-negative-academic-performance-females.md) — related
+- [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related
+- [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related

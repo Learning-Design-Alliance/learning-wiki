@@ -70,6 +70,7 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 - [Implement think-pair-share through a three-step sequence: individual thinking, pair discussion, and whole-class sharing with instructor feedback](tps-three-step-implementation.md)
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
 - [Use an anonymous audience response system to activate students who hesitate to answer questions publicly](anonymous-ars-activate-hesitant-students.md)
+- [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 
 ## Examples
 - **Peer Instruction at Harvard** — Eric Mazur's physics course: ConcepTests polled via clickers, with peer discussion between votes; the model has been adopted across thousands of STEM courses ([Peer Instruction](https://peerinstruction4cs.org) resources).

@@ -72,3 +72,4 @@ Chi-square comparison of 'not relevant' ratings between patient-facing and non-p
 - [Survey sample responses were homogeneous across country response groups for 89% of GbCF v1 behaviours](survey-sample-homogeneity-gbcf-behaviours.md) — related
 - [Inter-country variability in relevance weighting occurs in the pharmaceutical care and organisation-and-management clusters but not the public health or professional-personal clusters](inter-country-variability-two-gbcf-clusters.md) — related
 - [Cross-disciplinary disagreement about competence relevance led to competencies being removed or retained against one group's rating](occupational-group-disagreement-shaped-curriculum.md) — related
+- [Faculty disagreement about learners' professionalism persists even when the rationale behind students' behaviour is made explicit](disagreement-persists-explicit-rationale.md) — related

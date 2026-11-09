@@ -78,3 +78,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Empathy development is a perceived gain of dramatization-based simulation, measured during role play in some studies](empathy-gain-role-play-simulation.md) — related
 - [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — related
 - [Only students interacting with a real nursing home resident reported increased empathy after the placement; the two simulated conditions did not](empathy-gain-only-traditional-placement.md) — related
+- [Students perceived that video made the PBL scenario seem more real by providing visual cues and context absent from text](vp-pbl-video-makes-scenario-real.md) — related

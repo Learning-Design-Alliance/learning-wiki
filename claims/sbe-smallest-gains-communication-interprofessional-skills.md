@@ -53,3 +53,5 @@ Descriptive item-level comparison in the combined cohort; communication showed "
 - [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — related
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
 - [Perceived importance of interprofessional communication education does not change significantly after training](ipe-importance-attitude-not-significant.md) — related
+- [Interprofessional training is associated with significantly better postcourse communication/teamwork self-efficacy for doctors, but not overall or leadership scores](ip-doctors-communication-teamwork-gain.md) — related
+- [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related

@@ -57,3 +57,4 @@ Internal consistency analysis of consensus ratings from the 135-video psychometr
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

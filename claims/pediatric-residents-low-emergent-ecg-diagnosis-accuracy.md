@@ -53,3 +53,4 @@ Cross-sectional survey of 95 pediatric and child health residents at Addis Ababa
 - [PGY-5 residents report autonomy for ventricular tachycardia, hyperkalemia, and MI without bundle branch block despite known physician accuracy limitations](unperceived-gaps-pgy5-overconfidence.md) — related
 - [Asystole was the best-recognised ECG emergency (69.9% correct) while third-degree A-V block was the least recognised](asystole-best-recognised-ecg-emergency.md) — related
 - [PHCWs' diagnostic accuracy for common eye conditions is low and varies by condition, with corneal ulcer recognised by only 27.1%](phcw-diagnostic-accuracy-low-corneal-ulcer-27-percent.md) — related
+- [Students with a prior adult emergency-department rotation had higher SVT pre-test and retention scores](prior-adult-ed-rotation-svt-retention.md) — related

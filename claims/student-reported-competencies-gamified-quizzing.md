@@ -57,3 +57,4 @@ Thematic analysis of open-ended questionnaire responses, coded independently by 
 - [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](escape-rooms-improve-healthcare-student-outcomes.md) — related
 - [Playing the Kahoot® quiz twice per teaching session further enhanced team-based quiz performance](repeated-kahoot-quiz-enhances-team-scores.md) — related
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
+- [Peer leaders attribute critical thinking change to interacting with others, utilizing different approaches to learning, and problem solving](peer-leaders-attributed-ct-factors-three-themes.md) — related

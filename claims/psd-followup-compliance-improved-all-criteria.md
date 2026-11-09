@@ -49,3 +49,4 @@ Follow-up audit (May-June 2021) of 75 stroke patients and 14 nurses using the sa
 ## Related Claims
 - [Baseline compliance with evidence-based poststroke depression practice was poor in the neurology ward, with three of six audit criteria at 0% adherence](psd-baseline-audit-poor-compliance.md) — related
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
+- [Clinical audit and feedback can significantly improve compliance with desired practice, but it is unclear when and how it is effective](af-improves-compliance-when-how-unclear.md) — a broader claim this one bears on

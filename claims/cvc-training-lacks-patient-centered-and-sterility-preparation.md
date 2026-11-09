@@ -68,3 +68,4 @@ Interview finding (Subtheme 1c); participants reported relying on sterility conc
 - [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
 - [Physicians called for standardized CVC training protocols across programs and reliable access to high-quality training resources](physicians-call-for-standardized-cvc-protocols-and-resources.md) — related
+- [Novice educators are described as relying on standard instructions and focusing on tasks rather than taking a holistic view of the patient, limiting their ability to individualize education](novice-educators-task-focus-rely-on-standard-instructions.md) — related

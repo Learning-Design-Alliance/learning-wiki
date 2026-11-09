@@ -55,3 +55,4 @@ One-way ANOVA and t-tests on MSCS subdimension scores. Table 2 reports η² = 0.
 - [NM competence shows no statistically significant differences by gender, age, department, years of work, education or title](no-nm-competence-differences-demographics.md) — related
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — related
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
+- [Age, years since graduation, weekly service hours, and daily patient load are statistically associated with EBP questionnaire categories](demographics-associated-ebp-categories.md) — related

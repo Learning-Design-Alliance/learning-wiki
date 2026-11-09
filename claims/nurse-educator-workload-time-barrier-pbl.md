@@ -54,3 +54,4 @@ Qualitative interview finding from eighteen nurse educators at ten Ethiopian pub
 - [Dietetic students face specific challenges with PBL, particularly online: finding solutions, lack of in-person contact, scheduling, and interdisciplinary workload imbalances](pbl-challenges-dietetic-students-online.md) — related
 - [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related
 - [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related
+- [Students identified workload, technical problems, content overload and lack of face-to-face interaction as barriers to the beta e-learning program](e-learning-barriers-workload-technical-content-overload.md) — related

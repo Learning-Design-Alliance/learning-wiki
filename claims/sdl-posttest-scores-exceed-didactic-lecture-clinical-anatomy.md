@@ -69,3 +69,4 @@ On day 2 the batches crossed over: "MBBS Batch A (n = 62), SDL was 7.66 ± 0.95"
 - [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](sdl-four-week-retention-exceeds-didactic-lecture.md) — related
 - [First-year medical students reported broad interest in monthly, workshop-style anatomy review sessions using MCQ-format questions](student-interest-monthly-workshop-mcq-format.md) — related
 - [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite
+- [SDL engagement showed no significant association with OSCE performance for most clinical skills except first-year basic life support](sdl-engagement-no-osce-difference-most-skills.md) — related

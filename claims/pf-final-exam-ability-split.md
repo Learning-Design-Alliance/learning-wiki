@@ -47,3 +47,4 @@ Final-exam ability split (Table 3): Low b = 6.83, p = 0.060; Med b = −3.87, p 
 ## Related Claims
 - [PF advantage on condition topics did not reach significance on the final exam overall](pf-final-exam-null-overall.md) — reports the opposite
 - [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](pf-largest-gain-low-achievers-midterm.md) — related
+- [Students with lower GPA benefited from blended learning on final scores, while high-GPA students did not differ by format](gpa-moderates-blended-learning-benefit.md) — related

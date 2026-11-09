@@ -49,3 +49,4 @@ A 28-day medical record audit of 89 patients counted follow-up initiation, refer
 - [GPs reported increased diagnostic confidence after FLUS in 75.8% of patients](gps-increased-diagnostic-confidence-after-flus-75-8-percent.md) — related
 - [GPs perceived that FLUS changed tentative diagnosis and/or treatment and/or visitation plans in 32% of patients](gps-perceived-flus-management-impact-32-percent.md) — related
 - [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — related
+- [Fewer than one-third of new depressed patients prescribed an antidepressant are followed up soon and regularly in accordance with FDA recommendations](fewer-than-one-third-antidepressant-followup.md) — related

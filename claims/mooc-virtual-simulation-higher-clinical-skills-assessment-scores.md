@@ -60,3 +60,4 @@ Quasi-experimental comparison of blended (n = 60) vs. traditional (n = 79) group
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
 - The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related
 - [CoI-based blended learning improved skill performance and management efficiency subscores of practical ability more than face-to-face teaching](coi-blended-learning-skill-performance-efficiency.md) — related
+- [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](blended-higher-final-statistics-score.md) — related

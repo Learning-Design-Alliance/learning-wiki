@@ -66,3 +66,4 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Pediatric sedation simulation participants rated the scenarios as clinically relevant, comfort-improving, and the debrief as valuable and safe, with means above 4 on a 5-point Likert scale](sedation-simulation-likert-ratings-favorable.md) — related
 - [Knowledge gained from the standardized-patient DNR encounter was retained by PGY-3 residents approximately one year after training](dnr-simulation-one-year-retention.md) — related
 - [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — related

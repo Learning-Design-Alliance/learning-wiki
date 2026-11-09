@@ -53,3 +53,4 @@ Standard-setting analysis plotting novice and expert plateau score distributions
 - [The median expert-benchmarked mastery level was 85% of the maximum simulator score, and learning curves showed a plateau correlating with the mastery level](expert-median-85-percent-mastery-standard-plateau.md) — related
 - [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related
 - [Contrasting-groups pass/fail standards were established for both simulator tests with overlapping-score consequences of one misclassified participant each](contrasting-groups-pass-fail-standards-colonoscopy.md) — related
+- [A simulator score of 75% discriminates experts from trainees with high sensitivity (94.7%) but low specificity (51.8%), supporting formative but not summative use](dka-simulator-roc-cutoff.md) — related

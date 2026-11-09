@@ -82,3 +82,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — reports the opposite
 - [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — related
 - [Self-reported prior robotic simulation experience did not correlate with pretest performance or time to mastery](prior-simulation-experience-no-correlation.md) — related
+- [Preexisting knowledge positively impacts simulator performance (construct validity), though the supporting study had a low group size](ips-construct-validity-preexisting-knowledge.md) — related

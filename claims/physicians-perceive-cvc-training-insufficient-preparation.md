@@ -48,3 +48,4 @@ Qualitative study with semi-structured interviews of six physicians across five 
 - [CVC training reportedly lacked patient interactions, communication, consent, and ethical scenario preparation, and gave minimal sterile-field instruction](cvc-training-lacks-patient-centered-and-sterility-preparation.md) — related
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
 - [Physicians called for standardized CVC training protocols across programs and reliable access to high-quality training resources](physicians-call-for-standardized-cvc-protocols-and-resources.md) — related
+- [Manikin fidelity was reportedly more of an issue for nurses than doctors, who could interact via history-taking and directing treatment](manikin-fidelity-nurse-difficulty.md) — related

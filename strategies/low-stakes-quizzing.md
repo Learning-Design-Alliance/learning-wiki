@@ -97,6 +97,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
+- [Provide corrective feedback on low-stakes quizzes when using test-enhanced learning](corrective-feedback-on-quizzes-strategy.md)
+- [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

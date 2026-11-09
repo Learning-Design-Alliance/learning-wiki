@@ -54,3 +54,4 @@ Subdomain analysis in the training beyond proficiency group showed significant i
 - [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related
 - [All six OSATS global rating scale variables scored significantly higher in the final drill than the first drill](osats-six-variables-improve-first-to-final-drill.md) — related
 - [Experts rate patient safety, sterility and seeking help as the most important elements in judging procedural competence](experts-rate-safety-sterility-seeking-help-most-important.md) — related
+- [Transparent simulator training yields higher OSATS-rated endourological proficiency than opaque simulator training and than verbal instruction alone](transparent-simulator-higher-osats-than-opaque-and-verbal.md) — related

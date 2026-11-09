@@ -53,3 +53,4 @@ The review's synthesis of 16 articles comparing training approaches; it also rep
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
 - [Interprofessional and uniprofessional acute-care simulation produced no difference in overall self-assessed interprofessional competency gains (ICCAS) for medical or nursing students](no-iccas-difference-interprofessional-vs-uniprofessional-simulation.md) — related
 - [Six weeks after training, no differences in long-term interprofessional collaboration (ICS) were found between interprofessional and uniprofessional groups](no-ics-difference-six-weeks.md) — related
+- [Interprofessionally trained nurses and midwives show significantly larger self-efficacy gains than uniprofessionally trained nurses](ip-nurses-larger-self-efficacy-gains.md) — related

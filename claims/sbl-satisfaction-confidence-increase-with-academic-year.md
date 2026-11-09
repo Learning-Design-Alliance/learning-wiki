@@ -53,3 +53,5 @@ Post-simulation descriptive statistics and Kruskal–Wallis comparisons across a
 - [Simulation design and educational practice scores increase with academic year, with first-year students lowest and fourth-year students highest](scores-increase-with-academic-year.md) — possibly the same claim (merge candidate)
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
 - [Total SCLS scores differed significantly by teaching shift and academic year, with morning-shift and second-year students scoring higher](scls-scores-shift-and-academic-year-differences.md) — reports the opposite
+- [Third- and fourth-year medical students reported high overall satisfaction (85%) with simulation based learning](sbl-high-satisfaction-85-percent-medical-students.md) — related
+- [No significant difference in SBL satisfaction or challenge scores by year of education (p=0.62; p=0.99)](sbl-satisfaction-no-year-of-study-difference.md) — reports the opposite

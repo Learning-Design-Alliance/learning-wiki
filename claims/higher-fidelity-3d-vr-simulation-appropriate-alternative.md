@@ -52,3 +52,4 @@ The review attributes this finding to a prior study (reference 15) on orthodonti
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [VR-based surgical simulation addresses the non-reusable and expensive nature of physical oral implant training materials](vr-simulation-avoids-physical-material-waste.md) — related
+- [Simulator training outcomes were comparable to alternative training methods in the concordance-validity studies](ips-concordance-validity-comparable-outcomes.md) — related

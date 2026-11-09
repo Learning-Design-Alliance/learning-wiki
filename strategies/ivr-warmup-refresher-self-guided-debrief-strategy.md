@@ -50,6 +50,7 @@ A concrete integration recipe proposed by the study's participants for exploitin
 - [Include facilitated social learning opportunities (introduction and debriefing) around individual IVR safety scenarios](facilitated-introduction-and-debriefing-around-ivr-scenarios.md)
 - [Use iVR refresher training before infrequently performed procedures to refresh skill and knowledge](ivr-refresher-before-rare-procedures-strategy.md)
 - [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
+- [Deliver spaced-education refresher training via daily SMS prompts and participant-initiated IVR calls on simple phones](ivr-sms-daily-prompt-spaced-questions-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Variance decomposition from the full regression model in this cross-sectional ar
 - [Cognitive admission tests jointly explained 6% of biology-grade variance; adding English proficiency measures raised explained variance to 26.6%](hierarchical-regression-english-incremental-variance-biology.md) — possibly the same claim (merge candidate)
 - [Communication and reading comprehension tests were the significant individual predictors of biology grades, while GAT and SAAT effects diminished once English measures were included](communication-reading-tests-significant-biology-predictors.md) — related
 - [Interaction terms for GAT × English average and SAAT × reading comprehension did not reach significance in predicting biology grades](english-cognitive-interactions-non-significant-biology.md) — related
+- [The supervisory-styles model explains 26% of variance in trainee doctors' talent development](model-explains-26-percent-variance-talent-development.md) — related

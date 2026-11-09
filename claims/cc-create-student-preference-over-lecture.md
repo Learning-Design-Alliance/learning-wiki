@@ -50,3 +50,4 @@ Analysis of open-ended responses to the outside evaluator's survey question abou
 - [Community college students in first-time CREATE courses made significant gains on the Experimental Design Ability Test, with nonmajors but not majors gaining significantly](cc-create-edat-gains-nonmajors.md) — related
 - [Nonmajors in community college CREATE courses made larger self-rated gains than majors on SAAB and SALG measures](cc-create-nonmajors-gains-exceed-majors.md) — related
 - [Workshop-trained community college faculty taught effectively with CREATE in their first attempt, per outside-evaluator observations](cc-faculty-teach-effectively-create-first-attempt.md) — related
+- [Most students in the course preferred active learning methods over traditional methods and wanted them in other disciplines](students-prefer-active-learning-pharmacy-course.md) — related

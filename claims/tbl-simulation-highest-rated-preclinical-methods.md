@@ -53,3 +53,4 @@ Cross-sectional survey of 55 MS1 and 65 MS2 students at one medical school; Like
 - [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related
 - [Readiness for clinical transition is the highest-rated SBL perception item (mean 4.53) while realism is the lowest (mean 3.81)](readiness-clinical-transition-highest-realism-lowest-sbl-items.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
+- [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related

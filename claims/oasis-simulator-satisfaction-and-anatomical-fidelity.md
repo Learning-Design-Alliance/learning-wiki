@@ -74,3 +74,4 @@ Descriptive questionnaire result on perceived anatomical fidelity of the low-cos
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
 - [Self-reported preparedness to repair OASIS increased after simulation training, with most participants moving from not ready to ready](oasis-simulator-self-rated-preparedness-increase.md) — related
+- [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related

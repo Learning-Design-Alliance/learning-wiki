@@ -51,6 +51,7 @@ The article recommends that educational institutions use validated competency as
 - [Use the HSPNCS to assess narrative competency and identify training needs in security staff](hspncs-training-needs-assessment-strategy.md)
 - [Use the Romanian PSRBVBQ in school practice to identify teachers' bullying perceptions and reveal training needs for bullying prevention](use-psrbvbq-to-identify-teacher-training-needs.md)
 - [Use the validated competency scale to identify strengths and weaknesses and build targeted training and development plans for endoscopy nurses](endoscopy-nurse-scale-targeted-training-strategy.md)
+- [Use questionnaire results to design targeted professional development for clinical educators](octq-feedback-professional-development-strategy.md)
 
 ## Examples
 -

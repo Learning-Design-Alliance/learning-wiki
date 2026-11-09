@@ -53,3 +53,4 @@ Constant comparison analysis of open-ended survey responses; students commented 
 - [Thematic analysis of open-ended feedback identified desires for greater scenario realism (36% of responses), more practice opportunities (23%), and improved technological infrastructure](qualitative-themes-scenario-realism-practice-infrastructure.md) — related
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related
+- [Students identified SBL strengths of practice opportunity (86%), protected learning environment (77%), and knowledge retention (75%)](sbl-strengths-practice-protected-environment-retention.md) — related

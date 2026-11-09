@@ -111,3 +111,5 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Satisfaction with the computer laboratory was the most favorably rated e-Learning component while satisfaction with teaching faculty was the least rated, with significant differences by gender, school, age and year of study](ghana-elearning-satisfaction-lab-highest-faculty-lowest.md) — related
 - [Male students reported higher e-learning readiness than female students, with no difference by age](e-learning-readiness-higher-males.md) — related
 - [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — related
+- [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related
+- [GRAS-DK score differed slightly by gender and by highest-taxonomy-level elective, but not by age, study progression, or extracurricular activity](gras-dk-background-variable-correlates.md) — related

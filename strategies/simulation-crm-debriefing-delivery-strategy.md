@@ -59,6 +59,7 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 - [Supplement clinical video e-learning with faculty debriefing and videos that expose the underlying knowledge and skills](faculty-debriefing-plus-underlying-knowledge-videos-strategy.md)
 - [Organise refresher courses or simulation team training with a focus on CRM skills after an initial ABCDE simulation course](crm-focused-refresher-team-training-strategy.md)
+- [Deliver a 90-min interactive CRM team leader training combining CRM theory presentation, video exemplars, and continuous reflection with instructor feedback](crm-team-leader-90min-interactive-training-strategy.md)
 
 ## Examples
 -

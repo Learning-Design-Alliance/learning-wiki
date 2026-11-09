@@ -62,3 +62,4 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%) — related
 - [Across all 58 effect sizes, STEM practices showed positive effects in 56 comparisons and negative effects in 2](stem-practices-56-of-58-positive-effect-sizes.md) — related
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — a narrower finding that bears on this claim
+- [Individual gains in skills and knowledge were highly heterogeneous, ranging from 13% to 48%](individual-gain-heterogeneity-13-48-percent.md) — a narrower finding that bears on this claim

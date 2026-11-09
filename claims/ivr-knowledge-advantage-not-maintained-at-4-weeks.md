@@ -50,3 +50,4 @@ Follow‐up assessment in the same RCT after sample loss (n = 22 IVR, n = 23 con
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Two implementation-strategies interventions showed mixed effectiveness, with gains immediately after intervention but not at follow-up](implementation-strategies-mixed-followup-results.md) — related
 - [The training effect on agreement with experts (MAD) was not maintained at the 2-week follow-up once the training resource was withdrawn](oracles-mad-effect-not-maintained-two-weeks.md) — related
+- [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related

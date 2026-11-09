@@ -52,3 +52,4 @@ Randomized complete block design ANOVAs on composite scores with ethnicity, Hisp
 - [A multisemester write-to-learn capstone series significantly raises composite inquiry-and-analysis scores on senior biology theses](capstone-writing-series-raises-composite-thesis-scores.md) — related
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
+- [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related

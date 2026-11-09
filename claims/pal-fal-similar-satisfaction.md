@@ -54,3 +54,4 @@ Strongly agree	26 (86.7)	26 (86.7)	450.00	1.000"
 - [Both groups rated learning at the skill lab as a better alternative to bedside learning, with no significant group difference](skill-lab-better-than-bedside-both-groups.md) — related
 - [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — related
 - [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — related
+- [German Skills-Lab PAL programs differ considerably between faculties in size, facilities and content focus](pal-program-variation-across-faculties.md) — related

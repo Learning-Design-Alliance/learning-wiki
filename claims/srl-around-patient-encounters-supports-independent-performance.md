@@ -48,3 +48,4 @@ Qualitative non-participant observational study in seven general practices; two 
 - [Trainees use their sense of confidence (or near confidence) to decide whether to manage an encounter alone or consult their supervisor](confidence-guides-decision-to-consult-supervisor.md) — related
 - [Trainees' self-regulated learning activities around encounters depend on the type of medical problem and on patient, trainee and supervisor characteristics](srl-activities-depend-on-problem-and-context.md) — related
 - [Debriefing sessions after patient encounters serve three purposes: exchanging informative questions, reassuring trainees, and checking trainees' performance](debriefing-sessions-three-purposes.md) — related
+- [Inner motivation, active participation of the novice educator, and a supportive workplace learning environment are considered prerequisites for becoming an expert patient educator](motivation-and-supportive-environment-prerequisites-expert-educator.md) — related

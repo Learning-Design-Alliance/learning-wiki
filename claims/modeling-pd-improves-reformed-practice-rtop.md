@@ -51,3 +51,4 @@ Trained observers completed RTOP evaluations of participant and comparison teach
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Participation in the FIRST IV professional development program predicts higher learner-centered teaching practices years later](first-iv-participation-predicts-rtop.md) — related
 - [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related
+- [RTOP scores correlate with assessment Bloom scores and with student participation rates](rtop-correlates-assessment-bloom-and-participation.md) — related

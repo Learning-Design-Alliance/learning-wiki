@@ -66,6 +66,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
 - [Use multiple actors, accent types, scripts and OSCE scenarios in future examiner-bias experiments to improve blinding and validity](multi-video-variations-examiner-bias-studies.md)
 - [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
+- [Extend training time, improve simulator transparency, and evaluate the simulator from a teaching perspective in future studies](future-simulator-studies-extend-time-and-transparency.md)
 
 ## Examples
 -

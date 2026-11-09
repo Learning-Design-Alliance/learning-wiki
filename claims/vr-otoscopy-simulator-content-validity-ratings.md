@@ -54,3 +54,4 @@ Content validity was assessed only in the expert group (25 otolaryngologists) wi
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
 - [A constructed in-situ simulation scenario for pediatric emergency sedation obtained a Content Validity Index greater than 80% on all items in a 12-expert Delphi validation](pediatric-sedation-insitu-scenario-cvi-above-80.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
+- [Experts rate the simulator's content validity and applicability to medical training favourably](ototrain-content-validity-applicability.md) — related

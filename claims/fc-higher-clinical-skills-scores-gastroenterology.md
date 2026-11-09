@@ -59,3 +59,4 @@ In the same randomized trial, the clinical skills assessment evaluated core proc
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [Flipped classroom students scored significantly higher on the post-test than traditional lecture-based students in a pharmacology module](flipped-classroom-higher-posttest-scores-gondar.md) — related
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
+- [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](blended-higher-final-statistics-score.md) — related

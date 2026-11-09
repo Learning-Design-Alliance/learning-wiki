@@ -72,3 +72,4 @@ Model evaluation in the same trial, shown as an ROC curve (Fig. 2) and internall
 - [Changes in pupillary diameter across a high-fidelity simulation correlate with changes in state anxiety (STAI) in sixth-year medical students](pupillary-diameter-delta-correlates-stai-state-delta-simulation.md) — related
 - [Pupillary diameter rose from presimulation to postsimulation among the study’s participants, while anxiety and pupillary measures did not differ between trauma and anaphylactic shock scenarios](pupillary-diameter-increases-no-scenario-differences.md) — related
 - [High-fidelity simulation significantly increases both state and trait STAI scores in sixth-year medical students](simulation-increases-state-and-trait-stai.md) — related
+- [Participation in HFS is independently associated with roughly fourfold odds of scoring at or above 70% on the ALS post-test](hfs-fourfold-odds-70-percent-post-test.md) — related

@@ -53,3 +53,4 @@ Pairwise Wald χ2 tests with Benjamini–Yekutieli correction on class-specific 
 - [Postclass review did not independently predict final scores but characterized excellent learners in ROC analysis](postclass-review-excellent-learners.md) — reports the opposite
 - [Students who report being taught how to study use more spaced practice but earn lower grades than those who report not being taught](taught-to-study-more-spacing-lower-grades.md) — related
 - [More noncontent interactions (encouragement, listening to feedback, being polite) predict lower course achievement](noncontent-interactions-predict-lower-achievement.md) — related
+- [Hybrid-section students who took handwritten or typed notes earned significantly higher final grades than those who did not bring notes to class](note-taking-associated-higher-final-grades-hybrid.md) — related

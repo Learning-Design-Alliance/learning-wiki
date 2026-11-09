@@ -50,3 +50,4 @@ RCT of an online ECG training session with N=91 medical students; paired t-tests
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — reports the opposite
 - [The 9-minute EYE-ECG eye-tracking video with CRR commentary produced a small, statistically non-significant additional skill gain compared to training as usual](eye-ecg-video-small-nonsignificant-advantage.md) — related
 - [Interest in ECGs significantly predicted post-training ECG interpretation skill in all three regression models, which explained substantial variance (R2=.44-.63)](interest-in-ecgs-predicts-skill-all-models.md) — related
+- [A standalone web-based ECG tutorial significantly improves medical students' ECG interpretation test scores immediately after training](web-ecg-tutorial-improves-post-test-scores.md) — possibly the same claim (merge candidate)

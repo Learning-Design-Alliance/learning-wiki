@@ -73,3 +73,4 @@ The article reports, citing the Shen and Tamkin (2026) preprint (a randomized co
 - [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](anonymous-online-peer-review-differential-responses.md) — related
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — a narrower finding that bears on this claim
 - [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related
+- [Candidates desired immediate formative feedback during the MMI and found it hard to gauge their own performance](candidates-desire-formative-feedback-mmi.md) — related

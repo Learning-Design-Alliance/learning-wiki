@@ -52,3 +52,4 @@ Single-arm pre-post change on the 20-item true/false quiz embedded in the eLearn
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
 - [The MHFA eLearning course did not improve recognition of a mental health problem, possibly due to a ceiling effect](mhfa-elearning-no-recognition-improvement-ceiling.md) — related
 - [Medical participants' knowledge of adolescent health and general practice access issues rose significantly from pre-test to post-test after an applied adolescent health education workshop plus school field experience, in one uncontrolled pre-post study](gp-adolescent-health-workshop-knowledge-increase.md) — related
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related

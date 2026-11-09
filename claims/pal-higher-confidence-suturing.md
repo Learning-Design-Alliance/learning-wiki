@@ -54,3 +54,4 @@ Perception questionnaire administered to all 60 students after training. The art
 - [Surveyed Italian residents show high volume and near-universal confidence in low-complexity procedures such as uterine curettage and low-degree tear sutures](italian-residents-low-complexity-procedure-confidence.md) — related
 - [Improvement in self-assessed confidence in suturing/ligature skills was greatest in the expert-led+AI group (60% of interns improved) compared with expert-led (31%) and regular (15%) groups](ai-tutoring-group-greatest-confidence-improvement.md) — related
 - [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — related
+- [German Skills-Lab PAL programs differ considerably between faculties in size, facilities and content focus](pal-program-variation-across-faculties.md) — related

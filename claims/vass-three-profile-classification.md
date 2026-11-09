@@ -49,3 +49,4 @@ Definitional/methodological statement about the Views About Science Survey instr
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
 - [No statistically significant difference in physics attitudes between public and private school students under PBL or traditional instruction](no-school-type-difference-physics-attitude.md) — related
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
+- [Students in the Extensive section show a significantly greater expert shift in views about biology and learning biology than Moderate-section students](extensive-section-greater-expert-shift-vass.md) — related

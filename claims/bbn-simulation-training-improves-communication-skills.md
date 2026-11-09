@@ -49,3 +49,4 @@ Communication skills were assessed with the modified Breaking Bad News Assessmen
 - [A four-hour simulation-based breaking bad news training added to an ED rotation significantly improves trainees' perceived self-efficacy compared with rotation alone](bbn-simulation-training-improves-self-efficacy.md) — related
 - [Simulation-based BBN training closes the skills gap between clinically inexperienced trainees and more experienced controls, equalizing performance at post-test](bbn-training-closes-experience-gap.md) — related
 - [At baseline, control-group students scored higher on BBN process and communication skills while self-efficacy did not differ between groups](bbn-trial-baseline-imbalances.md) — related
+- [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](communication-training-improves-oncologist-bad-news-skills.md) — related

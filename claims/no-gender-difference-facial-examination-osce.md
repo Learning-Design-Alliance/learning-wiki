@@ -50,3 +50,4 @@ Secondary gender analysis of the same OSCE scores, conducted because of the gend
 ## Related Claims
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related
+- [Female raters scored residents significantly lower than male raters on the ICAR (6.12 vs 6.82), the only significant rater-characteristic main effect](rater-gender-effect-icar-scores.md) — related

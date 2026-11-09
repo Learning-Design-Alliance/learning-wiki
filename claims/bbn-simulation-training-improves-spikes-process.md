@@ -53,3 +53,4 @@ In the cluster-randomized trial, two blinded raters scored SPIKES compliance (14
 - [At baseline, control-group students scored higher on BBN process and communication skills while self-efficacy did not differ between groups](bbn-trial-baseline-imbalances.md) — related
 - [Post-training, more students pass the SPIKES cut-off in the training group than in the control group, but the mBAS cut-off difference is not statistically significant](bbn-training-spikes-cutoff-pass-rates.md) — related
 - [Simulation-based BBN training closes the skills gap between clinically inexperienced trainees and more experienced controls, equalizing performance at post-test](bbn-training-closes-experience-gap.md) — related
+- [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](communication-training-improves-oncologist-bad-news-skills.md) — related

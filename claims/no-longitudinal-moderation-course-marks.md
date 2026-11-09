@@ -51,3 +51,4 @@ Longitudinal multilevel models used Grade 4 MVPA to predict Grade 5 fall teacher
 - [No moderation of the MVPA–standardized test score relationship by any student- or school-level characteristic](no-moderation-standardized-test-scores.md) — related
 - [School-day MVPA does not appear to harm academic performance regardless of student or school characteristics, supporting protection of school physical activity time](mvpa-no-academic-harm-any-subgroup.md) — a broader claim this one bears on
 - [School physical education policy moderated the MVPA–Grade 4 fall spelling marks relationship cross-sectionally (β = -0.128), judged practically negligible](school-pe-policy-moderation-spelling-marks.md) — related
+- [The MVPA–academic performance association is modified by BMI z-score, though neither stratified association reaches significance](mvpa-bmi-interaction-gcse.md) — related

@@ -52,3 +52,4 @@ Between-group comparison in the same three-arm RCT (n = 9 per group). Mean score
 - [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Mobile application supplement improves global ultrasound OSCE scores in physiotherapy students](mobile-app-improves-ultrasound-osce-physiotherapy.md) — related
+- [Hands-on simulator practice (interactive teaching) yields higher urinary catheterisation scores at index examination than observation-only or lecture-only teaching](hands-on-simulator-practice-higher-index-catheter-scores.md) — related

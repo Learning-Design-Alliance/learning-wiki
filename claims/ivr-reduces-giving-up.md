@@ -50,3 +50,4 @@ Chi-square analysis of condition and performance showed IVR children persisted l
 ## Related Claims
 - [IVR-trained children use fewer moves than tablet-trained children on the training task](ivr-fewer-moves-than-tablet.md) — related
 - [Children using IVR solve a problem-solving game at higher rates than those using a tablet or board game](ivr-higher-completion-rates-problem-solving.md) — related
+- [Poor cellular network reception was the most common problem, with 30% of participants reporting dropped IVR calls](network-reception-dropped-calls-limitation.md) — related

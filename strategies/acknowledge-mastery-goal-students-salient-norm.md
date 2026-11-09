@@ -49,6 +49,7 @@ Based on the finding that peer achievement goals function as descriptive norms t
 - [Design peer mindset interventions that leverage adolescents' need for belonging and status, including high-status peer models](leverage-belonging-status-peer-mindset-interventions.md)
 - [Teachers should attend to popular peers' impact on classroom climate, friendship processes, and achievement](attend-to-popular-peers-classroom-climate.md)
 - [Establish Group Norms](establish-group-norms.md)
+- [Withhold peer-comparison feedback until a significant percentage of the group has achieved high performance, to accommodate social pressure](withhold-peer-comparison-until-group-performance-high.md)
 
 ## Examples
 -

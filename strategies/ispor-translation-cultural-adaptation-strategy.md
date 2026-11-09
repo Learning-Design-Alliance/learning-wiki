@@ -48,6 +48,7 @@ The article reports a concrete translation workflow for adapting the Dutch MAAS 
 - [Five-step cross-cultural adaptation procedure: forward translation, back-translation, expert committee review, pre-test, and test-retest](five-step-questionnaire-cross-cultural-adaptation.md)
 - [Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation](culturally-adapt-sdm-beyond-translation.md)
 - [Adapt translated assessments to the target jurisdiction's linguistic and cultural characteristics, and revise administration scripts and timing to fit test-takers unfamiliar with the format.](adapt-translated-assessment-translation-and-administration.md)
+- [Follow a staged cross-cultural adaptation process with translation, synthesis, back-translation, and pilot testing when adapting a scale to a new language](beaton-cross-cultural-adaptation-process.md)
 
 ## Examples
 -

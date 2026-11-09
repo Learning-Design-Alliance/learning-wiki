@@ -65,3 +65,4 @@ CFA of the PIQNS, GeNTS, and WEANS in the 842-student sample, estimated by maxim
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
 - [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
+- [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related

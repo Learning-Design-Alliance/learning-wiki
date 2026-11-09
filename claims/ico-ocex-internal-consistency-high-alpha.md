@@ -58,3 +58,6 @@ Internal consistency was evaluated across 402 forms from 134 raters. 'Subscale-l
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
 - [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related
+- [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
+- [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

@@ -47,3 +47,4 @@ In the 13-participant trial, univariate ANOVA and unpaired t-tests tested demogr
 ## Related Claims
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — related
 - [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related
+- [Learning style, ethnicity, hand dominance and career motivation showed no significant difference in skill acquisition or retention](learner-traits-no-effect-simulation-skill-acquisition.md) — related

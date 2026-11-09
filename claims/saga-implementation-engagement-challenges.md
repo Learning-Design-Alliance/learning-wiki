@@ -56,3 +56,4 @@ Descriptive implementation analysis of facilitators and barriers: "some Saga sta
 - [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — related
 - [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related
 - [Adult education programs implement technology along a spectrum of blended learning models, often multiple models within one program](adult-ed-blended-spectrum-multiple-models.md) — related
+- [Tutor implementation variability was the most common barrier to the blended learning approach, and didactic teaching was perceived as promoting only superficial learning](tutor-implementation-barrier-bl-ebm.md) — related

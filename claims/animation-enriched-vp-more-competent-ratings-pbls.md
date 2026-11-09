@@ -51,3 +51,5 @@ Primary outcome: two group-blinded independent pediatricians gave overall compet
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — a broader claim this one bears on
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Students found it harder to identify relevant information in video than in text within a virtual patient PBL case](vp-pbl-harder-identify-info-video.md) — related
+- [Virtual patient preparation improves adherence to temporal demands of PBLS before and after hands-on training](vp-preparation-temporal-demands.md) — related

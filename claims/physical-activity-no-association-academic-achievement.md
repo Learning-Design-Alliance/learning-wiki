@@ -58,3 +58,5 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — related
 - [A one-academic-year HIIT-style vigorous physical activity intervention delivered during school PE did not significantly improve cardiorespiratory fitness in young adolescents](fit-to-study-null-crf.md) — related
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related
+- [MVPA at 14.5y is not significantly associated with GCSE academic performance at 16y in British adolescents](mvpa-not-associated-gcse-performance.md) — related
+- [The negative association between vigorous-intensity physical activity and academic performance disappears after adjusting for school fixed effects](vigorous-activity-association-school-fixed-effects.md) — related

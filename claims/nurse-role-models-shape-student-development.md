@@ -71,3 +71,4 @@ Witnessing harsh or dismissive attitudes prompted students to reflect on "what k
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — related
 - [Perceived 'intern bias' from patients and nurses is a reported cause of difficulty in clinical practice](intern-bias-cause-of-difficulty.md) — related
 - [Nurses used the register form as a template and checklist that structured and improved the content of their consultations](register-form-template-structures-consultations.md) — related
+- [Role models are repeatedly and continuously influential in students' professional development, but the scope and content of their effect cannot be fully supervised](role-models-continuous-influence-hidden-curriculum.md) — a broader claim this one bears on

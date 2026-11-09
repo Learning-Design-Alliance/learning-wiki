@@ -90,3 +90,4 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
 - [Both groups scored lowest on the rhinological and oral examination stations, though the e-learning group still significantly outperformed controls on those stations](rhinological-oral-stations-lowest-scores-both-groups.md) — related
 - [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related
+- [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related

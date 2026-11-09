@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 227 claims (146 show a difference, 47 mixed, 34 no difference) · 157 studies (60 causal, 59 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 37 of 157 report an effect size · 224 claims rest on one study
+> **Evidence** · 231 claims (148 show a difference, 48 mixed, 35 no difference) · 158 studies (61 causal, 59 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 38 of 158 report an effect size · 228 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -263,6 +263,10 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Students' pre-test performance and verbal and non-verbal cognitive abilities significantly predict post-test performance](../claims/pretest-cognitive-abilities-predict-posttest.md) [+W] — learners who differ on it differ in outcomes
 - [The exam benefit of the TQ assignment was significant only for low-transition reasoners, with no significant interaction between reasoning ability and treatment](../claims/tq-benefit-low-transition-reasoners.md) [~M] — an instructional effect differs with it
 - [General Aptitude Test scores significantly negatively predict preclinical-year cGPA](../claims/gat-negatively-predicts-preclinical-cgpa.md) [+M] — learners who differ on it differ in outcomes
+- [Across training sessions, extended practice with FET magnified and with HVT reduced individual differences in fluid intelligence](../claims/session-level-magnification-versus-reduction-of-individual-differences.md) [~M] — an instructional effect differs with it
+- [Training regimen moderates the relationship between fluid intelligence and training gain (significant regimen × intelligence interaction)](../claims/training-regimen-moderates-intelligence-training-gain-relation.md) [+M] — an instructional effect differs with it
+- [With Full Emphasis Training, fluid intelligence is positively associated with Space Fortress training gains](../claims/fet-fluid-intelligence-positively-predicts-training-gains.md) [+M] — learners who differ on it differ in outcomes
+- [With Hybrid Variable-Priority Training, fluid intelligence is not associated with Space Fortress training gains](../claims/hvt-fluid-intelligence-not-associated-with-training-gains.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

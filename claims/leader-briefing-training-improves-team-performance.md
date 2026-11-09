@@ -47,3 +47,4 @@ The article reports, citing Tannenbaum et al. (1998), a finding on training team
 ## Related Claims
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
+- [Teams with a CRM-trained team leader show significantly higher adherence to the 2010 ERC ALS guidelines in simulated CPR than teams whose leader received only additional ALS training](crm-team-leader-training-higher-als-guideline-adherence.md) — related

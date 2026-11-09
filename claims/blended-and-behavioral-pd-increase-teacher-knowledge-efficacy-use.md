@@ -56,3 +56,4 @@ Randomized three-group pretest-posttest study with 48 teachers (16 per group) as
 - [Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study](whs-feasibility-self-efficacy-increase.md) — related
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
 - [All four teaching methods were followed by significant pre-to-post gains in learning, satisfaction and self-efficacy](all-methods-pre-post-gains.md) — related
+- [Student ratings of self-efficacy, attitudes, and behaviors show a significant preference for the blended learning model](bl-significant-preference-self-efficacy-attitudes-behavior.md) — related

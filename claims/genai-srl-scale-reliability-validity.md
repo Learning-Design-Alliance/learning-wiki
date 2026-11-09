@@ -73,3 +73,5 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
 - [The BBKS meets convergent validity criteria (CR above .7, AVE greater than .50) and discriminant validity criteria (square root of AVE exceeding interconstruct correlations)](bbks-convergent-discriminant-validity.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
+- [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
+- [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related

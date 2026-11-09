@@ -47,6 +47,7 @@ The article's implications for teachers designing peer assessment: ask students 
 
 - [Implement a structured PFB template and foresee multiple practice occasions when involving students as assessors and assessees](structured-pfb-template-multiple-practice-occasions.md)
 - [Train assessors in giving optimal feedback and administering assessments to improve feedback quality](assessor-training-optimal-feedback-administration.md)
+- [Balance assessor selection and clarify the developmental purpose of multisource feedback](balanced-assessor-selection-msf-strategy.md)
 
 ## Examples
 

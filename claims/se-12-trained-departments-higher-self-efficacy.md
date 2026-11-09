@@ -48,3 +48,4 @@ Cross-sectional comparison of SE-12 sum scores between two departments whose sta
 - [Self-efficacy scores increase with length of employment experience in the department](se-12-self-efficacy-correlated-with-experience.md) — related
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [The SE-12 shows a ceiling effect in 9 of 12 items, limiting responsiveness](se-12-ceiling-effect-nine-items.md) — related
+- [Physicians score higher than students on SEPCQ, and years of experience are independently associated with higher self-efficacy](experience-associated-with-sepcq-scores.md) — related

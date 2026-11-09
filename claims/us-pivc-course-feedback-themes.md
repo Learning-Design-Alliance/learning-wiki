@@ -58,3 +58,4 @@ Thematic grouping of free-text responses from the post-course questionnaire; par
 - [Learners praised the interactive, case-based format, handouts, and short individual modules in formative feedback](geriatrics-5ms-workshop-interactive-case-based-format-praised.md) — related
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related
 - [After the improvement measures, fewer students complained about group size and lack of examination support, and more praised lecturers' motivation and case discussion](free-text-feedback-shift-after-measures.md) — related
+- [Qualitative analysis of open-ended responses identified four themes in nursing students' perceptions of the IPSE experience: communication, role awareness, a better way of learning, and future IPSE](ipse-open-ended-four-themes.md) — related

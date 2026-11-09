@@ -55,3 +55,4 @@ Qualitative descriptive analysis (Sandelowski and Barroso five-stage process) of
 - [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related
 - [The riAniMO blended retraining program produced a slight increase in HCP satisfaction compared with standard BLSD retraining](rianimo-slight-satisfaction-increase-over-blsd.md) — related
 - [Students report mixed perceptions of whether debriefers focus on errors rather than successes, with about a third perceiving an error focus](error-focus-in-debriefing-mixed-perceptions.md) — related
+- [Facilitated post-scenario debrief was the key agent supporting both clinical and non-clinical skill learning in the simulation programme](debrief-key-behaviour-change-agent.md) — related

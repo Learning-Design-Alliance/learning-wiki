@@ -47,3 +47,4 @@ The review reports, citing Watt et al.'s integrative review (reference 30), that
 ## Related Claims
 - [Cultural competence in Family Medicine is largely agreed to be gained informally, and a large U.S. survey found most residency programs identify it as part of the informal curriculum](cultural-competence-learned-informally-fm.md) — reports the opposite
 - [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md) — related
+- [Students believe good physicians cannot be produced by formal education programs alone, attributing professional formation to role models and clinical practice](students-distrust-formal-professionalism-education.md) — reports the opposite

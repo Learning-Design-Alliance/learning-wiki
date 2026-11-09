@@ -45,4 +45,4 @@ Interim analysis of the randomized trial (NCT05269238): a predictive probability
 
 
 ## Related Claims
--
+- [The trial was discontinued at interim analysis because the prototype simulator's functionality was insufficient, with authors cautioning a risk of negative learning](prototype-simulator-insufficient-functionality-trial-discontinued.md) — related

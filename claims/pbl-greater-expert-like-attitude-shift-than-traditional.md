@@ -50,3 +50,4 @@ Quasi-experimental pre-test–post-test control group study of 419 Ugandan 13th-
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
 - [VASS attitude classifications can be grouped into folk, transitional, and expert profiles using percent expert-like response](vass-three-profile-classification.md) — related
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
+- [Students in the Extensive section show a significantly greater expert shift in views about biology and learning biology than Moderate-section students](extensive-section-greater-expert-shift-vass.md) — a narrower finding that bears on this claim

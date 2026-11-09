@@ -50,6 +50,7 @@ A concrete recipe: run one three-day session per hospital, facilitated by local 
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
 - [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
+- [Involve local domain-unit staff for the full workshop day rather than as an end-of-day panel](local-domain-staff-full-day-workshop-involvement.md)
 
 ## Examples
 -

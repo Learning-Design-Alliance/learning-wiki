@@ -81,3 +81,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — a narrower finding that bears on this claim
 - [After excluding one construct-irrelevant metric, the remaining 31 simulator metrics showed acceptable internal consistency (standardized Cronbach's alpha = 0.79)](internal-consistency-alpha-079-31-metrics.md) — related
+- [GRAS-DK showed acceptable internal consistency and no overall floor or ceiling effects](gras-dk-internal-consistency-acceptable.md) — a narrower finding that bears on this claim

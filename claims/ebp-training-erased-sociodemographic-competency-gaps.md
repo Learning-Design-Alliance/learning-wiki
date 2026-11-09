@@ -52,3 +52,4 @@ Multiple regression of competency scores on age, education, total work experienc
 - [After the intervention, the CAT score gap between mentees and high-performing same-class mentors narrowed and was no longer statistically significant](mentee-mentor-cat-gap-narrowed-post-intervention.md) — related
 - [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related
 - [The web-based EBP training program significantly improved nurses' self-reported EBP skills scores](web-based-ebp-training-improved-nurse-skills.md) — related
+- [Age, years since graduation, weekly service hours, and daily patient load are statistically associated with EBP questionnaire categories](demographics-associated-ebp-categories.md) — related

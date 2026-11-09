@@ -47,3 +47,4 @@ Subdomain analysis of ICCAS delta scores in the comparative study (33 interventi
 ## Related Claims
 - [Both medical and nursing students improved on all ICCAS subdomains after acute-care simulation training, regardless of group](iccas-gains-all-subdomains-after-simulation.md) — a broader claim this one bears on
 - [Interprofessional and uniprofessional acute-care simulation produced no difference in overall self-assessed interprofessional competency gains (ICCAS) for medical or nursing students](no-iccas-difference-interprofessional-vs-uniprofessional-simulation.md) — related
+- [Interprofessionally trained nurses and midwives show significantly larger self-efficacy gains than uniprofessionally trained nurses](ip-nurses-larger-self-efficacy-gains.md) — related

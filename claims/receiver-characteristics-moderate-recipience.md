@@ -52,3 +52,4 @@ The review reports, citing Baadte and Schnotz (2013), a self-concept difference 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](self-concept-predicts-achievement-value-predicts-effort.md) — related
 - Research on learners' proactive recipience of feedback is concentrated in Higher Education and relies mainly on self-report surveys rather than behavioral measures — related
+- [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — related

@@ -83,6 +83,7 @@ The OMP operationalizes [Assessment for Learning](../principles/assessment-for-l
 - [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 - [Open the next class with a discussion of the most frequently mentioned muddy points](review-muddy-points-next-class.md)
 - [Assess readiness at the end of each practice session and provide tailored remediation before advancing](readiness-assessment-tailored-remediation-strategy.md)
+- [Use an open-ended take-away question after simulation to prompt reflection and gather qualitative evidence on valued learning](take-away-reflection-question-after-simulation.md)
 
 ## Examples
 - Originally described by Charles Schwartz at UC Berkeley for large physics lectures; responses were read before each next meeting and common questions answered at the start of class.

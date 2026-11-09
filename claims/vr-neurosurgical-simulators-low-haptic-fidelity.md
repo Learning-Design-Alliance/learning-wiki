@@ -91,3 +91,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Experts rated the low-cost BG-PDT simulator highly for fidelity and endorsed simulation-based training in ICU residency curricula](bg-pdt-simulator-high-expert-satisfaction-fidelity.md) — related
 - [Physicians rated the simulator helpful for anatomical understanding (75%) and epiduroscopy training (85%), but realism was acceptable to only 40%](epidurosim-survey-helpful-but-moderate-realism.md) — a narrower finding that bears on this claim
 - [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — a narrower finding that bears on this claim
+- [Experts identify lack of haptic feedback, limited pneumatic otoscopy, and few rare pathologies as the simulator's primary drawbacks](ototrain-qualitative-drawbacks.md) — related

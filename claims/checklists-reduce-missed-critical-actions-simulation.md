@@ -49,3 +49,4 @@ Descriptive synthesis of patient safety indicators across included studies, incl
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](matched-tools-phase-appropriate-representations.md) — related
 - [Critical checklist steps focus on preventing acute hemolytic transfusion reaction from ABO incompatibility](critical-steps-prevent-acute-hemolytic-transfusion-reaction.md) — related
 - [Five of 22 teams (23%) were classified as high-performing based on timely dantrolene administration and appropriate MH treatment actions](five-of-22-teams-high-performing-mh-simulation.md) — related
+- [Preoperative checklists and team briefings reduce communication failures by about 34% in operating teams](preoperative-checklists-briefings-reduce-communication-failures.md) — related

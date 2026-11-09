@@ -47,3 +47,4 @@ Completion data from the pilot: 29 clinicians enrolled, eight did not commence, 
 ## Related Claims
 - [The SMS microlearning series achieved full completion with no unsubscribes among enrolled clinicians](sms-microlearning-full-completion-no-unsubscribes.md) — related
 - [A majority of clinician participants reported that a brief QStream program helped update their knowledge about referring women for genetic assessment and testing](qstream-updated-clinician-referral-knowledge.md) — related
+- [The online testing method was acceptable and feasible, with 86.7% of invited clinicians completing a test](online-competence-test-completion-feasibility.md) — related

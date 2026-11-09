@@ -52,3 +52,4 @@ Instructor observation during the gamified year, reported in the discussion sect
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — related
 - [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related
 - [Ranking variations between consecutive tests showed a slight decreasing trend over the academic year in the gamified cohorts, with no comparison group.](ranking-variations-stabilize-over-year.md) — related
+- [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — related

@@ -42,6 +42,7 @@ An implementable teaching activity: structure instruction so that frequent forma
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Timely Feedback](timely-feedback.md)
 - [Low Stakes Testing](frequent-low-stakes-quizzes.md)
+- [Provide corrective feedback on low-stakes quizzes when using test-enhanced learning](corrective-feedback-on-quizzes-strategy.md)
 
 ## Examples
 -

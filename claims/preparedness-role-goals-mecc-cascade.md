@@ -54,3 +54,5 @@ Qualitative Framework Method analysis of interviews with 21 participants and pos
 - [Receivers' confidence in cascading newly learned eLearning knowledge to colleagues increased only after completing the full development process, while institutional support and resources remained barriers](cascading-knowledge-confidence-and-institutional-barriers.md) — related
 - [Trainers structure sessions by setting clear goals, forming small groups with clear roles, and using a whiteboard to summarize procedure logic](sbl-session-structuring-practices.md) — related
 - [Sierra Leone field trial: new master trainers reverted to lecturing on new topics and reported needing to improve feedback skills](hbb2-sierra-leone-master-trainer-facilitation-gaps.md) — related
+- [44% of train-the-trainer attendees reported implementing research mentor training at their institutions](rmt-implementation-forty-four-percent.md) — related
+- [Train-the-trainer workshops for research mentor training produce significant retrospective gains in facilitator confidence](train-the-trainer-confidence-gains-rmt.md) — related

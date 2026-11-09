@@ -58,3 +58,4 @@ Thematic analysis across both survey waves in the 9-student qualitative study. T
 - [Students name travel savings and free choice of location as the main advantages, and chat-communication limits and lack of personal contact as the main drawbacks, of chat-based PbL](bpbl-interview-advantages-drawbacks.md) — related
 - [The standard training program showed intermediate effects on three values-related competencies but no effect on three technical competencies](values-competencies-intermediate-technical-no-effect.md) — related
 - [Most variation in reflections between high, medium, and low OSCE performers concerned nonverbal behaviors, and motivation themes appeared only in medium and high scorers](nonverbal-comments-differentiate-osce-performers.md) — related
+- [Students perceived that video made the PBL scenario seem more real by providing visual cues and context absent from text](vp-pbl-video-makes-scenario-real.md) — related

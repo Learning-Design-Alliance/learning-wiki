@@ -82,3 +82,6 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [PHTLS training significantly improved simulated trauma team performance scores, with a slight decline one year later that remained above baseline](phtls-training-improved-team-performance-scores.md) — related
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
 - [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related
+- [Both simulation and case-based discussion improved knowledge from pre-test to post-test, and scores were maintained at 4–6-month retention](both-methods-improve-and-maintain-knowledge.md) — related
+- [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
+- [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related

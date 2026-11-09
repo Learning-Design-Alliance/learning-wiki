@@ -50,3 +50,4 @@ Follow-up independent-samples t tests interpreting the significant exam question
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related
 - [Grade level moderates performance: Grade 4 students score higher on knowledge tests while Grade 5 students score higher on case scenarios regardless of teaching method](grade-moderates-knowledge-versus-case-performance.md) — related
+- [Students' higher-order cognitive skills improve over a semester of introductory biology instruction regardless of instruction type](semester-biology-instruction-improves-higher-order-skills.md) — related

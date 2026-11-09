@@ -48,3 +48,4 @@ Blind assessment by the evaluator on the same OSCE day: "88.2% (15 of the 17)" o
 - [A multidisciplinary discussion-group workshop on breaking bad news is associated with a significantly higher summative OSCE score than conventional university teaching](discussion-group-workshop-higher-osce-breaking-bad-news.md) — related
 - [Workshop students more often recommended specialist cancer management and suggested another appointment in the OSCE](specialist-referral-and-follow-up-appointment-items.md) — related
 - [Workshop students scored significantly higher on listening and on providing the patient with information during the OSCE](listening-and-information-skills-higher-after-workshop.md) — related
+- [The S-P-I-K-E-S six-step system structures formal teaching of bad-news delivery in current surgical training](spikes-protocol-delivering-bad-news.md) — related

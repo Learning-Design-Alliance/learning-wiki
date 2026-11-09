@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (49 for, 22 mixed, 4 against) · 76 studies (31 causal, 18 review, 16 quant-synthesis, 5 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 24 of 76 report an effect size · 61 claims rest on one study
+> **Evidence** · 77 claims (50 for, 22 mixed, 5 against) · 77 studies (32 causal, 18 review, 16 quant-synthesis, 5 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 25 of 77 report an effect size · 63 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,8 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](../claims/see-plus-improves-socio-emotional-task-performance.md) [+W] — attached 2026-11-06 from Mayer Sveta et al. (2025), which proposed "Observation-and-inference whole-class SEL activity pattern with four-phase structure"; tests this page's relationship.
 - [Self-Awareness and Self-Management remain significantly and positively associated with Year 7 reading and numeracy after controlling for Year 5 achievement and sociodemographic covariates](../claims/sel-competencies-predict-attainment-covariate-adjusted.md) [+W] — attached 2026-11-06 from Carpendale et al. (2025), which proposed "Universally teach Self-Awareness and Self-Management during primary school to safeguard academic achievement across the transition to secondary school".
 - [Social Awareness, Relationship Skills and Responsible Decision-Making show no practically meaningful association with Year 7 reading or numeracy](../claims/interpersonal-sel-competencies-no-meaningful-association.md) [~W] — attached 2026-11-06 from Carpendale et al. (2025), which proposed "Universally teach Self-Awareness and Self-Management during primary school to safeguard academic achievement across the transition to secondary school".
+- [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](../claims/paths-primary-effect-teacher-rated-secchi.md) [+M] — attached 2026-11-09 from Humphrey et al. (2016), which proposed "Universal SEL interventions should form part of a tiered prevention approach rather than stand alone"; tests this page's relationship.
+- [Usual school provision outperformed PATHS on the primary outcomes of teacher-rated peer problems and emotional symptoms](../claims/paths-primary-effects-favoring-usual-provision.md) [-M] — attached 2026-11-09 from Humphrey et al. (2016), which proposed "Universal SEL interventions should form part of a tiered prevention approach rather than stand alone"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

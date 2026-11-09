@@ -85,3 +85,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](ai-moderate-agreement-bean-drop-assessment.md) — related
 - [The expert rater scored performances lower than the non-expert raters, suggesting peer-assessment may be problematic compared with assessment by a more experienced clinician](expert-rater-lower-peer-assessment-problematic.md) — related
 - [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related
+- [Peer assessments of non-technical skills show inter-rater agreement on four of five dimensions, but self- and peer-assessments do not agree](peer-interrater-reliability-no-self-peer-agreement.md) — related

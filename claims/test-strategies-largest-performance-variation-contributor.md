@@ -50,3 +50,5 @@ Pearson product-moment correlations across the full cohort (N = 612 M1, 584 prec
 - [Anxiety explains more performance variation for female than male medical students, particularly on USMLE Step 1](anxiety-explains-more-female-performance-variation.md) — related
 - [Seven of ten LASSI scales show significant mean-score differences between male and female medical students](gender-differences-seven-lassi-scales-medical-students.md) — related
 - [Preadmission academic variables correlate moderately with preclerkship and USMLE Step 1 performance, and the two outcomes correlate strongly with each other (r = 0.75)](preadmission-variables-correlate-with-outcomes.md) — related
+- [LASSI-performance correlations differ by measurement point: only Test Strategies correlated with Year I performance, while five subscales correlated with Year II performance](lassi-correlations-vary-by-measurement-point.md) — related
+- [Across six studies, Concentration, Motivation, Time Management and Test Strategies tend to correlate with academic performance, and LASSI subscales explain 10-49% of variance](lassi-cross-study-variance-10-49-percent.md) — a broader claim this one bears on

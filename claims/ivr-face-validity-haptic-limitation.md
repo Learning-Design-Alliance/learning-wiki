@@ -69,3 +69,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [VR-enhanced anatomy training improves overall ultrasonography task performance in novice medical students](vr-anatomy-improves-ultrasound-task-performance.md) — related
 - [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — possibly the same claim (merge candidate)
 - [NOViSE shows good face validity, with realism endorsed for graphics, tissue behavior, and overall realism](novise-good-face-validity.md) — related
+- [Experts rate a web-based otoscopy simulator as an acceptably realistic representation of ear anatomy (face validity)](ototrain-face-validity-expert-survey.md) — related

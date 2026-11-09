@@ -124,6 +124,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
 - [Implement the ticket to retention: distribute one to five target questions, have students write answers, discuss with two classmates, listen, revise, and submit](ticket-to-retention-procedure.md)
 - [Assess readiness at the end of each practice session and provide tailored remediation before advancing](readiness-assessment-tailored-remediation-strategy.md)
+- [Use an open-ended take-away question after simulation to prompt reflection and gather qualitative evidence on valued learning](take-away-reflection-question-after-simulation.md)
 
 ## Examples
 - **3-2-1 ticket in a biology class**: after a photosynthesis lesson, students write three inputs, two outputs, one question; the instructor sorts tickets and opens the next class by resolving the five most common questions

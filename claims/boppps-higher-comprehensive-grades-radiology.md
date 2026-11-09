@@ -48,3 +48,4 @@ Retrospective comparative cohort study of 418 undergraduates (205 BOPPPS, 213 LB
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [The ARCS + BOPPPS blended learning model significantly improves practical skills, innovative ability, and overall comprehensive competency but not theoretical knowledge](arcs-boppps-blended-model-improves-competencies-not-theoretical-knowledge.md) — related
+- [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](blended-higher-final-statistics-score.md) — related

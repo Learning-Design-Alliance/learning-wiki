@@ -51,3 +51,4 @@ Randomized interventional cadaveric study of 24 Internal Medicine and Family Med
 - [Prior subacromial injection experience does not predict injection accuracy in either training group](prior-sai-experience-no-accuracy-effect.md) — related
 - [Cadaveric ultrasound-guided injection workshops significantly increase physicians' self-reported confidence for hip, knee, and ankle injections, with the largest gain for hip injections](cadaveric-workshop-confidence-gains-three-joints.md) — related
 - [Training on cadavers produced the best OSCE skill scores for infiltrations, followed by training on anatomical models, for proficiency, systematics and completeness in the glenohumeral joint, subacromial space and lateral epicondyle](cadaver-training-best-osce-skill-scores.md) — related
+- [A brief training video increases grant reviewers' correct selection of NIH rating scale values compared to no training](training-video-increases-rating-scale-accuracy.md) — related

@@ -51,3 +51,4 @@ Cross-sectional survey of 1520 Slovenian students in grades 4–6; teachers rate
 - [Intensity of daily PA strongly predicts boys' reading competence in adjusted models](pa-intensity-predicts-boys-reading-competence.md) — related
 - [The Overall achievement model was significant, with EF deficits negative and physical activity and female gender positive (F(3169) = 19.65, p ≤ 0.001)](overall-aa-model-significant-three-variables.md) — related
 - [Multi-predictor regression models of total grade scores explain 30.5% of variance in females but only 4.3% in males](regression-fitness-academics-gender-variance.md) — related
+- [Minimal-intensity physical activity such as walking is positively associated with teacher-reported academic performance scores among Shanghai fifth-graders](minimal-intensity-activity-positive-teacher-reported-aps.md) — related

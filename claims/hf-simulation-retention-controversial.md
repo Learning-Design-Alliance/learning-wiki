@@ -63,3 +63,4 @@ The review's narrative synthesis of the two trials reporting long-term outcomes.
 - [Video-assisted reflection after simulation produces similar airway skill gains to recall-assisted reflection but better retention at 1 month](var-better-retention-than-rar.md) — related
 - [PICU staff's minimum competency scores fell at 3-month and 12-month follow-up assessments compared with post-baseline scores after high flow training, in one single-group pre-post study](highflow-retention-loss-3-12-months.md) — related
 - [Medical students and residents show no significant difference in long-term knowledge retention (Test 2, after at least two months) between Virtual Patient training and a video-recorded lecture](vp-vs-lecture-similar-long-term-retention.md) — related
+- [Retention-test scores do not differ significantly between short, medium, and long follow-up groups](retention-scores-similar-across-follow-up-intervals.md) — related

@@ -51,3 +51,4 @@ Clinical examinations using Silness & Löe plaque and gingival indices at baseli
 - [E-learning shows no significant overall effect on plaque index compared with conventional oral health education](e-learning-no-effect-plaque-index.md) — related
 - [Both educational methods significantly improved oral health knowledge and reduced plaque and gingival scores within clusters over 12 weeks.](both-methods-improved-knowledge-and-oral-hygiene.md) — related
 - [One-time OHE produced significant but limited improvements: knowledge and gingivitis-prevention behavior improved but oral cancer prevention behavior and oral hygiene status did not](one-time-ohe-limited-effects.md) — related
+- [Gingival health and caries did not differ between the EL and TL groups; caries increased significantly in both groups at 18 months](gingivitis-caries-no-group-differences.md) — related

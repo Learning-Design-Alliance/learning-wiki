@@ -68,3 +68,4 @@ Holistic 5-point rating on the online form (N = 31); the mean was 4.13 and "90% 
 - [Joint-display integration showed strong convergence on acceptability but partial divergence on usability, where the 4.13/5 rating contrasted with concerns about slow video uploads](medifeeding-joint-display-convergence-usability-divergence.md) — related
 - [Qualitative analysis of interviews (n=24) and a focus group (n=5) yielded six themes, with educational benefit as the central concept, valued features of self-review and peer learning, and concerns about misinformation and technical limitations](medifeeding-qualitative-six-themes.md) — related
 - [Participants rated the liver model positively and 93% deemed it helpful preparation for clinical practice](participants-rate-liver-model-helpful.md) — related
+- [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related

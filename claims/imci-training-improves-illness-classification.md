@@ -55,3 +55,4 @@ Meta-analysis pooling 26 studies using Dersimonian-Laird random-effect models fo
 - [IMCI training shows no significant pooled effect on child vaccination rates (RR = 1.16, 95% CI: 0.98–1.36)](imci-training-no-significant-vaccination-effect.md)
 - [IMCI training benefits are stronger in lower-resource settings (lower HDI) for nutrition counseling and vaccinations](imci-training-stronger-lower-resource-settings.md)
 - [Previous IMCI training shows no significant effect on knowledge acquisition or retention from SCL-aHIT](imci-training-no-effect-scl-ahit-outcomes.md) — related
+- [Health worker performance after IMCI training varied greatly, from 15% to 88% of patients treated correctly on average](imci-benin-performance-varies-15-88-percent.md) — related

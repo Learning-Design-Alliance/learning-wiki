@@ -59,3 +59,4 @@ Independent t-test comparison of post-intervention ACE total scores between inte
 - [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — related
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
+- [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related

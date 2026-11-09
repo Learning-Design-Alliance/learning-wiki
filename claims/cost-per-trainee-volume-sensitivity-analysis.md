@@ -50,3 +50,5 @@ Sensitivity analysis over scenarios of 1 to 500 trainees, reported with Table 4,
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related
 - [The direct cost of training one trainee to the abdominal ultrasound mastery level was estimated at USD 638 using micro-costing](simulation-mastery-abdominal-us-cost-638-per-trainee.md) — related
 - [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related
+- [Rheumates@Work was developed and run at low cost, with total direct costs under €1,500 and about 30 minutes of staff time per week](raw-low-development-costs.md) — related
+- [Transparent simulator materials cost about the same as common opaque plastics](transparent-materials-cost-comparable-to-opaque.md) — related

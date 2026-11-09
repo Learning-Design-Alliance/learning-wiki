@@ -70,3 +70,4 @@ The same team mood multi-level model found that when "ratings of post‐simulati
 - [Post-simulation happiness and hopefulness positively predict perceived team performance in team-based medical simulations](happiness-hopefulness-predict-team-performance.md) — related
 - [No post-simulation emotion significantly predicts perceived individual performance once covariates are included](no-emotion-predicts-individual-performance.md) — related
 - [SERQ responses align significantly with debriefing responses for team performance and team mood perceptions, but less so for discrete emotions](serq-debriefing-alignment-validity.md) — related
+- [Self-assessed poor simulation performance is associated with more negative mood after the simulation, controlling for pre-simulation mood](poor-self-rated-performance-negative-post-mood.md) — related

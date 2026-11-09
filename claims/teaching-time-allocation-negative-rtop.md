@@ -53,3 +53,4 @@ Same averaged model (N = 64): Percent Teaching Time Allocation had relative impo
 - [Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)](rtop-content-knowledge-correlation.md) — related
 - [Longer-serving clinical faculty show lower preference for teacher-centeredness, suggesting teaching conceptions shift with experience](longer-serving-faculty-less-teacher-centered.md) — related
 - [Faculty report spending significantly more time on lecture than any other classroom practice in their largest courses, though average lecture time is below 50%.](lecture-dominates-classroom-time.md) — related
+- [RTOP scores correlate with assessment Bloom scores and with student participation rates](rtop-correlates-assessment-bloom-and-participation.md) — related

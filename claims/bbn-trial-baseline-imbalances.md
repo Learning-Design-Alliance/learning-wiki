@@ -52,3 +52,4 @@ Baseline comparison of the randomized groups (Mann-Whitney U tests) reported in 
 - [A four-hour simulation-based breaking bad news training significantly improves communication skills measured with the mBAS versus a traditional ED rotation alone](bbn-simulation-training-improves-communication-skills.md) — related
 - [A four-hour simulation-based breaking bad news training added to an ED rotation significantly improves trainees' perceived self-efficacy compared with rotation alone](bbn-simulation-training-improves-self-efficacy.md) — related
 - [Baseline anxiety and self-efficacy did not differ between the intervention and control groups before the intervention](sps-cbl-baseline-equivalence-observed.md) — related
+- [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](communication-training-improves-oncologist-bad-news-skills.md) — related

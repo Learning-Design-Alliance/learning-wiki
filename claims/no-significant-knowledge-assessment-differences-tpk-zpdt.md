@@ -68,3 +68,4 @@ Welch t-test comparing scores on the identical tooth 11 preparation exam assesse
 - [First-attempt pass rates differed between TPK and ZPDT (theoretical 29% vs. 8% failure; practical 44% vs. 29%), with final failure rates converging after repeat exams](first-attempt-fail-rates-tpk-zpdt.md) — related
 - [Self-assessment of theoretical and practical competences agreed with externally assessed exam results at moderate rates (64.3–82.5%), differing only slightly between courses](self-external-assessment-agreement-dental-propaedeutics.md) — related
 - [Student evaluation of learning conditions rated the ZPDT significantly higher than the TPK, particularly for theoretical and practical knowledge transfer](zpdt-vs-tpk-learning-conditions-student-evaluation.md) — related
+- [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — related

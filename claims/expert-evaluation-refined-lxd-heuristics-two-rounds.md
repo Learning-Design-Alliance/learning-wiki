@@ -53,3 +53,4 @@ Think-aloud sessions with four experts (in gamification/LXD, HCI/diversity, naut
 - [Making open data usable for learning requires substantial educator work: finding suitable data, refining and curating sources, and coping with poor formats and documentation](open-data-making-data-usable-challenges.md) — related
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
 - [The developed web-based PFA program passed expert and user usability evaluations before trial deployment](web-pfa-program-usability-evaluation.md) — related
+- [Heuristic evaluation by a human factors engineer identified no critical usability issues but several major or moderate issues, which were addressed through simulator refinement](dka-simulator-usability-testing.md) — related

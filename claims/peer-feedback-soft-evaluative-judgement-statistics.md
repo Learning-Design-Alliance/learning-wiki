@@ -87,3 +87,4 @@ Interview response from Viki, a peer feedback participant, coded under limited c
 - [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related
 - [Trainers stimulate collaborative learning and reflection by asking questions, promoting dialog, and encouraging thinking aloud](sbl-collaborative-learning-reflection-questioning.md) — related
 - [Group-size format shapes PAL dynamics: mentoring offers an intimate setting while didactic teaching limits feedback and interaction](pal-group-size-format-dynamics.md) — related
+- [Peer leaders attribute critical thinking change to interacting with others, utilizing different approaches to learning, and problem solving](peer-leaders-attributed-ct-factors-three-themes.md) — related

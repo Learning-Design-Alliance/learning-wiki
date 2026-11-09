@@ -49,3 +49,4 @@ Question 16 (multiple choice) asked about disadvantages compared with traditiona
 - [Most students held a positive impression of and adapted well to the WeChat public account based mobile learning mode](wechat-mobile-learning-positive-impression.md) — related
 - [Students using WeChat public account based mobile learning achieved significantly higher final test scores than control group students](wechat-mobile-learning-higher-final-scores.md) — related
 - [Students viewed WeChat mobile learning as a supplement to, not a substitute for, traditional classroom teaching](wechat-mobile-learning-supplement-not-substitute.md) — related
+- [The feedback sandwich technique is widely used but research suggests it is not effective](feedback-sandwich-not-effective.md) — related

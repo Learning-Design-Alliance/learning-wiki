@@ -54,3 +54,4 @@ The review reports the only identified study measuring transfer from a simulatio
 - [The training program did not change vacuum extraction rates, cesarean section rates, or Weighted Adverse Outcome Scores](no-change-secondary-obstetric-outcomes.md) — related
 - [Global adverse event rates did not change significantly across the project periods, and the study could not establish an effect of training on obstetric complication rates](adverse-event-rates-no-significant-change.md) — reports the opposite
 - [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related
+- [Non-technical skills have the same magnitude of impact on surgical outcome as surgical technique, yet have been historically underemphasized in surgical training](nontechnical-skills-equal-impact-surgical-outcome.md) — related

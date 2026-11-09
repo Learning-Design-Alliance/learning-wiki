@@ -80,3 +80,4 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Clinicians reported their largest perceived practice changes in providing hope, setting aside time for questions and acknowledging feelings](perceived-practice-change-hope-and-feelings.md) — related
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
+- [Premature antidepressant discontinuation has distinct leading reasons with short median times, suggesting clinician communication skill matters more than treatment properties](antidepressant-discontinuation-reasons-timing.md) — related

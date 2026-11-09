@@ -80,6 +80,7 @@ TWPS converts passive question-and-answer routines into structured [active learn
 - [Wait Time](wait-time.md) — the silent thinking stage operationalizes extended wait time within a larger routine
 - [Think-Pair-Share three-phase cooperative discussion strategy](think-pair-share-three-phase-strategy.md)
 - [Implement think-talk-write as a three-phase cooperative sequence: think, talk, write](think-talk-write-three-phase-strategy.md)
+- [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 
 ## Examples
 - **Writing Across the Curriculum (WAC) programs** — many university WAC guides (e.g., [Colorado State's WAC Clearinghouse](https://wac.colostate.edu)) recommend short in-class writes followed by pair exchange as a standard discussion-starter routine.

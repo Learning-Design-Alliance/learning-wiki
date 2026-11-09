@@ -52,3 +52,4 @@ Organizational-level theme in the review's synthesis, supported by multiple stud
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related
 - [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — a narrower finding that bears on this claim
+- [Time, perceived value and lack of incentives are key challenges to faculty evaluating the intrinsic roles](time-value-incentive-challenges.md) — related

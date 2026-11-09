@@ -43,6 +43,7 @@ Rather than having researchers teach students directly, the authors recruited 11
 - [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
 - [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
+- [Involve local domain-unit staff for the full workshop day rather than as an end-of-day panel](local-domain-staff-full-day-workshop-involvement.md)
 
 ## Examples
 -

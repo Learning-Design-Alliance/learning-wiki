@@ -54,3 +54,4 @@ Theoretical argument in the comment's timing section. The authors argue that for
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
 - [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related
+- [Applied knowledge is argued to be an essential but insufficient component of therapist competence, requiring supplementation by a skill-based assessment](applied-knowledge-essential-insufficient-competence.md) — related

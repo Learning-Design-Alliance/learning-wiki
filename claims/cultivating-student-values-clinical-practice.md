@@ -47,3 +47,4 @@ Theme 5, specific to ECA staff focus groups. Staff described addressing repeated
 ## Related Claims
 - [Approximately half of students' supportive comments concerned teachers' values, and staff consciously enacted values such as caring to aid learning](teacher-values-support-student-learning.md) — related
 - [Students report vastly different learning experiences across clinical departments, with two exemplar areas emerging clearly in a survey vote](exemplar-survey-two-ecas-emerge.md) — related
+- [Faculty disagreement about learners' professionalism persists even when the rationale behind students' behaviour is made explicit](disagreement-persists-explicit-rationale.md) — related

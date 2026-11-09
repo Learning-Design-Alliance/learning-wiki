@@ -52,3 +52,4 @@ Self-reported survey item on cathlab safety routines; "almost half of the partic
 - [Performance support tools (briefings, handoffs, and checklists) introduced in the work setting produced sustained improvements in teamwork processes for 6 to 18 months after implementation](support-tools-sustained-process-improvements.md) — a broader claim this one bears on
 - [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](surgical-checklist-lowest-adverse-events.md) — related
 - [Turkish perfusionists unanimously support written perfusion safety tools including checklists, protocols, and record-keeping](perfusionists-support-written-safety-tools.md) — related
+- [Preoperative checklists and team briefings reduce communication failures by about 34% in operating teams](preoperative-checklists-briefings-reduce-communication-failures.md) — related

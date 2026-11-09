@@ -67,3 +67,4 @@ Same cohort completing the self-efficacy questionnaire at baseline and certifica
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [Participant satisfaction with first aid training is similar with and without a simulated patient](simulated-patient-no-satisfaction-difference.md) — related
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
+- [Simulator training improves self-efficacy in both feedback and control groups](simulator-training-improves-self-efficacy.md) — related

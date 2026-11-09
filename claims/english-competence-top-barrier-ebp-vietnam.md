@@ -53,3 +53,4 @@ Survey ranking question on the three top barriers impacting EBP use among the 38
 - [Vietnamese physical therapists rely on personal experience, peers, and textbooks rather than research literature for clinical decision-making](pts-rely-on-experience-peers-textbooks-not-research.md) — related
 - [Foreign language knowledge, EBP training, following publications, scientific event participation, and research experience each associate with higher EBP and CDM scores](professional-engagement-factors-higher-ebp-cdm.md) — related
 - [Most surveyed research assistants lacked original research publications, and about half reported sufficient foreign language proficiency for scientific literature](research-assistants-low-publication-foreign-language-profile.md) — related
+- [Lack of research skills is the most important self-reported barrier to using evidence-based practice among Colombian physical therapists (41%)](lack-of-research-skills-top-ebp-barrier.md) — related

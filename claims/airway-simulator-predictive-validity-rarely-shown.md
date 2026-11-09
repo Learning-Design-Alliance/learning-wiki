@@ -59,3 +59,4 @@ Narrative synthesis of the 17 included studies in the systematic review. Both pr
 - [Daily simulation practice before shifts improved first-pass intubation rates in a retrieval service, with the significant gain in neonatal patients](frequent-mannequin-practice-improves-first-pass-intubation.md) — reports the opposite
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
 - [Simulation-based assessment revealed a 40% pass rate for interns managing failed obstetric intubation despite prior emergency training](simulation-assessment-failed-intubation-pass-rate.md) — related
+- [Predictive validity was shown in two simulators, with a positive correlation between simulator outcomes and future performance](ips-predictive-validity-positive-correlation.md) — reports the opposite

@@ -53,3 +53,4 @@ The authors' interpretive report from their cyberlearning design experience, exp
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related
+- [Inner motivation, active participation of the novice educator, and a supportive workplace learning environment are considered prerequisites for becoming an expert patient educator](motivation-and-supportive-environment-prerequisites-expert-educator.md) — a narrower finding that bears on this claim

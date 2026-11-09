@@ -50,3 +50,4 @@ Paired comparison of precourse and postcourse confidence (1-5 Likert) among the 
 - [Students with higher postcourse confidence in resuscitation skills were more likely to register as first responders](postcourse-confidence-associated-first-responder-registration.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
 - [Self-assessed theoretical knowledge, confidence and willingness to act in an OHCA situation did not differ between the BLS+WEB and BLS groups](web-education-no-difference-self-assessed-confidence.md) — related
+- [Participants' self-reported self-efficacy in managing clinical scenarios rose from pre-test to post-test after one-day simulation training, in one single-group pre-post study](simulation-training-improves-self-efficacy.md) — related

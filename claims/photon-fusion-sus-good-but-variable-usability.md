@@ -69,3 +69,5 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
+- [Heuristic evaluation by a human factors engineer identified no critical usability issues but several major or moderate issues, which were addressed through simulator refinement](dka-simulator-usability-testing.md) — related
+- [OLabX received modest System Usability Scale scores across two independent evaluation events (60.8 at ULAC, 65.83 at AUTH)](olabx-sus-scores-two-workshops.md) — related

@@ -52,3 +52,4 @@ Thematic analysis of observer field notes from debriefing sessions plus question
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [An inter-professional near-peer teaching module in which OR technician trainees teach infection prevention to medical students in a simulated OR is feasible with high satisfaction ratings from both student groups](ortt-peer-teaching-ipc-module-feasible.md) — a broader claim this one bears on
 - [Operating room technician trainees rate their own teaching quality significantly lower than medical students rate the ORTTs' teaching](ortt-self-rating-lower-than-mds-rating.md) — related
+- [The article argues IPE should be introduced from the start of professional education to prevent formation of negative interprofessional attitudes that later resist change](ipe-early-introduction-argument.md) — related

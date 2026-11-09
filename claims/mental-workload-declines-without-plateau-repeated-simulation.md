@@ -50,3 +50,4 @@ In the same repeated-measures simulation study, NASA-TLX questionnaires complete
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — a broader claim this one bears on
 - [No participant developed PTSD during one year of repeated simulations, and IES-R scores declined in the frequently-repeating group](no-ptsd-ies-r-declines-with-repetition.md) — related
 - [OSATS-assessed technical skill improves over six repeated high-fidelity ureterorenoscopy simulation sessions with evidence of plateauing in both tasks](osats-improves-plateau-six-sessions-ureterorenoscopy.md) — related
+- [Perceived cognitive workload decreases over the training in both feedback groups without between-group differences](workload-decreases-over-training-both-groups.md) — a narrower finding that bears on this claim

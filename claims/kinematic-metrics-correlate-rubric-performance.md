@@ -83,3 +83,4 @@ Under Robotic Control, the review reports expert-novice contrasts: experts show 
 - [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related
 - [Both mental practice groups covered shorter instrument path length than the video-viewing control group](mp-groups-shorter-path-length-than-control.md) — a narrower finding that bears on this claim
 - [Experts complete transgastric NOTES cholecystectomy stages faster and with shorter endoscope path lengths than novices on NOViSE](novise-construct-validity-experts-novices-times-paths.md) — a narrower finding that bears on this claim
+- [Individualized instructor feedback during simulated laparoscopy shortens instrument path length in novices](feedback-shortens-laparoscopic-instrument-path.md) — a narrower finding that bears on this claim

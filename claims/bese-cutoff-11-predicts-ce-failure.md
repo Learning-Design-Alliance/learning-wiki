@@ -50,3 +50,4 @@ ROC analysis in Results using ABP CE failure as the outcome, with predictive val
 - [Residents in the bottom composite BESE score quartile are more likely to fail the ABP CE on first attempt](bottom-quartile-bese-higher-failure-risk.md) — related
 - [ABP CE first-attempt pass rates increased at two of three programs during BESE implementation, with a ceiling effect at the third](bese-implementation-pass-rates-increased.md) — related
 - [Number of BESE quizzes completed is not associated with ABP CE failure rates or scores](quiz-completion-count-not-associated-outcomes.md) — related
+- [A simulator score of 75% discriminates experts from trainees with high sensitivity (94.7%) but low specificity (51.8%), supporting formative but not summative use](dka-simulator-roc-cutoff.md) — related

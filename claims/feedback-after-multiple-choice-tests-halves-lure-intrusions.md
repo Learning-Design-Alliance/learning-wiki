@@ -71,3 +71,4 @@ The chapter reports studies where students restudied correct answers after multi
 - [Feedback moderates the role of WMC in the testing effect, reducing WM load for low-WMC learners](feedback-as-wm-aid-for-retrieval-practice.md) — related
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — reports the opposite
+- [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — reports the opposite

@@ -58,3 +58,4 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [Students trained with the DVRS scored significantly higher in the dental surgery course than students trained with traditional manikins](dvrs-higher-dental-surgery-scores-than-manikin.md) — related
+- [Classroom versus clinical setting differences in patient safety dimension scores are statistically significant but mostly very small in effect size](classroom-clinical-differences-small-effect-sizes.md) — related

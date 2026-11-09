@@ -52,3 +52,4 @@ Analysis of demographic questionnaire factors in the 68-student simulator cohort
 - [Career intention and age are not significant predictors of medical students' confidence in anatomy knowledge](career-intention-age-not-predictors-anatomy-confidence.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
 - [Second-year medical students achieve higher laparoscopic skill gains than first-year students after simulator training](second-year-students-higher-laparoscopic-skill-gains.md) — related
+- [Learning style, ethnicity, hand dominance and career motivation showed no significant difference in skill acquisition or retention](learner-traits-no-effect-simulation-skill-acquisition.md) — related

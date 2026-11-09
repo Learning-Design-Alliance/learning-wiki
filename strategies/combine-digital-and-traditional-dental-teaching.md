@@ -56,6 +56,7 @@ The article recommends deploying digital evaluation systems as a supplement to, 
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
+- [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 
 ## Examples
 -

@@ -67,3 +67,5 @@ Follow-up t-test after a significant prior ability × test moment interaction (m
 - [Concept map completion imposed higher mental effort during the guided-learning activity than concept map study](completion-higher-mental-effort-learning.md) — related
 - [Advanced learners outperformed novices on near transfer at immediate post-test but not after the self-study phase](prior-ability-near-transfer-test-moment.md) — related
 - [Learning condition affected conceptual knowledge differently for advanced and novice learners: advanced learners benefited from concept map study, novices showed no condition effect](prior-ability-by-condition-conceptual-knowledge.md) — related
+- [Post-test mental effort correlates negatively with global post-test performance in all three integrative-activity conditions](mental-effort-posttest-negatively-correlated-performance.md) — related
+- [Self-explanation learners invest less mental effort on the post-test than concept map completion or model concept map study learners](self-explanation-lower-mental-effort-posttest.md) — reports the opposite

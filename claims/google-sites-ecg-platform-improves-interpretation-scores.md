@@ -53,3 +53,4 @@ Open-label, single-center, cluster-randomized study of 46 first-year second-cycl
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — a broader claim this one bears on
 - [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — related
 - [SAFMEDS plus usual teaching produces significantly greater ECG interpretation accuracy than usual teaching alone in final-year medical students](safmeds-improves-ecg-interpretation-accuracy.md) — related
+- [A standalone web-based ECG tutorial significantly improves medical students' ECG interpretation test scores immediately after training](web-ecg-tutorial-improves-post-test-scores.md) — related

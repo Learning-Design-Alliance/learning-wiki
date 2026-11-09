@@ -50,3 +50,4 @@ Pre/post analysis of 679 (67.4%) of 1,008 enrolled participants who completed bo
 - [Access to online anatomical images significantly improves online self-assessment quiz scores](online-images-improve-quiz-scores.md) — related
 - [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — a broader claim this one bears on
 - [Intervention completers' mental health knowledge scores rose from baseline to post-course on the embedded course quiz in one uncontrolled pre-post study](mhfa-elearning-improves-course-quiz-knowledge.md) — possibly the same claim (merge candidate)
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related

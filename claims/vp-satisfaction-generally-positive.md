@@ -54,3 +54,4 @@ Narrative synthesis of 17 satisfaction studies, mostly item-by-item survey compa
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [Preference for the simulator over animal models differs significantly by expertise, with undergraduates rating it higher (4.22) than experts (3.53)](expertise-moderates-preference-over-animal-models.md) — related
 - [Animated individualised feedback in virtual patients was valued over the more general feedback of non-interactive cases](vp-individualised-animated-feedback-valued.md) — a narrower finding that bears on this claim
+- [In a branching virtual patient for PBL, the majority of responding undergraduate medical students preferred text-based scenarios over video-based ones](vp-pbl-majority-prefer-text-over-video.md) — a narrower finding that bears on this claim

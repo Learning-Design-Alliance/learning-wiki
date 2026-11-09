@@ -70,6 +70,7 @@ The strategy combines two well-supported mechanisms: retrieval practice from the
 - [Coach students to flag rather than answer difficult items, return after completing the exam, and review all questions — not just missed ones — in one-on-one reviews](flag-and-return-answer-review-all-items.md)
 - [Program announced, graded fill-in-the-blank quizzes with immediate in-class answer-key review](announced-graded-quiz-answer-key-review-strategy.md)
 - [Use a formative MEQ under exam conditions with immediate peer-review feedback so students can adapt their learning strategies](formative-meq-feedback-adapt-learning-strategies.md)
+- [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 
 ## Examples
 - **University of British Columbia / Carl Wieman Science Education Initiative** — two-stage midterm and final exams adopted across physics, chemistry, and biology courses; group stages typically worth 15–25% ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

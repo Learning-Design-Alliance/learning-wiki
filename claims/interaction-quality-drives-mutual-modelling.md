@@ -50,3 +50,4 @@ Authors' interpretation of the symmetry results from the five collaborative expe
 - [Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill](partner-model-quality-emerges-through-task.md) — a broader claim this one bears on
 - [The five mutual-modelling experiments varied how important it was to build an accurate model (task) and how difficult it was to build one (setting)](mutual-modelling-experiments-vary-task-and-setting.md) — related
 - [Collaboration does not emerge spontaneously just by placing students together](collaboration-not-spontaneous-from-grouping.md) — related
+- [The proposed tailoring approach is contingent on supervisors accurately perceiving individual barriers, an ability expected to vary across supervisors and situations](tailoring-contingent-on-supervisor-barrier-perception.md) — related

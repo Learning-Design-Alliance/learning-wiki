@@ -49,3 +49,4 @@ ROC curve analysis of scale scores for 299 research assistants against the crite
 - [Most surveyed research assistants lacked original research publications, and about half reported sufficient foreign language proficiency for scientific literature](research-assistants-low-publication-foreign-language-profile.md) — related
 - [Recommended MAP Growth screening cut scores yield sensitivity, specificity, and lower-bound AUC of at least 0.8 for most grades and terms](map-growth-screening-accuracy-08-criteria.md) — related
 - [Subspecialty research assistants scored significantly higher on the SCAS than main-specialty assistants, and basic medical sciences scored higher than surgical branches](scas-scores-subspecialty-and-branch-differences.md) — related
+- [ROC analysis identifies preliminary best cut points distinguishing competent from non-competent clinicians, with the 24-item set showing the highest AUC (0.972)](roc-cut-points-therapist-competence.md) — related

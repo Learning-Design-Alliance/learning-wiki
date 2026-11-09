@@ -60,3 +60,4 @@ DIF analysis comparing male–female and Hispanic–White examinees across terms
 - [The ULTrA measure functions equivalently across gender, race/ethnicity, first-generation status, disability status, first language, institution type, and course enrolled](ultra-measurement-invariance.md) — related
 - [Of 217 questions exhibiting DIF at the .01 alpha level, the effects were almost always negligible](217-dif-questions-almost-always-negligible.md) — related
 - [Three AIMS items showed differential item functioning across time and two items misfit the Rasch model, pointing to problematic wording](aims-dif-and-misfit-items-s5-h2.md) — related
+- [SEPCQ-27 items show negligible gender-related differential item function except two Factor 3 items](sepcq-minimal-gender-dif.md) — related

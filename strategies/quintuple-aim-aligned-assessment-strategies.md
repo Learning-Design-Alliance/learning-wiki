@@ -55,6 +55,7 @@ The article highlights potential assessment strategies aligned with each Quintup
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 - [Portfolios](portfolios.md)
 - [Frame automated writing analytics as formative guidance rather than summative grading](frame-analytics-formative-not-summative.md)
+- [Use supplementary workshops, learning portfolios and formative testing to promote engagement with clinical skills SDL](workshops-portfolios-formative-testing-promote-sdl.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Follow-up test three months after training, comprising a multiple-choice test an
 - [In one single-group pre-post study with no comparison group, hands-on image acquisition scores did not change from post-training to month 6, while name recall scores fell 29% and probe adjustment scores fell 38%](rtee-decay-varies-by-domain.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — a broader claim this one bears on
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — reports the opposite
+- [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related

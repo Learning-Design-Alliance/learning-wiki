@@ -51,6 +51,7 @@ The review reports that several studies suggested maximising opportunities for t
 
 - [Design peer assessment to encourage specific problem-identifying feedback, suggestions, and affective support rather than grades alone](peer-assessment-design-strategy-lu-law.md)
 - [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
+- [Balance assessor selection and clarify the developmental purpose of multisource feedback](balanced-assessor-selection-msf-strategy.md)
 
 ## Examples
 -

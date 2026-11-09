@@ -59,6 +59,7 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
 - [Add a reinforcing booster counseling session after a personalized risk reduction plan to help sustain safer sex behavior change](ciss-booster-session-sustain-behavior-change.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
+- [Repeat oral health education frequently and reinforce it with parental involvement and preventive measures to sustain effects](repeat-oral-health-education-frequently.md)
 
 ## Examples
 -

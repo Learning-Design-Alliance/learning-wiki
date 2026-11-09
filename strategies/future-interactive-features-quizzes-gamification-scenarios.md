@@ -47,6 +47,7 @@ The authors' forward-looking design recommendation is that "Future versions of t
 - [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 - [Increase challenge and interactivity in future versions of the Ethics Quarter](increase-eq-challenge-and-interactivity-strategy.md)
 - [Design e-learning with user-friendly responsive software, concise modules, and interactive clinical-vignette assessment throughout](elearning-design-recommendations-imagine.md)
+- [Require audio use and note taking and add engagement mechanisms when running a hybrid lecture course](hybrid-course-audio-notes-engagement-strategy.md)
 
 ## Examples
 -

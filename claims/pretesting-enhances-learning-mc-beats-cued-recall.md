@@ -77,3 +77,4 @@ The commentary describes Little and Bjork (2016), who used multiple-choice and c
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
+- [Pretesting and interim testing potentiate learning of subsequent, previously untested material (review-reported)](pretesting-potentiates-subsequent-learning.md) — a narrower finding that bears on this claim

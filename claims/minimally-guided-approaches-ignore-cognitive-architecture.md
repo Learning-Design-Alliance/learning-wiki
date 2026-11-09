@@ -55,3 +55,4 @@ This is the article's theoretical argument, made in the abstract: minimally guid
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — possibly the same claim (merge candidate)
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [Student-focused didactic architectures were used less frequently on average than teacher-focused architectures](student-focused-architectures-less-used.md) — related

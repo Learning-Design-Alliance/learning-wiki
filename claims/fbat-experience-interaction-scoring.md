@@ -47,3 +47,5 @@ Interaction analysis in the 3 × 3 linear mixed model with video type as within-
 ## Related Claims
 - [Raters using the tool discriminate between facilitation videos depicting positive, mixed and negative influence on learning, with all pairwise mean differences significant at p < 0.001](fbat-discriminates-video-levels.md) — related
 - [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related
+- [Reviewer experience does not directly affect rating scale accuracy and does not interact with training condition](reviewer-experience-no-accuracy-effect.md) — related
+- [A brief training video increases inter-rater reliability of grant reviewers' scale selections for both novice and experienced reviewers](training-video-increases-inter-rater-reliability.md) — related

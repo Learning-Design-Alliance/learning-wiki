@@ -58,9 +58,11 @@ Physical conditions operate as a background layer that enables or undermines oth
 6. Reassess after observation: if off-task behavior rises in clusters, tighten group composition or return to rows for that segment.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory counterpart of spatial design; noise is a parallel source of load and distraction
 - [Assigned Positions](../elements/assigned-positions.md) — deliberate placement of learners within a layout to manage proximity and roles
 - [Check-In](../elements/check-in.md) — smaller classes and good circulation make brief individual check-ins feasible
+- [Redesign nursing education programmes to reduce student-teacher ratios and class sizes so student-focused pedagogical strategies become feasible](reduce-ratios-enable-student-focused-pedagogy.md)
 
 ## Examples
 - **Tennessee STAR (Project Student/Teacher Achievement Ratio, 1985–1989)** — a large randomized trial assigning K–3 students to small (13–17) vs. regular (22–25) classes; small-class students showed lasting achievement advantages, strongest for minority and disadvantaged students.

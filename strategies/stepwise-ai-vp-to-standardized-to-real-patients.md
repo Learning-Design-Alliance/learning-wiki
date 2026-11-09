@@ -59,6 +59,7 @@ The review proposes a progressive training pathway in which learners begin clini
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
 - [Use standardized-patient simulations and digital learning games to train health professionals to avoid medical jargon and communicate in plain language](simulation-games-train-plain-language-jargon-awareness.md)
+- [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](graduated-complexity-educator-development-sequence.md)
 
 ## Examples
 -

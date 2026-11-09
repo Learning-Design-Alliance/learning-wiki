@@ -73,3 +73,4 @@ SCEF numerical ratings on a four-point scale (SA, GA, GD, SD) introduced in acad
 - [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related
 - [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related
 - [The 6D-approach flipped teaching with mentored journal clubs received approximately 89% student satisfaction in the MBPG course](6d-approach-high-student-satisfaction.md) — related
+- [All students appreciated the inverted classroom approach because it freed seminar time for interactive, practice-based learning](inverted-classroom-appreciated-interactive-time.md) — related

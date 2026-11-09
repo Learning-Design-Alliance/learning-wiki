@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (42 for, 13 mixed) · 59 studies (16 causal, 11 quant-synthesis, 11 review, 11 qualitative, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 59 report an effect size · 48 claims rest on one study
+> **Evidence** · 56 claims (42 for, 14 mixed) · 60 studies (17 causal, 11 quant-synthesis, 11 review, 11 qualitative, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 60 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Cohort 1 DPT students' self-rated confidence rose from pre-test to post-test in all measured domains after embedding active video gaming experiences in a PBL curriculum, in a single-group pre-post study](../claims/avg-pbl-increased-dpt-confidence-cohort1.md) [~W] — attached 2026-11-07 from Wormley Michelle Elizabeth et al. (2022), which proposed "Allow time for reflection between experiential learning experiences to consolidate skills".
 - [Group 3 scored higher on graduation theses than Group 1, but no difference was found between Group 1 and Group 2 thesis scores](../claims/thesis-gain-only-with-practice-component.md) [+W] — attached 2026-11-09 from Yang Ningxi et al. (2018), which proposed "Combine narrative medicine theory with clinical practice rather than theory alone when teaching empathy to nursing students"; tests this page's relationship.
 - [Experiential learning opportunities supported nursing students' clarification of their own values about death and dying and their respect for others' values](../claims/value-clarification-death-dying-experiential.md) [+M] — attached 2026-11-09 from Learning end-of-life care within a constructivist model: Undergraduate nursing students' e, which proposed "Nurse educators should plan end-of-life learning opportunities that raise emotional awareness and provide opportunities for value clarification"; tests this page's relationship.
+- [Experiential learning oral health education produced statistically significant better oral hygiene than traditional lecturing at 6 months, but not at 18 months](../claims/el-better-hygiene-than-tl-at-6-months.md) [~W] — attached 2026-11-09 from Angelopoulou Matina V et al. (2015), which proposed "Use teachers rather than external dental professionals to deliver school-based experiential health education, with training".
 
 ## Objective and learner-valued goal
 

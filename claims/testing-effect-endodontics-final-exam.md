@@ -69,3 +69,4 @@ Repeated measures ANOVA on the two final exam subscores of the same 81 students 
 - [Most students scored higher on tested material, and the tested and non-tested exam subscores were strongly correlated](tested-nontested-subscore-correlation-86-percent.md) — possibly the same claim (merge candidate)
 - [The endodontic testing effect remains significant after adjusting for prior course grade and sex, with a homogeneous effect across students](testing-effect-robust-to-prior-grade-sex.md) — related
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
+- [Scores on final exam questions covering topics learned in both lab and lecture showed no significant difference from lecture-only questions, suggesting the SLP gains were not due to repeated exposure alone](repeated-exposure-control-null-result.md) — related

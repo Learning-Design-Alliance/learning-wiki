@@ -65,3 +65,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students reported that the narrated cases created a perception of reality and supported learning the story organization](mobile-vp-qualitative-realism-story-organization.md) — related
 - [Open-ended feedback attributed perceived gains to eBook self-study and in-class case discussion, though some students found self-study difficult](fc-ebm-open-ended-feedback-ebook-case-discussion.md) — related
 - [Students identify end-of-module quizzes with feedback, time limits, FAQ sections and expert discussion forums as strategies to consolidate e-learning](quizzes-feedback-forums-consolidate-e-learning.md) — related
+- [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](vp-pbl-video-suited-procedures-perception.md) — related

@@ -91,3 +91,4 @@ Spearman correlation between SUS score and skill-test completion-time mean diffe
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
+- [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related

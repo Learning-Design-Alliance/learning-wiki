@@ -51,3 +51,4 @@ Paired-samples t-tests (n = 84) in a one-group pre-test-post-test quasi-experime
 - [Pre-service teachers' open-ended responses most frequently attribute to mind-map planning effects on metacognitive self-regulation, concentration and planned study](mind-map-planning-qualitative-views-metacognition.md) — related
 - [Students' motivation and restedness declined significantly over the course of the online training session](motivation-restedness-decline-over-session.md) — related
 - [Educational interventions including reflective learning, peer counselling and attribution training can improve nursing students' professional self-concept](self-concept-interventions-effective.md) — related
+- [Pre-course motivation to learn predicts post-course SEPCQ scores, supporting self-regulated learning theory](motivation-predicts-sepcq-gains.md) — related

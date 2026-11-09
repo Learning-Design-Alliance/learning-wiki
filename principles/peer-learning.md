@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (37 for, 27 mixed, 1 against) · 66 studies (20 causal, 13 quant-synthesis, 10 review, 8 qualitative, 6 design, 5 associational, 4 theoretical), `q1`–`q4` · 14 of 66 report an effect size · 57 claims rest on one study
+> **Evidence** · 66 claims (38 for, 27 mixed, 1 against) · 67 studies (20 causal, 13 quant-synthesis, 10 review, 9 qualitative, 6 design, 5 associational, 4 theoretical), `q1`–`q4` · 14 of 67 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,7 @@ Claims that bear on peer learning but do not change the model above, each with w
 - [Senior tutors in a structured near-peer program enacted five major domains of tutoring practice spanning academic, behavioral, and emotional support](../claims/five-domains-peer-tutoring-practice.md) [+W] — attached 2026-11-05 from Yoo Dong Mi et al. (2026), which proposed "Peer tutoring programs should emphasize diagnostic assessment, behavioral coaching, and relational skill-building to support both tutees and tutor development".
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](../claims/tutor-development-through-peer-tutoring.md) [+W] — attached 2026-11-05 from Yoo Dong Mi et al. (2026), which proposed "Peer tutoring programs should emphasize diagnostic assessment, behavioral coaching, and relational skill-building to support both tutees and tutor development".
 - [Peer tutors using Peyton's four-step method taught basic suturing skills to undergraduates as effectively as faculty, with no significant OSCE score difference between PAL and FAL groups](../claims/pal-fal-equivalent-suturing-osce.md) [~W] — attached 2026-11-07 from Vijayan Santhosh Thekkoot et al. (2025), which proposed "Peer-assisted learning can serve as a viable adjunct to faculty-assisted learning for structured surgical skill training in resource-constrained settings"; tests this page's relationship.
+- [International first-year medical students report technical and didactic benefits from a peer-led exam preparation course, including content specification, teaching materials, repetition and mock exams](../claims/peer-exam-prep-technical-didactic-benefits.md) [+W] — attached 2026-11-09 from Huhn D et al. (2015), which proposed "Employ peer tutors with a migration background so that social and cognitive congruence supports international students through role modelling and understandable language"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

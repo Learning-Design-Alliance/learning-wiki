@@ -52,3 +52,4 @@ Interview finding from the qualitative thematic analysis (Subtheme 1a); no effec
 - [Participants expressed concern that VR training may limit empathy development and patient-variability feedback](vr-limited-empathy-and-patient-variability-concerns.md) — related
 - [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — possibly the same claim (merge candidate)
 - [Medical students and nursing trainees perceived their educational programs as inadequate preparation for encountering patient death](education-inadequately-prepares-for-patient-death.md) — related
+- [Manikin fidelity was reportedly more of an issue for nurses than doctors, who could interact via history-taking and directing treatment](manikin-fidelity-nurse-difficulty.md) — related

@@ -51,3 +51,4 @@ Prospective cluster randomized trial with three arms (DT control, WEL and BL int
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Regression model shows DT and WEL students scored lower than BL students on the final test, with pretest, gender and learning strategy explaining 41% of score variability](regression-dt-wel-lower-than-bl.md) — possibly the same claim (merge candidate)
+- [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](blended-higher-final-statistics-score.md) — related

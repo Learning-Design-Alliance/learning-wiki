@@ -55,3 +55,4 @@ Prediction-interval diagnostic reported alongside the primary synthesis. The art
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
 - [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](tablet-performance-effects-robust.md) — related
 - [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](5e-science-effect-heterogeneity.md) — a narrower finding that bears on this claim
+- [Individual gains in skills and knowledge were highly heterogeneous, ranging from 13% to 48%](individual-gain-heterogeneity-13-48-percent.md) — a narrower finding that bears on this claim

@@ -73,3 +73,4 @@ The review attributes this meta-analysis, pooling three studies with 59 particip
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
 - [Virtual reality simulator performance has limited correlation with intraoperative robotic hysterectomy performance.](weak-correlation-vr-simulator-intraoperative-performance.md) — related
 - [A systematic search identified six studies of performance metrics for robotic hysterectomy, revealing a lack of standardized and validated metrics specific to the procedure.](robotic-hysterectomy-metrics-systematic-review-six-studies.md) — related
+- [Content validity was validated in only one simulator, for training of emergency procedures](ips-content-validity-single-simulator.md) — related

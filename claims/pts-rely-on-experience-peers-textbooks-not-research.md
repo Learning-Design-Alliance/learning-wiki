@@ -51,3 +51,4 @@ Survey results on sources used for clinical decision-making among the 381 respon
 - [Vietnamese physical therapists read professional literature infrequently, with 41% reading fewer than two articles per month](infrequent-reading-of-professional-literature-vietnam-pts.md) — related
 - [Vietnamese physical therapists report a positive attitude toward EBP, with 80–90% agreeing it is necessary, useful, and improves patient care](vietnamese-pts-positive-attitude-toward-ebp.md) — related
 - [Younger and less-experienced Vietnamese physical therapists report less EBP knowledge and are more likely to view EBP as an unreasonable demand](younger-therapists-less-ebp-knowledge-unreasonable-demand.md) — related
+- [Self-reported EBP tool use is moderate: 53.1% read 2-5 articles monthly and 39.7% searched PubMed/MedLine 2-5 times per month](colombian-pts-moderate-ebp-tool-use.md) — related

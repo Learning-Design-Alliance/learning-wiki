@@ -77,3 +77,5 @@ Theme 3 (professional identity) of the qualitative analysis. Students reported s
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
 - [Managers describe a gap between practical skills learned in nursing education and the situations encountered in working life](education-work-gap-practical-clinical-skills.md) — related
 - [Patients who underwent the Practical Life Room intervention reported feeling more prepared and confident to execute activities of daily living](patient-reports-better-prepared-after-intervention.md) — related
+- [A committed professional subgroup inspired less-motivated colleagues and triggered self-efficacy through shared learning spaces](committed-subgroup-inspires-colleagues.md) — related
+- [SPs feel well prepared for their first student teaching assignment but fear privacy invasion and inauthentic examination situations](sp-dre-assignment-privacy-authenticity-fears.md) — related

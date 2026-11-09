@@ -55,6 +55,7 @@ The authors recommend embedding nutrition-related competencies across the whole 
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 - [Ground physician counseling curricula in theory with central experiential learning, start early, and strengthen nutrition and exercise instruction](wmc-curricula-experiential-early-nutrition-instruction.md)
+- [Incorporate the CAI into master's nutrition curricula for clinical reasoning practice](incorporate-cai-into-nutrition-curriculum-strategy.md)
 
 ## Examples
 -

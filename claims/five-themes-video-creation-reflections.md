@@ -47,3 +47,4 @@ Qualitative thematic analysis of reflective narratives from participants in the 
 ## Related Claims
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
+- [Peer leaders attribute critical thinking change to interacting with others, utilizing different approaches to learning, and problem solving](peer-leaders-attributed-ct-factors-three-themes.md) — related

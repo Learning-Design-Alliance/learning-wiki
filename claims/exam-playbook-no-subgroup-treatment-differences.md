@@ -62,3 +62,5 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [Preferences for visual, written, or board-exam-oriented e-learning resources did not differ significantly by gender, year, GPA bracket, background, or research participation](no-demographic-differences-elearning-preferences.md) — related
 - [In an upper-division TBL biochemistry course, student gender, historically marginalized status, and generational status did not statistically explain differences in exam performance.](tbl-demographics-not-explain-exam-performance.md) — related
 - [Exam question format (percentage of constructed-response questions) does not differentially affect male and female students of equal prior academic ability in introductory biology](exam-format-no-gender-differential-intro-biology.md) — related
+- [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related
+- [No significant interaction between section type (hybrid vs. traditional) and ethnicity or class standing on final scores](no-interaction-section-type-ethnicity-standing.md) — a narrower finding that bears on this claim

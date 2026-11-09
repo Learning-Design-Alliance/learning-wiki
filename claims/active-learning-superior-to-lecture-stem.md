@@ -54,3 +54,4 @@ The review reports, citing Freeman et al. 2014, a meta-analysis of 225 studies o
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](pogil-small-achievement-effect.md) — related
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
+- [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — possibly the same claim (merge candidate)

@@ -53,3 +53,4 @@ Multifaceted Rasch model analysis of item ratings; the article reports that seve
 - [Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used](map-k2-fit-findings-sample-invariant.md) — related
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [The 2003 Puerto Rico assessment data showed problems with item misfit](item-misfit-problems-2003-puerto-rico-data.md) — related
+- [After stepwise removal of misfitting items, the reduced 54-item pool shows no significant misfit to the Rasch unidimensional model](rasch-fit-reduced-54-item-pool.md) — related

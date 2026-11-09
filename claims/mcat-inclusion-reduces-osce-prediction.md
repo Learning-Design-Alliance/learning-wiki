@@ -54,3 +54,4 @@ Retrospective cohort analysis of 349 admitted students. Pearson correlations com
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
 - [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
+- [Total pre-admission public performance score shows no linear correlation with overall first-OSCE results](total-performance-score-no-linear-correlation-osce.md) — related

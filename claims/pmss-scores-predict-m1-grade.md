@@ -68,3 +68,4 @@ Separate linear regression analyses for T1 (Nagelkerkes R2 = .115) and T2 (R2 = 
 - [Bivariately, poorer M1 grades correlate moderately with lower school performance and higher age at enrolment, and M1 performance differs across admission quotas](bivariate-m1-correlates-and-route-differences.md) — related
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
 - [Perceived Medical School stress increases significantly between the end of freshman year and the end of sophomore year, a potential window for stress-management interventions](pmss-stress-increases-freshman-to-sophomore.md) — related
+- [Deep approach and perceived stress did not significantly predict progress test scores](deep-approach-stress-null-predictors-pt.md) — related

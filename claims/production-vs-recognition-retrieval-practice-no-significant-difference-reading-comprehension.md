@@ -65,3 +65,4 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — a narrower finding that bears on this claim
 - [Most students (68.9%) found the practice tests beneficial for learning, with no perceived difference between VSAQ- and MCQ-practiced content](students-rate-practice-tests-beneficial.md) — related
 - [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](vsaq-lower-initial-retrieval-success.md) — related
+- [Multiple-choice, short-answer, and hybrid retrieval-practice formats all improve delayed-test performance relative to no retrieval (review-reported)](multiple-formats-retrieval-practice-effective.md) — related

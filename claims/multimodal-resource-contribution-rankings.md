@@ -54,3 +54,4 @@ Survey of 149 novice veterinary students rating five preparatory resource catego
 - [Clinical skills requiring visual and auditory training can be effectively taught using digital tools](visual-auditory-skills-suit-digital-teaching.md) — related
 - [Video materials preferentially promote clinical skill acquisition over written materials](video-materials-better-skill-acquisition-than-written.md) — related
 - [The authors argue that instructional videos are a contribution to animal welfare by reducing the use of live animals in undergraduate veterinary education](instructional-videos-animal-welfare-contribution.md) — related
+- [Participants perceived video as well-suited to displaying clinical procedures, though this was not tested by the intervention](vp-pbl-video-suited-procedures-perception.md) — related

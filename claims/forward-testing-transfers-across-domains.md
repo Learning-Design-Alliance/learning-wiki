@@ -46,3 +46,4 @@ The review reports Yang et al.'s Experiment 3 in which two groups studied three 
 
 ## Related Claims
 - [In inductive learning, interim testing of studied category exemplars enhances learning and retention of new categories](forward-testing-inductive-learning.md) — related
+- [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — related

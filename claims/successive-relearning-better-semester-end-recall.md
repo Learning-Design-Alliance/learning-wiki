@@ -50,3 +50,4 @@ The article's abstract reports the outcome of the semester-long within-participa
 - Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — a broader claim this one bears on
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related
+- [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — related

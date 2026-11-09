@@ -55,3 +55,5 @@ Cross-sectional questionnaire study of 39 medical students and 25 otolaryngologi
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Trainees reported high satisfaction with SimLife on learning ease, anatomic fidelity, realism and overall satisfaction](simlife-high-trainee-satisfaction.md) — related
 - [Surgeons and residents rate the LABOT simulator highly for realism and training usefulness](labot-high-face-and-content-validity-ratings.md) — related
+- [Experts rate a web-based otoscopy simulator as an acceptably realistic representation of ear anatomy (face validity)](ototrain-face-validity-expert-survey.md) — related
+- [Experts identify lack of haptic feedback, limited pneumatic otoscopy, and few rare pathologies as the simulator's primary drawbacks](ototrain-qualitative-drawbacks.md) — related

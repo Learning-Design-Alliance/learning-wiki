@@ -70,3 +70,4 @@ All possible male-female pairings were compared (e.g., 11,067 pairs in the major
 - [Item position within a strand showed no significant gender achievement differences on constructed-response explanation tasks](no-gender-difference-item-position.md) — related
 - [On oral explanation tasks, males used more KCs for animal-taxa items (d = −0.40), and females had significantly more difficulty with the Opossum trait-loss item (d = 0.67)](oral-explanation-gender-dif-opossum.md) — related
 - [Female final-year nursing students scored higher than male students on both competence and (reversed) error tendency (Partial η² = 0.143)](gender-differences-competence-error-tendency.md) — related
+- [Only one survey item showed a gender difference: females ranked prioritizing concepts to review more positively than males (97.8% vs 84.4%, p = 0.030).](gender-difference-prioritize-concepts-item.md) — related

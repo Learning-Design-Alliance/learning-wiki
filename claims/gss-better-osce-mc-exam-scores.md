@@ -51,3 +51,4 @@ Intention-to-treat analysis of first-semester exam scores for the randomized G-S
 - [Exposure fidelity was achieved (all six 90-minute sessions delivered) and program differentiation showed no duplication of regular curriculum content](gss-exposure-and-differentiation-fidelity.md) — related
 - [Simulation-based online ultrasound training produces theoretical and practical outcomes comparable to traditional on-site instruction in physiotherapy students](simulation-online-ultrasound-training-comparable-outcomes.md) — related
 - [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related
+- [More SDL sessions attended was associated with higher OSCE performance only for first-year basic life support and second-year phlebotomy](sdl-session-count-correlations-bls-phlebotomy.md) — related

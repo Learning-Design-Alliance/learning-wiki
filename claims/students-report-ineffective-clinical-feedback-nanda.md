@@ -58,3 +58,4 @@ In the same qualitative interview study, students reported variability in feedba
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Students and instructors perceive SBE as an effective strategy for concurrent supervision, feedback, and assessment of clinical knowledge and skills](sbe-supervision-assessment-strategy.md) — related
 - [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related
+- [Tutor implementation variability was the most common barrier to the blended learning approach, and didactic teaching was perceived as promoting only superficial learning](tutor-implementation-barrier-bl-ebm.md) — related

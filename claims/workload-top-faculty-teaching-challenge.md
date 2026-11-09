@@ -54,3 +54,4 @@ Open-ended survey responses from 1177 faculty across 11 faculties were coded wit
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
 - [Time was the most pervasive resource barrier, identified by two-thirds of studies](time-barrier-two-thirds-pal-studies.md) — related
+- [Faculties cite proven effectiveness, relief of medical teachers, development of practical teaching and exam preparation as main motives for PAL implementation](pal-implementation-motives-survey.md) — related
