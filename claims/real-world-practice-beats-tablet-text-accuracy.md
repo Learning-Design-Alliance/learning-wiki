@@ -50,3 +50,4 @@ Repeated-measures ANOVA (3 training-type x 2 time) on accuracy in a 36-subject w
 - [Real-world and tablet training produce faster instrument hand-off than text study, and the real-world speed advantage disappears after one week](response-time-advantage-vanishes-at-delay.md) — related
 - [Tablet-based simulation and text-based study produce statistically equivalent identification accuracy](tablet-text-equivalent-accuracy.md) — related
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
+- [Instrument identification errors on the PeriopSim Instrument Trainer dropped significantly only by the third training session](instrument-trainer-error-decline.md) — related

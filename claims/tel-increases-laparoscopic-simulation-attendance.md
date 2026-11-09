@@ -49,3 +49,4 @@ Prospective cohort study of 40 randomly allocated medical students over a ten-we
 - [Both TEL and control groups improved significantly in thread transfer time from beginning to end of the program, with no between-group difference](thread-transfer-improvement-both-groups.md) — related
 - [Students in the laparoscopic simulation program identified four themes in their learning experience: personal traits and motivation, training context, clear goals, and feedback enabling understanding of one's own performance](four-themes-laparoscopic-simulation-experience.md) — related
 - [Test-enhanced learning produced no significant difference on the end-of-year neuroanesthesia exam of first-year residents](tel-no-effect-end-of-year-neuroanesthesia-exam.md) — related
+- [The word 'enhanced' in 'technology-enhanced learning' implies a value judgement, making the term problematic though worth retaining with care](tel-enhanced-implies-value-judgement.md) — related

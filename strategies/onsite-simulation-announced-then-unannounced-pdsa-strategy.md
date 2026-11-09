@@ -54,6 +54,7 @@ The article's implementable training recipe is simulation training using Plan-Do
 - [Use in-situ simulation within a PDSA cycle to gather real-time user feedback and iteratively refine a new clinical protocol](insitu-sim-pdsa-protocol-refinement.md)
 - [Deliver in situ simulation including all staff, with repeated low-time-cost equipment familiarisation sessions](all-staff-in-situ-simulation-equipment-familiarisation-strategy.md)
 - [Plan unannounced in situ simulation with management support, cancellation rules, replacement staff, and simulation-only labelling of equipment](unannounced-iss-planning-strategy.md)
+- [Establish a viable simulation training site by first identifying trainee groups and course lists, then designing the environment conservatively within budget](establish-airway-simulation-site-stepwise.md)
 
 ## Examples
 -

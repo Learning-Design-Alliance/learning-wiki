@@ -71,3 +71,4 @@ Within-cluster repeated measures ANOVA on plaque index: "a significant improveme
 - [In the same trial, the Leaflet cluster had significantly lower plaque index scores than the E-learning cluster at 6 and 12 weeks.](leaflet-cluster-lower-plaque-index.md) — related
 - [E-learning shows no significant overall effect on gingival index compared with conventional oral health education](e-learning-no-effect-gingival-index.md) — related
 - [In a cluster-randomized trial among Syrian schoolchildren aged 10–11, the leaflet cluster achieved significantly better oral health knowledge than the E-learning cluster at 6 and 12 weeks, with a higher knowledge gain.](leaflet-cluster-better-knowledge-than-e-learning.md) — related
+- [One-time OHE produced significant but limited improvements: knowledge and gingivitis-prevention behavior improved but oral cancer prevention behavior and oral hygiene status did not](one-time-ohe-limited-effects.md) — related

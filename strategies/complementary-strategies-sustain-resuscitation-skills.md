@@ -55,6 +55,7 @@ Because knowledge and skills declined significantly within about two years of co
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 667 claims (355 show a difference, 153 mixed, 159 no difference) · 473 studies (243 associational, 169 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 473 report an effect size · 659 claims rest on one study
+> **Evidence** · 669 claims (356 show a difference, 153 mixed, 160 no difference) · 475 studies (244 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 67 of 475 report an effect size · 661 claims rest on one study
 
 ## How to read this page
 
@@ -706,6 +706,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Girls and boys differ substantially in A-level subject choices (e.g. biology 63% girls vs 37% boys; physics 23% girls vs 77% boys) but not much in A-level results](../claims/sex-differences-in-subject-choice-not-achievement.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Students' self-rated skill, confidence and comfort for male genital examination were particularly low before the programme and rose more than for female examination, reaching similar levels afterwards, in a single-group pre-post survey](../claims/male-exam-ratings-lowest-pre-improved-more.md) [+M] — an instructional effect differs by group
 - [Sex-matched examination pattern: female students performed more female intimate-area examinations and male students more male ones](../claims/sex-matched-iae-experience-pattern.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Item position within a strand showed no significant gender achievement differences on constructed-response explanation tasks](../claims/no-gender-difference-item-position.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

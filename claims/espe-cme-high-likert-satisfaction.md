@@ -74,3 +74,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — a narrower finding that bears on this claim
 - [Students evaluated the online EBP modules positively, reporting new learning and future practice relevance](positive-student-evaluations-ebp-modules.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
+- [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related

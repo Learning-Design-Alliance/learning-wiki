@@ -49,3 +49,4 @@ Blinded grading of students' class II amalgam procedures by 2 instructors using 
 - [Live demonstrations yield higher postdemonstration knowledge than prerecorded video demonstrations in first-year dental students learning a class II amalgam restoration](live-demo-beats-video-demo-postknowledge-dental.md) — related
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
 - [Adding procedure-specific educational videos to live demonstration improves preclinical operative dentistry competence in second-year dental students](video-plus-live-demonstration-improves-preclinical-dental-competence.md) — related
+- [Procedural video and live demonstration produce equivalent blind-assessed Adam's Clasp fabrication scores in fourth-year dental students](procedural-video-equivalent-live-demonstration-adams-clasp.md) — related

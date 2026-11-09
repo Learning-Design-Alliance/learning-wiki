@@ -52,3 +52,5 @@ Single-center randomized open-label superiority trial of internal medicine resid
 - [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related
 - [Over seven years the expertise reached by peer tutors and peer learners was generally satisfactory](seven-year-satisfactory-expertise-pts-pls.md) — related
+- [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — related
+- [Intervention and control groups had equivalent clinical exposure during the 2 months before assessment](equal-clinical-exposure-between-groups.md) — related

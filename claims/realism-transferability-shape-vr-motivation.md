@@ -58,3 +58,4 @@ Authors' interpretive finding from the interview data (Theme 3, Recognizing one'
 - [Training did not enhance perceived preparedness for CB-EMS operations, and transferability of training content was ranked lower after training](preparedness-and-transfer-not-enhanced.md) — related
 - [All interns evaluated the patient experience simulation positively, citing realism and role modeling as strengths, and unanimously supported repeating it](interns-valued-simulation-realism-role-modeling.md) — related
 - [Debriefing and reflective learning were perceived to change mindsets and transfer to clinical practice, including new ward morning reports](debriefing-reflection-transfer-pph-training.md) — related
+- [Debriefing is viewed by ISS and OSS participants as a central, exceedingly positive factor for ensuring learning and facilitating transfer to clinical practice](debriefing-central-positive-factor-learning.md) — related

@@ -67,6 +67,7 @@ Structured discussion converts discussion from an unguided activity into a scaff
 - [Active Listening](active-listening.md) — the individual skill that structured discussion routines train and depend on
 - [Acting/Role-Play](acting-role-play.md) — an alternative structure that assigns perspectives to discuss from
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
+- [Structure in-class peer-discussion activities purposefully to promote equitable participation](structure-peer-discussions-for-equity.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core element these techniques structure

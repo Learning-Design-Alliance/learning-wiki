@@ -76,3 +76,4 @@ In Theme 3, trainees requested multiple scenarios per simulator, consequences fo
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
 - [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related
 - [High-quality manikins and bespoke surgical models engaged all disciplines, including surgeons, in in situ simulations](high-fidelity-models-engage-all-disciplines.md) — related
+- [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related

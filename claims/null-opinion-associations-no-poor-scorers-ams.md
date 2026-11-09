@@ -50,3 +50,4 @@ Chi-square analyses in the 160-student cross-sectional survey. The study reports
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
 - [Gender and marital status are significantly associated with AMS knowledge scores, and marital status with attitude scores, among clinical dental students in southern Nigeria](gender-marital-status-associated-ams-knowledge-dental-students.md) — reports the opposite
 - [Multivariate regression identifies male gender, single marital status, minority ethnicity and 600 level as significant predictors of AMS knowledge, and male gender of opinions](regression-predictors-ams-scores-dental-students.md) — reports the opposite
+- [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related

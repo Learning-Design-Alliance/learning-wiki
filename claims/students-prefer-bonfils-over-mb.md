@@ -1,0 +1,54 @@
+---
+type: claim
+title: Most novice students prefer the Bonfils fibrescope over the Macintosh blade after simulated training
+description: Most novice students prefer the Bonfils fibrescope over the Macintosh blade after simulated training
+id: students-prefer-bonfils-over-mb
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-09
+evidence_strength: moderate
+newest_evidence: 2016
+sources:
+  - id: limbach-t-2016
+    resource: "https://doi.org/10.1186/s13104-016-1937-2"
+    title: "Limbach T, Ott T, Griesinger J, Jahn-Eimermacher A, Piepho T. (2016). Bonfils intubation fibrescope: use in simulation-based intubation training for medical students in comparison to MacIntosh laryngoscope. BMC Research Notes 9:127. https://doi.org/10.1186/s13104-016-1937-2"
+    author: Limbach T, Ott T, Griesinger J, Jahn-Eimermacher A, Piepho T.
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Most novice students prefer the Bonfils fibrescope over the Macintosh blade after simulated training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` 66% of the 150 participants (99 students) preferred the Bonfils, versus 34% (51) preferring the MB. [→ Limbach T 2016](#limbach-t-2016)
+
+## Evidence
+
+### Limbach T 2016
+
+Limbach T, Ott T, Griesinger J, Jahn-Eimermacher A, Piepho T. (2016). Bonfils intubation fibrescope: use in simulation-based intubation training for medical students in comparison to MacIntosh laryngoscope. BMC Research Notes 9:127. https://doi.org/10.1186/s13104-016-1937-2
+
+`q3 · i?` · `causal · r2`
+
+After completing all eight trials, each of the 150 students stated a technique preference: "99 (66 %) preferred using a Bonfils". Mean school-grade ratings were 1.9 for the MB and 2.2 for the Bonfils (1 best to 6 worst).
+
+> "A total of 51 (34 %) of the participants preferred using an MB, whereas 99 (66 %) preferred using a Bonfils."
+
+## Discussion
+
+
+## Related Claims
+- [Female students tend to be slower and less successful with the Bonfils but not with the Macintosh blade in simulated intubation](bonfils-gender-differences-novice-training.md) — related
+- [Simulated tooth damage is more frequent with the Macintosh blade than with the Bonfils fibrescope in novice intubation training](mb-more-simulated-tooth-damage-than-bonfils.md) — related
+- [Across all four simulated intubation trials, the Macintosh blade yields higher success probability within 90 s than the Bonfils fibrescope in novice students](mb-higher-success-probability-than-bonfils.md) — related
+- [The Bonfils fibrescope shows a steeper learning curve than the Macintosh blade over four simulated trials in novices](bonfils-steeper-learning-curve-manikin.md) — related
+- [The Bonfils fibrescope gives better-quality glottic visualisation than the Macintosh blade in novice simulated intubation](bonfils-better-cormack-lehane-views.md) — related
+- [Students visualise the glottis faster with the Macintosh blade than with the Bonfils fibrescope in simulated intubation](mb-faster-glottis-visualisation-than-bonfils.md) — related
+- [After four simulated intubation trials, final-year medical students achieve successful ventilation in similar time with the Macintosh blade and the Bonfils fibrescope](mb-bonfils-similar-time-successful-ventilation-trial4.md) — related

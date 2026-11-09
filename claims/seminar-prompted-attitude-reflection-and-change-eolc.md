@@ -53,3 +53,4 @@ Dichotomous questions plus free-text qualitative content analysis in the follow-
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Experiential learning opportunities supported nursing students' clarification of their own values about death and dying and their respect for others' values](value-clarification-death-dying-experiential.md) — related
 - [Workshop participants showed specific palliative-care and legal knowledge gaps: most would not use opioids for dyspnea, only half knew the Dying Patient Act requires family support, and about 20% reported performing slow codes](eol-staff-knowledge-gaps-survey.md) — related
+- [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related

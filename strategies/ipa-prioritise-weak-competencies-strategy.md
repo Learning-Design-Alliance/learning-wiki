@@ -45,7 +45,8 @@ The article recommends that instructors use IPA to map students' perceived impor
 - [Nursing students at medical centres report larger importance–performance gaps in total score than students at district hospitals](../claims/medical-centre-larger-total-gap-than-district-hospital.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Target high-importance, low-preparedness procedures for curricular interventions, with simulation as a promising modality](target-gap-procedures-curricular-interventions-simulation.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Observational and debrief data showed classroom facilitators gave tailored commu
 - [Skills practised diverge by setting: classroom covers a broad range, clinical encounters focus on information-gathering and relationship-building, OSCEs compress into rushed information-gathering and explanation](skill-focus-diverges-classroom-clinical-osce.md) — related
 - [Fourth-year medical students' overall communication performance did not differ significantly across classroom, clinical and OSCE settings](overall-communication-performance-no-difference-across-settings.md) — related
 - [Skills for understanding the patient's perspective were performed far less in clinical and OSCE settings than in the classroom](patient-perspective-skills-rare-clinical-osce.md) — related
+- [Feedback on assessment results was mostly limited to overall results, and no feedback model has standardised practice](dach-assessment-feedback-limited.md) — related

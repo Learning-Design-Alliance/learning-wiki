@@ -89,3 +89,4 @@ Thematic analysis found perceived hierarchies between medical and nursing studen
 - [In an interprofessional needs assessment, all 32 learners showed significant self-efficacy improvements and feedback redirected the simulation toward early-career medical students](needs-assessment-32-learners-self-efficacy.md) — related
 - [Uneven team ratios and late integration of physiotherapy students into established medical teams hindered interprofessional contributions](uneven-team-ratio-hindered-physio-contribution.md) — a narrower finding that bears on this claim
 - [Lower simulation fidelity led to discovery of system-level gaps in practice in some instances](lower-fidelity-reveals-practice-gaps.md) — related
+- [Physiotherapy students report knowledge gaps in practical application of interdisciplinary approaches and in developing physiotherapy management plans for chronic conditions](physiotherapy-students-interdisciplinary-practice-knowledge-gaps.md) — related

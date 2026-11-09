@@ -44,6 +44,7 @@ The article recommends integrating problem-solving tasks into examinations becau
 ## Related Strategies
 
 - [Use long-menu questions in the final years of the curriculum, within key-feature problems, to assess clinical reasoning and patient management skills](long-menu-key-feature-final-years-strategy.md)
+- [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 
 ## Examples
 -

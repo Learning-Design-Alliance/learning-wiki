@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-09
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three individual studies in other postgraduate specialties (the review's references 26–28) concluded that problem-based learning appeared more effective than traditional teaching for improving performance, that PBL was associated with higher scores across multiple skill domains, and that CBL increased knowledge and confidence, though the latter was a non-significant trend; two systematic reviews published since 2022 assessed the quality of the RCTs in this field. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

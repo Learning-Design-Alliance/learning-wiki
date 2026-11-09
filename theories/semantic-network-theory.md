@@ -17,7 +17,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 13 studies (7 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 14 studies (8 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.
@@ -53,6 +53,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 - [Total scores were highly significant in favour of the concept map method group (64.4% vs 49.4%)](../claims/concept-map-total-scores-highly-significant.md) [+W] — attached 2026-11-01 from Tamara Mohd Altabieri Krishan (2017), which proposed "Concept maps as graphical tools for organizing and representing knowledge".
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](../claims/concept-mapping-meta-analysis-turkish-academic-success.md) [+W] — attached 2026-11-02 from Yavuz Erdoğan (2016), which proposed "Concept mapping rests on Ausubel's meaningful learning theory, in which new concepts are accommodated with existing cognitive structure".
 - [Written text and concept maps represent different structural and semantic content](../claims/written-text-and-concept-maps-represent-different-content.md) [+W]
+- [PBL students score higher than LBL students on concept relationships, hierarchy levels, and cross linkages in concept maps](../claims/pbl-higher-concept-map-structure-scores.md) [+W] — attached 2026-11-09 from Hung Chia-Hui (2015), which proposed "Ausubelian meaningful learning theory: integrative reconciliation and progressive differentiation as mechanisms of knowledge-structure growth".
 
 ## Related Theories
 

@@ -51,3 +51,4 @@ Exploratory two-sample t-tests on OSAUS subcategory changes in the randomized tr
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
 - [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
 - [The simulator-trained group reports a significantly higher subjective competency gain in pathology recognition than the human-trained group](fatesim-subjective-pathology-gain-higher-simulator-group.md) — related
+- [Simulation training improved most OSAUS subskills but showed no difference in equipment knowledge](osaus-item-level-simulation-effects.md) — related

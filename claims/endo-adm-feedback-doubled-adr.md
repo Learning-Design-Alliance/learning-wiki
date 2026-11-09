@@ -50,3 +50,4 @@ Randomized pretest-posttest trial: 16 endoscopists assigned to feedback or contr
 - [Endo.Adm feedback increased colonoscopy withdrawal time but did not significantly improve cecal intubation rate](endo-adm-feedback-withdrawal-time-not-cir.md) — related
 - [Endo.Adm feedback raised gastroscopy detection of gastric precancerous conditions from 3% to 7% while the control group declined](endo-adm-feedback-gpc-detection.md) — related
 - [Photodocumentation completeness improved in both feedback and control groups, but gastroscopic inspection time did not improve in either](endo-adm-photodoc-improved-inspection-time-not.md) — related
+- [Adenoma detection rate was higher in the educated ward, but the difference lost significance after excluding referred neoplasia patients](nurse-education-adenoma-detection-rate-mixed.md) — related

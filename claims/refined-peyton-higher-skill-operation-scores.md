@@ -57,3 +57,4 @@ Cohort comparison of 57 RP residents (2022 intake) with 59 TTM residents (2021 i
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related
 - [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](peyton-four-step-superior-ospe-spinal-manipulation.md) — related
+- [Simulation-based TVS training before clinical training yields higher clinical performance on real patients 2 months into residency than clinical training alone](simulation-tvs-training-sustained-clinical-performance.md) — related

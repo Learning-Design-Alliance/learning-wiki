@@ -55,3 +55,4 @@ Hierarchical multiple regression analyses on the TMS and HAM-Nat samples control
 - [HAM-Nat predictive validity after correction for indirect range restriction is r = .31, with incremental validity over PEA](ham-nat-corrected-predictive-validity-r31.md) — related
 - [Curriculum-sampling test scores show substantial incremental validity over high school GPA, with the combination explaining 37% of first-year and 49% of third-year GPA variance](curriculum-sampling-incremental-validity-over-hsgpa.md) — related
 - [None of the pre-admission variables predicts progress test performance in preclinical years](no-preadmission-variable-predicts-progress-test.md) — related
+- [Predictive validity of the trial-studying test does not differ significantly from that of high school mean grades for first-year performance measures](trial-studying-predictive-validity-equals-high-school-grades.md) — related

@@ -80,3 +80,4 @@ The review reports, citing Schellings (2011) and Van Hout-Wolters & Schellings (
 - [The strength of the relationship between metacognitive measures and academic achievement depends on the operationalisation, with think-aloud protocols correlating highly and self-report questionnaires weakly](protocol-type-moderates-metacognition-achievement-link.md) — possibly the same claim (merge candidate)
 - [Third-party measures of teamwork yield significantly larger training effects than self-report measures](third-party-measures-larger-effects-than-self-report.md) — related
 - [General and source-specific stress mindsets are only weakly correlated, indicating mindsets vary across sources of stress](general-and-source-specific-mindsets-weakly-correlated.md) — related
+- [Metacognitive dimensions correlate weakly with academic results at the start of the year](weak-correlation-metacognition-results-start.md) — related

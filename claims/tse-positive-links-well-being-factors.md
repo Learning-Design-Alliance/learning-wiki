@@ -52,3 +52,4 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related
 - [Teaching self-efficacy and perceived teacher competence mediate the P-O fit–job satisfaction link independently and as a chain](chain-mediation-fit-efficacy-competence-satisfaction.md) — related
 - [Teaching self-efficacy positively predicts perceived teacher competence and job satisfaction](self-efficacy-predicts-competence-satisfaction.md) — a narrower finding that bears on this claim
+- [Allowing cross-loadings in ESEM did not change the correlations between TSES dimensions and external constructs](cross-loadings-no-effect-external-relations.md) — related

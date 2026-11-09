@@ -51,6 +51,7 @@ The authors recommend that future research "should incorporate these metrics to 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Incorporate institution-level benchmarking, collaboration process measures, and delayed or performance-based assessments in future CBLC evaluations](cblc-future-evaluation-strategy.md)
 - [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
+- [Target high-importance, low-preparedness procedures for curricular interventions, with simulation as a promising modality](target-gap-procedures-curricular-interventions-simulation.md)
 
 ## Examples
 -

@@ -86,3 +86,4 @@ Discussion-level interpretation of the document-analysis frequency data: journal
 - [Postgraduate curricula at SCFHS show significant discrepancies in educational-activity terminology and methods across programs](scfhs-curricula-ea-terminology-discrepancies.md) — a broader claim this one bears on
 - [Inductive content analysis of the curricula yielded four EA themes and 10 subthemes, including inconsistent labelling of the same activities](four-themes-ten-subthemes-ea-analysis.md) — related
 - [EA profiles differ by certification level, with fellowships showing greater emphasis on scholarly engagement and reflective practice](ea-variation-by-program-level.md) — related
+- [Examiner training was the most frequently used quality-assurance measure, but practices varied widely across programmes](dach-examiner-training-quality-assurance.md) — related

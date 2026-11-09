@@ -49,3 +49,4 @@ Cost-effectiveness analysis (Table 6) totaling SI leaders', coordinators', train
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
 - [The ANZMSC has a total set-up cost of $7,998.91 AUD and a maintenance cost of approximately $36,347.50 AUD per course.](anzmsc-setup-and-maintenance-costs.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

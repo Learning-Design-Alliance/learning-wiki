@@ -49,3 +49,4 @@ From the same 26 paired observations on the inpatient teaching services, Spearma
 - [Most interns (89%, 25 of 28) reported they would change their next consultation request based on resident feedback](interns-make-changes-after-structured-feedback.md) — related
 - [Most interns (90%, 18 of 20) found resident feedback somewhat or very helpful for improving future consult calls](interns-rate-resident-feedback-helpful.md) — related
 - [Interns and residents disagreed on supervision level needed: 77% of interns felt they needed no supervision versus 35% of residents saying so](supervision-level-self-assessment-discrepancy.md) — related
+- [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related

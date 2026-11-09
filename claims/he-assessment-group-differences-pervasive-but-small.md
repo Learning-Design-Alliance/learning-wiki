@@ -53,3 +53,4 @@ Authors' interpretation of the full set of regression analyses across the twelve
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Reduction in group performance differences after anonymous marking appeared equally in oral examinations, which could not have benefited from it](oral-exam-parallel-reduction-anonymous-marking.md) — a narrower finding that bears on this claim
+- [Achievement gaps (gender, racial, class year, math background) were smaller at the end of the course than before it, based on a pre-test/post-test comparison within the course](course-tended-to-reduce-achievement-gaps.md) — related

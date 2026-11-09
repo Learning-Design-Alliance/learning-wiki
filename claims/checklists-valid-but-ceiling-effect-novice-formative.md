@@ -55,3 +55,4 @@ The review's narrative synthesis of checklist studies (20 studies used task-spec
 - [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — reports the opposite
 - [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related
 - [In its current form the four-item scale may not adequately differentiate students with poor communication skills from those who perform better](cs-scale-poor-differentiation-low-performers.md) — related
+- [A conventional checklist is more accurate than an error-focused checklist at identifying procedural competence](conventional-checklist-identifies-competence-lp.md) — related

@@ -102,3 +102,7 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [Feedback-device recordings showed compression depth and ventilation volume fell short of guideline targets despite otherwise high completion rates](feedback-device-cpr-quality-metrics.md) — related
 - [Students who received a practical test with feedback report higher confidence and self-rated knowledge after CPR training than students with training only](cpr-test-feedback-higher-confidence-self-rated-knowledge.md) — related
 - [Peers rate school children more strictly than professionals on three specific BLS items](peers-rate-bls-items-more-strictly-than-professionals.md) — related
+- [In an intention-to-treat analysis, lowering the bed and pre-positioning a step stool did not significantly increase mean chest compression depth compared to control](bed-lowering-step-stool-intervention-null-compression-depth.md) — related
+- [Practice frequency between assessments is associated with the size of CPR improvement across sites](practice-frequency-associated-with-cpr-improvement.md) — related
+- [Real-time objective feedback during manikin training significantly improves adult CPR performance in pre-hospital EMS providers](real-time-feedback-improves-adult-cpr-performance.md) — a narrower finding that bears on this claim
+- [Real-time objective feedback significantly improves infant CPR performance, with a larger improvement than for adult CPR](real-time-feedback-improves-infant-cpr-performance.md) — a narrower finding that bears on this claim

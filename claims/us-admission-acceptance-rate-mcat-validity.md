@@ -68,3 +68,4 @@ Narrative review section on US admissions, attributing this finding to cited stu
 - [MCAT-inclusive composites eliminate predictive validity for final-year grades among bottom-tertile students](mcat-bottom-tertile-predictive-validity-eliminated.md) — related
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
+- [Personality differences between admission groups are statistically significant but small, likely because the applicant pool is homogeneous](small-personality-differences-homogeneous-applicant-pool.md) — related

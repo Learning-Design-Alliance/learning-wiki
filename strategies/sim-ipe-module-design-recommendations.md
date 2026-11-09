@@ -60,6 +60,7 @@ Participants and faculty proposed concrete design features: dedicated simulation
 - [Simulate the actual ED's resource constraints, including realistic delays for lab and radiology results](simulate-local-resource-constraints.md)
 - [Expand the simulation to an interprofessional audience by adding profession-specific content, faculty, and adjusted assessments](interprofessional-expansion-med-rec-simulation-strategy.md)
 - [Promote interprofessional cooperation during undergraduate medical studies through combined courses with trainees and students of other medical care professions](combined-interprofessional-courses-undergraduate-medical.md)
+- [Combining podcast lectures and simulator training to deliver ultrasound education where local expertise or equipment is lacking](podcast-simulator-combination-for-resource-limited-ultrasound-training.md)
 
 ## Examples
 -

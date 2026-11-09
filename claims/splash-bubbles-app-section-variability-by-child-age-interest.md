@@ -75,3 +75,4 @@ Interview data illustrating how families utilized Ocean Guide components differe
 - [The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children](component-usefulness-varies-by-child-age.md) — a narrower finding that bears on this claim
 - [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — related
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — related
+- [Cognitive acceptability of the game is significantly higher for parents of younger children](cognitive-acceptability-higher-younger-children.md) — related

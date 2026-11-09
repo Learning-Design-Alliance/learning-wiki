@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (31 for, 38 mixed, 2 against) · 71 studies (18 design, 15 causal, 13 associational, 11 review, 9 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 71 report an effect size · 66 claims rest on one study
+> **Evidence** · 73 claims (33 for, 38 mixed, 2 against) · 72 studies (19 design, 15 causal, 13 associational, 11 review, 9 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 4 of 72 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,8 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [A thematic analysis of an experts' symposium identified nine major suggestions for improving communication-competencies assessment in high-stakes OSCEs, classified into four areas](../claims/symposium-nine-suggestions-communication-osce.md) [+W] — attached 2026-11-08 from Monti Matteo et al. (2020), which proposed "Adapt raters' training to communication-focused OSCE stations and keep rating scales simple and intuitive".
 - [Using a codebook alongside the OS-12 assessment tool yields good interrater reliability (ICC 0.74) for the overall score of audio-recorded clinical consultations](../claims/os12-codebook-interrater-reliability-icc-074.md) [+W] — attached 2026-11-08 from Iversen Else Dalsgaard et al. (2020), which proposed "Codebook pattern: operationalizing a crude 5-point rating scale into described micro-skills with point-allocation criteria per item".
 - [International expert consensus identified nine PBLS and eight FBAOM assessment items as essential for assessing laypersons' skills](../claims/delphi-consensus-pbls-fbaom-assessment-items.md) [+W] — attached 2026-11-09 from Hasselager AB et al. (2018), which proposed "Assess laypersons' resuscitation skills to enable competency-based rather than time-based training".
+- [Contrasting-groups pass/fail standards were established for both simulator tests with overlapping-score consequences of one misclassified participant each](../claims/contrasting-groups-pass-fail-standards-colonoscopy.md) [+W] — attached 2026-11-09 from Preisler Louise MD et al. (2015), which proposed "Use validated simulation-based pass/fail standards to establish basic competency before trainees practice colonoscopy on patients".
+- [Two cases per test are needed to reach adequate reliability on both simulator models for certification purposes](../claims/two-cases-needed-colonoscopy-simulator-reliability.md) [+W] — attached 2026-11-09 from Preisler Louise MD et al. (2015), which proposed "Use validated simulation-based pass/fail standards to establish basic competency before trainees practice colonoscopy on patients".
 
 ## Objective and learner-valued goal
 

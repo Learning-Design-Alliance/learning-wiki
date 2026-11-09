@@ -53,3 +53,4 @@ PRISMA-ScR-guided scoping review searching Ovid-MEDLINE, Ovid-EMBASE, and the Co
 - [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](experiential-learning-greatest-impact-geriatric-dentistry.md) — related
 - Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines — related
 - [Research training appears in 76.2% of curricula but with substantial variation, ranging from introductory methods courses (11.9%) to full‐time research projects (16.7%)](research-training-76-2-percent-variable-implementation.md) — related
+- [A systematic search identified 13 national outcome frameworks, seven of which contain an explicit Scholar role](systematic-search-13-outcome-frameworks.md) — related

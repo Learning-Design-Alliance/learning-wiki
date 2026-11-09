@@ -47,3 +47,4 @@ Randomized controlled trial with 38 medical students; the test group (n = 18) pe
 ## Related Claims
 - [On the Sea Spikes 1 dVSS task, only the test group showed a significant reduction in instrument collisions across trials](sea-spikes-collision-reduction-test-group-only.md) — related
 - [Teleoperation trainees become more efficient over training, with reduced translational path length and faster trial durations retained at delayed testing](teleoperation-efficiency-improves-over-training.md) — related
+- [Simulator performance improved significantly from pre-test to post-tests and retention test on all measures except wall collisions](bronchoscopy-simulator-improvement-across-tests.md) — related

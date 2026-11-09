@@ -69,3 +69,4 @@ Same trial, same unit of analysis. "Almost all students in the SNAPPS group form
 - [SNAPPS presentations supported differential diagnoses with more basic attributes, more justified diagnoses, and more explicit disease comparisons than traditional presentations](snapps-inpatient-differential-analysis.md) — related
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related
 - [SNAPPS users express diagnostic uncertainty more often than comparison groups without adding time to presentations, per the review](snapps-uncertainty-expression.md) — a broader claim this one bears on
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related

@@ -52,3 +52,4 @@ Interview account from a peer tutor in the IPA study at SRFT; he contrasted PAL�
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — possibly the same claim (merge candidate)
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — a broader claim this one bears on
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
+- [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related

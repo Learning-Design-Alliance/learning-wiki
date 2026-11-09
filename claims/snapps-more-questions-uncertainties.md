@@ -53,3 +53,5 @@ In the randomized controlled trial, mean questions and uncertainties were 1.6 (S
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](snapps-inpatient-uncertainty-expression.md) — related
 - [SNAPPS users express diagnostic uncertainty more often than comparison groups without adding time to presentations, per the review](snapps-uncertainty-expression.md) — related
+- [SNAPPS residents rated it easier to express questions and uncertainties than OMP residents](snapps-higher-self-eval-qu-item.md) — related
+- [Junior residents taught with SNAPPS used significantly more meaning units related to QU (questions and uncertainties) than those taught with the One-Minute Preceptor (OMP)](snapps-vs-omp-qu-meaning-units.md) — related

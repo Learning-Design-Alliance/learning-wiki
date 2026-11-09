@@ -58,6 +58,7 @@ The review recommends that educators actively incorporate mapping tools into pre
 - [Mind Mapping](mind_mapping.md)
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 - [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
+- [Incorporate PBL and concept mapping into the curriculum to enhance students' knowledge structures](combine-pbl-and-concept-mapping-strategy.md)
 
 ## Examples
 -

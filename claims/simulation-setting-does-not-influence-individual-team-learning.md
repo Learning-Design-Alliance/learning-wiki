@@ -49,3 +49,5 @@ The authors' synthesis in the Conclusions of this debate article of the handful 
 - [Physical Fidelity Not Primary Driver Of Learning](physical-fidelity-not-primary-driver-of-learning.md)
 - [Department-based local simulation, especially in situ simulation, leads to gains in organisational learning, with unannounced exceeding announced](department-based-simulation-organisational-learning-gains.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
+- [In situ participants rate simulation authenticity significantly higher than off-site participants, yet this perception did not influence individual or team outcomes](iss-higher-authenticity-rating-no-outcome-effect.md) — a narrower finding that bears on this claim
+- [The physical simulation setting (in situ vs off-site) was of less importance for learning than other authenticity elements, so off-site simulation can be used if other authenticity elements are respected](oss-usable-if-authenticity-elements-respected.md) — a narrower finding that bears on this claim

@@ -60,3 +60,4 @@ COSMIN and GRADE-based quality assessment (Table 2) of the 16 scales; the review
 - Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported — related
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
 - [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related
+- [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — a broader claim this one bears on

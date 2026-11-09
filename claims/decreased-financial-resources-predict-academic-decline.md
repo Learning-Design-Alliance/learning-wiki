@@ -51,3 +51,4 @@ Multivariable logistic regression (Table 5) treating decreased family financial 
 - [Risk of GPA decline during the shift to eLearning was higher among senior students, students with a B-grade GPA, and students with shy personalities](gpa-decline-predictors-elearning-shift.md) — related
 - [Students' GPA is negatively associated with their psychosocial needs, except financial needs](gpa-negatively-associated-psychosocial-needs.md) — related
 - [Academic performance declined significantly from grade 1 to grade 7, with mathematics falling from 76.90% to 51.26% and GPA from 74.45% to 59.21%](academic-decline-grade1-to-grade7.md) — related
+- [The screentime odds ratio reverses direction in the combined Mathematics model, remaining non-significant](screentime-reversal-combined-math-model.md) — related

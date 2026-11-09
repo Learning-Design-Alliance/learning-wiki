@@ -47,6 +47,7 @@ The article proposes two organisational solutions to the resource barriers resid
 - [Address cost, time and organizational barriers to integrate simulation into NICU training, risk management and quality improvement](overcome-barriers-simulation-integration-nicu-strategy.md)
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Tailored, stakeholder-engaged establishment sequence for ED simulation programmes led by a local simulation champion](tailored-sbt-establishment-sequence.md)
+- [Combining podcast lectures and simulator training to deliver ultrasound education where local expertise or equipment is lacking](podcast-simulator-combination-for-resource-limited-ultrasound-training.md)
 
 ## Examples
 -

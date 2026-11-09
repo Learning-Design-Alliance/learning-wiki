@@ -57,6 +57,8 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Combine refresher courses and/or tests with e-learning to prolong retention of hands-on skills](combine-refresher-courses-with-e-learning-for-retention.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
+- [Add a reinforcing booster counseling session after a personalized risk reduction plan to help sustain safer sex behavior change](ciss-booster-session-sustain-behavior-change.md)
+- [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 
 ## Examples
 -

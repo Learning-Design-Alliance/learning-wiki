@@ -48,3 +48,4 @@ Mapping of the most frequently mentioned competency domains onto the six ACGME g
 - [59.14% of geriatric core competencies are classified as Apply in Bloom's cognitive process dimension and 64.2% as Conceptual Knowledge](geriatric-competencies-apply-conceptual-bloom.md) — related
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related
 - [Interdisciplinary teamwork and patient/caregiver needs are significantly underrepresented in geriatric core competencies](geriatric-competencies-underrepresent-teamwork-caregiver-needs.md) — related
+- [The Chinese doctors' competencies framework is similar to the ACGME and CanMEDS frameworks](chinese-framework-similar-acgme-canmeds.md) — related

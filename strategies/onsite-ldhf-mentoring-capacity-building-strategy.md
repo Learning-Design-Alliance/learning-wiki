@@ -55,6 +55,7 @@ The authors' recommendation is that, in their words, "capacity building among he
 ## Related Strategies
 
 - [Use high-quality interactive eLearning as a scalable capacity-building tool for health professionals, supplemented with follow-up practical training, supervision and mentoring](elearning-scalable-capacity-building-with-followup-support.md)
+- [Deliver low-cost ongoing lay health worker training via onsite educational outreach with peer trainers plus a point-of-care reference tool, during regular work hours and without stipends](onsite-educational-outreach-point-of-care-tool-strategy.md)
 
 ## Examples
 -

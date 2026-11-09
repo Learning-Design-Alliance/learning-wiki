@@ -51,6 +51,7 @@ The authors recommend that future work evaluate educational effectiveness throug
 - [Use controlled designs with larger samples to confirm preclinical psychomotor training effects](controlled-designs-for-preclinical-psychomotor-training-research.md)
 - [Future research should run interventional comparisons of traditional versus electronic education in common diseases with larger medical student samples](larger-interventional-mlearning-studies-recommendation.md)
 - [Design future Serious Game versus traditional teaching trials as randomised studies with pre-tests and learning-time data](randomised-pretest-design-for-serious-game-trials.md)
+- [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
 
 ## Examples
 -

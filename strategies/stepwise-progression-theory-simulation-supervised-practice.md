@@ -75,6 +75,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Use Sim-OSSCAR as formative assessment with a benchmark before progression to live surgery](sim-osscar-formative-benchmark-progression-strategy.md)
 - [Four-step REBOA training programme: theory, basic skill training, interventional radiology practice, and high-fidelity simulation with debriefing](four-step-reboa-training-programme-strategy.md)
 - [Peer-scored deliberate practice against predefined metrics with benchmark-gated progression in simulation training](peer-scored-metrics-deliberate-practice-benchmark-gated-progression.md)
+- [Build simulation airway curricula around environmental fidelity and deliberate practice, with formal teaching of nontechnical crisis management skills](simulation-airway-curriculum-fidelity-deliberate-practice.md)
 
 ## Examples
 -

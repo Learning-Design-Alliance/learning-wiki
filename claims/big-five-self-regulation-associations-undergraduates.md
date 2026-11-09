@@ -52,3 +52,4 @@ Pearson bivariate correlation analysis in a sample of 642 Spanish undergraduates
 - [Big Five traits correlate significantly with Academic Behavioural Confidence subscales, positively except neuroticism, with conscientiousness showing the strongest correlations](big-five-correlations-academic-behavioural-confidence.md) — related
 - [Neuroticism is negatively associated with self-regulation globally and with its decision-making and learning-from-mistakes factors](neuroticism-negative-self-regulation.md) — related
 - [Neuroticism is positively associated with emotion-focused coping (especially emotional venting and isolation) while conscientiousness is positively associated with problem-focused coping](personality-coping-strategy-profiles.md) — related
+- [Students selected through a knowledge-based exam show a more diligent profile, with higher conscientiousness, deep learning approach, and task-focused coping](knowledge-exam-selects-diligent-students.md) — related

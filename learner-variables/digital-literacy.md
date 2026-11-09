@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (61 show a difference, 12 mixed, 12 no difference) · 67 studies (22 associational, 15 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 11 of 67 report an effect size · 83 claims rest on one study
+> **Evidence** · 89 claims (63 show a difference, 13 mixed, 13 no difference) · 69 studies (23 associational, 16 causal, 9 review, 9 qualitative, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 11 of 69 report an effect size · 87 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -119,6 +119,10 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Perceived obstacles to online learning differ by grade level and computer/internet ability, and satisfaction differs by region, university type, and technology ability](../claims/group-differences-obstacles-satisfaction-characteristics.md) [+W] — learners who differ on it differ in outcomes
 - [Comparison studies from two decades ago found ultrasound-operator proficiency mattered for success, consistent with modern imaging reducing the skill gap](../claims/modern-ultrasound-imaging-narrows-operator-skill-gap.md) [~W] — learners who differ on it differ in outcomes
 - [Participants' prior ICT skills did not significantly correlate with e-learning experience or with blended learning score increment](../claims/prior-ict-skills-not-correlated-with-bl-outcomes.md) [-W] — learners who differ on it differ in outcomes
+- [Fundamental IT ability is strongly related to sophisticated mobile proficiency and highly developed IT skills](../claims/fundamental-it-skill-correlates-mobile-and-advanced-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Game acceptability is not predicted by demographics, computer literacy or baseline Theory of Planned Behaviour variables](../claims/acceptability-not-predicted-by-demographics-tpb.md) [-M] — learners who differ on it differ in outcomes
+- [IT skills influence students' acquisition of m-learning technology, with basic and mobile skills significant but advanced IT skills not](../claims/it-skills-influence-mlearning-acquisition-survey.md) [~M] — learners who differ on it differ in outcomes
+- [Sophisticated mobile proficiency mediates the effect of perceived usability and usefulness on intention to accept m-learning](../claims/mobile-proficiency-mediates-usability-usefulness-on-acceptance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

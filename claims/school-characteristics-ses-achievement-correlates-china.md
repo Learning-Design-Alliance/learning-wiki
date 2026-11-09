@@ -48,3 +48,4 @@ Descriptive and correlational analysis (Table 1) of the NCSC sample; school loca
 - [Average literacy and math achievement are significantly higher in private than public schools, and urban schools outperform rural schools in math](school-type-location-achievement-differences.md) — possibly the same claim (merge candidate)
 - [Children enrolled in private schools scored higher in reading and spelling than children in government schools in rural Bangladesh](private-school-advantage-reading-spelling-rural-bangladesh.md) — related
 - [School SES is positively related to middle school students’ Chinese achievement in China after controlling for family SES and other covariates](school-ses-positive-chinese-achievement-china.md) — a narrower finding that bears on this claim
+- [Private schools outperform subsidised schools, which outperform public schools, on eighth-grade academic performance](institution-type-performance-gradient-chile.md) — related

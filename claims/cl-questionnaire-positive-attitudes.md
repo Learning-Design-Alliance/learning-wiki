@@ -55,3 +55,4 @@ End-of-semester questionnaire given to the 52 experiment-class students, ten ite
 - [Student-based instruction enhanced students' attitudes toward probability relative to teacher-based instruction](student-based-instruction-enhanced-probability-attitudes.md) — related
 - [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related
 - [Students perceive cooperative learning as increasing opportunities to practise English](cooperative-learning-increases-practice-opportunities.md) — related
+- [Participants report that the training changes their practice with adolescents, including listening more, checking assumptions about confidentiality and Medicare knowledge, and adjusting language](gp-adolescent-health-training-practice-transfer.md) — related

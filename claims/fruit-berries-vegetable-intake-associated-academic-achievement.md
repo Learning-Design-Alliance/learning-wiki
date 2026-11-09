@@ -53,3 +53,4 @@ Cross-sectional analysis of food intake versus dichotomized grades, adjusted for
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
 - [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related
+- [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related

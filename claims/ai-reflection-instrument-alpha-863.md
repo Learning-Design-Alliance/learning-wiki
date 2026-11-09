@@ -94,3 +94,5 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
 - [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
 - [The EBMQ shows strong internal consistency, with overall Cronbach's alpha of 0.909](ebmq-internal-consistency-alpha-0909.md) — related
+- [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
+- [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — related

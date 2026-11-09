@@ -51,3 +51,4 @@ Kirkpatrick level 1 evaluation used a structured, validated feedback questionnai
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — possibly the same claim (merge candidate)
+- [First-year nursing students in a problem-based fundamental nursing curriculum mostly prefer a hybrid problem-based and lecture-based learning environment](nursing-students-prefer-pbl-lbl-hybrid.md) — related

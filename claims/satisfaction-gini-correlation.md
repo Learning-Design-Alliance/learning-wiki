@@ -50,3 +50,4 @@ Spearman rank correlations between output-oriented quality parameters in Study 2
 - [Courses with higher posting participation show more subgroups and more unequal communication than expected by chance, while high-interactivity courses show more equal participation](participation-unequal-communication-interactivity-equal.md) — related
 - [Longer game reviews tend to correspond to lower levels of satisfaction with the game](longer-reviews-lower-satisfaction-correlation.md) — related
 - [Platform satisfaction is strongly positively correlated with willingness to recommend](cataract-vsim-satisfaction-recommend-correlation.md) — related
+- [Willingness to recommend the course and perceived benefit correlated positively with overall DREEM scores](abcs3-recommendation-correlates-with-dreem.md) — related

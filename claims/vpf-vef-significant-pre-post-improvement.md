@@ -51,3 +51,4 @@ Randomized controlled trial of 33 first-year surgical residents (VPF n = 17, VEF
 - [No significant difference between video-based peer feedback and expert feedback for indwelling urinary catheterization or simple interrupted suture](vpf-vef-no-difference-catheterization-suturing.md) — related
 - [Self-, peer-, and instructor-feedback within SDTS show no statistically significant differences in post-training OSCE performance](feedback-modality-no-significant-difference.md) — related
 - [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related
+- [Mobile video access did not significantly improve urinary catheterization knowledge or skill performance in the 1-week trial](mobile-video-no-significant-knowledge-skill-gains.md) — related

@@ -71,3 +71,4 @@ From the qualitative section on the HMD 360-degree video experience: "Several pa
 - [Nursing students rated the 360-degree video VR schizophrenia simulation as easy to use, with device-operation difficulty scored low (2.6 on a 0-10 scale).](vr-schizophrenia-simulation-usability-60-nursing-students.md) — related
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
+- [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related

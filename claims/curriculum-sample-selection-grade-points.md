@@ -70,3 +70,4 @@ Linear regression on years 2–3 grade points for the 2010–2011 cohorts (overa
 - [Curriculum sample selected students more often obtain at least 42 first-year credits than lottery-admitted students, also after adjusting for pu-GPA](curriculum-sample-selection-first-year-credit-threshold.md) — related
 - [Drop-out is lower among curriculum sample selected students than among lottery-admitted students](curriculum-sample-selection-lower-dropout.md) — related
 - [The additional value of curriculum sample selection over pu-GPA is strongest for applicants in lower pu-GPA categories](selection-additional-value-strongest-lower-pu-gpa.md) — related
+- [Non-cognitive selected, cognitive selected and lottery-admitted medical students show no significant differences in first-year GPA](no-gpa-difference-admission-groups-first-year.md) — reports the opposite

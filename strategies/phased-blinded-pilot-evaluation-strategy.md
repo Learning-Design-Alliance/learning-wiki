@@ -49,6 +49,7 @@ The study ran three phases: iterative development, initial testing by two fellow
 
 - [Phased iterative testing: optimization testing before efficacy testing before statewide scale-up](phased-optimization-efficacy-scale-up-testing.md)
 - [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
+- [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 
 ## Examples
 -

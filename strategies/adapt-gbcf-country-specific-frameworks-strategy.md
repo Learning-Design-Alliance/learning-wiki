@@ -51,6 +51,7 @@ The authors recommend using the validated core competency set as a starting poin
 ## Related Strategies
 
 - [Adapt an existing European or global competency framework to national needs rather than developing one de novo](adapt-existing-competency-framework-to-national-needs.md)
+- [Use quantitative work analysis (O*NET questionnaires) to generate local competency frameworks](quantitative-work-analysis-local-competency-framework.md)
 
 ## Examples
 -

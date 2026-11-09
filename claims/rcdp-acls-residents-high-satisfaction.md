@@ -54,3 +54,4 @@ Post-course survey of 21 participants from the eight offerings of the RCDP ACLS 
 - [Participants perceive Virtual Doc as educationally efficacious for learning pediatric CPR](virtual-doc-perceived-educational-efficacy.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
 - [Participant satisfaction with the simulation model significantly surpassed expectations, with 41% of comments positive](cs-model-rating-surpassed-expectation.md) — related
+- [Clarity of learning objectives and subjectively perceived learning achievements were the aspects rated least positively, with fewer than half of students in both sub-samples agreeing their expectations had been met](learning-outcome-clarity-rated-least-positively.md) — related

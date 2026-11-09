@@ -51,3 +51,4 @@ Multivariate logistic regression in the retrospective Rouen cohort survey (523 r
 - [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related
 - [Sports participation frequency is positively associated with Chinese grades in Chinese primary school children, with the highest odds at 3 or more times per week](sports-participation-chinese-grades-positive-association.md) — related
 - [Sports participation frequency is positively associated with math grades, with the highest odds at 3 or more times per week](sports-participation-math-grades-positive-association.md) — related
+- [Not being physically active at morning recess or after school is associated with higher odds of poor Mathematics performance](recess-afterschool-inactivity-poor-mathematics.md) — related

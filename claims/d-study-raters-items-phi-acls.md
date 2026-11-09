@@ -76,3 +76,4 @@ D-study for the two-facet nested r:(p×i) design, which matches the course's rat
 - [A g-coefficient above 0.7 requires at least a random set of 3 different EPAs, each rated 4 times by 4 different supervisors, totalling 12 assessments](twelve-assessments-three-epas-four-supervisors-g70.md) — related
 - [Student examiners' assessments match medical expert supervisors' second assessments closely, with no systematic difference in strictness](student-examiner-assessments-match-expert-supervisors.md) — related
 - [The SHORT scale shows high reliability for assessing short simulation debriefings, with absolute G coefficients φ = 0.80 and φ-λ3 = 0.82](short-scale-high-reliability-g-study.md) — related
+- [Two cases per test are needed to reach adequate reliability on both simulator models for certification purposes](two-cases-needed-colonoscopy-simulator-reliability.md) — related

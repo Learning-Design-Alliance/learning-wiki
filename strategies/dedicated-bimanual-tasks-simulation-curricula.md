@@ -49,6 +49,7 @@ The article recommends that simulation-based orthopaedic training include tasks 
 ## Related Strategies
 
 - [Use baseline visuospatial and bimanual profiling to personalize laparoscopic simulation training](visuospatial-profiling-personalized-laparoscopic-training.md)
+- [Provide early laterality-related mentoring to medical students and residents](laterality-related-mentoring-medical-students.md)
 
 ## Examples
 -

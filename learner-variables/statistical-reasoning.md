@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (31 show a difference, 9 mixed, 2 no difference) · 24 studies (15 causal, 3 review, 3 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 2 of 24 report an effect size · 42 claims rest on one study
+> **Evidence** · 43 claims (32 show a difference, 9 mixed, 2 no difference) · 25 studies (15 causal, 3 review, 3 qualitative, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q3` · 3 of 25 report an effect size · 43 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -80,6 +80,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Higher-scoring students in the data collection phase envisioned more meaningful engagement between scientists and the public](../claims/cl-data-collection-phase-meaningful-public-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Instructor-rated poster performance improved significantly after the intervention for graph/table statements (1–3) and for interpretation statements 6 and 8](../claims/instructor-rated-performance-improved-lo1-and-partial-lo2.md) [+M] — measured as an outcome of the instruction studied
 - [Skill with data-evaluation problems develops gradually and does not plateau until about six exam iterations](../claims/six-iterations-plateau-data-evaluation.md) [+W] — measured as an outcome of the instruction studied
+- [Students' quantitative reasoning (QRQ) scores rose by 0.63 pretest SDs from before to after an evidence-based medicine course, in a single-group pre-post comparison](../claims/ebm-course-qrq-gain-0-63-sd.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

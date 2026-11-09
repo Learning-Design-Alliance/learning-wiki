@@ -80,3 +80,4 @@ Ngo et al. (2024) qualify this claim. The claim concerns practice frequency and 
 - [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals](profy-intelligibility-gain-over-elicited-imitation.md) — related
 - [The Korean meta-analysis's overall effect (.80) differs from Flower et al.'s (2007) near-zero finding, attributed to age, combined formats, and longer duration](korean-results-differ-from-flower-2007-attributed-age-format-duration.md) — related
 - [DynEd's effects are greater in the first year of daily use than in the second year of three-day-per-week use](dyned-effects-greater-first-year-daily-use.md) — related
+- [The distributed practice effect appears to depend on task type and task complexity as well as the interval between sessions](distributed-practice-effect-depends-on-task-type-complexity.md) — related

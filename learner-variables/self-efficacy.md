@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 350 claims (264 show a difference, 47 mixed, 39 no difference) · 277 studies (95 causal, 90 associational, 33 review, 25 qualitative, 16 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 277 report an effect size · 346 claims rest on one study
+> **Evidence** · 354 claims (268 show a difference, 47 mixed, 39 no difference) · 280 studies (95 causal, 90 associational, 33 review, 26 qualitative, 18 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 280 report an effect size · 350 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -381,6 +381,10 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Most participants in a geriatric psychiatry online study group reported improved self-efficacy for passing the certification exam](../claims/osg-improved-efficacy-beliefs.md) [+M] — measured as an outcome of the instruction studied
 - [Neither intervention changed self-efficacy, motivation or anxiety relative to control, though all groups increased perceived competence over time](../claims/imi-outcomes-unchanged-perceived-competence-increase.md) [-M] — measured as an outcome of the instruction studied
 - [Perceived deepening of knowledge and confidence in answers did not significantly predict exam scores](../claims/participation-perceptions-not-predicting-exam-scores.md) [-M] — learners who differ on it differ in outcomes
+- [Lay health workers receiving a tailored onsite knowledge translation intervention uniformly described it as valuable and reported improved confidence and ability in their TB care role](../claims/lhw-tailored-kt-intervention-valuable.md) [+M] — measured as an outcome of the instruction studied
+- [Lay health workers reported improved clinical skills — patient-provider relationships, patient education, follow-up — plus increased confidence and satisfaction with their work](../claims/lhw-reported-clinical-skill-gains-confidence.md) [+M] — measured as an outcome of the instruction studied
+- [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](../claims/pa-learning-outcomes-awareness-attitudes-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [Students report PAL improved confidence, feedback ability, and teaching, clinical and communication skills (95–100% agreement)](../claims/pal-improved-confidence-feedback-teaching-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

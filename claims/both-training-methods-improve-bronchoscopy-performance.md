@@ -53,3 +53,4 @@ Wilcoxon signed rank tests on paired pre- and post-training scores showed signif
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
 - [Experienced bronchoscopists outperformed intermediates on diagnostic completeness, structured progress and procedure efficiency but not procedure time](experienced-outperform-intermediates-bronchoscopy-dc-sp-efficiency.md) — related
 - [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
+- [Unsupervised practice produced relatively slow performance improvement compared with bronchoscopy simulation studies that included feedback](unsupervised-practice-slower-improvement-than-feedback-studies.md) — related

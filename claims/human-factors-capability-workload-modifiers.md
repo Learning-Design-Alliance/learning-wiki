@@ -67,3 +67,4 @@ The article describes, citing Mentis et al. and Koca et al., theatre factors rai
 ## Related Claims
 - [The COVID-19 pandemic was accompanied by increased depression and anxiety and diminished mental wellness among students and faculty](pandemic-increased-depression-anxiety-diminished-wellness.md) — a broader claim this one bears on
 - [An adaptive COVID-19 simulation intervention increased heart rate variability (reduced physiologic stress) in emergency physicians during clinical shifts immediately following the intervention](adaptive-simulation-reduced-physiologic-stress-hrv.md) — related
+- [Auxiliary and operating theatre nurses appeared to have a greater need for equipment in the right place, a trend the authors treat as tentative because these groups were under-represented](nurses-greater-need-setting-fidelity-trend.md) — related

@@ -51,6 +51,7 @@ The review recommends methodological improvements for future NTS training evalua
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
 - [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 - [Future simulation evaluations should use rigorous designs, reduce attrition, and add booster practice, team dynamics, and distraction](future-simulation-evaluation-design-recommendations.md)
+- [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
 
 ## Examples
 -

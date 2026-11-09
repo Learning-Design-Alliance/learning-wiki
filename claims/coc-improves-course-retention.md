@@ -66,3 +66,4 @@ Same retention analysis restricted to the low-preparedness group: zero withdrawa
 ## Related Claims
 - [Full participants in an 8-week cocurricular study-skills program scored higher than nonparticipants on exam 2 at low and medium preparedness, and on final grade only at medium preparedness, in introductory biology](coc-improves-grades-low-medium-preparedness.md) — related
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](focus-intervention-lower-course-withdrawal.md) — related
+- [Students who did not attend PLTL sessions were significantly more likely to withdraw from the course](pltl-associated-with-lower-withdrawal.md) — related

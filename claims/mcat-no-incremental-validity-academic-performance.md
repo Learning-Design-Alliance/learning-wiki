@@ -58,3 +58,4 @@ Retrospective cohort analysis of 349 admitted students with MCAT scores at a sin
 - [Unprofessional behaviour during the first two years of medical school raised the risk of subsequent disciplinary action as practising physicians to 26%, versus 7% for low MCAT scores or low grades](unprofessional-behaviour-predicts-disciplinary-action.md) — related
 - [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
 - [US medical school admission is highly competitive, with 53,029 applicants and 21,025 matriculants in 2016 (39.6% acceptance rate), and MCAT scores show limited predictive validity](us-admission-acceptance-rate-mcat-validity.md) — related
+- [Predictive validity of the trial-studying test does not differ significantly from that of high school mean grades for first-year performance measures](trial-studying-predictive-validity-equals-high-school-grades.md) — related

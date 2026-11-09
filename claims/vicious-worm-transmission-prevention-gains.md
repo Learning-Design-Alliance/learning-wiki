@@ -47,3 +47,4 @@ Category-level Poisson regression comparison of pre/post QS2 responses, n = 59. 
 ## Related Claims
 - [Specific misconceptions about NCC acquisition and transmission persisted after the workshop](vicious-worm-persistent-ncc-misconceptions.md) — related
 - [QS2 individual scores rose from 62% pre to 82% post, with an average of 4.0 questions improving per student](vicious-worm-qs2-individual-improvement.md) — related
+- [Knowledge scores rose from pre-test to post-test after the tablet tutorial in all professional categories, with the largest average gain among primary healthcare workers (one uncontrolled pre-post study)](mhealth-knowledge-gains-across-professional-categories.md) — related

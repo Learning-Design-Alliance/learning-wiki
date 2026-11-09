@@ -58,6 +58,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation](implement-online-practice-tests-with-corrective-feedback.md)
 - [Use true-false examinations with immediate self-correction and public display of scores as a time-saving teaching and assessment routine](true-false-immediate-correction-display-strategy.md)
+- [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 
 ## Examples
 -

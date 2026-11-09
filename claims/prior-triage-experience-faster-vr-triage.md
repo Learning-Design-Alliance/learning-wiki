@@ -67,3 +67,4 @@ Effect-size assessment accompanying the Mann–Whitney U comparison of triage ti
 - [Computer-recorded VR triage performance: correct triages of the first 10 victims ranged 4–10 (median 8) and triage took 3.10–15.57 minutes (median 7)](vr-triage-performance-descriptives.md) — related
 - [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related
 - [VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background](vr-performance-no-individual-factor-associations.md) — related
+- [Previous multi-casualty experience, years in service, education level and age do not measurably affect triage accuracy or retention](background-variables-no-effect-on-triage-accuracy.md) — reports the opposite

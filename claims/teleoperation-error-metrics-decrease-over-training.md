@@ -70,3 +70,4 @@ Paired comparison reported for ring-rail collisions in the same training study (
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [On the Sea Spikes 1 dVSS task, only the test group showed a significant reduction in instrument collisions across trials](sea-spikes-collision-reduction-test-group-only.md) — related
 - [PW simulator training significantly reduces the number of collisions in the virtual environment, retained two days later](pw-simulator-training-reduces-ve-collisions.md) — related
+- [Simulator performance improved significantly from pre-test to post-tests and retention test on all measures except wall collisions](bronchoscopy-simulator-improvement-across-tests.md) — related

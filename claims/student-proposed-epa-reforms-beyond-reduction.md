@@ -48,3 +48,4 @@ Thematic analysis of open-ended responses; students suggested global weekly eval
 - [Over 90% of students report barriers to obtaining EPA observations](barriers-obtaining-epa-observations-majority.md) — related
 - [Students hold mixed perceptions of whether EPA observations support clinical development](mixed-student-perceptions-epa-clinical-development.md) — related
 - [Almost 90% of students recommend changes to EPAs, predominantly reducing EPA requirements](students-recommend-epa-changes-reduction-requirements.md) — related
+- [Post-patient encounter form completion correlates with assessment scores, so PPEF scores were not compared between groups](ppef-completion-correlates-with-proficiency.md) — related

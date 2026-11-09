@@ -61,3 +61,4 @@ Reliability analysis in SPSS-25 of the Delphi- and face-to-face-validated checkl
 - [Peer and instructor assessment of high-fidelity-simulation-based clinical performance show high inter-rater reliability (ICC 0.685)](peer-instructor-icc-0685-simulation-assessment.md) — related
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
+- [The error-focused checklist shows lower internal consistency than the conventional checklist despite high inter-rater reliability for both](error-focused-checklist-low-internal-consistency.md) — related

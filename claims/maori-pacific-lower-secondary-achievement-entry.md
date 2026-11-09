@@ -71,3 +71,4 @@ Same observational cohort analysis of NCEA Level 3 subject credits. For example,
 - [Māori and Pacific health professional students were far more likely than nMnP students to have attended low decile secondary schools](maori-pacific-low-decile-schools-overrepresented.md) — related
 - [Māori and Pacific students achieved significantly lower first-year academic outcomes than nMnP students](maori-pacific-lower-first-year-outcomes.md) — related
 - [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related
+- [NCEA Rank Score is the most significant predictor of first-year GPA and of passing all courses for Māori and Pacific health students](ncea-rank-score-predicts-first-year-outcomes.md) — related

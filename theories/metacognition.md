@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 515 claims (246 for, 239 mixed, 30 against) · 280 studies (136 causal, 61 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 93 of 280 report an effect size · 508 claims rest on one study
+> **Evidence** · 517 claims (247 for, 240 mixed, 30 against) · 281 studies (136 causal, 62 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 93 of 281 report an effect size · 510 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -559,6 +559,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](../claims/self-assessment-accuracy-distribution-first-semester.md) [+W] — attached 2026-11-07 from Knof Harald et al. (2024), which proposed "The Dunning-Kruger effect as a metacognitive phenomenon in which limited knowledge causes individuals to overestimate their competence and underestimate others'".
 - [Providers showed substantial unconscious incompetence at baseline: median 32% of responses were confident but incorrect, exceeding the 20%–30% best-practice guideline](../claims/aesnc-baseline-unconscious-incompetence-32-percent.md) [+W] — attached 2026-11-07 from Meaney Peter Andrew et al. (2024), which proposed "Howell's conscious-competence model as the metacognition taxonomy for adaptive e-learning usage data".
 - [The certainty-correctness relationship varies by ability grouping derived from number correct](../claims/certainty-correctness-varies-by-score-group.md) [~W] — attached 2026-11-09 from Tweed M.J. et al. (2017), which proposed "Certainty, safety and knowledge as independent but intertwined factors in clinical decision-making".
+- [Regulation of metacognition increases significantly over the first academic year](../claims/regulation-metacognition-increases-first-year.md) [+W] — attached 2026-11-09 from Hong Wei Han et al. (2015), which proposed "Two-dimensional model of metacognitive skills: knowledge and regulation".
+- [First-year medical students' knowledge of metacognition shows no significant change over the academic year](../claims/no-change-metacognitive-knowledge-first-year.md) [~W] — attached 2026-11-09 from Hong Wei Han et al. (2015), which proposed "Two-dimensional model of metacognitive skills: knowledge and regulation".
 
 ## The evidence by question
 

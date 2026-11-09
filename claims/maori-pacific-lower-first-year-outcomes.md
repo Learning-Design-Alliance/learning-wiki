@@ -71,3 +71,5 @@ Same observational analysis of first-year bachelor GPA (0–9 scale) across eigh
 - [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related
 - [Māori and Pacific students entered health professional programmes with significantly lower secondary school achievement than nMnP students](maori-pacific-lower-secondary-achievement-entry.md) — related
 - [Māori and Pacific students reached health professional programmes via different pathways: more bridging programmes, fewer direct school-leaver admissions](maori-pacific-bridging-pathway-differences.md) — related
+- [Following MAPAS advice on best starting point is associated with higher first-year GPA and much higher odds of passing all courses among Māori and Pacific health students](mapas-advice-followed-first-year-outcomes.md) — related
+- [NCEA Rank Score is the most significant predictor of first-year GPA and of passing all courses for Māori and Pacific health students](ncea-rank-score-predicts-first-year-outcomes.md) — related

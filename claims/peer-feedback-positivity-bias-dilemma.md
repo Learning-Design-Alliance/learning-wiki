@@ -46,3 +46,4 @@ Interview study analysing one participant (F7) as an example of the feedback dil
 
 ## Related Claims
 - [Overemphasizing learner satisfaction can undermine educational quality, as educators become disincentivized from delivering critical feedback](overemphasizing-learner-satisfaction-undermines-quality.md) — a broader claim this one bears on
+- [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related

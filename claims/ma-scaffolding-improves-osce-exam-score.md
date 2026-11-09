@@ -95,3 +95,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [Free practice of physical examinations raises OSCE physical examination scores by about five percentage points, enough for a grade jump](physical-exam-free-practice-grade-jump.md) — related
 - [Video-based remediation significantly improves total and subcomponent OSCE scores and self-efficacy of final-year medical students](video-remediation-improves-osce-scores-self-efficacy.md) — related
 - [Computer-assisted learning (virtual patients, digital lectures, video demonstration) is well received and may improve understanding, while eVoting shows no significant exam impact](computer-assisted-learning-dental-materials.md) — related
+- [Corrective feedback with suggestions on how to improve is associated with higher clinical reasoning performance in final practical examinations](corrective-feedback-with-suggestions-improves-clinical-reasoning.md) — related

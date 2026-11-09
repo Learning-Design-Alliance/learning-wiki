@@ -50,3 +50,4 @@ The review reports, citing Preszler 2009, that peer-led workshops let students w
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related
+- [Higher relative biology competency predicts a lower preference for the listener role in peer discussions](competency-predicts-listener-preference.md) — related

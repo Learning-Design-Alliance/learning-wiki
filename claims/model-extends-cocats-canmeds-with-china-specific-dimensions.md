@@ -46,3 +46,4 @@ Authors' interpretive comparison in the Discussion, not a tested result. They st
 
 ## Related Claims
 - [A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China](delphi-emergency-residency-indicator-system-5-14-34.md) — related
+- [Existing Chinese residency training programs focus on clinical skills and medical knowledge but neglect communication, teamwork, professionalism](chinese-residency-training-neglects-nonclinical-competencies.md) — related

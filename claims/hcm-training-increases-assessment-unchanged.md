@@ -50,3 +50,4 @@ Survey analysis of the HCM subgroup (2015 n=31; 2011 n=42) with two-sided Fisher
 - [Physicians showed the most categories with significant increases in NTS training and assessment from 2011 to 2015, adjusting toward the training culture of other crew groups](physicians-largest-nts-training-increase.md) — related
 - [Pilots' NTS training and assessment increased further from 2011 to 2015, but significantly only for situation awareness and managing stress](pilots-nts-increase-limited-significance.md) — related
 - [GEMS 2015 training and assessment frequencies were statistically insignificantly different from HEMS 2011 frequencies, except for communication and coping with fatigue](gems-2015-similar-to-hems-2011.md) — related
+- [Patient and crew safety are the least frequently reported simulation goals, while patient assessment, critical thinking, and problem-solving are the most frequent](safety-least-frequent-simulation-goal-paramedic.md) — related

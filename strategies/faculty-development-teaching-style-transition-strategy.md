@@ -49,6 +49,8 @@ The article recommends structured faculty development programs in response to it
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Adopt low-cost, non-digital board games as adjuncts for complex biomedical topics](board-games-as-adjunct-for-complex-topics.md)
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
+- [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
+- [Sequence tutor style within PBL: begin facilitative, shift to non-facilitative as students gain PBL experience](sequenced-facilitative-then-nonfacilitative-tutoring.md)
 
 ## Examples
 -

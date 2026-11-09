@@ -53,3 +53,4 @@ Mediation analysis within the SEM decomposed the total PEOU→BI effect (0.701) 
 - [Perceived ease of use has a positive significant effect on perceived usefulness of mobile library applications](peou-positive-effect-pu-mla.md) — related
 - [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related
 - [TAM analysis found perceived usefulness predicted behavioral intention and fidelity was associated with behavioral intention only among health professionals](tam-fidelity-motivates-experienced-clinicians.md) — related
+- [Sophisticated mobile proficiency mediates the effect of perceived usability and usefulness on intention to accept m-learning](mobile-proficiency-mediates-usability-usefulness-on-acceptance.md) — related

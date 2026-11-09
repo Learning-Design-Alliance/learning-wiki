@@ -50,3 +50,4 @@ Observational assessment on two internal medicine inpatient teaching services at
 - [MCQ scores correlated moderately with observed bHIT ability while video interpretation did not, so neither can substitute for direct observation](indirect-assessment-does-not-substitute-bhit-observation.md) — related
 - [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related
 - [Resident opinion of intern consult ability correlates strongly (r = .65) with how well the consult question used the PICO framework](strong-correlation-resident-rating-pico-quality.md) — related
+- [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related

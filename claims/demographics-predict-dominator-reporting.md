@@ -47,3 +47,5 @@ Ordered logit mixed models (CLMM) predicting dominator responses from student ch
 ## Related Claims
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - [Students are 67% less likely to report a dominator during jigsaw activities than during single-group activities](jigsaw-reduces-dominator-reporting.md) — related
+- [International students are 4.8 times more likely than white American students to report a dominator in their peer discussion group, with a trend for Asian-American students](international-students-report-more-dominators.md) — related
+- [Asian-American, underserved American, and international students are more likely than white American peers to prefer listening roles in peer discussions](race-nationality-predict-listener-preference.md) — related

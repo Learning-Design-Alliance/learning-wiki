@@ -60,6 +60,7 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 - [Develop standardised delivery-quality assessment using a maximum of two scores (one communication, one content-delivery)](standardised-two-score-delivery-quality-assessment.md)
+- [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
 
 ## Examples
 -

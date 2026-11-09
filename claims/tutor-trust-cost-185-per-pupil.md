@@ -52,3 +52,4 @@ Cost information reported in the executive summary's cost section. In this proje
 - [Air Reading cost approximately $1,700 per pupil to society and $1,500 to schools, with 7.5-11.9 tutoring hours needed per month of learning gained](air-reading-cost-efficiency-estimates.md) — related
 - [The Discover Summer School was relatively expensive compared to other literacy catch-up approaches, at an estimated cost of about £1,790 per pupil](discover-summer-school-cost-per-pupil.md) — related
 - [Delivering the FLL programme costs £11.53 per pupil per year over three years (£1037 total) for one class of 30, excluding teacher cover for training](fll-cost-per-pupil-11-53.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

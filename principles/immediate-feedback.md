@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (18 for, 19 mixed, 2 against) · 43 studies (16 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 43 report an effect size · 33 claims rest on one study
+> **Evidence** · 41 claims (20 for, 19 mixed, 2 against) · 44 studies (17 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 44 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A brief BLS training session with real-time feedback improves future schoolteachers' CPR knowledge, raising self-declared ability to perform CPR from 58% to 100%](../claims/brief-bls-training-improves-teacher-cpr-knowledge.md) [+M] — attached 2026-11-08 from Jorge-Soto Cristina et al. (2019), which proposed "Implement BLS training in university curricula for schoolteachers to promote their engagement in training schoolchildren".
 - [After brief hands-on training with real-time feedback, more than 80% of chest compressions met the adequate-rate standard and all compressions used correct hand positions](../claims/cpr-quality-metrics-after-brief-feedback-training.md) [+M] — attached 2026-11-08 from Jorge-Soto Cristina et al. (2019), which proposed "Implement BLS training in university curricula for schoolteachers to promote their engagement in training schoolchildren".
 - [Feedback timing and frequency do not significantly affect CPR skill retention: overall follow-up scores did not differ among concurrent-100%, concurrent-50%, terminal-100%, and terminal-50% groups](../claims/feedback-timing-frequency-no-effect-cpr-retention.md) [~W] — attached 2026-11-09 from Akizuki Kazunori et al. (2019), which proposed "Use feedback devices as the standard for CPR skill training, since device-based feedback drove large gains regardless of timing or frequency"; tests this page's relationship.
+- [Real-time objective feedback during manikin training significantly improves adult CPR performance in pre-hospital EMS providers](../claims/real-time-feedback-improves-adult-cpr-performance.md) [+W] — attached 2026-11-09 from Smart JR et al. (2015), which proposed "Provide real-time objective feedback during manikin CPR training to improve skill performance".
+- [Real-time objective feedback significantly improves infant CPR performance, with a larger improvement than for adult CPR](../claims/real-time-feedback-improves-infant-cpr-performance.md) [+W] — attached 2026-11-09 from Smart JR et al. (2015), which proposed "Provide real-time objective feedback during manikin CPR training to improve skill performance".
 
 ## Objective and learner-valued goal
 

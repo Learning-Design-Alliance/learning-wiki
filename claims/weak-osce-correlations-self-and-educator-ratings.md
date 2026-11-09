@@ -54,3 +54,4 @@ Spearman rank correlation analysis relating the 2023–2024 final OSCE (six stat
 - [CDA3 correlates with OSCE Procedural stations but not with OSCE Communication stations](cda3-osce-procedural-not-communication.md) — related
 - [First-year DPT student SCT scores show no significant correlation with academic records including GPA, OSCE, benchmark exam, and course grades](sct-scores-uncorrelated-academic-records-dpt.md) — related
 - [Only about a third of students correctly estimated their OSCE performance, and self-assessment correlated only weakly with actual score (r=0.26)](self-assessment-overestimation-osce-r-026.md) — related
+- [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — related

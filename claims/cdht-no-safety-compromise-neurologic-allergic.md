@@ -52,3 +52,4 @@ Secondary endpoints in the same self-controlled trial, analyzed with Fisher's ex
 - [24-h postoperative hematoma/bruise incidence fell from 29.0% to 13.8% from before to after CDHT in one group with no comparison group, while hematoma severity did not change](cdht-reduced-hematoma-bruise-incidence.md) — related
 - [Procedure-related complications do not differ significantly between simulation-based and non-simulation based training groups](sbt-no-complication-difference-airway.md) — related
 - [Puncture-related complication incidence does not differ significantly between the learning and proficiency phases](complications-not-different-pre-post-tp.md) — related
+- [Complications and length of stay fell in the active group and rose in the control group after the intervention, but none of the clinical outcome changes reached statistical significance](clinical-outcomes-trended-better-not-significant.md) — related

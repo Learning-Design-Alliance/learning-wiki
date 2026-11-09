@@ -63,6 +63,7 @@ Digital tools reduce the logistical friction that makes peer feedback slow and s
 - Structured peer review protocols — the non-digital core of the same practice; digital tools are an accelerant, not a substitute for criteria and training
 - Revision cycles — the payoff mechanism; feedback only improves learning when it is acted upon
 - [Embed a light-touch guide with tips and worked examples in the peer feedback interface](embedded-light-touch-feedback-guide-strategy.md)
+- [Implementation tips for ICM instruction: preparation materials, incentives, assessment, structure, no repetition, learning groups, iterative feedback and easy-access technology](icm-implementation-tips-strategy.md)
 
 ## Examples
 - **Google Classroom / Schoology** — students submit drafts, peers leave margin comments, and the revision history documents that feedback was used.

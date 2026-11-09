@@ -59,3 +59,4 @@ Nationwide survey study of 2113 medical students from all 38 German medical scho
 - [HAM-Nat predictive validity after correction for indirect range restriction is r = .31, with incremental validity over PEA](ham-nat-corrected-predictive-validity-r31.md) — a narrower finding that bears on this claim
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
 - [Bachelor's GPA and MCQ exam results are positively correlated, supporting the accuracy of the GPA admission criterion](bachelors-gpa-mcq-positive-correlation.md) — related
+- [In a high-stakes selection procedure, the trial-studying test is the best predictor of first-year academic performance among the admission tests, with moderate to large predictive validity](trial-studying-test-best-predictor-first-year-performance.md) — related

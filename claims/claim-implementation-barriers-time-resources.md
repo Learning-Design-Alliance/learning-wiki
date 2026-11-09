@@ -55,3 +55,4 @@ Framework-method analysis of 27 interviews identified "time constraints, the lac
 - [The major implementation barriers were located in collective action: high caseloads, competing priorities and financial incentives pushed carer support below measurable service-user targets](collective-action-barriers-caseloads-priorities.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — related
+- [GPs identify patient-related, communication and organisational barriers to youth suicide prevention in primary care](gp-barriers-youth-suicide-prevention-primary-care.md) — related

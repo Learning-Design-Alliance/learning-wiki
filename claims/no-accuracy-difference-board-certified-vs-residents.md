@@ -52,3 +52,4 @@ Quasi-experimental comparison of 15 board certified internists and 10 residents 
 - [Residents reported significantly higher self-rated sleepiness and burnout than board certified internists](residents-higher-sleepiness-burnout-contextual-factors.md) — related
 - [In both groups the proportion achieving a correct treatment plan exceeded the proportion achieving a correct leading diagnosis in most cases](treatment-plan-accuracy-exceeds-diagnosis-accuracy.md) — related
 - [The authors propose residents may be less susceptible to contextual factors, counterbalancing their less-developed illness scripts](residents-possibly-less-susceptible-contextual-factors.md) — related
+- [Post-patient encounter form completion correlates with assessment scores, so PPEF scores were not compared between groups](ppef-completion-correlates-with-proficiency.md) — related

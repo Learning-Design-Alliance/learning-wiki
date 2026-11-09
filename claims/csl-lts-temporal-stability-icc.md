@@ -59,3 +59,4 @@ Intra-observer reliability was evaluated with a sample of 45 nursing students wh
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
 - [Both patient and self-assessment OCCAT questionnaires produce reliable scores with G-coefficients exceeding 0.9](claim-occant-reliable-scores-g-coefficients-exceed-0-9.md) — related
 - [The geometry knowledge test showed high test-retest reliability (ICC = 0.93 initial, ICC = 0.89 final)](geometry-test-high-reliability-icc.md) — related
+- [The TABLT test shows high reliability with an intraclass correlation coefficient of 0.99](tablt-high-reliability-icc-099.md) — related

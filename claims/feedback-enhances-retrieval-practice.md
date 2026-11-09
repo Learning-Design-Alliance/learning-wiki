@@ -142,3 +142,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related
 - [Voluntary practice quizzes plus a true/false summative test alone (step I) produced no measurable knowledge improvement](step-i-quizzes-no-knowledge-improvement.md) — related
 - [Elaborated autograded quizzes with clinical contexts and constructive alignment (step II) increased medical students' pharmacotherapeutic knowledge](step-ii-quizzes-increase-pharmacotherapeutic-knowledge.md) — related
+- [Podcasts combined with quizzes prior to medical instruction positively influence short- and medium-term knowledge retention (as reported by the review)](podcasts-quizzes-knowledge-retention.md) — related

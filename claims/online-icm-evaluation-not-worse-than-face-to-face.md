@@ -67,3 +67,4 @@ Brief feedback rounds directly following the seminar asked what students particu
 - [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](kahoot-interaction-maintained-online.md) — related
 - [The online evaluation response rate was higher than in previous classroom-based courses or asynchronous teaching](online-evaluation-higher-response-rate.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
+- [ICM implementation in health professions courses is associated with significantly improved exam results and high satisfaction compared with traditionally instructed prior semesters](icm-improved-exam-results-health-professions.md) — related

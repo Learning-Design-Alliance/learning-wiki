@@ -53,3 +53,4 @@ Objective stress measurement in the Lizotte 2017 parallel-group randomised trial
 - [Salivary cortisol fold increase was significantly higher after high-fidelity simulation (1.46) than after procedural simulation (1.22)](cortisol-fold-increase-higher-hf-than-ps.md) — related
 - [Testosterone concentration is significantly higher 120 minutes after high-fidelity simulation than before and immediately after](testosterone-higher-at-t2-after-hfs.md) — related
 - [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related
+- [Stress responses during simulation (salivary cortisol, STAI, cognitive appraisal) do not differ between in situ and off-site settings, though simulation itself raised cortisol and STAI in both](iss-oss-stress-no-difference.md) — related

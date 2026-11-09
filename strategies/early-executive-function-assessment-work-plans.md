@@ -52,6 +52,7 @@ The authors recommend evaluating children's executive function levels early in s
 - [Target executive function skills through early intervention at school transition to support academic and social development in autistic kindergartners](targeted-ef-intervention-school-transition-autistic.md)
 - [Early identification battery for children at risk for long-term mathematics difficulties](early-math-risk-identification-battery.md)
 - [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
+- [Implement comprehensive early-warning evaluation systems before recommending early school entry](early-warning-systems-school-entry-guidance.md)
 
 ## Examples
 -

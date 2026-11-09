@@ -59,3 +59,4 @@ The digest reports a 1996 study of third-year teaching students in which researc
 - [Team-based professional development can help higher education teachers learn to reflect critically on their teaching, but true reflection is often not achieved](team-pd-critical-reflection.md) — related
 - [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](near-peer-teaching-comfortable-environment.md) — related
 - [Teaching peers develops peer teachers' professional attitudes and a student-centred approach to teaching](peer-teaching-develops-professional-teacher-attitudes.md) — related
+- [Students experienced deeper learning through teaching peers, reflecting on their own understanding and bridging theory and practice](deeper-learning-by-teaching-theme.md) — related

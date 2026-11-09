@@ -63,3 +63,4 @@ Same 'I clarified my values' theme in the reflection analysis; participants repo
 - [Sensory experiences during experiential learning opportunities enhanced second-year nursing students' learning about death and dying](sensory-experiences-enhanced-eol-learning.md) — related
 - [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related
 - [Participants reported educational benefits from Spiritfarer in perceptions of death, understanding palliative care, and recognizing that people grieve differently](spiritfarer-educational-benefits-grief.md) — related
+- [Despite palliative care education, students reported avoiding difficult interactions such as talking about dying, and sometimes lacked competence and confidence](palliative-avoidance-despite-education.md) — related

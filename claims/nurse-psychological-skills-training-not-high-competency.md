@@ -48,3 +48,4 @@ This conclusion rests on the whole fidelity and competency assessment: only 72.4
 - [After MI/CBT skills training, primary care nurses achieved basic competency, with median MITI MI-Adherence of 86.2% and mean MITI Empathy of 4.09](nurse-post-training-basic-competency-miti.md) — reports the opposite
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — a broader claim this one bears on
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
+- [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — a narrower finding that bears on this claim

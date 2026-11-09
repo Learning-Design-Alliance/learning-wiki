@@ -69,3 +69,4 @@ Same 20-video reliability dataset: ICC on mean ratings across all seven items un
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [First-year medical students with enhanced medical improv training scored significantly higher on ECRS-rated OSCE communication than students with no medical improv](enhanced-medical-improv-higher-ecrs-osce-scores.md) — related
+- [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related

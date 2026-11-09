@@ -65,6 +65,8 @@ The article recommends that future programmes address skill decay by building in
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Counter skill decay with repeated training and periodic formative assessments](repeated-training-formative-assessments-skill-retention.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
+- [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 
 ## Examples
 -

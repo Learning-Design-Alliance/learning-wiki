@@ -51,3 +51,4 @@ In the same pilot randomized trial, safety was graded by identification of five 
 - [Simulation training also improved theoretical knowledge of invasive coronary angiography relative to conventional video training](simulation-training-higher-theoretical-knowledge.md) — related
 - [Coronary anastomosis simulation training is associated with higher objective skill scores than no formal simulation training](simulation-improves-coronary-anastomosis-skill-score.md) — a broader claim this one bears on
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related
+- [Prior formal LP training was not associated with significantly fewer errors or higher checklist scores in this sample](formal-training-no-significant-error-difference.md) — related

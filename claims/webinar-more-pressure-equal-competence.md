@@ -73,3 +73,4 @@ IMI perceived competence subscale comparison between randomized groups; the form
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [No significant difference between the models in perceived option or pressure/tension dimensions](sem-no-difference-perceived-option-pressure-tension.md) — reports the opposite
 - [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](pressure-and-competence-predict-test-results.md) — related
+- [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related

@@ -60,3 +60,4 @@ Post-simulation evaluation questionnaire with 5-point Likert items and comment b
 - [Residents rated the simulation session highly (4.29 presentation, 4.41 content) and gave positive qualitative feedback](residents-rate-defibrillator-simulation-highly.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related
+- [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related

@@ -49,3 +49,4 @@ IPA mapping of average importance and performance scores for each CCFNPS item ac
 - [Long-term-care students have the highest number of weak competencies requiring improvement](long-term-care-most-weak-competencies.md) — related
 - [Medical-centre students report larger gaps in professional attitude than long-term-care students](medical-centre-larger-professional-attitude-gap.md) — related
 - [Nursing students at medical centres report larger importance–performance gaps in total score than students at district hospitals](medical-centre-larger-total-gap-than-district-hospital.md) — related
+- [Trained students generated 207 reviewed MCQs covering 118 of 144 blueprint items, with shortfalls in Scientific Skills and partly Communication Skills competency areas](students-cover-118-of-144-blueprint-items.md) — related

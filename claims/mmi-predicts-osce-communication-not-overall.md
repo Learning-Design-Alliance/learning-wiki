@@ -53,3 +53,4 @@ Correlational analysis of the student sample (N = 400 admitted students with fir
 - [MMI scores significantly predict general-practitioner ratings of students' suitability for the medical profession, the strongest association found](hamburg-mmi-predicts-gp-suitability.md) — related
 - [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — reports the opposite
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related
+- [Some or major concerns at the CertHSc Career Aspirations MMI station are associated with lower first-year GPA, while other MMI stations show varied associations](mmi-station-career-aspirations-lower-gpa.md) — related

@@ -50,6 +50,7 @@ The article specifies an implementation strategy for building and maintaining st
 - [Predefine mandatory core debriefing elements for each simulation scenario to standardize knowledge consolidation](predefined-core-debriefing-elements.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [Incorporate NIHSS training into EM residency programs without delaying stroke-care metrics](incorporate-nihss-training-em-residency.md)
+- [Maintain qualifications through stroke-specific continuing education, quality assurance review, and minimum outcome benchmarks](maintenance-qualifications-cme-qa-benchmarks.md)
 
 ## Examples
 -

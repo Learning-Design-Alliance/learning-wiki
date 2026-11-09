@@ -66,3 +66,4 @@ Cost analysis using the ingredients method (Levin & McEwan, 2001), discounted by
 ## Related Claims
 - [Sensitivity tests show the SET intervention's benefit-cost ratio remains between 5.6:1 and 7:1 under smaller cohorts, heavy-users-only benefits, and 60% first-year fade-out](set-bcr-robust-sensitivity-tests.md) — related
 - [Cost-benefit research suggests returns of up to $15 in social value and economic benefits per dollar spent on school-based wraparound services](community-schools-cost-benefit-return.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

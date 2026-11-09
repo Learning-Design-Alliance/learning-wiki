@@ -48,3 +48,4 @@ Ten knowledge items in the cluster RCT compared by chi-square/Fisher's exact tes
 ## Related Claims
 - [Effects of the e-learning program persisted over time on coping difficulty, actual behavior, knowledge of onset timing and probability, and achievement of all program goals](e-learning-program-effects-over-time-teachers.md) — related
 - [A 30-minute video e-learning program significantly reduces elementary schoolteachers' sense of coping difficulty in supporting children of parents with mental illness at one month post-intervention](e-learning-program-reduces-teacher-coping-difficulty.md) — related
+- [About 80% of parents sought medical help within approximately one month of symptom onset; in a single-group pre-post study, half-year delays fell from before to after the program](parents-help-timing-within-one-month.md) — related

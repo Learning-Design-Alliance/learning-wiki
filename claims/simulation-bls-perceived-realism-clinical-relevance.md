@@ -67,3 +67,4 @@ Qualitative thematic finding from focus group discussions with 40 undergraduate 
 - [Nursing students want VR-based simulation to offer difficulty-phased scenarios, immediate game-like feedback, emergency and rare cases, and communication practice](student-needs-vr-simulation-scenarios-feedback-communication.md) — related
 - [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
+- [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related

@@ -68,3 +68,4 @@ Qualitative structural analysis of the physician-precaution cooccurrence network
 - [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
 - [Integrated intervention changes the network structure of EF-mathematics relations, increasing interconnectedness relative to control](network-interconnectedness-ef-math-increases-post-intervention.md) — related
 - [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related
+- [Cluster analyses reveal mixed clusters of scientific and alternative conceptions, indicating fragmented rather than coherent knowledge structures](cluster-analysis-fragmented-knowledge-profiles.md) — related

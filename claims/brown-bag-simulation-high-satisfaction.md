@@ -51,3 +51,4 @@ Postsimulation formative feedback on a 5-point Likert satisfaction scale collect
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
+- [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related

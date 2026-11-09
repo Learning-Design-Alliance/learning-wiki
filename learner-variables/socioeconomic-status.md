@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 292 claims (158 show a difference, 66 mixed, 68 no difference) · 219 studies (102 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 36 of 219 report an effect size · 291 claims rest on one study
+> **Evidence** · 293 claims (159 show a difference, 66 mixed, 68 no difference) · 220 studies (103 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 37 of 220 report an effect size · 292 claims rest on one study
 
 ## How to read this page
 
@@ -377,6 +377,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [As the Bloom's level of introductory biology exams increases, low-SES students' performance declines more rapidly than middle/high-SES students' of equal prior academic ability, creating an SES-based achievement gap](../claims/higher-blooms-exams-widen-ses-gap-intro-biology.md) [+M] — an instructional effect differs by group
 - [First-generation university students underperformed only on the language skills test](../claims/first-generation-underperformance-language-test-only.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Increasing the percentage of constructed-response questions on introductory biology exams benefits middle/high-SES students more than low-SES students of equal prior academic ability](../claims/constructed-response-questions-favor-high-ses-students.md) [+M] — an instructional effect differs by group
+- [Socioeconomic status is the strongest predictor of eighth-grade academic performance, explaining 19% of variance](../claims/ses-strongest-predictor-simce-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

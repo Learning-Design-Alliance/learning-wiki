@@ -48,6 +48,7 @@ The article's recommendations section proposes six refinements for future mentor
 
 - [When planning mentoring to support evidence uptake, plan regular meetings over time, choose an appropriate delivery approach, establish a mentor-mentee matching process, and consider combining mentoring with other KT interventions](plan-mentoring-kt-implementation-recommendations.md)
 - [Embed mentoring into experiential learning training opportunities for teachers to build foundational teaching skills](embed-mentoring-in-experiential-teacher-training.md)
+- [Extend competency-based progress testing to higher-level formats (key feature, situational judgement, OSCE) and richer feedback, with continued student involvement](competency-progress-test-future-formats-strategy.md)
 
 ## Examples
 -

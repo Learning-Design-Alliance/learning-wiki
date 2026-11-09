@@ -48,3 +48,4 @@ Same pre/post questionnaire study (n = 158); paired t tests on the weighted 35-i
 - [Physicians-in-training rated VLCAM highly on all satisfaction items, with all scores over 3 on a 4-point scale](vlcam-high-user-satisfaction.md) — related
 - [Overall asthma guideline awareness scores rose significantly from pre-test to post-test after a 2-week VLCAM e-learning period among physicians-in-training, in one single-group pre-post study](vlcam-improved-asthma-guideline-awareness.md) — a broader claim this one bears on
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
+- [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](pa-learning-outcomes-awareness-attitudes-self-efficacy.md) — related

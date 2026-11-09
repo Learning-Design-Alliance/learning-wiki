@@ -72,3 +72,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](remote-psychotherapy-supervision-comparable-quality-less-preferred.md) — related
 - [Students came to see that online teaching needs new figures and tools that facilitate communication and aggregation, particularly a supportive tutor figure](online-teaching-needs-supportive-tutor-figure.md) — related
 - [Participants reported mostly positive mental wellbeing online, with social isolation and lost peer contact as key barriers](mental-wellbeing-online-term-positive-with-isolation-barrier.md) — related
+- [Social media heralds a more participatory and collaborative approach to knowledge development and can support virtual communities of practice](social-media-participatory-knowledge-development.md) — related

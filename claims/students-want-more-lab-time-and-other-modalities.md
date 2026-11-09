@@ -49,3 +49,4 @@ Descriptive analysis of the open-ended questionnaire items in the same trial; th
 - [A minority of participants disliked the simulation modality and preferred alternative learning approaches](vital-coms-minority-dislike-simulation.md) — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Three qualitative themes emerged from free-text responses: visual engagement and retention, preference for blended delivery, and projection visibility as a technical constraint](rat-qualitative-themes-three.md) — related
+- [A majority of community college students in first-time CREATE courses preferred CREATE to other teaching methods they had experienced](cc-create-student-preference-over-lecture.md) — related

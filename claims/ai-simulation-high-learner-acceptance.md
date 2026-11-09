@@ -72,3 +72,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [First-semester medical students evaluate the IC-MD procedure positively, with acceptance scores ranging from 3.9 (quality of measurement) to 5.4 (controllability)](ic-md-participant-acceptance.md) — related
 - [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
 - [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related
+- [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related

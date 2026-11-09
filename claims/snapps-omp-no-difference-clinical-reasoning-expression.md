@@ -60,3 +60,5 @@ Randomized controlled trial in which 30 students per group presented two written
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
 - [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](snapps-inpatient-uncertainty-expression.md) — related
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related
+- [SNAPPS residents rated presenting the case efficiently, in the sequence given, and in depth significantly more highly than OMP residents](snapps-higher-self-eval-efficiency-sequence-depth.md) — reports the opposite

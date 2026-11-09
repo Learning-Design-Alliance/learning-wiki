@@ -52,3 +52,4 @@ Chi-square tests across 500 participants found no significant association for an
 - [Gender and marital status are significantly associated with AMS knowledge scores, and marital status with attitude scores, among clinical dental students in southern Nigeria](gender-marital-status-associated-ams-knowledge-dental-students.md) — reports the opposite
 - [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
 - [No statistically significant differences in nomophobia scores across academic level, residential status, marital status, college, or student habits](no-sociodemographic-differences-nomophobia-scores.md) — related
+- [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related

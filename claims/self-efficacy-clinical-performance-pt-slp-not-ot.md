@@ -48,3 +48,4 @@ Review synthesis of 3 observational studies of self-efficacy and clinical perfor
 - [Grit shows the strongest relationship to academic performance of all non-cognitive factors examined in rehabilitation science students](grit-strongest-non-cognitive-correlate-academic-performance-rehabilitation.md) — related
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related
+- [Health students self-assess their motivational interviewing skills as competent and higher than scores expected from beginners](students-self-assess-mi-skills-competent-miti.md) — related

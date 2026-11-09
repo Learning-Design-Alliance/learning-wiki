@@ -46,6 +46,7 @@ The authors recommend conversation training with simulated patients as a targete
 - [Combine immediate standardized-patient feedback, video review, and self-feedback diary entries as the core of OSCE remediation](video-remediation-with-sp-feedback-and-self-feedback-diary.md)
 - [Use standardized patient encounters with immediate faculty feedback and peer observation for communication skills practice](sp-encounters-immediate-feedback-peer-observation-strategy.md)
 - [Use a short post-consultation questionnaire to give fast formative feedback between simulated patient interviews](quick-formative-feedback-between-simulated-consultations.md)
+- [Use feedback after standardized patient encounters and flexible delivery modes to improve future clinic-based STI training](sp-feedback-and-flexible-delivery-sti-training-strategy.md)
 
 ## Examples
 -

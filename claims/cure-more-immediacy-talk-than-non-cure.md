@@ -48,3 +48,4 @@ Observational comparison of audio recordings from 24 CURE and 24 non-CURE introd
 ## Related Claims
 - [The distribution of immediacy talk per hour did not differ significantly between CURE and non-CURE instructors](immediacy-talk-distributions-not-significant.md) — related
 - [CUREs develop students' critical thinking, experimental design, and quantitative analysis skills and provide a more inclusive research environment](cures-develop-skills-inclusive-environment.md) — related
+- [The authors hypothesize specific Instructor Talk subcategories may mitigate student resistance and stereotype threat and build instructor immediacy](instructor-talk-subcategories-hypothesized-outcomes.md) — related

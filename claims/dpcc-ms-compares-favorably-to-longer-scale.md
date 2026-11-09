@@ -50,3 +50,4 @@ Phase 2 comparison in which eleven clinical teachers assessed 35 OSCE videos wit
 - [Inter-rater reliability of the DPCC-MS varies substantially across rater pairs, from poor to excellent](dpcc-ms-inter-rater-reliability-variable.md) — related
 - [Internal consistency of the DPCC-MS is lower for junior than senior students, possibly due to less uniform assessor expectations](dpcc-ms-lower-reliability-junior-students.md) — related
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
+- [The error-focused checklist shows lower internal consistency than the conventional checklist despite high inter-rater reliability for both](error-focused-checklist-low-internal-consistency.md) — related

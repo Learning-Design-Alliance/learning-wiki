@@ -48,3 +48,4 @@ End-of-program timing of thread transfer, dice stacking, paperclip untangling an
 - [Adding test-enhanced learning to a laparoscopic simulation program significantly increases learner attendance compared with a standard program](tel-increases-laparoscopic-simulation-attendance.md) — related
 - [Both TEL and control groups improved significantly in thread transfer time from beginning to end of the program, with no between-group difference](thread-transfer-improvement-both-groups.md) — possibly the same claim (merge candidate)
 - [In all three groups, time decreased and smoothness values rose significantly from pre-test to later tests, with no significant group differences in handedness or distance between instrument tips](within-group-improvement-all-groups.md) — related
+- [The word 'enhanced' in 'technology-enhanced learning' implies a value judgement, making the term problematic though worth retaining with care](tel-enhanced-implies-value-judgement.md) — related

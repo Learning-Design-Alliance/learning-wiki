@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 308 claims (147 for, 146 mixed, 15 against) · 226 studies (69 causal, 69 associational, 28 review, 18 quant-synthesis, 16 qualitative, 15 theoretical, 11 design), `q1`–`q4` · 51 of 226 report an effect size · 292 claims rest on one study
+> **Evidence** · 309 claims (147 for, 147 mixed, 15 against) · 227 studies (70 associational, 69 causal, 28 review, 18 quant-synthesis, 16 qualitative, 15 theoretical, 11 design), `q1`–`q4` · 52 of 227 report an effect size · 293 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -355,6 +355,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Learning goals in GP trainee e-portfolios lack specificity but are mostly challenging and mutually congruent](../claims/goal-specificity-low-challenge-high-in-eportfolios.md) [+W] — attached 2026-11-08 from van der Gulden R et al. (2020), which proposed "Portfolio-supported SRL process framework: self-assessment via reflection and feedback, goal-setting and planning, and monitoring".
 - [About three-quarters of GP trainee e-portfolios show signs of monitoring, but in a third of these cases monitoring is limited to a single feedback request](../claims/monitoring-signs-in-three-quarters-of-eportfolios.md) [+W] — attached 2026-11-08 from van der Gulden R et al. (2020), which proposed "Portfolio-supported SRL process framework: self-assessment via reflection and feedback, goal-setting and planning, and monitoring".
 - [Trainees perceive the mini-CEX as a cyclical process of goal setting, task translation and perceived outcome that maps onto the three SRL phases and is influenced throughout by supervisor co-regulation](../claims/mini-cex-srl-cyclical-four-themes.md) [+W] — attached 2026-11-08 from Kipen Eva et al. (2019), which proposed "Zimmerman's self-regulated learning framework as an interpretive lens for workplace-based assessment".
+- [Three self-regulated learning skills (planning, monitoring, evaluation) slightly decrease between the second and sixth pre-clinical semester of medical school, while reflection, effort and self-efficacy do not change](../claims/srl-skills-decrease-pre-clinical-medical-school.md) [~W] — attached 2026-11-09 from Lucieer Susanna M. et al. (2016), which proposed "Six-component model of self-regulated learning combining cognitive and motivational skills".
 
 ## The evidence by question
 

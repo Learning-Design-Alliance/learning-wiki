@@ -39,6 +39,7 @@ The authors propose that web-based platforms such as learning management systems
 ## Related Strategies
 
 - [Leverage digital learning platforms to run unobtrusive randomized experiments on language modifications in math problems](dlp-unobtrusive-language-experiments.md)
+- [Use web-based educational platforms to run individual-level randomized crossover experiments in the classroom](web-platforms-classroom-rct-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,5 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [IVR's animated, novel environment can act as a safe zone easing speaking up about mistakes, but recording and occluded vision can threaten psychological safety](ivr-psychological-safety-safe-zone-and-threats.md) — related
 - [Trainees perceived feedback as critically important for self-reflection, with meaningful feedback requiring a private space, an engaged supervisor and an unhurried manner](mini-cex-feedback-quality-conditions.md) — related
+- [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
+- [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related

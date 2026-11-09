@@ -69,3 +69,4 @@ Same cluster randomized controlled trial, secondary knowledge questionnaire. Cor
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — a broader claim this one bears on
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — a broader claim this one bears on
+- [Lay health workers reported increased TB and HIV knowledge and job-specific knowledge after the training](lhw-reported-knowledge-gains-tb-hiv.md) — related

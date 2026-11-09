@@ -48,3 +48,5 @@ Subgroup analysis of the same prospective interventional study, reported in the 
 - [Oncologists' short-term prognostic accuracy on the surprise question rose from 72.6% in the untrained phase to 84.3% after training in a single-group pre-post study with no comparison group](prognosis-training-improves-surprise-question-accuracy.md) — related
 - [Electronic prognostic tools used alone performed significantly worse than physicians on the surprise question and did not improve physician accuracy when used alongside them](prognostic-tools-alone-worse-and-no-added-benefit.md) — related
 - [Long-term prognostication (clinician prediction of survival) was poor at 25.9% accurate and could not be significantly improved by the training programme](cps-long-term-prognostication-poor-and-untrainable.md) — related
+- [The curriculum improved prognostic accuracy in one of two hypothetical cases, significantly different from controls](prognosis-curriculum-improved-prognostic-accuracy.md) — related
+- [The curriculum significantly increased residents' use of evidence-based prognostic tools in hypothetical cases](prognosis-curriculum-increased-prognostic-tool-use.md) — related

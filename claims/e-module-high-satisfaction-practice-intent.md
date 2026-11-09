@@ -81,3 +81,4 @@ Self-reported intent to change practice on the postmodule survey; 60 (87%) said 
 - [Most workshop participants planned to apply the training in clinical practice and to share it with other health professionals and students](breathlessness-workshop-participants-plan-practice-change.md) — related
 - [Staff reported universally high satisfaction with the tele-education program](high-staff-satisfaction-tele-education.md) — related
 - [Course non-completers report similar educational and professional benefits to completers](non-completers-report-similar-benefits.md) — related
+- [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related

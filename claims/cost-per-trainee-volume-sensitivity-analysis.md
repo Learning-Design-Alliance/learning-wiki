@@ -49,3 +49,4 @@ Sensitivity analysis over scenarios of 1 to 500 trainees, reported with Table 4,
 - [Total PBP training cost crosses the apprenticeship cost-equivalence point at about 25 trainees and saves 110% at 500 trainees](pbp-total-cost-equivalence-point-25-trainees.md) — related
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related
 - [The direct cost of training one trainee to the abdominal ultrasound mastery level was estimated at USD 638 using micro-costing](simulation-mastery-abdominal-us-cost-638-per-trainee.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

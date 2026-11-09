@@ -57,3 +57,4 @@ Questionnaire surveys administered after PBL teaching in the included studies, r
 - [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
 - [Step-by-step teaching improves work attitude, team spirit and analytical ability, but not expression or communication skills, in postgraduate reproductive ultrasound trainees](sbs-mixed-effects-clinical-competence-subdomains.md) — related
 - [PBL group work on the module exhibited development of leadership, communication, and independent learning skills](pbl-groupwork-develops-leadership-communication-independent-learning.md) — related
+- [The article claims the WeChat–PBL model increases learning enthusiasm and works for students with poor self-motivation](wechat-pbl-learning-enthusiasm.md) — related

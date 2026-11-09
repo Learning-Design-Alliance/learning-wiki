@@ -51,3 +51,4 @@ Across FGDs and IDIs, training was named a major motivating factor; participants
 - [Lack of training, delayed salaries and insufficient medicines and supplies impede iCCM knowledge and skill development](supplies-salary-training-demotivate-lhws.md) — related
 - [Children managed by a Health Extension Worker who attended a performance review and clinical mentoring meeting had about eight times the odds of being correctly managed for iCCM illnesses](prcmm-attendance-associated-correct-management.md) — related
 - [Health Extension Workers who received follow-up training within eight weeks of iCCM training were significantly more likely to manage children correctly](follow-up-training-associated-correct-management.md) — related
+- [Many lay health workers suggested quarterly refresher meetings, with differing views on whether they should be held on-site or off-site with peers from multiple centres](lhw-quarterly-refresher-meeting-suggestions.md) — related

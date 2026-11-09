@@ -47,6 +47,7 @@ The article demonstrates using a Delphi methodology to generate consensus among 
 - [Iterate simulation scenarios through expert Delphi rounds plus a student pilot, adding clarity, printed results, and structured assessment](iterative-scenario-refinement-experts-pilot.md)
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
 - [Use a Delphi panel with predefined inclusion and stopping criteria to build cross-institution consensus on procedure steps](delphi-consensus-for-procedure-breakdown.md)
+- [Use quantitative work analysis (O*NET questionnaires) to generate local competency frameworks](quantitative-work-analysis-local-competency-framework.md)
 
 ## Examples
 -

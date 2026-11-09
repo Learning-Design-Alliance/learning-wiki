@@ -57,3 +57,5 @@ Primary outcome of a randomised controlled trial with pre-post-transfer-test des
 - [More dyad than single-practice trainees achieved OSAUS scores above the pass/fail standard on the clinical transfer test](dyad-higher-transfer-pass-rate.md) — reports the opposite
 - [Dyad practice is non-inferior to individual practice in transferring simulation-based ultrasound skills to clinical performance with patients](dyad-practice-non-inferior-skills-transfer-ultrasound.md) — a narrower finding that bears on this claim
 - [Simulation-based ultrasound training improves OSAUS performance from pre- to post-test in both groups, with no interaction with training type](simulation-training-pre-post-gain-no-interaction.md) — related
+- [The training effect on clinical performance did not vary by hospital](no-hospital-effect-on-performance.md) — related
+- [A far greater proportion of simulation-trained residents passed a pre-established OSAUS pass/fail level than clinically trained controls](simulation-tvs-training-pass-fail-proportion.md) — related

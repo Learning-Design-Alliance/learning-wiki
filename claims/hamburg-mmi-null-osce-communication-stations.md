@@ -51,3 +51,4 @@ Study 3 (same OSCE data, n = 89 with MMI data): station-level Spearman correlati
 - [The prediction of OSCE communication performance by MMI scores did not differ across sociodemographic subgroups, supporting the predictive fairness of the Hamburg MMI](hamburg-mmi-predictively-fair-across-subgroups.md) — related
 - [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — related
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related
+- [Some or major concerns at the CertHSc Career Aspirations MMI station are associated with lower first-year GPA, while other MMI stations show varied associations](mmi-station-career-aspirations-lower-gpa.md) — related

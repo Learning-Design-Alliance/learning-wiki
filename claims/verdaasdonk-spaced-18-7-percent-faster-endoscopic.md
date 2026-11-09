@@ -55,3 +55,4 @@ Randomized control trial (n=20 students) using the SIMENDO VR simulator, three d
 - [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related
 - [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](shorter-cpr-intervals-faster-acquisition.md) — a narrower finding that bears on this claim
 - [Structured simulation curricula outperform self-regulated simulation learning for endoscopic skill acquisition](structured-curriculum-beats-self-regulated-sbt.md) — related
+- [The distributed practice effect appears to depend on task type and task complexity as well as the interval between sessions](distributed-practice-effect-depends-on-task-type-complexity.md) — a broader claim this one bears on

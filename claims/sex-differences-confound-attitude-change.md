@@ -59,3 +59,4 @@ The authors report that "Men and women Ss varied in their responses to these con
 - [Within the experimental group, female participants responded better to humour-based teaching than male participants](female-participants-respond-better-humour.md) — related
 - [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related
 - [The e-learning programme produced no change in attitudes towards supporting perinatal women](elearning-no-attitude-change.md) — related
+- [Moving from small-group to whole-class discussion lowers comfort being oneself more for women than men, and lower competency students report less comfort](participation-context-comfort-gender-moderation.md) — related

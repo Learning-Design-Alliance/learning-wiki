@@ -49,3 +49,4 @@ Pre-post survey analysis of 35 internal medicine interns after a 4-station OSCE,
 - [Station checklists identified performance gaps in all four stations despite orientation education and inpatient practice, enabling targeted actionable feedback](osce-checklists-identified-performance-gaps-all-stations.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Students rate OSCE feedback as very helpful and report high subjective learning progress](aalplus-osce-feedback-ratings.md) — related
+- [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related

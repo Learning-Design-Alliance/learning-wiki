@@ -69,3 +69,4 @@ Comprehensive rotation evaluation comparisons in the same quasi-experimental coh
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related
 - [No difference in GAP-test competence scores between vertically integrated and non-vertically integrated curricula](no-curriculum-type-difference-gap-test.md) — related
+- [The study could not demonstrate that vertically integrated curricula prepare graduates better for clinical practice](vi-readiness-advantage-not-demonstrated.md) — related

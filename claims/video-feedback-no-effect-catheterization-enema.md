@@ -48,3 +48,4 @@ In the same 195-student observational comparison, catheterization adjusted mean 
 - [No significant difference between video-based peer feedback and expert feedback for indwelling urinary catheterization or simple interrupted suture](vpf-vef-no-difference-catheterization-suturing.md) — related
 - [Smartphone-based video feedback is associated with significantly higher scores on the final examination and on bed making, aseptic procedure, vital signs measurement, and oxygen therapy assignments](video-feedback-smartphone-higher-nursing-skill-scores.md) — related
 - [Smartphone-based video feedback did not improve general self-efficacy as measured by the GSE Scale](video-feedback-no-gse-self-efficacy-change.md) — related
+- [Mobile video access did not significantly improve urinary catheterization knowledge or skill performance in the 1-week trial](mobile-video-no-significant-knowledge-skill-gains.md) — possibly the same claim (merge candidate)

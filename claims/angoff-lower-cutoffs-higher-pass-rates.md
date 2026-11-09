@@ -56,3 +56,4 @@ The review reports, from Khalid et al.'s comparison of Angoff with relative/norm
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
 - [Correlations between course evaluations and grade measures become non-significant when grades are corrected using modified Hofstee cut points](hofstee-cut-points-eliminate-grade-evaluation-correlation.md) — related
 - [Norm-referenced SET cut-offs label more professors unsatisfactory than criterion-referenced cut-offs, and quantitative courses draw lower SET ratings](norm-referenced-set-cutoffs-label-more-unsatisfactory.md) — related
+- [Norm-referenced methods predominated for setting cut-off scores, with criterion-referenced methods used only for OSCEs](dach-norm-referenced-cut-off-scores.md) — related

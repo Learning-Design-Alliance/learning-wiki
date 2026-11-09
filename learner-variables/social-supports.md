@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 176 claims (133 show a difference, 31 mixed, 12 no difference) · 129 studies (49 associational, 25 qualitative, 18 causal, 17 review, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 129 report an effect size · 176 claims rest on one study
+> **Evidence** · 177 claims (134 show a difference, 31 mixed, 12 no difference) · 130 studies (49 associational, 26 qualitative, 18 causal, 17 review, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 130 report an effect size · 177 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -212,6 +212,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](../claims/non-repeat-rate-sociodemographic-associations.md) [+W] — learners who differ on it differ in outcomes
 - [Poor work–life balance and lack of autonomy over job location can separate BME UKG and IMG trainees from family support, with reported stress, anxiety or burnout hindering learning and performance](../claims/work-life-balance-wellbeing-differential-attainment.md) [+M] — learners who differ on it differ in outcomes
 - [Relationships with senior doctors are perceived as crucial to learning, but BME UKGs and IMGs report less senior support and more senior distrust, attributed partly to bias](../claims/senior-relationships-bias-bme-img.md) [+M] — learners who differ on it differ in outcomes
+- [Students identified the palliative care course competencies, supportive qualified nurses and supportive family caregivers as facilitators of learning transfer](../claims/palliative-transfer-facilitators.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

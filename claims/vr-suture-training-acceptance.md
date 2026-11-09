@@ -68,3 +68,4 @@ Overall acceptance item from the same post-training survey (Fig. 4 Likert plot):
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
+- [Students showed a high level of motivation and high acceptance when using the ALICE simulator](alice-high-student-acceptance-motivation.md) — related

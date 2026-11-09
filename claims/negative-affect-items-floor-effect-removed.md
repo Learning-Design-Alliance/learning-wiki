@@ -54,3 +54,4 @@ Item reduction analysis in Sample 1 (N = 1217) on the four negatively keyed affe
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
 - [Item reduction reduced the AHABI from 56 initial items to 20 via expert judgement and low-discrimination removal](ahabi-item-reduction-56-to-20.md) — related
 - [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related
+- [Pilot testing removed or revised 16 SMCI items due to low discrimination, high interitem correlations, or participant feedback](smci-pilot-item-reduction.md) — related

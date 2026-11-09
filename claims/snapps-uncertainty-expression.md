@@ -66,3 +66,4 @@ The review reports one study of Japanese junior residents comparing SNAPPS and O
 ## Related Claims
 - [SNAPPS students express significantly more questions and uncertainties than OMP students in both simple and complex cases](snapps-more-questions-uncertainties.md) — related
 - [SNAPPS presentations roughly doubled expressed uncertainties, and almost all SNAPPS students sought clarification versus about 60% of controls](snapps-inpatient-uncertainty-expression.md) — a narrower finding that bears on this claim
+- [SNAPPS residents rated it easier to express questions and uncertainties than OMP residents](snapps-higher-self-eval-qu-item.md) — related

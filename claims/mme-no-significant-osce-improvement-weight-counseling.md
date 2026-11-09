@@ -50,3 +50,4 @@ Group-randomized trial of eight US medical schools; third-year students complete
 - [More self-reported hours of weight management counseling learning in the preclinical years is significantly positively associated with both OSCE score and perceived counseling skill](wmc-training-hours-osce-skills-association.md) — related
 - [MME and TE students showed no statistically significant difference in total self-reported weight management counseling skill](mme-te-self-reported-skills-null.md) — related
 - [Medical students' self-perceived weight management counseling skill is discordant with their observed OSCE performance for weight-related advising tasks](skill-perception-performance-discordance-weight-counseling.md) — related
+- [OSCE performance outcomes show no significant association with demographics, religiosity, or clerkship site](no-demographic-religiosity-site-association.md) — related

@@ -51,3 +51,6 @@ In the cross-sectional survey, univariate analysis showed skipping breakfast "OR
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — reports the opposite
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — reports the opposite
 - [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](null-multivariate-predictors-gender-ses-stress-atmosphere.md) — related
+- [Breakfast skipping is associated with higher odds of poor Mathematics performance](breakfast-skipping-poor-mathematics-performance.md) — reports the opposite
+- [Low diet quality is associated with higher odds of poor English Language Arts performance in elementary students](low-diet-quality-poor-ela-performance.md) — related
+- [Low Youth Healthy Eating Index score is associated with higher odds of poor ELA performance](low-yhei-poor-ela-performance.md) — related

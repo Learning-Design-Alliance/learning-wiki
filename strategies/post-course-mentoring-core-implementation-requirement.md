@@ -57,6 +57,7 @@ The article recommends that nurse managers and innovation mentors treat post-cou
 - [Integrate caring-ability training into novice nurse development with theory-practice curricula and senior-nurse mentorship](caring-ability-training-novice-nurse-development.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
+- [Post-course refreshers, support and mentorship, plus preparing placement sites and educating nurses, families and policy makers about palliative care](palliative-transfer-support-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 247 claims (161 show a difference, 57 mixed, 29 no difference) · 213 studies (104 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 42 of 213 report an effect size · 243 claims rest on one study
+> **Evidence** · 248 claims (162 show a difference, 57 mixed, 29 no difference) · 214 studies (104 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 8 design, 3 theoretical), `q1`–`q4` · 42 of 214 report an effect size · 244 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -304,6 +304,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Full-day CPC classrooms provided nearly 2.5 times more total instructional hours than part-day classrooms, proportionately across domains](../claims/cpc-full-day-instructional-hours-984-vs-417.md) [+M] — measured as an outcome of the instruction studied
 - [High treatment dosage predicted positive outcomes for children across a wide age range, challenging the perception that only young children benefit from intensive ABA](../claims/high-dosage-benefits-wide-age-range.md) [+M] — learners who differ on it differ in outcomes
 - [PATHS was implemented with high fidelity, quality, responsiveness and reach but roughly half the recommended lesson dosage](../claims/paths-implementation-high-fidelity-low-dosage.md) [+M] — measured as an outcome of the instruction studied
+- [The first course implementation ended prematurely because participating nursing students could not be convinced to continue amid reservations about medical-student participation, course obligations, timetable conflicts and time burden](../claims/first-piloting-premature-termination-barriers.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

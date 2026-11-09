@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-09
 sources:
   - id: friederichs-hendrik-2016
     resource: "https://doi.org/10.3205/zma001055"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After the mastery learning intervention, 97.2% of students passed the PVC insertion test, with mean scores rising from 15.56 to 20.50 (P<0.001, Cohen's d 2.79). [→ Friederichs Hendrik 2016](#friederichs-hendrik-2016)

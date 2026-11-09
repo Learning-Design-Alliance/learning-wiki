@@ -53,3 +53,4 @@ The author's interpretive explanation (not a tested result) for the perception-a
 - [Students reported lower difficulty in the DPBL approach than in the direct instruction approach](dpbl-lower-student-difficulty-than-direct-instruction.md) — related
 - [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — related
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
+- [Students perceived the problem-based fundamental nursing curriculum as predominantly lecture-based despite its problem-based design intention](students-perceived-pbln-as-lecture-based.md) — related

@@ -90,3 +90,4 @@ Spearman correlation between SUS score and skill-test completion-time mean diffe
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [Older students report statistically higher simulation design and educational practice scores than younger students](older-students-higher-sds-epq-scores.md) — related
+- [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related

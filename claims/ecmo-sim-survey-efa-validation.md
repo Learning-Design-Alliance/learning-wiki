@@ -72,3 +72,4 @@ Postsurvey factor analysis from the same study, using 26 records and yielding 3 
 - [The app embeds a 14-item pre/post assessment questionnaire with 5-level responses, 9 items shared across both surveys](pre-post-14-item-in-app-questionnaire.md) — related
 - [Mayo High Performance Teamwork Scale responses shifted from a 71% presurvey average to a 95% postsurvey average of consistent teamwork behavior](mayo-teamwork-scale-71-to-95-shift.md) — related
 - [Simulation-based training improved ECMO emergency team performance, including shorter oxygenator change and deployment times, though studies were small](ecmo-simulation-team-performance-times.md) — related
+- [Items written to measure participation in science practices did not form a single unidimensional scale and were removed from the LCAS](science-practices-not-unidimensional-lcas.md) — related

@@ -69,3 +69,4 @@ Same qualitative dataset. Students found it "challenging to provide constructive
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — related
 - [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
 - [Educators and trainees expressed remarkably similar views, with trainees emphasising logbooks, protected time, scenario complexity and feedback detail](educator-trainee-response-similarity.md) — related
+- [Students considered real patients' feedback useful but less beneficial than supervisor or trained-actor feedback](real-patient-feedback-vs-supervisor-feedback.md) — related

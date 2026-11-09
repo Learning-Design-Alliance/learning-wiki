@@ -49,3 +49,4 @@ Content analysis of the 26 included studies coded against the ACGME framework. T
 - [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related
 - [Non‐technical skills are explicitly addressed as a dedicated component in only 11.9% of curricula, with communication skills (64.3%) far more common than professionalism (23.8%) or leadership (26.2%)](non-technical-skills-dedicated-component-11-9-percent.md) — related
 - [Interpersonal and communication skills benefited most from distance learning while patient care and technical skills benefited least](unequal-competency-domain-benefits-from-distance-learning.md) — related
+- [The Chinese doctors' competencies framework is similar to the ACGME and CanMEDS frameworks](chinese-framework-similar-acgme-canmeds.md) — related

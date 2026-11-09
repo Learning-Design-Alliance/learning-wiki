@@ -70,3 +70,4 @@ Descriptive thematic analysis of focus group discussions conducted after the pos
 - [Students report learning outcomes across patient-related, behavioural, emotional, and error-handling dimensions of communication competence](simulation-learning-outcomes-themes.md) — related
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related
+- [Qualitative feedback identified challenge, realism, clinical value, educator value, absence of context and physical environment as themes, with the virtual patient seen as more challenging but yielding similar benefit](qualitative-themes-placement-experience.md) — related

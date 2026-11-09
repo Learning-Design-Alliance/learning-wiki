@@ -52,3 +52,4 @@ An experiment in which 88 participants viewed two weblectures in one of three vi
 - [No difference in reported attention between visibility-modes after watching a short weblecture](no-visibility-effect-reported-attention-short-weblecture.md) — related
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [Students prefer weblectures with a visible lecturer over audio and slides only](student-preference-visible-lecturer-weblectures.md) — related
+- [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related

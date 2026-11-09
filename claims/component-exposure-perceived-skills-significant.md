@@ -69,3 +69,4 @@ Exposure analysis within MME schools (Table 4): students completing two componen
 - [Multi-modal weight management education did not produce a statistically significant improvement in medical students' OSCE-assessed 5As counseling skills versus traditional education](mme-no-significant-osce-improvement-weight-counseling.md) — related
 - [MME and TE students showed no statistically significant difference in total self-reported weight management counseling skill](mme-te-self-reported-skills-null.md) — related
 - [Medical students' self-perceived weight management counseling skill is discordant with their observed OSCE performance for weight-related advising tasks](skill-perception-performance-discordance-weight-counseling.md) — related
+- [OSCE performance outcomes show no significant association with demographics, religiosity, or clerkship site](no-demographic-religiosity-site-association.md) — related

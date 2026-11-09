@@ -46,6 +46,7 @@ The review recommends that situational judgement tests, which have demonstrated 
 ## Related Strategies
 
 - [Extend prescribing competence assessment research to professions other than medicine](recommend-extend-assessment-research-to-other-professions.md)
+- [Extend competency-based progress testing to higher-level formats (key feature, situational judgement, OSCE) and richer feedback, with continued student involvement](competency-progress-test-future-formats-strategy.md)
 
 ## Examples
 -

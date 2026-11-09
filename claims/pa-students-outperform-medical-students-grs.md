@@ -51,3 +51,4 @@ Cross-cohort comparison with the authors' prior medical-student study using the 
 - [Prior ultrasound or clinical exposure eases acquisition of ultrasound-guided procedural skills for PA students](prior-us-exposure-eases-skill-acquisition.md) — related
 - [Instructor type (medical student, clinical anatomist, or emergency medicine physician) did not significantly affect procedure time, attempts, performance scores, or self-confidence](instructor-type-no-effect-on-outcomes.md) — related
 - [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related
+- [Simulator performance metrics did not predict subsequent clinical performance](simulator-metrics-not-predictive-of-clinical-performance.md) — related

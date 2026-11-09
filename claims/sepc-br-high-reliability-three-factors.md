@@ -48,3 +48,4 @@ Reliability analysis of the SEPC-Br subscale scores from the same 111-student va
 ## Related Claims
 - [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related
 - [SEPC-Br and TS-Br scores correlate negatively and significantly, with magnitudes the article describes as ranging from weak to moderate](sepc-ts-negative-concurrent-validity.md) — related
+- [ISQ subscales show high teacher-level reliability at each of three measurement occasions](isq-high-teacher-level-reliability.md) — related

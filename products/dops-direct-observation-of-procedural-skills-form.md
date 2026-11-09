@@ -13,7 +13,7 @@ generated:
 # DOPS (Direct Observation of Procedural Skills) form
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 A direct-observation clinical procedural-skills assessment form used by teachers to rate learners performing procedures with real patients and provide immediate feedback.
@@ -24,6 +24,7 @@ A direct-observation clinical procedural-skills assessment form used by teachers
 - **DOPS assessment procedure for PI nursing skills: real-patient observation, 11-indicator form, and structured feedback**: Direct observation of procedural skills (DOPS) is a workplace-based assessment tool developed by the Royal College of Physicians in which assessors directly observe trainees performing skills on real patients. In this trial the study group was assessed in real clinical scenarios using a DOPS form with 11 indicators, each scored across four levels from 0 to 10 points, with a score of >=6 considered a pass. Assessors recorded "commendable performance and areas for improvement during the operation", focusing on behaviour and competence rather than completion of procedural steps, and a 5-10-min feedback period followed each evaluation. (Zhang W et al. (2024))
 - **DOPS workplace-based assessment tool for OT PGY training**: Direct observation of procedural skills (DOPS) is "a workplace-based assessment tool specifically designed to assess practical skills". It "requires the assessor to directly observe a trainee conducting a procedure, document the evaluation in a checklist, and give feedback to the trainee based on objective findings". In this study it was used to evaluate professional knowledge, skills, and attitude in Taiwanese OT postgraduate year training, rated against Miller's highest level of assessing practical performance in clinical conditions. (Liu Yi-chia et al. (2023))
 - **UK Direct Observation of Procedural Skills assessments covering nontechnical qualities**: The United Kingdom direct observation of procedural skills assessments are workplace-based assessment tools that, according to the article, "assess qualities of leadership, situational awareness, judgement and decision making, and communication in both formative and summative contexts." The article recommends using such formative assessment tools to gauge performance and set future objectives, and suggests incorporating "objective feedback from nursing staff and patients" into the evaluation to reflect and improve practice. (Bollipo Steven et al. (2020))
+- **DOPS three-stage evaluation protocol with structured checklists and feedback**: Direct Observation of Procedural Skills is a clinical evaluation method in which a student performs a procedure on a real patient while an evaluator observes and then gives feedback on strengths and weaknesses. In this trial the intervention group was evaluated through DOPS in three stages: "First stage test: (observation of the skills for 15 minutes and giving feedback for 5 minutes)", a second stage after two weeks emphasizing feedback on strengths and weaknesses, and a third stage after four weeks with final scores. Scoring used researcher-prepared checklists rated 0 (no appropriate behavior) to 4 (excellent). (Habibi Hengameh et al. (2015))
 
 ### Claims
 - [DOPS scores of community general-practice residents rose significantly from admission to 2 and 4 weeks of training in one uncontrolled pre-post study](../claims/dops-scores-improve-community-resident-training.md) [+M]
@@ -31,6 +32,8 @@ A direct-observation clinical procedural-skills assessment form used by teachers
 - [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](../claims/dops-higher-critical-thinking-three-months.md) [+M]
 - [Most OT educators and trainees agree that DOPS is a practical and appropriate assessment for OT PGY training](../claims/dops-practical-appropriate-ot-pgy-training.md) [+M]
 - [Subjectivity is the main disadvantage of DOPS, cited by more than 75% of respondents](../claims/dops-subjectivity-main-disadvantage.md) [~M]
+- [DOPS evaluation produced significantly higher final clinical procedure scores than routine evaluation in nursing students](../claims/dops-higher-final-scores-than-routine-evaluation.md) [+M]
+- [DOPS scores showed an increasing trend across the three evaluation stages in both procedures](../claims/dops-increasing-trend-across-three-stages.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -40,3 +43,4 @@ A direct-observation clinical procedural-skills assessment form used by teachers
 - Zhang W, Peng Y, Zhuang H, Yu H, Liu Q, Gu Y, Yao J. (2024). Application of direct observation of operational skills in nursing skill evaluation of pressure injury: A randomized clinical trial. Int Wound J. https://doi.org/10.1111/iwj.14498
 - Liu Yi-chia, Lee Yi-chen, Huang Pai-chuan, Lee I-Hui, Lin Keh-chung. (2023). Perception of the Use of the Direct Observation of Procedural Skills in Occupational Therapy Postgraduate Year Training in Taiwan: Survey of the Perspectives of Trainees and Supervisors. Occupational Therapy International. https://doi.org/10.1155/2023/8013086
 - Bollipo Steven, Bilal Mohammad, Siau Keith, Charabaty Aline. (2020). How to Introduce Scopemanship Into Your Training Program. Gastroenterology. https://doi.org/10.1053/j.gastro.2020.08.013
+- Habibi Hengameh, Raiesifar Afsaneh, Khaghanizade Morteza, Mahmudi Hosein, Seyed Mazhari Marjan, Ebadi Abbas. (2015). The Effect of Applying Direct Observation of Procedural Skills (DOPS) on Nursing Students’ Clinical Skills: A Randomized Clinical Trial. Global Journal of Health Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803945/

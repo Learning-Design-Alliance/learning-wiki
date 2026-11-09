@@ -48,3 +48,4 @@ Chi-square analysis of a contingency table relating clinical case complexity to 
 - [Feedback type in Mini-CEX forms was significantly associated with the assessor's clinical position, with consultants, GPs and registrars/fellows showing different patterns](minicex-feedback-assessor-position-association.md) — related
 - [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](mini-cex-dops-multifactor-efficacy.md) — related
 - [Written feedback on Mini-CEX assessment forms was predominantly general, with less than 30% of feedback comments specific to a clinical performance domain](minicex-written-feedback-mostly-general.md) — related
+- [Highly complex tasks and assessments in large clinics significantly enhanced 'overall' mini-CEX scores](task-complexity-and-clinic-size-inflate-mini-cex.md) — related

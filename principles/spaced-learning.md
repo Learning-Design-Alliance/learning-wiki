@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (54 for, 42 mixed, 3 against) · 71 studies (41 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 71 report an effect size · 91 claims rest on one study
+> **Evidence** · 101 claims (56 for, 42 mixed, 3 against) · 72 studies (42 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 72 report an effect size · 93 claims rest on one study
 
 ## Description
 
@@ -192,6 +192,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Most optical diagnosis performance parameters fell significantly from before to after a 6-month non-practice period without a refresher course, with specificity most affected, in one uncontrolled pre-post study](../claims/non-practice-period-drops-od-performance.md) [+W] — attached 2026-11-09 from Bustamante-Balén M et al. (2019), which proposed "Require continuous practice with a refresher course after any long non-practice period to maintain optical diagnosis performance"; tests this page's relationship.
 - [Most residents (80.40%) agreed that holding the boot camp prior to each NICU rotation would be useful](../claims/residents-support-repeat-boot-camp-each-rotation.md) [+W] — attached 2026-11-09 from Surcouf JW et al. (2018), which proposed "Schedule preparatory boot camps close to the target rotation and protect faculty time to sustain implementation".
 - [Sustained simulation-based shoulder dystocia team training is associated with a significant decrease in brachial plexus injury at birth, from 73% to 17% of complicated deliveries](../claims/probe-training-brachial-plexus-injury-decrease.md) [+W] — attached 2026-11-09 from Dahlberg Johanna et al. (2018), which proposed "Sustain mandatory simulation training on a fixed recurring schedule integrated into clinical working time to maintain rare-event emergency preparedness".
+- [Repeated and reinforced oral health education produced significantly larger and more sustained gains in oral health knowledge than one-time OHE](../claims/rr-ohe-sustained-knowledge-gains.md) [+W] — attached 2026-11-09 from Haleem Abdul et al. (2016), which proposed "Repetition and reinforcement are essential for sustained effects of school-based health education regardless of who delivers it"; tests this page's relationship.
+- [Repeated and reinforced OHE produced sustained improvements in oral health behavior and oral hygiene status across all educator strategies](../claims/rr-ohe-behavior-hygiene-gains.md) [+W] — attached 2026-11-09 from Haleem Abdul et al. (2016), which proposed "Repetition and reinforcement are essential for sustained effects of school-based health education regardless of who delivers it"; tests this page's relationship.
 
 ## Source verification and open tests
 

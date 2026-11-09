@@ -55,3 +55,4 @@ Theme description from Table 1 summarizing the Safe Space theme; students and st
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Students’ reflections focused predominantly on challenges and areas for growth rather than perceived competence](reflections-challenges-outweigh-perceived-competence.md) — related
 - [Residents' perceived expectation to perform as experts on par with experienced colleagues lowered their tolerance of uncertainty and hindered adaptive practices](expert-role-expectation-lowers-uncertainty-tolerance.md) — related
+- [Competence acquisition is predicted by perceived knowledge base, identification with placement content and balance of support and challenge; stress by performance pressure and work density](placement-competence-stress-predictors.md) — related

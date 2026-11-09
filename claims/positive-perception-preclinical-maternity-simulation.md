@@ -75,3 +75,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Accrual accounting and health economics were the least relevant courses and gained among the lowest post-test scores](accrual-accounting-health-economics-least-relevant-lowest-scores.md) — related
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
+- [General satisfaction differed significantly across the ten simulation scenarios, with the catheterization station lowest and the orthopedics scenario highest](abcs3-satisfaction-varied-across-scenarios.md) — related

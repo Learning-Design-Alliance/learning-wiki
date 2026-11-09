@@ -50,3 +50,4 @@ Inductive qualitative content analysis of written responses to an open-ended sur
 - [Students emphasise feedback after simulations as crucial, with feedback from professional actors offering the patient's viewpoint especially valued](actor-simulation-feedback-crucial.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Students report learning outcomes across patient-related, behavioural, emotional, and error-handling dimensions of communication competence](simulation-learning-outcomes-themes.md) — related
+- [Students considered real patients' feedback useful but less beneficial than supervisor or trained-actor feedback](real-patient-feedback-vs-supervisor-feedback.md) — related

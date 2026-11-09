@@ -52,3 +52,4 @@ ANOVA gender comparison in the 227-student sample (146 female); "girls scored hi
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related
 - [Sex differences across personality and behavioural measures are small (ES = .01 to .09), with the largest for neuroticism, and no sex difference in examination performance](small-sex-differences-personality-achievement.md) — related
 - [Female Spanish undergraduates score higher than male students on conscientiousness, neuroticism and agreeableness, with no significant sex difference in extraversion or openness](sex-differences-big-five-traits-spanish-undergraduates.md) — related
+- [Female medical students score higher than male students on neuroticism, agreeableness and conscientiousness](gender-differences-big-five-medical-students.md) — related

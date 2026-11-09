@@ -51,3 +51,4 @@ Supplemental direct comparison of the two maternal education groups on attended 
 - [Children of higher and lower maternal education did not differ on on-task comprehension of attended stories during the ERP task](no-group-difference-attended-story-comprehension.md) — related
 - [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
 - [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](developmental-selective-attention-deployment-mechanisms.md) — related
+- [Training-driven improvements in distractor suppression, but not attended-signal accuracy, correlate with ADHD symptom improvement](distractor-suppression-correlates-adhd-improvement.md) — related

@@ -50,3 +50,4 @@ Pre/post group comparisons on Stroop, Flanker, go/no-go, WM updating, and Raven'
 ## Related Claims
 - [Multitasking training benefits do not transfer to untrained action control tasks (PRP, Stroop, AB, single response selection, Go-Nogo, Flanker)](no-transfer-action-control-tasks.md) — related
 - [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — reports the opposite
+- [ONTRAC training improves response inhibition and Stroop interference relative to control, while sustained attention and short-term memory show nonsignificant improvement trends](ontrac-cognitive-gains-inhibition-stroop.md) — related

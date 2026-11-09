@@ -49,3 +49,4 @@ Cost information gathered directly from the programme developer (EDT) via questi
 - [Delivering the Tutor Trust programme cost approximately £185 per pupil, based on groups of three pupils receiving 25 tuition sessions](tutor-trust-cost-185-per-pupil.md) — related
 - [The Discover Summer School was relatively expensive compared to other literacy catch-up approaches, at an estimated cost of about £1,790 per pupil](discover-summer-school-cost-per-pupil.md) — related
 - [PATHS was not a cost-effective way of improving pupils' attainment, at approximately £11.52 per pupil per year over three years](paths-cost-not-cost-effective-attainment.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

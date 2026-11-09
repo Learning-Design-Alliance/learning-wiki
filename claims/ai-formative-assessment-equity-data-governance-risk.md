@@ -54,3 +54,4 @@ The article's risk analysis identifies institutional inequity and data governanc
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
+- [Patient privacy is at risk in the WeChat–PBL model and requires explicit protective measures](wechat-pbl-patient-privacy-risk.md) — related

@@ -47,3 +47,4 @@ Self-assessment of ACGME core competencies collected in the post-session survey 
 ## Related Claims
 - [LEDs found the SIMBA programme highly acceptable and predominantly preferred it over traditional lecture-based learning](simba-high-acceptability-leds.md) — related
 - [A tailored SIMBA programme significantly increases LEDs' self-reported confidence in managing acute medical scenarios, with greater gains in simulated than non-simulated cases](simba-boosts-led-confidence-acute-care.md) — related
+- [The Chinese doctors' competencies framework is similar to the ACGME and CanMEDS frameworks](chinese-framework-similar-acgme-canmeds.md) — related

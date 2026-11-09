@@ -49,3 +49,4 @@ Exploratory non-parametric analyses (Kruskal–Wallis, Mann–Whitney U) of comp
 - [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related
 - [Healthcare professionals with prior triage experience triage VR MCI victims faster than those without, with no difference in triage correctness](prior-triage-experience-faster-vr-triage.md) — related
 - [Computer-recorded VR triage performance: correct triages of the first 10 victims ranged 4–10 (median 8) and triage took 3.10–15.57 minutes (median 7)](vr-triage-performance-descriptives.md) — related
+- [Previous multi-casualty experience, years in service, education level and age do not measurably affect triage accuracy or retention](background-variables-no-effect-on-triage-accuracy.md) — related

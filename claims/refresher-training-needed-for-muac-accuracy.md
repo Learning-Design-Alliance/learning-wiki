@@ -56,3 +56,4 @@ Healthcare worker in-depth interviews from the qualitative study. One counselor 
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a broader claim this one bears on
 - [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related
 - [Participants judged pharmacology teaching insufficient, recommending it be taught for more than one semester](nqn-pharmacology-insufficient-content.md) — a narrower finding that bears on this claim
+- [Many lay health workers suggested quarterly refresher meetings, with differing views on whether they should be held on-site or off-site with peers from multiple centres](lhw-quarterly-refresher-meeting-suggestions.md) — related

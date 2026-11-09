@@ -54,3 +54,4 @@ Survey of the 322 students who reported using VM; Table 3 prints internet costs 
 - [Perceived obstacles to online learning differ by grade level and computer/internet ability, and satisfaction differs by region, university type, and technology ability](group-differences-obstacles-satisfaction-characteristics.md) — related
 - [Trainees named no travel, time and cost savings and increased flexibility as main advantages of e-learning, and less personal interaction and technical obstacles as main disadvantages.](e-learning-advantages-disadvantages-gp-trainees.md) — related
 - [Low bandwidth and lack of seamless internet connectivity constrained health trainees' use of e-learning opportunities in Ghana](low-bandwidth-poor-connectivity-constrain-e-learning-ghana-trainees.md) — related
+- [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related

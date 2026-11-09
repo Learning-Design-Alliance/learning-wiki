@@ -3,6 +3,7 @@ type: claim
 title: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 description: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 id: perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit
+aliases: [perception-benefit-zero-correlation]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i0` The correlation between a student's perceived benefit of peer assessment and their estimated actual benefit was virtually zero (r = .01). [→ Sun DL 2015](#sun-dl-2015)
+
+`q3 i0` Students' perceived benefit of peer assessment was virtually uncorrelated with their estimated actual benefit, r = .01, p = .94. [→ Sun Dennis L. 2015](#sun-dl-2015)
 
 ## Evidence
 
@@ -39,7 +43,21 @@ Student survey on a 1 to 5 helpfulness scale in the same crossover study; the ar
 
 > "there was virtually zero correlation (r = .01, p = .94) between a student's perception of the benefit and the estimated benefit."
 
+<!-- merged 2026-11-09 from perception-benefit-zero-correlation: that page's entry for this study, which differed from the one above, kept verbatim.
+### Sun Dennis L. 2015
+
+Sun Dennis L., Harris Naftali, Walther Guenther, Baiocchi Michael. (2015). Peer Assessment Enhances Student Learning: The Results of a Matched Randomized Crossover Experiment in a College Statistics Class. PLoS ONE 10(12): e0143177. https://doi.org/10.1371/journal.pone.0143177
+
+`q3 · i0`
+
+Survey within the crossover experiment asking students to rate peer assessment's helpfulness on a 1–5 scale; the median student reported it only somewhat helpful. Perception showed "virtually zero correlation (r = .01, p = .94)" with estimated benefit.
+
+> "there was virtually zero correlation (r = .01, p = .94) between a student's perception of the benefit and the estimated benefit. This lends credence to our concern that surveys may not be the best measure of student learning."
+-->
+
 ## Discussion
+
+
 
 ## Related Claims
 

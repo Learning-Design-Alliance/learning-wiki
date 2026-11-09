@@ -53,3 +53,4 @@ Interviews with tutors and academic leaders in the qualitative study found that 
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
+- [Qualitatively, students rate facilitative tutoring positively while non-facilitative tutoring fosters student autonomy that increases with PBL experience](qualitative-tutor-style-autonomy-and-uncertainty.md) — related

@@ -47,6 +47,7 @@ The review recommends that staff and student induction and ongoing training in t
 - [Provide ongoing support and school-day time for teachers completing micro-credentials](ongoing-support-and-release-time-micro-credentials.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Faculty induction through flexible one-to-one tailored drop-in training sessions over an extended timeframe](one-to-one-faculty-haptics-induction.md)
+- [Provide ongoing, in-depth faculty professional development that targets peer discussion as an essential component of clicker use.](ongoing-pd-for-peer-discussion-clickers.md)
 
 ## Examples
 -

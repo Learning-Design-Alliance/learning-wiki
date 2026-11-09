@@ -55,6 +55,7 @@ The intervention delivered non-technical skills training "using a combined techn
 - [Combine an in-person didactic lecture, a virtual simulation experience, and a debrief to teach students to respond to racism](didactic-plus-virtual-simulation-debrief-anti-racism.md)
 - [Apply evidence-based NTS stressors — inexperienced theatre staff and a conscious, anxious patient — within surgical simulation scenarios](nts-stressors-in-simulation-scenarios.md)
 - [Add a four-stage experiential learning session two weeks after volunteer training to sustain motivation and boost activity involvement](post-training-experiential-session-strategy.md)
+- [Combine a short SALT lecture with 30 minutes of patient-scenario group work within a one-hour session](short-lecture-plus-scenario-exercise-strategy.md)
 
 ## Examples
 -

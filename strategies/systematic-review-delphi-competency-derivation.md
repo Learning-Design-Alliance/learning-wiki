@@ -56,6 +56,7 @@ The article describes a novel methodological approach combining a mixed-methods 
 - [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
 - [Use a two-stage modified Delphi survey with an integrated workshop between the rating rounds to reach curriculum consensus](two-round-delphi-with-integrated-workshop-for-curriculum.md)
 - [Use a modified Delphi expert-consensus process to identify, define, and weigh the steps of a procedure-specific assessment score](modified-delphi-score-development-strategy.md)
+- [Use quantitative work analysis (O*NET questionnaires) to generate local competency frameworks](quantitative-work-analysis-local-competency-framework.md)
 
 ## Examples
 -

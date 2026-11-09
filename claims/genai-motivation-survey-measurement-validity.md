@@ -70,3 +70,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
 - [The nine-factor biology attitude scale shows internal consistency reliability above 0.7 for all factors for both women and men in both teaching methods](nine-factor-attitude-scale-reliability-above-0-7.md) — related
 - [ASPECT's 16 items load onto three engagement factors (value of group activity, personal effort, instructor contribution) with Cronbach's alpha 0.78–0.91](aspect-sixteen-items-three-factors.md) — related
+- [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — related

@@ -53,3 +53,4 @@ Within-group comparison of self-assessment survey forms (0–10 scales) complete
 - [Airway management knowledge increased with simulation but remained below the 70% expected performance](airway-management-remained-below-70.md) — related
 - [LP simulation training significantly improves fifth-year medical students' self-assessed theoretical knowledge and confidence in performing LP](lp-simulation-improves-knowledge-confidence.md) — a narrower finding that bears on this claim
 - [Learners new to simulation struggled initially, and a presimulation orientation explicitly setting expectations improved communication and independence in later cases](presimulation-orientation-novel-learners.md) — related
+- [Simulation education of anesthesiology in China was still in a preliminary stage as of 2010, with most initiated airway training programs limited to basic training and progressing slowly](china-simulation-airway-training-preliminary-stage.md) — related

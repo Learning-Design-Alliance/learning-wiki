@@ -52,3 +52,4 @@ Exploratory secondary analysis in the RCT examining whether individual participa
 - [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related
 - [Healthcare professionals with prior triage experience triage VR MCI victims faster than those without, with no difference in triage correctness](prior-triage-experience-faster-vr-triage.md) — related
 - [Coaching benefits were consistent across age, gender and overall laparoscopic experience, but weaker in participants with bariatric laparoscopic experience](coaching-effect-weaker-with-laparoscopic-experience.md) — related
+- [Previous multi-casualty experience, years in service, education level and age do not measurably affect triage accuracy or retention](background-variables-no-effect-on-triage-accuracy.md) — related

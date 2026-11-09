@@ -73,3 +73,4 @@ Descriptive posttraining evaluation survey in the enhanced arm only. "Most parti
 - [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related
 - [Engagement with interactive H5P online activities was low relative to formative MCQs, with 30% completion of case study activities and 65% of weekly MCQs in 22/23](h5p-online-engagement-lower-than-mcqs.md) — related
 - [Community health workers reported high satisfaction with tablet-based training, with battery life and video pausing the main technical issues](chw-satisfaction-tablet-training-technical-issues.md) — related
+- [Lay health workers reported improved clinical skills — patient-provider relationships, patient education, follow-up — plus increased confidence and satisfaction with their work](lhw-reported-clinical-skill-gains-confidence.md) — related

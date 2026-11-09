@@ -89,3 +89,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related
 - [Age correlates with self-assessed competency, but the association disappears after adjusting for length of service; sex, education and professional membership show no association](age-correlates-self-assessed-competency-not-after-service-adjustment.md) — related
 - [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related
+- [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related

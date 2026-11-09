@@ -46,6 +46,7 @@ The article recommends a simulated class as a low-stakes setting for deliberate 
 - [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
 - [Use regular low-stakes testing with individualised feedback and learning-trajectory tracking to increase engagement in procedural simulation training](regular-testing-individualised-feedback-procedural-simulation.md)
+- [Design debriefing with awareness of sociomaterial dimensions so intended learning outcomes are not blocked out](attend-to-sociomaterial-dimensions-in-debriefing-design.md)
 
 ## Examples
 -

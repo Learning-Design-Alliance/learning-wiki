@@ -50,3 +50,4 @@ In the randomised trial, each participant took theoretical and practical pre-tes
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — reports the opposite
 - [Short theoretical-practical CPR training significantly increased nursing professionals' knowledge and skills immediately after both trainings](cpr-training-immediate-knowledge-skill-gains.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
+- [All three participant groups, including the general population, showed statistically significant rises in theoretical and practical CPCR skills from pre-test to post-test after training, in a pre-post comparison without a control group](all-groups-significant-cpcr-gains.md) — related

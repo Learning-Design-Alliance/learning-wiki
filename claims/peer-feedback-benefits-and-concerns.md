@@ -67,3 +67,4 @@ The review reports concerns about the honesty and accuracy of peer feedback, att
 - [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — related
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](student-perceptions-peer-assessment-benefits-bias.md) — possibly the same claim (merge candidate)
 - [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related
+- [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related

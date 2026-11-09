@@ -56,3 +56,4 @@ Voluntary post-session evaluation by 53 of 58 participants at three institutions
 - [Emergency medical care students generally perceive the simulation debriefing environment as psychologically safe and built on a shared understanding of why debriefing occurs](debriefing-psychological-safety-perceived-hei-students.md) — related
 - [Ratings for the status epilepticus case were slightly less uniform: five of six fellows strongly agreed on relevance, challenge, and expected practice improvement](status-epilepticus-case-five-of-six-strongly-agree.md) — related
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related
+- [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related

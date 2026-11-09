@@ -54,3 +54,4 @@ The review reports this from a pre- and post-evaluation by Rolston et al. of an 
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
 - [Each minute of defibrillation delay decreases the likelihood of ROSC by 19 percent, per studies the article cites](defibrillation-delay-19-percent-rosc-decline.md) — related
 - [Epinephrine improves ROSC rates but its effect on survival to discharge remains inconclusive, per the cited reviews](epinephrine-rosc-benefit-survival-inconclusive.md) — related
+- [In situ simulation, used most often in the operating room with multidisciplinary learners, is reported to improve the match between the virtual and the real and aid transfer of learning](in-situ-simulation-virtual-real-match.md) — related

@@ -55,3 +55,4 @@ The commentary cites Watkins and Hattie (1985), who surveyed Australian tertiary
 - [Experienced financial scarcity, but not perceived family wealth, predicts school dropout among tertiary vocational students](financial-scarcity-predicts-vocational-dropout.md) — related
 - [Dropout at follow-up was significantly higher in the intervention group than in the control group](mhfa-elearning-higher-intervention-dropout.md) — related
 - [Students in different dropout trajectories differed significantly on lack of regulation and analysing scores but not on memorizing](dropout-groups-differ-on-lack-of-regulation-and-analysing.md) — related
+- [Attrition before follow-up was significantly more likely in the game condition than the control condition](higher-attrition-game-condition.md) — a narrower finding that bears on this claim

@@ -43,6 +43,7 @@ The authors' forward-looking recommendation is to move beyond the simulated envi
 - [Supplement simulation-based procedural training with three process-oriented interventions: BPMN-based teaching, self-labelling of one's own recorded execution, and an individual process mining feedback report](process-oriented-feedback-interventions-strategy.md)
 - [Enhance lacrimal irrigation simulation training with force-sensitive gloves, longitudinal validation, and motion analytics](future-enhanced-simulation-validation-motion-analytics.md)
 - [Implement SBML as a teaching modality for procedural-based training and cross-discipline education initiatives](sbml-procedural-cross-discipline-strategy.md)
+- [Target high-importance, low-preparedness procedures for curricular interventions, with simulation as a promising modality](target-gap-procedures-curricular-interventions-simulation.md)
 
 ## Examples
 -

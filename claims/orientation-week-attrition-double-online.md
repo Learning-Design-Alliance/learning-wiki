@@ -60,3 +60,4 @@ Analysis of drop timing across the two-year data set (Table 5): 8 percent of onl
 - [A baseline survey of online course stakeholders found widespread duplication of orientation resources across courses, reflecting siloed development.](molh-baseline-survey-duplicated-orientation-resources.md) — related
 - [There is a considerable drop in course participation during the second week of the language-learning MOOC, indicating content diversity alone is insufficient to ensure user engagement.](second-week-participation-drop-in-language-mooc.md) — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
+- [Attrition before follow-up was significantly more likely in the game condition than the control condition](higher-attrition-game-condition.md) — related

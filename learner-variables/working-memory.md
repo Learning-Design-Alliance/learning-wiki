@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (95 show a difference, 46 mixed, 25 no difference) · 133 studies (52 causal, 35 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 25 of 133 report an effect size · 157 claims rest on one study
+> **Evidence** · 167 claims (95 show a difference, 47 mixed, 25 no difference) · 134 studies (53 causal, 35 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 25 of 134 report an effect size · 158 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -209,6 +209,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Working memory did not mediate the association between CRF and academic achievement](../claims/working-memory-does-not-mediate-crf-achievement.md) [-W] — learners who differ on it differ in outcomes
 - [Working memory capacity did not influence the size of the modality or redundancy effects on study time or knowledge gain, despite children with dyslexia having weaker working memory](../claims/working-memory-no-relation-modality-redundancy-effects.md) [-M] — an instructional effect differs with it
 - [Working memory did not reliably correlate with grammar learning in any of the three experiments](../claims/working-memory-no-correlation-grammar-learning.md) [-M] — learners who differ on it differ in outcomes
+- [ONTRAC training improves response inhibition and Stroop interference relative to control, while sustained attention and short-term memory show nonsignificant improvement trends](../claims/ontrac-cognitive-gains-inhibition-stroop.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

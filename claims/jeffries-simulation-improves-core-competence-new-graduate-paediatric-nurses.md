@@ -55,3 +55,4 @@ Single-group pretest/posttest quasi-experiment with 60 new graduate paediatric s
 - Competence-oriented simulated teaching raised CIRN postcompetency scores more than traditional training at 4 and 8 weeks — related
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
 - [Structured preceptor training may contribute to improved transition to practice and first-year retention of new graduate nurses](structured-preceptor-training-transition-retention.md) — related
+- [SAFT total scores increase significantly after an interactive educational intervention, with a moderate effect size](saft-responsive-to-change.md) — related

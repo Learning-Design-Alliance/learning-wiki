@@ -49,3 +49,4 @@ Mann-Whitney comparisons of SQS items between LC (n = 63) and HF (n = 64) groups
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [The 3-hour difficult airway management simulation program cost an estimated 17,892€ overall, approximately 406€ per resident](dam-simulation-program-cost-406-euros-per-resident.md) — related
+- [Low-fidelity airway training models can provide the same training results as high-fidelity counterparts at lower cost, according to studies cited by the authors](low-fidelity-models-match-high-fidelity-results.md) — related

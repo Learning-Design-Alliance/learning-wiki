@@ -69,3 +69,4 @@ Qualitative observation and trainer interviews found attitude change in some ses
 - [Pilot DVA/CS training increased general practice clinicians' confidence and self-efficacy, sustained at 3-month follow up](responds-training-increased-confidence-self-efficacy.md) — related
 - [Total M-DASC outcome score improved after pilot DVA/CS training and remained elevated at 3-month follow up](responds-training-total-mdasc-increase.md) — related
 - [Clinical behaviour change after the pilot training was limited and inconsistent, reported by some individuals but not others](responds-training-clinical-behaviour-change-limited.md) — related
+- [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](pa-learning-outcomes-awareness-attitudes-self-efficacy.md) — reports the opposite

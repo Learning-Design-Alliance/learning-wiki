@@ -17,7 +17,7 @@ sources:
 # Structure surgical skills courses as short weekly spaced sessions instead of a single massed day
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (2 causal, 2 review), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 5 studies (3 causal, 2 review), `q2`–`q3` · 0 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that microsurgical and basic surgical skills training be distributed over time: "spaced learning is a flexible alternative that allows training sessions to be built into the hectic residency training routine". In the trial this meant identical content delivered as 2-h weekly sessions for 4 weeks rather than one 8-h session, with emphasis on "accuracy and precision of suture placement, rather than speed". The authors extend this to re-certification courses and routine practice at regular intervals.

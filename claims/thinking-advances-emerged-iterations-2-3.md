@@ -68,3 +68,4 @@ Chi-square tests on coded knowledge-integration acts (building on others' ideas,
 - [Density of idea linking in forum posts increased over iterations, developing somewhat more highly in the HIL design than in MIL](idea-linking-density-increased-hil.md) — related
 - [Instructor questions on ideas increased across the three iterations in both treatments, deepening the level of student inquiry](instructor-questions-on-ideas-increased.md) — related
 - [Students' post-writing effort in online forums increased significantly over iterations and differed between the MIL and HIL conditions](post-writing-effort-increases-iterations-mil-hil.md) — related
+- [Category usage differences between the two instructors were limited to Explaining Pedagogical Choices and Sharing Personal Experiences](category-usage-differences-two-categories-only.md) — related

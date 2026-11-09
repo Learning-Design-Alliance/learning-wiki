@@ -72,3 +72,4 @@ Same trial, same unit of analysis. Students using SNAPPS "expressed 1.5 times mo
 - [SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly](snapps-inpatient-student-initiated-discussions.md) — related
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — a broader claim this one bears on
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related

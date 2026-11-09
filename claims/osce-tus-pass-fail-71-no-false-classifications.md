@@ -55,3 +55,4 @@ Consequences analysis in the 25-candidate validation study: normal distributions
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related
 - [OSCE test scores discriminate between novice, intermediate and experienced basic thoracic ultrasound operators](osce-tus-scores-discriminate-experience-groups.md) — a broader claim this one bears on
 - [The UG-STAT thoracic ultrasound assessment tool is validated to discriminate between novice, intermediate and advanced users, but its 90% pass mark corresponds to advanced practice](ug-stat-validated-tool-pass-mark-limitation.md) — related
+- [A pass–fail standard of 358 points set by the contrasting groups method misclassifies two of 20 novices and two of 20 experienced surgeons](tablt-pass-fail-358-contrasting-groups.md) — related

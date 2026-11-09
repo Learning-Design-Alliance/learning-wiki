@@ -49,3 +49,4 @@ Predefined secondary endpoints of the same randomized trial of 16 endoscopists a
 - [Weekly automated Endo.Adm quality feedback doubled endoscopists' adenoma detection rate while control endoscopists' ADR stayed unchanged](endo-adm-feedback-doubled-adr.md) — related
 - [Endo.Adm feedback increased colonoscopy withdrawal time but did not significantly improve cecal intubation rate](endo-adm-feedback-withdrawal-time-not-cir.md) — related
 - [Endo.Adm feedback raised gastroscopy detection of gastric precancerous conditions from 3% to 7% while the control group declined](endo-adm-feedback-gpc-detection.md) — related
+- [Adenoma detection rate was higher in the educated ward, but the difference lost significance after excluding referred neoplasia patients](nurse-education-adenoma-detection-rate-mixed.md) — related

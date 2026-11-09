@@ -46,6 +46,7 @@ The article's training program has surgeons repeatedly perform the standardized,
 ## Related Strategies
 
 - [Repeated hands-on simulation surgeries on a 3D-printed congenital heart disease model at approximately 1-week intervals](strategy-repeated-3d-printed-simulation-surgeries.md)
+- [Game-based simulation training with repeated sessions for surgical instrument recognition](game-based-repeated-simulation-training-strategy.md)
 
 ## Examples
 -

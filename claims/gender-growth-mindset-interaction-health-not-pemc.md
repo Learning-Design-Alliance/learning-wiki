@@ -71,3 +71,4 @@ The same interaction-effects models tested gender moderation for PEMC major choi
 - [Girls' likelihood of majoring in PEMC is 3.1 times greater at the highest versus lowest value of 12th grade perceived mathematics ability under challenge (5.6% vs. 1.8%)](girls-pemc-major-chances-triple-with-ability-under-challenge.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related
+- [Women were proportionally under-selected by the knowledge-based exam despite no selection-by-gender interaction on profiles](women-under-selected-knowledge-exam.md) — related

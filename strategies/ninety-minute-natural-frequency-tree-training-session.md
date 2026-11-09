@@ -48,6 +48,7 @@ The training session teaches two tools: natural frequency trees, to facilitate c
 ## Related Strategies
 
 - [Use short online game-based learning with natural frequencies and immediate feedback to teach diagnostic test interpretation](gbl-natural-frequencies-diagnosis-strategy.md)
+- [Teach Bayes' theorem with natural frequency trees and dot diagrams rather than the equation, introduced late in the semester](natural-frequency-trees-bayes-strategy.md)
 
 ## Examples
 -

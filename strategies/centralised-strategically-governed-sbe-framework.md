@@ -54,6 +54,7 @@ The article recommends that the organisation develop a strategy, governance and 
 - [Enable leadership to nurture adaptive space for LA-related innovations and navigate existing resources to encourage change](enable-leadership-adaptive-space-la-innovation.md)
 - [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 - [Integrate staff training into the organisation's own schedule and LMS, simplify the program, and assess home readiness before implementation](integrate-training-organisation-lms-readiness-assessment.md)
+- [Allocate protected staff time for improvement work, as highly effective industrial organisations do](protected-staff-time-for-improvement.md)
 
 ## Examples
 -

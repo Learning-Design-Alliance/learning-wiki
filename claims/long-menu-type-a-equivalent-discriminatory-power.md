@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: cerutti-bernard-2019
     resource: "https://doi.org/10.1186/s12909-019-1651-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` There was no significant difference in discriminatory power (point biserial correlation) between long-menu and Type A versions of the same questions, with a printed effect size of 0.03. [→ Cerutti Bernard 2019](#cerutti-bernard-2019)
@@ -48,3 +49,5 @@ Randomised sequential trial in real summative exams at the University of Geneva,
 - [Experimental items performed comparably to the other exam items, supporting generalisability of the format comparison](experimental-items-comparable-to-other-exam-items.md) — related
 - [A majority of answer options chosen in long-menu questions were not offered as distractors in the corresponding Type A questions](long-menu-chosen-options-outside-type-a-distractors.md) — related
 - [Long-menu questions are more difficult than Type A questions on identical stems, with an average success rate 6.34 percentage points lower](long-menu-more-difficult-than-type-a.md) — related
+- [Long-menu questions were easier than Type A questions and showed no significant difficulty difference versus Pick N questions](long-menu-easier-than-type-a.md) — related
+- [Long-menu questions were more discriminative than both Type A and Pick N questions](long-menu-more-discriminative-than-type-a-and-pick-n.md) — reports the opposite

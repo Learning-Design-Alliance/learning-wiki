@@ -56,3 +56,4 @@ Binary logistic regression models (general and specific) estimated on the 108-wo
 - [High GPA is positively associated with prior online-learning experience, autonomy, competence, and intrinsic motivation, and negatively with amotivation](logistic-regression-gpa-predictors.md) — related
 - [Self-efficacy, intrinsic achievement motivation, and amotivation predict academic performance](self-efficacy-achievement-amotivation-predict-performance.md) — related
 - [The two enrolment generations differed only in motivation, with higher intrinsic motivation in the 2011/2012 generation (OR=1.47)](generations-differed-only-in-intrinsic-motivation.md) — related
+- [Applicants with lower trial-studying scores were significantly less likely to enroll, consistent with a small self-selection effect](trial-studying-scores-self-selection-enrollment.md) — related

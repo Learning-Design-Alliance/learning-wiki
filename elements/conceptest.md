@@ -13,7 +13,7 @@ generated:
 # ConcepTest
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 theoretical, 1 causal, 1 associational), `q2`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 2 associational, 2 theoretical, 1 causal), `q2`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 A ConcepTest is a short multiple-choice (or short-answer) question focused on a single concept — typically one where learners hold predictable misconceptions — posed to the whole class. Learners commit to an answer individually (often via clicker or show of hands), discuss with neighbors, revote, and then the instructor resolves the result. Developed by Eric Mazur in Harvard's physics course, it is the question engine of [Peer Instruction](../patterns/peer-instruction.md).
@@ -54,6 +54,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](../claims/clicker-presence-predicts-homework-explanation-quality.md) [+W]
+- [Clicker questions in Peer Discussion class sessions tend to be more challenging for students than those in the other two modes.](../claims/peer-discussion-sessions-more-challenging-questions.md) [+W] — attached 2026-11-09 from Lewin JD et al. (2016), which proposed "Community-vetted clicker question banks with challenging questions and supporting materials.".
 
 ## Related Elements
 

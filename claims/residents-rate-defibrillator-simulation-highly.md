@@ -55,3 +55,4 @@ Anonymous standard electronic survey administered after all educational conferen
 - [Residents rated the Calgary Simulation Curriculum highly on educational value, teaching quality, and preparatory materials across three annual iterations](csc-face-validity-high-ratings.md) — related
 - [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related
 - [Residents' self-reported confidence in managing patients with inappropriately firing defibrillators increased after the simulation (Likert mean 2.69 to 4.06)](simulation-increases-confidence-managing-inappropriate-icd-firing.md) — related
+- [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related

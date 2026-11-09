@@ -42,6 +42,7 @@ After the formal training period, the study team established a pathway for conti
 - [Provide ongoing objective feedback and structured, supervised POCUS training to maintain emergency physicians' competencies](ongoing-objective-feedback-pocus-training.md)
 - [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
 - [Technical assistance providers should plan to work themselves out of a job by building districts' internal capacity](ta-providers-build-internal-capacity.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 
 ## Examples
 -

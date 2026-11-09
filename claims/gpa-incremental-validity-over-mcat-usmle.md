@@ -51,3 +51,4 @@ Regression analysis across 89 institutions testing GPA's contribution beyond MCA
 - [Reporting institutions were slightly but not significantly higher than national averages, suggesting national representativeness of the 89-school sample](reporting-institutions-nationally-representative.md) — related
 - [MCAT scores show the strongest correlation with USMLE Step 1 scores among nine institutional variables](mcat-strongest-correlate-usle-step1.md) — related
 - [Higher MCAT predicts higher Step 2 score while higher NIH research grant funds per faculty member predict lower Step 2 score](step2-mcat-positive-nih-funds-negative.md) — related
+- [Cumulative GPA, USMLE Step 1, USMLE Step 2 CK and MCAT scores were not predictive of self-directed learning readiness](gpa-usmle-mcat-not-predictive-sdlr.md) — related

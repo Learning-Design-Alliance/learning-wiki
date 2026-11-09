@@ -66,6 +66,7 @@ The review recommends moving grief training out of isolated voluntary workshops 
 - [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 - [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
+- [Implement consultation communication training longitudinally across the undergraduate medical education span](longitudinal-consultation-curriculum-strategy.md)
 
 ## Examples
 -

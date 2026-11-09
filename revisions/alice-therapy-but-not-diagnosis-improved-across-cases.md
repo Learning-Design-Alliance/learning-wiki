@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/alice-therapy-but-not-diagnosis-improved-across-cases.md
+---
+
+# Revision history: [claims/alice-therapy-but-not-diagnosis-improved-across-cases](../claims/alice-therapy-but-not-diagnosis-improved-across-cases.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-4704969 (Web-Based Immersive Virtual Patient Simulators: Positive Effect on Clinical Reasoning in Medical Education.) via eval_harness.py + ingest_extractions.py

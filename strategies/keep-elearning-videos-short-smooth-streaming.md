@@ -44,6 +44,7 @@ A practical implementation strategy drawn from the study's questionnaire finding
 
 - [Improve audiovisual quality, connectivity, and standardized recordings before deploying live-streamed procedural teaching](improve-av-connectivity-before-ls-teaching.md)
 - [Support web-based diagnostic trainers with a short tutorial video, an instructional manual, and reliable network access](orthotrainer-implementation-support-strategy.md)
+- [Extend mobile video availability beyond 1 week and support flexible viewing (streaming, closed captioning, technical support)](extend-mobile-video-availability-strategy.md)
 
 ## Examples
 -

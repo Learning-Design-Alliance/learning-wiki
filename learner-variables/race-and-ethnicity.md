@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 247 claims (187 show a difference, 41 mixed, 19 no difference) · 188 studies (102 associational, 36 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 7 of 188 report an effect size · 245 claims rest on one study
+> **Evidence** · 248 claims (188 show a difference, 41 mixed, 19 no difference) · 189 studies (102 associational, 37 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 8 of 189 report an effect size · 246 claims rest on one study
 
 ## How to read this page
 
@@ -284,6 +284,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](../claims/urm-status-mixed-graduate-outcomes.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Western minority students showed no underperformance on the preclinical OSCEs despite previously reported lower clerkship grades](../claims/western-minority-no-osce-underperformance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [White students earned higher final course grades than underrepresented minority students in this course](../claims/racial-grade-gap-active-learning-course.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

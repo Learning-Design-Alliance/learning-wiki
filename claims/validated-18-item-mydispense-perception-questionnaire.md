@@ -54,3 +54,4 @@ Instrument validation with 200 students at one pharmacy faculty using content an
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
+- [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — related

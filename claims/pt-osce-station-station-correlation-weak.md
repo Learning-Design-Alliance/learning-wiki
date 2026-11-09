@@ -61,3 +61,4 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related
 - [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related
 - [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related
+- [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — related

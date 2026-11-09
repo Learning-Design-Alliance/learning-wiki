@@ -56,3 +56,5 @@ In the RCT, e.g. presenting the most likely diagnosis: 30 (100%) SNAPPS vs 7 (23
 - [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — related
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related
+- [SNAPPS residents rated presenting the case efficiently, in the sequence given, and in depth significantly more highly than OMP residents](snapps-higher-self-eval-efficiency-sequence-depth.md) — related

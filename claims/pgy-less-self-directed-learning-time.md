@@ -48,3 +48,4 @@ Chi-square and Fisher's exact tests in Table 1 (N = 214) found "Significant grou
 ## Related Claims
 - [Medical interns report significantly higher motivation and more favorable attitudes toward digital learning than PGY trainees](interns-higher-motivation-attitude-digital-learning.md) — related
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
+- [Verification of failing learning activities differed significantly depending on the hospital and clinical practices unit where students trained](activity-verification-varies-by-hospital-unit.md) — related

@@ -151,3 +151,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related
 - [Element-level PBL studies show that problem quality, group functioning and prior knowledge predict interest, and familiar, learning-aligned, critical-reasoning problems raise interest and autonomous motivation](element-level-pbl-studies-predictors-of-interest.md) — related
 - [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related
+- [The article claims WeChat–PBL stimulates learning interest and enthusiasm, improves self-directed learning and enhances peer collaboration](wechat-pbl-overall-benefits-claim.md) — related

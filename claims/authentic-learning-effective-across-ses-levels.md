@@ -69,3 +69,4 @@ The SES main effect in the same ANOVA was non-significant; the article notes onl
 ## Related Claims
 - [SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes](ses-effect-moderators-indicator-outcome-grade-year.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
+- [Socioeconomic status is the strongest predictor of eighth-grade academic performance, explaining 19% of variance](ses-strongest-predictor-simce-performance.md) — related

@@ -46,7 +46,8 @@ The article demonstrates a strategy for deriving competency frameworks from prac
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](../claims/interpersonal-skills-emphasized-by-id-et-professionals.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use quantitative work analysis (O*NET questionnaires) to generate local competency frameworks](quantitative-work-analysis-local-competency-framework.md)
 
 ## Examples
 -

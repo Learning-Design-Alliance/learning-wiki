@@ -68,3 +68,4 @@ Logistic regression analysis on the same 6000-patient cohort identified AI-enhan
 - [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related
 - [AI-trained endoscopists surpassed the aspirational sessile lesion detection rate threshold of 10% (12.5% vs 7.1%) and were almost twofold more likely to achieve high SDR](cade-training-sdr-surpassed-aspirational-threshold.md) — related
 - [AI-trained endoscopists had longer withdrawal times (0.8 min longer) and higher odds of high-quality withdrawal time, though WT data quality was low](cade-training-longer-withdrawal-time.md) — related
+- [Adenoma detection rate was higher in the educated ward, but the difference lost significance after excluding referred neoplasia patients](nurse-education-adenoma-detection-rate-mixed.md) — related

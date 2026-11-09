@@ -54,3 +54,4 @@ Secondary teacher-level survey outcome in the randomized controlled trial: the n
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related
+- [The CGI secondary measure showed no significant change from baseline in either group](cgi-no-significant-change.md) — related

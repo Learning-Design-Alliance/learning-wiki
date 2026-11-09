@@ -49,3 +49,4 @@ Post-assessment t-tests against the normal comparison sample of 278 children. "h
 - [A 12-week teacher training programme significantly reduced ADHD symptoms in students compared to a control group](teacher-training-reduces-adhd-symptoms-classroom.md) — related
 - [Within the intervention group, ADHD symptom decline during the training period significantly exceeded the baseline-period decline](adhd-slope-steeper-during-training-than-baseline.md) — related
 - [NAT significantly reduced parent-rated inattention in children with ADHD relative to control (η²p = 0.46)](nat-parent-rated-inattention-improvement.md) — related
+- [ONTRAC completers' ADHD symptom ratings normalized to the healthy-children range at follow-up](ontrac-symptom-normalization-healthy-children.md) — related

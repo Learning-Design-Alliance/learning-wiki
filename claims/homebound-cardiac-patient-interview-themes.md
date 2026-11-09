@@ -48,3 +48,4 @@ Qualitative interview study: nine patients (mean age = 85 years) with HF, CAD, M
 ## Related Claims
 - [Home care clinician focus groups identify gaps in care transitions and educational needs about cardiac rehabilitation, including misconceptions that CR is inappropriate for elderly patients.](home-care-clinician-focus-group-themes.md) — related
 - [Semistructured interviews with student navigators identified three themes: increased empathy and understanding of patients' lives, improved clinical skills, and interpersonal enrichment](flip-interview-three-themes-empathy-skills-enrichment.md) — related
+- [The cost per participant of the home programme (€581) was lower than the outpatient rehabilitation DRG reimbursement rate (€1680)](home-rehab-cost-below-drg-reimbursement.md) — related

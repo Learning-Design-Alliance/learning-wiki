@@ -50,3 +50,4 @@ Survey of 26 NPMT tutors rating perceived improvements on visual analogue scales
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [Junior doctor tutors reported high enjoyment and strong overall benefit from participating in the near-peer teaching program](junior-doctor-tutors-enjoyment-benefit-high.md) — related
+- [Students report PAL improved confidence, feedback ability, and teaching, clinical and communication skills (95–100% agreement)](pal-improved-confidence-feedback-teaching-skills.md) — related

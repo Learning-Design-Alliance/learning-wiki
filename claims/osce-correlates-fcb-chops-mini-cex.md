@@ -55,3 +55,4 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 - [Mini-CEX intervention groups outperformed controls on OSCE results (Cohen's d = 0.71)](mini-cex-higher-osce-scores.md) — related
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
+- [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — reports the opposite

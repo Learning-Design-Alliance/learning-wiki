@@ -70,3 +70,4 @@ Same regression model in the quasi-experiment, dose-response specification: the 
 - [Pre-post knowledge scores rose for all staff groups during the project period, but univariate change-score comparisons against non-pilot areas were null for physicians](prepost-knowledge-gains-descriptive.md) — related
 - [Public health physicians showed no statistically significant knowledge improvement under any training format](public-health-physicians-no-benefit-any-format.md) — related
 - [Non-participation in diabetes training is a significant predictor of poor diabetes care knowledge among primary care physicians](diabetes-training-nonparticipation-predicts-poor-knowledge.md) — related
+- [Lay health workers reported increased TB and HIV knowledge and job-specific knowledge after the training](lhw-reported-knowledge-gains-tb-hiv.md) — related

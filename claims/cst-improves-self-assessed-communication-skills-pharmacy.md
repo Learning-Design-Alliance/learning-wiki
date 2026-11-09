@@ -47,3 +47,4 @@ Pre-post interventional survey of sixty fifth-year pharmacy students completing 
 ## Related Claims
 - [Pharmacy students' attitudes toward learning communication skills rose from pre-test to post-test after communication skills training in one uncontrolled pre-post study, but only a minority of individual attitude items changed significantly](cst-attitudes-improvement-minority-items.md) — related
 - [Communication skills training substantially increases pharmacy students' confidence in communicating with patients and counseling on special dosage forms](cst-confidence-gains-patient-counseling.md) — related
+- [The training intervention significantly increases participants' confidence to consult with and communicate with adolescents](gp-adolescent-health-workshop-confidence-communicating-increase.md) — related

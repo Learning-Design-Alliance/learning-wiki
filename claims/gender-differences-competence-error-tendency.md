@@ -49,3 +49,4 @@ One-way MANOVA across the 125-student survey's descriptive characteristics (Tabl
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
 - [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — reports the opposite
 - [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — reports the opposite
+- [No significant gender effects emerged when comparing MC (CINS) and CR (ACORNS) mean performance, though pairwise comparisons suggested females were more frequently ranked higher on CR items](mc-cr-format-gender-comparison.md) — related

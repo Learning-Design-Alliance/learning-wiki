@@ -45,6 +45,7 @@ The article's key recommendations for implementing inquiry-based mobile learning
 
 - [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 - [Prepare teachers for inquiry-based instruction through intensive professional development plus ongoing mentorship before classroom implementation](intensive-pd-plus-mentorship-for-ibi-implementation.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 
 ## Examples
 -

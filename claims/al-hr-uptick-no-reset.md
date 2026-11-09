@@ -51,3 +51,4 @@ Averaged HR during 22 AL sessions from 13 classes, compared with four minutes be
 - [Student heart rate decreases significantly over the course of a 50-minute lecture class](hr-decreases-over-lecture.md) — related
 - [Heart rate changes approximately 10-fold faster in the first and last three minutes of lecture than in the middle](hr-rapid-ends-of-lecture.md) — related
 - [Starting heart rate decreases across morning classes, with a partial reset after lunch](starting-hr-declines-morning.md) — related
+- [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related

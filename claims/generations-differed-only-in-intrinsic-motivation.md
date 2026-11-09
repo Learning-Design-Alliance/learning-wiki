@@ -48,3 +48,4 @@ Cohort comparison of the 2010/2011 (N=26) and 2011/2012 (N=41) generations using
 ## Related Claims
 - [Intrinsic motivation predicted study completion, with a small effect (OR=1.05)](intrinsic-motivation-predicted-study-completion.md) — related
 - [Binary logistic regression shows psychological capital and academic motivation (and specifically self-efficacy and intrinsic motivation to experience stimulation) are protective: higher scores decrease the probability of non-high UAP](psycap-motivation-protective-logistic-regression.md) — related
+- [Applicants with lower trial-studying scores were significantly less likely to enroll, consistent with a small self-selection effect](trial-studying-scores-self-selection-enrollment.md) — related

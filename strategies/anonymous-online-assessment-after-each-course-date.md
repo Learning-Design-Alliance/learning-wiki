@@ -47,7 +47,9 @@ The article's course was continuously evaluated by emailing students and lecture
 - [Students' clinical ability ratings were significantly better in the second half than in the first half of each bedside course semester, in one group with no comparison group, across all three assessed categories](../claims/self-assessment-improves-within-bedside-course-semester.md) [+W]
 
 ## Related Strategies
+
 - Bedside Course Structured Improvement Package
+- [Rapid feedback system: de-identified student responses emailed to the resident within 3 days of each teaching session](rapid-student-feedback-within-three-days-strategy.md)
 
 ## Examples
 -

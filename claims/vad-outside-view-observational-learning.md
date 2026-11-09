@@ -82,3 +82,5 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
 - [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related
 - [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related
+- [Debriefing is viewed by ISS and OSS participants as a central, exceedingly positive factor for ensuring learning and facilitating transfer to clinical practice](debriefing-central-positive-factor-learning.md) — related
+- [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related

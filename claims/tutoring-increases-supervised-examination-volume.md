@@ -52,3 +52,5 @@ Examination counts over the 6-month intervention period in the randomized trial:
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
 - [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related
+- [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — related
+- [Intervention and control groups had equivalent clinical exposure during the 2 months before assessment](equal-clinical-exposure-between-groups.md) — related

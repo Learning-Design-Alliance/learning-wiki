@@ -47,3 +47,4 @@ Secondary benchmarking analysis in the crossover study comparing the peer assess
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
+- [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](peer-assessment-effect-size-benchmarks.md) — possibly the same claim (merge candidate)

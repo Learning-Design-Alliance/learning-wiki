@@ -48,3 +48,4 @@ Descriptive per-item analysis in the podiatric surgery STEEM survey (N = 16); th
 - [Podiatric surgery STEEM results compare favourably with prior surgical STEEM studies, which all scored below 70% overall](podiatric-steem-favourable-versus-medical-specialities.md) — related
 - [The Atmosphere subscale is the strongest STEEM area for UK podiatric surgery trainees (84.06%), reflecting a non-discriminatory theatre climate](podiatric-theatre-atmosphere-highest-84-percent.md) — related
 - [UK podiatric surgery trainees rate the theatre educational environment at a mean of 122/160 (76.73%), a satisfactory score](podiatric-theatre-steem-mean-122-160-satisfactory.md) — related
+- [Subjective competence gains are highest for animal handling/restraint, peroral application and injection techniques and lowest for emergency management, surgery and laboratory skills](competence-gains-by-practical-area.md) — related

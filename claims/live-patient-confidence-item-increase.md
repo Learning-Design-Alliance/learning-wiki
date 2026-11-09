@@ -47,3 +47,4 @@ A single survey item reported in the Discussion of the same 30-student pre-post 
 ## Related Claims
 - [Self-reported confidence in performing all assessed aspects of ultrasound-guided cyst aspiration rose significantly after training, from a mean Likert score of 1.18 to 4.31](cadaver-simulation-confidence-increase.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
+- [The training intervention significantly increases participants' confidence to teach and facilitate small groups](gp-adolescent-health-workshop-confidence-teaching-increase.md) — related

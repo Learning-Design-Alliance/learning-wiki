@@ -69,6 +69,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Managers facilitate newly graduated nurses' continued learning by creating structures for reflection and mentorship](manager-created-reflection-structures-nurse-transition.md)
 - [Modify the Vietnamese physical therapy curriculum and use journal clubs to build EBP capacity and reduce the English language barrier](curriculum-and-journal-club-strategy-for-ebp-vietnam.md)
 - [Use interactive and clinically integrated teaching strategies, with librarian collaboration, to build EBP knowledge and skills](interactive-clinically-integrated-ebp-teaching-strategy.md)
+- [Post-course refreshers, support and mentorship, plus preparing placement sites and educating nurses, families and policy makers about palliative care](palliative-transfer-support-strategy.md)
 
 ## Examples
 -

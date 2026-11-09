@@ -90,3 +90,4 @@ Double-blind randomized controlled trial in which 21 medical students completed 
 - [eCREST improved final-year medical students' ability to gather essential information from patients compared with teaching as usual](ecrest-improved-essential-information-gathering.md) — related
 - [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
+- [Confirmative feedback alone may not be sufficient for improving students' clinical reasoning skills](confirmative-feedback-insufficient-for-clinical-reasoning.md) — reports the opposite

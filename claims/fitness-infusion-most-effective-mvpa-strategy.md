@@ -48,3 +48,4 @@ Systematic review and meta-analysis by Lonsdale and colleagues of interventions 
 - [Children accumulated an average of 19.4 minutes (44.81%) of moderate-to-vigorous heart rate intensity per physical education lesson](mvpa-time-pe-lessons-19-4-min.md) — related
 - [Students engage in activity for only about 40% of PE lesson time, and few after-school program observations meet physical activity targets](low-activity-levels-pe-and-asp-sessions.md) — related
 - [Providing students with choice of activities and brief periods of free choice increases physical activity and MVPA during PE lessons](student-choice-increases-pe-physical-activity.md) — related
+- [Specialist-taught PE lessons produced more minutes of student MVPA than generalist-taught PE lessons, but the proportion of lesson time in MVPA did not differ](specialist-pe-more-mvpa-minutes-per-lesson-look.md) — a narrower finding that bears on this claim

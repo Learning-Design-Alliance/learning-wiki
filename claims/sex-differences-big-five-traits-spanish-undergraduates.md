@@ -49,3 +49,4 @@ Sex-comparison t-tests on the more recent Spanish dataset, the only one collecti
 - [Female Spanish undergraduates report higher academic confidence than male students in grades, studying and attendance, while male students report higher verbalising confidence](sex-differences-abc-subscale-confidence-spanish-undergraduates.md) — related
 - [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
 - [Big Five traits correlate significantly with Academic Behavioural Confidence subscales, positively except neuroticism, with conscientiousness showing the strongest correlations](big-five-correlations-academic-behavioural-confidence.md) — related
+- [Female medical students score higher than male students on neuroticism, agreeableness and conscientiousness](gender-differences-big-five-medical-students.md) — a narrower finding that bears on this claim

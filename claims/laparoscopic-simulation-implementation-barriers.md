@@ -76,3 +76,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [The authors argue low-fidelity equipment with high environmental and psychological fidelity can impact clinical outcomes, making in situ simulation feasible for resource-limited institutions](low-fidelity-iss-high-psychological-fidelity.md) — related
+- [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related

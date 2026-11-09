@@ -44,6 +44,7 @@ Based on the finding that both strategies significantly outperformed conventiona
 ## Related Strategies
 
 - [Adopt cooperative TGT as an alternative mathematics teaching approach, supported by teacher training and ministry guidelines](tgt-implementation-strategy-religious-schools.md)
+- [Incorporate PBL and concept mapping into the curriculum to enhance students' knowledge structures](combine-pbl-and-concept-mapping-strategy.md)
 
 ## Examples
 -

@@ -82,3 +82,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
 - [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related
 - [Language barriers are the main critical incidence in intercultural medical communication, degrading nuance and empathy and prompting communication-style adaptations](language-barriers-main-critical-incidence.md) — related
+- [Parents converting a group programme to game format preferred first-person role play, a home setting, realistic characters and positively framed feedback](conversion-preferences-role-play-home-realistic.md) — related

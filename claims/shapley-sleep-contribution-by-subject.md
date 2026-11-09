@@ -55,3 +55,4 @@ Shapley value decomposition of R² across predictors (Table 3). Sleep's combined
 - [Threshold regression corroborates the inverted U: performance gains below 7–9 h and significantly negative coefficients beyond the second threshold](threshold-models-sleep-performance.md) — related
 - [Gender differences in optimal sleep duration: girls need slightly longer sleep than boys in most subjects, except mathematics](gender-differences-optimal-sleep-subjects.md) — related
 - [Sleep variables explain only about 1% of variance in reading and mathematics scores](sleep-small-academic-variance.md) — related
+- [Socioeconomic status is the strongest predictor of eighth-grade academic performance, explaining 19% of variance](ses-strongest-predictor-simce-performance.md) — related

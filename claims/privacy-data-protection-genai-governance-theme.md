@@ -60,3 +60,4 @@ Grounded-coding finding from the Delphi panel: "Over half the panel (55%)" expli
 - [Senior manager buy-in, teaching staff buy-in, legal framework, privacy protection, and ethics guidelines were rated critically important to achieving LA potential](la-potential-critical-elements.md) — related
 - [The proposed AI competency list is a non-exhaustive starting point that lacks formal consumer input, a stated limitation](ai-competency-list-limits-consumer-input.md) — related
 - [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related
+- [Patient privacy is at risk in the WeChat–PBL model and requires explicit protective measures](wechat-pbl-patient-privacy-risk.md) — related

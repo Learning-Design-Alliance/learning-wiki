@@ -55,3 +55,4 @@ Null findings from the multiple mediation models (Sections 3.2.1-3.2.2) in the a
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — possibly the same claim (merge candidate)
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related
+- [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related

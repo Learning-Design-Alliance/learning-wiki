@@ -53,3 +53,4 @@ Results statement from the randomized 2×2 crossover study with 22 students in f
 - [Focus-group comments portrayed the VR version as enjoyable while the PC version was described as tedious and frustrating](vr-enjoyment-pc-tedium-theme.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
 - [Students overwhelmingly preferred the VR condition as their favorite learning method regardless of which condition they studied in](students-overwhelmingly-prefer-vr-moon-phases.md) — related
+- [After taking a computer-based exam, half of students prefer paper-based exams and about a quarter prefer computer-based exams](exam-mode-preference-after-first-cbe.md) — related

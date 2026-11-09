@@ -51,6 +51,7 @@ The review recommends a staged curricular integration of haptic virtual simulato
 
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Design virtual simulations with ease-of-use features, haptic technology, moderate immersion, and postscenario feedback](vs-design-features-strategy.md)
+- [Use progressive, structured EVH training with gradual introduction of case complexity and vein length to reduce learner stress and vein damage](progressive-structured-evh-training-strategy.md)
 
 ## Examples
 -

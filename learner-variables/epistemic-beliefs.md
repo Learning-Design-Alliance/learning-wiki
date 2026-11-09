@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (38 show a difference, 11 mixed, 4 no difference) · 31 studies (10 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 31 report an effect size · 53 claims rest on one study
+> **Evidence** · 54 claims (38 show a difference, 12 mixed, 4 no difference) · 32 studies (10 causal, 5 associational, 5 design, 4 qualitative, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 3 of 32 report an effect size · 54 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -85,6 +85,7 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Post-test SUSSI scores of pre-service science teachers taught through project-based HNOS training are significantly higher than those of the control group taught by conventional method](../claims/pbl-hnos-higher-posttest-sussi.md) [+W] — instruction changes it
 - [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](../claims/argumentation-improves-nature-of-scientific-knowledge.md) [+M] — instruction changes it
 - [Jigsaw II and animations improved epistemological beliefs more than reading-writing-presentation](../claims/jigsaw-ii-animations-improve-epistemological-beliefs.md) [+M] — instruction changes it
+- [Community college CREATE students showed significant self-rated gains in reading primary literature, understanding research, and maturation of epistemological beliefs, with no change in the knowledge-is-certain category](../claims/cc-create-saab-affective-epistemological-gains.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

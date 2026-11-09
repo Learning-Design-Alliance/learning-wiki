@@ -50,3 +50,4 @@ In the Teaching/Assessment analysis of the framework applied to VPs, the article
 - [Students identify ten design principles for Virtual Patients that foster learning of clinical reasoning, and perceive well-designed VPs as preparing them better than any previously experienced method](vp-ten-design-principles-student-focus-groups.md) — related
 - [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](vp-structured-design-mechanisms-qualitative.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
+- [Confirmative feedback alone may not be sufficient for improving students' clinical reasoning skills](confirmative-feedback-insufficient-for-clinical-reasoning.md) — related

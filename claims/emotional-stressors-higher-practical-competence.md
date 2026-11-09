@@ -47,3 +47,4 @@ The review reports, citing DeMaria et al. (2010), a quantitative intervention st
 ## Related Claims
 - [Participants found the death simulation valuable and reported feeling better prepared to face patient death after the course](death-simulation-feels-better-prepared.md) — related
 - [Unexpected simulated patient death evokes varying degrees of emotional distress, with the active renunciation of life-sustaining measures felt as particularly formative](simulated-death-emotional-distress-active-renunciation.md) — related
+- [Group-based training with trainer presence helped staff process emotional reactions to end of life content, and post-training support was seen as key to the model's success](emotional-debriefing-and-post-training-support.md) — related

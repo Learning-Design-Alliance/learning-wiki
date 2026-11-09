@@ -97,3 +97,5 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
 - [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related
+- [Despite decay, novices' lung isolation skill scores were significantly above pre-training baseline at 2 months in a single-group pre-post study](partial-skill-retention-above-baseline-two-months.md) — related
+- [Twelve months after the course, the most resource-rich protocol (T4) showed the best persistent performance, and the method more effective at the course had more long-lasting effects](t4-best-persistent-12-month-retention.md) — related

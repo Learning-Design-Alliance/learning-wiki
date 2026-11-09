@@ -58,3 +58,4 @@ Reliability testing on pilot data from 10 trainee nurses and 10 clinical instruc
 - [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related
 - [A training intervention improved only the Results Orientation competency among hospital personnel, with no significant change in the other trained competencies](training-intervention-improved-only-results-orientation.md) — related
 - [The adapted 20-item evaluation questionnaire showed high internal consistency with Cronbach alpha = .95](avatar-evaluation-questionnaire-cronbach-95.md) — related
+- [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related

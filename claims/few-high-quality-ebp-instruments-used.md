@@ -50,3 +50,4 @@ Psychometric quality assessment of the 24 instruments used in the 85 included st
 - [Most evaluated EBP educational interventions teach only some of the five EBP steps, with critical appraisal (Step 3) taught most frequently](ebp-interventions-focus-on-critical-appraisal-step.md)
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — a broader claim this one bears on
+- [Few EBP measurement instruments exist, and validation studies using comparison groups are rare](paucity-of-ebp-instruments.md) — related

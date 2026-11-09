@@ -133,3 +133,5 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Tertiary-facility status and no prior resuscitation training predict loss of OSCE B skills, while catch-up training and the Nagpur site predict retention](hbb-skill-loss-risk-factors.md) — related
 - [Resuscitation skills decline more than knowledge in the months after initial HBB training](hbb-skills-decline-more-than-knowledge.md) — related
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
+- [Practice frequency between assessments is associated with the size of CPR improvement across sites](practice-frequency-associated-with-cpr-improvement.md) — related
+- [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — reports the opposite

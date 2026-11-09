@@ -69,3 +69,4 @@ Intraclass correlation analysis of the same 36-participant dataset assessing per
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [Two cases per test are needed to reach adequate reliability on both simulator models for certification purposes](two-cases-needed-colonoscopy-simulator-reliability.md) — related

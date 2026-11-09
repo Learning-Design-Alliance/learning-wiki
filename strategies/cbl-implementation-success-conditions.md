@@ -77,6 +77,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 - [Emphasize pre-session preparation and distribute active methodologies across the curriculum to sustain WSLA effectiveness](emphasize-preparation-and-distribute-active-methods-strategy.md)
 - [Pre-class case distribution plus in-class group reporting within a flipped classroom](pre-class-case-distribution-group-reporting-strategy.md)
+- [Implementation tips for ICM instruction: preparation materials, incentives, assessment, structure, no repetition, learning groups, iterative feedback and easy-access technology](icm-implementation-tips-strategy.md)
 
 ## Examples
 -

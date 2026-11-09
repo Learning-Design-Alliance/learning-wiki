@@ -70,3 +70,4 @@ Same trial, same unit of analysis. Student-initiated selection of readings "occu
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
 - [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related

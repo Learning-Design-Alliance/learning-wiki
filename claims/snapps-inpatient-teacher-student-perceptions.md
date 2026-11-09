@@ -72,3 +72,4 @@ Student feedback showed "similar perception on the different variables of feedba
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [In the only midwifery study, SNAPPS-trained fourth-year midwifery students performed better in history taking, diagnosis, and management planning than teacher-centered education](snapps-midwifery-gynecology-trial.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related

@@ -74,6 +74,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Develop CPD strategies using realist synthesis CMO analysis (context-mechanism-outcome) with multi-stakeholder input](realist-synthesis-cmo-cpd-strategy.md)
 - [Workplace facilitation of learning emphasizes team competence, dialogue about knowledge quality, and collaborative relationships](workplace-facilitation-collaborative-knowledge-strategy.md)
 - [On-site nurse mentoring programme with regular facility visits integrating case sheets as teaching aids](on-site-nurse-mentoring-visits-strategy.md)
+- [Design CPC/CPD frameworks as a 'mixed' model emphasising practical, simulation-based and team-based activities with evidence of patient contact](mixed-model-cpc-design-strategy.md)
 
 ## Examples
 -

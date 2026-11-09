@@ -48,3 +48,4 @@ FGD participants questioned "how can we assess each other?" and noted reviews ma
 ## Related Claims
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
 - [Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format](high-stakes-tbl-questions-seen-harder-less-fair.md) — related
+- [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related

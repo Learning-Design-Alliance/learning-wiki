@@ -52,3 +52,4 @@ Pearson Product Moment correlations among argumentation skill, grade, gender, et
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
 - [Demographic variables showed low to negligible relationships with content knowledge and argumentation skill](demographics-low-negligible-relationships-cde-outcomes.md) — related
+- [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related

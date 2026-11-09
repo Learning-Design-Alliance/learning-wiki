@@ -55,3 +55,6 @@ Retrospective descriptive study at Srinagarind Hospital, Thailand (January–Dec
 - [Structured tutoring improves self-assessed heart ultrasound competency at 6 months, but the self-assessed lung competency difference is not statistically significant](tutoring-self-assessed-heart-competency.md) — related
 - [Structured tutoring raises the median number of supervised POCUS examinations performed over 6 months (27 vs 0)](tutoring-increases-supervised-examination-volume.md) — related
 - [Structured POCUS tutoring with scheduled supervision increases the proportion of residents completing at least 25 supervised examinations at 6 months (70% vs 0%)](structured-pocus-tutoring-25-examinations-primary-outcome.md) — related
+- [Residents tended to score higher on image acquisition than on image interpretation in POC ultrasound assessment](acquisition-scores-exceeded-interpretation-scores.md) — related
+- [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — reports the opposite
+- [Simulation-based TVS training before clinical training yields higher clinical performance on real patients 2 months into residency than clinical training alone](simulation-tvs-training-sustained-clinical-performance.md) — related

@@ -47,6 +47,7 @@ The article recommends that elements supporting, stimulating, and facilitating r
 
 - [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
 - [Include debriefing sessions run by qualified facilitators in team training to stimulate reflective learning](debriefing-qualified-facilitators-team-training-strategy.md)
+- [Design debriefing with awareness of sociomaterial dimensions so intended learning outcomes are not blocked out](attend-to-sociomaterial-dimensions-in-debriefing-design.md)
 
 ## Examples
 -

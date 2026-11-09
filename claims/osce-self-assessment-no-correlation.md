@@ -51,3 +51,4 @@ Relations-to-other-variables analysis: 69 pre-course, 67 post-course, and 63 ret
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related
 - [Retrospective pre-course self-ratings were substantially lower than prospective pre-course ratings, capturing what trainees didn't know they didn't know](retrospective-precourse-self-assessment-gap.md) — related
+- [Using a step stool was significantly correlated with achieving the correct 90-degree shoulder position during CPR](step-stool-use-correlated-correct-shoulder-position.md) — related

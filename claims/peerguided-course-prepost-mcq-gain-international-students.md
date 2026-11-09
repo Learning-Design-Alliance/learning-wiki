@@ -49,3 +49,5 @@ Prospective single-group evaluation of the peer-guided tutorial: paired t-test c
 - [Flipping an undergraduate epidemiology course produced no significant difference between pre-test and final exam scores](flipped-epidemiology-no-score-difference.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — a broader claim this one bears on
 - [Anaesthetists' scores on a ten-question multiple-choice test of neuromuscular monitoring knowledge rose from pre-course to post-course after completing the e-learning module, in one uncontrolled pre-post study](elearning-improved-nmba-knowledge-test-scores.md) — related
+- [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
+- [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related

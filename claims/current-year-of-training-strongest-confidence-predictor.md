@@ -48,3 +48,4 @@ Cross-sectional online survey of 105 neonatal trainees from 24 UEMS countries; o
 - [Trainees were more confident in endotracheal intubation and postnatal surfactant administration than in nasal intubation, ECMO referral, and tracheostomy referral](trainee-confidence-varies-by-procedure.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [There is no unified pathway for training, curricula, and formal assessments across UEMS member countries](no-unified-neonatal-training-pathway-uems.md) — related
+- [Presence of a formal procedural curriculum correlates strongly with both perceived importance (r = 0.7) and perceived preparedness (r = 0.8) of procedures](curriculum-presence-correlates-importance-preparedness.md) — related

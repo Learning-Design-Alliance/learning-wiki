@@ -50,3 +50,4 @@ Multigroup confirmatory factor analysis examining measurement invariance across 
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
 - [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related
 - [The factor structure of the Spanish ARS is invariant with respect to gender at the measurement-weight level](spanish-ars-gender-invariance.md) — related
+- [Only metric invariance of the TSES measure could be achieved across the 32 TALIS countries for both ESEM and CFA](only-metric-invariance-tses-32-countries.md) — related

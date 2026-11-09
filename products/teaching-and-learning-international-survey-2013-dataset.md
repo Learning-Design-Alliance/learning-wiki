@@ -27,6 +27,7 @@ The OECD's TALIS 2013 dataset contains international survey data from teachers a
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **TALIS 2013 principal survey dataset used for cross-national control analysis**: The study analyzes the TALIS 2013 dataset collected by the OECD, which "provides background information of the school, teaching and learning environment, professional development, and working conditions of teachers and principals from 38 countries." The authors used principal surveys at lower-secondary schools; "the final sample included 7,436 schools from 38 countries." Private schools were excluded, and four binary items measured external versus internal control over assessment, hiring, learning materials, and budget allocation. (Kim et al. (2019))
+- **TALIS 2013 public-use dataset of teachers' self-efficacy and related constructs**: The OECD Teaching and Learning International Survey (TALIS) 2013 dataset covers teachers' perceptions of the school as a learning environment, appraisal and feedback, teaching practices, leadership, self-efficacy, and job satisfaction. The study used "the entire TALIS 2013 sample comprising the data from 32 countries and sub-national entities (N = 170,020)", reduced to N = 164,687 after excluding 5,333 teachers missing self-efficacy responses, from 1,808 schools providing ISCED level 2 education. The OECD released the data as public-use files. (Scherer et al. (2016))
 
 ### Claims
 - [Across 38 countries, external control is highest in assessment and lowest in curriculum and budget](../claims/external-control-highest-assessment-lowest-curriculum.md) [+W]
@@ -41,8 +42,8 @@ The OECD's TALIS 2013 dataset contains international survey data from teachers a
 
 ## Key Sources
 - Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
-
 <!-- merged 2026-10-10 from elements/talis-2013-principal-survey-dataset ("TALIS 2013 principal survey dataset used for cross-national control analysis"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Scherer, R., Jansen, M., Nilsen, T., Areepattamannil, S., & Marsh, H. W. (2016). The Quest for Comparability: Studying the Invariance of the Teachers' Sense of Self-Efficacy (TSES) Measure across Countries. PLoS ONE, 11(3), e0150829. https://doi.org/10.1371/journal.pone.0150829
 
 # TALIS 2013 principal survey dataset used for cross-national control analysis
 

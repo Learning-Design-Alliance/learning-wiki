@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 189 claims (149 show a difference, 28 mixed, 12 no difference) · 163 studies (66 causal, 30 review, 24 qualitative, 13 associational, 13 design, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 15 of 163 report an effect size · 189 claims rest on one study
+> **Evidence** · 190 claims (150 show a difference, 28 mixed, 12 no difference) · 164 studies (66 causal, 30 review, 24 qualitative, 14 design, 13 associational, 11 quant-synthesis, 6 theoretical), `q1`–`q3` · 15 of 164 report an effect size · 190 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -231,6 +231,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [A collaboration script increases collaborative activities (elicitation, externalisation, consensus building) among observers in simulation-based training](../claims/collaboration-script-increases-collaborative-activities.md) [+M] — measured as an outcome of the instruction studied
 - [Prosocial behavior grew over the intervention in cooperative-learning classrooms but not in comparison classrooms](../claims/prosocial-behavior-grows-only-in-intervention.md) [+M] — measured as an outcome of the instruction studied
 - [Teamwork safety-relevant attitudes largely unchanged after the NTS seminar; handling errors improved but the teamwork attitude decreased in the NTS group](../claims/nts-seminar-attitude-changes-mixed.md) [~M] — measured as an outcome of the instruction studied
+- [The article claims WeChat–PBL stimulates learning interest and enthusiasm, improves self-directed learning and enhances peer collaboration](../claims/wechat-pbl-overall-benefits-claim.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

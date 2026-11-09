@@ -68,3 +68,4 @@ Multiple linear regression on experimental-group data predicting practical test 
 - [Regression analysis identifies interest, platform stability, and academic standardization of resources as significant positive predictors of student satisfaction, while convenience, operational flexibility, section organization, and resource richness are not significant](interest-stability-standardization-predict-satisfaction.md) — related
 - [Semester grades correlate strongly with practical carving test scores (r = 0.775)](semester-grades-practical-test-correlation.md) — related
 - [Students' general interest in a lesson's subject is positively associated with their ratings of teaching quality](student-general-interest-bias-teaching-ratings.md) — related
+- [Number of video viewings correlates with confidence and satisfaction; device type does not relate to outcomes](viewing-frequency-correlates-confidence-satisfaction.md) — related

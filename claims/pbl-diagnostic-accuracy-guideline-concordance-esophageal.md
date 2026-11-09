@@ -70,3 +70,4 @@ Separate chi-square comparison of guideline concordance in the same cohort. PBL 
 - [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Baseline characteristics (age, sex, pre-rotation theoretical scores) did not differ significantly between the PBL and lecture cohorts](baseline-comparability-pbl-esophageal-cohort.md) — related
+- [Simulator use increased the proportion of students choosing the correct esophageal cancer diagnosis from 65% to 92%](alice-improved-correct-diagnosis-rate.md) — related

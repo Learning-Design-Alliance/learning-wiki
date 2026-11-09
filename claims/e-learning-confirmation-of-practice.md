@@ -48,3 +48,4 @@ Thematic analysis of the 'Confirmation of practice' theme, the fourth theme from
 - [Physiotherapists in the experimental e-learning intervention valued its communication strategies as highly useful, while traditional-intervention participants criticised their absence](eei-communication-strategies-valued-tei-lamented.md) — related
 - [Most physiotherapists found the e-learning content not new but a useful knowledge refresher, valuing practical tools such as the SBST](e-learning-valued-as-knowledge-refresher.md) — related
 - [Physiotherapists held mixed opinions on the relevance of e-learning content on red flags, spinal pathologies, and pain mechanisms](mixed-views-red-flags-spinal-pathology-content.md) — related
+- [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](pa-learning-outcomes-awareness-attitudes-self-efficacy.md) — related

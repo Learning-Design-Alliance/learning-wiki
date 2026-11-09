@@ -69,3 +69,4 @@ Consequence exploration of the established pass/fail score in the same 36-partic
 - [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related
 - [A Contrasting Groups' Method pass/fail standard of 34.0 points completely discriminated between novices and experienced surgeons, with no false positives or false negatives](cgm-cut-score-34-complete-discrimination-drf.md) — related
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related
+- [Contrasting-groups pass/fail standards were established for both simulator tests with overlapping-score consequences of one misclassified participant each](contrasting-groups-pass-fail-standards-colonoscopy.md) — related
