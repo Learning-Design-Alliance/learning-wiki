@@ -58,3 +58,4 @@ Pre/post assessment of 107 trained health care workers using validated HBB knowl
 - [Adult cardiorespiratory resuscitation knowledge scores rose significantly from pre-test to post-test after health simulation training in a multi-professional hospital team, in one single-group pre-post study](simulation-training-increases-crr-knowledge.md) — related
 - [Flipped-learning pre-simulation briefing did not improve neonatal emergency care knowledge relative to a general briefing](flipped-briefing-no-knowledge-gain.md) — related
 - [Telesimulation for neonatal resuscitation significantly increases short-term resuscitation knowledge scores](telesimulation-increases-neonatal-resuscitation-knowledge.md) — related
+- [Health workers' neonatal resuscitation knowledge scores rose from pre-test to post-test after HBB training plus the QIC and remained high at 6 months in one uncontrolled pre-post study](hbb-qic-knowledge-retained-6-months.md) — related

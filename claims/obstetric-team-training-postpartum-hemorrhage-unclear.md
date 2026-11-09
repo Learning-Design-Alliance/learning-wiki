@@ -51,3 +51,4 @@ Meta-analysis of eight studies evaluating postpartum hemorrhage outcomes after t
 - [Obstetric team training is associated with reduced delay of birth at emergency cesarean section (decision-to-delivery time excess of 30 min), with very low certainty evidence](obstetric-team-training-reduces-decision-to-delivery-delay.md) — related
 - [The effect of obstetric team training on umbilical cord prolapse outcomes is inconclusive, with very low certainty evidence](obstetric-team-training-cord-prolapse-inconclusive.md) — related
 - [Improved PBM knowledge is associated with reduced blood transfusions, per prior literature cited in the article](improved-pbm-knowledge-reduces-transfusions.md) — related
+- [In one uncontrolled pre-post study, post-birth whole blood transfusion rates fell from 3.2% to 1.7% after multi-professional, scenario-based PPH training (47% reduction)](scenario-pph-training-reduces-transfusion-rates.md) — reports the opposite

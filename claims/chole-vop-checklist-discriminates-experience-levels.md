@@ -51,3 +51,4 @@ Kruskal–Wallis comparison of summed CHOLE-VOP checklist scores across three la
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related
 - [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
+- [GRS scores discriminate all three experience groups, while checklist scores fail to distinguish novices from intermediates and intermediates from experts](grs-outperforms-checklist-discriminating-expertise.md) — reports the opposite

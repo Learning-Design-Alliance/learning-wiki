@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 447 claims (216 for, 203 mixed, 28 against) · 334 studies (107 associational, 79 design, 56 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 334 report an effect size · 440 claims rest on one study
+> **Evidence** · 450 claims (219 for, 203 mixed, 28 against) · 336 studies (108 associational, 79 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 336 report an effect size · 443 claims rest on one study
 
 ## Conditional relationship
 
@@ -291,6 +291,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [In a within-candidates counterbalanced OSCE study, the tablet–scan-sheet score difference shrank to 2% with scan sheets higher, and was not considered meaningful](../claims/counterbalanced-modality-difference-reduced-two-percent.md) [~W] — attached 2026-11-09 from Monteiro S et al. (2018), which proposed "Evaluate rating-technology changes in high-stakes assessments with comprehensive psychometric analyses, not average scores alone"; tests this page's relationship.
 - [Rasch analysis showed no relationship between rating modality and station difficulty, undermining the May exam's modality effect](../claims/rasch-no-modality-station-difficulty-relationship.md) [+W] — attached 2026-11-09 from Monteiro S et al. (2018), which proposed "Evaluate rating-technology changes in high-stakes assessments with comprehensive psychometric analyses, not average scores alone"; tests this page's relationship.
 - [A literature-based curriculum-sampling admission test shows high, cohort-consistent operational predictive validity for first-year GPA (rc = .56) in undergraduate psychology applicants](../claims/curriculum-sampling-test-high-predictive-validity-fygpa.md) [+M] — attached 2026-11-09 from Niessen A. Susan M. et al. (2018), which proposed "Use curriculum-sampling admission tests when self-selection or student-program fit are major admission objectives, alongside or instead of high school GPA"; tests this page's relationship.
+- [Number-right scoring yields higher person reliability coefficients than formula scoring in Rasch analysis of progress-test MCQs](../claims/number-right-higher-person-reliability-rasch.md) [+W] — attached 2026-11-09 from Cecilio-Fernandes D et al. (2017), which proposed "Prefer number-right scoring for MCQ progress tests on psychometric grounds, while considering test-taking strategies"; tests this page's relationship.
+- [The 5-item DPCC-MS matches a longer validated scale on internal consistency and convergent validity but shows better inter-rater reliability](../claims/dpcc-ms-compares-favorably-to-longer-scale.md) [+W] — attached 2026-11-09 from Renaud Jean-Sébastien; Côté Luc (2017), which proposed "Short (5-item) instruments can reliably and validly assess a single competency in end-of-rotation summative assessment"; tests this page's relationship.
+- [The DPCC-MS shows acceptable internal consistency and item discrimination for both junior and senior medical students](../claims/dpcc-ms-acceptable-internal-consistency.md) [+W] — attached 2026-11-09 from Renaud Jean-Sébastien; Côté Luc (2017), which proposed "Short (5-item) instruments can reliably and validly assess a single competency in end-of-rotation summative assessment"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

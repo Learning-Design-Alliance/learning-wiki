@@ -50,3 +50,4 @@ Qualitative thematic analysis of interviews (n=15). Examples include scheduling 
 - [The evidence that ECHO improves physician preparedness for OUD rests almost entirely on self-report, so actual preparedness gains remain untested](echo-oud-evidence-self-report-limitation.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
 - [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related
+- [Intervention physicians engaged in better shared decision-making with standardized patients despite no between-group difference in shared decision-making knowledge](shared-decision-making-behavior-better-web-group.md) — related

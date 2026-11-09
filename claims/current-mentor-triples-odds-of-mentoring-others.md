@@ -49,3 +49,4 @@ Cross-sectional faculty survey (553 respondents, 56.0% response rate) analyzed w
 - [High-quality mentorship is associated with nearly 4-fold odds of strong job satisfaction, and low-quality mentorship fares similarly to having no mentor](high-quality-mentorship-job-satisfaction.md) — related
 - [Mentorship is least prevalent among senior faculty and those on non-investigator career pathways](mentorship-lowest-non-investigator-pathways.md) — related
 - [High-quality mentorship is associated with lower odds of being stalled in academic rank (OR 0.28), while never having had a mentor raises the odds (OR 3.38)](high-quality-mentorship-less-stalled-in-rank.md) — related
+- [Mentorship overlap and regular mentor meetings supported learner progress; same-discipline physician mentors served as role models](mentorship-overlap-and-role-modelling.md) — related

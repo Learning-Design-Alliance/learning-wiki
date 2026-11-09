@@ -46,3 +46,4 @@ Homcha and colleagues evaluated a pictorial guide for blood loss assessment duri
 
 ## Related Claims
 - [Colorimetric estimation showed the least deviation from actual blood loss in a simulated postpartum hemorrhage, followed by gravimetric and visual methods](colorimetric-blood-loss-least-deviation-simulation.md) — related
+- [Diagnosed postpartum hemorrhage incidence, based on visual estimation of blood loss, did not change significantly after training](pph-visual-estimate-unchanged.md) — related

@@ -54,3 +54,4 @@ Cross-sectional validation study at two Danish sites: 12 first-year orthopedic r
 - [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related
 - [A composite fluoroscopy score on the iVR simulator discriminates novices from experienced surgeons with a very large effect size (partial eta squared = 0.54)](ivr-fluoroscopy-composite-score-discriminates-experience.md) — related
 - [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a narrower finding that bears on this claim
+- [Expert surgeons substantially outperformed the combined student group on the script concordance test](sct-experts-outperform-students.md) — related

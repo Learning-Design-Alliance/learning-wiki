@@ -51,3 +51,4 @@ Reliability analysis of the scenario-based assessment in which two Korean emerge
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [A self-survey and a scenario-based competence assessment tool for emergency medicine show a statistically insignificant mean difference and moderate agreement when applied to Cameroonian healthcare professionals](self-survey-scenario-competence-assessment-agreement-cameroon.md) — related
+- [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related

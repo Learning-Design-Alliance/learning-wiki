@@ -52,3 +52,4 @@ Reliability analysis of the six operational reading data sets (Data A-F), compar
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related
+- [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related

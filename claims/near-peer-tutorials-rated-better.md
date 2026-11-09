@@ -70,3 +70,4 @@ Post-crossover evaluations (tutorials 3-4, n=83 near-peer vs n=150 staff) showed
 - [Near-peer tutored and staff-tutored medical students achieved statistically comparable written critical appraisal knowledge and skills test scores at mid- and end-of-module](near-peer-staff-comparable-written-test-scores.md) — related
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
 - [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
+- [Over seven years the expertise reached by peer tutors and peer learners was generally satisfactory](seven-year-satisfactory-expertise-pts-pls.md) — related

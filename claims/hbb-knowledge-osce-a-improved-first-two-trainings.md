@@ -53,3 +53,4 @@ McNemar tests of pass/fail among the 34 community midwives who completed all thr
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — reports the opposite
 - [HBB simulation training significantly increases health care workers' newborn resuscitation knowledge at district hospitals in northern Tanzania](hbb-training-increases-hcw-knowledge-tanzania.md) — related
 - [HBB simulation training significantly increases health care workers' newborn resuscitation skills on both OSCE A and OSCE B](hbb-training-increases-hcw-osce-skills.md) — related
+- [Health workers' neonatal resuscitation knowledge scores rose from pre-test to post-test after HBB training plus the QIC and remained high at 6 months in one uncontrolled pre-post study](hbb-qic-knowledge-retained-6-months.md) — related

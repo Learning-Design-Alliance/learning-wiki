@@ -48,3 +48,4 @@ Analysis of 336 actigraphy-verified naps in the 181-student actigraphy study, po
 - [Actigraphy-verified nocturnal sleep is more than an hour shorter before 08:00 classes because students wake earlier, with greater social jet lag](actigraphy-sleep-shorter-early-classes.md) — related
 - [Students frequently slept past the start of 08:00 classes, failing to wake in time for nearly one-third of them](students-oversleep-0800-classes.md) — related
 - [Cooperative program students report more specific professional interests but fewer regular daytime naps than domestic students](cooperative-interests-naps-group-differences.md) — related
+- [Irregular sleepers obtain the same total sleep as Regular sleepers via more daytime naps and compensatory daytime sleep](irregular-sleepers-compensatory-daytime-sleep.md) — related

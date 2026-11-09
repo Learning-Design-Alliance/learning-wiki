@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (28 for, 20 mixed, 4 against) · 33 studies (11 causal, 10 quant-synthesis, 4 qualitative, 3 review, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 33 report an effect size · 49 claims rest on one study
+> **Evidence** · 53 claims (29 for, 20 mixed, 4 against) · 34 studies (11 causal, 10 quant-synthesis, 4 qualitative, 4 design, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 34 report an effect size · 50 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 - [Peer teachers reported mixed apprehension about the teaching requirement and discomfort assessing junior students, while feeling comfortable teaching them](../claims/mixed-apprehension-assessment-discomfort-peer-teachers.md) [~W] — attached 2026-11-02 from Williams et al. (2014), which proposed "Prepare peer teachers with training before PAL sessions, since inadequate preparation produced apprehension and unclear session content".
 - [Focus groups identified three themes about the SLPTS: high level of organization, creation of a comfortable learning environment, and effective peer teaching](../claims/slpts-focus-group-three-themes.md) [+W] — attached 2026-11-06 from Bohrer Maxwell B. MD (2025), which proposed "Involve medical students in designing and facilitating clinical procedure training to provide early clinical exposure with minimal faculty resources".
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](../claims/desired-training-content-theory-practice-feedback.md) [+W] — attached 2026-11-06 from George SS et al. (2025), which proposed "Design peer-teacher training that combines a theoretical base with contextualized practical teaching experience and feedback".
+- [Near-peer instructors teaching anatomy dissection are rated by first-year students on par with professional teachers, and significantly higher in 2016](../claims/npi-anatomy-ratings-par-with-faculty.md) [+W] — attached 2026-11-09 from Dickman N et al. (2017), which proposed "Use trained student near-peer instructors as small-group facilitators in gross anatomy dissection, especially where qualified instructors are scarce"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

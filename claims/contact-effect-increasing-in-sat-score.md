@@ -47,3 +47,4 @@ Analysis of the same two-cycle administrative contact data; the article reports 
 ## Related Claims
 - [Applicants who contact a selective university's admissions office are more likely to be admitted](applicant-contact-increases-admission-probability.md) — related
 - [A numerical example explores subsidizing low-income students' costly demonstrated interest to reduce admission inequity](subsidize-low-income-demonstrated-interest.md) — related
+- [Intensive evidence-based recruitment including incentives and repeated contact yielded under one quarter GP enrolment, suggesting intensive contact may be needed but is costly](evidence-based-recruitment-insufficient-online-cme.md) — related

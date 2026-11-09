@@ -55,3 +55,4 @@ Confirmatory hierarchical regression with age entered first (β = -.223, R2 = .0
 - [Children's eye movement consistency is associated with selective attention and executive function, whereas eye movement pattern relates to working memory](eye-movement-consistency-executive-function-children.md) — a broader claim this one bears on
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
 - [In partially trained DNN+HMM models simulating children, eye movement consistency (lower entropy) predicts recognition accuracy but eye movement pattern does not](partially-trained-model-consistency-predicts-accuracy.md) — related
+- [Gaze time on task-irrelevant areas relates to poorer retention performance and higher movement entropy](irrelevant-gaze-related-poorer-retention.md) — related

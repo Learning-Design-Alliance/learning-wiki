@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ethnic-minority-students-less-likely-top-epm-rankings.md
+---
+
+# Revision history: [claims/ethnic-minority-students-less-likely-top-epm-rankings](../claims/ethnic-minority-students-less-likely-top-epm-rankings.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-5589012 (The relationship between school type and academic performance at medical school: a national, multi-cohort study.) via eval_harness.py + ingest_extractions.py

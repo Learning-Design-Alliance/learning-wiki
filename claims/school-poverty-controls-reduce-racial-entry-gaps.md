@@ -66,3 +66,4 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Students of ethnicity other than White grew more slowly in reading and math than White students, with no ethnic differences in initial achievement](non-white-ethnicity-slower-growth-no-intercept-difference.md) — related
 - [Nonwhite students score significantly lower than white classmates in both teaching conditions, with no differential gains from the experiment](nonwhite-students-score-lower-both-groups.md) — related
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
+- [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related

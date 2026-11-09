@@ -72,3 +72,4 @@ Linear regression including factors with p > 0.1 (post-exam VAS and gender). The
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [Logistic regression identified access score, final exam knowledge score, final skill score and OSCE score as associated with cohort, but not anxiety measures](regression-factors-pandemic-cohort.md) — related
 - [State anxiety showed no significant correlation with summative OSCE performance](no-correlation-state-anxiety-osce-performance.md) — related
+- [Test anxiety does not correlate with previous or impending academic performance in medical school](test-anxiety-uncorrelated-with-academic-performance.md) — reports the opposite

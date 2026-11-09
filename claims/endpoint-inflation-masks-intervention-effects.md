@@ -48,3 +48,4 @@ The article attributes this illustration to Wiedermann et al. (2022), who analyz
 ## Related Claims
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
 - [The study was affected by a ceiling effect despite control measures aimed at avoiding it](msf-ceiling-effect-despite-controls.md) — a narrower finding that bears on this claim
+- [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related

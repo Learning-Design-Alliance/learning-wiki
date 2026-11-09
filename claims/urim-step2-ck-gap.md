@@ -68,3 +68,4 @@ Same race/ethnicity model: "Asian students did not differ significantly from Whi
 - [Step 2 CK disparities are largest at the intersection of disability and race/ethnicity, with URiM students with disabilities 17.4 points lower than White nondisabled peers](intersectional-step2-ck-disparities.md) — related
 - [Medical students with disabilities score lower on USMLE Step 2 CK than matched nondisabled peers, even after adjustment for MCAT score](mswd-lower-step2-ck-scores.md) — related
 - [The observed Step 2 CK score differences correspond to approximately 0.5 to 1.1 standard deviations of the overall score distribution, with practical consequences for residency screening](step2-gaps-practical-significance-residency.md) — related
+- [Student ethnicity (Asian vs white) had no influence on examiners' OSCE scores for knowledge, communication or overall performance](no-ethnicity-effect-examiner-scores.md) — related

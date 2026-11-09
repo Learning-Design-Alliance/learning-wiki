@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 316 claims (202 show a difference, 62 mixed, 52 no difference) · 197 studies (74 associational, 69 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 47 of 197 report an effect size · 308 claims rest on one study
+> **Evidence** · 318 claims (203 show a difference, 62 mixed, 53 no difference) · 198 studies (75 associational, 69 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 47 of 198 report an effect size · 310 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -352,6 +352,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Combined expressive writing and arousal reappraisal interventions raised exam points for all students, with no differential benefit for women or highly anxious students](../claims/test-anxiety-interventions-raise-exam-points-for-all-students.md) [-M] — an instructional effect differs with it
 - [Higher trait test anxiety predicts lower exam points but more non-exam points among control students](../claims/test-anxiety-predicts-lower-exam-points-higher-nonexam-points.md) [~M] — learners who differ on it differ in outcomes
 - [The test anxiety interventions did not change end-of-course self-declared trait anxiety](../claims/test-anxiety-intervention-no-trait-anxiety-change.md) [-M] — measured as an outcome of the instruction studied
+- [Self-reported test anxiety is higher before oral than before written exams in second-year medical students](../claims/test-anxiety-higher-before-oral-than-written-exams.md) [+M] — measured as an outcome of the instruction studied
+- [Test anxiety does not correlate with previous or impending academic performance in medical school](../claims/test-anxiety-uncorrelated-with-academic-performance.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

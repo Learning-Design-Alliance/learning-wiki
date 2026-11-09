@@ -54,3 +54,4 @@ Before-and-after evaluation in a TBL course without a control group; 89 of 92 st
 - [Integrating TBL, flipped classroom, and experiential home visits significantly improved fifth-year medical students' knowledge of palliative care principles, assessment, pain management, and advance care planning](active-learning-palliative-knowledge-gains.md) — related
 - [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related
 - [Self-assessed clinical reasoning competency rises significantly on all six measured items after team-based learning](self-assessed-clinical-reasoning-competency-improves-tbl.md) — related
+- [A supplementary team-based learning class improved fourth- and fifth-year medical students' key-feature problem examination performance in neurology](supplementary-tbl-improves-key-feature-examination-neurology.md) — related

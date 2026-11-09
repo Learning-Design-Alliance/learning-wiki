@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion of the material's logistical advantage
 - [Surgeons rated the DragonSkin model representative, easy to use and useful for training, but not handling or gliding like human tendon](dragonskin-face-content-validity-feedback.md) — related
 - [DragonSkin silicone shows intermediate load to failure between sealant and porcine tendon in simulated tendon repair models](dragonskin-intermediate-load-to-failure.md) — related
 - [DragonSkin failed primarily by tendon rupture rather than suture cut-through, unlike sealant](dragonskin-tendon-rupture-failure-mode.md) — related
+- [Silicone curing time after mixing determines vessel model outcome — ruptured below 8 minutes through rigid beyond 55 — at a 100:2 silicone-to-curing-agent volume ratio](silicone-curing-time-controls-vessel-model-type.md) — related

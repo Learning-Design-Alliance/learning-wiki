@@ -53,3 +53,4 @@ Practitioner-guide interpretation illustrated by an opening anecdote: the distri
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](trust-determines-swot-diagnostic-quality.md) — a broader claim this one bears on
+- [A mentoring group begins meaningful reflective discourse when a member dares to address a personally challenging topic, and an atmosphere of security and interest is a precondition for this pivotal point](pivotal-point-courage-security-reflective-groups.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Bootstrapping analysis (10,000 resamples) of 45 examiner-pair combinations per v
 - [Grade discrepancies span about half a grade for excellent candidates but two to three grades for weaker candidates](grade-discrepancy-half-grade-versus-two-three-grades.md) — a narrower finding that bears on this claim
 - [Score variability across examiner pairs is lower than variability across individual examiners in a mock clinical assessment](paired-examiners-lower-score-variability.md) — related
 - [The borderline (average) candidate's outcome differed between solo and paired marking, with pairs never failing that performance](paired-marking-changes-borderline-candidate-outcome.md) — related
+- [The expert rater scored performances lower than the non-expert raters, suggesting peer-assessment may be problematic compared with assessment by a more experienced clinician](expert-rater-lower-peer-assessment-problematic.md) — related

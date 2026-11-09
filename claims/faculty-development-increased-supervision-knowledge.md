@@ -47,3 +47,4 @@ Quasi-experimental pre-post single-group study of 20 pediatric faculty members; 
 ## Related Claims
 - [Faculty self-rated attitudes toward the formative function and overall clinical supervision rose from pre-test to post-test, while normative and restorative attitude scores rose without statistically significant gains, in one uncontrolled pre-post study](formative-attitude-gain-significant-restorative-not.md) — related
 - [Direct workplace observation found faculty applied the Proctor model's clinical supervision components in 90.63% of observed behaviors, with the formative function highest (93.85%) and normative lowest (87.11%)](observed-proctor-performance-90-63-percent.md) — related
+- [Risk competence scores rose from pre-test to post-test among students in the blended learning program (Cohen's d = 2.61)](blended-re-c-program-large-overall-gain.md) — related

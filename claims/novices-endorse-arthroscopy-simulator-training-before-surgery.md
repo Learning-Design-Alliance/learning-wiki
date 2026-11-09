@@ -58,3 +58,4 @@ Agree/Disagree/Undecided items completed by all 109 satisfaction-sample particip
 - [Participant satisfaction with the short course was high, with all 36 participants willing to recommend it](high-satisfaction-low-cost-laparoscopic-course.md) — related
 - [Students propose varied timing for VR-based simulation—before, after, or both before and after clinical practice—with no consensus on a single best point](vr-simulation-timing-before-after-clinical-practice.md) — reports the opposite
 - [Surgeons judged registrars and fellows the trainee level that would benefit most from the VR hip arthroscopy simulator](registrars-fellows-benefit-most-vr-simulator.md) — related
+- [NOViSE shows content validity as a NOTES training tool, with most participants endorsing and recommending it](novise-content-validity-training-tool.md) — related

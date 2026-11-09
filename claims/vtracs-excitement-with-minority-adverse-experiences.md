@@ -55,3 +55,5 @@ Theme 1 (expression of excitement) in the results: participants without prior VR
 - [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — possibly the same claim (merge candidate)
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
+- [Students found anatomy teaching by ultrasound innovative, exciting and engaging, and autonomous exercise improved self-criticism](student-engagement-ultrasound-anatomy.md) — related
+- [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related

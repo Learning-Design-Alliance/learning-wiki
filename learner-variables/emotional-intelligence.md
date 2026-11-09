@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (97 show a difference, 24 mixed, 18 no difference) · 84 studies (28 associational, 27 causal, 16 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 23 of 84 report an effect size · 138 claims rest on one study
+> **Evidence** · 140 claims (98 show a difference, 24 mixed, 18 no difference) · 85 studies (29 associational, 27 causal, 16 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 24 of 85 report an effect size · 139 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -175,6 +175,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [The Mind Reading software with in vivo rehearsal improved emotion recognition, encoding and decoding in children with high-functioning ASD](../claims/mind-reading-software-improved-emotion-skills-hfasd.md) [+M] — measured as an outcome of the instruction studied
 - [MMI scores do not correlate significantly with ability emotional intelligence measured by the STEM emotion-management situational judgement test](../claims/hamburg-mmi-no-ability-ei-correlation.md) [-W] — learners who differ on it differ in outcomes
 - [MMI scores do not correlate significantly with global trait emotional intelligence measured by the TEIQue-SF](../claims/hamburg-mmi-no-trait-ei-correlation.md) [-W] — learners who differ on it differ in outcomes
+- [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](../claims/dpcc-ms-mmi-convergent-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

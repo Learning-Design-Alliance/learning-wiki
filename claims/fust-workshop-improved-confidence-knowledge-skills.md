@@ -52,3 +52,4 @@ Before–after quasi-experimental study (Lazzarini et al., as charted in Table 1
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — related
 - [A 3-day chronic breathlessness training workshop significantly increased health professionals' confidence across all course objectives](breathlessness-workshop-increases-confidence-all-objectives.md) — related
+- [From educators' perspectives, the key issues in teaching podiatry manual clinical skills are students' clinical exposure, motivation, levels of anxiety and dexterity](key-issues-exposure-motivation-anxiety-dexterity.md) — related

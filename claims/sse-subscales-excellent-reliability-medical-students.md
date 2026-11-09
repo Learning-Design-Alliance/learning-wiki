@@ -48,3 +48,4 @@ Descriptive and psychometric analysis of SSE subscales in 463 Slovak-program and
 - [A pilot of the Slovak SSE translation in 168 first-year students showed satisfactory internal consistency (α = 0.911 overall)](slovak-sse-pilot-internal-consistency.md) — related
 - [RCDP trainees report higher satisfaction with debriefing and reflection, driving a higher overall SSE score, while confidence in independent operation does not differ](rcdp-higher-debriefing-reflection-satisfaction.md) — related
 - [The German translation of TEAM shows psychometric properties comparable to the English and French versions, with high internal consistency and a single dominant component](german-team-psychometrics-validated.md) — related
+- [MEAT subscales show excellent internal consistency (Charisma α = .98; Credibility α = .91)](meat-internal-consistency-alpha.md) — related

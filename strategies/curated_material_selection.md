@@ -59,9 +59,11 @@ Selection quality directly shapes cognitive load: poorly chosen or redundant mat
 6. Schedule recurring review and gather learner feedback on which materials actually supported learning.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — selection decisions determine the size and boundaries of the chunks learners encounter
 - [Scaffolded Questioning](scaffolded-questioning.md) — curated materials give the questioning sequence something reliable to build on
 - [Text Set Construction](text-set-construction.md) — a specific form of curation focused on multiple perspectives on one topic
+- [Class-sourcing: students curate and share resources, reviewed by faculty and peers](class-sourcing-student-curated-resources.md)
 
 ## Examples
 - **[MERLOT](https://www.merlot.org)** — peer-reviewed repository of online teaching materials with user ratings and review metadata, institutionalizing curation criteria.

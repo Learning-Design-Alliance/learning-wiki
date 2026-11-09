@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (99 show a difference, 33 mixed, 10 no difference) · 101 studies (25 review, 22 associational, 19 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 101 report an effect size · 137 claims rest on one study
+> **Evidence** · 146 claims (102 show a difference, 33 mixed, 11 no difference) · 103 studies (26 review, 23 associational, 19 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 103 report an effect size · 141 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -179,6 +179,10 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](../claims/flipped-classroom-coi-all-three-presences-increase.md) [+M] — measured as an outcome of the instruction studied
 - [Classroom social belonging increases with active learning only for non-URM students](../claims/social-belonging-increases-only-non-urm.md) [~M] — measured as an outcome of the instruction studied
 - [Social belonging is not significantly related to either performance metric across semesters](../claims/social-belonging-not-related-to-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Follow-up training and regular supervision from formal health staff, with logistical support, trigger a sense of legitimacy and professional identity in CHVs](../claims/chv-role-legitimacy-health-system.md) [+M] — measured as an outcome of the instruction studied
+- [Incentives adapted to local context trigger a sense of being fairly treated and perceived organisational support in community health volunteers](../claims/chv-incentives-fair-treatment-retention.md) [+M] — measured as an outcome of the instruction studied
+- [Interventions creating close, trusting ties between community members and CHVs through clear community positioning trigger self-esteem, pride, duty and community recognition](../claims/chv-community-ties-self-esteem-duty.md) [+M] — measured as an outcome of the instruction studied
+- [Post-implementation group differences are only slightly larger for written examinations than for coursework, not supporting a stereotype-threat advantage of coursework](../claims/exam-coursework-difference-magnitude-small-h2-unsupported.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

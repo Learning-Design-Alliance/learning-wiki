@@ -51,3 +51,4 @@ Study 1: online survey three months after admission of both admitted and rejecte
 ## Related Claims
 - [MMI scores do not correlate significantly with ability emotional intelligence measured by the STEM emotion-management situational judgement test](hamburg-mmi-no-ability-ei-correlation.md) — related
 - [IC-MD ratings show convergent validity with simulation patients' perceptions of the consultation (r = .57) but no significant association with emotional intelligence measures after correction for multiple testing](ic-md-convergent-validity-prad-not-ei.md) — related
+- [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related

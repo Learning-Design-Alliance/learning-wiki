@@ -48,6 +48,7 @@ The article evaluates rating trainees' performances via video recordings instead
 - [Use simulation-based and video-based training and assessment as adjuncts where local experts and case volume are lacking](simulation-video-training-adjuncts-novel-endoscopy.md)
 - [Provide remote surgical feedback and virtual didactics when in-person training is restricted](remote-surgical-feedback-virtual-didactics-strategy.md)
 - [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
+- [Assess fidelity of group courses via audio-recorded checklists plus speech-time didacticism scoring](audio-recording-fidelity-assessment-strategy.md)
 
 ## Examples
 -

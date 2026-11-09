@@ -73,3 +73,4 @@ Same questionnaire data: 81% credited self-assessment with increased self-confid
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](peer-review-composition-quality-perception.md) — related
 - [In the experimental group, 88.9% of residents strongly agreed the case database mode improved image interpretation skills and learning interest, and 81.5% were very willing to adopt it in other departments](resident-questionnaire-favorable-toward-case-database-mode.md) — related
+- [Student attitudes toward exams, grading, and feedback were more favorable under the formative format](formative-format-favorable-attitudes.md) — related

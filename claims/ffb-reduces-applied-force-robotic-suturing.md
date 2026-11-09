@@ -73,3 +73,4 @@ Exercise-level analysis of force logs from the robotic system data log in the sa
 - [Surgical novices, but not surgeons, show significantly lower forces with continuous vibration feedback (F2) in the peg transfer task](novice-force-reduction-peg-transfer.md) — a narrower finding that bears on this claim
 - [Real-time AI feedback improves safety-related learning outcomes: lower bleeding risk, lower tissue injury risk, and less bipolar force than expert instruction](icems-improves-safety-learning-outcomes.md) — related
 - [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — related
+- [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](novise-no-force-or-accuracy-differences.md) — related

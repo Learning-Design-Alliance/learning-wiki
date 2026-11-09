@@ -55,3 +55,4 @@ Secondary demographic analysis (Mann-Whitney and Kruskal-Wallis tests) of knowle
 - [Gender and age moderate the habit–intention relationship, stronger for males and for those aged 30 or above](gender-age-moderate-habit-intention.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
 - [Intervention effectiveness is moderated by demographics: younger, less experienced, female, and Bachelor's-degree nurses improved more](demographics-moderate-nontechnical-skill-intervention-effect.md) — related
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related

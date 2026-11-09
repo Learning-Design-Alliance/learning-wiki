@@ -49,3 +49,4 @@ Device-use survey item among 322 VM users; Table 2 prints mobile phones at 50.7%
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [VM awareness and use increased significantly across class levels exposed to histology during or after the COVID-19 pandemic at the University of Ghana](vm-awareness-use-increased-pandemic-ug.md) — related
 - [Students used electronic devices a median of 4 hours daily for non-academic purposes](median-four-hours-daily-device-use-university-students.md) — related
+- [Students predominantly accessed the podcasts on smartphones and laptops, contrasting with earlier computer-dominated access patterns](podcasts-accessed-mainly-smartphones.md) — related

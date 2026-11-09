@@ -65,3 +65,4 @@ Independent-samples 2-tailed t test on IcanSDM attitude scores in the same study
 
 ## Related Claims
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — related
+- [Intervention physicians engaged in better shared decision-making with standardized patients despite no between-group difference in shared decision-making knowledge](shared-decision-making-behavior-better-web-group.md) — related

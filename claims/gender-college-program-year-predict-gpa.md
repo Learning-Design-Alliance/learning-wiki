@@ -53,3 +53,5 @@ Multivariate linear regression in the cohort of 1634 graduates found "female gen
 - [Mean cumulative GPA and admission scores varied across the 13 allied health programs, highest GPA in occupational therapy and lowest in biomedical instrumentation](program-level-variation-gpa-allied-health.md) — related
 - [Course achievement statistically predicts students' cumulative GPA, leading the authors to predict GPA gains if blended flipped learning continued to graduation](achievement-predicts-cumulative-gpa-blended-flipped.md) — related
 - [Female gender and private school attendance predict high achievement in the socio-demographic model but are overshadowed by health behaviors](gender-school-type-overshadowed-by-health-behaviors.md) — related
+- [Age and gender show no significant effect on academic success in Master of Public Health students](age-gender-no-significant-effect-mph.md) — reports the opposite
+- [Higher age, female gender and more time spent on self-study each predict higher GPA among occupational therapy students, controlling for study approaches](age-gender-selfstudy-predict-ot-gpa.md) — related

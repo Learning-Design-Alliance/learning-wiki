@@ -46,6 +46,7 @@ The review recommends that CPR training be continuous within school settings and
 ## Related Strategies
 
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
+- [Make certified, regularly repeated CPR training with practical skills practice a mandatory component of nursing and health-associated curricula](mandatory-certified-cpr-training-programs.md)
 
 ## Examples
 -

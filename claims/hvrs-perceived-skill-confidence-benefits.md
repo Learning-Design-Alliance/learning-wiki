@@ -48,3 +48,4 @@ Self-reported perceptions from the questionnaire of all 14 participants; Table 2
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
 - [The null performance effect of HVRS augmentation is bounded by the pilot's small sample, single procedure, and participants' prior experience with both simulators](hvrs-pilot-study-limitations.md) — related
+- [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — related

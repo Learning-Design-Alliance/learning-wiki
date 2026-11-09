@@ -47,3 +47,4 @@ Quasi-experiment with 50 intermediate EFL learners assigned by device access: ex
 ## Related Claims
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](podcast-group-outperformed-control-listening-posttest.md) — related
+- [Students predominantly accessed the podcasts on smartphones and laptops, contrasting with earlier computer-dominated access patterns](podcasts-accessed-mainly-smartphones.md) — related

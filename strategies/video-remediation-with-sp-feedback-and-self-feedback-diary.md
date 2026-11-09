@@ -51,6 +51,7 @@ The article recommends, in its conclusion, a remediation package in which "Immed
 
 - [Use precepted video review preferentially for underperforming students and peer discussion as a resource-efficient alternative](tailored-video-remediation-preceptor-for-low-performers-peer-for-resource-limits.md)
 - [Use standardized patient encounters with immediate faculty feedback and peer observation for communication skills practice](sp-encounters-immediate-feedback-peer-observation-strategy.md)
+- [Offer conversation training with simulated patients to prepare international medical students for patient encounters](conversation-training-simulated-patients-international-students.md)
 
 ## Examples
 -

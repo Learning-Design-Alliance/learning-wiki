@@ -74,3 +74,4 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Peer victimization is strongly positively associated with adolescent depressive symptoms and negatively associated with academic achievement in both sexes](peer-victimization-depression-and-achievement.md) — related
 - [Increased perceived stress correlated negatively with results in the most challenging exam, physiology](stress-inversely-related-physiology-exam.md) — a narrower finding that bears on this claim
 - [Among university students, lower depression and loneliness scores and higher social satisfaction scores are associated with higher academic achievement](emotional-functioning-correlates-academic-achievement.md) — a broader claim this one bears on
+- [Trait anxiety correlates with over-commitment and inversely with alternating-category verbal fluency](trait-anxiety-overcommitment-verbal-fluency.md) — related

@@ -58,3 +58,5 @@ Validation testing with a cohort of 3 attending critical care physicians at a lo
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
 - [No significant change from pre-course interview to post-course OSCE in eye contact, affirmative gestures, postural change, body lean, speech rate and voice volume, or voice-tone match, in one uncontrolled pre-post study](no-change-several-nonverbal-behaviors-after-sp-training.md) — related
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
+- [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
+- [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related

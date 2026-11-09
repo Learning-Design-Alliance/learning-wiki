@@ -50,3 +50,4 @@ Independent samples t-test comparing satisfaction ratings across the two randomi
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
 - [Both IBL and TCL groups show significant pre-to-post knowledge increases in CPR learning](significant-pre-post-gains-both-formats.md) — related
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Interactive web-based genetics education produced significantly greater overall knowledge gains in primary care physicians than traditional CME review articles](web-genetics-curriculum-greater-knowledge-gains-than-cme-articles.md) — related

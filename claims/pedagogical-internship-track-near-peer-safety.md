@@ -73,3 +73,4 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Peer tutors acted as mentors beyond the sessions’ explicit remit, sharing practical know-how of how to be a clinical medical student](peer-tutors-mentoring-hidden-curriculum.md) — related
 - [Clinical teaching by senior tutors was experienced as threatening, and the safety of PAL was understood in contrast to it](threat-of-the-ward-clinical-teaching.md) — a narrower finding that bears on this claim
 - [Peer tutors’ understanding of students’ wider sociocultural context was the most important factor underpinning the PAL environment and tutor-student relationship](tutor-understanding-sociocultural-context.md) — related
+- [The community of practice provided peer support, mentoring and access to expertise, but also carried risks for early-career addiction specialists](community-of-practice-gains-and-risks.md) — related

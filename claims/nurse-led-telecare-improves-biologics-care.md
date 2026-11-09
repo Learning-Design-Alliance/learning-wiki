@@ -52,3 +52,4 @@ This claim comes from the review's Technological literacy section. The authors s
 - [Patients experience healthcare professionals as competent in digital counselling when they can efficiently provide digital support and solve technological problems](patients-experience-hcp-competence-efficient-digital-support.md) — related
 - [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related
 - [Nurse-led patient education improved participants' knowledge of gout causes and long-term effects, which fostered engagement with urate-lowering therapy](nurse-education-knowledge-fostered-ult-engagement.md) — related
+- [Over 80% of health care professionals report educational benefits and improved knowledge about diabetes prevention and treatment after a 6-week MOOC](mooc-health-professionals-report-educational-benefits.md) — related

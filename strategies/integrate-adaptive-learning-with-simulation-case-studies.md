@@ -58,6 +58,7 @@ In the discussion, the authors recommend combining pre-training occupational ada
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
 - [Add dedicated research methodology, ethics, and mentoring components to case-based curricula to address competency gaps](add-research-ethics-components-to-cbl.md)
 - [Use reviewing medical records, discussions with physicians, VR-based programs, and bedside practice to prepare healthcare professionals for pre-treatment services](records-discussion-vr-bedside-preparation-strategy.md)
+- [Combine face-to-face teaching with the VI, using pharmacists as educators, to deliver the best learning outcomes on clinical vancomycin use](combine-face-to-face-vi-learning-pharmacist-educators.md)
 
 ## Examples
 -

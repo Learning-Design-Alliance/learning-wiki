@@ -72,3 +72,4 @@ External factors theme of the synthesis covering policy (education and health) a
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Policy-level priorities for PAL include self-governance support, Ofsted compatibility, and investment in initial teacher training](pal-policy-priorities-ofsted-itt.md) — a narrower finding that bears on this claim
 - [Students and senior leaders reported good acceptability of PAL across both studies, with most participating students wanting PAL to continue](student-senior-leader-acceptability-pal.md) — related
+- [Staff identify team support, evidence of benefits, structural embedding with an internal coordinator, and parent communication as requirements for sustained PA implementation](pa-implementation-requirements-team-coordinator.md) — related

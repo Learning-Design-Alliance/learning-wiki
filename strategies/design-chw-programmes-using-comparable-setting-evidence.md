@@ -55,6 +55,7 @@ The review recommends that when designing community-based health programmes, "fa
 ## Related Strategies
 
 - [Target post-training supervision and support to older CHWs and emphasize faint-positive interpretation conditions and explaining results to patients](rdt-supervision-targeting-older-chws.md)
+- [Signal value and recognition to volunteers through community positioning, ceremonies, role clarity, training, adapted incentives and supervision](chv-recognition-and-positioning-strategies.md)
 
 ## Examples
 -

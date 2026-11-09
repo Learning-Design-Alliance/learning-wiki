@@ -50,3 +50,4 @@ Think-aloud interviews with eight incoming first-year Biology majors (of twelve 
 - [ICB figures and tables are far more often associated with questions students must answer using the item itself](icb-items-associated-with-questions.md) — related
 - [ICB figures and tables are predominantly interpretive while BSF items mostly provide take-home messages](icb-items-interpretive-bsf-summary.md) — related
 - [Figures providing take-home message verbiage facilitate inflated explanations in which students mimic legend text without understanding the data](take-home-messages-facilitate-inflated-explanations.md) — a broader claim this one bears on
+- [Taking only a single semester of the ICB curriculum did not harm student performance relative to peers](icb-single-semester-no-harm.md) — related

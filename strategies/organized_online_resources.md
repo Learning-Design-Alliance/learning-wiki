@@ -59,9 +59,11 @@ Curation reduces extraneous cognitive load: every navigation decision, broken li
 6. Schedule recurring maintenance to verify links and retire outdated materials.
 
 ## Related Strategies
+
 - [Flipped classroom](../principles/flipped-learning.md) — organized pre-class resource collections are the delivery mechanism for flipped models
 - [Clear structure](../principles/clear-structure.md) — the organizational principle the collection itself must embody
 - [Advance organizers](../elements/advance-organizers.md) — the framing statements that give a resource collection its navigational schema
+- [Class-sourcing: students curate and share resources, reviewed by faculty and peers](class-sourcing-student-curated-resources.md)
 
 ## Examples
 - **LiveBinders** (https://www.livebinders.com) — tabbed, binder-style curation used by teachers to assemble unit resources, exemplars, and tools into a single shareable link.

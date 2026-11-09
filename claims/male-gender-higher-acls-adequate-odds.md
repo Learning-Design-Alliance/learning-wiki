@@ -51,3 +51,4 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 - [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](male-students-higher-tbl-satisfaction-attitude.md) — related
 - [Female gender independently predicts low self-esteem among Saudi medical students](female-gender-predicts-low-self-esteem-medical-students.md) — related
 - [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related
+- [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — reports the opposite

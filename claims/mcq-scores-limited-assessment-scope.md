@@ -53,3 +53,4 @@ The authors' stated limitation that using multiple-choice question scores as the
 - [Effects of TBL on clinical decision-making and clinical reasoning are mixed across studies and seminar topics](tbl-clinical-decision-making-mixed-effects.md) — related
 - [Online learning's advantage may be limited to simple learning goals assessed by objective multiple-choice instruments](online-advantage-limited-to-simple-goals.md) — related
 - [Some university medical students acquired the ability to select when to use certain methodological strategies and what they are good for, after tutoring sessions.](students-select-methodological-strategies-tutoring.md) — related
+- [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related

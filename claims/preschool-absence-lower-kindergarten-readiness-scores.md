@@ -96,3 +96,4 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 - Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent — related
 - [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
+- [Full-day preschool participation in the Midwest CPC expansion is associated with higher school readiness, higher attendance, and lower chronic absence than part-day participation](cpc-full-day-preschool-higher-readiness-attendance.md) — related

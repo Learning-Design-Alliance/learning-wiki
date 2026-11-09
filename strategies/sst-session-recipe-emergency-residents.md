@@ -66,6 +66,7 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Deliver a three-day in-service critical care training using existing hospital structures, local facilitators, and supervised skill practice with return demonstrations](three-day-in-service-critical-care-training-strategy.md)
 - [Three-phase simulation session: expectation-setting, observing an inappropriate-model video, then an appropriate-model video with discussion and communication practice](three-phase-sdm-video-simulation-strategy.md)
 - [Use a briefing–simulation–debriefing structure around a clinical virtual simulator scenario in a case-based lesson](briefing-simulation-debriefing-cvs-strategy.md)
+- [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
 
 ## Examples
 -

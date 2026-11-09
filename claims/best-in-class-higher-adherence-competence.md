@@ -54,3 +54,4 @@ Descriptive fidelity results from 756 BiCACS observations across both conditions
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
 - [Teacher adherence to BEST in CLASS increased on average across the six implementation-phase observation points](bic-adherence-increased-over-time.md) — related
 - [Teacher competence of BEST in CLASS delivery increased on average across the six implementation-phase observation points](bic-competence-increased-over-time.md) — related
+- [SMILE(UK) courses delivered with good adherence and high competence](smile-uk-good-adherence-high-competence.md) — related

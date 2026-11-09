@@ -58,3 +58,4 @@ Random-effects univariate meta-analysis (restricted maximum likelihood) pooling 
 - [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md)
 - [School-based physical activity interventions have a small positive weighted population effect on children's academic performance (rw = 0.181)](pa-interventions-small-positive-effect-academic-performance.md) — related
 - [Physical activity has null or small-to-medium positive effects on school-age children's and adolescents' academic achievement according to meta-analyses](pa-null-or-small-medium-effect-academic-achievement.md) — related
+- [Greater variety of exercise equipment and variety-supported exercise programs increase enjoyment, exercise behavior, adherence and well-being](variety-support-increases-enjoyment-and-adherence.md) — related

@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (163 show a difference, 79 mixed, 41 no difference) · 225 studies (84 causal, 38 associational, 36 review, 25 theoretical, 21 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 37 of 225 report an effect size · 266 claims rest on one study
+> **Evidence** · 286 claims (164 show a difference, 81 mixed, 41 no difference) · 227 studies (84 causal, 38 associational, 36 review, 25 theoretical, 23 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 37 of 227 report an effect size · 269 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -331,6 +331,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior-knowledge groups differ in reported intrinsic cognitive load, decreasing with prior knowledge](../claims/prior-knowledge-groups-intrinsic-load.md) [+M] — learners who differ on it differ in outcomes
 - [After self-training, novices visualize more structures than moderately experienced bronchoscopists and identify more than highly experienced ones](../claims/post-training-novices-exceed-experienced-on-visualization-identification.md) [~M] — learners who differ on it differ in outcomes
 - [Post-self-training novices reach overall performance scores comparable to moderately and highly experienced bronchoscopists](../claims/post-self-training-novices-comparable-to-experienced-bronchoscopists.md) [-M] — learners who differ on it differ in outcomes
+- [During the needling phase, novices take longer, travel farther, and make more attempts than experts in simulated spinal anesthesia](../claims/needling-phase-novices-slower-longer-path-more-attempts.md) [+M] — learners who differ on it differ in outcomes
+- [During the preparation phase, novices differ from intermediates and experts on ICSAD measures, but intermediates and experts do not differ](../claims/preparation-phase-novice-intermediate-expert-differences.md) [~M] — learners who differ on it differ in outcomes
+- [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](../claims/novise-no-force-or-accuracy-differences.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

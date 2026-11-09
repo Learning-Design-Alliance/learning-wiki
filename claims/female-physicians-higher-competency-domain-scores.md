@@ -56,3 +56,5 @@ Robust regression analysis of cross-sectional survey data from 2,625 Serbian phy
 - [Physicians' work experience associated with self-rated psychosocial competencies, with only the lowest and highest experience groups differing significantly](work-experience-associated-psychosocial-competencies.md) — related
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — reports the opposite
 - [Specialists scored significantly higher than general physicians in cardiovascular, musculoskeletal, procedure, resuscitation, CPR skills, and environmental injuries domains](specialists-outscore-general-physicians-procedure-domains.md) — related
+- [Female physicians rank communication and work-planning competencies higher while male physicians rank scientifically grounded working higher](gender-differences-competency-rankings-physicians.md) — a narrower finding that bears on this claim
+- [Female students significantly outperform male students on practical skills at 4 months and on communication ratings regardless of group](gender-differences-osce-scores.md) — related

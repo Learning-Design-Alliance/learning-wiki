@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/weak-outcome-measures-elearning-sms.md
+---
+
+# Revision history: [claims/weak-outcome-measures-elearning-sms](../claims/weak-outcome-measures-elearning-sms.md)
+
+### 2026-11-09 · ingest · process:wiki-ingest
+Ingested from pmc-5634849 (An integrative review of e-learning in the delivery of self-management support training for health professionals.) via eval_harness.py + ingest_extractions.py

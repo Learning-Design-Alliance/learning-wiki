@@ -55,3 +55,4 @@ Descriptive analysis of post-PD Likert survey responses from the 50 participants
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
+- [Program directors' perceptions of e-learning effectiveness are moderately positive and lowest for teaching interpersonal skills](pd-perceptions-elearning-moderate-lowest-interpersonal-skills.md) — related

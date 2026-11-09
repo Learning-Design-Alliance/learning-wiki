@@ -49,3 +49,5 @@ The review reports Ong et al.'s use of a validated Script Concordance Test for n
 - [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
 - [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related
 - [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](sct-performance-improves-after-tbl-clinical-reasoning.md) — related
+- [A supplementary team-based learning class improved fourth- and fifth-year medical students' key-feature problem examination performance in neurology](supplementary-tbl-improves-key-feature-examination-neurology.md) — possibly the same claim (merge candidate)
+- [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related

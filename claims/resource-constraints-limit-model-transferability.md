@@ -70,3 +70,5 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Implementing and sustaining PBL poses financial, physical, human-resource and organizational challenges, particularly in low-income countries](pbl-implementation-cost-challenges-low-income.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
 - [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — related
+- [Knowledge learned in the fellowship was not always transferable to daily practice due to the practice environment, patient population and social-structural barriers](knowledge-transfer-limited-by-practice-environment.md) — a narrower finding that bears on this claim
+- [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — a narrower finding that bears on this claim

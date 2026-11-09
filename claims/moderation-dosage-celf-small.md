@@ -57,3 +57,4 @@ Moderation analyses within the experimental group of the cluster randomized tria
 - [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — related
 - [Story Friends showed no significant generalized effects on norm-referenced receptive vocabulary (PPVT-IV) or core language (CELF-P) measures](no-distal-language-effects-ppvt-celf.md) — related
 - [Response to intervention varied individually and could not be predicted from children's Spanish language skills on the CELF-P-2](response-variability-not-predicted-by-spanish-scores.md) — related
+- [High treatment dosage predicted positive outcomes for children across a wide age range, challenging the perception that only young children benefit from intensive ABA](high-dosage-benefits-wide-age-range.md) — related

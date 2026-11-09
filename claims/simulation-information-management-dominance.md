@@ -50,3 +50,4 @@ Observational coding of four video-recorded simulated trauma resuscitations (172
 - [Give-information-after-request is significantly more prevalent in simulated than real trauma teamwork (p ≤ 0.001)](giar-more-prevalent-in-simulation.md) — related
 - [Information management dominates real-life trauma team communication, accounting for 64% of utterances versus 26% for task management](information-management-dominates-trauma-team-utterances.md) — related
 - [Talking-to-the-room accounts for 17% of real-life and 20% of simulated utterances, with PIWR dominating information-related TTR and task distribution dominating task-related TTR](talking-to-the-room-proportions-trauma-teams.md) — related
+- [In recorded EOL simulations, healthcare providers' cognitive utterances predominate over affective expressions by an order of magnitude](eol-simulation-cognitive-utterances-dominate.md) — related

@@ -52,3 +52,4 @@ The review's synthesis statement, citing Avgerinou et al. and Kotsani et al., bo
 - [Terminology and definitions of mental frailty are inconsistent and validated primary-care identification tools are lacking](inconsistent-terminology-mental-frailty-no-validated-tools.md) — related
 - [Pharmacists have limited frailty knowledge, recognizing mainly physical aspects](pharmacists-limited-frailty-knowledge-physical-aspects.md) — related
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
+- [Blended learning combining e-learning with face-to-face methods is suggested to support self-management support skills development](blended-learning-suggested-for-sms-skills.md) — related

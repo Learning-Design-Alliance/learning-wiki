@@ -68,3 +68,4 @@ Survey data reported via Fig. 4 indicate the continuous evaluation test model is
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related
 - [Students report medium-to-high dissatisfaction with tutor and consultant support at the UOC](dissatisfaction-tutor-consultant-support.md) — related
 - [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](uoc-online-study-gains-digital-competences.md) — related
+- [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — related

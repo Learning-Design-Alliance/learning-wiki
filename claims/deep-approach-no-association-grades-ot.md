@@ -49,3 +49,4 @@ In the adjusted regression (n = 174), the deep approach scale showed β = -0.06,
 - [Higher strategic approach scores are associated with better exam grades among first-year occupational therapy students](strategic-approach-better-exam-grades-ot-students.md) — related
 - [Demographics and study approaches together explain 27.5% of exam grade variance, with learning environment adding little](grade-variance-27-percent-model-ot.md) — related
 - [No learning environment scale was associated with occupational therapy students' exam grades](learning-environment-not-associated-grades-ot.md) — related
+- [Higher 'seeking meaning' scores predict higher GPA, supporting the deep approach as productive for occupational therapy students](seeking-meaning-predicts-ot-gpa.md) — related

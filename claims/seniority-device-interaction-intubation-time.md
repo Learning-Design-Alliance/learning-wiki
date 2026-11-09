@@ -69,3 +69,4 @@ The 4×4×3 repeated-measures ANOVA identified a seniority × device interaction
 - [Peak incisor force showed a significant seniority × scenario interaction: attending physicians applied more force than PGY in the normal airway and residents more than PGY in the rigid neck scenario](seniority-scenario-interaction-incisor-force.md) — related
 - [Video laryngoscopy produces shorter intubation times than direct laryngoscopy on the second and third attempts, but not on the first](vl-shorter-times-second-third-attempt.md) — related
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
+- [Senior residents report greater DAA familiarity and more often retry with a different blade, but intubation success does not differ by seniority](senior-junior-daa-behavior-differences.md) — related

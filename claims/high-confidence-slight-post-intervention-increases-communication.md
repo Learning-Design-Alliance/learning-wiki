@@ -49,3 +49,4 @@ Preintervention and postintervention online questionnaires (n=15) measured confi
 - [The e-learning intervention was acceptable and its completion feasible for nurse and pharmacist prescribers](elearning-animation-acceptable-useful-prescribers.md) — related
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related
+- [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](confidence-statements-significant-gains-three-areas.md) — related

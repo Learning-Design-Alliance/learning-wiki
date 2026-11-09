@@ -59,3 +59,4 @@ Construct-validity comparison using a low-fidelity mitral valve replacement trai
 - [Gamified simulation-based training improved resident competency, engagement, and narrowed baseline skill disparities across residency programs](gamification-improves-resident-training-engagement.md) — related
 - [A five-level scale of progression of skill and proficiency in suture video surgery classified trainees by task completion time, showing residents and young surgeons need additional training time](scale-progression-skill-proficiency-baraitric-suture.md) — related
 - [The 3D-printed thoracic and cardiac model permitted full simulation of minimally invasive mitral valve repair procedures with real MICS instruments and a robot](mimvr-simulation-feasibility-with-real-mics-tools.md) — related
+- [Expert surgeons substantially outperformed the combined student group on the script concordance test](sct-experts-outperform-students.md) — related

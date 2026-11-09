@@ -52,3 +52,4 @@ Logistic regression on the 560-respondent cross-sectional census identified pare
 - [Students without psychiatric morbidity show significantly higher rates of above-average EI than those with psychiatric morbidity](psychiatric-morbidity-associated-lower-ei.md) — related
 - [High parent program participation was predicted by advantaged baseline characteristics: older, more educated, married, working parents with higher-skill children](parent-participation-selection-advantage-baseline.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [Good family support, socializing well, and satisfaction with learning facilities independently predict EI](psychosocial-predictors-of-ei-medical-students.md) — related

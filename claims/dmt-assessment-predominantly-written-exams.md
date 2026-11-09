@@ -50,3 +50,4 @@ Discussion synthesis of Phase 1 assessment data from Table 2. The article states
 - [Interviewed academics unanimously reported that DMT training is mostly theoretical, with insufficient hands-on practice limiting students' clinical preparedness](dmt-training-insufficient-hands-on-practice-barrier.md) — related
 - [Across four Southeast Asian dental schools, 31 subjects contained DMT content, but only one course was dedicated to dental traumatology](sea-dmt-content-31-subjects-one-dedicated-course.md) — related
 - [Assessment of undergraduate US skills was mostly non-standardized; only a minority used OSCE or DOPS](us-assessment-mostly-nonstandardized.md) — related
+- [Both systems share a two-year basic-science phase before clinical training and standardized board examinations, enabling away rotations](shared-basic-science-phase-and-board-exams.md) — related

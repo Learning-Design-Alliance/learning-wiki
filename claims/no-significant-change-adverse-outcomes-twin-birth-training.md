@@ -50,3 +50,5 @@ Retrospective multicenter pre/post comparison of 278 twin pregnancies. Adverse m
 - [Vaginal twin birth rates increased significantly after training interventions, from 9.2% to 40.8% overall](vaginal-twin-birth-rate-increased-after-training-interventions.md) — related
 - [Global adverse event rates did not change significantly across the project periods, and the study could not establish an effect of training on obstetric complication rates](adverse-event-rates-no-significant-change.md) — related
 - [The overall Apgar<7 at 5 min rate increased during the study period, from 1.32% pre-intervention to 1.59% post-intervention](apgar-rate-increased-during-study.md) — related
+- [Maternal deaths related to PPH fell from seven to four after training, a non-significant reduction the authors interpret cautiously](pph-maternal-deaths-nonsignificant-reduction.md) — related
+- [Severe postpartum haemorrhage (≥1000 ml), maternal mortality, and neonatal mortality did not change after training](severe-pph-and-mortality-unchanged-after-training.md) — possibly the same claim (merge candidate)

@@ -100,3 +100,4 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [High-fidelity simulation training produced greater chest compression depth than standard low-fidelity manikin training in fourth-year medical students](sim-training-greater-compression-depth.md) — related
 - [The 95% confidence interval of the difference in total chest compressions at 6 months did not exceed the a priori clinically important difference of 20 compressions](cpr-compression-ci-within-clinically-important-difference.md) — related
 - [Feedback-device recordings showed compression depth and ventilation volume fell short of guideline targets despite otherwise high completion rates](feedback-device-cpr-quality-metrics.md) — related
+- [Students who received a practical test with feedback report higher confidence and self-rated knowledge after CPR training than students with training only](cpr-test-feedback-higher-confidence-self-rated-knowledge.md) — related

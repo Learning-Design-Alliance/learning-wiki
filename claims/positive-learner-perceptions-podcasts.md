@@ -48,3 +48,4 @@ Likert-scale podcasting contribution questionnaire given to the 17 male experime
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [Interviewed learners unanimously perceived improvement in their listening comprehension and valued podcasts as a supplementary tool](interview-themes-listening-achievement-supplementary.md) — related
 - [Most interviewed HIL students perceived that effortfully replaying podcasts enhanced their learning](podcast-replaying-effortful-engagement.md) — related
+- [First-year medical students perceived 3-minute podcasts mainly as a supplementary revision and assessment-preparation tool](short-podcasts-perceived-revision-tool.md) — a narrower finding that bears on this claim

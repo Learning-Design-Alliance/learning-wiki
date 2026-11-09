@@ -47,3 +47,4 @@ Conclusion-section summary of the questionnaire findings across the three aspect
 ## Related Claims
 - [Collaborative writing improves each of the five writing components (content, organization, grammar, vocabulary, mechanics) in low-intermediate EFL students](collaborative-writing-improves-all-writing-components.md) — related
 - [Learners in the task-based writing course reported progress on content, organization, vocabulary, fluency and logic](tbl-writing-learner-reported-progress.md) — related
+- [Visible growing approval, including early-identified proponents and peer arguments, accelerated acceptance; official NKLM adoption boosted readiness](visibility-of-growing-approval.md) — related

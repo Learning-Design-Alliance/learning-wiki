@@ -49,3 +49,4 @@ ICSAD-derived total path length and number of movements collected during simulat
 - [The low-cost BG-PDT simulator discriminated experts from novices on success rates, procedural time, and motion-economy parameters](bg-pdt-simulator-discriminates-experts-novices.md) — a broader claim this one bears on
 - [Experts rated the low-cost BG-PDT simulator highly for fidelity and endorsed simulation-based training in ICU residency curricula](bg-pdt-simulator-high-expert-satisfaction-fidelity.md) — related
 - [Finger tracking with SurgTrac shows construct validity for time, distance and smoothness across four basic open suturing tasks, discriminating novices from experts](surgtrac-finger-tracking-construct-validity-suturing.md) — a broader claim this one bears on
+- [ICSAD hand-motion analysis discriminates between experts and novices performing simulated spinal anesthesia, supporting its construct validity](icsad-construct-validity-spinal-anesthesia.md) — related

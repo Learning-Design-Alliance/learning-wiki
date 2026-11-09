@@ -57,6 +57,7 @@ The authors recommend rebalancing CPR education away from theory-dominant format
 - [Run emergency training as a regular, recurrent, mandatory course with more scenarios and virtual patients kept available as refreshers](recurrent-mandatory-emergency-training-strategy.md)
 - [Provide regular simulation training for all providers, with additional individualised training for those lacking competency](regular-simulation-training-all-providers-strategy.md)
 - [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
+- [Make certified, regularly repeated CPR training with practical skills practice a mandatory component of nursing and health-associated curricula](mandatory-certified-cpr-training-programs.md)
 
 ## Examples
 -

@@ -55,3 +55,5 @@ Cross-sectional survey of 402 doctors and nurses in six Gaza governmental hospit
 - [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related
 - [After BLS training, students fail to meet AHA ventilation guidelines: fewer than half of ventilations deliver adequate tidal volume and missed ventilations average 2.2 per cycle](bls-training-ventilation-inadequate.md) — related
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
+- [Knowledge of compression parameters was low: only 69.6% partially answered the universal compression-to-ventilation ratio correctly and only 33.2% answered all chest-compression depth options correctly](compression-ratio-depth-knowledge-low.md) — related
+- [Only 21.8% of nursing students identified the current C-A-B order of CPR, while 78.3% indicated the outdated A-B-C order](nursing-students-cab-order-unaware.md) — related

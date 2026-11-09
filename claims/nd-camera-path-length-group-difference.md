@@ -52,3 +52,4 @@ Between-group analysis of non-dominant camera path length across the three exper
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [Experts dissect pulmonary vessels faster and complete robotic vascular tasks in shorter time than novices, with no difference in path length](expert-novice-speed-time-motion-metrics-rats.md) — related
 - [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related
+- [Baseline differences existed between groups on angular path length, total time, and interest/enjoyment](baseline-differences-angular-path-time-interest.md) — related

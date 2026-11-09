@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 346 claims (262 show a difference, 47 mixed, 37 no difference) · 273 studies (93 causal, 89 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 57 of 273 report an effect size · 342 claims rest on one study
+> **Evidence** · 347 claims (263 show a difference, 47 mixed, 37 no difference) · 274 studies (94 causal, 89 associational, 33 review, 25 qualitative, 15 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 274 report an effect size · 343 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -377,6 +377,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In a one-group pretest–posttest study of physiotherapy students, self-reported intrinsic motivation, identified regulation, perceived competence, and perceived autonomy support rose from the lecture period to the TBL period](../claims/tbl-increases-autonomous-motivation-competence.md) [+M] — measured as an outcome of the instruction studied
 - [Perceived competence, intrinsic motivation, external regulation, engagement, and perceived learning rose from pre-test to post-test in one group with no comparison group (path analysis)](../claims/sdt-path-engagement-mediation-tbl.md) [+M] — learners who differ on it differ in outcomes
 - [The large majority of students (93.5%) expressed confidence in their ability to perform BLS maneuvers after the online course](../claims/online-bls-self-efficacy-confidence-rate.md) [+M] — measured as an outcome of the instruction studied
+- [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](../claims/confidence-statements-significant-gains-three-areas.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

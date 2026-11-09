@@ -49,6 +49,7 @@ The review recommends that educators expand the portfolio of intercultural progr
 ## Related Strategies
 
 - [Intercultural programming to enhance socio-emotional engagement for probation students](intercultural-programming-socioemotional-engagement.md)
+- [Strengthen and extend international university partnerships to ease students' access to clinical and scientific exchanges abroad](international-exchange-partnerships-medical-education.md)
 
 ## Examples
 -

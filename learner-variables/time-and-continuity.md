@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 244 claims (158 show a difference, 57 mixed, 29 no difference) · 210 studies (103 causal, 50 associational, 24 review, 15 quant-synthesis, 9 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 42 of 210 report an effect size · 240 claims rest on one study
+> **Evidence** · 246 claims (160 show a difference, 57 mixed, 29 no difference) · 212 studies (103 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 42 of 212 report an effect size · 242 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -301,6 +301,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Grade retention and school absenteeism are not significantly associated with Tourette syndrome in this nationally representative sample](../claims/ts-grade-retention-absenteeism-not-significant.md) [-M] — measured as an outcome of the instruction studied
 - [High father attendance (often vs. rarely) is predicted by greater experience, high practitioner competence, and high organizational support](../claims/high-father-attendance-predictors-experience-competence-support.md) [~M] — measured as an outcome of the instruction studied
 - [Moderate father attendance (sometimes vs. rarely) is predicted only by practitioner years of experience](../claims/moderate-father-attendance-predicted-by-experience-only.md) [~W] — measured as an outcome of the instruction studied
+- [Full-day CPC classrooms provided nearly 2.5 times more total instructional hours than part-day classrooms, proportionately across domains](../claims/cpc-full-day-instructional-hours-984-vs-417.md) [+M] — measured as an outcome of the instruction studied
+- [High treatment dosage predicted positive outcomes for children across a wide age range, challenging the perception that only young children benefit from intensive ABA](../claims/high-dosage-benefits-wide-age-range.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

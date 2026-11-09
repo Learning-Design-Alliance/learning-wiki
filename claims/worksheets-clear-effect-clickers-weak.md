@@ -50,3 +50,4 @@ Section-level comparison of 31 sections, most using clickers (n = 26) and other 
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
+- [Students in both a graphic-organizer/worksheet section and a clicker-case-study section of introductory biology showed significant conceptual learning gains, with no significant between-section difference](similar-learning-gains-graphic-organizers-versus-clicker-cases.md) — related

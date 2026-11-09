@@ -48,3 +48,4 @@ Authors' interpretive comparison in the Discussion between the unadjusted associ
 - [Retention in grades 1-5 increases the odds of dropping out of high school rather than graduating, above propensity to be retained](early-retention-increases-dropout-odds.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Prior analyses with this sample found no harm to achievement or motivation at the transition to high school, yet retention still raises dropout odds](retention-no-achievement-motivation-harm-but-dropout.md) — related
+- [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related

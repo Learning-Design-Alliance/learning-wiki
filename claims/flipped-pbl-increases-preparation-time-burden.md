@@ -51,3 +51,4 @@ Time-on-task measurement in the randomized trial: CG preparation included watchi
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
 - [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — related
+- [Self-reported exam preparation time did not differ between groups and did not positively correlate with examination scores](prep-time-null-correlation.md) — reports the opposite

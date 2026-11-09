@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-09
 sources:
   - id: loturco-2022
     resource: "https://doi.org/10.3390/educsci12020134"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that beneficial impact tends to be higher for high-intensity training programs and that increasing PE frequency alone was not sufficient for academic gains. [→ Loturco 2022](#loturco-2022)

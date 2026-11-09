@@ -68,3 +68,5 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
+- [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related
+- [Time constraints are the major barrier to implementing additional physical activity in schools](time-constraints-major-barrier-pa.md) — related

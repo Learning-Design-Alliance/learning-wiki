@@ -55,6 +55,7 @@ The review's forward-looking recommendation is that future research should focus
 - [Develop open, reusable, generalizable CBL platforms for specific learning contexts instead of building closed systems from scratch](reusable-open-cbl-platforms-strategy.md)
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Add distance and force visualisations to accessible clipping simulations, adaptable to similar navigation simulations](add-distance-force-visualisations-training-simulations.md)
+- [Repeated aneurysm clip occlusion practice with fluid-color success feedback until success](repeated-clipping-practice-color-feedback-strategy.md)
 
 ## Examples
 -

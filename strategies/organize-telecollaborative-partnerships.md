@@ -47,6 +47,7 @@ The article recommends that universities in EFL contexts arrange institutionaliz
 - [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](self-regulated-collaborative-environments-higher-education.md)
 - [Include pragmatic issues in ESL/EFL classes and in syllabus design](include-pragmatics-in-esl-efl-classes-and-syllabus.md)
 - [Recruit real virtual-world interlocutors from target cultures via language-exchange platforms before SL tasks](recruit-sl-interlocutors-exchange-platforms.md)
+- [Strengthen and extend international university partnerships to ease students' access to clinical and scientific exchanges abroad](international-exchange-partnerships-medical-education.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related
+- [NIPT training significantly improved midwives' self-perceived knowledge about NIPT at one-month follow-up](nipt-training-improved-perceived-knowledge.md) — related

@@ -80,3 +80,5 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Five mechanisms supported learning in powerful SBE narratives: verisimilitude; feedback, debriefing and facilitation; observation of self and others; repetition of activities; and role-playing the patient](sbe-learning-mechanism-themes.md) — related
 - [India field trial: 22 of 24 participants felt well-prepared to facilitate, with facilitator interaction, workshop structure, and quality improvement content rated most effective](hbb2-india-field-trial-themes.md) — related
 - [Simulation facilitators carried multiple roles of teaching, promoting reflection and assessing needs, unlike traditional needs assessment facilitators](simulation-facilitator-multiple-roles.md) — related
+- [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
+- [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related

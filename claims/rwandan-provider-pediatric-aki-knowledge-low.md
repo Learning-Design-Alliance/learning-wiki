@@ -47,3 +47,6 @@ Cross-sectional survey of 166 healthcare providers at six Rwandan hospitals usin
 ## Related Claims
 - [Baseline quality of pediatric AKI care in Rwandan district hospitals is poor, with KDIGO staging documented in only 5.8% and urine output monitoring in 3.6% of cases.](poor-baseline-aki-care-quality-rwanda.md) — related
 - [Providers are highly receptive to AKI guideline implementation, with acceptability scores averaging 29.1/30 and 89.8% expressing willingness to follow guidelines.](high-guideline-acceptability-aki-rwanda.md) — related
+- [Knowledge gaps concentrated in AKI presentation, risk factors, nephrotoxic drugs, staging criteria, biomarkers and RRT indications](aki-knowledge-gap-areas-ondo-survey.md) — related
+- [Only 1.2% of surveyed non-nephrology doctors had good knowledge of AKI, with 69.2% fair and 29.6% poor](aki-knowledge-mostly-fair-or-poor-ondo-doctors.md) — related
+- [AKI knowledge showed no significant association with specialty or years of practice](aki-knowledge-no-specialty-experience-association.md) — related

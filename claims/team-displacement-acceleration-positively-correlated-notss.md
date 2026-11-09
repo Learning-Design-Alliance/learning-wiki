@@ -52,3 +52,4 @@ Correlation analysis in the same 30-case cross-sectional dataset, with accelerat
 - [Average team displacement and speed variability show no significant association with NOTSS scores](team-displacement-speed-variability-null-notss.md) — related
 - [Movement and proximity metrics relate to team situation awareness: teams with higher rated SA showed less movement, and time spent near the primary surgeon predicted NOTSS scores](proximity-movement-metrics-track-team-sa.md) — related
 - [Average team trajectory of displacement is positively correlated with overall NOTSS nontechnical skills scores in cardiac surgery teams](team-trajectory-positively-correlated-notss-cardiac-surgery.md) — related
+- [Instrument jerk correlates moderately with error rate while acceleration entropy does not](jerk-correlates-error-rate-entropy-not.md) — related

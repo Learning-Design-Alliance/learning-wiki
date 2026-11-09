@@ -65,3 +65,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Students' emotions vary before, during and after simulation, unfolding in a rollercoaster from negatively to positively loaded across the session](emotional-rollercoaster-during-simulation.md) — related
 - [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related
 - [Participants reported apprehension before the in situ simulation, driven by fear of the unknown, filming, and perceived assessment, which mostly changed afterwards](simulation-apprehension-fear-assessment.md) — related
+- [Students new to video feedback found their expected self-image differed from their actual video image, causing anxiety and distress](video-self-image-discrepancy-causes-anxiety.md) — related

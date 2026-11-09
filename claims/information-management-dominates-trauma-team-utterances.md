@@ -50,3 +50,4 @@ Observational coding of 2476 verbatim transcribed utterances from four video-rec
 - [Talking-to-the-room accounts for 17% of real-life and 20% of simulated utterances, with PIWR dominating information-related TTR and task distribution dominating task-related TTR](talking-to-the-room-proportions-trauma-teams.md) — related
 - [Task distribution dominates real-life task-management communication at 43% of utterances](task-distribution-dominates-task-management.md) — related
 - [Give-information-after-request is significantly more prevalent in simulated than real trauma teamwork (p ≤ 0.001)](giar-more-prevalent-in-simulation.md) — related
+- [In recorded EOL simulations, healthcare providers' cognitive utterances predominate over affective expressions by an order of magnitude](eol-simulation-cognitive-utterances-dominate.md) — related

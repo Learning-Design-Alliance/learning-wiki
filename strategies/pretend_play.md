@@ -60,8 +60,10 @@ Pretend play operationalizes Vygotsky's argument that in play, children perform 
 5. Debrief out of frame, connecting role decisions to the target concepts ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the broader role-play family; pretend play is its early-childhood, learner-directed form
 - [Simulation](../elements/simulation.md) — structured, often technology-mediated role play for adult and professional learning
+- [Use simulated patients actively in debriefing and assessment, and role play for empathetic perspective-taking](simulated-patient-debriefing-role-play-empathy-strategy.md)
 
 ## Examples
 - **[Tools of the Mind](https://toolsofthemind.org)** — early-childhood curriculum built on Vygotskian pretend play with written play plans and scaffolded dramatic play; associated with improved self-regulation in several studies [~M]

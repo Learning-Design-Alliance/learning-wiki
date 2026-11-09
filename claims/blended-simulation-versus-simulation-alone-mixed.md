@@ -89,3 +89,4 @@ Systematic review (20 studies) of simulation-based training for nursing students
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
 - [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — a narrower finding that bears on this claim
 - Competence-oriented simulated teaching raised learning-effect scores (independent learning, interest, emergency handling, teamwork, communication) more than traditional training — related
+- [Repeated testing added to a blended learning course significantly improves risk estimation and communication achievement in medical students (d = .94)](repeated-testing-improves-re-c-achievement-blended.md) — related

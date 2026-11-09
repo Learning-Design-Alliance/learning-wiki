@@ -67,3 +67,4 @@ Round 1 consensus on team composition, with profession-specific roles (e.g., phy
 - [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [The validation sample was 320 primary care physicians with a 93.2% response rate, limiting generalizability](ebmq-validation-sample-320-physicians.md) — related
+- [Posttraining knowledge gains do not differ significantly between home care nurses and rehabilitation therapists, supporting collaborative interdisciplinary CR education.](no-discipline-difference-post-cr-training.md) — related

@@ -49,3 +49,4 @@ Observational subgroup comparison of post-coaching to evaluation score differenc
 - [Prior newborn-care training did not improve skill retention and was associated with poorer retention in the Non-Breathing Baby scenario](prior-training-did-not-improve-retention.md) — related
 - [At evaluation, neonatal resuscitation skills scores were lower than routine newborn care skills scores](resuscitation-skills-retained-less-than-routine-care.md) — related
 - [Knowledge gaps in perinatal care persist despite HBB training, and midwives report a need for recurrent and more comprehensive training](knowledge-gaps-persist-despite-hbb-training.md) — related
+- [Using self-evaluation checklists after every delivery is associated with a four-fold higher likelihood of retaining resuscitation skills (RR-3.8)](self-evaluation-checklists-retain-skills-rr3-8.md) — related

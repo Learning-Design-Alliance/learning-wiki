@@ -61,3 +61,6 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — related
 - [Virtual-reality training in laparoscopic surgery produced significantly better performance than no training, per a cited meta-analysis](vr-training-better-performance-than-no-training.md) — related
 - [Fellows improved their overall scores on DVSS virtual reality exercises over the 5-day intensive dry- and wet-lab course, with steeper gains for those starting with lower scores](dvss-score-improvement-five-day-course.md) — related
+- [Training on the dV-Trainer VR simulator improves dry lab console performance compared with dry lab training alone, in a review-reported resident study](dv-trainer-training-improves-console-performance.md) — related
+- [VR simulator training improves tissue-exercise performance only in trainees with low baseline robotic skills, indicating a need for tailored curricula](vr-training-benefit-limited-to-low-baseline-trainees.md) — reports the opposite
+- [A VR simulator warm-up practice session improves dry lab task performance and reduces errors for both basic and complex robotic skills](vr-warmup-improves-task-performance.md) — reports the opposite

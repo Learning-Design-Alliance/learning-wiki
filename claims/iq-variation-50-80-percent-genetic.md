@@ -59,3 +59,4 @@ The review's synthesis of twin and adoption research states "50 –80% of IQ var
 - [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — related
 - [Monozygotic twins correlate far more strongly (~0.85) than dizygotic twins and siblings (~0.50), suggesting nonadditive genetic effects or gene–environment interplay](mz-dz-gap-suggests-nonadditive-effects-or-gxe.md) — related
 - [Latent non-cognitive skill factors show high heritability (70–93%), varying by rater and developmental stage](latent-ncs-heritability-70-93-percent.md) — a narrower finding that bears on this claim
+- [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related

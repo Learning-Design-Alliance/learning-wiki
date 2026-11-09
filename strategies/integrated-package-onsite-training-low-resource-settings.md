@@ -54,6 +54,7 @@ The authors note that their program was stand-alone, "while simulation-based tra
 - [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
 - [Target informal health care providers with skill-based educational interventions, including simulation and peer-to-peer training, to improve neonatal care in rural settings](target-ihcps-skill-based-educational-interventions.md)
 - [Private-public partnership to deliver free simulation training to public-sector health professionals in low- and middle-income settings](private-public-partnership-obstetric-training-strategy.md)
+- [Use transportable low-technology simulation kits and in-situ simulation with locally available supplies to keep training costs low and setup simple](in-situ-low-tech-simulation-low-resource-strategy.md)
 
 ## Examples
 -

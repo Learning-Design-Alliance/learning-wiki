@@ -46,3 +46,4 @@ The review's narrative synthesis of studies comparing excused and unexcused abse
 - [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — related
 - [Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action](chronic-absenteeism-achievement-two-year-impact.md) — related
 - [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related
+- [Concern for pets can cause patients to delay or refuse care, as in the illustrative chest-pain case](pet-concern-delays-patient-care.md) — related

@@ -67,3 +67,4 @@ The perspective reports, citing prior studies, that faculty "often fear that pro
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [Balancing honest feedback with empathy was a challenge: students' feedback to peers was biased towards positivity despite expecting constructive criticism themselves](peer-feedback-positivity-bias-dilemma.md) — a narrower finding that bears on this claim

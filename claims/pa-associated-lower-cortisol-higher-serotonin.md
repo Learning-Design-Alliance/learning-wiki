@@ -52,3 +52,4 @@ Hormone comparison across the three PA groups in the same 150-participant cross-
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
 - [Serum cortisol shows no continuous correlation with perceived stress, perceived memory, or physical activity](cortisol-no-continuous-correlation-stress-memory-activity.md) — related
 - [Lower physical activity combined with higher perceived stress is associated with poorer perceived memory performance](low-activity-high-stress-poorer-perceived-memory.md) — related
+- [High levels of the stress hormone cortisol inhibit memory encoding and retrieval and disrupt synaptic plasticity, while mild elevations can boost memory performance](cortisol-high-levels-inhibit-memory-plasticity.md) — related

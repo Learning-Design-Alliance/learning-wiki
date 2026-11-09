@@ -55,3 +55,4 @@ The review reports from Kim and Yang's comparison of Yes/No versus Percentage ra
 - [Angoff (Yes/No) variant shows the highest variability in cut scores](angoff-yes-no-highest-variability.md) — related
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — related
 - [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related
+- [The R-OSATS dry lab assessment tool shows construct validity, and a minimum competence benchmark of 14 per drill was set using modified Angoff and contrasting-groups methods](r-osats-construct-validity-benchmark-14.md) — related

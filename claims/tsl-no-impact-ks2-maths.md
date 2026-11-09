@@ -49,3 +49,4 @@ Cluster randomised controlled trial in 64 schools with 600 identified pupils, an
 - [Nine light-touch dissemination interventions had no impact on pupils' Key Stage 2 English attainment in a large school-level RCT](literacy-octopus-no-ks2-impact.md) — related
 - [The intervention showed no evidence of impact on the Key Stage 2 reading test, a secondary outcome](tsl-no-impact-ks2-reading.md) — related
 - [RLC showed no evidence of impact on KS2 reading outcomes in a two-year randomised controlled trial](rlc-no-impact-ks2-reading.md) — related
+- [A randomised trial of an online self-management support package (Sassen et al.) found no significant effect on behaviour or intention, with poor uptake](sassen-rct-no-significant-effect-online-sms.md) — related

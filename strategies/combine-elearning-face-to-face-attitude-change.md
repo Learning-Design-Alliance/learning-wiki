@@ -52,6 +52,7 @@ Because the evaluated e-learning course produced lasting knowledge gains but no 
 - [Evaluate the frequency of EBP intervention delivery, considering continuous or repeated interventions to sustain student comfort with EBP](repeated-delivery-frequency-research-strategy.md)
 - [Use e-learning as a low-dose, high-frequency skill maintenance tool after an initial blended learning course to counter skill decay](e-learning-low-dose-high-frequency-maintenance-strategy.md)
 - [Increase 3D simulation training frequency and establish an online MDT discussion platform to optimize the MDT-CDIO model](mdt-cdio-optimization-3d-simulation-online-platform.md)
+- [Design controlled studies varying the frequency and duration of the same active-learning strategy to determine how time distribution affects learning and affect](controlled-study-varying-als-frequency-duration.md)
 
 ## Examples
 -

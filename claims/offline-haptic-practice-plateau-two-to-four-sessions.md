@@ -53,3 +53,4 @@ Repeated-measures comparison across six weekly offline VSTES sessions (two-way A
 - [Learning curves on the VR hysterectomy module plateau after the third training session for time, path length and number of movements](vr-hysterectomy-module-learning-curve-plateau-third-session.md) — related
 - [Procedural checklist scores improve over the sessions with similar plateauing, and all steps except the timed basket catch are accomplished](checklist-scores-improve-plateau-steps-mastered.md) — related
 - [The median percentage of clinical performance scores significantly increased in the third practice (p = 0.03) and then remained unchanged](clinical-performance-increased-third-practice.md) — related
+- [Student compliance with weekly online self-tests decreased over the course of the test sequence](online-self-test-compliance-declines-over-time.md) — related

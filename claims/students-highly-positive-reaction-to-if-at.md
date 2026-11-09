@@ -52,3 +52,4 @@ Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitu
 - [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related
+- [Student attitudes toward exams, grading, and feedback were more favorable under the formative format](formative-format-favorable-attitudes.md) — related

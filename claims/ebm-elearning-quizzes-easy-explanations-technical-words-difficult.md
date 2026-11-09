@@ -53,3 +53,4 @@ Focus group interview category on efficacy: although "the figures and illustrati
 - [Content analysis of 12 existing EBM materials for laypersons yielded 217 descriptions integrated into 56 major elements, from which 18 elements were selected for the e-learning material](ebm-layperson-material-18-elements-from-56.md) — related
 - [Participants largely agreed the lesson's words were clearly readable and audible, while gesture imitation was rated somewhat lower](rle-content-clear-gestures-lower.md) — related
 - [In an in-intervention explanation task, a majority of students (87.7%) conveyed at least partial understanding of valency after being introduced to the metaconcept](valency-explanation-task-majority-partial-understanding.md) — related
+- [Use of the wiki was less widespread than other tools, largely because students found it difficult to use](wiki-use-less-widespread-difficult-to-use.md) — related

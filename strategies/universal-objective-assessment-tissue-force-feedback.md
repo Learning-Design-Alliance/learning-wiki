@@ -53,6 +53,7 @@ The review concludes that focused training on tissue handling, manipulation, and
 - [Pursue AI-based and console-data evaluation platforms for assessing novice robotic surgical skill](ai-based-robotic-skill-evaluation-strategy.md)
 - [Integrate objective force-based assessment of tissue handling into robotic surgery training](objective-force-assessment-in-ras-training.md)
 - [Develop more sensitive laparoscopic instruments that allow accurate haptic feedback during training](sensitive-instruments-haptic-feedback-laparoscopic-training.md)
+- [Incorporate tool visibility and grip angle sensors into motion-tracked surgical skill assessment setups](add-visibility-grip-sensors-to-skill-assessment.md)
 
 ## Examples
 -

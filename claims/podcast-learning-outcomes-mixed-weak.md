@@ -47,3 +47,4 @@ The review's synthesis of the 11 learning-outcome articles, usually assessed thr
 ## Related Claims
 - [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](podcasts-improved-efl-self-regulation.md) — related
 - [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
+- [Overall summative assessment scores did not differ between students by 3MTL usage, though pairwise comparisons favoured heavy users](podcast-usage-overall-scores-null-pairwise-significant.md) — a narrower finding that bears on this claim

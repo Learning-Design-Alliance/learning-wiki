@@ -65,3 +65,4 @@ Qualitative inductive content analysis of participants' open-ended responses in 
 - [Qualitative content analysis of students' open responses identified five dimensions: operational aspects, emotional aspects, facilitation, debriefing development, and areas of improvement](maes-qualitative-five-dimensions.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related
+- [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related

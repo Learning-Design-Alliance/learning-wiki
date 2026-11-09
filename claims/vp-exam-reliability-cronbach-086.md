@@ -49,3 +49,4 @@ Five-year retrospective analysis of exam records from the internal medicine cler
 - [Within VP cases, history and treatment section scores were consistently lower than lab and imaging scores, and first-two-year final grades were lower than later years](vp-section-score-differences.md) — related
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
 - [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
+- [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related

@@ -49,3 +49,4 @@ The article's review of video-length studies states that "most studies agree tha
 - [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — related
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
+- [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related

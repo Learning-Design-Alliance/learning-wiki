@@ -66,3 +66,4 @@ Multiple linear regression (Table 5) shows school year significantly predicts al
 ## Related Claims
 - [First-year nursing students' basic nursing skill scores were above average, with the lowest mean for perineal care of women (77.72) and the highest for blood collection (96.03)](basic-nursing-skill-mean-scores-first-year-cohort.md) — related
 - [Mid-training professionalism SJT scores remain an independent predictor of professionalism lapses after adjusting for academic and cognitive performance](nms-sjt-independent-predicts-lapses.md) — related
+- [Admission route does not differentiate performance on the first-year practical nursing attachment](admission-route-no-nursing-attachment-difference.md) — related

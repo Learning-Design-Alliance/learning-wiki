@@ -49,3 +49,4 @@ Narrative review reporting a longitudinal study of 250 doctors who participated 
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
 - [Significant discrepancies were detected between the three feedback sources, with supervisors awarding the highest scores](msf-source-discrepancies-supervisors-highest.md) — related
+- [In the MSF-based interns' award, the highest-scoring graduate achieved a mean rating of 4.77 out of 5 and the lowest-scoring participant 3.54 out of 5](msf-interns-award-top-mean-rating-4-77.md) — related

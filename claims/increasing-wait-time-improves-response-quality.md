@@ -101,3 +101,4 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 - [Teachers face stated constraints in arranging non-routine questions and expecting open-ended answers, including classroom culture and monotonous methods](constraints-posing-non-routine-open-questions.md) — related
 - [Performance feedback increased wait time after questions (Item 33) and provision of symbol clues/choices (Item 34) under communicational skills](pf-increased-communication-items-33-34.md) — related
 - [Wait time increased student participation in classroom discussion](wait-time-increases-participation.md) — a narrower finding that bears on this claim
+- [In EOL simulations providers talked about twice as often as the actors, and silences longer than 5 seconds were rare](eol-simulation-talk-over-listening.md) — related

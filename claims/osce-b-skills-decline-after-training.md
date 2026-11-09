@@ -60,3 +60,4 @@ Paired t-tests of providers' standardised HBB OSCE B simulation scores at 4 and 
 - [Skills competency dropped in both arms at the three-month assessment after the immediate post-training peak](three-month-skills-drop-both-arms.md) — related
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — related
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — a broader claim this one bears on
+- [Bag-and-mask, pre-birth preparation, and OSCE skill scores rose from baseline to immediately after HBB training and were retained at 6 months in one single-group pre-post study with no comparison group](hbb-qic-skill-scores-retained-6-months.md) — reports the opposite

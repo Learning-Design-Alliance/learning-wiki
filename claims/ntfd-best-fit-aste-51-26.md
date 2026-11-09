@@ -68,3 +68,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Monozygotic twins correlate far more strongly (~0.85) than dizygotic twins and siblings (~0.50), suggesting nonadditive genetic effects or gene–environment interplay](mz-dz-gap-suggests-nonadditive-effects-or-gxe.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
 - [Twin-shared environmental effects, not sibling-shared (family-wide) effects, explain part of grade variance, consistent with grades reflecting individual achievement](twin-shared-not-sibling-shared-environment-grades.md) — related
+- [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related

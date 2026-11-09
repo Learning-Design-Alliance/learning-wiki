@@ -52,3 +52,4 @@ Correlational analysis of the student sample (N = 400 admitted students with fir
 - [MMI scores show no significant correlation with specific OSCE communication and history-taking stations](hamburg-mmi-null-osce-communication-stations.md) — reports the opposite
 - [MMI scores significantly predict general-practitioner ratings of students' suitability for the medical profession, the strongest association found](hamburg-mmi-predicts-gp-suitability.md) — related
 - [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — reports the opposite
+- [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related

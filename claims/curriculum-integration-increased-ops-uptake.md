@@ -46,3 +46,4 @@ Feasibility outcome across three UK medical schools: "Recruitment was greater fo
 
 ## Related Claims
 - [eCREST was highly acceptable to students, with acceptability higher in the integrated cohort](ecrest-high-student-acceptability.md) — related
+- [A three-hour standardised patient scenario workshop is feasible to deliver to a full second-year physiotherapy cohort, with high recruitment, retention and survey response rates](sp-workshop-feasible-recruitment-retention.md) — related

@@ -50,3 +50,4 @@ Semi-structured interviews with ten randomly selected SMS-group students (5 fema
 - [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related
 - [Students most valued CHLS's repeatability and easy access, while difficulty concentrating and lack of relation to schoolwork were leading disadvantages](chls-advantages-disadvantages-survey.md) — related
 - [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related
+- [E-learning evaluations in SMS rely mainly on subjective immediate outcomes, and no studies of sufficient quality report e-learning effects on patient outcomes](weak-outcome-measures-elearning-sms.md) — related

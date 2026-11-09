@@ -69,3 +69,4 @@ Same cohort, self-efficacy item 10: "The module did not have an impact on feelin
 - [The tailored e-module significantly and durably changed experienced GPs’ perceptions of patients with sleep problems](elearning-durable-change-gp-patient-perceptions.md) — related
 - [The e-module durably increased GPs’ self-efficacy for non-pharmacological treatment, with reported expertise almost tripling from 21.3% to 57%](elearning-durable-self-efficacy-expertise-gain.md) — related
 - [In one uncontrolled pre-post study, GPs’ readiness to adhere to BZD prescribing guidance was assessed; reported success in minimizing prescriptions rose from 18.4% to 56.9%](elearning-readiness-success-minimizing-bzd-tripled.md) — related
+- [Over 80% of health care professionals report educational benefits and improved knowledge about diabetes prevention and treatment after a 6-week MOOC](mooc-health-professionals-report-educational-benefits.md) — related

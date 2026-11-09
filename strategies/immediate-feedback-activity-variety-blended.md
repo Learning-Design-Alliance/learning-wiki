@@ -50,6 +50,7 @@ Based on their findings, the researchers recommend that when using blended learn
 - [Increase varied formative assessment practices in classrooms, especially those giving learners an active role (self-, peer-, and group-assessment)](increase-learner-active-role-formative-assessment.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Apply various modes of learning to enhance the development of nursing students' competence.](apply-various-modes-of-learning-nursing-competence.md)
+- [Develop online courses with fixed timeframes, individual feedback, and a minimum of personal interaction (blended forms)](blended-online-fixed-timeframes-feedback-interaction-strategy.md)
 
 ## Examples
 -

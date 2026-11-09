@@ -61,3 +61,4 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — related
 - [Teachers' trial-by-trial predictions about learners' performance track the actual performance of an independent sample of learners](teacher-predictions-track-independent-learner-performance.md) — related
 - [Exam cognitive level, question type, and content coverage were similar across control and reading-quiz terms, ruling out reduced exam rigor](exam-rigor-similar-across-quiz-and-control-terms.md) — related
+- [After controlling for Bloom’s level, question familiarity had no effect on MLab exam performance, while Bloom’s level was a significant predictor](bloom-level-predicts-familiarity-does-not.md) — related

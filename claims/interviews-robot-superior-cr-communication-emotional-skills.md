@@ -94,3 +94,4 @@ Interview subtheme on emotional skills; students said you do not really see the 
 - [The two virtual patient platforms trained complementary skills: the social robot for history taking and question generation, the computer-based platform for physical examination and laboratory data](vp-platforms-complementary-skill-training.md) — related
 - [Students perceive that interacting with service users enhanced the authenticity of a simulation-based placement and improved communication and clinical reasoning for subsequent placements](service-user-authenticity-sbl.md) — related
 - [VPS engagement is judged more useful for learning clinical reasoning than for acquiring medical knowledge](vps-more-useful-for-reasoning-than-knowledge.md) — related
+- [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related

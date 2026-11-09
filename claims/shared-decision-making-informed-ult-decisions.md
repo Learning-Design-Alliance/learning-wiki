@@ -50,3 +50,4 @@ Interview theme 4: participants shared preferences, goals and values while nurse
 - [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related
 - [Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making](hispanic-adults-prefer-clear-friendly-sdm-communication.md) — related
 - [Treatment uncertainty and concerns about long-term medication use led one participant to discontinue ULT and another to halve the dose](treatment-uncertainty-led-discontinuation-dose-reduction.md) — related
+- [Intervention physicians engaged in better shared decision-making with standardized patients despite no between-group difference in shared decision-making knowledge](shared-decision-making-behavior-better-web-group.md) — related

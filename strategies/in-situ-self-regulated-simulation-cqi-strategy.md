@@ -59,6 +59,7 @@ The article recommends sustaining clinical skills through frequent self-regulate
 - [Use regular low-fidelity in situ simulation as a continuous education tool for first-line caregivers in acute care wards](regular-low-fidelity-iss-continuous-education-strategy.md)
 - [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
 - [Use in situ high-fidelity simulation with an integrated lung simulator as an affordable training and assessment tool for mechanical ventilation, targeting frequently missed skills](in-situ-hfs-lung-simulator-mv-training-strategy.md)
+- [Use transportable low-technology simulation kits and in-situ simulation with locally available supplies to keep training costs low and setup simple](in-situ-low-tech-simulation-low-resource-strategy.md)
 
 ## Examples
 -

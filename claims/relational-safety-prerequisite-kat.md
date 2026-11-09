@@ -50,3 +50,4 @@ Theme from the IPA analysis of eight therapist interviews: relational safety eme
 - [Therapists report risks in KAT including intensified symptoms, suicidality, and hospitalization, particularly with complex-trauma clients](kat-risks-complex-trauma-clients.md) — related
 - [KAT therapists report that personal psychedelic experience deepens their understanding of clients' experiences and strengthens rapport and therapeutic alliance](kat-therapists-value-personal-psychedelic-experience.md) — related
 - [Therapeutic alliance competencies (e.g., empathy, trust) showed the earliest and greatest improvements, while problem-solving and giving advice saw the least improvement over 12 months](therapeutic-alliance-competencies-improve-earliest-problem-solving-lag.md) — related
+- [Patients taught learners addiction medicine, but complex hospital patient populations and settings shaped the learning experience](patients-as-teachers-and-setting-effects.md) — related

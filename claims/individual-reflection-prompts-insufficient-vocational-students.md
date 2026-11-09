@@ -58,3 +58,4 @@ Post-hoc comparisons in the four-condition quasi-experiment (N = 144) showed no 
 - [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — related
 - [Deconstructing theory into smaller concepts alone is insufficient for deep theoretical understanding](deconstructing-theory-alone-insufficient.md) — related
 - [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](chen-2018-meta-analysis-cscl-positive-effects.md) — related
+- [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related

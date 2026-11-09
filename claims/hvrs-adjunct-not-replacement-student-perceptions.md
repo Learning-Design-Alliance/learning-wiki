@@ -49,3 +49,4 @@ Perception questionnaire completed by all 14 participants after both groups expe
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [The null performance effect of HVRS augmentation is bounded by the pilot's small sample, single procedure, and participants' prior experience with both simulators](hvrs-pilot-study-limitations.md) — related
 - [Students endorsed e-learning as an adjunct to face-to-face DRM teaching (PS +1.12) but disagreed that it should replace F2F sessions (PS −0.36)](e-learning-adjunct-not-replacement-drm.md) — related
+- [Midwives valued face-to-face training as essential for learning about NIPT, with e-learning seen as a useful adjunct rather than a replacement](face-to-face-nipt-training-preferred.md) — related

@@ -52,3 +52,4 @@ Authors' contextual argument in the Discussion, citing policy trends and inactiv
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
+- [School-based physical activity that improves fitness is suggested as potentially beneficial for both scholastic abilities and health](school-physical-activity-beneficial-scholastic-health.md) — related

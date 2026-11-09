@@ -50,3 +50,4 @@ Model comparison by mean AIC over 38 participants identified a mixed-strategy mo
 - [Describing demonstrators as Best versus Worst changed participants' ratings of the demonstrators' performance even though actual performance was identical](description-shifts-performance-ratings.md) — related
 - [The copying effect on described ability was driven by a mixed-strategy subgroup, while pure observational outcome learners showed no description-sensitive learning rates](subgroup-heterogeneity-observational-learning.md) — related
 - [Participants performed equally well regardless of whether demonstrators were described as high or low in ability, failing to replicate a prior performance advantage](no-performance-benefit-described-demonstrator-ability.md) — related
+- [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related

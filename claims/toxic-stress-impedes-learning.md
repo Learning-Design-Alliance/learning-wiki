@@ -71,3 +71,4 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — related
 - [Collaborative research and policy efforts converge on the reparative role of identity-safe, relationship-rich environments](sold-convergent-findings-relationship-rich-environments.md) — a broader claim this one bears on
 - [Fear of not meeting professional standards and of legal responsibility are the main reasons students are unwilling to perform CPR, with the professional-standard worry more common in females](barriers-to-cpr-willingness-standards-and-legal-fear.md) — a narrower finding that bears on this claim
+- [Controlling instructional practices undermine students' motivation, whereas supportive practices are associated with better adjustment and engagement](controlling-practices-undermine-motivation.md) — related

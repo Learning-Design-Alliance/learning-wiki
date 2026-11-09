@@ -63,6 +63,7 @@ The article recommends multiagent virtual patient (VP) frameworks as a "customiz
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 - [Deploy DeepSeek in medical education as a virtual mentor, PBL case tool, and adaptive question bank](deepseek-medical-education-integration-strategies.md)
 - [Use ChatGPT-based virtual patient chatbots as a supplementary platform for bedside history-taking practice and international case sharing](chatbot-supplementary-bedside-teaching-strategy.md)
+- [Use branched-narrative virtual patients with video-recorded standardized patients to bring case-based learning to health-science MOOCs at scale](branched-vp-video-strategy-mooc.md)
 
 ## Examples
 -

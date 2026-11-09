@@ -53,3 +53,4 @@ Cross-sectional census of 560 fresh undergraduates at UNIMED Ondo using the Wong
 - [Higher monthly allowance predicts higher odds of above-average EI, while higher Post UTME score and more maternal children predict lower odds](allowance-postutme-mother-children-ei-predictors.md) — related
 - [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](ei-self-awareness-regulation-developmental-qualitative.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
+- [EI domain scores were highest for Emotional Self-Awareness and lowest for Emotional Expression](ei-domain-pattern-self-awareness-highest-expression-lowest.md) — related

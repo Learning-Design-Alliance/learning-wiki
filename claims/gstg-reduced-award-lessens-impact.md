@@ -71,3 +71,4 @@ The report states the original $20,000 maximum award "covered, on average, 80% o
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
 - [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related
 - [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — related
+- [US medical education carries high tuition and debt (76% of students graduate with educational debt; averages of $180,610 public and $203,201 private), while German public medical faculties are tuition-free](tuition-debt-contrast-germany-us.md) — related

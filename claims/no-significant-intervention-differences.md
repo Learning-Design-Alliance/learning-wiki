@@ -97,3 +97,4 @@ The editorial reports that Scarborough, Sabatini, Shore, Cutting, Pugh, and Katz
 - [A significant main effect of time indicated overall higher post-test than pre-test scores](moves-nl-time-main-effect.md) — related
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related
 - [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](koki-accuracy-no-group-differences.md) — related
+- [No significant section effect on normalized gain scores, overall or within either treatment group](no-section-effect-meiosis-gains.md) — related

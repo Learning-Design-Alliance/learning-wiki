@@ -54,6 +54,7 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 - [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 - [Implementation recommendations: a full-time dedicated lead, progressive deployment starting from a single course level, and free open-source tools commonly used in the discipline](educe-implementation-recommendations-strategy.md)
+- [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 
 ## Examples
 -

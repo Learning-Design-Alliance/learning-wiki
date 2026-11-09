@@ -55,3 +55,4 @@ Literature-based analysis in the online personalized learning systems section id
 - [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](ontology-adoption-barriers-practical-elearning.md) — related
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — related
 - [Barriers to blended learning uptake include educator unfamiliarity, material-creation effort and costs, and concerns about student completion](blended-learning-uptake-barriers-educators-costs-completion.md) — related
+- [Use of the wiki was less widespread than other tools, largely because students found it difficult to use](wiki-use-less-widespread-difficult-to-use.md) — related

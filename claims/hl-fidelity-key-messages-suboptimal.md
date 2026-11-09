@@ -52,3 +52,4 @@ Observation-based fidelity assessment of 15 sessions; the article reports activi
 - [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — reports the opposite
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — reports the opposite
 - [Stakeholders perceived the museum-delivered Healthy Living program as feasible, with all 56 planned sessions implemented](hl-program-feasible-museum.md) — related
+- [Students engage in activity for only about 40% of PE lesson time, and few after-school program observations meet physical activity targets](low-activity-levels-pe-and-asp-sessions.md) — related

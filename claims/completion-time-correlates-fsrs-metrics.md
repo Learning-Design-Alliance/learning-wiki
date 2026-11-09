@@ -48,3 +48,4 @@ Correlation analysis (Table 3) of completion time against FSRS metrics over 260 
 - [Functional network strength and communication features are negatively correlated with FSRS performance metrics during RAS learning](network-strength-communication-correlate-fsrs.md) — related
 - [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](novice-expert-performance-gap-robotic-tasks.md) — related
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
+- [Camera metrics correlate significantly with completion time and overall score in most simulation exercises](camera-metrics-correlate-efficiency-metrics.md) — possibly the same claim (merge candidate)

@@ -53,3 +53,4 @@ Comparison of post-training scores by prior experience (Table 2) showed non-sign
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Prior experience of tourniquet-related complications showed no overall significant association with knowledge, but participants with prior complications answered the complication-reporting item better (p = 0.026)](complication-experience-reporting-knowledge-association.md) — related
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related
+- [Working with a friend predicts comfort but does not affect post-test performance](friend-in-group-predicts-comfort-not-performance.md) — related

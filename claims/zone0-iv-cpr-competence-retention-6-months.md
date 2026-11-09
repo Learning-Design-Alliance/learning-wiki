@@ -54,3 +54,4 @@ Pilot randomized educational trial of 52 nursing students randomized 2:1 to SimZ
 - [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — related
 - [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
 - [Knowledge retention at 1 month was higher after the interactive e-learning module than after the didactic video](elearning-nihss-retention-one-month.md) — related
+- [A preparatory web course before CPR training does not improve 13-year-old students' practical CPR skills at 6 months or directly after training](web-course-before-cpr-no-skill-gain.md) — related

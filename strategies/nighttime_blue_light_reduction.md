@@ -65,6 +65,7 @@ Sleep deprivation and fragmentation degrade attention, working memory, and conso
 - [Daytime Blue Light Exposure](daytime_blue_light_exposure.md)
 - [Maintain a regular sleep schedule for children so that every night counts for morning cognitive performance](regular-sleep-schedule-every-night-counts.md)
 - [Schedule relatively long (30-60 min) post-class morning naps to enhance school learning](schedule-long-post-class-morning-naps.md)
+- [Light-based interventions and education about regular sleep schedules to advance circadian rhythms and improve sleep regularity in undergraduates](light-interventions-regular-sleep-schedules-undergraduates.md)
 
 ## Examples
 - **Sleep-education curricula** such as the "Sleep for Success" programs used in school health courses teach circadian basics alongside screen-time reduction, with measurable gains in sleep duration [+W]

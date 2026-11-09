@@ -62,3 +62,4 @@ Pre-specified subgroup meta-regression on expressive and receptive language outc
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
 - [Even schools with high LRS usage showed insufficient evidence of a positive effect](lrs-dose-analysis-no-effect.md) — related
 - [Simulation training effects on board communication were smaller than typical simulation effects in clinical settings, possibly due to self-assessed outcomes and brief dosage](simulation-effect-smaller-than-clinical-meta-analyses.md) — related
+- [High treatment dosage predicted positive outcomes for children across a wide age range, challenging the perception that only young children benefit from intensive ABA](high-dosage-benefits-wide-age-range.md) — related

@@ -52,3 +52,4 @@ The agenda's mental health priority reports, citing multiple endnoted studies on
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — a narrower finding that bears on this claim
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim
 - [Alternative conceptions originate in contextual sources including teachers, media, textbooks, physical and social environments](contextual-sources-of-alternative-conceptions.md) — related
+- [More than 50% of US households have pets, with growing evidence of health benefits of human-animal contact](pet-ownership-health-benefits-human-animal-bond.md) — related

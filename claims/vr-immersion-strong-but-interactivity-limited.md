@@ -76,3 +76,5 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Most participants express interest in interacting with other students within the virtual reality simulation](virtual-doc-multiplayer-interest.md) — related
 - [Participants engaging with interactive tools as learners let them experience each tool's advantages and disadvantages firsthand](experiencing-tools-as-learners-builds-tool-selection-insight.md) — related
 - [A VR hip arthroscopy simulator achieves acceptable realism ratings in all assessed domains except soft-tissue tactile feedback](vr-hip-arthroscopy-simulator-face-validity-realism.md) — related
+- [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related
+- [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related

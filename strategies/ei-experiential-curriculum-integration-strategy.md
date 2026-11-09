@@ -76,6 +76,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
 - [Use role-playing as a teaching method for clinical-skills training of operating room nursing students and revise the curriculum to include empathy](role-playing-teaching-method-or-nursing-curriculum.md)
 - [Follow experiential learning opportunities with open discussions focusing on emotional intelligence](open-discussions-emotional-intelligence.md)
+- [Use simulated patients actively in debriefing and assessment, and role play for empathetic perspective-taking](simulated-patient-debriefing-role-play-empathy-strategy.md)
 
 ## Examples
 -

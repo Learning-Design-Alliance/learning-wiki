@@ -50,3 +50,5 @@ Survey evidence reported within the review (citing Matava et al.) on resident fo
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — related
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — reports the opposite
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — reports the opposite
+- [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
+- [First-year medical students perceived 3-minute podcasts mainly as a supplementary revision and assessment-preparation tool](short-podcasts-perceived-revision-tool.md) — related

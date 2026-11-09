@@ -54,3 +54,4 @@ Descriptive results from the quasi-experimental study (intervention n = 31, cont
 - [New graduate nurses who completed the standard clinical training program showed a greater mean increase in total competency scores than untrained nurses, with an intermediate effect size](standard-clinical-training-greater-competency-increase-did.md) — related
 - [Both traditional and VR training significantly improved post-training test scores over pre-test](both-training-modes-significantly-improve-scores.md) — related
 - [Both intervention and control groups improved from pre-test to post-test, with significantly greater gains in the IFINCTA group on all four modules](ifincta-pre-post-gains-both-groups.md) — related
+- [Decision making improves from first to second simulation in both seminar groups, so the gain is not specific to NTS training](decision-making-improved-both-groups.md) — related

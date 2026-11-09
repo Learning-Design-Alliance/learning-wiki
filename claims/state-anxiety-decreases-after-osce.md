@@ -61,3 +61,4 @@ Descriptive within-cohort comparison of STAI-SA before and after the OSCE in bot
 - [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](anxiety-unchanged-before-state-exams.md) — related
 - [Salivary cortisol measured before an OSCE was not associated with self-reported anxiety and did not differ from reference values](osce-cortisol-anxiety-not-associated.md) — related
 - [A high proportion of physical therapy students showed high trait anxiety before an OSCE, with trait anxiety scores significantly elevated above normative values](osce-students-high-trait-anxiety-elevated.md) — related
+- [Self-reported test anxiety is higher before oral than before written exams in second-year medical students](test-anxiety-higher-before-oral-than-written-exams.md) — related

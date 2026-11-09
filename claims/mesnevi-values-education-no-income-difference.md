@@ -50,3 +50,4 @@ Kruskal-Wallis H tests across three income bands (less than 2000 TL, 2001-4000 T
 ## Related Claims
 - [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
+- [Deaf Community Capital scores differed by mentee parents' education level, an unexplained difference](deaf-community-capital-parents-education.md) — related

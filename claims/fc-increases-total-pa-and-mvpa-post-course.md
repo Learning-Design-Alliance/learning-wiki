@@ -51,3 +51,4 @@ Linear mixed models in the two-arm cluster quasi-experimental study (308 valid c
 - [Flipped classroom students are nearly twice as likely to meet physical activity recommendations as traditional-instruction students immediately post-course.](fc-doubles-odds-of-meeting-pa-guidelines.md) — related
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — reports the opposite
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — a broader claim this one bears on
+- [Providing students with choice of activities and brief periods of free choice increases physical activity and MVPA during PE lessons](student-choice-increases-pe-physical-activity.md) — related

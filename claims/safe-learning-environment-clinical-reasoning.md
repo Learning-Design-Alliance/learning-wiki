@@ -59,3 +59,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — a narrower finding that bears on this claim
 - [Adequate preparation, including setting clear expectations, priming the learner, and seeking patient permission, is crucial to successful clinical teaching (Level 2b, Grade B)](preparation-crucial-clinical-teaching.md) — related
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
+- [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related

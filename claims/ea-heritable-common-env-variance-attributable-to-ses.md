@@ -66,3 +66,4 @@ Classical univariate twin model on the total sample: MZ and DZ twin correlations
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
 - [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — related
 - [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related
+- [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related

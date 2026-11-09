@@ -47,3 +47,4 @@ Analysis of the 22 participants' MakeCode screenshots (group data, post-test): "
 ## Related Claims
 - [A four-hour e-textile workshop significantly increased young novices' ability to draw a functional circuit, from 12 of 22 (55%) at pre-test to 19 of 22 (86%) at post-test](four-hour-etextile-workshop-functional-circuit-gain.md) — related
 - [Sharing multiple sample e-textile projects and sample code appeared to limit children's creativity, with final artifacts imitating the samples](sample-projects-limit-creativity.md) — related
+- [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (129 show a difference, 31 mixed, 12 no difference) · 127 studies (48 associational, 24 qualitative, 18 causal, 17 review, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 127 report an effect size · 172 claims rest on one study
+> **Evidence** · 174 claims (131 show a difference, 31 mixed, 12 no difference) · 128 studies (49 associational, 24 qualitative, 18 causal, 17 review, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 17 of 128 report an effect size · 174 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -208,6 +208,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Parental academic support and involvement predict child academic achievement](../claims/parental-academic-support-predicts-child-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Exemplar staff deliberately develop functional staff-student relationships, including mentor assignment, to support learning needs](../claims/staff-student-relationship-practices.md) [+M] — measured as an outcome of the instruction studied
 - [Diverse, noncompetitive coaching groups provided a constant community of support for URM students who lacked supportive peer networks in early graduate school](../claims/coaching-group-community-of-support.md) [+M] — measured as an outcome of the instruction studied
+- [Good family support, socializing well, and satisfaction with learning facilities independently predict EI](../claims/psychosocial-predictors-of-ei-medical-students.md) [+W] — learners who differ on it differ in outcomes
+- [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](../claims/non-repeat-rate-sociodemographic-associations.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

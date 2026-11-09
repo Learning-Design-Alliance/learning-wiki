@@ -69,3 +69,4 @@ Descriptive statistics from the same survey using the 30-item DELES (range 0–1
 - [Student perception, one DELES component, correlates negatively with academic success (r = -0.189), contrary to the other components](student-perception-negative-correlation-academic-success.md) — related
 - [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related
 - [Academic success differs by school, with medical students scoring lowest (P = 0.011)](school-differences-academic-success-medicine-lowest.md) — related
+- [Program directors' perceptions of e-learning effectiveness are moderately positive and lowest for teaching interpersonal skills](pd-perceptions-elearning-moderate-lowest-interpersonal-skills.md) — related

@@ -51,6 +51,7 @@ The article recommends embedding a brief rating instrument inside simulation-bas
 
 - [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 - [Use the ComOn check for time-efficient assessment and feedback of student communication skills in teaching and OSCE contexts](comon-check-teaching-osce-use-strategy.md)
+- [Offer conversation training with simulated patients to prepare international medical students for patient encounters](conversation-training-simulated-patients-international-students.md)
 
 ## Examples
 -

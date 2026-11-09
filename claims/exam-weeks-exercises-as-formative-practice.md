@@ -56,3 +56,4 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
 - [Over half of students used the GPT companion multiple times per week, mainly for understanding difficult topics, exam preparation, and formative quizzes](frequent-gpt-companion-usage-patterns-medical-students.md) — related
 - [Website analytics showed module traffic spiking in the 1-3 days before examinations and around laboratory sessions](analytics-traffic-spikes-exams-labs.md) — related
+- [Module usage declined over the semester, and the four modules without review quizzes had markedly low usage](module-usage-decline-no-quiz-modules.md) — related

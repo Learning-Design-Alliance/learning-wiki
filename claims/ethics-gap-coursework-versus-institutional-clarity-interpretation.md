@@ -59,3 +59,4 @@ This is the authors' own interpretation offered as a possible explanation ("migh
 - [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
 - [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md) — related
 - [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — related
+- [Mixing reflection with high-stakes assessment turns reflection into confession, raising ethical concerns about mandatory, graded reflection](reflection-as-confession-ethics-mandatory-graded-reflection.md) — a narrower finding that bears on this claim

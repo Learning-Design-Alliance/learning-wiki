@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (26 for, 12 mixed) · 37 studies (10 qualitative, 6 causal, 6 quant-synthesis, 6 review, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 6 of 37 report an effect size · 34 claims rest on one study
+> **Evidence** · 39 claims (27 for, 12 mixed) · 38 studies (11 qualitative, 6 causal, 6 quant-synthesis, 6 review, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 6 of 38 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [Medical interns trained with video feedback workshops significantly outperformed those trained with group discussion on post-intervention patient education performance](../claims/vfb-outperforms-gd-patient-education-osler.md) [+W] — attached 2026-11-06 from Managheb Seyed Esmaeil et al. (2025), which proposed "Incorporate video feedback into standard medical curricula, especially for patient communication and education training"; tests this page's relationship.
 - [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](../claims/process-oriented-feedback-positive-student-reaction-cvc.md) [+W] — attached 2026-11-08 from Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge (2019), which proposed "Three-action process-oriented feedback intervention: reference model explanation, self-tagging, and feedback report".
 - [Video tagging was rated most helpful for detecting repeated activities (100% of students), while the feedback report was the least favorably evaluated intervention](../claims/video-tagging-detecting-repeated-activities-100-percent.md) [+W] — attached 2026-11-08 from Lira Ricardo; Salas-Morales Juan; Leiva Luis; de la Fuente Rene; Fuentes Ricardo; Delfino Alejandro; Hurtado Nazal Claudia; Sepúlveda Marcos; Arias Michael; Herskovic Valeria; Munoz-Gama Jorge (2019), which proposed "Three-action process-oriented feedback intervention: reference model explanation, self-tagging, and feedback report".
+- [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](../claims/video-self-reflection-reveals-unnoticed-mistakes.md) [+W] — attached 2026-11-09 from Hunukumbure Agra Dilshani et al. (2017), which proposed "Holistic feedback session pattern: video-recorded performances, self-reflection, peer videos and open peer discussion under teacher supervision".
 
 ## Objective and learner-valued goal
 

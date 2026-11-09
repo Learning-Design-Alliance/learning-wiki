@@ -52,3 +52,4 @@ Semi-structured interviews with study participants, transcribed and inductively 
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](hololens-value-depends-on-implementation.md) — related
 - [Students endorsed e-learning as an adjunct to face-to-face DRM teaching (PS +1.12) but disagreed that it should replace F2F sessions (PS −0.36)](e-learning-adjunct-not-replacement-drm.md) — related
+- [Midwives valued face-to-face training as essential for learning about NIPT, with e-learning seen as a useful adjunct rather than a replacement](face-to-face-nipt-training-preferred.md) — a narrower finding that bears on this claim

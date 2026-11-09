@@ -48,6 +48,7 @@ The article recommends that instructional designers integrating AI into instruct
 - [Create Space for Students to Reflect](create_space_for_students_to_reflect.md)
 - [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
+- [Give learners enough time to work through case examples and guard against cognitive overload](sufficient-time-prevent-cognitive-overload-vp-cases.md)
 
 ## Examples
 -

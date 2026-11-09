@@ -53,3 +53,4 @@ Results of two teamwork Likert questions from the three-year survey of both cour
 - [Students in two distinct experiential learning courses reported positive perceived skill gains, with 87%–96% agreeing or strongly agreeing with Likert prompts across four domains](el-courses-positive-perceived-gains-four-domains.md) — a broader claim this one bears on
 - [Over 90% of nursing students agreed that Photovoice combined with team-based learning enhanced motivation, active participation, teamwork, and overall learning experience](photovoice-tbl-high-agreement-motivation-teamwork.md) — related
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related
+- [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related

@@ -54,3 +54,4 @@ Voluntary post-session survey of the pooled 2023 and 2024 human SP simulations, 
 - [Trainees rate the simulation experience highly and overwhelmingly agree simulation training is essential in cardiovascular fellowship](high-trainee-satisfaction-with-simulation-training.md) — related
 - [First-year medical students reported that the simulation session increased their knowledge of the pulmonary system](students-report-increased-pulmonary-knowledge-from-sbe.md) — related
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related
+- [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related

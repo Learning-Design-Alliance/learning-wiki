@@ -55,3 +55,4 @@ This is an intervention-development paper for the Cities Mentor Project, not the
 - [Children with cataract without comorbidities or psychosocial adversities seem to do well in school](healthy-cataract-children-do-well-in-school.md) — related
 - [The most strongly endorsed student needs are more sleep, time with friends, and help coping with stress](top-endorsed-student-needs-sleep-friends-stress.md) — related
 - [Mentoring relationship quality, not just mentor access, was significantly associated with youth outcomes](mentoring-relationship-quality-youth-outcomes.md) — related
+- [Portfolios do not work by themselves; they only work if conditions such as mentoring, open structure, a supporting learning environment and direct learning gain are fulfilled](portfolio-conditions-for-success-mentoring-open-structure.md) — a narrower finding that bears on this claim

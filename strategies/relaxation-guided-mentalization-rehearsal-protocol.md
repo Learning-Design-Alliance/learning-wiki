@@ -48,6 +48,7 @@ The article's MI intervention is a concrete implementable recipe: a 5-minute rel
 - [Use brief instructor-guided relaxation and visualization imagery sessions immediately before practicing decomposed surgical skill steps](guided-imagery-before-decomposed-step-practice.md)
 - [Mental Training session recipe: video instruction, brief practice, individual mental map, subvocal visualization](mental-training-session-recipe-strategy.md)
 - [Use subvocal imagery and ideomotoric training, with novices rehearsing systematically and experts focusing on difficult steps](subvocal-ideomotoric-imagery-strategies.md)
+- [Facilitated 25-minute mental practice session with step-by-step textbook breakdown, optionally supported by an interactive 3D anatomical model, before simulated surgery](facilitated-mp-session-textbook-excerpt-3d-aid.md)
 
 ## Examples
 -

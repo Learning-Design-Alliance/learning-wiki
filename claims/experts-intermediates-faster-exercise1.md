@@ -53,3 +53,5 @@ Cross-sectional discriminative validation comparing four expertise groups (17 ex
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md) — related
 - [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — a broader claim this one bears on
 - [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
+- [Experienced surgeons completed all simulation exercises significantly faster than new surgeons, with no significant completion-time differences between intermediate and experienced surgeons](comptime-expertise-differences.md) — related
+- [Expert surgeons substantially outperformed the combined student group on the script concordance test](sct-experts-outperform-students.md) — related

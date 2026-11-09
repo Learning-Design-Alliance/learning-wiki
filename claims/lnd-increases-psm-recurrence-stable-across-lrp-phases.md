@@ -88,3 +88,4 @@ One-year biochemical recurrence showed no significant group difference; the auth
 - [No learning curve inflection point was identified for open LLND](open-llnd-no-inflection-point.md) — related
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
 - [Lymph node dissection quality improved across learning-curve stages, with total, mediastinal, and RLN lymph node counts and RLN harvest rate rising by the proficient stage](laspme-lymph-node-harvest-improves-across-stages.md) — related
+- [Panel feedback led to removal of 4 sub-steps and addition of 2 skip patterns covering anterior versus posterior prostate approach and timing of lymph node dissection](rarp-inventory-skip-patterns.md) — related

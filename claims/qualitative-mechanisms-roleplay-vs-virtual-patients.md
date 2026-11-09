@@ -56,3 +56,4 @@ Semi-structured interviews with six students (four virtual patient group, two ro
 - [Nursing students report that role-play and video simulations fostered empathy, enhanced communication, and built confidence in a safe practice environment](role-play-video-simulation-empathy-confidence.md) — related
 - [Reflective essays identified three themes — enhancement of clinical performance, value of simulation training, and value of flipped simulation — including that designing lesson plans deepened understanding of diseases.](reflective-essays-three-pal-simulation-themes.md) — related
 - [‘Being in the patient's shoes’ is the only learning feature particularly linked to a specific modality: role-play](being-patient-role-play-empathy.md) — related
+- [Empathy development is a perceived gain of dramatization-based simulation, measured during role play in some studies](empathy-gain-role-play-simulation.md) — related

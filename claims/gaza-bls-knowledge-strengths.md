@@ -50,3 +50,4 @@ Item-level results from the 402-participant cross-sectional survey (Table 2). Th
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related
 - [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related
+- [Knowledge of compression parameters was low: only 69.6% partially answered the universal compression-to-ventilation ratio correctly and only 33.2% answered all chest-compression depth options correctly](compression-ratio-depth-knowledge-low.md) — related

@@ -54,3 +54,4 @@ Face and content validity study (Study 1): a procedure characterisation group dr
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
 - [An international Delphi panel of 21 consultant-level interventional neuroradiologists reached consensus on procedure metrics for a reference approach to mechanical thrombectomy](delphi-consensus-mt-procedure-metrics.md) — related
+- [An external Delphi panel of 13 expert RARP surgeons reached 100% consensus on a final inventory of 13 critical steps and 52 sub-steps after three iterations](delphi-rarp-inventory-13-steps-52-substeps.md) — related

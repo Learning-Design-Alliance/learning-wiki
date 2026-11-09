@@ -66,3 +66,4 @@ Kolmogorov-Smirnov comparison of daily Facebook usage by gender in the course sa
 ## Related Claims
 - [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related
 - [Field notes documented implementation difficulties: initial group membership, mother-tongue use, and group-composition complaints](web2-implementation-difficulties-field-notes.md) — related
+- [Facebook was the most widely used platform for supporting case-based learning, used by 28 of 30 student groups](facebook-most-used-cbl-platform-28-of-30.md) — related

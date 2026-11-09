@@ -49,3 +49,4 @@ Negative-control analysis within the randomized trial: dkTest scores on the unta
 - [A topic-matched online TBL session before the test improved topic-specific domain knowledge test scores](online-tbl-improves-topic-specific-dktest.md) — a broader claim this one bears on
 - [Permanent versus temporary TBL teams did not differ in domain knowledge test scores](permanent-vs-temporary-teams-no-dktest-difference.md) — related
 - [Significant main effect of examination topic on learning outcomes, with no significant mode × topic interaction](topic-effect-no-mode-topic-interaction-anatomy.md) — related
+- [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related

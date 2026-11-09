@@ -53,3 +53,4 @@ Survey results on perceived benefits, rated on agreement items. The article stat
 - [SBMT is the preferred method for teaching several emergency technical skills, including chest compressions and cardioversion/defibrillation](sbmt-preferred-method-emergency-technical-skills.md) — related
 - [Residents' confidence in managing paediatric and neonatal emergencies does not differ by residency year or prior SBMT exposure](emergency-confidence-no-difference-year-or-sbmt-exposure.md) — related
 - [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
+- [Swiss pediatric SBMT prioritizes both technical skills and non-technical skills, with communication, leadership and role clarity as top priorities](sbmt-technical-and-nontechnical-skill-priorities.md) — related

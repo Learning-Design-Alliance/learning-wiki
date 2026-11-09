@@ -59,8 +59,10 @@ The fair operationalizes learner autonomy: choice over which strategies to sampl
 5. Follow up in subsequent sessions with [Check-ins](../principles/check-ins.md) on whether learners actually used their chosen strategies, and prompt [Self-Explanation](../elements/self-explanation.md) of what worked and what didn't
 
 ## Related Strategies
+
 - Strategy instruction and modeling sessions — a fair complements explicit teaching by adding experiential sampling before formal instruction
 - Portfolio or learning-log approaches — the reflection records from a fair feed naturally into ongoing self-monitoring artifacts
+- [Deliver sessions using the SAAFE strategy set: supportive feedback, activity-maximizing structures, choice with rationale, fair mastery tasks and enjoyable variety](saafe-session-delivery-strategies.md)
 
 ## Examples
 - **First-year seminar study-skills fair:** stations for the [SQ3R reading method](https://www.mindtools.com/aordocj/sq3r-reading-method), Anki spaced-repetition flashcards ([https://apps.ankiweb.net](https://apps.ankiweb.net)), Cornell note-taking, and concept mapping, each tried on a shared course reading

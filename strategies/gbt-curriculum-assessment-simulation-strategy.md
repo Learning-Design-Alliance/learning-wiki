@@ -49,7 +49,9 @@ The article recommends that GBT training programs establish comprehensive dedica
 - [Most surveyed Chinese senior residents report competence to independently complete intracavitary (78.03%) and vaginal stump (75.00%) GBT, but only 50.03% for interstitial GBT](../claims/self-reported-gbt-competence-by-type.md) [+W]
 
 ## Related Strategies
+
 - [Competency Based Assessment](../principles/competency-based-assessment.md)
+- [Develop a dedicated OOOR airway curriculum focused on DAA comprehension and communication with higher-level physicians](ooor-daa-comprehension-communication-curriculum.md)
 
 ## Examples
 -

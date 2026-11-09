@@ -49,3 +49,4 @@ Same qualitative interview study of steering committee members. Participants des
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related
 - [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — related
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
+- [Broad, continuous information and personal persuasion increased familiarity with the mapping project and participation; limited committee access delayed progress substantially](continuous-communication-participation.md) — related

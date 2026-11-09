@@ -82,3 +82,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Ability-based emotion regulation scenarios explain more variance in future academic performance than the trait self-questionnaire (1.54% vs 0.38%)](ability-scenarios-beat-trait-scale-t3-gpa.md) — reports the opposite
 - [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related
 - [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related
+- [Student GPA did not predict the value students placed on the group activity](gpa-did-not-predict-activity-value.md) — related

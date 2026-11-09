@@ -70,3 +70,4 @@ Table 4 advice-frequency item: Always 44(45.4%), Sometimes 27(27.8%), Occasional
 - [Postgraduates show deficient knowledge of osteoporosis epidemiology, with no difference between degree tracks](osteoporosis-epidemiology-knowledge-deficit.md) — related
 - [Learning channels for osteoporosis differ by degree track: academic students prefer journals, professional students prefer the internet](osteoporosis-learning-channels-differ-by-degree-track.md) — related
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](adult-ed-minimal-learner-data-use.md) — related
+- [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related

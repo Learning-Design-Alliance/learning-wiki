@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 293 claims (163 for, 111 mixed, 19 against) · 163 studies (54 causal, 36 review, 25 design, 20 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 30 of 163 report an effect size · 287 claims rest on one study
+> **Evidence** · 295 claims (164 for, 112 mixed, 19 against) · 165 studies (55 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 30 of 165 report an effect size · 289 claims rest on one study
 
 ## Description and scope
 
@@ -221,6 +221,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Volunteer simulated patient communication skills training produced higher total OSCE scores than student roleplay training among second-year medical students](../claims/volunteer-sp-cst-higher-osce-total-than-roleplay.md) [+W] — attached 2026-11-09 from Taylor Silas et al. (2019), which proposed "Adopt volunteer simulated patient programs as an effective and cost-neutral way to improve communication skills training for junior medical students"; tests this page's relationship.
 - [Preclinical medical students' history taking and clinical reasoning skills rose significantly from pre-test to post-test across all five assessed descriptors after a constructivist VP-based course, in one single-group pre-post study](../claims/vp-course-improves-history-taking-clinical-reasoning.md) [+W] — attached 2026-11-09 from Isaza-Restrepo Andrés et al. (2018), which proposed "Use virtual patients within a constructivist environment with feedback, repetition, and integration — not as a standalone replacement"; tests this page's relationship.
 - [Students perceive the VP as a motivating, easy-to-use tool that permits error-making without consequences and supports structured reasoning](../claims/vp-perceived-motivating-safe-for-errors.md) [+W] — attached 2026-11-09 from Isaza-Restrepo Andrés et al. (2018), which proposed "Use virtual patients within a constructivist environment with feedback, repetition, and integration — not as a standalone replacement".
+- [PI and physician feedback show no statistically significant difference in overall matching with gold-standard ratings](../claims/pi-feedback-matches-gold-standard-equally.md) [~W] — attached 2026-11-09 from Krautter Markus et al. (2017), which proposed "Deploy trained patient instructors to assess students' physical examination skills where resources are limited".
+- [Qualitative analysis of 1375 participant comments generated seven themes, with the largest theme (46.0% of comments) reflecting positive experiences of working with the virtual patient](../claims/vp-mooc-seven-themes-positive-experience.md) [+W] — attached 2026-11-09 from Berman A.H. et al. (2017), which proposed "Offer more interactive virtual patient cases with varied levels of complexity and diverse backgrounds, as the most common participant suggestion".
 
 ## Illustrative design instance and observation record
 

@@ -69,3 +69,4 @@ Same group comparison; Table 2 reports knots-untied means of 1.43 (group A) and 
 - [Dominant-hand training is faster than bimanual training for tying 10 consecutive half knots after a two-day laparoscopic suturing course](dominant-hand-faster-ten-consecutive-knots.md) — related
 - [Two-day simulation-based laparoscopic suturing training halved the average time residents took to tie an intracorporeal knot](simulation-training-halves-knot-tying-time.md) — related
 - [Number of correctly completed knots shows only a non-significant trend favouring the operation primer group](completed-knots-trend-not-significant.md) — related
+- [Observation condition had no effect on either transfer task (knot tying and ball drop), with Bayes evidence of equivalence across groups](no-transfer-task-group-effects.md) — related

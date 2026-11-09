@@ -65,3 +65,6 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Qualitative responses indicated all participants had positive experiences, perceiving the simulation as realistic, and several reported feeling present in the scenario.](360-video-realism-presence-qualitative.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Free-text feedback: most students found the OSS realistic, while SPs mainly raised practical issues such as heat and clothing](oss-free-text-advantages-challenges.md) — related
+- [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
+- [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
+- [Qualitative analysis of 1375 participant comments generated seven themes, with the largest theme (46.0% of comments) reflecting positive experiences of working with the virtual patient](vp-mooc-seven-themes-positive-experience.md) — related

@@ -49,3 +49,4 @@ Thematic analysis of eight HCD workshops with embedded FGDs involving 48 provide
 - [Clinical performance of MgSO4 administration is inconsistent across cadres, with omitted toxicity monitoring and variable dilution technique](inconsistent-mgso4-clinical-performance.md) — related
 - [System-level barriers including inadequate simulation-based training and lack of visual job aids constrain optimal MgSO4 practice](systemic-barriers-mgso4-training-job-aids.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
+- [Vancomycin knowledge gaps concentrate on loading dose, maintenance dose, and timing of first trough level, with target trough range best answered](vancomycin-knowledge-gaps-loading-dose-timing.md) — related

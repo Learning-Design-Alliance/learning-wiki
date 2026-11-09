@@ -104,6 +104,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Use portfolio assessment as a complementary alternative alongside traditional timed writing assessment](../strategies/portfolio-complementary-to-traditional-assessment.md)
 - [Use coaching over time to review assessment portfolios away from the clinic and set personal action-oriented goals](../strategies/coaching-over-time-portfolio-review.md)
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](../strategies/iterative-review-dops-portfolio-authenticity.md)
+- [Implement comprehensive portfolios as learner charts within programmatic assessment, documenting progress longitudinally to service both learning and assessment](../strategies/comprehensive-portfolio-learner-chart-programmatic-assessment.md)
 
 ## Key Sources
 - Paulson, F. L., Paulson, P. R., & Meyer, C. A. (1991). What makes a portfolio a portfolio? *Educational Leadership, 48*(5), 60–63.

@@ -70,3 +70,4 @@ Teacher-feedback theme from the senior strand (second to sixth class) in the yea
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on
 - [DLGs contribute to a non-violent, supportive climate of coexistence, including reduced bullying and dialogues oriented to non-violent relationships](dlg-non-violent-supportive-climate.md) — related
 - [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](simulation-larger-emotional-communication-gains.md) — a narrower finding that bears on this claim
+- [Empathy development is a perceived gain of dramatization-based simulation, measured during role play in some studies](empathy-gain-role-play-simulation.md) — related

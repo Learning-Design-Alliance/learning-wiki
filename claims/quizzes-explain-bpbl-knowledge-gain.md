@@ -46,3 +46,4 @@ Authors' interpretation offered in the discussion for the bPBL knowledge-gain re
 
 ## Related Claims
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related
+- [Most students completed the online modules and passed the embedded review quizzes](high-module-completion-blended-pathology.md) — related

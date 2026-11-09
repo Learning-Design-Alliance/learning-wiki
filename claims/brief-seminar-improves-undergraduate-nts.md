@@ -49,3 +49,4 @@ Background literature attributed to Hagemann et al.: the review-level statement 
 - [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
 - [AS-NTS is rated feasible and practical, whereas the ANTS system is too complex for undergraduates and first-two-year residents](as-nts-feasible-ants-too-complex-undergraduates.md) — related
+- [Teamwork safety-relevant attitudes largely unchanged after the NTS seminar; handling errors improved but the teamwork attitude decreased in the NTS group](nts-seminar-attitude-changes-mixed.md) — related

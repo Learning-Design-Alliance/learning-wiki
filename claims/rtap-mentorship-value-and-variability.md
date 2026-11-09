@@ -59,3 +59,5 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Without formal training, peer teachers develop their teaching role through informal strategies, which give unequal opportunities across students](informal-strategies-support-teaching-role.md) — related
 - [Perceived costs of mentorship exceeding benefits may reduce the available mentor pool and mentorship quality](mentorship-cost-benefit-affects-mentor-pool.md) — related
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
+- [Preclinical medical students' attitudes toward reflective group discourse on professional challenges are diverse, with some valuing the mentoring program and others expressing aversive attitudes](diverse-student-attitudes-reflective-mentoring-groups.md) — related
+- [Mentorship overlap and regular mentor meetings supported learner progress; same-discipline physician mentors served as role models](mentorship-overlap-and-role-modelling.md) — related

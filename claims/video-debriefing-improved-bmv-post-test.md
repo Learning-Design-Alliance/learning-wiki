@@ -50,3 +50,4 @@ Bag-mask ventilation scores from the trial's Table 2, adjusted for years in serv
 - [Medical students who watched the bag mask ventilation demonstration video before class achieved higher BMV performance scores than those who did not](pre-class-video-higher-bmv-performance.md) — related
 - [One-day HBB 2.0 training made all 60 participating nurses competent in bag-and-mask ventilation, with significant knowledge gains](hbb2-training-competency-nepal-nurses.md) — related
 - [The recently trained group was slower on key procedural steps than all other groups, taking longer for bag-mask ventilation and pulse checking.](recently-trained-group-slower-on-procedural-steps.md) — related
+- [The proportion of health workers competent (≥80%) in bag-and-mask skills rises from none before training to 93% immediately after and 99% at 6 months](bag-mask-competence-proportion-zero-to-ninety-nine.md) — related

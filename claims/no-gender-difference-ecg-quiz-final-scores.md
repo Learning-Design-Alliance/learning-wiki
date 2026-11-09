@@ -51,3 +51,5 @@ Observational analysis of quiz and OSCE ECG station scores for 1315 medical stud
 - [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related
 - [Female participants scored significantly higher than male participants on perceived skills in promoting student SEL](lq-gender-difference-perceived-sel-skills.md) — related
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
+- [Female dental students performed significantly better than male students in all three cohort groups](female-dental-students-outperformed-males-all-groups.md) — related
+- [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related

@@ -54,3 +54,4 @@ External validation study at the Zurich Aneurysm Clipping Course (n = 22) and th
 - [A neurosurgeon expert rated the simulation workflow as clear and intuitive and the vessel deformation as plausible](expert-rates-workflow-clear-deformation-plausible.md) — related
 - [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related
 - [Surgeons rated the simulator positively for content validity, with high internal consistency of the questionnaire](positive-content-validity-ratings.md) — related
+- [A pilot qualitative trial with 4 medical students and 6 neurosurgeons reports general satisfaction with the aneurysm simulator](pilot-feedback-neurosurgery-simulator-satisfaction.md) — related

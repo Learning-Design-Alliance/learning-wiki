@@ -49,3 +49,4 @@ Findings from multilevel regression analyses indicated that dense networks with 
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [Network activities predict perceived learning potential among youth in online networks.](network-activities-predict-perceived-learning-potential.md) — related
+- [The open discussion space clarified students' confusion about receiving dissimilar feedback from different clinicians and fostered social bonding](open-discussion-clarifies-varied-feedback-and-bonds-group.md) — related

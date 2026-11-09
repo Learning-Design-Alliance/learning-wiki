@@ -55,3 +55,4 @@ Narrative review attributing this to Cohen, Garcia, Apfel, and Master (2006): a 
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
 - [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](self-affirmation-no-black-white-gap-reduction.md) — reports the opposite
 - [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related
+- [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related

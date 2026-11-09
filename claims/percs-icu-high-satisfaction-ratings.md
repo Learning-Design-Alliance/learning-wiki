@@ -58,3 +58,4 @@ Post-course evaluation questions on 5-point Likert scales administered to the 69
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
 - [All surveyed residents would recommend the distance wet lab training to others](resident-satisfaction-distance-wet-lab.md) — related
 - [After the later workshops, 100% of attendees reported feeling more confident assisting in theatre and would recommend the course](unanimous-confidence-and-recommendation-later-workshops.md) — related
+- [Participants rated the EOL simulation workshop highly and believed it would ameliorate their future handling of EOL situations](eol-workshop-positive-participant-ratings.md) — related

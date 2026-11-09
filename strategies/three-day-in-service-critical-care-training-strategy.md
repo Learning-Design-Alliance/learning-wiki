@@ -49,6 +49,7 @@ A concrete recipe: run one three-day session per hospital, facilitated by local 
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
+- [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
 
 ## Examples
 -

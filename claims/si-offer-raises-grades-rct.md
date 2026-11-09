@@ -52,3 +52,4 @@ Pre-registered randomized field experiment: 493 first-year students from 10 cour
 - [Offering SI costs about €385.88 per invited student (€154 when set-up costs are spread over subsequent quarters)](si-cost-per-student.md) — related
 - [Enrollment in the supplemental instruction section is associated with significantly positive average individualized treatment effects on final exam score and course grade](si-positive-average-ite-exam-grade.md) — related
 - [Each repeated enrollment in the emergency module adds on average 0.88 points to the final exam score](repeated-module-enrollment-raises-exam-score.md) — related
+- [Focal students in a graduate student–led supplemental course improved relative to non-enrolled peers between exam 1 and exam 2, with no additional relative gains on subsequent exams](supplemental-course-focal-students-improve-exam1-to-exam2.md) — related

@@ -58,3 +58,4 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related
 - [EBM-trained medical students rate all six self-reported EBM skills significantly better than untrained students, with differences emerging mainly after the second year](ebm-training-better-self-rated-skills-medical-students.md) — related
+- [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related

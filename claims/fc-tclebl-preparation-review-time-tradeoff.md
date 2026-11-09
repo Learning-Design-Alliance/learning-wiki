@@ -70,3 +70,4 @@ Same self-reported time data; total time (80.625 ± 9.483 min vs. 76 ± 15.425 m
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — possibly the same claim (merge candidate)
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related
 - [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — reports the opposite
+- [Self-reported exam preparation time did not differ between groups and did not positively correlate with examination scores](prep-time-null-correlation.md) — reports the opposite

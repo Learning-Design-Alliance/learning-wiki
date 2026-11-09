@@ -127,3 +127,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Provider knowledge declines significantly in the months after SCL-aHIT training](knowledge-loss-after-scl-ahit.md) — a narrower finding that bears on this claim
 - [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — related
+- [Bag-and-mask, pre-birth preparation, and OSCE skill scores rose from baseline to immediately after HBB training and were retained at 6 months in one single-group pre-post study with no comparison group](hbb-qic-skill-scores-retained-6-months.md) — related

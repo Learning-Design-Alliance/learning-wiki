@@ -55,3 +55,4 @@ In the multivariate model of the 399-child cross-sectional study, father head of
 - [Socioeconomic conditions (father's education, mother's occupation) indirectly affect GMKT performance via psychological/personality features and BMI, with no significant direct effect](socioeconomic-indirect-gmkt-pathway.md) — related
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — reports the opposite
 - [Mothers' education predicts spelling and fathers' education predicts reading, but not math, in the fully adjusted model](parental-education-predicts-reading-spelling-rural-bangladesh.md) — related
+- [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](non-repeat-rate-sociodemographic-associations.md) — related

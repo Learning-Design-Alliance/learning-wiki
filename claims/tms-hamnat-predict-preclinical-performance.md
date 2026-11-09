@@ -58,3 +58,4 @@ Nationwide survey study of 2113 medical students from all 38 German medical scho
 - [BMAT scores show no clear incremental validity over A-level grades for predicting medical school assessment performance, with two significant negative associations of BMAT Section 2 with clinical performance](no-bmat-incremental-validity-over-a-levels.md) — related
 - [HAM-Nat predictive validity after correction for indirect range restriction is r = .31, with incremental validity over PEA](ham-nat-corrected-predictive-validity-r31.md) — a narrower finding that bears on this claim
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
+- [Bachelor's GPA and MCQ exam results are positively correlated, supporting the accuracy of the GPA admission criterion](bachelors-gpa-mcq-positive-correlation.md) — related

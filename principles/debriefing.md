@@ -207,6 +207,8 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Run compared simulation conditions on separate days with debriefing to limit carryover of stress between sessions](../strategies/separate-days-debriefing-between-simulation-conditions.md)
 - [Use a two-step debriefing process: immediate written self-debrief followed by a large group debrief](../strategies/two-step-self-then-group-debrief-vgs.md)
 - [Two-question structured debriefing after each simulation scenario](../strategies/two-question-structured-debriefing-strategy.md)
+- [Include debriefing sessions run by qualified facilitators in team training to stimulate reflective learning](../strategies/debriefing-qualified-facilitators-team-training-strategy.md)
+- [Run the feedback session with teacher-led recommendations: clear introduction, explain the feedback dilemma, encourage open discussion, avoid the word 'feedback' for student roles, and end with a debrief](../strategies/holistic-feedback-session-recommendations.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

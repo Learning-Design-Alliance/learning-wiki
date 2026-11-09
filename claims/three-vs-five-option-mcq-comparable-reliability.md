@@ -69,3 +69,4 @@ Descriptive SEM comparison from the same randomized test comparison; the article
 - [Expert review identified many non-functioning distractors in advance, supporting item-writing training as a route to better MCQs](experts-detect-non-functioning-distractors-in-advance.md) — related
 - [Three-option MCQ tests take markedly less time to administer than five-option tests of the same items](three-option-mcq-administration-time-savings.md) — related
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
+- [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related

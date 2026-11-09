@@ -48,3 +48,4 @@ Self-reported willingness from a fixed-response questionnaire at both measuremen
 - [Self-reported confidence after film-based CPR training did not differ significantly by native language](no-confidence-difference-native-language-cpr.md) — related
 - [After film-based CPR training in Swedish, students with Swedish as native language scored higher on the practical CPR skill test than students with other native languages, directly after training and at 6 months](snl-students-higher-cpr-skill-scores-than-onl-after-film-training.md) — related
 - [Most Nigerian students were willing to perform CPR on strangers and trauma victims](nigerian-students-willingness-perform-cpr-strangers.md) — related
+- [Reflection immediately after CPR training increases willingness to intervene for a stranger, but the effect is not present at 6 months](reflection-stranger-willingness-short-term-only.md) — related

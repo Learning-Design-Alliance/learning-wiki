@@ -47,3 +47,4 @@ Perceived difficulty of each topic (0–10 scale) measured at the end of each to
 ## Related Claims
 - [Only the first simulation case was rated more difficult than its lecture counterpart, with no group differences in difficulty or stress afterwards](case1-difficulty-higher-simulation-no-later-differences.md) — possibly the same claim (merge candidate)
 - [Perceived difficulty was higher for research designs than for samples and measurement](perceived-difficulty-varies-by-topic.md) — related
+- [Students showed a trend to associate topic difficulty with preferring the face-to-face format](topic-difficulty-trend-face-to-face-preference.md) — related

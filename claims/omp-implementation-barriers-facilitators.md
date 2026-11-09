@@ -58,3 +58,4 @@ Qualitative content analysis of the interviews generated the main category 'Barr
 - [Workplace awareness of the training topic, own-time scheduling, and continuing medical education accreditation points facilitate uptake of a digital communication training](facilitators-awareness-accreditation-points.md) — related
 - [Nurses wanted more opportunity to learn how colleagues manage Teach-Back and more visual reminders to maintain use](nurses-wanted-peer-learning-and-visual-reminders.md) — related
 - [Physicians most frequently identified health education as the element they want to start or increase in their practice](physicians-want-increased-health-education.md) — related
+- [In time-scarce clinical practice, competency-driven portfolio checklists degenerate into bureaucratic exercises that stand between the learner and workplace learning opportunities](portfolio-bureaucracy-competency-based-checklists.md) — related

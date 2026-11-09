@@ -52,6 +52,7 @@ The article recommends that simulation-based learning for pre-foundation doctors
 
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
+- [Include debriefing sessions run by qualified facilitators in team training to stimulate reflective learning](debriefing-qualified-facilitators-team-training-strategy.md)
 
 ## Examples
 -

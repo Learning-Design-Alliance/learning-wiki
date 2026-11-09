@@ -69,3 +69,4 @@ Same paired-samples analysis (n=31) on the male virtual patient scenario: statis
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Most health care professionals rated VITAL-COMS feasible, acceptable, and emotionally engaging](vital-coms-feasibility-acceptability-ratings.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
+- [Participants reported higher intention to use skills learned when the trainer was personable rather than professional](personable-trainer-higher-intention-use-skills.md) — related

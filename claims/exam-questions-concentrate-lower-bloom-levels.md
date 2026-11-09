@@ -75,3 +75,4 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — related
 - [DRM knowledge scores rose from pre-test to post-test after e-learning in one group with no comparison group; recall and comprehension were reported as comparatively stronger than complex decision-making knowledge afterward](e-learning-serves-recall-not-complex-decisions.md) — related
 - [Exam cognitive level, question type, and content coverage were similar across control and reading-quiz terms, ruling out reduced exam rigor](exam-rigor-similar-across-quiz-and-control-terms.md) — related
+- [After controlling for Bloom’s level, question familiarity had no effect on MLab exam performance, while Bloom’s level was a significant predictor](bloom-level-predicts-familiarity-does-not.md) — related

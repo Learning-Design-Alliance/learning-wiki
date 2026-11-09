@@ -52,3 +52,4 @@ Process evaluation of the trial, based on field visits, observations and intervi
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
 - [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related
 - [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related
+- [Reasons for partially or not implementing intended changes included forgetting, few STI consultations, time pressure, shame, and test costs](implementation-barriers-sti-elearning.md) — related

@@ -65,3 +65,4 @@ ANOVA and exploratory ICC analyses of intention across the nine course cohorts. 
 
 ## Related Claims
 - [Physicians' self-rated intention to adopt targeted behaviors rose from pre-test to post-test after CPD courses in one uncontrolled pre-post study when all nine courses were analyzed together](cpd-courses-increase-physician-intention.md) — related
+- [Perceptions of fairness influence motivation, affective learning, enjoyment and intentions to continue participating in sports](fairness-perceptions-influence-motivation-and-enjoyment.md) — related

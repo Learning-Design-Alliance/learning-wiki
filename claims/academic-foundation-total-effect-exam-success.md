@@ -50,3 +50,4 @@ Serial multiple mediation analysis (WLSMV estimation, 5000 BCa bootstrap resampl
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — a narrower finding that bears on this claim
 - [Support resources positively predict psychological state but do not mediate the foundation–success relationship](support-resources-covariate-not-mediator.md) — related
 - [Psychological state has the highest direct effect on exam outcome among all predictors (B = 0.442)](psychological-state-highest-direct-predictor.md) — related
+- [All five thematic subtests of the MCQ entrance exam are significant predictors of academic success in the Master of Public Health program](mcq-subtests-significant-predictors-mph.md) — related

@@ -238,6 +238,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Integrate TBL readiness testing with peer-taught clinical skill practice in dental residency training](../strategies/tbl-pt-integrated-residency-strategy.md)
 - [Pair TBL courses with faculty development sessions and student orientation on TBL objectives](../strategies/faculty-development-and-orientation-for-tbl.md)
 - [Use team-based learning with iRAT/tRAT readiness assurance to build ACP knowledge before skills practice](../strategies/tbl-readiness-assurance-acp-knowledge-strategy.md)
+- [Adapt TBL units for teaching clinical reasoning by focusing readiness-assessment questions and application exercises on reasoning steps and structured approaches](../strategies/tbl-clinical-reasoning-adaptation-strategy.md)
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)

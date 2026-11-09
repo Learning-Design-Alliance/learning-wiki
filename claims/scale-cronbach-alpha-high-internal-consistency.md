@@ -48,3 +48,4 @@ Cross-sectional questionnaire survey via the Questionnaire Star platform in Octo
 ## Related Claims
 - [The Core Competency Assessment Scale for Digestive Endoscopy Nurses shows good internal consistency and test–retest reliability in a 512-nurse survey](endoscopy-nurse-scale-reliability-cronbach-retest.md) — related
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
+- [The BDF/PCC instrument showed high internal consistency, with Cronbach's α of 0.98 for the full scale](bdf-pcc-cronbach-alpha-0-98.md) — related

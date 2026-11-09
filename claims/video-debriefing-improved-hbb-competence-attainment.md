@@ -49,3 +49,4 @@ Cluster-randomized trial of 26 health facilities and 86 birth attendants in Lira
 - [Adding video-debriefing to standard HBB training improved competence retention over 6 months post-training](video-debriefing-improved-hbb-competence-retention-6-months.md) — related
 - [Knowledge attainment immediately after training did not differ significantly between the video-debriefing and standard-training arms](video-debriefing-knowledge-attainment-not-significant.md) — related
 - [Tablet-based video training produced MCQ knowledge gains comparable to traditional in-person training among community health workers in rural Uganda](tablet-training-comparable-mcq-gains-chws.md) — related
+- [The proportion of health workers competent (≥80%) in bag-and-mask skills rises from none before training to 93% immediately after and 99% at 6 months](bag-mask-competence-proportion-zero-to-ninety-nine.md) — related

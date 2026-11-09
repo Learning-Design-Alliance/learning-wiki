@@ -48,6 +48,7 @@ The authors developed cases by reviewing the monthly patient census and discussi
 - [Use a locally trained facilitator to lead debriefings and sustain the curriculum, with debriefing time lengthened as learners gain experience](local-facilitator-debriefing-sustainability.md)
 - [Simulate the actual ED's resource constraints, including realistic delays for lab and radiology results](simulate-local-resource-constraints.md)
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
+- [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
 
 ## Examples
 -

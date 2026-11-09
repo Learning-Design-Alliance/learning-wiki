@@ -78,3 +78,6 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
 - [Staff valued using their own equipment and familiar surroundings in situ, reporting that equipment familiarity was a fundamental element for learning](own-equipment-familiarity-fundamental-learning.md) — related
+- [Participants rated the EOL simulation workshop highly and believed it would ameliorate their future handling of EOL situations](eol-workshop-positive-participant-ratings.md) — related
+- [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
+- [Simulator features that realistically simulate basic PPH management steps may have supported learning of those skills](realistic-simulator-features-support-basic-skill-learning.md) — related

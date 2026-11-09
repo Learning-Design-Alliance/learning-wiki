@@ -55,3 +55,4 @@ PLS structural model on the 701-student CSCL survey, an ex post facto, cross-sec
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](satisfaction-influences-perceived-impact-cscl.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Perceptions of fairness influence motivation, affective learning, enjoyment and intentions to continue participating in sports](fairness-perceptions-influence-motivation-and-enjoyment.md) — related

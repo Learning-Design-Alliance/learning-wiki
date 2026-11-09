@@ -72,3 +72,4 @@ Expertise predictor in the same per-case regression models showed no significant
 - [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related
 - [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](third-phase-episodic-memories-diagnosis.md) — related
 - [Medical students and residents use diverse SRL strategies in the clinical environment, shaped by individual, contextual and social factors](srl-clinical-strategies-diverse-multifactor.md) — related
+- [The authors propose residents may be less susceptible to contextual factors, counterbalancing their less-developed illness scripts](residents-possibly-less-susceptible-contextual-factors.md) — related

@@ -59,3 +59,4 @@ The review's assumption-check analysis (Table 1) found "the unidimensionality as
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related
 - [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md)
 - Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales — related
+- [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related

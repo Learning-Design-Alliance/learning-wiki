@@ -95,3 +95,4 @@ Pairwise comparisons within the same post-hoc analysis of confidence ratings; th
 - [Desktop VR and face-to-face simulation produce no significant difference in clinical performance outcomes for assessing and managing clinical deterioration](desktop-vr-similar-performance-to-face-to-face-simulation.md) — related
 - [Desktop VR and face-to-face simulation with simulated patients produce no significant difference in psychological stress responses during team training for clinical deterioration](desktop-vr-similar-psychological-stress-to-face-to-face-simulation.md) — related
 - [After completing AaLplus, preclinical medical students report high confidence in history taking, physical examination and practical skills](aalplus-high-self-assessed-confidence.md) — related
+- [Teaching-associate and instructor-led training produce no significant difference in Global Rating Scale communication and interaction scores](grs-communication-no-group-difference.md) — related

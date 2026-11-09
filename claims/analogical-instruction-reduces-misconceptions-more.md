@@ -52,3 +52,4 @@ Percentages of misconceptions per question (Table 2) before and after instructio
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
 - [Misconceptions about atoms, compounds and mixtures detected at pre-test persisted or re-emerged at post-test in both experimental and control groups](misconceptions-persist-posttest-both-groups.md) — related
+- [Both treatment groups scored below 50% on two posttest items addressing DNA amount through the stages of meiosis, a known common misconception](dna-amount-misconception-persists-both-treatments.md) — related

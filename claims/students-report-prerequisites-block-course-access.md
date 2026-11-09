@@ -70,3 +70,4 @@ Same section: students suggest options like a journalism English course fulfilli
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [Knowledge decay can be compensated with a thoughtful sequence of courses](decay-compensated-by-sequencing.md) — related
+- [Students’ decisions to take or not take a recommended prerequisite were driven largely by factors unrelated to learning, such as scheduling and program rules](prerequisite-enrollment-reasons-mostly-non-learning.md) — related

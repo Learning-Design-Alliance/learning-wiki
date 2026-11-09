@@ -47,6 +47,7 @@ Because pupils' skills to accomplish different tasks vary, "The one-to-one guida
 - [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](coaching-and-support-for-low-skilled-adult-learners.md)
 - [Teachers should periodically test all pupils in a wide variety of mental and physical traits to gain intimate knowledge of individual qualities and weaknesses](periodic-wide-trait-testing-of-all-pupils.md)
 - [Differentiated Teaching](differentiated_teaching.md)
+- [Manage poor performers by increasing practice and exposure, providing positive rather than negative feedback, and moving students back a step on the teaching continuum to reduce complexity](remediation-strategies-poor-performers-scalpel.md)
 
 ## Examples
 -

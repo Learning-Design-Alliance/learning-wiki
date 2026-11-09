@@ -70,3 +70,4 @@ The review lists OSCE limitations: students may narrow preparation to tested sce
 - [OSCE and DOPS represent the gold standard for assessing student ultrasound competence according to current research](osce-dops-gold-standard-ultrasound-assessment.md) — related
 - [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — related
 - [Efforts to eradicate implicit bias with OSCE training have been unsuccessful](implicit-bias-eradication-osce-training-unsuccessful.md) — related
+- [All surveyed podiatry programs assess manual clinical skills practically, with every program using an OSCE or patient examination and several using competency checklists or ongoing clinical sign-off](practical-assessment-osce-competency-checklists.md) — related

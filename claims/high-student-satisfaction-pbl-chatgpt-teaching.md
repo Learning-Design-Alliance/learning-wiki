@@ -49,3 +49,4 @@ Self-report survey with six questions completed only by students in the PBL-Chat
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
 - [Most students were satisfied with the SGLM process and wanted it continued, but three reported dissatisfaction tied to time pressure and material difficulties](sglm-satisfaction-continuation-mixed.md) — related
+- [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related

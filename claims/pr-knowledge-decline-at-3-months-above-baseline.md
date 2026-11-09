@@ -81,3 +81,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [A case-based e-learning course on patient safety significantly increased medical students' technical knowledge, and the gains persisted one year later](elpas-knowledge-gains-retained-one-year.md) — related
 - [PHTLS training significantly improved simulated trauma team performance scores, with a slight decline one year later that remained above baseline](phtls-training-improved-team-performance-scores.md) — related
 - [Knowledge scores decline significantly but slightly between the immediate test and the two-month retention test in both the Virtual Patient and lecture groups](knowledge-decline-over-time-both-formats.md) — related
+- [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related

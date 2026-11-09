@@ -47,7 +47,8 @@ A laboratory paradigm in which an action sequence (e.g., tennis serves) is filme
 - [Annotated videodisc authoring template (Marario)](annotated-videodisc-authoring-template.md)
 
 ## Examples
--
+
+- [Design anticipation training around how the importance of cues evolves over the unfolding action](../strategies/anticipation-training-cue-evolution-design.md)
 
 ## Key Sources
 - Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267

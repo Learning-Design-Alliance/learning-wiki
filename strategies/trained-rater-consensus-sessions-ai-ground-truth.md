@@ -50,6 +50,7 @@ The article recommends that, given the need for valid skill ratings in AI develo
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 - [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
 - [Adopt a modified GESEA-based scoring system for multidirectional suturing assessment](modified-gesea-scoring-multidirectional-suturing.md)
+- [Validate the stepwise assessment tool by having blinded experts rate endoscopic videos of resident and expert cases step by step using GEARS](blinded-video-rating-gears-validation-strategy.md)
 
 ## Examples
 -

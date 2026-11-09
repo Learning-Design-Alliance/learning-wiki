@@ -68,3 +68,4 @@ The review's discussion of metric-dependent learning curve profiles, illustrated
 - [Methods and terminology used to define the point at which the robot-assisted learning curve is overcome are inconsistent and often lack statistical validation](inconsistent-thresholds-terminology-learning-curve-overcome.md)
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Learning curve estimates in robot-assisted surgery vary substantially between studies of the same procedure and are subject to considerable uncertainty](robotic-learning-curve-estimates-heterogeneous-uncertain.md) — related
+- [Bayesian reanalysis shows strong evidence for condition differences on performance metrics and evidence for the null on safety metrics](bayes-factors-performance-strong-safety-null.md) — related

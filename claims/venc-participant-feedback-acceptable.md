@@ -52,3 +52,4 @@ Six-month follow-up survey on a 1-to-5 Likert scale completed by participants in
 - [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — related
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [Users of Visual Clot report high acceptance: feeling better prepared, easy to learn, and willingness to use it clinically](visual-clot-high-user-acceptance-ratings.md) — related
+- [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related

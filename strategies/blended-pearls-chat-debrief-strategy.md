@@ -72,6 +72,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 - [Use a structured three-phase debriefing after each resuscitation scenario, including reaction, advocacy-inquiry, and generalization phases](three-phase-debriefing-shock-simulation-strategy.md)
+- [Include debriefing sessions run by qualified facilitators in team training to stimulate reflective learning](debriefing-qualified-facilitators-team-training-strategy.md)
 
 ## Examples
 -

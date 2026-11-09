@@ -51,3 +51,4 @@ Thematic analysis of 12 mentor interviews. Mentors described simulation as more 
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related
 - [Adequate stimulation in live deliveries was high at baseline and did not change significantly with training](live-delivery-stimulation-high-baseline-no-change.md) — related
+- [Hospital staff in EOL simulation workshops recurrently reported lack of training, knowledge and time, technology overuse, uncertainty, and poor communication and teamwork skills](eol-workshop-recurring-barrier-themes.md) — related

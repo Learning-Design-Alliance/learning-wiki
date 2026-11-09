@@ -54,3 +54,4 @@ Psychometric analysis of two pilot exams (94 questions). Cronbach's alpha ranged
 - [Expert panels and 31 experienced physics teachers rated the software favourably, with reliability of Cronbach's alpha .843 across 24 items](expert-evaluation-motion-vector-software-reliability.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — related
+- [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related

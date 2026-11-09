@@ -51,3 +51,4 @@ Descriptive statistics from the Student Outcome Survey (19 items, 5-point Likert
 - [General self-efficacy and satisfaction with e-learning jointly predict perceived academic performance among nursing students in synchronous virtual learning](self-efficacy-elearning-satisfaction-predict-perceived-academic-performance-nursing.md) — related
 - [Instructor characteristics significantly predict e-learning satisfaction (β = 0.221), with timely answers and enthusiasm rated highest (~4.2)](instructor-characteristics-predict-satisfaction.md) — related
 - [Among the four NMP-Q constructs, not being able to communicate scored highest and not being able to access information lowest](unable-to-communicate-highest-nmpq-construct.md) — related
+- [Program directors' perceptions of e-learning effectiveness are moderately positive and lowest for teaching interpersonal skills](pd-perceptions-elearning-moderate-lowest-interpersonal-skills.md) — related

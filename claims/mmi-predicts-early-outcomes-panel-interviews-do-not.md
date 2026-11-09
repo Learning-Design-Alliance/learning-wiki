@@ -69,3 +69,4 @@ Random-effects meta-analysis of panel interview studies (12 articles, 20 effect 
 - [Situational judgement tests show a statistically significant but negligible-magnitude effect on early program academic results (d=0.170), while personality test evidence was insufficient for meta-analysis](sjt-small-significant-early-academic-effect-personality-insufficient.md) — related
 - [A smaller share of the simulation-based MMI cohort failed to progress on time academically (6.4%) than of the two prior panel-interview cohorts (8.0% and 10.1%)](mmi-simulation-cohort-on-time-progression.md) — related
 - [A PA cohort admitted via simulation-based MMI experienced zero major professionalism events in the didactic year, versus 4.8% and 5.5% in two prior panel-interview cohorts](mmi-simulation-cohort-zero-major-professionalism-events.md) — related
+- [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related

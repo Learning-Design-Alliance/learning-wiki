@@ -65,3 +65,4 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Flexible e-learning video teaching raises medical students' confidence in performing funduscopic examination more than a face-to-face lecture](elearning-video-raises-fundus-confidence.md) — related
 - [Blended learning is as effective as face-to-face lecture and e-learning alone for acquiring practical local anaesthesia skills](blended-equal-practical-skills-local-anaesthesia.md) — related
 - [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related
+- [Repeated testing added to a blended learning course significantly improves risk estimation and communication achievement in medical students (d = .94)](repeated-testing-improves-re-c-achievement-blended.md) — related

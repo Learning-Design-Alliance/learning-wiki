@@ -50,3 +50,4 @@ Multiple-choice interest item in Table 3 of the 97-respondent survey; etiology w
 - [Professional-degree postgraduates report more osteoporosis instruction and training than academic-degree postgraduates](professional-postgraduates-more-osteoporosis-training.md) — related
 - [Learning channels for osteoporosis differ by degree track: academic students prefer journals, professional students prefer the internet](osteoporosis-learning-channels-differ-by-degree-track.md) — related
 - [Postgraduates show deficient knowledge of osteoporosis epidemiology, with no difference between degree tracks](osteoporosis-epidemiology-knowledge-deficit.md) — related
+- [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related

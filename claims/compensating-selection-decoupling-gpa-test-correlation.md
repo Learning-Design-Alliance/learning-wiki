@@ -50,3 +50,4 @@ Correlational analysis comparing incumbents (admitted students) with all test-ta
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
 - [IC-MD scores are independent of cognitive admission criteria (TMS r = .01; GPA r = .14), supporting divergent validity](ic-md-divergent-validity-cognitive-criteria.md) — related
 - [Casper shows weak but significant correlations with cognitive admission criteria including Abitur grade, TMS, and HAM-Nat logical reasoning, but not with science knowledge or arithmetic subtests](casper-german-pilot-discriminant-validity-cognitive.md) — related
+- [Bachelor's GPA and MCQ exam results are positively correlated, supporting the accuracy of the GPA admission criterion](bachelors-gpa-mcq-positive-correlation.md) — related

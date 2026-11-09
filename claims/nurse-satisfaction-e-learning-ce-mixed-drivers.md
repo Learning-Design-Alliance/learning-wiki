@@ -74,3 +74,4 @@ Same narrative synthesis of reaction outcomes. The review reports dissatisfactio
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — a narrower finding that bears on this claim
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — related
+- [Students showed a trend to associate topic difficulty with preferring the face-to-face format](topic-difficulty-trend-face-to-face-preference.md) — related

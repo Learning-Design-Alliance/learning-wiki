@@ -70,3 +70,4 @@ Same within-year OLS regression models on the pooled multi-cohort sample. Varian
 - [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — a broader claim this one bears on
 - [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](engagement-and-behavior-context-regulation-incremental-validity.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
+- [Five ASSIST subscales predict GPA, with 'achieving' the strongest positive and 'fear of failure' the strongest negative predictor, and the full model explains 9.6% of GPA variance](assist-subscales-predict-ot-gpa.md) — related

@@ -48,3 +48,4 @@ Mann-Whitney comparisons of subscale sums by gender in the before-and-after ques
 - [Simulation training effects are mixed across subscales: summed motivation rises, summed expectation falls, and interest shows no significant change](simulation-subscale-sums-mixed-direction.md) — related
 - [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
 - [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — related
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related

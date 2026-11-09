@@ -51,3 +51,4 @@ Findings from the follow-on study regarding teachers who declined participation.
 - [Teachers with ownership adapted the VCL easily while teachers lacking ownership reduced the problem to a cookbook approach](vcl-ownership-versus-cookbook-approach.md) — related
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](vcl-removes-physicality-raises-cognition.md) — related
 - [Teachers used the VCL in ways that re-enforced their current practice, whether student-centred or teacher-centred](vcl-use-reinforced-current-practice.md) — related
+- [Lack of fixed time constraints and pressure was an important reason some students discontinued the online ECG course prematurely](lack-of-time-pressure-online-course-discontinuation.md) — related

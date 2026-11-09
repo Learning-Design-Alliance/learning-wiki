@@ -52,3 +52,4 @@ Content analysis of semi-structured interviews with the 18 experimental-group st
 - [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related
 - [Students reported learning to construct arguments and design experiments during the activities](students-learned-arguments-experiment-design.md) — related
 - [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related
+- [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related

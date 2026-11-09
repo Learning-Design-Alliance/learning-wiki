@@ -91,3 +91,4 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — related
 - [Under Cohen's model, the effect of e-learning on academic achievement is interpreted as a statistically significant moderate positive effect](cohens-model-moderate-positive-e-learning-effect.md) — related
 - [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](seitla-evidence-blended-computer-large-effects.md) — related
+- [Risk competence scores rose from pre-test to post-test among students in the blended learning program (Cohen's d = 2.61)](blended-re-c-program-large-overall-gain.md) — related

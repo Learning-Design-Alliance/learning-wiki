@@ -66,3 +66,4 @@ Multivariable regression (Table 3) entering the significant unadjusted predictor
 - [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — a broader claim this one bears on
 - [Maternal depression at 33 months was not a significant mediator of the financial difficulty–ADHD association](maternal-depression-null-mediator-ses-adhd.md) — related
 - [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md) — related
+- [Socioeconomic status does not differ between families of children with ADHD using methylphenidate and those not taking medication](ses-similar-medicated-unmedicated-adhd-groups.md) — related

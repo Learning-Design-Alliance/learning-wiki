@@ -52,3 +52,4 @@ Trend analysis of oncologic quality indicators across learning-curve phases in t
 - [Lymph node dissection rates increased with surgical experience, while positive surgical margins and PSA recurrence did not differ significantly across learning phases](lnd-increases-psm-recurrence-stable-across-lrp-phases.md) — related
 - [Postoperative hospital stay and anastomotic fistula incidence decreased significantly from the preliminary to the proficient stage](laspme-postoperative-outcomes-improve-by-proficient-stage.md) — related
 - [Vocal cord palsy remained frequent even in the proficient stage, at 19.0%, despite overall learning-curve improvement](laspme-vocal-cord-palsy-persists-in-proficient-stage.md) — related
+- [Panel feedback led to removal of 4 sub-steps and addition of 2 skip patterns covering anterior versus posterior prostate approach and timing of lymph node dissection](rarp-inventory-skip-patterns.md) — related
