@@ -52,3 +52,4 @@ Qualitative thematic analysis with content analysis of teacher interviews and fi
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [The main barriers to SBMT implementation are lack of experts, lack of school director support, lack of organisation and lack of teaching materials](barriers-sbmt-implementation-italian-residencies.md) — related
+- [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related

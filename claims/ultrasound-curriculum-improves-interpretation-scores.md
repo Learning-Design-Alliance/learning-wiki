@@ -50,3 +50,4 @@ Retrospective observational pre–post analysis of 250 residents using linear re
 - [Post-training scores homogenize across training stages that differed significantly before training](ultrasound-curriculum-homogenizes-scores-across-stages.md) — related
 - [Image interpretation time fell significantly from pre-test to post-test across all residents in one uncontrolled pre-post study](ultrasound-curriculum-reduces-interpretation-time.md) — related
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
+- [Senior residents scored an average of 76% on a multiple-choice POC ultrasound image interpretation exam](senior-residents-76-percent-image-interpretation.md) — related

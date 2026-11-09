@@ -60,3 +60,4 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [The feedback group takes significantly longer total operative time than the control group](feedback-group-longer-operative-time.md) — related
 - [The review reports that trainee participation in thyroid and parathyroid surgery was not associated with increased complication rates, though operative time was longer](trainee-participation-no-complication-increase.md) — related
 - [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related
+- [Postoperative hemorrhage rates are similar for trainees and consultants after sutureless thyroid surgery](trainee-consultant-postoperative-hemorrhage-similar.md) — related

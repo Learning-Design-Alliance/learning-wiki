@@ -54,3 +54,4 @@ Preliminary Rasch analysis of the four tests. The article also reports "the high
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
+- [Local dependence was observed among SMCI scale items, suggesting possible multidimensionality](smci-local-dependence-multidimensionality.md) — reports the opposite

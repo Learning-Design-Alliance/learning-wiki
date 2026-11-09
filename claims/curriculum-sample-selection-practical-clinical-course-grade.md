@@ -51,3 +51,4 @@ Analysis of the year-3 practical clinical course grade in the 2010–2011 cohort
 - [Selected students more often obtain all 60 first-year credits than lottery-admitted students, unadjusted and adjusted for pu-GPA](curriculum-sample-selection-60-credits-year-one.md) — related
 - [Drop-out is lower among curriculum sample selected students than among lottery-admitted students](curriculum-sample-selection-lower-dropout.md) — related
 - [The additional value of curriculum sample selection over pu-GPA is strongest for applicants in lower pu-GPA categories](selection-additional-value-strongest-lower-pu-gpa.md) — related
+- [Probability of passing the third-year OSCE does not significantly differ between non-cognitive selected, cognitive selected and lottery-admitted students](osce-pass-no-difference-admission-groups.md) — related

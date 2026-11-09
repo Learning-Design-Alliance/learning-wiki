@@ -47,3 +47,4 @@ Observation from the Results section of the project report on the seminar's onli
 
 ## Related Claims
 - [The online ICM version of the seminar produced evaluation results at least as good as the previous face-to-face course, with students especially emphasizing Kahoot!](online-icm-evaluation-not-worse-than-face-to-face.md) — related
+- [ICM implementation in health professions courses is associated with significantly improved exam results and high satisfaction compared with traditionally instructed prior semesters](icm-improved-exam-results-health-professions.md) — related

@@ -58,3 +58,4 @@ Cross-sectional logistic regression of unhealthy food and beverage intake (more 
 - [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — related
 - [The dietary pattern of physically active adolescents is mixed: they report lower daily fruit or fruit juice and legume consumption yet higher daily sweets consumption, alongside the healthier items](pa-diet-pattern-mixed-exceptions.md) — related
+- [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related

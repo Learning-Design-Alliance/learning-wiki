@@ -54,6 +54,7 @@ The article's quality improvement program pairs individual VR simulator task-tra
 - [Advocate regular simulation training for the whole delivery team, including senior staff](whole-team-regular-simulation-training.md)
 - [The Golden Minute Campaign: a multifaceted data-guided QI/simulation intervention combining trained local-champion facilitators, monthly scenario team training, clinical debriefings, and clinical data feedback loops](golden-minute-campaign-qi-simulation-intervention.md)
 - [Implement simulation-based team training as a nationwide programme open to all stroke centres, inviting whole logistics-pathway teams](nationwide-simulation-training-rollout-strategy.md)
+- [Maintain qualifications through stroke-specific continuing education, quality assurance review, and minimum outcome benchmarks](maintenance-qualifications-cme-qa-benchmarks.md)
 
 ## Examples
 -

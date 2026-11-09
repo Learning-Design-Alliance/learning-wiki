@@ -50,3 +50,4 @@ Theoretical argument from the alpha formula: since error variance depends on the
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — a narrower finding that bears on this claim
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
+- [Number-right scoring yields substantially lower progress test reliability than formula scoring](nr-scoring-lower-reliability-than-fs-progress-tests.md) — related

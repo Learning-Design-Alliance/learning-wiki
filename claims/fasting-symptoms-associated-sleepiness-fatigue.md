@@ -52,3 +52,4 @@ Group comparisons in the same survey (Tables 3–5): headache was associated wit
 - [Higher physical and mental fatigue are associated with lower odds of high academic performance in fasting medical students](fatigue-negatively-associated-academic-performance-ramadan.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [First-year students report higher mental fatigue than fourth-year students during Ramadan fasting](first-year-higher-mental-fatigue-ramadan.md) — related
+- [Educated-ward patients reported lower anxiety, better satisfaction, and better sleep quality during bowel preparation](nurse-education-improves-patient-subjective-feelings.md) — related

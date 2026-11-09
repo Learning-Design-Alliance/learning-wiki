@@ -75,3 +75,4 @@ Post-test results from the same RCT: "the average number of correct answers was 
 - [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
 - [Knowledge of postpartum hemorrhage correlates positively with clinical reasoning on postpartum hemorrhage](knowledge-correlates-with-clinical-reasoning-pph.md) — related
 - [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related
+- [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related

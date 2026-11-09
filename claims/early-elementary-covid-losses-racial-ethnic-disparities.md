@@ -73,3 +73,4 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
 - [Hispanic origin predicted lower spring NWEA mathematics and reading scores](barr-rct-hispanic-origin-achievement-gap.md) — related
 - [Non-white biosciences students in the UK gained higher-class degrees at rates between 9.8% and 21.4% lower than white students in 2019/2020](biosciences-ethnicity-awarding-gap-uk-2019-20.md) — related
+- [Achievement gaps (gender, racial, class year, math background) were smaller at the end of the course than before it, based on a pre-test/post-test comparison within the course](course-tended-to-reduce-achievement-gaps.md) — related

@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (59 for, 35 mixed, 4 against) · 79 studies (40 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 15 of 79 report an effect size · 90 claims rest on one study
+> **Evidence** · 100 claims (59 for, 37 mixed, 4 against) · 80 studies (41 causal, 11 quant-synthesis, 9 review, 8 associational, 6 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 16 of 80 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Critical thinking CAT scores rose significantly from pre-test to post-test in flipped intermediate and upper-level life science courses using active learning, in one uncontrolled pre-post study](../claims/flipped-active-learning-cat-gains-upper-level.md) [+M] — attached 2026-11-09 from Styers M. L. et al. (2018), which proposed "Disperse even small amounts of active learning throughout introductory lectures, and target upper-level electives for flipped active learning, to promote critical thinking"; tests this page's relationship.
 - [Active learning eliminates the performance gap between URM and non-URM students in course grades and knowledge-assessment gains](../claims/active-learning-closes-urm-performance-gap.md) [+W] — attached 2026-11-09 from Ballen C. J. et al. (2017), which proposed "Active-learning course redesign combining preparation, low-risk quizzing, structured group work, response systems, and redistributed grading"; tests this page's relationship.
 - [Active-learning pedagogy increases science self-efficacy equally for all demographic groups](../claims/active-learning-raises-self-efficacy-all-groups.md) [+W] — attached 2026-11-09 from Ballen C. J. et al. (2017), which proposed "Incorporate active learning into curricula as one pathway to a diversified STEM workforce, since it benefits all students and disproportionately benefits URM students".
+- [Students in both a graphic-organizer/worksheet section and a clicker-case-study section of introductory biology showed significant conceptual learning gains, with no significant between-section difference](../claims/similar-learning-gains-graphic-organizers-versus-clicker-cases.md) [~M] — attached 2026-11-09 from Cleveland Lacy M. et al. (2017), which proposed "Choose active-learning strategies compatible with the instructor's own training, teaching style, and comfort rather than seeking a single best strategy".
+- [Instructors with different educational backgrounds (science education vs. biology PhDs) effectively implemented active-learning strategies with similar student learning and motivation outcomes](../claims/instructors-different-backgrounds-implement-active-learning.md) [~M] — attached 2026-11-09 from Cleveland Lacy M. et al. (2017), which proposed "Choose active-learning strategies compatible with the instructor's own training, teaching style, and comfort rather than seeking a single best strategy".
 
 ## Objective and learner-valued goal
 

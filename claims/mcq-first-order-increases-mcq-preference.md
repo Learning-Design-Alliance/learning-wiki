@@ -48,3 +48,4 @@ Survey-based comparison between crossover arms: Arm A students who completed the
 - [Students strongly preferred note-taking over MCQ creation as a learning-support method when forced to choose one](students-prefer-note-taking-over-mcq.md) — related
 - [Students' stated reasons for preferring each method clustered into distinct qualitative themes: NT as effective and student-friendly, MCQ creation as interesting, creative and exam-focused](qualitative-themes-nt-mcq-preferences.md) — related
 - [Structured note-taking and MCQ creation as post-seminar homework produced no statistically significant difference in first-year physiotherapy students' summative exam performance](nt-vs-mcq-no-exam-performance-difference.md) — related
+- [After taking a computer-based exam, half of students prefer paper-based exams and about a quarter prefer computer-based exams](exam-mode-preference-after-first-cbe.md) — related

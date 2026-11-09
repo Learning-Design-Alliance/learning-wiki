@@ -78,3 +78,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Integrated training (simulation plus critical thinking strategies) yields higher OSCE performance than simulation-only training in nursing students](integrated-training-higher-osce-performance.md) — related
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — a narrower finding that bears on this claim
 - [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related
+- [Full hands-on participants rated the educational environment higher than lecture-only observers on the DREEM (P=0.038)](abcs3-full-participants-higher-dreem-than-observers.md) — related

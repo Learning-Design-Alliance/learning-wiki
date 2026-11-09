@@ -119,3 +119,6 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Students experienced stress during simulation sessions from being observed and evaluated, and some expected stress to decline with repetition](sbe-observation-stress-dental-students.md) — related
 - [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related
 - [Controlling instructional practices undermine students' motivation, whereas supportive practices are associated with better adjustment and engagement](controlling-practices-undermine-motivation.md) — a broader claim this one bears on
+- [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related
+- [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
+- [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related

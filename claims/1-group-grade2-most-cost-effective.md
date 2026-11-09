@@ -46,3 +46,4 @@ Cost-effectiveness analysis of the trial arms; costs comprised teacher salaries,
 
 ## Related Claims
 - [In grade 8, 1-group with coaching is the most effective arm (LATE = 0.57 SD) while the other arms show small insignificant effects](grade8-arm-effects-1-group-coaching-most-effective.md) — related
+- [Total intervention costs per participant were an estimated €53, comprising tailored feedback software costs of €28 and participant time valued at €25.](alcoholic-alert-intervention-costs.md) — related

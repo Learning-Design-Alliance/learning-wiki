@@ -60,3 +60,4 @@ Baseline task of the controlled trial: before the TLH simulation, all participan
 - [Novice medical students' product quality, technique (GRS), and speed rose significantly from pre-test to post-test across all six assessed knot-tying and suturing skills after a self-directed sequential CBVT course, in one uncontrolled pre-post study](cbvt-improves-pqs-grs-speed-six-skills.md) — related
 - [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
 - [Resident experience level predicted training assessment scores but not final assessment scores after simulation training](experience-predicts-training-not-final-scores.md) — related
+- [Expert surgeons perform a surgeon's knot with fewer total gestures than novice surgeons](experts-fewer-gestures-surgeons-knot.md) — related

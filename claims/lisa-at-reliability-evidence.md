@@ -64,3 +64,4 @@ Internal-structure analysis of the first simulation round (33 participants, two 
 - [The BSEC demonstrates good reliability: subscale Cronbach's alphas of .79–.90, total alpha of .82, and test-retest ICC of .92](bsec-reliability-alpha-icc.md) — related
 - [The ECRS shows 84% interrater agreement, an ICC of .527, and internal consistency of Cronbach alpha .948](ecrs-reliability-agreement-icc-alpha.md) — related
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
+- [The SAFT shows excellent test-retest and inter-rater reliability for total scores](saft-excellent-reliability.md) — related

@@ -49,3 +49,4 @@ Observational finding from Study One's song activity in which the robot used its
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related
 - [The robot's physical position structured the learning space: its front hosted on-task activity while its back provided a peripheral space for momentary off-task behavior, seemingly allowing children to regulate their own engagement](robot-front-back-engagement-regulation.md) — related
+- [Pupils enjoyed moving during VFT sessions, using body movements to answer questions, and sharing the experience with peers](pupils-enjoy-movement-and-peer-sharing-vfts.md) — related

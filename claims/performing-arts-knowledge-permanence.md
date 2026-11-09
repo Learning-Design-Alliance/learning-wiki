@@ -84,3 +84,4 @@ Between-group comparison of permanence-test means (experimental 74.74, control 6
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
+- [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — related

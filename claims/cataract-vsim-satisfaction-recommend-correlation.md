@@ -50,3 +50,4 @@ Exploratory Spearman's rank correlation analysis in the study of 31 students fou
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
 - [Ratings of user-friendliness, input identification, and interaction correlate strongly and positively with overall learning efficacy and experience ratings](usability-aspects-correlate-with-efficacy-experience.md) — related
 - [Satisfaction factors correlate: online learning satisfaction correlates with classroom learning, learning effect, but not learning difficulty](satisfaction-factor-correlations-bl.md) — related
+- [Willingness to recommend the course and perceived benefit correlated positively with overall DREEM scores](abcs3-recommendation-correlates-with-dreem.md) — related

@@ -107,3 +107,4 @@ The authors' analysis of the friendship-bias discussion found the term Weak Pass
 - [Higher-performing medical students found self-assessment beneficial while lower-performing students lacked confidence to self-assess](self-assessment-confidence-varies-by-performance-level.md) — related
 - [A 'weak pass' peer feedback rating triggered negative emotions in lower-performing students followed by self-motivation to work harder](weak-pass-rating-emotional-trajectory-motivation.md) — related
 - [Student peer-to-peer feedback is perceived as beneficial but raises concerns about honesty and accuracy](peer-feedback-benefits-and-concerns.md) — related
+- [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related

@@ -48,3 +48,4 @@ Focus-group themes formulated four months into intern year about what residents 
 - [Interns framed good patient care as patient advocacy, responsiveness to patient and family needs and concerns, and cognizance of time and waits](simulation-lessons-advocacy-responsiveness-time.md) — related
 - [EM interns who experienced a patient experience simulation reported firsthand physical discomfort, emotional stress, confusion, and poor communication as patients or family members in the ED](interns-experienced-ed-discomfort-stress-confusion.md) — related
 - [Interns identified communication delivery skills, especially making eye contact with immobilized patients, as lessons from the patient experience simulation](simulation-lessons-eye-contact-immobilized-patients.md) — related
+- [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related

@@ -47,3 +47,4 @@ Exploratory outcome using a 22-item Intrinsic Motivation Inventory after the tra
 ## Related Claims
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related
+- [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related

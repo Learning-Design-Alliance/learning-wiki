@@ -50,3 +50,4 @@ Pre-post survey analysis of the same intern cohort using t tests on 5-point Like
 - [Self-reflection prompts increase observed interpersonal consultation skills, especially confidence in delivering consultations (medium effect)](self-reflection-raises-interpersonal-skills-and-delivery-confidence.md) — related
 - [All respondents reported confidence in performing virtual consultations after the experiential learning phase](vc-module-practical-phase-confidence.md) — related
 - [The assessment did not measure improvement over time because fewer than three observations per intern were collected](no-repeated-observation-improvement-measured.md) — related
+- [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related

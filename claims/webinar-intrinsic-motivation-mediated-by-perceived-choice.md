@@ -75,3 +75,4 @@ Mediation analysis across the whole sample (PROCESS macro, OLS regression with b
 - [Synchronous discussions foster social presence while asynchronous communication supports higher levels of thinking in online courses](synchronous-social-presence-asynchronous-higher-thinking.md) — related
 - [Control group reported higher interest/enjoyment and perceived choice than the camera group](control-group-higher-interest-and-choice.md) — related
 - [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
+- [Intrinsic motivation one week after training does not differ between in situ and off-site simulation participants](iss-oss-motivation-no-difference.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 548 claims (350 for, 173 mixed, 25 against) · 351 studies (153 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 64 of 351 report an effect size · 543 claims rest on one study
+> **Evidence** · 552 claims (353 for, 174 mixed, 25 against) · 354 studies (155 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 354 report an effect size · 547 claims rest on one study
 
 ## Conditional relationship
 
@@ -546,6 +546,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](../claims/realism-repetition-valued-pph-simulation.md) [+W] — attached 2026-11-09 from Egenberg Signe et al. (2017), which proposed "Multi-professional simulation design combining team training, skills training, realistic repeated scenarios, and debriefing with a systems approach to human error".
 - [Debriefing and reflective learning were perceived to change mindsets and transfer to clinical practice, including new ward morning reports](../claims/debriefing-reflection-transfer-pph-training.md) [+W] — attached 2026-11-09 from Egenberg Signe et al. (2017), which proposed "Multi-professional simulation design combining team training, skills training, realistic repeated scenarios, and debriefing with a systems approach to human error".
 - [In one uncontrolled pre-post study, post-birth whole blood transfusion rates fell from 3.2% to 1.7% after multi-professional, scenario-based PPH training (47% reduction)](../claims/scenario-pph-training-reduces-transfusion-rates.md) [+W] — attached 2026-11-09 from Egenberg et al. (2017), which proposed "Train the entire maternity staff together, including all professional cadres, when preparing teams for obstetric emergencies"; tests this page's relationship.
+- [Low-fidelity airway training models can provide the same training results as high-fidelity counterparts at lower cost, according to studies cited by the authors](../claims/low-fidelity-models-match-high-fidelity-results.md) [~W] — attached 2026-11-09 from Yang Dong et al. (2016), which proposed "Match simulator fidelity and training modality to learners' needs and local practical constraints rather than defaulting to high fidelity".
+- [Simulation-based TVS training before clinical training yields higher clinical performance on real patients 2 months into residency than clinical training alone](../claims/simulation-tvs-training-sustained-clinical-performance.md) [+W] — attached 2026-11-09 from Tolsgaard M G et al. (2015), which proposed "Provide proficiency-based simulation training to an expert level before clinical training in operator-dependent skills"; tests this page's relationship.
+- [A far greater proportion of simulation-trained residents passed a pre-established OSAUS pass/fail level than clinically trained controls](../claims/simulation-tvs-training-pass-fail-proportion.md) [+W] — attached 2026-11-09 from Tolsgaard M G et al. (2015), which proposed "Provide proficiency-based simulation training to an expert level before clinical training in operator-dependent skills"; tests this page's relationship.
+- [Novices can be trained to a basic proficiency level of lung isolation skills on a human airway anatomy simulator, reaching success rates similar to experts](../claims/novices-trained-to-basic-lung-isolation-proficiency-simulator.md) [+W] — attached 2026-11-09 from Latif Rana K. et al. (2016), which proposed "Train novices to basic proficiency on a simulator before performing advanced airway procedures on patients".
 
 ## Objective and learner-valued goal
 

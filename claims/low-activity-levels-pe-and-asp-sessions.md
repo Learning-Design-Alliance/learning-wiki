@@ -68,3 +68,4 @@ Review of 25 diverse after-school programs in the United States, as reported in 
 - [Fitness infusion is the most effective strategy for increasing MVPA during physical education lessons, and prior PE interventions raised MVPA by 24% on average](fitness-infusion-most-effective-mvpa-strategy.md) — related
 - [Regular twice-weekly 40-minute physical education alone lacked sufficient intensity to enhance cardiovascular endurance](regular-pe-insufficient-intensity-cardiovascular-endurance.md) — related
 - [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — related
+- [The specialist PE intervention did not increase the odds of children meeting step-per-day or daily MVPA recommendations](specialist-pe-no-odds-meeting-recommendations-look.md) — related

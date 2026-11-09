@@ -50,3 +50,4 @@ Deductive qualitative descriptive coding of 878 written reviews linked to low (�
 - [Patient comments frequently cite time-management and practice-management problems reflecting the Leader role (45.3%)](leader-role-time-management-comments.md) — a narrower finding that bears on this claim
 - [Accessing unstructured critical patient reviews could negatively affect physician confidence and self-worth](negative-consequences-unstructured-critical-feedback.md) — related
 - [Approximately one-fifth of open-ended comments in both question formats coded to intrinsic CanMEDS roles, with responses mapping across all six roles](canmeds-intrinsic-roles-coded-both-question-formats.md) — related
+- [The Chinese doctors' competencies framework is similar to the ACGME and CanMEDS frameworks](chinese-framework-similar-acgme-canmeds.md) — related

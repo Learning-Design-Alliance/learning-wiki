@@ -49,3 +49,4 @@ Synthesis of four interventions stimulating practising professionals and student
 - [Residents reported no perceived dietary change after the course, yet reported fruit and vegetable intake increased post-course](diet-change-contradiction-fruit-veg-increase.md) — related
 - [Interventions that only aimed to improve nutrition knowledge were less likely to change healthcare professionals' nutrition care practice behaviour](knowledge-only-nutrition-training-insufficient-practice-change.md) — related
 - [Seeing superiors model nutrition care triggered confidence, acceptance and credibility that moved healthcare professionals toward changing their nutrition practice](role-modelling-nutrition-care-mechanism.md) — related
+- [Patients cared for by educated nurses showed superior compliance with preparation and diet instructions](nurse-education-improves-patient-compliance.md) — related

@@ -52,6 +52,7 @@ The article recommends implementing JAS through student-centered learning models
 - [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 - [Home Living Center Role Play](home_living_center_role_play.md)
+- [Use active-learning techniques throughout — dice-rolling, think–pair–share, and role-playing — to elicit and combat probability misconceptions](dice-rolling-think-pair-share-roleplay-strategy.md)
 
 ## Examples
 -

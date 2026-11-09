@@ -69,3 +69,4 @@ Pairwise group comparisons breaking down the group × construction interaction: 
 - Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct — related
 - Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used — related
 - [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related
+- [The oldest birth-quarter group (G1) scores lower than the second group, reversing the expected age advantage](g1-reverse-relative-age-effect.md) — related

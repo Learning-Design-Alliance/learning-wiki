@@ -47,3 +47,4 @@ The editorial presents the squib's argument as a theoretical position: practices
 ## Related Claims
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
 - [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — related
+- [Social media heralds a more participatory and collaborative approach to knowledge development and can support virtual communities of practice](social-media-participatory-knowledge-development.md) — related

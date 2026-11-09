@@ -49,3 +49,4 @@ Manikin study comparing 48 medical students with 32 PA students on compression a
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related
+- [Rescuer weight category and male gender are each strongly, positively correlated with chest compression depth](rescuer-weight-gender-correlated-compression-depth.md) — related

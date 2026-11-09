@@ -57,3 +57,4 @@ The report's review of the features-of-effective-coaching literature states ther
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
 - [The in-person RCDP session with an ophthalmologist was the most valued curriculum component, while asynchronous materials were least valued](sbml-slitalmp-in-person-session-most-valued.md) — related
 - [Blended learning combining e-learning with face-to-face methods is suggested to support self-management support skills development](blended-learning-suggested-for-sms-skills.md) — related
+- [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related

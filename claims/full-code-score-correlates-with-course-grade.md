@@ -50,3 +50,4 @@ Retrospective observational analysis of platform scoring data and university cou
 - [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related
 - [Patterns of Full Code use were similar across students of different academic performance](full-code-use-patterns-similar-across-performance.md) — related
 - [Voluntary use of the Full Code platform was highly feasible, with 590 of 1452 enrolled students (40.6%) participating](full-code-voluntary-use-feasible-590-students.md) — related
+- [Clinical reasoning performance in the FPE is positively but weakly correlated with average academic performance](fpe-weakly-correlated-with-academic-performance.md) — related

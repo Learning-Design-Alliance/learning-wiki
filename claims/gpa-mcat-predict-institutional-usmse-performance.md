@@ -53,3 +53,4 @@ Observational institution-level regression across 89 US allopathic medical schoo
 - [Seven institutional variables correlate significantly with both Step 1 and Step 2 scores, while total enrollment does not](institutional-variables-correlate-usle-scores.md) — related
 - [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
 - [MSM students' Step 1 scores exceeded those predicted from their MCAT scores by 22.6 points on average](msm-step1-exceeds-mcat-prediction.md) — related
+- [Cumulative GPA, USMLE Step 1, USMLE Step 2 CK and MCAT scores were not predictive of self-directed learning readiness](gpa-usmle-mcat-not-predictive-sdlr.md) — related

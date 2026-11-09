@@ -47,3 +47,4 @@ Model fit evaluation in the SEM analysis of 165 nurses: the χ2 test was signifi
 ## Related Claims
 - [Safety control is positively associated with patient safety competency](safety-control-associated-patient-safety-competency.md) — related
 - [In a structural equation model, delirium knowledge, self-efficacy and clinical reasoning each show significant negative direct paths to delirium care difficulties](sem-direct-paths-to-delirium-care-difficulties.md) — related
+- [The extended TAM adoption model fit the survey data well by the reported goodness-of-fit statistics](extended-tam-sem-model-good-fit-statistics.md) — related

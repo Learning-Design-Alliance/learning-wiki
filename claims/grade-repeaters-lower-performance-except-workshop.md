@@ -52,3 +52,4 @@ Authors' interpretation of the age-by-group predicted performance results (Figur
 - [Students aged 25–29 years had higher odds of good academic performance than students aged 20–24 years](older-students-25-29-better-academic-performance-ethiopia.md) — related
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
 - [School-based PE interventions (doubling PE, teacher workshop, or both) did not improve overall academic performance in first-year high school students](pe-interventions-null-overall-academic-performance.md) — related
+- [Repeaters had more than double the odds of being selected compared with freshmen](repeaters-double-selection-odds.md) — related

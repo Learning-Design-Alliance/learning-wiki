@@ -126,3 +126,4 @@ Meta-analysis of 51 contrasts (28 purely online, 23 blended per the report's spl
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — a narrower finding that bears on this claim
 - [Replacing passive homework with interactive online preparation did not diminish the need for face-to-face meetings, contrary to expectations](face-to-face-need-not-diminished-by-blended-preparation.md) — a narrower finding that bears on this claim
 - [Perceived alignment between online and face-to-face components differed per module and was judged insufficient by some students](online-face-to-face-alignment-perceived-insufficient.md) — related
+- [Blended learning combining online and classroom phases leads to better results than exclusively online or exclusively classroom teaching (as reported by the review)](blended-learning-beats-pure-modes-review-report.md) — related

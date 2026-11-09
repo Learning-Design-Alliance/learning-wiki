@@ -55,6 +55,7 @@ The article recommends that schools deliver intervention programs targeting heal
 - [Avoid simplistic good/bad food narratives and weight-control-centered framing in school nutrition education to protect psychosocial well-being](avoid-weight-centered-good-bad-food-framing.md)
 - [Deliver experiential healthy-eating activities through flexible, hands-on sensory play with real food in informal settings](flexible-hands-on-sensory-activities-museum.md)
 - [School-based nutrition education, healthy food provision and smoking-prevention sessions to support adolescent achievement](school-nutrition-education-smoking-prevention-strategy.md)
+- [Support breakfast consumption and after-school physical activity programs to support student health and learning](breakfast-afterschool-programs-support-learning.md)
 
 ## Examples
 -

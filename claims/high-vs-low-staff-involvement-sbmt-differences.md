@@ -52,3 +52,4 @@ Fisher exact comparison of 5 high-involvement versus 8 low-involvement units (Ta
 - [Swiss pediatric SBMT is predominantly in-situ based, with most units conducting training in the actual clinical environment](swiss-pediatric-sbmt-predominantly-in-situ.md) — related
 - [Most Swiss pediatric SBMT is neither embedded in a larger educational curriculum nor formally evaluated by participants](sbmt-lacks-systematic-approach-and-evaluation.md) — related
 - [Two-thirds of Swiss pediatric hospitals offered SBMT in 2015, a marked increase from three institutions in 2009](two-thirds-swiss-pediatric-hospitals-sbmt-2015.md) — related
+- [Verification of failing learning activities differed significantly depending on the hospital and clinical practices unit where students trained](activity-verification-varies-by-hospital-unit.md) — related

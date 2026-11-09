@@ -91,3 +91,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Peer assessment is vulnerable to implicit bias influenced by status perceptions, with women and minoritized students receiving lower evaluations despite substantive contributions.](peer-assessment-implicit-bias-status-perceptions.md) — related
 - [International students earned significantly fewer exam points than the reference category in the regression model](international-students-lower-exam-points.md) — related
 - [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — a narrower finding that bears on this claim
+- [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](peer-assessment-effect-size-benchmarks.md) — related

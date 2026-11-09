@@ -49,3 +49,4 @@ Logistic regression on university records of the same 59-student ERP cohort. In-
 - [Students with first-year GPA below 7 obtain fewer credits within the extracurricular research programme than students with GPA ≥7](lower-gpa-fewer-erp-credits.md) — related
 - [Students with first-year GPA below 7 have significantly higher odds of dropping out of the extracurricular research programme than students with GPA ≥7](lower-gpa-higher-erp-dropout-odds.md) — related
 - [ERP students with first-year GPA below 7 are not inferior to students with GPA ≥7 on intrinsic motivation for research, perceptions of research, and curiosity](lower-gpa-not-inferior-research-motivation-curiosity.md) — related
+- [Probability of completing the Bachelor program in 3 years does not significantly differ between the admission groups](bachelor-completion-no-difference-admission-groups.md) — related

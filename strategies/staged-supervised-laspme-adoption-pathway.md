@@ -57,6 +57,7 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Maintain trainee exposure to open and reconstructive procedures using real cases, simulation-based and cadaveric education, and video libraries despite declining open case volume](maintain-open-reconstructive-exposure-simulation-cadaver-video.md)
 - [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
 - [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
+- [Use progressive, structured EVH training with gradual introduction of case complexity and vein length to reduce learner stress and vein damage](progressive-structured-evh-training-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Item difficulty analysis of the top 100 most answered questions per academic yea
 - [Item analysis found acceptable discriminatory quality in student-authored questions, with only two of 300 most-answered questions below the local r-pbis threshold](student-authored-question-quality-item-analysis.md) — related
 - [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related
 - [AI-generated examination questions showed significantly lower item discrimination than human-designed ones in two studies (0.35 vs 0.49; 0.28 vs 0.42)](ai-exam-lower-discrimination.md) — related
+- [Students examined in the second session of the academic year tended to perform better on difficulty than first-session students](session-effect-difficulty-paediatric-cba.md) — related

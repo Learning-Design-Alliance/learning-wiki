@@ -49,3 +49,4 @@ Repeated-measures ANOVA within-subjects contrasts in the randomised parallel-gro
 - [Six months after BLS training, the emotional stimulus and assessment groups show no statistically significant difference in chest-compression performance](six-month-retention-comparable-between-groups.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [The emotional stimulus video costs substantially less to produce than the announced practical assessment it replaces](emotional-stimulus-video-lower-cost-than-assessment.md) — related
+- [In an intention-to-treat analysis, lowering the bed and pre-positioning a step stool did not significantly increase mean chest compression depth compared to control](bed-lowering-step-stool-intervention-null-compression-depth.md) — related

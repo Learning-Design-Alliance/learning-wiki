@@ -53,3 +53,4 @@ Stepwise linear regression on self-report data from 189 participants, with engag
 - [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](ego-nfc-dropped-from-engagement-model.md) — related
 - [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](elaboration-intrinsic-goals-task-value-predict-epu.md) — related
 - [Greater use of the accompanying computer games was significantly associated with higher numeracy performance, but not with literacy impact, and teaching hours showed no association with impact for either programme](computer-games-associated-numeracy-impact.md) — related
+- [Game acceptability is not predicted by demographics, computer literacy or baseline Theory of Planned Behaviour variables](acceptability-not-predicted-by-demographics-tpb.md) — related

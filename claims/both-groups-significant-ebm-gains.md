@@ -61,3 +61,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [Medical students' overall knowledge test scores rose from the in-person to the e-learning semester in one single-group pre-post study](e-learning-overall-scores-higher-than-in-person.md) — related
 - [Among OR novices, theoretical knowledge test scores were higher after than at baseline in both lecture-based and game-based virtual training groups, based on within-group pre-test to post-test comparisons](both-training-methods-increase-knowledge-from-baseline.md) — related
 - [Risk competence scores rose from pre-test to post-test among students in the blended learning program (Cohen's d = 2.61)](blended-re-c-program-large-overall-gain.md) — related
+- [SAFT total scores increase significantly after an interactive educational intervention, with a moderate effect size](saft-responsive-to-change.md) — related

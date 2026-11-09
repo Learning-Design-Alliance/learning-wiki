@@ -61,6 +61,8 @@ To ensure skill retention beyond the initial course, the article's maintenance d
 - [Combine clinical simulation with complementary strategies and deliver it during hospitalization to prepare caregivers for discharge](simulation-plus-complementary-strategies-discharge-strategy.md)
 - [Implement periodic self-guided CPR training using high-fidelity manikins in every medical student's training](periodic-self-guided-hf-cpr-training-strategy.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
+- [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
 
 ## Examples
 -

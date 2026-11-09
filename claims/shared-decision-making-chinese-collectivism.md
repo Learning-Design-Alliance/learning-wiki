@@ -48,3 +48,4 @@ IPA interview study of nine Hong Kong clinicians. In the discussion the authors 
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
 - [Interdisciplinary communication between medical departments is perceived as essential, particularly in the ICU where multiple specialties cooperate](interdisciplinary-communication-icu-priority.md) — related
 - [Semi-structured interviews identified nurses' palliative care learning needs that informed the design of the educational sessions](interviews-informed-session-design.md) — related
+- [Students perceived barriers to transfer in four areas: their student status, qualified nurses, the practice setting, and patients and family caregivers](palliative-transfer-barriers.md) — related

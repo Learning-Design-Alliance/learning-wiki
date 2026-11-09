@@ -55,3 +55,4 @@ Theme from thematic analysis of focus groups and reflective journals with 21 pos
 - [Autonomy for exploration sustains teachers' motivation](autonomy-for-exploration-sustains-teacher-motivation.md) — related
 - [Engagement with continuous personal and professional development sustains teachers' motivation](continuous-personal-professional-development-sustains-teacher-motivation.md) — related
 - [Pleasure in the teaching profession, via multidimensionality and positive self-worth, sustains teachers' motivation](pleasure-in-teaching-profession-sustains-teacher-motivation.md) — related
+- [The article claims the WeChat–PBL model increases learning enthusiasm and works for students with poor self-motivation](wechat-pbl-learning-enthusiasm.md) — related

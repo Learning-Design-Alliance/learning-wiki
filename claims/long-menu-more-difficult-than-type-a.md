@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-09
 sources:
   - id: cerutti-bernard-2019
     resource: "https://doi.org/10.1186/s12909-019-1651-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Long-menu versions of the same questions were more difficult than Type A versions: average success rate 71.45% vs 77.80%, p = 0.0001, effect size 0.43. [→ Cerutti Bernard 2019](#cerutti-bernard-2019)
@@ -48,3 +49,4 @@ In the same randomised sequential trial (88 paired experimental items across 22 
 - [A majority of answer options chosen in long-menu questions were not offered as distractors in the corresponding Type A questions](long-menu-chosen-options-outside-type-a-distractors.md) — related
 - [Long-menu and Type A question formats have equivalent discriminatory power when applied to identical question stems in summative exams](long-menu-type-a-equivalent-discriminatory-power.md) — related
 - [Most examinees report that long-menu questions involve different reasoning and are closer to real life than classic MCQs](examinees-perceive-long-menu-different-reasoning-realistic.md) — related
+- [Long-menu questions were easier than Type A questions and showed no significant difficulty difference versus Pick N questions](long-menu-easier-than-type-a.md) — reports the opposite

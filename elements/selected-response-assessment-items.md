@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (10 for, 36 mixed, 6 against) · 38 studies (12 causal, 8 associational, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 8 of 38 report an effect size · 50 claims rest on one study
+> **Evidence** · 53 claims (10 for, 37 mixed, 6 against) · 39 studies (12 causal, 9 associational, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 8 of 39 report an effect size · 51 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -110,6 +110,7 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](../claims/chatgpt-educator-mcq-no-difficulty-difference.md) [~W]
 - [Long-menu and Type A question formats have equivalent discriminatory power when applied to identical question stems in summative exams](../claims/long-menu-type-a-equivalent-discriminatory-power.md) [~W] — attached 2026-11-09 from Cerutti Bernard et al. (2019), which proposed "Long-menu question format for computer-based assessment".
 - [Long-menu questions are more difficult than Type A questions on identical stems, with an average success rate 6.34 percentage points lower](../claims/long-menu-more-difficult-than-type-a.md) [~M] — attached 2026-11-09 from Cerutti Bernard et al. (2019), which proposed "Long-menu question format for computer-based assessment".
+- [Long-menu questions were easier than Type A questions and showed no significant difficulty difference versus Pick N questions](../claims/long-menu-easier-than-type-a.md) [~W] — attached 2026-11-09 from Cerutti B et al. (2016), which proposed "Long-menu question format for computer-based assessment".
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

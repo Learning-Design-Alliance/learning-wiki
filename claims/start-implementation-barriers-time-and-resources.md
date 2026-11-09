@@ -69,3 +69,4 @@ Interview theme on set-up time: "6 months after the training session, very few h
 - [The major implementation barriers were located in collective action: high caseloads, competing priorities and financial incentives pushed carer support below measurable service-user targets](collective-action-barriers-caseloads-priorities.md) — related
 - [Qualitative interviews identified team buy-in, colleagues' existing skills, policy drivers and free resources as facilitators of START implementation](start-implementation-facilitators-qualitative-themes.md) — related
 - [Competing organisational priorities, timing conflicts and intervention design features were the main barriers to staff participation in the training](impetus-d-barriers-staff-participation-cfir.md) — related
+- [Training uptake was greater when teaching could be integrated with trainers' everyday working patterns and when trainers had ring-fenced time](workflow-integrated-teaching-greater-engagement.md) — related

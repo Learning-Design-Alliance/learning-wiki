@@ -56,3 +56,5 @@ Thematic analysis of six focus group discussions with the ten CBR workers at thr
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
 - [‘Being in the patient's shoes’ is the only learning feature particularly linked to a specific modality: role-play](being-patient-role-play-empathy.md) — related
+- [Role-play with simulated patients and feedback were the most frequently used instructional methods for communicative competencies](dach-sp-roleplay-feedback-instruction.md) — related
+- [Lay health workers particularly valued the point-of-care tool as a reference during patient interactions and as a general reminder or training refresher](lhw-point-of-care-tool-reference-reminder.md) — related

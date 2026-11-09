@@ -54,3 +54,4 @@ Theme from caregiver focus groups and healthcare worker interviews in the qualit
 - [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [Student observers report that local health worker involvement improved project participation rates and trust](local-health-workers-improved-participation-trust.md) — related
+- [Lay health workers reported improved clinical skills — patient-provider relationships, patient education, follow-up — plus increased confidence and satisfaction with their work](lhw-reported-clinical-skill-gains-confidence.md) — related

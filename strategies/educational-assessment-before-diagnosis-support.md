@@ -42,6 +42,7 @@ The article recommends that Swedish schools identify and support students with m
 - [Actively seek co-occurring neurodevelopmental diagnoses and provide early diagnosis with targeted, inclusive academic supports](seek-co-occurring-nd-diagnoses-early-targeted-support.md)
 - [Implement proactive inclusive support: early identification, flexible assessment design, structured mentoring, and increased staff awareness](proactive-inclusive-support-spld-medical-education.md)
 - [Integrate academic and health support services rather than delivering them independently, targeting psychological distress in particular](integrate-academic-health-support-services.md)
+- [Implement comprehensive early-warning evaluation systems before recommending early school entry](early-warning-systems-school-entry-guidance.md)
 
 ## Examples
 -

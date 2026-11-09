@@ -47,3 +47,4 @@ Dependent-sample t-tests on ten five-point Likert items from 193 students and th
 ## Related Claims
 - [First-year medical students' global self-rating of patient-physician communication shows no significant difference from trainers' global rating on a 10-point scale](self-assessment-global-rating-agrees-trainers.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
+- [Supervisors tend to underrate high-performing students and overrate lower-performing students at end-of-term assessment](supervisors-underrate-high-performers-overrate-low-performers.md) — related

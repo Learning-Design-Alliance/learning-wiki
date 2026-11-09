@@ -51,3 +51,5 @@ Logistic regression analysis of three cohorts (N = 954) at Radboud University Me
 - [A literature-based curriculum-sampling admission test shows high, cohort-consistent operational predictive validity for first-year GPA (rc = .56) in undergraduate psychology applicants](curriculum-sampling-test-high-predictive-validity-fygpa.md) — related
 - [Selected students earn higher theoretical exam grade points than lottery-admitted students in year 1, but the grade-point advantage over lottery admissions does not remain after pu-GPA adjustment in years 2–3](curriculum-sample-selection-grade-points.md) — related
 - [Selected students earn a higher practical clinical course grade than lottery-admitted students, also after pu-GPA adjustment](curriculum-sample-selection-practical-clinical-course-grade.md) — related
+- [Probability of completing the Bachelor program in 3 years does not significantly differ between the admission groups](bachelor-completion-no-difference-admission-groups.md) — related
+- [Cognitive selected students earn significantly more ECTS at 52 weeks than lottery-admitted students](cognitive-selected-more-ects-52-weeks.md) — related

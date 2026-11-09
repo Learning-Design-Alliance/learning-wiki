@@ -84,3 +84,4 @@ Qualitative focus-group study (4 student FGs, n = 26, years 3–6; 4 near-peer F
 - [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — related
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — possibly the same claim (merge candidate)
 - [Clinical teaching by senior tutors was experienced as threatening, and the safety of PAL was understood in contrast to it](threat-of-the-ward-clinical-teaching.md) — possibly the same claim (merge candidate)
+- [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related

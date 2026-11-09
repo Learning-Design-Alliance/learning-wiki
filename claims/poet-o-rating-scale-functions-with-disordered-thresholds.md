@@ -51,3 +51,4 @@ Rating scale analysis of the four-category scale found average measures advanced
 - [The POET-O demonstrates adequate construct validity and reliability for peer evaluation of single online lessons](poet-o-valid-reliable-peer-evaluation-online-lessons.md) — related
 - [ADA accessibility items were the most difficult and impacted the POET-O's construct validity](poet-o-ada-items-difficult-impact-validity.md) — related
 - [Reducing Likert answer choices from five to three categories improved Rasch threshold ordering in the IGCQ](igcq-three-category-scale-improved-rasch-thresholds.md) — related
+- [Effort Expectancy scale response thresholds failed to increase monotonically until the neutral category was collapsed with an adjacent category](smci-effort-expectancy-threshold-disorder.md) — related

@@ -49,3 +49,4 @@ Structural equation modelling on questionnaire data from teachers and their 9th-
 - The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes — related
 - [Machine-learning classified teacher nonverbal immediacy during a lesson is positively related to student-perceived enthusiastic teaching behaviours](machine-learning-nvi-relates-to-perceived-enthusiasm.md) — related
 - [Common teacher qualities recur across culture, occupation and learning stage, including feedback, enthusiasm, approachability and clear explanations](cross-context-common-teacher-qualities.md) — related
+- [Student ratings of teaching are confounded by teacher enthusiasm and reputation, student interest, course attendance, and subject and format type](confounding-factors-student-ratings.md) — related

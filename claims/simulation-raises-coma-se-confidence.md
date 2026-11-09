@@ -56,3 +56,4 @@ Pre-post analysis of twenty-two surveys from four coma and status epilepticus ca
 - [Participation in the simulation-based CVC training session significantly increased learner confidence in CVC placement](sim-cvc-training-increased-confidence.md) — related
 - [Confidence increases significantly after high-fidelity simulation in both sessions](confidence-increases-after-high-fidelity-simulation.md) — related
 - [Anesthesia residents' self-reported self-confidence for managing OR circulation, CVC, and pain-complication emergencies rose from pre-test to post-test after PBL training, in one uncontrolled pre-post study](pbl-alsop-improved-resident-self-confidence.md) — related
+- [The training intervention significantly increases participants' confidence to consult with and communicate with adolescents](gp-adolescent-health-workshop-confidence-communicating-increase.md) — related

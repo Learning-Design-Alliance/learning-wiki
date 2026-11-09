@@ -54,3 +54,4 @@ Pre-post knowledge questionnaire completed by the same 14 nurses before and afte
 - [Knowledge scores on guide content rose from 72.50% to 93.25% after guide use, but the change was not statistically significant](svi-guide-knowledge-score-nonsignificant-increase.md) — related
 - [QS1 knowledge scores rose significantly after the workshop, with overall averages increasing from 62% to 73.5%](vicious-worm-qs1-knowledge-uptake.md) — related
 - [Nursing students' overall CPR knowledge averaged 64.62±17.84 out of 100 points, with good knowledge of CPR's importance but average knowledge of its indications and effectiveness](nursing-students-cpr-knowledge-mean-score-64-62.md) — related
+- [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related

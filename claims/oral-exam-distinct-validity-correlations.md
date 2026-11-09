@@ -59,3 +59,4 @@ Review synthesis of validity evidence across included studies. The review report
 - [VP exam grades correlate only minimally with bedside oral exam grades (r = 0.101), suggesting the two modalities assess different skills](vp-oral-exam-grade-correlation-minimal.md) — a narrower finding that bears on this claim
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related
 - [Participation split by modality: orally strong students also outperformed in written forum interactions, while less orally participative students published most written interactions](participation-imbalance-oral-written-forums.md) — reports the opposite
+- [Corrective feedback with suggestions on how to improve is associated with higher clinical reasoning performance in final practical examinations](corrective-feedback-with-suggestions-improves-clinical-reasoning.md) — related

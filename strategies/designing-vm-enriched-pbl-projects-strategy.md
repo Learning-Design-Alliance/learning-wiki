@@ -46,7 +46,8 @@ The article's concluding recommendations for implementing VM-enriched PBL in mat
 - [Web records showed all fifteen virtual manipulatives were used across the three projects, with usage frequencies between 17 and 28](../claims/vm-web-records-all-fifteen-used.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Implementation tips for ICM instruction: preparation materials, incentives, assessment, structure, no repetition, learning groups, iterative feedback and easy-access technology](icm-implementation-tips-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The paper proposes dividing students into groups of three, four, or five, consti
 ## Related Strategies
 
 - [Cooperative Classroom Activities](cooperative_classroom_activities.md)
+- [Use competition between colleagues, more than between organisations, to motivate skills practice](colleague-competition-motivate-skills-practice.md)
 
 ## Examples
 -

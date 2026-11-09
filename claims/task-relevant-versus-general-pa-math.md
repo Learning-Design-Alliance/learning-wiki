@@ -48,3 +48,4 @@ Post-hoc four-subgroup analysis (control n = 100, extra PE n = 111, active math 
 - [Adding 180 extra minutes of weekly physical education did not detract from children's math achievement](extra-pe-did-not-detract-math.md) — related
 - [An 8-week basketball mathematics intervention improves fraction performance more than control conditions in 11–13-year-olds](basketball-mathematics-improves-fraction-performance.md) — related
 - [Single-component interventions (teacher training alone) appeared more promising for academic performance than combined or multicomponent PE interventions](single-intervention-strategies-more-effective.md) — reports the opposite
+- [Diet quality and physical activity effects on academic performance are independent, with no additive interaction](no-additive-interaction-diet-pa-academic.md) — related

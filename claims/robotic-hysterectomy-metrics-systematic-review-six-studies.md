@@ -73,3 +73,4 @@ The review's synthesis concludes that "the lack of standardized and validated me
 - A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related
 - [A systematic review of minimally invasive gynecological surgery identified 37 objective assessment tools across 72 included studies](37-assessment-tools-migs-systematic-review.md) — related
 - [Virtual reality simulation is a valid training tool for the early phase of robotic surgery training, with validity established for six major commercial simulators](vr-simulation-validity-robotic-training.md) — related
+- [A systematic search identified 13 national outcome frameworks, seven of which contain an explicit Scholar role](systematic-search-13-outcome-frameworks.md) — related

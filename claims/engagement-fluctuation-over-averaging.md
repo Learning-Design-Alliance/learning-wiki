@@ -51,3 +51,4 @@ The commentary reports, citing Rosengrant et al. in the Special Issue, that stud
 - [Young children's attention to a robot increased sharply when the robot reacted to their gaze](robot-gaze-reactivity-extends-child-attention.md) — related
 - [The robot's physical position structured the learning space: its front hosted on-task activity while its back provided a peripheral space for momentary off-task behavior, seemingly allowing children to regulate their own engagement](robot-front-back-engagement-regulation.md) — related
 - [Heart-rate-based engagement returned to the lecture average after active learning interludes, with no post-interlude attention reset, in one uncontrolled pre-post study of lectures](no-attention-reset-after-al.md) — related
+- [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — related

@@ -160,8 +160,10 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Cooperative Learning](cooperative-learning.md) — group goals with individual accountability; the individual check here follows its accountability model
 
 ## Examples
+
 - [Peer-Assisted Learning Strategies (PALS)](../products/peer-assisted-learning-strategies-pals.md) — the scripted, reciprocal programme whose trials supply most of this page's claims
 - **Paired reading in a primary class** — pupils take turns reading aloud and retelling, correcting misread words with a set phrase, then each reads a new passage alone
+- [Provide structured training in peer teaching and feedback before PAL activities, and run PAL as structured, well-organised, monitored activities](../strategies/structured-pal-training-before-activity-strategy.md)
 
 ## Key Sources
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281-288. [doi:10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)

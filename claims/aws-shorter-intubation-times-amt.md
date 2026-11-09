@@ -49,3 +49,4 @@ Timing analysis of the same 15-participant AMT training trials, with total, visu
 - [Intensive repeated practice over 3 days reduced Macintosh intubation failures to zero by day 3 on both manikins, indicating skill improvement with repeated performance](three-day-repeated-practice-reduces-intubation-failures.md) — related
 - [In 3-day manikin training, novice doctors using the McGRATH MAC and AirwayScope achieved significantly higher POGO scores than those using the Macintosh laryngoscope on all 3 days with the AirSim manikin](videolaryngoscopes-higher-pogo-airsim-novices.md) — related
 - [Visualization and fixation time does not differ significantly among the three laryngoscopes for novice intubators](vft-no-difference-laryngoscopes.md) — related
+- [Students visualise the glottis faster with the Macintosh blade than with the Bonfils fibrescope in simulated intubation](mb-faster-glottis-visualisation-than-bonfils.md) — related

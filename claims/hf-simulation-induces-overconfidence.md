@@ -52,3 +52,4 @@ Primary outcome: self-assessment on 10-point Likert items compared between group
 - [LF-trained students significantly outperformed HF-trained students on several ALS practical sub-items in video-rated scenarios](lf-better-practical-subitems.md) — related
 - [Prior trials cited by the authors report equivalent HF and LF outcomes, with one exception favoring HF practical performance in interns](mixed-prior-evidence-on-fidelity.md) — related
 - [Belief that HF simulation is the superior learning method persists in the HF group but drops sharply in the LF group after training](hf-superiority-belief-persists-in-hf-group.md) — related
+- [Supervisors tend to underrate high-performing students and overrate lower-performing students at end-of-term assessment](supervisors-underrate-high-performers-overrate-low-performers.md) — related

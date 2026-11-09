@@ -49,3 +49,4 @@ Subgroup analysis of grade improvement by GPA category and teaching method, depi
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [Students with a GPA below 14 showed larger score increments under e-learning, with GPA category significantly moderating the teaching-method effect](gpa-below-14-larger-e-learning-gains.md) — related
+- [Lower-GPA students show greater improvement than higher-GPA students in the flipped format on homework attempts, accuracy, and exam scores](lower-gpa-students-gain-more-in-flipped-format.md) — related

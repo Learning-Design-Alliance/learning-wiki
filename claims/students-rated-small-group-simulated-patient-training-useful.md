@@ -51,3 +51,4 @@ Post-training evaluation survey (Table 3, 10-point scale) in which the small-gro
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [Dental students rated their communication skills slightly but not significantly higher after targeted communication training with simulated patients, in one uncontrolled pre-post study, although the abstract reports a significant improvement](targeted-training-simulated-patients-improved-communication-skills.md) — related
 - [Overall assessment of the SPs is very good, with a median of 1 and mean of 1.47](sp-overall-assessment-very-good.md) — possibly the same claim (merge candidate)
+- [Students considered real patients' feedback useful but less beneficial than supervisor or trained-actor feedback](real-patient-feedback-vs-supervisor-feedback.md) — related

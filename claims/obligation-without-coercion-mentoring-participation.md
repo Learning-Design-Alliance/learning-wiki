@@ -47,3 +47,4 @@ Focus group interview finding. A mentor likewise stated it "shouldn't really be 
 ## Related Claims
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
+- [The first course implementation ended prematurely because participating nursing students could not be convinced to continue amid reservations about medical-student participation, course obligations, timetable conflicts and time burden](first-piloting-premature-termination-barriers.md) — related

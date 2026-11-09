@@ -48,6 +48,7 @@ The article's training regimen: students complete a formative test with real-tim
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Use real-time feedback and repeated practice in preclinical surgical simulation training](real-time-feedback-repeated-practice-surgical-simulation.md)
+- [Game-based simulation training with repeated sessions for surgical instrument recognition](game-based-repeated-simulation-training-strategy.md)
 
 ## Examples
 -

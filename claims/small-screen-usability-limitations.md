@@ -53,3 +53,4 @@ The review attributes this three-part account of small-screen usability limitati
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](handheld-print-gap-between-participants-meta-analysis.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — a narrower finding that bears on this claim
 - [Children are capable of more complex graphical interaction than most current software permits](children-capable-complex-graphical-interaction.md) — related
+- [Point-of-care apps on handheld devices are reported to support workplace learning and could improve clinicians' clinical decision-making](point-of-care-apps-support-clinical-decision-making.md) — related

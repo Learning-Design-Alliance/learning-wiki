@@ -52,3 +52,4 @@ Focus group content analysis at two Tanzanian hospitals; informants across cadre
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Simulator features that realistically simulate basic PPH management steps may have supported learning of those skills](realistic-simulator-features-support-basic-skill-learning.md) — related
+- [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related

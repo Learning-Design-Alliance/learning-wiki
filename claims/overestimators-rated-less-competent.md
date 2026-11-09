@@ -57,3 +57,4 @@ Comparison of expert evaluation scores between overestimation and underestimatio
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
 - [Peer and report (staff) assessments rated managers significantly higher than managers rated themselves on all six competencies, while only knowledge differed significantly for supervisors](peer-report-ratings-higher-than-self-all-competencies.md) — related
 - [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — related
+- [Supervisors tend to underrate high-performing students and overrate lower-performing students at end-of-term assessment](supervisors-underrate-high-performers-overrate-low-performers.md) — related

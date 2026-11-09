@@ -51,3 +51,4 @@ Five-stage hierarchical multiple regression on the 448-student sample with perce
 - [Pedagogical and social resistance factors positively predict actual parental resistance, while an authoritative parenting style is a negative predictor](pedagogical-social-factors-predict-parental-resistance.md) — related
 - [Grade-7 parental support for college education interacts positively with family SES in predicting grade-9 educational performance](parental-support-ses-interaction-grade9-performance.md) — related
 - [Authoritative parenting prospectively predicts higher academic achievement of Lebanese adolescents six months later, compared to neglectful, permissive and authoritarian styles](authoritative-parenting-predicts-achievement-lebanese-adolescents.md) — related
+- [Socioeconomic status is the strongest predictor of eighth-grade academic performance, explaining 19% of variance](ses-strongest-predictor-simce-performance.md) — related

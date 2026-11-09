@@ -50,6 +50,7 @@ Based on the finding that supervisors co-regulate every phase of trainees' SRL d
 ## Related Strategies
 
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Remove numerical mini-CEX scores from assessment forms and provide narrative feedback only](remove-numerical-mini-cex-scores-narrative-feedback.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Discussion-section synthesis (§4.1) listing Category T themes consistent across
 - [Teachers more enthusiastic about teaching mathematics show higher-quality instructional behaviour, both self-reported and student-rated](enthusiasm-for-teaching-predicts-instructional-quality.md) — related
 - [Machine-learning classified teacher nonverbal immediacy during a lesson is positively related to student-perceived enthusiastic teaching behaviours](machine-learning-nvi-relates-to-perceived-enthusiasm.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
+- [Student ratings of teaching are confounded by teacher enthusiasm and reputation, student interest, course attendance, and subject and format type](confounding-factors-student-ratings.md) — related

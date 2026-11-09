@@ -50,3 +50,4 @@ The authors' discussion of the WHOBARS performance data from the quasi-experimen
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — a broader claim this one bears on
 - [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related
 - [The proficiency-based training program is resistant to skills decay over 3-5 weeks for both training approaches](proficiency-based-training-resistant-skills-decay.md) — related
+- [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — reports the opposite

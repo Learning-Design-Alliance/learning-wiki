@@ -61,3 +61,5 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - [Few EBP intervention studies used high-quality instruments, and no high-quality instrument covers all five EBP steps](few-high-quality-ebp-instruments-used.md) — a narrower finding that bears on this claim
 - [Final-product analysis and procedure time have mixed validity evidence and are unlikely to be useful in isolation as measures of technical proficiency](final-product-and-procedure-time-mixed-validity-adjunctive.md) — a narrower finding that bears on this claim
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
+- [Exam-based assessment of teaching outcome in German medical schools is limited by methodological problems and insufficient quality control of summative exams](exam-based-outcome-assessment-limited.md) — a narrower finding that bears on this claim
+- [Few EBP measurement instruments exist, and validation studies using comparison groups are rare](paucity-of-ebp-instruments.md) — related

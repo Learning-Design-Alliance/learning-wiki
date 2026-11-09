@@ -47,6 +47,7 @@ Based on survey feedback, the authors recommend two forward-looking actions: fut
 ## Related Strategies
 
 - [Iterate PAL programs toward interactive, teacher-configurable serious games with home and cross-grade variants](pal-future-serious-game-iteration-strategy.md)
+- [Target serious game interventions at parents of younger children and manage information dosing by reducing in-game text volume](target-younger-children-manage-dosing.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Hierarchical regression of pro-social gaming motivations on demographics, game p
 - [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md)
 - [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
 - [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)
+- [Parents converting a group programme to game format preferred first-person role play, a home setting, realistic characters and positively framed feedback](conversion-preferences-role-play-home-realistic.md) — related

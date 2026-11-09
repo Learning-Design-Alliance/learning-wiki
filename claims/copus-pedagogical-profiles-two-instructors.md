@@ -47,3 +47,5 @@ COPUS analysis of nine video-recorded class periods per instructor, coded by two
 ## Related Claims
 - [An a posteriori video analysis found the worksheet instructor used significantly more analogies, but a causal link between analogy use and students' Real-World Connections attitudes could not be confirmed](analogy-use-associated-real-world-connections.md) — related
 - [Students in both a graphic-organizer/worksheet section and a clicker-case-study section of introductory biology showed significant conceptual learning gains, with no significant between-section difference](similar-learning-gains-graphic-organizers-versus-clicker-cases.md) — related
+- [Using clickers alone does not significantly change the percentage of class time spent on instructor lecturing or student listening.](clickers-alone-no-lecture-time-change.md) — related
+- [Campus-wide clicker use falls into three predominant modes: Peer Discussion, Individual Thinking, and Alternative Collaboration.](three-modes-of-clicker-use.md) — related

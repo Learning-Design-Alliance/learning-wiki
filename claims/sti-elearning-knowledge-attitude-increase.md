@@ -48,3 +48,4 @@ Prospective cohort study comparing before-and-after quickscan scores (4-point Li
 - [Reasons for partially or not implementing intended changes included forgetting, few STI consultations, time pressure, shame, and test costs](implementation-barriers-sti-elearning.md) — related
 - [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related
 - [Participants also made 180 'unintended' changes in daily practice, relatively often concerning working conditions and attitude](unintended-changes-working-conditions-attitude.md) — related
+- [Case-based knowledge test scores rose from 52.5% to 65.7% after clinic-based STI training, across all training methods combined, in one uncontrolled pre-post study](sti-clinic-training-knowledge-gains-south-africa.md) — related

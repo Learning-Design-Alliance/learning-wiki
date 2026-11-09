@@ -76,3 +76,4 @@ The synthesis's own strength-of-knowledge judgment in the section on the source 
 - [Evidence on teacher attitude change as an outcome of team-based professional development in higher education is insufficient; only one study mentioned attitudes](team-pd-attitude-outcome-insufficient-evidence.md) — related
 - [Sociocultural contexts—school, professional community, policy, and society—shape teachers' motivational beliefs about TSRs](sociocultural-contexts-shape-tsr-beliefs.md) — related
 - [Curriculum and subject content knowledge gained prominence from Week 3, while student diversity remained consistent throughout](pck-element-prominence-shifts-week-3.md) — related
+- [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](pa-learning-outcomes-awareness-attitudes-self-efficacy.md) — related

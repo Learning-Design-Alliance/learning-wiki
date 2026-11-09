@@ -51,3 +51,4 @@ Learning-curve analysis using a generalized mixed-effects model with fixed-effec
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](llm-teaching-benefits-task-defined-feedback-settings.md) — related
+- [Simulator use showed no positive impact on the correct diagnostic pathway parameter, as students selected medically nonindicated tests](alice-no-pathway-improvement-test-selection.md) — reports the opposite

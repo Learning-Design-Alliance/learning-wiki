@@ -51,3 +51,4 @@ Quasi-experimental comparison using a pre-test post-test design with 10 multiple
 - [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — related
 - [Adding e-learning to PBL does not change students' perceptions of active participation or tutors' authority](bpbl-no-change-participation-tutor-authority.md) — reports the opposite
+- [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related

@@ -54,3 +54,4 @@ Assessment of 91 residents on a laparoscopic training simulator for Peg Transfer
 - [Peg-transfer FLS scores did not differ significantly between robotic and laparoscopic approaches, but robotic scores showed progressive improvement across trials](hinotori-peg-transfer-fls-comparable-progressive-improvement.md) — related
 - [LVG group outcome measures show smaller variances, significantly so for the TABLT performance score](lvg-smaller-variance-consistency.md) — related
 - [LVG group shows a non-significant tendency toward higher TABLT performance scores than the 2D group](lvg-tablt-score-tendency.md) — related
+- [TABLT performance scores discriminate between novice, intermediate and experienced laparoscopic surgeons](tablt-discriminates-experience-groups.md) — related

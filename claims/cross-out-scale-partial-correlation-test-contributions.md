@@ -49,3 +49,4 @@ Multiple-correlation analysis of the junior high school validity dataset (116 se
 - [The Bell Chemistry Test correlates moderately with semester marks and teachers' estimates, and is judged a fairly good measure of class knowledge but unreliable for an individual.](bell-test-fair-class-measure-unreliable-individual.md)
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md)
 - [Aggregated state emotions converge substantially but imperfectly with self-reported trait emotions, with averaged correlations ranging from r = 0.391 (shame) to r = 0.608 (boredom)](aggregated-states-traits-substantial-imperfect-convergence.md)
+- [Total last-semester average correlated significantly with IV catheterization score](last-semester-average-correlates-iv-catheterization.md) — related

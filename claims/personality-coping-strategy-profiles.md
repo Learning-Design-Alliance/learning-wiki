@@ -70,3 +70,4 @@ Same correlational analysis (Table 2): neuroticism's profile is opposite to cons
 - [Big Five factors relate to achievement emotions stably across class, study and testing situations, with neuroticism linked to negative emotions and conscientiousness to positive emotions](big-five-achievement-emotions-three-situations.md) — related
 - [Emotion-focused coping strategies positively predict negative achievement emotions, while problem-focused coping strategies predict no type of emotion](emotion-focused-coping-predicts-negative-emotions.md) — related
 - [Big Five factors are positively associated with undergraduate self-regulation except neuroticism, which is negatively associated](big-five-self-regulation-associations-undergraduates.md) — related
+- [Students selected through a knowledge-based exam show a more diligent profile, with higher conscientiousness, deep learning approach, and task-focused coping](knowledge-exam-selects-diligent-students.md) — related

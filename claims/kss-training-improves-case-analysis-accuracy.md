@@ -74,3 +74,4 @@ Discussion-section statement of the defibrillation accuracy contrast drawn from 
 - [Brief BLS training increases future schoolteachers' willingness to use an AED from 70% to 98% and their knowledge of the device](aed-willingness-improves-after-brief-training.md) — related
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](self-assessed-preparation-rise-post-course.md) — related
 - [Knowledge-question performance rose significantly for every question after the programme, while attitude items showed minimal to no significant change](knowledge-gained-attitudes-unchanged.md) — related
+- [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related

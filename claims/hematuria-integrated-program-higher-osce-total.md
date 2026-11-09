@@ -72,3 +72,4 @@ Covariate-adjusted linear regression with HC3 robust standard errors on OSCE tot
 - [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related
 - [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related
 - [No difference in GAP-test competence scores between vertically integrated and non-vertically integrated curricula](no-curriculum-type-difference-gap-test.md) — related
+- [The study could not demonstrate that vertically integrated curricula prepare graduates better for clinical practice](vi-readiness-advantage-not-demonstrated.md) — related

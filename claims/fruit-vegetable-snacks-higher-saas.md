@@ -51,3 +51,4 @@ Linear regression row from the 1677-student cross-sectional study: "Snack- veget
 - [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
 - [Students with a non-scientific major report higher subjective academic achievement than students with a scientific major in a Lebanese university sample](nonscientific-major-higher-saas-lebanese-students.md) — related
 - [Non-HPS students consumed more vegetables and fewer sugary drinks than HPS students](non-hps-students-healthier-diet.md) — related
+- [Consuming one or more sugar-sweetened beverages per day is associated with higher odds of poor ELA performance](sugar-sweetened-beverage-poor-ela-performance.md) — related

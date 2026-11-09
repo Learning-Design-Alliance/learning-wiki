@@ -49,3 +49,4 @@ Expert rating of student-generated MCQs in a fourth-year anatomic pathology cour
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [The MCQ-writing task engaged students in synthesising information from multiple sources](mcq-writing-multiple-source-synthesis.md) — related
+- [Student-generated MCQs written for a competency-based progress test show high quality in post-review, with only 5 corrected and 4 excluded of 144 questions](student-generated-mcq-high-quality-post-review.md) — a narrower finding that bears on this claim

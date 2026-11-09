@@ -53,3 +53,4 @@ Process evaluation based on observations of nine sessions (400 minutes of tuitio
 - [Implementation of Paired Reading varied across schools but variations appeared unlikely to have affected dosage](paired-reading-implementation-variation-dosage-unaffected.md) — related
 - [Research training appears in 76.2% of curricula but with substantial variation, ranging from introductory methods courses (11.9%) to full‐time research projects (16.7%)](research-training-76-2-percent-variable-implementation.md) — related
 - [RaT curricular timing and duration vary widely, with single early-intern-year interventions of 4–8 hours most common and longitudinal curricula spanning full training](rat-curriculum-timing-duration-variation.md) — related
+- [Examiner training was the most frequently used quality-assurance measure, but practices varied widely across programmes](dach-examiner-training-quality-assurance.md) — related

@@ -49,3 +49,4 @@ Pre-post pilot evaluation with 52 students completing a 20-min DOVCS assessment 
 - [All respondents reported confidence in performing virtual consultations after the experiential learning phase](vc-module-practical-phase-confidence.md) — related
 - [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [Medical students' self-rated confidence improved across all five key communication skills after completing the virtual learning module on angry conversations](vl-module-confidence-improved-five-skills.md) — related
+- [Fourth-year students' 5 Cs checklist completion rose from before to after the simulation-based 5 Cs curriculum, in one uncontrolled pre-post study](consult-curriculum-fourth-year-checklist-completion.md) — related

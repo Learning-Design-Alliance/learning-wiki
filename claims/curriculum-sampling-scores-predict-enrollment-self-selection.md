@@ -47,3 +47,4 @@ Logistic regressions of enrollment on standardized admission test scores control
 ## Related Claims
 - [A literature-based curriculum-sampling admission test shows high, cohort-consistent operational predictive validity for first-year GPA (rc = .56) in undergraduate psychology applicants](curriculum-sampling-test-high-predictive-validity-fygpa.md) — related
 - [Education polygenic scores predict year-to-year math enrollment above and beyond prior-year math GPA, family SES, and school SES](education-pgs-predicts-enrollment-beyond-gpa.md) — related
+- [Applicants with lower trial-studying scores were significantly less likely to enroll, consistent with a small self-selection effect](trial-studying-scores-self-selection-enrollment.md) — possibly the same claim (merge candidate)

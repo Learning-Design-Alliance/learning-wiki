@@ -52,3 +52,4 @@ Same phantom-based observational study; novices took almost four times longer. T
 - [Dimensionless squared jerk differs significantly between experienced and novice obstetric ultrasound operators on a phantom biometry task](dsj-differentiates-experienced-novice-ultrasound-operators.md) — related
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
+- [A phantom-model test significantly discriminates between novice and experienced colonoscopists, with completion rates varying by case difficulty](phantom-colonoscopy-test-discriminates-experience-groups.md) — related

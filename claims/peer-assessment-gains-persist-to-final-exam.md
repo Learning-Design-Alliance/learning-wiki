@@ -3,6 +3,7 @@ type: claim
 title: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 description: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 id: peer-assessment-gains-persist-to-final-exam
+aliases: [peer-assessment-final-exam-gain]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i0` Students who participated in peer assessment also did better on the corresponding final exam questions (d = .122), suggesting the benefit persists over time. [→ Sun DL 2015](#sun-dl-2015)
+
+`q3 i0` Students participating in peer assessment scored better on corresponding final exam questions, d = .122, indicating the benefits persist. [→ Sun Dennis L. 2015](#sun-dl-2015)
 
 ## Evidence
 
@@ -39,7 +43,21 @@ Final exam analysis in the same crossover RCT, 320 students analyzed, with blind
 
 > "Students participating in peer assessment also did better on the corresponding questions on the final exam (d = .122, t(319) = 3.03, p = .001), which suggests that the benefits of peer assessment persist over time."
 
+<!-- merged 2026-11-09 from peer-assessment-final-exam-gain: that page's entry for this study, which differed from the one above, kept verbatim.
+### Sun Dennis L. 2015
+
+Sun Dennis L., Harris Naftali, Walther Guenther, Baiocchi Michael. (2015). Peer Assessment Enhances Student Learning: The Results of a Matched Randomized Crossover Experiment in a College Statistics Class. PLoS ONE 10(12): e0143177. https://doi.org/10.1371/journal.pone.0143177
+
+`q3 · i0`
+
+Long-term measure from the same matched randomized crossover experiment, with 320 students analyzed on the final exam. Peer-assessment participants "did better on the corresponding questions on the final exam (d = .122, t(319) = 3.03, p = .001)"; instructors blinded to condition graded all assessments.
+
+> "Students participating in peer assessment also did better on the corresponding questions on the final exam (d = .122, t(319) = 3.03, p = .001), which suggests that the benefits of peer assessment persist over time."
+-->
+
 ## Discussion
+
+
 
 ## Related Claims
 

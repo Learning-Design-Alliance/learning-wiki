@@ -48,6 +48,7 @@ A strategy of delivering patient communication training online and building a sh
 
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Rural districts can take advantage of virtual professional development opportunities for their science teachers](rural-districts-adopt-vpd-opportunities.md)
+- [Combining podcast lectures and simulator training to deliver ultrasound education where local expertise or equipment is lacking](podcast-simulator-combination-for-resource-limited-ultrasound-training.md)
 
 ## Examples
 -

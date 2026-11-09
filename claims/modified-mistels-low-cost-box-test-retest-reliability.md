@@ -48,3 +48,4 @@ Two further series of the three tasks were performed successively without free i
 - [Use of a low-cost trainer box does not alter the reliability of the modified MISTELS score](low-cost-trainer-box-preserves-mistels-reliability.md) — a broader claim this one bears on
 - [Inter-rater reliability of the modified MISTELS score with a low-cost trainer box is excellent (ICC = 1)](modified-mistels-low-cost-box-inter-rater-reliability.md) — related
 - [A modified MISTELS score using a low-cost trainer box shows high internal consistency (Cronbach's alpha 0.929)](modified-mistels-low-cost-box-internal-consistency.md) — related
+- [The SAFT shows excellent test-retest and inter-rater reliability for total scores](saft-excellent-reliability.md) — related

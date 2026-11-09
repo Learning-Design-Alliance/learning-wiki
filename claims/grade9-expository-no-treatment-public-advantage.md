@@ -85,3 +85,4 @@ The grade 9 omnibus three-way interaction of treatment, gender, and school type 
 ## Related Claims
 - [In grade 10 expository-text classrooms, neither treatment, gender, nor school type significantly affected reading comprehension](grade10-expository-no-significant-effects.md) — related
 - [Combined strategy instruction under inclusion is effective for narrative texts but not for expository texts](narrative-effective-expository-not.md) — a broader claim this one bears on
+- [Private schools outperform subsidised schools, which outperform public schools, on eighth-grade academic performance](institution-type-performance-gradient-chile.md) — reports the opposite

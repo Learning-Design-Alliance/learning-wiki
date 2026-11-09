@@ -47,3 +47,4 @@ Perception survey of 107 students; Table 2 shows anatomy preference for both met
 ## Related Claims
 - [Students prefer PBL for physiology, pathology and pharmacology concepts but prefer lectures for anatomy, biochemistry and microbiology topics](subject-specific-pbl-lecture-preferences.md) — reports the opposite
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
+- [First-year nursing students in a problem-based fundamental nursing curriculum mostly prefer a hybrid problem-based and lecture-based learning environment](nursing-students-prefer-pbl-lbl-hybrid.md) — related

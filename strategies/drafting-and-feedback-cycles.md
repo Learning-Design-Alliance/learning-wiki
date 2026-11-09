@@ -59,9 +59,11 @@ Feedback improves learning when learners actually act on it, and drafting cycles
 5. **Repeat once more if warranted**, then grade the final version only. Keep the grade separate from all feedback events.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback style that makes each cycle productive
 - [Peer Review](../elements/peer-review.md) — a scalable source of inter-draft feedback
 - [Portfolio Assessment](portfolio-assessment.md) — archives successive drafts as evidence of growth
+- [Use first-course evaluation feedback to improve the structure of the next course iteration](feedback-driven-course-iteration-strategy.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (https://cpr.molsci.ucla.edu)** — Students train on calibrated exemplars before reviewing peers' drafts, improving the reliability of peer feedback in large courses.

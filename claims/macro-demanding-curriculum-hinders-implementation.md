@@ -53,3 +53,4 @@ The meta-synthesis found teachers complained about overloaded curricula regardin
 - [Students want peer teaching programs to have allocated time, careful timing, and quality assurance of the teaching](peer-teaching-structure-timing-quality-assurance.md) — related
 - [Student-related barriers including resistance to PBL, work overload, dominance by a few students, high expectations of tutors, and insufficient communication skills hinder PBL implementation at Debre Berhan University medical school](dbu-pbl-student-related-barriers.md) — related
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
+- [Teachers value physically active VFTs as flexible, cross-curricular teaching tools usable across subjects and lesson phases](vfts-flexible-cross-curricular-tool.md) — related

@@ -73,3 +73,4 @@ Follow-up Spearman correlations between follow-up anxiety and state-exam marks; 
 - [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](reading-efficacy-weak-moderate-correlation-blended.md) — related
 - [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — related
 - [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — reports the opposite
+- [Total last-semester average correlated significantly with IV catheterization score](last-semester-average-correlates-iv-catheterization.md) — related

@@ -55,3 +55,4 @@ Spearman correlations of knowledge, skill and ITU mean differences with total us
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim
 - [Higher completion time correlates with poorer RAS task performance across most FSRS metrics](completion-time-correlates-fsrs-metrics.md) — related
+- [Post-patient encounter form completion correlates with assessment scores, so PPEF scores were not compared between groups](ppef-completion-correlates-with-proficiency.md) — a narrower finding that bears on this claim

@@ -52,6 +52,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Use agile UX methodology with early-stage pilot evaluation to guide iterative VR development](agile-ux-iterative-vr-development-strategy.md)
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
+- [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 
 ## Examples
 -

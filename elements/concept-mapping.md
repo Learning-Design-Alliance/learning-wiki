@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (19 for, 12 mixed, 2 against) · 23 studies (12 causal, 3 quant-synthesis, 3 associational, 3 design, 1 review, 1 qualitative), `q1`–`q4` · 9 of 23 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (19 for, 13 mixed, 3 against) · 24 studies (12 causal, 4 associational, 3 quant-synthesis, 3 design, 1 review, 1 qualitative), `q1`–`q4` · 9 of 24 report an effect size · 32 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -74,6 +74,8 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Maps in which learners gave up and requested the system's diagnosis contained fewer nodes, lower scores, fewer summary statements and lower confidence than maps solved by learners themselves](../claims/gave-up-maps-fewer-nodes-lower-scores.md) [+W] — attached 2026-11-09 from Hege I et al. (2018), which proposed "A concept mapping tool combined with virtual patients that documents, scores and gives feedback on the clinical reasoning process".
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](../claims/crm-undergraduates-perceived-understanding-no-recall-advantage.md) [~M] — attached 2026-11-09 from Jayasinghe S (2016), which proposed "Clinical Reasoning Map (CRM): a bedside network diagram for complex clinical scenarios".
 - [Postgraduate trainees unanimously found the Clinical Reasoning Map useful for understanding interconnected patient problems, pathogenesis, differential diagnosis and investigation selection](../claims/crm-postgraduates-unanimous-usefulness.md) [+W] — attached 2026-11-09 from Jayasinghe S (2016), which proposed "Clinical Reasoning Map (CRM): a bedside network diagram for complex clinical scenarios".
+- [A substantial proportion of students simplify their concept maps during the semester](../claims/students-simplify-concept-maps-over-semester.md) [~W] — attached 2026-11-09 from Dowd J.E. et al. (2015), which proposed "Concept map activity in the Writing in Biology thesis course".
+- [Structural complexity of concept maps shows no significant correlation with scientific reasoning in thesis writing after multiple-comparison correction](../claims/concept-map-structure-no-correlation-writing-reasoning.md) [-W] — attached 2026-11-09 from Dowd J.E. et al. (2015), which proposed "Concept map activity in the Writing in Biology thesis course".
 
 ## The evidence by question
 

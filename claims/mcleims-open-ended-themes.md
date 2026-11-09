@@ -68,3 +68,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
 - [Qualitative analysis of 1375 participant comments generated seven themes, with the largest theme (46.0% of comments) reflecting positive experiences of working with the virtual patient](vp-mooc-seven-themes-positive-experience.md) — related
+- [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related

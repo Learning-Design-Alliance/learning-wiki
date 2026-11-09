@@ -66,3 +66,4 @@ Prospective phase 3 administration at University of Louisville to 64 residents. 
 ## Related Claims
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — reports the opposite
 - [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related
+- [Effort Expectancy scale response thresholds failed to increase monotonically until the neutral category was collapsed with an adjacent category](smci-effort-expectancy-threshold-disorder.md) — related

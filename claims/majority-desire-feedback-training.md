@@ -48,3 +48,4 @@ Survey item on instructors' wishes for further education or information on feedb
 ## Related Claims
 - [Most medical instructors rate feedback as important or very important, with no significant differences by gender or location](instructors-rate-feedback-important-survey.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
+- [Pilot-test evaluation (n=463) shows students were highly motivated, preferred formative administration and an annual frequency, but perceived limited learning effect](student-evaluation-formative-progress-test.md) — related

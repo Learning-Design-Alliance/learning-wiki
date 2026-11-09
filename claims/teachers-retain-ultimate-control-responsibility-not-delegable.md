@@ -53,3 +53,4 @@ Qualitative finding from the study's analysis of how six secondary teachers conc
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — possibly the same claim (merge candidate)
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — reports the opposite
 - [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related
+- [The word 'enhanced' in 'technology-enhanced learning' implies a value judgement, making the term problematic though worth retaining with care](tel-enhanced-implies-value-judgement.md) — related

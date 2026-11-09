@@ -54,3 +54,4 @@ Narrative synthesis of experimental and quasi-experimental studies contrasting d
 - [Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.](learner-type-moderator-nonsignificant-k12-null.md) — related
 - Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related
 - [Most included asynchronous e-learning studies used pure online delivery rather than blended learning](pure-online-delivery-dominates-nurse-elearning.md) — related
+- [Meeting in person before meeting online did not appear to influence acceptability, suggesting the programme can run without pre-programme in-person meetings](in-person-premeeting-not-needed-acceptability.md) — related

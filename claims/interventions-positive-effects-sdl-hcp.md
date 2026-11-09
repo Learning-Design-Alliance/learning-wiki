@@ -53,3 +53,4 @@ The review reports, citing Bing-Jonsson, a "significant improvement in competenc
 - [Participation in triage training programs was associated with higher triage decision-making scores across all domains during COVID-19](triage-training-associated-with-decision-making-skills.md) — related
 - [Repeated SDL skills training increases the approval rate of care tasks among healthcare professionals.](repeated-sdl-training-increases-approval-rate.md) — a narrower finding that bears on this claim
 - [Self-directed learning with a mobile skills training system significantly increases healthcare professionals' self-assessed self-efficacy for trained care tasks.](sdl-mobile-system-increases-self-efficacy.md) — related
+- [Point-of-care apps on handheld devices are reported to support workplace learning and could improve clinicians' clinical decision-making](point-of-care-apps-support-clinical-decision-making.md) — related

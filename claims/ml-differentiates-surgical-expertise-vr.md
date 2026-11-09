@@ -53,3 +53,4 @@ Authors' assertion in this commentary, citing prior machine-learning studies of 
 - [A VR simulation-based TTE test distinguishes novice from experienced physicians on all parameters, and novice from intermediate on most parameters](vr-tte-test-distinguishes-experience-levels.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related
+- [Simulator metrics differ in discriminatory ability: four virtual-reality metrics and all five phantom-tool metrics separated the experience groups](simulator-metrics-discriminatory-ability-colonoscopy.md) — a narrower finding that bears on this claim

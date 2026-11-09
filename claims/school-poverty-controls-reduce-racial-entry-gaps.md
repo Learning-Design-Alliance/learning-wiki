@@ -67,3 +67,4 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Nonwhite students score significantly lower than white classmates in both teaching conditions, with no differential gains from the experiment](nonwhite-students-score-lower-both-groups.md) — related
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
 - [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related
+- [Achievement gaps (gender, racial, class year, math background) were smaller at the end of the course than before it, based on a pre-test/post-test comparison within the course](course-tended-to-reduce-achievement-gaps.md) — related

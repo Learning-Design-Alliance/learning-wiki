@@ -50,3 +50,4 @@ Attrition analysis of the longitudinal user study: the authors reviewed the empa
 - [LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different](llm-epitome-scores-differentiate-nonempathetic.md) — related
 - [Non-expert participants often fail to notice empathy differences between chatbot versions, so self-reported perceived empathy alone is an unreliable assessment method](nonexpert-perceived-empathy-unreliable.md) — related
 - [Days in the study predict rising step counts but declining intention to follow chatbot advice regardless of empathetic condition](days-in-study-step-counts-up-intention-down.md) — related
+- [Attrition before follow-up was significantly more likely in the game condition than the control condition](higher-attrition-game-condition.md) — related

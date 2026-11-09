@@ -51,3 +51,4 @@ Logistic regression within the same three-cohort comparative study (N = 954). Th
 - [Drop-out is lower among curriculum sample selected students than among lottery-admitted students](curriculum-sample-selection-lower-dropout.md) — related
 - [Selected students earn a higher practical clinical course grade than lottery-admitted students, also after pu-GPA adjustment](curriculum-sample-selection-practical-clinical-course-grade.md) — related
 - [The additional value of curriculum sample selection over pu-GPA is strongest for applicants in lower pu-GPA categories](selection-additional-value-strongest-lower-pu-gpa.md) — related
+- [Cognitive selected students earn significantly more ECTS at 52 weeks than lottery-admitted students](cognitive-selected-more-ects-52-weeks.md) — related

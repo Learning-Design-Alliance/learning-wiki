@@ -56,3 +56,4 @@ The authors call these promising targets because they are malleable, citing a se
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — a narrower finding that bears on this claim
 - [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](metacognition-math-correlation-adolescence-pooled.md) — possibly the same claim (merge candidate)
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
+- [By year end, regulation of metacognition correlates moderately with academic results, more strongly than knowledge](regulation-moderate-correlation-results-end.md) — related

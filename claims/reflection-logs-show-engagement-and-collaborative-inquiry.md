@@ -48,3 +48,4 @@ Qualitative summarization of the students' reflection logs, used "to triangulate
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
+- [The article claims WeChat–PBL stimulates learning interest and enthusiasm, improves self-directed learning and enhances peer collaboration](wechat-pbl-overall-benefits-claim.md) — related

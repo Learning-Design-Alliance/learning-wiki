@@ -82,3 +82,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
 - [Simulator features that realistically simulate basic PPH management steps may have supported learning of those skills](realistic-simulator-features-support-basic-skill-learning.md) — related
 - [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related
+- [Pre-hospital practitioners rate practical, hands-on and simulation-based CPC activities as most relevant and passive individual activities as least relevant](practical-activities-preferred-for-cpc.md) — related

@@ -48,3 +48,5 @@ Cross-sectional observational study of 310 congress delegates (114 novices, 49 b
 ## Related Claims
 - [Simulator completion time correlates negatively with endoscopy experience, supporting criterion validity](endonix-criterion-validity-experience-correlation.md) — related
 - [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — related
+- [A phantom-model test significantly discriminates between novice and experienced colonoscopists, with completion rates varying by case difficulty](phantom-colonoscopy-test-discriminates-experience-groups.md) — related
+- [A virtual-reality simulator test significantly discriminates between novice and experienced colonoscopists on an aggregated score](vr-colonoscopy-test-discriminates-experience-groups.md) — related

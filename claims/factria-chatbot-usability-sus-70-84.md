@@ -90,3 +90,4 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [OSCEai received an overall learning-tool rating of 4.62 and a recommendation likelihood of 4.78 out of 5](osceai-overall-reception-ratings.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
 - [Platform usability was rated high marginal (SUS 64.04) with no age-group difference, and chatbot usability was poor for older adults](epa-coach-usability-sus-cuq-ratings.md) — related
+- [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related

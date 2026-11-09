@@ -43,6 +43,7 @@ After the 20–25 minute simulation, the authors ran a 30–40 minute debrief co
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
+- [Combine a short SALT lecture with 30 minutes of patient-scenario group work within a one-hour session](short-lecture-plus-scenario-exercise-strategy.md)
 
 ## Examples
 -

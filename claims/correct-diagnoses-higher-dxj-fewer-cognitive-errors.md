@@ -50,3 +50,4 @@ Univariate group comparison of correctly versus incorrectly diagnosed cases amon
 - [Diagnostic justification scores and cognitive errors are the strongest multivariate predictors of diagnostic accuracy](dxj-and-cognitive-errors-strongest-predictors.md) — related
 - [First-year students completing 20 cases outperformed second-year students completing 10 cases in all clinical reasoning metrics by end of pre-clerkship](m1-20-cases-outperform-m2-10-cases.md) — related
 - [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related
+- [Simulator use showed no positive impact on the correct diagnostic pathway parameter, as students selected medically nonindicated tests](alice-no-pathway-improvement-test-selection.md) — related

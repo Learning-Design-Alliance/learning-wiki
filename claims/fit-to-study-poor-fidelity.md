@@ -68,3 +68,5 @@ Objective accelerometer (Axivity AX3) measurement during a single PE lesson in a
 - [The HIIT-style VPA intervention did not significantly improve internalising or externalising symptoms or self-esteem in young adolescents](fit-to-study-null-mental-health.md) — related
 - [Complier-average causal effect estimates were in line with the intention-to-treat null results](fit-to-study-cace-null.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
+- [Specialist-taught PE lessons produced more minutes of student MVPA than generalist-taught PE lessons, but the proportion of lesson time in MVPA did not differ](specialist-pe-more-mvpa-minutes-per-lesson-look.md) — related
+- [Specialist PE teachers delivered more lessons per week and were more actively engaged in teaching than generalist classroom teachers](specialist-teachers-more-engaged-lessons-look.md) — related

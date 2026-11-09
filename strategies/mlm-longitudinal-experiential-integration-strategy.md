@@ -50,6 +50,7 @@ The review recommends embedding MLM as a longitudinal, explicitly structured com
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](longitudinal-evaluation-of-elt-engineering-modules.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
+- [Implement consultation communication training longitudinally across the undergraduate medical education span](longitudinal-consultation-curriculum-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Correlational fixed effect (age) in the mixed-effects models of the 56-participa
 - [Negative in-the-moment emotions toward correct-outcome sentences predict significantly lower open-ended knowledge revision scores](negative-emotions-correct-outcome-predict-lower-revision.md) — related
 - [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](age-negative-reading-metacognitive-group.md) — related
 - [Older age is associated with higher probability of adequate academic performance among medical students in Lima](older-age-higher-adequate-performance-medical-students.md) — related
+- [Age negatively predicts expression of alternative conceptions and older students show less fragmented knowledge, but sex has almost no influence](age-fosters-knowledge-integration-sex-no-influence.md) — related

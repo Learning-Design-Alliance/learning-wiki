@@ -47,3 +47,4 @@ Intern self-reflection instrument responses collected anonymously during the thr
 ## Related Claims
 - [Most interns (90%, 18 of 20) found resident feedback somewhat or very helpful for improving future consult calls](interns-rate-resident-feedback-helpful.md) — related
 - [Resident opinion of intern consult ability correlates strongly (r = .65) with how well the consult question used the PICO framework](strong-correlation-resident-rating-pico-quality.md) — related
+- [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related

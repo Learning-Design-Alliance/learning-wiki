@@ -70,3 +70,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
 - [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related
 - [Time constraints are the major barrier to implementing additional physical activity in schools](time-constraints-major-barrier-pa.md) — related
+- [Teachers identify lack of teaching time within a packed curriculum as the main barrier to delivering physically active VFTs](teachers-time-barrier-active-vfts.md) — possibly the same claim (merge candidate)

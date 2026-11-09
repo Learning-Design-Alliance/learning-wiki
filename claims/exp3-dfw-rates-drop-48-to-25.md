@@ -49,3 +49,4 @@ Semester-level quasi-experiment at EMU measuring DFW rate (percentage withdrawin
 - [The experiment 3 design closed the achievement gap affecting underrepresented minority students, whose failure chance fell from 73% to 34%](exp3-urm-achievement-gap-closed.md) — a narrower finding that bears on this claim
 - [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related
 - [Student evaluations of teaching improved overall in experiment 3 relative to control terms](exp3-student-evaluations-improved.md) — related
+- [Non-URM students also showed a smaller but significant decrease in DFW rates with PLTL participation](pltl-reduces-dfw-non-urm-students.md) — related

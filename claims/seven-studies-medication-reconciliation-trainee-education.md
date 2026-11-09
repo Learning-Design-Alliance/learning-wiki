@@ -49,3 +49,4 @@ Systematic review screening of MEDLINE and EMBASE records: 69 studies identified
 - [Only 37.2% of residents were high performers in medication reconciliation after a standardized patient discharge encounter, with primary care program residents more likely to be high performers](residents-high-performers-medication-reconciliation-37-percent.md) — related
 - [Experiential education interventions for medical residents showed little effect on medication reconciliation competence and skills](resident-experiential-interventions-little-effect.md) — related
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
+- [A systematic search identified 13 national outcome frameworks, seven of which contain an explicit Scholar role](systematic-search-13-outcome-frameworks.md) — related

@@ -55,3 +55,4 @@ Randomized cross-over simulation study of 65 trainee doctors performing 2-min un
 - [Smartwatch feedback does not significantly improve chest compression rate or full decompression in infant CPR simulation](smartwatch-feedback-no-effect-rate-decompression.md) — related
 - [Percentage of sufficient compressions, compression depth, and compression frequency show no significant difference between the teaching groups](sufficient-compressions-no-group-difference.md) — related
 - [No statistically significant difference between simulation and standard training groups in compression rate or chest recoil](no-difference-compression-rate-recoil.md) — related
+- [In an intention-to-treat analysis, lowering the bed and pre-positioning a step stool did not significantly increase mean chest compression depth compared to control](bed-lowering-step-stool-intervention-null-compression-depth.md) — related

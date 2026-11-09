@@ -48,3 +48,4 @@ Questionnaire administered immediately after each of the three scenarios to both
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
 - [Simulation-group residents report greater behaviour change and spend more time on self-learning than lecture-group residents](simulation-group-greater-behaviour-change-and-self-learning-time.md) — related
 - [Simulation-group residents value the program and PGY-II residents as teaching staff more than lecture-group residents](simulation-group-higher-program-and-teaching-staff-ratings.md) — related
+- [Full hands-on participants rated the educational environment higher than lecture-only observers on the DREEM (P=0.038)](abcs3-full-participants-higher-dreem-than-observers.md) — related

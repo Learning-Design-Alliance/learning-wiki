@@ -69,3 +69,4 @@ The review reports, citing Newton et al.'s study of 13 GP supervisors, 13 medica
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — a broader claim this one bears on
 - [Few e-learning approaches meet the need for high levels of interactivity, reflection, practice and application to practice for health professionals learning self-management support](few-elearning-approaches-meet-interactivity-reflection-practice-needs.md) — related
+- [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related

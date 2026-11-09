@@ -49,3 +49,4 @@ Semi-structured interview study of medical students at a public medical universi
 - [In this Chinese medical-student sample, gender did not produce negative bias against female teachers, in contrast to findings reported from Western higher education](no-gender-bias-chinese-medical-set.md) — related
 - [Student-related factors—course attributes, course interest, peer influence, and defaulting to high scores—bias medical students' SET responses](student-factors-course-interest-peer-default-bias.md) — related
 - [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related
+- [Student ratings of teaching are confounded by teacher enthusiasm and reputation, student interest, course attendance, and subject and format type](confounding-factors-student-ratings.md) — related

@@ -58,3 +58,4 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 - [A BEME review found the OMP and SNAPPS models were the only clinical teaching strategies that consistently improved learners' clinical knowledge and skills](beme-review-omp-snapps-consistently-improved-skills.md) — related
 - [SNAPPS use yields benefits over traditional teaching and the OMP model, including increased learner satisfaction and clinical reasoning (Level 1b, Grade B)](snapps-benefits-over-traditional-and-omp.md) — a broader claim this one bears on
 - [SNAPPS and OMP produce no difference in medical students' expression of clinical reasoning during case presentation](snapps-omp-no-difference-clinical-reasoning-expression.md) — reports the opposite
+- [SNAPPS residents rated presenting the case efficiently, in the sequence given, and in depth significantly more highly than OMP residents](snapps-higher-self-eval-efficiency-sequence-depth.md) — related

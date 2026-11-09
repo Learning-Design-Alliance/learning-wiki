@@ -61,3 +61,5 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related
 - [Theoretical post-test scores rose from pre-test to post-test among undergraduate nursing students after an online basic life support course, in one uncontrolled pre-post study](online-bls-course-increased-theoretical-test-scores.md) — related
 - [A standardized simulation training module significantly increases telestroke knowledge of emergency teams, from 59±13% to 82±10% correct answers](simulation-training-raises-telestroke-knowledge-overall.md) — related
+- [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
+- [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related

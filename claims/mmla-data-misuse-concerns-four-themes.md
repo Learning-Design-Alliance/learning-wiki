@@ -77,3 +77,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences — related
 - [Teachers and students identify usability, learning analytics, emotion detection, trustworthiness, and privacy as required technological aspects for PAs](pa-technological-requirements-usability-analytics-trust.md) — related
 - [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related
+- [Patient privacy is at risk in the WeChat–PBL model and requires explicit protective measures](wechat-pbl-patient-privacy-risk.md) — related

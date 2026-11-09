@@ -49,6 +49,7 @@ The article recommends deploying long-menu questions selectively rather than uni
 ## Related Strategies
 
 - [Use problem-solving free-text tasks to test competency-based learning objectives, with e-based long-menu examinations to make evaluation feasible](e-based-long-menu-exams-conditional-knowledge.md)
+- [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 
 ## Examples
 -

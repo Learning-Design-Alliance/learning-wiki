@@ -21,6 +21,7 @@ Scholar is an early symbolic-AI teaching system that taught geographical facts a
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Scholar, one of the first AI-based teaching systems**: Scholar is presented as one of the first AI-based teaching systems in a field the article dates as some 50 years old. It was "based on symbolic AI rather than machine learning, and had the rudimentary pedagogy of asking and answering questions about geographical facts and relationships" (Carbonell, 1970). The article uses Scholar as the baseline against which progress along its seven dimensions is traced. (Benedict du Boulay (2024))
+- **Five-component taxonomy of the Scholar role derived from international outcome frameworks**: Through qualitative text analysis of 13 international outcome frameworks, the authors derive a taxonomy covering the Scholar role: "common basics, clinical application, research, teaching and educating, as well as lifelong learning". Each component contains content from all analysed frameworks, and together they cover all Scholar-role content. The taxonomy serves as the comparison baseline against which the NKLM's Scholar role is mapped. (Hautz SC et al. (2015))
 
 ### Claims
 
@@ -29,3 +30,4 @@ Scholar is an early symbolic-AI teaching system that taught geographical facts a
 
 ## Key Sources
 - Benedict du Boulay. (2024). Pedagogy, Cognition, Human Rights, and Social Justice. International Journal of Artificial Intelligence in Education 34:116–121. https://doi.org/10.1007/s40593-023-00355-0
+- Hautz SC, Hautz WE, Keller N, Feufel MA, Spies C. (2015). The scholar role in the National Competence Based Catalogues of Learning Objectives for Undergraduate Medical Education (NKLM) compared to other international frameworks. GMS German Medical Science. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4645747/

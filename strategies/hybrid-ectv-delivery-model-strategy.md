@@ -47,6 +47,7 @@ The article proposes that post-pandemic workplace-based assessment frameworks in
 ## Related Strategies
 
 - [Incorporate evidence-based feedback principles into ECTV training and implementation for registrars and ECT visitors](ectv-feedback-principles-training-strategy.md)
+- [Deliver specialist GP education on youth suicide risk as small face-to-face group training supplemented by online resources, with young people involved in delivery](gp-youth-suicide-training-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Randomised, observer-blinded non-inferiority trial: 30 novices randomised to dya
 - [More dyad than single-practice trainees achieved OSAUS scores above the pass/fail standard on the clinical transfer test](dyad-higher-transfer-pass-rate.md) — related
 - [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — a broader claim this one bears on
 - [Simulation-based ultrasound training improves OSAUS performance from pre- to post-test in both groups, with no interaction with training type](simulation-training-pre-post-gain-no-interaction.md) — related
+- [A far greater proportion of simulation-trained residents passed a pre-established OSAUS pass/fail level than clinically trained controls](simulation-tvs-training-pass-fail-proportion.md) — related

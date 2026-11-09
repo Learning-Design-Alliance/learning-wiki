@@ -85,3 +85,4 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [ChatGPT-4.0 and 3.5 cannot replace the comprehensive skill set required for effective medical practice](chatgpt-cannot-replace-comprehensive-medical-practice-skills.md) — related
 - [Assessment setting is a foundational criterion for AI vulnerability because unobserved AI use cannot be reliably detected](assessment-setting-primary-ai-vulnerability-criterion.md) — related
 - [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related
+- [The authors argue that safety interventions targeting more than one dimension of the 3D safety model (culture, system, technology) are more likely to make a substantial impression than one-dimensional interventions](multi-dimensional-safety-interventions-hypothesis.md) — related

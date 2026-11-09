@@ -54,3 +54,4 @@ The review reports a study comparing a generic communication skills programme wi
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
 - [Detailed role representation and joint rehearsal permitted a high degree of standardisation of SP roles, even over long periods](detailed-role-scripts-role-standardisation.md) — related
+- [A single 30-minute conversational placement raises speech pathology students' self-reported communication skill, knowledge and confidence regardless of whether the partner is a real patient, standardised patient or virtual patient](single-conversational-placement-raises-communication-self-efficacy.md) — related

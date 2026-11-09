@@ -51,3 +51,4 @@ Between-group RCT comparison of post-training OSCE scores: catheterization VPF 8
 - [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related
 - [O2O/PBL trainees scored higher on practical skills examination (urinary catheterization proficiency) than LBT trainees](o2o-pbl-higher-practical-skills-scores-nephrology.md) — related
 - [Smartphone-based video feedback showed no significant effect on catheterization and enema assignment scores](video-feedback-no-effect-catheterization-enema.md) — related
+- [Mobile video access did not significantly improve urinary catheterization knowledge or skill performance in the 1-week trial](mobile-video-no-significant-knowledge-skill-gains.md) — related

@@ -55,3 +55,4 @@ Cross-sectional survey of training base representatives; Table 3 listed training
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [FMSo residents rate interactive methods (case discussions, role-playing, brainstorming, workshops, CRBL) as more efficient than didactic courses and e-learning](fmso-residents-preferred-teaching-methods.md) — related
 - [Pharmacy students overwhelmingly endorse communication skills training and prefer role play as the learning method](students-endorse-cst-role-play-preferred.md) — related
+- [Role-play with simulated patients and feedback were the most frequently used instructional methods for communicative competencies](dach-sp-roleplay-feedback-instruction.md) — related

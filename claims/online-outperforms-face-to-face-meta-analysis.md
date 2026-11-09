@@ -71,3 +71,4 @@ The meta-analysis reports the pooled mean difference across the 51 contrasts as 
 - [Students in distance-learning-only support schools performed similarly to those receiving face-to-face support, though effect sizes favoured face-to-face](units-of-sound-distance-similar-to-face-to-face.md) — related
 - [VSO blended teaching shows no statistically significant difference in sterility awareness scores compared with video-based teaching](vso-no-sterility-awareness-difference.md) — a narrower finding that bears on this claim
 - [Online and face-to-face neurosurgery teaching produce no statistically significant difference in theory test scores](online-f2f-neurosurgery-theory-scores-no-difference.md) — a narrower finding that bears on this claim
+- [Blended learning combining online and classroom phases leads to better results than exclusively online or exclusively classroom teaching (as reported by the review)](blended-learning-beats-pure-modes-review-report.md) — related

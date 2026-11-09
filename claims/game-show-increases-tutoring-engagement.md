@@ -54,3 +54,4 @@ Process-data comparison between Game Show and Baseline conditions in the classro
 - [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](learning-by-teaching-teachable-agent-math-games.md) — a broader claim this one bears on
 - [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — related
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related
+- [Competition between colleagues motivates CPR practice more than competition between EMS sites](colleague-competition-motivates-more-than-site-competition.md) — related

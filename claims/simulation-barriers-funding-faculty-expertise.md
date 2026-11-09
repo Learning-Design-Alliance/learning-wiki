@@ -60,3 +60,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [A low-fidelity emergency medicine simulation curriculum using only locally available equipment was successfully implemented in a resource-limited Nepali teaching hospital](low-resource-em-simulation-curriculum-nepal.md) — related
 - [Laparoscopic training facilities were available to only 55% of US residency programs in 2006 and 73% of North American programs in 2014](laparoscopic-training-facilities-access-gap.md) — related
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
+- [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related

@@ -47,6 +47,7 @@ After a pilot course identified challenges impeding communication and learning, 
 ## Related Strategies
 
 - [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
+- [Use pilot qualitative work with teachers and pupils to surface barriers and facilitators before large-scale physically active lesson interventions](qualitative-pilot-before-pa-intervention.md)
 
 ## Examples
 -

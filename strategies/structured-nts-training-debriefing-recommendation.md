@@ -61,6 +61,7 @@ The article recommends embedding structured non-technical skills training in sim
 - [Structure NTS curricula as classroom introduction first, then simulation once basic technical proficiency is reached, with debriefing and level- and specialty-specific adaptation](nts-curriculum-classroom-then-simulation-strategy.md)
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
 - [Focused simulation-based training with debriefing and de-biasing strategies to help doctors recognize and manage cognitive errors](simulation-debriefing-debiasing-training-strategy.md)
+- [When planning simulation-based medical education, prioritise authentic roles, realistic teamwork and debriefing over the physical simulation site, using off-site simulation where convenient](prioritise-authentic-roles-and-debriefing-over-site.md)
 
 ## Examples
 -

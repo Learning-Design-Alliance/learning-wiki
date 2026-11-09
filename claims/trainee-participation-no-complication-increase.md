@@ -46,3 +46,5 @@ The review reports this from Kshirsagar et al.'s analysis of thyroid surgery cas
 
 ## Related Claims
 - [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — related
+- [Postoperative hemorrhage rates are similar for trainees and consultants after sutureless thyroid surgery](trainee-consultant-postoperative-hemorrhage-similar.md) — related
+- [Transient hypocalcemia rates are similar for trainees and consultants in sutureless thyroid surgery](trainee-consultant-transient-hypocalcemia-similar.md) — a narrower finding that bears on this claim

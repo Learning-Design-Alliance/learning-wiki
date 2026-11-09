@@ -80,3 +80,5 @@ The article reports, citing Shindala et al (2024), an RCT with 30 Family Medicin
 - [SNAPPS students initiated management discussions significantly more often, while identification of case-related self-study topics did not differ significantly](snapps-inpatient-student-initiated-discussions.md) — related
 - [SNAPPS presentations covered more basic clinical attributes and kept more diagnoses in the differential than traditional inpatient presentations](snapps-inpatient-summary-thoroughness-ddx-breadth.md) — a narrower finding that bears on this claim
 - [Teachers rated SNAPPS students' presentations better than control presentations, while students in the two groups reported similar perceptions except on self-study initiation](snapps-inpatient-teacher-student-perceptions.md) — related
+- [No statistically significant differences between SNAPPS and OMP groups in meaning units related to DD, MP, or LI](no-snapps-omp-difference-dd-mp-li-units.md) — related
+- [SNAPPS residents rated presenting the case efficiently, in the sequence given, and in depth significantly more highly than OMP residents](snapps-higher-self-eval-efficiency-sequence-depth.md) — related

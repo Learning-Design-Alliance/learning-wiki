@@ -53,3 +53,4 @@ Thematic analysis of open-ended survey responses following Braun and Clarke, fro
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
+- [Qualitative feedback identified challenge, realism, clinical value, educator value, absence of context and physical environment as themes, with the virtual patient seen as more challenging but yielding similar benefit](qualitative-themes-placement-experience.md) — related

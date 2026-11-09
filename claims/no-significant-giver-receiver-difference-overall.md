@@ -49,3 +49,4 @@ LSD post-hoc analysis on the translation test found the giver-receiver differenc
 - [The gloss-giver group made the most favorable vocabulary-learning progress over time compared with the receiver and control groups](giver-group-most-favorable-progress-over-time.md) — reports the opposite
 - [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — related
 - [On the translation test, the giver group outperformed both other groups and the receiver group outperformed the control group at the posttests](translation-test-giver-receiver-control-ordering.md) — reports the opposite
+- [The significant test-by-group interaction for percent-segments-entered reflected no between-group differences at any time point](segments-entered-interaction-no-group-differences.md) — related

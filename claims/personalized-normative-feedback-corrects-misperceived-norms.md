@@ -90,3 +90,4 @@ An open question for learning designers is durability: most evaluations measure 
 - Researchers overwhelmingly endorse Mertonian norms for science but perceive that other researchers act on counternorms — related
 - [Personalized normative feedback is the dominant technique among CBIs lacking a broad theory](personalized-normative-feedback-dominant-technique.md) — related
 - [Web-based self-help intervention reduced problem drinking more than control among adult problem drinkers](web-based-self-help-reduced-problem-drinking.md) — related
+- [The intervention produced a mean incremental effect of 0.73 glasses per week reduction in alcohol use and 0.49 fewer binge drinking occasions per 30 days relative to control.](alcoholic-alert-incremental-effects.md) — related

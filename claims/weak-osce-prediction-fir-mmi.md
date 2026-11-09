@@ -55,3 +55,4 @@ Multiple regression using mean ratings from two communication-skill OSCE station
 - [MMI scores significantly predict general-practitioner evaluations of psychosocial competencies during a one-week practice placement](hamburg-mmi-predicts-gp-competency-ratings.md) — related
 - [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — related
 - [International medical students score significantly poorer than German students on a psychosocial medicine OSCE total score, with non-EU students scoring poorest](international-students-poorer-psychosocial-osce-total.md) — related
+- [Some or major concerns at the CertHSc Career Aspirations MMI station are associated with lower first-year GPA, while other MMI stations show varied associations](mmi-station-career-aspirations-lower-gpa.md) — related

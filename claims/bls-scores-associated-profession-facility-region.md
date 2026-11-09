@@ -48,3 +48,4 @@ Bivariate chi-square/Fisher exact tests on the 229 BLS trainees' demographic var
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
 - [Most ACLS-trained health care professionals (73.4%) demonstrated adequate ACLS knowledge and skills immediately after training](ghana-heart-initiative-acls-adequate-73-4-percent.md) — related
 - [Most Ghanaian health care professionals trained through the Ghana Heart Initiative demonstrate adequate BLS knowledge and skills immediately after training (74.6%)](ghana-heart-initiative-bls-adequate-74-6-percent.md) — related
+- [Verification of failing learning activities differed significantly depending on the hospital and clinical practices unit where students trained](activity-verification-varies-by-hospital-unit.md) — related

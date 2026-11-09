@@ -67,3 +67,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
 - [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related
 - [Focus group participants reported post-pandemic communication difficulties and psychological impacts, though two reported improved communication](focus-group-post-pandemic-communication-difficulties.md) — related
+- [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related

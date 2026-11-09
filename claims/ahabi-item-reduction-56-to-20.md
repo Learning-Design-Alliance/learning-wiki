@@ -66,3 +66,4 @@ Homogeneity analysis during factorial validation, applying the Elbel (1965) reco
 
 ## Related Claims
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related
+- [Pilot testing removed or revised 16 SMCI items due to low discrimination, high interitem correlations, or participant feedback](smci-pilot-item-reduction.md) — related

@@ -46,6 +46,7 @@ The review's research team proposes "the implementation of a continuous professi
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
 - [Develop a suitable mix of presence and digital formats for continuing medical education seminar programs.](mix-presence-and-digital-formats-cme.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 
 ## Examples
 -

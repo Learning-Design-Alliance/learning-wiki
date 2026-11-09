@@ -48,3 +48,4 @@ Secondary-outcome analysis of the randomized trial using the 21-item Adult Readi
 - [In a randomized trial of physiotherapy students, AI-supported PBL produced greater two-week knowledge retention than traditional PBL, with a very large within-group effect from post-test to follow-up (Cohen's d = 3.14)](ai-pbl-greater-knowledge-retention-two-weeks.md) — related
 - [AI-supported PBL produced significantly greater gains in AI self-efficacy than traditional PBL, with a very large between-group effect (Cohen's d = 1.78)](ai-pbl-greater-ai-self-efficacy-gains.md) — related
 - [Educational use of ChatGPT within AI-PBL was not associated with any significant increase in internet addiction](ai-pbl-no-internet-addiction-increase.md) — related
+- [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related

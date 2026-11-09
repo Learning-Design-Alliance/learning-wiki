@@ -54,3 +54,4 @@ Five-station OSCE (25 min, scored 0–10, pass at 5) administered four months po
 - [Once competence in infant chest compression is achieved, the likelihood of retaining it at follow-up does not differ by how many months it took to achieve competence](icc-retention-independent-of-months-to-competence.md) — related
 - [Team training in neonatal resuscitation improved team performance on simulated re-evaluation at 3 and 6 months, but studies of neonatal outcomes are inconclusive](resuscitation-team-training-simulated-performance.md) — related
 - [Most final-year medical students fail to retain minimum passing standards on multiple simulation-taught clinical skills 12–24 months after initial training](skills-decay-unannounced-retest-12-24-months.md) — related
+- [Despite decay, novices' lung isolation skill scores were significantly above pre-training baseline at 2 months in a single-group pre-post study](partial-skill-retention-above-baseline-two-months.md) — related

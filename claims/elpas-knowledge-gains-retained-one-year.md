@@ -51,3 +51,4 @@ Controlled quasi-experimental repeated-measures study with 54 intervention and 3
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — a broader claim this one bears on
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related
+- [Twelve months after the course, the most resource-rich protocol (T4) showed the best persistent performance, and the method more effective at the course had more long-lasting effects](t4-best-persistent-12-month-retention.md) — related

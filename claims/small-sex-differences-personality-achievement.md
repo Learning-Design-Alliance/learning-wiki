@@ -54,3 +54,4 @@ Post-hoc ANOVAs for the sex main effect in the same 2 × 2 design (Table 3, Figu
 - [Olympiad victory level predicts achievement, explaining 9% of variance in Year grade and 24% in Examination, with examination scores differentiating regional, federal and international winners](olympiad-level-predicts-achievement.md) — related
 - [Selected STEM adolescents report slightly more internalizing and externalizing problems and less prosocial behaviour than unselected peers, with negligible effect sizes (partial η² = .006–.007)](small-behavioural-difficulty-differences-gifted.md) — related
 - [Adolescent girls scored higher than boys on conscientiousness, openness, emotion management, and neuroticism](gender-differences-big-five-em-adolescents.md) — related
+- [Female medical students score higher than male students on neuroticism, agreeableness and conscientiousness](gender-differences-big-five-medical-students.md) — related

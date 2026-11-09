@@ -76,3 +76,4 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [For the sample as a whole, elaborative feedback and knowledge of response feedback showed no significant difference in enhancing online L2 reading comprehension](no-overall-difference-elaborative-vs-kor-feedback-l2-reading.md) — related
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
 - [The Opener produced no difference on pre/post test scores across the whole project](opener-no-prepost-test-difference.md) — related
+- [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related

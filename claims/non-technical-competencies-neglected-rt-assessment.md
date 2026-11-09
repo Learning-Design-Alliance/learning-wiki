@@ -51,3 +51,4 @@ Conclusion-level finding from the cross-sectional survey of 181 RT leaders; the 
 - [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
+- [Existing Chinese residency training programs focus on clinical skills and medical knowledge but neglect communication, teamwork, professionalism](chinese-residency-training-neglects-nonclinical-competencies.md) — possibly the same claim (merge candidate)

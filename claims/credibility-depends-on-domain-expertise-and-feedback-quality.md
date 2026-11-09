@@ -52,3 +52,4 @@ Thematic analysis of the four trainee focus groups. Some trainees saw the assess
 - [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](expertise-agents-improved-learning.md) — a broader claim this one bears on
 - [Trainees desired strategies for improvement and coaching rather than mere assessment of performance](trainees-desire-coaching-not-scoring.md) — related
 - [Surgical trainees more often questioned the feedback and practicality of cross-specialty assessment than found it motivating](trainees-question-cross-specialty-assessment-value.md) — related
+- [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](peer-feedback-honest-constructive-credibility-caution.md) — related

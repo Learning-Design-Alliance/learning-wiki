@@ -74,3 +74,4 @@ Randomized crossover experiment with 149 students in two semesters of calculus-b
 - [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
 - [Active learning supports learning better than passive lectures, yet students' feelings of learning favor lectures](active-learning-felt-learning-paradox.md) — a broader claim this one bears on
 - [Students in active classrooms report a lower feeling of learning than students in passive lectures](active-learning-lower-fol-randomized-crossover.md) — related
+- [Flipped classroom use can lead to significant learning improvements among physics pupils and higher classroom activity than traditional lectures (as reported by the review)](flipped-classroom-physics-improvements.md) — related

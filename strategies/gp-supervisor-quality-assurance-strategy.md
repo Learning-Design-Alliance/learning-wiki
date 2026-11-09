@@ -46,6 +46,7 @@ The article describes a multi-phase quality-assurance approach for GP supervisor
 - [Implement a structured clinical supervision model with trained supervisors, scheduled observations, and three-way conferences](structured-clinical-supervision-implementation-strategy.md)
 - [Incorporate evidence-based feedback principles into ECTV training and implementation for registrars and ECT visitors](ectv-feedback-principles-training-strategy.md)
 - [Three-phase educational trip procedure: preliminary preparation, site visit with observation, follow-up evaluation](educational-trips-three-phase-procedure.md)
+- [Maintain qualifications through stroke-specific continuing education, quality assurance review, and minimum outcome benchmarks](maintenance-qualifications-cme-qa-benchmarks.md)
 
 ## Examples
 -

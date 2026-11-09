@@ -52,3 +52,4 @@ Randomized comparison of 98 two-distractor and 100 three-distractor MCQs from se
 - [Experimental items performed comparably to the other exam items, supporting generalisability of the format comparison](experimental-items-comparable-to-other-exam-items.md) — related
 - [Item-writing flaws are reported to compromise assessment reliability and validity with inconsistent effects](item-flaws-compromise-validity.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
+- [Item format has a significant effect on both difficulty and discrimination index in paediatric computer-based assessments](format-effect-difficulty-discrimination-cba.md) — related

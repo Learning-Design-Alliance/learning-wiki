@@ -50,3 +50,4 @@ Same qualitative post hoc thematic analysis of commentaries on the five lowest r
 - [The competency rated most important was acknowledging patients and family members as the source of control and full partner in care (overall rank 1, mean score 8.38)](full-partnership-competency-ranked-highest.md) — related
 - [There is substantial disagreement among healthcare professionals on which nursing competencies are most important for family-centred care](substantial-disagreement-fcc-competency-importance.md) — related
 - [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related
+- [Experts rate patient safety, sterility and seeking help as the most important elements in judging procedural competence](experts-rate-safety-sterility-seeking-help-most-important.md) — related

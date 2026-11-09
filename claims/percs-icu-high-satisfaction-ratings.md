@@ -60,3 +60,4 @@ Post-course evaluation questions on 5-point Likert scales administered to the 69
 - [After the later workshops, 100% of attendees reported feeling more confident assisting in theatre and would recommend the course](unanimous-confidence-and-recommendation-later-workshops.md) — related
 - [Participants rated the EOL simulation workshop highly and believed it would ameliorate their future handling of EOL situations](eol-workshop-positive-participant-ratings.md) — related
 - [Residents were motivated to play the abcdeSIM game, rating it 3.9 on a 5-point motivation scale](residents-motivated-to-play-abcdesim.md) — related
+- [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related

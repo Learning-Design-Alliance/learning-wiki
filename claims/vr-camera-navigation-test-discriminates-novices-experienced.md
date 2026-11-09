@@ -56,3 +56,4 @@ Single-center validation trial comparing 12 novice medical students with 12 expe
 - [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
 - [Residents outperform students on execution time and errors in the simplest laparoscopic tasks (construct validity)](labot-construct-validity-residents-outperform-students.md) — related
+- [TABLT performance score correlates positively with laparoscopic operative experience (Pearson correlation coefficient of 0·73)](tablt-score-correlates-with-experience.md) — related

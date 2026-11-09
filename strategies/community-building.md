@@ -91,6 +91,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Facilitate a learning community in which the teacher-learner knowledge boundary is blurred and social presence is cultivated](online-learning-community-facilitation-roles.md)
 - [Prepare video-feedback sessions with facilitators attentive to learners' psychological needs, skilled at linking feedback to communication theory](vf-session-preparation-facilitator-strategy.md)
 - [Facilitate online social interaction through small, non-obligatory discussion groups and support teachers to adapt their teaching style](small-non-obligatory-discussion-groups-blended-support.md)
+- [Structure in-class peer-discussion activities purposefully to promote equitable participation](structure-peer-discussions-for-equity.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

@@ -48,3 +48,4 @@ The same structural equation modelling analysis found an informant-specific patt
 ## Related Claims
 - [Teachers more enthusiastic about teaching mathematics show higher-quality instructional behaviour, both self-reported and student-rated](enthusiasm-for-teaching-predicts-instructional-quality.md) — reports the opposite
 - The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes — related
+- [Student ratings of teaching are confounded by teacher enthusiasm and reputation, student interest, course attendance, and subject and format type](confounding-factors-student-ratings.md) — related

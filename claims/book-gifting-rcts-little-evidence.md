@@ -50,3 +50,4 @@ Narrative review of prior book-gifting evaluations cited in the background secti
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Children in the intervention reported reading more books over the summer than control children](intervention-children-read-more-books-summer.md) — related
+- [Student ratings collected at the end of a term or course have small to null impact on professors' instructional skills](end-of-term-ratings-low-impact.md) — a narrower finding that bears on this claim

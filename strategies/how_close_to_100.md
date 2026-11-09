@@ -64,6 +64,7 @@ The game converts multiplication fact practice from rote recall into spatial-com
 - Arrays and area-model tasks — the same representational basis applied in instruction rather than game form
 - Fact-fluency games — other retrieval-practice games; this one adds a spatial constraint that most drill games lack
 - [Integrate math into game play and strategy rather than treating it as an add-on](integrate-math-into-game-play-not-add-on.md)
+- [Use active-learning techniques throughout — dice-rolling, think–pair–share, and role-playing — to elicit and combat probability misconceptions](dice-rolling-think-pair-share-roleplay-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each turn is a spaced, meaningful retrieval of a multiplication fact

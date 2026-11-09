@@ -54,3 +54,4 @@ Cross-sectional study of 350 students; Table 2 reports good versus poor nutritio
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — related
 - [Nutrition knowledge shows no significant association with academic performance](nutrition-knowledge-no-association-academic-performance.md) — reports the opposite
+- [Low Youth Healthy Eating Index score is associated with higher odds of poor ELA performance](low-yhei-poor-ela-performance.md) — related

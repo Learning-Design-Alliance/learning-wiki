@@ -57,3 +57,5 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related
 - [A contrasting-groups pass/fail score of 71 points on the OSCE produced no false positives or false negatives](osce-tus-pass-fail-71-no-false-classifications.md) — related
 - [A contrasting-groups pass/fail score of 48/50 points produced no false positives or false negatives](vr-tte-test-pass-fail-score-48.md) — related
+- [Contrasting-groups pass/fail standards were established for both simulator tests with overlapping-score consequences of one misclassified participant each](contrasting-groups-pass-fail-standards-colonoscopy.md) — related
+- [A pass–fail standard of 358 points set by the contrasting groups method misclassifies two of 20 novices and two of 20 experienced surgeons](tablt-pass-fail-358-contrasting-groups.md) — related

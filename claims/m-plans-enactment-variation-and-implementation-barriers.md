@@ -72,3 +72,4 @@ Interviews and surveys asked teachers to reflect on efforts to incorporate MDPs,
 - [Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning](data-routine-sensemaking-least-common-open-questioning.md) — related
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
 - [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
+- [Teachers describe physical activity in taught lessons as becoming routine practice in modern teaching, with variability in use](teachers-report-pa-lessons-becoming-norm.md) — related

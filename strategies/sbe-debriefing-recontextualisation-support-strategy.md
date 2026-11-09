@@ -50,6 +50,7 @@ The article recommends that SBE build in, assess and use teaching strategies to 
 
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Enable SBE integration through clearer definitions, targeted educator training, and institutional support including shared resources](sbe-enablement-definitions-training-institutional-support.md)
+- [Design debriefing with awareness of sociomaterial dimensions so intended learning outcomes are not blocked out](attend-to-sociomaterial-dimensions-in-debriefing-design.md)
 
 ## Examples
 -

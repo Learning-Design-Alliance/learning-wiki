@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-09
 sources:
   - id: fahl-jan-torge-2023
     resource: "https://doi.org/10.1186/s12909-023-04046-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In five of seven included studies, spaced VR simulator training groups showed significantly larger performance increases, steeper learning curves, or faster/more efficient completion than massed training groups. [→ Fahl Jan Torge 2023](#fahl-jan-torge-2023)
@@ -65,3 +66,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [Time efficiency was independently predicted by number of simulations, days between sessions, sex, surgical experience, and age, with an interaction in which less experienced participants improved faster across simulations](time-efficiency-predictors-interaction-experience-simulations.md) — related
 - [Spaced (distributed) practice sessions produced better retention of technical skills than massed practice for novice learners](spaced-practice-better-retention-than-massed.md) — related
 - [Self-guided and voluntary practice improve basic practical skills, with self-directed suturing schedules sometimes matching or exceeding expert-directed training](self-directed-learning-basic-practical-skills.md) — related
+- [One-day distributed and weekly distributed practice schedules produce no difference in bronchoscopy skills acquisition on a simulator](bjerrum-no-difference-one-day-vs-weekly-spaced-bronoscopy.md) — related

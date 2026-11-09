@@ -72,3 +72,4 @@ Minute-by-minute plotting of on-task behavior over whole sessions in the same Ro
 - [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related
 - [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) — related
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
+- [Student attention in traditional lectures declines after about ten minutes and is almost fully lost after 15 to 20 minutes (as reported by the review)](lecture-attention-declines-ten-minutes.md) — reports the opposite

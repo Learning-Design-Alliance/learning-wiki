@@ -52,6 +52,7 @@ The review recommends evaluating SBT programs with Kirkpatrick's Four-Level Trai
 - [Evaluate simulation training beyond immediate quiz and feedback measures using the Kirkpatrick four-level model and interval assessments](kirkpatrick-four-level-evaluation-for-simulation-studies.md)
 - [Kirkpatrick four-level evaluation of simulation training outcomes](kirkpatrick-four-level-sbl-evaluation.md)
 - [Nurse managers adopt the three-step model with Kirkpatrick-based evaluation for intern CPR training](managers-adopt-three-step-kirkpatrick-cpr-training.md)
+- [Evaluate teaching skills programs with valid, reliable, objective outcome measures and report results using the Kirkpatrick model](validated-outcome-measures-kirkpatrick-reporting.md)
 
 ## Examples
 -

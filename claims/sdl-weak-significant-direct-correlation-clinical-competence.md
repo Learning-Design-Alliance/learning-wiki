@@ -54,3 +54,5 @@ Pearson correlation analysis in the Findings section of a cross-sectional descri
 - [A chatbot-based self-directed learning program for mechanical ventilation nursing raises nursing students' clinical reasoning competency more than video lectures alone](chatbot-sdl-raises-clinical-reasoning-competency.md) — related
 - [Full Code simulation scores correlate positively but weakly with final course grades in clinical medicine and surgery courses (overall r = 0.30)](full-code-score-correlates-with-course-grade.md) — related
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
+- [Conventional medical school evaluation metrics only vaguely capture students' self-directed learning readiness, with no combination of grades or test scores strongly predicting it](assessment-metrics-vaguely-capture-sdlr-medical-students.md) — related
+- [Clinical reasoning performance in the FPE is positively but weakly correlated with average academic performance](fpe-weakly-correlated-with-academic-performance.md) — related

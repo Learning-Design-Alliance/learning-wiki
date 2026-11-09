@@ -47,3 +47,4 @@ Secondary analysis comparing the 88 experimental items with all other items in t
 ## Related Claims
 - [Long-menu and Type A question formats have equivalent discriminatory power when applied to identical question stems in summative exams](long-menu-type-a-equivalent-discriminatory-power.md) — related
 - [Reducing MCQ distractors from three to two does not compromise item difficulty, discriminative power, or overall quality in second-year medical exams](two-vs-three-distractors-no-psychometric-difference.md) — related
+- [Item format has a significant effect on both difficulty and discrimination index in paediatric computer-based assessments](format-effect-difficulty-discrimination-cba.md) — related

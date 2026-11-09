@@ -49,6 +49,7 @@ Because authoring tools are labor-intensive and the risk grows that investment w
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 - [Involve end-users and teachers early in educational game development](involve-end-users-early-game-development.md)
 - [Plan user administration and curriculum fit carefully for educational games](plan-user-administration-and-curriculum-fit.md)
+- [Use first-course evaluation feedback to improve the structure of the next course iteration](feedback-driven-course-iteration-strategy.md)
 
 ## Examples
 -

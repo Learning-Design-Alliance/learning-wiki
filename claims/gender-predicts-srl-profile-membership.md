@@ -79,3 +79,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related
 - [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — related
 - [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite
+- [Few students report groupmates limiting their participation, and lower biology competency, not gender or race/ethnicity, predicts such reports](low-exclusion-reports-competency-predicts.md) — related

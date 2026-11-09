@@ -49,3 +49,4 @@ Mixed-design (2 × 2) repeated-measures ANOVA on pre- and post-test OSAUS scores
 - [Dyad practice is non-inferior to individual practice in transferring simulation-based ultrasound skills to clinical performance with patients](dyad-practice-non-inferior-skills-transfer-ultrasound.md) — related
 - [Performance improved significantly from pre- to post-test in all group sizes, with no interaction between group size and training](pre-post-gains-all-group-sizes.md) — possibly the same claim (merge candidate)
 - [Group size (one to four trainees) did not significantly affect transfer test performance on OSAUS or GRS scores after simulation-based ultrasound training](group-size-no-effect-skills-transfer.md) — related
+- [The training effect on clinical performance did not vary by hospital](no-hospital-effect-on-performance.md) — related

@@ -79,3 +79,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Simulation-trained residents report higher willingness to repeat the training, while training satisfaction rates do not differ](st-willingness-retrain-higher.md) — a narrower finding that bears on this claim
 - [Department-wide acceptance and integration increased students' willingness to use Learning Moment, with utility rising as peer use rose](lm-department-wide-acceptance-theme.md) — related
 - [Practicing laparoscopic skills in a simulated environment is reported to yield good acceptance and improved technical skills](simulated-practice-improves-technical-skills.md) — a narrower finding that bears on this claim
+- [Students showed a high level of motivation and high acceptance when using the ALICE simulator](alice-high-student-acceptance-motivation.md) — a narrower finding that bears on this claim

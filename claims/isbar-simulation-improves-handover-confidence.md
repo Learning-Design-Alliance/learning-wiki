@@ -55,3 +55,5 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [Hybrid POCUS certification program participants' self-reported confidence improved significantly from pre-program to post-program](pocus-confidence-improved-hybrid-certification.md) — related
 - [Standardised scoring tools (ABCDE, NEWS, ISBAR) created a common language that participants experienced as strengthening clinical communication and confidence across service levels](standardised-language-scoring-tools-communication.md) — related
 - [In post-scenario self-assessments, ABCDE primary survey was performed in 18 of 21 scenarios but history-taking and handover schemes were applied only partly and communication aids mostly unused](abcde-used-history-schemes-incomplete.md) — related
+- [The training intervention significantly increases participants' confidence to consult with and communicate with adolescents](gp-adolescent-health-workshop-confidence-communicating-increase.md) — related
+- [The training intervention significantly increases participants' confidence to teach and facilitate small groups](gp-adolescent-health-workshop-confidence-teaching-increase.md) — related

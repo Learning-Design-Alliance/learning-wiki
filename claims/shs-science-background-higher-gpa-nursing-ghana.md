@@ -49,3 +49,4 @@ Ordinal logistic regression of last-semester GPA (ordered categories) among 320 
 ## Related Claims
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [Most young new farmers lack formal agricultural education backgrounds, with over half having no agricultural background at all.](young-new-farmers-non-agricultural-backgrounds.md) — related
+- [Exposure to at least two senior science subjects is associated with higher first-year GPA and higher odds of passing all courses](any-two-sciences-first-year-outcomes.md) — related

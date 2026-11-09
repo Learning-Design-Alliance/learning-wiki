@@ -49,3 +49,4 @@ Theme 1 of the inductive thematic analysis of participant interviews. The articl
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
 - [Approximately one-third of staff in one reported study found unannounced in situ simulation stressful and unpleasant](unannounced-iss-stressful-one-third-of-staff.md) — related
+- [Patients accepted being filmed during on-ward student supervision, reporting no discomfort and willingness to participate again](patient-acceptance-filmed-bedside-teaching.md) — related

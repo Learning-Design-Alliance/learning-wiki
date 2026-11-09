@@ -53,3 +53,4 @@ Descriptive statement about the program design as printed in the article: "New p
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](district-pipeline-partnerships-residency-gyo.md) — related
 - [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](stipends-enable-full-residency-participation.md) — related
+- [Suggestions for improving the intervention were less consistent across participants, including longer training, off-site venues, stipends, and added HIV and drug dosing content, while onsite no-stipend training proved acceptable to many](lhw-mixed-suggestions-intervention-improvement.md) — related

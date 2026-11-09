@@ -40,6 +40,7 @@ Step 5 of the workflow is an ongoing process with two strands. In explicit maint
 ## Related Strategies
 
 - [Separate feedback provision from competency certification, using feedback-approved reviewers or pre-submission review](feedback-approved-reviewers-presubmission-review.md)
+- [Maintain qualifications through stroke-specific continuing education, quality assurance review, and minimum outcome benchmarks](maintenance-qualifications-cme-qa-benchmarks.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ A mixed treatment comparison meta-analysis of 21 studies (22,622 examinees) pool
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
 - [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related
 - [Norm-referenced SET cut-offs label more professors unsatisfactory than criterion-referenced cut-offs, and quantitative courses draw lower SET ratings](norm-referenced-set-cutoffs-label-more-unsatisfactory.md) — related
+- [Norm-referenced methods predominated for setting cut-off scores, with criterion-referenced methods used only for OSCEs](dach-norm-referenced-cut-off-scores.md) — related

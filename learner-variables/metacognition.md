@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (125 show a difference, 40 mixed, 28 no difference) · 139 studies (65 causal, 23 associational, 16 review, 12 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 32 of 139 report an effect size · 192 claims rest on one study
+> **Evidence** · 196 claims (127 show a difference, 40 mixed, 29 no difference) · 140 studies (65 causal, 24 associational, 16 review, 12 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 33 of 140 report an effect size · 195 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -235,6 +235,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Academic motivation positively predicts metacognitive strategies and critical thinking, which positively predict academic performance](../claims/motivation-predicts-strategies-thinking-which-predict-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](../claims/high-achievers-use-more-monitoring-strategies.md) [+M] — learners who differ on it differ in outcomes
 - [The self-awareness metacognition subscale improved more in the traditionally taught control group than in the flipped classroom group](../claims/self-awareness-gain-greater-in-control-group.md) [+M] — measured as an outcome of the instruction studied
+- [By year end, regulation of metacognition correlates moderately with academic results, more strongly than knowledge](../claims/regulation-moderate-correlation-results-end.md) [+M] — learners who differ on it differ in outcomes
+- [First-year medical students' knowledge of metacognition shows no significant change over the academic year](../claims/no-change-metacognitive-knowledge-first-year.md) [-M] — measured as an outcome of the instruction studied
+- [Regulation of metacognition increases significantly over the first academic year](../claims/regulation-metacognition-increases-first-year.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -117,3 +117,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Wi-Fi signal interruptions and smartphone technical failures were a major barrier to the Just Dance Now exergame, causing student frustration](wifi-technical-failures-major-barrier.md) — related
 - [Technical obstacles with the Prezi presentation hindered rather than supported some students' learning](prezi-technical-obstacles-hindered-learning.md) — a narrower finding that bears on this claim
 - [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — a narrower finding that bears on this claim
+- [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related

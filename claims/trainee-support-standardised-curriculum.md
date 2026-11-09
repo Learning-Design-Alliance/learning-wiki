@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-09
 sources:
   - id: mooney-ss-2022
     resource: "https://doi.org/10.1111/ajo.13521"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Mooney SS 2022: no comparison group · Mooney SS 2022 (2): no comparison group (read from the study by two models, 2026-11-08)
 
 ## Subclaims
@@ -71,3 +72,4 @@ Free-text questionnaire responses identifying "quality of simulation, the use of
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
+- [Competition between colleagues motivates CPR practice more than competition between EMS sites](colleague-competition-motivates-more-than-site-competition.md) — related

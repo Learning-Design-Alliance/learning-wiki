@@ -74,3 +74,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
+- [Concept-map scoring parameters show high inter-rater reliability with the Novak and Gowin protocol](concept-map-scoring-high-interrater-reliability.md) — related

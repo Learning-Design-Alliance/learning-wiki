@@ -56,3 +56,4 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [Functional fidelity matters more than visual realism in simulator design, though enough visual cues are needed for senior trainee buy-in](functional-fidelity-over-visual-realism.md) — related
 - [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related
 - [Physicians rated the simulator helpful for anatomical understanding (75%) and epiduroscopy training (85%), but realism was acceptable to only 40%](epidurosim-survey-helpful-but-moderate-realism.md) — related
+- [Low-fidelity airway training models can provide the same training results as high-fidelity counterparts at lower cost, according to studies cited by the authors](low-fidelity-models-match-high-fidelity-results.md) — related

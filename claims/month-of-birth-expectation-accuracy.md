@@ -51,3 +51,4 @@ Regression of teacher expectation accuracy on month of delivery (recoded with Se
 - [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related
 - [SNP heritability of teacher expectation accuracy is imprecisely estimated, with only weak evidence at ages 11 and 14](weak-snp-heritability-expectation-accuracy.md) — related
 - [Parental social class patterns teacher expectation accuracy at age 11 but not at age 14](parental-social-class-expectation-accuracy-age-11-only.md) — related
+- [Each month later a child is born after September raises the risk of a poor score at every Key Stage and of SEN, with the effect largest at KS1](month-of-birth-relative-to-september-graded-risk.md) — related

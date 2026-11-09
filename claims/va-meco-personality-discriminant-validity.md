@@ -54,3 +54,4 @@ Correlational analysis in the N = 395 survey using the BFI-K. The article report
 - [NM competence is positively correlated with total empathy score (r=0.229), with no correlation found with the four personality trait dimensions](nm-competence-correlates-empathy-not-personality.md) — related
 - [BESSI SEB skills show discriminant validity from Big Five traits: convergent correlations average .59 while discriminant correlations average .27](bessi-discriminant-validity-from-big-five.md) — related
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — related
+- [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — related

@@ -68,3 +68,4 @@ Univariate change-score comparison in the quasi-experiment: pilot clinical physi
 - [Traditional face-to-face training had no significant impact on TB knowledge for any staff type](face-to-face-cme-no-significant-knowledge-impact.md) — related
 - [Vaccine storage knowledge scores rose from 5.6 to 9.8 of 11 correct answers among physicians and practice assistants after KeepCoool participation, in one single-group pre-post study with no comparison group](keepcoool-knowledge-score-increase.md) — related
 - [Synchronous E-learning participation is associated with higher TB knowledge among clinical physicians in a quasi-experiment](synchronous-elearning-raises-clinician-tb-knowledge.md) — related
+- [Attendance at clinic-based training sessions averaged only 31% of consenting clinicians, lowest for computer-based training (25%)](clinic-based-training-attendance-31-percent.md) — related

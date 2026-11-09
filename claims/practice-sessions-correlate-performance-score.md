@@ -49,3 +49,4 @@ Linear regression analysis reported in Results and Figure 3, which prints a corr
 - [Simulator measurements showed high temporal stability across sessions separated by at least one month](test-retest-temporal-stability.md) — related
 - [Students interested in surgery scored significantly higher on posttraining laparoscopic simulator tasks than non-interested students](surgical-interest-higher-posttraining-scores.md) — related
 - [Students interested in surgery completed significantly more self-guided practice sessions than non-interested students](surgical-interest-more-self-guided-practice.md) — related
+- [TABLT performance score correlates positively with laparoscopic operative experience (Pearson correlation coefficient of 0·73)](tablt-score-correlates-with-experience.md) — related

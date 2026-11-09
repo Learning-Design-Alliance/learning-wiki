@@ -56,3 +56,4 @@ Interrupted time series study observing teamwork behaviours during 39 real traum
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [Empathic tendency scores changed over time across all groups, rising after simulation and returning near baseline during counseling](empathy-changed-over-time-all-groups.md) — related
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
+- [In situ simulation, used most often in the operating room with multidisciplinary learners, is reported to improve the match between the virtual and the real and aid transfer of learning](in-situ-simulation-virtual-real-match.md) — related

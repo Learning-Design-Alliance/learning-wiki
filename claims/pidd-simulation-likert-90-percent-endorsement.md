@@ -53,3 +53,4 @@ Anonymous four-item 5-point Likert evaluation administered one week after the re
 - [Frontline nursing home staff rate in situ fall simulation training highly, with 98.5% rating the simulation good or very good](nursing-home-staff-rate-fall-simulation-highly.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Simulation is underused in preclinical basic science immunology education, with fewer than 10% of surveyed US medical schools using it for that content](simulation-underused-preclinical-immunology.md) — related
+- [Clarity of learning objectives and subjectively perceived learning achievements were the aspects rated least positively, with fewer than half of students in both sub-samples agreeing their expectations had been met](learning-outcome-clarity-rated-least-positively.md) — related

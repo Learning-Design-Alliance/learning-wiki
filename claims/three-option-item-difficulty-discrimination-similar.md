@@ -55,3 +55,4 @@ Paired t-tests on corrected point-biserial discrimination across the 150 matched
 - [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related
 - [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
 - [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related
+- [Item format has a significant effect on both difficulty and discrimination index in paediatric computer-based assessments](format-effect-difficulty-discrimination-cba.md) — related

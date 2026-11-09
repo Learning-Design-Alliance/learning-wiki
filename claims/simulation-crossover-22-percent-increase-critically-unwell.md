@@ -76,3 +76,5 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [Novices taught ureteroscopy and NTS in a full immersion/distributed simulation ('igloo') environment gained significantly higher NoTSS scores than novices taught by didactic methods](fids-igloo-outperformed-didactic-notss-novices.md) — related
 - [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related
+- [Full hands-on participants rated the educational environment higher than lecture-only observers on the DREEM (P=0.038)](abcs3-full-participants-higher-dreem-than-observers.md) — related
+- [Video-didactic training is comparable to simulation-based training for teaching novices basic lung isolation skills](video-didactic-comparable-simulation-lung-isolation.md) — related

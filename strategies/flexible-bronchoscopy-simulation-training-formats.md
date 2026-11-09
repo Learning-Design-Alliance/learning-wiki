@@ -17,7 +17,7 @@ sources:
 # Offer bronchoscopy simulation training in flexible formats—single-day, self-driven, in pairs, and with modeling examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends structuring bronchoscopy simulation training flexibly because evidence supports several formats: single-day training was as effective as one-week training; self-driven training significantly improved BSTAT scores (p < 0,0001); paired training matched individual training while using the same resources more efficiently; and "the modeling example group was found to be significantly better than the control group (p < 0.0001)". A systematic review cited by the article adds that training must be structured and learners assessed with validated tools.

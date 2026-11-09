@@ -52,3 +52,4 @@ Psychometric analysis of the eight self-report DESR items across the combined AD
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
+- [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related

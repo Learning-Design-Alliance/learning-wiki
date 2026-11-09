@@ -51,3 +51,4 @@ Authors' interpretation comparing baseline self-report percentages with the base
 - [Professionals self-report competence with clozapine guidelines but express less confidence in adhering to them](hcp-self-reported-competence-exceeds-confidence-clozapine.md) — related
 - [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — related
 - [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related
+- [Healthcare professionals' confidence, competence and knowledge scores rose across all 14 end-of-life care topics from pre-test to post-test after course participation, in one single-group pre-post study](teolc-course-improved-self-rated-eolc-confidence.md) — related

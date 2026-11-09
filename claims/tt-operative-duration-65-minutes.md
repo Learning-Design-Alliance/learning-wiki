@@ -50,3 +50,4 @@ Descriptive operative-time analysis in the retrospective audit, reporting median
 - [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — related
+- [Trainees take significantly longer to perform sutureless thyroid surgery than consultants](trainees-longer-surgery-duration-thyroid.md) — related

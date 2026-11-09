@@ -50,3 +50,4 @@ Feasibility evaluation of a pilot non-randomised controlled trial in which all 1
 - [A three-week ACP-SCT program achieved 100% recruitment, consent, and retention among hemodialysis nurses in a pilot study](acp-sct-pilot-full-recruitment-retention.md) — related
 - [Uptake of eCREST was higher when integrated into curriculum delivery (cohort two 22% vs cohort one 13%)](curriculum-integration-increased-ops-uptake.md) — related
 - [The G-SS program as scheduled was not feasible: student responsiveness reached 23% against an a priori 83% target](gss-responsiveness-below-target-not-feasible.md) — related
+- [The revised inter-professional dementia care course is feasible, with all components carried out as planned and near-full attendance in a pilot with 10 medical and 8 nursing students](komppidem-course-feasibility-pilot.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Randomized crossover study of 396 third-year medical students at 2 UK medical sc
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Medical students' confidence in obtaining patient consent rose significantly from pre-test to post-test within the CST group](cst-raises-consent-confidence.md) — related
 - Self-reported improvement in doctor-patient communication after simulation training was limited, with half the students reporting no increase — reports the opposite
+- [The training intervention significantly increases participants' confidence to consult with and communicate with adolescents](gp-adolescent-health-workshop-confidence-communicating-increase.md) — related

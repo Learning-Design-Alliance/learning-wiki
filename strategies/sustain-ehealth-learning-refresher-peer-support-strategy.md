@@ -52,6 +52,8 @@ In the Limitations section, the authors recommend strategies to sustain long-ter
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Provide two consecutive half days of suturing practice plus refresher sessions to build and maintain laparoscopic suturing proficiency](two-half-days-suturing-training-with-refreshers.md)
 - [Integrate unit-specific simulation training into regular workplace violence prevention programs](unit-specific-simulation-violence-prevention-strategy.md)
+- [Add a reinforcing booster counseling session after a personalized risk reduction plan to help sustain safer sex behavior change](ciss-booster-session-sustain-behavior-change.md)
+- [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
 
 ## Examples
 -

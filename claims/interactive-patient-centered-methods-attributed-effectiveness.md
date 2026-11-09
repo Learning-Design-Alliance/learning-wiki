@@ -54,3 +54,4 @@ Authors' interpretation in the discussion, not a tested result: the review sugge
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
 - [The authors report role reversal cultivates flexible problem-solving compared with one-way traditional teaching](role-reversal-flexible-problem-solving-claim.md) — related
 - [Participants recommended experiential learning strategies — role-plays and contact with CAM practitioners — for teaching CAM to clinical psychologists](experiential-cam-learning-role-plays-practitioners.md) — a narrower finding that bears on this claim
+- [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related

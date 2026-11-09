@@ -49,3 +49,4 @@ Review's audit of briefing and debriefing practices across the impaired-performa
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](high-stress-simulation-impairs-performance.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Neither imposed structure nor lack of structure made interprofessional collaboration a salient debriefing topic despite it being an explicit learning objective](debriefing-patterns-block-interprofessional-reflection.md) — related

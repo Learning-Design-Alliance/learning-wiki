@@ -54,3 +54,4 @@ Objective global rating scale (modified, previously validated) scored before and
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
 - [All six OSATS global rating scale variables scored significantly higher in the final drill than the first drill](osats-six-variables-improve-first-to-final-drill.md) — related
 - [Blinded expert OSATS ratings rose with training level: medical students averaged 1.33, residents 2.93, and fellows 3.60 on the rounded average scale](osats-scores-increase-with-training-level.md) — related
+- [Experts rate patient safety, sterility and seeking help as the most important elements in judging procedural competence](experts-rate-safety-sterility-seeking-help-most-important.md) — related

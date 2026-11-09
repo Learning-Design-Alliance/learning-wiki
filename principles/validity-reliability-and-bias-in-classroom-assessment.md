@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 453 claims (222 for, 203 mixed, 28 against) · 339 studies (108 associational, 82 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 339 report an effect size · 446 claims rest on one study
+> **Evidence** · 456 claims (223 for, 205 mixed, 28 against) · 341 studies (109 associational, 83 design, 57 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 341 report an effect size · 449 claims rest on one study
 
 ## Conditional relationship
 
@@ -297,6 +297,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [SCT scores for acute-abdomen clinical reasoning reached acceptable reliability (Cronbach's α > 0.75) with every scoring method except single best answer](../claims/sct-acute-abdomen-reliability-acceptable-except-sba.md) [+W] — attached 2026-11-09 from Goos M et al. (2016), which proposed "Favor case-based item analysis over question-based analysis in SCTs because of its better validity".
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](../claims/osce-shoulder-knee-interrater-agreement.md) [+W] — attached 2026-11-09 from Battistone Michael J. et al. (2017), which proposed "Develop OSCE content through multidisciplinary expert consensus (Delphi) to strengthen validity evidence".
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](../claims/se-12-reliable-partially-valid-instrument.md) [+W] — attached 2026-11-09 from Axboe Mette K. et al. (2016), which proposed "Tailor training-evaluation instruments to the curriculum being taught".
+- [Males and females show no significant difference in mean key-concept scores on constructed-response natural selection items or item strands](../claims/no-gender-difference-mean-kc-scores-cr-items.md) [~W] — attached 2026-11-09 from Federer Meghan Rector et al. (2016), which proposed "Examine gender effects on performance when designing and interpreting written assessment tasks in biology".
+- [The vast majority of ACORNS items showed no differential item functioning by gender; only the Prosimian and Penguin items showed KC performance differences](../claims/dif-limited-to-prosimian-penguin-items.md) [~W] — attached 2026-11-09 from Federer Meghan Rector et al. (2016), which proposed "Examine gender effects on performance when designing and interpreting written assessment tasks in biology"; tests this page's relationship.
+- [The SAFT shows excellent test-retest and inter-rater reliability for total scores](../claims/saft-excellent-reliability.md) [+W] — attached 2026-11-09 from Buchanan H et al. (2015), which proposed "Shortening an instrument to match learners' baseline knowledge: removing overly advanced items and simplifying response formats".
 
 ## Objective and learner-valued goal
 

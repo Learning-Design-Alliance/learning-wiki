@@ -49,3 +49,4 @@ Same randomized simulator experiment (40 participants); collision counts on the 
 - [PW simulator training significantly improves virtual-environment task completion time, retained two days later](pw-simulator-training-improves-ve-completion-time.md) — related
 - [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](teleoperation-error-metrics-decrease-over-training.md) — related
 - [PW simulator training transfers to real-environment driving, improving real task completion time two days after training](pw-simulator-training-transfers-to-real-driving.md) — related
+- [Simulator performance improved significantly from pre-test to post-tests and retention test on all measures except wall collisions](bronchoscopy-simulator-improvement-across-tests.md) — related

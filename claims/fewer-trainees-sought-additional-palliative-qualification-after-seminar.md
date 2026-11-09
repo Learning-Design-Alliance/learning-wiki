@@ -50,3 +50,4 @@ McNemar-type comparison of intention to pursue the additional qualification in p
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Seminar attendees rated palliative care as a GP task and part of general practice more highly than non-attendee trainees](attendees-rate-palliative-care-as-gp-task-higher.md) — related
 - [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related
+- [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related

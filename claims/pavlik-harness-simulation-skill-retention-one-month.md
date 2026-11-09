@@ -54,3 +54,5 @@ Repeated-measures ANOVA across baseline, post-intervention, and one-month retent
 - [Diagnostic accuracy gains from perceptual learning are retained three months after training ends](plm-accuracy-gains-retained-three-months.md) — related
 - [Four weeks of e-learning on managing substance-dependent pregnant women significantly increases midwives' knowledge compared with no educational intervention](e-learning-increases-midwives-knowledge-substance-dependent-care.md) — related
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
+- [Lung isolation insertion time increased from post-test to 2-month follow-up in one group with no comparison group](lung-isolation-insertion-time-decay-two-months.md) — related
+- [Despite decay, novices' lung isolation skill scores were significantly above pre-training baseline at 2 months in a single-group pre-post study](partial-skill-retention-above-baseline-two-months.md) — related

@@ -50,6 +50,7 @@ Drawing on this evaluation, the report recommends that a multi-component literac
 - [Clarify the role of targeted TA-led interventions within a broader teacher-led literacy strategy](clarify-targeted-intervention-within-teacher-led-strategy.md)
 - [Evaluate whole-school CPD with implementation measures tied to specific programme components](measure-implementation-components-whole-school-cpd.md)
 - [Develop and refine the programme further, including targeted oral language support, before subjecting it to a full trial](talk-for-writing-refine-before-full-trial-strategy.md)
+- [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
 
 ## Examples
 -

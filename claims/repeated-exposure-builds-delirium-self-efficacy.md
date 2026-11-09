@@ -100,3 +100,4 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Informants across professions reported enhanced self-efficacy and reduced stress after multi-professional PPH simulation training](enhanced-self-efficacy-reduced-stress-pph-simulation.md) — related
 - [Years of clinical experience significantly increase educator confidence in supporting FTP issues but not comfort](experience-increases-confidence-not-comfort-ftp.md) — related
 - [Interventions explicitly targeting self-efficacy through confidence-building strategies were effective with both future and practising healthcare professionals](self-efficacy-nutrition-care-interventions.md) — related
+- [Performing the physical therapist role was perceived as challenging to threatening, yet its impact on awareness of professional development was not questioned](pt-role-performance-challenging-to-threatening.md) — related

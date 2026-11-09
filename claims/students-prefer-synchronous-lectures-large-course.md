@@ -76,3 +76,4 @@ Anonymous learning-management-system survey on preferred lecture format for spri
 - [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related
 - [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
 - [Most surveyed students perceive little or no positive impact of recorded lecture use on their grades](perceived-little-grade-impact-of-recordings.md) — related
+- [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related

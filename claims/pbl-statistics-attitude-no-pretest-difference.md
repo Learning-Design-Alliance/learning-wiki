@@ -59,3 +59,4 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
 - [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related
 - [Post-knowledge test scores did not differ significantly between the E-learning group and the traditional teaching group](no-significant-posttest-difference-elearning-vs-traditional.md) — related
+- [Student attitudes toward statistics improved in the course, with ATS scores increasing by 0.32 pretest SDs](ebm-course-ats-attitude-gain.md) — related

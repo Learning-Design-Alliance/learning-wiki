@@ -39,6 +39,7 @@ The article recommends analyzing routinely collected operative experience data b
 ## Related Strategies
 
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
+- [Promote Reference Nurses' use of the electronic record system and analyze student reflective journals for improvement areas](promote-rn-electronic-records-and-reflective-journals.md)
 
 ## Examples
 -

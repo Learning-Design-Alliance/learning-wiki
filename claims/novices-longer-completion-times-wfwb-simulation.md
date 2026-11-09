@@ -63,3 +63,4 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [Experts self-assess their simulated performance and knowledge significantly higher than novices, whose lower self-ratings may more accurately reflect measured performance](expert-novice-self-assessment-discrepancy.md) — related
 - [Beginner endoscopists take longer than experts on simulator hemostasis procedures](beginners-slower-than-experts-simulator-hemostasis.md) — a narrower finding that bears on this claim
 - [Experienced surgeons completed all simulation exercises significantly faster than new surgeons, with no significant completion-time differences between intermediate and experienced surgeons](comptime-expertise-differences.md) — related
+- [A virtual-reality simulator test significantly discriminates between novice and experienced colonoscopists on an aggregated score](vr-colonoscopy-test-discriminates-experience-groups.md) — related

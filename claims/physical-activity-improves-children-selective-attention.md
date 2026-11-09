@@ -72,3 +72,4 @@ Cross-sectional evidence cited by the review contrasts sport-participating child
 - [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related
 - [Both cognitively engaging PA break programs (combo and cognition) improve children's mathematics performance more than an aerobic PA break program](cognitively-engaging-pa-breaks-improve-math.md) — related
 - [A 20-week classroom PA break program combining high cognitive engagement with high physical exertion improves children's shifting performance more than a low-cognitive-engagement aerobic program](combo-pa-breaks-improve-shifting.md) — related
+- [Teachers view physically active VFTs as inclusive lessons accommodating visual and kinaesthetic learners and pupils with attention disorders](vfts-inclusive-learning-teachers.md) — a narrower finding that bears on this claim

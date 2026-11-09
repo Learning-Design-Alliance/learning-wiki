@@ -49,3 +49,4 @@ Cross-sectional questionnaire study of 460 medical students at King Abdulaziz Un
 - [The post-quiz advantage of the combined flipped classroom + PBL group is confined to clinical case analysis, with no significant difference in basic theoretical knowledge](flipped-pbl-advantage-clinical-case-analysis-only.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related
 - [Medical students taught with PA-PBL added to lectures scored significantly higher than lecture-only controls on the final examination total score and on knowledge-recall MCQs, case-based MCQs, and MEQs](pa-pbl-higher-final-exam-scores-than-lecture.md) — related
+- [First-year nursing students in a problem-based fundamental nursing curriculum mostly prefer a hybrid problem-based and lecture-based learning environment](nursing-students-prefer-pbl-lbl-hybrid.md) — related
