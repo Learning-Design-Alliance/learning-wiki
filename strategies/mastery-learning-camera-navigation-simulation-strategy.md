@@ -48,6 +48,7 @@ The authors recommend a mastery learning approach in which, per the article, "al
 - [Mastery Based Progression](mastery-based-progression.md)
 - [Mastery Based Retesting](mastery-based-retesting.md)
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
+- [Incorporate suboptimal viewing scenarios and team training into camera navigation training programs](suboptimal-viewing-and-team-training-scenarios-strategy.md)
 
 ## Examples
 -

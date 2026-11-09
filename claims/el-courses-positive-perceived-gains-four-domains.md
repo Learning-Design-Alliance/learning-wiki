@@ -52,3 +52,4 @@ Mixed-methods survey of 152 of 153 students enrolled in two experiential learnin
 - [A higher proportion of experimental-group students agreed they improved in 6 competency domains on frequency-based Likert analysis, with no differences in research skills or professionalism](blended-cbl-competency-agreement-frequencies.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Student self-ratings exceeded instructor expectations in four competency domains but fell short in professional knowledge-skills and teamwork](self-ratings-versus-instructor-expectations-gap.md) — related
+- [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](vp-mooc-90-percent-helpful.md) — related

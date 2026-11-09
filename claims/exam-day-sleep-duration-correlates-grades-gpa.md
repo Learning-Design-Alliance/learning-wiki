@@ -56,3 +56,4 @@ Pearson correlation analysis (Table 2) in the same cross-sectional survey found 
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
 - [Final exam scores correlate positively with sleep efficiency, negatively with sleep onset latency, and negatively with the MADs of SE, SOL, and TST](exam-score-correlations-sleep-parameters.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
+- [Sleep regularity (SRI) is positively correlated with academic performance (GPA) in undergraduates, independent of sleep duration](sleep-regularity-index-positive-gpa-correlation.md) — related

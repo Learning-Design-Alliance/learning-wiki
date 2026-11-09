@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 36 studies (15 causal, 8 quant-synthesis, 8 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 40 claims rest on one study
+> **Evidence** · 48 claims (23 for, 22 mixed, 3 against) · 37 studies (15 causal, 8 quant-synthesis, 8 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 37 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Group work, the most common physically activating method, often produces only minimal movement](../claims/group-work-minimal-physical-activation.md) [+W] — attached 2026-11-08 from Rupp Robert et al. (2025), which proposed "Design physically active university teaching as stealth health: synchronise physical activity with learning rather than interrupting it".
 - [The juggling-math program significantly increased children's enjoyment of math lessons compared with the sedentary math program](../claims/juggling-math-increased-enjoyment.md) [~W] — attached 2026-11-08 from van den Berg V. et al. (2019), which proposed "Use children's enjoyment of physically active learning as the starting point for structurally incorporating physical activity in classrooms".
 - [Twenty weeks of classroom PA breaks did not significantly improve children's updating or inhibition regardless of cognitive engagement or exertion level](../claims/pa-breaks-no-updating-inhibition-gains.md) [~M] — attached 2026-11-09 from Egger Fabienne et al. (2019), which proposed "Design classroom PA breaks to combine physical exertion with high cognitive engagement rather than relying on pure aerobic activity".
+- [Staff consider feasible PA programmes to be short (1–5, up to 10 minutes), classroom-based, teacher-delivered, and provided in ready-to-use materials](../claims/feasible-pa-short-classroom-ready-to-use.md) [+W] — attached 2026-11-09 from van den Berg V. et al. (2017), which proposed "Classroom-based short PA breaks with ready-to-use materials".
+- [Teachers prefer PA breaks during or between lessons over PA integrated with academic content, viewing PA as a way to restore attention rather than a way to learn](../claims/pa-breaks-preferred-over-integration.md) [+W] — attached 2026-11-09 from van den Berg V. et al. (2017), which proposed "Classroom-based short PA breaks with ready-to-use materials".
 
 ## Claims
 

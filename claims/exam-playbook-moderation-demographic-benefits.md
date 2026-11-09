@@ -91,3 +91,4 @@ In the moderation models, "Race did not moderate Exam Playbook effects (χ2(7) =
 - [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — related
 - [The exam-score benefit of medium learner-centered practice levels is larger for male than female students, with no gender difference at medium-high or high levels](gender-interaction-learner-centered-exam.md) — related
 - [In an upper-division TBL biochemistry course, student gender, historically marginalized status, and generational status did not statistically explain differences in exam performance.](tbl-demographics-not-explain-exam-performance.md) — related
+- [In linear regression, treatment condition significantly predicted normalized gain scores (β = 0.12, p = 0.001) while demographic variables did not](regression-treatment-condition-predicts-meiosis-gains.md) — related

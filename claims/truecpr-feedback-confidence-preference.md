@@ -53,3 +53,4 @@ Post-scenario subjective ratings on a 100-degree scale in the same cross-over si
 - [Feedback device use shows no significant difference in correct hand positioning during simulated CPR](truecpr-feedback-hand-position-null.md) — related
 - [During CPR training, mean compression depth and chest recoil rose and compression rate fell from pre-test to post-test with real-time feedback devices, in one uncontrolled pre-post study](feedback-devices-improve-chest-compression-quality.md) — related
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
+- [Students who received a practical test with feedback report higher confidence and self-rated knowledge after CPR training than students with training only](cpr-test-feedback-higher-confidence-self-rated-knowledge.md) — related

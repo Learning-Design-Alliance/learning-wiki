@@ -54,3 +54,4 @@ Multiple regression using mean ratings from two communication-skill OSCE station
 - [MMI scores show no significant correlation with specific OSCE communication and history-taking stations](hamburg-mmi-null-osce-communication-stations.md) — related
 - [MMI scores significantly predict general-practitioner evaluations of psychosocial competencies during a one-week practice placement](hamburg-mmi-predicts-gp-competency-ratings.md) — related
 - [MMI scores significantly predict OSCE overall scores about one and a half years into study](hamburg-mmi-predicts-osce-overall.md) — related
+- [International medical students score significantly poorer than German students on a psychosocial medicine OSCE total score, with non-EU students scoring poorest](international-students-poorer-psychosocial-osce-total.md) — related

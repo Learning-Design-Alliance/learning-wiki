@@ -67,3 +67,4 @@ Three-point Likert self-efficacy ratings in the same 188-student survey. The res
 - [Gender divide in intimate examination exposure is pronounced, with males far more likely to have performed male genitalia and prostate examinations and females breast examinations](intimate-examination-gender-divide-jordan.md) — related
 - [A large proportion of graduating medical students in Jordan have never performed common intimate clinical examinations at all](students-never-performed-intimate-examinations.md) — related
 - [Fear of hurting the patient is the leading cause of student anxiety about pelvic and breast examination, with gender differences in other cited causes](fear-hurting-patient-main-anxiety-cause.md) — related
+- [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — related

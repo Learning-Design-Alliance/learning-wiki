@@ -59,3 +59,4 @@ Pre–post educational intervention study without control group (Scott et al. 20
 - [Pre-clinical medical students' overall knowledge of disaster response medicine rose from mean 6.99 to 13.31 of 20 after ELITE-DR self-learning videos, in one uncontrolled pre-post study](elite-dr-video-increases-drm-knowledge.md) — related
 - [Both debriefing strategies raise compliance toward 100% by the third simulated scenario](compliance-approaches-100-percent-third-scenario.md) — related
 - [An e-learning course significantly increased hypothermia knowledge among mountain rescuers from pretest to post-test (p < 0.001 in both groups).](e-learning-increases-hypothermia-knowledge-rescuers.md) — related
+- [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related

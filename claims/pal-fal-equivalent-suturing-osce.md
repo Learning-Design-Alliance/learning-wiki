@@ -53,3 +53,4 @@ Quasi-experimental randomized comparison of 60 phase 2 MBBS students (30 per gro
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [Modified Peyton training takes significantly less time than traditional Peyton training](modified-peyton-shorter-training-time.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

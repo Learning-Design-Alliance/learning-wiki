@@ -50,6 +50,7 @@ The authors recommend that tissue handling be measured objectively during roboti
 
 - [Develop universal objective assessment and feedback methods that go beyond time and motion to capture tissue handling and interaction forces](universal-objective-assessment-tissue-force-feedback.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Incorporate tool visibility and grip angle sensors into motion-tracked surgical skill assessment setups](add-visibility-grip-sensors-to-skill-assessment.md)
 
 ## Examples
 -

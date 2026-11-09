@@ -50,3 +50,4 @@ Self-reported approximate study hours collected after the seven weeks of teachin
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — reports the opposite
 - [Flipped classroom students spent more time preparing before class but less time reviewing after class than lecture students](flipped-classroom-shifts-study-time-pre-post.md) — reports the opposite
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related
+- [Self-reported exam preparation time did not differ between groups and did not positively correlate with examination scores](prep-time-null-correlation.md) — related

@@ -54,3 +54,4 @@ Null result from the less restrictive multilevel Model 1 on TALIS video study da
 - [Machine-learning classified teacher nonverbal immediacy during a lesson is positively related to student-perceived enthusiastic teaching behaviours](machine-learning-nvi-relates-to-perceived-enthusiasm.md) — related
 - [Students' interest directly after the lesson is positively related to their interest six weeks later](post-lesson-interest-predicts-six-week-interest.md) — related
 - [Teachers' self-efficacy for student engagement before the lesson is positively related to their machine-learning assessed nonverbal immediacy during the lesson](tsese-related-to-machine-learning-nvi.md) — related
+- [Neither teaching motivation nor teaching self-efficacy is directly associated with students' ratings of teaching quality in bedside teaching](no-direct-motivation-self-efficacy-effect-on-teaching-quality.md) — related

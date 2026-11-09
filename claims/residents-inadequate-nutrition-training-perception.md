@@ -51,3 +51,4 @@ Pre-course survey of 13 family medicine residents (response rate 54%). The artic
 - [Post-course, most respondents reported their nutrition counselling increased or improved and they planned more counselling and dietitian referrals](nutrition-course-counselling-increase-post.md) — related
 - [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — related
 - [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related
+- [Most doctors had received prior formal AKI lectures yet knowledge remained deficient](prior-aki-lectures-insufficient-knowledge.md) — related

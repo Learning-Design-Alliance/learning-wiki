@@ -47,3 +47,4 @@ Repeated measures ANOVA on the 115 FOCUS students' THEA scores testing whether g
 ## Related Claims
 - [FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)](focus-intervention-significant-thea-gains.md) — related
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related
+- [Students improved on some but not all emphasized study habits, with gains differing across semesters](study-habit-gains-differ-across-semesters.md) — related

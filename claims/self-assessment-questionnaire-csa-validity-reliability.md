@@ -60,3 +60,4 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related
+- [ASPECT's 16 items load onto three engagement factors (value of group activity, personal effort, instructor contribution) with Cronbach's alpha 0.78–0.91](aspect-sixteen-items-three-factors.md) — related

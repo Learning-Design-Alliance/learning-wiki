@@ -72,3 +72,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Postgraduate health professionals rated blended online modules as an effective preparation for face-to-face meetings, with a 7.6 median overall rating](blended-online-preparation-rated-effective-postgraduates.md) — related
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — a narrower finding that bears on this claim
+- [Students evaluated the online EBP modules positively, reporting new learning and future practice relevance](positive-student-evaluations-ebp-modules.md) — related

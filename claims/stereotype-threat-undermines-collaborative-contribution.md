@@ -61,3 +61,4 @@ The primer defines stereotype threat as a psychological phenomenon in which "stu
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](briefing-debriefing-absent-impaired-studies.md) — related
 - [BME students report masking their identity to fit in and to avoid negative stereotyping](bme-students-identity-masking.md) — related
+- [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — related

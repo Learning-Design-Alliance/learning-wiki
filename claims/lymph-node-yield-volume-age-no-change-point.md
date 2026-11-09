@@ -65,3 +65,4 @@ Age comparison of the same outcome: no change points for either group, despite t
 ## Related Claims
 - [Volume and age tertile analyses consistently showed earlier change points for higher-volume and younger surgeons, with middle tertiles in between](tertile-consistency-volume-age-change-points.md) — related
 - [Reoperation rates were lower for higher-volume and younger surgeons, but no proficiency change points were identified for reoperations](reoperation-rate-volume-age-no-change-point.md) — related
+- [Panel feedback led to removal of 4 sub-steps and addition of 2 skip patterns covering anterior versus posterior prostate approach and timing of lymph node dissection](rarp-inventory-skip-patterns.md) — related

@@ -49,3 +49,4 @@ Feasibility evaluation of the ACP-SCT pilot with twelve hemodialysis nurses recr
 - [Expert validation rated the ACP-SCT program content with an average Content Validity Index of 0.89](acp-sct-cvi-0-89-expert-validity.md) — related
 - [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](acp-sct-self-reported-communication-gains.md) — related
 - [Care home providers' ACP competency scores rose significantly from pre-test to post-test after completing the ACP workshop, in one uncontrolled pre-post assessment](acp-workshop-increases-competency-care-home-staff.md) — related
+- [A three-hour standardised patient scenario workshop is feasible to deliver to a full second-year physiotherapy cohort, with high recruitment, retention and survey response rates](sp-workshop-feasible-recruitment-retention.md) — related

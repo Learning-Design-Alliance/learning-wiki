@@ -54,3 +54,4 @@ Qualitative participant data from the included studies. The review contrasts thi
 - [Paediatric manikin death does not impair resuscitation performance measured against the NRP algorithm](manikin-death-no-performance-impairment-nrp.md) — related
 - [Participation in neonatal simulation raises salivary cortisol, but the rise is not dependent on whether the manikin dies](cortisol-rise-simulation-not-scenario-dependent.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
+- [A specific prebriefing warning of possible manikin death makes no significant difference to students' perceived self-efficacy compared with a conventional prebriefing](death-prebriefing-no-pse-difference.md) — related

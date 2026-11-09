@@ -104,3 +104,5 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — a narrower finding that bears on this claim
 - [Research training appears in 76.2% of curricula but with substantial variation, ranging from introductory methods courses (11.9%) to full‐time research projects (16.7%)](research-training-76-2-percent-variable-implementation.md) — related
 - [The Fit to Study intervention was marked by poor fidelity: fewer than half of intervention schools delivered the intervention in at least 50% of PE lessons, and achieved VPA levels were below target](fit-to-study-poor-fidelity.md) — a narrower finding that bears on this claim
+- [SMILE(UK) courses delivered with good adherence and high competence](smile-uk-good-adherence-high-competence.md) — related
+- [Four adherence items fully delivered across all courses; omitted items mostly workbook-related](workbook-items-most-often-omitted.md) — a narrower finding that bears on this claim

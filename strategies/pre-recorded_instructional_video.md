@@ -94,6 +94,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Improve the teaching quality of online content delivery and use video strategies such as interactive elements and cognitive-load management](improve-recorded-lecture-quality-and-video-strategies.md)
 - [Use short in-house videos to complement lectures by making instruments, locations, and processes accessible, then engage students with a question](short-videos-complement-lectures-strategy.md)
 - [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
+- [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](reuse-lecture-slides-interactive-modules-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

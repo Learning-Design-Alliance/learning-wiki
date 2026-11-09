@@ -50,3 +50,4 @@ Wilcoxon rank-sum comparison of mean simulation completion times in the randomiz
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
 - [SCS training produced a statistically significant greater reduction in procedure time in the intervention group than in the control group (–15.98 versus –1.14 min; P = 0.024)](scs-reduces-procedure-time-simulated-cholecystectomy.md) — related
 - [Developing a cineVR-based trauma training curriculum using real patient-care scenarios at an academic medical center is feasible](cinevr-trauma-curriculum-feasible.md) — related
+- [Smartphone application users completed the exam simulation faster than controls, significantly in complete-case analyses but not intention-to-treat](smartphone-app-reduces-test-completion-time.md) — related

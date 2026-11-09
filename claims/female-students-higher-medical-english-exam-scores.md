@@ -53,3 +53,4 @@ Between-group and within-group comparisons of final exam scores by sex in the sa
 - [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related
 - [Female medical students scored higher than male students on both pre-test and post-test knowledge measures in the escape room evaluation](escape-room-gender-knowledge-correlation.md) — related
 - [The Smart Class teaching module and the Traditional Class teaching module produced no statistically significant difference in medical English exam scores among first-year physiotherapy students](smart-class-traditional-class-similar-medical-english-exam-scores.md) — a broader claim this one bears on
+- [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related

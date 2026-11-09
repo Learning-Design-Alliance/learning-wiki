@@ -72,3 +72,4 @@ In the same regression analyses, access modality did not significantly predict t
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
 - [Number of failed subjects differs significantly by connecting device type among LMS-connecting students](device-type-failed-subjects-differences.md) — related
+- [Students predominantly accessed the podcasts on smartphones and laptops, contrasting with earlier computer-dominated access patterns](podcasts-accessed-mainly-smartphones.md) — related

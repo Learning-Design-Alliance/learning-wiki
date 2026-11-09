@@ -127,3 +127,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [The stepwise ramp let critical team skills be taught and reinforced in a manageable way, with leadership skills easier in smaller team structures before commanding larger teams in later cycles.](stepwise-complexity-eases-leadership-skill-teaching.md) — related
 - [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — a broader claim this one bears on
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
+- [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related

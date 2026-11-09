@@ -57,3 +57,4 @@ Thematic synthesis (RQ 3) of included studies' reports of enablers and barriers,
 - [Simulation technologies in nursing SBL are used in 3 ways: to create realistic settings, to modify scenarios, and to monitor simulations.](three-uses-simulation-technology-nursing-sbl.md) — related
 - [Learners experience LTT as highly realistic because of reactive physiology, real bleeding, and actions having consequences with instantaneous feedback](ltt-clinical-realism-reactive-physiology.md) — a narrower finding that bears on this claim
 - [Learners' buy-in to a realistic, immersive educational experience ('being' rather than 'pretending') enables agentic engagement](being-not-pretending-enables-agentic-learning.md) — related
+- [Dramatization-based simulation has technical limitations: not all procedures can be executed on simulated patients, and physiological outcomes cannot be controlled](technical-limitations-dramatization-simulation.md) — reports the opposite

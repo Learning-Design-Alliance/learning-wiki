@@ -69,3 +69,4 @@ The article's discussion reports the same trial result descriptively: "the avera
 - [NIVR simulation training and conventional training produced no significant difference in OSCE drill scores](nivr-isolation-training-no-drill-score-difference.md) — related
 - [First-year radiography students trained with VR simulation completed an OSCE significantly faster than students trained with physical simulation](vr-simulation-shorter-osce-time-radiography.md) — related
 - [No significant difference between VR and control groups in time spent on ultrasonographic tasks](no-time-difference-vr-ultrasound-tasks.md) — related
+- [Smartphone application users completed the exam simulation faster than controls, significantly in complete-case analyses but not intention-to-treat](smartphone-app-reduces-test-completion-time.md) — related

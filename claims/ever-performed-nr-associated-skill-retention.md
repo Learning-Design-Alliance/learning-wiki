@@ -50,3 +50,5 @@ Multivariable logistic regression on 427 participants; 20.8% of those who had ev
 - [Only 11.2% of midwives and nurses in Eastern Ethiopia public health facilities demonstrated good retention of basic neonatal resuscitation skills](low-nr-skill-retention-eastern-ethiopia.md) — related
 - [Good knowledge of neonatal resuscitation was associated with over three times higher odds of skill retention](good-nr-knowledge-associated-skill-retention.md) — related
 - [Midwives were over seven times more likely than nurses to retain neonatal resuscitation skills](midwives-more-likely-retain-nr-skills.md) — related
+- [Daily bag-and-mask skill checks show the strongest association with retention of neonatal resuscitation skills (RR-5.1)](daily-bag-mask-skill-checks-retain-skills-rr5-1.md) — related
+- [Using self-evaluation checklists after every delivery is associated with a four-fold higher likelihood of retaining resuscitation skills (RR-3.8)](self-evaluation-checklists-retain-skills-rr3-8.md) — related

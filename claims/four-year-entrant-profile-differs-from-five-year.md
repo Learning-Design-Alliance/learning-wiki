@@ -50,3 +50,4 @@ Observational comparison of demographic and educational profiles in the UKMED 20
 - [Successful completion rates of graduate entrants are about 95% and do not differ significantly between 4-year and 5-year medicine programme types](graduate-entrant-completion-95-percent-no-programme-type-difference.md) — related
 - [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
+- [Students from independent schools enter medical school with significantly higher pre-entry test scores than state-funded school students](independent-school-students-higher-pre-entry-scores.md) — related

@@ -72,3 +72,4 @@ Direct effects structural model in the same sample; all predictors except A had 
 - [Big Five personality traits do not moderate the effects of verbal intelligence or strategic EI on adolescents' GPA](personality-does-not-moderate-ability-effects-gpa.md) — related
 - [Strategic EI and its branches correlate positively with adolescents' GPA, with EU at r = 0.20 and EM at r = 0.17](strategic-ei-gpa-correlations-adolescents.md) — related
 - [Strategic EI incrementally predicts adolescents' GPA over verbal intelligence and personality, adding a significant 2% of variance](strategic-ei-incremental-gpa-prediction-adolescents.md) — related
+- [Total EI score is an independent predictor of final MBBS examination results after adjusting for gender](ei-independent-predictor-final-mbbs-results.md) — related

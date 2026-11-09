@@ -48,3 +48,4 @@ The review reports a categorization from prior literature identifying "Three pri
 - [A scoping review of 2010–2025 literature analysed 34 studies and grouped family physician competencies into eight categories](scoping-review-34-studies-eight-competency-categories.md) — related
 - [The review attributes to Japanese survey evidence that family physicians with stronger communication abilities are perceived as more effective and achieve higher patient satisfaction](communication-ability-perceived-effectiveness-japan.md) — related
 - [Teachers overwhelmingly rank inspiring student enthusiasm for learning as the most important characteristic for earning professional respect](inspiring-enthusiasm-top-teacher-value.md) — related
+- [Teachers' perceptions of their students' competencies are positively associated with students' ratings of teaching quality](perceived-student-competencies-associated-teaching-quality.md) — related

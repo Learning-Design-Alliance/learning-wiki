@@ -53,3 +53,4 @@ Focus-group finding with middle school teachers discussing family night and lite
 - [DLGs bring the community in and take new learnings out, with family involvement increasing children's motivation](dlg-community-involvement-family-motivation.md) — related
 - [Teachers and parents reported that ATC's Home Links videos improved home-to-school interactions and student engagement](atc-home-links-engagement-home-school.md) — related
 - [Family Math Night participants reported the events were worthwhile and improved understanding of STEM](rmep-fmn-positive-evaluations.md) — related
+- [CPC families participated in far more school events than comparison families in year 1 of the Midwest expansion](cpc-parent-involvement-events-12-4-vs-2-7.md) — related

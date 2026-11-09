@@ -52,3 +52,4 @@ Reported advantages and disadvantages from the trainee and lecturer evaluation o
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [Lecturers rated trainee interaction as worse or significantly worse in the digital format, and a majority assessed trainee learning success as worse than classical teaching.](lecturers-worse-interaction-learning-online.md) — related
 - [Students rated asynchronous and rigid online methodologies (uploaded documents, chat-only, homework) as sub-standard, citing limited learning and lack of feedback](asynchronous-methodologies-rated-substandard.md) — related
+- [Flexible time allocation and repeatability were the main reasons students chose the online format](flexibility-repeatability-drive-online-choice.md) — a narrower finding that bears on this claim

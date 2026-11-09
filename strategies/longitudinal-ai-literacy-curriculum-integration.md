@@ -43,6 +43,7 @@ The review recommends that AI competencies be integrated longitudinally across a
 ## Related Strategies
 
 - [Staged mixed model integrating AI across orthopaedic training progression](staged-mixed-model-ai-ortho-training.md)
+- [Integrate simulation learning experiences in stages throughout the physiotherapy curriculum rather than as one-off exposures](staged-simulation-integration-physiotherapy-curricula.md)
 
 ## Examples
 -

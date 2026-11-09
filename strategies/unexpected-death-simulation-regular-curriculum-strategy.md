@@ -55,6 +55,7 @@ The strategy is to incorporate simulation sessions in which the simulated patien
 
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Two-stage prebriefing strategy: advance written communication plus a short in-person prebrief on the day of the simulation](two-stage-prebriefing-in-situ-simulation-strategy.md)
+- [Design simulated-death sessions with student-non-fault scenarios, experienced instructors, and an extended debriefing that releases guilt and gives practical advice](simulated-death-session-design-strategy.md)
 
 ## Examples
 -

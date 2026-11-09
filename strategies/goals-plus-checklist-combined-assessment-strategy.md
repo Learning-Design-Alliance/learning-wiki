@@ -51,6 +51,7 @@ Performances at each test were filmed and anonymously viewed by a surgical educa
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
 - [Combine case-specific checklist items capturing communication outcomes with a global rating scale for general communication competencies](combined-grs-checklist-communication-assessment-strategy.md)
+- [Validate the stepwise assessment tool by having blinded experts rate endoscopic videos of resident and expert cases step by step using GEARS](blinded-video-rating-gears-validation-strategy.md)
 
 ## Examples
 -

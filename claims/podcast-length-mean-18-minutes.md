@@ -47,3 +47,4 @@ Descriptive synthesis of the 17 included papers that reported podcast duration, 
 ## Related Claims
 - [Canadian anesthesiology residents preferred 15- to 30-minute didactic podcasts and 5- to 15-minute formats for other modalities, with little interest beyond 45 minutes](resident-length-preference-15-30-minutes.md) — related
 - [In situ fall simulation can be run within a typical nursing home shift, averaging 16.3 minutes including debrief](in-situ-fall-simulation-feasible-within-shift.md) — related
+- [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related

@@ -51,3 +51,4 @@ Authors' interpretation of SUTT1 and FLS retention results from the randomized t
 - [Knot quality improved much more slowly than time efficiency in laparoscopic knotting training](knot-quality-improves-slower-than-time-efficiency.md) — related
 - [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — related
+- [Observation condition had no effect on either transfer task (knot tying and ball drop), with Bayes evidence of equivalence across groups](no-transfer-task-group-effects.md) — related

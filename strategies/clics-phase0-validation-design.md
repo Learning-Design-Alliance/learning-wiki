@@ -51,7 +51,8 @@ The planned phase 0 pilot enrolls up to 75 licensed physicians contributing up t
 - [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](../claims/agentic-assessment-rater-agreement-and-helpfulness.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Validate the stepwise assessment tool by having blinded experts rate endoscopic videos of resident and expert cases step by step using GEARS](blinded-video-rating-gears-validation-strategy.md)
 
 ## Examples
 -

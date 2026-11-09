@@ -91,3 +91,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — possibly the same claim (merge candidate)
 - [Nurse mentors identified simulation training, doctor-nurse communication, and physician leadership as enablers of high-quality PE/E care](mentor-identified-enablers-pe-e-care.md) — related
 - [Reported outcomes of clinical leadership interventions span personal development, leadership knowledge and skills, clinical skills, teamwork, patient care and service delivery](clinical-leadership-intervention-outcomes-range.md) — related
+- [Training was perceived to establish shared understanding, responsibility, and leadership during PPH emergencies, including mobilized response to calls for help](shared-understanding-leadership-pph-teamwork.md) — related

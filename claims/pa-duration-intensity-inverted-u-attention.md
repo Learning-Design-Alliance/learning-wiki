@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2014
-source_checked: 2026-10-20
+source_checked: 2026-11-09
 sources:
   - id: janssen-m-2014
     resource: "https://doi.org/10.1186/2193-1801-3-410"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q1`–`q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Short bouts (max 20 minutes) mostly showed significant effects while a 45-minute bout showed none, and moderate intensity may be optimal per an inverted-U relationship. [→ Janssen M 2014](#janssen-m-2014)
@@ -83,3 +83,4 @@ Authors' interpretation citing the Yerkes-Dodson inverted-U hypothesis and evide
 - [Whether PA itself causes the positive mathematics effects remains unclear, with engagement, attention from adults and innovative teaching proposed as alternative explanations](pa-math-causality-alternative-explanations.md) — related
 - [Substituting academic classes with two weekly PA sessions was neither detrimental to cognitive performance nor academic achievement](pa-substitution-not-detrimental.md) — related
 - [Acute resistance exercise improves middle school students' standardized math test performance compared to non-exercise](resistance-exercise-improves-math-scores-vs-non-exercise.md) — a narrower finding that bears on this claim
+- [Staff consider feasible PA programmes to be short (1–5, up to 10 minutes), classroom-based, teacher-delivered, and provided in ready-to-use materials](feasible-pa-short-classroom-ready-to-use.md) — related

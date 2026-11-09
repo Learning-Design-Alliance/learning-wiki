@@ -62,6 +62,7 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 - [Direct Instruction](../patterns/direct-instruction.md) — the scripted high-response-rate teaching model this strategy most often accompanies
 - [Flipped Classroom](../principles/flipped-learning.md) — reallocates exposure time outside class to maximize in-class active engagement
 - [Provide students frequent and varying opportunities to respond to and engage in activities](frequent-varying-opportunities-to-respond.md)
+- [Deliver sessions using the SAAFE strategy set: supportive feedback, activity-maximizing structures, choice with rationale, fair mastery tasks and enjoyable variety](saafe-session-delivery-strategies.md)
 
 ## Examples
 - **National Institute for Direct Instruction (DI) programs** (e.g., *Reading Mastery*, https://www.nifdi.org) — rapid-paced choral and individual responding every few seconds, with in-program review distributed across lessons.

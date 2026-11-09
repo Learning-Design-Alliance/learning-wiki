@@ -51,3 +51,4 @@ Baseline evaluation during the first cholecystectomy (FAS, n = 18) showed a wide
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
+- [No significant difference in operating-room camera navigation performance between simulation-trained camera, procedure, and control groups](no-transfer-or-camera-navigation-difference.md) — related

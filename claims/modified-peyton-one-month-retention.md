@@ -53,3 +53,4 @@ One-month follow-up OSCE assessment in the RCT (t = 8.551, P < 0.001 in Table 5)
 - [The combined Peyton's four-step and flipped classroom intervention produced higher clinical case analysis scores than traditional teaching](peyton-flipped-higher-case-analysis-scores.md) — related
 - [First-year OB-GYN residents taught with the refined Peyton four-step method score higher on basic skill operation assessments than residents taught with traditional simulation-based instruction](refined-peyton-higher-skill-operation-scores.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

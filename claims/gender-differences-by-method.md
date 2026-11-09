@@ -52,3 +52,4 @@ Within-group t-tests by gender (Laban: 8 female, 6 male; Traditional: 6 female, 
 - [Laban advantage holds for dance Sections I–III but not Section IV in individual learning](laban-section-wise-individual-advantage.md) — related
 - [Team learning achievement also favors the Laban group overall and in Sections I–III](laban-team-achievement-advantage.md) — related
 - [Both groups reached 'very good' average achievement levels, with Laban group means of 4.37–4.57 per section](both-groups-very-good-levels.md) — related
+- [Female students' good grades improved significantly in both software years versus the control year, while male students' year-wise comparison showed no significance](female-year-wise-gains-significant-males-not.md) — related

@@ -67,3 +67,4 @@ The review reports that in the curiosity tradeoff task, "OFC neurons encode both
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — related
 - [Monkeys pay for non-strategic information: information about a reward is worth about 25% of the reward's value](monkeys-value-information-25-percent-of-reward.md) — related
 - [In adults with ADHD, dopamine D2/D3 receptor and DAT availability in the reward pathway correlate positively with trait motivation](da-reward-pathway-correlates-trait-motivation-adhd.md) — related
+- [Dopamine and acetylcholine, released during motivation and attention, enhance synaptic plasticity, while blocking them impairs it](dopamine-ach-enhance-synaptic-plasticity.md) — related

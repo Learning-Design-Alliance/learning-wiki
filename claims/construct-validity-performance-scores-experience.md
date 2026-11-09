@@ -70,3 +70,4 @@ Construct validity was assessed by comparing operative scores and times across t
 - [Experts rated the didactic value of the harder tasks for training novice surgeons significantly lower than novices did](eosim-experts-rate-novice-didactic-value-lower.md) — related
 - [Movement efficiency on the VR simulator was independently predicted by number of simulations, surgical experience level, and years since college graduation](movement-efficiency-predictors-simulations-experience-graduation.md) — related
 - [Resident experience level predicted training assessment scores but not final assessment scores after simulation training](experience-predicts-training-not-final-scores.md) — related
+- [VR simulation competency benchmarks set relative to mean expert performance (e.g. 75% of mean expert score) discriminate novice, intermediate and expert trainees and must be modifiable to the training institute](expert-anchored-vr-benchmarks-modifiable.md) — related

@@ -51,3 +51,4 @@ K-means clustering (k=4, chosen by elbow method and silhouette analysis) of norm
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
 - [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related
 - [Academic performance was highly consistent across the four repeatedly taught groups, with no significant ANOVA difference and a negligible effect size](pre-session-planning-consistent-academic-performance.md) — related
+- [Normalized change in exam scores was higher for focal students than control students across all pairs of exams in both semesters](normalized-change-higher-focal-students.md) — related

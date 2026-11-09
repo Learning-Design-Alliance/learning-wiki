@@ -68,3 +68,4 @@ Mann–Whitney U test of total perception score by gender (Table 4): female medi
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
 - [No significant gender-based differences in iRAT, end-of-session test scores, or TBL ratings.](tbl-no-gender-differences.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related

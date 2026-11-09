@@ -61,3 +61,4 @@ Randomized controlled trial of 120 residents randomized to modified (n = 60) or 
 - [First-year OB-GYN residents taught with the refined Peyton four-step method score higher on basic skill operation assessments than residents taught with traditional simulation-based instruction](refined-peyton-higher-skill-operation-scores.md) — related
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

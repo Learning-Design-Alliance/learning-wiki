@@ -62,3 +62,5 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
+- [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related
+- [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related

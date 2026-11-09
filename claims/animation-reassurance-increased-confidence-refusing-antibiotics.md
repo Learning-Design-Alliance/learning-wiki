@@ -48,3 +48,4 @@ Inductive thematic analysis of semistructured telephone interviews with 15 presc
 - [The e-learning intervention was acceptable and its completion feasible for nurse and pharmacist prescribers](elearning-animation-acceptable-useful-prescribers.md) — related
 - [Prescribers reported high pre-existing confidence with slight postintervention increases in communication-related confidence](high-confidence-slight-post-intervention-increases-communication.md) — related
 - [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related
+- [Interviewed nurses reported skill development, empowerment and improved confidence, and reflection on their practice following the intervention](qualitative-empowerment-skill-development-reflection.md) — related

@@ -50,3 +50,4 @@ Secondary analysis of improvement scores by sex across the three randomized grou
 - [Female students in the group learning group significantly outperformed female students in the conventional group on the mathematics post-test](female-experimental-outperformed-female-control-math.md) — related
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — related
+- [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related

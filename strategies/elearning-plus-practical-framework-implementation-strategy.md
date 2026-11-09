@@ -48,6 +48,7 @@ The authors recommend that e-learning interventions aiming to change clinical co
 ## Related Strategies
 
 - [Train teachers through hands-on practice of the tutoring procedure with a supporting resource pack](hands-on-teacher-training-practice-with-resource-pack.md)
+- [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
 
 ## Examples
 -

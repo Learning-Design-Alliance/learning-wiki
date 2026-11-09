@@ -49,3 +49,4 @@ Focus group finding in the debriefing theme. Participants valued the experienced
 - [Participants perceive manikin death as reflecting inadequate resuscitation, but facilitator reassurance and debriefing resolve this](death-perceived-as-failure-mitigated-by-debrief.md) — related
 - [The unexpected character of the confrontation with death was considered the key to the simulation's success](unexpected-death-confrontation-key-to-success.md) — related
 - [Unexpected simulated patient death evokes varying degrees of emotional distress, with the active renunciation of life-sustaining measures felt as particularly formative](simulated-death-emotional-distress-active-renunciation.md) — related
+- [Self-rated perceived self-efficacy for managing sudden-death situations rose significantly from before to after the debriefing phase of a simulation involving unexpected manikin death](debriefing-increases-pse-after-simulated-death.md) — related

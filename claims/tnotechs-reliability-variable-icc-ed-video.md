@@ -54,3 +54,4 @@ Narrative synthesis of reliability data across included T-NOTECHS studies; Stein
 - [Averaging T-NOTECHS scores across three assessors yields excellent reliability for all five behavioral domains, whereas single-rater reliability is fair for two domains](tnotechs-three-rater-domain-reliability.md) — related
 - [T-NOTECHS assessment of trauma-team non-technical skills by video analysis shows excellent reliability for the overall score (average ICC 0.94; single-rater ICC 0.84)](tnotechs-video-reliability-overall-excellent.md) — related
 - [Video analysis may improve T-NOTECHS reliability compared with live observation, based on comparison with prior live-observer findings](video-analysis-improves-tnotechs-reliability-suggestion.md) — related
+- [Inter-rater reliability of the DPCC-MS varies substantially across rater pairs, from poor to excellent](dpcc-ms-inter-rater-reliability-variable.md) — related

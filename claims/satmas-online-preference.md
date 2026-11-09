@@ -53,3 +53,4 @@ Pre/post-course feedback from students who completed all seven sessions, analyse
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — related
 - [Overall teaching quality is equivalent across online and face-to-face formats, and delegates show no preference shift between formats](overall-teaching-quality-equivalent-formats.md) — reports the opposite
+- [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — reports the opposite

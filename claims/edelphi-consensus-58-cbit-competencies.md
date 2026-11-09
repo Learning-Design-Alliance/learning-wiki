@@ -70,3 +70,4 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [Shared construction of integrated care plans in multiprofessional student teams develops the interprofessional teamwork competency progressively](ipe-shared-care-plans-develop-teamwork-competency.md) — related
 - [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related
 - [A four-round Delphi panel of infection-control experts in Brazil reached consensus on 4 core, 14 generic and 17 specific competencies for HCRI prevention and control](delphi-consent-hcri-competencies-brazil.md) — related
+- [The top 10 competencies found in this study show 80% congruency with a prior two-country ranking study and 90% with its German cohort](top10-competency-congruency-prior-ranking-study.md) — related

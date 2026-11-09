@@ -52,3 +52,4 @@ Nationwide cross-sectional survey of Italian paediatric residents distributed vi
 - [Where SBMT is used in Italian paediatric residencies it focuses on procedures and skills, with debriefing least common](sbmt-use-focuses-on-procedures-not-debriefing.md) — related
 - [Residents' confidence in managing paediatric and neonatal emergencies does not differ by residency year or prior SBMT exposure](emergency-confidence-no-difference-year-or-sbmt-exposure.md) — related
 - [SBMT is the preferred method for teaching several emergency technical skills, including chest compressions and cardioversion/defibrillation](sbmt-preferred-method-emergency-technical-skills.md) — related
+- [Two-thirds of Swiss pediatric hospitals offered SBMT in 2015, a marked increase from three institutions in 2009](two-thirds-swiss-pediatric-hospitals-sbmt-2015.md) — related

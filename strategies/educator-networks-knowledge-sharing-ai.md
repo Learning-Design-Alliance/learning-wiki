@@ -44,6 +44,7 @@ The review reports, citing Salas-Pilco (2020), a strategy of organising educator
 - [Schedule collaboration during summer months or existing professional development days to overcome staff time constraints](schedule-collaboration-in-summer-or-pd-days.md)
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 - [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](join-national-innovation-networks-ai-readiness.md)
+- [Involve instructors of each country in training the next country's group to build a multinational cooperation network](sequential-multinational-instructor-collaboration.md)
 
 ## Examples
 -

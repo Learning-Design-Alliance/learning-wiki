@@ -66,6 +66,7 @@ Travel journals work because they force elaborative encoding: translating experi
 - [Exit Tickets](exit-ticket.md) — a single-session snapshot that can feed into the journal's longer arc
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 - [Use end-of-section journal writing as a writing-to-learn activity during a science unit](end-of-section-journal-writing-wtl-strategy.md)
+- [Implement comprehensive portfolios as learner charts within programmatic assessment, documenting progress longitudinally to service both learning and assessment](comprehensive-portfolio-learner-chart-programmatic-assessment.md)
 
 ## Examples
 - **Study-abroad programs** commonly require travel journals combining cultural observation sketches with reflective prose; structured prompts about cultural assumptions turn sightseeing into intercultural learning [~M]

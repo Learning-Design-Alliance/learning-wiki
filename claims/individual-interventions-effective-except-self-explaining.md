@@ -69,3 +69,4 @@ Mixed-effects moderator analysis across the seven intervention categories (Table
 - [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](situation-model-interventions-metacomprehension-effect.md) — related
 - Risk of bias did not significantly affect effect sizes in the intervention studies, though six of ten had moderate and four serious overall bias — related
 - [Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
+- [Concept maps enhance comprehension and recall of class material compared with strategies such as listening to lectures or rereading, though evidence is mixed](concept-maps-enhance-comprehension-recall.md) — reports the opposite

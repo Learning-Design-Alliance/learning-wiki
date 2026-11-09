@@ -57,3 +57,4 @@ Analysis of the reading sections of six operational test forms (2005-2007 admini
 - [In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs. 4.8%-7.4% under the small)](ignored-local-dependence-overestimates-reliability-simulation.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
+- [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related

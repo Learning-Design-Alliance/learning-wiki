@@ -53,3 +53,4 @@ Background-literature finding: the article reports, citing Alaker et al.'s meta-
 - [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — a narrower finding that bears on this claim
+- [Intensive basic laparoscopic skills training reduces time and errors when medical students later perform robotic tasks, in a review-reported dry lab cohort study](laparoscopic-training-eases-robotic-skill-acquisition.md) — related

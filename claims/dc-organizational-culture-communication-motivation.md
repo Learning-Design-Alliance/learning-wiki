@@ -53,3 +53,4 @@ Qualitative FGD study with 20 participants; organizational behaviour management 
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Performance evaluation with defined indicators and auditing is identified as a critical component of department chair performance improvement](dc-performance-evaluation-indicators-auditing.md) — related
 - [Faculty physicians identify an organizational culture of humanism as the overarching organizational factor motivating humanistic practice.](organizational-culture-of-humanism-overarching-motivator.md) — related
+- [Official top-down support from the dean is associated with faster curriculum-mapping progress, and its absence with very slow progress](dean-top-down-support-mapping-progress.md) — related

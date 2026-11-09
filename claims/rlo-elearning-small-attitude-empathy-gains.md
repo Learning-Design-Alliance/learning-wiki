@@ -50,3 +50,5 @@ Item-level analysis of the SHAS and Reynolds Empathy Scale in the single-group p
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [Empathy scores increased significantly from pre to post after MOOC participation in health sciences undergraduates](mooc-prepost-empathy-increase.md) — related
+- [In one uncontrolled pre-post study, nurses' self-rated attitudes towards CYP who self-harm rose on the Effectiveness factor only from pre-test to post-test, with no significant changes on Negativity or Worry (completers d = 0.49)](attitude-effectiveness-improvement-completers.md) — related
+- [Registered children's nurses who completed the co-produced digital educational intervention showed a statistically significant increase in knowledge of self-harm in CYP (Cohen's d = 0.69 in completers)](coproduced-rlo-knowledge-gains-self-harm-nurses.md) — related

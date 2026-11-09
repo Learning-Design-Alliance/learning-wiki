@@ -49,3 +49,4 @@ Unadjusted logistic regressions in ALSPAC (N = 8,132): single parent OR 1.70 (95
 - [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md) — related
 - [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md) — related
 - [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — a narrower finding that bears on this claim
+- [Socioeconomic status does not differ between families of children with ADHD using methylphenidate and those not taking medication](ses-similar-medicated-unmedicated-adhd-groups.md) — related

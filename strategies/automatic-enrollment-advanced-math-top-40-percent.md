@@ -50,6 +50,7 @@ Texas SB 2124 requires districts to automatically enroll sixth grade students wh
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
 - [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](multiple-measures-dc-placement.md)
 - [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
+- [Offer high-performing students an opt-out from repeated testing based on a routine initial profiling test](profiling-based-opt-out-from-repeated-testing.md)
 
 ## Examples
 -

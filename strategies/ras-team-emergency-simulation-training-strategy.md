@@ -58,6 +58,7 @@ The review recommends that RAS teams routinely rehearse emergency scenarios such
 - [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 - [Establish formalised two-consultant co-operation with strictly alternating operator and assistant roles to maintain complex-procedure skills in low-volume settings](dual-surgeon-alternating-roles-strategy.md)
 - [Multiprofessional in situ simulation of procedural complications to develop situational awareness](in-situ-simulation-endoscopy-complications-situational-awareness.md)
+- [Use NOTSS for individual surgeon non-technical skills training and Oxford NOTECHS II for team-based training](notss-notechs-nontechnical-skills-training.md)
 
 ## Examples
 -

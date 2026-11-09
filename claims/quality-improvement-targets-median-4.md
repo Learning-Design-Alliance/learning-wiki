@@ -45,4 +45,4 @@ Formative assessment in which GP trainers self-formulated quality improvement ta
 
 
 ## Related Claims
--
+- [97.2% of GPs' formulated intended changes were partially or fully implemented in daily practice](ctc-intended-changes-implemented.md) — related

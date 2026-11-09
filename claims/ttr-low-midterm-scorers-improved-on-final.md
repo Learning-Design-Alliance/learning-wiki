@@ -45,3 +45,4 @@ Descriptive analysis of individual score changes between the unannounced midterm
 
 ## Related Claims
 - [Most students who ultimately failed the exam still expected to pass three days before it, showing persistent overconfidence despite knowledge gain](failers-still-expected-to-pass.md) — related
+- [Flickering students who succeed on the last midterm are more likely to fail the final, indicating risk of overestimated mastery](flicker-off-last-midterm-paradox.md) — related

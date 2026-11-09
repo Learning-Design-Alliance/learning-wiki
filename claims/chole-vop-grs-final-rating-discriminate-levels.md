@@ -53,3 +53,4 @@ Kruskal–Wallis analysis of the 5-item GRS and 3-point final competency rating 
 - [Novices achieve significantly lower rubric scores than intermediate and expert providers in simulated WFWB collection and transfusion](novices-lower-rubric-scores-wfwb-simulation.md) — related
 - [LMIC users outperformed HIC users on summed checklist and GRS scores, with the largest differences on intracorporeal suturing, knot tying, and tissue-handling items](lmic-users-outperform-hic-on-chole-vop.md) — related
 - [The Otoskills simulator discriminates among novice, intermediate and expert surgeons at baseline in both performance scores and GRS scores](otoskills-simulator-discriminates-experience-levels.md) — related
+- [GRS scores discriminate all three experience groups, while checklist scores fail to distinguish novices from intermediates and intermediates from experts](grs-outperforms-checklist-discriminating-expertise.md) — related

@@ -55,3 +55,4 @@ Network meta-analysis of learning interest from 16 studies, covering 7 teaching 
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related
+- [Students' general interest in a lesson's subject is positively associated with their ratings of teaching quality](student-general-interest-bias-teaching-ratings.md) — related

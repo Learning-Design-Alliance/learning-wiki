@@ -51,3 +51,4 @@ Cross-sectional observational study of 427 midwives and nurses in 10 hospitals a
 - [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related
 - [Receiving NR refresher training was not significantly associated with skill retention in this study, contrary to much prior literature](refresher-training-not-associated-retention.md) — related
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — a broader claim this one bears on
+- [Using self-evaluation checklists after every delivery is associated with a four-fold higher likelihood of retaining resuscitation skills (RR-3.8)](self-evaluation-checklists-retain-skills-rr3-8.md) — related

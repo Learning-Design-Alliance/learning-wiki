@@ -54,3 +54,4 @@ Thematic analysis of anonymous open-ended responses from VRS participants, coded
 - [Students rated the VR-based station similarly to the physical station on most perception items, but showed significant hesitancy toward broader future use of VR in assessments](vrs-acceptance-hesitancy-future-use.md) — related
 - [VR-based and physical OSCE stations testing identical emergency content show comparable item difficulty within the ideal reference range](vrs-item-difficulty-comparable.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
+- [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related

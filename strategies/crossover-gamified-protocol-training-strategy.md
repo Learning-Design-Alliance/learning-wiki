@@ -48,6 +48,7 @@ The article recommends integrating interactive learning and gamification into mi
 
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [Add explicit information-literacy modules or quests to gamified open-book assessments to convert engagement into high-quality evidence-based inquiry](information-literacy-quests-in-gamified-assessment.md)
+- [Use trained raters, a crossover design, and comparison of learning modalities when implementing checklist-based IO assessment](rater-training-crossover-design-recommendation.md)
 
 ## Examples
 -

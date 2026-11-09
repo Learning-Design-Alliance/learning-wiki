@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 657 claims (348 show a difference, 151 mixed, 158 no difference) · 465 studies (237 associational, 167 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 465 report an effect size · 649 claims rest on one study
+> **Evidence** · 662 claims (352 show a difference, 151 mixed, 159 no difference) · 469 studies (240 associational, 168 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 66 of 469 report an effect size · 654 claims rest on one study
 
 ## How to read this page
 
@@ -696,6 +696,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [TD engagement closes the course-planning and teaching-methods self-efficacy gap between women and men early-career scholars as engagement increases](../claims/td-engagement-gender-gap-closing.md) [~M] — an instructional effect differs by group
 - [The gender gap in grade mean and variability has not changed significantly over the last eight decades](../claims/grade-gender-gap-stable-over-80-years.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Women enrolled in STEM PhD programs had GRE Q scores averaging about 40 points lower than men at each institution while completing at similar rates](../claims/gre-q-gender-gap-similar-completion.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female dental students performed significantly better than male students in all three cohort groups](../claims/female-dental-students-outperformed-males-all-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female medical undergraduates had higher total EI scores than males](../claims/females-higher-ei-scores-medical-undergraduates.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female medical undergraduates performed better than males at the final MBBS examination](../claims/females-better-final-mbbs-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No effect modification by sex on either academic achievement or physical fitness in the fitness–commencement relation](../claims/no-sex-effect-modification-fitness-pathways.md) [-M] — an instructional effect differs by group
+- [Single-sex groups increase girls' participation and teacher verbal feedback in physical activity settings](../claims/single-sex-groups-increase-girls-participation.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

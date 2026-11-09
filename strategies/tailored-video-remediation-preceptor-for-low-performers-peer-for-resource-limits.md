@@ -48,6 +48,7 @@ The article concludes that "Peer discussion following individual video review ca
 ## Related Strategies
 
 - [Combine immediate standardized-patient feedback, video review, and self-feedback diary entries as the core of OSCE remediation](video-remediation-with-sp-feedback-and-self-feedback-diary.md)
+- [Consider alternative and multi-modal approaches to promote OSCE data review, including peer-assisted review, grade weighting, and extended SP feedback time](alternative-osce-data-review-promotion-options.md)
 
 ## Examples
 -

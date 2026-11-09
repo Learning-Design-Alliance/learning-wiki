@@ -49,3 +49,4 @@ Quasi-experimental comparison of means (Student's t-test for independent samples
 - [MOOC completion and participation significantly predicted academic performance (58% of variance), cognitive empathy (35%) and affective empathy (48%)](mooc-engagement-predicts-performance-empathy.md) — related
 - [Motivation to join a MOOC significantly predicted MOOC completion and participation, explaining 50% of its variance](motivation-predicts-mooc-engagement.md) — related
 - [Empathy scores increased significantly from pre to post after MOOC participation in health sciences undergraduates](mooc-prepost-empathy-increase.md) — related
+- [Of 19,236 MOOC enrollees, 2317 completed the stress virtual patient and 1640 the sleep virtual patient, with 740 earning certificates](vp-mooc-participation-rates.md) — related

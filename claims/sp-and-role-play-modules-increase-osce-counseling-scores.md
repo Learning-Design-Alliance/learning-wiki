@@ -51,3 +51,4 @@ Group-randomized trial of 113 fourth-year medical students randomized by clerksh
 - [History-taking and patient-education OSCE components improve after both modules, while patient-physician interaction improves only after the SP module](ppi-component-improves-only-after-sp-module.md) — a narrower finding that bears on this claim
 - [Online course and role-playing seminar produce no statistically significant difference in overall OSCE counselling performance for smoking cessation](osce-overall-no-difference-online-vs-roleplay.md) — related
 - [Student self-confidence is higher after the SP module than after the peer role-play module (d = 0.37)](sp-module-higher-self-confidence-than-role-play.md) — related
+- [OSCE scores and fail rates did not differ pairwise between standardised patient scenario groups and the peer role play group, with Intervention B scoring lowest](sp-vs-peer-role-play-osce-no-difference.md) — related

@@ -59,3 +59,6 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [Girls scored significantly higher than boys in Latvian language and mathematics, but not in foreign language](gender-differences-latvian-mathematics-marks.md) — reports the opposite
 - [Girls outperform boys in academic achievement and executive functioning across all three physical activity groups in this sample](girls-outperform-boys-all-pa-groups.md) — reports the opposite
 - [Girls had higher academic results and better selective attention scores than boys, and older children had lower scores, in this disadvantaged cohort](gender-and-age-differences-attention-grades.md) — reports the opposite
+- [No effect modification by sex on either academic achievement or physical fitness in the fitness–commencement relation](no-sex-effect-modification-fitness-pathways.md) — related
+- [Girls had lower physical fitness but higher academic achievement than boys in the cohort](sex-differences-fitness-achievement-bivariate.md) — reports the opposite
+- [Single-sex groups increase girls' participation and teacher verbal feedback in physical activity settings](single-sex-groups-increase-girls-participation.md) — related

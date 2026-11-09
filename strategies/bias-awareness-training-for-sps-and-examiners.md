@@ -46,7 +46,8 @@ The authors recommend that assessment systems act on demonstrated race-related s
 - [Simulated patient assessors awarded significantly lower total scores to the black fail-grade candidate than to the white fail-grade candidate in the same history-taking station](../claims/sp-lower-scores-black-fail-candidate.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train assessors' awareness of unconscious bias as a cost-effective alternative to anonymous marking, and reconsider all-coursework modules](bias-awareness-training-alternative-to-anonymous-marking.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ Path analyses showed significant indirect effects of feedback on willingness to 
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](feedback-valence-affects-effort-via-challenge-threat.md) — related
 - [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](feedback-indirect-effects-math-self-concept.md) — related
+- [Student ethnicity had no influence on the valence of examiners' feedback, with all performances receiving more negative than positive feedback](no-ethnicity-effect-feedback-valence.md) — related

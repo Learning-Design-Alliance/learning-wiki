@@ -53,6 +53,7 @@ The article advocates that "simulation training has become widely available, we 
 - [Include regular refresher or booster courses to maintain and advance resuscitation and teamwork competencies](regular-refresher-courses-resuscitation-skills.md)
 - [Schedule regular, frequent simulator practice sessions supported by mandatory structured curricula](regular-scheduled-simulator-practice-strategy.md)
 - [Use iVR refresher training before infrequently performed procedures to refresh skill and knowledge](ivr-refresher-before-rare-procedures-strategy.md)
+- [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 
 ## Examples
 -

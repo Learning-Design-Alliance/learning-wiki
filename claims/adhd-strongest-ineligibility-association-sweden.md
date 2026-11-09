@@ -53,3 +53,4 @@ Logistic regression on Swedish administrative register data for 266,664 individu
 - [Students with ADHD or autism show substantially lower end-of-primary-school achievement, with roughly 4–5 times higher risk of ineligibility for upper secondary school](adhd-autism-lower-grades-eligibility-swedish-twins.md) — related
 - [Adolescents with co-occurring ADHD and ODD symptoms show the greatest deficits in educational attainment by age 32, for both males and females](adhd-odd-comorbidity-greatest-educational-attainment-deficits.md) — related
 - [Individuals with social anxiety disorder are less likely to be eligible for vocational or academic upper secondary programmes than the general population](sad-lower-upper-secondary-eligibility.md) — related
+- [Children with ADHD on methylphenidate were more likely than unmedicated children with ADHD to attend higher levels of secondary education](methylphenidate-secondary-school-level-odds.md) — related

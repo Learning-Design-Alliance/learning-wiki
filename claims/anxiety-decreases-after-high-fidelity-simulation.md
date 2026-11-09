@@ -52,3 +52,4 @@ Retrospective pre-post survey analysis of 37 fifth-year medical students who eac
 - [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — a narrower finding that bears on this claim
 - [Medical students' state anxiety (STAI-Y) scores rose after both high-fidelity and procedural simulation sessions, with no significant difference between the two procedures](stai-y-anxiety-increased-after-both-hf-and-ps-simulation.md) — reports the opposite
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — reports the opposite
+- [Perceived stress decreases from the first to the second simulation in both groups, while presence remains stable and group-equal](perceived-stress-decreases-across-simulations.md) — related

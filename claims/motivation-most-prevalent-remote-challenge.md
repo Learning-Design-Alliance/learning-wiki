@@ -53,3 +53,4 @@ National undergraduate survey (n = 1,008) listing six potential non-technology c
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
+- [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — related

@@ -50,3 +50,4 @@ In the same randomized controlled trial, blinded specialists rated anastomosis q
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
 - [Across three training sessions, all participants significantly reduced the time needed per robotic-assisted microsurgical anastomosis](robotic-microsurgery-time-decreases-across-sessions.md) — related
 - [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](joyce-mvr-osats-improvement.md) — related
+- [Augmented-reality HOST skills training yields better anastomosis skill scores than control in a review-reported randomized controlled trial](host-ar-training-improves-anastomosis-scores.md) — related

@@ -47,3 +47,4 @@ Perception-time was computed from the a-test by subtracting motor-time from tota
 
 ## Related Claims
 - [Attention performance improves with age among unretarded pupils, with developmental breaks between the seventh and eighth and between the eleventh and twelfth years](attention-develops-with-breaks-at-7-8-and-11-12-years.md) — related
+- [Twelfth-class nursing students scored significantly better than eleventh-class students on both the importance-of-CPR and the indications/methods/effectiveness sections](twelfth-class-cpr-scores-better-than-eleventh.md) — related

@@ -58,3 +58,4 @@ The authors' expert interpretation from consulting across many districts, not a 
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
+- [Broad, continuous information and personal persuasion increased familiarity with the mapping project and participation; limited committee access delayed progress substantially](continuous-communication-participation.md) — related

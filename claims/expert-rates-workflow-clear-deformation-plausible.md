@@ -51,3 +51,4 @@ Qualitative evaluation of the tool by one neurosurgeon with four years of experi
 - [Participants perceived the haptic interaction between instrument and artificial anatomy as realistic, with mean scores between 3.13 and 3.93, and rated the surgical trajectory as important (3.95)](medusa-haptic-realism-and-trajectory-ratings.md) — related
 - [In an online survey, the colour map achieved the highest statement scores and rankings among force visualisation concepts for aneurysm clipping simulation](colour-map-best-force-visualisation-clipping-survey.md) — related
 - [Semi-transparent distance rays were the only distance visualisation concept that supported clip navigation appropriately](distance-rays-only-concept-supporting-navigation.md) — related
+- [A pilot qualitative trial with 4 medical students and 6 neurosurgeons reports general satisfaction with the aneurysm simulator](pilot-feedback-neurosurgery-simulator-satisfaction.md) — related

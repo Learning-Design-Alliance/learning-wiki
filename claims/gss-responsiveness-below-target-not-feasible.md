@@ -68,3 +68,4 @@ Post-study oral group interview survey reported by tutors; students rated case c
 - [Exposure fidelity was achieved (all six 90-minute sessions delivered) and program differentiation showed no duplication of regular curriculum content](gss-exposure-and-differentiation-fidelity.md) — reports the opposite
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — related
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related
+- [A three-hour standardised patient scenario workshop is feasible to deliver to a full second-year physiotherapy cohort, with high recruitment, retention and survey response rates](sp-workshop-feasible-recruitment-retention.md) — related

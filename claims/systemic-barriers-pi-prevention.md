@@ -66,3 +66,4 @@ Narrative synthesis identified these five barriers as "commonly reported" across
 - [Interviewed coordinators identify limited resources, poor quality of services, insufficient training and lack of protocols as barriers to maternal sepsis identification and management](qualitative-barriers-sepsis-identification.md) — related
 - [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — a narrower finding that bears on this claim
 - [Participants identified infrastructure and resource shortages as a barrier to accommodating growing student numbers](infrastructure-shortage-barrier-growing-nursing-intakes.md) — related
+- [Lack of fixed time constraints and pressure was an important reason some students discontinued the online ECG course prematurely](lack-of-time-pressure-online-course-discontinuation.md) — related

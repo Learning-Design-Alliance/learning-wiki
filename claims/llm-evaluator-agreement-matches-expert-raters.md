@@ -83,3 +83,5 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Two expert raters rating CPR cycles alone reached moderate agreement for Cycles 2-4 but poor agreement for Cycle 1, which the authors attribute to inconsistencies in an initial 'practice' cycle.](expert-rater-agreement-cpr-performance-cycles.md) — related
 - [Raters agreed strongly with each other (r = 0.725–0.838) but correlated only moderately with actual difficulty (r = 0.455–0.545)](ugmle-interrater-strong-actual-moderate-correlations.md) — related
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](ai-moderate-agreement-bean-drop-assessment.md) — related
+- [The expert rater scored performances lower than the non-expert raters, suggesting peer-assessment may be problematic compared with assessment by a more experienced clinician](expert-rater-lower-peer-assessment-problematic.md) — related
+- [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related

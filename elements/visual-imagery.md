@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (21 for, 10 mixed, 5 against) · 44 studies (23 causal, 15 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 44 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (22 for, 10 mixed, 5 against) · 45 studies (24 causal, 15 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 45 report an effect size · 33 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -83,6 +83,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](../claims/sglm-perceived-visual-learning.md) [+W]
 - [In a randomized controlled trial, novice surgeons who received a 15-minute guided mental imagery session before VRST scored significantly better on the OSATS subscales Respect for Tissue and Use of the Assistant in a porcine cholecystectomy box-trainer exercise](../claims/mental-imagery-improves-osats-tissue-respect-and-assistant-use.md) [+W] — attached 2026-11-06 from Sparn Moritz B. et al. (2025), which proposed "Structured 15-minute guided PETTLEP mental imagery session on laparoscopic cholecystectomy delivered before VR simulation training"; tests this page's relationship.
 - [Mental imagery before VRST did not significantly improve VR simulator performance, except on one LaparoS task where the MI group completed the Hepatocystic Triangle: Variation IV task significantly faster](../claims/mental-imagery-no-vrst-improvement-except-one-task.md) [-W] — attached 2026-11-06 from Sparn Moritz B. et al. (2025), which proposed "Structured 15-minute guided PETTLEP mental imagery session on laparoscopic cholecystectomy delivered before VR simulation training"; tests this page's relationship.
+- [Trainees who combined mental practice with interactive 3D visual aids completed a simulated laparoscopic cholecystectomy significantly faster than controls watching a didactic video](../claims/3d-mp-faster-completion-than-video-control.md) [+W] — attached 2026-11-09 from Yiasemidou M et al. (2017), which proposed "Interactive patient-derived 3D anatomical model of gallbladder and biliary anatomy used during mental practice"; tests this page's relationship.
 
 ## The evidence by question
 

@@ -52,3 +52,4 @@ Path analysis in the same 459-student sample; Table 4 reports GRIT→GPA Estimat
 - [Grit was not associated with any measure of laparoscopic performance in this novice sample](grit-not-associated-laparoscopic-performance.md) — related
 - [Grit contributes only modestly to military, academic, and physical performance grades](grit-modest-predictor-of-gpas.md) — related
 - [No reliable interactions among grit, cognitive ability, and physical ability in predicting success](no-interactions-grit-cognitive-physical-ability.md) — related
+- [Student GPA did not predict the value students placed on the group activity](gpa-did-not-predict-activity-value.md) — related

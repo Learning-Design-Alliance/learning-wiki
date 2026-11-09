@@ -54,3 +54,4 @@ Hake's survey of mechanics diagnostic test/Force Concept Inventory data from 654
 - [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](cbl-perceived-more-engaging-than-lectures.md) — related
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — a narrower finding that bears on this claim
 - [Both traditional and blended ALS training produced high normalized learning gain (Hake Index g > 0.7) of similar magnitude](als-hake-index-high-gain-both-groups.md) — related
+- [Problem-based learning is reported to have positive effects on class attendance, student retention, knowledge retention, and conceptual understanding](problem-based-learning-positive-effects.md) — a narrower finding that bears on this claim

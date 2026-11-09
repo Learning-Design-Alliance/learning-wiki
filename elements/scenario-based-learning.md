@@ -13,7 +13,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 11 studies (7 causal, 2 qualitative, 1 review, 1 associational), `q2`–`q3` · 0 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 12 studies (7 causal, 3 qualitative, 1 review, 1 associational), `q2`–`q3` · 0 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -55,6 +55,8 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](../claims/mobile-vp-interaction-achievement-gains.md) [+W] — attached 2026-11-07 from Çetinkaya Levent et al. (2024), which proposed "Mobile virtual patient application with narrated case-based scenarios for clinical reasoning"; tests this page's relationship.
 - [Overall questionnaire scores rose from pre-test to post-test after the digital scenario, in one uncontrolled pre-post study; 23 of 27 items showed statistically significant differences](../claims/digital-scenario-higher-overall-rating-23-of-27-items.md) [+W] — attached 2026-11-07 from Martins et al. (2023), which proposed "Digital scenario-based tool for standardized nursing simulation scenario writing".
 - [A virtual patient case did not significantly affect knowledge acquisition compared with a PowerPoint presentation in junior medical trainees](../claims/vp-case-no-knowledge-acquisition-gain-vs-powerpoint.md) [~W] — attached 2026-11-09 from Samira J et al. (2018), which proposed "University of Toronto virtual patient case module on upper gastrointestinal bleed".
+- [90% of MOOC exit survey respondents agreed or strongly agreed that the virtual patient exercise was helpful to their learning](../claims/vp-mooc-90-percent-helpful.md) [+W] — attached 2026-11-09 from Berman A.H. et al. (2017), which proposed "Two branched-narrative virtual patient scenarios on stress and sleep problems in the KIBEHMEDx behavioral medicine MOOC".
+- [Of 19,236 MOOC enrollees, 2317 completed the stress virtual patient and 1640 the sleep virtual patient, with 740 earning certificates](../claims/vp-mooc-participation-rates.md) [~W] — attached 2026-11-09 from Berman A.H. et al. (2017), which proposed "Two branched-narrative virtual patient scenarios on stress and sleep problems in the KIBEHMEDx behavioral medicine MOOC".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

@@ -48,3 +48,4 @@ A single retrospective study of 120 patients (64 laparoscopic, 56 open) using ly
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
 - [No learning curve inflection point was identified for open LLND](open-llnd-no-inflection-point.md) — related
+- [Panel feedback led to removal of 4 sub-steps and addition of 2 skip patterns covering anterior versus posterior prostate approach and timing of lymph node dissection](rarp-inventory-skip-patterns.md) — related

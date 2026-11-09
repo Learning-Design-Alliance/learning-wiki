@@ -79,3 +79,5 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Real-time spectator observation plus group debriefing was followed by constantly decreasing procedure time despite increasing scenario difficulty](spectator-debriefing-decreasing-procedure-time.md) — related
 - [Residents reported discomfort being videotaped and watched in groups, and facilitators struggled to link video feedback with theoretical references](vf-real-consultations-challenges-discomfort-theory-linkage.md) — related
 - [Compliance scores rise substantially after each debriefing episode, with video-assisted gains of 33.55% and oral gains of 26.29% per scenario](per-scenario-compliance-gains-debriefing.md) — related
+- [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
+- [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related

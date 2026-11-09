@@ -83,3 +83,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — a narrower finding that bears on this claim
 - [All interns evaluated the patient experience simulation positively, citing realism and role modeling as strengths, and unanimously supported repeating it](interns-valued-simulation-realism-role-modeling.md) — related
 - [Virtual Patient participants more frequently acknowledged the clinical relevance of the trauma case than lecture participants in open-ended appraisals](vp-group-more-clinical-relevance-acknowledged.md) — related
+- [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related

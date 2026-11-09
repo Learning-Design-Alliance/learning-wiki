@@ -67,6 +67,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Involve students in real-life resuscitations and adopt competency-based assessments with regular practice rather than relying on course certifications](real-resuscitation-involvement-competency-assessment.md)
 - [Provide frequent continuing professional development refresher courses on ECG interpretation for generalist practitioners](frequent-cpd-refresher-ecg-interpretation.md)
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
+- [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 
 ## Examples
 -

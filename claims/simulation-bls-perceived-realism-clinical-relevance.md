@@ -65,3 +65,5 @@ Qualitative thematic finding from focus group discussions with 40 undergraduate 
 - [Practitioners reported high perceived realism during the simulation scenarios, confirming they felt they were supporting a newborn rather than a simulator](practitioners-reported-scenario-realism.md) — related
 - [Simulation training helps nursing students integrate theory with practice, gain clinical confidence, and discover undeveloped skills through debriefing feedback](simulation-training-benefits-integration-confidence-debriefing.md) — related
 - [Nursing students want VR-based simulation to offer difficulty-phased scenarios, immediate game-like feedback, emergency and rare cases, and communication practice](student-needs-vr-simulation-scenarios-feedback-communication.md) — related
+- [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related
+- [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related

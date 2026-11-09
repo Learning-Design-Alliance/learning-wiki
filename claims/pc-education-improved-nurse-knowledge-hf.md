@@ -50,3 +50,4 @@ Pre/post knowledge tests in a quality improvement project with ten post-test res
 - [Semi-structured interviews identified nurses' palliative care learning needs that informed the design of the educational sessions](interviews-informed-session-design.md) — related
 - [NSAID-use knowledge among heart failure nurses increased from 10% to 70% after palliative care education](nsaid-knowledge-increase-10-to-70.md) — related
 - [Participation in the education sessions was low: 13 of 145 nurses (9%) attended and only ten pre- and ten post-test responses were received](low-participation-13-of-145-nurses.md) — related
+- [Workshop participants showed specific palliative-care and legal knowledge gaps: most would not use opioids for dyspnea, only half knew the Dying Patient Act requires family support, and about 20% reported performing slow codes](eol-staff-knowledge-gaps-survey.md) — related

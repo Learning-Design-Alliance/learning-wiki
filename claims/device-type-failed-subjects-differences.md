@@ -49,3 +49,4 @@ Kruskal-Wallis test with Bonferroni post-hoc adjustment on failed subjects by de
 - [Number of failed subjects differs significantly by operating system, with Windows and Android users failing more than MacOS, iOS and ChromeOS users](os-failed-subjects-differences.md) — related
 - [Accessing the course via PC/laptop versus tablet/smartphone predicted the problem solving score, but not the total medical statistics score](access-device-predicts-problem-solving-not-total-score.md) — related
 - [An M5Rules rule model predicts the number of passed subjects from device and connection data with about 72% correlation on average](m5rules-predict-passed-subjects.md) — related
+- [Students predominantly accessed the podcasts on smartphones and laptops, contrasting with earlier computer-dominated access patterns](podcasts-accessed-mainly-smartphones.md) — related

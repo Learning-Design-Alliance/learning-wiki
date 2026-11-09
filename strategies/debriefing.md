@@ -92,6 +92,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [PEARLS-based structured debriefing after each pathophysiology simulation](pearls-debriefing-pathophysiology-simulation.md)
 - [Run an error-detection examination: distribute written procedures with planted errors, have students identify and correct them, present corrections to peers, then close with teacher summary and short lecture](error-detection-examination-procedure-strategy.md)
 - [Include video debriefing and reflective writing in the description and analysis stages of simulation debriefing](video-debriefing-reflective-writing-in-protocol.md)
+- [Run the feedback session with teacher-led recommendations: clear introduction, explain the feedback dilemma, encourage open discussion, avoid the word 'feedback' for student roles, and end with a debrief](holistic-feedback-session-recommendations.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

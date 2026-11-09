@@ -68,3 +68,4 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Conversation length with virtual patients increased significantly after VITAL-COMS training in both scenarios](vital-coms-conversation-length-increase.md) — related
 - [Medical students rated the LLM patient simulation as highly accurate, feasible, and realistic](students-rate-llm-patient-simulation-realistic-accurate.md) — related
 - [Students, teachers and standardised patients rated the OSS-worn encounter as realistic, with no significant difference between groups](oss-realistic-encounter-all-groups.md) — related
+- [Participants reported learning from deliberately exploring wrong paths in the virtual patient, taking advantage of corrective and consequential feedback embedded in the scenarios](vp-mooc-learning-from-errors.md) — related

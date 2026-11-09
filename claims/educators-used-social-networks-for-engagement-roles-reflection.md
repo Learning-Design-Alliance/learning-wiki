@@ -52,3 +52,4 @@ Inductive qualitative analysis of 28 audio- and video-recorded debriefing sessio
 - [Learners and educators perceived social and epistemic networks as useful for supporting reflective activities on team communication](perceived-usefulness-networks-reflection.md) — related
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — related
+- [Debriefing and reflective learning were perceived to change mindsets and transfer to clinical practice, including new ward morning reports](debriefing-reflection-transfer-pph-training.md) — related

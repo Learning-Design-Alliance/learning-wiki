@@ -50,3 +50,4 @@ Questionnaire data from the RCT: planning/preparedness items compared by Mann–
 - [Trainees rated fresh-frozen body donors significantly superior to live porcine models for port placement and anatomy realism, while rating the porcine model better on tissue quality, air leak and odour](ffbd-vs-porcine-mixed-preferences.md) — related
 - [Body donor models are perceived by postgraduate trainees as authentic and of high educational value for laparoscopic training](bdm-perceived-authentic-high-educational-value.md) — related
 - [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — related
+- [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related

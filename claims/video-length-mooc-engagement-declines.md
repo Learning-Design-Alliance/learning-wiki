@@ -59,3 +59,4 @@ The essay reports, citing Guo et al. (2014), an observational analysis of video-
 - [Educational videos of 5 to 20 minutes are appropriate, with 6 to 9 minutes suggested as ideal for maximizing learning gains while minimizing inattention](video-length-5-20-minutes.md) — related
 - [The e-learning module took longer to complete than the video, but paramedics judged its duration more adequate](elearning-longer-completion-adequate-duration.md) — a narrower finding that bears on this claim
 - [Canadian anesthesiology residents preferred 15- to 30-minute didactic podcasts and 5- to 15-minute formats for other modalities, with little interest beyond 45 minutes](resident-length-preference-15-30-minutes.md) — reports the opposite
+- [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related

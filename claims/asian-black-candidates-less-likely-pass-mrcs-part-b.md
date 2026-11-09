@@ -50,3 +50,4 @@ Multivariate logistic regression in the Part B cohort (final model N = 1125) adj
 - [International medical graduates are far less likely than UK graduates to pass UK postgraduate medical written and clinical examinations at first attempt after adjustment](img-less-likely-pass-postgraduate-exams-first-attempt.md) — related
 - [Having attended a fee-paying school independently predicts passing MRCS Part B at the first attempt (OR 1.51)](fee-paying-school-independent-predictor-mrcs-part-b.md) — related
 - [Ethnic-group differences in confidence bias are an artefact of cognitive test performance, whereas confidence judgement differences persist after adjustment](ethnic-differences-confidence-metrics-diverge.md) — related
+- [Students from Asian, Black, Mixed and Other ethnic groups are significantly less likely than White students to finish in the top tier of EPM rankings](ethnic-minority-students-less-likely-top-epm-rankings.md) — related

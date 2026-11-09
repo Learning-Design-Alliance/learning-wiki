@@ -69,3 +69,4 @@ Replication of the grade comparison in a separate third-year Bacteriology course
 - [Correlation coefficients between absence rate and final grade were negative for both sexes, with a stronger relationship among male students](negative-absence-grade-correlation-by-sex.md) — related
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — a broader claim this one bears on
+- [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related

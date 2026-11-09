@@ -56,3 +56,4 @@ The review reports Haidari and collaborators' validity-evidence study of the new
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — a narrower finding that bears on this claim
 - [More experienced surgeons sutured faster on the simulator, supporting construct validity](vats-simulator-construct-validity-experience.md) — a narrower finding that bears on this claim
 - [Surgeons rated the VATS simulator's design, ergonomics and triangulation as very good or excellent, supporting face validity](vats-simulator-face-validity-ratings.md) — related
+- [Baseline differences existed between groups on angular path length, total time, and interest/enjoyment](baseline-differences-angular-path-time-interest.md) — related

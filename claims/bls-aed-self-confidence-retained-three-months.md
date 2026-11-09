@@ -50,3 +50,4 @@ Self-confidence was measured with a five-point Likert-scale questionnaire admini
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
 - [Teaching experience increased students' self-reported confidence to apply and teach BLS](teaching-raises-student-bls-confidence.md) — related
+- [Two out of three participants felt confident applying the behavioral methods taught, compared to fewer than one in five who did not feel confident](vp-mooc-confidence-applying-interventions.md) — related

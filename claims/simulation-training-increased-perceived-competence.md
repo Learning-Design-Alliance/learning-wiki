@@ -70,3 +70,4 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [First aid knowledge and self-efficacy increase strongly immediately after training, with no difference between simulated patient and control trainings](simulated-patient-no-immediate-knowledge-selfefficacy-gain.md) — related
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
+- [Agreement with confidence statements improved in six of seven areas, significantly for perceived ability to care for a child, to communicate with parents, and to not make things worse](confidence-statements-significant-gains-three-areas.md) — related

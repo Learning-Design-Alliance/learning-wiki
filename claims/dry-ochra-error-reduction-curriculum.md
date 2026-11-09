@@ -49,3 +49,4 @@ Error-based assessment via blinded, retrospective video analysis using the bespo
 - [The assessment tools show strong concurrent validity, correlating moderately to strongly in dry and VR tasks](concurrent-validity-m-gears-apms-ochra.md) — related
 - [Participants significantly improve across VR automated performance metrics, VR M-GEARS, and VR OCHRA error scores during the curriculum](vr-assessments-significant-improvement-all-tools.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
+- [A VR simulator warm-up practice session improves dry lab task performance and reduces errors for both basic and complex robotic skills](vr-warmup-improves-task-performance.md) — a broader claim this one bears on

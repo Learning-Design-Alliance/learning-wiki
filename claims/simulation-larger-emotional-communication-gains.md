@@ -54,3 +54,4 @@ Domain-specific Year × Time comparisons (Table 4) in the quasi-experimental coh
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — a broader claim this one bears on
 - [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related
 - [‘Being in the patient's shoes’ is the only learning feature particularly linked to a specific modality: role-play](being-patient-role-play-empathy.md) — related
+- [Empathy development is a perceived gain of dramatization-based simulation, measured during role play in some studies](empathy-gain-role-play-simulation.md) — a broader claim this one bears on

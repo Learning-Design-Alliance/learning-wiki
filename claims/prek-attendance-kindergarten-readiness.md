@@ -73,3 +73,4 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Preschool attendees outperform informal-care peers on academic achievement from kindergarten through early adolescence](preschool-academic-benefits-persist-through-adolescence.md) — related
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](preschool-dosage-full-day-behavioral-effects.md) — related
+- [In the first year of the Chicago Pay for Success initiative, 59 percent of 4-year-olds met the school readiness benchmark, and 67 percent among full-day preschool participants](pfs-first-year-school-readiness-benchmark.md) — a narrower finding that bears on this claim

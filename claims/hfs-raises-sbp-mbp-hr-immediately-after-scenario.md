@@ -52,3 +52,5 @@ Prospective observational study of 55 senior medical students undergoing a 30-mi
 - [Heart rate was significantly elevated in the threat appraisal group at the early time point of both scenarios and the mid juncture of Scenario 1](threat-group-elevated-hr-early-mid-junctures.md) — related
 - [Experiential learning produces smaller increases in systolic blood pressure and pulse rate after pit and fissure sealant than Tell-Show-Do](el-smaller-sbp-pr-increases-vs-tsd.md) — related
 - [Systolic and diastolic blood pressure show no significant change after 3 or 6 months of either education intervention](blood-pressure-unchanged-education.md) — related
+- [Acute stress response in simulated emergencies is measured with multiple cardiovascular, endocrine, immune and psychological markers because no gold standard exists](multimarker-acute-stress-measurement-simulation.md) — related
+- [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related

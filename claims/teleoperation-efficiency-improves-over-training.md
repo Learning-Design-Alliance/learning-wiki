@@ -71,3 +71,4 @@ Paired comparison on trial duration in the same teleoperation training study, sh
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related
 - [Novice performance on the PoLaRS simulator showed significant decreases in time, path length and collisions across trials within the test group from pre-test to post-test](polars-training-improves-performance-parameters.md) — related
+- [Across trials, instrument entropy decreased and jerk increased at retention, with no between-group differences in movement parameters](entropy-decreased-jerk-increased-across-trials.md) — related

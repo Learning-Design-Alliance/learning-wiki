@@ -49,6 +49,7 @@ For interprofessional use, the authors recommend "adding content and faculty rep
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
 - [Implement the generic consensus assessment items locally by adding setting-specific components](local-implementation-of-generic-pbls-assessment-items.md)
+- [Use shared online EBP modules to prepare heterogeneous student cohorts for interprofessional learning, and expand MeSH and critical appraisal content in future iterations](shared-online-modules-ipe-preparation-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Across the 15 focus groups, participants with jobs and family responsibilities e
 - [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related
 - [Students hold mixed opinions on making peer teaching mandatory in the medical curriculum](mixed-opinions-mandatory-peer-teaching.md) — a narrower finding that bears on this claim
 - [Students want peer teaching programs to have allocated time, careful timing, and quality assurance of the teaching](peer-teaching-structure-timing-quality-assurance.md) — related
+- [Students’ decisions to take or not take a recommended prerequisite were driven largely by factors unrelated to learning, such as scheduling and program rules](prerequisite-enrollment-reasons-mostly-non-learning.md) — related

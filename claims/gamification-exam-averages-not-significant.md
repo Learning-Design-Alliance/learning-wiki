@@ -47,3 +47,4 @@ Cohort comparison of written examination scores: 203 students in 2017 and 215 in
 ## Related Claims
 - [In SIDRA and R-G-SIDRA cohorts, higher in-system MCQ scores (by tertile) predicted higher final exam grades, but in the RB-G-SIDRA cohort the tertile groups did not differ significantly.](mcq-tertiles-predict-final-exam-by-cohort.md) — related
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
+- [The between-group comparison of the three yearly cohorts revealed no statistical significance, despite a gradual increase in students scoring good grades](no-significant-between-group-difference-gradual-increase.md) — related

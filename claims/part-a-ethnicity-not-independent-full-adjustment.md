@@ -51,3 +51,4 @@ Multivariate logistic regression models for the Part A cohort comparing a partia
 - [Candidates from minority ethnic backgrounds, especially Black or Black British candidates, are significantly less likely to pass postgraduate medical examinations at first attempt](minority-ethnic-lower-first-attempt-pass-odds.md) — related
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
 - [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related
+- [Students from Asian, Black, Mixed and Other ethnic groups are significantly less likely than White students to finish in the top tier of EPM rankings](ethnic-minority-students-less-likely-top-epm-rankings.md) — related

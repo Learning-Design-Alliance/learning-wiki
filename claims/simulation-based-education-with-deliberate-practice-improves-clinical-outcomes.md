@@ -148,3 +148,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Deliberate practice maintains and improves skills after acquisition](deliberate-practice-maintains-skills.md) — related
 - [Systematic review shows strong evidence for simulation with repetitive practice, mastery learning, and deliberate practice in teaching procedural skills](simulation-competency-based-strong-evidence.md) — a broader claim this one bears on
 - [Clinical skills taught but not practiced result in significant skill deficit, with average performance at 92% of original skill level after 1 year without practice](unpracticed-clinical-skills-decay-92-percent-one-year.md) — related
+- [Interactivity, practice sessions, repetition and feedback are key e-learning features associated with improved learning outcomes (cited meta-analytic evidence)](interactivity-practice-repetition-feedback-key-features.md) — related

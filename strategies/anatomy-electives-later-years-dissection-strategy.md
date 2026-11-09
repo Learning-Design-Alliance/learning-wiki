@@ -44,6 +44,7 @@ The article proposes concrete curriculum actions: medical schools "could offer e
 ## Related Strategies
 
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
+- [Offer a didactic elective on education to top anatomy students as an early step on a medical-educator pathway](didactic-elective-top-students-educator-pathway.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Randomized controlled trial: 28 intervention vs 39 control fifth-semester medica
 - [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
 - [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related
+- [Medical students trained in a complex head and skull examination by teaching associates outperform instructor-led peer-trained controls immediately after training](ta-training-superior-immediate-clinical-skills.md) — related

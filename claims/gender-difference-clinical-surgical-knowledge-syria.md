@@ -56,3 +56,4 @@ Welch independent-samples t-test comparing male (n=237) and female (n=263) stude
 - [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Male students show significantly higher SBP and lower SpO2 than female students at each time point, with negligible clinical significance](males-higher-sbp-lower-spo2-across-time-points.md) — a narrower finding that bears on this claim
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — reports the opposite

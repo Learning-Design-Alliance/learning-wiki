@@ -61,3 +61,5 @@ Group-comparison analysis (Table 2) of the 54 participants (39 female, 15 male) 
 - [No significant sex differences in ComCare ratings, and no final-year advancement differences except one item rated lower late in the final year](comcare-no-sex-differences-one-advancement-item-lower.md) — reports the opposite
 - [Male students entered with lower English entrance exam scores than female students in both teaching module groups](male-students-lower-english-entrance-exam-scores.md) — related
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — reports the opposite
+- [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related

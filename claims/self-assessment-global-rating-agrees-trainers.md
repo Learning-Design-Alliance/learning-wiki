@@ -46,3 +46,4 @@ Dependent-sample comparison of 193 first-year students' self-ratings and trainer
 
 ## Related Claims
 - [Students rate themselves significantly more positively than trainers on several communication sub-skills, with effect sizes from small to very high](students-overrate-communication-subskills.md) — related
+- [Teaching-associate and instructor-led training produce no significant difference in Global Rating Scale communication and interaction scores](grs-communication-no-group-difference.md) — related

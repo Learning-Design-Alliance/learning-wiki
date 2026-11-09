@@ -53,3 +53,4 @@ Cohort comparison on a 100-point theoretical knowledge exam administered within 
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Residents taught with the refined Peyton method reported higher teaching satisfaction across surveyed items than traditionally taught residents](refined-peyton-higher-teaching-satisfaction.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

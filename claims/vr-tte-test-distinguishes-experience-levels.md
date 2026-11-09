@@ -72,3 +72,4 @@ Same Bonferroni analysis of the 36-participant test data: the novice-intermediat
 - [Simulator-based assessment instruments distinguish beginners from experts but not intermediate-level trainees](bstat-bset-assessment-distinguish-levels.md) — reports the opposite
 - [Validated intraoperative CRT performance metrics reliably distinguish novice from experienced implanters and differentiate performance within similar-experience groups](pbp-metrics-distinguish-novice-expert-crt.md) — related
 - [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related
+- [VR simulation competency benchmarks set relative to mean expert performance (e.g. 75% of mean expert score) discriminate novice, intermediate and expert trainees and must be modifiable to the training institute](expert-anchored-vr-benchmarks-modifiable.md) — related

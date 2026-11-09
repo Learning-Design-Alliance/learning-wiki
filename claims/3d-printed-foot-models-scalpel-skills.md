@@ -54,3 +54,4 @@ Mixed methods study (Banwell et al., as charted in Table 1) combining an RCT, a 
 - [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — a broader claim this one bears on
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
+- [From educators' perspectives, the key issues in teaching podiatry manual clinical skills are students' clinical exposure, motivation, levels of anxiety and dexterity](key-issues-exposure-motivation-anxiety-dexterity.md) — related

@@ -70,3 +70,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [Gender shows no significant correlation with career and satisfaction factors among dental graduates](gender-no-correlation-career-factors-dental.md) — related
 - [Nurses’ late-life depression knowledge did not differ significantly by demographic or characteristic variables](no-demographic-differences-lld-knowledge.md) — related
 - [Perceived stress was not significantly related to any measured student, instructor or clinical-environment characteristic](no-significant-stress-characteristic-relationships.md) — related
+- [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related

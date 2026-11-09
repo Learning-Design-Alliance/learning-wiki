@@ -48,3 +48,4 @@ Cross-sectional anonymous survey of 536 medical students at three Medellín univ
 ## Related Claims
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md) — a broader claim this one bears on
 - [Interns reported that the PEST approach provided a useful, systematic way to reason about antibiotic choice rather than reflexively selecting an antibiotic](interns-valued-pest-systematic-approach.md) — related
+- [Students demonstrate lower clinical knowledge in antimicrobial prescribing than in cardiovascular medication management](lower-antimicrobial-knowledge-than-cardiology.md) — related

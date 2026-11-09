@@ -50,3 +50,4 @@ Interview data from the study's 'Working together' theme: 12 of 18 eligible stud
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [A simulation-based placement introduced professionalism, time management and reflective practice that students carried into external practice placements](sbl-professionalism-reflective-practice.md) — related
 - [Students perceive that interacting with service users enhanced the authenticity of a simulation-based placement and improved communication and clinical reasoning for subsequent placements](service-user-authenticity-sbl.md) — related
+- [Debriefing and reflective learning were perceived to change mindsets and transfer to clinical practice, including new ward morning reports](debriefing-reflection-transfer-pph-training.md) — related

@@ -53,6 +53,7 @@ The review's Recommendations section prescribes a sequencing strategy: "To intro
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
+- [Use NOTSS for individual surgeon non-technical skills training and Oxford NOTECHS II for team-based training](notss-notechs-nontechnical-skills-training.md)
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # Goal Setting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 5 studies (2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement. It is useful when visible goals help focus effort, strategy choice, and persistence.
@@ -45,6 +45,8 @@ Goal setting is the element in which learners or instructors establish clear tar
 - [Defining self-created learning outcomes during clinical electives improved students' reported focus, motivation, and sense of self-efficacy](../claims/famuplus-improved-focus-motivation-self-efficacy.md) [+W] — attached 2026-11-04 from Punz A et al. (2026), which proposed "FamuPlus: a four-step pilot program supporting self-created learning outcomes in clinical electives"; tests this page's relationship.
 - [Students found it challenging to formulate measurable, realistic learning outcomes, especially for affective goals such as empathy](../claims/famuplus-measurable-outcomes-challenge-affective.md) [~W] — attached 2026-11-04 from Punz A et al. (2026), which proposed "FamuPlus: a four-step pilot program supporting self-created learning outcomes in clinical electives".
 - [Strength of commitment was not significantly correlated with probability of realization, which participants attributed to workplace factors](../claims/commitment-strength-realization-null-correlation.md) [~W] — attached 2026-11-09 from Eisenmann D et al. (2018), which proposed "Commitment-to-Change (C2C) survey as a tool to promote and assess workplace behavior change after training".
+- [In daily physiotherapy practice, the PSG method's steps were almost always performed, but the 'setting goals' and 'planning treatment' steps were not performed in detail](../claims/psg-steps-performed-but-goal-setting-planning-lack-detail.md) [~W] — attached 2026-11-09 from Stevens A et al. (2017), which proposed "Patient-Specific Goal-setting method (PSG): a six-step method embedded across the physiotherapy process".
+- [Physiotherapy patients reported high satisfaction with the PSG conversation and majority-level involvement in goals and treatment planning](../claims/psg-patient-satisfaction-and-involvement-high.md) [+W] — attached 2026-11-09 from Stevens A et al. (2017), which proposed "Patient-Specific Goal-setting method (PSG): a six-step method embedded across the physiotherapy process"; tests this page's relationship.
 
 ## Related Elements
 - [Learning Outcomes](learning-outcomes.md)

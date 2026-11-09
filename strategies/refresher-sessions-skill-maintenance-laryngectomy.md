@@ -62,6 +62,7 @@ The article recommends that future programmes address skill decay by building in
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
 - [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
+- [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 
 ## Examples
 -

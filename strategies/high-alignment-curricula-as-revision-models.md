@@ -48,6 +48,7 @@ The authors recommend targeted curriculum revision using the strongest programme
 - [Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch](hybrid-unit-template-customization-approach.md)
 - [Re-focus peer feedback and exemplar analysis as core curriculum activities with coaching and dialogue](refocus-peer-feedback-and-exemplars-for-feedback-literacy.md)
 - [Align customized AI tutor responses with course learning outcomes, competency frameworks, and licensing exam blueprints](align-ai-tutor-with-curriculum-and-exam-blueprints.md)
+- [Add antimicrobial prescribing training to the medical curriculum before workforce entry](pre-graduation-antimicrobial-prescribing-training.md)
 
 ## Examples
 -

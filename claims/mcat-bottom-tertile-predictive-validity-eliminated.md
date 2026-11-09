@@ -52,3 +52,4 @@ Tertile stratification of 349 admitted students based on admission composite sco
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
 - [Compensatory selection eliminates or tempers the positive correlation between valid standardized test scores and degree completion among accepted students](compensatory-selection-eliminates-valid-test-correlation.md) — related
+- [US medical school admission is highly competitive, with 53,029 applicants and 21,025 matriculants in 2016 (39.6% acceptance rate), and MCAT scores show limited predictive validity](us-admission-acceptance-rate-mcat-validity.md) — related

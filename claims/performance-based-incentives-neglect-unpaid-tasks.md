@@ -50,3 +50,4 @@ Two studies of ASHAs in India reported by this review found that performance-bas
 - [Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect](incentives-no-intrinsic-motivation-harm.md) — reports the opposite
 - [Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis](dallas-spanish-speakers-negative-effects.md) — related
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
+- [Incentives adapted to local context trigger a sense of being fairly treated and perceived organisational support in community health volunteers](chv-incentives-fair-treatment-retention.md) — reports the opposite

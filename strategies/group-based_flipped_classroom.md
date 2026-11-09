@@ -66,6 +66,7 @@ The model combines two well-supported mechanisms: shifting passive content deliv
 - [Build collaborative LO components for producing, testing and comparing arguments, and form heterogeneous groups of about three](collaborative-lo-argument-components-heterogeneous-groups.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
+- [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
 
 ## Examples
 - **Process-Oriented Guided Inquiry Learning (POGIL)** — [https://pogil.org](https://pogil.org) — students complete pre-class preparation, then work in role-assigned teams on guided-inquiry worksheets; widely used in undergraduate chemistry

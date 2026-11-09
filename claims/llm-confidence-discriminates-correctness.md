@@ -55,3 +55,4 @@ Calibration analysis of stated certainty (1-100) across the 12-configuration pan
 - [A hybrid confidence measure combining model-based signals with dataset-derived aleatoric uncertainty achieves the highest AUROC and strongest accuracy gains in selective grading of LLM-graded short answers](hybrid-confidence-highest-auroc-selective-asag.md) — related
 - [The model's posterior confidence estimates are conservative: over 95% of predictions the model claims 90–95% confidence in are correct](peer-grading-confidence-estimates-conservative.md) — related
 - [Rejecting the 40% lowest-confidence predictions with the hybrid confidence measure raises grading accuracy from 0.704 to approximately 0.900](rejection-04-accuracy-gain-hybrid-confidence.md) — related
+- [Among incorrect responses, high certainty increases the odds of an unsafe response except in the lowest-scoring group](incorrect-high-certainty-more-unsafe.md) — related

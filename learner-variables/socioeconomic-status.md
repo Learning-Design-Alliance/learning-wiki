@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 288 claims (156 show a difference, 65 mixed, 67 no difference) · 216 studies (99 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 36 of 216 report an effect size · 287 claims rest on one study
+> **Evidence** · 289 claims (156 show a difference, 65 mixed, 68 no difference) · 217 studies (100 associational, 82 causal, 15 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 36 of 217 report an effect size · 288 claims rest on one study
 
 ## How to read this page
 
@@ -373,6 +373,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [School SES is positively related to middle school students’ Chinese achievement in China after controlling for family SES and other covariates](../claims/school-ses-positive-chinese-achievement-china.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [First-generation university students, but not non-first-generation students, prefer rating formats over pick-one formats](../claims/first-generation-students-prefer-rating-format.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant main effects of gender, ethnic background or first-generation university status on applicant perceptions of an SJT](../claims/no-main-subgroup-differences-sjt-perceptions.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](../claims/ses-course-type-not-independent-predictors-epm.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

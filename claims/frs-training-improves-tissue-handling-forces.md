@@ -67,3 +67,4 @@ Same repeated-measures analysis of mean non-zero force: the Robot group improved
 - [Tissue handling force application does not differ significantly between VR-simulator training and real robotic system training after an FRS curriculum](no-force-difference-vr-vs-robot-training.md) — related
 - [At the Final test the Robot group showed a non-significant tendency toward better force and time outcomes](final-test-tendency-favoring-robot-group.md) — related
 - [Robot-group participants completed the Flap and Suture and Knot trial tasks significantly faster at the Midterm test](midterm-faster-completion-robot-group.md) — related
+- [VR simulator training improves tissue-exercise performance only in trainees with low baseline robotic skills, indicating a need for tailored curricula](vr-training-benefit-limited-to-low-baseline-trainees.md) — related

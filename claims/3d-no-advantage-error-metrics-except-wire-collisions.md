@@ -55,3 +55,4 @@ Cumulative error scores over all five attempts were compared with the Mann–Whi
 - [Risk and safety metrics show no increased error risk on either robotic platform, supporting safe contemporaneous multi-console training](risk-safety-metrics-equivalent.md) — related
 - [3D training showed no significant error-count advantage over 2D in either box-trainer task](3d-no-significant-error-advantage-box-trainer.md) — related
 - [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related
+- [Bayesian reanalysis shows strong evidence for condition differences on performance metrics and evidence for the null on safety metrics](bayes-factors-performance-strong-safety-null.md) — related

@@ -53,3 +53,4 @@ Controlled study of 100 students (EG n = 50, CG n = 50) randomly assigned; two-w
 - [Classroom-based physical activity breaks improve study-approach variables (motivation, organization, flexibility, concentration) and reduce anxiety, with no change in didactic material development or attitude towards school](active-breaks-improve-study-approach-qas.md) — related
 - [In-classroom physical activity breaks significantly improve primary school children's foreign language learning](icpab-improve-foreign-language.md) — related
 - [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — reports the opposite
+- [School-based physical activity that improves fitness is suggested as potentially beneficial for both scholastic abilities and health](school-physical-activity-beneficial-scholastic-health.md) — related

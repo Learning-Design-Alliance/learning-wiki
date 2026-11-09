@@ -46,6 +46,7 @@ The article's participants and authors propose concrete improvements for simulat
 ## Related Strategies
 
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
+- [Integrate simulation learning experiences in stages throughout the physiotherapy curriculum rather than as one-off exposures](staged-simulation-integration-physiotherapy-curricula.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Narrative synthesis across 62 included studies found "the presence of an expert 
 - [Isolated feature comparisons: multiple learning strategies with repetitive practice increased self‐reported block success, and AI‐assisted nerve identification reduced patient complications](usra-isolated-feature-trials.md) — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related
+- [Interactivity, practice sessions, repetition and feedback are key e-learning features associated with improved learning outcomes (cited meta-analytic evidence)](interactivity-practice-repetition-feedback-key-features.md) — related

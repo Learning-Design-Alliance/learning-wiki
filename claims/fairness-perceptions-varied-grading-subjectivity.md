@@ -48,3 +48,4 @@ Conclusion-level synthesis of the qualitative findings: some students "valued th
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](mmla-fairness-perceptions-mixed-accuracy.md) — related
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related
 - [Subjective assessment and lack of continuous evaluation undermine PBL](subjective-assessment-and-no-continuous-evaluation-pbl.md) — possibly the same claim (merge candidate)
+- [Mixing reflection with high-stakes assessment turns reflection into confession, raising ethical concerns about mandatory, graded reflection](reflection-as-confession-ethics-mandatory-graded-reflection.md) — related

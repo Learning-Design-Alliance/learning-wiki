@@ -43,6 +43,7 @@ A specific implementable recipe for skill transfer: the report recommends that "
 - [Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change](cooperative-retraining-programs-displaced-workers.md)
 - [Technical assistance providers should plan to work themselves out of a job by building districts' internal capacity](ta-providers-build-internal-capacity.md)
 - [Provide an ongoing remote image-uploading gateway so experts can continue supporting trained non-cardiologists after formal training ends](remote-image-uploading-gateway-support.md)
+- [Involve instructors of each country in training the next country's group to build a multinational cooperation network](sequential-multinational-instructor-collaboration.md)
 
 ## Examples
 -

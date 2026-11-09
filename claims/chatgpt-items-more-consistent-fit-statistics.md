@@ -68,3 +68,4 @@ Outfit statistics comparison (Fig. 3) of the same assessment; the article report
 - [Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples](rit-adjustment-improves-k2-item-fit.md) — related
 - [Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items](map-k2-2020-difficulty-adjustment-improved-item-fit.md) — related
 - [Instructor-developed items showed higher person reliability than ChatGPT items](instructor-items-higher-person-reliability.md) — related
+- [Excluding dysfunctional items raised person reliability and left no item with infit or outfit above 2.0](dysfunctional-item-exclusion-improves-fit-and-reliability.md) — related

@@ -51,3 +51,4 @@ Kruskall-Wallis test on post-test FLRAS scores across five parental education ca
 - [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Reading strategy training was followed by a statistically significant increase in FLRA levels in the experiment group, while the control group's change was not significant](strategy-training-increased-flra-experiment-group.md) — related
+- [Deaf Community Capital scores differed by mentee parents' education level, an unexplained difference](deaf-community-capital-parents-education.md) — related

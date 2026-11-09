@@ -52,6 +52,7 @@ The article describes a concrete peer role-play recipe: students work in groups 
 
 - [Role Play](role-play.md)
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
+- [Train patient instructors in examination recognition and feedback skills before first deployment](two-session-pi-examination-feedback-training.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Descriptive statistics comparing families of children with a DAWBA research diag
 - [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — possibly the same claim (merge candidate)
 - [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — related
 - [Children from unstructured families show higher rates of reading failure and clinically diagnosed school difficulties](unstructured-family-reading-failure-school-difficulties.md) — related
+- [Socioeconomic status does not differ between families of children with ADHD using methylphenidate and those not taking medication](ses-similar-medicated-unmedicated-adhd-groups.md) — related

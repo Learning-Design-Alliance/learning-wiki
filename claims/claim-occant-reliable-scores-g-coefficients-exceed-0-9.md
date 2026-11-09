@@ -52,3 +52,4 @@ A generalizability theory analysis of 69 patient questionnaires and 70 fellow qu
 - [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The scale shows robust reliability: Cronbach's alpha 0.96, Spearman-Brown 0.86, and composite reliability coefficients above 0.60](gp-depression-scale-reliability-alpha-0-96.md) — related
+- [Generalizability analysis indicated eight assessors yield an EP2 of 0.78 and ten assessors 0.81, exceeding the 0.70 stability threshold](msf-award-ep2-eight-assessors-0-78.md) — related

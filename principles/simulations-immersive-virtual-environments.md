@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 545 claims (347 for, 173 mixed, 25 against) · 349 studies (152 causal, 81 review, 39 quant-synthesis, 38 design, 26 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 64 of 349 report an effect size · 540 claims rest on one study
+> **Evidence** · 548 claims (350 for, 173 mixed, 25 against) · 351 studies (153 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 10 theoretical, 3 associational), `q1`–`q4` · 64 of 351 report an effect size · 543 claims rest on one study
 
 ## Conditional relationship
 
@@ -543,6 +543,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Residents' overall ASSET performance score rose significantly from pre- to post simulator training in a single-group pre-post comparison](../claims/asset-score-improves-after-competency-based-simulator-training.md) [+W] — attached 2026-11-09 from Rahm Stefan et al. (2018), which proposed "Integrate competency-based virtual reality simulator training of about 3–5 hours into residency programs to build basic arthroscopic skills"; tests this page's relationship.
 - [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](../claims/cvs-improves-knowledge-retention-nursing.md) [+W] — attached 2026-11-09 from José Miguel Padilha et al. (2019), which proposed "Integrate clinical virtual simulation with other pedagogical strategies and simulator resources rather than using it in isolation"; tests this page's relationship.
 - [Four months after the simulation, interns reported applying lessons about communication content — setting expectations on process and timing and providing frequent updates — to clinical practice](../claims/simulation-lessons-communication-content.md) [+W] — attached 2026-11-09 from Nelson SW et al. (2018), which proposed "Use patient experience simulations as a practical and effective way to develop empathy in resident physicians"; tests this page's relationship.
+- [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](../claims/realism-repetition-valued-pph-simulation.md) [+W] — attached 2026-11-09 from Egenberg Signe et al. (2017), which proposed "Multi-professional simulation design combining team training, skills training, realistic repeated scenarios, and debriefing with a systems approach to human error".
+- [Debriefing and reflective learning were perceived to change mindsets and transfer to clinical practice, including new ward morning reports](../claims/debriefing-reflection-transfer-pph-training.md) [+W] — attached 2026-11-09 from Egenberg Signe et al. (2017), which proposed "Multi-professional simulation design combining team training, skills training, realistic repeated scenarios, and debriefing with a systems approach to human error".
+- [In one uncontrolled pre-post study, post-birth whole blood transfusion rates fell from 3.2% to 1.7% after multi-professional, scenario-based PPH training (47% reduction)](../claims/scenario-pph-training-reduces-transfusion-rates.md) [+W] — attached 2026-11-09 from Egenberg et al. (2017), which proposed "Train the entire maternity staff together, including all professional cadres, when preparing teams for obstetric emergencies"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

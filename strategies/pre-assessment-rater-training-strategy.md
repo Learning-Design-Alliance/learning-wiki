@@ -51,6 +51,8 @@ In its discussion of limitations, the article recommends training raters before 
 - [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
 - [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
 - [Train raters in the use of the SHORT (e.g., via webinars, e-learning with videos, or live-debriefing ratings) before implementation](short-rater-training-before-implementation.md)
+- [Assess fidelity of group courses via audio-recorded checklists plus speech-time didacticism scoring](audio-recording-fidelity-assessment-strategy.md)
+- [Use trained raters, a crossover design, and comparison of learning modalities when implementing checklist-based IO assessment](rater-training-crossover-design-recommendation.md)
 
 ## Examples
 -

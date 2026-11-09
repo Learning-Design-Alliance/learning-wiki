@@ -47,7 +47,8 @@ The article recommends implementing "standardized AMS modules across medical cur
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](../claims/knowledge-attitude-positive-correlation-ams-dental-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add antimicrobial prescribing training to the medical curriculum before workforce entry](pre-graduation-antimicrobial-prescribing-training.md)
 
 ## Examples
 -

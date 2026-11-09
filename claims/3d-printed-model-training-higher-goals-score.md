@@ -47,3 +47,4 @@ The GOALS score was used "to quantitatively evaluate the surgical performance" o
 ## Related Claims
 - [Surgeons trained on a 3D-printed biliary-enteric anastomosis model complete the procedure on an animal model faster than surgeons trained by video observation or general suture practice](3d-printed-model-training-shorter-transfer-operation-time.md) — related
 - [Surgeons trained on a 3D-printed biliary-enteric anastomosis model earn higher anastomosis quality scores than surgeons trained by video observation or general suture practice](3d-printed-model-training-higher-operative-score.md) — related
+- [Augmented-reality HOST skills training yields better anastomosis skill scores than control in a review-reported randomized controlled trial](host-ar-training-improves-anastomosis-scores.md) — related

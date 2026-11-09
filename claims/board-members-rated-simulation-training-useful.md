@@ -49,3 +49,4 @@ Secondary-outcome survey of the intervention arm only, analysed with thematic an
 - [Simulation-based training modestly improved board members' perceived skills and confidence in communicating during board meetings (d=0.40, one-sided p=0.068)](simulation-training-communication-skills-confidence.md) — related
 - [A prototype virtual Room of Error pilot with 14 interprofessional students was positively received, with all participants reporting benefit from interprofessional exchange and 86% finding the hazards relevant](virtual-roe-prototype-pilot-positive-reception.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
+- [Clinical behaviour change after the pilot training was limited and inconsistent, reported by some individuals but not others](responds-training-clinical-behaviour-change-limited.md) — related

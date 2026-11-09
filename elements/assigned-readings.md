@@ -13,7 +13,7 @@ generated:
 # Assigned Readings
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Assigned readings place curated texts — textbook chapters, articles, cases, or primary sources — in learners' hands so they build conceptual foundations at their own pace. The element shifts first exposure to content outside of group time, freeing synchronous sessions for application, discussion, and clarification.
@@ -54,6 +54,8 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students rate clicker questions and lecture as more helpful than the textbook](../claims/clickers-and-lecture-rated-above-textbook.md) [-W]
+- [Full completion of preclass reading guides before class is significantly positively correlated with exam performance in a large-enrollment introductory biology course, controlling for demographic and aptitude factors](../claims/reading-guide-completion-exam-performance-correlation.md) [+M] — attached 2026-11-09 from Lieu et al. (2017), which proposed "Custom preclass reading guides for introductory biology textbook reading".
+- [Most students in a large-enrollment introductory biology course completed at least some of the optional preclass reading guides, with about half completing the entire guide before class each day](../claims/high-preclass-reading-guide-completion-rates.md) [+W] — attached 2026-11-09 from Lieu et al. (2017), which proposed "Custom preclass reading guides for introductory biology textbook reading".
 
 ## Related Elements
 - [Lecture](lectures.md) — readings front-load content so lecture time can focus on elaboration and application

@@ -95,6 +95,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Train-the-trainer workshop to build coach competency and self-efficacy before delivery](train-the-trainer-coach-workshop.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Combine a brief Teach-Back skills workshop with ongoing guided self-reflection surveys for telehealth communication training](workshop-plus-guided-self-reflection-strategy.md)
+- [Use repeated mystery shopping visits with immediate verbal feedback and self-evaluation scoresheets as a coaching technique for pharmacy staff](repeated-mystery-shopping-coaching-strategy.md)
 
 ## Examples
 -

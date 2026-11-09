@@ -47,3 +47,4 @@ Accuracy evaluation comparing two 3D-printed phantoms from the same STL file aga
 
 ## Related Claims
 - [FDM hardness varies with printed thickness while PolyJet hardness is controlled by mixing Agilus and Vero, with higher Vero proportion yielding higher hardness](fdm-thickness-polyjet-mixing-hardness-control.md) — related
+- [3D printing from patient angiography datasets reproduces vascular branches as small as 1 mm in diameter as sacrificial PVA models](printed-vascular-branches-small-as-1mm.md) — related

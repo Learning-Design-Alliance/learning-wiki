@@ -56,3 +56,4 @@ Prospective observational cohort of 106 preclinical medical students followed ac
 - [Only students high on both perceived stress and hair cortisol were at significantly increased risk of lower Year-1 pass rates, particularly male students](high-stress-high-cortisol-poor-performance.md) — possibly the same claim (merge candidate)
 - [Physical activity, demographic parameters and stress-related hormones explain around 61.9–77.9% of academic performance and executive functioning variation, especially in females](regression-model-explains-619-779-percent-variance.md) — related
 - [Higher perceived stress and higher hair cortisol were each associated with lower Year-1 performance](stress-measures-associated-lower-performance.md) — related
+- [High levels of the stress hormone cortisol inhibit memory encoding and retrieval and disrupt synaptic plasticity, while mild elevations can boost memory performance](cortisol-high-levels-inhibit-memory-plasticity.md) — related

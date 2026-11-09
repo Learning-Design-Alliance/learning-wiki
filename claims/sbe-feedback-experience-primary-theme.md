@@ -51,3 +51,4 @@ Thematic analysis with Leximancer software of 41 written comments (20 in 2014, 2
 - [Thematic analysis of open-ended feedback finds roughly twice as many positive as negative comments on the VR station, dominated by realism and fairness](vrs-thematic-realism-fairness.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Thematic analysis of open-ended feedback identified desires for greater scenario realism (36% of responses), more practice opportunities (23%), and improved technological infrastructure](qualitative-themes-scenario-realism-practice-infrastructure.md) — related
+- [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related

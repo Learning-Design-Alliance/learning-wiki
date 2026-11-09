@@ -52,3 +52,4 @@ Group comparison via independent t-test among 66 medical interns (36 male, 30 fe
 - [Female physiotherapy students achieve higher GPAs than male students](female-students-higher-gpa-physiotherapy.md) — related
 - [Male residents reported significantly higher interest in oral and maxillofacial surgery and higher self-assessed clinical abilities than female residents, with no gender difference in self-assessed theoretical knowledge](male-residents-higher-interest-and-clinical-self-assessment.md) — related
 - [Female residents showed a better post-course performance, a secondary outcome reported cautiously due to reduced subgroup power](female-residents-better-post-course-performance.md) — reports the opposite
+- [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — reports the opposite

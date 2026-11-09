@@ -50,3 +50,4 @@ Controlled quasi-experimental repeated-measures study with 54 intervention and 3
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — a broader claim this one bears on
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Knowledge and attitude changes persisted up to two years after completing the program, with no significant difference between recent and earlier completers](sti-elearning-lasting-effect-two-years.md) — related

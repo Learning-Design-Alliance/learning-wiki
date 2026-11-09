@@ -53,3 +53,4 @@ Exploratory multilevel mixed modelling on the study's immigrant sample included 
 - [Teaching and learning conditions did not statistically significantly explain cross-national differences in the pandemic-related widening of the socio-economic performance gap](conditions-did-not-explain-socio-economic-gap-change.md) — related
 - [Socio-economic status has no significant effect on junior secondary mathematics achievement when controlling for pretest](ses-no-significant-effect-math-achievement-jss.md) — related
 - [School achievement level is associated with school type and socio-economic status, entrenching educational disadvantage in Chile](school-achievement-level-associated-ses-school-type.md) — related
+- [Socio-economic background, whether indexed by school type or by a Barratt-based Social Status score, explains very little variance in assessment marks](ses-measures-explain-little-assessment-variance.md) — reports the opposite

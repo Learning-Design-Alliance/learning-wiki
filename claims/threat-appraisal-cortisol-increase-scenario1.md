@@ -49,3 +49,4 @@ Discussion of the same 26-participant simulated OSCE study, reporting salivary c
 - [Paramedicine students who appraised a simulated OSCE as a challenge performed on average 17% better clinically than those who appraised it as a threat](challenge-appraisal-higher-osce-clinical-performance.md) — related
 - [Participation in neonatal simulation raises salivary cortisol, but the rise is not dependent on whether the manikin dies](cortisol-rise-simulation-not-scenario-dependent.md) — related
 - [Across both scenarios, participants showed significant increases in systolic blood pressure and heart rate, with a notably higher relative increment in the threat group](cardiovascular-increases-both-groups-threat-higher.md) — related
+- [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related

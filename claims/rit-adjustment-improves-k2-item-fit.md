@@ -72,3 +72,4 @@ Summary statistics in Table 2.2: for the AllYr Reading sample, mean absolute dif
 - [New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79](new-old-fit-statistics-moderately-correlated.md) — related
 - [New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading](map-k2-new-old-fit-statistic-correlations.md) — related
 - [ChatGPT items showed more consistent infit and outfit statistics, while human-developed items fluctuated more](chatgpt-items-more-consistent-fit-statistics.md) — related
+- [Excluding dysfunctional items raised person reliability and left no item with infit or outfit above 2.0](dysfunctional-item-exclusion-improves-fit-and-reliability.md) — a narrower finding that bears on this claim

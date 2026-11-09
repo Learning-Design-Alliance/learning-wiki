@@ -60,3 +60,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
 - [Medical students' overall knowledge test scores rose from the in-person to the e-learning semester in one single-group pre-post study](e-learning-overall-scores-higher-than-in-person.md) — related
 - [Among OR novices, theoretical knowledge test scores were higher after than at baseline in both lecture-based and game-based virtual training groups, based on within-group pre-test to post-test comparisons](both-training-methods-increase-knowledge-from-baseline.md) — related
+- [Risk competence scores rose from pre-test to post-test among students in the blended learning program (Cohen's d = 2.61)](blended-re-c-program-large-overall-gain.md) — related

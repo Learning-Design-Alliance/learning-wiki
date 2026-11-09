@@ -55,3 +55,4 @@ Pearson correlation analyses in the 301-participant study. The article also repo
 - [In well-trained DNN+HMM face-recognition models, an eyes-focused eye movement pattern yields higher recognition accuracy than a nose-focused pattern](well-trained-model-eyes-focused-pattern-advantage.md) — related
 - [Higher eye movement consistency is associated with higher ERP decoding accuracy and faster face recognition responses](consistency-erp-decoding-accuracy-faster-responses.md) — related
 - [Higher eye movement consistency is associated with shorter peak latency of high-alpha decoding accuracy, reflecting more efficient neural representation development](eye-movement-consistency-shorter-decoding-latency.md) — related
+- [Gaze time on task-irrelevant areas relates to poorer retention performance and higher movement entropy](irrelevant-gaze-related-poorer-retention.md) — related

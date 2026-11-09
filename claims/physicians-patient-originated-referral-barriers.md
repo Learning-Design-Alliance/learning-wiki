@@ -67,3 +67,4 @@ Among individual barrier items in the same survey, the highest-rated item is pat
 - [Physicians at a comprehensive cancer center report high value, commitment, and efficacy beliefs regarding psycho‐oncology](physicians-high-attitudes-psycho-oncology.md) — related
 - [Perceived barriers correlated strongly and negatively with acceptance of a standardized distress screening measure](perceived-barriers-negatively-correlate-screening-acceptance.md) — related
 - [Physicians estimated covering psycho‐oncological issues with 43% of patients and tended to favor a standardized screening measure](self-reported-integration-43-percent-and-screening-acceptability.md) — related
+- [Concern for pets can cause patients to delay or refuse care, as in the illustrative chest-pain case](pet-concern-delays-patient-care.md) — related

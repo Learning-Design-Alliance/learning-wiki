@@ -49,6 +49,7 @@ A forward-looking implementation strategy the authors derive from their mixed su
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
 - [Four-step implementation recommendations for the FCM-MFCS blended model](fcm-mfcs-implementation-recommendations.md)
 - [Provide instructional support for motivational regulation and training in MRS use in online medical learning](support-mrs-training-online-medical-education.md)
+- [Develop online courses with fixed timeframes, individual feedback, and a minimum of personal interaction (blended forms)](blended-online-fixed-timeframes-feedback-interaction-strategy.md)
 
 ## Examples
 -

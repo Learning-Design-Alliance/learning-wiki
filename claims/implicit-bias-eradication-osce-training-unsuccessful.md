@@ -47,3 +47,4 @@ The commentary asserts, citing prior analyses including an examiner-bias study o
 ## Related Claims
 - [In culturally discordant OSCE encounters, stereotype activation can influence decision-making and the judgments reached regardless of whether performances are stereotypical](cultural-discordance-stereotype-activation-osce-judgments.md) — related
 - [OSCEs provide standardized, objective practical assessment but carry high organizational effort and scenario-preparation risks](osce-advantages-limitations-ultrasound.md) — related
+- [OSCE examiners show activation of Asian stereotypes on a lexical decision task, responding faster to Asian-stereotypical than neutral words regardless of whether they viewed stereotype-consistent or stereotype-inconsistent performances](examiners-activate-asian-stereotypes-ldt.md) — related

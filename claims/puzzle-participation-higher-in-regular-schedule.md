@@ -49,3 +49,4 @@ Overall participation across intervention groups was 40.29%. Authors attribute h
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
 - [Participants recommend embedding simulation in curricula with structured goals, protected time and tailored facilitator feedback](simulation-curriculum-integration-protected-time-feedback.md) — related
 - [Participation in scheduled learning activities is significantly higher under the higher-stakes assessment policy](higher-stakes-policy-higher-participation.md) — related
+- [Attendance at interactive integration/feedback sessions was high when linked to course marks](high-attendance-marked-feedback-sessions.md) — related

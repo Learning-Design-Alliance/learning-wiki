@@ -50,3 +50,4 @@ Descriptive cross-sectional survey of 480 clinical nurses and nurse educators in
 - [Search and critical-appraisal skills lacked credibility as core GP competencies in the systematic review](search-appraisal-skills-lack-credibility-gp-competencies.md) — related
 - [Nurse educators showed better research knowledge and skills than clinical nurses (89.6% vs 58.9% with better knowledge)](educator-clinician-ebp-knowledge-gap-ghana.md) — related
 - [GPs prefer pre-appraised evidence sources over independently searching and appraising primary research](gps-prefer-pre-appraised-evidence-sources.md) — related
+- [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related

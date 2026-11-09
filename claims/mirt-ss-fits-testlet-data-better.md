@@ -62,3 +62,4 @@ Model-fit comparison across the six operational reading data sets using the like
 - [An instructive reinforcement learning model with a free constant learning rate best explains participants' contingency learning](flri-best-fitting-rl-model.md) — related
 - [Technical digital literacy measured with authentic software applications is not a unidimensional construct; a four-dimensional exploratory MIRT model fits best](dl-authentic-software-four-dimensions.md) — related
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
+- [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related

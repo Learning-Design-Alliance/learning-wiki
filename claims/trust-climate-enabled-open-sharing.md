@@ -65,3 +65,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [In a postgraduate PBL course the teacher functions as a positive enabler through facilitation, emotional support, and professional role modeling](pbl-teacher-as-positive-enabler.md) — related
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
 - [Near-peers' high social congruence has ambiguous effects: it enables a safe climate but makes leading discussions and sustaining productive tension harder](ambiguous-effects-of-social-congruence-in-npt.md) — related
+- [Portfolios do not work by themselves; they only work if conditions such as mentoring, open structure, a supporting learning environment and direct learning gain are fulfilled](portfolio-conditions-for-success-mentoring-open-structure.md) — related

@@ -71,3 +71,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
 - [Interobserver reliability is acceptable for 17 of 20 Sim-OSSCAR items](sim-osscar-interobserver-reliability.md) — related
 - [The PERFECT checklist shows high inter-rater reliability (ICC = 0.99), high internal consistency (α = 0.99) and moderate-to-high concurrent validity (r = 0.65–0.93)](perfect-checklist-high-reliability-validity.md) — related
+- [Overall impression reliability substantial (Kappa 0.65) and most sessions rated average-to-excellent](overall-impression-ratings-good-delivery.md) — related

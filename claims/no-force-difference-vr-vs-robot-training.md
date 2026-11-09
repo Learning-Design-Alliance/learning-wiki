@@ -47,3 +47,4 @@ Prospective randomized controlled trial of 87 robotic novices randomized to FRS 
 ## Related Claims
 - [At the Final test the Robot group showed a non-significant tendency toward better force and time outcomes](final-test-tendency-favoring-robot-group.md) — related
 - [Both VR and real-system FRS training produce significant learning-curve improvement in tissue handling forces](frs-training-improves-tissue-handling-forces.md) — related
+- [VR simulator training improves tissue-exercise performance only in trainees with low baseline robotic skills, indicating a need for tailored curricula](vr-training-benefit-limited-to-low-baseline-trainees.md) — related

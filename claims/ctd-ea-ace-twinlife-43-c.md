@@ -68,3 +68,4 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 - [Monozygotic twins correlate far more strongly (~0.85) than dizygotic twins and siblings (~0.50), suggesting nonadditive genetic effects or gene–environment interplay](mz-dz-gap-suggests-nonadditive-effects-or-gxe.md) — related
 - [Heritability of mathematics and GPA is higher in 17-year-olds than in 11-year-olds, but the reverse holds for German grades](cohort-effect-heritability-math-gpa-not-german.md) — related
 - [Additive genetic effects explain a substantial share of variance in school grades in mathematics, German, and GPA in both 11- and 17-year-old cohorts](genetic-effects-school-grades-twinlife.md) — related
+- [Within monozygotic twin pairs, the twin with more ADHD symptoms scored lower on educational achievement than the co-twin](mz-intrapair-adhd-achievement-differences.md) — related

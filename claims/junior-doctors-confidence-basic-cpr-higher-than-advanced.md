@@ -54,3 +54,4 @@ Narrative review attributing this to Sukor and Sabardin's cross-sectional study 
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [With support, redeployed junior doctors can become more confident managing unwell patients and performing advanced practical procedures in ICU](icu-rich-learning-environment-redeployed-juniors.md) — related
 - [Students with higher postcourse confidence in resuscitation skills were more likely to register as first responders](postcourse-confidence-associated-first-responder-registration.md) — related
+- [The RIBEPCI program created five autonomous paediatric resuscitation groups and certified 3637 students across 182 courses in five years](ribepci-3637-students-182-courses-five-autonomous-groups.md) — related

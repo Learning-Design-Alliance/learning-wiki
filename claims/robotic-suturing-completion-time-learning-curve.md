@@ -47,3 +47,4 @@ Wilcoxon signed-rank tests comparing first and last trial in the 60-participant 
 ## Related Claims
 - [Force parameters decrease over trials for novices and experts but not intermediates](force-decrease-learning-curve-novices-experts-only.md) — related
 - [Force-based parameters distinguish novices, intermediates and experts on a robotic suturing task, establishing construct validity](force-parameters-distinguish-robotic-surgery-experience-groups.md) — related
+- [Most trainees who repeated the pediatric suturing task improved: 71.0% improved their summed score, 16.1% decreased, and first and second trial scores correlated R = 0.89](second-trial-improvement-pediatric-suturing.md) — related

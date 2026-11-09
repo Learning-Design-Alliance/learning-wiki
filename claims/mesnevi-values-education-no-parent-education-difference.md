@@ -50,3 +50,4 @@ Kruskal-Wallis H tests across mother's education levels (primary, high school, u
 - [Family variables relate to academic achievement, with parents' attitudes and behaviors (ES = .873) and parental expectations (ES = .865) showing large effects, and father's education level relating more strongly than mother's](family-variables-effects-academic-achievement-meta-review.md) — related
 - [Parents' educational level was not significantly related to post-training FLRA scores in the experiment group](parents-education-not-related-to-flra.md) — related
 - [Parental SES components differentially relate to parent-supported art participation and academic performance](parental-ses-components-vap2-academic.md) — related
+- [Deaf Community Capital scores differed by mentee parents' education level, an unexplained difference](deaf-community-capital-parents-education.md) — reports the opposite

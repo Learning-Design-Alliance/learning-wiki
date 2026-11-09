@@ -57,3 +57,4 @@ Questionnaire feedback (Table 6) compared groups with χ2/Fisher's exact and Man
 - [Live-streaming participants self-trained more often during the week yet did not acquire the same posttest score increase](ls-more-self-training-not-more-gain.md) — related
 - [Students in the SBME group allocate more practice time to communicating with others](sbme-students-allocate-more-communication-time.md) — related
 - [Time spent using the app versus course notes did not differ significantly between groups](app-versus-notes-usage-time-null.md) — reports the opposite
+- [Self-reported exam preparation time did not differ between groups and did not positively correlate with examination scores](prep-time-null-correlation.md) — reports the opposite

@@ -69,3 +69,4 @@ The review reports that one included study on nurses' diabetes knowledge "found 
 - [Nurses in sub-Saharan Africa show knowledge gaps in diabetes pathology, insulin therapy, treatment and complications](ssa-nurses-diabetes-knowledge-gaps.md) — a broader claim this one bears on
 - [Facilitators of nurses' diabetes knowledge acquisition include experience, refresher nutrition courses and NCD training](facilitators-nurse-diabetes-knowledge-ssa.md) — related
 - [Barriers to nurses' diabetes knowledge acquisition include lack of guidelines, inadequate staffing, salary and training resources](barriers-nurse-diabetes-knowledge-ssa.md) — related
+- [Over 80% of health care professionals report educational benefits and improved knowledge about diabetes prevention and treatment after a 6-week MOOC](mooc-health-professionals-report-educational-benefits.md) — related

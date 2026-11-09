@@ -49,3 +49,4 @@ Descriptive heart rate monitoring of 130 children across PE lessons using Polar 
 - [Heart rate measures during physical education show no clear associations with executive function despite slight associations with academic performance](hr-pe-no-clear-executive-function-association.md) — related
 - [PAL lessons elicit moderate-to-vigorous heart-rate responses (73% HRmax) versus very light-to-light intensity in NAL lessons (51% HRmax)](pal-moderate-vigorous-heart-rate.md) — related
 - [Time in the hard heart rate zone (80–90% HRmax) during physical education is positively associated with physical education and GPA grades](hard-hr-zone-associated-pe-gpa.md) — related
+- [Fitness infusion is the most effective strategy for increasing MVPA during physical education lessons, and prior PE interventions raised MVPA by 24% on average](fitness-infusion-most-effective-mvpa-strategy.md) — related

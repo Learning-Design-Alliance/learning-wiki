@@ -72,3 +72,4 @@ Variance component estimates (Table 3) showed participant × scenario variance (
 - [Two raters' total scores on the ten-item ACLS simulation rubric correlate 0.70 (p < 0.001) among pre-clinical medical students](acls-rubric-interrater-reliability-070.md) — related
 - [The study's assessment forms for US-guided thoracocentesis and pericardiocentesis show strong inter-rater reliability and good internal consistency](assessment-forms-reliability-us-procedures.md) — related
 - [Casper shows satisfactory internal consistency but only moderate interrater agreement and low test-retest reliability in the German pilot](casper-german-pilot-reliability-mixed.md) — related
+- [Generalizability analysis indicated eight assessors yield an EP2 of 0.78 and ten assessors 0.81, exceeding the 0.70 stability threshold](msf-award-ep2-eight-assessors-0-78.md) — related

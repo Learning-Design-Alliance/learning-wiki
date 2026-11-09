@@ -69,3 +69,4 @@ Descriptive synthesis of the review: of 10 studies, four reported enablers to me
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Nurse mentors identified knowledge gaps, resource shortages, staff hierarchy, and poor patient relationships as barriers to high-quality PE/E care in Bihar](mentor-identified-barriers-pe-e-care-bihar.md) — related
 - [Nurse mentors identified simulation training, doctor-nurse communication, and physician leadership as enablers of high-quality PE/E care](mentor-identified-enablers-pe-e-care.md) — related
+- [Hospital staff in EOL simulation workshops recurrently reported lack of training, knowledge and time, technology overuse, uncertainty, and poor communication and teamwork skills](eol-workshop-recurring-barrier-themes.md) — related

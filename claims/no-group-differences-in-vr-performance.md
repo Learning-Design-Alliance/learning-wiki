@@ -69,3 +69,4 @@ Linear mixed model comparison of task completion time between groups; Table 3 sh
 - [Novice surgeons completed temporal bone anatomy tasks significantly faster in VR than in cross-sectional PACS viewing](novices-faster-tb-anatomy-tasks-vr-than-pacs.md) — related
 - [Both novice and expert surgeons rated the VR environment significantly higher than cross-sectional viewing on overall user experience](vr-higher-user-experience-ratings.md) — related
 - [Novices' task performance in VR approached expert level after five temporal bone sessions, suggesting a shorter learning curve](vr-shorter-learning-curve-novices.md) — related
+- [Task completion time was not selected by the best model, suggesting completion time is not necessarily predictive when evaluating surgeons on a finer scale than novice-versus-expert](completion-time-not-predictive-finer-scale.md) — related

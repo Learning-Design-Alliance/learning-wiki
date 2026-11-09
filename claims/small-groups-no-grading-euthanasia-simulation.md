@@ -51,3 +51,4 @@ Group-interview findings from the qualitative study. Students also appreciated t
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — a broader claim this one bears on
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
+- [Controlling instructional practices undermine students' motivation, whereas supportive practices are associated with better adjustment and engagement](controlling-practices-undermine-motivation.md) — a broader claim this one bears on

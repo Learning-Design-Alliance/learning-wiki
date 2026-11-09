@@ -48,3 +48,4 @@ In the discussion, the review reports mixed evidence on console simulators: "no 
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — a narrower finding that bears on this claim
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — a narrower finding that bears on this claim
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — possibly the same claim (merge candidate)
+- [Training on the dV-Trainer VR simulator improves dry lab console performance compared with dry lab training alone, in a review-reported resident study](dv-trainer-training-improves-console-performance.md) — a narrower finding that bears on this claim

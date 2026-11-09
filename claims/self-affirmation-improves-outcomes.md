@@ -120,3 +120,4 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](no-trajectory-difference-cohort2.md) — related
 - [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](self-affirmation-no-black-white-gap-reduction.md) — reports the opposite
 - [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related
+- [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — related

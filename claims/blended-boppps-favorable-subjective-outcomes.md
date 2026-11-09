@@ -89,3 +89,4 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [Students perceived FC+CBL as more beneficial than LBC for motivation, comprehension, critical thinking, patient management and teamwork](fc-cbl-perceived-benefits-questionnaire.md) — related
 - [Students in the MOOC-based blended group report higher satisfaction with teaching and learning effects, with no differences in self-study, operational practice, or teamwork](mooc-blended-higher-satisfaction-feedback.md) — related
 - [Element-level PBL studies show that problem quality, group functioning and prior knowledge predict interest, and familiar, learning-aligned, critical-reasoning problems raise interest and autonomous motivation](element-level-pbl-studies-predictors-of-interest.md) — related
+- [Students found anatomy teaching by ultrasound innovative, exciting and engaging, and autonomous exercise improved self-criticism](student-engagement-ultrasound-anatomy.md) — related

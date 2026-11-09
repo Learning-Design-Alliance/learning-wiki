@@ -97,3 +97,4 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Initial stigma and fear towards people with schizophrenia among CBR workers was reduced through direct contact during field work, not through training alone](contact-reduces-lay-worker-stigma-schizophrenia.md) — a narrower finding that bears on this claim
 - [Students perceived the e-learning module as helpful in preparing for their ICU rotation and as decreasing anxiety](elearning-icu-reduced-anxiety.md) — related
 - [Undergraduate health students initially experience discomfort in multiprofessional IPE teams, which diminishes over the integrated internship experience](ipe-initial-discomfort-diminishes-over-integration-module.md) — a narrower finding that bears on this claim
+- [Informants across professions reported enhanced self-efficacy and reduced stress after multi-professional PPH simulation training](enhanced-self-efficacy-reduced-stress-pph-simulation.md) — related

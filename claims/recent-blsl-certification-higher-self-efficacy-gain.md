@@ -51,3 +51,4 @@ U Mann–Whitney moderator analyses in the exploratory single-group study contra
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
 - [Behavioral capability increases with training level and with longer time since last BLS certification](factors-raising-behavioral-capability.md) — related
 - [A 2-hour BLS and AED course with an interactive lecture and practical workshop significantly improved schoolchildren's knowledge, with the largest gain on how basic life support is correctly performed (r = 0,71 in Study 1)](bls-aed-course-improves-schoolchildren-knowledge.md) — related
+- [The RIBEPCI program created five autonomous paediatric resuscitation groups and certified 3637 students across 182 courses in five years](ribepci-3637-students-182-courses-five-autonomous-groups.md) — related

@@ -76,3 +76,4 @@ The review reports, on the perception of preservice teachers, that Saavedra-Jeld
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](eportfolio-improves-writing-value-self-concept-not-anxiety.md) — reports the opposite
 - [Most experimental-group students (61%) showed evidence of reflection in their portfolio writing](portfolio-reflection-61-percent-experimental.md) — a narrower finding that bears on this claim
+- [Reflective portfolios cause student and teacher dissatisfaction because forced, fixed-format reflection offers little perceived gain and little learner direction](reflective-portfolio-dissatisfaction-forced-reflection.md) — reports the opposite

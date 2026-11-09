@@ -53,6 +53,7 @@ The authors recommend wider-scale implementation consider a hybrid approach util
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Adopt TBL over lecture-based learning to develop clinical reasoning and engagement in health-professions education](adopt-tbl-for-clinical-reasoning-strategy.md)
 - [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
+- [Adapt TBL units for teaching clinical reasoning by focusing readiness-assessment questions and application exercises on reasoning steps and structured approaches](tbl-clinical-reasoning-adaptation-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Pilot trial with 41 participants (students=9; junior residents=12; senior reside
 - [The OSATS-based chest tube insertion scale shows moderate-to-good intermethod reliability between 'direct' on-site and 'indirect' video ratings](cti-osats-scale-intermethod-reliability.md) — related
 - [OSATS scores did not significantly distinguish groups stratified by formal professional level in the pilot study](osats-no-significant-distinction-by-professional-level.md) — reports the opposite
 - [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related
+- [Blinded expert OSATS ratings rose with training level: medical students averaged 1.33, residents 2.93, and fellows 3.60 on the rounded average scale](osats-scores-increase-with-training-level.md) — related

@@ -69,3 +69,4 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [The TBL cohort performed significantly better than both previous PBL cohorts on both progress tests.](tbl-cohort-better-progress-tests-than-pbl.md) — a narrower finding that bears on this claim
 - [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related
 - [FC-TBL students achieved significantly higher molecular biology laboratory exam scores than LBL students](fc-tbl-higher-lab-exam-scores.md) — a narrower finding that bears on this claim
+- [A supplementary team-based learning class improved fourth- and fifth-year medical students' key-feature problem examination performance in neurology](supplementary-tbl-improves-key-feature-examination-neurology.md) — a narrower finding that bears on this claim

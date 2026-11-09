@@ -50,3 +50,4 @@ Same randomized controlled trial; confidence was measured by pre- and post-works
 - [Students taught with Peyton's 4-step method complete a simulated lumbar puncture significantly faster than students taught with \"see one, do one\"](peyton-method-faster-slp-completion-time.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

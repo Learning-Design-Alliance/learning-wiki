@@ -53,3 +53,4 @@ Pearson correlation analysis on final MCE and virtual SBA scores among the 81 co
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related
 - [Students' online activity score on the mobile app showed a weak but significantly positive correlation with their final examination score](online-score-weak-positive-correlation-final-exam.md) — related
+- [SCT performance was not correlated with multiple-choice factual knowledge performance (r = 0.11)](sct-uncorrelated-with-mcq-performance.md) — related

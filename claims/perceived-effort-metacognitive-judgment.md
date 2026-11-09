@@ -54,3 +54,4 @@ Conceptual review claim, attributed to the recent review by Scheiter et al. (202
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — a narrower finding that bears on this claim
 - [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — related
 - [LAD evaluation methods are predominantly traditional, relying on surveys, quizzes and crude proxies prone to subjectivity bias](lad-traditional-evaluation-methods.md) — a narrower finding that bears on this claim
+- [Key feature arm students experienced more time pressure and perceived the material as more difficult than systematic arm students](kf-arm-time-pressure-difficulty-evaluation.md) — related

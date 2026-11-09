@@ -69,3 +69,4 @@ The article reports, citing a study in minimal-access surgical simulation compar
 - [Inexperienced students can adequately perform simulated microsurgical steps with both microscope and robot without prior training](novices-complete-microsurgery-simulation-both-systems.md) — related
 - [Novice students grasp and place a 9.0 needle significantly faster with a microscope than with the Symani robotic system](microscope-faster-needle-grasp-placement-than-symani.md) — related
 - [Threading a 9.0 needle takes novices equally long with microscope and Symani robot](no-time-difference-needle-threading-microscope-symani.md) — related
+- [Augmented-reality HOST skills training yields better anastomosis skill scores than control in a review-reported randomized controlled trial](host-ar-training-improves-anastomosis-scores.md) — related

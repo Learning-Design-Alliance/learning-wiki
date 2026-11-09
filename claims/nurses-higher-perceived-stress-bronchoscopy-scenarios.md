@@ -70,3 +70,4 @@ Same questionnaire dataset comparing nurses' self-ratings with physicians' ratin
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [An adaptive COVID-19 simulation intervention increased heart rate variability (reduced physiologic stress) in emergency physicians during clinical shifts immediately following the intervention](adaptive-simulation-reduced-physiologic-stress-hrv.md) — related
 - [Perceived stress during simulation was higher in the recently trained group, and stress did not correlate with performance or experience.](higher-perceived-stress-in-recently-trained-group.md) — related
+- [The authors conclude that different roles during emergency simulations evoke similar engagement, as indicated by acute stress levels](similar-engagement-across-roles-stress-indicator.md) — reports the opposite

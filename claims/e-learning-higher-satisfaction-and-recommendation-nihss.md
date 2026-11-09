@@ -71,3 +71,4 @@ Secondary Likert outcome on recommendation likelihood in the same trial. 23/35 e
 - [Senior medical students following a highly interactive e-learning module acquire more NIHSS knowledge asynchronously than students following the traditional didactic video](e-learning-module-outperforms-didactic-video-nihss-medical-students.md) — related
 - [Respondents rated online class usefulness modestly: 31.5% very helpful, 44.9% somewhat helpful, 23.5% not helpful on a 1–10 Likert scale](likert-usefulness-online-classes-distribution.md) — related
 - [Paramedics who used the e-learning module were more likely to recommend the course to a colleague than those who used the video](elearning-higher-recommendation-nihss-paramedics.md) — related
+- [Intervention PCPs were more satisfied with the web curriculum and most preferred it over reading materials or CME classes](higher-satisfaction-web-curriculum.md) — related

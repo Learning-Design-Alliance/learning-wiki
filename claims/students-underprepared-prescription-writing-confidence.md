@@ -75,3 +75,4 @@ Single-group study of 65 UK medical graduates using interviews, questionnaires a
 - [Undergraduate teaching time on fluid and electrolytes is low, and most Foundation doctors report only partial confidence, with 38% reporting more than four hours of teaching and 19% feeling very confident](low-teaching-time-and-confidence-fluid-prescribing.md) — related
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — related
 - [PBL students reported greater prescribing confidence and preparedness and completed more drug prescriptions during training, but confidence did not correlate with assessed skill](pbl-confidence-preparedness.md) — related
+- [Students demonstrate lower clinical knowledge in antimicrobial prescribing than in cardiovascular medication management](lower-antimicrobial-knowledge-than-cardiology.md) — related

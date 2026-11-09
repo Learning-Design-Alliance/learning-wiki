@@ -50,3 +50,4 @@ Preliminary validation of the assessment instruments before the trial, comparing
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — related
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](greenhouse-scores-increase-with-training-level.md) — related
 - [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](pre-class-video-higher-pre-training-checklist-cvc.md) — related
+- [Blinded expert OSATS ratings rose with training level: medical students averaged 1.33, residents 2.93, and fellows 3.60 on the rounded average scale](osats-scores-increase-with-training-level.md) — related

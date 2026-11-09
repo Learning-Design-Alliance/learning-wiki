@@ -54,3 +54,4 @@ Pearson correlation analysis in a cross-sectional study of 562 Spanish schoolchi
 - [Gross motor competence correlates positively with academic achievement for the total sample, but not for boys' aiming-catching and dynamic balance](gmc-aa-correlations-significant-total-not-all-boys.md) — related
 - [Boys and girls showed no significant differences in GPA or any motor competence or fitness measure](no-gender-differences-gpa-motor-fitness.md) — reports the opposite
 - [Mediation by executive functions differed by gender: cognitive flexibility was not significant in girls and inhibition was not significant in boys](gender-differences-ef-mediation-crf-achievement.md) — related
+- [Higher physical fitness is associated with increased odds of commencing post-compulsory education (total-effect OR 1.87 per 10 VO2max units)](physical-fitness-total-effect-post-compulsory-commencement.md) — related

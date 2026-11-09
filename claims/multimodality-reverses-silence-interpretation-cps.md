@@ -51,3 +51,4 @@ The review reports, citing Vrzakova et al. (2020), a study combining visual scre
 - AIOL research shows increasing emphasis on multimodal data integration for emotion recognition and personalized learning support — related
 - [Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors](multimodal-profiles-dyad-collaboration.md) — related
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
+- [In EOL simulations providers talked about twice as often as the actors, and silences longer than 5 seconds were rare](eol-simulation-talk-over-listening.md) — related

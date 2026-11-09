@@ -54,3 +54,4 @@ Self-report questionnaire on a 0-10 scale across 5 domains. All comparisons rema
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
 - [No statistically significant difference was observed between groups in the psychological self-efficacy domain of the questionnaire.](no-significant-difference-psychological-self-efficacy-domain.md) — related
 - [BOPPPS-CBL students reported significantly higher scores on all seven positive perception dimensions after Bonferroni correction](boppps-cbl-higher-positive-perceptions.md) — related
+- [Both curricula improved physician self-efficacy, with modestly higher improvement in the web-based intervention group](self-efficacy-gains-both-groups-higher-intervention.md) — related

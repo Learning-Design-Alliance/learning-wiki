@@ -62,3 +62,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
 - [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related
+- [Dramatization-based simulation has technical limitations: not all procedures can be executed on simulated patients, and physiological outcomes cannot be controlled](technical-limitations-dramatization-simulation.md) — related

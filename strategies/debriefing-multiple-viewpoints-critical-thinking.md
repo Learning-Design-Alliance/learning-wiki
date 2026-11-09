@@ -59,6 +59,7 @@ As a practitioner implication, the article recommends designing debriefing conve
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 - [Design SBE with strong debriefing and explicit support for recontextualising knowledge across sites, and enact shared values collaboratively between educators and clinical nurses](sbe-debriefing-recontextualisation-support-strategy.md)
 - [Facilitators support peers sharing a patient by structuring communication to establish positive cognition and promote performance](facilitator-peer-communication-positive-cognition-strategy.md)
+- [Use simulated patients actively in debriefing and assessment, and role play for empathetic perspective-taking](simulated-patient-debriefing-role-play-empathy-strategy.md)
 
 ## Examples
 -

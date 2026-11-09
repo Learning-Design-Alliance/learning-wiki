@@ -79,3 +79,4 @@ The article reports, citing Miura et al, a pilot training program for NPs using 
 - [Incomplete participation in a short supervision training workshop was associated with no significant improvement in teaching ability](incomplete-participation-no-teaching-ability-gain.md) — related
 - [Short-duration supervision training can produce negative outcomes when new skills are not reinforced or preceptors lack protected supervision time](short-training-negative-outcomes-no-reinforcement-no-protected-time.md) — related
 - [The review reports that learners and preceptors favor the One-Minute Preceptor over traditional teaching models](omp-favored-over-traditional-teaching.md) — related
+- [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related

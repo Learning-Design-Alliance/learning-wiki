@@ -53,3 +53,4 @@ de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact
 - [The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
 - [Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated](narcissism-predicts-overconfidence.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
+- [Within the ICB course, students in the bottom quartile of online textbook use scored significantly lower on course exams than top-quartile users](icb-textbook-use-dosage-exam-correlation.md) — related

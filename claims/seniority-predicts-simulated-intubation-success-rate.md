@@ -51,3 +51,4 @@ Chi-square analysis of first-attempt success across 50 learners (UGY n=7, PGY n=
 - [No significant differences in intubation time or success rate were found across physician training levels](no-training-level-difference-time-success.md) — reports the opposite
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
 - [Of 25 intubations applying at least 200 Newtons to the incisors, attending physicians represented the highest percentage of tooth-breaking-force attempts](senior-physicians-highest-tooth-breaking-force-percentage.md) — related
+- [Senior residents report greater DAA familiarity and more often retry with a different blade, but intubation success does not differ by seniority](senior-junior-daa-behavior-differences.md) — reports the opposite

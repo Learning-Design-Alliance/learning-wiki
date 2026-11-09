@@ -157,3 +157,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [No published studies examine classroom-based physical activity in high school classrooms on adolescent cognitive and academic outcomes](no-high-school-classroom-physical-activity-studies.md) — related
 - [PAL lessons elicit moderate-to-vigorous heart-rate responses (73% HRmax) versus very light-to-light intensity in NAL lessons (51% HRmax)](pal-moderate-vigorous-heart-rate.md) — related
 - [A 20-week classroom PA break program combining high cognitive engagement with high physical exertion improves children's shifting performance more than a low-cognitive-engagement aerobic program](combo-pa-breaks-improve-shifting.md) — related
+- [Greater variety of exercise equipment and variety-supported exercise programs increase enjoyment, exercise behavior, adherence and well-being](variety-support-increases-enjoyment-and-adherence.md) — related

@@ -48,3 +48,4 @@ Multivariate linear regression with manual backward stepwise selection (n = 129)
 ## Related Claims
 - [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — related
+- [Clinical behavioural intention subscale scores rose significantly from pre-test to post-test among completers in a single-group pre-post study: beliefs about capabilities (r = 0.42), moral norm (r = 0.43) and beliefs about consequences (r = 0.49)](behavioural-intention-three-subscales-improved-completers.md) — related

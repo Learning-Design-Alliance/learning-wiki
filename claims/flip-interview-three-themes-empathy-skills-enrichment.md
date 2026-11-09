@@ -54,3 +54,5 @@ Qualitative study: semistructured interviews with seven students with one year o
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](role-reversal-empathy-mechanism-claim.md) — related
 - [Students reported the empathy project improved their understanding of empathy and empathic communication skills](pbl-empathy-student-reflections.md) — related
+- [Homebound patients with cardiovascular disease show three themes: limited awareness of heart disease, fluctuating motivation with reliance on caregivers, and barriers to attending outpatient cardiac rehabilitation.](homebound-cardiac-patient-interview-themes.md) — related
+- [Interviewed nurses reported skill development, empowerment and improved confidence, and reflection on their practice following the intervention](qualitative-empowerment-skill-development-reflection.md) — related

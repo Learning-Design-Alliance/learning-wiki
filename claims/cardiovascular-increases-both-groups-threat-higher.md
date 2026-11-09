@@ -53,3 +53,5 @@ Static physiological results of the 26-participant study (Table 1), where paired
 - [Desktop VR and face-to-face simulation produce no significant difference in biophysiological stress responses (systolic blood pressure and heart rate)](desktop-vr-similar-biophysiological-stress-to-face-to-face-simulation.md) — related
 - [The PASAT stress task significantly increased cardiovascular activity on all measured variables in the student sample](pasat-increased-cardiovascular-activity.md) — related
 - [High-fidelity simulation raises systolic blood pressure, mean blood pressure, and heart rate immediately after the scenario, with a small effect](hfs-raises-sbp-mbp-hr-immediately-after-scenario.md) — related
+- [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — related
+- [Sympathetic stress parameters parallel self-reported test anxiety, with salivary cortisol rising before both exams](sympathetic-parameters-parallel-self-reported-test-anxiety.md) — related

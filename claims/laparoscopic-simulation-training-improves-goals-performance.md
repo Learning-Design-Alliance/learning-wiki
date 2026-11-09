@@ -57,3 +57,4 @@ Multicenter prospective randomized two-arm single-blind trial at 11 German surgi
 - [Economic, social and regulatory constraints on operating-room training foster demand for digital training environments](cl-or-constraints-digital-training-demand.md) — related
 - [Simulation-based learning cannot replace operating-room skills acquisition but can catalyse students' transition from the learning phase to the competency phase](sbl-catalyses-learning-to-competency-transition.md) — related
 - [The training program produced no difference in operative time, blood loss, or complications in residents' first operative laparoscopy](no-difference-operative-time-blood-loss-complications-first-laparoscopy.md) — related
+- [No significant difference in operating-room camera navigation performance between simulation-trained camera, procedure, and control groups](no-transfer-or-camera-navigation-difference.md) — related

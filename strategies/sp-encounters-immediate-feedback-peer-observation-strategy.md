@@ -52,6 +52,7 @@ Learners in small groups of 4–6 observe peers in SP encounters from outside OS
 - [Administer a rotating virtual breakout-room SP assessment with 15-minute interviews and 5-minute feedback](virtual-breakout-room-sp-assessment-rotation.md)
 - [Combine immediate standardized-patient feedback, video review, and self-feedback diary entries as the core of OSCE remediation](video-remediation-with-sp-feedback-and-self-feedback-diary.md)
 - [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
+- [Offer conversation training with simulated patients to prepare international medical students for patient encounters](conversation-training-simulated-patients-international-students.md)
 
 ## Examples
 -

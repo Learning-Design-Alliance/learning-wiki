@@ -52,6 +52,7 @@ Based on the study, the article's most highly recommended extensive reading task
 
 - [Allocate scores for extensive reading as motivation rather than penalty](scores-as-extensive-reading-incentive.md)
 - [Use short reading passages from supplementary books as springboards for integrated skills practice (retelling, summarizing, role play)](supplementary-passages-integrated-skills-practice.md)
+- [Storytelling program: weekly 50-minute story classes with student book choice plus daily 10-minute peer retelling](storytelling-book-choice-daily-retelling-strategy.md)
 
 ## Examples
 -

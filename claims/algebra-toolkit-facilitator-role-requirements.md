@@ -53,3 +53,4 @@ Descriptive resource table defining the facilitator resource, listed with quanti
 - [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
 - [PLC with an appointed teacher leader were more productive than groups with no appointed leader](teacher-leader-more-productive-plc.md) — related
 - [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](algebra-toolkit-space-technology-requirements.md) — related
+- [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related

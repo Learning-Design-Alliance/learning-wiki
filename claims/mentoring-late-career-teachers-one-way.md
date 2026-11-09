@@ -47,3 +47,4 @@ The review's synthesis of the 12 studies characterises how mentoring of late-car
 ## Related Claims
 - [There is a notable gap in tailored professional learning interventions addressing late-career teachers' specific needs](gap-tailored-interventions-late-career-teachers.md) — related
 - [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](late-career-teachers-prefer-socially-embedded-learning.md) — related
+- [Mentors and co-mentors in the mentoring tandems report personal professional gain, a win-win the article relates to generativity](mentor-generativity-personal-professional-gain.md) — related

@@ -66,3 +66,4 @@ Same between-group comparison, categorical playtime variable tested with Fisher 
 ## Related Claims
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - [VR training interventions can promote knowledge and skills acquisition in health care professionals and students for assessing and treating mental health disorders, though the evidence base is uncertain](vr-training-promotes-mental-health-knowledge-skills.md) — related
+- [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related

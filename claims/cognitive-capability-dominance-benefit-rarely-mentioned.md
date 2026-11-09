@@ -73,3 +73,4 @@ Benefit-of-use coding of direct strategy promotion instances showed most lacked 
 - [SRL interventions for pre-service teachers unevenly cover SRL areas: cognition (n = 62) and metacognition (n = 55) dominate, while emotion (8 interventions) and context regulation (n = 6) are rare](uneven-srl-area-coverage-pst-interventions.md) — related
 - Zimmerman's (2000) model was the most frequently cited SRL model (74%) and Pintrich's (2000) model followed (67.4%), with model choice not affecting the areas promoted — related
 - [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](srl-models-assume-availability-omit-context.md) — related
+- [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related

@@ -52,3 +52,4 @@ SEM Model 3 with gender and age as moderator factors; Table 4 reports direct-onl
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — related
 - [Being female is associated with higher odds of membership in the positively oriented profiles](female-gender-associated-with-positive-profiles.md) — related
+- [Higher age, female gender and more time spent on self-study each predict higher GPA among occupational therapy students, controlling for study approaches](age-gender-selfstudy-predict-ot-gpa.md) — reports the opposite

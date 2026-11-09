@@ -56,3 +56,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [Gas exchange question scores did not differ between small groups led by study coauthors versus nonauthors (74.7% vs. 75.8%)](no-facilitator-author-effect-on-gas-exchange-scores.md) — related
 - [No difference in learning outcomes was found between resident-given and faculty-given lectures, and nurse-given lectures received equivalent evaluation scores](resident-faculty-lecture-outcomes-equivalent.md) — related
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
+- [Near-peer instructors teaching anatomy dissection are rated by first-year students on par with professional teachers, and significantly higher in 2016](npi-anatomy-ratings-par-with-faculty.md) — related

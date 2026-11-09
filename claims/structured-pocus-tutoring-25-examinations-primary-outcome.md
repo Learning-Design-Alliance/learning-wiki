@@ -51,3 +51,4 @@ Single-center randomized open-label superiority trial of internal medicine resid
 - [Blinded experts rate tutored residents as more autonomous and more competent in image acquisition and optimisation](expert-rated-autonomy-and-image-competency.md) — related
 - [PGY-1 e-learning users performed more clinical FAST examinations than PGY-2 residents despite the PGY-2 having more PoCUS experience](elearning-users-more-fast-exams-than-pgy2.md) — related
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related
+- [Over seven years the expertise reached by peer tutors and peer learners was generally satisfactory](seven-year-satisfactory-expertise-pts-pls.md) — related

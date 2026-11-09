@@ -55,3 +55,4 @@ Cohort comparison of 57 RP residents (2022 intake) with 59 TTM residents (2021 i
 - [RCDP training yields significantly higher immediate post-training forceps operation scores than traditional teaching among G&O residents](rcdp-higher-immediate-forceps-scores.md) — related
 - [Peyton's four-step approach was superior to standard instruction in a controlled trial of technical skills training](peyton-four-step-superior-controlled-trial.md) — related
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

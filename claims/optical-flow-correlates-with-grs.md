@@ -68,3 +68,4 @@ Algorithm-based evaluation (Fig. 6C): movement per suture declines with rising G
 - [Global rating scores correlate strongly positively with checklist scores (r = 0.78)](global-rating-checklist-correlation-cvc.md) — related
 - [The assessment tools show strong concurrent validity, correlating moderately to strongly in dry and VR tasks](concurrent-validity-m-gears-apms-ochra.md) — related
 - [Number of sutures performed during training, not tutor feedback, predicts competence improvement in novices](suture-quantity-predicts-competence-improvement.md) — related
+- [ICSAD total path length correlates moderately and negatively with Global Rating Scale scores, supporting concurrent validity](icsad-concurrent-validity-grs-correlation.md) — related

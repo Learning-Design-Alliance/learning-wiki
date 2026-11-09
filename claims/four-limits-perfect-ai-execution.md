@@ -84,3 +84,4 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
 - [ChatGPT-4.0 and 3.5 cannot replace the comprehensive skill set required for effective medical practice](chatgpt-cannot-replace-comprehensive-medical-practice-skills.md) — related
 - [Assessment setting is a foundational criterion for AI vulnerability because unobserved AI use cannot be reliably detected](assessment-setting-primary-ai-vulnerability-criterion.md) — related
+- [Realism of the dramatization strategy contributes to perceived legitimacy and triggers psychological reactions resembling actual practice](realism-legitimacy-dramatization-simulation.md) — related

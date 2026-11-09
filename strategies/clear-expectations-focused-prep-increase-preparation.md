@@ -50,6 +50,7 @@ The authors propose concrete instructor methods to raise the proportion of stude
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
 - [Retest the inverted classroom case-study format with more senior PharmD students (years 4-6) rather than third-year students](retest-ic-case-study-with-senior-pharmd-students.md)
 - [Structure future flipped courses with assessed group-work elements and varied feedback sessions instead of mandating attendance](assessed-groupwork-and-varied-seminar-structure-strategy.md)
+- [Implementation practices for adopting preclass reading guides in college science courses](reading-guide-implementation-recommendations.md)
 
 ## Examples
 -

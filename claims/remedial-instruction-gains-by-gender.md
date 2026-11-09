@@ -49,3 +49,4 @@ Gender subgroup analysis in the same study: 31 male students (t = 13.21) and 15 
 - [Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study](remedial-instruction-gains-by-age.md) — related
 - [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — a narrower finding that bears on this claim
 - [Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students](knowledge-gain-gender-academic-year-subgroups.md) — related
+- [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related

@@ -55,3 +55,4 @@ Qualitative and descriptive findings from the console phase of the 30-resident s
 - [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related
 - [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related
 - [Biological-material exercises were too difficult for young residents, with completion rates rising with surgical experience](tes-biological-exercises-difficulty-by-experience.md) — related
+- [A VR simulator warm-up practice session improves dry lab task performance and reduces errors for both basic and complex robotic skills](vr-warmup-improves-task-performance.md) — related

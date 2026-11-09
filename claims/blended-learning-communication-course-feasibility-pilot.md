@@ -54,3 +54,4 @@ Pilot study with six sixth- and eighth-semester medical students in an NKLM-base
 - [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — a narrower finding that bears on this claim
 - [An expanded communication skills course with video annotations and tutor-led group discussion is feasible and well received, with a mean student mark of 4.6](video-annotation-course-feasible-well-received.md) — related
 - [All participants completed both simulator modules successfully without malfunctions](simulator-feasibility-no-malfunctions.md) — related
+- [Repeated testing added to a blended learning course significantly improves risk estimation and communication achievement in medical students (d = .94)](repeated-testing-improves-re-c-achievement-blended.md) — related

@@ -57,3 +57,4 @@ Grouped retrospective pre-post self-assessment survey distributed at the worksho
 - [The retrospective design without a control group or basal assessment cannot determine causality between Full Code use and knowledge acquisition](full-code-causality-not-established.md) — related
 - [Diagnostic Thinking Inventory for Optometry scores improved significantly after studying for the Clinical Diagnosis Assessment](dti-o-significant-improvement-after-cda.md) — related
 - [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — related
+- [NPI trainees reported increased understanding of the topics they taught and gains in teaching skills and universal competencies](npi-trainees-reported-understanding-and-competency-gains.md) — related

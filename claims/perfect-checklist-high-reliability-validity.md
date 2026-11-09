@@ -73,3 +73,4 @@ Principal component factor analysis with varimax rotation on the checklist data 
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
+- [The 5-item DPCC-MS matches a longer validated scale on internal consistency and convergent validity but shows better inter-rater reliability](dpcc-ms-compares-favorably-to-longer-scale.md) — related

@@ -75,3 +75,5 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Machine learning applied to virtual reality simulation data can automatically differentiate surgical expertise and provide feedback on operative performance](ml-differentiates-surgical-expertise-vr.md) — related
 - [The eoSim differentiates expertise groups on the intracorporeal suturing task in time and distance, demonstrating construct validity for those parameters](eosim-task1-construct-validity-time-distance.md) — related
 - [All novice participants exceeded the 3 N tissue-damage safety threshold during purse-string suturing at both pre- and post-course assessment](tatme-suturing-exceeds-safety-threshold.md) — related
+- [Task completion time was not selected by the best model, suggesting completion time is not necessarily predictive when evaluating surgeons on a finer scale than novice-versus-expert](completion-time-not-predictive-finer-scale.md) — related
+- [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](novise-no-force-or-accuracy-differences.md) — reports the opposite

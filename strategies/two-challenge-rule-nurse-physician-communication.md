@@ -46,6 +46,7 @@ The two-challenge rule is a communication technique taught in the PRONTO curricu
 ## Related Strategies
 
 - [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
+- [Implement role-play and role reversal in emergency simulation teams to improve doctor-nurse interpersonal understanding and patient safety](role-reversal-multidisciplinary-team-training-strategy.md)
 
 ## Examples
 -

@@ -77,3 +77,4 @@ Follow-up study by the same author using the same OSCE with orthopedic residents
 - [The eight-station simulation-based assessment produced a significant difference in mean station score between junior (ST2–ST4) and senior (ST5–ST8) trainees](sim-assessment-junior-senior-score-difference.md) — related
 - [Junior residents score lower on OSAKA knowledge than senior residents (83.3% vs 88.9%; p = 0.0219)](junior-residents-lower-osaka-knowledge-scores.md) — related
 - [Median assessment scores decreased from PGY 3 to PGY 1, which the authors cite as construct validity evidence for the simulation assessment](pgy-subgroup-scores-support-construct-validity.md) — related
+- [Internal consistency of the DPCC-MS is lower for junior than senior students, possibly due to less uniform assessor expectations](dpcc-ms-lower-reliability-junior-students.md) — related

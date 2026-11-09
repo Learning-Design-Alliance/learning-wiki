@@ -50,3 +50,5 @@ Focus group finding on characteristics determining the simulation's success. Pre
 - [Participants found the death simulation valuable and reported feeling better prepared to face patient death after the course](death-simulation-feels-better-prepared.md) — related
 - [Medical students and nursing trainees perceived their educational programs as inadequate preparation for encountering patient death](education-inadequately-prepares-for-patient-death.md) — related
 - [The advance directive relieved participants of the decision to let the patient die but also evoked uncertainty and ambivalence](advance-directive-relieves-and-burdens.md) — related
+- [Leighton's recommendation of a death-specific prebriefing to protect perceived self-efficacy is not supported: warned and unwarned students showed no significant PSE difference](death-prebriefing-no-pse-difference.md) — related
+- [Exposing undergraduate medical students to the unexpected death of a simulation manikin does not negatively affect their perceived self-efficacy for managing sudden-death situations](simulated-mankin-death-no-pse-harm.md) — related

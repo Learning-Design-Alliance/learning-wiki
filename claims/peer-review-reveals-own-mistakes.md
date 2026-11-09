@@ -58,3 +58,5 @@ Student quote from iteration 2 qualitative data on peer review and online feedba
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
 - [In Critical Care simulation sessions, knowledge-based mistakes and lapses (Reason) and communication breakdown and poor team performance (Round) were the most commonly observed errors, while violations and sloths were least frequent](simulation-error-frequency-reason-round.md) — related
 - [Peer assessment functions as a learning activity: evaluating peers helps students review their own knowledge and clinical skills](peer-assessment-as-learning-activity.md) — possibly the same claim (merge candidate)
+- [Observing peer videos benefited students regardless of whether the peer performance was better or worse than their own](peer-videos-benefit-regardless-of-performance-level.md) — related
+- [Video-based self-reflection helped some medical students identify mistakes in communication and technical skills of which they were previously unaware](video-self-reflection-reveals-unnoticed-mistakes.md) — related

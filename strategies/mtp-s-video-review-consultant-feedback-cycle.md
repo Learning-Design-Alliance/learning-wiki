@@ -38,7 +38,8 @@ MTP-S coaching follows a recurring cycle: teachers submit videotaped sessions ab
 - enhancing teacher-student interactions
 
 ## Related Strategies
-- 
+
+- [Use videotaped case-studies with role models in e-learning on sensitive consultation topics](videotaped-case-studies-role-models-strategy.md)
 
 ## Examples
 -

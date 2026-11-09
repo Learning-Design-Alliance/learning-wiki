@@ -47,3 +47,4 @@ Adjusted finding from the trial's mixed effects retention analysis; the article 
 ## Related Claims
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — a broader claim this one bears on
 - [Team training in neonatal resuscitation improved team performance on simulated re-evaluation at 3 and 6 months, but studies of neonatal outcomes are inconclusive](resuscitation-team-training-simulated-performance.md) — related
+- [Daily bag-and-mask skill checks show the strongest association with retention of neonatal resuscitation skills (RR-5.1)](daily-bag-mask-skill-checks-retain-skills-rr5-1.md) — related

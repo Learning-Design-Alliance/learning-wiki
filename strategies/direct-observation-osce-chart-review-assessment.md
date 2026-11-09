@@ -47,6 +47,7 @@ Because self-reported questionnaires may overestimate competence through recall 
 - [Assess social and group flow in real time through non-intrusive observation instead of interrupting learners with self-report surveys](real-time-observational-flow-assessment-in-dgbl.md)
 - [Integrate structured, recurring training and assessment modules on fluid resuscitation into nursing and midwifery curricula](recurring-fluid-resuscitation-curriculum-modules.md)
 - [Use direct workplace observation with immediate feedback to evaluate and reinforce faculty supervision performance](direct-observation-feedback-strategy.md)
+- [Use objective blood loss measurement in future obstetric training research in low-resource settings](objective-blood-loss-measurement-future-research.md)
 
 ## Examples
 -

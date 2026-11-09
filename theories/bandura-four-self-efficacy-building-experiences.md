@@ -54,6 +54,7 @@ The article organizes its synthesis around Bandura's four experiences critical t
 - [Classroom strategies for developing student psycho-social supports and academic mindsets](../strategies/classroom-psycho-social-support-strategies.md)
 - [Design introductory educational technology courses around the four sources of self-efficacy, prioritizing mastery experiences](../strategies/design-edtech-courses-around-self-efficacy-sources.md)
 - [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](../strategies/self-efficacy-support-strategies-clinical-skills.md)
+- [Base clinical teacher training on Bandura's four sources of self-efficacy to enhance physicians' teaching self-efficacy and their ability to detect student competencies](../strategies/teacher-training-self-efficacy-sources-strategy.md)
 
 ## Key Sources
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073

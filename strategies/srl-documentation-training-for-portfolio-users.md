@@ -50,6 +50,7 @@ Because the studied e-portfolio was implemented with instructions on technical a
 ## Related Strategies
 
 - [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
+- [Implement comprehensive portfolios as learner charts within programmatic assessment, documenting progress longitudinally to service both learning and assessment](comprehensive-portfolio-learner-chart-programmatic-assessment.md)
 
 ## Examples
 -

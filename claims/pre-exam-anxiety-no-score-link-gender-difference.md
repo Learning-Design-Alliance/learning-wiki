@@ -72,3 +72,4 @@ Gender comparison of pre-exam VAS in the same study. The article reports "a medi
 - [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — related
 - [OSCE results were not related to anxiety levels in either cohort](osce-results-unrelated-to-anxiety.md) — a broader claim this one bears on
 - [State anxiety showed no significant correlation with summative OSCE performance](no-correlation-state-anxiety-osce-performance.md) — possibly the same claim (merge candidate)
+- [Test anxiety does not correlate with previous or impending academic performance in medical school](test-anxiety-uncorrelated-with-academic-performance.md) — possibly the same claim (merge candidate)

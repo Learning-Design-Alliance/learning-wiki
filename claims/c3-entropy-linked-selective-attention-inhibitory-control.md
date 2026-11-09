@@ -52,3 +52,4 @@ Exploratory correlation and hierarchical regression within the same sample; the 
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
 - [Adding distractors made the MOT game substantially more difficult for children than adults, interpreted as immature attentional inhibition of distractors](distractors-impair-children-more-than-adults.md) — related
+- [Gaze time on task-irrelevant areas relates to poorer retention performance and higher movement entropy](irrelevant-gaze-related-poorer-retention.md) — related

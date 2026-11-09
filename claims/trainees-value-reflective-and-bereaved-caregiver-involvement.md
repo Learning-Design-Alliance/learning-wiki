@@ -72,3 +72,4 @@ Thematic synthesis of self-reflection exercises and debriefing across the review
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [The framework embeds communication, consent, and debriefing objectives alongside technical procedural skills](procedural-objectives-embed-communication-and-debriefing.md) — related
 - [Two-thirds of attendees reflected on their attitudes towards dying, death and grief and about one in five changed their attitude because of the seminar](seminar-prompted-attitude-reflection-and-change-eolc.md) — related
+- [Debriefing sessions after patient encounters serve three purposes: exchanging informative questions, reassuring trainees, and checking trainees' performance](debriefing-sessions-three-purposes.md) — related

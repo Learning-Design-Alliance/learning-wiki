@@ -102,3 +102,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
 - [Content analysis of post-program interviews yielded six categories of dementia supporters' thoughts and learning, including changed images of people with dementia and possible community support](six-interview-categories-supporter-learning.md) — related
 - [Students reported the empathy project improved their understanding of empathy and empathic communication skills](pbl-empathy-student-reflections.md) — a narrower finding that bears on this claim
+- [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related

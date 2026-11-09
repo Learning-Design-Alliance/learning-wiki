@@ -52,3 +52,4 @@ Thematic analysis of the some-training group's survey responses: training 'appea
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
 - [Communication difficulties with patients and families and the need for emotional support persisted after training and emerged only in the qualitative data, with participants requesting further training modules](pc-training-persisting-unmet-needs.md) — related
 - [Interviews indicated the course increased participants' existential self-awareness, awareness of patients in need of existential communication, and confidence in carrying out such communication](qualitative-increased-awareness-and-confidence.md) — related
+- [A majority of clinician participants reported that a brief QStream program helped update their knowledge about referring women for genetic assessment and testing](qstream-updated-clinician-referral-knowledge.md) — related

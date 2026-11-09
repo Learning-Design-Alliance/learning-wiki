@@ -52,3 +52,4 @@ Cross-sectional SEM of age 11 SATs in 1,673 SCAMP pupils. The article reports "a
 - [Simultaneous multilinguals show a small but reliable educational attainment advantage over monolinguals at ages 11 and 16 in UK adolescents](sm-attainment-advantage-ages-11-16.md) — related
 - [Both simultaneous multilinguals and multilingual learners make faster educational progress than monolinguals between ages 11 and 16](multilingual-faster-educational-progress-11-16.md) — related
 - [SES and ethnicity are confounded with multilingual status and associated with attainment and cognitive outcomes in UK adolescent samples](ses-ethnicity-confounds-multilingualism-studies.md) — related
+- [Before language proficiency is considered, children with EAL show lower attainment than monolingual children, but all effects are small and progression is equal](raw-eal-attainment-gap-small.md) — related

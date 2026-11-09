@@ -49,3 +49,4 @@ Self-report questionnaire administered after all tests; voluntary and anonymous.
 - [Repeated MCQ test-enhanced learning produced no significant difference in delayed clinical-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-clinical-science-neuroanesthesia.md) — related
 - [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
 - [Test-enhanced learning produced no significant difference on the end-of-year neuroanesthesia exam of first-year residents](tel-no-effect-end-of-year-neuroanesthesia-exam.md) — related
+- [Participants of a voluntary key-feature examination did not differ significantly in course-examination performance from the rest of the cohort](kfp-participants-mcq-performance-comparable-to-cohort.md) — related

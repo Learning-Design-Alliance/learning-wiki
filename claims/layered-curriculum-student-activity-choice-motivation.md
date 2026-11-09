@@ -50,3 +50,4 @@ Descriptive qualitative analysis of diaries and semi-structured interviews with 
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related
 - [Letting students choose their simulation scenario topic from real-world sources increases interest, motivation, and felt responsibility for learning CPR](student-chosen-scenario-increases-motivation-responsibility.md) — a narrower finding that bears on this claim
+- [Providing students with choice of activities and brief periods of free choice increases physical activity and MVPA during PE lessons](student-choice-increases-pe-physical-activity.md) — related

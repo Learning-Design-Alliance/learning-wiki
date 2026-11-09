@@ -76,3 +76,4 @@ Authors' interpretation of the sex-stratified results in the Discussion, attribu
 - [Intervention effects on academic performance were larger for boys than girls, with the only significant sex-stratified reading effect among DWBH boys](scim-sex-moderates-academic-effects.md) — related
 - [Sport type may moderate the math effect: girls chose individual sports more than boys, and math effects differed across sport types](sport-type-moderates-math-effect.md) — related
 - [Sports-club participation alone shows no significant difference in mathematical achievement compared with non-participation](sports-club-participation-no-math-achievement-difference.md) — related
+- [Stratified analyses show a significant total effect for girls (OR 2.30) but not boys (OR 1.64), with indirect effects for both sexes](sex-stratified-mediation-fitness-commencement.md) — related

@@ -49,6 +49,7 @@ For future investigations, the article recommends moving beyond single-moment se
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 - [Recommendations for ascites puncture simulation programs: standardized purpose-built models, longer evaluation horizons, and added patient-communication assessment](ascites-simulation-program-recommendations.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
+- [Use objective blood loss measurement in future obstetric training research in low-resource settings](objective-blood-loss-measurement-future-research.md)
 
 ## Examples
 -

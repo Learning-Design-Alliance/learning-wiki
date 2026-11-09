@@ -55,3 +55,4 @@ Authors' theoretical interpretation in the Discussion, invoking cognitive load t
 - [The authors propose skill complexity as an explanation for heterogeneous Mental Training effects across studies](mental-training-complexity-moderator-hypothesis.md) — related
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](stepped-models-simple-vs-complex-skills.md) — related
 - [The authors propose that the effect of concurrent or frequent feedback depends on the learner's skill level relative to task complexity, which may explain the null retention effect](feedback-skill-level-moderation-hypothesis.md) — related
+- [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related

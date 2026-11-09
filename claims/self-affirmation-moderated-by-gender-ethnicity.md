@@ -53,3 +53,4 @@ The multilevel model included interaction terms estimating differential treatmen
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
 - [Achievement variation by gender and ethnicity appears slighter in the self-affirmation condition](self-affirmation-slighter-achievement-variation.md) — possibly the same claim (merge candidate)
 - [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](self-affirmation-no-black-white-gap-reduction.md) — related
+- [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related

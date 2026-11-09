@@ -51,3 +51,4 @@ One-semester quasi-experiment replicating published high-structure designs with 
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [In experiment 3 of a high-structure introductory biology course, exam scores increased by an average of 3.8% relative to lecture-based control terms](exp3-exam-scores-increase-3-8-percent.md) — related
 - [Students in terms with online, open-book preclass reading quizzes earned 4.9% more exam points than control-term students with equivalent non-biology GPA](reading-quizzes-raise-community-college-exam-scores.md) — related
+- [Full completion of preclass reading guides before class is significantly positively correlated with exam performance in a large-enrollment introductory biology course, controlling for demographic and aptitude factors](reading-guide-completion-exam-performance-correlation.md) — reports the opposite

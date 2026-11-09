@@ -50,3 +50,4 @@ Moderator analysis of course delivery (Table 2 within-group Q = 48.11*); locatio
 - [CAI mode matters: tutorials show the largest effects while strictly online CAI shows negative effects](cai-mode-tutorial-best-online-negative.md) — a broader claim this one bears on
 - [CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction](cai-supplement-effective-replacement-not.md) — related
 - [CAI has a moderate positive effect on student achievement in postsecondary statistics education (d = 0.566)](cai-moderate-positive-effect-postsecondary-statistics.md) — a broader claim this one bears on
+- [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — related

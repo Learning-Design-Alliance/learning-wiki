@@ -51,3 +51,4 @@ Descriptive attendance analysis of the treatment group's session logs across 274
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
 - [Participation in the Puzzle activity is higher when integrated into the regular academic schedule than when offered in ad hoc sessions](puzzle-participation-higher-in-regular-schedule.md) — related
+- [Attendance at interactive integration/feedback sessions was high when linked to course marks](high-attendance-marked-feedback-sessions.md) — related

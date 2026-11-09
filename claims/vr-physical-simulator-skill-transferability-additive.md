@@ -67,3 +67,4 @@ A trainee feedback assessment study at a urology simulation boot camp using the 
 - [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
 - [The assessment tools show strong concurrent validity, correlating moderately to strongly in dry and VR tasks](concurrent-validity-m-gears-apms-ochra.md) — possibly the same claim (merge candidate)
+- [Training on the dV-Trainer VR simulator improves dry lab console performance compared with dry lab training alone, in a review-reported resident study](dv-trainer-training-improves-console-performance.md) — related

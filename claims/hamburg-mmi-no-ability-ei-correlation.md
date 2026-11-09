@@ -52,3 +52,4 @@ Study 1: online survey three months after admission (n = 69 for MMI correlations
 - [MMI scores do not correlate significantly with global trait emotional intelligence measured by the TEIQue-SF](hamburg-mmi-no-trait-ei-correlation.md) — related
 - [IC-MD ratings show convergent validity with simulation patients' perceptions of the consultation (r = .57) but no significant association with emotional intelligence measures after correction for multiple testing](ic-md-convergent-validity-prad-not-ei.md) — related
 - [Ability and trait scales of emotional intelligence capture different constructs and are only weakly related (ρ = 0.16)](ability-trait-ei-scales-weakly-related.md) — related
+- [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related

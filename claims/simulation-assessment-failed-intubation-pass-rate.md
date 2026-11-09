@@ -51,3 +51,4 @@ Kiwalabye and colleagues assessed preparedness of anesthesia interns in managing
 - [After the simulation course, passing rates rose to 90.5% for inexperienced and 97.7% for experienced trainees, while mastery learning rates reached only 23.8% and 70.5% respectively](obstetric-sim-passing-mastery-rates.md) — related
 - [In situ and off-site simulation-based obstetric anesthesia training produced similar individual and team outcomes, with greater fidelity reported for in situ training](in-situ-versus-off-site-simulation-similar-outcomes.md) — related
 - [Year-6 OSCE pass rates on the medical emergency station are significantly associated with the number of times the module was completed](osce-pass-associated-with-module-frequency.md) — related
+- [Residents request anesthesiology faculty and ENT presence less often in simulation than they self-report, and many request neither even after failed intubation](faculty-ent-requesting-lower-in-simulation.md) — related

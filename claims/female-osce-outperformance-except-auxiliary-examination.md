@@ -48,3 +48,4 @@ Independent samples t-tests on OSCE scores of 3,710 undergraduates at one Guangz
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Students perform weakest on auxiliary examination analysis and case analysis and strongest on history taking and basic operations in the OSCE](osce-module-strengths-weaknesses-profile.md) — related
 - [OSCE performance differs by specialty in physical examination, basic operational skills, auxiliary examination analysis, and case analysis, with clinical medicine students outperforming anesthesiology students](osce-specialty-differences-four-modules.md) — related
+- [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related

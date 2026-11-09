@@ -54,3 +54,4 @@ Narrative review attributing this to cited studies: the review reports that Kami
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
+- [An a posteriori video analysis found the worksheet instructor used significantly more analogies, but a causal link between analogy use and students' Real-World Connections attitudes could not be confirmed](analogy-use-associated-real-world-connections.md) — related

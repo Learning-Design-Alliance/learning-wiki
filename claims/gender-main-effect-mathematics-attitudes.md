@@ -56,3 +56,4 @@ ANCOVA of post-treatment ATMI scores showed a statistically significant main eff
 - [Significant interaction effect of gender and style of categorisation on students' attitudes toward mathematics](gender-sct-interaction-attitudes.md) — related
 - [No significant interaction effect of treatment and gender on students' attitudes toward mathematics](no-treatment-gender-interaction-attitudes.md) — related
 - [TAI and framing strategies were more effective than the traditional method in promoting students' attitudes toward mathematics](tai-framing-more-effective-than-traditional-method-attitudes.md) — related
+- [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related

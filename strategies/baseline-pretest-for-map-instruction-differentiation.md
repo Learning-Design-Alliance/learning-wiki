@@ -44,6 +44,7 @@ The article recommends giving students a fill-in-the-blank baseline test on the 
 
 - [Baseline Assessment](baseline-assessment.md)
 - [Use repeated computer-based map-game play as an engaging practice routine for social studies achievement](repeated-computer-game-practice-for-social-studies.md)
+- [Offer high-performing students an opt-out from repeated testing based on a routine initial profiling test](profiling-based-opt-out-from-repeated-testing.md)
 
 ## Examples
 -

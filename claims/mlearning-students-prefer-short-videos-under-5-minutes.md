@@ -53,3 +53,4 @@ The article reports, citing Shen et al. (2009), a survey of 3000 participants fr
 - [Physiotherapists preferred digital learning materials of 6 to 15 minutes, longer than the under-6-minute guideline for educational videos](preferred-video-length-6-15-minutes-physiotherapists.md) — reports the opposite
 - [Viewers prefer educational videos longer than 15 minutes and want learning objectives at the start with quiz questions at the end](viewers-prefer-longer-videos-with-objectives-and-quiz.md) — reports the opposite
 - [Canadian anesthesiology residents preferred 15- to 30-minute didactic podcasts and 5- to 15-minute formats for other modalities, with little interest beyond 45 minutes](resident-length-preference-15-30-minutes.md) — reports the opposite
+- [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related

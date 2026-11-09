@@ -68,3 +68,4 @@ Curriculum-preference items from the same survey. The article reports "Seventeen
 - [After both training sessions, robotic novices who started with robotic simulation scored higher on the modified OSATS for robotic hepaticojejunostomy than novices who started with suture-pads](simulation-first-higher-osats-after-both-trainings.md) — related
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
 - [All 29 comprehensive RAS curricula included simulation training, with VR simulation (n = 16), dry lab (n = 11), and wet lab/bio-tissue/cadaveric (n = 12) as the most common modalities.](ras-curricula-all-include-simulation.md) — related
+- [A VR simulator warm-up practice session improves dry lab task performance and reduces errors for both basic and complex robotic skills](vr-warmup-improves-task-performance.md) — related

@@ -49,3 +49,4 @@ Observational finding from the activity analysis of the 25 wikis, reported in th
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — related
 - [LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties](lsc-members-substantial-time-commitment.md) — related
 - [Only purpose-built platforms managed detailed user disclosures, and among open communities only 48% of medical wikis asked for credentials to register](purpose-built-platforms-user-disclosures.md) — related
+- [Interventions creating close, trusting ties between community members and CHVs through clear community positioning trigger self-esteem, pride, duty and community recognition](chv-community-ties-self-esteem-duty.md) — related

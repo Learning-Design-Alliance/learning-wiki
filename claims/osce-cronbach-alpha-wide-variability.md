@@ -62,3 +62,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
 - [Internal consistency of OSCE station scores remained high (alpha and omega above 0.8) regardless of paper or tablet rating modality](internal-consistency-stable-across-modality.md) — a narrower finding that bears on this claim
 - [Items within each OSCE station loaded on a single factor with high reliability, confirming suitability of the data for OBM2](osce-stations-unidimensional-high-reliability.md) — related
+- [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related

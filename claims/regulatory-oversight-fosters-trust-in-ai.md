@@ -48,3 +48,4 @@ The review's interpretive discussion (authors' argument, not a tested result): F
 ## Related Claims
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Visible growing approval, including early-identified proponents and peer arguments, accelerated acceptance; official NKLM adoption boosted readiness](visibility-of-growing-approval.md) — related

@@ -69,3 +69,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Implementation of student-formulated strategies was limited for actions outside students' governance scope, and infrastructure challenges require sustained financial and institutional support.](governance-and-resource-limits-on-student-strategies.md) — a narrower finding that bears on this claim
 - [Voluntary facilitator recruitment raised concerns about sustainability, fairness, and encroachment on research and promotion time](voluntary-cbl-recruitment-sustainability-concerns.md) — related
 - [No evaluation of use, comprehensibility or effectiveness of RehAmpTT has been conducted in the main target group](rehamptt-no-evaluation-conducted.md) — a narrower finding that bears on this claim
+- [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related

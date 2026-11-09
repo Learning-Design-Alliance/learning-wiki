@@ -56,3 +56,4 @@ Observation from the Year Three cross-state evaluation of AD interviews and coll
 - The four rationales differ along two dimensions: the network's functional role (independent vs. dependent variable) and its ontological stance (active vs. passive) — related
 - [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related
 - [Involvement of stakeholders nationally enhanced programme acceptance, clinician buy-in and funding sustainability](stakeholder-involvement-buy-in-sustainability.md) — related
+- [An experienced bottom-up manager with communication and structuring skills improved acceptance and early successes in curriculum mapping](bottom-up-manager-acceptance.md) — related

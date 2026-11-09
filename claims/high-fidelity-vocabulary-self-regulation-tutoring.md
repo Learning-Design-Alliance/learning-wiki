@@ -59,3 +59,4 @@ Fidelity observation analysis: fourteen observations across both tutors rated ea
 - [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related
 - [Program activities were delivered as intended 80% of the time, but key messages were omitted in 40% of observed sessions](hl-fidelity-key-messages-suboptimal.md) — reports the opposite
 - [Physiotherapists trained via E-SOLAS delivered the SOLAS intervention with high content fidelity and in a needs-supportive, self-determination theory-consistent manner](e-solas-trained-physios-high-fidelity-needs-supportive-delivery.md) — related
+- [SMILE(UK) courses delivered with good adherence and high competence](smile-uk-good-adherence-high-competence.md) — related

@@ -52,3 +52,4 @@ Authors' guideline derived from the sustainability analysis of the IMPDET progra
 - [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](extrinsic-incentives-mixed-results-effort-achievement.md) — related
 - [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Supervisors were satisfied with equipment and working with students but 90.9% reported insufficient preparation time](supervisors-satisfied-but-underprepared.md) — related
+- [Incentives adapted to local context trigger a sense of being fairly treated and perceived organisational support in community health volunteers](chv-incentives-fair-treatment-retention.md) — related

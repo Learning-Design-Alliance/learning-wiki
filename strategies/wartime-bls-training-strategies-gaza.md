@@ -55,6 +55,7 @@ The authors recommend resource-efficient interventions tailored to conflict sett
 - [Build LMIC web-based simulation capacity through global collaboration, train-the-trainer programs, and sustainable funding](lmic-simulation-capacity-building-strategy.md)
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 - [Use short online BLS courses for continuing education of health professionals](short-online-bls-continuing-education-strategy.md)
+- [Use web-based learning as a flexible supplemental tool before practical training, pending further research on its optimal use](web-course-supplemental-before-practical-training.md)
 
 ## Examples
 -

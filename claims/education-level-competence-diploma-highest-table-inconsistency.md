@@ -57,3 +57,4 @@ ANCOVA of the 450-nurse survey relating education level (bachelor's, diploma, po
 - [Registered nurses in Egyptian outpatient clinics self-evaluate their overall clinical competence as moderate, scoring 155.3±7.2 out of 230](egypt-outpatient-nurses-moderate-self-rated-competence.md) — related
 - [Education level showed no significant pre-test differences, but diploma-level nurses scored significantly higher than secondary-educated nurses on the gastric cancer post-test (p = 0.039)](education-level-gastric-cancer-post-test-difference.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related
+- [No difference in demonstrated clinical knowledge between undergraduate and graduate medical degree students](no-undergrad-grad-knowledge-difference.md) — related

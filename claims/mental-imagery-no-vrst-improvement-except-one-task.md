@@ -50,3 +50,4 @@ Mixed effects regression analysis of procedure time and instrument path length a
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md) — a broader claim this one bears on
 - [Prior reviews of mental imagery in surgical education report mixed findings, with study quality and heterogeneity limiting conclusions](surgical-mental-imagery-reviews-mixed-heterogeneous.md) — a broader claim this one bears on
 - [Procedure time did not differ significantly between simulation and control groups](procedure-time-no-significant-difference.md) — related
+- [Trainees who combined mental practice with interactive 3D visual aids completed a simulated laparoscopic cholecystectomy significantly faster than controls watching a didactic video](3d-mp-faster-completion-than-video-control.md) — related

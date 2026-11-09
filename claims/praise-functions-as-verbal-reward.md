@@ -53,3 +53,4 @@ The digest argues, citing Kohn (1993), that "most praise is tantamount to verbal
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
 - [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](praise-positive-criticism-negative-learning.md) — reports the opposite
 - [School-level constraints prevented two of nine sites from using the four-part written praise strategy](school-constraints-blocked-written-praise-two-sites.md) — related
+- [Positive feedback is most effective when honest, attributing success to effort and strategy, reinforcing improvement, delivered privately, and with explicit achievable criteria](effective-positive-feedback-conditions.md) — related

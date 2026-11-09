@@ -45,6 +45,7 @@ This strategy recommends that e-learning for physiotherapists on low back pain m
 ## Related Strategies
 
 - [Support physiotherapists' confidence in prescribing individualised exercise therapy rather than supplying fixed exercise lists](support-individualised-exercise-prescription-confidence.md)
+- [Implement shared goal setting by combining a structured patient-specific method with client-activating communication, system integration, and patient preparation](psg-implementation-strategy-communication-system-preparation.md)
 
 ## Examples
 -

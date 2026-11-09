@@ -52,3 +52,4 @@ Orthogonal contrast within the choice condition (N=73) between students who rece
 - [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related
+- [Control group reported higher interest/enjoyment and perceived choice than the camera group](control-group-higher-interest-and-choice.md) — related

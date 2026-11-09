@@ -74,3 +74,4 @@ Theme 4 of the qualitative content analysis on barriers to the LDHF/m-mentoring 
 - [Prior simulation-based obstetric training studies in sub-Saharan Africa reported improved maternal or perinatal outcomes, contrasting with this trial's null result](prior-african-obstetric-simulation-studies-reported-improvements.md) — a broader claim this one bears on
 - [Mentors report individual, logistical, and cultural barriers persisting across key neonatal resuscitation skills after simulation training](mentor-identified-barriers-nr-skills-bihar.md) — related
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — related
+- [PRONTO training showed no statistically significant impact on the incidence of maternal complications](pronto-no-significant-impact-maternal-complications.md) — related

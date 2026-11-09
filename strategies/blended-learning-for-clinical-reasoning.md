@@ -49,6 +49,7 @@ Because e-learning alone did not improve clinical reasoning, the authors recomme
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
+- [Combine face-to-face teaching with the VI, using pharmacists as educators, to deliver the best learning outcomes on clinical vancomycin use](combine-face-to-face-vi-learning-pharmacist-educators.md)
 
 ## Examples
 -

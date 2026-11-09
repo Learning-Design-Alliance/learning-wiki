@@ -56,3 +56,4 @@ Cross-sectional survey (N = 231), Table 1 t tests/ANOVA: gender (P = .570), age 
 - [Informal dementia learning experiences, but not formal dementia training, are associated with higher ADKS scores](informal-dementia-learning-higher-adks-formal-training-null.md) — related
 - [Medical professionals show significantly higher Alzheimer's disease knowledge than pharmacy, nursing, and allied health professionals](medicine-higher-adks-than-other-professions-jeddah.md) — related
 - [Supervisors and registrars differ at baseline in age, prior dementia training and professional dementia care experience](supervisor-registrar-baseline-differences.md) — related
+- [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related

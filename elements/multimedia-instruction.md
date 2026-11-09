@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 112 claims (70 for, 39 mixed, 3 against) · 90 studies (66 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 19 of 90 report an effect size · 106 claims rest on one study
+> **Evidence** · 113 claims (70 for, 40 mixed, 3 against) · 91 studies (66 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 19 of 91 report an effect size · 107 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -148,6 +148,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [In one uncontrolled pre-post study, OASIS incidence fell by 45% from baseline after a stand-alone animated e-learning video for the bimanual perineal support technique](../claims/animated-elearning-video-reduced-oasis-45-percent.md) [+W] — attached 2026-11-09 from Ali-Masri Hadil et al. (2018), which proposed "Four-minute animated e-learning video teaching the bimanual perineal support technique"; tests this page's relationship.
 - [The PowerPoint show (PPS) group's competence scores rose significantly from pre-test to post-test, while the interactive multimedia (IM) group's did not](../claims/pps-module-competence-gain-im-not.md) [+M] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Conventional PowerPoint show (PPS) module of narrated video lectures for mobile e-learning".
 - [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](../claims/im-vs-pps-no-difference-in-gains.md) [~M] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Conventional PowerPoint show (PPS) module of narrated video lectures for mobile e-learning".
+- [Overall summative assessment scores did not differ between students by 3MTL usage, though pairwise comparisons favoured heavy users](../claims/podcast-usage-overall-scores-null-pairwise-significant.md) [~W] — attached 2026-11-09 from Prakash S.S. et al. (2017), which proposed "3-MinuTe Lessons (3MTLs): eight audiovisual podcasts of ≤3 minutes as lecture supplements".
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -174,6 +175,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Use filmed experiments in geography lessons to explain course material and save time, especially for large class groups](../strategies/filmed-experiments-large-class-groups.md)
 - [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
 - [Create a narrated expert video library of specific surgical techniques coupled with existing workshops and lectures](../strategies/narrated-expert-video-library-surgical-curriculum.md)
+- [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](../strategies/reuse-lecture-slides-interactive-modules-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
