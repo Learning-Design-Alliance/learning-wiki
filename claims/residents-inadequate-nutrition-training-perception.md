@@ -52,3 +52,4 @@ Pre-course survey of 13 family medicine residents (response rate 54%). The artic
 - [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — related
 - [Half of surveyed residents received no specialized GBT examination and 43% no formal GBT courses during residency training](gbt-training-assessment-curriculum-gaps.md) — related
 - [Most doctors had received prior formal AKI lectures yet knowledge remained deficient](prior-aki-lectures-insufficient-knowledge.md) — related
+- [100% of participants found the clinical assessment tools useful and 90% would use them again](assessment-tools-useful-would-reuse.md) — related

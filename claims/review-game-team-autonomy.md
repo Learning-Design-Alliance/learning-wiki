@@ -50,3 +50,4 @@ Post-study survey on review game logistics, scored on a 7-point Likert scale. Th
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — reports the opposite
 - [First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams](ar-gen1-strong-within-team-weak-between-team-collaboration.md) — related
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
+- [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — related

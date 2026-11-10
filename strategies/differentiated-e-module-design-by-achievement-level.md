@@ -54,6 +54,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
+- [Use diagnostic quizzing and real-time recall accuracy data to classify learning-object difficulty and tailor instruction](recall-accuracy-diagnostic-tailoring-strategy.md)
 
 ## Examples
 -

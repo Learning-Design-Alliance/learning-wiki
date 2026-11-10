@@ -69,3 +69,4 @@ Logistic regression of 242 First Year Bachelor students showed "A 20 point incre
 - [MAPAS Mathematics Test results are significantly associated with first-year tertiary GPA but not with passing all courses after adjustment](mapas-maths-test-gpa-association.md) — related
 - [Māori and Pacific students entered health professional programmes with significantly lower secondary school achievement than nMnP students](maori-pacific-lower-secondary-achievement-entry.md) — related
 - [Māori and Pacific students achieved significantly lower first-year academic outcomes than nMnP students](maori-pacific-lower-first-year-outcomes.md) — related
+- [Higher rank score, maths and English test scores predict Bachelor recommendations, while lower scores predict Not FMHS recommendations](cognitive-scores-predict-mapas-recommendations.md) — related

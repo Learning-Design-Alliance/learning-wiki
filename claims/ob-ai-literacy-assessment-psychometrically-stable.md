@@ -58,3 +58,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [Rasch fit statistics across phases led to removal of Questions 17, 2, 3, and 4, yielding the final 16-item IGCQ](igcq-item-removal-rasch-misfit.md) — related
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [The 12 SE-12 items form a single dominant factor, allowing item summarization](se-12-unidimensional-single-factor.md) — related
+- [After stepwise removal of misfitting items, the reduced 54-item pool shows no significant misfit to the Rasch unidimensional model](rasch-fit-reduced-54-item-pool.md) — related

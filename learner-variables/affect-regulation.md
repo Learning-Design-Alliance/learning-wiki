@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 358 claims (251 show a difference, 67 mixed, 40 no difference) · 235 studies (93 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 52 of 235 report an effect size · 350 claims rest on one study
+> **Evidence** · 360 claims (253 show a difference, 67 mixed, 40 no difference) · 237 studies (95 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 52 of 237 report an effect size · 352 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -398,6 +398,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Self-reported test anxiety is higher before oral than before written exams in second-year medical students](../claims/test-anxiety-higher-before-oral-than-written-exams.md) [+M] — measured as an outcome of the instruction studied
 - [Test anxiety does not correlate with previous or impending academic performance in medical school](../claims/test-anxiety-uncorrelated-with-academic-performance.md) [-M] — learners who differ on it differ in outcomes
 - [Anxiety about specific active learning practices varies by class/instructor, with clicker anxiety differing among all three courses](../claims/practice-anxiety-varies-by-instructor.md) [+M] — measured as an outcome of the instruction studied
+- [In the progress testing cohort, perceived stress correlated positively with surface approach and negatively with deep approach](../claims/stress-approach-correlations-pt-cohort.md) [+M] — learners who differ on it differ in outcomes
+- [Intra-operative stress is higher among surgeons than anesthetists, highest in assisting surgeons, and higher stress causes increased errors](../claims/intraoperative-stress-higher-surgeons-increases-errors.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

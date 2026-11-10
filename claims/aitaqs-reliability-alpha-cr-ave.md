@@ -83,3 +83,4 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
 - [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
+- [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related

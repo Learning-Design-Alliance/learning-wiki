@@ -49,3 +49,4 @@ Spearman correlation analysis of Casper and GPA against four OSCE scores and 28 
 - [Adding Casper to GPA improves prediction of OSCE and fieldwork performance over GPA alone (change in R2 = 3.2%) in one occupational therapy cohort](casper-incremental-validity-over-gpa-osce-fieldwork.md) — related
 - [Reducing GPA weight in favor of Casper was not associated with lower fieldwork performance, except the trend was not salient for the fourth placement](lower-gpa-weight-no-fieldwork-performance-loss.md) — related
 - [Selecting a cohort using Casper-weighted admission scores produced no statistically significant demographic differences from the actually admitted cohort, with about 46% overlap](casper-weighted-selection-no-significant-diversity-change.md) — related
+- [Total pre-admission public performance score shows no linear correlation with overall first-OSCE results](total-performance-score-no-linear-correlation-osce.md) — related

@@ -63,3 +63,5 @@ Sign-test analysis of 66 Phase 1 follow-up respondents found pre-to-follow-up qu
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
 - [Skill retention one week after training did not differ significantly between remote, face-to-face, and control groups](no-retention-difference-three-groups.md) — related
 - [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related
+- [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
+- [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related

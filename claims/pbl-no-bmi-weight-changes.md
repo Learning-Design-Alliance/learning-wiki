@@ -66,3 +66,4 @@ Stratified mixed-model analysis of weight after a significant time × group inte
 ## Related Claims
 - [The PBL group's self-rated health (EQ-VAS) increased significantly at 1, 3 and 5 years compared with baseline, with no significant changes in the control group](pbl-improved-self-rated-health-eqvas.md) — related
 - [Increases in learning duration and screen time predict change in academic grades over 2 years, while BMI change has no main effect](learning-duration-screen-time-main-effects-grades.md) — related
+- [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — related

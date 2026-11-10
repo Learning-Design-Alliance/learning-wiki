@@ -49,3 +49,4 @@ Motivation proxy measured by extra credit submission rates across the three sect
 - [More than 92.3% of web-facilitated students earned an overall grade of A compared to 83.3% of hybrid and 62.5% of online students](letter-grade-a-distribution-by-section.md) — related
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [Web-facilitated section students earned significantly higher final exam means than both hybrid and online section students in an undergraduate exercise psychology course](web-facilitated-higher-final-exam-than-hybrid-online.md) — related
+- [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related

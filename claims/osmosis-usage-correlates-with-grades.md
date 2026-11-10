@@ -53,3 +53,4 @@ Pearson correlation analysis of treatment-group platform usage metrics (median 3
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Knowledge, skill and ITU changes did not correlate significantly with usage time or number of learning units completed](epa-coach-outcomes-no-usage-correlation.md) — related
 - [In the flipped course, video-lecture access correlates positively with exam scores and with GPA, and higher-GPA students spread viewing more evenly across weeks](video-access-correlates-with-exam-scores-and-gpa.md) — related
+- [Hybrid-section students who took handwritten or typed notes earned significantly higher final grades than those who did not bring notes to class](note-taking-associated-higher-final-grades-hybrid.md) — related

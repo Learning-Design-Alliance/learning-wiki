@@ -58,3 +58,4 @@ Online survey of 437 emergency physicians assessing self-perceived competence ac
 - [Residents' confidence in managing paediatric and neonatal emergencies does not differ by residency year or prior SBMT exposure](emergency-confidence-no-difference-year-or-sbmt-exposure.md) — related
 - [Self-assessed knowledge and skills for pediatric emergencies differed significantly by profession and qualification level, with residents reporting the lowest preparedness](self-assessed-emergency-preparedness-residents-lowest.md) — related
 - [Residents' prior OR emergency experience varied widely across the 23 scenario topics](resident-emergency-experience-varied-by-topic.md) — related
+- [As a single intervention, high-fidelity simulation is not significantly different from case-based discussion in knowledge acquisition or retention for pediatric emergency topics](simulation-vs-case-discussion-no-knowledge-difference.md) — related

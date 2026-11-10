@@ -49,6 +49,7 @@ The authors recommend extending audiovisual materials beyond listening comprehen
 - [Employ alternative vocabulary teaching methods in unnatural foreign language environments to ensure retention efficiency](alternative-methods-unnatural-environments-retention.md)
 - [Listening and reading for specific information](listening_and_reading_for_specific_information.md)
 - [Apply authentic materials in teaching listening comprehension and have students practice with them independently](apply-authentic-materials-listening-strategy.md)
+- [Do not use multimodal independent study resources in a condensed course to introduce new material](independent-resources-reinforce-not-introduce-strategy.md)
 
 ## Examples
 -

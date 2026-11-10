@@ -161,6 +161,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [Embed real-life problems into national curricula for open schooling](../strategies/embed-real-life-problems-national-curricula.md)
 - [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](../strategies/theory-course-application-piece.md)
 - [Add experiential learning, internships and real-world attachments to MPH programs to link theory and practice](../strategies/mph-experiential-learning-internships-strategy.md)
+- [Partner with local schools to embed peer-teaching service-learning in undergraduate science courses](../strategies/local-school-partnership-peer-teaching-strategy.md)
 
 ### Illustrative
 

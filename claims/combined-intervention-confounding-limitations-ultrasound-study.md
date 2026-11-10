@@ -53,3 +53,4 @@ Authors' own stated limitations in the Discussion: restricted sample size, inabi
 - [The independent contributions of progressive training and imagery training could not be separated in this trial, and the small sample size may amplify Type II error](combined-method-unquantified-components-small-sample.md) — related
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
 - [Generalizability of the SPSP effect is limited to diploma nursing students in the two sampled regions, with the lecture contribution unseparated](spsp-generalizability-limits-tanzania.md) — related
+- [The effect of the written-question intervention cannot be attributed to question writing versus plenary prioritization because the intervention was dual in nature](dual-intervention-attribution-unknown.md) — a narrower finding that bears on this claim

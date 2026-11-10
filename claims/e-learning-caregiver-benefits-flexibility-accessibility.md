@@ -51,3 +51,4 @@ Review-level synthesis across all six detected studies; the review additionally 
 - [Using the understAID e-learning platform significantly decreased depressive symptomatology in informal caregivers](understaid-decreased-depressive-symptomatology.md) — reports the opposite
 - [Caregiver satisfaction with understAID was low, with 66.7% rating the application unacceptable overall](understaid-low-satisfaction-66-7-unacceptable.md) — related
 - [Technical acceptability of understAID was split overall and lowest among smartphone users](understaid-technical-ratings-device-dependent.md) — related
+- [Participating school students reported increased confidence that doctors may be useful sources of help and perceived doctors as more approachable](school-students-perceived-doctors-as-more-approachable-help-sources.md) — related

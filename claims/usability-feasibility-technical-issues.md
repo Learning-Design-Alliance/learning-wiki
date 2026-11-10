@@ -57,3 +57,4 @@ Review synthesis of practical usability and feasibility outcomes in the Results 
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — a narrower finding that bears on this claim
 - [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related
 - [The e-learning intervention was acceptable and its completion feasible for nurse and pharmacist prescribers](elearning-animation-acceptable-useful-prescribers.md) — a narrower finding that bears on this claim
+- [The online testing method was acceptable and feasible, with 86.7% of invited clinicians completing a test](online-competence-test-completion-feasibility.md) — related

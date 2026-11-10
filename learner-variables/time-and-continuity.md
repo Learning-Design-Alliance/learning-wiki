@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (162 show a difference, 57 mixed, 29 no difference) · 214 studies (104 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 8 design, 3 theoretical), `q1`–`q4` · 42 of 214 report an effect size · 244 claims rest on one study
+> **Evidence** · 250 claims (162 show a difference, 59 mixed, 29 no difference) · 216 studies (105 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 9 design, 3 theoretical), `q1`–`q4` · 42 of 216 report an effect size · 246 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -305,6 +305,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [High treatment dosage predicted positive outcomes for children across a wide age range, challenging the perception that only young children benefit from intensive ABA](../claims/high-dosage-benefits-wide-age-range.md) [+M] — learners who differ on it differ in outcomes
 - [PATHS was implemented with high fidelity, quality, responsiveness and reach but roughly half the recommended lesson dosage](../claims/paths-implementation-high-fidelity-low-dosage.md) [+M] — measured as an outcome of the instruction studied
 - [The first course implementation ended prematurely because participating nursing students could not be convinced to continue amid reservations about medical-student participation, course obligations, timetable conflicts and time burden](../claims/first-piloting-premature-termination-barriers.md) [+M] — learners who differ on it differ in outcomes
+- [Attendance at R@W group sessions was high for sessions 1 to 3 but lower for the final session](../claims/raw-group-session-attendance-pattern.md) [~M] — measured as an outcome of the instruction studied
+- [PLP and induction meeting attendance effects diverged: clinical attendance favoured the intervention while classroom-based attendance favoured the control group](../claims/plp-induction-attendance-divergent.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

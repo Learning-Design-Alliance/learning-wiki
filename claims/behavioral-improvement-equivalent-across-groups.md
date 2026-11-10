@@ -54,3 +54,5 @@ Linear mixed models of parent and teacher BASC-2 externalizing scores in the ran
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](ptr-yc-increases-engaged-time-vs-bau.md) — related
 - [The karate intervention produced no significant benefits on total psychosocial difficulties or most SDQ subscales](karate-intervention-no-psychosocial-benefits.md) — a narrower finding that bears on this claim
+- [ADHD symptoms decreased significantly over time in all treatment conditions, with no Treatment condition x Time interaction](bgb-adhd-symptom-decrease-nonspecific.md) — possibly the same claim (merge candidate)
+- [Parent-rated EF behavior and general problem behavior improved significantly over time in all conditions, without differing between treatment conditions](bgb-ef-and-problem-behavior-nonspecific-gains.md) — a narrower finding that bears on this claim

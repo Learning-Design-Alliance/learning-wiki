@@ -77,3 +77,4 @@ Six-month ENC 2 knowledge-check results for the cohort, showing stable median sc
 - [Most individual ABCDE skills are maintained at follow-up, while seven skills decline significantly from post-course but stay above pre-course levels](most-abcde-skills-maintained-seven-decline.md) — related
 - [Knowledge and skills test scores improved significantly from precourse to postcourse and remained improved at 4 and 12–18 months after SAFE-OB training](safe-ob-knowledge-skill-retention-sustained.md) — related
 - [Knowledge was retained at 6 months, and retention was higher among participants who applied their knowledge in clinical practice (66% vs 39%)](malnutrition-elearning-knowledge-retention-application.md) — related
+- [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related

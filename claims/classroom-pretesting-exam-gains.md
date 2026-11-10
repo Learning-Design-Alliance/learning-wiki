@@ -56,3 +56,4 @@ Narrative review of Soderstrom and Bjork (2023), a 10-week undergraduate researc
 - [Practicing test-taking through actual exam experience was interpreted as more effective than lecturing about the exam in IELTS preparation](test-practice-beats-lecturing-ielts.md) — a narrower finding that bears on this claim
 - Assessment does not have to be high-stakes to motivate students to perform — related
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](testing-effect-endodontics-final-exam.md) — related
+- [Pretesting and interim testing potentiate learning of subsequent, previously untested material (review-reported)](pretesting-potentiates-subsequent-learning.md) — related

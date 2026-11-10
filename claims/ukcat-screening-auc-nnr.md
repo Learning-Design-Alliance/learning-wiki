@@ -67,3 +67,4 @@ Two-by-two contingency analysis (Table 6) at the medium threshold (z ≤ 0) usin
 ## Related Claims
 - [The MEARS 'self-esteem' scale is a poor screening tool for conduct-related declarations, with AUC 0.61 and a 'number needed to reject' of approximately 22](mears-self-esteem-poor-screening-conduct-declarations.md) — related
 - [A seven-variable nomogram predicting low JHLES probability shows modest discrimination (AUC = 0.627) and adequate calibration](nomogram-predicting-low-jhles-auc-0-627.md) — related
+- [A simulator score of 75% discriminates experts from trainees with high sensitivity (94.7%) but low specificity (51.8%), supporting formative but not summative use](dka-simulator-roc-cutoff.md) — related

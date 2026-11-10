@@ -47,3 +47,4 @@ End-of-course theoretical examination (100 points) with identical questions and 
 ## Related Claims
 - [FC-TCLEBL students scored higher than LBC students on clinical practice skills assessment for diabetic retinopathy, including teamwork and individual components](fc-tclebl-higher-clinical-practice-skills-scores.md) — related
 - [Baseline DR knowledge did not differ between the FC-TCLEBL and LBC groups before instruction](fc-tclebl-equivalent-pre-class-dr-quiz.md) — related
+- [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — related

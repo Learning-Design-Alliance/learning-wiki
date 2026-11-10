@@ -47,3 +47,4 @@ The article's background section states this as a narrative assertion, citing Pi
 ## Related Claims
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process](meanings-grow-out-of-social-intercourse.md) — related
+- [Most Extensive-section students report positive attitudes toward the active-learning pedagogies and judge the preparation workload worthwhile](extensive-section-positive-pedagogy-attitudes.md) — related

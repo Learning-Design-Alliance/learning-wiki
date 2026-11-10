@@ -51,3 +51,4 @@ Internal consistency analysis of the EBMQ administered to 320 primary care physi
 - [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

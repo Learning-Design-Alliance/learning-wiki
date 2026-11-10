@@ -56,3 +56,4 @@ Same feasibility RCT, automated performance metrics aggregated across the four t
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — related
 - [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related
 - [Both mental practice groups covered shorter instrument path length than the video-viewing control group](mp-groups-shorter-path-length-than-control.md) — related
+- [Individualized instructor feedback during simulated laparoscopy shortens instrument path length in novices](feedback-shortens-laparoscopic-instrument-path.md) — related

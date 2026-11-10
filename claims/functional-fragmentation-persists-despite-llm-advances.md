@@ -61,3 +61,4 @@ Theme 1 of the article's thematic analysis of studies in its Tables 2 and 3, an 
 - [GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent](frontier-agent-paradigms-absent-education.md) — related
 - [The deficit model of education remains the most common paradigm in AIED systems and falls short in promoting inclusive practices.](aied-deficit-model-limits-inclusion.md) — related
 - [The gold standard for advanced cyberlearning technology shifted from one-on-one tutoring parity to empowering individuals and teams in dynamic configurations (authors' historical account)](new-gold-standard-beyond-its-parity.md) — related
+- [The three-skill framework helps instructors diagnose whether student problems stem from discrete skill deficits or meta-strategic deficits (authors' experience)](framework-diagnoses-student-problems.md) — related

@@ -49,6 +49,7 @@ The authors recommend that institutions support preceptors through structural ch
 
 - [Policy recommendations for protecting clinical education during health system reforms: protected teaching time, aligned evaluation, teaching-linked compensation, and embedded educational objectives](protecting-education-in-health-system-reforms-strategy.md)
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
+- [Include dedicated teaching time in consultant job plans to counteract time constraints](dedicated-teaching-time-in-job-plans.md)
 
 ## Examples
 -

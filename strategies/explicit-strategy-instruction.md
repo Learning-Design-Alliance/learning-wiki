@@ -87,6 +87,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
 - [Teach metacognitive writing strategies through direct instruction, teacher modelling with thinking out loud, and guided application](direct-instruction-modelling-guided-application-metacognitive-writing.md)
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Examples
 - **Reciprocal teaching of reading** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)): seventh graders taught summarizing, questioning, clarifying, and predicting through teacher modeling followed by student-led group dialogue; comprehension gains of roughly two standard deviations over controls.

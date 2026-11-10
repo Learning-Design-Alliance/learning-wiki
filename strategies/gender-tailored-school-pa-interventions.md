@@ -42,7 +42,8 @@ The article recommends that school-based health promotion interventions address 
 - [Leisure-time physical activity alone statistically significantly but modestly predicts overall academic competence in primary school children (about 3% of variance in girls, 4% in boys)](../claims/leisure-pa-modest-predictor-academic-competence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Promote physical activity through a multilevel approach combining school, family and community interventions with policy and environmental changes](multilevel-physical-activity-promotion.md)
 
 ## Examples
 -

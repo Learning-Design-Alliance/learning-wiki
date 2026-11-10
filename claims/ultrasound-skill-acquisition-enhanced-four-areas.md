@@ -49,3 +49,4 @@ Qualitative framework analysis of reflective narratives in the portfolio study f
 - [Novice ultrasound learners experienced substantial cognitive load combining psychomotor probe manipulation with matching 2D images to 3D anatomy, requiring instructor scaffolding](novice-ultrasound-cognitive-load-scaffolding.md) — related
 - [Students identified clinical barriers to ultrasound transfer including insurance ineligibility, high equipment costs, and portable device limitations](clinical-barriers-ultrasound-transfer-km.md) — related
 - [Comparison studies from two decades ago found ultrasound-operator proficiency mattered for success, consistent with modern imaging reducing the skill gap](modern-ultrasound-imaging-narrows-operator-skill-gap.md) — related
+- [Hands-on linear-array EUS training on a live pig significantly improves diagnostic visualization and interventional skills in novices](live-pig-linear-eus-training-improves-skills.md) — related

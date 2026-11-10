@@ -49,3 +49,4 @@ Concept and drawing test results across both groups; the article concludes the c
 - [Flexibility is a persistent alternative concept for expansion-contraction, especially in the control group](flexibility-alternative-concept-expansion-contraction.md) — related
 - [Interviews show fire-context instruction eliminated alternative concepts among experiment group students](fire-context-interviews-eliminate-alternative-concepts.md) — related
 - [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](alternative-conceptions-persist-emerge-posttest.md) — reports the opposite
+- [Initial implementation of the integrated curriculum met student and tutor resistance and confusion](initial-implementation-student-resistance.md) — related

@@ -50,3 +50,4 @@ One-group pretest-posttest survey; pre-survey n = 53 of 105 (50.4%), post-survey
 - [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — related
 - [Peer evaluation was the least valued TBL component after the intervention, with students rating the usefulness of receiving peer feedback at 3.64 and its effect on their interactions at 2.97](peer-evaluation-least-valued-tbl-component.md) — related
 - [Students in the TBL physiology course showed significant pre–post gains on a conceptual physiology test and daily concept quizzes](tbl-physiology-pre-post-gains.md) — related
+- [Mandatory e-module preparation was associated with sharply improved self-reported preparation and increased preparation time, but the causal ingredient remains open](mandatory-e-modules-preparation-behavior-motivation.md) — related

@@ -54,3 +54,4 @@ Overall pattern across the four-station OSCE in the quasi-experimental cohort co
 - [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](osce-gains-uneven-stations-modules.md) — related
 - [Mean scores differed significantly among the three student groups in stations 2 and 7 of the virtual OSCE](virtual-osce-between-group-differences-stations-2-7.md) — related
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related
+- [Simulator scores show a significant effect of training level, driven by year 1 medical students scoring lower than all other groups](dka-simulator-training-level-effect.md) — related

@@ -50,3 +50,4 @@ Table 2 knowledge item on prevalence among people over 65 in China: 14(25.5%) pr
 - [Professional-degree postgraduates show higher knowledge of osteoporosis symptoms, diagnostic criteria, and dangers than academic-degree postgraduates](professional-postgraduates-better-osteoporosis-symptom-diagnosis-knowledge.md) — related
 - [Professional-degree postgraduates report more osteoporosis instruction and training than academic-degree postgraduates](professional-postgraduates-more-osteoporosis-training.md) — related
 - [Academic-degree postgraduates are significantly more interested in learning osteoporosis etiology than professional-degree postgraduates](academic-postgraduates-more-interested-etiology.md) — related
+- [Participants reported that the symptom-oriented approach and integration of epidemiological knowledge improved their understanding of diagnostic reasoning](symptom-oriented-approach-epidemiology-themes.md) — related

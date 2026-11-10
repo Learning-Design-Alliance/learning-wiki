@@ -110,6 +110,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 
 **[Anki](https://apps.ankiweb.net)** — Spaced-repetition flashcards work best when users add personal examples and mnemonics to card fields, embedding elaboration into review.
 - [Use elaboration, reactivation of prior knowledge, and desirable difficulty during encoding to build connected, detailed memories](../strategies/encoding-elaboration-reactivation-strategy.md)
+- [Use self-explanation prompts after example study to boost transfer when instructional time or learner effort is limited](../strategies/self-explanation-prompts-after-example-study-strategy.md)
 
 ## Key Sources
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)

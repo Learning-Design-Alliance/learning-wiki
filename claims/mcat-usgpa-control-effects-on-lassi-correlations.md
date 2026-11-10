@@ -52,3 +52,4 @@ Partial correlation analyses controlling for pre-matriculation variables showed 
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
 - [MCAT scores correlate positively with examination performance but not with strength of motivation](mcat-predicts-exams-not-motivation.md) — a narrower finding that bears on this claim
 - [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
+- [The second-year LASSI measure is a statistically significant predictor of medical students' Year II academic performance (R2 = .188)](second-lassi-predicts-year-two-performance.md) — related

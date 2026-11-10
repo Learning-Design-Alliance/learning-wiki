@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2030
 sources:
   - id: niyongombwa-irenee-2025
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students reported organizational challenges—time constraints, curriculum structure, trainer shortages, and poor coordination—that limited simulation learning opportunities. [→ Niyongombwa Irenee 2025](#niyongombwa-irenee-2025)
@@ -92,3 +93,4 @@ Interview finding from the restricted-access sub-theme; however, the article rep
 - [Educators identify curriculum problems including poor subject integration, late clinical exposure, and outdated content, and report that faculty development changed their teaching](curriculum-integration-faculty-development-theme.md) — related
 - [Resource constraints — insufficient time, limited simulation lab space, and too few qualified instructors — are barriers to Sim-IPE](sim-ipe-resource-barriers.md) — related
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
+- [Students identified SBL weaknesses of insufficient resources and facilities (68%), lack of trained staff (66%), and lack of accessibility (58%)](sbl-weaknesses-resources-staff-accessibility.md) — related

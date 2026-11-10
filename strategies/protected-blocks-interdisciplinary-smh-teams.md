@@ -47,6 +47,7 @@ The article recommends institutionalizing collaboration through organizational s
 ## Related Strategies
 
 - [Organize teachers into shared-content teams with at least 90 minutes weekly to plan instruction and embed social-emotional skills](weekly-shared-content-teacher-teams.md)
+- [Include dedicated teaching time in consultant job plans to counteract time constraints](dedicated-teaching-time-in-job-plans.md)
 
 ## Examples
 -

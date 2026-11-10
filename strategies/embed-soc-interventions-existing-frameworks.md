@@ -57,6 +57,7 @@ The article recommends that interventions to strengthen students' sense of coher
 - [Embed REE stress management content in the religious education curriculum so students acquire stress-management skills for themselves and their future students](embed-ree-stress-content-in-teacher-curriculum.md)
 - [Integrate online patient simulations into course delivery and learning management platforms to raise uptake and acceptability](integrate-ops-into-curriculum-delivery-strategy.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
+- [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
 
 ## Examples
 -

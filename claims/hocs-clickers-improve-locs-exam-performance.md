@@ -66,3 +66,4 @@ Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related
 - [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type](semester-cohort-difference-hocs-exams.md) — related
 - [Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect](worksheets-clear-effect-clickers-weak.md) — related
+- [Students' higher-order cognitive skills improve over a semester of introductory biology instruction regardless of instruction type](semester-biology-instruction-improves-higher-order-skills.md) — related

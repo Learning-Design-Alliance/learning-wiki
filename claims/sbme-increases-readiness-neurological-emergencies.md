@@ -78,3 +78,5 @@ Same single-arm pre-post cohort study; readiness to manage rose from "2.61 (SD0.
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
 - [A three-day high-fidelity simulation-based ECMO course significantly improved physicians' cognitive self-assessments of ECMO management (p<0.001)](simulation-ecmo-course-improves-cognitive-self-assessment.md) — related
 - [The training intervention significantly increases participants' confidence to teach and facilitate small groups](gp-adolescent-health-workshop-confidence-teaching-increase.md) — related
+- [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — related
+- [Participants' self-reported self-efficacy in managing clinical scenarios rose from pre-test to post-test after one-day simulation training, in one single-group pre-post study](simulation-training-improves-self-efficacy.md) — related

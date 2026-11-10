@@ -82,3 +82,4 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [FATE issues in AIEd present themselves when users gain ownership and adapt systems to their local contexts](ownership-process-surfaces-fate-issues.md) — related
 - [Different cultures can interpret the same OSCE presentation contrarily, yielding a valid assessment of competence for one group but not another](cultural-interpretation-valid-assessment-one-group-not-another.md) — related
 - [Cultural factors shape PBL processes, experiences and outcomes, requiring careful consideration in implementation](cultural-factors-shape-pbl-processes.md) — related
+- [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — related

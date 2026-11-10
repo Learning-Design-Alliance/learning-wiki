@@ -68,3 +68,4 @@ Paired t-test for Item 4 (critically think) on the same 89 paired respondents; t
 - [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — related
 - [Facilitator group was a significant factor in student self-assessed SDL total scores at course midpoint but not at endpoint](facilitator-effect-midpoint-only.md) — related
 - [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related
+- [Imminent clinical skills examinations were the dominant incentive for SDL engagement, with students practising mainly equipment-dependent skills](imminent-exams-incentivise-sdl.md) — related

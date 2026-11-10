@@ -51,3 +51,4 @@ Comparative study; ANCOVA on post-test scores with pre-test as covariate "showed
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
+- [Blended learning students scored higher on the statistics knowledge test than on-site students (d = 0.28)](blended-higher-knowledge-test-score.md) — related

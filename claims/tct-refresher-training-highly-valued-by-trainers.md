@@ -53,3 +53,4 @@ Kirkpatrick level 1 evaluation using an online post-training questionnaire compl
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Most participants reported no substantial increase in domain-specific knowledge and technical skills from the masterclass](masterclass-limited-domain-knowledge-gains.md) — related
 - [Overall knowledge scores rose from baseline to 3 and 12 months after refresher training sessions, in a single-group pre-post study, reaching minimum competency at 3 and 12 months](highflow-refresher-training-incremental-gains.md) — related
+- [Learners self-rated trainers' feedback as more valuable after repeated practice than after the first independent performance, in pre-post assessments within each group](feedback-valued-more-after-repeated-practice.md) — related

@@ -76,6 +76,7 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Integrate interprofessional simulation-based CRM workshops into longitudinal curricula early, frequently, and across rotations](longitudinal-curricular-integration-crm-simulation-strategy.md)
 - [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
 - [Integrate online patient simulations into course delivery and learning management platforms to raise uptake and acceptability](integrate-ops-into-curriculum-delivery-strategy.md)
+- [Integrate multiple simulations and case-based discussions into the clerkship curriculum and prospectively evaluate randomized groups](integrate-multiple-simulations-and-case-discussions.md)
 
 ## Examples
 -

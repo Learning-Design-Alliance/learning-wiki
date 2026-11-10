@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (83 show a difference, 27 mixed, 9 no difference) · 104 studies (25 causal, 22 qualitative, 20 review, 16 design, 10 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 14 of 104 report an effect size · 115 claims rest on one study
+> **Evidence** · 122 claims (86 show a difference, 27 mixed, 9 no difference) · 107 studies (27 causal, 23 qualitative, 20 review, 16 design, 10 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 14 of 107 report an effect size · 118 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -160,6 +160,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Inter-country variability in relevance weighting occurs in the pharmaceutical care and organisation-and-management clusters but not the public health or professional-personal clusters](../claims/inter-country-variability-two-gbcf-clusters.md) [+M] — learners who differ on it differ in outcomes
 - [Virtual Patient participants more frequently acknowledged the clinical relevance of the trauma case than lecture participants in open-ended appraisals](../claims/vp-group-more-clinical-relevance-acknowledged.md) [+M] — measured as an outcome of the instruction studied
 - [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](../claims/osce-mini-cex-weak-correlation-r026.md) [~M] — an instructional effect differs with it
+- [Authenticity of the training scenario, framed by a patient case, is important for the learning process](../claims/authenticity-patient-case-simulator-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Inner motivation, active participation of the novice educator, and a supportive workplace learning environment are considered prerequisites for becoming an expert patient educator](../claims/motivation-and-supportive-environment-prerequisites-expert-educator.md) [+M] — learners who differ on it differ in outcomes
+- [Workplace characteristics, including availability of TB smear microscopy and referral-hospital placement, were associated with higher clinical case and physical exam scores](../claims/workplace-factors-associated-with-scores.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

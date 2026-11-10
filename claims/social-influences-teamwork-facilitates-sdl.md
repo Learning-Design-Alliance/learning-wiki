@@ -58,3 +58,4 @@ Review synthesis across the 17 articles; the discussion cites Watling's argument
 - [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — related
 - [Four interdependent transformation theories of effective CPD were developed: transforming individual practice, skills for changing healthcare contexts, knowledge translation, and workplace cultures.](four-transformation-theories-effective-cpd.md) — related
 - [Practitioner-driven CPD is effective within supportive organizations, facilitated workplace learning, and effective workplace cultures.](practitioner-driven-cpd-supportive-contexts.md) — related
+- [Role models are repeatedly and continuously influential in students' professional development, but the scope and content of their effect cannot be fully supervised](role-models-continuous-influence-hidden-curriculum.md) — related

@@ -50,3 +50,4 @@ This is a conceptual argument in the article's Section 3.1, not an empirical stu
 - Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process — a broader claim this one bears on
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](fraction-errors-systematic-misconception-patterns.md) — related
 - [Task performance and learning are related but fundamentally different processes](task-performance-and-learning-are-different-processes.md) — related
+- [Evaluating professionalism by behaviour alone risks the fundamental attribution error, because most observed behaviour is shaped by the situation](behaviour-only-evaluation-attribution-error.md) — related

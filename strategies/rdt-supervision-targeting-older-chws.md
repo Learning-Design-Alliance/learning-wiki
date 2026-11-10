@@ -46,6 +46,7 @@ The authors recommend that future programmes engaging CHWs to conduct RDTs direc
 ## Related Strategies
 
 - [When designing community-based health programmes, policymakers should take into account factors that increased CHW performance in comparable settings](design-chw-programmes-using-comparable-setting-evidence.md)
+- [Target training and supervision resources at underperforming health workers and at complex, severe, and co-morbid cases](targeted-follow-up-complex-cases-imci-strategy.md)
 
 ## Examples
 -

@@ -77,3 +77,4 @@ Narrative synthesis reporting the empathy–prescription null from the review's 
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
 - [High affective empathy is associated with more depression, anxiety and burnout, while cognitive empathy shows the opposite pattern](affective-empathy-mental-health-issues-cognitive-opposite.md) — related
 - [PBL students made significantly fewer inappropriate therapy choices; the difference in erroneous prescriptions was not statistically significant](pbl-fewer-inappropriate-therapy-choices.md) — related
+- [Premature antidepressant discontinuation has distinct leading reasons with short median times, suggesting clinician communication skill matters more than treatment properties](antidepressant-discontinuation-reasons-timing.md) — related

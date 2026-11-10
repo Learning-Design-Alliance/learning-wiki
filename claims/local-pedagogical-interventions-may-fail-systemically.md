@@ -49,3 +49,4 @@ The authors' interpretation drawn from the model (type e): the academic trajecto
 - [Graduate admissions historically select for students who succeeded in lecture classrooms, favoring lecture in the next faculty generation](graduate-admissions-select-lecture-successful-students.md) — a narrower finding that bears on this claim
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
 - [PhD-granting institutions, especially the most prestigious, disproportionately reproduce pedagogical culture because they train future faculty](phd-granting-institutions-reproduce-pedagogical-culture.md) — related
+- [Italian nursing instructors most frequently use the traditional lecture, with 85.7% often or always using receptive (transmissive) architecture strategies](lecture-dominant-receptive-architecture-italian-nursing.md) — related

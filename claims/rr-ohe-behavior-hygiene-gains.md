@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: strong
 newest_evidence: 2016
+source_checked: 2026-11-09
 sources:
   - id: haleem-abdul-2016
     resource: "https://doi.org/10.1186/s12889-015-2676-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` OHB-Composite sustainability of RR-OHE over six months was about 100% higher than one-time OHE (OR: 2.22, CI: 2.08–2.37 vs OR: 1.18, CI: 1.11–1.25). [→ Haleem Abdul 2016](#haleem-abdul-2016)
@@ -69,3 +70,4 @@ Oral hygiene status measured by OHS-Composite index showed sustained improvement
 - [One-time teacher-led OHE was ineffective in improving adolescents' oral health knowledge and behavior](one-time-teacher-led-ohe-ineffective.md) — related
 - [Repeated and reinforced oral health education produced significantly larger and more sustained gains in oral health knowledge than one-time OHE](rr-ohe-sustained-knowledge-gains.md) — related
 - [Training produced significant positive change in toothbrushing, flossing, fluoride toothpaste use, tongue cleaning, snacking and dentist visits with parental support](oral-health-training-improves-specific-habits-preschool.md) — related
+- [Oral health behavior and attitude rose from baseline to 6 months and fell by 18 months in both groups; within-group changes were not statistically significant](behavior-attitude-gains-not-sustained.md) — reports the opposite

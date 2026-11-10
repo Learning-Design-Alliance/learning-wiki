@@ -51,3 +51,5 @@ Pre-post survey component of the mixed-methods evaluation of the training interv
 - [Intervention completers' mental health knowledge scores rose from baseline to post-course on the embedded course quiz in one uncontrolled pre-post study](mhfa-elearning-improves-course-quiz-knowledge.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
 - [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
+- [Learning Partnerships workshops were rated by medical students as highly useful for improving skills and confidence in communicating with adolescents about sensitive health issues](learning-partnerships-improved-medical-student-communication-confidence.md) — related

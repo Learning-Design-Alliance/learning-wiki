@@ -72,3 +72,5 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Resident satisfaction with TEE training did not differ significantly among the three teaching methods](no-satisfaction-difference-among-tee-teaching-methods.md) — related
 - [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
+- [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related

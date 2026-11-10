@@ -63,3 +63,4 @@ Descriptive usability assessment using the System Usability Scale administered t
 - [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [Learners rated the e-GAL reference implementation Acceptable and Good with a median and mean SUS score of 75](sus-75-acceptable-gesture-platform.md) — related
+- [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related

@@ -75,3 +75,4 @@ Baseline check on the same randomized sample: after both groups attended the sam
 - [Fourth-year medical students taught with combined CBL and clinical pathway scored significantly higher on post-internship theoretical and skill tests than students taught traditionally](cbl-clinical-pathway-higher-postinternship-scores-gynecology.md) — related
 - [Third-year dental students have good baseline knowledge of dental ergonomics before any teaching, with no difference between groups](baseline-ergonomics-knowledge-72-percent.md) — related
 - [Dental students taught with virtual patients significantly outperform small-group teaching peers on a theoretical test immediately after the intervention](vp-outperform-sgt-immediate-theoretical-test.md) — related
+- [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — reports the opposite

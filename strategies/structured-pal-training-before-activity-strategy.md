@@ -48,7 +48,10 @@ The article recommends preparing students for PAL with training covering the ben
 - [Students found peer feedback more honest, constructive and easier to receive than lecturer feedback, though some questioned same-level peers' credibility](../claims/peer-feedback-honest-constructive-credibility-caution.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide substantive technical and didactic basic training for PAL tutors, including group leadership, role playing, feedback and learning-transfer didactics](structured-tutor-training-technical-didactic.md)
+- [Train department Chairs and Directors on providing peer-evaluation feedback in a constructive and motivating manner](train-chairs-constructive-peer-feedback.md)
+- [Train peer tutors in short structured sessions covering technical content, didactics, culturally sensitive behaviour and motivating feedback](two-hour-peer-tutor-training-strategy.md)
 
 ## Examples
 -

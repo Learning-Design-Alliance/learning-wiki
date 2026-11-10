@@ -62,3 +62,4 @@ Internal consistency and variability analysis of the eight SAICS dimensions in t
 - [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
 - [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
 - [NEO-PI-R conscientiousness scales show robust reliability and convergent/discriminant validity in a dental student sample](neo-pi-r-conscientiousness-psychometrics-dental-sample.md) — related
+- [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related

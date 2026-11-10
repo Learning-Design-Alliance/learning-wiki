@@ -54,3 +54,4 @@ Stratified meta-analysis by supervisory visit frequency found stronger associati
 - [IMCI training improves caregiver instruction on administering oral therapies (RR = 2.05, 95% CI: 1.61–2.60)](imci-training-improves-caregiver-instruction.md) — related
 - [IMCI training shows no significant pooled effect on child vaccination rates (RR = 1.16, 95% CI: 0.98–1.36)](imci-training-no-significant-vaccination-effect.md) — related
 - [Routine supportive supervision on iCCM was not significantly associated with correct management of childhood illness](routine-supervision-not-associated-correct-management.md) — related
+- [Supervision visits in the previous six months were associated with improved care for fever and anemia, but with lower odds of recommended pneumonia treatment](imci-benin-supervision-mixed-effects.md) — a narrower finding that bears on this claim

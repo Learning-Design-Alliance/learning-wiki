@@ -48,3 +48,4 @@ Scoring-inference analysis of the pilot SJT completed by 303 respondents (192 me
 
 ## Related Claims
 - [SJT pilot reveals unfamiliarity with work areas and item-difficulty sensitivity to time limits, plus misconceptions about hygienic routines](hygiene-sjt-pilot-findings-difficulty-misconceptions.md) — related
+- [Candidates reported difficulty completing the SJT within time limits and interpreting ambiguous questions, particularly when English was not their first language](sjt-time-and-ambiguity-difficulties.md) — related

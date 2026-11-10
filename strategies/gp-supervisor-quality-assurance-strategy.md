@@ -47,6 +47,7 @@ The article describes a multi-phase quality-assurance approach for GP supervisor
 - [Incorporate evidence-based feedback principles into ECTV training and implementation for registrars and ECT visitors](ectv-feedback-principles-training-strategy.md)
 - [Three-phase educational trip procedure: preliminary preparation, site visit with observation, follow-up evaluation](educational-trips-three-phase-procedure.md)
 - [Maintain qualifications through stroke-specific continuing education, quality assurance review, and minimum outcome benchmarks](maintenance-qualifications-cme-qa-benchmarks.md)
+- [Supervisor modelling of pharmacological reasoning with patient-pertinent questions between meetings](supervisor-modelling-psychotropic-reasoning.md)
 
 ## Examples
 -

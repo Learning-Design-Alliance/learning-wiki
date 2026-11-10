@@ -51,3 +51,4 @@ Quasi-experimental comparison of three sections (n=39 web-facilitated, n=24 hybr
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [Hybrid students significantly outperformed online students on weekly assignments](hybrid-outperform-weekly-assignments.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related

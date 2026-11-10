@@ -48,3 +48,4 @@ ROC curve analysis was used to assess the utility of each task to identify ESSQ 
 ## Related Claims
 - [ROC analysis identifies 20 cases as the cutoff point at which a trainee surgeon achieves proficiency in CT-navigated cup placement](twenty-case-cutoff-ct-navigation-cup-proficiency.md) — related
 - [Robotic distal gastrectomy induction-phase performance did not differ significantly between a DST-experienced surgeon and conventionally trained, ESSQS-qualified surgeons](rdg-induction-no-dst-difference.md) — related
+- [A simulator score of 75% discriminates experts from trainees with high sensitivity (94.7%) but low specificity (51.8%), supporting formative but not summative use](dka-simulator-roc-cutoff.md) — related

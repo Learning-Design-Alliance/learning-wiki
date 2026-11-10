@@ -93,3 +93,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
 - [Interrater reliability of the mOSAUS total pre-training score was good (ICC = 0.74), varying across assessment elements](mosaus-interrater-reliability-icc-074.md) — a narrower finding that bears on this claim
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
+- [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related

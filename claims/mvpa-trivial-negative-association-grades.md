@@ -74,3 +74,5 @@ Covariate-adjusted linear mixed models with random intercepts controlling for ba
 - [The overall prospective relationship between physical activity and academic achievement is effectively null in this population sample](pa-academic-relationship-effectively-null.md) — a broader claim this one bears on
 - [Organized sport participation shows slight positive but trivial associations with academic achievement, with varsity sport the most reliable](sport-participation-trivial-positive-grades.md) — related
 - [Pre-adolescents in the higher-fitness cluster show higher academic performance than those in the lower-fitness cluster](higher-fitness-cluster-higher-academic-performance.md) — related
+- [MVPA at 14.5y is not significantly associated with GCSE academic performance at 16y in British adolescents](mvpa-not-associated-gcse-performance.md) — related
+- [The negative association between vigorous-intensity physical activity and academic performance disappears after adjusting for school fixed effects](vigorous-activity-association-school-fixed-effects.md) — related

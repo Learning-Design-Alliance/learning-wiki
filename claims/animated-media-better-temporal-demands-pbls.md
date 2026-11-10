@@ -49,3 +49,4 @@ Three-group randomized trial (N=103 fifth-year medical students; Vid N=37, VPani
 - [No significant difference between video, animation-enriched VP, and static VP groups in adherence to the correct PBLS algorithm](no-group-difference-pbls-algorithm-adherence.md) — related
 - [Animation-enriched virtual patients produce more overall 'competent' PBLS ratings than video instruction, which outperforms static-media VP](animation-enriched-vp-more-competent-ratings-pbls.md) — related
 - [Total PBLS sequence time is closest to the 80-second benchmark for video instruction, with all three pairwise group differences significant](video-instruction-closest-to-pbls-time-benchmark.md) — related
+- [Virtual patient preparation improves adherence to temporal demands of PBLS before and after hands-on training](vp-preparation-temporal-demands.md) — related

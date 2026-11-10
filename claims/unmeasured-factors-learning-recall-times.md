@@ -49,3 +49,4 @@ Author's interpretation (type e) offered without data or test in the discussion 
 - [Learning time and recall time are negatively correlated (r = -.380) in individual serial learning of words and figures](negative-correlation-learning-time-recall-time.md) — related
 - [L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words](certainty-higher-meaning-recognition-than-recall.md) — related
 - [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related
+- [Recall accuracy evolved in accordance with learning factors, supporting its consistency with knowledge retention without proving the relationship](recall-accuracy-consistent-with-retention.md) — related

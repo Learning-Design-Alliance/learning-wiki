@@ -80,3 +80,4 @@ Individual-participant-data meta-analysis using hierarchical Bayesian regression
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim
 - [The experiment 3 design closed the achievement gap affecting underrepresented minority students, whose failure chance fell from 73% to 34%](exp3-urm-achievement-gap-closed.md) — a narrower finding that bears on this claim
 - [Active-learning pedagogy increases science self-efficacy equally for all demographic groups](active-learning-raises-self-efficacy-all-groups.md) — related
+- [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — a broader claim this one bears on

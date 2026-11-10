@@ -53,3 +53,4 @@ Randomized controlled trial of 30 intervention and 30 control scrub practitioner
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [The training intervention significantly raises physiotherapy students' patient education self-efficacy after the experiment (d = 1.033)](training-raises-student-self-efficacy-patient-education.md) — related
 - [In one single-group pre-post study, scrub nurses' confidence scores rose significantly and anxiety scores fell significantly from before to after the iVR curriculum while scrubbing for revision TKA procedures](ivr-confidence-anxiety-scrub-nurses.md) — related
+- [Simulator training improves self-efficacy in both feedback and control groups](simulator-training-improves-self-efficacy.md) — reports the opposite

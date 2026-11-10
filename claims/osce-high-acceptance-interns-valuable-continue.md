@@ -68,3 +68,5 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
+- [Acceptability of the newly developed D-UPS skills training program is high among both residents (92%) and program directors (87%)](d-ups-program-high-acceptability.md) — related
+- [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related

@@ -49,6 +49,7 @@ Because a single blended or face-to-face session did not prevent rapid decay of 
 - [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
 - [Provide easily accessible, low-cost refresher training such as e-learning to maintain BLS/AED skills after initial training](accessible-low-cost-elearning-refresher-bls.md)
 - [Combine e-learning with face-to-face sessions or increase e-learning frequency and duration to achieve lasting attitude change](combine-elearning-face-to-face-attitude-change.md)
+- [Use web-based learning as an on-demand reinforcing agent to maintain newly acquired ECG skills](wbl-on-demand-reinforcement-strategy.md)
 
 ## Examples
 -

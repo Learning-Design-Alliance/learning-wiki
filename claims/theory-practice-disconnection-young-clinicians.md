@@ -48,3 +48,4 @@ The authors' summary interpretation of the competition findings; the article off
 ## Related Claims
 - [A national delineation competition involving 506 young clinicians revealed significant variability and common errors in target volume delineation](delineation-competition-reveals-significant-variability.md) — related
 - [Common delineation errors centered on lymph node regions, anatomical barriers, tumor motion, and over-inclusion of non-target anatomy, with site-specific frequencies](common-delineation-errors-lymph-nodes-motion-overinclusion.md) — a narrower finding that bears on this claim
+- [Students identify the sharp disconnection between preclinical and clinical education as a key shortcoming, and propose earlier patient exposure and extending preclinical content into clinical years](preclinical-clinical-disconnection-student-remedies.md) — related

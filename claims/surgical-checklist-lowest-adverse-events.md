@@ -53,3 +53,5 @@ The review reports a three-group comparison of adverse event rates: checklist gr
 - [Almost half of surveyed cathlabs do not complete a morning safety brief or operative checklist](cathlab-safety-brief-checklist-noncompletion.md) — related
 - [Turkish perfusionists unanimously support written perfusion safety tools including checklists, protocols, and record-keeping](perfusionists-support-written-safety-tools.md) — a narrower finding that bears on this claim
 - [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related
+- [Non-technical skills have the same magnitude of impact on surgical outcome as surgical technique, yet have been historically underemphasized in surgical training](nontechnical-skills-equal-impact-surgical-outcome.md) — related
+- [Preoperative checklists and team briefings reduce communication failures by about 34% in operating teams](preoperative-checklists-briefings-reduce-communication-failures.md) — related

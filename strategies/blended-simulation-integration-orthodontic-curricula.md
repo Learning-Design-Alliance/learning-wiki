@@ -75,6 +75,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Incorporate blended learning into the dental curriculum by combining the best features of classroom and distance learning](blended-learning-dental-curriculum-strategy.md)
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
+- [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 
 ## Examples
 -

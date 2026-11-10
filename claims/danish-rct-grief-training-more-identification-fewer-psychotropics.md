@@ -52,3 +52,4 @@ The review reports a randomized controlled trial of grief support training in De
 - [Grief training in medical education is most often delivered as short voluntary workshops focused on transmitting knowledge about death, dying and bereavement](grief-training-short-voluntary-knowledge-focused-workshops.md) — related
 - [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related
 - [The single behavior-change study found physicians prescribed fewer proton pump inhibitors after a podcast, but the change was not statistically significant compared to written synopses](podcast-behavior-change-not-significant-vs-synopses.md) — related
+- [Undergraduate and postgraduate training of physicians, pharmacists, and nurses is insufficient to prepare them to use psychotropics safely and effectively](training-insufficient-safe-psychotropic-use.md) — related

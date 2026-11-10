@@ -50,3 +50,4 @@ Descriptive survey result on assessment quality assurance. Training duration var
 - [EA prevalence varies widely across SCFHS programs: journal club most frequent, simulation least used, and authentic learning methods rare (14%)](ea-prevalence-patterns-scfhs.md) — related
 - [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](perry-beeches-coaching-delivery-variation-across-schools.md) — related
 - [Communicative competencies were assessed in 88% of programmes, most frequently by OSCE, predominantly summatively](dach-osce-dominant-assessment.md) — related
+- [Tutor basic training scope varies widely across faculties, most frequently 10–20 hours but ranging from about 3 to 50 hours](tutor-basic-training-hours-variation.md) — related

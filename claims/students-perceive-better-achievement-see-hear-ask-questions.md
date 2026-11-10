@@ -48,3 +48,4 @@ Thematic analysis of the four-student interviews, sub-theme 'Achievement in fina
 - [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](students-enjoy-demonstration-method-step-by-step-explanation.md) — related
 - [Students liked the demonstration method because of end-of-lesson tasks and teacher evaluation at each step](students-like-demonstration-method-tasks-and-step-evaluation.md) — related
 - [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — related
+- [Linking each evidence analysis step's product to earlier and later steps improves students' appreciation of step quality (authors' experience)](linking-steps-improves-step-quality-appreciation.md) — related

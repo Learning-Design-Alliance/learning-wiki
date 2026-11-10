@@ -65,3 +65,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — related
 - [M-learning group rates learning process items more positively than control group](m-learning-group-higher-process-ratings.md) — related
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
+- [Simulation-group trainees rated some elements of the traditional training higher than control trainees, though differences tended to be low in magnitude](simulation-group-rated-traditional-training-higher.md) — related

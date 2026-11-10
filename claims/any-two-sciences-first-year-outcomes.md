@@ -49,3 +49,4 @@ Multiple regression of 368 First Year Tertiary students found Any 2 Sciences rai
 - [MAPAS Mathematics Test results are significantly associated with first-year tertiary GPA but not with passing all courses after adjustment](mapas-maths-test-gpa-association.md) — related
 - [Students from General Science and Agricultural Science SHS backgrounds had higher odds of belonging to higher GPA categories than Home Economics students](shs-science-background-higher-gpa-nursing-ghana.md) — related
 - [NCEA Rank Score is the most significant predictor of first-year GPA and of passing all courses for Māori and Pacific health students](ncea-rank-score-predicts-first-year-outcomes.md) — related
+- [Exposure to any two Level 3 sciences strongly predicts a Bachelor-level MAPAS recommendation (OR 7.897) among Māori and Pacific health programme applicants](any-2-sciences-predicts-bachelor-recommendation-mapas.md) — related

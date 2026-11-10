@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (156 show a difference, 36 mixed, 26 no difference) · 149 studies (74 causal, 25 review, 18 associational, 11 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 30 of 149 report an effect size · 216 claims rest on one study
+> **Evidence** · 219 claims (156 show a difference, 36 mixed, 27 no difference) · 150 studies (74 causal, 25 review, 19 associational, 11 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 30 of 150 report an effect size · 217 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -259,6 +259,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](../claims/ebp-teaching-enhances-analytical-skills-nursing.md) [+M] — measured as an outcome of the instruction studied
 - [Research protocol writing in small groups enhanced medical students' critical thinking skills, as perceived by most participants](../claims/protocol-writing-enhanced-critical-thinking-perceptions.md) [+M] — measured as an outcome of the instruction studied
 - [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](../claims/integrated-training-no-critical-thinking-gain.md) [-M] — measured as an outcome of the instruction studied
+- [Classroom alignment between learning objective and assessment Bloom levels does not explain students' higher-order cognitive skill gains](../claims/alignment-no-effect-on-critical-thinking-gains.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

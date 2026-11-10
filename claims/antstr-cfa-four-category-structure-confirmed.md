@@ -74,3 +74,4 @@ First-level CFA fit indices reported after establishing covariance between the 1
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
 - [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related
 - [Confirmatory factor analysis supports the three-factor structure (Communication, Motor, Maladaptive Behavior) of the sCPEP-3 Performance Test, though RMSEA (0.16) exceeded the stated cutoff](scpep3-factorial-validity-cfa.md) — related
+- [A five-factor model of non-technical skills fits both self- and peer-assessment data in confirmatory factor analysis](trent-five-factor-cfa-fit.md) — related

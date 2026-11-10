@@ -69,3 +69,4 @@ Thematic analysis identified preparation for future teamwork, breaking down prof
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [Students preferred digital simulation with virtual patients and emphasized group work and faculty facilitation as important for its learning outcomes](digital-simulation-preferred-group-facilitation.md) — related
 - [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — related
+- [The article argues IPE should be introduced from the start of professional education to prevent formation of negative interprofessional attitudes that later resist change](ipe-early-introduction-argument.md) — related

@@ -54,3 +54,4 @@ Concluding statement of the prospective COMPASS analysis (N = 9,898 linked cases
 - [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related
 - [Physically active classrooms produce a small improvement in academic performance compared with traditional sedentary classrooms](active-classrooms-small-academic-gain.md) — reports the opposite
 - [Physical activity and fast-food consumption show no significant direct or brain-mediated association with adolescent academic achievement](no-brain-mediated-link-activity-fastfood-grades.md) — possibly the same claim (merge candidate)
+- [The MVPA–academic performance association is modified by BMI z-score, though neither stratified association reaches significance](mvpa-bmi-interaction-gcse.md) — related

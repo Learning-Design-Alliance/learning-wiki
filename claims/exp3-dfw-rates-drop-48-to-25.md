@@ -50,3 +50,4 @@ Semester-level quasi-experiment at EMU measuring DFW rate (percentage withdrawin
 - [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related
 - [Student evaluations of teaching improved overall in experiment 3 relative to control terms](exp3-student-evaluations-improved.md) — related
 - [Non-URM students also showed a smaller but significant decrease in DFW rates with PLTL participation](pltl-reduces-dfw-non-urm-students.md) — related
+- [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — a broader claim this one bears on

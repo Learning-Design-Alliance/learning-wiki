@@ -56,3 +56,4 @@ Prospective observational cohort of 51 final-year RCSI medical students who volu
 - [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on
 - [Students' PVC insertion performance declines significantly in the week after mastery learning, with only 74.5% passing an unannounced retest](pvc-skill-decline-eight-days-after-mastery-learning.md) — a narrower finding that bears on this claim
 - [Lung isolation insertion time increased from post-test to 2-month follow-up in one group with no comparison group](lung-isolation-insertion-time-decay-two-months.md) — a narrower finding that bears on this claim
+- [Skills taught with hands-on simulator practice are retained better at 4 weeks, and lecture-only teaching shows the greatest learning decay](simulator-practice-better-four-week-retention.md) — reports the opposite

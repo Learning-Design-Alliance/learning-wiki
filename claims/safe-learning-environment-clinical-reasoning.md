@@ -61,3 +61,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
 - [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related
 - [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related
+- [Seminar-like session structure, an anxiety-free atmosphere and tutors' personal commitment were the frame conditions tutees perceived as making the course beneficial](peer-exam-prep-frame-conditions.md) — a narrower finding that bears on this claim

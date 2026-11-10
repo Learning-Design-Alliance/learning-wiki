@@ -47,3 +47,4 @@ Observational before-and-after comparison of sixth-year elective choices followi
 ## Related Claims
 - [Medical students' VAS-rated aspiration to become a surgeon rose from 60 to 65 after two-hour hands-on suture training with objective assessment, in one uncontrolled pre-post study](suture-training-objective-assessment-increased-surgical-aspiration.md) — related
 - [Among medical students, self-reported aspiration to become a surgeon rose from pre-test to post-test in all change groups except the S-to-P group, in one uncontrolled pre-post study](aspiration-increased-all-groups-except-s-to-p.md) — related
+- [Clinical departments with greater student involvement in clinical practice register increasing applicants](department-involvement-increasing-applicants.md) — related

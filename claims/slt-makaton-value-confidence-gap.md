@@ -52,3 +52,4 @@ Cross-sectional mixed-methods online survey of 57 South African SLTs with at lea
 - [SLTs value Makaton for four reasons: multimodal communication, accessibility and practicality, speech and language development, and inclusion and social use](makaton-value-four-themes.md) — related
 - [SLTs’ familiarity with Makaton does not appear to follow years of professional experience](makaton-familiarity-not-experience-driven.md) — related
 - [SLTs recommend Makaton to parents and team members at similarly high levels, with no statistically significant difference](makaton-recommendation-parents-team-no-difference.md) — related
+- [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related

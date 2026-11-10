@@ -80,3 +80,4 @@ Same Model 1 regression, contrasting programme types against standard entry. Gat
 - [BME ethnicity is negatively related to EPM ranking while positively predicting completion, a disparity across success measures](bme-ethnicity-epm-completion-disparity.md) — related
 - [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related
 - [Socioeconomic status and course type are not significant independent predictors of EPM ranking after adjustment](ses-course-type-not-independent-predictors-epm.md) — related
+- [Ethnicity effects on examination performance persist after taking performance at previous assessment stages into account](ethnicity-effects-persist-after-prior-performance-adjustment.md) — related

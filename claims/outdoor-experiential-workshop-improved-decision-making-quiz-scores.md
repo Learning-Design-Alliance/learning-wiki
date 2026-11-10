@@ -55,3 +55,4 @@ Quasi-experimental pre/post study of 41 first-year medical students who complete
 - [Knowledge questions on Gagne's model and deliberate practice improved after the workshop, but the small sample did not allow significance testing](gagne-deliberate-practice-questions-untested-improvement.md) — a narrower finding that bears on this claim
 - [Quiz improvement is interpreted by the authors as retention of workshop content, since students received no performance feedback between quizzes](quiz-gain-interpreted-as-content-retention.md) — related
 - [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](awareness-of-biases-improves-progression-decisions.md) — related
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related

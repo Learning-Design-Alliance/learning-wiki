@@ -62,3 +62,4 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
 - [Sex, level of education and years of working experience showed no significant association with nurses' knowledge of NCI preventive measures](sex-education-experience-no-knowledge-association.md) — related
 - [Nurses’ late-life depression knowledge did not differ significantly by demographic or characteristic variables](no-demographic-differences-lld-knowledge.md) — related
+- [Baseline knowledge differed by age and education level, but pre-to-post change scores did not significantly differ between demographic subgroups in a single-group pre-post study of an e-learning course](baseline-demographic-differences-no-subgroup-effect-differences.md) — related

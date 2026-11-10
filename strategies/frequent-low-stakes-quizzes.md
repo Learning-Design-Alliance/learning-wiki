@@ -127,6 +127,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
 - [Use seminar quizzes as low-stakes formative tools for readiness, feedback and identifying struggling students](seminar-quiz-formative-feedback-strategy.md)
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
+- [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

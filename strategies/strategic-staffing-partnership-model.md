@@ -39,6 +39,7 @@ Starting in 2022–23, Claremont moved toward a strategic staffing partnership m
 ## Related Strategies
 
 - [Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible](stipends-and-tuition-subsidy-for-residency-access.md)
+- [International resident fellowship model for developing shared online pathology teaching content](resident-fellowship-content-development-strategy.md)
 
 ## Examples
 -

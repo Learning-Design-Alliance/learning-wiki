@@ -71,3 +71,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
+- [Deans cite limited resources, especially faculty expertise, as the major barrier to teaching more evolution, with foundational and patient-care benefits cited as benefits](barriers-benefits-evolution-education-qualitative.md) — related

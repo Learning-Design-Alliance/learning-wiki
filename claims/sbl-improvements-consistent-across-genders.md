@@ -47,3 +47,4 @@ Gender-based comparison in Table 3 (males n = 374 before, 377 after; females n =
 ## Related Claims
 - [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — related
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related
+- [No significant difference in SBL satisfaction or challenge scores by year of education (p=0.62; p=0.99)](sbl-satisfaction-no-year-of-study-difference.md) — related

@@ -51,3 +51,4 @@ Prospective single-group evaluation of the peer-guided tutorial: paired t-test c
 - [Anaesthetists' scores on a ten-question multiple-choice test of neuromuscular monitoring knowledge rose from pre-course to post-course after completing the e-learning module, in one uncontrolled pre-post study](elearning-improved-nmba-knowledge-test-scores.md) — related
 - [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
 - [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related
+- [Adding corrective feedback to weekend quizzes improved student performance on identical summative examination items between the first and second course iterations](quiz-feedback-improved-exam-item-performance.md) — related

@@ -63,3 +63,4 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [A standardized simulation training module significantly increases telestroke knowledge of emergency teams, from 59±13% to 82±10% correct answers](simulation-training-raises-telestroke-knowledge-overall.md) — related
 - [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
 - [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related
+- [An e-learning course on delirium significantly improved nursing staff's knowledge, with a mean change score of 8.1 points and an effect size of 0.8](e-learning-delirium-course-improved-nurse-knowledge.md) — related

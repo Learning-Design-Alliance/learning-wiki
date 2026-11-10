@@ -54,6 +54,7 @@ The authors recommend against reducing judgements of doctors to simple examinati
 - [Prioritise qualitative research, apply differential item functioning to surgical examinations, and study under-researched protected characteristics](da-research-priorities-dif-qualitative-understudied.md)
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 - [Analyze differential effects of motivational interventions by testing interactions with multiple student characteristics](analyze-differential-effects-of-motivational-interventions.md)
+- [Link databases from separate examination boards to validate assessments and analyse differential performance](cross-examination-database-linkage-validity-strategy.md)
 
 ## Examples
 -

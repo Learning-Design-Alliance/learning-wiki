@@ -57,3 +57,4 @@ Authors' interpretation of the main retention result in light of the feedback de
 - [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — related
 - [Quiz improvement is interpreted by the authors as retention of workshop content, since students received no performance feedback between quizzes](quiz-gain-interpreted-as-content-retention.md) — a narrower finding that bears on this claim
 - [Spaced and massed anatomy instruction produced no significant difference in long-term knowledge retention among DPT students](spaced-massed-anatomy-retention-null-dpt.md) — related
+- [Medical students using spaced study followed by quizzing achieved significantly higher recall accuracy than quiz-only students in sessions s1 and s2](study-quiz-group-higher-recall-accuracy.md) — a narrower finding that bears on this claim

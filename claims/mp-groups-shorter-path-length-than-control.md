@@ -49,3 +49,4 @@ Instrumental Tip Path Length (PL) from the same simulator study; the control con
 - [The 3D&MP group made significantly fewer instrument movements than the video-viewing control group](3d-mp-fewer-movements-than-control.md) — related
 - [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — a broader claim this one bears on
 - [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
+- [Individualized instructor feedback during simulated laparoscopy shortens instrument path length in novices](feedback-shortens-laparoscopic-instrument-path.md) — related

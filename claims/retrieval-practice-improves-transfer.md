@@ -132,3 +132,5 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related
 - [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related
 - [The authors hypothesise that the long-menu format encourages retrieval practice that may support mid- and long-term retention](long-menu-encourages-retrieval-practice-hypothesis.md) — related
+- [Retrieval practice produced greater meaningful learning than elaborative concept mapping, including on inference and concept-map final tests (review-reported)](retrieval-practice-beats-concept-mapping.md) — related
+- [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — a narrower finding that bears on this claim

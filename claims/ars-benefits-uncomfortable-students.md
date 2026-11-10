@@ -50,3 +50,4 @@ Questionnaire subgroup analysis comparing students who agreed (Likert 1–3, n =
 - [Using the audience response system eduVote during seminars does not affect students' summative assessment performance in a controlled crossover study](ars-eduvote-no-summative-assessment-effect.md) — related
 - [Students tend to ask more questions in seminars without an audience response system than with one](ars-fewer-student-questions.md) — related
 - [Male and female students differ in reported technical difficulties with eduVote and in tendency to join the majority when a teacher asks a question](ars-gender-differences-technical-difficulties.md) — related
+- [Faculty view audience response systems as making response safe, while residents question their effectiveness at engaging learners](audience-response-system-divergent-views.md) — related

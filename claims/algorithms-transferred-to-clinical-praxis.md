@@ -50,3 +50,4 @@ Interview study (n=20, 6 months post-course) using systematic text condensation;
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
 - [Application of algorithms and non-technical skills in clinical practice is more difficult when the surrounding clinical staff are unfamiliar with these tools](staff-unfamiliarity-impedes-transfer.md) — related
 - [First-year doctors report that simulation-based training in handling critically ill patients increased their preparedness for clinical practice six months after the course](sbt-increases-preparedness-first-year-doctors.md) — related
+- [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related

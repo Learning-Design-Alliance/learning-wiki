@@ -90,3 +90,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Age correlates with self-assessed competency, but the association disappears after adjusting for length of service; sex, education and professional membership show no association](age-correlates-self-assessed-competency-not-after-service-adjustment.md) — related
 - [Only PTSD knowledge level predicted GPs' confidence in diagnosing and managing PTSD, with demographic factors not predictive](ptsd-knowledge-only-confidence-predictor.md) — related
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
+- [Baseline knowledge differed by age and education level, but pre-to-post change scores did not significantly differ between demographic subgroups in a single-group pre-post study of an e-learning course](baseline-demographic-differences-no-subgroup-effect-differences.md) — related

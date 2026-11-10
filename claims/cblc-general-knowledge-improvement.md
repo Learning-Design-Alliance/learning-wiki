@@ -48,3 +48,4 @@ One-group repeated-measures analysis of paired T0–T1 responses from the Compet
 - [No significant change was detected in case-specific knowledge after the CBLC](cblc-case-specific-null-result.md) — related
 - [Total competence questionnaire scores increased significantly after the CBLC with a small effect size](cblc-total-competence-increase.md) — related
 - [Item-level accuracy remained stable on the hardest case-specific item, suggesting persistent difficulty](cblc-item8-persistent-difficulty.md) — related
+- [SEPCQ scores increase after a communication and peer-supervision course, with small-to-medium effect sizes](sepcq-responsive-to-communication-course.md) — related

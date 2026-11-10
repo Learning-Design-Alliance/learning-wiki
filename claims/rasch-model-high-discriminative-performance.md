@@ -48,3 +48,4 @@ Psychometric evaluation within the randomized trial reporting that "The model de
 ## Related Claims
 - [Including grader bias and reliability as features improves prediction of future course participation from AUC 0.93 to 0.98, capturing an engagement dimension missed by assignment grade](grader-bias-reliability-predict-future-participation.md) — related
 - [Recommended MAP Growth screening cut scores yield sensitivity, specificity, and lower-bound AUC of at least 0.8 for most grades and terms](map-growth-screening-accuracy-08-criteria.md) — related
+- [A simulator score of 75% discriminates experts from trainees with high sensitivity (94.7%) but low specificity (51.8%), supporting formative but not summative use](dka-simulator-roc-cutoff.md) — related

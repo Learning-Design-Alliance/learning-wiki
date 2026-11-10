@@ -109,3 +109,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
 - [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
+- [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related

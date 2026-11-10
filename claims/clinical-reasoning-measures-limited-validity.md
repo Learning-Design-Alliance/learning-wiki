@@ -70,3 +70,4 @@ Predictive validity analysis correlating both reasoning measures with diagnostic
 - [MBEA scores correlate weakly with percussion note identification competency among pre-clinical medical students (r≈0.18)](mbea-weak-correlation-percussion-competency.md) — related
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [Predictive validity was shown in two simulators, with a positive correlation between simulator outcomes and future performance](ips-predictive-validity-positive-correlation.md) — related

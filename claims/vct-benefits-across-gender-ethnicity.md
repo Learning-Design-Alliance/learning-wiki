@@ -56,3 +56,5 @@ Repeated-measures ANOVA by gender and minority status (N=525, Table 7). Satisfac
 - [Any simulation exposure slightly improved scientific possible selves, but two simulations conferred no additional benefit](vct-possible-selves-small-gain-no-dose-effect.md) — related
 - [Exposure to two simulations produced greater gains in positive attitudes toward clinical trials than exposure to one](vct-two-simulations-greater-attitude-gain.md) — related
 - [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — related
+- [Learning style, ethnicity, hand dominance and career motivation showed no significant difference in skill acquisition or retention](learner-traits-no-effect-simulation-skill-acquisition.md) — related
+- [A small but statistically significant gender difference in SBL satisfaction scores favored female students (p=0.001)](sbl-satisfaction-gender-difference-significant.md) — related

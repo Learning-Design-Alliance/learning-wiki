@@ -82,6 +82,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
 - [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

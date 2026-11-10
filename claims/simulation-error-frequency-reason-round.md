@@ -48,3 +48,4 @@ Survey of postgraduate simulation course participants and tutors at Masaryk Univ
 - [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](teamup-errors-explained-by-cohesiveness.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [A literature review up to 2024 revealed a knowledge gap: no existing medical error taxonomy adequately addresses the needs of simulation-based medical education, particularly in Critical Care](taxonomy-gap-simulation-based-education.md) — related
+- [Communication breakdown is a leading cause of surgical errors, and more than half of surgical errors could be avoided with proper use of non-technical skills](communication-breakdown-leading-cause-surgical-errors.md) — related

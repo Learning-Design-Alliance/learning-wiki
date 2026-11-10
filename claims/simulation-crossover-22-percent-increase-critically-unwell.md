@@ -78,3 +78,4 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Simulation training is reported as the most effective way to train surgeons' non-technical skills](simulation-most-effective-nts-training-review.md) — related
 - [Full hands-on participants rated the educational environment higher than lecture-only observers on the DREEM (P=0.038)](abcs3-full-participants-higher-dreem-than-observers.md) — related
 - [Video-didactic training is comparable to simulation-based training for teaching novices basic lung isolation skills](video-didactic-comparable-simulation-lung-isolation.md) — related
+- [Supplemental VR simulator training produced no statistically significant difference in novices' first clinical USgABPB performance versus standard training alone in this discontinued pilot RCT](vr-simulation-no-gain-first-usgabpb-performance-pilot.md) — related

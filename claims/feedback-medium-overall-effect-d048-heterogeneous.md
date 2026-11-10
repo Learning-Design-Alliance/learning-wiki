@@ -72,3 +72,4 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 - Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
 - [Motivational and behavioural feedback interventions show small-to-medium effects, cautioning generic porting of strategies](motivational-feedback-small-medium-effects.md) — a narrower finding that bears on this claim
+- [Individual gains in skills and knowledge were highly heterogeneous, ranging from 13% to 48%](individual-gain-heterogeneity-13-48-percent.md) — a narrower finding that bears on this claim

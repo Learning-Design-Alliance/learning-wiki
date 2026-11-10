@@ -58,3 +58,4 @@ Preference questionnaire of 50 general students across diverse majors after game
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
+- [Participants found the IVR mLearning course acceptable, with 90% reporting they learned the same or more than in a conventional course](participant-acceptance-ivr-mlearning.md) — related

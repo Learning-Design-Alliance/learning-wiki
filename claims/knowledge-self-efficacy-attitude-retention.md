@@ -84,3 +84,5 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Teamwork safety-relevant attitudes largely unchanged after the NTS seminar; handling errors improved but the teamwork attitude decreased in the NTS group](nts-seminar-attitude-changes-mixed.md) — related
 - [Self-efficacy for helping CYP who self-harm significantly decreased in the full follow-up sample (d = 0.29) but the decrease was not significant among intervention completers](self-efficacy-decrease-full-sample-not-completers.md) — related
 - [Composite score gains remained stable across the intervention years](stable-composite-gains-within-intervention.md) — related
+- [Oral health behavior and attitude rose from baseline to 6 months and fell by 18 months in both groups; within-group changes were not statistically significant](behavior-attitude-gains-not-sustained.md) — related
+- [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related

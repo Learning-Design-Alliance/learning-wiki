@@ -39,9 +39,11 @@ Frequent classroom quizzing implements retrieval practice within courses. "Click
 - Long-lasting retention of course content
 
 ## Related Strategies
+
 - [Clicker Questions](clicker-questions.md)
 - [Frequent Low Stakes Quizzes](frequent-low-stakes-quizzes.md)
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
+- [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Near-transfer EEQ data from the school-based evaluation with 144 UK children age
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
 - [Most children did not accept that different rule sets were not cheating, with under 30% judging neither team had cheated](mixer-cheating-misconception-persists.md) — related
 - [Children's conflict understanding and resolution learning occurred only when the MIXER interaction was followed by the classroom discussion forum](mixer-learning-required-discussion-forum.md) — related
+- [100% of participants found the clinical assessment tools useful and 90% would use them again](assessment-tools-useful-would-reuse.md) — related

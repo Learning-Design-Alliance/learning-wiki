@@ -54,3 +54,4 @@ Item analysis and internal consistency testing of the pilot scale. The article r
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

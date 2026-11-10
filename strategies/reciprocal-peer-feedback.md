@@ -67,6 +67,7 @@ Peer feedback works because both roles generate learning: reviewing exposes lear
 - [Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage](paired-alternating-presentation-and-critique.md)
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
 - [Alternating inter- and intra-lab peer-review critique groups with guided feedback rounds](alternating-interlab-intralab-peer-review-groups.md)
+- [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** — a web-based system in which students complete calibration exercises against instructor-anchored exemplars before reviewing three peers' work; widely used in STEM writing assignments. [https://cpr.molsci.ucla.edu](https://cpr.molsci.ucla.edu)

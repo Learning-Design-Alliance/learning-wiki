@@ -91,6 +91,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 - [Blend didactic lectures with small-group active learning activities in biostatistics teaching](blended-small-group-biostatistics-teaching.md)
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
+- [Blend simulation with traditional training rather than separating them into discrete components](blend-simulation-with-traditional-procedural-training.md)
+- [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The article recommends combining traditional teaching with computer-assisted lea
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Balance virtual simulation training with sufficient hands-on technical skills practice time](balance-virtual-and-skills-training-time.md)
+- [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
 
 ## Examples
 -

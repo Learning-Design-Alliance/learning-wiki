@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (15 for, 9 mixed) · 20 studies (9 causal, 4 associational, 3 qualitative, 2 quant-synthesis, 1 review, 1 design), `q1`–`q4` · 1 of 20 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 21 studies (9 causal, 4 associational, 3 qualitative, 2 quant-synthesis, 2 design, 1 review), `q1`–`q4` · 1 of 21 report an effect size · 24 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -76,6 +76,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [After cross-age peer teaching, agreement that GMO crops should be part of the food supply rose from 46% to 97% among non–science major undergraduates](../claims/peer-teaching-gmo-opinion-shift-46-to-97.md) [~W] — attached 2026-11-08 from Chrispeels H. E. et al. (2019), which proposed "Cross-age peer-teaching service-learning program with a repeated genetics/GMO lesson for high school students".
 - [Seventy-three percent of students in one pre-post study with no comparison group reported in reflections that their understanding was higher after peer teaching, and 35% cited repeated teaching](../claims/reflections-repeat-teaching-deepened-understanding.md) [+W] — attached 2026-11-08 from Chrispeels H. E. et al. (2019), which proposed "Cross-age peer-teaching service-learning program with a repeated genetics/GMO lesson for high school students".
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](../claims/pal-safe-egalitarian-learning-environment.md) [~W] — attached 2026-11-09 from Tamachi Shameena et al. (2018), which proposed "Near-peer PAL scheme at Salford Royal NHS Foundation Trust".
+- [Tutees showed high acceptance of the course in post-session questionnaires, with strongly positive ratings for atmosphere, support and integration, and relatively weaker but still positive ratings on exam preparedness and anxiety](../claims/peer-exam-prep-high-questionnaire-acceptance.md) [~W] — attached 2026-11-09 from Huhn D et al. (2015), which proposed "HeiTiMed voluntary peer-led exam preparation course for international first-year medical students".
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

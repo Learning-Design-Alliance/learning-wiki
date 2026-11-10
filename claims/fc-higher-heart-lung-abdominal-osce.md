@@ -56,3 +56,4 @@ Two independent sample t-tests on OSCE station scores from the randomized study 
 - [Blended teaching outperformed traditional offline teaching on every individual OSCE station, with the largest gaps in physical examination and disinfection & draping](blended-teaching-osce-item-differences.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related
+- [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related

@@ -51,3 +51,4 @@ Authors' critique citing Simpson and Courtney and other prior work. These tools 
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — related
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](integrated-training-no-critical-thinking-gain.md) — related
+- [Among peer leaders, questionnaire responses indicated critical thinking improvement for 62%, while 43% of peer leaders had higher CCTST scores at post-test than pre-test](peer-leader-perceived-versus-measured-critical-thinking.md) — related

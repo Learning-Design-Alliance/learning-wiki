@@ -51,7 +51,8 @@ This design strategy draws directly on the study's four barrier themes. MSF prov
 - [Hospital ward culture and interprofessional divides — including transient resident roles and lack of formal feedback channels — impede feedback provision and acceptance](../claims/msf-ward-culture-interprofessional-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Balance assessor selection and clarify the developmental purpose of multisource feedback](balanced-assessor-selection-msf-strategy.md)
 
 ## Examples
 -

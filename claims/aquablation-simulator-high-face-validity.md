@@ -52,3 +52,4 @@ Cross-sectional face-validation survey of twelve expert urologists at EUREP 2025
 - [Experts unanimously recommend integrating the Aquablation simulator into structured Aquablation training programs](aquablation-simulator-unanimous-training-endorsement.md) — related
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
 - [Surveyed fetal surgeons confirmed face validity, with all subspecialties rating the live model realistic and recommending it for its realism](rabbit-fsba-model-face-validity-survey.md) — related
+- [Experienced urologists rated the transparent and non-transparent simulators as anatomically accurate, easy to use and good training tools](urologist-preliminary-simulator-ratings.md) — related

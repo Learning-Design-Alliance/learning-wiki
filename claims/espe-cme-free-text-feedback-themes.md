@@ -54,3 +54,4 @@ Two authors independently coded free-text feedback into four categories by conse
 - [Praising comment orientation is moderately positively associated with quantitative competency ratings (β = 0.46)](praise-orientation-positive-rating-association.md) — related
 - [Learners praised the interactive, case-based format, handouts, and short individual modules in formative feedback](geriatrics-5ms-workshop-interactive-case-based-format-praised.md) — related
 - [After the improvement measures, fewer students complained about group size and lack of examination support, and more praised lecturers' motivation and case discussion](free-text-feedback-shift-after-measures.md) — related
+- [Criticism and recommendations in free-text comments decreased after consultation, with quality of explanations and learning atmosphere most praised](criticism-decreased-after-consultation.md) — related

@@ -110,3 +110,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Both VP and SGT interventions produce significant growth in self-assessed competence with no between-group difference after the intervention](vp-sgt-equal-self-assessed-competence-growth.md) — related
 - [ICU training was associated with higher knowledge but showed no significant association with observed ETS practice](knowledge-practice-gap-icu-training.md) — related
 - [An 8-week deliberate practice and simulation project increased second-semester sophomore nursing students' self-reported clinical competence and confidence by 37.26% from pretest to posttest](simulation-deliberate-practice-ccq-gain-37-percent.md) — related
+- [Simulator training improves self-efficacy in both feedback and control groups](simulator-training-improves-self-efficacy.md) — related

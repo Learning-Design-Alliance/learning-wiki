@@ -65,6 +65,7 @@ Metacognitive instruction reliably improves academic performance when it is inte
 - [Formative assessment](../patterns/formative-assessment.md) — external monitoring that scaffolds the internal monitoring learners must eventually do themselves
 - [Teach metacognitive reading strategies as a before-during-after cycle of planning, self-monitoring through thinking aloud, and self-evaluation](metacognitive-reading-strategy-instruction-cycle.md)
 - [Teach cognitive, metacognitive, and self-regulation reading strategies within a gradual responsibility transfer model](teach-reading-strategies-gradual-responsibility-transfer.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Examples
 **Reciprocal Teaching (Palincsar & Brown)** — Small groups alternate roles of summarizer, questioner, clarifier, and predictor while reading; explicit modeling and role rotation teach monitoring and repair strategies, with documented comprehension gains.

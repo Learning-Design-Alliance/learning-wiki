@@ -51,3 +51,4 @@ Correlational analysis within the project's observational data found "the Spearm
 - [Conception orientation and TPACK level show a statistically significant positive association (Spearman's rho = 0.731; Cramer's V = 0.56)](conception-tpack-strong-association.md) — related
 - [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related
 - [Greater percent teaching time allocation is associated with lower learner-centered teaching practices](teaching-time-allocation-negative-rtop.md) — related
+- [RTOP scores correlate with assessment Bloom scores and with student participation rates](rtop-correlates-assessment-bloom-and-participation.md) — related

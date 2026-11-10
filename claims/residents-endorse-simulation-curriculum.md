@@ -51,3 +51,5 @@ Posttest questionnaire administered to all 41 participants after the course and 
 - [Overwhelming majorities of senior and junior trainees want laparoscopic suturing introduced early in the curriculum](trainees-want-early-suturing-introduction.md) — related
 - [Interns evaluate the 5-day intensive curriculum very positively, with most endorsing continuation and expansion](bootcamp-positive-evaluation-feedback.md) — related
 - [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — related
+- [Acceptability of the newly developed D-UPS skills training program is high among both residents (92%) and program directors (87%)](d-ups-program-high-acceptability.md) — related
+- [Summer Institute participants overwhelmingly value having a trained facilitator for group work](si-participants-value-trained-facilitators.md) — related

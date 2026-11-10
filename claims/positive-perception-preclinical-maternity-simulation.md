@@ -76,3 +76,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
 - [General satisfaction differed significantly across the ten simulation scenarios, with the catheterization station lowest and the orthopedics scenario highest](abcs3-satisfaction-varied-across-scenarios.md) — related
+- [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related

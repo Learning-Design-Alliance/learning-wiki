@@ -134,6 +134,8 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints](awareness-hints-desirable-difficulty-retrieval.md)
 - [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](component-cue-reactivation-strategy.md)
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
+- [Provide corrective feedback on low-stakes quizzes when using test-enhanced learning](corrective-feedback-on-quizzes-strategy.md)
+- [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system implementing expanding retrieval intervals; widely used in medical education.

@@ -55,3 +55,4 @@ Discussion-section assertion of the review, attributed to prior literature (Stow
 - [Meta-analysis shows open-book exams yield higher STEM exam scores than closed-book exams, with an overall mean difference of 5.91 despite very high heterogeneity](obe-higher-scores-than-cbe-meta-analysis.md) — related
 - [WhatsApp's most cited benefit is enabling learning anytime and anywhere, but intrusiveness, message volume and cognitive load impede learning](whatsapp-anytime-anywhere-benefit-intrusiveness-limit.md) — related
 - [The 2020 online open book mid-semester mean score (62.8%) was statistically significantly lower than the 2019 invigilated mid-semester mean (71.8%), a pattern the author reads as evidence against cheating](online-open-book-midsemester-lower-mean-no-cheating.md) — related
+- [Students expect open-note testing to confer an exam advantage, and expectations differ by the condition students are assigned to](students-expect-open-note-advantage.md) — related

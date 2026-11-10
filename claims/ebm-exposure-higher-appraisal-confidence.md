@@ -59,3 +59,4 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [Quarantine increased student collaboration with colleagues, especially among fifth-year students](quarantine-increased-peer-collaboration-fifth-year.md) — related
 - [EBM-trained medical students rate all six self-reported EBM skills significantly better than untrained students, with differences emerging mainly after the second year](ebm-training-better-self-rated-skills-medical-students.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
+- [Blended learning students report significantly higher self-efficacy, attitudes and behaviour toward EBM than didactic learning students](bl-higher-self-efficacy-attitudes-behaviour.md) — related

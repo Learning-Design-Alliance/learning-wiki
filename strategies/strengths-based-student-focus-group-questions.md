@@ -41,6 +41,7 @@ The brief describes a concrete inquiry method: convene students across grade spa
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 - [Engage students from the start via a screening questionnaire followed by card-sorting and mock-up focus groups](participatory-questionnaire-card-sorting-focus-groups.md)
 - [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
+- [Create a psychologically safe participation environment by setting expectations, asking nonthreatening questions, and avoiding putting individuals on the spot](safe-participation-environment-strategies.md)
 
 ## Examples
 -

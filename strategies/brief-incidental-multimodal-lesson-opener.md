@@ -48,6 +48,7 @@ The article recommends that teachers include an incidental learning activity at 
 
 - [Picture Dictionaries](picture_dictionaries.md)
 - [Keyword Mnemonic](keyword-mnemonic.md)
+- [Do not use multimodal independent study resources in a condensed course to introduce new material](independent-resources-reinforce-not-introduce-strategy.md)
 
 ## Examples
 -

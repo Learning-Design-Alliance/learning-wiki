@@ -47,6 +47,7 @@ Because training alone did not translate into deployed actions, the article reco
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
+- [Use web-based learning as an on-demand reinforcing agent to maintain newly acquired ECG skills](wbl-on-demand-reinforcement-strategy.md)
 
 ## Examples
 -

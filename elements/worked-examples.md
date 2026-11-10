@@ -124,6 +124,10 @@ Worked examples are the element in which learners study complete or partial solu
 - *How should learners move from studying examples to solving problems alone?* [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M]
 - *What should learners do while studying an example, and which examples should they see?* [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](../claims/self-explanation-effect-worked-examples.md) [+M]
 
+## Examples
+
+- [Use self-explanation prompts after example study to boost transfer when instructional time or learner effort is limited](../strategies/self-explanation-prompts-after-example-study-strategy.md)
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Fading](fading.md)

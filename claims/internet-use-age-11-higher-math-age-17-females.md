@@ -68,3 +68,4 @@ Spearman correlation analysis of the same cohort data found Internet use had "no
 - [Leisure reading at age 11 is positively associated with mathematics ability at age 17 among female adolescents](leisure-reading-age-11-higher-math-age-17-females.md) — related
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — a broader claim this one bears on
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
+- [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related

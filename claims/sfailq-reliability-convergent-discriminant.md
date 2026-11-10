@@ -58,3 +58,4 @@ Reliability and validity analysis in Sample 2 (N = 1226): Cronbach's alphas all 
 - [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
+- [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related

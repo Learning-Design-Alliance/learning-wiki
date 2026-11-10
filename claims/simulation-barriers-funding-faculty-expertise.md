@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-09
 recheck_by: 2030
 sources:
   - id: miller-bd-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Reported barriers to simulation implementation were lack of funding, lack of lab or equipment access, and lack of faculty expertise or availability, mirroring barriers cited in the 2008 survey. [→ Miller BD 2025](#miller-bd-2025)
@@ -61,3 +62,4 @@ Cross-sectional survey of EM residency program directors; barriers reported in t
 - [Laparoscopic training facilities were available to only 55% of US residency programs in 2006 and 73% of North American programs in 2014](laparoscopic-training-facilities-access-gap.md) — related
 - [Funded fellowships secured protected time and enabled accreditation, but were seen as a partial solution to substance use disorders](funding-protected-time-partial-solution.md) — related
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
+- [Deans cite limited resources, especially faculty expertise, as the major barrier to teaching more evolution, with foundational and patient-care benefits cited as benefits](barriers-benefits-evolution-education-qualitative.md) — related

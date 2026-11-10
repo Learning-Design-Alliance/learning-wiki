@@ -50,3 +50,4 @@ This is the editorial author's interpretive synthesis of Taylor et al. and Rowe 
 - [VR-trained radiography students made significantly fewer patient positioning errors than physical-simulation-trained students](vr-simulation-fewer-positioning-errors.md) — related
 - [VR training produced more efficient radiography students with fewer errors and faster diagnostic imaging than traditional simulation training](vr-training-more-efficient-fewer-errors-radiography.md) — related
 - [Motion metrics alone cannot assess overall clinical competence in obstetric ultrasound](motion-metrics-insufficient-for-clinical-competence.md) — related
+- [Novice educators are described as relying on standard instructions and focusing on tasks rather than taking a holistic view of the patient, limiting their ability to individualize education](novice-educators-task-focus-rely-on-standard-instructions.md) — related

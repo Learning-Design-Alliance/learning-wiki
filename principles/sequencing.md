@@ -235,6 +235,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Emergence theory as a framework for teaching compromise skills](../designs/emergence-theory-curriculum-framework.md)
 - [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
 - [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](../strategies/foundational-to-complex-microaggression-sequencing.md)
+- [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](../strategies/graduated-complexity-educator-development-sequence.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

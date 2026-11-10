@@ -48,6 +48,7 @@ The authors recommend implementing the SDM EPAs in existing competency-based wor
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Improve prescribing skills through simulated-patient role-play, real supervised prescriptions, constructive alignment and a final prescribing assessment](simulated-real-prescribing-practice-strategy.md)
 - [Include a directly-observed clinic-based assessment of the bHIT as a specific component of EPAs for evaluating dizzy patients](direct-bhit-assessment-in-epas-strategy.md)
+- [Supervisor modelling of pharmacological reasoning with patient-pertinent questions between meetings](supervisor-modelling-psychotropic-reasoning.md)
 
 ## Examples
 -

@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 119 claims (77 for, 39 mixed, 3 against) · 84 studies (43 causal, 14 quant-synthesis, 10 associational, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 19 of 84 report an effect size · 117 claims rest on one study
+> **Evidence** · 122 claims (79 for, 40 mixed, 3 against) · 86 studies (44 causal, 14 quant-synthesis, 11 associational, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 20 of 86 report an effect size · 120 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Blended learning (animated e-learning video plus structured face-to-face training) reduced OASIS incidence by 74% versus baseline and by 52% versus e-learning alone](../claims/blended-learning-reduced-oasis-74-percent.md) [+W] — attached 2026-11-09 from Ali-Masri Hadil et al. (2018), which proposed "Use blended learning rather than stand-alone e-learning when training clinical skills whose effect must generalize across learner subgroups"; tests this page's relationship.
 - [Degree of pre-test to post-test score increment did not differ significantly between blended learning and face-to-face arms for emergency airway management training](../claims/bl-noninferior-score-increment-vs-f2fl-airway.md) [~W] — attached 2026-11-09 from Kho Madeleine Huei Tze et al. (2018), which proposed "Blended learning can substitute part of face-to-face skill-based training when combined with an identical hands-on simulation session"; tests this page's relationship.
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](../claims/physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) [+W] — attached 2026-11-09 from Gardner P et al. (2016), which proposed "Blend online e-learning with face-to-face formats rather than replacing lectures entirely in pre-licensure health education".
+- [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](../claims/blended-higher-final-statistics-score.md) [+M] — attached 2026-11-09 from Milic Natasa M. et al. (2016), which proposed "Blended statistics course pattern combining reduced classroom hours with online materials, forums, and identical assessment".
+- [Blended learning students scored higher on the statistics knowledge test than on-site students (d = 0.28)](../claims/blended-higher-knowledge-test-score.md) [+M] — attached 2026-11-09 from Milic Natasa M. et al. (2016), which proposed "Blended statistics course pattern combining reduced classroom hours with online materials, forums, and identical assessment".
+- [Blended learning remains more cost-effective to operate only up to staffing levels 20% higher than face-to-face delivery](../claims/bl-cost-effective-up-to-20-percent-higher-staffing.md) [~W] — attached 2026-11-09 from Maloney S et al. (2015), which proposed "Design blended learning models around staff time, the most significant cost driver of cost-effectiveness".
 
 ## Illustrative design instance and observation record
 

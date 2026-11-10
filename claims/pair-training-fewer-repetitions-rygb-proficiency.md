@@ -53,3 +53,4 @@ Two-arm randomized-controlled trial of 60 medical students randomized to pair tr
 - [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related
 - [Instructor feedback during VR laparoscopy training reduced time and repetitions to proficiency, but the no-feedback group achieved a higher final performance score](instructor-feedback-vr-training-mixed-effects.md) — related
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [Learners self-rated trainers' feedback as more valuable after repeated practice than after the first independent performance, in pre-post assessments within each group](feedback-valued-more-after-repeated-practice.md) — related

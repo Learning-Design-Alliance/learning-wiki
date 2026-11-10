@@ -85,3 +85,7 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Virtual Patient participants more frequently acknowledged the clinical relevance of the trauma case than lecture participants in open-ended appraisals](vp-group-more-clinical-relevance-acknowledged.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
 - [Free-text comments showed pre-programme lack of exposure to genital examinations (especially male) and post-programme positive experience, with comments about tutor quality and the experience](free-text-themes-exposure-and-tutor-quality.md) — related
+- [Facilitated post-scenario debrief was the key agent supporting both clinical and non-clinical skill learning in the simulation programme](debrief-key-behaviour-change-agent.md) — related
+- [Qualitative analysis of open-ended responses identified four themes in nursing students' perceptions of the IPSE experience: communication, role awareness, a better way of learning, and future IPSE](ipse-open-ended-four-themes.md) — related
+- [Free-text comments in the Japanese SPRAT cluster into seven themes of strengths and weaknesses](japanese-sprat-free-text-seven-themes.md) — related
+- [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related

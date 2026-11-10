@@ -54,3 +54,4 @@ Single-center randomized superiority trial; 39 medical students randomized 1:1 t
 - [HSRT distributed training over more days (7 ± 3 vs 2 ± 0) with no significant difference in total training time](hsrt-distributed-training-more-days.md) — related
 - [Mass and spaced learning groups show no significant difference in time taken to complete the 1-month test strip](no-difference-test-strip-time-mass-vs-spaced.md) — related
 - [Shorter CPR training intervals yield faster skill acquisition: daily training outperforms quarterly by session 4](shorter-cpr-intervals-faster-acquisition.md) — related
+- [A non-significant trend showed a longer interval from traditional training to block performance in the simulation group than the control group](longer-training-to-block-interval-simulation-group-trend.md) — related

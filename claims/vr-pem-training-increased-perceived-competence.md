@@ -52,3 +52,4 @@ Pilot pre-post study of 45 last-year medical and nursing students at the Univers
 - [Self-readiness to manage each of five emergency neurology scenarios increases significantly after simulation training](sbme-scenario-specific-readiness-gains.md) — related
 - [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related
 - [Participation in the simulation-based CVC training session significantly increased learner confidence in CVC placement](sim-cvc-training-increased-confidence.md) — related
+- [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — related

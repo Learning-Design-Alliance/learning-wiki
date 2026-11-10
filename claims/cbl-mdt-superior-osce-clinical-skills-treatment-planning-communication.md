@@ -85,3 +85,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Volunteer simulated patient communication skills training produced higher total OSCE scores than student roleplay training among second-year medical students](volunteer-sp-cst-higher-osce-total-than-roleplay.md) — related
 - [The ward-based course's largest effect is on practical OSCE tasks involving patient interaction, rather than theoretical paper-case tasks](ward-based-course-largest-effect-practical-osce-tasks.md) — related
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related
+- [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related

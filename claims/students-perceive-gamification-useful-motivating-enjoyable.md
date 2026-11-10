@@ -54,3 +54,5 @@ End-of-semester survey of students in the gamified course. "Seventy-two percent 
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
 - [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](students-perceive-games-enjoyable-effective.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
+- [First-year medical students largely perceived gamified TurningPoint ARS games as engaging and as an effective learning tool in medical microbiology lectures.](gamified-ars-games-engaging-learning-medical-students.md) — related
+- [Peer competition and focus on the activity were the most highly rated engagement aspects of gamified TP ARS games, with most flow-related prompts endorsed by at least 85% of respondents.](peer-competition-focus-top-engagement-aspects.md) — related

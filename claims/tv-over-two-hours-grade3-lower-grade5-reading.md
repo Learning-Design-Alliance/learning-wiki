@@ -52,3 +52,4 @@ Longitudinal analysis of the CATS cohort (1239 children, multiple imputation), u
 - [Videogame use showed no association with reading or numeracy performance in late childhood](videogame-use-no-reading-numeracy-association.md) — related
 - [Screen-based weekend sedentary behavior of 6 or more hours per day is associated with lower academic performance than less than 3 hours per day](weekend-screen-sb-six-hours-lower-academic-performance.md) — related
 - [Screen time of two or more hours per weekday is independently associated with low academic performance](screen-time-two-hours-associated-low-academic-performance.md) — related
+- [Each additional hour of self-reported screen time at 14.5y is associated with 9.3 fewer GCSE points at 16y](screen-time-negative-gcse-points.md) — related

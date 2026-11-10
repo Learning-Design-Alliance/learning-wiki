@@ -75,3 +75,4 @@ Experiment 2 mixed-factor ANOVA, F(1,63) = 96.2, p < .001; schedule main effect 
 - [Repeating a single demonstration produces more learning than an equivalent number of different demonstrations](single-demonstration-repetition-film-learning.md) — related
 - [Cue-integration learning strongly improves recall of a 50-item word list, including cued delayed recall (Experiment 3)](cue-integration-improves-word-list-recall-exp3.md) — related
 - [Correct retrievals were faster and more accurate than restudied-only items at final test, but response speed did not differ between one and two prior tests](rt-advantage-prior-retrieval.md) — related
+- [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — related

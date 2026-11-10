@@ -52,3 +52,4 @@ Face validation survey of 30 junior surgical residents after a hands-on laparosc
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
 - [Participants rate both digital and in-person laparoscopy training positively and similarly, but a majority across both groups would still prefer to be trained in-person](training-modality-satisfaction-high-preference-in-person.md) — related
 - [Skilled endoscopists rated the cadaver model's realism favorably on 19 of 22 survey items, with technical difficulty comparable to living-patient colonoscopy](rhccs-face-validity-realism.md) — related
+- [Residents prefer to practice certain procedures on simulation models first, especially in endourology and laparoscopy](residents-prefer-simulation-first-endourology.md) — related

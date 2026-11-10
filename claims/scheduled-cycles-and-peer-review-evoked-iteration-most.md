@@ -70,3 +70,4 @@ Same log-file criteria applied to the day-four interventions: the resources e-ma
 - [Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)](peer-review-rated-above-chat-sessions.md) — related
 - [Mailing students the low-cost Bluetooth robot in the online How to Train Your Robot workshop increased excitement about the topic and aided understanding of computational ideas](robot-component-engagement-online-ai-workshop.md) — related
 - [After-school moderated chat sessions enable scaffolded problem-solving discussion beyond classroom hours](after-school-chat-sessions-scaffold-problem-solving.md) — related
+- [Participant-initiated interaction with the R@W program was limited, with 10.7% of participants e-mailing weekly and 26.6% joining chat sessions](raw-low-participant-initiated-interaction.md) — related

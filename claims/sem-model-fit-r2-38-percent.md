@@ -52,3 +52,4 @@ Fit evaluation of the full structural model in the 398-respondent dataset; the a
 - [The models' moderate R² (about 0.38) indicates substantial unexplained variance in academic performance, attributed to absent psychosocial, behavioral and contextual factors](moderate-r2-unexplained-variance-psychosocial-factors.md) — possibly the same claim (merge candidate)
 - [Social support explains 14% of variance in self-efficacy and, with self-efficacy, 26% in learning engagement; the full model explains 47% of variance in academic performance](variance-explained-structural-model-social-support.md) — related
 - [The mediation models fit well and explain 22% of variance in extra training and 37% in academic performance](mediation-model-fit-variance.md) — related
+- [The supervisory-styles model explains 26% of variance in trainee doctors' talent development](model-explains-26-percent-variance-talent-development.md) — related

@@ -67,6 +67,7 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
 - [Promote student accountability for team answers through simultaneous report and individual random call](simultaneous-report-and-random-call-accountability-strategy.md)
+- [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

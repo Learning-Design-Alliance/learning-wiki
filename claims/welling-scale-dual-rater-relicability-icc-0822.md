@@ -56,3 +56,4 @@ Reliability/agreement analysis reported in the statistical analysis and Table II
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
+- [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related

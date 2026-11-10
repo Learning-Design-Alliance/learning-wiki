@@ -42,6 +42,7 @@ The article recommends that government, schools, and families jointly intervene 
 - [Assign a counselor/mentor who continuously monitors students and coordinates multi-context support](alas-counselor-mentor-monitoring-strategy.md)
 - [Facilitate dual careers among young elite athletes through coordinated support from institutions, staff and families](dual-career-support-young-elite-athletes.md)
 - [Regularly evaluate parent councils through surveys and feedback, supported by a family engagement coordinator](evaluate-parent-councils-surveys-coordinator.md)
+- [Promote physical activity through a multilevel approach combining school, family and community interventions with policy and environmental changes](multilevel-physical-activity-promotion.md)
 
 ## Examples
 -

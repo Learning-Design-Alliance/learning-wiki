@@ -49,3 +49,4 @@ Qualitative findings from the think-aloud pilot with two students. Unfamiliarity
 ## Related Claims
 - [Think-aloud pilot of the hygiene SJT with two medical students shows the test principle is understandable and feasible](hygiene-sjt-pilot-think-aloud-feasible.md) — related
 - [Most SJT items (36 of 50 by the article's own table; the text says 76%) fall within the difficulty range deemed appropriate for a good test question (0.30-0.80)](sjt-items-76-percent-appropriate-difficulty-index.md) — related
+- [Candidates reported difficulty completing the SJT within time limits and interpreting ambiguous questions, particularly when English was not their first language](sjt-time-and-ambiguity-difficulties.md) — related

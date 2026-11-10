@@ -50,6 +50,7 @@ The article recommends that in paediatric surgery, "where case volumes may be li
 - [Deploy LLM-driven virtual patients for scalable, standardized deliberate practice of psychiatric interviews](llm-virtual-patients-scalable-deliberate-practice.md)
 - [Establish formalised two-consultant co-operation with strictly alternating operator and assistant roles to maintain complex-procedure skills in low-volume settings](dual-surgeon-alternating-roles-strategy.md)
 - [Use simulation, case-based learning and hospital partnerships to increase practical DMT training exposure](simulation-cbl-hospital-partnerships-dmt-training.md)
+- [Use simulation technologies and skills labs to accelerate learning when operative exposure is reduced](simulation-skills-labs-reduced-operative-exposure.md)
 
 ## Examples
 -

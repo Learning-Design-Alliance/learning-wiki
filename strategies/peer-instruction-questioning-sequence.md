@@ -46,6 +46,7 @@ Peer Instruction restructures lecture so short presentations on key points are e
 - [Peer Instruction](peer-instruction.md)
 - [Clicker Questions](clicker-questions.md)
 - [Classroom Response Systems](classroom-response-systems.md)
+- [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 
 ## Examples
 -

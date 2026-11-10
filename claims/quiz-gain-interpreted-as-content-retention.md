@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion: because the identical quizzes were no
 - [Post-session quiz scores were significantly higher than pre-session quiz scores in all five analyzed anatomy workshops](anatomy-workshops-raise-post-quiz-scores.md) — related
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — a broader claim this one bears on
+- [Medical students using spaced study followed by quizzing achieved significantly higher recall accuracy than quiz-only students in sessions s1 and s2](study-quiz-group-higher-recall-accuracy.md) — related

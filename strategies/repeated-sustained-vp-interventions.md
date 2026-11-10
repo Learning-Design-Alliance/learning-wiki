@@ -44,6 +44,7 @@ The review recommends moving beyond single-session delivery toward repeated and 
 ## Related Strategies
 
 - [Improve security training efficacy through more hands-on, repeated, and systematically exposed training rather than one-off awareness videos](repeated-hands-on-security-training-strategy.md)
+- [Schedule repeated virtual patient training sessions to achieve sustainable knowledge effects](repeated-vp-sessions-sustainability.md)
 
 ## Examples
 -

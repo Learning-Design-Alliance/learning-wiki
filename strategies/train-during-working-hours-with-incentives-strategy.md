@@ -49,6 +49,7 @@ Based on the trial's finding that motivation was poor in both settings, the auth
 - [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
 - [Incorporate dedicated simulation learning centers within active hospital environments for accessible, distanced skills practice](dedicated-in-hospital-simulation-learning-centers.md)
 - [Implementation tips for ICM instruction: preparation materials, incentives, assessment, structure, no repetition, learning groups, iterative feedback and easy-access technology](icm-implementation-tips-strategy.md)
+- [Schedule practical skills training as mandatory, structured sessions rather than voluntary participation](mandatory-structured-scheduling-skills-training.md)
 
 ## Examples
 -

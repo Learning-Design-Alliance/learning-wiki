@@ -53,3 +53,4 @@ Student attitude survey data reported in the article alongside the experimental 
 - [Children showed high engagement and enjoyment of MIXER, with nearly 90% wanting to use it again](mixer-high-engagement-enjoyment.md) — related
 - [Most students held favorable attitudes toward pictorial-aids instruction](positive-student-attitudes-pictorial-aids.md) — related
 - [Almost all participants (97%) reported they would want to use the cognitive aid during a real medical crisis](high-acceptance-of-resuscitation-cognitive-aid.md) — related
+- [100% of participants found the clinical assessment tools useful and 90% would use them again](assessment-tools-useful-would-reuse.md) — related

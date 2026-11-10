@@ -53,3 +53,4 @@ Pearson correlation analysis in the portfolio study of 105 students found "none 
 - [Self-esteem, empathy and self-assessed OSCE success showed no significant intergroup differences and did not correlate with OSCE success](null-self-esteem-empathy-self-assessment.md) — related
 - [Post-course ML self-efficacy was moderately correlated with performance on an objective ML knowledge exam](self-efficacy-correlated-with-knowledge-exam.md) — related
 - [Neither the classroom accountability component nor volunteer rate was significantly associated with student exam scores](no-association-practices-exam-scores.md) — related
+- [Qualification year shows no association with basic life support or physical examination station performance in either group](no-qualification-year-effect-bls-physical-exam.md) — related

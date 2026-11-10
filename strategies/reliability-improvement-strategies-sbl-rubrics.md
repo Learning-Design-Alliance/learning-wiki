@@ -57,6 +57,7 @@ The article recommends concrete tactics for raising the reliability of simulatio
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 - [Improve assessment reliability by training raters, screening video quality, and adding a not-applicable response option](pocus-assessment-reliability-improvement-strategies.md)
 - [Use one T-NOTECHS rater for routine quality assessment and three raters for research or quality improvement analyses](tnotechs-rater-count-by-purpose-strategy.md)
+- [Use the ICAR within a multi-source feedback process to provide formative feedback to residents on collaborator competencies](icar-msf-formative-feedback-strategy.md)
 
 ## Examples
 -

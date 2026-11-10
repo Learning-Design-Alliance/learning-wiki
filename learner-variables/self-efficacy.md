@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 354 claims (268 show a difference, 47 mixed, 39 no difference) · 280 studies (95 causal, 90 associational, 33 review, 26 qualitative, 18 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 58 of 280 report an effect size · 350 claims rest on one study
+> **Evidence** · 355 claims (269 show a difference, 47 mixed, 39 no difference) · 281 studies (95 causal, 90 associational, 33 review, 26 qualitative, 18 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 281 report an effect size · 351 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -385,6 +385,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Lay health workers reported improved clinical skills — patient-provider relationships, patient education, follow-up — plus increased confidence and satisfaction with their work](../claims/lhw-reported-clinical-skill-gains-confidence.md) [+M] — measured as an outcome of the instruction studied
 - [Participants reported learning outcomes of awareness of performance, improved attitudes towards the guideline, and increased self-efficacy beliefs](../claims/pa-learning-outcomes-awareness-attitudes-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 - [Students report PAL improved confidence, feedback ability, and teaching, clinical and communication skills (95–100% agreement)](../claims/pal-improved-confidence-feedback-teaching-skills.md) [+M] — measured as an outcome of the instruction studied
+- [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](../claims/negative-feedback-may-worsen-low-self-efficacy.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

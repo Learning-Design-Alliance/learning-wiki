@@ -56,3 +56,5 @@ Randomized controlled trial of 118 Paris Descartes medical students randomized t
 - [Simulator-based teaching improved scores on all three evaluation parts: coronary anatomy, angiographic projections, and real-case interpretation](simulator-teaching-improved-all-three-test-parts.md) — related
 - [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](im-vs-pps-no-difference-in-gains.md) — related
 - [Interns learning blood cell morphology with an interactive multimedia eBook achieved significantly better post-test scores than interns learning with a traditional PowerPoint atlas](ime-ebook-better-posttest-than-powerpoint.md) — related
+- [Experts judge the web-based simulator superior or equivalent to atlas/lecture-based otoscopy teaching across four domains](ototrain-superior-to-atlas-lecture-expert-ratings.md) — related
+- [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — reports the opposite

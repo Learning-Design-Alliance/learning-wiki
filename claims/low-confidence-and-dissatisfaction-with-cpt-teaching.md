@@ -54,3 +54,4 @@ Standardized questionnaire on attitudes administered to 895 final‐year student
 - [After quiz implementation, students reported lower agreement with feeling prepared for prescribing and mixed changes in prescribing confidence](confidence-changes-after-quiz-implementation.md) — related
 - [Students who wrote more than 10 prescriptions as undergraduates and those with higher prescribing confidence had significantly lower rates of inappropriate drug prescribing](prescribing-experience-and-confidence-reduce-errors.md) — related
 - [Final-year students lack pharmacovigilance competencies, particularly knowledge of adverse drug reaction reporting](students-lack-pharmacovigilance-competencies.md) — related
+- [Most medical students find it difficult to question authority, worry about disciplinary action for errors, and few feel able to approach someone practising unsafely](students-speak-up-barriers-authority-discipline.md) — related

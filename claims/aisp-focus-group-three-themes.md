@@ -71,3 +71,4 @@ Descriptive thematic analysis of focus group discussions conducted after the pos
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
 - [Qualitative responses reveal students' difficulty feeling compassion despite showing empathic behaviour after communication skills training](difficulty-feeling-compassion-despite-empathic-behaviour.md) — related
 - [Qualitative feedback identified challenge, realism, clinical value, educator value, absence of context and physical environment as themes, with the virtual patient seen as more challenging but yielding similar benefit](qualitative-themes-placement-experience.md) — related
+- [Facilitated post-scenario debrief was the key agent supporting both clinical and non-clinical skill learning in the simulation programme](debrief-key-behaviour-change-agent.md) — related

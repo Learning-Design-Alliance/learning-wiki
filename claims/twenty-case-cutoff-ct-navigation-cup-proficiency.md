@@ -51,3 +51,4 @@ ROC analysis of inclination outliers in 5-case increments across the trainee's 1
 - [After 20 cases, the trainee's cup placement accuracy is comparable to that of an expert surgeon](trainee-accuracy-comparable-to-expert-after-20-cases.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [GOALS score effectively identifies ESSQ qualification status with high sensitivity and specificity across all three tasks](goals-score-identifies-essq-qualification-status.md) — related
+- [ROC analysis identifies preliminary best cut points distinguishing competent from non-competent clinicians, with the 24-item set showing the highest AUC (0.972)](roc-cut-points-therapist-competence.md) — related

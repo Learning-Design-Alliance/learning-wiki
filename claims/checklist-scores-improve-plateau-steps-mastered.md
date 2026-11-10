@@ -67,3 +67,4 @@ Step-by-step pass rates plotted across sessions showed that "All the steps excep
 - [Time needed to catch the stone in the basket shows no significant improvement across the six ureterorenoscopy simulation sessions](basket-stone-retrieval-time-no-improvement.md) — related
 - [OSATS-assessed technical skill improves over six repeated high-fidelity ureterorenoscopy simulation sessions with evidence of plateauing in both tasks](osats-improves-plateau-six-sessions-ureterorenoscopy.md) — related
 - [Offline haptic VR practice scores improved across six weekly sessions, with several procedural items reaching a plateau after 2 to 4 practice sessions](offline-haptic-practice-plateau-two-to-four-sessions.md) — related
+- [All students completed the five-step ureteral stent insertion and removal checklist correctly regardless of training group](all-students-completed-five-step-checklist.md) — related

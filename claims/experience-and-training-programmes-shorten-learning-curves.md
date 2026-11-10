@@ -83,4 +83,5 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [Participants with previous AR experience show significantly lower training times for procedure 2, but the authors judge prior experience negligible overall](prior-ar-experience-lower-p2-training-time.md) — related
 - [Prior laparoscopic surgery experience predicted better performance in the second and third training blocks, though based on only four experienced subjects](prior-laparoscopic-experience-better-early-blocks.md) — a narrower finding that bears on this claim
 - [Greater ease of training is associated with shorter total SCIG training time and shorter preparation duration](ease-of-training-associated-with-shorter-training-and-preparation-times.md) — related
+- [Prior published studies report SILC learning curves ranging from 5 to 75 cases, without differentiating surgeons by prior training or experience](prior-silc-learning-curve-5-to-75-cases.md) — related
 

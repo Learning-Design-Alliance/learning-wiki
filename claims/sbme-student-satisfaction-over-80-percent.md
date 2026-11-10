@@ -49,3 +49,4 @@ Online feedback survey (20 items, 1–5 scale) completed by 331 of the 334 SBME-
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related

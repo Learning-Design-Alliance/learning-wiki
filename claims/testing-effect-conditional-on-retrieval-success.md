@@ -88,3 +88,4 @@ Pairwise comparison at Phase 4 between the two tested conditions in the same con
 - [Retrieval practice with feedback improves 24-hour cued recall more than restudy, and high semantic relatedness raises overall accuracy, but the Training Task × Relatedness ANOVA interaction is non-significant](testing-effect-robust-relatedness-anova-interaction-null.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Adding corrective feedback to weekend quizzes improved student performance on identical summative examination items between the first and second course iterations](quiz-feedback-improved-exam-item-performance.md) — a narrower finding that bears on this claim

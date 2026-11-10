@@ -54,3 +54,4 @@ Negative binomial regression of Millennium Cohort Study data tested age-11 seden
 - [Doing homework at age 11 was reported as predictive of poorer mathematics ability at age 17 among female participants](homework-age-11-poorer-math-females.md) — related
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — a broader claim this one bears on
+- [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related

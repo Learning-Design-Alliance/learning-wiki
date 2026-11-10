@@ -60,3 +60,4 @@ Correlation analysis of the four study variables in the 221-participant sample. 
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](homework-tutoring-physical-activity-control-findings.md) — related
 - [Children's psychological well-being (WHO-5 index) was similar between the physical activity and control groups at baseline and after 1 academic year](well-being-similar-physical-activity-trial.md) — related
+- [Time spent on homework is negatively associated with academic performance, while attending extracurricular activities is positively associated](homework-time-negative-extracurricular-positive-aps.md) — related

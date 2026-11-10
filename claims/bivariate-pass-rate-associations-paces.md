@@ -53,3 +53,4 @@ Descriptive bivariate analysis of 6820 candidates with complete data, of whom ju
 - [Female doctors are more likely than male doctors to pass PACES at first attempt after adjusting for ethnicity](female-doctors-more-likely-pass-paces-first-attempt.md) — related
 - [Group-level performance differences between white vs non-white and male vs female UK graduates cannot be explained by a subset of unfair questions](group-differences-not-explained-by-unfair-questions.md) — related
 - [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related
+- [BME candidates performed less well than White candidates on all five assessments (P < .001)](bme-candidates-underperform-all-five-assessments.md) — related

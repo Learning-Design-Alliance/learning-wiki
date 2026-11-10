@@ -53,3 +53,4 @@ Individual-question analysis of questionnaire ratings on the upside-down needle 
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [Participants rated the eoSim positively on realism, didactic value and usability, supporting face and content validity, with no overall differences between expertise groups](eosim-face-content-validity-ratings.md) — reports the opposite
 - [The upside-down needle transfer task differentiates expertise groups on time, distance, off-screen percentage and working area](eosim-task2-construct-validity.md) — related
+- [Simulator scores show a significant effect of training level, driven by year 1 medical students scoring lower than all other groups](dka-simulator-training-level-effect.md) — related

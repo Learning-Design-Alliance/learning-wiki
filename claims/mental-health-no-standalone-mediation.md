@@ -51,3 +51,4 @@ In the same longitudinal mediation analysis, the mental-health-only indirect eff
 - [Academic performance improved significantly over the one-year interval while mental health scores showed no significant change](academic-gains-stable-mental-health-over-year.md) — related
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](correlations-activity-distress-cognition-academics.md) — related
 - [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](homework-tutoring-physical-activity-control-findings.md) — related
+- [Time spent on homework is negatively associated with academic performance, while attending extracurricular activities is positively associated](homework-time-negative-extracurricular-positive-aps.md) — related

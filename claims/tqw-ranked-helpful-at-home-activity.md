@@ -68,3 +68,4 @@ Survey item asking which portion of the assignment was most helpful; distributio
 - [The TQ section showed a larger raw increase in biology interest during the semester, but normalized interest gains did not differ significantly between sections](tq-interest-gain-raw-not-normalized.md) — related
 - [The exam benefit of the TQ assignment was significant only for low-transition reasoners, with no significant interaction between reasoning ability and treatment](tq-benefit-low-transition-reasoners.md) — related
 - [The number of questions a student asked during TQ sessions significantly predicted final exam performance above reasoning ability and attendance](questions-asked-predict-final-exam.md) — related
+- [Students in both conditions rank in-class instructor-facilitated activities as more influential to learning than at-home work, regardless of phase](in-class-activities-ranked-more-influential-both-conditions.md) — related

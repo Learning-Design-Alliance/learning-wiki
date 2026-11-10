@@ -49,3 +49,4 @@ Between-group comparison of change scores in Table 1 of the seminar study; the p
 - [Delirium knowledge questionnaire scores rose from pre-test to post-test in both the live-scene and video groups, with large pre-post effect sizes](live-scene-and-video-groups-improve-delirium-knowledge-large-es.md) — related
 - [Students rated the live scene as more useful for learning than the video (9.04 vs 8.21, p = 0.001)](live-scene-rated-more-useful-than-video.md) — related
 - [Live-scene students scored slightly higher than video students, significantly only on the overall questionnaire](scene-group-slightly-higher-scores-than-video-group.md) — related
+- [Baseline knowledge and self-rated perception did not differ between groups before the interventions](als-baseline-groups-equivalent.md) — related

@@ -49,3 +49,4 @@ The editorial reports, citing Baerwald's 1916 study of motor imagery, that findi
 - [Musical people react more by involuntary movements to unexpected stimuli, but strongly motor individuals are as common among non-musical as musical people](motor-individuals-equally-common-musical-nonmusical.md) — possibly the same claim (merge candidate)
 - The editorial argues that fundamental questions about teaching music should be settled by controlled experiment rather than by trial and error. — a broader claim this one bears on
 - [Judd argued that mental tests aimed at concrete products rather than processes of mental development have proven futile for education](judd-processes-not-products-in-measurement.md) — related
+- [Motor performance experience shows a non-significant negative effect on first-OSCE results (effect size −0.11)](motor-activities-non-significant-negative-effect-osce.md) — related

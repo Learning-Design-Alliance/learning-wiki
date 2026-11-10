@@ -72,3 +72,4 @@ Same observational cohort analysis of NCEA Level 3 subject credits. For example,
 - [Māori and Pacific students achieved significantly lower first-year academic outcomes than nMnP students](maori-pacific-lower-first-year-outcomes.md) — related
 - [Māori and Pacific students achieved significantly lower programme-level outcomes, including graduation and year 2–4 GPA](maori-pacific-lower-programme-outcomes.md) — related
 - [NCEA Rank Score is the most significant predictor of first-year GPA and of passing all courses for Māori and Pacific health students](ncea-rank-score-predicts-first-year-outcomes.md) — related
+- [Most MAPAS interviewees fall 40–80 credits below guaranteed FMHS degree-entry requirements, raising concerns about secondary preparation of Māori and Pacific students](mapas-cohort-below-guaranteed-entry-requirements.md) — related

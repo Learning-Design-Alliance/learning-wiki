@@ -42,7 +42,8 @@ The authors' design recommendation from the study: educational training for SBL 
 - [Trainers regard building trust as an underlying principle for SBL, operating at trainer-trainee, trainee-trainee, and trainer-trainer levels](../claims/building-trust-underlying-principle-sbl.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Make target behaviours and change mechanisms explicit in simulation debriefing design](explicit-target-behaviours-debrief-design.md)
 
 ## Examples
 -

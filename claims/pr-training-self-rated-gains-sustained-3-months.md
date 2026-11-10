@@ -81,3 +81,5 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Pilot DVA/CS training increased general practice clinicians' confidence and self-efficacy, sustained at 3-month follow up](responds-training-increased-confidence-self-efficacy.md) — related
 - [Pilot DVA and child safeguarding training increased general practice clinicians' knowledge of DVA and CS, with gains sustained at 3-month follow up](responds-training-increased-knowledge-sustained.md) — related
 - [Implementing a structured weight management programme in practice increased GPs' confidence and self-efficacy for managing obesity](structured-programme-increased-gp-confidence-self-efficacy-obesity.md) — related
+- [Confidence gains from data linkage ethics training persist 8-17 months after the workshop for the majority of respondents](deferred-survey-confidence-gains-persist.md) — related
+- [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related

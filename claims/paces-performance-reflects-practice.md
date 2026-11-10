@@ -47,3 +47,5 @@ Authors' interpretive claim in the discussion, citing a study comparing MRCP (UK
 
 ## Related Claims
 - [The article reports that female doctors' better clinical examination performance may relate to communication style, values, examiner bias, and language or selection factors, with none fully confirmed](hypothesised-explanations-for-sex-difference.md) — related
+- [Knowledge tests correlate better with knowledge tests and clinical tests with clinical tests across the two examination systems](congruent-component-correlations-mrcgp-mrcp.md) — related
+- [Performance on MRCGP and MRCP(UK) is highly correlated, with disattenuated correlations of .748 and .698 between the knowledge examinations and .636 between the clinical examinations](mr-cgp-mrcp-uk-high-correlations-validity.md) — related

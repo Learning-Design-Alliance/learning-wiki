@@ -50,3 +50,4 @@ Multilevel moderation analysis probing simple slopes at VIQ 85 and 115 in the CR
 - [SCI-A and BAU showed no significant differences on most SRS-2 subscales at postintervention, with BAU significantly better on Social Cognition (d = 0.31)](sci-a-bau-no-main-effect-srs2.md) — related
 - [SCI-A classrooms delivered significantly more core social content and evidence-based instructional practices than BAU settings, which spent most time in nonsocial instruction](sci-a-fidelity-exceeds-bau-instruction.md) — related
 - [The VIQ–NVIQ discrepancy moderated SCI-A response: students with VIQ at least 11 points below NVIQ showed large positive effects, while those with VIQ above NVIQ showed large negative effects](viq-nviq-split-moderates-sci-a-response.md) — related
+- [Students with lower GPA benefited from blended learning on final scores, while high-GPA students did not differ by format](gpa-moderates-blended-learning-benefit.md) — related

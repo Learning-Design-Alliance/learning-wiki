@@ -77,12 +77,14 @@ The strategy rests on the social-psychological finding that pluralistic ignoranc
 7. **Re-survey and iterate.** Assess whether perceptions and behaviors shifted; retire messages that audiences discount.
 
 ## Related Strategies
+
 - Personalized Normative Feedback — the individualized variant; stronger evidence base than mass-media campaigns
 - Peer Leader Programs — peer messengers increase perceived credibility of normative data
 - Belonging Interventions — shares the mechanism of correcting misperceptions about the social environment
 - [Personalized Normative Feedback](personalized_normative_feedback.md) — the individualized variant with the strongest evidence
 - [Belonging Interventions](belonging-interventions.md) — same social-perception mechanism applied to academic identity
 - [Public Commitment](public_commitment.md) — complementary: visible peer behavior creates the norms the campaign publicizes
+- [Withhold peer-comparison feedback until a significant percentage of the group has achieved high performance, to accommodate social pressure](withhold-peer-comparison-until-group-performance-high.md)
 
 ## Examples
 - **Northern Illinois University** — the landmark social norms alcohol campaign (1990s) reported sustained reductions in heavy drinking through repeated "most students drink moderately" messaging ([http://www.socialnorms.org](http://www.socialnorms.org), archived).

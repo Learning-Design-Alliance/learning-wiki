@@ -50,3 +50,4 @@ Agreement analysis of the AI algorithm against expert evaluators from the LAPP d
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](ai-moderate-agreement-bean-drop-assessment.md) — related
 - [Inter-rater agreement between the two senior surgeon assessors on stage-one pass-or-fail decisions reached 100%](stals-tablt-inter-rater-agreement-100-percent.md) — related
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — a broader claim this one bears on
+- [Flashcard G-coefficient indicated almost perfect agreement (91%) in the quiz group but only moderate agreement (47%) in the study-quiz group](flashcard-g-coefficient-agreement.md) — related

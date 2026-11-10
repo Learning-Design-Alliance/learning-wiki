@@ -56,3 +56,4 @@ McNemar tests comparing post-test and retention-test benchmark attainment in the
 - [Retention of clinical reasoning skills one month after the exercise does not differ between virtual-patient and standardized-patient training, though scores slightly decline from posttest](vp-sp-retention-one-month-no-difference.md) — related
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — a narrower finding that bears on this claim
 - [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — possibly the same claim (merge candidate)
+- [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related

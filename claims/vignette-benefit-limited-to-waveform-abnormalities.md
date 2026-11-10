@@ -49,3 +49,4 @@ Subgroup analyses of the within-participant test comparisons, split by arrhythmi
 - [Exposure to core ECG conditions during clinical training depends on trainee level: 52% of conditions for junior students, 63.4% for senior students, 96.9% for residents](ecg-exposure-depends-on-training-level.md) — related
 - [Prior clinical exposure to a condition predicts correct ECG diagnosis, with or without a case vignette (OR 1.46 and 1.58)](prior-exposure-predicts-ecg-diagnostic-accuracy.md) — related
 - [ECG diagnostic accuracy scores rose from Test 1 to Test 2 with case vignettes in one uncontrolled pre-post study: residents (d = 0.59) more than senior (d = 0.38) or junior students (d = 0.29)](vignette-gains-increase-with-training-level.md) — related
+- [Junior students retain more ECG interpretation skill gain than senior students when measured against baseline](junior-students-greater-pre-to-retention-gain.md) — related

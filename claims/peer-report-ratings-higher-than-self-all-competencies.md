@@ -51,3 +51,4 @@ Paired t-tests comparing self-assessment with individual colleague assessments i
 - [Trainees who overestimated themselves were rated less competent by the expert](overestimators-rated-less-competent.md) — related
 - [Healthcare professionals who rate themselves as very knowledgeable tend to overestimate their actual Alzheimer's disease knowledge](self-rated-ad-knowledge-overestimation.md) — related
 - [Middle-level health service managers in Victorian hospitals and community health services demonstrate managerial competence, with mean self- and colleague-assessed competency scores above five on the 7-point MCAP scale](victorian-hsm-mean-competency-scores-above-five.md) — related
+- [Self-ratings are more generous than peer ratings for positive behaviours and less generous for negative behaviours, while the two peer raters agree in absolute means](self-ratings-more-generous-than-peer-ratings.md) — reports the opposite

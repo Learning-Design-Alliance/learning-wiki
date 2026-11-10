@@ -49,3 +49,4 @@ Observational analysis of de-identified program evaluation records from 67 first
 - [PLTS attendees and non-attendees were comparable on MCAT scores, first-generation status, and socioeconomic background before both examinations](plts-groups-comparable-mcat-demographics.md) — related
 - [The authors interpret the diminishing PLTS effect as reflecting greater use of diverse external study resources and students' adaptation to medical school](plts-effect-wanes-as-students-adapt.md) — related
 - [Both systems share a two-year basic-science phase before clinical training and standardized board examinations, enabling away rotations](shared-basic-science-phase-and-board-exams.md) — related
+- [More SDL sessions attended was associated with higher OSCE performance only for first-year basic life support and second-year phlebotomy](sdl-session-count-correlations-bls-phlebotomy.md) — related

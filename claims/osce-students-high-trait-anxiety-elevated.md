@@ -49,3 +49,4 @@ Quantitative comparison in a concurrent mixed-methods study of 32 third-semester
 - [Neither physiological stress nor self-reported anxiety correlated with physical therapy students' OSCE scores](osce-stress-anxiety-not-correlated-with-scores.md) — related
 - [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
+- [Medical students in both cohorts reported perceived stress above population norms for a similar age group](medical-students-stress-above-norms.md) — related

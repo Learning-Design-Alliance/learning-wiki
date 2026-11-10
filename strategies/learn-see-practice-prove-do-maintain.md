@@ -44,7 +44,8 @@ The article describes a six-step approach developed by Sawyer et al. (2016) comb
 - [Stepped teaching models enhance acquisition of simple procedural skills but may have limited utility for complex skills](../claims/stepped-models-simple-vs-complex-skills.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use web-based learning as an on-demand reinforcing agent to maintain newly acquired ECG skills](wbl-on-demand-reinforcement-strategy.md)
 
 ## Examples
 -

@@ -83,3 +83,4 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [NASA-TLX workload was moderately correlated with total time spent on robotic tasks](nasa-tlx-workload-correlates-task-time.md) — related
 - [Subjective mental workload (NASA-TLX) declines continually across repeated ureterorenoscopy simulation sessions without plateauing in both tasks](mental-workload-declines-without-plateau-repeated-simulation.md) — a narrower finding that bears on this claim
 - [Participants report improved self-confidence after repeated simulation training, consistent with their NASA-TLX workload ratings](self-confidence-improves-with-repeated-training.md) — related
+- [Perceived cognitive workload decreases over the training in both feedback groups without between-group differences](workload-decreases-over-training-both-groups.md) — a narrower finding that bears on this claim

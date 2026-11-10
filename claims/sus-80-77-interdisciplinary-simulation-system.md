@@ -54,3 +54,4 @@ Modified SUS questionnaire interviews with 71 fourth-year clinical medical stude
 - [The Ethics Quarter e-learning intervention achieves good usability among nurse managers (mean SUS 85.40)](ethics-quarter-good-usability-sus-85.md) — related
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
 - [Learner satisfaction with the telestroke simulation training is excellent, with more than 95% rating it 5/5](high-satisfaction-telestroke-simulation-training.md) — related
+- [Third- and fourth-year medical students reported high overall satisfaction (85%) with simulation based learning](sbl-high-satisfaction-85-percent-medical-students.md) — related

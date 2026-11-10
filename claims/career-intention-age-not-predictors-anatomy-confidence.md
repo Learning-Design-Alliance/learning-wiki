@@ -49,3 +49,4 @@ Null findings from the 1101-student survey's regression models: age carried unad
 - [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](null-multivariate-predictors-gender-ses-stress-atmosphere.md) — a broader claim this one bears on
 - [Exposure to dissection and prior anatomy education before medical school are each associated with higher confidence in anatomy knowledge](dissection-prior-anatomy-confidence.md) — related
 - [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related
+- [Learning style, ethnicity, hand dominance and career motivation showed no significant difference in skill acquisition or retention](learner-traits-no-effect-simulation-skill-acquisition.md) — related

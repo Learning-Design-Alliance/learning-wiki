@@ -53,6 +53,7 @@ The TTRRT session recipe: participants complete prescribed web-based pre-learnin
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Combine a short SALT lecture with 30 minutes of patient-scenario group work within a one-hour session](short-lecture-plus-scenario-exercise-strategy.md)
+- [Create structured team learning spaces combining case discussion, expert backup and emotional debriefing](malaise-group-case-discussion-space.md)
 
 ## Examples
 -

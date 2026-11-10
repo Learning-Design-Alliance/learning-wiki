@@ -54,3 +54,4 @@ Costing analysis for running the Alcoholic Alert intervention. Tailored feedback
 - [The cost of Butterfly Phonics as delivered in the trial was estimated at £108.50 per pupil, assuming eight pupils per class](butterfly-phonics-cost-per-pupil.md) — related
 - [Cost per trainee depends strongly on trainee volume: development and validation costs fall below about 10% of total costs with more than 50 trainees](cost-per-trainee-volume-sensitivity-analysis.md) — related
 - [1-group in grade 2 is the most cost-effective intervention variant, with per-pupil costs from $392 to $1273 across arms](1-group-grade2-most-cost-effective.md) — related
+- [Rheumates@Work was developed and run at low cost, with total direct costs under €1,500 and about 30 minutes of staff time per week](raw-low-development-costs.md) — related

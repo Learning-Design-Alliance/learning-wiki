@@ -48,6 +48,7 @@ The article proposes that its learning-curve findings guide training structure f
 
 - [Use structured training pathways with supervised early practice and experience-informed patient counselling in hip arthroscopy](structured-training-pathways-hip-arthroscopy.md)
 - [Adopt a measurable competency framework with OSATS-based assessment, supervised cases, re-certification and audit before implementation](neurosave-competency-framework-strategy.md)
+- [Simulator-based self-practice pathway for laser-naive surgeons adopting a new enucleation technique](simulator-self-practice-new-surgical-technique-pathway.md)
 
 ## Examples
 -

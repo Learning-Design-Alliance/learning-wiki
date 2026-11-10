@@ -58,6 +58,8 @@ In the discussion the authors recommend how surgeons learning this procedure sho
 - [Reserve cadaveric simulation for later-stage masterclasses rather than novice training](cadaveric-masterclasses-later-stage-training.md)
 - [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
 - [Use progressive, structured EVH training with gradual introduction of case complexity and vein length to reduce learner stress and vein damage](progressive-structured-evh-training-strategy.md)
+- [Develop novice patient educators through observation of experienced educators, experiential training (roleplay and rehearsal), and supervised practice with constructive critical reflection](observation-experiential-training-supervised-practice-strategy.md)
+- [Simulator-based self-practice pathway for laser-naive surgeons adopting a new enucleation technique](simulator-self-practice-new-surgical-technique-pathway.md)
 
 ## Examples
 -

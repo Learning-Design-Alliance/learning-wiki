@@ -60,3 +60,4 @@ A conceptual conference paper, not a review, that presents and argues for an int
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related
 - [Stereotypical attributions framed struggle as dispositional, uncontrollable, and permanent, while non-stereotypical attributions were situational, controllable, and temporary](dispositional-uncontrollable-permanent-attributions.md) — related
+- [When self-efficacy is low, repeated negative or diminishing peer-comparison feedback may worsen self-efficacy and lead toward goal abandonment](negative-feedback-may-worsen-low-self-efficacy.md) — related

@@ -78,3 +78,4 @@ A repeated-measures ANOVA on the GBS likelihood subscale (two items on a 4-point
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — a narrower finding that bears on this claim
 - [The proportion of participants achieving the pass mark increased from 18.2% pretraining to 58.7% posttraining](malnutrition-elearning-pass-mark-increase.md) — related
+- [Student ratings of self-efficacy, attitudes, and behaviors show a significant preference for the blended learning model](bl-significant-preference-self-efficacy-attitudes-behavior.md) — related

@@ -1,0 +1,50 @@
+---
+type: claim
+title: Only the resource distribution subscale of the UCLA-GAS improved significantly after geriatric clinical skills training (median difference 1, P = 0.005)
+description: Only the resource distribution subscale of the UCLA-GAS improved significantly after geriatric clinical skills training (median difference 1, P = 0.005)
+id: resource-distribution-subscale-significant-gain
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-09
+evidence_strength: moderate
+newest_evidence: 2014
+sources:
+  - id: goeldlin-adrian-o-2014
+    resource: "https://doi.org/10.1186/1472-6920-14-233"
+    title: "Goeldlin Adrian O, Siegenthaler Andrea, Moser André, Stoeckli Yvette D, Stuck Andreas E, Schoenenberger Andreas W. (2014). Effects of geriatric clinical skills training on the attitudes of medical students. BMC Medical Education. https://doi.org/10.1186/1472-6920-14-233"
+    author: Goeldlin Adrian O, Siegenthaler Andrea, Moser André, Stoeckli Yvette D, Stuck Andreas E, Schoenenberger Andreas W.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Only the resource distribution subscale of the UCLA-GAS improved significantly after geriatric clinical skills training (median difference 1, P = 0.005)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Of the four UCLA-GAS subscales, only the resource distribution subscale was significantly higher in students evaluated after the geriatric CST (median difference 1, 95% CI 0–2, P = 0.005); compassion, medical care and social value subscales showed no significant change. [→ Goeldlin Adrian O 2014](#goeldlin-adrian-o-2014)
+
+## Evidence
+
+### Goeldlin Adrian O 2014
+
+Goeldlin Adrian O, Siegenthaler Andrea, Moser André, Stoeckli Yvette D, Stuck Andreas E, Schoenenberger Andreas W. (2014). Effects of geriatric clinical skills training on the attitudes of medical students. BMC Medical Education. https://doi.org/10.1186/1472-6920-14-233
+
+`q2 · i?` · `causal · r2`
+
+Subscale analysis in the same quasi-randomized comparison of 147 students (Table 1): resource distribution median 16 (IQR 14–17) before vs 17 (IQR 15–18) after, P = 0.005; the other three subscales had P values of 0.963, 0.390 and 0.405. No effect size printed.
+
+> "Of the four validated UCLA-GAS subscales, only the resource distribution subscale was significantly higher in students evaluated after the geriatric CST (median difference 1, 95% confidence interval 0–2, P = 0.005)."
+
+## Discussion
+
+
+## Related Claims
+- [Geriatric clinical skills training significantly improved medical students' geriatric knowledge (knowledge score median difference 2, P < 0.001)](geriatric-cst-knowledge-score-improved.md) — related
+- [A brief geriatric clinical skills training produced a slight, non-significant improvement in medical students' overall attitudes toward elderly patients (UCLA-GAS median difference 2 points, P = 0.062)](geriatric-cst-small-attitude-improvement.md) — a broader claim this one bears on
+- [85.6% of medical students passed the geriatrics station of the end-of-year OSCE after the clinical skills training](geriatric-cst-osce-pass-rate.md) — related

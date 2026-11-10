@@ -50,6 +50,7 @@ Box 1 sets out what the teacher can do to make feedback a success: "Providing a 
 
 - [Run history-taking sessions with individual reflection, group discussion, and Pendleton-rule peer feedback supported by instructor probing questions](rp-feedback-history-taking-session-recipe.md)
 - [Debriefing](debriefing.md)
+- [Make target behaviours and change mechanisms explicit in simulation debriefing design](explicit-target-behaviours-debrief-design.md)
 
 ## Examples
 -

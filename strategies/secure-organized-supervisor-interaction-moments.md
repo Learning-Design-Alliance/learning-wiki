@@ -43,7 +43,8 @@ The article recommends that practices deliberately organize moments for interact
 - [The supervisor co-regulates all phases of the trainee's SRL cycle, with the perceived supervisor relationship impacting goals chosen, discomfort during performance and receptivity to feedback](../claims/supervisor-co-regulation-all-srl-phases.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Supervisor modelling of pharmacological reasoning with patient-pertinent questions between meetings](supervisor-modelling-psychotropic-reasoning.md)
 
 ## Examples
 -

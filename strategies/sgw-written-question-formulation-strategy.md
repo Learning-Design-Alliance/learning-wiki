@@ -46,6 +46,7 @@ At the start of a small-group work session the tutor invites each student to thi
 
 - [Rotate students’ written questions among peers so they assess and discuss them to feed the dialogue](peer-rotation-written-questions-dialogue.md)
 - [Build a misconceptions inventory from expert-rated written questions and disseminate it among tutors](misconceptions-inventory-for-tutors.md)
+- [Written-question generation and plenary prioritization as a low-cost small-group work activity suitable for large cohorts](written-question-generation-prioritization-strategy.md)
 
 ## Examples
 -

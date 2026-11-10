@@ -99,3 +99,8 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related
 - [Despite decay, novices' lung isolation skill scores were significantly above pre-training baseline at 2 months in a single-group pre-post study](partial-skill-retention-above-baseline-two-months.md) — related
 - [Twelve months after the course, the most resource-rich protocol (T4) showed the best persistent performance, and the method more effective at the course had more long-lasting effects](t4-best-persistent-12-month-retention.md) — related
+- [Both simulation and case-based discussion improved knowledge from pre-test to post-test, and scores were maintained at 4–6-month retention](both-methods-improve-and-maintain-knowledge.md) — related
+- [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related
+- [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
+- [Skills taught with hands-on simulator practice are retained better at 4 weeks, and lecture-only teaching shows the greatest learning decay](simulator-practice-better-four-week-retention.md) — related
+- [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related

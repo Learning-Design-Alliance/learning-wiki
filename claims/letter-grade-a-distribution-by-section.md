@@ -50,3 +50,4 @@ Descriptive comparison of final letter grade distribution across the three secti
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related

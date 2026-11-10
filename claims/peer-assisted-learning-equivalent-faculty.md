@@ -69,3 +69,6 @@ The review attributes to an inventory study by Blohm et al. that PAL is used in 
 - [Overall skill lab experience was rated excellent by most students in both groups, with no significant difference](overall-experience-excellent-both-groups.md) — related
 - [Both PAL and FAL groups reported high satisfaction with skill lab training, with no significant difference between groups](pal-fal-similar-satisfaction.md) — related
 - [Students trained by peer tutors reported significantly higher confidence in performing suturing in the skill lab and on real patients than faculty-trained students](pal-higher-confidence-suturing.md) — related
+- [Administrative frameworks of German Skills-Lab PAL programs vary in management, funding, tutor tenure and pay (average 9.2 € per hour)](pal-administrative-framework-variation.md) — related
+- [PAL programs are established in the Skills-Labs of 33 of 36 (91.7%) German medical faculties](pal-established-33-of-36-german-skills-labs.md) — related
+- [German Skills-Lab PAL programs differ considerably between faculties in size, facilities and content focus](pal-program-variation-across-faculties.md) — related

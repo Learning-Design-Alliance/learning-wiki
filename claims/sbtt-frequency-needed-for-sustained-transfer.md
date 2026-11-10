@@ -53,3 +53,4 @@ Focus group interview 2 (six months after SBTT). Participants reported mixed tra
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Students reported transfer of interprofessional competencies to their workplace six to eight weeks after interprofessional simulation training](reported-ipe-transfer-to-workplace.md) — related
 - [Interprofessional team training using TeamSTEPPS led healthcare professionals to experience greater awareness and knowledge of their common teamwork skills during a 12-month implementation on a surgical ward](teamstepps-team-training-greater-awareness-teamwork-skills.md) — related
+- [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related

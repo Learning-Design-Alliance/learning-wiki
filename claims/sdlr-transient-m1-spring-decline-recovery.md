@@ -70,3 +70,4 @@ Secondary linear mixed-effects model treating semester as a continuous variable 
 - [Integrated mixed-methods analysis revealed stage-specific characteristics across academic years](stage-specific-mixed-methods-patterns.md) — related
 - [Medical students' self-directed learning readiness increases significantly one year after admission and then remains stable through the third year](sdlrs-increases-year-one-then-stable.md) — related
 - [SDLRS subdomain trajectories differ over three years: four subdomains change significantly, with love of learning rising continuously and self-perception declining in the third year](sdlrs-subdomain-differential-trajectories.md) — related
+- [Engagement with clinical skills SDL declined year on year among pre-clinical graduate-entry medical students](sdl-engagement-declined-year-on-year.md) — related

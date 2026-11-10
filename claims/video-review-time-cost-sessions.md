@@ -50,3 +50,4 @@ The review's secondary outcome analysis of costs found "substantiate time effort
 - [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — related
 - [Rating transcripts took significantly less time than rating videos (mean 12 vs 73 minutes).](transcript-rating-faster-than-video-rating.md) — related
 - [Video-based feedback sessions run substantially longer than direct observation feedback sessions (26.2 vs. 13.5 minutes)](video-feedback-sessions-longer-than-direct-observation.md) — related
+- [Students and tutors perceived that video slowed the pace of PBL sessions, with some estimating roughly 30 extra minutes](vp-pbl-video-slows-pace.md) — related

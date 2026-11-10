@@ -50,3 +50,4 @@ Post-institute survey of the ten participants (Table 13) reporting implementatio
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program](genai-pd-significant-ethical-awareness-gains.md) — related
 - [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
+- [Some midwives began incorporating oral health promotion into their practice after completing the MIOH program](midwives-intentions-change-practice.md) — related

@@ -49,3 +49,4 @@ The review reports, citing Maghool et al. [29], that the DroneSim VR simulator e
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](geography-vr-fieldwork-limits.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — reports the opposite
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
+- [Simulator training outcomes were comparable to alternative training methods in the concordance-validity studies](ips-concordance-validity-comparable-outcomes.md) — related

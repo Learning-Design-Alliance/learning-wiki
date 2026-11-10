@@ -54,3 +54,4 @@ Thematic analysis of open-ended survey responses following Braun and Clarke, fro
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Qualitative feedback identified challenge, realism, clinical value, educator value, absence of context and physical environment as themes, with the virtual patient seen as more challenging but yielding similar benefit](qualitative-themes-placement-experience.md) — related
+- [Students identified SBL strengths of practice opportunity (86%), protected learning environment (77%), and knowledge retention (75%)](sbl-strengths-practice-protected-environment-retention.md) — related

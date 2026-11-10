@@ -50,6 +50,7 @@ The article identifies a combination of teaching methods as effective for commun
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Pair BOPPPS with in-class communication practice (e.g. SBAR role-play) rather than micro-lectures for doctor-patient communication skills](boppps-inclass-communication-practice-strategy.md)
+- [Teach non-technical skills formally in surgical oncology education using structured modules, checklists, briefings, and bad-news communication training](nontechnical-skills-training-surgical-education-strategy.md)
 
 ## Examples
 -

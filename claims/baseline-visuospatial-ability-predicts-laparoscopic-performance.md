@@ -82,3 +82,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [VSA predicts training progress in VR simulator tasks, particularly at the beginning of the learning phase](vsa-predicts-training-progress.md) — related
 - [On a novel, spatially complex laparoscopic task, visual-spatial ability and perceived task demands predict performance beyond viewing mode](visual-spatial-ability-predicts-novel-task.md) — related
 - [A one-hour simulation training session on needle visualization improved residents' clinical UGRA success rate compared to no simulation training](simulation-training-improves-ugra-clinical-success.md) — related
+- [Simulation-group trainees scored significantly better on the Shape Memory visuo-spatial test at baseline than control trainees](shape-memory-baseline-imbalance-simulation-group.md) — related

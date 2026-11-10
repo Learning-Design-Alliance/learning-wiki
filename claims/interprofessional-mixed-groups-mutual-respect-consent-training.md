@@ -94,3 +94,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Training was perceived to establish shared understanding, responsibility, and leadership during PPH emergencies, including mobilized response to calls for help](shared-understanding-leadership-pph-teamwork.md) — related
 - [Both ISS and OSS participants reported improved interprofessional communication, collaboration and teamwork skills and new understanding of other team members' roles](iss-oss-improve-teamwork-and-role-understanding.md) — related
 - [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related
+- [Free-text comments in the Japanese SPRAT cluster into seven themes of strengths and weaknesses](japanese-sprat-free-text-seven-themes.md) — related

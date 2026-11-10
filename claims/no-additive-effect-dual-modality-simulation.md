@@ -49,3 +49,4 @@ In the RCT, the combined modality group did not outperform the single-modality g
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention](ic-ll-single-component-effects-nonsignificant.md) — related
 - [Most students preferred a mixture of VR and mannequin simulation over either single modality](students-prefer-mixed-vr-mannequin-approach.md) — related
+- [Combined traditional plus simulator training did not improve FAST skills over either training alone, suggesting the US simulator alone may be sufficient](combined-training-no-benefit-simulator-alone-sufficient.md) — possibly the same claim (merge candidate)

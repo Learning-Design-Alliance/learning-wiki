@@ -96,6 +96,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 - [Use structured formative supports such as guided self-assessment checklists, benchmark examples, and mid-course feedback to scaffold novice self-evaluation in ultrasound training](structured-formative-support-self-assessment-ultrasound.md)
 - [Use co-regulated learning prompts and multimodal scaffolds to explicitly teach monitoring strategies](co-regulation-prompts-monitoring-strategies.md)
 - [Graduated prompts training hierarchy: general metacognitive prompts, then explicit cognitive prompts, then direct scaffolding](graduated-prompts-hierarchy-tablet.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown) — small groups rotate leading four comprehension strategies (predicting, questioning, clarifying, summarizing) with teacher modeling fading over ~20 sessions; large comprehension gains for struggling readers.

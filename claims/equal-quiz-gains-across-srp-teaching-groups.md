@@ -57,3 +57,5 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [Students in the TBL physiology course showed significant pre–post gains on a conceptual physiology test and daily concept quizzes](tbl-physiology-pre-post-gains.md) — related
 - [All three groups report significant self-assessed gains in theoretical knowledge and practical skills after the seminar, with no differences between groups](self-assessed-gains-similar-across-groups.md) — related
 - [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related
+- [E-learning modules and peer-reviewed PDF articles both improved global health conceptual knowledge with no statistically significant difference between the two approaches](e-learning-versus-pdf-articles-no-knowledge-difference-global-health.md) — related
+- [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related

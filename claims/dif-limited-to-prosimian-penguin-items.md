@@ -54,3 +54,5 @@ DIF analysis using the Mantel-Haenszel procedure and independent t tests of Rasc
 - [Females used fewer types of naïve ideas than males, but only for one item strand (MSLG), with a moderate effect size](ni-score-female-advantage-mslg-only.md) — related
 - [Item position within a strand showed no significant gender achievement differences on constructed-response explanation tasks](no-gender-difference-item-position.md) — related
 - [Response verbosity was equivalent between genders on average, but males' explanations were significantly shorter for particular items such as trait loss in Penguins](response-verbosity-gender-item-specific.md) — related
+- [Only one survey item showed a gender difference: females ranked prioritizing concepts to review more positively than males (97.8% vs 84.4%, p = 0.030).](gender-difference-prioritize-concepts-item.md) — related
+- [SEPCQ-27 items show negligible gender-related differential item function except two Factor 3 items](sepcq-minimal-gender-dif.md) — related

@@ -49,3 +49,4 @@ Paired t-tests on certainty ratings (1 = no idea to 4 = very certain) for correc
 - [In an online postgraduate clinical pharmacy course, 21.7–35.2% of MCQ answers changed from incorrect to correct between pre- and post-module tests across five study modules](crmcq-incorrect-to-correct-gains-21-35-percent.md) — related
 - [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related
 - [Undesirable answer changes (correct to incorrect, same incorrect answer retained) occurred infrequently, at or below 10% of answers](crmcq-undesirable-changes-infrequent.md) — related
+- [Online training increased novices' certainty of abuse risk relative to a no-training control](training-increases-novice-certainty-abuse.md) — related

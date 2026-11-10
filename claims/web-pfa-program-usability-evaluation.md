@@ -52,3 +52,5 @@ Pre-trial evaluation of the developed program: six experts conducted a heuristic
 - [The web-based PFA simulation program improves nurses' problem-solving ability more than e-book self-learning (medium effect)](web-pfa-sim-improves-problem-solving.md) — related
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
+- [Heuristic evaluation by a human factors engineer identified no critical usability issues but several major or moderate issues, which were addressed through simulator refinement](dka-simulator-usability-testing.md) — related
+- [Expert heuristic evaluation identified interface and content improvements before the student pilot](heuristic-evaluation-expert-feedback-improvements.md) — related

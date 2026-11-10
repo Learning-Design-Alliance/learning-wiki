@@ -49,3 +49,4 @@ Thematic analysis theme of feeling overwhelmed: students reported too much learn
 - [Undergraduate dental students perceive that the time-bound weekly PBL cycle compels short-term goal setting and planning, though workload makes self-regulation challenging for some](pbl-weekly-cycle-goal-setting-self-regulation-variability.md) — related
 - [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related
 - [The intern role is demanding and varied, with long hours and high workload causing some interns to become overwhelmed](intern-role-demanding-overwhelm-wellbeing.md) — related
+- [Anticipated contact with other international students, senior students' recommendations and heavy workload were the main reported motives for joining the course](peer-exam-prep-participation-motives.md) — related

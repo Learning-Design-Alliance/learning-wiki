@@ -45,6 +45,7 @@ The review recommends that teacher educators adapt social psychological principl
 
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
 
 ## Examples
 -

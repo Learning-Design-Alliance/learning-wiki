@@ -18,7 +18,7 @@ sources:
 # Pre-Class Preparation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 6 studies (3 causal, 2 associational, 1 quant-synthesis), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 7 studies (4 causal, 2 associational, 1 quant-synthesis), `q2`–`q3` · 1 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.
@@ -47,6 +47,8 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](../claims/flipped-learning-affordances-constraints-perceptions.md) [+W]
 - [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
 - [Half of students spent over two hours preparing for each pre-class test](../claims/pre-class-tests-preparation-time-investment.md) [~W]
+- [Stations that changed from text-based to e-module preparation between 2012 and 2013 showed significantly higher scores, while text-only stations did not change](../claims/between-cohort-e-module-introduction-gain.md) [+W] — attached 2026-11-09 from Kwant Kelly J. et al. (2015), which proposed "Mandatory interactive e-modules for practical skills training preparation".
+- [Within the 2012-2013 cohort, students scored significantly higher on OSCE stations prepared with e-modules than on stations with text-based preparation](../claims/within-cohort-e-module-stations-higher.md) [+W] — attached 2026-11-09 from Kwant Kelly J. et al. (2015), which proposed "Mandatory interactive e-modules for practical skills training preparation".
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md)

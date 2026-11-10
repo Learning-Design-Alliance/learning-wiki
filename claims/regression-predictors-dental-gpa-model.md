@@ -74,3 +74,4 @@ Initial linear regression with bootstrapped p-values (1000 samples). Table 4 pri
 - [High school GPA alone explains 20.6–63.3% of API variance depending on degree, with the full models explaining 42.8–71.6%](gpa-variance-api-by-degree.md) — related
 - [The final regression model predicting exam points included non-biology GPA, ethnicity/nationality, and treatment, explaining roughly 44% of adjusted variance](regression-model-exam-points-gpa-ethnicity-treatment.md) — related
 - [The regression model based on cumulative GPA explains more variance than the model based on first-year GPA](cumulative-gpa-model-better-fit.md) — related
+- [After adjustment, current GPA and knowledge test score — not learning method — were associated with final statistics achievement](gpa-and-knowledge-test-predict-final-score.md) — related

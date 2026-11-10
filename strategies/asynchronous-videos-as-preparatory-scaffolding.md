@@ -71,6 +71,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Scaffold learners with a preassessment resource-evaluation poll plus source-evaluation videos before a written assignment requiring cited resources](scaffolded-preassessment-resource-evaluation-sequence.md)
 - [Combine preprocedural online didactics, video demonstration, case-based learning, and simulation to address both cognitive and psychomotor procedural learning](comprehensive-multimodal-procedure-education-package.md)
 - [Implement the teach-and-question assignment with brief in-class training, example videos, partner-finding support, required audio recordings, and scattered instructor feedback](tq-implementation-strategy.md)
+- [Combine interactive virtual patient preparation with standard hands-on simulation training for procedural skills](vp-blended-preparation-before-skills-training.md)
 
 ## Examples
 -

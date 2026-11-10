@@ -179,3 +179,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Expert facilitator support alone did not predict programme uptake and could not compensate for unvolunteered trainers or organisational disruption](facilitation-alone-insufficient-for-uptake.md) — a narrower finding that bears on this claim
 - [Students identified the palliative care course competencies, supportive qualified nurses and supportive family caregivers as facilitators of learning transfer](palliative-transfer-facilitators.md) — related
 - [Teachers identify lack of teaching time within a packed curriculum as the main barrier to delivering physically active VFTs](teachers-time-barrier-active-vfts.md) — related
+- [Time, perceived value and lack of incentives are key challenges to faculty evaluating the intrinsic roles](time-value-incentive-challenges.md) — related

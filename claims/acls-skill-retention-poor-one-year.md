@@ -49,3 +49,4 @@ Narrative review attributing this retention finding to cited studies [3–5]. Th
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Nurses were less likely than physicians to be unqualified after scenario-simulation training](nurses-less-likely-unqualified-than-physicians.md) — related
+- [Gains in ED physicians' non-clinical skills from individualized feedback and communication training were short-lived, dropping close to baseline by the third evaluation cycle](training-gains-short-lived-without-refresher.md) — related

@@ -52,3 +52,4 @@ Secondary Mann-Whitney U analysis comparing TG participants with limited clinica
 - [Experienced and inexperienced registrars showed similar DNT improvements after attending team simulation training](similar-simulation-gains-across-experience.md) — related
 - [A four-hour simulation-based breaking bad news training added to an ED rotation significantly improves trainees' perceived self-efficacy compared with rotation alone](bbn-simulation-training-improves-self-efficacy.md) — related
 - [At baseline, control-group students scored higher on BBN process and communication skills while self-efficacy did not differ between groups](bbn-trial-baseline-imbalances.md) — related
+- [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](communication-training-improves-oncologist-bad-news-skills.md) — related

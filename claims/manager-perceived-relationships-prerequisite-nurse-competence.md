@@ -49,3 +49,4 @@ Qualitative interview study of nine managers in a Swedish healthcare region, ana
 - [Managers perceive that nurses need confidence in their practical role before they can lead, distribute and prioritise work](confidence-before-leadership-nurses.md) — related
 - [Managers describe a mutual responsibility between managers and nurses for continued learning](mutual-responsibility-continued-learning-managers-nurses.md) — related
 - [A moderate positive correlation exists between professional competency and caring perception scores](moderate-positive-correlation-competency-caring.md) — related
+- [Students conceptualize 'being a good professional' across four contexts: professional responsibility, physician-patient relationship, physician-colleague relationships, and the physician as intellectual](good-professional-four-contexts-thematic-framework.md) — related

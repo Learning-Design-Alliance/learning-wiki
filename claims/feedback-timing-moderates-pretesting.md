@@ -104,3 +104,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Immediate feedback from the learning objects appeared to moderate the social interaction between paired students](immediate-feedback-moderates-pair-interaction.md) — related
 - [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related
 - [Direct observation and video-based feedback formats differ structurally in timing: immediate short feedback versus delayed feedback after student self-review of a videotaped encounter](osce-feedback-format-structural-timing-difference.md) — related
+- [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — related

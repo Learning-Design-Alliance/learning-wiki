@@ -66,3 +66,4 @@ Pearson correlation across the four randomised groups showed a strong negative a
 ## Related Claims
 - [Both educational groups had significantly lower exercise time and probe movement distance in later than in earlier simulator exercises, in within-group pre-post comparisons](simulator-training-efficiency-gains-both-groups.md) — related
 - [Attending surgeons demonstrate less phacoemulsification probe decentration and eye decentration than trainees, with no significant difference in zoom level change](ai-centration-metrics-differentiate-surgeon-experience.md) — related
+- [Larger workshop group sizes are associated with lower self-reported learning gains, with one large workshop showing self-reported decreases in knowledge](larger-group-sizes-lower-learning-gains.md) — related

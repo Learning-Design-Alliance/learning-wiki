@@ -57,3 +57,4 @@ Qualitative feedback from optional survey comments was analyzed using a coding f
 - [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related
 - [Students perceived longer-term impacts of the SBE intervention on curriculum advancement, quality of care, and the dental profession](sbe-perceived-long-term-impact-curriculum-care.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
+- [Free-text comments in the Japanese SPRAT cluster into seven themes of strengths and weaknesses](japanese-sprat-free-text-seven-themes.md) — related

@@ -70,3 +70,4 @@ The article reports, citing Sarker and Vincent, that fewer than half of surgical
 ## Related Claims
 - [Prolonged layoff degrades surgical skills, with complex fine-motor and decision-making skills declining more than routine ones](surgical-layoff-skills-fade-complex-skills.md) — related
 - [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related
+- [Communication breakdown is a leading cause of surgical errors, and more than half of surgical errors could be avoided with proper use of non-technical skills](communication-breakdown-leading-cause-surgical-errors.md) — related

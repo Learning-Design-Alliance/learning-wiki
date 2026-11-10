@@ -59,3 +59,4 @@ Longitudinal path analysis (PROCESS Model 6, 5,000 bootstrap samples) of 221 ado
 - [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](homework-tutoring-physical-activity-control-findings.md) — related
 - [Physical activity participation tracks from adolescence into adulthood](adolescent-physical-activity-tracks-to-adulthood.md) — related
 - [Self-motivation predicts both academic performance and regular participation in physical activity](self-motivation-predicts-performance-activity.md) — related
+- [Time spent on homework is negatively associated with academic performance, while attending extracurricular activities is positively associated](homework-time-negative-extracurricular-positive-aps.md) — related

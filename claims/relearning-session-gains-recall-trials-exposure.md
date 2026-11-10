@@ -70,3 +70,4 @@ Repeated-measures ANOVA on mean exposure duration in the relearn condition acros
 - [Self-rated attentional control improves for relearning relative to restudying from the second session onward](relearning-attentional-control-gains.md) — related
 - [Anxious affect and self-rated mastery start worse for relearning but reverse in favour of relearning by the third session](relearning-anxiety-mastery-reversal.md) — related
 - [Scores rose from first to second session and from second to third session in one uncontrolled pre-post study; first-to-second d = 0.89 and second-to-third d = 1.07](5cardsgame-score-effect-sizes.md) — related
+- [Quiz-only testing with open-ended questions produced a modest but statistically significant increase in recall accuracy across spaced sessions](quiz-only-modest-recall-increase.md) — related

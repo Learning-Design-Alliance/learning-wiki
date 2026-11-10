@@ -66,3 +66,4 @@ Psychometric analysis in Validation Study 1 (N = 99 teacher education and psycho
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
 - [G-OSAD ratings show acceptable internal consistency (Cronbach's α = 0.865) and excellent composite reliability (ω = 0.93)](gosad-internal-consistency-composite-reliability.md) — related
 - [ComOn check subscales B, C, and E and the overall sum score show Cronbach's alpha greater than 0.77](comon-check-subscale-internal-consistency.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

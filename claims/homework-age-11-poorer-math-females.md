@@ -50,3 +50,4 @@ The article's Discussion reports, from the sex-stratified regression models of t
 - [Sex moderated the associations between specific sedentary behavior types and mathematics ability, prompting sex-stratified analyses](sex-by-sedentary-behavior-interaction-math.md) — related
 - [Internalizing problems at age 14 mediate the association between leisure reading at age 11 and mathematics ability at age 17 among males](internalizing-problems-mediate-reading-math-males.md) — related
 - [Leisure reading at age 11 is positively associated with mathematics ability at age 17 among female adolescents](leisure-reading-age-11-higher-math-age-17-females.md) — related
+- [TV viewing and internet use are each negatively associated with GCSE points, while homework and reading are each positively associated](individual-screen-behaviours-gcse-associations.md) — related

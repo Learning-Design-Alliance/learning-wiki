@@ -49,3 +49,4 @@ Qualitative curricular mapping in which two tutors and three training coordinato
 - [Subject-specific training (module 2) shows the most comprehensive competency acquisition, including the medical expert role](module-2-most-comprehensive-medical-expert.md) — a narrower finding that bears on this claim
 - [The scholar role is promoted in all programme modules and the leader role from module 1B onwards](scholar-all-modules-leader-from-1b.md) — a narrower finding that bears on this claim
 - [Tutors and training coordinators differ in role assignments, with the health advocate role assigned only by tutors](tutor-coordinator-disagreement-health-advocate.md) — related
+- [Self-perceived global health competency improved significantly in five of seven CanMEDS roles, with small effect sizes, but not for communicator and collaborator](canmeds-self-assessment-five-of-seven-roles-improved.md) — related

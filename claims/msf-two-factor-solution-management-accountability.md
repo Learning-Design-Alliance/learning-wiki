@@ -48,3 +48,5 @@ Exploratory factor analysis (principal axis, Promax rotation, loadings ≥0.32) 
 - [Three coworker items exceed the 15% unable-to-assess cut-off, with leadership the hardest item for non-medical coworkers to assess](msf-coworker-unable-to-assess-items.md) — related
 - [The two-factor MSF structure supports graphical feedback reports that guide reflection on global domains rather than single items](msf-factor-based-feedback-reports.md) — related
 - [Colleague and coworker MSF questionnaires are feasible for anaesthesiology residents, returning high volumes of forms with mean item ratings above 4.0 out of 5](msf-italian-colleague-coworker-high-response-and-ratings.md) — related
+- [The Japanese SPRAT shows a two-factor structure (clinical care and psychosocial skills) congruent with the UK original](japanese-sprat-two-factor-uk-congruence.md) — related
+- [The 10-item self-efficacy instrument yields a two-factor solution (leadership/management and communication/teamwork) explaining 74% of variance](self-efficacy-scale-two-factor-solution.md) — related

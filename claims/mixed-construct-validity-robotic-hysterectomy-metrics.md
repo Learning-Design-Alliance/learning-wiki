@@ -73,3 +73,4 @@ The review reports that Berges et al.'s simulator metrics "failed to achieve con
 - [Time-limited tests are less equitable because speededness disproportionately impacts some groups](speededness-disproportionate-equity-impact.md) — related
 - [Competence knowledge and competence application are strongly but distinguishably correlated](competence-knowledge-application-correlated.md) — related
 - [Assessment tools may disproportionately favour technical skills because they are easier to measure, contributing to underrepresentation of relational competencies](assessment-tools-favour-measurable-technical-skills.md) — related
+- [Preexisting knowledge positively impacts simulator performance (construct validity), though the supporting study had a low group size](ips-construct-validity-preexisting-knowledge.md) — related

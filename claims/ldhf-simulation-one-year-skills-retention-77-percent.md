@@ -56,3 +56,4 @@ Longitudinal follow-up of 226 healthcare providers in 12 facilities in Geita and
 - [Resuscitation skills were retained four months after training, with all residents passing the OSCE](osce-four-month-skill-retention.md) — related
 - [Overall adherence to the ABCDE algorithm among neonatal healthcare providers during simulated NALS is low (mean 31.5%)](low-overall-abcde-adherence-simulation.md) — related
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — a broader claim this one bears on
+- [Simulator scores show a significant effect of training level, driven by year 1 medical students scoring lower than all other groups](dka-simulator-training-level-effect.md) — related

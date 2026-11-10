@@ -86,3 +86,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Universities in developing countries lacked the financial resources and technical infrastructure to purchase and operate e-learning platforms during COVID-19](universities-lacked-finance-infrastructure-e-learning.md) — related
 - [Lack of teacher confidence and competence is a central barrier to PAL implementation](pal-teacher-confidence-competence-barrier.md) — related
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
+- [Students identified workload, technical problems, content overload and lack of face-to-face interaction as barriers to the beta e-learning program](e-learning-barriers-workload-technical-content-overload.md) — related

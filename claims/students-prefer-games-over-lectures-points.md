@@ -52,3 +52,4 @@ Survey of the same 30 gamer-group students; the statements compared the game for
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
 - [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related
+- [First-year medical students largely perceived gamified TurningPoint ARS games as engaging and as an effective learning tool in medical microbiology lectures.](gamified-ars-games-engaging-learning-medical-students.md) — related

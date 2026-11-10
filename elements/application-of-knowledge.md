@@ -87,6 +87,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — Learners apply physics concepts by manipulating variables in simulations, with immediate feedback from the model's behavior.
 - **[Merrill's pebble-in-the-pond design](https://www.mdpi.com/2227-7102/10/12/358)** — A design sequence that starts from a real-world problem and works backward to the application tasks and required knowledge.
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](../strategies/ai-reflection-context-prompt-assignments.md)
+- [Use multiple assessment methods aligned to learning objectives so students must apply information rather than recall memorized facts](../strategies/multi-method-assessment-aligned-to-objectives.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)

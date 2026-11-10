@@ -49,3 +49,5 @@ Qualitative categorization of anonymous free-text answers to "In general, what w
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [After introducing scripts, lecturer briefing and e-learning cases, students' self-assessed abilities improved significantly in all three categories compared with before the measures](self-assessment-improves-after-structured-measures.md) — related
+- [After teaching consultation, positive free-text student comments increased in both lectures and tutorials](consultation-increased-praise-in-free-text-set.md) — related
+- [Criticism and recommendations in free-text comments decreased after consultation, with quality of explanations and learning atmosphere most praised](criticism-decreased-after-consultation.md) — related

@@ -49,3 +49,4 @@ Secondary demographic analyses (Tables 4–6) in the quasi-experiment: "a signif
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Participation in patient safety training is associated with higher self-reported patient safety competency](safety-training-higher-psc.md) — related
 - [Both flipped and traditional patient safety training significantly improved self-reported competency within groups](both-groups-prepost-competency-improvement.md) — related
+- [Age, years since graduation, weekly service hours, and daily patient load are statistically associated with EBP questionnaire categories](demographics-associated-ebp-categories.md) — related

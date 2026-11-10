@@ -54,3 +54,4 @@ Randomised controlled trial comparing exam boxplots for bPbL (n = 92) and cPbL (
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Blended PBL produces greater knowledge gain between pre-test and post-test than original PBL in Japanese medical students](bpbl-greater-knowledge-gain.md) — related
 - [Adding e-learning to PBL does not change students' perceptions of active participation or tutors' authority](bpbl-no-change-participation-tutor-authority.md) — related
+- [Blended learning students scored higher on the statistics knowledge test than on-site students (d = 0.28)](blended-higher-knowledge-test-score.md) — related

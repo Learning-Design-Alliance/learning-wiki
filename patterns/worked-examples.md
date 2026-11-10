@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 36 claims (15 for, 19 mixed, 2 against) · 30 studies (15 causal, 6 review, 4 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 4 of 30 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (15 for, 21 mixed, 2 against) · 31 studies (16 causal, 6 review, 4 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 5 of 31 report an effect size · 36 claims rest on one study
 
 ## Description and scope
 
@@ -89,6 +89,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In a randomized classroom experiment on linear equations, students using worked-example assignments outscored control students on the unit posttest](../claims/worked-examples-classroom-exp1-main-effect.md) [+M] — attached 2026-11-01 from Booth et al. (2015), which proposed "Example-study mixed with problem solving within classroom assignments"; tests this page's relationship.
 - [An integrated worked-example learning environment improves near transfer of applicable knowledge in empirical research methods training](../claims/worked-examples-improve-near-transfer-research-methods.md) [+W] — attached 2026-11-02 from Kai Wagner et al. (2013), which proposed "Structure-emphasizing example sets with ascending complexity and multiple perspectives"; tests this page's relationship.
 - [Within-condition pre-to-post gains were largest for fading (g = 1.08), followed by fading with self-explanation (g = .93), worked example (g = .32), and BAU (g = .24)](../claims/fading-largest-prepost-gain-g108.md) [+W] — attached 2026-11-05 from Miller‐Cotto et al. (2026), which proposed "Faded worked examples: sequentially removing problem steps across a problem set until the learner solves independently".
+- [Studying model concept maps after worked/completion example pairs yields higher post-test conceptual knowledge than self-explaining or concept map completion in novice physiotherapy students](../claims/concept-map-study-higher-posttest-conceptual-knowledge.md) [~M] — attached 2026-11-09 from Dyer et al. (2015), which proposed "Combine worked/completion example pairs with an additional integrative activity chosen for the target outcome".
+- [Self-explanation after worked/completion example pairs yields higher post-test problem-solving (near transfer) performance than concept map completion or model concept map study in novice physiotherapy students](../claims/self-explanation-higher-posttest-problem-solving-physiotherapy.md) [~M] — attached 2026-11-09 from Dyer et al. (2015), which proposed "Combine worked/completion example pairs with an additional integrative activity chosen for the target outcome".
 
 ## Illustrative design instance and observation record
 

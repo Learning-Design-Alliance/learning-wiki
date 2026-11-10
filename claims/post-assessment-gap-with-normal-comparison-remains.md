@@ -50,3 +50,4 @@ Post-assessment t-tests against the normal comparison sample of 278 children. "h
 - [Within the intervention group, ADHD symptom decline during the training period significantly exceeded the baseline-period decline](adhd-slope-steeper-during-training-than-baseline.md) — related
 - [NAT significantly reduced parent-rated inattention in children with ADHD relative to control (η²p = 0.46)](nat-parent-rated-inattention-improvement.md) — related
 - [ONTRAC completers' ADHD symptom ratings normalized to the healthy-children range at follow-up](ontrac-symptom-normalization-healthy-children.md) — related
+- [ADHD symptoms decreased significantly over time in all treatment conditions, with no Treatment condition x Time interaction](bgb-adhd-symptom-decrease-nonspecific.md) — related

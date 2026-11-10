@@ -72,3 +72,4 @@ Interaction of prior study and feedback on intrusions, F(4,138) = 5.88, ηp² = 
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related
+- [Feedback enhances the testing benefit, with delayed feedback outperforming immediate feedback and low-confidence answers benefiting most (review-reported)](feedback-enhances-testing-benefit.md) — related

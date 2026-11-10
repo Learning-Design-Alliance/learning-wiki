@@ -55,6 +55,7 @@ The article recommends adopting "mastery learning and peer-assisted learning mod
 - [Use peer-assisted learning by PGY-II residents to staff simulation-based learning where expert tutors are scarce](pgy2-peer-tutors-for-simulation-tutor-shortage.md)
 - [Use trained student teaching assistants, with a pre-course didactical workshop, to expand hands-on ultrasound training despite instructor shortages](student-tas-for-ultrasound-instructor-shortage.md)
 - [Offer students an SHT module, peer-assisted learning, and simulated-patient practice for intimate-area skills, with positive teacher support](sht-module-peer-assisted-simulated-patients-strategy.md)
+- [Provide a simulation-based training program for faculty members and students to address instructor knowledge and resource challenges](simulation-faculty-training-program-strategy.md)
 
 ## Examples
 -

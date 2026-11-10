@@ -49,3 +49,4 @@ External evaluation of communication skills and attitudes on the OSCE grid: list
 - [A multidisciplinary discussion-group workshop on breaking bad news is associated with a significantly higher summative OSCE score than conventional university teaching](discussion-group-workshop-higher-osce-breaking-bad-news.md) — a broader claim this one bears on
 - [CST improves GCRS communication domains of initiation, verbal communication, structuring, information provision and aiding understanding, but not building the relationship or incorporating the patient's perspective](cst-gcrs-domain-gains-selective.md) — related
 - [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related
+- [The S-P-I-K-E-S six-step system structures formal teaching of bad-news delivery in current surgical training](spikes-protocol-delivering-bad-news.md) — related

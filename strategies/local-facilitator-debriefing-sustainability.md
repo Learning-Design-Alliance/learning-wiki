@@ -50,6 +50,7 @@ A local Nepali ED faculty member with prior simulation training led all debriefi
 - [Develop simulation cases from an informal needs assessment of local ED census and staff input, keeping cases uncomplicated for simulation-naive learners](local-needs-assessment-case-development.md)
 - [Joint basic-science and clinical faculty debriefing using Socratic facilitation to immerse basic science content in the clinical case](paired-faculty-socratic-debrief-basic-science.md)
 - [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
+- [Provide a simulation-based training program for faculty members and students to address instructor knowledge and resource challenges](simulation-faculty-training-program-strategy.md)
 
 ## Examples
 -

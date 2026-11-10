@@ -53,3 +53,4 @@ Independent-sample t-test on Group 3 common questions (Chapters 8, 9, and 10) gi
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — a broader claim this one bears on
 - [PBL performance improved significantly across the semester in Strong-CT students but not in Weak-CT students](pbl-improvement-strong-ct-only.md) — related
+- [On a delayed final exam roughly 12 weeks after teaching, undergraduates scored significantly higher on common curriculum questions they had taught than on the rest of the exam](delayed-final-exam-retention-gains.md) — related

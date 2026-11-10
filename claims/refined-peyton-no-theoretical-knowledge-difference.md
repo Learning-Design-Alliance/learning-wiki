@@ -56,3 +56,4 @@ Cohort comparison on a 100-point theoretical knowledge exam administered within 
 - [The essentials of the IO access procedure can be taught to medical students in a four-hour human cadaver course using a modified Walker and Peyton four-step approach](io-access-taught-four-step-cadaver-course.md) — related
 - [Peyton's four-step approach yields significantly higher practical skill scores than conventional instruction for complex spinal manipulation](peyton-four-step-superior-ospe-spinal-manipulation.md) — related
 - [Peyton's four-step approach shows no advantage over conventional instruction on theoretical knowledge as measured by multiple-choice exam](peyton-no-mc-exam-advantage.md) — related
+- [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — related

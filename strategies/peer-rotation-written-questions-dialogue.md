@@ -47,6 +47,7 @@ As a second implementation purpose, the article proposes that students’ writte
 - [Challenge students in small-group work to formulate a written open question on disease mechanisms to expose conceptual misunderstanding](sgw-written-question-formulation-strategy.md)
 - [Use small groups of well-known co-students with rotating roles as simulator and respondent to foster psychological safety and peer learning](small-familiar-groups-rotating-roles-vr-simulation-strategy.md)
 - [Structuring Group Work](structuring-group-work.md)
+- [Written-question generation and plenary prioritization as a low-cost small-group work activity suitable for large cohorts](written-question-generation-prioritization-strategy.md)
 
 ## Examples
 -

@@ -91,3 +91,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
 - [The error-focused checklist shows lower internal consistency than the conventional checklist despite high inter-rater reliability for both](error-focused-checklist-low-internal-consistency.md) — related
 - [Mean OSCE checklist scores do not differ between NPI and control students](npi-no-difference-mean-osce-score.md) — related
+- [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related

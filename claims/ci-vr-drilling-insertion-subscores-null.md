@@ -67,3 +67,4 @@ Component analysis of the primary outcome via LMM: on insertion-related items (m
 - [Adding cochlear implant VR simulation training to mastoidectomy VR training did not significantly improve cadaver dissection performance](ci-vr-training-no-significant-cadaver-transfer.md) — related
 - [CI VR simulation performance improved during training but the improvement did not reach significance](ci-vr-simulator-performance-improvement-trend.md) — related
 - [CI VR simulation training showed a non-significant trend toward less need for guidance during cadaver surgery](ci-vr-training-guidance-trend-not-significant.md) — related
+- [A non-significant trend showed a longer interval from traditional training to block performance in the simulation group than the control group](longer-training-to-block-interval-simulation-group-trend.md) — related

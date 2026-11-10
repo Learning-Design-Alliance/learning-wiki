@@ -50,3 +50,4 @@ Baseline check in the randomized study: 20-item MCQ before training. The article
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — related
 - [Experimental and control groups were statistically equivalent in ICT knowledge before the intervention](groups-equivalent-pretest-tpack.md) — related
 - [Knowledge of asthma diagnosis and treatment improves after simulation training in both groups, with no between-group difference](knowledge-improves-after-asthma-simulation.md) — related
+- [Baseline knowledge and self-rated perception did not differ between groups before the interventions](als-baseline-groups-equivalent.md) — related

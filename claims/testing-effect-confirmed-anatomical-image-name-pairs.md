@@ -72,3 +72,4 @@ Experiment 2, a mixed two-factor design with 124 university students (individual
 - [Retrieval practice with feedback yields higher recall than restudy, which yields higher recall than no-feedback retrieval practice](feedback-retrieval-outperforms-restudy-and-nrp.md) — related
 - [A behavioral comparison sample confirms a typical testing effect (repeated testing with feedback vs repeated study) one week after intervention](testing-effect-confirmed-one-week-behavioral-sample.md) — possibly the same claim (merge candidate)
 - [Without feedback, restudy conditions outperformed repeated testing when all trials were analyzed, with no testing advantage at a 24-hour delay](no-testing-advantage-24h-all-trials.md) — reports the opposite
+- [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — related

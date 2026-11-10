@@ -60,3 +60,4 @@ Subgroup analysis of OSCE stations in the retrospective cohort: the test group s
 - [Peer role-playing simulation improves mini-CEX-rated physical examination and clinical reasoning performance in real MSK outpatient encounters](peer-roleplay-improves-msk-mini-cex-scores.md) — related
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related
+- [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related

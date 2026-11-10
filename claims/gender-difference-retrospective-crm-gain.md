@@ -52,3 +52,4 @@ Between-group comparison of overall CRM-score gains (Δ = post − pre) in the r
 - [Performance improvements after simulation-based learning were statistically significant for both male and female students across all assessment domains](sbl-improvements-consistent-across-genders.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
+- [A small but statistically significant gender difference in SBL satisfaction scores favored female students (p=0.001)](sbl-satisfaction-gender-difference-significant.md) — related

@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 88 claims (53 for, 30 mixed, 5 against) · 50 studies (31 causal, 12 quant-synthesis, 3 review, 3 design, 1 associational), `q1`–`q4` · 16 of 50 report an effect size · 87 claims rest on one study
+> **Evidence** · 90 claims (55 for, 30 mixed, 5 against) · 51 studies (31 causal, 12 quant-synthesis, 4 design, 3 review, 1 associational), `q1`–`q4` · 16 of 51 report an effect size · 89 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -112,6 +112,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Using the online ICM with interactive Kahoot! components kept student interaction at the same high level as the classroom format](../claims/kahoot-interaction-maintained-online.md) [~W] — attached 2026-11-08 from Huber J et al. (2021), which proposed "Online ICM version of the seminar 'The Lonely Patient' with synchronous Zoom sessions and Kahoot!".
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](../claims/blended-flipped-learning-higher-nursing-course-grades.md) [+W] — attached 2026-11-08 from Halasa S et al. (2020), which proposed "Moodle-supported blended flipped course design with a 2-to-1 in-class to at-home ratio"; tests this page's relationship.
 - [Flipped-classroom EBM training produced significantly higher Fresno test scores than traditional lecture-based EBM training in medical technology interns](../claims/fresno-test-higher-flipped-ebm-medical-technology.md) [+M] — attached 2026-11-08 from Huang Hsien-Li et al. (2020), which proposed "Tailor-made flipped-classroom EBM course for medical technology interns (FC-EBM)"; tests this page's relationship.
+- [All students appreciated the inverted classroom approach because it freed seminar time for interactive, practice-based learning](../claims/inverted-classroom-appreciated-interactive-time.md) [+M] — attached 2026-11-09 from Bösner S et al. (2015), which proposed "K-Med-hosted inverted classroom seminar structure for differential diagnosis in primary care".
+- [Students in an inverted-classroom differential diagnosis seminar showed a significant overall absolute gain in skills and knowledge of 33% (p < 0.01)](../claims/inverted-classroom-33-percent-gain-differential-diagnosis.md) [+M] — attached 2026-11-09 from Bösner S et al. (2015), which proposed "K-Med-hosted inverted classroom seminar structure for differential diagnosis in primary care".
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

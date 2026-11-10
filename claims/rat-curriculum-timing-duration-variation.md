@@ -48,3 +48,4 @@ Narrative review synthesis of implementation characteristics across included RaT
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [Delivery of the coaching programme varied considerably across the four schools in format, frequency, duration, and coach training and supervision](perry-beeches-coaching-delivery-variation-across-schools.md) — related
 - [Examiner training was the most frequently used quality-assurance measure, but practices varied widely across programmes](dach-examiner-training-quality-assurance.md) — related
+- [Tutor basic training scope varies widely across faculties, most frequently 10–20 hours but ranging from about 3 to 50 hours](tutor-basic-training-hours-variation.md) — related

@@ -49,3 +49,4 @@ Zero-order correlation analysis among 89 ATI-R respondents testing the hypothesi
 - [Genetic counselors who teach GC students have higher teacher-focused (ITTF) scores than those who do not, opposite to the hypothesized direction](gc-student-teachers-higher-ittf-scores.md) — related
 - [Sonographers teaching 5–10 hours weekly had higher odds of more positive interprofessional attitudes than those teaching under 1 hour](teaching-hours-ipas-ordinal-regression.md) — related
 - [Lecturing in genetics didactic courses is the most common classroom teaching activity genetic counselors report across all student populations](gc-lecturing-most-common-classroom-activity.md) — related
+- [Frequency of student-focused strategies correlates significantly with the number of students taught (p = 0.0006)](class-size-correlates-student-focused-strategies.md) — related

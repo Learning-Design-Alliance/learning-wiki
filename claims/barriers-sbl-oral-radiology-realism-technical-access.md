@@ -63,3 +63,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related
 - [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related
 - [Dramatization-based simulation has technical limitations: not all procedures can be executed on simulated patients, and physiological outcomes cannot be controlled](technical-limitations-dramatization-simulation.md) — related
+- [Students identified SBL weaknesses of insufficient resources and facilities (68%), lack of trained staff (66%), and lack of accessibility (58%)](sbl-weaknesses-resources-staff-accessibility.md) — related

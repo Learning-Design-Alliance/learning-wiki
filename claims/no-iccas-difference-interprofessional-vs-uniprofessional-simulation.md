@@ -53,3 +53,4 @@ Quasi-experimental comparison of 205 students completing ICCAS before and after 
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [All participants agreed the simulation achieved each of the ICCAS interprofessional competencies](iccas-competencies-achieved.md) — related
+- [Interprofessionally trained nurses and midwives show significantly larger self-efficacy gains than uniprofessionally trained nurses](ip-nurses-larger-self-efficacy-gains.md) — related

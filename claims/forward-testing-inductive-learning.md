@@ -49,3 +49,4 @@ The review reports Lee and Ahn's category learning experiment with three groups 
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
 - [In Experiment 1, interim tasks with high retrieval probability (overt retrieval, cue-only JOLs) enhanced new inductive learning more than low-retrieval tasks (cue–target JOLs, restudy) on both memory and transfer](high-retrieval-tasks-forward-effect-inductive-learning.md) — related
 - [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](forward-testing-single-items-doubled-recall.md) — related
+- [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — related

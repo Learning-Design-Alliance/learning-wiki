@@ -50,3 +50,4 @@ Complementary tertile analysis of the 51-case cohort (17 patients per tertile) r
 - [Comparing the first 15 RPDs per center with subsequent procedures, operative time decreased while bile leakage grade B/C increased and most other outcomes did not significantly differ](learnbot-first15-versus-later-outcomes.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Volume and age tertile analyses consistently showed earlier change points for higher-volume and younger surgeons, with middle tertiles in between](tertile-consistency-volume-age-change-points.md) — related
+- [When comparing between surgeons rather than within surgeons, operative times differed significantly across all first, middle, and last cohorts](between-surgeon-operative-time-differences.md) — related

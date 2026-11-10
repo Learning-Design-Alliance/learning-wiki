@@ -57,3 +57,4 @@ Meta-analysis pooling three studies reporting OSATS Global. The article reports 
 - [Structured video-assisted coaching improves laparoscopic performance in a simulated bleeding exercise, while simple repetition does not](video-assisted-coaching-improves-bleeding-exercise-performance.md) — related
 - [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related
 - [Adding a nodal point operation primer to video-assisted self-educational training yields a higher composed laparoscopic knot score than video-assisted learning alone in surgical novices](operation-primer-higher-composed-knot-score.md) — related
+- [Transparent simulator training yields higher OSATS-rated endourological proficiency than opaque simulator training and than verbal instruction alone](transparent-simulator-higher-osats-than-opaque-and-verbal.md) — related

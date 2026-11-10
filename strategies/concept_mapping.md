@@ -66,6 +66,7 @@ Concept mapping works because it requires learners to actively construct relatio
 - [Use visual forms to communicate complex ideas about exploring real-world problems](visual-forms-communicate-complex-ideas.md)
 - [Teach whole-text translation by having students build concept maps instead of word-by-word translation](concept-map-whole-text-translation-strategy.md)
 - [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
+- [Use concept maps to help students articulate how facts connect and to reveal and track their developing understanding](concept-maps-reveal-connections.md)
 
 ## Examples
 - **IHMC CmapTools** (https://cmap.ihmc.us) — free software developed by Novak's group at the Institute for Human and Machine Cognition; supports collaborative map building and proposition-level linking.

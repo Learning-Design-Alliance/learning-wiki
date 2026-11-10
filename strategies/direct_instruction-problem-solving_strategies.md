@@ -64,6 +64,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the method for making strategy *selection* visible, not just execution
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a canonical instance of explicit strategy instruction with faded group practice
 - [Deliver a critical thinking module through three sequenced instructional strategies ending in applied reflection](three-strategy-critical-thinking-module-sequence.md)
+- [Directly instruct learning strategies in course context: model strategies with think-alouds, explain benefits, and train with practice and feedback over time](direct-instruction-learning-strategies-metacognition.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) in mathematics** — teachers elicit and build on children's informal strategies, making strategy repertoires explicit classroom content ([CGI for Math](../principles/responsive-teaching.md)).

@@ -61,3 +61,4 @@ Post-training perception question administered to all 37 participants after both
 - [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related
 - [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
 - [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related
+- [Students were significantly more satisfied with high-fidelity simulation than with case-based discussion](simulation-higher-student-satisfaction.md) — related

@@ -49,3 +49,4 @@ Reliability analysis of the SCAS administered to 299 research assistants at one 
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [Higher BMI is strongly correlated with anxiety subscale scores, especially panic agoraphobia (r = 0.851)](bmi-strongly-correlated-anxiety-subscales.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related

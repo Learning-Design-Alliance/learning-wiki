@@ -52,3 +52,4 @@ Inductively coded thematic analysis of the optional open-ended survey responses 
 - [Virtual ALG was rated better for work-life balance: 71.1% did not indicate better work-life balance during in-person ALG](virtual-alg-better-work-life-balance.md) — related
 - [Students who started ALG virtually (Class of 2024) were significantly more confident contributing in person than students who started in person (Class of 2023)](virtual-first-cohort-more-confident-in-person.md) — related
 - [Chi-square analysis finds no significant difference between virtual and in-person ALG cohorts on education, participation, or teamwork](no-significant-difference-virtual-in-person-alg-cohorts.md) — related
+- [Students in both conditions rank in-class instructor-facilitated activities as more influential to learning than at-home work, regardless of phase](in-class-activities-ranked-more-influential-both-conditions.md) — related

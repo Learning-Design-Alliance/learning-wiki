@@ -49,3 +49,4 @@ RM-ANCOVA with cumulative pre-intervention academic averages as covariate. The a
 - [English-language cohort showed higher anatomy theory exam scores than Turkish-language cohort in both committees](ec-higher-anatomy-scores-than-tc-both-committees.md) — related
 - [An additional hour per day in Head Start increases applied math problem (WJ) scores by .046 SD, with a significant age-cohort difference](head-start-hour-wj-applied-problems-increase.md) — related
 - [Student submissions matched the LLM-generated reference bank more often in later cohorts, with 2025 incidence 1.76–2.12 times the 2021 rate, persisting among full-pass submissions](student-llm-match-incidence-rose-across-cohorts.md) — related
+- [Perceived stress increased significantly across the year for the traditional assessment cohort but not for the progress testing cohort](pt-reduced-stress-traditional-increase.md) — related

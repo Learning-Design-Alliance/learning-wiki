@@ -54,3 +54,4 @@ Pearson correlation analysis on final MCE and virtual SBA scores among the 81 co
 - [Formative scores correlated weakly positively with summative scores (r = 0.29, p < 0.01)](formative-summative-weak-correlation.md) — related
 - [Students' online activity score on the mobile app showed a weak but significantly positive correlation with their final examination score](online-score-weak-positive-correlation-final-exam.md) — related
 - [SCT performance was not correlated with multiple-choice factual knowledge performance (r = 0.11)](sct-uncorrelated-with-mcq-performance.md) — related
+- [Online formative test scores correlated positively and significantly with summative scores in the online group (r2 = +0.328, p = 0.008)](online-formative-summative-correlation.md) — a narrower finding that bears on this claim

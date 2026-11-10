@@ -74,6 +74,7 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Blend IVR simulation training into an existing e-learning curriculum for procedural skills](blend-ivr-into-elearning-curriculum-strategy.md)
 - [Integrate the simulator into the formal oculoplastics curriculum with dedicated scheduled practice time early in residency](dedicated-scheduled-simulator-time-early-residency-strategy.md)
 - [Incorporate self-directed, encounter-driven topics and online sources into traditional didactic schedules under educator direction](educator-directed-self-learning-topics.md)
+- [Adopt competency-based residency curricula to improve training without lengthening its duration](competency-based-curriculum-duty-hour-era.md)
 
 ## Examples
 -

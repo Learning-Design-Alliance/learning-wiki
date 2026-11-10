@@ -47,3 +47,4 @@ One-way ANOVA comparing three academic competence groups (below average, average
 
 ## Related Claims
 - [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md) — related
+- [Minimal-intensity physical activity such as walking is positively associated with teacher-reported academic performance scores among Shanghai fifth-graders](minimal-intensity-activity-positive-teacher-reported-aps.md) — related

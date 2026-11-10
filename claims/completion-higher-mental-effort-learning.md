@@ -47,3 +47,4 @@ Montpetit-Tourangeau K, Dyer JO, Hudon A, Windsor M, Charlin B, Mamede S, van Go
 ## Related Claims
 - [Worked example study combined with concept map completion outperforms worked example study combined with concept map study on near and far transfer in physiotherapy students](concept-map-completion-beats-study-transfer.md) — related
 - [Mental effort across post-tests showed no condition effect, but novices invested more effort than advanced learners on the immediate post-test only](posttest-mental-effort-prior-ability-interaction.md) — related
+- [Model concept map study imposes lower mental effort during the learning phase than concept map completion or self-explanation](concept-map-study-lower-mental-effort-learning-phase.md) — related

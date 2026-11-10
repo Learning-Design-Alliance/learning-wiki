@@ -52,3 +52,4 @@ Bivariate analysis of the distribution of variables by sex in the full sample of
 - [The female advantage in first-attempt PACES pass rates is largest in non-UK graduates not registered with the GMC and smallest in UK graduates](sex-effect-size-varies-by-pmq-group.md) — related
 - [UK female medical graduates had 1.18 times the odds of passing PACES at first attempt compared with male UK graduates](uk-graduates-female-advantage-or-1-18.md) — related
 - [There was no evidence of an interaction between candidate sex and ethnicity in any of the three subgroups](no-sex-ethnicity-interaction-paces.md) — related
+- [BME candidates performed less well than White candidates on all five assessments (P < .001)](bme-candidates-underperform-all-five-assessments.md) — related

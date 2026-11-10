@@ -96,3 +96,4 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related
 - [Virtual reality simulator training before the first laparoscopic hysterectomy improves residents' Global Rating Scale OSATS scores in the live operation](vr-simulator-training-improves-grs-osats-first-laparoscopic-hysterectomy.md) — related
 - [Average error in laparoscopic simulator tasks decreased about 30% after training](average-error-decreased-30-percent-after-simulator-training.md) — related
+- [Supplemental VR simulator training produced no statistically significant difference in novices' first clinical USgABPB performance versus standard training alone in this discontinued pilot RCT](vr-simulation-no-gain-first-usgabpb-performance-pilot.md) — related

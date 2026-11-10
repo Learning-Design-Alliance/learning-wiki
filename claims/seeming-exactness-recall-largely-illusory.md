@@ -49,3 +49,4 @@ Author's interpretive argument: in the present case the original experience happ
 - [Incidental learning of nonsense syllables with no intent to secure permanence can nonetheless be retained long term](incidental-learning-no-intent-permanence-retention.md) — related
 - [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md) — related
 - [A student spontaneously recalled a list of ten nonsense syllables some nine months after incidental learning, with only two minor auditory errors and correct order](spontaneous-nine-month-recall-nonsense-syllables.md) — related
+- [Recall accuracy evolved in accordance with learning factors, supporting its consistency with knowledge retention without proving the relationship](recall-accuracy-consistent-with-retention.md) — related

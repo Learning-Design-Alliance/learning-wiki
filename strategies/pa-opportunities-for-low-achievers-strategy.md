@@ -49,6 +49,7 @@ The article recommends that schools deliberately create physical activity opport
 
 - [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
 - [Schools and sports organizations should create active lifestyles and facilitate access to physical practice for children and adolescents](schools-facilitate-access-physical-practice.md)
+- [Promote physical activity through a multilevel approach combining school, family and community interventions with policy and environmental changes](multilevel-physical-activity-promotion.md)
 
 ## Examples
 -
