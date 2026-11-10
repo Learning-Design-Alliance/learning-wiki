@@ -67,3 +67,5 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Knowledge gained from the standardized-patient DNR encounter was retained by PGY-3 residents approximately one year after training](dnr-simulation-one-year-retention.md) — related
 - [Students valued online group discussions positively, with fifth-year students valuing them most](online-group-discussions-positive-value-fifth-year.md) — related
 - [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — related
+- [Students reported benefits across practical, cognitive, and psychological levels, with 37% citing all three](perceived-multilevel-benefits-erietta.md) — related
+- [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related

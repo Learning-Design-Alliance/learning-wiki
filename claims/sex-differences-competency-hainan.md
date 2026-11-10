@@ -63,3 +63,4 @@ Group-comparison analysis (Table 2) of the 54 participants (39 female, 15 male) 
 - [No gender difference in any of the six GAP-test competence domains among medical students](no-gender-difference-gap-test-domains.md) — reports the opposite
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
 - [Female medical undergraduates had higher total EI scores than males](females-higher-ei-scores-medical-undergraduates.md) — related
+- [Men estimated higher performance than women on both examinations, yet women outperformed men, particularly on the OSCE](gender-gap-in-estimates-favours-men-women-outperform.md) — related

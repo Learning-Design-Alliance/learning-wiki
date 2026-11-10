@@ -56,3 +56,4 @@ Figure 9 analysis of sequence distribution across triggering phases showed most 
 - [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related
 - [Most learners (68%) maintain the same inquiry-strategy cluster across two different simulations, indicating stable rather than task-specific approaches](inquiry-cluster-stability-across-simulations.md) — related
 - [Teams that go through the SSRL phases tend to be more successful in learning in and adapting to new situations](ssrl-phases-team-adaptation-success.md) — reports the opposite
+- [Less experienced teachers' talk about process is almost exclusively in the initiation-response-feedback (IRF) format, limiting social-regulatory group dynamics](irf-dominates-novice-teacher-process-talk.md) — related

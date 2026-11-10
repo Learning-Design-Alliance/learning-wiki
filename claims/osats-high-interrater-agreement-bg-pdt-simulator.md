@@ -51,3 +51,4 @@ Blind video assessment component of the multimodal evaluation: two ICU physician
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
 - [Both A-OSATS versions showed excellent interrater and high intrarater reliability when two blinded raters scored video-recorded anastomoses](a-osats-interrater-intrarater-reliability.md) — related
 - [Blinded scoring of MaiSurge performances shows excellent interrater reliability for the modified H-OSATS score and good reliability for the general OSATS score](maisurge-hosats-interrater-reliability-icc.md) — related
+- [Blinded expert observers rated the modified Peyton's small-group sessions highly on trainee comprehension, focus of attention, tutor self-assuredness and flow of training](modified-peyton-expert-ratings-high.md) — related

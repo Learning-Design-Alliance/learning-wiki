@@ -50,3 +50,4 @@ Prospective single-trainee case series of 419 supervised flexible cystoscopies a
 - [Individual flexible cystoscopy components reached competence at differing procedure counts: atraumatic passage at 224, body and dome of bladder at 221, and bladder neck at 229 procedures](fc-component-competence-counts-vary.md) — related
 - [Recommended indicative numbers of flexible cystoscopies may underestimate the procedures trainees need to achieve and maintain competency](indicative-numbers-underestimate-fc-competency.md) — related
 - [Examination of the trigone and ureteric orifices was the most difficult flexible cystoscopy step, with competence achieved only after 279 procedures and failure rates falling from 34% to 5%](trigone-ureteric-orifices-hardest-step.md) — related
+- [Trainee-submitted JETS e-portfolio procedure counts correlate strongly with local endoscopy reporting system records, with small under-reporting](jets-data-validation-correlation.md) — related

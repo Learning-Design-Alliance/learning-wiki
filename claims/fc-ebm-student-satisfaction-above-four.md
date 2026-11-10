@@ -52,3 +52,4 @@ Self-made 14-question Likert 5-point satisfaction survey completed by the 38 FC-
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related

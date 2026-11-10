@@ -47,6 +47,7 @@ The review recommends that junior doctors receive "increased exposure to plain t
 - [Collaborate with radiographers when junior doctors interpret plain trauma X-rays](radiographer-collaboration-strategy.md)
 - [Provide short, intensive, structured training in plain trauma X-ray interpretation for junior doctors](short-intensive-trauma-xray-training-strategy.md)
 - [Develop further ophthalmic training for doctors working in EDs, including funduscopy training for medical students and foundation doctors](further-ophthalmic-training-for-ed-doctors.md)
+- [Include basic training in plain radiograph interpretation in physiotherapists' continuing professional development programmes](cpd-training-plain-radiograph-interpretation-physiotherapists.md)
 
 ## Examples
 -

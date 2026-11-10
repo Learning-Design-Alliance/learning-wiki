@@ -46,6 +46,7 @@ The authors recommend integrating the validated Slovak SSE translation into rout
 
 - [Test publishers and users should routinely investigate longitudinal achievement construct invariance over time](routinely-validate-longitudinal-construct-invariance.md)
 - [Use the PK OSCAR for self-guided study, evaluator feedback, and tracking resident performance over time](oscar-feedback-and-progress-tracking-strategy.md)
+- [Improve instructional design in online courses, since stable satisfaction over nine years suggests design improvements were not translating to better learner experience](improve-instructional-design-online-courses-strategy.md)
 
 ## Examples
 -

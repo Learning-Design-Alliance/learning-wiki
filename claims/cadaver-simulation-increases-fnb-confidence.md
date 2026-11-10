@@ -63,3 +63,4 @@ Pre/post survey of 19 first-year medical students after a 15-minute video and 20
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — a broader claim this one bears on
 - [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related
 - [A single short education session enabled novices to measure optic nerve sheath diameter accurately regardless of whether training was online or hands-on](onsd-measurement-accurate-both-groups.md) — related
+- [The Thiel embalming method, though not widely known and requiring careful procedures and dedicated structures, is reported as one of the best training tools for anatomical surgery](thiel-embalming-surgery-training-tool.md) — related

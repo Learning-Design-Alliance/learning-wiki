@@ -50,3 +50,4 @@ Descriptive analysis of an 11-item perceptions-of-change questionnaire completed
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
 - [Clinicians' self-rated self-efficacy in delivering dementia diagnoses rose from pre-workshop to post-workshop and again at follow-up in one uncontrolled pre-post study](workshop-improves-clinician-self-efficacy-dementia-diagnosis.md) — related
 - [Two of 15 self-determination theory-based communication strategies were delivered below the competence level during implementation](two-sdt-strategies-below-competence-delivery.md) — related
+- [Midwives' knowledge and confidence scores rose from pre-test to post-test after compact training, in one single-group pre-post study; application in practice was not assessed](self-report-bias-compact-training-evaluation.md) — related

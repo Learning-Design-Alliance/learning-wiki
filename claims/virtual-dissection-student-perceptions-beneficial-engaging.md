@@ -51,3 +51,4 @@ Qualitative assessment via a single written free-expression sentence gathered fr
 - [Immediately after a single 90‐minute session, physiotherapy students learning neuroanatomy with immersive VR scored higher overall than students studying with atlases and textbooks](ivr-higher-neuroanatomy-posttest-overall.md) — related
 - [TDTS teachers reported more positive views of pupils' ability and engagement, and judged the approach beneficial across the ability range including pupils with special educational needs](tdts-teacher-perceptions-pupil-benefit.md) — related
 - [Atlas of anatomy and textbooks dominated residents' anatomy learning approaches, and no resident used 3D forms](atlas-textbook-dominant-anatomy-learning-approaches.md) — related
+- [Students' dissection experiences were largely positive, contradicting the view that dissection is an emotionally challenging way to learn anatomy](dissection-emotional-challenge-reconsidered.md) — related

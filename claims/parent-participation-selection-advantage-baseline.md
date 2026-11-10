@@ -48,3 +48,4 @@ Descriptive analysis with independent samples t-tests comparing the high and low
 ## Related Claims
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
 - [Fresh undergraduates with married parents have significantly higher odds of above-average emotional intelligence than those with non-married parents](married-parents-higher-odds-above-average-ei.md) — related
+- [Attendance rates vary substantially with observable characteristics: older, previously trained women with larger households attend more; married women and those farther from the venue attend less](attendance-correlates-probit-kenya.md) — related

@@ -53,3 +53,4 @@ Narrative synthesis of the seven studies measuring practice outcomes; the review
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
 - [A 3-h mixed interactive and didactic diabetic foot workshop significantly increased rural and remote health professionals' knowledge scores](diabetic-foot-workshop-knowledge-score-increase.md) — a narrower finding that bears on this claim
+- [The training workshop significantly improves healthcare workers' self-assessed diabetes care and psychosocial skills](filtdare-workshop-improves-self-assessed-skills.md) — related

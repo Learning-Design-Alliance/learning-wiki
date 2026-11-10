@@ -52,3 +52,6 @@ Paired-sample t-tests comparing learning products for first versus last case (n 
 - [No significant difference between cognitive-mapping and verbal-text groups on subject-matter knowledge pretest or posttest scores](cognitive-mapping-no-posttest-knowledge-difference.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — a broader claim this one bears on
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
+- [A computer-based cognitive representation approach significantly improved medical students' overall dual-mapping performance from the first to the last case (d = 1.17)](cognitive-representation-improves-dual-mapping-performance.md) — related
+- [Dual-mapping performance improved significantly in four of five aspects, but not in reasoning links](dual-mapping-aspects-improved-except-reasoning-links.md) — a narrower finding that bears on this claim
+- [Learners made significantly more connections from problem solving to knowledge construction by the last case, but not in the reverse direction](ps2kc-connections-improved-kc2ps-did-not.md) — related

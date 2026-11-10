@@ -52,3 +52,4 @@ Review synthesis of subgroup findings: the review reports ocular ultrasound as m
 - [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related
 - [Prior literature establishes that student-tutors can achieve teaching results similar to faculty members for basic ultrasound skills](student-tutors-match-faculty-basic-ultrasound.md) — reports the opposite
 - [Prior studies cited by the article report medical students achieving ultrasound competence through varied formats, including formats shorter than four weeks](cited-studies-student-ultrasound-training-formats.md) — related
+- [A peer role-play communication course for preclinical students can be implemented without additional financial or human resources](role-play-course-no-additional-resources.md) — related

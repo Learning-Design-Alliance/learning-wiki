@@ -80,3 +80,4 @@ The review reports, citing Wouters et al. (2013) and Clark et al. (2016), that s
 - [Inference-based computer games produce better vocabulary learning than traditional hardcopy word lists](inference-based-games-better-than-word-lists.md) — a narrower finding that bears on this claim
 - [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related
 - [The serious-game group performed digital exploration of the pleural cavity significantly better, a key patient-safety step](serious-game-digital-exploration.md) — a narrower finding that bears on this claim
+- [Game-based e-learning produced significantly higher cognitive learning outcome than script-based instruction for medical students learning phase contrast microscopic urinalysis](gbel-urinalysis-higher-cognitive-outcome-than-script.md) — a narrower finding that bears on this claim

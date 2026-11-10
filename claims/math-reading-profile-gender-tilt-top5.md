@@ -92,3 +92,4 @@ Meta-analytic synthesis of tilt percentages across countries. "87% demonstrated 
 - [In Study 1, only the Very High All profile showed greater mathematics growth than the Average All profile, and profiles did not differ in reading growth.](study1-math-growth-very-high-all-reading-null.md) — related
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
+- [Boys are significantly more motivated than girls by computer game-based instruction in both the CGBI and NCGBI classes](boys-more-motivated-than-girls.md) — related

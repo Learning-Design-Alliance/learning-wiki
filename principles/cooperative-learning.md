@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (35 for, 29 mixed, 2 against) · 52 studies (25 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 52 report an effect size · 59 claims rest on one study
+> **Evidence** · 68 claims (37 for, 29 mixed, 2 against) · 53 studies (26 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 53 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +87,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](../claims/cai-stad-ltm-outperform-ici-physics-achievement.md) [+W] — attached 2026-11-01 from Amosa Isiaka Gambari et al. (2015), which proposed "Use computer-assisted STAD cooperative teaching to enhance achievement, retention and motivation in physics"; tests this page's relationship.
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](../claims/jigsaw-outperforms-traditional-preschool-sense-organs.md) [+W] — attached 2026-11-02 from Nilüfer Okur Akçay (2016), which proposed "Preschool teachers should use varied, active methods and be trained to organize cooperative learning".
 - [Students taught through the STAD model of cooperative learning achieved significantly higher problem solving ability than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-problem-solving-than-pbl.md) [+W] — attached 2026-11-02 from Tawachai Rattanatumma et al. (2016), which proposed "Higher education administrators should motivate lecturers to adopt the STAD model of cooperative-based learning for teaching mathematics.".
+- [Students who complete active-learning exercises in cooperative groups significantly outperform students who complete the same exercises individually on higher-level essay questions.](../claims/cooperative-groups-outperform-individual-on-essay-questions.md) [+W] — attached 2026-11-10 from Linton Debra L. et al. (2014), which proposed "Use cooperative peer interaction followed by instructor-facilitated explanation for in-class active-learning exercises, especially higher-level ones"; tests this page's relationship.
+- [In item-level essay analyses, the cooperative section showed a significantly higher percentage of students including the concept than the individual section in all 17 significant cases.](../claims/seventeen-of-fifty-nine-rubric-items-favor-cooperative.md) [+W] — attached 2026-11-10 from Linton Debra L. et al. (2014), which proposed "Use cooperative peer interaction followed by instructor-facilitated explanation for in-class active-learning exercises, especially higher-level ones"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

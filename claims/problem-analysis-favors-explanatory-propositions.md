@@ -77,3 +77,4 @@ Two-way ANOVA (condition between subjects, proposition type within subjects) in 
 - [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](problem-analysis-activates-prior-knowledge.md) — related
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
 - [Explicit tutorial interventions successfully stimulated self-explanation in the SE-Coach evaluation](se-coach-interventions-stimulate-self-explanation.md) — related
+- [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](problem-based-presentation-axes-promote-interaction.md) — related

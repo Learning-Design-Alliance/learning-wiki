@@ -48,3 +48,6 @@ Self-report EBPQ completed by 82 of the 147 trial students (BL n=44, DL n=38); T
 - [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](online-ebm-course-domain-gains.md) — related
 - [Exposure to a 14-session EBM intervention was associated with higher confidence in critical appraisal skills among medical students (M5 EBM 17.1 vs. M5 non-EBM 8.4, P<0.001)](ebm-exposure-higher-appraisal-confidence.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
+- [Blended-learning students reported higher self-perceived critical appraisal competence and greater satisfaction with the EBM course than didactic students](blended-higher-self-perceived-appraisal-satisfaction.md) — related
+- [Blended-learning and didactic EBM courses produced no difference in EBM competency measured with the Berlin tool in graduate medical students](blended-vs-didactic-ebm-berlin-no-difference.md) — related
+- [Didactic-group students reported higher self-perceived competence in constructing clinical questions and searching the literature than blended-learning students](didactic-higher-question-construction-confidence.md) — reports the opposite

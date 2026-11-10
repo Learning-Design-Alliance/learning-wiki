@@ -52,3 +52,4 @@ Paired bootstrap t-tests from pre- to post-training within each control group of
 - [Phonemic awareness gains after AVG training occur in more than 80% of at-risk pre-readers](avg-phonemic-awareness-gain-majority-responder.md) — related
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](avg-phonemic-awareness-gain-6month-maintenance.md) — related
 - [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](avg-training-null-pwr-ran.md) — related
+- [Phoneme discrimination training did not produce consistent improvements in speech perception in noise](phoneme-training-no-speech-in-noise-improvement.md) — related

@@ -69,3 +69,4 @@ Resident focus group theme (from the previously collected seven resident groups)
 - [Faculty and residents differ in motivations for conference attendance and desired conference content](faculty-resident-differences-motivation-content.md) — related
 - [Structured pedagogical principles — prebriefing tied to learning objectives, a safe group atmosphere and experienced facilitators — were seen as crucial to learning in VR-SIMI](pedagogical-principles-prebriefing-safe-atmosphere-crucial-vr-simi.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Hiding residents' answers until all had responded encouraged participation by all residents, in contrast to traditional lectures where only one or two students respond](hidden-answers-encourage-all-participation.md) — related

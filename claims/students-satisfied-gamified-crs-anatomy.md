@@ -52,3 +52,4 @@ Nine-question five-point Likert questionnaire completed by 87, 71 and 38 student
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
+- [Earning badges was associated with greater completion of remaining questions only in round 2, with no significant badge effect in rounds 1 and 3.](badge-effect-on-completion-mixed-by-round.md) — related

@@ -53,3 +53,4 @@ Follow-up measurement during a supervision visit 10 months after course completi
 - [Knowledge-check trajectories differ: ENC 1 knowledge scores decline by 6 months while remaining above pretraining, and ENC 2 knowledge scores stay stable](venc-knowledge-check-trajectories.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Participants found the IVR mLearning course acceptable, with 90% reporting they learned the same or more than in a conventional course](participant-acceptance-ivr-mlearning.md) — related
+- [Knowledge gains from the online oncogenetics module persisted and further increased at 6-month retention testing](online-genetics-cpd-sustained-knowledge-retention.md) — related

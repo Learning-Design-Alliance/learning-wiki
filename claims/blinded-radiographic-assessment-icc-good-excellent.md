@@ -57,3 +57,4 @@ Reliability analysis of the blinded independent radiographic assessments by two 
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [The novel Precision Score correlates strongly with real-world OSATS performance and final implant orientation in cadaveric RSA](precision-score-validity-ivr-rating-scale.md) — related
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

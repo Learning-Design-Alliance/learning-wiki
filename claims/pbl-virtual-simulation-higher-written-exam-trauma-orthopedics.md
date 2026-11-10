@@ -75,3 +75,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [Combined virtual-simulation and jaw-model training yields higher second theoretical examination scores than either method alone, with Group V-J best](combined-training-higher-second-theoretical-scores.md) — related
 - The simulation-system group outperformed the traditional-teaching group on theoretical, skill, and comprehensive ability assessments — related
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
+- [A blended learning block course significantly improves orthopedics and traumatology knowledge for both e-learning users and non-users](blended-pbl-course-improves-knowledge-both-groups.md) — related

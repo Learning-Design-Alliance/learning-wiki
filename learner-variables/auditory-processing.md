@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (45 show a difference, 19 mixed, 10 no difference) · 40 studies (24 causal, 9 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 15 of 40 report an effect size · 72 claims rest on one study
+> **Evidence** · 75 claims (45 show a difference, 20 mixed, 10 no difference) · 41 studies (25 causal, 9 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 15 of 41 report an effect size · 73 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -110,6 +110,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Speech-in-noise ability interacts with year level to predict NAPLAN literacy outcomes, with significant interactions for reading, grammar/punctuation and writing and a marginal effect for spelling](../claims/speech-in-noise-year-level-interaction-literacy.md) [~M] — an instructional effect differs with it
 - [Speech-in-noise scores correlate significantly with NAPLAN literacy measures in Grade 3 children but not in Grade 5](../claims/grade3-only-speech-in-noise-literacy-correlation.md) [~W] — learners who differ on it differ in outcomes
 - [Secondary auditory task accuracy and reaction times do not change significantly over laparoscopic training](../claims/secondary-task-behaviour-unchanged-over-training.md) [-M] — measured as an outcome of the instruction studied
+- [Phoneme discrimination training did not produce consistent improvements in speech perception in noise](../claims/phoneme-training-no-speech-in-noise-improvement.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

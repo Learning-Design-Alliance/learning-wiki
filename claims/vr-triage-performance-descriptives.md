@@ -47,3 +47,4 @@ Descriptive analysis of computer recordings from all 95 participants performing 
 ## Related Claims
 - [Healthcare professionals with prior triage experience triage VR MCI victims faster than those without, with no difference in triage correctness](prior-triage-experience-faster-vr-triage.md) — related
 - [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related
+- [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related

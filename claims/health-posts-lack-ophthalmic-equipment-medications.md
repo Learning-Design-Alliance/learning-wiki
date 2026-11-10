@@ -48,3 +48,4 @@ Equipment and medication audit during visits to 35 health posts (Table 5): dista
 - [Referral patterns differ geographically: terai PHCWs overwhelmingly refer to the tertiary eye hospital while mountain PHCWs refer to local eye care centres](referral-patterns-differ-terai-vs-mountains.md) — related
 - [Visual acuity testing capability is largely missing: only 14% of PHCWs were trained to measure visual acuity and 5.7% of health posts had a vision chart](visual-acuity-testing-missing-14-percent-trained-5-7-percent-charts.md) — related
 - [Only 8.4% of primary health care workers in eastern Nepal had received eye care training during their professional career](phcws-eastern-nepal-8-4-percent-eye-care-training.md) — related
+- [Enhanced supervision increased the likelihood that facilities retained a functioning torch and a correctly placed visual acuity chart, though most facilities lost both](supervision-increased-equipment-retention.md) — related

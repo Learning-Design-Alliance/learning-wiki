@@ -47,3 +47,4 @@ Internal evaluation inventory completed by 56 of 60 full participants rating eac
 
 ## Related Claims
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
+- [Students rated the bladder catheterization, physical examination and communication skills sessions not replaceable, while the central venous pressure session drew lower importance (59% satisfaction)](lab-topics-not-replaceable-cvp-lower.md) — related

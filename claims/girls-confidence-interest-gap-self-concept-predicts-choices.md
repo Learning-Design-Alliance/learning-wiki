@@ -136,3 +136,5 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related
 - [A minority of students became less interested in biology after the course, and this disinterest came primarily from non-STEM students](ibis-non-stem-interest-decline.md) — related
 - [TD engagement closes the course-planning and teaching-methods self-efficacy gap between women and men early-career scholars as engagement increases](td-engagement-gender-gap-closing.md) — related
+- [Boys are significantly more motivated than girls by computer game-based instruction in both the CGBI and NCGBI classes](boys-more-motivated-than-girls.md) — a narrower finding that bears on this claim
+- [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — a narrower finding that bears on this claim

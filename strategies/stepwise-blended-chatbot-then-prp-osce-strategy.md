@@ -52,6 +52,7 @@ Based on the complementary strengths observed in the pilot RCT, the authors prop
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Keep residents involved in telehealth clinics through a staged model of trainee history-taking, attending discussion, joint patient video conference, and post-visit debrief](telehealth-clinic-resident-involvement-model.md)
+- [Use a staged approach to simulated patient practice: start with peer role-play for comfort and feedback, then progress to standardised patients](staged-peer-then-sp-practice-strategy.md)
 
 ## Examples
 -

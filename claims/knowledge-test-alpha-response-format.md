@@ -52,3 +52,4 @@ Meta-regression from Table 2 controlling for log-centered test length. Open answ
 - [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related
 - [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
+- [The multiple-choice format is substantially more reliable and more efficient than open-ended formats, with 4–8 multiple-choice items providing the information of a single essay](mcq-reliability-efficiency-advantage.md) — reports the opposite

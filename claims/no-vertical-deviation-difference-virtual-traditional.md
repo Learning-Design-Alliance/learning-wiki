@@ -50,3 +50,4 @@ Pilot RCT vertical (Y-axis) deviation analysis across incisor, canine, and premo
 - [Vertical and transverse occlusion classification and OPG dental-status evaluation showed no significant differences between modalities](orthotrainer-vertical-transverse-opg-no-differences.md) — related
 - [Bracket positioning accuracy rose from before to after virtual training, most for upper and lower anterior teeth, in one uncontrolled pre-post study](bracket-position-accuracy-anterior-teeth.md) — related
 - [VR-trained physicians show significantly smaller implant placement deviations than conventionally trained peers across mesiodistal, buccolingual, depth, and angle dimensions](vr-dental-implant-training-lower-placement-deviations.md) — related
+- [Buccolingual drilling approach differs by group: novices and simulator-trained students drill buccal-to-lingual while experienced practitioners reverse the axis](buccolingual-approach-differs-experienced-vs-novice.md) — related

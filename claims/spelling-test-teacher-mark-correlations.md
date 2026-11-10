@@ -52,3 +52,4 @@ Concurrent-validity comparison in one school of 256 pupils: correlations by grad
 - [Teacher judgment ratings diverged from standardized test results for individual pupils](teacher-judgment-diverges-from-tests.md) — related
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related
 - [First-year and sixth-year GPA were very highly correlated (r=0.745)](first-year-and-sixth-year-gpa-highly-correlated.md) — related
+- [Long-term pass rates of remediated medical students correlate strongly with teacher context experience (r = 0.81) and total teaching experience (r = 0.72)](teacher-experience-correlates-remediation-outcomes.md) — related

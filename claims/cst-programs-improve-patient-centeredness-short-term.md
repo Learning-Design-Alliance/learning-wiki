@@ -81,3 +81,5 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related
 - [Clinicians across surgery, oncology, and nursing perceive empathising with patients as a core priority of clinical communication teaching](hk-clinicians-empathy-priority.md) — related
 - [Premature antidepressant discontinuation has distinct leading reasons with short median times, suggesting clinician communication skill matters more than treatment properties](antidepressant-discontinuation-reasons-timing.md) — related
+- [Goal setting was difficult for clinicians to incorporate into practice where long intervals between visits prevented regular review](goal-setting-difficult-with-long-visit-intervals.md) — related
+- [After brief training, clinicians reported shifting consultations from the clinician’s agenda to the patient’s agenda using Socratic questioning](socratic-questioning-shifts-consultation-to-patient-agenda.md) — a narrower finding that bears on this claim

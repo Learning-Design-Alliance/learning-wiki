@@ -70,3 +70,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Control-group overall self-efficacy did not change significantly over the study period while the intervention group's did](control-group-self-efficacy-unchanged.md) — related
 - [The change trend in self-efficacy differs significantly between each intervention group and the no-education control group](intervention-change-trends-differ-from-control-ms.md) — reports the opposite
 - [Neither intervention changed self-efficacy, motivation or anxiety relative to control, though all groups increased perceived competence over time](imi-outcomes-unchanged-perceived-competence-increase.md) — related
+- [No significant differences between CGBI and NCGBI in the motivational dimensions of overall appeal and educational value](no-difference-appeal-educational-value.md) — related

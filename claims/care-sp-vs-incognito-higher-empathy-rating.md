@@ -48,3 +48,4 @@ External assessment via the CARE scale rated by the group-associated patient (Ta
 - [External empathy ratings do not differ significantly between students who trained with an incognito simulated patient and those who trained with a real patient](care-incognito-vs-real-patient-no-difference.md) — related
 - [Patients rated students who trained with a simulated patient as significantly more empathetic than students who trained with a real patient](care-sp-vs-real-patient-higher-empathy-rating.md) — related
 - [Self-assessed empathy (JSPE and IRI subscales) does not differ significantly between students trained with a simulated, incognito, or real patient](no-self-assessed-empathy-difference-sp-ip-rp.md) — related
+- [Students requiring the second part of the sequential examination had lower empathy ratings (Cohen's d = 0.81)](empathy-lower-second-part-examination.md) — related

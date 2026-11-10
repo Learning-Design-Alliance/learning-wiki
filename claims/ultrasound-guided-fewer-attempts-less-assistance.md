@@ -71,3 +71,4 @@ Self-reported supervisor assistance frequency from 454 trainees, dichotomized as
 - [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related
 - [Ultrasound-guided PIV placement required significantly fewer sticks than the anatomy approach](us-guided-piv-fewer-sticks.md) — a narrower finding that bears on this claim
 - [Ultrasound-guided PIV attempts by trained nurses succeeded more often than anatomy-based attempts (77.4% vs 35.9%)](us-guided-piv-higher-success-than-anatomy.md) — related
+- [The transition from ultrasound-guided to landmark technique causes a marked drop in success rate and rise in complication rate in residents' first landmark procedures](ug-to-lm-transition-performance-drop.md) — related

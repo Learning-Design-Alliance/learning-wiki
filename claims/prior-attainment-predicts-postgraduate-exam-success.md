@@ -51,3 +51,4 @@ All-candidates multivariate logistic regression on UKMED data; prior attainment 
 - [Working less than full-time is associated with higher odds of passing postgraduate medical examinations at first attempt](ltft-working-higher-pass-odds.md) — related
 - [Gender differences in first-attempt pass rates run in opposite directions for written versus clinical postgraduate medical examinations](gender-pass-odds-opposite-written-clinical.md) — related
 - [Religion predicts first-attempt outcomes, with effects differing by examination format and reversing direction for some groups](religion-predicts-first-attempt-outcomes-format-dependent.md) — related
+- [Total written assessment time at medical school correlates positively with graduates' mean first-attempt postgraduate examination performance, including after controlling for entry qualifications.](assessment-time-correlates-postgraduate-attainment.md) — related

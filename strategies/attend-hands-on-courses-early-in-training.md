@@ -47,6 +47,7 @@ Based on the finding that caecal intubation rate benefited only trainees with fe
 
 - [Time microsurgical skills courses early in postgraduate education, before trainees begin operating on patients, to hasten learning and reduce patient complications.](early-timing-microsurgical-courses-pre-vocational.md)
 - [Schedule simulation-based VL intubation training regularly in emergency medicine and intensive care residency curricula](schedule-regular-vl-simulation-training-ed-residents.md)
+- [Sequence flexible sigmoidoscopy before colonoscopy training and schedule periods of intense focused colonoscopy training](intense-focused-colonoscopy-training-strategy.md)
 
 ## Examples
 -

@@ -94,3 +94,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related
 - [Video laryngoscopy shows higher novice success rates with fewer complications than direct laryngoscopy, though findings are inconsistent across studies](vl-novice-advantage-mixed-evidence.md) — related
 - [Intubation success rates are comparable with one staff member versus a five-person audience](audience-no-effect-intubation-success-rates.md) — related
+- [For operators with less experience, the GVL is more quickly learned and associated with higher first pass intubation success than DL](gvl-more-quickly-learned-than-dl-for-novices.md) — related

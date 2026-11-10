@@ -56,3 +56,4 @@ The multi-centre cross-sectional comparison of 586 providers found a significant
 - [Participants valued hands-on practice in simulation because resuscitation skills could not be acquired without it and simulation revealed knowledge gaps](simulation-hands-on-practice-knowledge-gaps-overdose.md) — related
 - [Prior CPR training did not ensure knowledge of quality standards, and no significant differences in CPR quality were observed by prior training](prior-training-insufficient-for-quality-standards.md) — related
 - [In the 1-minute CPR test, men performed deeper chest compressions than women while women achieved better full chest recoil, both within recommendations](sex-differences-compression-depth-recoil.md) — related
+- [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related

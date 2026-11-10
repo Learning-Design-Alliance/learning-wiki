@@ -50,6 +50,7 @@ To overcome identified barriers, the team developed an education package includi
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 - [Deliver standardized oxygen-therapy training as four 45-minute small-group sessions combining lecture, discussion, and multimedia](four-session-multimedia-oxygen-protocol-training.md)
 - [Deliver enhanced ward nurse education combining a lecture, a wall-displayed leaflet, and weekly review sessions to improve inpatient colonoscopy bowel preparation](enhanced-ward-nurse-education-strategy.md)
+- [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
 
 ## Examples
 -

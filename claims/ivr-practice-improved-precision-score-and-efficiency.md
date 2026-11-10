@@ -49,3 +49,4 @@ Descriptive simulator metrics from the case's iVR sessions, not a controlled com
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
 - [The iVR-prepared revision surgery used approximately 7.6 times less cumulative fluoroscopic radiation than the index procedure](ivr-prepared-revision-reduced-radiation-dose.md) — related
 - [iVR training immediately preceded successful real-operative SCFE revision by a PGY-5 trainee, the first reported direct patient care after iVR](ivr-to-or-immediate-skill-transfer-case.md) — related
+- [Mean angulation deviation fell from the initial attempt to the fourth attempt while the virtual angulation guide was active, and accuracy did not progress after the guide was removed, in one uncontrolled pre-post study](angulation-improves-only-with-virtual-guide.md) — related

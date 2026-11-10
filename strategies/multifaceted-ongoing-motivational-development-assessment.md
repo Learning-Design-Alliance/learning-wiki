@@ -49,6 +49,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 - [Combine COPUS observation with an SDT-based survey to monitor progress toward active learning](combine-copus-sdt-survey-monitoring.md)
 - [Use up-to-date SDT/AGT motivational constructs in targeted, element-level interventions rather than curriculum-wide comparisons](targeted-element-level-motivation-research-strategy.md)
+- [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
 
 ## Examples
 -

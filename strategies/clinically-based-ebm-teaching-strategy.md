@@ -43,6 +43,7 @@ The authors suggest that nominal or uncontextualized EBM exposure may explain wh
 ## Related Strategies
 
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
+- [Integrate EBM teaching with clinical activities and bedside application rather than standalone didactic teaching](integrate-ebm-teaching-with-clinical-activities.md)
 
 ## Examples
 -

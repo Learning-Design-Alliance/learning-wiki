@@ -57,3 +57,4 @@ Hierarchical regression (Model 2) predicting performance expectations in the sam
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
 - [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](self-efficacy-achievement-and-past-performance.md) — related
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
+- [Older students had more prior patient-interview experience, rated gained competences lower, and rated instructor feedback as more constructive](age-differences-prior-experience-and-ratings.md) — related

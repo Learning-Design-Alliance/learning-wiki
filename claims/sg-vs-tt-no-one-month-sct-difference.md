@@ -49,3 +49,4 @@ Retention assessment of the same randomized trial: 119 of 146 students retook th
 - [Nursing students report significantly greater satisfaction and motivation after serious-game simulation than after traditional teaching](sg-greater-satisfaction-motivation.md) — related
 - [Both serious-game and traditional-teaching groups similarly expect positive professional impact, with no significant difference between groups](sg-tt-no-professional-impact-difference.md) — related
 - [Serious-game simulation and traditional teaching produce no significant immediate difference in script concordance test scores for detecting patient deterioration in nursing students](sg-vs-tt-no-immediate-sct-difference.md) — related
+- [No significant retention advantage in knowledge or clinical reasoning at nine months](cleims-knowledge-retention-null.md) — related

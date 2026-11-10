@@ -101,3 +101,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The 8-item DialogPR shows acceptable-to-good internal consistency (Cronbach's alpha = 0.82) and SEM = 2.0 in a combined sample of 49 mother-child dyads](dialogpr-internal-consistency-alpha-082.md) — related
 - [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
 - [Psychometric profile of evaluation instruments: satisfactory Cronbach's alpha for most questionnaires, but criterion and construct validity data often lacking](psychometrics-evaluation-instruments.md) — related
+- [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related

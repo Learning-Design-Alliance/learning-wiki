@@ -48,3 +48,4 @@ Descriptive course-evaluation data collected over four semesters at the TUM Medi
 ## Related Claims
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
+- [A total of 495 tutors have been trained in the basic course in medical teaching, which is rated with a mean overall grade of 1.7 (SD 0.6)](495-tutors-basic-course-rated-1-7.md) — related

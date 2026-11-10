@@ -50,3 +50,4 @@ Conclusion-section report of the treatment group's survey responses after the fi
 - [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](ipad-supported-attention-and-metacognition-adhd-reader.md) — related
 - [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related
 - [Trainees most often checked new-word pronunciation with online dictionaries, but rarely checked words they believed they already knew](online-dictionary-pronunciation-checking.md) — related
+- [Participants judged the iPad slightly more useful for output-of-information activities than for input activities such as typing data](ipad-output-activities-more-useful-than-input.md) — related

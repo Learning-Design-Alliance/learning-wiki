@@ -47,3 +47,4 @@ Post-survey perception items from the sixty-participant study: "Most students (9
 ## Related Claims
 - [Underperforming students rated role play highly useful and preferred open-book tests over closed-book tests in remediation feedback](students-rated-role-play-open-book-tests-useful-remediation.md) — related
 - [Fewer than 40% of Chinese GP residency programs employ interactive learning methods such as role-playing, multidisciplinary team participation, or situational teaching for PMSC training.](interactive-pmsc-methods-fewer-than-40-percent.md) — related
+- [Most students reported learning to manage difficult communication situations after the role-play course](students-report-difficult-situation-learning-gains.md) — related

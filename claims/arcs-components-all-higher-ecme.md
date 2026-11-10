@@ -67,3 +67,4 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [The VRS intervention showed a significantly higher regression coefficient for learning confidence than traditional teaching in a generalized estimating equations model](vrs-greater-learning-confidence-growth.md) — related
 - [Treatment students rate the FA as more relevant than control students, while motivation, course satisfaction and perceived course relevance do not differ](relevant-fa-raises-perceived-fa-relevance-only.md) — related
 - [Participants rated a case-based antibiotic-prescribing e-learning module highly on the IMMS, with a median overall score of 71%](elearning-antibiotics-imms-ratings.md) — related
+- [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](cgbi-higher-motivation-availability.md) — related

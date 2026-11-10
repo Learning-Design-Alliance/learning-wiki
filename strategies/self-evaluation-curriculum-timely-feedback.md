@@ -48,6 +48,7 @@ The article recommends that "integrating a formal curriculum on self-evaluation 
 - [Use structured formative supports such as guided self-assessment checklists, benchmark examples, and mid-course feedback to scaffold novice self-evaluation in ultrasound training](structured-formative-support-self-assessment-ultrasound.md)
 - [Separate numerical scores from narrative feedback and enhance feedback specificity to mitigate outcome bias](separate-scores-from-narrative-feedback-strategy.md)
 - [Use the PK OSCAR for self-guided study, evaluator feedback, and tracking resident performance over time](oscar-feedback-and-progress-tracking-strategy.md)
+- [Include formal training on the biases affecting self-perception in medical education to develop doctors' accurate self-perception](formal-training-on-self-perception-biases.md)
 
 ## Examples
 -

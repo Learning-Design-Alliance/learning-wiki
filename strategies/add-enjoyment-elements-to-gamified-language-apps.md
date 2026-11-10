@@ -43,6 +43,7 @@ Based on their findings, the authors recommend that future language learning app
 - [Integrate math into game play and strategy rather than treating it as an add-on](integrate-math-into-game-play-not-add-on.md)
 - [Use free commercial apps such as Duolingo and Kahoot as gamified learning supports in language courses](commercial-apps-gamified-language-support-strategy.md)
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
+- [Analyse learner utilisation and engagement data from gamified educational software to identify modifiable engagement and attrition factors](metrics-driven-analysis-of-gamified-learning-use.md)
 
 ## Examples
 -

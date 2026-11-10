@@ -56,3 +56,4 @@ Descriptive analysis of post-PD Likert survey responses from the 50 participants
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
 - [Facilitators and participants rate the simulation training highly in satisfaction surveys](simulation-training-high-satisfaction-ratings.md) — related
 - [Program directors' perceptions of e-learning effectiveness are moderately positive and lowest for teaching interpersonal skills](pd-perceptions-elearning-moderate-lowest-interpersonal-skills.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — a narrower finding that bears on this claim

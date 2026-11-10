@@ -49,3 +49,4 @@ Prospective evaluation of 146 third-year medical students allocated to SP, IP or
 - [Patients rated students who trained with a simulated patient as significantly more empathetic than students who trained with a real patient](care-sp-vs-real-patient-higher-empathy-rating.md) — related
 - [Patients rated students who trained with a simulated patient as significantly more empathetic (lower CARE scores) than students who trained with an incognito simulated patient](care-sp-vs-incognito-higher-empathy-rating.md) — related
 - [Lower-empathy students' gains appeared in fantasy, empathic concern and personal distress sub-scales but not perspective-taking](pbl-empathy-subscale-pattern.md) — related
+- [Faculty-rated communication skills in interviews with real patients do not differ significantly from ratings in interviews with standardized patients](real-patient-skills-match-standardized-patient-skills.md) — related

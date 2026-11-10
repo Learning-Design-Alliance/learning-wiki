@@ -66,3 +66,4 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related
 - [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](chatgpt-automates-cbl-workbook-effort.md) — related
 - [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related
+- [Professional identity, working culture, and a habit of problem-solving on patients’ behalf made implementing self-management approaches difficult for some clinicians](professional-identity-barrier-self-management-facilitation.md) — related

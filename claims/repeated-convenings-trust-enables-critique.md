@@ -77,3 +77,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
 - [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related
 - [Participants applied the learning: more than 60% used session resources, 47% shared them, and 19 respondents reported planning, advocacy and guidance-drafting actions](participants-used-and-shared-session-resources.md) — related
+- [In learner-centred CME workshops, a friendly collaborative context emerges as the core category linked to knowledge sharing and improved learning outcomes](friendly-collaborative-context-core-category-cme.md) — related

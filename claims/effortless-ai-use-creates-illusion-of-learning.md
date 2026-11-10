@@ -74,3 +74,4 @@ The article reports, citing the Shen and Tamkin (2026) preprint (a randomized co
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — a narrower finding that bears on this claim
 - [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related
 - [Candidates desired immediate formative feedback during the MMI and found it hard to gauge their own performance](candidates-desire-formative-feedback-mmi.md) — related
+- [Illusion demonstrations were the most interesting and best-remembered parts of the lecture, and none of the test-question demonstrations were listed as best remembered](illusions-most-interesting-remembered.md) — related

@@ -58,3 +58,4 @@ A targeted, agent-reviewed ten-request live textbook audit of the production pat
 - [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](retrieval-misses-attributed-to-query-formulation.md)
 - [Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe](llama-guard-failure-cases-subtle-education-risks.md) — related
 - [Manual error analysis finds incomplete retrieval is the most frequent failure category, ahead of code-semantics limits, bilingual retrieval gaps, and over-conservative refusals](eduguard-failure-analysis-incomplete-retrieval.md) — related
+- [All interviewed trainees completed audits and many reported audit findings producing changes in service practice](etatmba-audit-projects-drove-service-changes.md) — related

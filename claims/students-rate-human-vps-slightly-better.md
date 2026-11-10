@@ -49,3 +49,4 @@ Survey of 44 responses from 31 medical students across three universities, each 
 - [Human-created VPs showed greater variety in storytelling, differential diagnosis, and patient-doctor interaction than ChatGPT-generated VPs](human-vps-greater-variety.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — reports the opposite
 - [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — reports the opposite
+- [Students rate global linear VPs highest for active engagement in gathering patient information and overall worthwhile learning experience, and lower for feedback-driven reasoning support](vp-usefulness-strengths-data-gathering-overall-judgment.md) — related

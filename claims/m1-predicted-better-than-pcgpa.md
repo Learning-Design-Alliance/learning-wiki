@@ -51,3 +51,6 @@ Hierarchical regression results across all German medical schools, corrected for
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — related
 - [Casper shows weak but significant correlations with cognitive admission criteria including Abitur grade, TMS, and HAM-Nat logical reasoning, but not with science knowledge or arithmetic subtests](casper-german-pilot-discriminant-validity-cognitive.md) — related
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
+- [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
+- [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
+- [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — related

@@ -51,3 +51,6 @@ Same cluster-randomised trial, competency assessed one-month post-teaching with 
 - [Advantage of game-based blended learning increases with cognitive complexity of EBM tasks, with no significant difference for question formulation](effect-size-gradient-ebm-task-complexity.md) — related
 - [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
 - [Blended learning students report significantly higher self-efficacy, attitudes and behaviour toward EBM than didactic learning students](bl-higher-self-efficacy-attitudes-behaviour.md) — related
+- [Blended-learning students reported higher self-perceived critical appraisal competence and greater satisfaction with the EBM course than didactic students](blended-higher-self-perceived-appraisal-satisfaction.md) — related
+- [Blended-learning and didactic EBM courses produced no difference in EBM competency measured with the Berlin tool in graduate medical students](blended-vs-didactic-ebm-berlin-no-difference.md) — related
+- [Didactic-group students reported higher self-perceived competence in constructing clinical questions and searching the literature than blended-learning students](didactic-higher-question-construction-confidence.md) — related

@@ -49,3 +49,4 @@ Interaction term from the multivariate mixed-effect ordinal logistic regression 
 - [Faculty raters gave lower entrustment ratings than resident raters across all NCAT-EM domains in univariate analysis](faculty-raters-lower-entrustment-than-residents.md) — related
 - [URM status is associated with lower NCAT-EM scores in the global assessment, history/physical, and prioritized differential domains after multivariate adjustment](urm-status-lower-ncat-em-scores.md) — related
 - [URM students had fewer submitted NCAT-EM assessments than non-URM students](urm-students-fewer-ncat-em-forms.md) — related
+- [Students assessed by trained raters more often found their grade inadequate despite high concordance between rater and self-assessment grades](trained-raters-students-discontent-self-assessment.md) — related

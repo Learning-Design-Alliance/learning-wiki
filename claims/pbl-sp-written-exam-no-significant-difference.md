@@ -52,3 +52,4 @@ Final written exam (60% of total score, same closed-book paper for both groups) 
 - [In the same RCT, the experimental group showed greater score gains than the control group in both written examination (22.24 ± 5.20 vs. 10.64 ± 5.96) and practical operation (21.80 ± 4.71 vs. 12.12 ± 4.79) outcomes](pbl-virtual-simulation-greater-score-gains-trauma-orthopedics.md) — reports the opposite
 - [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related
 - [Replacing the first PbL group meeting with a written internet chat does not worsen summative exam results compared with conventional on-site PbL](bpbl-chat-first-session-no-exam-difference.md) — related
+- [A blended learning block course significantly improves orthopedics and traumatology knowledge for both e-learning users and non-users](blended-pbl-course-improves-knowledge-both-groups.md) — related

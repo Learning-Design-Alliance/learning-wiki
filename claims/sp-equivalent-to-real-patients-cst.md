@@ -55,3 +55,4 @@ The review reports a study comparing a generic communication skills programme wi
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
 - [Detailed role representation and joint rehearsal permitted a high degree of standardisation of SP roles, even over long periods](detailed-role-scripts-role-standardisation.md) — related
 - [A single 30-minute conversational placement raises speech pathology students' self-reported communication skill, knowledge and confidence regardless of whether the partner is a real patient, standardised patient or virtual patient](single-conversational-placement-raises-communication-self-efficacy.md) — related
+- [Standardised-patient practice does not raise self-confidence in clinical skills more than peer practice; both groups improve significantly](sp-peer-no-confidence-difference.md) — related

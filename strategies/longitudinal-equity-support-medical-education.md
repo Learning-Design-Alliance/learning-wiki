@@ -47,6 +47,7 @@ The authors recommend that equity policies address financial and psychosocial pr
 ## Related Strategies
 
 - [Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade](hands-on-college-entry-assistance.md)
+- [Level the selection playing field by providing coaching to disadvantaged groups or using processes less amenable to coaching](level-playing-field-selection-coaching-access.md)
 
 ## Examples
 -

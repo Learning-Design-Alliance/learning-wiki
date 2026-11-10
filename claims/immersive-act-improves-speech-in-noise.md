@@ -75,3 +75,4 @@ Same linear mixed model on SNR across both sessions: a significant main effect o
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](speechreading-training-improves-av-speech-in-noise.md) — related
 - [Noise level moderates training-related SIN comprehension gains, with attenuated improvements under high- and low-noise conditions relative to no-noise trials](noise-moderates-sin-training-gains.md) — related
 - [Mean gain scores in reading comprehension increased across the three auditory training groups.](mean-gain-scores-increase-across-groups.md) — related
+- [Phoneme discrimination training did not produce consistent improvements in speech perception in noise](phoneme-training-no-speech-in-noise-improvement.md) — related

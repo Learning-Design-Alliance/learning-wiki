@@ -48,3 +48,4 @@ Questionnaire-based self-assessment (170 of 214 participants, 79.4%) compared wi
 - [Most students scoring insufficiently on the OSCE over-estimated their own performance (81.3% of those who self-assessed)](insufficient-scorers-overestimate-performance.md) — a narrower finding that bears on this claim
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Self-assessed clinical skills confidence correlates only weakly with objectively assessed performance, though it predicts OSCE performance better than year group or examiner allocation](self-assessed-confidence-weakly-correlates-osce-performance.md) — related
+- [Men estimated higher performance than women on both examinations, yet women outperformed men, particularly on the OSCE](gender-gap-in-estimates-favours-men-women-outperform.md) — related

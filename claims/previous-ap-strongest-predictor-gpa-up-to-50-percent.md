@@ -60,3 +60,6 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 - [Curriculum-sampling test scores show substantial incremental validity over high school GPA, with the combination explaining 37% of first-year and 49% of third-year GPA variance](curriculum-sampling-incremental-validity-over-hsgpa.md) — related
 - [The regression model based on cumulative GPA explains more variance than the model based on first-year GPA](cumulative-gpa-model-better-fit.md) — related
 - [The strongest Step 2 prediction model combined Step 1 results with four clinical mini board results, achieving an adjusted R2 of 62%](step2-strongest-prediction-step1-plus-clinical-miniboards-ar2-62.md) — related
+- [Adding CBSSA average to the regression model raises explained variance in Step 1 performance to 71.4%, with CBSSA the strongest predictor](cbssa-average-strongest-predictor-model2.md) — related
+- [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
+- [Each admissions tool adds incremental validity for explaining GPA variance, jointly explaining 3 to 36 per cent of variance](incremental-validity-multiple-admissions-tools.md) — related

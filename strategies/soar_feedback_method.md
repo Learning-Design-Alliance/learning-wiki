@@ -59,9 +59,11 @@ SOAR aligns with the finding that feedback is most effective when it addresses t
 
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the "A" in SOAR, elaborated as a standalone technique
 - [Rubric-Based Assessment](rubric-based-assessment.md) — supplies the shared criteria that make feedback specific and reasonable
 - [Peer Feedback Protocols](peer-feedback-protocols.md) — scales ongoing feedback between drafts while building student evaluative skill
+- [Build an explicit feedback mechanism into standardised-patient labs, since SPs cannot give skill feedback and its absence hinders learning](sp-lab-feedback-mechanism-strategy.md)
 
 ## Examples
 - **Writing-across-the-curriculum programs** (e.g., Michigan State's [The Writing Center @ MSU](https://writing.msu.edu)) train faculty to give limited, draft-cycle comments rather than terminal corrections — SOAR in institutional form.

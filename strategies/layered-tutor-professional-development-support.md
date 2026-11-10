@@ -53,6 +53,7 @@ The program sustains instructional quality through a multi-layered support syste
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 - [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
 - [Formalize peer tutoring through clear program structures, tutor training in pedagogy and communication, and recognition or incentives](structured-peer-tutoring-program-support.md)
+- [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
 
 ## Examples
 -

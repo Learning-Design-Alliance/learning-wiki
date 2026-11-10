@@ -54,6 +54,7 @@ The authors recommend that 'puzzle‐based teaching techniques be used regularly
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 - [Adopt low-cost, non-digital board games as adjuncts for complex biomedical topics](board-games-as-adjunct-for-complex-topics.md)
 - [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
+- [Use game-based e-learning for self-instruction on topics where student motivation is a problem](gbel-self-instruction-motivation-problem-topics.md)
 
 ## Examples
 -

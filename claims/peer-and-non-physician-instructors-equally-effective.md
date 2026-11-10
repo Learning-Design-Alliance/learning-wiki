@@ -66,3 +66,4 @@ Review synthesis noting the countervailing results: the bladder catheterization 
 ## Related Claims
 - [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — related
 - [Teaching quality of physical examination is determined by teacher qualification, content quality, and learning environment](teaching-quality-determined-by-teacher-content-environment.md) — related
+- [Students rated the bladder catheterization, physical examination and communication skills sessions not replaceable, while the central venous pressure session drew lower importance (59% satisfaction)](lab-topics-not-replaceable-cvp-lower.md) — related

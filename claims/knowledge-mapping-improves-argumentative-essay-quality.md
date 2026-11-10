@@ -54,3 +54,4 @@ Classroom design case study with 63 Japanese undergraduates (34 knowledge-mappin
 - [GD groups wrote essays significantly better in total grounds quality, total conceptual quality, and average conceptual quality, but did not cover more topics and were not better in average grounds quality.](gd-essays-total-grounds-conceptual-quality.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
 - [Non-knowledge-mapping students reported concentrating more on identifying the author's argument during reading than knowledge-mapping students](non-mapping-students-concentrated-more-on-identification.md) — related
+- [Learners made significantly more connections from problem solving to knowledge construction by the last case, but not in the reverse direction](ps2kc-connections-improved-kc2ps-did-not.md) — related

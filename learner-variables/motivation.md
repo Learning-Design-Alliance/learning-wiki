@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 459 claims (299 show a difference, 110 mixed, 50 no difference) · 326 studies (124 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 8 design), `q1`–`q4` · 90 of 326 report an effect size · 447 claims rest on one study
+> **Evidence** · 460 claims (300 show a difference, 110 mixed, 50 no difference) · 327 studies (124 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 9 design), `q1`–`q4` · 90 of 327 report an effect size · 448 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -509,6 +509,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students' perceptions of a controlling teaching style are negatively associated with their global intrinsic motivation in high school physical education](../claims/controlling-teaching-negative-intrinsic-motivation-pe.md) [+M] — measured as an outcome of the instruction studied
 - [Students interested in surgery completed significantly more self-guided practice sessions than non-interested students](../claims/surgical-interest-more-self-guided-practice.md) [+M] — learners who differ on it differ in outcomes
 - [Standardized patients joining a DRE training program report mainly intrinsic motivation and interest, with no predominant motive pattern](../claims/sp-dre-intrinsic-motivation-no-predominant-motive.md) [-M] — measured as an outcome of the instruction studied
+- [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](../claims/flipped-course-increased-eoh-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

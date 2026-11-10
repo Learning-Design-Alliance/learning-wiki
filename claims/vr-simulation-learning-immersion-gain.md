@@ -52,3 +52,4 @@ Measured with a 10-item, 5-point learning immersion scale (Cronbach's alpha .71 
 - [Both VR and written case simulation reduce disaster triage time, with no significant between-group difference](vr-disaster-triage-time-null-difference.md) — related
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
+- [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related

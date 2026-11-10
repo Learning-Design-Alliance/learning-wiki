@@ -46,6 +46,7 @@ The article reports that learners' "suggestions for improvements mainly concerne
 ## Related Strategies
 
 - [Extend online stroke training with practical content, deeper explanations and longer duration, and keep the programme accessible beyond the research period](extend-online-stroke-training-practical-content.md)
+- [Add tutor interaction channels (virtual forum and optional in-person sessions) and strengthen statistical explanations in online critical appraisal courses](tutor-forum-and-statistics-support-strategy.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Comparison of successful versus less successful solvers in the computer-trace da
 - [Grade-9 students using BioWorld significantly increased their confidence in their diagnosis from initial to final hypothesis](bioworld-confidence-increase-initial-to-final.md) — related
 - [Correctly diagnosed cases involved more time on history and physical exam, fewer tests and test rounds, and fewer test-ordering penalties](correct-cases-more-time-fewer-tests-fewer-penalties.md) — related
 - [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related
+- [Simulation-trained students were significantly more successful in diagnosing and treating organic phosphate insecticide poisoning, a multi-step case](simulation-success-organic-phosphate-poisoning-case.md) — related

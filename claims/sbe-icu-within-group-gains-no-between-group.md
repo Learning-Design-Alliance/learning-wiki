@@ -111,3 +111,5 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [ICU training was associated with higher knowledge but showed no significant association with observed ETS practice](knowledge-practice-gap-icu-training.md) — related
 - [An 8-week deliberate practice and simulation project increased second-semester sophomore nursing students' self-reported clinical competence and confidence by 37.26% from pretest to posttest](simulation-deliberate-practice-ccq-gain-37-percent.md) — related
 - [Simulator training improves self-efficacy in both feedback and control groups](simulator-training-improves-self-efficacy.md) — related
+- [No between-group difference in thyroid examination performance after video access, with both groups performing at a uniformly high standard](no-video-effect-thyroid-examination.md) — related
+- [Peer-assessment engagement during simulation training shows no significant benefit on retention-test performance measured two weeks after the course](peer-assessment-no-retention-benefit-two-weeks.md) — related

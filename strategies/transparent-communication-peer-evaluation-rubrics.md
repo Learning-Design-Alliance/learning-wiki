@@ -57,6 +57,7 @@ The essay recommends that instructors "clearly explain the types, goals, benefit
 - [Rubric Co Construction](rubric-co-construction.md)
 - [Co-Construct Rubrics](co-construct_rubrics.md)
 - [Self Assessment Rubrics](self-assessment-rubrics.md)
+- [Retain peer discussion in active learning for collaboration and communication goals while adding individual writing, and support instructor training](retain-peer-discussion-plus-instructor-training.md)
 
 ## Examples
 -

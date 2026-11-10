@@ -69,3 +69,4 @@ The review reports, citing Tanner et al., that "students were better if they had
 - [3DPAM production costs ranged from 1.25 to 2800 USD per model, and eleven studies concluded 3D printing costs less than plastinated or commercial models](3dpam-low-cost-feasibility.md) — related
 - [3DPAMs were significantly more effective than plastinated prosections for learning anatomy in two reviewed studies](3dpam-more-effective-than-plastinated-prosections.md) — related
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — a narrower finding that bears on this claim
+- [The majority of surveyed students (94%) rated plastinated prosections as a useful anatomical training tool but perceived limitations in tactile and emotional experience](plastinated-prosections-useful-limited-tactile.md) — related

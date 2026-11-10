@@ -47,3 +47,4 @@ Counterbalanced pre-test/post-test experiment in a lower-division child developm
 ## Related Claims
 - [The informal letter-writing assignment significantly improved scores on a midterm exam containing both multiple-choice and essay components](letter-writing-improves-mc-essay-midterm.md) — related
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
+- [Writing-containing active-learning treatments (writing-only and discussion+writing) yield higher exam essay performance than discussion-only treatment](writing-treatments-higher-exam-essay-than-discussion-only.md) — related

@@ -54,3 +54,4 @@ Meta-analysis of 16 controlled studies involving 1455 medical students (PBL grou
 - [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — related
 - [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related
 - [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) — related
+- [PBL is associated with a significant increase in students' theoretical examination scores compared with LBL in Chinese preventive medicine education (pooled SMD = 0.62)](pbl-higher-exam-scores-preventive-medicine-china.md) — related

@@ -46,3 +46,4 @@ Secondary ANCOVA (Table 3) adding number of letters completed as a covariate; th
 
 ## Related Claims
 - [The informal letter-writing assignment significantly improved scores on a midterm exam containing both multiple-choice and essay components](letter-writing-improves-mc-essay-midterm.md) — related
+- [Writing-containing active-learning treatments (writing-only and discussion+writing) yield higher exam essay performance than discussion-only treatment](writing-treatments-higher-exam-essay-than-discussion-only.md) — related

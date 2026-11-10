@@ -52,3 +52,4 @@ Observational analysis of the linked examination database, in which 854 (37.4%) 
 - [Lower starting age, higher GAMSAT score, and BME ethnicity independently predict successful completion of medical school among graduate entrants](gamsat-age-bme-predict-completion.md) — related
 - [Performance on MRCGP and MRCP(UK) is highly correlated, with disattenuated correlations of .748 and .698 between the knowledge examinations and .636 between the clinical examinations](mr-cgp-mrcp-uk-high-correlations-validity.md) — related
 - [The new-format CSA is better predicted by PACES than the old-format CSA, with no evidence of differential bias against BME candidates](new-csa-better-predicted-by-paces-no-ethnicity-interaction.md) — related
+- [Non-white students performed less well on the research methods and statistics exams](ethnicity-predicts-exam-performance-clinical-psychology-training.md) — related

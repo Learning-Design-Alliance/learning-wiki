@@ -53,3 +53,4 @@ Multivariable generalized linear mixed model with random intercept on 2077 ETI c
 - [First-pass endotracheal intubation success did not differ between cadaver-trained and manikin-trained students](cadaver-vs-manikin-first-pass-success-null.md) — related
 - [Performing at least three intubations annually, averaged over two years, predicts a proficient score on simulation-based ETI assessment](three-eti-per-year-predicts-proficiency.md) — related
 - [Annual ETI exposure and years of advanced-level experience are independently associated with confidence in performing ETI](eti-exposure-and-experience-associated-with-confidence.md) — related
+- [GVL first pass success improved with each calendar year of continued device use in the ED while DL first pass success did not](gvl-improved-over-calendar-years-dl-did-not.md) — related

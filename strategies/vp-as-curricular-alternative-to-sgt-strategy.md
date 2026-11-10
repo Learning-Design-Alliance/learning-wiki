@@ -45,7 +45,8 @@ The article recommends using virtual patient cases as an alternative, not merely
 - [Virtual patient and small-group teaching groups show no significant difference in theoretical test performance six weeks after the intervention](../claims/vp-sgt-no-difference-six-week-retention.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Use real patients' Internet forum questions as virtual cases for teaching and assessing clinical decision-making in undergraduates](internet-forum-questions-as-virtual-cases-strategy.md)
 
 ## Examples
 -

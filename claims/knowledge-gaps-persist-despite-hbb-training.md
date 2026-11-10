@@ -52,3 +52,5 @@ Finding from the discussion of the qualitative study; a focus group participant 
 - [A know-do gap exists in weighing neonates: 92% of IHCPs endorsed weight-based dosing but only 9% actually measured babies' weights](ihcp-know-do-gap-weighing-neonates.md) — related
 - [Healthcare workers who used newborn care skills routinely (nurse aides, midwives) retained skills better than those who did not (doctors, nurses)](routine-skill-use-associated-with-better-retention.md) — related
 - [Mentors report individual, logistical, and cultural barriers persisting across key neonatal resuscitation skills after simulation training](mentor-identified-barriers-nr-skills-bihar.md) — related
+- [Midwives perform newborn resuscitation as capably as doctors in knowledge, clinical skills, and confidence](midwives-as-capable-as-doctors-newborn-resuscitation-afghanistan.md) — related
+- [Midwives are more likely than doctors to receive newborn resuscitation training as part of pre-service education in Afghanistan](midwives-more-preservice-resuscitation-training-than-doctors.md) — related

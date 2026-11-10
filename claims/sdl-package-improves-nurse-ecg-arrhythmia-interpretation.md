@@ -52,3 +52,4 @@ Quasi-experimental one-group pre-test/post-test study of 50 cardiology nurses; p
 - [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related
 - [Greek ICU nurses demonstrate moderate theoretical ECG knowledge, with a median composite score of 6.0 of 10](icu-nurses-moderate-ecg-knowledge-greece.md) — related
 - [Scores on all 10 context-specific additional competencies increased significantly after training, with the largest gains in ECG and arterial blood gas interpretation](additional-competencies-all-significant-gains.md) — related
+- [Nurses' self-directed learning readiness increased significantly after the course, with the mean SDLRSNE score rising more than 5 points.](sdlrsne-readiness-increase-nurses.md) — related

@@ -49,3 +49,4 @@ Meta-analysis of 11 studies reporting pass rate data, using a random effects mod
 - [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — related
 - [PBL yields higher course examination excellence rates than LBL in introductory Chinese undergraduate medical courses](pbl-higher-excellence-rates-chinese-medical-courses.md) — related
 - [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](pbl-lbl-combination-no-significant-pass-rate-gain.md) — related
+- [Students taught with PBL have significantly higher theoretical test pass rates than LBL students (pooled OR = 2.88)](pbl-higher-pass-rate-preventive-medicine.md) — related

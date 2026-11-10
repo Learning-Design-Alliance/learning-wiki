@@ -50,3 +50,4 @@ Satisfaction survey (modified Larsen et al. 1979 questionnaire) completed anonym
 - [One year after implementation, 78% of surveyed trainees reported still using their neonatal CUS interpretation skills and sharing them with junior trainees](wbl-module-one-year-behaviour-change.md) — related
 - [Most trainees completing the e-module report high satisfaction and intend to alter their clinical practice](e-module-high-satisfaction-practice-intent.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
+- [Students rated the endocrinology videos as useful for learning and accessed them repeatedly, including via mobile download](student-perceptions-video-usefulness-and-access.md) — related

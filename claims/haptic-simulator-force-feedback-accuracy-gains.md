@@ -78,3 +78,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Feedback is essential for learning from simulation-based training](feedback-essential-for-simulation-based-training.md) — related
 - [Feedback frequency effects are mixed: higher-frequency intermittent feedback aided procedural skill acquisition, but overly intensive feedback can be inconducive early in learning](feedback-frequency-mixed-effects.md) — related
 - [Feedback improves basic practical skills learning, with expert-adapted verbal feedback, video self-review, and real-time force feedback each showing benefits over alternatives](feedback-methods-improve-basic-practical-skills.md) — related
+- [Virtual guidance reduces cortical perforations during simulator practice](virtual-guidance-reduces-perforations.md) — a narrower finding that bears on this claim

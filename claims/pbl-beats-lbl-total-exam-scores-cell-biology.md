@@ -50,3 +50,5 @@ Random-effects meta-analysis of 9 studies (1269 students) comparing PBL and LBL 
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — a broader claim this one bears on
+- [PBL effect sizes on examination scores increase with the methodological quality score of the included studies](pbl-effect-larger-higher-quality-studies.md) — related
+- [PBL is associated with a significant increase in students' theoretical examination scores compared with LBL in Chinese preventive medicine education (pooled SMD = 0.62)](pbl-higher-exam-scores-preventive-medicine-china.md) — related

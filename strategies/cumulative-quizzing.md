@@ -71,6 +71,7 @@ Cumulative quizzing combines two of the most robust findings in learning science
 - [Iterate the app with automatic zoom for small structures and longitudinally saved, personalized quiz content](brain-app-iteration-zoom-personalized-quizzes.md)
 - [Provide answers to probing questions one week after the session so students can quiz themselves for spaced repetition](delayed-answer-sheet-spaced-repetition.md)
 - [Reopen graded quizzes as ungraded, delayed practice near exam time and encourage all students — especially lower prior performers — to use them](delayed-requizzing-strategy.md)
+- [Implement a cumulative assessment program to benefit students' study progress](implement-cumulative-assessment-strategy.md)
 
 ## Examples
 - **Introductory statistics courses using weekly cumulative quizzes** — a common implementation in discipline-based education research; each quiz samples regression, descriptives, and probability from prior weeks alongside new material.

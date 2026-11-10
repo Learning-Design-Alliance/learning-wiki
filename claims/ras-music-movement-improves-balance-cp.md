@@ -48,3 +48,4 @@ Repeated-measures ANOVA with post hoc paired t-tests on the EPS pressure platfor
 - [Group-by-time interactions favored the intervention group over the control group on gait, balance and psychological outcomes](ras-group-time-interaction-favors-intervention.md) — related
 - [The RAS program improved self-esteem and several mood-state scores but not fatigue, depression or confusion within the intervention group](ras-music-movement-improves-self-esteem-mood-cp.md) — related
 - [An 8-week RAS music and movement program improved gait time and normal gait speed in athletes with cerebral palsy](ras-music-movement-improves-gait-cp-athletes.md) — related
+- [The study tested only static balance, leaving dynamic balance in dancers unmeasured](static-balance-only-limitation-dance-study.md) — related

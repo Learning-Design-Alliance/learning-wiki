@@ -52,3 +52,4 @@ The report's stated purpose, from its abstract: an examination of variability in
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
+- [Regression significance patterns varied substantially across institutions and years, with no significant coefficients at Institution C](regression-patterns-vary-across-institutions.md) — related

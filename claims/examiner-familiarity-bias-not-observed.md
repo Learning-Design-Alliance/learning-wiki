@@ -47,3 +47,4 @@ The authors' observation across the cohort's OSCE and Management Viva results: c
 ## Related Claims
 - [Once prior results, home sites and parallel results are controlled, examination site had no significant impact on Year 6 OSCE, Management Viva or MCQ results](exam-site-no-significant-impact-y6-assessments.md) — related
 - [In regression models of Year 6 OSCE and Management Viva results, only prior and parallel assessment results were significant predictors; home site and whether the examination site matched the home site were not](regression-prior-results-predict-y6-osce-viva.md) — related
+- [Educational background and rurality showed no significant effect on medical program performance outcomes](no-effect-educational-background-rurality-outcomes.md) — related

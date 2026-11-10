@@ -46,3 +46,4 @@ A classroom memory test in a school and college, all grades from third primary u
 
 ## Related Claims
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
+- [Illusion demonstrations were the most interesting and best-remembered parts of the lecture, and none of the test-question demonstrations were listed as best remembered](illusions-most-interesting-remembered.md) — related

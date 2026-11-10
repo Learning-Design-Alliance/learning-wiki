@@ -49,3 +49,4 @@ Multivariate sensitivity analysis (Table 4) constructing scenarios around increa
 - [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
 - [The sunk cost of transitioning to blended learning is recovered by lower running costs in the third program iteration, with growing present-value savings thereafter](bl-transition-cost-recovered-third-year.md) — related
 - [Blended learning is no more effective than didactic learning at increasing medical students' EBM competency as measured by the Berlin Questionnaire](bl-vs-dl-no-competency-difference-berlin.md) — related
+- [Blended-learning and didactic EBM courses produced no difference in EBM competency measured with the Berlin tool in graduate medical students](blended-vs-didactic-ebm-berlin-no-difference.md) — related

@@ -72,3 +72,4 @@ School-type comparison of ACT score trends during Era 3 (Chapter 4 heading and a
 - Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
 - [CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments](cps-psae-participation-below-nclb-95-percent.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — reports the opposite
+- [Enrollment in the tutor training program increased steadily across cohorts, with 27 graduates completing and 56 trainees enrolled](tutor-program-enrollment-increasing-cohorts.md) — related

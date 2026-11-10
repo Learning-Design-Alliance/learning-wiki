@@ -55,3 +55,4 @@ Psychometric evaluation in Sample 2A (N = 448 students) with descriptive reliabi
 - [The 29-item SCAS shows high internal consistency (Cronbach's alpha 0.960) with all item-total correlations above 0.3](scas-high-internal-consistency-alpha-960.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related

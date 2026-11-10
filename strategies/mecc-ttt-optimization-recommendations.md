@@ -55,6 +55,7 @@ The article recommends action at programme, individual and organizational levels
 - [Train the trainers in learning-promoting feedback approaches, supported by quality circle meetings sharing standards of good outpatient care](trainer-training-learning-focused-feedback-culture.md)
 - [Trainer-of-trainees scale-up strategy combining Moyo device rollout with HBB simulation training](tot-moyo-hbb-scaleup-strategy.md)
 - [Train-the-trainer (TTT) programs to standardize endoscopy training](train-the-trainer-endoscopy-programs.md)
+- [Cascade compact training across the midwifery service and integrate it into pre-registration curricula and mandatory CPD](cascade-compact-training-midwifery-education.md)
 
 ## Examples
 -

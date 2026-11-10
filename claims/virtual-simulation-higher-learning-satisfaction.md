@@ -51,3 +51,4 @@ Learning satisfaction measured by a 10-question questionnaire (100 points total)
 - [Students taught with flipped learning reported significantly higher satisfaction with the education method than traditionally taught students](flipped-learning-higher-satisfaction-patient-safety.md) — related
 - [Monthly patient satisfaction was higher for nurses trained with the combined procedural-pathway and information-management system](informatization-training-higher-patient-satisfaction.md) — related
 - Interns taught with an intelligent medical simulation system report significantly higher satisfaction with teaching than traditionally taught peers (94.0% vs 53.8%) — related
+- [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related

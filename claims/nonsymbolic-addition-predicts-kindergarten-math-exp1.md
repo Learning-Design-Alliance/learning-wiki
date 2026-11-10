@@ -58,3 +58,4 @@ Experiment 1 tested 41 kindergarten children from a low- to middle-class communi
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [Behavioral nonsymbolic numerosity acuity (RT and accuracy ratio effects) does not reliably predict formal math achievement in typical to high-achieving participants aged 6 to 34](behavioral-numerosity-acuity-does-not-predict-formal-math.md) — related
 - [Symbol mastery accounts for the association between non-symbolic arithmetic and school mathematics achievement in hierarchical regression](symbol-mastery-mediates-nonsymbolic-math-link.md) — related
+- [The three measures of ANS acuity are positively intercorrelated, consistent with a partially shared numerosity code](ans-measures-intercorrelated-common-code.md) — related

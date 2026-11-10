@@ -60,3 +60,4 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 - Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — reports the opposite
 - [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
+- [The pooled PBL effect is robust to exclusion of any single study, and no publication bias is detected](pbl-pooled-effect-robust-no-publication-bias.md) — related

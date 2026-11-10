@@ -51,6 +51,7 @@ Because in-service teachers reported fewer hindrances, presumably due to cumulat
 ## Related Strategies
 
 - [Take participants' gender into account when designing simulations for SBL](consider-gender-when-designing-simulations.md)
+- [Derive simulation scenarios from real clinical events and pitch them to the learners' background at the edge of their comfort zone](real-event-scenarios-at-comfort-zone-edge.md)
 
 ## Examples
 -

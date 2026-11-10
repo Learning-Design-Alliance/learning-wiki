@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (29 for, 15 mixed, 2 against) · 59 studies (17 causal, 15 review, 13 quant-synthesis, 7 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 59 report an effect size · 35 claims rest on one study
+> **Evidence** · 47 claims (30 for, 15 mixed, 2 against) · 60 studies (17 causal, 15 review, 13 quant-synthesis, 7 qualitative, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 60 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Simulation debriefs identified 15 of 20 total themes found by traditional needs assessment methods in a community critical care setting](../claims/simulation-debriefs-capture-15-of-20-themes.md) [+W] — attached 2026-11-09 from Sarti Aimee J et al. (2018), which proposed "Use simulation debriefs as a dual-purpose needs assessment and education method under certain conditions".
 - [Structured instructor-guided oral debriefing and video-assisted oral debriefing both improve neonatal resuscitation skills, with neither strategy superior to the other](../claims/oral-versus-video-debriefing-no-superiority-neonatal-resuscitation.md) [+W] — attached 2026-11-09 from Gamboa Oscar Andrés et al. (2018), which proposed "Three-stage structured debriefing: descriptive, analytical, and transference phases led by an instructor".
 - [Neither imposed structure nor lack of structure made interprofessional collaboration a salient debriefing topic despite it being an explicit learning objective](../claims/debriefing-patterns-block-interprofessional-reflection.md) [~W] — attached 2026-11-09 from Nyström S et al. (2016), which proposed "Debriefing as algorithm: a protocol-based, closed inquiry pattern".
+- [In the pig transport role play, students only recognise the performative impact of their own behaviour when observers report it back to them](../claims/observer-feedback-reveals-performative-impact.md) [+W] — attached 2026-11-10 from Doorn Neelke N. (2011), which proposed "Every role play should include a systematic plan for observation and feedback, preferably by the students themselves"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

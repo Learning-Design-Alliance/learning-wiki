@@ -179,6 +179,7 @@ What the observer can describe, what they can explain, their confidence, their o
 - [Record ECHO sessions for later viewing and add clinical shadowing and non-physician staff involvement to address time barriers](../strategies/echo-session-recordings-and-support-improvements.md)
 - [Give pre-service teachers feedback on their teaching practice through focus group discussions based on their diaries and observation records](../strategies/feedback-via-focus-group-discussions-strategy.md)
 - [Develop novice patient educators through observation of experienced educators, experiential training (roleplay and rehearsal), and supervised practice with constructive critical reflection](../strategies/observation-experiential-training-supervised-practice-strategy.md)
+- [Engage passive observers in structured peer assessment with a checklist during observational phases of simulation training](../strategies/structured-peer-assessment-during-observation-phases.md)
 
 ## Key Sources
 - Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1). [doi:10.53761/1.9.1.7](https://doi.org/10.53761/1.9.1.7)

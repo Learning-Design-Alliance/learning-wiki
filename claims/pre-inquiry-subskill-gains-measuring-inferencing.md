@@ -72,3 +72,4 @@ Table 3 posttest t-test row for observing: experimental 1.73 (0.876) vs control 
 - [Visuospatial inferencing relates to hypothesis validation and experimentation but not to generating conclusions when linguistic abilities are controlled](visuospatial-inferencing-stage-specific-scientific-reasoning.md) — related
 - [Within the eco-hunt group, all six science process skill dimensions improved significantly, with classifying improving most (39.3%) and predicting least (9.2%)](sps-dimension-gains-classifying-most-predicting-least.md) — related
 - [Experimental class outperforms control class on every individual science process skill indicator](experimental-class-outperforms-every-sps-indicator.md) — reports the opposite
+- [Inquiry-based biology laboratory courses produce significantly higher learning gains than non-inquiry laboratory courses, with a mean effect size of 0.73 in controlled studies](inquiry-labs-significantly-higher-learning-gains.md) — related

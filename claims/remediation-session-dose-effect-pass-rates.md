@@ -46,3 +46,4 @@ The guidelines narrate Winston’s pre-clerkship remediation findings, which the
 
 ## Related Claims
 - [Early identification of struggling pre-clerkship students at 4, 7, and 12 months increased participation in supportive services versus historical controls and improved completion of pre-clerkship studies](early-identification-supportive-services-completion.md) — related
+- [Long-term pass rates of remediated medical students correlate strongly with teacher context experience (r = 0.81) and total teaching experience (r = 0.72)](teacher-experience-correlates-remediation-outcomes.md) — related

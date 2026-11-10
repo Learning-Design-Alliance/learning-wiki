@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 191 claims (116 for, 70 mixed, 5 against) · 123 studies (73 causal, 19 quant-synthesis, 13 review, 8 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 123 report an effect size · 183 claims rest on one study
+> **Evidence** · 192 claims (116 for, 71 mixed, 5 against) · 124 studies (74 causal, 19 quant-synthesis, 13 review, 8 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 124 report an effect size · 184 claims rest on one study
 
 ## Conditional relationship
 
@@ -232,6 +232,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Student perceptions of the student-centeredness of flipped classrooms increase significantly over a semester](../claims/flipped-classroom-student-centeredness-perceptions-increase.md) [+W] — attached 2026-11-09 from Lee Young Hwan (2018), which proposed "Flipped classroom pattern: pre-class assignments plus in-class quizzes and structured academic debate".
 - [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](../claims/flipped-classroom-coi-all-three-presences-increase.md) [+W] — attached 2026-11-09 from Lee Young Hwan (2018), which proposed "Flipped classroom pattern: pre-class assignments plus in-class quizzes and structured academic debate".
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](../claims/link-timing-no-significant-viewing-difference.md) [~W] — attached 2026-11-09 from Rose E et al. (2018), which proposed "Distribute flipped-classroom preparatory materials at least three days before the in-class session".
+- [Learning gains in flipped classrooms are most likely attributable to active learning rather than the order of instructor facilitation](../claims/active-learning-not-flipping-drives-gains.md) [~W] — attached 2026-11-10 from Jensen Jamie L. et al. (2015), which proposed "Test flipped-classroom effectiveness against an active-learning control, not a lecture control"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

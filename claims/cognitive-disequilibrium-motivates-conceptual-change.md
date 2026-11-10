@@ -141,3 +141,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related
 - [The greater the reorganization of prior knowledge required, the harder new information is to acquire](reorganization-depth-difficulty-conceptual-change.md) — related
 - [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — a narrower finding that bears on this claim
+- [Scenarios should challenge participants to experience failures and feelings of inadequacy to drive reflection and learning](failure-driven-scenarios-drive-reflection.md) — related

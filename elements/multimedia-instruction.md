@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 113 claims (70 for, 40 mixed, 3 against) · 91 studies (66 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 19 of 91 report an effect size · 107 claims rest on one study
+> **Evidence** · 114 claims (71 for, 40 mixed, 3 against) · 92 studies (67 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 19 of 92 report an effect size · 108 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -149,6 +149,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The PowerPoint show (PPS) group's competence scores rose significantly from pre-test to post-test, while the interactive multimedia (IM) group's did not](../claims/pps-module-competence-gain-im-not.md) [+M] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Conventional PowerPoint show (PPS) module of narrated video lectures for mobile e-learning".
 - [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](../claims/im-vs-pps-no-difference-in-gains.md) [~M] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Conventional PowerPoint show (PPS) module of narrated video lectures for mobile e-learning".
 - [Overall summative assessment scores did not differ between students by 3MTL usage, though pairwise comparisons favoured heavy users](../claims/podcast-usage-overall-scores-null-pairwise-significant.md) [~W] — attached 2026-11-09 from Prakash S.S. et al. (2017), which proposed "3-MinuTe Lessons (3MTLs): eight audiovisual podcasts of ≤3 minutes as lecture supplements".
+- [In one single-group pre-post study, the number of surgical errors residents committed during selective neck dissection fell from 91 to 41 after exposure to a high definition video teaching module](../claims/hdvm-reduces-surgical-errors-neck-dissection.md) [+W] — attached 2026-11-10 from Mendez Adrian et al. (2014), which proposed "High definition video teaching module (HDVM) for selective neck dissection"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

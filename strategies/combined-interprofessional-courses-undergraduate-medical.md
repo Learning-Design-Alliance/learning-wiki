@@ -47,6 +47,7 @@ Because delegating work to non-medical personnel is expected to increase and lea
 - [Integrate profession-role exchange into cooperative learning-based community service learning as an extracurricular IPE design](integrate-role-exchange-into-community-service-ipe-strategy.md)
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Design shared interprofessional learning so both professions contribute in a balanced, mutually transactive way, supported by trac training](balanced-trac-design-strategy.md)
+- [Prepare medical students before interdisciplinary design modules by outlining design stages and promoting interprofessional benefits](preparatory-work-medical-students-interdisciplinary-modules.md)
 
 ## Examples
 -

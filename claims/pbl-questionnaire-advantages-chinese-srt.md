@@ -105,3 +105,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — related
 - [Element-level PBL studies show that problem quality, group functioning and prior knowledge predict interest, and familiar, learning-aligned, critical-reasoning problems raise interest and autonomous motivation](element-level-pbl-studies-predictors-of-interest.md) — related
 - [Students reported that the modified TBL problem-solving activities provided insufficient opportunity for clinical reasoning compared with PBL](tbl-insufficient-clinical-reasoning-opportunity.md) — related
+- [PBL shows significant pooled advantages over LBL on learning attitude, problem-solving skill, self-directed learning skill and collaborative skill](pbl-attitude-skills-outcomes-china.md) — related

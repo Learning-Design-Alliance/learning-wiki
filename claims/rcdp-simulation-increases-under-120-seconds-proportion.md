@@ -52,3 +52,4 @@ Simulator metric analysis in the same pilot study; the proportion of participant
 - [One-time pass rates for hands-on CPR, intubation, and defibrillation do not change significantly after integrated simulation with TBL](one-time-pass-rates-unchanged.md) — related
 - [The proportion of residents completing the exercise within the 5-minute limit rose after the course, but the difference did not reach statistical significance](completion-within-limit-nonsignificant-increase.md) — related
 - [In-situ simulation significantly increases physician comfort performing procedural tasks such as intubation under PPE precautions](insitu-sim-procedure-comfort-gain.md) — related
+- [Drilling time and total exercise time decreased from before to after simulator training, in one uncontrolled pre-post study](simulator-training-reduces-drilling-times.md) — related

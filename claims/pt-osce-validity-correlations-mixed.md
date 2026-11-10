@@ -101,3 +101,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — related
 - [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related
 - [Stratified self-assessment showed no correlation with OSCE scores for either the shoulder (0.02) or the knee (−0.07)](osce-self-assessment-no-correlation.md) — related
+- [Case report marks correlated with academic rather than clinical performance, questioning their validity as clinical indicators](case-reports-correlate-with-academic-not-clinical-performance.md) — related

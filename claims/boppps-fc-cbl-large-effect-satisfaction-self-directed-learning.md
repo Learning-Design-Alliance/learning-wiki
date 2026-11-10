@@ -79,3 +79,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Students taught with gamification (in a flipped learning environment or alone) were more satisfied than students taught by flipped class or lecture](gamification-methods-higher-satisfaction.md) — related
 - [Residents and the programme rated teaching quality significantly higher for the ADDIE-based flipped classroom than for traditional teaching](addie-flipped-classroom-higher-teaching-quality-rating.md) — related
 - [MPH students reported high overall satisfaction with the FC+CBL format in Introduction to Environmental Health Science](mph-high-satisfaction-fc-cbl-environmental-health.md) — related
+- [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related

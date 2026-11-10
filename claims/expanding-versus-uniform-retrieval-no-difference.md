@@ -55,3 +55,4 @@ Meta-analysis (subset 2) aggregating 54 effect sizes from studies comparing expa
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — reports the opposite
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related
 - [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — reports the opposite
+- Expanding retrieval practice intervals yield significantly greater recall than steady intervals, and retrieval practice doubles performance over no-retrieval controls — reports the opposite

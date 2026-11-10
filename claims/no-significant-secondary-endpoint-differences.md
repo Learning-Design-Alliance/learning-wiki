@@ -50,3 +50,4 @@ Secondary-endpoint comparison at CHE II in the FAS (n = 18), reported in Table 6
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
 - [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — related
 - [No significant difference in operating-room camera navigation performance between simulation-trained camera, procedure, and control groups](no-transfer-or-camera-navigation-difference.md) — related
+- [Staff surgeon takeover events during residents' neck dissections fell from 66 before to 24 after HDVM exposure in one group with no comparison group](hdvm-reduces-staff-takeover-events.md) — related

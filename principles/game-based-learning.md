@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 118 claims (66 for, 49 mixed, 3 against) · 90 studies (41 causal, 19 quant-synthesis, 18 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 90 report an effect size · 112 claims rest on one study
+> **Evidence** · 121 claims (69 for, 49 mixed, 3 against) · 92 studies (43 causal, 19 quant-synthesis, 18 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 25 of 92 report an effect size · 115 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,9 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Serious-game training improved economy of time and motion and reduced the help needed from the supervising surgeon](../claims/serious-game-economy-and-independence.md) [+W] — attached 2026-11-09 from Haubruck P et al. (2018), which proposed "Implement serious games with relevant content in surgical curricula in addition to traditional learning methods"; tests this page's relationship.
 - [Fifth-year medical students who chose training with the Serious Game EMERGE scored significantly higher on a key feature examination than those who chose small-group PBL](../claims/emerge-higher-key-feature-exam-than-pbl.md) [+W] — attached 2026-11-09 from Middeke Angélina et al. (2018), which proposed "Use Serious Games as a resource-efficient alternative to intensive small-group teaching when broad case exposure is the goal"; tests this page's relationship.
 - [No significant performance difference between EMERGE and PBL groups on key feature cases discussed in both instructional formats](../claims/no-difference-shared-content-cases.md) [~W] — attached 2026-11-09 from Middeke Angélina et al. (2018), which proposed "Use Serious Games as a resource-efficient alternative to intensive small-group teaching when broad case exposure is the goal"; tests this page's relationship.
+- [Students reinforced with an educational card game showed significantly higher mean gain scores than students reinforced with traditional exercises](../claims/card-game-higher-gain-than-traditional.md) [+W] — attached 2026-11-10 from Gutierrez (2014), which proposed "Use educational card games as supplemental reinforcement rather than replacing traditional instruction"; tests this page's relationship.
+- [Computer game-based instruction produces significantly greater world history learning achievement than non-game-based instruction in Chinese senior high school students](../claims/cgbi-greater-world-history-achievement.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
+- [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](../claims/cgbi-higher-motivation-availability.md) [+W] — attached 2026-11-10 from Yu Zhonggen et al. (2014), which proposed "Blended computer game-based instruction structured around goal, rules, levels, participation control, unknown results, and timely feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

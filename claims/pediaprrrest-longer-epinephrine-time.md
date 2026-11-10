@@ -50,3 +50,4 @@ Secondary-outcome analysis in the nonrandomized simulation pilot (11 interventio
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](app-use-delays-call-and-first-compression.md) — related
 - [Pediatric residents reported four main difficulties using PediAppRREST during simulated resuscitation, prompting app redesign](pediaprrrest-qualitative-difficulties.md) — related
+- [Intervention teams initiated cardiac compressions 41 seconds faster than Control teams at the end of the first simulation week](cleims-resuscitation-compressions-year3.md) — related

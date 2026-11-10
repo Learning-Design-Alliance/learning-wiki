@@ -54,3 +54,4 @@ Blinded randomized controlled trial of 17 randomized residents (8 IVR, 8 control
 - [Medical students trained with a gamified VR cricothyrotomy simulation achieved significantly higher total procedural-step scores than students who watched an educational video](vr-cricothyrotomy-higher-procedural-score.md) — related
 - [Self-directed learning by video did not produce a statistically significant difference in total OSATS score between surgery resident groups](sdl-video-no-significant-osats-difference.md) — related
 - [Senior orthopedic residents trained with immersive virtual reality achieved higher OSATS scores on a cadaveric reverse shoulder arthroplasty than video-trained controls](ivr-training-higher-osats-scores-rsa-residents.md) — related
+- [No between-group difference in thyroid examination performance after video access, with both groups performing at a uniformly high standard](no-video-effect-thyroid-examination.md) — related

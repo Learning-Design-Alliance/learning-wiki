@@ -85,3 +85,5 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Both simulation and case-based discussion improved knowledge from pre-test to post-test, and scores were maintained at 4–6-month retention](both-methods-improve-and-maintain-knowledge.md) — related
 - [Knowledge gains from the IVR mLearning course persisted 10 months after training without further reinforcement](knowledge-gains-persisted-10-months-ivr-mlearning.md) — related
 - [In one group measured before and after a single virtual patient session, knowledge scores were higher at the follow-up test several weeks later than at baseline, but the difference was not statistically significant](vp-knowledge-gain-not-sustained.md) — related
+- [Pass-rates on the neural transmission speed question declined significantly between one and six weeks after the lecture, though they remained above baseline](question2-decline-time2-to-time3.md) — related
+- [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related

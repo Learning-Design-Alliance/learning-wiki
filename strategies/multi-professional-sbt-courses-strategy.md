@@ -47,6 +47,7 @@ The doctors expressed that training with other health professionals such as nurs
 ## Related Strategies
 
 - [Integrate basic life support as a mandatory curricular activity and use multi-professional simulation in teaching-service settings](bls-mandatory-curricula-multiprofessional-simulation.md)
+- [Use multi-professional simulation training with participants working in their normal team roles to strengthen emergency competency](multiprofessional-simulation-in-normal-roles-strategy.md)
 
 ## Examples
 -

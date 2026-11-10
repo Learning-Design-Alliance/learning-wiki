@@ -54,3 +54,4 @@ ANCOVA on the 20-item nutrition attitude questionnaire (Cronbach's α = 0.85) wi
 - [Students learning with PhET simulation reported slightly higher motivation than the PowerPoint control group on computer-attitude and self-determination aspects](phet-solar-system-motivation-gain.md) — related
 - [Students held positive attitudes toward the use of PowerPoint in vocabulary lessons](positive-student-attitudes-ppt-vocabulary.md) — related
 - [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — related
+- [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related

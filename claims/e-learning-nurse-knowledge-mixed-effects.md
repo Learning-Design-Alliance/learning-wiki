@@ -73,3 +73,6 @@ Same knowledge synthesis section. The review reports no effects in "7 SRs out of
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md)
 - [No included systematic review reported outcomes on nurses' practice change (Kirkpatrick level 3), so the transfer of e-learning to practice remains unknown](no-behavior-outcomes-e-learning-nursing-ce.md) — related
 - [Knowledge of drug interactions and contraindications remained poor (<50%) under both programmes](poor-interactions-contraindications-knowledge.md) — related
+- [E-learning and classroom teaching produce no overall difference in drug dose calculation learning outcome in nurses](e-learning-classroom-no-overall-difference-drug-dose-calculations.md) — reports the opposite
+- [Risk of error in drug dose calculations decreases after the course with no difference between e-learning and classroom groups](risk-of-error-decreased-no-method-difference.md) — related
+- [Overall learning gain from drug dose calculation courses is small, with conversion of units the only topic significantly improved](small-learning-gain-conversion-units-only-topic-improved.md) — related

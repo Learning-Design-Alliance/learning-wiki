@@ -70,3 +70,4 @@ Random-effects meta-analysis of panel interview studies (12 articles, 20 effect 
 - [A smaller share of the simulation-based MMI cohort failed to progress on time academically (6.4%) than of the two prior panel-interview cohorts (8.0% and 10.1%)](mmi-simulation-cohort-on-time-progression.md) — related
 - [A PA cohort admitted via simulation-based MMI experienced zero major professionalism events in the didactic year, versus 4.8% and 5.5% in two prior panel-interview cohorts](mmi-simulation-cohort-zero-major-professionalism-events.md) — related
 - [DPCC-MS scores correlate modestly with admission Multiple Mini Interview scores](dpcc-ms-mmi-convergent-correlation.md) — related
+- [The interview communication skills dimension is a small but statistically significant predictor of clinical skills, final WAM, and later-year knowledge outcomes](interview-communication-dimension-predicts-clinical-outcomes.md) — related

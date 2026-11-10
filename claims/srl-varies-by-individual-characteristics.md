@@ -77,3 +77,4 @@ Same penalized regression models. "SRL skills were substantially higher dup to 0
 - [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related
+- [Attendance rates vary substantially with observable characteristics: older, previously trained women with larger households attend more; married women and those farther from the venue attend less](attendance-correlates-probit-kenya.md) — a narrower finding that bears on this claim

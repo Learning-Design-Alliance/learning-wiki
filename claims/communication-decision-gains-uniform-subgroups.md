@@ -54,3 +54,4 @@ Subgroup analyses of retrospective learning gains per CRM factor among 238 parti
 - [Video-supported self-directed learning was feasible across professions, education levels, and experience levels in anaesthesia](self-directed-video-feasible-interprofessional.md) — related
 - [A simulation-based CRM workshop significantly improves situational awareness, decision-making, and role responsibility ratings on the Clinical Teamwork Scale](simulation-crm-workshop-improves-cts-awareness-decision-role.md) — related
 - [Decision making improves from first to second simulation in both seminar groups, so the gain is not specific to NTS training](decision-making-improved-both-groups.md) — related
+- [Subgroup patterns by professional experience: algorithms improvement significant only for >10 years experience, team communication only for 5–10 years, and handling not significant for 5–10 years](simulation-competency-gains-vary-by-professional-experience.md) — reports the opposite

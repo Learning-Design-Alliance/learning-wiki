@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 165 claims (109 show a difference, 35 mixed, 21 no difference) · 79 studies (46 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 25 of 79 report an effect size · 165 claims rest on one study
+> **Evidence** · 171 claims (113 show a difference, 36 mixed, 22 no difference) · 80 studies (47 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 25 of 80 report an effect size · 171 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -200,6 +200,12 @@ Personality traits are relatively stable individual differences, most often meas
 - [Neuroticism is positively associated with emotion-focused coping (especially emotional venting and isolation) while conscientiousness is positively associated with problem-focused coping](../claims/personality-coping-strategy-profiles.md) [+M] — learners who differ on it differ in outcomes
 - [Grit-perseverance, but not grit-passion, is significantly and positively related to college academic performance](../claims/perseverance-not-passion-predicts-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Extraversion and resilience correlate with lower tutor stress; most other personality traits show no correlation](../claims/extraversion-resilience-protective-tutor-stress.md) [~M] — learners who differ on it differ in outcomes
+- [Agreeableness predicts a better professional attitude but worse learning climate and evaluation of residents](../claims/agreeableness-mixed-teaching-effects.md) [~M] — learners who differ on it differ in outcomes
+- [Conscientiousness is positively related to evaluation of residents for non-surgical attending physicians only](../claims/conscientiousness-evaluation-residents-non-surgical.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional stability shows no relation with overall or domain-specific teaching performance of attending physicians](../claims/emotional-stability-no-teaching-performance-relation.md) [-M] — learners who differ on it differ in outcomes
+- [Extraversion is positively associated with specific teaching domains: learning climate, communication of learning goals, feedback, and evaluation of residents](../claims/extraversion-positive-specific-teaching-domains.md) [+M] — learners who differ on it differ in outcomes
+- [Extraverted attending physicians receive higher resident-rated overall teaching performance scores](../claims/extraversion-higher-overall-teaching-performance-attendings.md) [+M] — learners who differ on it differ in outcomes
+- [Openness is negatively associated with feedback quality for surgical attending physicians only](../claims/openness-negative-feedback-surgical-only.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -54,3 +54,4 @@ Construct validity test comparing three seniority groups on the RARP suturing ta
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — possibly the same claim (merge candidate)
 - [The 3D-printed LIIA model shows construct validity: MAOSATS scores differ significantly across expert, intermediate, and novice groups on the model](liia-3d-model-construct-validity.md) — related
 - [OSATS scores did not significantly distinguish groups stratified by formal professional level in the pilot study](osats-no-significant-distinction-by-professional-level.md) — related
+- [PGY-5 residents committed fewer errors on average than PGY-3 residents at baseline, which the authors cite as construct validity for error-based assessment](pgy5-fewer-errors-than-pgy3-construct-validity.md) — related

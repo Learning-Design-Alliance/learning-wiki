@@ -49,3 +49,4 @@ Randomized controlled teaching experiment with 59 undergraduates (VR n=29, contr
 - [No statistically significant difference between VR and control groups in offline image interpretation or patient inquiry scores](no-difference-offline-image-reading-patient-inquiry.md) — related
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — a broader claim this one bears on
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
+- [No statistically significant difference between simulation-trained and traditionally trained students on the deep vein thrombosis, drug allergy, or gastric perforation cases](no-significant-difference-dvt-allergy-gastric-cases.md) — reports the opposite

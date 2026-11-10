@@ -50,3 +50,4 @@ Multilevel analysis (Table 5) of the national cohort. The article reports the as
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
 - [In contrast to the MCAT, UKCAT predictive validity appears to persist or increase into the final clinical years of medical school](ukcat-predictive-validity-persists-clinical-years.md) — related
 - [UKCAT scores generally predict skills-based exam performance across medical school, but quantitative reasoning is borderline or non-significant in years 1 and 2 and coefficients are smaller than for theory exams](ukcat-skills-exam-prediction-weaker.md) — related
+- [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — related

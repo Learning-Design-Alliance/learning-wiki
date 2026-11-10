@@ -51,3 +51,4 @@ Resident survey respondents offered but not taking up district-based employment 
 - [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](stipends-enable-full-residency-participation.md) — related
 - [The main barrier to preceptorship was limited time and irregular preceptor schedules, reported by 71.4% of participants](preceptorship-barrier-limited-time-irregular-schedules.md) — related
 - [Most residents completed the self-directed curriculum mainly in their free time rather than during working hours](rostrac-training-mainly-free-time.md) — related
+- [Staff viewed the evaluated training with discomfort, and low participation was observed, with schedule conflicts, lack of financial reward, and inability to close laboratories cited as reasons](training-participation-barriers-in-hospital-laboratories.md) — related

@@ -51,3 +51,4 @@ Descriptive analysis of a Qualtrics Likert-scale survey completed by 25 students
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related
 - [Tool learning objectives were heterogeneous: 42% targeted anamnesis/history-taking interviews, 42% taught general communication skills, and 8% covered giving bad news](heterogeneous-learning-objectives-virtual-tools.md) — related
 - [SATMAS improved students' confidence in assessing and managing trauma patients](satmas-confidence-gains.md) — related
+- [Students scored lowest on patient-education items of the virtual case assessment, including explaining the probable diagnosis (means 2.8 and 2.5)](students-score-lowest-patient-education-items.md) — related

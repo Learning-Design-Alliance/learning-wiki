@@ -49,3 +49,4 @@ Independent t-tests on the last-case learning products in the two-group quasi-ex
 - [Medical students using a computer-based cognitive-mapping approach outperform those using a verbal-text approach in reasoning-process performance when learning with clinical cases](cognitive-mapping-outperforms-verbal-text-reasoning-process.md) — a narrower finding that bears on this claim
 - [Both groups reported moderate perceived learning gains with no significant differences between cognitive-mapping and verbal-text groups](cognitive-mapping-perceived-gains-no-difference.md) — related
 - [No significant difference between cognitive-mapping and verbal-text groups on subject-matter knowledge pretest or posttest scores](cognitive-mapping-no-posttest-knowledge-difference.md) — related
+- [Dual-mapping performance improved significantly in four of five aspects, but not in reasoning links](dual-mapping-aspects-improved-except-reasoning-links.md) — related

@@ -48,3 +48,4 @@ Subgroup analysis in the results of the observational study of 53 senior partici
 - [A 30-minute sandwich-mode MLE simulation course significantly improved mean incision length, angle and distance parameters across 82 perinatal care providers](mle-simulation-improves-three-parameters.md) — a broader claim this one bears on
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
 - [Midwives entered the course with substantially more MLE training and hands-on experience than obstetricians](midwives-more-prior-mle-experience.md) — related
+- [Experienced obstetricians and midwives also reported benefiting from simulation training despite significant prior experience](experienced-staff-benefit-from-simulation-training.md) — a broader claim this one bears on

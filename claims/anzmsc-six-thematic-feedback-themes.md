@@ -46,3 +46,4 @@ Inductive thematic analysis of open-ended comments on the University of Sydney S
 
 ## Related Claims
 - [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](ar-more-challenges-than-benefits-anatomy.md) — related
+- [Students' dissection experiences were largely positive, contradicting the view that dissection is an emotionally challenging way to learn anatomy](dissection-emotional-challenge-reconsidered.md) — related

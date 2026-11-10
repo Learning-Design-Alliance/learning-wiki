@@ -60,3 +60,5 @@ The authors report that "Men and women Ss varied in their responses to these con
 - [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related
 - [The e-learning programme produced no change in attitudes towards supporting perinatal women](elearning-no-attitude-change.md) — related
 - [Moving from small-group to whole-class discussion lowers comfort being oneself more for women than men, and lower competency students report less comfort](participation-context-comfort-gender-moderation.md) — related
+- [Female students reported more nervousness but higher gained-competence ratings than male students](gender-differences-nervousness-and-competence-gains.md) — related
+- [The detrimental effect of numerus clausus on learning was significant among female students but not among male students (Study 3)](numerus-clausus-learning-gender-interaction.md) — related

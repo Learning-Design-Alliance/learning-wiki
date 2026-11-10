@@ -50,3 +50,4 @@ Knowledge was assessed with a 10-item researcher-developed correct/incorrect too
 - [A chatbot-based self-directed learning program raises nursing students' self-confidence in mechanical ventilation nursing more than video lectures alone](chatbot-sdl-raises-ventilation-self-confidence.md) — related
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Self-directed learning and instruction-based learning produce equal knowledge and performance outcomes at the end of year two in physical therapy education](sdl-ibl-equal-study-outcomes-pt.md) — related
+- [No between-group difference in thyroid examination performance after video access, with both groups performing at a uniformly high standard](no-video-effect-thyroid-examination.md) — related

@@ -69,3 +69,4 @@ Cross-study summary of R2 and adjusted R2 from regression models with the ten LA
 - [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](concentration-motivation-time-management-stronger-female-predictors.md) — related
 - [All LASSI scales except Using Academic Resources correlate significantly with preclinical and Step 1 performance across the whole cohort](lassi-scales-except-uar-correlate-with-performance.md) — related
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — reports the opposite
+- [Concentration is the only LASSI study strategy correlated with USMLE Step 1 performance among pre-clinical medical students](concentration-only-study-strategy-correlated-step1.md) — a narrower finding that bears on this claim

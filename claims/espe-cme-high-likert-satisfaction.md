@@ -76,3 +76,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — a narrower finding that bears on this claim

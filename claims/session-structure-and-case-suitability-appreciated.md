@@ -46,3 +46,4 @@ Descriptive survey ratings of the tutored session format (30-min introduction, t
 
 ## Related Claims
 - [The simulation with the creation of the artificial buddy was the most appreciated part of the session (45.40% of open answers)](simulation-most-appreciated-part-ibuddy.md) — related
+- [Students rated the training method positively, with 71% stating aims were clearly defined and 83% rating demonstrations clear and detailed, but 48% found the time allotted to practice not fully satisfactory](simulation-lab-method-ratings-practice-time-insufficient.md) — related

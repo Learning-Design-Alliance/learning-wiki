@@ -49,6 +49,7 @@ Two implementable recipes the article offers for large classes. In "two-stage ex
 - [Think-Write-Pair-Share](think-write-pair-share.md)
 - [Peer Review Protocols](peer-review-protocols.md)
 - [Reciprocal Peer Feedback](reciprocal-peer-feedback.md)
+- [Retain peer discussion in active learning for collaboration and communication goals while adding individual writing, and support instructor training](retain-peer-discussion-plus-instructor-training.md)
 
 ## Examples
 -

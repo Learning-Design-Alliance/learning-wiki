@@ -70,3 +70,4 @@ Analysis of self-reported schooling time for 121 pupils grouped by retardation o
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
 - [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related
 - [First-year and sixth-year GPA were very highly correlated (r=0.745)](first-year-and-sixth-year-gpa-highly-correlated.md) — related
+- [Long-term pass rates of remediated medical students correlate strongly with teacher context experience (r = 0.81) and total teaching experience (r = 0.72)](teacher-experience-correlates-remediation-outcomes.md) — related

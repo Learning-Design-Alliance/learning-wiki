@@ -49,3 +49,4 @@ Comparison of post-PBL formative assessment scores (20 multiple-choice questions
 - [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
 - [Knowledge gains occurred in all three PZ-PUKT subdomains, with staging and wound description remaining comparatively weaker](knowledge-gains-all-pz-pukt-subdomains.md) — related
+- [Effect sizes for D-PBL-related questions were large and positive (>0.6) except for one question with a medium positive effect size](large-effect-sizes-dpbl-related-questions.md) — related

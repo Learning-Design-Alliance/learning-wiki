@@ -50,3 +50,4 @@ Systematic review of 42 studies; the abstract-level usability finding is corrobo
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — a narrower finding that bears on this claim
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Participants reported uniformly positive feedback on the multimedia environmental awareness programme](positive-feedback-multimedia-environmental-awareness-programme.md) — a narrower finding that bears on this claim
+- [Medical questions by patients on Internet health forums can be used for assessing clinical decision-making in undergraduate medical students](internet-forum-questions-assess-decision-making.md) — related

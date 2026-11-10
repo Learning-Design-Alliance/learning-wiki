@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 557 claims (357 for, 175 mixed, 25 against) · 357 studies (158 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 357 report an effect size · 552 claims rest on one study
+> **Evidence** · 558 claims (358 for, 175 mixed, 25 against) · 358 studies (159 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 358 report an effect size · 553 claims rest on one study
 
 ## Conditional relationship
 
@@ -555,6 +555,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Hands-on simulator practice (interactive teaching) yields higher urinary catheterisation scores at index examination than observation-only or lecture-only teaching](../claims/hands-on-simulator-practice-higher-index-catheter-scores.md) [+W] — attached 2026-11-09 from Waters Peadar S et al. (2014), which proposed "Increase the provision of simulation-based training for procedural skills to improve acquisition, retention and translation to clinical settings"; tests this page's relationship.
 - [Skills taught with hands-on simulator practice are retained better at 4 weeks, and lecture-only teaching shows the greatest learning decay](../claims/simulator-practice-better-four-week-retention.md) [+W] — attached 2026-11-09 from Waters Peadar S et al. (2014), which proposed "Increase the provision of simulation-based training for procedural skills to improve acquisition, retention and translation to clinical settings"; tests this page's relationship.
 - [Transparent simulator training yields higher OSATS-rated endourological proficiency than opaque simulator training and than verbal instruction alone](../claims/transparent-simulator-higher-osats-than-opaque-and-verbal.md) [+W] — attached 2026-11-09 from Hu Wen-Gang et al. (2015), which proposed "Use transparent simulator materials so trainees can observe internal anatomy and receive immediate visual feedback during procedures".
+- [Final-year medical students trained with computer-based simulation performed more correct medical approaches across five emergency cases than traditionally trained students](../claims/cb-simulation-more-correct-approaches-emergency-cases.md) [+W] — attached 2026-11-10 from Karakuş Akan et al. (2014), which proposed "Repeat web-based simulation training in complex medical cases to improve student success"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -55,3 +55,4 @@ The review reports, citing the systematic review by Zammit et al., that "72% of 
 - [Surgical simulators are highly effective and valuable for residents to practice technical maneuvers in rhinoplasty.](surgical-simulators-effective-rhinoplasty-technical-practice.md) — related
 - [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — related
 - [Junior residents score lower on OSAKA knowledge than senior residents (83.3% vs 88.9%; p = 0.0219)](junior-residents-lower-osaka-knowledge-scores.md) — related
+- [Junior students feel insecure about deficient anatomical knowledge before clerkships, while senior students can put these feelings in perspective](student-insecurity-anatomical-knowledge.md) — related

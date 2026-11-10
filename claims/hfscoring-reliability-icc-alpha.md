@@ -92,3 +92,5 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [The error-focused checklist shows lower internal consistency than the conventional checklist despite high inter-rater reliability for both](error-focused-checklist-low-internal-consistency.md) — related
 - [Mean OSCE checklist scores do not differ between NPI and control students](npi-no-difference-mean-osce-score.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — a narrower finding that bears on this claim
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related

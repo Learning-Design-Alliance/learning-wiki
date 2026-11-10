@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (106 show a difference, 25 mixed, 18 no difference) · 68 studies (32 causal, 27 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 31 of 68 report an effect size · 143 claims rest on one study
+> **Evidence** · 153 claims (109 show a difference, 26 mixed, 18 no difference) · 69 studies (32 causal, 28 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 31 of 69 report an effect size · 147 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -184,6 +184,10 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Non-symbolic training improved non-symbolic magnitude processing selectively by ratio and numerosity size](../claims/non-symbolic-training-ratio-and-size-selective-gains.md) [~M] — measured as an outcome of the instruction studied
 - [Symbolic training improved symbolic number-line estimation and generalized to spoken number-word comparison](../claims/symbolic-training-symbolic-tasks-and-verbal-transfer.md) [+M] — measured as an outcome of the instruction studied
 - [Symbolic training produced modest improvement in some non-symbolic magnitude processing, consistent with symbolic learning refining the ANS](../claims/symbolic-training-refines-non-symbolic-processing.md) [~M] — measured as an outcome of the instruction studied
+- [All three ANS acuity measures predict exact calculation after covariates, but only non-symbolic estimation and addition make unique contributions](../claims/ans-unique-contributions-exact-calculation.md) [+M] — learners who differ on it differ in outcomes
+- [Children with mathematical difficulties show lower ANS acuity than typically achieving peers in non-symbolic comparison and non-symbolic addition, with only a marginally significant estimation difference](../claims/md-children-impaired-ans-comparison-addition.md) [+M] — learners who differ on it differ in outcomes
+- [Non-symbolic comparison acuity improves with age in typically achieving children but remains stable in children with mathematical difficulties, while estimation and addition acuity improve in both groups](../claims/ans-comparison-trajectory-diverges-md-ta.md) [~M] — learners who differ on it differ in outcomes
+- [Non-symbolic estimation partially and non-symbolic addition fully mediate the effect of non-symbolic comparison on exact calculation](../claims/estimation-addition-mediate-comparison-calculation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

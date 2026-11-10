@@ -45,6 +45,7 @@ The review recommends that training go beyond one-off instruction: "The findings
 ## Related Strategies
 
 - [Prioritize regular, context-specific communication training with conversation guides and available technologies to embed GoPC conversations in practice](regular-context-specific-gopc-training-embedding.md)
+- [Establish structural and systematic vaccination supports: electronic immunization tracking, reminders, and extra social support for high-risk patients](systematic-vaccination-tracking-reminder-programs.md)
 
 ## Examples
 -

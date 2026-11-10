@@ -55,3 +55,4 @@ Spearman correlation across the full sample (Fig 3 reports n = 62) between STAI 
 - [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — related
 - [Anxiety weakly positively correlated with semester achievement in all subjects, but at the state exam only for Latvian language](weak-positive-anxiety-semester-correlation.md) — related
 - [Participants' prior ICT skills did not significantly correlate with e-learning experience or with blended learning score increment](prior-ict-skills-not-correlated-with-bl-outcomes.md) — related
+- [No significant difference in summative assessment scores between groups in either year](cleims-summative-assessment-null.md) — related

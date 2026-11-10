@@ -59,3 +59,4 @@ The article reviews Glenberg's (1976) continuous recognition memory experiment, 
 - [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](proportionality-rule-long-spacing-weeks.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — a narrower finding that bears on this claim
+- [The neural subsequent-memory pattern during retrieval holds at a short 5-minute test lag, consistent with studies using longer intervals](testing-effect-neural-pattern-short-lag.md) — related

@@ -72,3 +72,4 @@ Simple effects within the same experiment, with printed effect sizes d = 0.69 (g
 - [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md)
 - [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
 - [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
+- [Role choice showed a gender bias: 62% of male students but only 40% of female students chose the doctor's role](gender-bias-in-role-choice.md) — related

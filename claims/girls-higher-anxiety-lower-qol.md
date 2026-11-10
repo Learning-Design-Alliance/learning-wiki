@@ -69,3 +69,4 @@ Gender comparison of SF-36 domain scores; the article states "Girls had signific
 - [Sex-stratified results show subject-specific patterns: physical education predicts HRQoL in girls but not boys, while sciences and numeric ability predict HRQoL in boys but not girls](sex-stratified-subject-specific-hrqol-prediction.md) — related
 - [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related
 - [Mean anxiety decreased slightly before state exams without a statistically significant change in overall anxiety level between time points](anxiety-unchanged-before-state-exams.md) — related
+- [Medical students' quality of life is significantly lower before a major examination than after it](pre-exam-qol-lower-than-post-exam-med-students.md) — related

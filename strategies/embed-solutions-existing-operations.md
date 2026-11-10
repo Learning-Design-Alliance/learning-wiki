@@ -50,6 +50,7 @@ The article recommends routinizing a solution by attaching it to structures and 
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
+- [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
 
 ## Examples
 -

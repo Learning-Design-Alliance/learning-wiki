@@ -95,3 +95,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
+- [ACE items show excellent discrimination but three critical-appraisal items have poor internal reliability](ace-item-discrimination-reliability.md) — related

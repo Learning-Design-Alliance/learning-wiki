@@ -58,3 +58,4 @@ Randomized two-group comparison (n = 50 per group) in a two-week ACS clerkship a
 - [Medical students taught with combined PBL-CBL scored significantly higher on vascular surgery theoretical tests than students taught with traditional teaching](pbl-cbl-higher-theoretical-test-scores-vascular-surgery.md) — related
 - [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related
 - [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — reports the opposite
+- [Examination scores did not differ significantly between 2013 NextGenU/flipped classroom students and 2011 lecture-based students](flipped-exam-scores-no-significant-difference.md) — reports the opposite

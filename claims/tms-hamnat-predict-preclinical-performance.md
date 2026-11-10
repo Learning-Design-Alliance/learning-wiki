@@ -63,3 +63,6 @@ Nationwide survey study of 2113 medical students from all 38 German medical scho
 - [Mediocre school leavers with TMS scores of 117-124 performed significantly less well than most TMS-taking best school leavers but clearly above the 60% pass standard](mediocre-leavers-tms-117-124-above-pass-standard.md) — related
 - [In both best and mediocre school leavers, the TMS predicted pre-clinical academic performance better than the school-leaving GPA (TMS β=0.442-0.446 vs GPA β=0.238-0.047)](tms-predicts-preclinical-performance-better-than-gpa.md) — related
 - [Low TMS scores predicted study prolongation in both school-leaving grade groups (OR=0.890-0.853), whereas the school-leaving GPA did not predict continuity](tms-predicts-study-continuity-gpa-does-not.md) — related
+- [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
+- [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
+- [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — reports the opposite

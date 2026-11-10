@@ -66,6 +66,7 @@ CBQ converts a routine quiz into a metacognitive monitoring exercise: the confid
 - [Spaced Repetition](../elements/spaced-repetition.md) — calibration data can drive scheduling of what to review
 - [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
 - [Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests](award-points-for-non-answers-traub-rule.md)
+- [Use open-ended self-assessment with graded recall to drive content prioritization](open-ended-self-assessment-drives-prioritization.md)
 
 ## Examples
 - **Confidence-Based Marking in UK medical exams** — Gardner-Medford and Sparrow's confidence-weighted scoring scheme, used in medical school assessments to reward well-calibrated knowledge and discourage guessing.

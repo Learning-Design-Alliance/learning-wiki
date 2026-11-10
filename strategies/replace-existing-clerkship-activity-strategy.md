@@ -53,6 +53,7 @@ To fit human trafficking education into an already full third-year curriculum, t
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Infuse evolutionary content into existing courses and rotations rather than creating new courses](infuse-evolution-into-existing-curricula.md)
+- [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
 
 ## Examples
 -

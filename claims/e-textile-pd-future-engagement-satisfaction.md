@@ -75,3 +75,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Participants rated telesimulation positively on enjoyment, knowledge gain, suitability, and practical training opportunities](positive-perception-of-telesimulation.md) — related
 - [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related
+- [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related

@@ -54,3 +54,4 @@ Systematic review with content analysis of articles reporting witnessed or admit
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md)
 - [Medical students' views on learning pharmacotherapy cluster into four themes: Curriculum, Clinical placement, Theoretical teaching and Student responsibility](four-themes-students-pharmacotherapy-learning.md) — related
 - [Early academic failure carries far lower risk of later disciplinary action than unprofessional behavior in medical school](academic-failure-low-disciplinary-risk-versus-unprofessional-behavior.md) — related
+- [Unprofessional behavior and privacy violations on Facebook occur in 0.02% to 16% of cases across reviewed studies](facebook-unprofessional-behavior-privacy-violations-0-02-16-percent.md) — related

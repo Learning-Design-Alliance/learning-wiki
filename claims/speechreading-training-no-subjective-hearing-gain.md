@@ -72,3 +72,4 @@ Same GLMM analysis applied to the Speech, Spatial and Qualities of Hearing Scale
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](speechreading-training-improves-av-speech-in-noise.md) — related
 - [Lexical overlap between speechreading training material and test sentences did not significantly account for the observed training effect](lexical-overlap-not-a-confound.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Training reduced self-reported hearing disability, specifically for complex group-conversation listening situations, but not handicap](training-reduces-hearing-disability-group-conversation.md) — related

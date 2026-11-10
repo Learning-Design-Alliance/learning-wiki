@@ -47,3 +47,4 @@ Survey results on resources and staffing: peer-student-tutors were increasingly 
 ## Related Claims
 - [Nearly all surveyed German-speaking medical faculties offered undergraduate US courses, mostly combining compulsory and elective formats](26-of-28-faculties-offer-us-courses.md) — related
 - [Undergraduate US courses in the German-speaking area are offered heterogeneously with short hands-on scanning time and high student-instructor ratios](us-courses-heterogeneous-short-hands-on.md) — related
+- [A peer role-play communication course for preclinical students can be implemented without additional financial or human resources](role-play-course-no-additional-resources.md) — related

@@ -49,6 +49,7 @@ The authors developed cases by reviewing the monthly patient census and discussi
 - [Simulate the actual ED's resource constraints, including realistic delays for lab and radiology results](simulate-local-resource-constraints.md)
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
 - [Localize scenario-based emergency training with local faculty, translated materials, and debriefings in the local language](localized-contextual-scenario-training-strategy.md)
+- [Design computer-based simulation training around common malpractice cases identified from forensic experience](malpractice-case-based-simulation-design-strategy.md)
 
 ## Examples
 -

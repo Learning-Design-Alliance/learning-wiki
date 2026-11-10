@@ -50,3 +50,4 @@ Multiple regression with trial-studying score and HSMG as predictors of first-ye
 - [Curriculum-sampling test scores show substantial incremental validity over high school GPA, with the combination explaining 37% of first-year and 49% of third-year GPA variance](curriculum-sampling-incremental-validity-over-hsgpa.md) — related
 - [The trial-studying test predicts statistics-course achievement equally well as the math test, and the English test does not add unique contribution to specific course achievement](trial-studying-equals-math-test-statistics-grades.md) — related
 - [The trial-studying test has a slightly larger unique contribution than high school grades to predicting first-year dropout](trial-studying-unique-contribution-dropout.md) — related
+- [Each admissions tool adds incremental validity for explaining GPA variance, jointly explaining 3 to 36 per cent of variance](incremental-validity-multiple-admissions-tools.md) — related

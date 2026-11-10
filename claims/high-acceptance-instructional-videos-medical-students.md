@@ -48,3 +48,4 @@ Acceptance items on the 15-question online survey of 623 students; "626 students
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
+- [Nearly all surveyed faculty (96%) desire more meaningful instructional feedback](faculty-desire-meaningful-instructional-feedback.md) — related

@@ -44,7 +44,8 @@ The study ensured the video functioned as a just-in-time resource rather than re
 - [Among individual major LP steps, completion of slow and smooth needle advancement (step 7.1) rose from 44% before to 100% after the intervention in one group measured before and after, with no comparison group](../claims/step-7-1-needle-advancement-significant-improvement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use instructional videos of standard physical examination procedures, including common mistakes, as resources for independent student learning and teaching](instructional-videos-pe-standard-procedure.md)
 
 ## Examples
 -

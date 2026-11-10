@@ -52,3 +52,4 @@ Gender-group comparison of accuracy and confidence shown in Fig. 2 of the 252-pa
 - [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](female-students-significantly-higher-experiment-group.md) — related
 - [Female learners show a small but statistically significant advantage over males in L2 learning achievement (g = 0.17)](small-female-advantage-l2-achievement-meta-analysis.md) — a broader claim this one bears on
 - [Country significantly moderates the gender gap in L2 achievement, favoring females in China and males in Türkiye](country-moderates-l2-gender-gap-china-turkiye.md) — related
+- [Female gender and European/European-derived country of birth are small but statistically significant predictors of WAM and clinical skills outcomes independent of UAI](gender-country-of-birth-small-significant-predictors.md) — related

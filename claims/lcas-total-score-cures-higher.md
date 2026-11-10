@@ -49,3 +49,6 @@ Full-instrument known-groups comparison (n = 115: 60 CURE, 55 traditional) with 
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [The LCAS iteration scale differentiates CURE students from traditional lab students with a medium effect](lcas-iteration-differentiates-cures.md) — related
 - [Students and instructors show high agreement in designating courses as CUREs or traditional labs, supporting the LCAS as a measure of course design](student-instructor-agreement-course-designation.md) — related
+- [Only CURE students showed progress in views of science as creative and process based](cure-only-gains-creative-process-views-nature-of-science.md) — related
+- [CURE students report stronger project ownership than students in traditional lab courses or research internships](cure-project-ownership-stronger-than-lab-internship.md) — related
+- [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related

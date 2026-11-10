@@ -70,3 +70,4 @@ The article reports, citing a study in minimal-access surgical simulation compar
 - [Novice students grasp and place a 9.0 needle significantly faster with a microscope than with the Symani robotic system](microscope-faster-needle-grasp-placement-than-symani.md) — related
 - [Threading a 9.0 needle takes novices equally long with microscope and Symani robot](no-time-difference-needle-threading-microscope-symani.md) — related
 - [Augmented-reality HOST skills training yields better anastomosis skill scores than control in a review-reported randomized controlled trial](host-ar-training-improves-anastomosis-scores.md) — related
+- [A randomized controlled trial cited by the article found webinar-based and participative self-study learning produced significant and similar knowledge and ability gains](joshi-rct-webinar-vs-participative-learning.md) — related

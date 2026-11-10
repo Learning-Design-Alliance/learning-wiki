@@ -50,3 +50,4 @@ The report's introduction states its central estimate: cumulative losses from st
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
 - [Special days consume roughly 35 days per school year, about one-fifth of the year, with instructional reductions of 20 to 100 percent](special-days-35-days-one-fifth-year.md) — related
 - [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related
+- [Gross anatomy teaching hours in Australian medical schools fell from roughly 500 hours per year to an average of 52.5 hours in new graduate programs](anatomy-hours-reduced-australian-schools.md) — related

@@ -60,3 +60,4 @@ Systematic review with narrative synthesis of 15 studies of early clinical expos
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
 - [The intervention increased students' self-assessed confidence in dealing with oral diseases](pbl-case-increases-self-assessed-oral-confidence.md) — a narrower finding that bears on this claim
 - [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related
+- [In a PBL medical curriculum, clinical exposure — especially one-to-one contact with a real patient — is the prime motivating factor to study anatomy, while PBL paper cases offer insufficient incentive](real-patient-contact-motivates-anatomy-study.md) — related

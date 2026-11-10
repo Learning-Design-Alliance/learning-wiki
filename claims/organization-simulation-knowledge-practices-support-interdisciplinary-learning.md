@@ -72,3 +72,4 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](simulation-game-team-role-self-reflection.md) — related
 - [Test-group students showed high motivation and interest toward the interdisciplinary project in qualitative interviews](idt-test-group-motivation-interest-interviews.md) — related
+- [Staff and students both value authentic instructional approaches in interdisciplinary creative-design education](authentic-approaches-valued-interdisciplinary-design-education.md) — related

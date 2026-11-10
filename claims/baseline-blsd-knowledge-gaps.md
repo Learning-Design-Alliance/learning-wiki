@@ -51,3 +51,4 @@ Baseline descriptive results from questionnaire B in the observational survey of
 - [A brief BLS training session with real-time feedback improves future schoolteachers' CPR knowledge, raising self-declared ability to perform CPR from 58% to 100%](brief-bls-training-improves-teacher-cpr-knowledge.md) — related
 - [Baseline knowledge of positioning and attachment and hand expression is poor among BFHI-accredited hospital clinicians in China](poor-baseline-breastfeeding-knowledge-china.md) — related
 - [Knowledge of compression parameters was low: only 69.6% partially answered the universal compression-to-ventilation ratio correctly and only 33.2% answered all chest-compression depth options correctly](compression-ratio-depth-knowledge-low.md) — related
+- [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related

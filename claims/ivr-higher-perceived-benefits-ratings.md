@@ -54,3 +54,4 @@ Post-operation Likert questionnaire in the randomized trial: "the participants r
 - [iVR training has been reported as 34 times more cost-effective than a traditional course format](ivr-34x-more-cost-effective-than-traditional-course.md) — related
 - [Residents rated IVR training as more enjoyable, easier to use, and with greater teaching capacity than video training, except for implant-specific steps](resident-experience-ratings-ivr-vs-video.md) — related
 - [Students evaluated the serious game as more engaging but the e-module as easier to use](game-more-engaging-emodule-easier-to-use.md) — related
+- [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related

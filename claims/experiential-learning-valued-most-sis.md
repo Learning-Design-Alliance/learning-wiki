@@ -49,3 +49,4 @@ Open-ended evaluation questions (N = 18) coded by two independent coders accordi
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [A substantial share of participating students reported changed values and opinions about other cultures and the situation of migrants after the course](sis-changed-values-migrants-cultures.md) — related
+- [Perceived cultural differences and experienced crises mediate the exchange program's learning effects](cultural-difference-crisis-mediate-exchange-learning.md) — related

@@ -59,3 +59,4 @@ Self-reported study times recorded through the course's online studying platform
 - [Students in the combined flipped classroom + PBL group spent significantly more preparation time than lecture-based students (172 ± 33 min vs 108 ± 15 min)](flipped-pbl-increases-preparation-time-burden.md) — related
 - [Time spent preparing for the exam did not differ significantly between flipped classroom and lecture-based students](flipped-classroom-no-study-hours-difference.md) — reports the opposite
 - [Residents preparing with the serious game spent 2.5 extra hours on self-study compared with manual-only preparation](game-preparation-increased-self-study-time.md) — related
+- [Time spent online differed significantly across Year 2 groups (p < 0.0001), highest in Group B and lowest in Group D](time-online-varied-across-groups.md) — related

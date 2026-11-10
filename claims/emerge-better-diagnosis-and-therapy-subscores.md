@@ -49,3 +49,4 @@ Subscore analysis of the final EMERGE session log files, with category scores co
 - [Intervention improves information gathering, hypothesis generation, and differential diagnosis but not treatment planning](genai-cbl-reasoning-dimensions.md) — related
 - [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related
 - [Fifth-year medical students who chose training with the Serious Game EMERGE scored significantly higher on a key feature examination than those who chose small-group PBL](emerge-higher-key-feature-exam-than-pbl.md) — related
+- [Final-year medical students trained with computer-based simulation performed more correct medical approaches across five emergency cases than traditionally trained students](cb-simulation-more-correct-approaches-emergency-cases.md) — related

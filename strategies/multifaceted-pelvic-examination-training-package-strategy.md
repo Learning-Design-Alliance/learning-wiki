@@ -41,6 +41,7 @@ The authors recommend that achieving competency in gynaecological pelvic examina
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
+- [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
 
 ## Examples
 -

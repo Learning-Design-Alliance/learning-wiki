@@ -64,3 +64,5 @@ Bonferroni post hoc within-group pairwise comparisons of knowledge scores in the
 - [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related
 - [NIPT training significantly improved midwives' self-perceived knowledge about NIPT at one-month follow-up](nipt-training-improved-perceived-knowledge.md) — related
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
+- [Knowledge gains from the online oncogenetics module persisted and further increased at 6-month retention testing](online-genetics-cpd-sustained-knowledge-retention.md) — related
+- [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related

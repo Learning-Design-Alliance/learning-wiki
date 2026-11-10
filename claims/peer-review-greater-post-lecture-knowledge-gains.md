@@ -73,3 +73,4 @@ Within-group pre-to-post knowledge comparisons after the intervention using pair
 - [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related
 - [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](reflective-sessions-improve-mcq-knowledge-or-students.md) — related
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
+- [A blended learning block course significantly improves orthopedics and traumatology knowledge for both e-learning users and non-users](blended-pbl-course-improves-knowledge-both-groups.md) — related

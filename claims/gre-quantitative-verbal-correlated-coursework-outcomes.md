@@ -75,3 +75,4 @@ Same retrospective cohort correlational analysis of admissions statistics agains
 - [GRE Verbal scores predict some faculty evaluation items but show no consistent pattern across mentor ratings](gre-verbal-predicts-some-faculty-evaluations.md) — related
 - [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — reports the opposite
+- [Retrospective research supervisor ratings correlated with nearly all outcomes and may measure global course ability](research-supervisor-ratings-global-performance-indicator.md) — related

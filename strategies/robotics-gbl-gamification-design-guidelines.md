@@ -50,6 +50,7 @@ The review synthesizes a design space outlining best practices and pitfalls for 
 - [Gamified Practice](gamified-practice.md)
 - [Integrate innovative instructional approaches (gamification, VR/AR, robotic coding, STEM) and out-of-school settings into PBL](integrate-innovative-approaches-into-pbl.md)
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
+- [Analyse learner utilisation and engagement data from gamified educational software to identify modifiable engagement and attrition factors](metrics-driven-analysis-of-gamified-learning-use.md)
 
 ## Examples
 -

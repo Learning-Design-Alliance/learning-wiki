@@ -54,3 +54,4 @@ The review reports this prior meta-analysis as background motivation, citing it 
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
 - Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
 - The meta-analysis finds no major publication bias in the teacher personality–outcome associations — related
+- [Emotional stability shows no relation with overall or domain-specific teaching performance of attending physicians](emotional-stability-no-teaching-performance-relation.md) — a narrower finding that bears on this claim

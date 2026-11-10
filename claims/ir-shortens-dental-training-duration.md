@@ -59,3 +59,4 @@ Within the review's training-duration synthesis, Vincent et al.'s restorative de
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
 - [Learning curve-based training required shorter training duration and significantly fewer simulator procedures than fixed 1-hour training](individualized-training-shorter-duration-fewer-procedures.md) — related
 - [Procedure completion time showed no significant change across the five repeated PJ drills](pj-drill-procedure-time-no-improvement.md) — related
+- [Drilling time and total exercise time decreased from before to after simulator training, in one uncontrolled pre-post study](simulator-training-reduces-drilling-times.md) — related

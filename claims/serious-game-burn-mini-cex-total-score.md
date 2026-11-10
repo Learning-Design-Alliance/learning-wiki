@@ -52,3 +52,4 @@ A parallel-group randomized controlled trial of 70 medical students (35 per grou
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [Prehospital staff showed inadequate burns assessment skills, with only 13% of resuscitation fluid calculations correct in one simulation study](inadequate-burns-assessment-skills-prehospital-staff.md) — related

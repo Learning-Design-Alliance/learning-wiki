@@ -165,3 +165,4 @@ This was a single-group, cross-sectional observational pilot (19 residents) with
 - [Repeated MCQ test-enhanced learning produced no significant difference in delayed basic-science assessment scores among first-year anesthesiology residents](tel-mcq-no-effect-basic-science-neuroanesthesia.md) — related
 - [Learning scores rose strongly from pretest to first posttest but did not change further from first to second posttest after the game, in one uncontrolled pre-post study](learning-gain-poster-game-phases.md) — related
 - [A single flashcard review plus didactic lectures produced only a small (~10%) score increase in residents, but residents uniformly endorsed the flashcard method](pilot-flashcard-review-small-score-rise-residents-endorse.md) — related
+- [Both card-game reinforcement and traditional reinforcement produced significant pretest-to-posttest score increases](both-methods-significant-gains.md) — related

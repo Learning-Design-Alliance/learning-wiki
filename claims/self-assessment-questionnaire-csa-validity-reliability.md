@@ -61,3 +61,5 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
 - [The ad hoc 16-item Likert-5 questionnaire measuring motivation, autonomy and self-regulation showed acceptable validity and reliability (KMO = 0.807; α = 0.81)](adhoc-questionnaire-mot-aut-ser-validity.md) — related
 - [ASPECT's 16 items load onto three engagement factors (value of group activity, personal effort, instructor contribution) with Cronbach's alpha 0.78–0.91](aspect-sixteen-items-three-factors.md) — related
+- [ACE items show excellent discrimination but three critical-appraisal items have poor internal reliability](ace-item-discrimination-reliability.md) — related
+- [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related

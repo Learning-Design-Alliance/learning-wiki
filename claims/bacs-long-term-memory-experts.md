@@ -50,3 +50,4 @@ Picture-sorting study with tennis experts by Schack and Mechsner (2006), as repo
 ## Related Claims
 - [Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males](sport-disciplines-executive-functions-tennis-football.md) — related
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
+- [A video-feedback and questioning programme increases total and regulatory concepts in intermediate tennis players' problem representation](video-feedback-questioning-increases-problem-representation-concepts.md) — a narrower finding that bears on this claim

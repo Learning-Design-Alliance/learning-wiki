@@ -67,3 +67,4 @@ Phase 3 workshop surveys (N = 44 paper, 72.1% response; N = 35 online, 57.4%) an
 - [Four months after the workshop, attendees reported using Gen-Equip resources beyond their own practice: influencing other practitioners, teaching, and building primary care-genetics links](gen-equip-impact-beyond-individual.md) — related
 - [Gen-Equip e-learning modules significantly improve primary care professionals' pre/post knowledge and skills test scores (overall 66.7% to 89.9%, p < 0.001)](gen-equip-prepost-knowledge-skills-gain.md) — related
 - [Learners self-report changes in clinical practice behavior after using Gen-Equip modules, including family history taking, seeking specialist advice, and referral](gen-equip-self-reported-practice-change.md) — related
+- [Self-reported applicability of the module's knowledge received neutral scores for practice skills but positive scores for knowledge gains](applicability-neutral-skills-positive-knowledge.md) — related

@@ -52,3 +52,4 @@ Case report of dementia care training for newly graduated nurses; "all participa
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related
 - [The dementia care competency literature is limited on culturally sensitive care and absent on sub-populations such as young onset dementia](dementia-competency-literature-gaps-cultural-subpopulations.md) — related
 - [Staff who attended the therapist-assisted e-learning rated it positively, saying it exceeded expectations](e-learning-exceeded-staff-expectations.md) — related
+- [About half of trained providers shared their new dementia knowledge with other practice providers or staff after training](knowledge-sharing-with-practice-colleagues.md) — related

@@ -53,3 +53,4 @@ Descriptive survey results (Fig. 5): "90.3% (n = 28) of respondents reported tha
 - [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related
 - [Most surveyed residents reported laparoscopic skill improvement and endorsed continuing the at-home curriculum](residents-report-skill-improvement-at-home-laparoscopic-curriculum.md) — related
 - [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related
+- [Most simulation-group students rated the Erietta simulation positively and 69% would adopt it as a teaching tool](positive-student-evaluation-erietta-simulation.md) — related

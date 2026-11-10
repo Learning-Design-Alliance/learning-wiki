@@ -44,7 +44,8 @@ The article recommends exploring mHealth tutorial applications for training fron
 - [Agreement on avoiding contact with patients, bush meat and risky burial practices rose from pre- to post-intervention in one uncontrolled pre-post study](../claims/mhealth-tutorial-reinforces-positive-evd-attitudes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Allow learners at least 3 days of self-paced study time so computer-based skill training can transfer to everyday behavior](allow-at-least-3-days-self-paced-computer-training.md)
 
 ## Examples
 -

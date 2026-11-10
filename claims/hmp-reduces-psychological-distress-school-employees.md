@@ -71,3 +71,4 @@ Same intention-to-treat mixed effects models at the three-month follow-up (T6) i
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [Treatment effects were not moderated by employment category (teacher vs. other) or by intervention timing (summer vs. school year)](hmp-effects-not-moderated-employment-timing.md) — related
 - [Psychological distress decreased significantly from baseline to post-treatment in group-based MBCT completers](distress-reduction-group-mbct-cancer-completers.md) — related
+- [Employees with higher initial psychological distress and lower support-seeking were more likely to drop out of the computer-based stress management program](higher-distress-noncompleters-dropout.md) — related

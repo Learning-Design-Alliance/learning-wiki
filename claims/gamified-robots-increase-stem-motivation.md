@@ -54,3 +54,4 @@ Independent-samples t-tests on the 36-item ARCS-based Learning Motivation Scale 
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Puzzle-based teaching improves all four IMTS motivation sub-dimensions (attention, appropriateness, confidence, satisfaction)](puzzle-teaching-improves-imts-subdimensions.md) — related
 - [VRS teaching produced significantly higher posttest learning attention than traditional teaching, with no between-group differences in overall motivation or relevance and satisfaction](vrs-higher-learning-attention-posttest.md) — related
+- [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](cgbi-higher-motivation-availability.md) — related

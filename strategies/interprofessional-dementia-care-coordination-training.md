@@ -47,6 +47,7 @@ The article recommends that research show how to "improve the delivery of dement
 - [Require dissemination and implementation plans so dementia education research reaches practice](dementia-research-dissemination-implementation-strategy.md)
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Provide learners with a structured tool or guideline to guide care practice after dementia education](structured-tool-guideline-dementia-care-practice.md)
+- [Combine brief practice-based physician training with community service engagement and systematic referral feedback](combine-training-with-community-service-linkage.md)
 
 ## Examples
 -

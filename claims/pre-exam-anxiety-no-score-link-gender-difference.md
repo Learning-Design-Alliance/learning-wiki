@@ -73,3 +73,4 @@ Gender comparison of pre-exam VAS in the same study. The article reports "a medi
 - [OSCE results were not related to anxiety levels in either cohort](osce-results-unrelated-to-anxiety.md) — a broader claim this one bears on
 - [State anxiety showed no significant correlation with summative OSCE performance](no-correlation-state-anxiety-osce-performance.md) — possibly the same claim (merge candidate)
 - [Test anxiety does not correlate with previous or impending academic performance in medical school](test-anxiety-uncorrelated-with-academic-performance.md) — possibly the same claim (merge candidate)
+- [Men estimated higher performance than women on both examinations, yet women outperformed men, particularly on the OSCE](gender-gap-in-estimates-favours-men-women-outperform.md) — related

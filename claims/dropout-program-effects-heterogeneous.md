@@ -49,3 +49,4 @@ Heterogeneity test in the random-effects synthesis of the 130 coded samples. The
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
 - [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — reports the opposite
 - [The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered](mindfulness-schools-heterogeneous-underpowered.md) — related
+- [Compliance with home-delivered, computerized phoneme discrimination training was high, with 80% completing the requested training duration](high-compliance-home-delivered-auditory-training.md) — related

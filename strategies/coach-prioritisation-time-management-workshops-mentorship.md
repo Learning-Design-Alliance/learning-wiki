@@ -46,6 +46,7 @@ The article recommends that skills such as prioritisation, time management and s
 
 - [Explicitly teach Information Processing, Selecting Main Ideas, and Time Management within the curriculum](explicit-instruction-in-key-lassi-strategy-domains.md)
 - [Teach SDL skills explicitly and differentiate support by student group in bioscience courses](explicit-sdl-skills-teaching-differentiated-support.md)
+- [Teach stress-management and self-care skills to medical students facing examination periods](teach-stress-management-self-care-med-students.md)
 
 ## Examples
 -

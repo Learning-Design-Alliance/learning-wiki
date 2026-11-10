@@ -63,6 +63,7 @@ Segmenting works because working memory is severely limited; when a continuous a
 - [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
 - [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
+- [Chunking lecture content and using the pause procedure to improve student concentration](chunking-pause-procedure-concentration.md)
 
 ## Examples
 - **Mayer & Chandler (2001)** — the canonical experiment: a lightning-formation animation split into user-paced segments produced substantially better transfer than the continuous version.

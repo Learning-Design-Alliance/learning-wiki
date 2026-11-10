@@ -56,3 +56,4 @@ Meta-analysis of all 12 included RCTs (509 PBL and 494 LBL students) using a ran
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](pbl-lbl-increases-knowledge-scores-china.md) — related
 - [PBL+LBL significantly increases medical writing scores compared with LBL alone](pbl-lbl-increases-medical-writing-scores.md) — related
 - [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — related
+- [PBL is associated with a significant increase in students' theoretical examination scores compared with LBL in Chinese preventive medicine education (pooled SMD = 0.62)](pbl-higher-exam-scores-preventive-medicine-china.md) — related

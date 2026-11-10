@@ -75,3 +75,4 @@ Four independent expert raters (licensed obstetricians/gynaecologists) evaluated
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — related

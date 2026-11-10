@@ -55,3 +55,4 @@ Wilcoxon signed-rank within-group analysis of the intervention group in the quas
 - [The audit team's communication knowledge scores rose from pre-test to post-test after communication training, in one uncontrolled pre-post study](training-increased-communication-knowledge-scores.md) — a narrower finding that bears on this claim
 - [Training with a simulated patient significantly improves 1-year retention of first aid knowledge, but not self-efficacy, compared with control training](simulated-patient-improves-one-year-knowledge-retention.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
+- [Between-group knowledge differences favoring the intervention group grew from non-significant at pre-test to significant at post-test and retention](between-group-knowledge-difference-grew-over-time.md) — related

@@ -49,3 +49,4 @@ Inductive content analysis of the open-ended survey question on applying learnin
 - [Residents report they will apply online CBL learning when evaluating children with endocrine conditions](online-cbl-self-reported-application-clinical-practice.md) — related
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Postfall assessment was the most commonly identified key learning from the fall simulation, followed by postfall huddles and preventive interventions](postfall-assessment-top-key-learning-simulation.md) — related
+- [Most participants reported applying the newly acquired knowledge at least once a month](monthly-application-of-learned-genetics-knowledge.md) — related

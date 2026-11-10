@@ -51,3 +51,4 @@ Manikin-based two-minute CPR cycle assessment of 80 students immediately after A
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](visible-rfm-feedback-reduces-ventilation-variability-preterm.md) — related
 - [Ventilation outcomes after PBL with high-fidelity simulation are mixed: lower ventilation rate and tidal volume, with both groups below ERC recommendations](pbl-simulation-ventilation-quality-mixed.md) — related
+- [Bag-valve-mask ventilation proved difficult in simulation, with 60 of 70 participants failing to achieve adequate tidal volume in a paediatric manikin](bag-valve-mask-ventilation-difficult-in-simulation.md) — related

@@ -62,6 +62,7 @@ The paper presents Vygotsky's zone of proximal development as the construct at t
 - [Three-dimensional computer-mediated participatory simulation for information problem-solving instruction](../elements/3d-participatory-simulation-il.md)
 - [Scaffolding-based pedagogical model with adaptive feedback grounded in Zone of Proximal Development](../designs/scaffolding-adaptive-feedback-summary-assessment.md)
 - [Emotionalized dynamic assessment (EDA): dynamic assessment mediation loaded with Goleman's emotional intelligence framework](../designs/emotionalized-dynamic-assessment-eda.md)
+- [Derive simulation scenarios from real clinical events and pitch them to the learners' background at the edge of their comfort zone](../strategies/real-event-scenarios-at-comfort-zone-edge.md)
 
 ## Key Sources
 - Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957

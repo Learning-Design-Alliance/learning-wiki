@@ -54,3 +54,4 @@ Constant comparison analysis of open-ended survey responses; students commented 
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related
 - [Students identified SBL strengths of practice opportunity (86%), protected learning environment (77%), and knowledge retention (75%)](sbl-strengths-practice-protected-environment-retention.md) — related
+- [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related

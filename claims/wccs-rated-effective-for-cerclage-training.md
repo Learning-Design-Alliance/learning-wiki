@@ -48,3 +48,4 @@ Questionnaire evaluation by 13 obstetricians with prior McDonald cerclage experi
 - [Trainees with fewer than ten cerclage procedures reported higher satisfaction with the simulator than experts](trainees-rate-simulator-higher-than-experts.md) — related
 - [WCCS running costs per training are lower than a commercial cerclage training system](wccs-lower-running-costs-than-commercial.md) — related
 - [Realism ratings for prophylactic and emergency cerclage scenarios are positive but lower than overall effectiveness](wccs-realism-ratings-scenarios.md) — related
+- [Experienced obstetricians and midwives also reported benefiting from simulation training despite significant prior experience](experienced-staff-benefit-from-simulation-training.md) — related

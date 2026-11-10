@@ -52,3 +52,4 @@ Kruskal-Wallis H test of PRMQ scores across combined cortisol-tertile and stress
 - [Physical activity moderates but does not eliminate the elevated academic risk of the high-risk profile](physical-activity-moderates-academic-risk-partially.md) — related
 - [Preclinical medical students report significantly higher perceived stress than clinical students](preclinical-students-higher-perceived-stress.md) — related
 - [Only students high on both perceived stress and hair cortisol were at significantly increased risk of lower Year-1 pass rates, particularly male students](high-stress-high-cortisol-poor-performance.md) — related
+- [Serum cortisol does not change significantly between pre- and post-examination assessments](no-cortisol-change-across-exam.md) — related

@@ -53,3 +53,4 @@ Pre- and post-assessment of feedback value on six-point Likert questionnaires at
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related
 - [Medical students training MIS RYGB on a VR trainer in pairs reached proficiency with significantly fewer exercise repetitions than students training solo](pair-training-fewer-repetitions-rygb-proficiency.md) — related
+- [Students rated trainers highly, with the highest average values for approachability (4.5) and cooperativeness (4.75)](trainers-rated-high-approachability-cooperativeness.md) — related

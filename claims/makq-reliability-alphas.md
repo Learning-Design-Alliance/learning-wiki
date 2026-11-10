@@ -90,3 +90,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The German translation of TEAM shows psychometric properties comparable to the English and French versions, with high internal consistency and a single dominant component](german-team-psychometrics-validated.md) — related
 - [ISQ subscales show high teacher-level reliability at each of three measurement occasions](isq-high-teacher-level-reliability.md) — related
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related

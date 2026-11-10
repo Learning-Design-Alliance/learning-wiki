@@ -54,3 +54,4 @@ The OLS analysis (Table 3) shows the practice coefficient significant for female
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](tutor-contribution-female-satisfaction.md) — related
 - [Regression models explain approximately 75 percent of variability in students' global satisfaction with e-learning courses](regression-models-explain-75-percent-e-learning-satisfaction.md) — related
 - [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related
+- [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — related

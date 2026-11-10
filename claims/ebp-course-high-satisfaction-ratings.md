@@ -78,3 +78,5 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [High global satisfaction with the mobile application among m-learning students](high-satisfaction-mobile-application.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [A total of 495 tutors have been trained in the basic course in medical teaching, which is rated with a mean overall grade of 1.7 (SD 0.6)](495-tutors-basic-course-rated-1-7.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related

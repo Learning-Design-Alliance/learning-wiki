@@ -53,3 +53,4 @@ Correlational analysis of the low-stakes 2019 cohort (nLS = 159), where SJTs wer
 - [After correcting for range restriction, the HAM-SJT's relation to OSCE Interaction performance in the high-stakes sample rises to r = .20, comparable to the communal scale](ham-sjt-range-restriction-corrected-osce.md) — related
 - [Casper correlates with the German closed-ended SJT (HAM-SJT) but not with OSCE communication station performance](casper-german-pilot-convergent-validity-ham-sjt.md) — related
 - [Situational judgment tests reflect job performance and discriminate average from low performers, suggesting screening use](sjt-screening-discriminates-performers.md) — related
+- [Assessment center scores do not predict the third-year OSCE on basic clinical skills, supporting discriminant validity](ac-discriminant-basic-clinical-osce.md) — related

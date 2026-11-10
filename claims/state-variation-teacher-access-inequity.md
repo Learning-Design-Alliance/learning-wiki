@@ -59,3 +59,4 @@ State-by-state analysis in Appendix A (Table A1) recreating quintile comparisons
 - Whether disparities in access to novice teachers occur between districts or within districts varies widely by state — related
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
 - [Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers](highest-poverty-schools-inexperienced-teachers.md) — related
+- [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](metacognitive-time-outs-experienced-teachers.md) — related

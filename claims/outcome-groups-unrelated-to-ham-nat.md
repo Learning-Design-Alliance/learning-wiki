@@ -49,3 +49,4 @@ Table 2 comparison of outcome groups among students enrolled by entrance test; t
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
 - [Study outcome after three terms differs markedly by admission path, favouring entrance-test and excellence-quota students over waiting-list and foreign-quota students](admission-path-study-outcome-differences.md) — related
 - [Male students achieved slightly higher first-three-term outcome than female students (d = 0.19)](male-outcome-advantage-d019.md) — related
+- [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — related

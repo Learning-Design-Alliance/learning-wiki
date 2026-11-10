@@ -51,3 +51,4 @@ The review reports a 2013 randomized controlled trial by Hermann-Werner and coll
 - [A single simulation session with at least one hands-on simulator practice did not produce competence in IJV catheter insertion](single-simulation-session-no-expertise-cvc.md) — related
 - [The recently trained group completed 89% of expected procedural steps, while groups trained 4 or more years ago and untrained controls performed less than half.](recently-trained-completed-89-percent-of-steps.md) — related
 - [Skills lab training shows transfer of procedural skills to clinical practice, though transfer evidence is limited](skills-lab-transfer-to-clinical-practice.md) — related
+- [Trainees' self-efficacy for IV catheter insertion increased significantly after skills-lab training using the modified Peyton's Approach for small groups](modified-peyton-small-group-self-efficacy-gain.md) — related

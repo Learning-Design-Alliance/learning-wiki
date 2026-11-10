@@ -66,3 +66,4 @@ The same analysis of infusion predictors found "The odds of completing an infusi
 ## Related Claims
 - [Greater ease of training is associated with shorter total SCIG training time and shorter preparation duration](ease-of-training-associated-with-shorter-training-and-preparation-times.md) — related
 - [Shorter infusion preparation duration (≤20 min) is associated with higher odds of being in the best tertile for TSQM convenience and global domains](shorter-infusion-preparation-associated-with-tsqm-convenience-global.md) — related
+- [Compliance with home-delivered, computerized phoneme discrimination training was high, with 80% completing the requested training duration](high-compliance-home-delivered-auditory-training.md) — related

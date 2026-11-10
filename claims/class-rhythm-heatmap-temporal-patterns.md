@@ -52,3 +52,4 @@ Class rhythm heatmap analysis (Figure 3) of the pilot cohort's temporal interact
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
 - [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related
 - [LMS login patterns on non-class days show expected changes with gender, age, and season, validating them as containing circadian information](lms-logins-validate-circadian-information.md) — related
+- [Residents answered a gamified medical knowledge competition heavily outside scheduled hours, with 28.8% of questions completed on weekends and 53.1% between 17:00 and 08:00.](kaizen-im-off-hours-engagement.md) — related

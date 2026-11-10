@@ -50,3 +50,4 @@ Qualitative individual user-testing study of five junior oncologists (age range 
 - [Oncologists' most prominent learning needs for information provision are tailoring information to the individual patient, structuring and prioritising information, and dealing with patients' emotions](oncologist-information-provision-learning-needs.md) — related
 - [Physical reminder gadgets as an add-on to the digital training were discarded because no participant saw added value in them](physical-reminders-discarded.md) — related
 - [Oncological healthcare providers struggle to tailor information to individual patients, to structure information, and to deal with patients' emotions](hcp-struggle-tailoring-structuring-emotions.md) — related
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related

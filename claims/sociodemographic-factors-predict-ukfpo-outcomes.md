@@ -67,3 +67,4 @@ Multilevel model coefficient for IMD quintile in the Results section. The articl
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
+- [School science score predicted EPM only after confounder adjustment, and interview score predicted neither composite outcome in mutually adjusted analysis](tss-interview-composite-prediction-pattern.md) — related

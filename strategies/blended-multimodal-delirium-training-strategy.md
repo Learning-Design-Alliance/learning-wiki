@@ -53,6 +53,7 @@ The authors recommend that, following refinement, the e-learning program be embe
 - [Nurse-led multi-session training combining a hospital session with repeated home visits and follow-up phone calls](nurse-led-hospital-home-visit-training-strategy.md)
 - [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
 - [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
+- [Regular e-learning followed by a screening test with tailored follow-up for nurses' drug dose calculation skills](e-learning-screening-test-tailored-follow-up-strategy.md)
 
 ## Examples
 -

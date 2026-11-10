@@ -46,6 +46,7 @@ The article recommends four applications of its indicator system: quantitative c
 
 - [Match candidate skills to school needs using multiple data sources, prioritizing highest-need schools](turnaround-talent-recruitment-multiple-data-sources.md)
 - [Use the validated Korean HLC instrument for competency assessment, CPD gap identification, and pre–post training evaluation](hlc-assessment-cpd-training-strategy.md)
+- [Focus CPD programs for laboratory personnel on quality management systems, competence assessment, customer care, and case studies on locally common disease profiles](cpd-focus-qms-case-studies-customer-care-strategy.md)
 
 ## Examples
 -

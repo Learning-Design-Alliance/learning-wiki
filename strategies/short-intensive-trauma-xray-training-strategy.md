@@ -45,6 +45,7 @@ The review identifies plain trauma X-ray interpretation training as a strategy t
 
 - [Collaborate with radiographers when junior doctors interpret plain trauma X-rays](radiographer-collaboration-strategy.md)
 - [Combine emergency department exposure with structured trauma X-ray teaching programmes for junior doctors](structured-trauma-xray-teaching-programme-strategy.md)
+- [Include basic training in plain radiograph interpretation in physiotherapists' continuing professional development programmes](cpd-training-plain-radiograph-interpretation-physiotherapists.md)
 
 ## Examples
 -

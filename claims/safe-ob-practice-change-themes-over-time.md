@@ -67,3 +67,4 @@ Interview cohort at 4 months (46 participants); the authors attribute the fade-o
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Eclampsia incidence was marginally lower in PRONTO intervention hospitals at 12 months posttraining](pronto-eclampsia-marginally-lower-12-months.md) — related
 - [PRONTO training showed no statistically significant impact on the incidence of maternal complications](pronto-no-significant-impact-maternal-complications.md) — related
+- [Trainees in the ETATMBA programme reported using newly learned emergency obstetric skills in clinical practice, including PPH management and neonatal resuscitation](etatmba-trainees-implemented-clinical-skills.md) — a narrower finding that bears on this claim

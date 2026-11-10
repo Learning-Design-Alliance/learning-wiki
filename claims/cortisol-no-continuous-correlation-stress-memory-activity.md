@@ -51,3 +51,4 @@ Spearman correlation analysis among 106 preclinical medical students found no si
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
 - [Moderate and active physical activity are associated with lower salivary cortisol and higher serum serotonin in adolescents](pa-associated-lower-cortisol-higher-serotonin.md) — related
 - [Perceived stress and hair cortisol were not significantly correlated in this sample](pss-hcc-not-significantly-correlated.md) — related
+- [Serum cortisol does not change significantly between pre- and post-examination assessments](no-cortisol-change-across-exam.md) — related

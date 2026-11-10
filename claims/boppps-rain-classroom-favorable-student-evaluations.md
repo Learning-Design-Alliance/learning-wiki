@@ -66,3 +66,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [M-learning group rates learning process items more positively than control group](m-learning-group-higher-process-ratings.md) — related
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
 - [Simulation-group trainees rated some elements of the traditional training higher than control trainees, though differences tended to be low in magnitude](simulation-group-rated-traditional-training-higher.md) — related
+- [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related

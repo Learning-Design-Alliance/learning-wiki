@@ -50,3 +50,4 @@ Main questionnaire item asking students to compare their likelihood of respondin
 - [Response cards markedly increase student responding and quiz scores compared with hand raising](response-cards-increase-responding-and-quiz-scores.md) — related
 - [Around 80% of engineering students found EVS handsets useful or very useful for their Mathematics learning](evs-students-rate-handsets-useful.md) — related
 - [Response cards improve academic achievement and student responding compared with traditional hand raising](response-cards-improve-outcomes-vs-hand-raising.md) — related
+- [Hiding residents' answers until all had responded encouraged participation by all residents, in contrast to traditional lectures where only one or two students respond](hidden-answers-encourage-all-participation.md) — related

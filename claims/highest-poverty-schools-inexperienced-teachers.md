@@ -54,3 +54,4 @@ Descriptive statistical analysis of New Mexico educator workforce data reported 
 - [Out-of-field teaching is more common in high-poverty schools and lower tracks, concentrating the least qualified teachers with disadvantaged students](out-of-field-teaching-poverty-concentration.md) — related
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — a broader claim this one bears on
+- [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](metacognitive-time-outs-experienced-teachers.md) — related

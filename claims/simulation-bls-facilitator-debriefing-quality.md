@@ -84,3 +84,5 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [The teacher played a vital role in the session's success by providing guidance, expert comments and a supportive environment](teacher-guidance-vital-holistic-feedback-session.md) — related
 - [Medical leads felt written feedback was qualitatively different to feedback on verbal presentations, allowing concentration on correcting the structure of students' work](medical-leads-written-feedback-qualitatively-different-structure.md) — related
 - [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](psychological-safety-and-feedback-quality-facilitate-pa-learning.md) — related
+- [Critical reflection during debriefing requires facilitators and peers because individual reflection is biased by prior conceptualisation](facilitated-group-debriefing-critical-reflection.md) — related
+- [Clinicians valued brief self-management training that balanced theory with opportunities to practise skills, receive feedback, and work through case studies](theory-practice-balance-valued-in-brief-skills-training.md) — related

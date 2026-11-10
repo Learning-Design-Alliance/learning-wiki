@@ -49,3 +49,4 @@ Thematic analysis of student comments; "Video made the scenarios more real" was 
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
+- [Tutors reported increased student engagement at D-PBL option points and students valued simulating real-life case management stresses](dpbl-increased-engagement-option-points.md) — related

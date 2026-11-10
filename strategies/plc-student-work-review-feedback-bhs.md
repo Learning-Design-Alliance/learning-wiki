@@ -45,6 +45,7 @@ A strategy in which teachers meet regularly in small interdisciplinary groups to
 - [Peer Coaching](peer_coaching.md)
 - [Critique Protocol](critique-protocol.md)
 - [Critical Friends Protocol](critical-friends-protocol.md)
+- [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
 
 ## Examples
 -

@@ -82,3 +82,4 @@ In the longitudinal analysis of 112 children, ANS acuity (Panamath percent corre
 - [Prior knowledge measures were strong predictors of both algebra outcomes](prior-knowledge-strong-predictor-algebra-outcomes.md) — related
 - [The hypothesized mediation of the IPS-arithmetic association by symbolic number processing was not tested because no IPS-mathematics association was found](ips-mediation-by-symbolic-number-not-conducted.md) — related
 - [Symbolic number magnitude training, but not non-symbolic or control training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-gains-preschool-exact-addition.md) — related
+- [The three measures of ANS acuity are positively intercorrelated, consistent with a partially shared numerosity code](ans-measures-intercorrelated-common-code.md) — related

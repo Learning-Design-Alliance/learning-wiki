@@ -49,3 +49,4 @@ Descriptive results from three reviews addressing satisfaction and barriers: the
 - [Reviews of digital asthma interventions conflicted on whether interventions had an underlying theoretical basis](digital-asthma-interventions-theory-basis-conflicting.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
+- [CKD patients preferred web-based and PDA medication-inquiry platforms over SMS texting](sms-least-preferred-medication-inquiry-ckd.md) — related

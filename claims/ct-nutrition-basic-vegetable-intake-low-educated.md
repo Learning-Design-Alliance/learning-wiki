@@ -68,3 +68,4 @@ Type III tests in the linear mixed models for the three-group RCT (total sample 
 - [In exploratory analyses, both tailored versions increased the total number of dietary guidelines complied with, and the plus version improved fat-guideline compliance](ct-nutrition-compliance-guideline-exploratory-effects.md) — related
 - [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — related
 - [Self-regulation scores increased more in the control group than in either tailored intervention group at nine months](ct-nutrition-self-regulation-larger-control-increase.md) — related
+- [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related

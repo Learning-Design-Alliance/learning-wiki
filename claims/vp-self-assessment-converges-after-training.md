@@ -49,3 +49,4 @@ Self-assessment used seven knowledge and seven skills items on 100 mm visual ana
 - [Preparation with Web-based virtual patients yields significantly superior procedural knowledge and clinical decision-making scores before hands-on training](vp-preparation-superior-procedural-knowledge-pbls.md) — related
 - [Virtual patient preparation improves adherence to temporal demands of PBLS before and after hands-on training](vp-preparation-temporal-demands.md) — related
 - [VP preparation improves procedural quality scores before training, but the difference is no longer significant after equal hands-on training](vp-procedural-quality-mixed-after-training.md) — related
+- [Between-group knowledge differences favoring the intervention group grew from non-significant at pre-test to significant at post-test and retention](between-group-knowledge-difference-grew-over-time.md) — related

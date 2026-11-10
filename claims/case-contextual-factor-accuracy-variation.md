@@ -51,3 +51,4 @@ Case-level proportions on the post-encounter form across the three videotaped sc
 - [In both groups the proportion achieving a correct treatment plan exceeded the proportion achieving a correct leading diagnosis in most cases](treatment-plan-accuracy-exceeds-diagnosis-accuracy.md) — related
 - [Clinical reasoning measures vary substantially across acute dyspnoea case scenarios within both programme groups](case-variation-asclire-measures.md) — a broader claim this one bears on
 - [Board certified internists and resident physicians did not differ significantly in diagnostic or therapeutic reasoning accuracy on video-based post-encounter forms](no-accuracy-difference-board-certified-vs-residents.md) — related
+- [Completion of optional support cases exceeded completion of incidental cases in all groups, varying by group (interaction p = 0.035)](support-versus-incidental-case-completion-interaction.md) — related

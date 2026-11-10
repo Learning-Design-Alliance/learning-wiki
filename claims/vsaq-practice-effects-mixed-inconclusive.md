@@ -51,3 +51,4 @@ Exploratory analysis of practice effects drawing on Adesope et al. and van Wijk 
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related
 - [Most students (68.9%) found the practice tests beneficial for learning, with no perceived difference between VSAQ- and MCQ-practiced content](students-rate-practice-tests-beneficial.md) — related
 - [VSAQs are answered incorrectly more often than MCQs on practice tests, indicating lower initial retrieval success](vsaq-lower-initial-retrieval-success.md) — related
+- [Current evidence is insufficient to show that either assessment format consistently promotes more effective learning strategies in students preparing for examinations](assessment-format-learning-strategy-mixed.md) — related

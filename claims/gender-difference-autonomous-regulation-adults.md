@@ -58,3 +58,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 - [Women PA students show higher ethnocultural empathy and lower colorblindness and depersonalization than men](gender-differences-empathy-colorblindness-burnout.md) — related
 - [Male students report higher commitment to active learning than female students, with no grade difference](gender-difference-commitment-active-learning.md) — related
 - [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite
+- [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — related

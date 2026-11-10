@@ -50,3 +50,4 @@ A theoretical argument in this perspective article, citing prior literature on t
 - [Analytic clinical judgment not informed by high internal validity synthesis becomes obsolete and faces systematic error](uninformed-clinical-judgment-obsolete.md) — related
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
 - [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — related
+- [The DTI measures self-assessment of clinical reasoning, not actual diagnostic ability, limiting cross-faculty calibration](dti-measures-self-assessment-not-actual-ability.md) — related

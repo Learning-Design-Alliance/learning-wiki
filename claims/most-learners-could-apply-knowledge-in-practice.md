@@ -50,3 +50,4 @@ Performance expectancy results showed "98.5%" of learners for modules 1-4 respon
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Most postgraduate trainees (84.6%) reported confidence in applying CT skills in professional life after the foundation course](ct-course-confidence-feedback-84-percent.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
+- [Most participants reported applying the newly acquired knowledge at least once a month](monthly-application-of-learned-genetics-knowledge.md) — related

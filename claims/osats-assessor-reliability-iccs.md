@@ -79,3 +79,5 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Blinded video-based raters also scored the serious-game group significantly higher, and combined direct-plus-video ratings confirmed the difference](serious-game-osats-video-ratings.md) — related
 - [The CHAT achieves good reliability for assessing an individual handover call, with G = 0.73 using four assessors and G = 0.80 using six](chat-good-reliability-assessing-call.md) — related
 - [Inter-rater reliability of the DPCC-MS varies substantially across rater pairs, from poor to excellent](dpcc-ms-inter-rater-reliability-variable.md) — related
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

@@ -51,3 +51,4 @@ Leader statement from Workshop 2 in the qualitative thematic analysis (Theme 4).
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
 - [Providers identified learning materials, mentorship, practice, staff rotation, ongoing training, and equipment availability as factors influencing retention](qualitative-factors-influencing-retention.md) — related
 - [Educational and non-educational support — leadership workshops, orientation, mentoring and resources — is identified as needed for department chair performance](dc-educational-noneducational-support.md) — related
+- [Hands-on skills workshops in CME enhance experiential learning, and peer knowledge-sharing runs in both directions between younger and more experienced surgeons](skills-workshops-experiential-peer-learning-cme.md) — related

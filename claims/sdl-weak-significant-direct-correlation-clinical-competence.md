@@ -56,3 +56,4 @@ Pearson correlation analysis in the Findings section of a cross-sectional descri
 - [SDL readiness differs significantly across academic years, with first-year students scoring highest and third-year students lowest](sdl-readiness-varies-academic-year.md) — related
 - [Conventional medical school evaluation metrics only vaguely capture students' self-directed learning readiness, with no combination of grades or test scores strongly predicting it](assessment-metrics-vaguely-capture-sdlr-medical-students.md) — related
 - [Clinical reasoning performance in the FPE is positively but weakly correlated with average academic performance](fpe-weakly-correlated-with-academic-performance.md) — related
+- [Nurses showed a good baseline readiness for self-directed learning, with pre-course SDLRSNE scores ranging from 136 to 183 out of 200.](high-baseline-self-directed-learning-readiness.md) — related

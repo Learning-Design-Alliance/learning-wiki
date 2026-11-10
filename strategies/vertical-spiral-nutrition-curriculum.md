@@ -58,6 +58,7 @@ The review recommends curricular innovations that embed nutrition across all yea
 - [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 - [Increase dedicated women's nutrition training hours and interventions in ObGyn specialty programs](dedicated-nutrition-training-obgyn-residency.md)
 - [Ground physician counseling curricula in theory with central experiential learning, start early, and strengthen nutrition and exercise instruction](wmc-curricula-experiential-early-nutrition-instruction.md)
+- [Reform anatomy education with a spiral curriculum, teaching in context, teaching for transfer and assessment for learning](spiral-contextualised-anatomy-education-strategy.md)
 
 ## Examples
 -

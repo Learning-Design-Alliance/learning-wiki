@@ -51,3 +51,4 @@ The review reports, citing Lim et al. and Mogali et al., that "3DPAMs were signi
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](3dpam-not-superior-in-seven-studies.md) — related
 - [3DPAM pedagogical effectiveness appears best for complex anatomical areas and for students early in their medical studies](3dpam-effectiveness-best-complex-areas-early-students.md) — related
+- [The majority of surveyed students (94%) rated plastinated prosections as a useful anatomical training tool but perceived limitations in tactile and emotional experience](plastinated-prosections-useful-limited-tactile.md) — related

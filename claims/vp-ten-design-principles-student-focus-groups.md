@@ -51,3 +51,4 @@ Focus-group study with fifth-year clerkship students (n=104) exposed to at least
 - [Students perceived reflective “what-if” discussions and peer dialogue around VP feedback as supporting abstraction of underlying principles](what-if-peer-dialogue-abstraction-perceptions.md) — related
 - [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](vp-structured-design-mechanisms-qualitative.md) — related
 - [The quantitative assessment methods often implemented in virtual patients do not sufficiently reflect the non-linearity of clinical reasoning](vp-assessment-methods-insufficient-for-nonlinear-reasoning.md) — related
+- [Undergraduate nursing students perceive global linear virtual patients as a relevant learning activity for integrating theory and practice](nursing-students-perceive-global-linear-vps-relevant-theory-practice.md) — related

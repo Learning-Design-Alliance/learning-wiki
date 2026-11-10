@@ -48,3 +48,4 @@ Emergent thematic analysis of surveys, 16 h of observational field notes, focus 
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — a broader claim this one bears on
 - [Reflective essays identified three themes — enhancement of clinical performance, value of simulation training, and value of flipped simulation — including that designing lesson plans deepened understanding of diseases.](reflective-essays-three-pal-simulation-themes.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
+- [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](flipped-course-increased-eoh-interest.md) — related

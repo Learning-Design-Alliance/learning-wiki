@@ -106,3 +106,4 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [Practice frequency between assessments is associated with the size of CPR improvement across sites](practice-frequency-associated-with-cpr-improvement.md) — related
 - [Real-time objective feedback during manikin training significantly improves adult CPR performance in pre-hospital EMS providers](real-time-feedback-improves-adult-cpr-performance.md) — a narrower finding that bears on this claim
 - [Real-time objective feedback significantly improves infant CPR performance, with a larger improvement than for adult CPR](real-time-feedback-improves-infant-cpr-performance.md) — a narrower finding that bears on this claim
+- [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related

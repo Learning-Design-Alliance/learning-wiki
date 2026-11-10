@@ -78,3 +78,4 @@ Same validated 24-item perception questionnaire completed by all 60 study-group 
 - [More than 90% of respondents agreed or strongly agreed that JIT simulation participation would impact their future clinical practice](jit-simulation-perceived-impact-future-practice.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
 - [More than 90% of participating second-year medical students endorsed each objective on the post-simulation Likert survey](pidd-simulation-likert-90-percent-endorsement.md) — related
+- [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related

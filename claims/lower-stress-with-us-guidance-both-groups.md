@@ -54,3 +54,4 @@ Retrospective single-item self-report questionnaire administered once at program
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
 - [Ultrasound-guided cannulation was associated with fewer required attempts and less frequent supervisor assistance than landmark-based technique](ultrasound-guided-fewer-attempts-less-assistance.md) — related
 - [Patients reported that POCUS-assisted cannulation supported nurse competency and increased their confidence in needle placement (n = 17)](patients-report-pocus-improves-cannulation-experience.md) — related
+- [EUS was part of the formal residency curriculum for 86% of surveyed Canadian Royal College EM senior residents, but training extent was heterogeneous](eus-formal-curriculum-86-percent-heterogeneous-extent.md) — related

@@ -72,3 +72,4 @@ Correlational analysis in the same validation study, reported in Results: SCT an
 - [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related
 - [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related
 - [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related
+- [The second simulation week improved acquisition of new knowledge and clinical reasoning (MCQ4 and SCQ4)](cleims-year4-knowledge-reasoning-gains.md) — related

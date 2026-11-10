@@ -46,6 +46,7 @@ The article distils lessons for large-scale implementation of team training. It 
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Implementation strategies for establishing a centralized tutor training program: central coordination, stakeholder inclusion, and evaluation of attained skills](centralized-tutor-training-implementation-strategies.md)
 
 ## Examples
 -

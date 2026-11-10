@@ -49,3 +49,5 @@ Anonymous four-point satisfaction questionnaires completed at the end of each mo
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Residents reported very high satisfaction with the team-based simulation course (96.3 ± 3.7 of 100)](high-resident-satisfaction-simulation.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [Participants rated the course 7 out of 10 overall, with scores ranging from 2 to 10, and a quarter considered the diagnostic tests module inadequate.](course-satisfaction-7-of-10-nurses.md) — reports the opposite
+- [Participants rated multi-professional obstetrical simulation training highly useful for team training and patient safety and preferred it over training alone](high-acceptance-of-obstetrical-simulation-training.md) — related

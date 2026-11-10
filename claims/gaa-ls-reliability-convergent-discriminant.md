@@ -77,3 +77,5 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
 - [Internal consistency of the OCTQ five-factor solution exceeded 0.70, though Factors 4 and 5 were moderate](octq-internal-consistency-above-070.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related
+- [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related

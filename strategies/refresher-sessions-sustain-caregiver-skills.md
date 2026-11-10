@@ -80,6 +80,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
+- [Structure self-directed e-learning with a delivery schedule over fixed time periods and recurrent facilitator-led feedback sessions](scheduled-elearning-with-facilitator-feedback-sessions.md)
 
 ## Examples
 -

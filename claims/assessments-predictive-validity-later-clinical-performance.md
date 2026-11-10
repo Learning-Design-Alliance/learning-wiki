@@ -58,3 +58,4 @@ The review's narrative synthesis of predictive validity studies (peer ratings, p
 - [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — a narrower finding that bears on this claim
 - [Written examination scores (in-training and final) are positively correlated with final OSCE performance](written-exam-scores-correlate-final-osce.md) — a narrower finding that bears on this claim
+- [Multiple-choice assessment correlates at least as highly as open-ended assessment — and possibly more highly — with subsequent workplace performance after graduation](mcq-predicts-workplace-performance-better.md) — a narrower finding that bears on this claim

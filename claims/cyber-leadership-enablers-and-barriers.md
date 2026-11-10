@@ -74,3 +74,4 @@ Authors' thematic summary of the interview data linking the three conditions to 
 - [Cyber leaders believed peers found them more credible than adults, and other students proactively sought them out to discuss cyber issues](peer-credibility-of-student-cyber-leaders.md) — related
 - [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related
 - [Perceived barriers to change shift over time: lack of resources dominates at 4 months but at 12–18 months resistance from peers and lack of senior support dominate](safe-ob-barriers-catalysts-shift-over-time.md) — related
+- [Leadership training was the component trainees most strongly valued, enabling them to change their own practice and initiate change in their facilities](etatmba-leadership-training-enabled-practice-change.md) — related

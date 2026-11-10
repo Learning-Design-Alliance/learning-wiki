@@ -51,3 +51,4 @@ Clinical skills test in which each of 107 PHCWs viewed colour clinical images wi
 - [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related
 - [Only 8.4% of primary health care workers in eastern Nepal had received eye care training during their professional career](phcws-eastern-nepal-8-4-percent-eye-care-training.md) — related
 - [Diagnostic accuracy is higher for oral conditions with recognizable clinical features and lower for conditions with non-specific presentations](recognizable-features-higher-oral-diagnostic-accuracy.md) — related
+- [Enhanced supervision improved visual acuity measurement skill but did not significantly improve knowledge of cataract, conjunctivitis, presbyopia, or trauma management](supervision-improved-va-not-condition-knowledge.md) — related

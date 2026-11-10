@@ -62,3 +62,6 @@ Post-training questionnaire completed by all participating trainees and summariz
 - [Medical students report high satisfaction with the Virtual Doc pediatric CPR virtual reality simulation](virtual-doc-high-satisfaction-medical-students.md) — a narrower finding that bears on this claim
 - [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — related
 - [Most students reported benefiting from the strategy and recommended it for future cohorts](students-report-benefit-and-recommend-strategy.md) — related
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
+- [Students rated the course and its feedback highly, and most felt expectations were fulfilled](high-satisfaction-and-constructive-feedback-ratings.md) — related
+- [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related

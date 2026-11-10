@@ -52,3 +52,4 @@ Bifactor item response theory analysis of placement test item responses (N = 1,0
 - [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) — related
 - [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — related
 - [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related
+- [Factor-analytic studies generally find open-ended and multiple-choice formats load on a single construct in precise-science domains, though two-factor models fit better in English and government assessments](single-construct-factor-analysis-formats.md) — related

@@ -59,3 +59,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Real-time spectator observation plus group debriefing was followed by constantly decreasing procedure time despite increasing scenario difficulty](spectator-debriefing-decreasing-procedure-time.md) — related
 - [In one uncontrolled pre-post study, frequencies of open body position and adequate facial expression rose, while frequencies of unnecessary silence, un-purposive movements, and giggling fell from pre-course interview to post-course OSCE](sp-training-improves-specific-nonverbal-behaviors.md) — related
 - [Participants valued the feedback and reflection components as contributing to enhanced teaching capacity and confidence](sat-feedback-reflection-valued.md) — related
+- [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related

@@ -51,3 +51,4 @@ Rating study of 110 junior university students who ranked 34 interests for thems
 - [Self-overrating persists with a simplified grading method and on a behavioral self-analysis test, where raters claim far more 'Always' and far fewer 'Sometimes' for themselves than for others](self-overrating-replicates-simplified-and-self-analysis.md) — related
 - [Raters correlate the importance of a trait with how much of it they credit themselves, an average correlation of +.52 read as a self-defense mechanism](trait-importance-self-credit-correlation.md) — related
 - [Students give themselves higher self-ratings on qualities they judge more important, averaging 14.75 points on A qualities versus 7.0 on F qualities](higher-self-ratings-on-important-qualities.md)
+- [Students self-rated more strictly than raters assessed them on three of four competencies, and self-report did not correlate with external AC assessment](self-rating-stricter-than-raters.md) — related

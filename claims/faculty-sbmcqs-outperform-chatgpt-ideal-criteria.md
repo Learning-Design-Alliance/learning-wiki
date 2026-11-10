@@ -68,3 +68,4 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related
 - [Summative examination quality was equivalent between the two academic years in difficulty, discrimination, and minimal passing level](equivalent-exam-quality-between-years.md) — related
 - [Student-generated MCQs written for a competency-based progress test show high quality in post-review, with only 5 corrected and 4 excluded of 144 questions](student-generated-mcq-high-quality-post-review.md) — related
+- [Item pass rates differ significantly between training groups for all but two items, with wide difficulty range](ace-item-difficulty-pass-rates.md) — related

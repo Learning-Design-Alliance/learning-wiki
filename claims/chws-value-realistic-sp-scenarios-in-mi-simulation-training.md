@@ -79,3 +79,5 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Authenticity of the training scenario, framed by a patient case, is important for the learning process](authenticity-patient-case-simulator-learning.md) — a narrower finding that bears on this claim
 - [SPs see the advantage of SP-based DRE teaching as students receiving feedback from the patient perspective and feeling more secure](sp-dre-patient-perspective-feedback-advantage.md) — related
 - [Students perceived that video made the PBL scenario seem more real by providing visual cues and context absent from text](vp-pbl-video-makes-scenario-real.md) — related
+- [Tutors reported increased student engagement at D-PBL option points and students valued simulating real-life case management stresses](dpbl-increased-engagement-option-points.md) — related
+- [Clinicians valued brief self-management training that balanced theory with opportunities to practise skills, receive feedback, and work through case studies](theory-practice-balance-valued-in-brief-skills-training.md) — related

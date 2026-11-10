@@ -77,3 +77,4 @@ Mixed between-within ANOVA on experimental-group scores with time and gender as 
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](analytic-phonics-boys-inferior-spelling-comprehension.md) — related
 - [No significant interaction between teaching strategy and gender on third-grade mathematics achievement](no-strategy-gender-interaction-maths-achievement.md) — related
 - [No significant gender difference in math word problem performance was observed after the intervention in either grade](no-gender-difference-posttest-math-word-problems.md) — reports the opposite
+- [Learning achievement under CGBI does not differ significantly between boys and girls](no-gender-achievement-difference-cgbi.md) — related

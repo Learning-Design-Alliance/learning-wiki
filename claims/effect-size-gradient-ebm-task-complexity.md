@@ -50,3 +50,4 @@ Independent t-tests across four ACE domains showed the intervention group scored
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
 - [Evidence appraisal showed the largest domain-level improvement in the intervention group, rising from 1.14 to 6.07](evidence-appraisal-largest-domain-gain.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
+- [Didactic-group students reported higher self-perceived competence in constructing clinical questions and searching the literature than blended-learning students](didactic-higher-question-construction-confidence.md) — reports the opposite

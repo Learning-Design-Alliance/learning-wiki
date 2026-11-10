@@ -71,3 +71,4 @@ Same post-test questionnaire measure of perceived difficulty in the two sub-samp
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](students-enjoyed-conducting-experiments-most.md) — related
 - [The juggling-math program significantly increased children's enjoyment of math lessons compared with the sedentary math program](juggling-math-increased-enjoyment.md) — related
 - [Key feature arm students experienced more time pressure and perceived the material as more difficult than systematic arm students](kf-arm-time-pressure-difficulty-evaluation.md) — related
+- [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related

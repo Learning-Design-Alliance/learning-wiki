@@ -55,6 +55,7 @@ The article recommends a structured, student-centred model in which students fir
 - [Integrate experiential learning activities — community outreach projects, collaborative policy simulations, and applied research opportunities — into dental hygiene curricula](dh-experiential-learning-policy-research-advocacy.md)
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Phased co-production and cascade training model for developing and implementing new nursing education content](phased-coproduction-cascade-training-strategy.md)
+- [Cascade compact training across the midwifery service and integrate it into pre-registration curricula and mandatory CPD](cascade-compact-training-midwifery-education.md)
 
 ## Examples
 -
