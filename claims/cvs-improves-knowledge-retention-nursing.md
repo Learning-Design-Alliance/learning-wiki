@@ -71,3 +71,4 @@ Same RCT, follow-up assessment (A2) 2 months after the intervention using the sa
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [Clinical virtual simulation does not change nursing students' general self-efficacy perceptions after a single lesson](cvs-no-self-efficacy-effect.md) — related
 - [Clinical virtual simulation raises nursing students' satisfaction with the learning experience compared with low-fidelity simulation](cvs-raises-learning-satisfaction.md) — related
+- [No significant retention advantage in knowledge or clinical reasoning at nine months](cleims-knowledge-retention-null.md) — reports the opposite

@@ -66,3 +66,5 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [SBME significantly improves undergraduate medical students' practical operation performance compared with control practice](sbme-improves-practical-operation-scores.md) — reports the opposite
 - [Blended ALS training with e-learning produced knowledge post-test scores statistically equivalent to traditional face-to-face training](blended-als-knowledge-posttest-equivalent.md) — related
 - [Skills lab training improves medical students' OSCE examination performance compared with classic bedside training alone](skills-lab-training-improves-osce-performance.md) — reports the opposite
+- [Final-year medical students trained with computer-based simulation performed more correct medical approaches across five emergency cases than traditionally trained students](cb-simulation-more-correct-approaches-emergency-cases.md) — related
+- [Blended learning showed no benefit for practical clinical examination skills: OSCE scores did not differ between NESTOR users and non-users](osce-no-difference-nestor-users-nonusers.md) — related

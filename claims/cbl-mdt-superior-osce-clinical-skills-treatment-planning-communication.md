@@ -86,3 +86,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [The ward-based course's largest effect is on practical OSCE tasks involving patient interaction, rather than theoretical paper-case tasks](ward-based-course-largest-effect-practical-osce-tasks.md) — related
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related
 - [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related
+- [Real multidisciplinary teams support motivation and preparedness for learning better than improvised teams in simulated training](real-teams-support-self-efficacy-sim-training.md) — related

@@ -62,3 +62,4 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [PointSolutions wagering questions help keep poorly performing teams engaged in review games](wager-questions-engagement.md) — related
 - [Novice trainees rate PLAN A as engaging and helpful for understanding escalation rationale, though feedback was informal and not formally measured](plan-a-learner-engagement-feedback.md) — related
 - [Students showed a very positive attitude toward the exergame, driven by novelty, fun, music and their affinity with technology](student-positive-attitude-exergame-affinity.md) — related
+- [Most intervention students cited the new exercises as their most effective preparation for the phylogenetics lab, while 13% wanted more between-tree comparison practice](student-feedback-preparation-survey.md) — related

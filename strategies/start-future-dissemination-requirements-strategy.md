@@ -51,6 +51,7 @@ Drawing on their evaluation, the authors recommend that "Future dissemination re
 
 - [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 - [Disseminate SNPCOHS as a self-directed e-learning resource for NPs in primary care units](snpcohs-elearning-dissemination-strategy.md)
+- [Cascade compact training across the midwifery service and integrate it into pre-registration curricula and mandatory CPD](cascade-compact-training-midwifery-education.md)
 
 ## Examples
 -

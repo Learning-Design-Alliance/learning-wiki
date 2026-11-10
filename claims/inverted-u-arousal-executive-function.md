@@ -61,3 +61,4 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 - [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](inverted-u-oet-recall.md) — a narrower finding that bears on this claim
 - [Low-intensity emotions are associated with performance between high and low levels](low-intensity-emotions-intermediate-performance.md) — a narrower finding that bears on this claim
 - [The article reports three main effects of self-regulation: calming, refreshing, and activating](three-effects-of-self-regulation.md) — related
+- [In the 2012 study, SAM calibration showed participants understood the emotion scale, with valence decreasing and arousal increasing across standardized images](sam-calibration-understood-2012-study.md) — related

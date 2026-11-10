@@ -47,3 +47,4 @@ A Poisson regression in the same trial compared self-reported criteria-reading t
 ## Related Claims
 - [Trained reviewers spend more time reading the grant review criteria than untrained reviewers](training-video-increases-criteria-reading-time.md) — related
 - [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related
+- [Experienced remediation teachers spend about ten minutes having groups rephrase and explore MCQ stems before answering, versus about one minute for other teachers](experienced-teachers-extend-question-rephrasing.md) — related

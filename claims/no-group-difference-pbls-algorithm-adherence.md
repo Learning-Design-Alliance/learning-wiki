@@ -52,3 +52,4 @@ Secondary outcome in the three-group randomized trial: adherence to the correct 
 - [Experts de-emphasised guideline-specific algorithm steps and specific tasks, favouring general PBLS principles for layperson assessment](experts-favour-general-principles-over-algorithm-steps.md) — related
 - [Virtual patient preparation improves adherence to the PBLS algorithm both before and after hands-on training](vp-preparation-algorithm-adherence.md) — related
 - [Virtual patient preparation improves adherence to temporal demands of PBLS before and after hands-on training](vp-preparation-temporal-demands.md) — related
+- [No between-group difference in thyroid examination performance after video access, with both groups performing at a uniformly high standard](no-video-effect-thyroid-examination.md) — related

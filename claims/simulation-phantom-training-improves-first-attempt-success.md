@@ -53,3 +53,4 @@ Assessor-blinded randomized controlled trial: 21 anesthesiology residents random
 - [First-attempt success rate improves from 51.7% in the learning phase to 80.0% in the proficiency phase](first-attempt-success-improves-post-tp.md) — related
 - [A 25-minute skill-focused ultrasound training curriculum enabled all 30 participants to successfully complete US-guided cannulation on a simulation model](brief-skill-focused-us-training-100-cannulation-success.md) — related
 - [Skills lab training shows transfer of procedural skills to clinical practice, though transfer evidence is limited](skills-lab-transfer-to-clinical-practice.md) — related
+- [Simulation-trained students were significantly more successful in approaching stab wound injury and potential great vessel injury complications](simulation-success-stab-wound-great-vessel-case.md) — related

@@ -57,3 +57,4 @@ Satisfaction survey of the same 128-trainee cohort comparison using a 25-item Li
 - [PBL-trained kidney transplantation trainees perform better in multidisciplinary case discussions than traditionally trained trainees](pbl-better-multidisciplinary-discussion-performance.md) — related
 - [Simulation-platform trainees reported higher teaching satisfaction, enjoyment of learning, and proactive learning behavior than controls](simulation-platform-higher-engagement-subjective-assessments.md) — related
 - [Satisfaction with practical teaching was significantly higher in the combined CBL and clinical pathway group (4.80 ± 0.61) than in the traditional teaching group (3.69 ± 0.82)](cbl-clinical-pathway-higher-satisfaction.md) — related
+- [Trainees who assessed peer performance during simulation training were more satisfied with the training format than those who did not](peer-assessment-raises-training-satisfaction.md) — related

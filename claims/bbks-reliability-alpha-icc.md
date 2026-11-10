@@ -53,3 +53,4 @@ Reliability analysis of the BBKS: internal consistency via Cronbach alpha and co
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
 - [The Spanish ARS shows satisfactory internal consistency, discriminant validity and temporal stability for its three factors](spanish-ars-reliability-temporal-stability.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related

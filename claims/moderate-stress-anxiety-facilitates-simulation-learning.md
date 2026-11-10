@@ -68,3 +68,4 @@ The review describes dissonance in Beischel (2013), a mixed-methods study of 124
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related
+- [Tutors reported increased student engagement at D-PBL option points and students valued simulating real-life case management stresses](dpbl-increased-engagement-option-points.md) — related

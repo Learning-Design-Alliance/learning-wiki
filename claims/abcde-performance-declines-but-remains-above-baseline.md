@@ -53,3 +53,4 @@ Wilcoxon signed-rank comparison of total primary assessment scores of the same 3
 - [The eLearning course dramatically increases midwives' confidence in providing CMV advice, from 6% to 95% agreeing, maintained at three months](cmv-elearning-increases-confidence.md) — related
 - [Maternity professionals' total knowledge scores rose significantly from pre-course to immediately post-course after completing the CMV eLearning course, in one uncontrolled pre-post study](cmv-elearning-increases-knowledge-scores.md) — related
 - [PHTLS training significantly improved simulated trauma team performance scores, with a slight decline one year later that remained above baseline](phtls-training-improved-team-performance-scores.md) — related
+- [Among participants who showed improvement, performance remained better 4 weeks post-training than before training in a within-group pre-test-to-post-test comparison](training-benefits-retained-four-weeks.md) — related

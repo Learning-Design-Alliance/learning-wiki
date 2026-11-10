@@ -57,3 +57,4 @@ Thematic analysis of interviews with nine facilitators: all described a safe atm
 - [Competence was sustained through peer supervision, which supported wellbeing, though non-specialist supervisors were felt to lack relevant expertise](peer-supervision-sustains-competence-and-wellbeing.md) — related
 - [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related
 - [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related
+- [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related

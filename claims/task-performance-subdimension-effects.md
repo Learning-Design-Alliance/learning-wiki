@@ -47,3 +47,4 @@ One-way ANOVAs with Bonferroni post hoc analyses on the separate performance top
 ## Related Claims
 - [Students in the match condition scored significantly higher on the post-test than students in other conditions overall, but only a trend versus the conceptual condition](match-condition-posttest-advantage-partial.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
+- [Clear representation in simulations correlated with suitable equipment and disposables (p = 0.045), good-condition mannequins (p = 0.034) and communicative trainers (p = 0.002)](clear-simulations-correlated-materials-trainers.md) — related

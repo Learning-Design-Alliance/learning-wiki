@@ -54,3 +54,4 @@ Author's conclusion drawn from the mixed-methods survey of 28 honours students; 
 - School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
 - [Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome](belonging-prerequisite-for-collaborative-learning.md) — related
+- [Closed membership restricted by invitation, together with inclusive social activities, was credited by participants with building a friendly collaborative atmosphere that extends beyond the meetings](closed-membership-social-activities-atmosphere-cme.md) — related

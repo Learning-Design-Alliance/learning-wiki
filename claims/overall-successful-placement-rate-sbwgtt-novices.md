@@ -50,3 +50,4 @@ Successful placement assessment in a crossover randomized cadaver study with 30 
 - [Novices report higher confidence that SBWGTTs are correctly placed within the pleural space when using POCUS-guided techniques](pocus-higher-novice-confidence-sbwgtt-placement.md) — related
 - [There is a weak to moderate positive correlation between SBWGTT placement time and the presence of complications](correlation-placement-time-complications-sbwgtt.md) — related
 - [More POCUS-guided placements are made at the appropriate 30–60 degree insertion angle than landmark-guided placements](pocus-more-appropriate-insertion-angle-than-landmark.md) — related
+- [Landmark success and complication rates were similar between jugular and femoral sites, so the higher proportion of femoral procedures in the LM group did not disadvantage it](lm-jugular-femoral-sites-similar-outcomes.md) — related

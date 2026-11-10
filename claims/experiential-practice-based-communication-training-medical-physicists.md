@@ -48,3 +48,4 @@ Program description from the article's structure section: the authors state the 
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — possibly the same claim (merge candidate)
 - [FMSo residents rate interactive methods (case discussions, role-playing, brainstorming, workshops, CRBL) as more efficient than didactic courses and e-learning](fmso-residents-preferred-teaching-methods.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
+- [Interactive, participation-centered CPD formats are reported to be more effective for improving competence than didactic formats and practice guidelines](interactive-cpd-formats-more-effective.md) — related

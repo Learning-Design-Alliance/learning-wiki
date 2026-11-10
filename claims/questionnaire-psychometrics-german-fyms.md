@@ -55,3 +55,4 @@ Psychometric evaluation of translated instruments in 42 baseline respondents, in
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [The German translation of TEAM shows psychometric properties comparable to the English and French versions, with high internal consistency and a single dominant component](german-team-psychometrics-validated.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related

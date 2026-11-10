@@ -40,6 +40,7 @@ This strategy has educators who have learned a framework lead short workshops fo
 
 - [Use peer-led, project-based professional development led by teachers in similar contexts](peer-led-project-based-ct-teacher-training.md)
 - [Teacher-led workshops and freely downloadable materials to scale video analysis and modeling practice](teacher-led-workshop-scaling-video-modeling.md)
+- [Peer-led continuing-education workshops by skillful iPad users to reduce the computer-proficiency gap](peer-led-ipad-workshops-reduce-proficiency-gap.md)
 
 ## Examples
 -

@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 32 studies (13 design, 8 causal, 5 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 32 report an effect size · 34 claims rest on one study
+> **Evidence** · 36 claims (23 for, 12 mixed, 1 against) · 33 studies (13 design, 8 causal, 6 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 33 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Read against the model on 2026-10-19; these three are relevant but do not change
 - [Nearly a third of students never used the navigation map and overall task-test performance was mediocre](../claims/map-nonuse-and-task-test-performance.md) [+M] — attached 2026-10-29 from Stanton et al. (1997), which proposed "Design hypermedia for fundamental usability rather than adding map-based navigational aids".
 - [A significant dropout of participants with mild dementia occurred mainly due to difficulties in understanding and coordinating the game control interface](../claims/dementia-participant-dropout-due-to-game-control-difficulties.md) [+M] — attached 2026-11-08 from Zając-Lamparska Ludmiła et al. (2019), which proposed "Recommend VR-based cognitive training games such as GRADYS for cognitive enhancement in normal cognitive ageing, but make game control natural and easy before use with people living with dementia".
 - [Medical students across years received a model-based cardiovascular e-learning environment positively](../claims/lpm-ele-positive-student-feedback.md) [+W] — attached 2026-11-09 from Warriner DR et al. (2017), which proposed "Develop e-learning environments iteratively with user-directed feedback at each stage".
+- [The electronic field note for formative assessment was rarely used through the iPad, with 67% of respondents reporting problematic access](../claims/electronic-field-note-underused-problematic-access.md) [+W] — attached 2026-11-10 from Archibald D et al. (2014), which proposed "Design electronic data-input forms for mobile devices to collect valuable information with minimal typing effort".
 
 ## Objective and learner-valued goal
 

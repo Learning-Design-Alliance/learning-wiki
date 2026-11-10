@@ -65,3 +65,4 @@ Same interview study; students described orientation and rule understanding diff
 
 ## Related Claims
 - [Low-cost home simulation kits did not significantly improve medical students' Sea Spikes 1 scores on the da Vinci Skills Simulator relative to a no-kit control after two weeks](home-simulation-kit-no-dvss-score-gain.md) — related
+- [Students' perceptions of the simulated learning environment cluster into three positive themes (preparation for professional practice, exposure to different body types, positive challenge) and two negative themes (lack of feedback, stressful situation)](sp-perceptions-five-themes.md) — related

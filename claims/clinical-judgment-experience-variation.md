@@ -47,3 +47,4 @@ The article reports an observational finding attributed to a cited study: "A wid
 ## Related Claims
 
 - [Analytic clinical judgment not informed by high internal validity synthesis becomes obsolete and faces systematic error](uninformed-clinical-judgment-obsolete.md)
+- [No statistically significant difference between simulation-trained and traditionally trained students on the deep vein thrombosis, drug allergy, or gastric perforation cases](no-significant-difference-dvt-allergy-gastric-cases.md) — related

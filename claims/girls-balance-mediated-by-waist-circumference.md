@@ -49,3 +49,4 @@ Sex-stratified SEM in the same longitudinal sample. The article reports the girl
 - [Waist circumference partially mediates the association between dynamic balance and academic performance in the total sample (β = 0.021, 95% CI: 0.008 to 0.034)](waist-circumference-partially-mediates-balance-academic-performance.md) — related
 - [For boys, dynamic balance is associated with academic performance but waist circumference does not mediate the association](boys-balance-associated-no-waist-mediation.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
+- [Waist circumference and waist–hip ratio decrease significantly while BMI-category proportions do not change significantly](filtdare-adiposity-endpoints-mixed.md) — related

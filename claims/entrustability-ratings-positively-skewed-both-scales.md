@@ -49,3 +49,4 @@ Quantitative analysis of rating distributions from EPAA e-forms in Phase 1 (AMC 
 - [Registrar assessors conducted the majority of EPAAs, but consultant predominance occurred in Emergency](registrar-assessors-majority-epaas-consultant-emergency.md) — related
 - [EPA assessments were feasible for interns across specialties, with 738 EPAAs submitted by 119 interns and 283 assessors, mostly completed in 10 minutes or less](epa-assessments-feasible-for-interns-national-framework-pilot.md) — related
 - [Most participants preferred the modified Ottawa-scale over the AMC 3-point scale for greater differentiation and more clinically intuitive descriptors](ottawa-scale-preferred-over-amc-scale.md) — related
+- [LSE validity rates are not affected by the operator's grade of doctor (consultant versus specialist registrar)](validity-rate-independent-of-operator-grade.md) — related

@@ -47,6 +47,7 @@ The authors recommend that because multifaceted interventions are required for t
 - [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
 - [Pair initial newborn-care coaching with complementary quality-improvement and refresher strategies to sustain resuscitation skills](complementary-strategies-sustain-resuscitation-skills.md)
 - [Pair brief e-learning with practical frameworks, downloadable materials and behaviour change techniques to support implementation into practice](elearning-plus-practical-framework-implementation-strategy.md)
+- [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
 
 ## Examples
 -

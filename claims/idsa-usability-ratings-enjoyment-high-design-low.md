@@ -66,3 +66,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Gamification-group students reported positive game-user satisfaction, with Enjoyment and Visual Aesthetics the highest-rated GUESS domains](guess-satisfaction-enjoyment-visual-aesthetics-highest.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Video-based peer feedback and expert coaching were valued features of the digital training prototypes, with privacy safeguards and expert involvement recommended](video-peer-feedback-and-expert-coaching-valued.md) — related
+- [Students rated the educational card game very satisfactory overall (mean 4.29), with usefulness rated highest](card-game-very-satisfactory-ratings.md) — related

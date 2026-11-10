@@ -76,6 +76,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Pair simulation-based communication practice with multisource assessment and debriefing involving medical and non-medical evaluators](multisource-assessment-debriefing-strategy.md)
 - [Scenario-based simulation training before completing a standardized self-assessment instrument](scenario-based-simulation-before-self-assessment.md)
 - [When planning simulation-based medical education, prioritise authentic roles, realistic teamwork and debriefing over the physical simulation site, using off-site simulation where convenient](prioritise-authentic-roles-and-debriefing-over-site.md)
+- [Permanently integrate simulation laboratory sessions into the curriculum of all students of health disciplines](integrate-simulation-laboratory-training-curriculum.md)
 
 ## Examples
 -

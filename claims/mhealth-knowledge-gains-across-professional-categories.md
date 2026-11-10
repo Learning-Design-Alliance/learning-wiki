@@ -48,3 +48,5 @@ Disaggregated analysis by professional category (Table 4): pre-EAT averages were
 - [A tablet-delivered Ebola tutorial improved frontline health workers' average EVD knowledge scores by 11% between pre- and post-intervention assessments](mhealth-tutorial-improves-evd-knowledge.md) — related
 - [Transmission and Prevention knowledge scores rose from pre-test to post-test, with the largest category-level changes in one group with no comparison group](vicious-worm-transmission-prevention-gains.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
+- [Community health workers (BHW) show larger knowledge gains from training than formally credentialed healthcare workers](bhw-larger-knowledge-gains-than-formal-workers.md) — related
+- [Healthcare workers' diabetes knowledge test scores rose significantly from pre-test to post-test after a 32-hour primary diabetes care training workshop in a low-resource setting, in one uncontrolled pre-post study](filtdare-workshop-improves-staff-diabetes-knowledge.md) — related

@@ -69,3 +69,4 @@ Phase 4 qualitative interview data (21 interviews, thematic analysis coded indep
 - [Primary care professionals report high satisfaction with and relevance of the Gen-Equip resources (73.8% highly/very relevant to own practice; 82.5% would recommend)](gen-equip-satisfaction-relevance.md) — related
 - [Average increase in skills questions (46.8%) exceeded that of knowledge questions (34.7%) across Gen-Equip modules](gen-equip-skills-versus-knowledge-gains.md) — related
 - [Most non-specialist doctors had never referred a patient with a suspicious lesion to a dermatologist in the preceding year](most-doctors-never-referred-suspicious-lesions.md) — related
+- [Self-reported applicability of the module's knowledge received neutral scores for practice skills but positive scores for knowledge gains](applicability-neutral-skills-positive-knowledge.md) — related

@@ -77,3 +77,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Student satisfaction with the online deliberate practice modules was high, with 97% rating them effective, 97% efficient, and 92% enjoyable](high-student-satisfaction-online-ecg-practice-modules.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related

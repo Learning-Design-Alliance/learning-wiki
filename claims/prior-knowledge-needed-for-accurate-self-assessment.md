@@ -143,3 +143,4 @@ Open questions: how much prior knowledge is "enough" for calibration in a given 
 - [When ID students lack prior experience with a design activity, they tend to follow guidelines and make judgments without reflection, especially in formative evaluation](no-prior-experience-follow-guidelines-no-reflection.md) — related
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](self-report-measures-self-efficacy-not-literacy.md) — a narrower finding that bears on this claim
 - [All three types of self-regulated learning are positively associated with learning achievement in emergency language courses.](srl-types-predict-achievement.md) — related
+- [The DTI measures self-assessment of clinical reasoning, not actual diagnostic ability, limiting cross-faculty calibration](dti-measures-self-assessment-not-actual-ability.md) — a narrower finding that bears on this claim

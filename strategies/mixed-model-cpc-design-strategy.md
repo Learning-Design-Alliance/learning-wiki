@@ -47,6 +47,7 @@ The article recommends that regulators implementing continuing professional comp
 ## Related Strategies
 
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Build CPC programmes around blended, practically oriented activities: practical training scenarios, cardiac re-certification, e-learning followed by related practice, and simulation manikin training](blended-practical-cpc-activity-strategy.md)
 
 ## Examples
 -

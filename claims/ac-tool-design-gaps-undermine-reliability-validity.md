@@ -52,3 +52,4 @@ In the phenomenological interview study, the assessment tools challenges sub-the
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [Within the assessment center, the role play was the best predictor of overall AC performance, but construct validity between elements was low](ac-element-construct-validity-low.md) — related

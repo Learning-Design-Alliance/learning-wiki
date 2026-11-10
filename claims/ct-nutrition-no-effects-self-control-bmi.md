@@ -69,3 +69,4 @@ Linear mixed model analysis of self-reported BMI in the RCT (n = 1347). BMI decl
 - [Self-regulation scores increased more in the control group than in either tailored intervention group at nine months](ct-nutrition-self-regulation-larger-control-increase.md) — reports the opposite
 - [PBL produced no significant changes in BMI or weight over 5 years; only the control group's weight rose significantly at 1 year](pbl-no-bmi-weight-changes.md) — related
 - [In exploratory analyses, both tailored versions increased the total number of dietary guidelines complied with, and the plus version improved fat-guideline compliance](ct-nutrition-compliance-guideline-exploratory-effects.md) — related
+- [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related

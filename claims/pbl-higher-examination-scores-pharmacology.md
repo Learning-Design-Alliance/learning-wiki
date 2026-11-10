@@ -78,3 +78,4 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [PBL teaching produced significantly higher post-test assessment scores than traditional teaching among nursing interns (P = 0.006)](pbl-higher-post-test-assessment-scores-nursing-interns.md) — a narrower finding that bears on this claim
 - [Pharmacology, theoretical semiology, and pathology scores rose from pre-test to post-test after e-learning in one uncontrolled pre-post study (P < 0.001)](e-learning-significant-theoretical-course-gains.md) — related
 - [Students in an integrated PBL pharmacology/CPT programme had significantly higher prescribing knowledge scores than students in a traditional programme](pbl-programme-higher-prescribing-knowledge.md) — a narrower finding that bears on this claim
+- [PBL effect sizes on examination scores increase with the methodological quality score of the included studies](pbl-effect-larger-higher-quality-studies.md) — related

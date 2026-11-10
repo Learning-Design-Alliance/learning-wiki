@@ -48,3 +48,4 @@ Case-level and aggregate proportions correct on the post-encounter form (Table 3
 - [Diagnostic Therapeutic Accuracy Uncorrelated](diagnostic-therapeutic-accuracy-uncorrelated.md)
 - [Diagnostic accuracy varied by case, lowest for the HIV case with English as a second language and highest for the diabetes case with both contextual factors](case-contextual-factor-accuracy-variation.md) — related
 - [Board certified internists and resident physicians did not differ significantly in diagnostic or therapeutic reasoning accuracy on video-based post-encounter forms](no-accuracy-difference-board-certified-vs-residents.md) — related
+- [Completion of optional support cases exceeded completion of incidental cases in all groups, varying by group (interaction p = 0.035)](support-versus-incidental-case-completion-interaction.md) — related

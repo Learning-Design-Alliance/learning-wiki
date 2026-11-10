@@ -54,3 +54,4 @@ Paired t-tests and Wilcoxon signed-rank sensitivity analyses on needle-pass coun
 - [Procedure times for ultrasound-guided CVC placement steps were shorter with AR-US than S-US but did not reach statistical significance](ar-us-procedure-times-shorter-nonsignificant.md) — related
 - [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related
 - [Simulator-generated feedback measures did not differ statistically significantly between residents who passed versus failed HipSim or between later career groups](hipsim-feedback-no-career-group-difference.md) — related
+- [Procedure time was shorter for landmark than ultrasound-guided procedures, likely because residents had already gained experience during the UG period](lm-procedure-time-shorter-due-to-prior-ug-experience.md) — related

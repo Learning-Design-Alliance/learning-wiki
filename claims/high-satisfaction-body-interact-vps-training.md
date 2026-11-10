@@ -56,3 +56,4 @@ Post-session questionnaire (U1) descriptive results for the 617-student cohort; 
 - [Small-group VPS training significantly improved perceived curricular integration on all 7 paired items](vps-training-improves-perceived-curricular-integration.md) — related
 - [The suite of mLearning tools appeared to support knowledge transfer between academic and clinical learning contexts, bridging the theory-practice gap](mlearning-suite-supports-knowledge-transfer.md) — related
 - [Students rate virtual patient cases as a rewarding learning experience that prepares them for real patients, but only partially experience authentic clinical decision-making](vp-design-evaluation-student-ratings.md) — related
+- [Students perceived the preformulated (non-synchronous) VP feedback as natural, as from a real tutor](preformulated-vp-feedback-perceived-natural.md) — related

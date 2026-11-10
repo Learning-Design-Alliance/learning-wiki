@@ -162,3 +162,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Lectures are effective for conveying factual information but less effective for promoting active thought and influencing attitudes](lectures-factual-not-attitude-effective.md) — related
 - [Learning gains in flipped classrooms are most likely attributable to active learning rather than the order of instructor facilitation](active-learning-not-flipping-drives-gains.md) — related
 - [Most Extensive-section students report positive attitudes toward the active-learning pedagogies and judge the preparation workload worthwhile](extensive-section-positive-pedagogy-attitudes.md) — related
+- [Limiting each EWAPS presentation to about three minutes followed by a twelve-minute discussion reduced the lecture-centred approach and promoted dialogue and critical reflection](short-presentation-long-discussion-cme-format.md) — related

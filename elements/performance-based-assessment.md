@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (26 for, 9 mixed) · 28 studies (10 design, 9 causal, 7 associational, 2 review), `q1`–`q4` · 1 of 28 report an effect size · 35 claims rest on one study
+> **Evidence** · 36 claims (27 for, 9 mixed) · 29 studies (10 causal, 10 design, 7 associational, 2 review), `q1`–`q4` · 1 of 29 report an effect size · 36 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -77,6 +77,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Recently graduated physicians show modest overall clinical competence in simulated STEMI management, with a median general score of 7.0 (IQR 5.5-8.0)](../claims/recent-graduates-median-7-simulated-stemi-performance.md) [+W] — attached 2026-11-08 from Stocco AU (2020), which proposed "Simulated STEMI OSCE station with professional actors and a 12-item guideline-based checklist".
 - [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](../claims/metrics-assessment-high-irr-construct-validity.md) [+W] — attached 2026-11-09 from Kallidaikurichi Srinivasan Karthikeyan et al. (2018), which proposed "Metrics-based epidural catheter placement assessment tool (74 procedure-specific metrics)".
 - [DOPS evaluation produced significantly higher final clinical procedure scores than routine evaluation in nursing students](../claims/dops-higher-final-scores-than-routine-evaluation.md) [+M] — attached 2026-11-09 from Habibi Hengameh et al. (2015), which proposed "Content-validated and reliability-tested assessment checklists for IV catheterization and change dressing".
+- [PGY-5 residents committed fewer errors on average than PGY-3 residents at baseline, which the authors cite as construct validity for error-based assessment](../claims/pgy5-fewer-errors-than-pgy3-construct-validity.md) [+M] — attached 2026-11-10 from Mendez Adrian et al. (2014), which proposed "OCHRA error assessment with a 15-task task analysis of selective neck dissection".
 
 ## Related Elements
 

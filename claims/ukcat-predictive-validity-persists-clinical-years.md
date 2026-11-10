@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion, contrasting their longitudinal findin
 - [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
 - [All UKCAT scale and total scores significantly predict theory-based exam performance throughout all 5 years of medical school, with small coefficients of roughly 0.1 to 0.2](ukcat-predicts-theory-exams-all-five-years.md) — related
+- [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — reports the opposite

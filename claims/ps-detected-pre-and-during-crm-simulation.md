@@ -70,3 +70,4 @@ Wilcoxon signed-rank test on during-simulation %REC for the same 9 teams against
 - [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [In structured Scenario B simulations, higher group-level physiological synchrony is associated with lower post-simulation stress levels](group-synchrony-lower-post-stress-scenario-b.md) — related
+- [Real multidisciplinary teams support motivation and preparedness for learning better than improvised teams in simulated training](real-teams-support-self-efficacy-sim-training.md) — a broader claim this one bears on

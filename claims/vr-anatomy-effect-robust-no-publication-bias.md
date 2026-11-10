@@ -53,3 +53,4 @@ Sensitivity analysis of the pooled primary outcome, shown in Fig. 5, verifying r
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
 - [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related
+- [The pooled PBL effect is robust to exclusion of any single study, and no publication bias is detected](pbl-pooled-effect-robust-no-publication-bias.md) — related

@@ -51,6 +51,7 @@ The authors recommend that "practical experience and specifically surgical simul
 - [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 - [Incorporate simulator training into cardiovascular surgery curricula with independent resident access](incorporate-simulator-training-cardiovascular-curriculum.md)
 - [Start laparoscopic simulator training during the second year of medical school](start-laparoscopic-training-second-year-strategy.md)
+- [Permanently integrate simulation laboratory sessions into the curriculum of all students of health disciplines](integrate-simulation-laboratory-training-curriculum.md)
 
 ## Examples
 -

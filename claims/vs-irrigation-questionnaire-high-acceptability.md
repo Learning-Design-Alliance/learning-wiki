@@ -92,3 +92,5 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
+- [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related

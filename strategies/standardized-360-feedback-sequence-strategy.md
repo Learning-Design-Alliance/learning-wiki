@@ -56,6 +56,7 @@ The article prescribes a fixed order for the feedback process after each role-pl
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
 - [Use breakout-room role-play and simulation with instructor and peer observation and immediate real-time feedback](breakout-room-role-play-real-time-feedback.md)
+- [Use a staged approach to simulated patient practice: start with peer role-play for comfort and feedback, then progress to standardised patients](staged-peer-then-sp-practice-strategy.md)
 
 ## Examples
 -

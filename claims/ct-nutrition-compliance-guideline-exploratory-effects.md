@@ -68,3 +68,4 @@ Exploratory logistic mixed model analysis of fat-guideline compliance (0 = not c
 - [At nine months post-intervention, neither tailored version differed from generic information on fruit, high-energy snack or saturated fat intake in adults](ct-nutrition-no-longterm-fruit-snack-fat-effects.md) — related
 - [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — related
 - [Computer-tailored health communication meta-analyses show tailored messages significantly improve health-related behaviors compared to no intervention or a generic message](cthc-tailoring-improves-health-behaviors.md) — a broader claim this one bears on
+- [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related

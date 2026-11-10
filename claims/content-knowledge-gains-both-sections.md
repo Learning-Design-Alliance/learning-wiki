@@ -52,3 +52,4 @@ Mixed-design ANOVA in the two-section quasi-experiment (SCALE-UP n = 34; Traditi
 - [A 2×2 mixed ANOVA showed a significant time-by-group interaction in narrative writing scores favoring DS-integrated instruction over traditional writing instruction](ds-integrated-writing-instruction-interaction-advantage.md) — related
 - [Individual and group effort did not differ between students in the SCALE-UP–type and Traditional classrooms](effort-comparable-across-classroom-types.md) — related
 - [Students in both sections believed SCALE-UP infrastructure would enhance their performance even though measured performance did not differ](students-prefer-scale-up-perceptions.md) — related
+- [Self-efficacy increased significantly over the semester in both sections, with no significant difference between cooperative and individual treatments.](self-efficacy-increases-both-sections-no-peer-effect.md) — related

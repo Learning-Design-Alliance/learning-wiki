@@ -54,3 +54,4 @@ Cross-sectional fMRI study of 44 typically developing participants (14 children,
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — related
 - [Number knowledge and numerosity discrimination are unique longitudinal predictors of arithmetic development over the first year of formal education](number-knowledge-numerosity-unique-predictors-arithmetic-growth.md) — related
+- [The three measures of ANS acuity are positively intercorrelated, consistent with a partially shared numerosity code](ans-measures-intercorrelated-common-code.md) — related

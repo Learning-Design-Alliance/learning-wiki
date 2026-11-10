@@ -65,3 +65,4 @@ Same validation survey: the content of version 0.2 "was rated slightly lower (6.
 ## Related Claims
 - [Focus group and survey validation of DML version 0.2 produced no new ML elements, which the authors take as indicating high completeness](dml-validation-no-new-elements-completeness.md) — related
 - [The final Dutch Medical Leadership framework version 1.0 consists of 12 domains, each entailing 4 distinct competencies, plus a compact ML definition](dml-framework-12-domains-four-competencies.md) — related
+- [Target-group pretests rated both intervention versions positively, leading to text shortening and better integration of environmental information](pretest-appreciation-basic-plus-versions.md) — related

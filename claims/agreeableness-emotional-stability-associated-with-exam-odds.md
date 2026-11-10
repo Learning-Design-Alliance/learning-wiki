@@ -55,3 +55,4 @@ Chi-square association analyses in the prospective pilot study of 179 medical st
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — related
 - [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](big-five-teacher-effectiveness-meta-analysis.md) — related
 - [Each point lower on the MEQ-SA morningness scale was associated with higher odds of better training grades](meq-sa-score-lower-grades-association.md) — related
+- [Agreeableness predicts a better professional attitude but worse learning climate and evaluation of residents](agreeableness-mixed-teaching-effects.md) — related

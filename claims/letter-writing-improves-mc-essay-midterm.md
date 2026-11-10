@@ -49,3 +49,4 @@ ANCOVA on post-test 2 (multiple-choice and essay midterm) in the counterbalanced
 - [Participating in an informal letter-writing assignment did not significantly improve scores on a multiple-choice-only quiz](letter-writing-no-effect-mc-quiz.md) — related
 - [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](genai-evaluation-null-summative-algorithms.md) — related
 - [College students assigned free online games as homework scored significantly higher on the midterm than students given traditional assignments](online-games-homework-higher-midterm-personal-finance.md) — related
+- [Writing-containing active-learning treatments (writing-only and discussion+writing) yield higher exam essay performance than discussion-only treatment](writing-treatments-higher-exam-essay-than-discussion-only.md) — related

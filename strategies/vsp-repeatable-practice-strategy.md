@@ -52,6 +52,7 @@ The article recommends integrating virtual standardized patient systems into cli
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
+- [Use simulated patient and examiner empathy ratings as formative feedback in communication skills teaching](sp-empathy-ratings-formative-feedback.md)
 
 ## Examples
 -

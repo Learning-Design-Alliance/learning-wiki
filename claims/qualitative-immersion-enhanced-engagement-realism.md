@@ -102,3 +102,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
+- [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related

@@ -47,7 +47,8 @@ The article recommends designing placement duration and EPA implementation so tr
 - [Regularly discussing EPAs with supervisors helps trainees focus on specific learning goals, create learning opportunities, and generate task-oriented feedback](../claims/epa-discussion-with-supervisors-supports-srl.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Allow learners at least 3 days of self-paced study time so computer-based skill training can transfer to everyday behavior](allow-at-least-3-days-self-paced-computer-training.md)
 
 ## Examples
 -

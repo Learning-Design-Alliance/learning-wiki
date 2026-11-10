@@ -59,3 +59,4 @@ Quasi-experimental pre–post one-group study (Alsaqer and Alhmoud 2025, Jordan)
 - [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related
 - [Nurses prefer short-term training of 3 days to 1 week, with scenario-based simulation and emergency drills the most popular methods](nurse-training-preferences-short-simulation.md) — related
 - [Virtual reality simulation training combined with skills training produces higher emergency care capability ratings than conventional training in reserve nurses](vr-simulation-higher-emergency-care-capability.md) — related
+- [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related

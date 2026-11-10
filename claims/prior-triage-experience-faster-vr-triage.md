@@ -68,3 +68,4 @@ Effect-size assessment accompanying the Mann–Whitney U comparison of triage ti
 - [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related
 - [VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background](vr-performance-no-individual-factor-associations.md) — related
 - [Previous multi-casualty experience, years in service, education level and age do not measurably affect triage accuracy or retention](background-variables-no-effect-on-triage-accuracy.md) — reports the opposite
+- [Triage training improved staff knowledge, and live-victim and written-scenario formats showed no significant difference in learning outcomes](triage-training-improves-knowledge-format-comparison.md) — related

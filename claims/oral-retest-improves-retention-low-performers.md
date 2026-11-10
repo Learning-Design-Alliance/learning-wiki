@@ -49,3 +49,4 @@ Single-course quasi-experimental analysis of 20 students in an advanced undergra
 - [Final-exam performance of students who initially mastered material is indistinguishable from that of students who used the oral retest intervention](oral-retest-closes-retention-gap.md) — related
 - [Revisiting other material in a module does not significantly affect retention of already-mastered material](retesting-other-material-no-effect-mastered-retention.md) — related
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](positive-student-perceptions-oral-retest.md) — related
+- [Residents' correct responses on retested gamified questions improved by 11.9% (p<0.001), with larger gains for more recently introduced round 2 questions (17.4%) than round 1 questions (10.2%).](kaizen-im-knowledge-retention-gain.md) — related

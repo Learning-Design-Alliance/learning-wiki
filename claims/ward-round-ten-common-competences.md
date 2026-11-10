@@ -49,3 +49,4 @@ Qualitative content and frequency analysis of 30 surgical and 30 psychiatric int
 - [Nonverbal communication is described significantly more often in psychiatric than surgical ward round interviews](nonverbal-communication-psychiatry-higher.md) — related
 - [Experts spontaneously mention only a subset of competences when describing the ward round process, suggesting limited awareness of others](spontaneous-competence-focus-awareness-gap.md) — reports the opposite
 - [Ward round competences are distributed by role: teaching to senior doctors, organization to residents](ward-round-role-distribution-teaching-organization.md) — related
+- [Qualitative interviews identify the doctor-patient relationship as the most prominent area of perceived exchange learning](interviews-doctor-patient-relationship-prominent.md) — related

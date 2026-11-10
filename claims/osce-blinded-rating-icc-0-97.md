@@ -54,3 +54,4 @@ Reliability analysis of the study's OSCE rating procedure: two experienced facul
 - [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — reports the opposite
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
+- [Blinded expert observers rated the modified Peyton's small-group sessions highly on trainee comprehension, focus of attention, tutor self-assuredness and flow of training](modified-peyton-expert-ratings-high.md) — related

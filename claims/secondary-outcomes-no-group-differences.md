@@ -73,3 +73,4 @@ Chest compression quality measures extracted from the SimPad SkillReporter in th
 - [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related
 - [Providers exposed to blended learning do not deliver electrical therapies faster than those exposed to face-to-face learning, and completion times deteriorate in both groups at 2 months](blended-learning-no-faster-electrical-therapies.md) — related
 - [Facilitators observed improved communication, teamwork, role delegation, and defibrillator use among residents after RCDP-based ACLS simulation](rcdp-acls-facilitator-observations.md) — related
+- [Intervention teams initiated cardiac compressions 41 seconds faster than Control teams at the end of the first simulation week](cleims-resuscitation-compressions-year3.md) — related

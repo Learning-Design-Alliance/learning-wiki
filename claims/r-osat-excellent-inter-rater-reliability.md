@@ -51,3 +51,5 @@ Reliability analysis of the primary outcome measure: two independent expert robo
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Video OSATS assessments by two expert raters show moderate correlation but poor agreement with live rating](osats-video-moderate-correlation-poor-live-agreement.md) — related
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

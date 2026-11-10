@@ -46,3 +46,4 @@ Resource-usage item in the 226-resident survey (215 answering), also displayed i
 
 ## Related Claims
 - [Emergency medicine residents spend extracurricular time on education: 97.7% report at least one hour per week and 34.4% report two to four hours](em-residents-extracurricular-education-hours.md) — related
+- [73% of surveyed residents used educational resources outside residency training to supplement their EUS knowledge](eus-supplementary-outside-resources-73-percent.md) — related

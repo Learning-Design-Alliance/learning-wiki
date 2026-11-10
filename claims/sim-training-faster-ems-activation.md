@@ -46,3 +46,4 @@ Secondary outcome of the randomized trial: time from ventricular fibrillation on
 
 ## Related Claims
 - [App-guided laypersons significantly delayed the call for help and first chest compression compared with unassisted controls in a simulated cardiac arrest](app-use-delays-call-and-first-compression.md) — related
+- [Intervention teams initiated cardiac compressions 41 seconds faster than Control teams at the end of the first simulation week](cleims-resuscitation-compressions-year3.md) — related

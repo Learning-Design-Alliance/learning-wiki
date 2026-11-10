@@ -49,7 +49,8 @@ The article recommends leveraging the existing LHW programme infrastructure as t
 - [Prior community-based studies in Pakistan and elsewhere support the feasibility of training community health workers to administer emergency medications, including a 24% decrease in maternal mortality with TBA-administered misoprostol](../claims/chw-medication-administration-feasibility-evidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Redistribute standardizable chronic care tasks to pre-existing community health workers and embed self-management education in routine consultations](task-redistribution-embedded-dsme-strategy.md)
 
 ## Examples
 -

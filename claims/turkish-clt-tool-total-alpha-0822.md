@@ -47,3 +47,4 @@ Internal consistency analysis of the 101 students' responses after a respiratory
 
 ## Related Claims
 - [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](dbs-level-determination-exam-reliability.md) — related
+- [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related

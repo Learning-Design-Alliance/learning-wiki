@@ -49,3 +49,4 @@ Study I multinomial regression with model-averaged coefficients on self-reported
 - [Higher relative biology competency predicts a lower preference for the listener role in peer discussions](competency-predicts-listener-preference.md) — related
 - [Asian-American, underserved American, and international students are more likely than white American peers to prefer listening roles in peer discussions](race-nationality-predict-listener-preference.md) — related
 - [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — a broader claim this one bears on
+- [Female students reported more nervousness but higher gained-competence ratings than male students](gender-differences-nervousness-and-competence-gains.md) — related

@@ -51,6 +51,7 @@ The article argues that reflection is needed on the design of high-stakes examin
 ## Related Strategies
 
 - [Explore hybrid assessment models combining AI conversational agent-based and face-to-face formats, with long-term study of effects on performance and well-being](hybrid-ai-and-face-to-face-assessment-models.md)
+- [Teach stress-management and self-care skills to medical students facing examination periods](teach-stress-management-self-care-med-students.md)
 
 ## Examples
 -

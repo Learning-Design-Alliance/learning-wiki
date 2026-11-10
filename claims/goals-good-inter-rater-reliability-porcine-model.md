@@ -56,3 +56,5 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Blinded GOALS rating of the bleeding-exercise videos showed moderate-to-good inter-rater reliability (ICC = 0.72)](goals-bleeding-exercise-icc-moderate-good.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
 - [Blinded grading of simulator videos using a standardized grading system showed high inter-rater reliability](standardized-grading-high-inter-rater-reliability-icc-0862.md) — related
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

@@ -52,3 +52,4 @@ A second multiple linear regression predicted clinical-year cGPA from the five p
 - [cGPA is a strongly significant positive predictor of progress test performance](cgpa-strongly-predicts-progress-test.md) — related
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
 - [Self-emotional appraisal, appraisal of others, emotional control, emotional use and school community work experience independently predict humanistic care competence](regression-predictors-resident-humanistic-care.md) — related
+- [Interview ratings predicted none of the seven training outcomes examined](interview-ratings-predict-none-of-training-outcomes.md) — related

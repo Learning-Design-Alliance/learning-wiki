@@ -62,3 +62,4 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 - [Women outperform men in first-year GPA, with no heterogeneous personality-trait effects by gender](gender-gap-gpa-no-trait-moderation.md) — related
 - [The test anxiety interventions did not change end-of-course self-declared trait anxiety](test-anxiety-intervention-no-trait-anxiety-change.md) — related
 - [Women report higher trait test anxiety than men at the start of an introductory biology course](women-report-higher-trait-test-anxiety-than-men-intro-biology.md) — related
+- [Male students reported higher self-efficacy than female students in both Studies 2 and 3, and self-efficacy mediated the gender effect on learning in Study 3](gender-self-efficacy-difference-mediation.md) — related

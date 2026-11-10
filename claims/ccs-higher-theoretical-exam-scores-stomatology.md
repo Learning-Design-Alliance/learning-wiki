@@ -61,3 +61,4 @@ Cluster-randomized controlled study of 328 fourth-year medical undergraduates in
 - [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related
 - [Simulator-based teaching produced higher overall knowledge scores than traditional PowerPoint-based teaching in medical students](simulator-teaching-higher-total-score-than-lecture.md) — related
 - [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — reports the opposite
+- [A virtual-world pediatric dentistry simulation used as a supplement to lectures produced significantly higher knowledge scores than lectures alone](vp-simulation-knowledge-gain-pediatric-dentistry.md) — related

@@ -52,6 +52,7 @@ The authors propose a future implementation in which the workshop modules are de
 - [Deliver online course content in multiple shorter sessions with end-of-session recaps](multiple-shorter-sessions-with-recaps-strategy.md)
 - [Deliver DCBL as iterative, spaced exposure rather than a one-off session to support durable gains in complex clinical reasoning](iterative-spaced-dcbl-exposure-strategy.md)
 - [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](spaced-review-structures-strategy.md)
+- [Teach an early, actively delivered learning-strategies module in medical school with spaced follow-up modules](spaced-learning-to-learn-module-medical-school.md)
 
 ## Examples
 -

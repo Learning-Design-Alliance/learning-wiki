@@ -45,7 +45,8 @@ The authors recommend that future Web-based computer-tailored interventions ensu
 - [Self-regulation scores increased more in the control group than in either tailored intervention group at nine months](../claims/ct-nutrition-self-regulation-larger-control-increase.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Providing tailored objective feedback on local supermarket availability and price of healthy foods](tailored-local-supermarket-environmental-feedback.md)
 
 ## Examples
 -

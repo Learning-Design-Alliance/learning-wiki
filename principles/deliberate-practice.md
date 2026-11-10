@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 37 studies (14 quant-synthesis, 7 causal, 7 review, 6 theoretical, 2 associational, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 14 claims rest on one study
+> **Evidence** · 24 claims (16 for, 8 mixed) · 38 studies (14 quant-synthesis, 8 causal, 7 review, 6 theoretical, 2 associational, 1 design), `q1`–`q4` · 11 of 38 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 - [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](../claims/deliberate-practice-improves-cr-no-plateau.md) [+W] — attached 2026-11-05 from Waechter Jason et al. (2026), which proposed "Deliberate-practice virtual patient case sequence with staged differential diagnosis revision and per-case feedback"; tests this page's relationship.
 - [In this case, DP supervision of a therapist delivering Behavioral Activation coincided with improved client outcomes, with BDI falling from 31 at intake to 15 at final assessment](../claims/dp-supervision-case-bdi-improvement.md) [+W] — attached 2026-11-06 from Sacks (2025), which proposed "Choose clearly defined, behaviorally described treatments as the vehicle for DP skill training".
 - [Deliberate practice yields significantly higher OSCE scores than conventional lecture in trauma training for pre-clinical medical students](../claims/deliberate-practice-higher-osce-trauma-training.md) [+W] — attached 2026-11-07 from Kanoksin Suksan et al. (2025), which proposed "Use deliberate practice to complement, not replace, lecture-based instruction"; tests this page's relationship.
+- [Students taught with the deliberate practice assignments were 1.56 times more likely to answer phylogenetic final-exam questions correctly than comparison students, while nonphylogenetic performance was unchanged](../claims/deliberate-practice-phylogenetics-exam-odds.md) [+W] — attached 2026-11-10 from Hobbs F. Collin et al. (2013), which proposed "Recommend a deliberate practice approach to teaching difficult concepts in the life sciences"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

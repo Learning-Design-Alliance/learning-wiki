@@ -57,6 +57,7 @@ Based on the study's findings of low knowledge and short-term one-off effects, t
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
+- [Reform anatomy education with a spiral curriculum, teaching in context, teaching for transfer and assessment for learning](spiral-contextualised-anatomy-education-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Mean value analysis of the combined four communication dimensions for self- and 
 - [No statistical correlation was found between students' self-ratings and standardized patients' ratings at the individual level](no-individual-level-correlation-self-external-ratings.md) — related
 - [In students' self-perception, only non-verbal expression changed significantly across the seven semester cohorts](self-perception-nonverbal-expression-significant-change.md) — related
 - [Lecturers' external assessment showed no statistically significant improvement within the semester, unlike the students' self-assessment](lecturer-within-semester-assessment-not-significant.md) — related
+- [Standardized-patient (ICSC) ratings of communication skills improve significantly for the 2009 cohort but not for the 2008 cohort](sp-icsc-ratings-improve-2009-not-2008.md) — related

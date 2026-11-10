@@ -46,3 +46,4 @@ Need-analysis survey data in Table 1: 39 respondents (97.5%) said they need inte
 
 ## Related Claims
 - [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
+- [Most simulation-group students rated the Erietta simulation positively and 69% would adopt it as a teaching tool](positive-student-evaluation-erietta-simulation.md) — related

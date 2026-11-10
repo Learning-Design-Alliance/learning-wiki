@@ -74,3 +74,4 @@ McNemar comparison of the proportion of highly anxious students between time poi
 - [Gymnasium students were more anxious than regular-school students at baseline, but this difference disappeared by follow-up](gymnasium-anxiety-baseline-disappears.md) — related
 - [Level of anxiety was not associated with academic achievement in fully adjusted regression models at either time point](anxiety-not-predicting-achievement-latvia.md) — related
 - [Girls had significantly higher anxiety and lower quality of life than boys across all SF-36 domains at both time points](girls-higher-anxiety-lower-qol.md) — related
+- [Medical students' quality of life is significantly lower before a major examination than after it](pre-exam-qol-lower-than-post-exam-med-students.md) — related

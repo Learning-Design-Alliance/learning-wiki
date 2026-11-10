@@ -53,3 +53,4 @@ MANOVA in SPSS version 22 on gain scores of both dependent variables, after Box'
 - [The four detected learning tactics differ significantly across all nine learning actions (MANOVA)](manova-significant-tactic-differences.md) — related
 - [A science learning video integrated with a local MHP plant improves junior high students' science process skills more than PowerPoint images-narration](mhp-video-improves-sps-gain.md) — possibly the same claim (merge candidate)
 - [Learning method has a significant multivariate effect on the combined personal intelligence outcomes (interpersonal and intrapersonal)](manova-omnibus-learning-method-personal-intelligence.md) — related
+- [A video-feedback and questioning programme increases total and regulatory concepts in intermediate tennis players' problem representation](video-feedback-questioning-increases-problem-representation-concepts.md) — related

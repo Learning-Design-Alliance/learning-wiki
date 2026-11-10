@@ -51,3 +51,4 @@ In the pilot RCT's retention test one week after training, differences between p
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
 - [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](no-retention-difference-three-methods.md) — related
 - [Both trained groups (remote and face-to-face) significantly outperformed the untrained control group on procedural performance](trained-groups-outperform-control-chest-tube.md) — related
+- [Peer-assessment engagement during simulation training shows no significant benefit on retention-test performance measured two weeks after the course](peer-assessment-no-retention-benefit-two-weeks.md) — related

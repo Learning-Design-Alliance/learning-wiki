@@ -67,3 +67,4 @@ The review cites the ESGE ESD curriculum's quality metrics as an example of outc
 - [En-bloc resection and perforation outcomes on the DNH model stratify by experience: experts 100% resection and 0% perforation versus residents 60% and 20%](dnh-model-resection-perforation-stratify-experience.md) — related
 - [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
+- [Simulator-trained students perforate the cortical bone half as often as lecture-only novices on the resin model](simulator-training-halves-perforation-frequency.md) — related

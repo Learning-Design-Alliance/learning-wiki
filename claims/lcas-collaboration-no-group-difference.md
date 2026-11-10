@@ -50,3 +50,4 @@ Known-groups comparison on the collaboration scale (n = 141: 73 CURE, 68 traditi
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [CURE students give higher overall LCAS total ratings than traditional lab students](lcas-total-score-cures-higher.md) — related
 - [Students and instructors show high agreement in designating courses as CUREs or traditional labs, supporting the LCAS as a measure of course design](student-instructor-agreement-course-designation.md) — related
+- [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related

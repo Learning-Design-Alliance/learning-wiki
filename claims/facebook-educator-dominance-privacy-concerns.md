@@ -50,3 +50,4 @@ Narrative literature review of Facebook in higher education. The review highligh
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
 - [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — related
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — related
+- [Unprofessional behavior and privacy violations on Facebook occur in 0.02% to 16% of cases across reviewed studies](facebook-unprofessional-behavior-privacy-violations-0-02-16-percent.md) — related

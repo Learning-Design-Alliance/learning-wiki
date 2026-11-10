@@ -51,7 +51,8 @@ The article proposes practical ways medical schools can improve department chair
 - [Performance evaluation with defined indicators and auditing is identified as a critical component of department chair performance improvement](../claims/dc-performance-evaluation-indicators-auditing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The editorial reports, citing Schreder et al.'s qualitative study comparing vide
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — a narrower finding that bears on this claim
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related
 - [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related
+- [Critical reflection during debriefing requires facilitators and peers because individual reflection is biased by prior conceptualisation](facilitated-group-debriefing-critical-reflection.md) — related

@@ -107,3 +107,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Students initially struggled with game questions but acquired the concepts through repeated play](repeated-game-play-overcomes-initial-difficulty.md) — related
 - [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related
 - [Conditionalized on initial retrieval success, testing beats restudy at 24 hours, but a second test adds no reliable benefit](testing-effect-conditional-on-retrieval-success.md) — related
+- Unsuccessful retrieval attempts accompanied by feedback enhance subsequent learning as much as studying the answer directly with more than double the time — related

@@ -50,3 +50,4 @@ Uncontrolled completer analysis (n = 84) within the group-based MBCT arm of the 
 - [Observer-rated therapist competence did not predict reduction of psychological distress after group-based MBCT](therapist-competence-not-predicting-mbct-outcome.md) — related
 - [Only the goal subscale of therapeutic alliance predicted distress reduction; task and bond subscales did not](alliance-goal-subscale-predicts-mbct-outcome.md) — related
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
+- [Employees with higher initial psychological distress and lower support-seeking were more likely to drop out of the computer-based stress management program](higher-distress-noncompleters-dropout.md) — related

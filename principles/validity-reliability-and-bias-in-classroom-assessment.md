@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 459 claims (226 for, 205 mixed, 28 against) · 343 studies (109 associational, 84 design, 58 causal, 47 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 343 report an effect size · 452 claims rest on one study
+> **Evidence** · 463 claims (228 for, 207 mixed, 28 against) · 346 studies (109 associational, 84 design, 60 causal, 48 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 346 report an effect size · 456 claims rest on one study
 
 ## Conditional relationship
 
@@ -303,6 +303,10 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Formula scoring with a don't know option introduces construct-irrelevant variance into progress test knowledge scores](../claims/fs-dko-construct-irrelevant-variance-progress-tests.md) [+W] — attached 2026-11-09 from Ravesloot C. J. et al. (2015), which proposed "Choose between formula scoring and number-right scoring by weighing systematic bias against random measurement error in progress tests"; tests this page's relationship.
 - [Number-right scoring yields substantially lower progress test reliability than formula scoring](../claims/nr-scoring-lower-reliability-than-fs-progress-tests.md) [+W] — attached 2026-11-09 from Ravesloot C. J. et al. (2015), which proposed "Choose between formula scoring and number-right scoring by weighing systematic bias against random measurement error in progress tests"; tests this page's relationship.
 - [The confirmatory factor analysis of GRAS-DK did not replicate the original three-factor model of personal reflection](../claims/gras-dk-cfa-fails-three-factor-model.md) [+W] — attached 2026-11-09 from Andersen Nina Bjerre et al. (2014), which proposed "Do not use a reflection scale for effect measurements or group comparisons before its construct validity is established in the new setting".
+- [The multiple-choice format is substantially more reliable and more efficient than open-ended formats, with 4–8 multiple-choice items providing the information of a single essay](../claims/mcq-reliability-efficiency-advantage.md) [+W] — attached 2026-11-10 from Hift Richard J (2014), which proposed "Phase out open-ended questions from exit-level summative assessment in favour of well-constructed multiple-choice items"; tests this page's relationship.
+- [Multiple-choice assessment correlates at least as highly as open-ended assessment — and possibly more highly — with subsequent workplace performance after graduation](../claims/mcq-predicts-workplace-performance-better.md) [+W] — attached 2026-11-10 from Hift Richard J (2014), which proposed "Phase out open-ended questions from exit-level summative assessment in favour of well-constructed multiple-choice items"; tests this page's relationship.
+- [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](../claims/mcq-option-number-no-validity-reliability-difference.md) [~W] — attached 2026-11-10 from Vegada Bhavisha et al. (2016), which proposed "Prefer three-option MCQs over four- and five-option formats for knowledge assessment"; tests this page's relationship.
+- [Frame-of-reference rater training makes raters rate more stringently and shifts group grading toward the observers' reference](../claims/rater-training-increases-stringency-toward-observers.md) [~W] — attached 2026-11-10 from Weitz G et al. (2014), which proposed "Implementing brief frame-of-reference rater training to improve fairness of clinical skills examinations is unlikely to be effective".
 
 ## Objective and learner-valued goal
 

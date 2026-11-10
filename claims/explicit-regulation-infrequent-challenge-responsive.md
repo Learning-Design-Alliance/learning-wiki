@@ -53,3 +53,4 @@ The article reports this pattern of regulatory occurrence from its temporal netw
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
 - [Safety trainers guide social interaction in training situations by facilitating interaction and maintaining temporal structure](trainers-guide-social-interaction-in-safety-training.md) — related
+- [Less experienced teachers' talk about process is almost exclusively in the initiation-response-feedback (IRF) format, limiting social-regulatory group dynamics](irf-dominates-novice-teacher-process-talk.md) — related

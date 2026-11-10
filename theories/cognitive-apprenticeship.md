@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 9 studies (5 causal, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (7 for, 4 mixed, 2 against) · 10 studies (5 causal, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
@@ -31,6 +31,7 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](../claims/menu-based-learning-companion-encourages-reflection-articulation.md) [+W]
 - [Adding modeling videos and prompts during video analysis does not improve posttest or follow-up professional vision outcomes beyond the basic VLE](../claims/modeling-videos-prompts-no-additional-vision-gains.md) [-W] — attached 2026-10-28 from Janeczko et al. (2026), which proposed "Cognitive apprenticeship approach as a didactic framework for designing digital support tools in video-based learning"; tests this page's relationship.
 - [Lab findings on reflection may not transfer to authentic classroom environments](../claims/lab-class-transfer-caution-reflection-quizzing.md) [~W]
+- [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](../claims/metacognitive-time-outs-experienced-teachers.md) [+W] — attached 2026-11-10 from Winston Kalman A et al. (2013), which proposed "Theory of remediation: cognitive apprenticeship within a small community of inquiry requiring expert teachers in multiple roles".
 
 ## Related Theories
 

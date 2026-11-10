@@ -85,3 +85,4 @@ Two-way ANOVA on pre-post learning gains in the same 49-student classroom study.
 - [Example-based assignments improve procedural performance for students in high-minority classrooms](example-based-assignments-high-minority-classrooms-procedural-gains.md) — related
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](animations-effective-only-high-prior-knowledge.md) — related
 - [Cooperative learning showed a significant cross-level interaction with pretest computation competence at posttest, with higher-pretest students benefiting more from CL than control peers](cl-pretest-cross-level-interaction-posttest.md) — related
+- [Low pretest knowledge, hospital work and motivation predict better learning outcome, while sex, hospital work and low pretest scores predict reduced risk of error](predictors-learning-outcome-risk-error-drug-calculations.md) — related

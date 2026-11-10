@@ -47,3 +47,4 @@ Kruskal–Wallis tests on non-normally distributed safety metrics in the same 20
 ## Related Claims
 - [Procedure-related complications do not differ significantly between simulation-based and non-simulation based training groups](sbt-no-complication-difference-airway.md) — related
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — related
+- [Simulator-trained students perforate the cortical bone half as often as lecture-only novices on the resin model](simulator-training-halves-perforation-frequency.md) — related

@@ -50,6 +50,7 @@ The authors refined the module after each 12-week clerkship block using evidence
 - [Refine IBVR modules with clearer narration, shorter sessions, and gamification to raise hedonic appeal](ibvr-refinements-narration-gamification.md)
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Five improvement recommendations: refined modules, more CPX scenarios, evaluator training, video debriefing, and contingency planning](five-gap-closing-recommendations-clinical-curriculum.md)
+- [Incorporate the cognitive representation approach into medical education programs after refining interfaces and adding early guidance](refine-interfaces-and-early-guidance-before-adoption.md)
 
 ## Examples
 -

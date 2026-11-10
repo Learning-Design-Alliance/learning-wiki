@@ -44,6 +44,7 @@ The authors' design recommendation from the study: educational training for SBL 
 ## Related Strategies
 
 - [Make target behaviours and change mechanisms explicit in simulation debriefing design](explicit-target-behaviours-debrief-design.md)
+- [Build an explicit feedback mechanism into standardised-patient labs, since SPs cannot give skill feedback and its absence hinders learning](sp-lab-feedback-mechanism-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ In vitro experiment with 36 operators in three expertise groups placing two impl
 - [Three-dimensional deviation at implant base and tip shows no statistically significant difference across expertise groups in guided implant placement](no-expertise-effect-3d-deviation-guided-implants.md) — related
 - [An expertise reversal pattern: AR provides substantial benefits to novices with diminishing returns for experienced surgeons](ar-expertise-reversal-effect.md) — related
 - [Vertical deviation at the implant tip does not differ significantly by operator expertise, but shifts from coronal to apical direction between gap and free-end sites](vertical-deviation-no-expertise-effect-site-shift.md) — related
+- [Buccolingual drilling approach differs by group: novices and simulator-trained students drill buccal-to-lingual while experienced practitioners reverse the axis](buccolingual-approach-differs-experienced-vs-novice.md) — related

@@ -41,6 +41,7 @@ Because students in GBL environments tend to acquire implicit knowledge that doe
 - [Maximize Transfer and Generalization](maximize_transfer_and_generalization.md)
 - [Game-Based Learning (GBL)](game-based-learning-gbl.md)
 - [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
+- [Use game-based e-learning for self-instruction on topics where student motivation is a problem](gbel-self-instruction-motivation-problem-topics.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Multilevel mixture CACE models in the cluster RCT, with compliance defined as cl
 - [No intervention effect among high compliers at follow-up, suggesting an optimal dosage range of 1030–1347 minutes over two years](gbg-no-high-complier-effect-optimal-dosage.md) — related
 - [No CACE intervention effects on reading at immediate post-test for either moderate or high compliance levels](gbg-no-cace-effect-post-test.md) — related
 - [The Good Behavior Game shows no intent-to-treat effect on children's reading attainment at post-test or 1-year follow-up in a cluster RCT](gbg-no-itt-effect-reading-attainment.md) — related
+- [Instrumental-variable (ITT-AT) analysis corrected for non-compliance shows an even larger effect of the game than standard ITT](itt-at-analysis-larger-gbel-effect.md) — related

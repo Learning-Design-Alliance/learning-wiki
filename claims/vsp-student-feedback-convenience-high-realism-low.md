@@ -65,3 +65,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Students rate digital simulated-person communication seminars highly, with 63% giving a very good and 37% a good overall grade](digital-sp-seminars-high-student-acceptance.md) — related
 - [Overall assessment of the SPs is very good, with a median of 1 and mean of 1.47](sp-overall-assessment-very-good.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
+- [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related

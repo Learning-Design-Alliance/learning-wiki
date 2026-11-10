@@ -50,3 +50,4 @@ GEE modelling of error counts across baseline and 12-month observations for 103 
 - [CHWs interpret malaria RDT results accurately 12 months post-training (sensitivity 92.0%, specificity 97.3%), with faint-positive cassettes most frequently misinterpreted and no significant covariate effects](chw-rdt-interpretation-accuracy-12-months.md) — related
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
 - [Age is significantly associated with leaders' ICT use, with younger nurse leaders more able than older counterparts](age-associated-ict-use-nurse-leaders.md) — related
+- [Female gender, age 65 years or older, colorectal cancer, diverticular disease and stricture are associated with colonoscopy incompletion in trainees' procedures](patient-factors-colonoscopy-incompletion.md) — related

@@ -57,3 +57,4 @@ Qualitative thematic analysis of 60-90 minute focus groups (5 disciplines per gr
 - [Team CPR training significantly improves skill confidence and active participation (Kirkpatrick behavior level)](cpr-training-improves-confidence-participation.md) — related
 - [Engaging the teaching team early is essential for curricular uptake of virtual gaming simulation](teaching-team-engagement-essential-vgs-uptake.md) — related
 - [Educational interventions designed around assessed participant needs produced greater satisfaction and significant knowledge gains](needs-assessment-nutrition-education-design.md) — related
+- [An effective simulated team training session ends with a second scenario for active experimentation after debriefing](second-scenario-active-experimentation-sim-team-training.md) — related

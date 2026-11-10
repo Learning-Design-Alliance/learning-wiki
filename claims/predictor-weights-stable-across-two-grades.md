@@ -51,3 +51,4 @@ Amos Graphics v.23 path model comparing an unconstrained model (coefficients fre
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
 - [The DV interview performance pattern does not differ between 3rd-year and 4th-year medical students](no-difference-dv-pattern-third-fourth-year.md) — related
+- [Regression significance patterns varied substantially across institutions and years, with no significant coefficients at Institution C](regression-patterns-vary-across-institutions.md) — related

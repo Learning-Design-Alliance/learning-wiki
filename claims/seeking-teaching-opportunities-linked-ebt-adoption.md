@@ -69,3 +69,4 @@ Informal trend analysis across DOI-stage placements in the interview study. The 
 - [Perception that EBT is not possible in large classes was more common among graduate students who had not implemented EBT](large-class-perception-barrier-non-implementers.md) — related
 - [Participation in mandatory TA training showed no indication of a positive impact on EBT adoption](mandatory-ta-training-not-linked-ebt-adoption.md) — related
 - [Evidence favoring student-centered pedagogy has not translated into widespread faculty adoption, and neither data provision nor workshops has proven sufficient](pedagogical-change-data-workshops-insufficient.md) — related
+- [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related

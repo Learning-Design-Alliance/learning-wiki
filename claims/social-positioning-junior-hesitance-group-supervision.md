@@ -56,3 +56,6 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Instructors identified debriefing as critical to training success but felt anxious about their debriefing expertise, especially across hierarchies](instructor-debriefing-anxiety-hierarchy.md) — related
 - [Recruiting experienced reviewers is increasingly difficult while junior researchers are more willing, motivating a balanced senior-junior reviewer mix](senior-junior-reviewer-balance.md) — related
 - [Interview and dialogue formats were reported as desirable, with positive learner feedback for a junior doctor questioning a senior physician](interview-format-positive-feedback.md) — related
+- [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](clinical-supervision-embeds-self-management-skills.md) — related
+- [Less experienced teachers' talk about process is almost exclusively in the initiation-response-feedback (IRF) format, limiting social-regulatory group dynamics](irf-dominates-novice-teacher-process-talk.md) — related
+- [Junior students feel insecure about deficient anatomical knowledge before clerkships, while senior students can put these feelings in perspective](student-insecurity-anatomical-knowledge.md) — related

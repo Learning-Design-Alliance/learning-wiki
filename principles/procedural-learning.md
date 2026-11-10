@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 72 claims (48 for, 22 mixed, 2 against) · 84 studies (49 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 84 report an effect size · 62 claims rest on one study
+> **Evidence** · 76 claims (52 for, 22 mixed, 2 against) · 87 studies (51 causal, 14 review, 9 quant-synthesis, 7 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 87 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,10 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Skill retention 4–8 weeks after VAD training is superior after practice-based training: theory-trained participants deteriorated significantly while practice-trained participants remained stable](../claims/practice-based-vad-training-superior-retention.md) [+W] — attached 2026-11-08 from Marschalek Julian et al. (2021), which proposed "For procedural skills needed under stressful, unscheduled conditions, include one-to-one instructed hands-on practice in training programs because practice-based training better retains skills than theory-only training"; tests this page's relationship.
 - [Students who received LP simulation training had a higher first-LP success rate in real patients than untrained controls (67% vs 14%)](../claims/lp-simulation-higher-first-lp-success.md) [+W] — attached 2026-11-08 from Gaubert Sinead et al (2021), which proposed "Include theoretical teaching in all simulation-based sessions for technical procedures".
 - [Laparoscopic simulator task scores rose from baseline to posttraining measurement among all medical students in a single-group pre-post study](../claims/simulator-training-improves-all-students-laparoscopic-scores.md) [+W] — attached 2026-11-09 from Cheng Luo Chih MD; Mao Wu Sheng MD; Kuei Chien Wen PhD; Sheng Huang Chen MD; Cheng Lin Wei MD; Chun Chang Yin MD (2016), which proposed "Provide early exposure to laparoscopic techniques with structured coaching and self-guided practice opportunities in the clerkship".
+- [In one single-group pre-post study, the number of surgical errors residents committed during selective neck dissection fell from 91 to 41 after exposure to a high definition video teaching module](../claims/hdvm-reduces-surgical-errors-neck-dissection.md) [+W] — attached 2026-11-10 from Mendez Adrian et al. (2014), which proposed "Use validated high definition video teaching modules as an adjunct to classical surgical training for post-graduate trainees".
+- [Operator validity rates improve most over the first 10 Fibroscans, with a 10-fold increase in scans performed significantly improving the odds of a valid LSE](../claims/fibroscan-learning-curve-first-10-scans.md) [+W] — attached 2026-11-10 from Armstrong M J et al. (2013), which proposed "Give novice Fibroscan operators a supervised period incorporating a minimum of 10 scans on patients before independent use".
+- [Medical students randomized to access a lower limb examination video were more often rated globally competent than students without video access](../claims/lle-video-access-improves-global-competence-osce.md) [+W] — attached 2026-11-10 from Hibbert Emily J et al. (2013), which proposed "Use high-quality video demonstrations as an adjunct to face-to-face clinical skills teaching in a blended learning format".
+- [Medical students randomized to access a diabetes history-taking video were more often rated globally competent than students without video access](../claims/dmh-video-access-improves-global-competence-osce.md) [+W] — attached 2026-11-10 from Hibbert Emily J et al. (2013), which proposed "Use high-quality video demonstrations as an adjunct to face-to-face clinical skills teaching in a blended learning format".
 
 ## Objective and learner-valued goal
 

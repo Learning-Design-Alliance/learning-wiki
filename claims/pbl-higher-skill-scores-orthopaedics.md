@@ -76,3 +76,4 @@ Meta-analysis of 12 RCTs (N=1090), random effects model with high heterogeneity 
 - [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related
 - [PBL significantly increases skill scores compared with LBL in Chinese pediatric medical education (SMD 1.56)](pbl-increases-skill-scores-pediatric-china.md) — related
 - [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related
+- [PBL effect sizes on examination scores increase with the methodological quality score of the included studies](pbl-effect-larger-higher-quality-studies.md) — related

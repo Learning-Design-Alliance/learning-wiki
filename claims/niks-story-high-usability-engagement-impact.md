@@ -70,3 +70,4 @@ Descriptive post-simulation item from the same 47-participant study: 46 particip
 - [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related
 - [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
+- [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related

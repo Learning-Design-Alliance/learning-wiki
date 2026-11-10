@@ -54,3 +54,4 @@ Fisher's z comparison of correlation coefficients across grades in the correlati
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [The SYMP Test shows convergent validity with a computerized version of the task and discriminant validity against spelling achievement](symp-convergent-discriminant-validity.md) — related
 - [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](symp-mld-lower-except-grade-6.md) — related
+- [Non-symbolic comparison acuity improves with age in typically achieving children but remains stable in children with mathematical difficulties, while estimation and addition acuity improve in both groups](ans-comparison-trajectory-diverges-md-ta.md) — related

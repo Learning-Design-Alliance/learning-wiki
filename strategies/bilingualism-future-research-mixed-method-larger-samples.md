@@ -48,6 +48,7 @@ The review recommends that future studies of bilingualism combine qualitative an
 - [Prioritise qualitative-first and mixed-method research designs, with targeted scales and school collaboration, when investigating music and PSWB](qualitative-first-mixed-method-pswb-research.md)
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
+- [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
 
 ## Examples
 -

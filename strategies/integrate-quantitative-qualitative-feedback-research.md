@@ -44,6 +44,7 @@ The review recommends that "future research needs to integrate quantitative and 
 - [Use both qualitative and quantitative research designs, including longitudinal follow-up, to clarify which aspects of residency training best prepare doctors](mixed-methods-longitudinal-residency-outcomes-research.md)
 - [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 - [Use cardiac arrest registries and audit-and-feedback as quality improvement to improve BLS](ca-registry-audit-feedback-bls-quality-strategy.md)
+- [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
 
 ## Examples
 -

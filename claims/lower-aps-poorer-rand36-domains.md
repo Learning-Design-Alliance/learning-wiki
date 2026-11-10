@@ -50,3 +50,5 @@ Mann-Whitney U between-group comparisons of RAND-36 domain scores (LAP n = 19 vs
 - [Physical functioning is the strongest predictor of clinical education quality among the eight SF-36 dimensions (β = 0.807, p < 0.01).](physical-functioning-strongest-sf36-predictor.md) — related
 - [Girls had significantly higher anxiety and lower quality of life than boys across all SF-36 domains at both time points](girls-higher-anxiety-lower-qol.md) — related
 - [Energy/fatigue and emotional well-being declined significantly between the beginning and end of the school year, with no school-type differences in QOL](qol-decline-energy-emotional-wellbeing.md) — related
+- [Students who passed the examination had significantly higher baseline quality-of-life scores in every WHOQOL-BREF domain than referred students](baseline-qol-higher-in-pass-students.md) — a narrower finding that bears on this claim
+- [Higher-performing students (pass with a class) had significantly higher quality-of-life scores in every domain than simple-pass students](better-performers-higher-qol-domains.md) — related

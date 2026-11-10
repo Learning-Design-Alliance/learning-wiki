@@ -49,3 +49,6 @@ Survey question on preferred CPC model. "the majority of EMT (88 %) and Paramedi
 - [Pre-hospital practitioners rate practical, hands-on and simulation-based CPC activities as most relevant and passive individual activities as least relevant](practical-activities-preferred-for-cpc.md) — related
 - [Substantial minorities to majorities support sanctions: 78% of EMTs and 39% of Paramedics/APs believe persistent failure to meet CPC should mandate denial of registration](cpc-sanctions-support-varies-by-level.md) — related
 - [Practitioners already undertake substantial CPC hours and consider 21–40 hours per annum adequate](cpc-hours-completed-and-preferred.md) — related
+- [Most surveyed EMTs already maintain portfolios and complete CPC activities voluntarily, and favour 20–40 annual hours](emts-voluntarily-complete-cpc-and-favour-20-40-hours.md) — related
+- [A majority (77%) of Irish paramedics and APs favour a mixed mandatory/voluntary CPC model with minimum standards including evidence of patient care](mixed-mandatory-voluntary-cpc-model-supported.md) — a narrower finding that bears on this claim
+- [A majority of respondents support organisational input into CPC composition and audit, with 79% wanting employer input](organisational-input-and-audit-of-cpc-supported.md) — related

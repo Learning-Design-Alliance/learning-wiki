@@ -74,3 +74,4 @@ The paper reports, citing Stegers-Jager and colleagues, a Dutch model with warni
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related
 - [Selection into Dutch COVID-19 remediation programs was strongly linked to disadvantage, with students with extremely low test scores most likely to participate](remediation-selection-linked-to-disadvantage.md) — related
 - [Participation in Dutch COVID-19 remediation programs was associated with a statistically significant but small increase of about 0.05 SD in vulnerable students' achievement](remediation-programs-005sd-gain.md) — related
+- [Long-term pass rates of remediated medical students correlate strongly with teacher context experience (r = 0.81) and total teaching experience (r = 0.72)](teacher-experience-correlates-remediation-outcomes.md) — related

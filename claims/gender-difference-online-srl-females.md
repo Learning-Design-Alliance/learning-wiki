@@ -77,3 +77,4 @@ Mann–Whitney U test on age in the same survey found "a lack of substantial age
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related
 - [Female Saudi PE students report higher autonomy and competence than males during online PE learning, with no gender difference in relatedness](gender-difference-autonomy-competence-online-pe.md) — related
+- [Female students had a significantly lower error frequency than male students in cardiac examination, driven by inspection and palpation, while percussion was more error-prone in females](cardiac-exam-gender-skill-differences.md) — related

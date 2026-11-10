@@ -48,3 +48,4 @@ Pilot randomized controlled trial: 19 final-year University of Sydney medical st
 - [With a 65% pass mark, the majority of e-learning-access students passed the OHNS OSCE while the majority of study-as-usual students failed](e-learning-adjunct-higher-osce-pass-rates-ohns.md) — related
 - [All 19 students gave favorable feedback on the e-learning resources, with average ratings of 8 or higher on every survey question](favorable-student-feedback-ohns-e-learning-survey.md) — a narrower finding that bears on this claim
 - [Third-year medical students' OSCE scores improved significantly in all assessed domains after a six-month self-directed e-learning course](e-learning-course-improved-osce-scores-all-domains.md) — related
+- [Medical students randomized to access a lower limb examination video were more often rated globally competent than students without video access](lle-video-access-improves-global-competence-osce.md) — related

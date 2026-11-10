@@ -94,3 +94,6 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Interrater reliability of the mOSAUS total pre-training score was good (ICC = 0.74), varying across assessment elements](mosaus-interrater-reliability-icc-074.md) — a narrower finding that bears on this claim
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — a narrower finding that bears on this claim
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

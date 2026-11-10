@@ -47,3 +47,4 @@ Course-evaluation survey items in the randomized trial: "A total of 85.7% of the
 ## Related Claims
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Most surveyed TCM students want better clinical skill training and are willing to try VSP-TCM](prequestionnaire-student-demand-vsp-tcm.md) — related
+- [Students who played the patient role were more nervous, wanted to play more roles, and rated the experience as less important than doctor-role players](patient-role-players-more-nervous-lower-ratings.md) — related

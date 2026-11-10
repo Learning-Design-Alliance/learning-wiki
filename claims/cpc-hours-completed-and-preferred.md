@@ -50,3 +50,6 @@ Survey of CPC activity volumes (Fig. 3). "Fifty seven per cent of Paramedics/APs
 - [Pre-hospital practitioners rate practical, hands-on and simulation-based CPC activities as most relevant and passive individual activities as least relevant](practical-activities-preferred-for-cpc.md) — related
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
 - [Majorities of Irish pre-hospital practitioners favour a 'mixed' CPC model combining mandatory and voluntary activities](mixed-model-cpc-supported.md) — related
+- [Opinion on appropriate annual CPC hours is split, with 35% favouring 21-40 hours and 26% favouring 41-60 hours](cpc-annual-hours-opinion-split.md) — related
+- [Most surveyed EMTs already maintain portfolios and complete CPC activities voluntarily, and favour 20–40 annual hours](emts-voluntarily-complete-cpc-and-favour-20-40-hours.md) — related
+- [A majority (77%) of Irish paramedics and APs favour a mixed mandatory/voluntary CPC model with minimum standards including evidence of patient care](mixed-mandatory-voluntary-cpc-model-supported.md) — related

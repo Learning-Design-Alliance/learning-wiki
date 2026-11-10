@@ -70,3 +70,7 @@ Pearson/Spearman correlation analysis in the Results section of the same cohort.
 - [Small differences in UKCAT points translate into meaningful prediction: 333-500 extra UKCAT points correspond to one additional mark on each UKFPO outcome](ukcat-points-translate-to-ukfpo-marks.md) — a narrower finding that bears on this claim
 - [GAMSAT correlates more strongly with FPAS-EPM whereas UKCAT correlates more strongly with FPAS-SJT, though the two aptitude tests share much variance](gamsat-epm-ukcat-sjt-differential-validity.md) — related
 - [Female sex, white ethnicity, and higher UKCAT scores are significant predictors of FPAS SJT score among graduate entrants](sex-ethnicity-ukcat-predict-sjt.md) — related
+- [UKFPO EPM and SJT scores do not correlate with postgraduate attainment or with assessment time at medical-school level.](epm-sjt-no-correlation-postgraduate-attainment.md) — related
+- [UKCAT shows little relationship with the other pre-admission criteria, suggesting it measures different dimensions](ukcat-measures-dimensions-distinct-from-tss-interview.md) — related
+- [UKCAT total score is the only pre-admission measure independently associated with both final composite outcomes (EPM and H&C) at Glasgow Medical School](ukcat-total-only-independent-predictor-composite-outcomes.md) — related
+- [UKCAT total explains around 5% of variance in EPM and 6% in H&C in bivariate regression](ukcat-total-variance-explained-composites.md) — a narrower finding that bears on this claim

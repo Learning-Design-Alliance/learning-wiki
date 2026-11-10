@@ -50,3 +50,4 @@ Descriptive statistics of the four scales in the cross-sectional survey (N = 440
 - [Clinical reasoning competency partially mediates the relationships of delirium knowledge and self-efficacy with delirium care difficulties](clinical-reasoning-partially-mediates-difficulties.md) — related
 - [ICU nurses' delirium knowledge, self-efficacy and clinical reasoning competency are each negatively correlated with delirium care difficulties](icu-nurse-delirium-variables-negatively-correlated-difficulties.md) — related
 - [Demographics plus knowledge, self-efficacy and clinical reasoning explain 33.5% of variance in delirium care difficulties in multiple regression](regression-explains-33-5-percent-difficulties-variance.md) — related
+- [Healthcare workers' experienced strain in caring for delirious patients did not change from pre-test to post-test in one single-group pre-post study of delirium e-learning](elearning-no-effect-on-care-strain.md) — related

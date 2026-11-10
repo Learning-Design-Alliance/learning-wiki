@@ -53,3 +53,4 @@ Primary outcome of a multicenter randomized controlled trial in which 73 nursing
 - [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related
 - [Patient safety knowledge improved equally after the serious game and the e-module compared with a no-extra-education control group](game-and-e-module-equal-knowledge-gains-patient-safety.md) — related
 - [Simulator training outcomes were comparable to alternative training methods in the concordance-validity studies](ips-concordance-validity-comparable-outcomes.md) — related
+- [The second simulation week improved acquisition of new knowledge and clinical reasoning (MCQ4 and SCQ4)](cleims-year4-knowledge-reasoning-gains.md) — related

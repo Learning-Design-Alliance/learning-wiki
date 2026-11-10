@@ -50,3 +50,4 @@ Randomized allocation of 89 freshmen into experimental (n=45) and control (n=44)
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
 - [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
+- [Examination scores did not differ significantly between 2013 NextGenU/flipped classroom students and 2011 lecture-based students](flipped-exam-scores-no-significant-difference.md) — related

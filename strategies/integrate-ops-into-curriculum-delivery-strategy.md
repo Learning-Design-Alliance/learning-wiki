@@ -49,6 +49,7 @@ The article recommends positioning online patient simulations within the curricu
 - [Incorporate the HMSS into health management teaching curricula as a supplement to traditional teaching](incorporate-hmss-as-supplement-to-traditional-teaching.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
+- [Improve announcements and cross-link related e-learning to increase voluntary uptake of an e-learning supplement](announcements-and-crosslinking-boost-elearning-uptake.md)
 
 ## Examples
 -

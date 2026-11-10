@@ -49,3 +49,4 @@ GLMM analysis of experimental-group on-training app tasks (CogniFit assessment-b
 - [Gamified personalized auditory-cognitive training improves naturalistic speech-in-noise comprehension in older adults with hearing loss relative to an active control group](act-improves-naturalistic-sin-comprehension-older-adults.md) — related
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](act-off-training-transfer-mixed.md) — related
 - [Lower auditory working memory capacity moderates the training benefit: participants 1 SD below the mean improve significantly more after immersive than auditory training](awm-moderates-immersive-training-benefit.md) — related
+- [Training improved complex but not simple measures of divided attention and working memory, with moderate effect sizes](training-improves-complex-not-simple-cognitive-tasks.md) — related

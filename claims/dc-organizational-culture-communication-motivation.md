@@ -54,3 +54,4 @@ Qualitative FGD study with 20 participants; organizational behaviour management 
 - [Performance evaluation with defined indicators and auditing is identified as a critical component of department chair performance improvement](dc-performance-evaluation-indicators-auditing.md) — related
 - [Faculty physicians identify an organizational culture of humanism as the overarching organizational factor motivating humanistic practice.](organizational-culture-of-humanism-overarching-motivator.md) — related
 - [Official top-down support from the dean is associated with faster curriculum-mapping progress, and its absence with very slow progress](dean-top-down-support-mapping-progress.md) — related
+- [In learner-centred CME workshops, a friendly collaborative context emerges as the core category linked to knowledge sharing and improved learning outcomes](friendly-collaborative-context-core-category-cme.md) — related

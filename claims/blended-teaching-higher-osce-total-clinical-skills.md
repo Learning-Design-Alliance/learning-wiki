@@ -53,3 +53,4 @@ Prospective randomized controlled trial at WUST: 48 fifth-semester students rand
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
 - [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](integrated-simulation-clinical-practice-no-score-difference.md) — related
+- [Blended learning showed no benefit for practical clinical examination skills: OSCE scores did not differ between NESTOR users and non-users](osce-no-difference-nestor-users-nonusers.md) — reports the opposite

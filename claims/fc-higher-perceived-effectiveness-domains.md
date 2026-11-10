@@ -90,3 +90,4 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Students' self-reported mastery of knowledge improved after the flipped classroom across all four measured knowledge factors](flipped-classroom-knowledge-mastery-improvement-radiology.md) — reports the opposite
 - [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related
 - [Clinical departments with greater student involvement in clinical practice register increasing applicants](department-involvement-increasing-applicants.md) — related
+- [Students reported close-to-moderate perceived gains in problem-solving and knowledge-construction abilities](perceived-learning-gains-close-to-moderate.md) — related

@@ -50,3 +50,4 @@ Dot-plot analysis (figure 1C) of estimated versus real survival in the prospecti
 - [Long-term prognostication (clinician prediction of survival) was poor at 25.9% accurate and could not be significantly improved by the training programme](cps-long-term-prognostication-poor-and-untrainable.md) — related
 - [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](task-type-directional-bias-partner-ai-estimates.md) — related
 - [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](mab-overestimates-effect-sizes.md) — related
+- [Physicians are reported to be reluctant to make prognostic predictions and discuss objective prognostic estimates with patients only 15% of the time](physicians-reluctant-discuss-prognosis-15-percent.md) — related

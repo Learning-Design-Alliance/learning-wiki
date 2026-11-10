@@ -52,3 +52,4 @@ Item-level analysis of paired pre-post OSCE scores using a 15-item rubric with p
 - [One OSCE item, estimating the patient's carbohydrate intake in servings, showed no statistically significant pre-to-post improvement](osce-carbohydrate-estimation-item-not-significant.md) — related
 - [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](3d-printed-models-classroom-interactivity.md) — related
 - [Students' post-presentation spotter scores were significantly higher than pre-presentation spotter scores in one single-group pre-post study of creative muscle presentations](post-presentation-spotter-scores-significantly-higher.md) — related
+- [Students practising musculoskeletal assessment with standardised patients display significantly higher practical clinical skills than students practising with peer patients](sp-practice-higher-clinical-skills-than-peer.md) — related

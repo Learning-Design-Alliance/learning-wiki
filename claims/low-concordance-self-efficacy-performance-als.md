@@ -46,3 +46,4 @@ Concordance analysis in the experimental group (n = 53) comparing observer 3-poi
 
 ## Related Claims
 - [Two expert raters rating CPR cycles alone reached moderate agreement for Cycles 2-4 but poor agreement for Cycle 1, which the authors attribute to inconsistencies in an initial 'practice' cycle.](expert-rater-agreement-cpr-performance-cycles.md) — related
+- [Students assessed by trained raters more often found their grade inadequate despite high concordance between rater and self-assessment grades](trained-raters-students-discontent-self-assessment.md) — related

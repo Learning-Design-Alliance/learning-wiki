@@ -40,6 +40,7 @@ The article recommends that future iterations of R-ISAM address the assessment i
 
 - [Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology](balanced-integrated-general-chemistry-assessment-models.md)
 - [Spiral, phased integration of gerodontology content across all curriculum phases with regular assessment](spiral-phased-gerodontology-integration.md)
+- [Reform anatomy education with a spiral curriculum, teaching in context, teaching for transfer and assessment for learning](spiral-contextualised-anatomy-education-strategy.md)
 
 ## Examples
 -

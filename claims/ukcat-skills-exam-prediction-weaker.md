@@ -50,3 +50,4 @@ Univariable multilevel regression of skills-based exam scores on UKCAT scales in
 - [All UKCAT scale and total scores significantly predict theory-based exam performance throughout all 5 years of medical school, with small coefficients of roughly 0.1 to 0.2](ukcat-predicts-theory-exams-all-five-years.md) — related
 - [Higher UKCAT scores are associated with higher odds of passing each medical school year at first attempt, with total score showing the largest adjusted effect (OR 1.20)](ukcat-odds-passing-first-attempt.md) — related
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
+- [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — related

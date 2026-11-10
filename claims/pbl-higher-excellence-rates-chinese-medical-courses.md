@@ -51,3 +51,4 @@ Meta-analysis of nine studies reporting excellence rates (scores ≥80), using a
 - [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](pbl-higher-pass-rates-chinese-medical-courses.md) — related
 - [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](pbl-lbl-combination-not-superior-to-exclusive-pbl.md) — related
 - [Integrated histology course participants had higher pass and excellence rates than traditionally taught students](integrated-histology-pass-excellence-rates.md) — related
+- [Students taught with PBL have significantly higher theoretical test pass rates than LBL students (pooled OR = 2.88)](pbl-higher-pass-rate-preventive-medicine.md) — related

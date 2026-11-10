@@ -48,3 +48,4 @@ Pearson product-moment correlations for the full cohort (N = 612 M1, 584 preclin
 ## Related Claims
 - [Test Strategies explains the largest share of performance variation for all students across M1, preclinical, and USMLE Step 1 measures](test-strategies-largest-performance-variation-contributor.md) — a narrower finding that bears on this claim
 - [Across six studies, Concentration, Motivation, Time Management and Test Strategies tend to correlate with academic performance, and LASSI subscales explain 10-49% of variance](lassi-cross-study-variance-10-49-percent.md) — related
+- [Concentration is the only LASSI study strategy correlated with USMLE Step 1 performance among pre-clinical medical students](concentration-only-study-strategy-correlated-step1.md) — reports the opposite

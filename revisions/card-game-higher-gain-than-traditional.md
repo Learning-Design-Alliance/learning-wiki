@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/card-game-higher-gain-than-traditional.md
+---
+
+# Revision history: [claims/card-game-higher-gain-than-traditional](../claims/card-game-higher-gain-than-traditional.md)
+
+### 2026-11-10 · ingest · process:wiki-ingest
+Ingested from pmc-3940466 (Development and effectiveness of an educational card game as supplementary material in understanding selected topics in biology.) via eval_harness.py + ingest_extractions.py

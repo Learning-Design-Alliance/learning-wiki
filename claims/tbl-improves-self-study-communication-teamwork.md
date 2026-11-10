@@ -87,3 +87,4 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [Students perceived PBL as more effective than TBL for knowledge acquisition, teamwork support, and higher marks](pbl-perceived-more-effective-learning-tbl-nu-survey.md) — related
 - [About 75% of students endorsed promoting integrated PBL, with >80% satisfaction and perceived gains in independent learning and problem-solving](integrated-pbl-student-satisfaction-feedback.md) — related
 - [Students mostly preferred TBL over IL, particularly valuing team application, and perceived TBL as better for clinical reasoning skills](students-prefer-tbl-team-application-clinical-reasoning.md) — related
+- [PBL shows significant pooled advantages over LBL on learning attitude, problem-solving skill, self-directed learning skill and collaborative skill](pbl-attitude-skills-outcomes-china.md) — related

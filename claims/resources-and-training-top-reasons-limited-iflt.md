@@ -51,3 +51,4 @@ Multi-response questionnaire item on reasons for not devoting more time to IFLT 
 - [Chinese primary school EFL teachers report being not well prepared for intercultural foreign language teaching](primary-efl-teachers-not-well-prepared-iflt.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Teachers judge English materials on the target culture and intercultural communication most helpful and general culture materials least helpful for IFLT](target-culture-materials-rated-most-helpful.md) — related
+- [Clear representation in simulations correlated with suitable equipment and disposables (p = 0.045), good-condition mannequins (p = 0.034) and communicative trainers (p = 0.002)](clear-simulations-correlated-materials-trainers.md) — related

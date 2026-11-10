@@ -51,3 +51,4 @@ Correlational analysis relating teacher survey domain and scale scores to DCPS p
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
 - Relational trust correlates with school leadership and with collaboration among teachers in both contexts — related
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [Supervisors' identified staff training needs diverge from staff self-assessments: supervisors emphasize technical competency (24%) and management/leadership (23%), with only 14% naming quality management systems](supervisor-self-assessment-needs-incongruence.md) — related

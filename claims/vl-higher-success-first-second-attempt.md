@@ -53,3 +53,4 @@ Mannequin-based study of 130 medical students with no prior intubation training,
 - [Video laryngoscope use is associated with higher first attempt success than direct laryngoscope among EM trainees](video-laryngoscope-higher-fas-than-direct.md) — related
 - [Seniority showed no main effect on intubation time, but seniority interacted with device: attending physicians were faster than medical students with direct laryngoscopy and Glidescope](seniority-device-interaction-intubation-time.md) — related
 - [Video laryngoscopy shows higher novice success rates with fewer complications than direct laryngoscopy, though findings are inconsistent across studies](vl-novice-advantage-mixed-evidence.md) — a broader claim this one bears on
+- [For operators with less experience, the GVL is more quickly learned and associated with higher first pass intubation success than DL](gvl-more-quickly-learned-than-dl-for-novices.md) — a broader claim this one bears on

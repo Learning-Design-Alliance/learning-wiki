@@ -69,3 +69,4 @@ Table 3 reports first-person perspective impact by specialty, with totals of 115
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related
 - [Over 90% of virtual simulation students expressed satisfaction with the platform, rating realism, knowledge coverage, system smoothness and evaluation criteria above 4.5](students-view-virtual-simulation-as-future-teaching-trend.md) — related
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related

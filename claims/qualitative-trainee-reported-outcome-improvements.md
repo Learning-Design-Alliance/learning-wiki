@@ -75,3 +75,4 @@ Theme 4 of the qualitative content analysis on barriers to the LDHF/m-mentoring 
 - [Mentors report individual, logistical, and cultural barriers persisting across key neonatal resuscitation skills after simulation training](mentor-identified-barriers-nr-skills-bihar.md) — related
 - [Resuscitation skills deteriorate after one-day HBB workshops, and ongoing low-dose high-frequency practice maintains skills and is associated with reduced mortality](skills-decay-after-workshop-low-dose-high-frequency-practice.md) — related
 - [PRONTO training showed no statistically significant impact on the incidence of maternal complications](pronto-no-significant-impact-maternal-complications.md) — related
+- [Trainees in the ETATMBA programme reported using newly learned emergency obstetric skills in clinical practice, including PPH management and neonatal resuscitation](etatmba-trainees-implemented-clinical-skills.md) — a narrower finding that bears on this claim

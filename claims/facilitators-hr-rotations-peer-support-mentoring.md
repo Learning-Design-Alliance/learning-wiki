@@ -49,3 +49,4 @@ Thematic analysis of 26 qualitative interviews with learners and staff from the 
 - [Mentorship overlap and regular mentor meetings supported learner progress; same-discipline physician mentors served as role models](mentorship-overlap-and-role-modelling.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Money, time and space limitations hindered implementation of addiction medicine fellowships](money-time-space-limitations-hindered-implementation.md) — related
+- [A peer role-play communication course for preclinical students can be implemented without additional financial or human resources](role-play-course-no-additional-resources.md) — related

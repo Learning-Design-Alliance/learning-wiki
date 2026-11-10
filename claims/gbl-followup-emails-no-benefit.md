@@ -48,3 +48,4 @@ Secondary outcome comparison between the two GBL arms at one-month follow-up. Th
 - [GBL benefits on diagnostic accuracy persisted at one-month follow-up for both GBL groups compared with control](gbl-one-month-persistence.md) — related
 - [At three-month follow-up, GBL group scores were not significantly different from control, though the article describes some continued effect](gbl-three-month-not-significant.md) — related
 - [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](self-assessment-scaffold-no-added-benefit.md) — a broader claim this one bears on
+- [Weekly 'status of competition' notification emails were associated with significant increases in questions answered and player participation on notification days.](weekly-notification-emails-boost-participation.md) — related

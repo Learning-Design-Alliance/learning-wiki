@@ -50,3 +50,5 @@ Quantitative assessment of 107 PHCWs and direct equipment audit of 35 health pos
 - [PHCWs' diagnostic accuracy for common eye conditions is low and varies by condition, with corneal ulcer recognised by only 27.1%](phcw-diagnostic-accuracy-low-corneal-ulcer-27-percent.md) — related
 - [Only 8.4% of primary health care workers in eastern Nepal had received eye care training during their professional career](phcws-eastern-nepal-8-4-percent-eye-care-training.md) — related
 - [Ophthalmic assistants, PHCWs and the district health manager all agree PEC training is needed, and PHCWs state willingness and time to be trained](stakeholders-agree-pec-training-needed-phcws-willing.md) — related
+- [High staff turnover and absenteeism limited the intervention, with only 20% of baseline workers still in place after two years](high-staff-turnover-limited-supervision-impact.md) — related
+- [Enhanced supervision increased the likelihood that facilities retained a functioning torch and a correctly placed visual acuity chart, though most facilities lost both](supervision-increased-equipment-retention.md) — related

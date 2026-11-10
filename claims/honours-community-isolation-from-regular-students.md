@@ -54,3 +54,4 @@ Open-ended survey responses from 28 honours students were categorised into theme
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
 - [Social isolation was a recurring experience for hybrid students attending live-streamed lectures, including unawareness of remote students by some lecturers](hybrid-student-social-isolation.md) — related
+- [Closed membership restricted by invitation, together with inclusive social activities, was credited by participants with building a friendly collaborative atmosphere that extends beyond the meetings](closed-membership-social-activities-atmosphere-cme.md) — related

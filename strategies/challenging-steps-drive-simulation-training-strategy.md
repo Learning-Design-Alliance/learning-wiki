@@ -47,6 +47,7 @@ The authors recommend that step-level proficiency findings from real-life superv
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 - [Use HRA-derived task analyses in surgical education and simulation-based training to guide trainees toward error-prone and high-criticality steps](hra-framework-surgical-training-strategy.md)
+- [Use simulated real-world tasks as a platform for deliberate practice and risk-perception training with cognitive-state monitoring](real-world-sim-deliberate-practice-strategy.md)
 
 ## Examples
 -

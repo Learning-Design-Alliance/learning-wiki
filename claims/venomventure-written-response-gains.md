@@ -47,3 +47,4 @@ Written answers to "What kinds of information do you think these diagrams show?"
 ## Related Claims
 - [Playing VENOMventure produced significant pre-to-post gains on a five-item tree-annotation knowledge quiz among 446 family participants at informal science sites.](venomventure-prepost-quiz-gains.md) — related
 - [Test items based on diagrams did not produce significantly higher scores than purely verbal items](diagram-items-not-significantly-higher-than-verbal-items.md) — related
+- [Intervention students scored 57.8% full credit and 93.3% at or above 75% on a challenging high-stakes tree-construction exam item](high-stakes-tree-construction-performance.md) — related

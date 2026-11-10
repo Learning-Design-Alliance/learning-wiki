@@ -47,7 +47,8 @@ The article recommends strengthening primary eye care in eastern Nepal through p
 - [Visual acuity testing capability is largely missing: only 14% of PHCWs were trained to measure visual acuity and 5.7% of health posts had a vision chart](../claims/visual-acuity-testing-missing-14-percent-trained-5-7-percent-charts.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Limit the primary health care worker's primary eye care role to knowing where to refer patients with eye complaints](limit-phcw-pec-role-to-referral-knowledge.md)
 
 ## Examples
 -

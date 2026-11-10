@@ -47,3 +47,4 @@ Item-level analysis of the 10-question knowledge questionnaire (McNemar and betw
 ## Related Claims
 - [Simulation training with 3D-printed trauma models yields significantly higher knowledge scores than theoretical instruction alone at two weeks (p < 0.001)](3d-printed-simulation-raises-knowledge-dental-trauma.md) — a broader claim this one bears on
 - [Knowledge gaps concentrate in technically demanding veneer topics: preparation classification (45.5%) and cement thickness effects on shade selection (28.4%)](knowledge-gaps-technical-veneer-topics.md) — related
+- [The simulation group outperformed controls on all seven knowledge questions, with the largest gap on welcoming the child (87% vs 39%)](per-question-knowledge-differences-erietta.md) — related

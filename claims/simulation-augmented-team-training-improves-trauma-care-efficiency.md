@@ -70,3 +70,4 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [Simulation-trained trauma teams obtain CT scans faster than traditional practice in grade I trauma patients](simulation-team-training-faster-ct-scan.md) — related
 - [Simulation-trained ED trauma teams achieve faster initiation of hemostasis than traditional practice in grade I trauma patients](simulation-team-training-faster-hemostasis-trauma.md) — related
 - [Combining lean process improvement with teamwork training reduced the intra-operative glitch rate in the active theatre team while the control team's glitch rate rose](lean-teamwork-training-reduced-glitch-rate.md) — related
+- [The second simulation week improved a new prescribing exercise and sped initiation of fluid resuscitation in a paediatric scenario](cleims-year4-prescribing-fluid-resuscitation.md) — related

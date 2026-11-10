@@ -49,3 +49,4 @@ Multiple regression on 159 volunteer doctors who qualified 1960–2003 (Table 5)
 - [Among doctors under investigation, later qualification year is associated with better knowledge test and overall OSCE performance](qualification-year-correlates-investigated-doctors.md) — related
 - [Qualification year predicts knowledge test, OSCE and communication performance of investigated doctors even after controlling for sex, ethnicity and qualification region](regression-qualification-year-investigated-doctors.md) — reports the opposite
 - [Volunteer doctors' test performance stays largely consistent irrespective of qualification year](volunteer-performance-consistent-across-qualification-year.md) — related
+- [Non-UK-trained doctors overestimated their knowledge test performance relative to UK-trained doctors, while UK-trained doctors outperformed non-UK-trained doctors on the OSCE](pmq-region-estimates-versus-actual-performance.md) — related

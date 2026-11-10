@@ -49,6 +49,7 @@ The article recommends establishing case-based e-learning on a voluntary basis w
 
 - [Release videos early in the course and attach them to mandatory seminars with group homework](early-release-and-seminar-attachment-strategy.md)
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
+- [Improve announcements and cross-link related e-learning to increase voluntary uptake of an e-learning supplement](announcements-and-crosslinking-boost-elearning-uptake.md)
 
 ## Examples
 -

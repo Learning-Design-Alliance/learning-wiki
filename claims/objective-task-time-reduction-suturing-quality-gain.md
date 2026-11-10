@@ -64,3 +64,4 @@ Pre-/post-training objective assessment of 37 participants on standardized tasks
 - [Target times for completing Lübeck Toolbox exercises decrease significantly across seven training sessions](ltb-target-times-decrease-over-training.md) — related
 - [Laparoscopic suturing task performance rose significantly from pre-test to post-test after an intensive hands-on training course, in one uncontrolled pre-post study](suturing-scores-improve-after-training-course.md) — related
 - [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite
+- [Drilling time and total exercise time decreased from before to after simulator training, in one uncontrolled pre-post study](simulator-training-reduces-drilling-times.md) — related

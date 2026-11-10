@@ -95,3 +95,4 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — related
 - [After simulation-based training, students report high satisfaction and self-confidence with no difference between genders](high-satisfaction-self-confidence-after-sbt.md) — reports the opposite
 - [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related
+- [Students respond positively to using games for education, with gendered prior gaming experience shaping their reactions](student-feedback-future-gaming-education.md) — related

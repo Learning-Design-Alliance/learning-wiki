@@ -49,3 +49,5 @@ Cluster-randomised controlled trial in which 147 third-year medical students com
 - [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
 - [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related
+- [Blended-learning students reported higher self-perceived critical appraisal competence and greater satisfaction with the EBM course than didactic students](blended-higher-self-perceived-appraisal-satisfaction.md) — related
+- [Blended-learning and didactic EBM courses produced no difference in EBM competency measured with the Berlin tool in graduate medical students](blended-vs-didactic-ebm-berlin-no-difference.md) — possibly the same claim (merge candidate)

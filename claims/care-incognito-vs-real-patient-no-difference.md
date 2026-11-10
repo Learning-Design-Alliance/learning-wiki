@@ -48,3 +48,5 @@ External CARE assessment comparison between the incognito-patient group and the 
 - [Patients rated students who trained with a simulated patient as significantly more empathetic (lower CARE scores) than students who trained with an incognito simulated patient](care-sp-vs-incognito-higher-empathy-rating.md) — related
 - [Self-assessed empathy (JSPE and IRI subscales) does not differ significantly between students trained with a simulated, incognito, or real patient](no-self-assessed-empathy-difference-sp-ip-rp.md) — related
 - [Patients rated students who trained with a simulated patient as significantly more empathetic than students who trained with a real patient](care-sp-vs-real-patient-higher-empathy-rating.md) — related
+- [Students requiring the second part of the sequential examination had lower empathy ratings (Cohen's d = 0.81)](empathy-lower-second-part-examination.md) — related
+- [Faculty-rated communication skills in interviews with real patients do not differ significantly from ratings in interviews with standardized patients](real-patient-skills-match-standardized-patient-skills.md) — related

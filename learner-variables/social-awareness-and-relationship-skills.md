@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 288 claims (194 show a difference, 57 mixed, 37 no difference) · 203 studies (67 causal, 49 associational, 44 review, 16 quant-synthesis, 16 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 54 of 203 report an effect size · 281 claims rest on one study
+> **Evidence** · 291 claims (196 show a difference, 57 mixed, 38 no difference) · 204 studies (67 causal, 50 associational, 44 review, 16 quant-synthesis, 16 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 55 of 204 report an effect size · 284 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -330,6 +330,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [PATHS showed no statistically significant primary effects on child-rated SSIS social skills or teacher-rated pro-social behavior](../claims/paths-no-primary-effects-child-rated-sec.md) [-M] — measured as an outcome of the instruction studied
 - [Lay health workers reported improved clinical skills — patient-provider relationships, patient education, follow-up — plus increased confidence and satisfaction with their work](../claims/lhw-reported-clinical-skill-gains-confidence.md) [+M] — measured as an outcome of the instruction studied
 - [Long-term WeChat communication may erode face-to-face social skills relevant to doctor–patient relationships](../claims/wechat-pbl-poor-social-skills-caution.md) [+W] — measured as an outcome of the instruction studied
+- [Empathy ratings correlate negatively with penalty points on interactional OSCE stations in final-year medical examinations](../claims/empathy-interactional-osce-penalty-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Empathy ratings correlate with OSLER long-case penalty points awarded by a completely separate set of raters](../claims/empathy-osler-penalty-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Empathy ratings show no correlation with penalty points on procedural skills OSCE stations](../claims/empathy-procedural-osce-no-correlation.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

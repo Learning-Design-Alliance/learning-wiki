@@ -52,3 +52,5 @@ Regression and correlational analyses across both cohorts. Investigated internat
 - [Volunteer doctors' test performance stays largely consistent irrespective of qualification year](volunteer-performance-consistent-across-qualification-year.md) — related
 - [Volunteer doctors who qualified before SBA and OSCE assessments were introduced still outperformed doctors under investigation](early-qualified-volunteers-still-outperform-investigated.md) — related
 - [Among doctors under investigation, later qualification year is associated with better knowledge test and overall OSCE performance](qualification-year-correlates-investigated-doctors.md) — related
+- [Actual examination performance differed significantly by ethnic background, with white doctors outperforming all other ethnic groups on OSCE performance](ethnic-differences-actual-performance-osce.md) — a narrower finding that bears on this claim
+- [Non-UK-trained doctors overestimated their knowledge test performance relative to UK-trained doctors, while UK-trained doctors outperformed non-UK-trained doctors on the OSCE](pmq-region-estimates-versus-actual-performance.md) — related

@@ -52,3 +52,4 @@ Baseline scores by demographic category from multivariable multilevel linear reg
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [Baseline delirium knowledge of Dutch hospital nursing staff was relatively high (mean 79.3), contrary to other studies](dutch-nurses-baseline-delirium-knowledge-high.md) — related
 - [An e-learning course on delirium significantly improved nursing staff's knowledge, with a mean change score of 8.1 points and an effect size of 0.8](e-learning-delirium-course-improved-nurse-knowledge.md) — related
+- [Effect of the delirium e-learning tool is related to level of completion, but this relation was less explicit after adjustment for confounders](elearning-effect-related-to-module-completion.md) — related

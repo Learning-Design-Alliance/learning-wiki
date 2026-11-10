@@ -54,3 +54,4 @@ Objective evaluation of 30 physicians performing three simulated implant operati
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [No statistically significant difference in vertical bracket placement deviation between virtual simulation and traditional training](no-vertical-deviation-difference-virtual-traditional.md) — related
 - [Combined training groups show smaller CBCT implant deviations (linear and angular) than single-method groups](combined-groups-better-implant-accuracy-cbct.md) — related
+- [Buccolingual drilling approach differs by group: novices and simulator-trained students drill buccal-to-lingual while experienced practitioners reverse the axis](buccolingual-approach-differs-experienced-vs-novice.md) — related

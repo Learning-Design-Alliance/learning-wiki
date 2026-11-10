@@ -135,3 +135,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
 - [Practice frequency between assessments is associated with the size of CPR improvement across sites](practice-frequency-associated-with-cpr-improvement.md) — related
 - [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — reports the opposite
+- [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related

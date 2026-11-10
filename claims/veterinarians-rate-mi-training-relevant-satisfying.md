@@ -56,3 +56,4 @@ Post-workshop questionnaires (212 responses across six workshops from 32–38 pa
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Participants in two faculty development workshops reported high ratings for clarity, organization, and relevance of the workshop](faculty-development-virtual-teaching-workshop-high-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
+- [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related

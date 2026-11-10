@@ -71,3 +71,4 @@ Distribution of predicted labels across all models for Skill-based personas (Tab
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — related
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
+- [Role choice showed a gender bias: 62% of male students but only 40% of female students chose the doctor's role](gender-bias-in-role-choice.md) — related

@@ -49,3 +49,4 @@ Descriptive questionnaire evaluation after a single 2-h simulated-OR module with
 - [Both student groups reported that the inter-professional module fostered mutual respect and provided insight into the other profession's perspective](module-fostered-mutual-understanding.md) — a narrower finding that bears on this claim
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Operating room technician trainees rate their own teaching quality significantly lower than medical students rate the ORTTs' teaching](ortt-self-rating-lower-than-mds-rating.md) — related
+- [A total of 495 tutors have been trained in the basic course in medical teaching, which is rated with a mean overall grade of 1.7 (SD 0.6)](495-tutors-basic-course-rated-1-7.md) — related

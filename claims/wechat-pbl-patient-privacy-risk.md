@@ -50,3 +50,4 @@ Author-reported disadvantage and mitigation in the 'Privacy disclosure' section,
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
+- [Undergraduate medical students are less likely than graduate students to actively check and adjust their Facebook privacy settings](undergraduates-less-likely-adjust-facebook-privacy-settings.md) — related

@@ -55,3 +55,4 @@ Quasi-experimental study comparing practical skill performance via objective str
 - [VR-trained radiographers outperform traditionally trained peers on objective clinical measures: supervisor evaluations, radiograph quality and emergency performance](vr-superior-objective-clinical-performance.md) — related
 - [VRS teaching produced significantly higher posttest infection control knowledge scores than traditional teaching in undergraduate nursing students](vrs-higher-posttest-infection-control-knowledge.md) — related
 - [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related
+- [Blended learning showed no benefit for practical clinical examination skills: OSCE scores did not differ between NESTOR users and non-users](osce-no-difference-nestor-users-nonusers.md) — related

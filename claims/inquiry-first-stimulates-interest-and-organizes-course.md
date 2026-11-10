@@ -57,3 +57,4 @@ This is the author's experiential claim in the WHAT NEXT? section, offered witho
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related
 - [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](prereading-annotations-inform-instructor.md) — a narrower finding that bears on this claim
+- [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](problem-based-presentation-axes-promote-interaction.md) — related

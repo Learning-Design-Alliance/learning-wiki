@@ -44,3 +44,4 @@ Descriptive survey (N = 184) of unit organisation in clinical placements, report
 ## Related Claims
 - [Student midwives perceive regular communication, constructive feedback, student–preceptor relationships, role modelling and the learning environment as factors affecting their SFH competence](factors-influencing-sfh-competence-student-midwives.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
+- [76% of ratings on the 11 teaching/learning contribution items fell under agree or strongly agree, indicating generally positive perceptions](majority-positive-ipad-teaching-learning-ratings.md) — related

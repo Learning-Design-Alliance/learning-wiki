@@ -68,3 +68,7 @@ ROI subsequent memory analysis of first-test trials in the SST-T condition, back
 - [Initial study trials show subsequent memory effects in left-hemisphere ROIs, but restudy trials after initial study show none](restudy-trials-no-subsequent-memory-effects.md) — related
 - [fMRI subsequent memory analyses show testing engages encoding-like and retrieval-unique neural processes](distinct-neural-correlates-of-retrieval-and-re-encoding.md) — related
 - [The left PFC subsequent memory effect is larger for long-delay than short-delay testing, suggesting re-encoding matters more for long-term retention](left-pfc-effect-larger-long-delay.md) — related
+- [Activation during unsuccessful retrieval did not predict later recall, but re-study following an error showed subsequent-memory effects including caudate and putamen](restudy-after-error-predicts-later-recall.md) — related
+- [Brain activation during successful retrieval predicts whether the same word pair will be recalled correctly on a later test](retrieval-activation-predicts-later-recall.md) — related
+- [Right PFC and right PPC predict subsequent memory during retrieval but not during encoding, whereas left PFC, left PPC and bilateral hippocampus show encoding subsequent-memory effects](right-pfc-ppc-retrieval-only-subsequent-memory.md) — related
+- [Behavioral accuracy improved from 37% on Test 1 to 57% on Test 2, with 36% of Test 1-correct pairs lost by Test 2](test1-to-test2-accuracy-gain.md) — related

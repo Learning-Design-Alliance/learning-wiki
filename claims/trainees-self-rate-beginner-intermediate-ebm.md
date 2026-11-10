@@ -50,3 +50,4 @@ Cross-sectional survey of 80 trainees using five-point Likert self-ratings of EB
 - [Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+1.18), intermediates +0.94, and advanced users +0.46, all significant](cc-self-train-gains-by-expertise-level.md) — related
 - [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](learning-support-preferences-differ-by-expertise.md) — related
 - [A statistically significant increase in medical students' self-reported EBM knowledge and attitudes was found after a 3-month single-intervention course, with EBM concept understanding rising from 2.20 to 3.17 (P<0.001)](nigeria-ebm-course-self-reported-knowledge-gains.md) — related
+- [ACE total scores increase significantly with EBM training level (construct validity)](ace-construct-validity-training-level-scores.md) — related

@@ -50,3 +50,5 @@ Follow-up competency assessments within the randomized trial, measured with the 
 - [Blended learning delivery of EBM training is 24% more cost-effective to operate than face-to-face delivery, excluding transition costs](bl-ebm-24-percent-more-cost-effective-than-f2f.md) — related
 - [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
+- [Blended-learning and didactic EBM courses produced no difference in EBM competency measured with the Berlin tool in graduate medical students](blended-vs-didactic-ebm-berlin-no-difference.md) — related
+- [Focus groups identified student preference for blended-learning EBM delivery because it linked theory to bedside practice](focus-groups-prefer-blended-ebm-theory-practice-link.md) — related

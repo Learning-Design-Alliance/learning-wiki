@@ -49,3 +49,7 @@ National anonymous online survey of all registered Irish pre-hospital practition
 - [Substantial minorities to majorities support sanctions: 78% of EMTs and 39% of Paramedics/APs believe persistent failure to meet CPC should mandate denial of registration](cpc-sanctions-support-varies-by-level.md) — related
 - [Majorities of Irish pre-hospital practitioners favour a 'mixed' CPC model combining mandatory and voluntary activities](mixed-model-cpc-supported.md) — related
 - [Pre-hospital practitioners rate practical, hands-on and simulation-based CPC activities as most relevant and passive individual activities as least relevant](practical-activities-preferred-for-cpc.md) — related
+- [95% of surveyed Irish EMTs agree that evidence of CPC should be a condition for EMT registration](emts-support-cpc-registration-link.md) — a narrower finding that bears on this claim
+- [Irish paramedics and advanced paramedics support linking continuous professional competence to registration, with 74% agreeing evidence of CPC should be a condition of registration](irish-paramedics-support-cpc-registration-link.md) — a narrower finding that bears on this claim
+- [A majority (77%) of Irish paramedics and APs favour a mixed mandatory/voluntary CPC model with minimum standards including evidence of patient care](mixed-mandatory-voluntary-cpc-model-supported.md) — related
+- [A majority of respondents support organisational input into CPC composition and audit, with 79% wanting employer input](organisational-input-and-audit-of-cpc-supported.md) — related

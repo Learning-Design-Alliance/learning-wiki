@@ -51,3 +51,4 @@ Self-administered satisfaction survey with Likert-type scores from 0 to 5, creat
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Students showed high satisfaction with the ICM-based module, rating it very good (13.66±1.04 of 15) and supporting permanent curricular integration](icm-periodontology-module-high-student-satisfaction.md) — related
 - [Participants rated the course modules very highly, with mean overall satisfaction 9.6–9.8 on a 0–10 scale](high-satisfaction-obstetric-simulation-modules.md) — related
+- [Participants rated the course 7 out of 10 overall, with scores ranging from 2 to 10, and a quarter considered the diagnostic tests module inadequate.](course-satisfaction-7-of-10-nurses.md) — related

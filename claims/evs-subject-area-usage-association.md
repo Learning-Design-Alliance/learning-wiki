@@ -47,3 +47,4 @@ Chi-square analysis of survey responses across three subject groups; Cramer's V 
 ## Related Claims
 - [Learning benefits and challenges of EVS differ significantly across subject groups, with HHS reporting higher learning benefits and SSAH reporting higher challenges](evs-subject-group-differences.md) — related
 - [Summative assessment and staff competencies are the most frequently reported challenges in students' free-text responses about EVS dissatisfaction](evs-summative-staff-competencies-challenges.md) — related
+- [Usage of the online cases rose sharply when a summative component was added, even for purely optional cases](summative-component-increases-optional-case-usage.md) — related

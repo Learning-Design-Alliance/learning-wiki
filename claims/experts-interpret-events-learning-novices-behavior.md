@@ -55,3 +55,4 @@ The article's synthesis of expert-novice research (citing Sabers et al. 1991) re
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
 - The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation — related
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — a narrower finding that bears on this claim
+- [Novices prefer positive feedback while experts seek out negative feedback](novices-prefer-positive-experts-seek-negative-feedback.md) — related

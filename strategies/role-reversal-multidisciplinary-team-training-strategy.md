@@ -54,6 +54,7 @@ The article describes a concrete implementation: teams of four residents, two pl
 
 - [Use the two-challenge rule to support nurses in respectfully asserting patient-safety concerns with physicians](two-challenge-rule-nurse-physician-communication.md)
 - [Role-play activity training with doctor, standardized-patient and evaluator roles plus peer and teacher debriefing before real-patient interviews](role-play-history-taking-training-strategy.md)
+- [Use multi-professional simulation training with participants working in their normal team roles to strengthen emergency competency](multiprofessional-simulation-in-normal-roles-strategy.md)
 
 ## Examples
 -

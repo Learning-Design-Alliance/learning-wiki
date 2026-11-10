@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-10
 sources:
   - id: jackson-l-2018
     resource: "https://doi.org/10.1038/s41436-018-0132-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-10 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across all modules combined (N = 423), average pretest score was 66.7% and average posttest score 89.9%, a statistically significant paired increase. [→ Jackson L 2018](#jackson-l-2018)

@@ -69,3 +69,4 @@ Same per-protocol moderation analysis (n = 123). The article reports buoyancy ga
 - [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — related
 - [Intention-to-treat analyses show no statistically significant intervention effects of Youth COMPASS on stress or academic buoyancy](youth-compass-itt-null-effects.md) — related
 - [Per-protocol completion of Youth COMPASS produces a small but statistically significant increase in academic buoyancy relative to control](youth-compass-per-protocol-buoyancy-increase.md) — related
+- [Non-participants who did not conduct their randomized training had significantly lower learning outcome than per-protocol students](non-participants-lower-outcome-than-per-protocol.md) — related

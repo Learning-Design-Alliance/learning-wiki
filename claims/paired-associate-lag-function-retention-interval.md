@@ -53,3 +53,4 @@ The review attributes these paired-associate lag-function shapes to Peterson, Hi
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
 - [The meaning of theoretical arrows (causal vs predictive, timescale, functional form, magnitude) is unclear, and cross-lagged effect signs can change with assessment intervals](statistical-convenience-obscures-theory-specification.md) — related
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — a narrower finding that bears on this claim
+- [The neural subsequent-memory pattern during retrieval holds at a short 5-minute test lag, consistent with studies using longer intervals](testing-effect-neural-pattern-short-lag.md) — related

@@ -50,3 +50,4 @@ Cross-sectional self-administered survey of 432 recently graduated Lima physicia
 - [Age, gender, and university type showed no statistically significant association with self-perceived competence for PAP, VIA, or VILI](no-significant-association-age-gender-university-self-perceived-competence.md) — related
 - [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — a broader claim this one bears on
 - [About a quarter of junior physicians report learning needs at the end of basic training, with no meaningful differences between the three clinics](quarter-report-learning-needs-end-of-basic-training.md) — related
+- [Program graduates perceive themselves as more competent both as teachers and as learners compared with non-participants](graduates-perceive-competence-gains-teacher-learner.md) — related

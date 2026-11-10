@@ -48,3 +48,4 @@ External CARE assessment by the group-associated patient (Table 2: SP mean 1.65,
 - [External empathy ratings do not differ significantly between students who trained with an incognito simulated patient and those who trained with a real patient](care-incognito-vs-real-patient-no-difference.md) — related
 - [Patients rated students who trained with a simulated patient as significantly more empathetic (lower CARE scores) than students who trained with an incognito simulated patient](care-sp-vs-incognito-higher-empathy-rating.md) — related
 - [Self-assessed empathy (JSPE and IRI subscales) does not differ significantly between students trained with a simulated, incognito, or real patient](no-self-assessed-empathy-difference-sp-ip-rp.md) — related
+- [Faculty-rated communication skills in interviews with real patients do not differ significantly from ratings in interviews with standardized patients](real-patient-skills-match-standardized-patient-skills.md) — related

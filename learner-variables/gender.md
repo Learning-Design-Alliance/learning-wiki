@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 669 claims (356 show a difference, 153 mixed, 160 no difference) · 475 studies (244 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 67 of 475 report an effect size · 661 claims rest on one study
+> **Evidence** · 670 claims (357 show a difference, 153 mixed, 160 no difference) · 476 studies (245 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 67 of 476 report an effect size · 662 claims rest on one study
 
 ## How to read this page
 
@@ -708,6 +708,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex-matched examination pattern: female students performed more female intimate-area examinations and male students more male ones](../claims/sex-matched-iae-experience-pattern.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Item position within a strand showed no significant gender achievement differences on constructed-response explanation tasks](../claims/no-gender-difference-item-position.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students had a significantly lower error frequency than male students in cardiac examination, driven by inspection and palpation, while percussion was more error-prone in females](../claims/cardiac-exam-gender-skill-differences.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

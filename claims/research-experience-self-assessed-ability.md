@@ -47,3 +47,4 @@ Self-assessed ability items (Q7 and Q11 of the questionnaire) compared with Fish
 ## Related Claims
 - [Prior participation in research projects was associated with higher theoretical science scores among Brazilian ENT physicians and residents](research-participation-higher-theory-scores.md) — related
 - [Research-project participation was associated with more recent graduation and with having authored a paper](research-participation-graduation-authorship-association.md) — related
+- [Program graduates perceive themselves as more competent both as teachers and as learners compared with non-participants](graduates-perceive-competence-gains-teacher-learner.md) — related

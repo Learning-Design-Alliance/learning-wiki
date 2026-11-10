@@ -60,6 +60,7 @@ The review recommends specific implementable uses of dramatization techniques. T
 - [Pretend Play](pretend_play.md)
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
+- [Use simulated patient and examiner empathy ratings as formative feedback in communication skills teaching](sp-empathy-ratings-formative-feedback.md)
 
 ## Examples
 -

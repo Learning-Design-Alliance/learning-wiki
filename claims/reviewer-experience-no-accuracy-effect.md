@@ -49,3 +49,4 @@ In the randomized trial analysis of rating scale accuracy, experience (novices N
 - [Facilitator experience moderates scoring: novices rated mixed and negative videos higher than intermediate and experienced raters, qualified by a two-way interaction (F(4200) = 2.43, p = 0.049)](fbat-experience-interaction-scoring.md) — related
 - [A brief training video increases inter-rater reliability of grant reviewers' scale selections for both novice and experienced reviewers](training-video-increases-inter-rater-reliability.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
+- [Rater experience does not influence rating accuracy in physical examination skills assessment](rater-experience-no-accuracy-effect.md) — possibly the same claim (merge candidate)

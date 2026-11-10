@@ -49,3 +49,4 @@ Multiple regression on the nationally representative sample of 2,618 preschooler
 - [No SES × gender, SES × birth month, gender × birth month, or three-way interactions on pre-academic abilities at age 3](no-interactions-ses-gender-birth-month-preacademic.md) — related
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — related
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
+- [Female gender and European/European-derived country of birth are small but statistically significant predictors of WAM and clinical skills outcomes independent of UAI](gender-country-of-birth-small-significant-predictors.md) — related

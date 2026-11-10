@@ -52,3 +52,4 @@ The same quasi-experimental pre-/post-test design measured digital-pedagogical c
 - [Virtual exchange participation develops student teachers' intercultural competence](virtual-exchange-develops-intercultural-competence-student-teachers.md) — related
 - [EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program](genai-pd-significant-ethical-awareness-gains.md) — related
 - [Foreign language competence development through virtual exchange is contextual and not measured by standardised tests](virtual-exchange-foreign-language-gains-contextual.md) — related
+- [Exchange participation shows no significant self-assessed gains in the other six Tuning outcomes measured](exchange-program-null-other-tuning-outcomes.md) — related

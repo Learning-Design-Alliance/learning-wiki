@@ -52,3 +52,4 @@ Randomized controlled comparison of the same 6-station OSCE between Group A (ble
 - [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related
 - [Both groups scored lowest on the rhinological and oral examination stations, though the e-learning group still significantly outperformed controls on those stations](rhinological-oral-stations-lowest-scores-both-groups.md) — related
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related
+- [Blended learning showed no benefit for practical clinical examination skills: OSCE scores did not differ between NESTOR users and non-users](osce-no-difference-nestor-users-nonusers.md) — reports the opposite

@@ -55,3 +55,4 @@ Procedural report from the quasi-experimental study's OSCE operation. Examiners 
 - [Simulated patients failed more students than physician examiners in three stations, and inter-rater kappa was mostly non-significant](virtual-osce-sp-failures-kappa.md) — related
 - [Blinded raters scored higher in Communication and Examination skills at post-test than pre-test in standardized patient encounters, in one uncontrolled pre-post study](sp-encounter-skills-significant-improvement.md) — related
 - [An end-of-life simulation SDM-attitude cultivation program did not significantly improve nurses' examiner-rated SDM attitudes on a two-month-post-intervention OSCE](sdma-simulation-program-null-osce-nurses.md) — related
+- [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — related

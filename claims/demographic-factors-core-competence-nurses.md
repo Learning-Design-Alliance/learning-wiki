@@ -65,3 +65,4 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
 - [Provincial-hospital training venue was positively associated, and higher baseline competency negatively associated, with mean increase in total competency score](provincial-hospital-and-low-baseline-predict-greater-gains.md) — related
 - [Knowledge outcomes did not differ by district or by years since basic nursing training](no-district-or-experience-differences.md) — related
+- [Training on newborn resuscitation is associated with both providers' knowledge and clinical skills in a multivariable model, while provider type and years of experience are associated with neither](newborn-resuscitation-training-associated-knowledge-skills-afghanistan.md) — related

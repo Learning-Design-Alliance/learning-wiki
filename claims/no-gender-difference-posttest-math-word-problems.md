@@ -49,3 +49,4 @@ F-test comparisons of post-intervention experimental groups by gender: fifth gra
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [Under authentic learning, girls outperformed boys at posttest although both genders improved](authentic-learning-girls-outperform-boys-posttest.md) — reports the opposite
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — reports the opposite
+- [Learning achievement under CGBI does not differ significantly between boys and girls](no-gender-achievement-difference-cgbi.md) — related

@@ -58,3 +58,6 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [Student-reported teacher conscientiousness is the strongest Big Five predictor of perceived teacher academic support in secondary mathematics and English classes](teacher-conscientiousness-predicts-academic-support.md) — related
 - [Agreeableness is positively associated with value/usefulness, effort/importance, and perceived competence in hybrid flipped learning](agreeableness-positive-motivation-hybrid-flipped.md) — related
 - [Higher agreeableness and higher emotional stability are each associated with higher odds of a better National Residency Exam score](agreeableness-emotional-stability-associated-with-exam-odds.md) — related
+- [Agreeableness predicts a better professional attitude but worse learning climate and evaluation of residents](agreeableness-mixed-teaching-effects.md) — related
+- [Emotional stability shows no relation with overall or domain-specific teaching performance of attending physicians](emotional-stability-no-teaching-performance-relation.md) — reports the opposite
+- [Extraversion is positively associated with specific teaching domains: learning climate, communication of learning goals, feedback, and evaluation of residents](extraversion-positive-specific-teaching-domains.md) — a narrower finding that bears on this claim

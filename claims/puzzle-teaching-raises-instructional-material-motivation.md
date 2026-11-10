@@ -54,3 +54,4 @@ In the same RCT (n = 65), dependent-groups t-tests on IMTS totals showed the exp
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [Crossword puzzle game-based learning improves comprehension, keyword recall and learning attitude in dental materials science](crossword-puzzle-game-based-dental-materials.md) — related
+- [Students are significantly more motivated overall by computer game-based instruction than by traditional instruction, with availability of learning materials as the driving dimension](cgbi-higher-motivation-availability.md) — related

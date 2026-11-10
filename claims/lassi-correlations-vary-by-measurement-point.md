@@ -50,3 +50,4 @@ Bivariate correlations from the 168-student cohort (Table 1). First-measure corr
 - [Test Strategies explains the largest share of performance variation for all students across M1, preclinical, and USMLE Step 1 measures](test-strategies-largest-performance-variation-contributor.md) — related
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — reports the opposite
 - [LASSI and SDLRS scores significantly decreased between the first and second measurements, and the drop made LASSI subscales better predictors](lassi-scores-decrease-between-measures.md) — related
+- [Concentration is the only LASSI study strategy correlated with USMLE Step 1 performance among pre-clinical medical students](concentration-only-study-strategy-correlated-step1.md) — related

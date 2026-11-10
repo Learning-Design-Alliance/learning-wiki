@@ -51,3 +51,4 @@ Weighted OLS regression on the megastudy's primary outcome (average Zearn Math l
 - [Intervention effects were larger for teachers with paid (vs. free) Zearn Math accounts, including a larger personalized-data effect and larger social-comparison gains](paid-account-moderator-nudge-effects.md) — related
 - [Email nudges did not significantly increase teacher engagement (dashboard logins), though student engagement rose similarly to achievement](teacher-login-engagement-null.md) — related
 - [Forecasts of intervention efficacy by scientists, platform staff, and teachers were overly optimistic by a factor of 30 or more, though rank orders correlated across forecasters](nudge-efficacy-forecasts-overly-optimistic.md) — related
+- [Weekly 'status of competition' notification emails were associated with significant increases in questions answered and player participation on notification days.](weekly-notification-emails-boost-participation.md) — related

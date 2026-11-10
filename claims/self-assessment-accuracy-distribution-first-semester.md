@@ -58,3 +58,4 @@ Descriptive analysis of the self-assessment accuracy distribution in the same N 
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
 - [Student self-reported learning gains on the SALG survey do not accurately predict objective CAT gains in critical thinking](self-report-inaccurate-critical-thinking-gains.md) — related
 - [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — related
+- [Both high and lower performers significantly underestimated their OSCE performance, so the high/low performer self-estimation pattern did not hold for the practical skills test](osce-underestimation-across-performer-levels.md) — related

@@ -56,3 +56,4 @@ Loglinear analysis of 207 coded alternative-strategy clauses showed a significan
 - [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
 - [Expert active-learning instructors notice planning for topic-specific student difficulties significantly more often than novices](experts-notice-topic-specific-difficulties.md) — related
+- [Novices prefer positive feedback while experts seek out negative feedback](novices-prefer-positive-experts-seek-negative-feedback.md) — related

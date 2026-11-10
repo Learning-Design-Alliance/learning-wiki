@@ -56,3 +56,4 @@ Psychometric check of the adapted PVC-specific MIQ instrument in the trial sampl
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [Mental imagery produces a greater improvement in adapted Mental Imagery Questionnaire score than workshop participation alone](mental-imagery-miq-score-improvement.md) — related
 - [A pre-procedural guided mental imagery session increases uncomplicated first-puncture success in simulated peripheral venous catheter insertion among medical students](mental-imagery-first-puncture-success-pvc.md) — related
+- [The adapted eViP questionnaire showed high internal consistency (Cronbach alpha .88) in this nursing student sample](evip-questionnaire-alpha-088-nursing-sample.md) — related

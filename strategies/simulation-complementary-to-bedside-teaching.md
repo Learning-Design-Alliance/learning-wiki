@@ -71,6 +71,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Use simulated ward rounds with standardized patients to teach ward round competences to students](ward-round-simulation-strategy.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
 - [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
+- [Integrate EBM teaching with clinical activities and bedside application rather than standalone didactic teaching](integrate-ebm-teaching-with-clinical-activities.md)
 
 ## Examples
 -

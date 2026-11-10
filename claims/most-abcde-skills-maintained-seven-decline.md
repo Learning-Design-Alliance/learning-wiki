@@ -56,3 +56,4 @@ Wilcoxon signed-rank analyses of 40 separate skills and competences across the t
 - [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related
 - [In one single-group pre-post study, physicians' total primary assessment performance was significantly better immediately after the course and at 3–4 months follow-up than before the course](simulation-course-improves-abcde-primary-assessment.md) — related
 - [Three of forty skills showed no significant improvement from pre-course to post-course](three-skills-no-significant-improvement.md) — related
+- [Among participants who showed improvement, performance remained better 4 weeks post-training than before training in a within-group pre-test-to-post-test comparison](training-benefits-retained-four-weeks.md) — related

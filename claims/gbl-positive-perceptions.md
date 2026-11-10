@@ -55,3 +55,5 @@ Self-report perception survey of intervention-group participants in the pilot RC
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [After the course, 92% of participants said they would recommend it and 98% reported that the course would influence their practice](teolc-high-satisfaction-practice-influence.md) — related
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
+- [Most simulation-group students rated the Erietta simulation positively and 69% would adopt it as a teaching tool](positive-student-evaluation-erietta-simulation.md) — related

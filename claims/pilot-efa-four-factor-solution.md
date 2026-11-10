@@ -69,3 +69,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [EFA identifies a two-factor structure (recognition and management) explaining 66.62% of item variance](gp-depression-scale-two-factor-structure-66-62-variance.md) — related
 - [Exploratory factor analysis of feedback identified three factors—motivation, skill development, and engagement—strongly correlated with the jigsaw approach](efa-jigsaw-motivation-skills-engagement.md) — related
 - [The 10-item self-efficacy instrument yields a two-factor solution (leadership/management and communication/teamwork) explaining 74% of variance](self-efficacy-scale-two-factor-solution.md) — related
+- [Factor analysis of the assessment tool reveals four factors: initial assessment, physical examination planning, planning patient management, and patient education/involvement](virtual-case-tool-four-factors.md) — related

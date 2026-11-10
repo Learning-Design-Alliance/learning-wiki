@@ -70,3 +70,4 @@ Between-groups ANOVAs on change scores found no condition differences in gains; 
 - [Only students interacting with a real nursing home resident reported increased empathy after the placement; the two simulated conditions did not](empathy-gain-only-traditional-placement.md) — reports the opposite
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
 - [Qualitative feedback identified challenge, realism, clinical value, educator value, absence of context and physical environment as themes, with the virtual patient seen as more challenging but yielding similar benefit](qualitative-themes-placement-experience.md) — related
+- [Standardised-patient practice does not raise self-confidence in clinical skills more than peer practice; both groups improve significantly](sp-peer-no-confidence-difference.md) — related

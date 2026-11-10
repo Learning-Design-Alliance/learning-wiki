@@ -60,3 +60,4 @@ Randomized comparison of 74 fourth-year students (37 per group) during a one-wee
 - [Adopting CBL combined with BOPPPS raises teachers' Personal Teaching Efficiency and Sense of Teaching Efficiency scores](cbl-boppps-raises-teacher-teaching-efficacy.md) — related
 - [Microteaching combined with the BOPPPS model increases student participation, interest and academic performance over traditional teaching in dental materials science](microteaching-boppps-dental-materials.md) — related
 - [Second-year nursing students taught with blended learning combined with a flipped classroom design achieved significantly higher course grades than students taught by traditional teacher-centred learning](blended-flipped-learning-higher-nursing-course-grades.md) — related
+- [A virtual-world pediatric dentistry simulation used as a supplement to lectures produced significantly higher knowledge scores than lectures alone](vp-simulation-knowledge-gain-pediatric-dentistry.md) — related

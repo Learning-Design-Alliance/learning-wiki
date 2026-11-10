@@ -57,3 +57,4 @@ The brief reports this ECLS-K finding, citing Zill & West (2001), as background 
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — a broader claim this one bears on
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related
 - [MFAS produced a statistically significant positive effect of 0.20 on Kindergarten student mathematics achievement](mfas-kindergarten-student-effect-020.md) — related
+- [Low school entry academic skills and low socioeconomic position each roughly triple the risk of poor educational achievement at ages 15–16](low-school-entry-scores-triple-poor-achievement-risk.md) — related

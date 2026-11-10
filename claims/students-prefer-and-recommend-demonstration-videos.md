@@ -49,3 +49,4 @@ Likert-scale feedback item from the same prospective study's posttest feedback. 
 - [OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study](qr-code-linked-videos-improve-ospe-performance.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
+- [Students rated the endocrinology videos as useful for learning and accessed them repeatedly, including via mobile download](student-perceptions-video-usefulness-and-access.md) — related

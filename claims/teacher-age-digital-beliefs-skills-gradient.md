@@ -47,3 +47,4 @@ Qualitative finding from the School A case report, triangulated with on-site obs
 
 ## Related Claims
 - [Older students perceive greater value of the technological skills acquired through online study](age-differentiates-digital-competence-assimilation.md) — related
+- [Older students had more prior patient-interview experience, rated gained competences lower, and rated instructor feedback as more constructive](age-differences-prior-experience-and-ratings.md) — related

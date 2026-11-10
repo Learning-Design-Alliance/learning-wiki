@@ -73,3 +73,4 @@ Test-retest stability study in which 50 subjects completed the scale at two meas
 - [The simulator's composite score shows good test–retest reliability (ICC = 0.82) and stable performance across two sessions](ivr-fluoroscopy-test-retest-reliability-icc-082.md) — related
 - [The BBKS and its three subscales show satisfactory internal consistency and two-week test-retest stability](bbks-reliability-alpha-icc.md) — related
 - [The TGEI subscales show adequate homogeneity and reliability, but the total sum score is not a homogeneous construct](tgei-subscales-homogeneous-total-not.md) — related
+- [The German-language DTI shows good total-score reliability but meagre subscale reliability in this sample](german-dti-reliability-total-good-subscale-meagre.md) — related

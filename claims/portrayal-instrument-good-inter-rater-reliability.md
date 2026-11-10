@@ -51,3 +51,4 @@ Inter-rater reliability analysis using intraclass correlation coefficients on bl
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related
+- [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related

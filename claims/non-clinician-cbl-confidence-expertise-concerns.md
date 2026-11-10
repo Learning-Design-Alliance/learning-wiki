@@ -51,3 +51,4 @@ IPA interview theme on anticipation versus reality: non-clinicians worried about
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Breakout groups developed unique, differing teaching plans rather than converging on one approach](breakout-groups-developed-unique-teaching-plans.md) — related
 - [Competence was sustained through peer supervision, which supported wellbeing, though non-specialist supervisors were felt to lack relevant expertise](peer-supervision-sustains-competence-and-wellbeing.md) — related
+- [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](clinical-supervision-embeds-self-management-skills.md) — related

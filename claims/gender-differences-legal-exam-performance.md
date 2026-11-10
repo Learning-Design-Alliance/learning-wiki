@@ -49,3 +49,4 @@ Descriptive and regression analysis of 71,405 exams from 2,979 students. "Also b
 - [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md)
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [Gender, SES, and timing of administration predicted transfer performance, while place of administration (home or school) did not](gender-ses-timing-predict-transfer-place-does-not.md) — related
+- [Female students had a significantly lower error frequency than male students in cardiac examination, driven by inspection and palpation, while percussion was more error-prone in females](cardiac-exam-gender-skill-differences.md) — related

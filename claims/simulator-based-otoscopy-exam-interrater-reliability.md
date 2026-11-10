@@ -61,3 +61,4 @@ Reliability analysis of two independent raters scoring the oral-practical exam i
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [Blinded independent OSCE rating of tutor scanning images reached very high inter-rater agreement (ICC 0.97)](osce-blinded-rating-icc-0-97.md) — related
+- [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related

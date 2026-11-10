@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 122 claims (79 for, 40 mixed, 3 against) · 86 studies (44 causal, 14 quant-synthesis, 11 associational, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 20 of 86 report an effect size · 120 claims rest on one study
+> **Evidence** · 123 claims (79 for, 41 mixed, 3 against) · 87 studies (44 causal, 14 quant-synthesis, 11 associational, 7 review, 4 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 20 of 87 report an effect size · 121 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Blended learning students achieved higher final statistics scores than on-site students, with a medium effect size (d = 0.43)](../claims/blended-higher-final-statistics-score.md) [+M] — attached 2026-11-09 from Milic Natasa M. et al. (2016), which proposed "Blended statistics course pattern combining reduced classroom hours with online materials, forums, and identical assessment".
 - [Blended learning students scored higher on the statistics knowledge test than on-site students (d = 0.28)](../claims/blended-higher-knowledge-test-score.md) [+M] — attached 2026-11-09 from Milic Natasa M. et al. (2016), which proposed "Blended statistics course pattern combining reduced classroom hours with online materials, forums, and identical assessment".
 - [Blended learning remains more cost-effective to operate only up to staffing levels 20% higher than face-to-face delivery](../claims/bl-cost-effective-up-to-20-percent-higher-staffing.md) [~W] — attached 2026-11-09 from Maloney S et al. (2015), which proposed "Design blended learning models around staff time, the most significant cost driver of cost-effectiveness".
+- [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](../claims/flipped-focus-group-positive-experience-factors.md) [~W] — attached 2026-11-10 from Galway Lindsay P et al. (2014), which proposed "Structure online and face-to-face portions of blended learning so they coherently support one another, and treat flipping as a pedagogical shift rather than moving lectures outside class".
 
 ## Illustrative design instance and observation record
 

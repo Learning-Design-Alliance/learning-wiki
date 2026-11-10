@@ -87,6 +87,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Run multi-cycle faculty development workshops on student assessment using active teaching–learning strategies](fd-workshop-cycles-active-strategies-strategy.md)
 - [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
+- [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
 
 ## Examples
 -

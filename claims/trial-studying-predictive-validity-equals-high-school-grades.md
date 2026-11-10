@@ -51,3 +51,4 @@ Comparison of dependent correlations in the subsample of applicants with Dutch s
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — related
 - [The trial-studying test has a slightly larger unique contribution than high school grades to predicting first-year dropout](trial-studying-unique-contribution-dropout.md) — related
+- [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related

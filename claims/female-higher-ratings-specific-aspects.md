@@ -59,3 +59,4 @@ T-tests comparing male and female mean ratings (Tables 4-7) find "female student
 - [Female students awarded tutors a significantly higher mean performance ranking than male students](female-students-higher-tutor-performance-ranking.md) — related
 - [Female students rated tutors' learning approaches more favorably than male students on four of five categories](female-students-rate-tutor-approaches-higher.md) — related
 - [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related
+- [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — related

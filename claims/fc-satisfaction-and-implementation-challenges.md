@@ -71,3 +71,4 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Most experimental-group students reported agreement with, interest in, and engagement from the flipped classroom plus web-based learning system](student-perceptions-flipped-anatomy-web-system.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
+- [Student perceptions of the NextGenU/flipped classroom model were highly favorable, with 82% preferring a flipped course and all students comfortable with self-directed online learning](flipped-model-favorable-student-perceptions.md) — related

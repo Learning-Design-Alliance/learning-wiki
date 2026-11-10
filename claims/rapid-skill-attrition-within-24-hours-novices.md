@@ -48,3 +48,4 @@ The review states, citing prior work, that "skill attrition can occur as fast as
 - [Novice surgeons in cognitive and integrational learning phases are especially vulnerable to skill decay after short retention intervals](novice-surgeons-decay-susceptible.md) — a broader claim this one bears on
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [Simulation has been shown to prevent skills decay and teach new technical skills to novice learners who delayed training initiation](simulation-prevents-skills-decay-novices.md) — related
+- [Goal setting was difficult for clinicians to incorporate into practice where long intervals between visits prevented regular review](goal-setting-difficult-with-long-visit-intervals.md) — related

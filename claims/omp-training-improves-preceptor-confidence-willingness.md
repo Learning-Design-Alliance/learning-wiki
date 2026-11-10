@@ -81,3 +81,4 @@ The article reports, citing Miura et al, a pilot training program for NPs using 
 - [The review reports that learners and preceptors favor the One-Minute Preceptor over traditional teaching models](omp-favored-over-traditional-teaching.md) — related
 - [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related
 - [Lack of feedback training and shorter OSCE supervision experience negatively influence the feedback process beyond tutor profile](feedback-training-and-experience-influence-osce-feedback-process.md) — related
+- [Self-installed apps were found more useful than pre-loaded apps, with RxFiles most beneficial for residents and LexiComp most popular for preceptors](self-installed-apps-more-useful-than-preloaded.md) — related

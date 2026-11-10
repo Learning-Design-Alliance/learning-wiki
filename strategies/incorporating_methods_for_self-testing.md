@@ -89,6 +89,7 @@ Retrieval practice produces substantially more durable learning than restudying,
 - [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
 - [Integrate a multimedia learning platform as a complement to traditional instruction, assigning curated playlists with embedded quizzes and flashcards for spaced repetition](multimedia-tool-complement-traditional-instruction-strategy.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
+- [Use open-ended self-assessment with graded recall to drive content prioritization](open-ended-self-assessment-drives-prioritization.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software that schedules each card for review just before predicted forgetting; widely used in medical education.

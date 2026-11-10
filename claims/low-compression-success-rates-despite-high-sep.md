@@ -54,3 +54,4 @@ Objective CPR feedback wristband measurements in the experimental group (n = 53)
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
 - [Prior theoretical coursework does not ensure adequate chest-compression quality: 89% of participants had prior pediatric CRA training yet pre-test technique was inadequate](prior-cra-coursework-insufficient-for-compression-quality.md) — a narrower finding that bears on this claim
 - [Mandatory app use significantly increased the percentage of chest compressions with correct rate and correct depth versus no app](mandatory-app-improves-compression-rate-depth.md) — related
+- [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related

@@ -49,3 +49,4 @@ Multiple linear regression on standardized predictors in the 30-student sample. 
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) — related
 - [Higher use of self-controlling coping is associated with higher GPA among Ethiopian undergraduates](self-controlling-coping-higher-gpa-ethiopian-undergraduates.md) — related
+- [Adding CBSSA average to the regression model raises explained variance in Step 1 performance to 71.4%, with CBSSA the strongest predictor](cbssa-average-strongest-predictor-model2.md) — related

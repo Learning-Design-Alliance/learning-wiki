@@ -48,6 +48,7 @@ As a forward-looking step, the authors propose developing a pilot simulation cou
 
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
+- [Reinforce the named teaching types among faculty and track resulting changes in teaching distribution and learner ratings](reinforce-teaching-types-faculty-development.md)
 
 ## Examples
 -

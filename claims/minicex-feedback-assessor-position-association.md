@@ -68,3 +68,4 @@ Chi-square analysis of the same form corpus for development feedback; ASR values
 - [Registrar assessors conducted the majority of EPAAs, but consultant predominance occurred in Emergency](registrar-assessors-majority-epaas-consultant-emergency.md) — related
 - [Written feedback on Mini-CEX assessment forms was predominantly general, with less than 30% of feedback comments specific to a clinical performance domain](minicex-written-feedback-mostly-general.md) — related
 - [Trauma surgeons provided feedback less often than emergency physicians on paper-format mini-CEXs, with no-feedback rates of 29.7% versus 5.1%](specialty-differences-feedback-provision.md) — related
+- [LSE validity rates are not affected by the operator's grade of doctor (consultant versus specialist registrar)](validity-rate-independent-of-operator-grade.md) — related

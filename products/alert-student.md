@@ -13,7 +13,7 @@ generated:
 # ALERT STUDENT
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 ALERT STUDENT is an e-learning platform for creating, distributing, and studying flashcard-based learning objects with spaced-repetition sessions and test-enhanced learning activities.
@@ -24,9 +24,12 @@ ALERT STUDENT is an e-learning platform for creating, distributing, and studying
 
 ### Claims
 - [Medical students using spaced study followed by quizzing achieved significantly higher recall accuracy than quiz-only students in sessions s1 and s2](../claims/study-quiz-group-higher-recall-accuracy.md) [+M]
+- [Medical students rate the ALERT STUDENT tools as useful and easy to use in both of two classroom sessions](../claims/alert-student-usability-survey-positive.md) [+M]
+- [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](../claims/alert-student-adoption-willingness.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Taveira-Gomes T, Prado-Costa R, Severo M, Ferreira MA. (2015). Characterization of medical students recall of factual knowledge using learning objects and repeated testing in a novel e-learning system. BMC Medical Education. https://doi.org/10.1186/s12909-014-0275-0
+- Taveira-Gomes Tiago, Saffarzadeh Areo, Severo Milton, Guimarães M Jorge, Ferreira Maria Amélia. (2014). A novel collaborative e-learning platform for medical students - ALERT STUDENT. BMC Medical Education. https://doi.org/10.1186/1472-6920-14-143

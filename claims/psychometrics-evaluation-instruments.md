@@ -53,3 +53,4 @@ Narrative review of psychometric properties reported in the identified instrumen
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related
+- [A standardized self-report questionnaire of the same competencies did not significantly correlate with any criterion measure, unlike the assessment center](questionnaire-failed-to-predict-criteria.md) — related

@@ -52,3 +52,4 @@ Inductive grounded-theory analysis of three focus groups with 23 physiotherapy s
 - [Blended learning combining e-learning with face-to-face methods is suggested to support self-management support skills development](blended-learning-suggested-for-sms-skills.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
+- [Focus groups identified student preference for blended-learning EBM delivery because it linked theory to bedside practice](focus-groups-prefer-blended-ebm-theory-practice-link.md) — related

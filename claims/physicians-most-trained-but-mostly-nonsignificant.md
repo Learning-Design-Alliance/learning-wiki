@@ -51,3 +51,4 @@ Logistic regressions with dichotomised items as dependent variables and professi
 - [Physicians showed the most categories with significant increases in NTS training and assessment from 2011 to 2015, adjusting toward the training culture of other crew groups](physicians-largest-nts-training-increase.md) — related
 - [Assessment of NTS is less frequent than simulation-based training across all professional groups in Norwegian HEMS](assessment-less-frequent-than-training-hems.md) — related
 - [Simulation-based training and assessment of non-technical skills increased significantly for all Norwegian HEMS personnel between 2011 and 2015, except training in coping with fatigue](hems-nts-training-assessment-increase-2011-2015.md) — related
+- [Paramedics were the most frequent research participants in prehospital simulation studies, featured in 46% of participant reports](paramedics-most-frequent-simulation-research-participants.md) — related

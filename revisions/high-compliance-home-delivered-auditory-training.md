@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/high-compliance-home-delivered-auditory-training.md
+---
+
+# Revision history: [claims/high-compliance-home-delivered-auditory-training](../claims/high-compliance-home-delivered-auditory-training.md)
+
+### 2026-11-10 · ingest · process:wiki-ingest
+Ingested from pmc-4072445 (Benefits of phoneme discrimination training in a randomized controlled trial of 50- to 74-year-olds with mild hearing loss.) via eval_harness.py + ingest_extractions.py

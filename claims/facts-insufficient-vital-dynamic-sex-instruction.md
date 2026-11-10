@@ -48,3 +48,4 @@ Theoretical argument in the 'A Second Requirement' section. The author cites the
 - [Attempts to strip sex instruction of all feeling are doomed to failure, because emotion is more basic than information in determining ethical living](disemotionalized-sex-instruction-doomed.md) — possibly the same claim (merge candidate)
 - [An indirect, gradual nature-study approach to sex instruction is superfluous and may arouse pupils' suspicions rather than disarm them](indirect-nature-study-approach-arouses-suspicion.md) — related
 - [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](project-with-perceived-impact-relationships-self-regulation.md) — related
+- [Through the pig transport role play, students discover that bare factual information has little impact on the discussion and decisions made](role-play-shows-facts-have-little-impact.md) — related

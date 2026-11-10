@@ -48,3 +48,4 @@ Linear mixed model analysis of the six-item general Self-Regulation Questionnair
 - [In a Web-based computer-tailored nutrition RCT, the basic version increased self-reported vegetable intake at nine months only among low/moderate-educated adults in the total sample](ct-nutrition-basic-vegetable-intake-low-educated.md) — related
 - [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — reports the opposite
 - [At nine months post-intervention, neither tailored version differed from generic information on fruit, high-energy snack or saturated fat intake in adults](ct-nutrition-no-longterm-fruit-snack-fat-effects.md) — related
+- [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related

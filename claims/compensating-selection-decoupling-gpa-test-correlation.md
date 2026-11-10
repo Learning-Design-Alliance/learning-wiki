@@ -51,3 +51,5 @@ Correlational analysis comparing incumbents (admitted students) with all test-ta
 - [IC-MD scores are independent of cognitive admission criteria (TMS r = .01; GPA r = .14), supporting divergent validity](ic-md-divergent-validity-cognitive-criteria.md) — related
 - [Casper shows weak but significant correlations with cognitive admission criteria including Abitur grade, TMS, and HAM-Nat logical reasoning, but not with science knowledge or arithmetic subtests](casper-german-pilot-discriminant-validity-cognitive.md) — related
 - [Bachelor's GPA and MCQ exam results are positively correlated, supporting the accuracy of the GPA admission criterion](bachelors-gpa-mcq-positive-correlation.md) — related
+- [Correlations between HAM-Nat and GPA are extremely low, indicating discriminant validity supporting use of both predictors](ham-nat-gpa-discriminant-validity.md) — related
+- [High-positive correlations between admissions tools and outcomes should not be assumed desirable, given how selection tools are designed](high-positive-validity-correlations-not-necessarily-desirable.md) — related

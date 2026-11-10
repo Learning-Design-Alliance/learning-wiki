@@ -48,3 +48,4 @@ Linear regression predicting end-of-year S-OSCE score from total reviews, contro
 - [Among first-year students, checklist review was associated with a small improvement on the subsequent F-OSCE, but no review modality was associated with improvement among second-year students](checklist-review-first-year-subsequent-f-osce-gain.md) — related
 - [Scheduled student-faculty debriefing meetings significantly increase student review of F-OSCE scores, checklists, and videos](debriefing-meetings-increase-osce-data-review.md) — related
 - [Medical students voluntarily review F-OSCE scores most often, checklists less, and videos least, with checklists and videos reviewed less than 50% of the time](f-osce-data-review-frequency-scores-checklists-videos.md) — related
+- [No significant difference in summative assessment scores between groups in either year](cleims-summative-assessment-null.md) — related

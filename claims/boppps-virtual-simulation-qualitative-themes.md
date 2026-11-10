@@ -69,3 +69,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [DOPS-assessed nurses report higher satisfaction on self-directed learning, patient communication, learning effect, and clinical flexibility](dops-higher-training-satisfaction-four-items.md) — related
 - [Thematic analysis of debrief responses revealed six themes: communication, quality of care, team function and dynamics, resource allocation, preparation and response, and support](six-themes-clinical-debriefing-thematic-analysis.md) — related
 - [Thematic analysis identified five themes for how the book club contributed to professional and personal development](book-club-five-qualitative-themes.md) — related
+- [Final-semester medical students reported that a primary care virtual patient supported self-directed learning and stimulated reflection](vp-primary-care-supports-self-directed-learning-student-reports.md) — related

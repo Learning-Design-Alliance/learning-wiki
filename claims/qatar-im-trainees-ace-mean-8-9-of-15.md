@@ -51,3 +51,4 @@ Cross-sectional survey of 80 internal medicine trainees at Hamad Medical Corpora
 - [Lack of knowledge, resources, and time were the most reported barriers to utilizing EBM among trainees](knowledge-resources-time-top-ebm-barriers.md) — related
 - [Trainees with South Asian medical education backgrounds scored higher on the ACE tool than those from other regions](south-asian-background-higher-ace-scores.md) — related
 - [Most trainees self-rated as beginner or intermediate in overall EBM ability](trainees-self-rate-beginner-intermediate-ebm.md) — related
+- [ACE total scores increase significantly with EBM training level (construct validity)](ace-construct-validity-training-level-scores.md) — related

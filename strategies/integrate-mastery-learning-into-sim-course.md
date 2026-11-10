@@ -52,6 +52,7 @@ The authors recommend that simulation courses with fixed module time adopt maste
 - [Provide additional guidance tools such as intraoperative fluoroscopy during a trainee's first 20 CT-navigated THA cases](additional-tools-first-20-navigated-cases.md)
 - [Use interruptible simulation in a safe environment so errors can be pointed out and corrected during practice](interruptible-safe-environment-simulation-strategy.md)
 - [Use the validated VR TTE test as the final checkpoint of a mastery learning training program](vr-tte-test-mastery-learning-program-strategy.md)
+- [Progressively wean trainees off virtual guidance aids during simulator training](wean-trainees-off-virtual-guides.md)
 
 ## Examples
 -

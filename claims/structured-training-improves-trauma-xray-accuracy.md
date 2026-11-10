@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-10
 sources:
   - id: acquah-g-2025
     resource: "https://doi.org/10.1186/s12880-025-02122-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After training, sensitivity rose from 67.8% to 77.2% (p = 0.025), specificity from 75.6% to 86.7% (p = 0.005), and accuracy from 71.6% to 81.9% (p = 0.003). [→ Acquah G 2025](#acquah-g-2025)
@@ -53,3 +54,4 @@ The review reports this strategy from Ofori-Manteaw and Dzidzornu 2019, a compar
 - [Anatomical site of injury is associated with junior doctor trauma X-ray interpretation accuracy, with appendicular radiographs interpreted more accurately](anatomical-site-appendicular-accuracy-advantage.md) — related
 - [Number of abnormalities on a trauma radiograph is associated with interpretation accuracy, which falls as abnormalities accumulate](multiple-abnormalities-reduce-interpretation-accuracy.md) — related
 - [Clinical experience shows inconsistent effects on Bayesian reasoning, with research experience helping and newly qualified doctors sometimes more accurate](experience-effects-on-bayesian-reasoning-inconsistent.md) — related
+- [Physiotherapists' level of agreement in plain radiograph interpretation is significantly associated with academic qualification and sex](agreement-associated-with-qualification-and-sex.md) — related

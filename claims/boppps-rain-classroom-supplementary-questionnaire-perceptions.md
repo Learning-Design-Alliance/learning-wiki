@@ -67,3 +67,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Interactive learning activities yield significantly higher personal-factor scores (enthusiasm, initiative, self-confidence, cooperation) than traditional learning](interactive-learning-higher-personal-factors.md) — related
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
+- [Students reported close-to-moderate perceived gains in problem-solving and knowledge-construction abilities](perceived-learning-gains-close-to-moderate.md) — related

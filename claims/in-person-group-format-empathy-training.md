@@ -50,3 +50,4 @@ Meta-regression of intervention format in the pairwise meta-analysis (Table 2: f
 - [One-to-one coaching format alone is not a statistically significant predictor of training effect size](coaching-format-alone-nonsignificant-moderator.md) — related
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Performance feedback alone is not a statistically significant predictor of training effect size in group-design studies](performance-feedback-alone-nonsignificant-moderator.md) — related
+- [Interactive, participation-centered CPD formats are reported to be more effective for improving competence than didactic formats and practice guidelines](interactive-cpd-formats-more-effective.md) — related

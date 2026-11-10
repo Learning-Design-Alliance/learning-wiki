@@ -53,3 +53,4 @@ Instructor observation during the gamified year, reported in the discussion sect
 - [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related
 - [Ranking variations between consecutive tests showed a slight decreasing trend over the academic year in the gamified cohorts, with no comparison group.](ranking-variations-stabilize-over-year.md) — related
 - [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — related
+- [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](leaderboard-top-motivator-residents-kaizen-im.md) — related

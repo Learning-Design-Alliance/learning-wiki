@@ -51,3 +51,4 @@ Cross-sectional questionnaire survey of 430 students from three Shanghai high sc
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
 - [Syrian medical students show moderate CPR knowledge (mean 5.03/11) and MI symptom knowledge (mean 11.50/18) with the largest CPR gaps in AED timing and defibrillation parameters](syrian-medical-students-moderate-cpr-mi-knowledge-aed-gaps.md) — related
 - [Most students had received some CPR training and wanted to learn CPR, but fewer were willing to perform it](training-exposure-and-willingness-gap-shanghai-students.md) — related
+- [Item pass rates differ significantly between training groups for all but two items, with wide difficulty range](ace-item-difficulty-pass-rates.md) — related

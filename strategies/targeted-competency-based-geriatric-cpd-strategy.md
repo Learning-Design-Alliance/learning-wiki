@@ -51,6 +51,7 @@ The article recommends designing continuing professional development (CPD) aroun
 - [Make dementia workforce education and training cost-effective and evaluate its costs](dementia-training-cost-effectiveness-strategy.md)
 - [Recruit and retain a dementia-capable workforce by identifying motivations and meeting training needs](dementia-workforce-recruitment-retention-strategy.md)
 - [Train an interprofessional workforce for dementia care coordination and care transitions](interprofessional-dementia-care-coordination-training.md)
+- [Focus CPD programs for laboratory personnel on quality management systems, competence assessment, customer care, and case studies on locally common disease profiles](cpd-focus-qms-case-studies-customer-care-strategy.md)
 
 ## Examples
 -

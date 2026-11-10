@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-10
 sources:
   - id: wang-rongmei-2015
     resource: "https://doi.org/10.1186/s12909-015-0400-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the IPSE group, nursing students' self-reported RIPLS responses differed significantly from pre-test to post-test on Questions 3, 7, 13 and 14, with more positive responses on items concerning teamwork and collaboration and professional identity. [→ Wang Rongmei 2015](#wang-rongmei-2015)

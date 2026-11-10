@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 301 claims (166 for, 115 mixed, 20 against) · 169 studies (59 causal, 36 review, 25 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 32 of 169 report an effect size · 295 claims rest on one study
+> **Evidence** · 303 claims (168 for, 115 mixed, 20 against) · 171 studies (60 causal, 36 review, 26 design, 21 qualitative, 16 quant-synthesis, 8 associational, 4 theoretical), `q1`–`q4` · 32 of 171 report an effect size · 297 claims rest on one study
 
 ## Description and scope
 
@@ -229,6 +229,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [A single 30-minute conversational placement raises speech pathology students' self-reported communication skill, knowledge and confidence regardless of whether the partner is a real patient, standardised patient or virtual patient](../claims/single-conversational-placement-raises-communication-self-efficacy.md) [~M] — attached 2026-11-09 from Quail Michelle et al. (2016), which proposed "Integrate sustainable, standardised virtual patient-based placements into allied health training for communication skills, since they yield comparable self-reported gains to traditional placements"; tests this page's relationship.
 - [The virtual patient placement was rated less realistic, natural, engaging and enjoyable than the simulated and traditional placements, and both simulation groups reported more pre-placement anxiety, with no differences in perceived learning](../claims/vle-rated-less-realistic-engaging-more-anxiety.md) [-M] — attached 2026-11-09 from Quail Michelle et al. (2016), which proposed "Integrate sustainable, standardised virtual patient-based placements into allied health training for communication skills, since they yield comparable self-reported gains to traditional placements"; tests this page's relationship.
 - [In one group of resident psychiatrists, scores on a knowledge test covering PTSD diagnosis, clinical management and basic communication skills were higher immediately after one virtual patient session than before it](../claims/vp-session-immediate-knowledge-gain.md) [+W] — attached 2026-11-09 from Pantziaras I et al. (2015), which proposed "Pair virtual patient encounters with individualized automated feedback to support knowledge acquisition"; tests this page's relationship.
+- [Faculty-rated basic communication skills with standardized patients increase significantly during the program in both the 2008 and 2009 cohorts](../claims/faculty-rated-sp-communication-skills-increase-both-cohorts.md) [+W] — attached 2026-11-10 from Carvalho IP et al. (2014), which proposed "Structure communication skills training around cognitive, modeling and behavioral components with intensive practice".
+- [Students regarded the primary care VP as an authentic intermediate learning activity between theory and clinical practice with immediate feedback](../claims/vp-intermediate-learning-activity-authenticity.md) [+W] — attached 2026-11-10 from Helena Salminen et al. (2014), which proposed "Five-cycle VP structure aligned with an authentic patient consultation".
 
 ## Illustrative design instance and observation record
 

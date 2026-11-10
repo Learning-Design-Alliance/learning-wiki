@@ -57,3 +57,4 @@ Descriptive frequency analysis of the 26 included articles in the scoping review
 - [The article argues OMP suits busy preceptor-directed settings because it needs only a single brief teacher training session, unlike SNAPPS](omp-preceptor-directed-busy-settings-single-training.md) — related
 - [The One-Minute Preceptor model shows high learner and instructor satisfaction, with learners preferring it over traditional precepting (Level 2b, Grade B)](omp-high-satisfaction-preferred-over-traditional.md) — related
 - [A single reported study found ED STAT! training increased preceptors' self-reported teaching amount, quality, and confidence](ed-stat-faculty-development-study.md) — related
+- [Self-installed apps were found more useful than pre-loaded apps, with RxFiles most beneficial for residents and LexiComp most popular for preceptors](self-installed-apps-more-useful-than-preloaded.md) — related

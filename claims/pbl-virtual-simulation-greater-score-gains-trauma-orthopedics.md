@@ -79,3 +79,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
 - [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related
 - PBL combined with situational simulation teaching yields higher nursing practice satisfaction scores than conventional teaching — related
+- [A blended learning block course significantly improves orthopedics and traumatology knowledge for both e-learning users and non-users](blended-pbl-course-improves-knowledge-both-groups.md) — related

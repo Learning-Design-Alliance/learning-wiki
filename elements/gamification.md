@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (57 for, 21 mixed, 3 against) · 46 studies (27 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 46 report an effect size · 80 claims rest on one study
+> **Evidence** · 83 claims (59 for, 21 mixed, 3 against) · 47 studies (27 causal, 8 review, 6 quant-synthesis, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 47 report an effect size · 82 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -105,6 +105,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](../claims/gamification-program-improves-crf-college-students.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
 - [Intervention students reported very high satisfaction with the gamified program](../claims/high-satisfaction-gamified-program.md) [+M] — attached 2026-11-08 from Mora-Gonzalez Jose et al. (2020), which proposed "The Matrix rEFvolution gamification-based physical activity program".
 - [Students using the gamified interactive multimedia module report significantly higher satisfaction than those using the PowerPoint show module](../claims/im-module-higher-satisfaction.md) [+W] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Gamified interactive multimedia (IM) module for emergent ORL-HNS mobile e-learning".
+- [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](../claims/leaderboard-top-motivator-residents-kaizen-im.md) [+M] — attached 2026-11-10 from Nevin Christa R et al. (2014), which proposed "Kaizen-Internal Medicine: gamified web-based medical knowledge competition software"; tests this page's relationship.
+- [Residents answered a gamified medical knowledge competition heavily outside scheduled hours, with 28.8% of questions completed on weekends and 53.1% between 17:00 and 08:00.](../claims/kaizen-im-off-hours-engagement.md) [+M] — attached 2026-11-10 from Nevin Christa R et al. (2014), which proposed "Kaizen-Internal Medicine: gamified web-based medical knowledge competition software".
 
 ## Examples
 

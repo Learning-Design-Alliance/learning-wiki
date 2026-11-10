@@ -52,3 +52,4 @@ Loglinear model comparison (Table 3) on the 37-teacher sample showed Model II fi
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — a narrower finding that bears on this claim
 - [Expert and novice teachers do not differ significantly in the number of classroom events they notice when reflecting on their own MET video footage](expert-novice-no-difference-noticed-events-met.md) — related
 - [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
+- [Novices prefer positive feedback while experts seek out negative feedback](novices-prefer-positive-experts-seek-negative-feedback.md) — related

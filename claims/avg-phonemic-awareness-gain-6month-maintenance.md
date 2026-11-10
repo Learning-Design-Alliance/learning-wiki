@@ -73,3 +73,4 @@ Paired bootstrap t-tests in the same follow-up subsample showed significant PD i
 - [Neither speech therapy nor serious non-action video games produced significant phonemic awareness gains in at-risk pre-readers](active-controls-no-phonemic-awareness-gain.md) — related
 - [AVG training effects are specific to phonemic awareness, with no significant gains in phonological working memory or rapid automatized naming](avg-training-null-pwr-ran.md) — related
 - [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](pa-training-gains-maintained-follow-up-asd.md) — related
+- [Phoneme discrimination training produces robust on-task learning across all 11 trained phoneme pairs, with the largest improvements in adults with the poorest initial thresholds](phoneme-discrimination-on-task-learning-poorest-gain-most.md) — related

@@ -49,3 +49,4 @@ Pre-post comparison in a multi-center observational study of 82 participants per
 - [Midwives entered the course with substantially more MLE training and hands-on experience than obstetricians](midwives-more-prior-mle-experience.md) — related
 - [Shape, width, length and smoothness improved significantly across sessions while depth and angle did not](criteria-selective-improvement-rest-seat.md) — related
 - [Senior participants' length and distance rose from pre-test to post-test, particularly among senior midwives, in one single-group pre-post study](senior-midwives-greatest-gains.md) — a narrower finding that bears on this claim
+- [Experienced obstetricians and midwives also reported benefiting from simulation training despite significant prior experience](experienced-staff-benefit-from-simulation-training.md) — related

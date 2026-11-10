@@ -48,3 +48,4 @@ Interview analysis (qualitative content analysis, Mayring) of ten students; thre
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [Face-to-face course delivery with CAI outperforms online delivery of CAI in statistics education](cai-face-to-face-outperforms-online-delivery.md) — related
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — reports the opposite
+- [Alternative invitation choice structures show no significant effect on willingness to participate, follow-through from agreement to attendance, or course completion](invitation-choice-no-effect-willingness-followthrough.md) — related

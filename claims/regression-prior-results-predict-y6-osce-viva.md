@@ -69,3 +69,4 @@ Linear regression model of Y6 Management Viva results (Table 7) with the same co
 - [Home site in either Year 3 or Year 6 had no significant impact on Year 6 MCQ results; the only impact was of Year 3 MCQ results](y3-mcq-predicts-y6-mcq-home-site-no-impact.md) — related
 - [In Year 3 OSCE results, examination site had the largest effect among the variables considered yet was not statistically significant, while Year 3 MCQ results had a small significant impact](y3-osce-site-effect-largest-not-significant.md) — related
 - [Prior vocational training as a pharmacy technician has no detectable influence on OSCE performance in this cohort](prior-pharmacy-technician-training-no-influence-osce.md) — related
+- [Educational background and rurality showed no significant effect on medical program performance outcomes](no-effect-educational-background-rurality-outcomes.md) — possibly the same claim (merge candidate)

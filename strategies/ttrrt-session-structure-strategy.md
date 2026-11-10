@@ -54,6 +54,7 @@ The TTRRT session recipe: participants complete prescribed web-based pre-learnin
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Combine a short SALT lecture with 30 minutes of patient-scenario group work within a one-hour session](short-lecture-plus-scenario-exercise-strategy.md)
 - [Create structured team learning spaces combining case discussion, expert backup and emotional debriefing](malaise-group-case-discussion-space.md)
+- [Use multi-professional simulation training with participants working in their normal team roles to strengthen emergency competency](multiprofessional-simulation-in-normal-roles-strategy.md)
 
 ## Examples
 -

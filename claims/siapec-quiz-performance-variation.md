@@ -51,3 +51,4 @@ Descriptive analysis of participant responses during the 2024 SIAPeC Quiz. The a
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — reports the opposite
 - [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Incorrect response rates varied by quiz but not significantly by post-graduate year](incorrect-responses-vary-by-quiz-not-pgy.md) — related
+- [Item pass rates differ significantly between training groups for all but two items, with wide difficulty range](ace-item-difficulty-pass-rates.md) — related

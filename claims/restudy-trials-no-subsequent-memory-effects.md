@@ -67,3 +67,5 @@ Same fMRI experiment, restudy trials back-sorted on subsequent recall. The artic
 - [After repeated correct recall, higher left PFC activation during testing predicts subsequent failure rather than success](left-pfc-subsequent-failure-effect-overlearning.md) — related
 - [fMRI subsequent memory analyses show testing engages encoding-like and retrieval-unique neural processes](distinct-neural-correlates-of-retrieval-and-re-encoding.md) — a broader claim this one bears on
 - [Right-hemisphere activation during correct retrieval consistently predicts subsequent success, whether on the first or second correct recall](right-hemisphere-activation-predicts-subsequent-success.md) — related
+- [Activation during unsuccessful retrieval did not predict later recall, but re-study following an error showed subsequent-memory effects including caudate and putamen](restudy-after-error-predicts-later-recall.md) — related
+- [Right PFC and right PPC predict subsequent memory during retrieval but not during encoding, whereas left PFC, left PPC and bilateral hippocampus show encoding subsequent-memory effects](right-pfc-ppc-retrieval-only-subsequent-memory.md) — related

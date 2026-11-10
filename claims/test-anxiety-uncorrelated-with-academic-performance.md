@@ -54,3 +54,4 @@ Correlation analysis using self-reported previous term grades and the written ph
 - [Self-reported test anxiety is higher before oral than before written exams in second-year medical students](test-anxiety-higher-before-oral-than-written-exams.md) — related
 - [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](pre-exam-anxiety-no-score-link-gender-difference.md) — possibly the same claim (merge candidate)
 - [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — reports the opposite
+- [No correlation was observed between written examination scores and self-contentment scores in either year](no-correlation-wes-scs-pbl.md) — related

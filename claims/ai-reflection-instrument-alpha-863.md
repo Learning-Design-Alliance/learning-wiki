@@ -99,3 +99,5 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
 - [SEPCQ-27 internal consistencies are acceptable for both medical students and physicians](sepcq-27-acceptable-internal-consistencies.md) — related
+- [The adapted eViP questionnaire showed high internal consistency (Cronbach alpha .88) in this nursing student sample](evip-questionnaire-alpha-088-nursing-sample.md) — related
+- [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related

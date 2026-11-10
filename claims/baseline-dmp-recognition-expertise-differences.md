@@ -50,3 +50,4 @@ Baseline annotation of 48 suprapancreatic images per expertise group against EEC
 - [In the suprapancreatic area, gAI-induced recognition change rates are significantly lower for trainers than junior trainees but not senior trainees](gai-suprapancreatic-recognition-change-expertise-gradient.md) — related
 - [gAI validation meets predefined performance criteria, with pancreas Dice coefficients of 0.71–0.88 and median Likert ratings of 4 for pancreas and DMP](gai-validation-dice-likert-benchmarks.md) — related
 - [Junior residents score lower on OSAKA knowledge than senior residents (83.3% vs 88.9%; p = 0.0219)](junior-residents-lower-osaka-knowledge-scores.md) — related
+- [Junior students feel insecure about deficient anatomical knowledge before clerkships, while senior students can put these feelings in perspective](student-insecurity-anatomical-knowledge.md) — related

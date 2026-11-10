@@ -70,3 +70,4 @@ Mann-Whitney tests on the 12-question feedback form comparing BL and WEL student
 - [Final score correlated weakly and positively with extrinsic goal orientation, control of learning belief and rehearsal only in the blended learning group](srl-score-correlation-only-in-bl.md) — related
 - [Most students in the HBOPPPS cohort were satisfied, perceived improved learning ability, and preferred HBOPPPS over offline or online-only teaching](hboppps-student-satisfaction-and-preference.md) — related
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — a broader claim this one bears on
+- [CKD patients preferred web-based and PDA medication-inquiry platforms over SMS texting](sms-least-preferred-medication-inquiry-ckd.md) — related

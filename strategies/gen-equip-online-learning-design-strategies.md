@@ -48,6 +48,7 @@ The authors attribute the modules' effectiveness and perceived helpfulness to sp
 ## Related Strategies
 
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
+- [Use live training to complement online genetics modules for performance-oriented consultation skills](live-training-for-genetics-consultation-skills.md)
 
 ## Examples
 -

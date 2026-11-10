@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (188 show a difference, 41 mixed, 19 no difference) · 189 studies (102 associational, 37 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 8 of 189 report an effect size · 246 claims rest on one study
+> **Evidence** · 249 claims (189 show a difference, 41 mixed, 19 no difference) · 190 studies (103 associational, 37 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 8 of 190 report an effect size · 247 claims rest on one study
 
 ## How to read this page
 
@@ -285,6 +285,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Western minority students showed no underperformance on the preclinical OSCEs despite previously reported lower clerkship grades](../claims/western-minority-no-osce-underperformance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [White students earned higher final course grades than underrepresented minority students in this course](../claims/racial-grade-gap-active-learning-course.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Actual examination performance differed significantly by ethnic background, with white doctors outperforming all other ethnic groups on OSCE performance](../claims/ethnic-differences-actual-performance-osce.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

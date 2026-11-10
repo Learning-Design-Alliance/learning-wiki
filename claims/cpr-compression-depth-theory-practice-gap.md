@@ -66,3 +66,4 @@ Cross-sectional quality-control assessment of 586 emergency physicians and nurse
 - [BLS-certified nursing students cannot adequately perform CPR compressions and ventilations at pretest](bls-certified-students-fail-cpr-pretest.md) — related
 - [Participation in theoretical or practical training did not differentially change knowledge scores over time](training-no-differential-knowledge-effect.md) — related
 - [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related
+- [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related

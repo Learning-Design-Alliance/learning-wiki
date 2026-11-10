@@ -50,3 +50,4 @@ Score compositions by procedure step across PGY groups (Fig. 2c; Table 3) showed
 - [The pork-based simulation model stratifies surgical competency across PGY levels](pork-model-stratifies-competency-pgy-levels.md) — related
 - [HelpMeSee MSICS simulator overall scores increase significantly with ophthalmic surgical experience, supporting construct validity](helpmesee-msics-score-increases-with-experience.md) — a broader claim this one bears on
 - [Global rating scales discriminate between performance levels without a ceiling effect, making them useful for high-stakes summative assessment of advanced residents](global-rating-scales-summative-advanced-residents.md) — a broader claim this one bears on
+- [PGY-5 residents committed fewer errors on average than PGY-3 residents at baseline, which the authors cite as construct validity for error-based assessment](pgy5-fewer-errors-than-pgy3-construct-validity.md) — related

@@ -56,3 +56,4 @@ Summative OSCE scores (five stations, checklist-scored 0–10, faculty examiners
 - [Among first-year students, checklist review was associated with a small improvement on the subsequent F-OSCE, but no review modality was associated with improvement among second-year students](checklist-review-first-year-subsequent-f-osce-gain.md) — related
 - [The teaching-associate advantage in head and skull examination skills persists at 4 months on a summative OSCE with a small-to-moderate effect size](ta-training-long-term-retention-4-months.md) — related
 - [Medical students trained in a complex head and skull examination by teaching associates outperform instructor-led peer-trained controls immediately after training](ta-training-superior-immediate-clinical-skills.md) — related
+- [No significant difference in summative assessment scores between groups in either year](cleims-summative-assessment-null.md) — related

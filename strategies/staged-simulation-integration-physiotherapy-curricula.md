@@ -47,6 +47,7 @@ The article recommends incremental, coordinated use of simulation across the cur
 
 - [Improve simulation-based learning through curriculum integration, increased capacity with low-cost local materials, open access, and a designated simulation coordinator](rwanda-simulation-improvement-strategy.md)
 - [Longitudinal integration of AI literacy competencies across all phases of medical education](longitudinal-ai-literacy-curriculum-integration.md)
+- [Use a staged approach to simulated patient practice: start with peer role-play for comfort and feedback, then progress to standardised patients](staged-peer-then-sp-practice-strategy.md)
 
 ## Examples
 -

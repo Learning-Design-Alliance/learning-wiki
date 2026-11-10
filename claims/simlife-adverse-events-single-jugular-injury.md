@@ -47,3 +47,4 @@ Adverse-event reporting across the 32 training sessions described in the Results
 ## Related Claims
 - [Per-procedure performance scores on SimLife vary by procedure type and side](simlife-procedure-specific-score-ranges.md) — related
 - [Trainees achieved above-average procedure-specific performance scores on SimLife across endocrine procedures](simlife-above-average-performance-scores.md) — related
+- [Errors during selective neck dissection were most likely to occur during dissection of the internal jugular vein](errors-most-likely-internal-jugular-vein-dissection.md) — related

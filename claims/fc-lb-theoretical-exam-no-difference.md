@@ -49,3 +49,4 @@ Same retrospective two-group comparison; the theoretical component, modeled on t
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Flipped classroom residents achieve higher post-training theoretical test scores, with equivalent pre-training baseline scores](fc-higher-post-training-theoretical-scores.md) — reports the opposite
 - [Flipped classroom students rated their theoretical knowledge mastery higher than lecture students (7.9 ± 0.7 vs 7.1 ± 0.8)](flipped-classroom-self-rated-theoretical-knowledge-gain.md) — related
+- [Examination scores did not differ significantly between 2013 NextGenU/flipped classroom students and 2011 lecture-based students](flipped-exam-scores-no-significant-difference.md) — related

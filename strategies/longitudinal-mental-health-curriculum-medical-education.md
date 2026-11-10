@@ -64,6 +64,7 @@ The article recommends that institutions integrate mandatory, longitudinal teach
 - [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
 - [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
 - [Make student reflection a mandatory component of experiential learning courses to integrate personal, professional, and academic learning](mandatory-reflection-in-el-courses.md)
+- [Teach stress-management and self-care skills to medical students facing examination periods](teach-stress-management-self-care-med-students.md)
 
 ## Examples
 -

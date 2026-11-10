@@ -74,3 +74,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [Students in remote biology discussion sections report substantially less group work and more lecture than students in in-person sections](remote-sections-less-group-work-more-lecture.md) — related
 - [Students who identify working with peers as helpful experience more group work, while those citing size or learning activities experience more lecture](practices-shape-perceived-helpfulness.md) — related
 - [Some students remained passive in pandemic e-learning, giving up and taking no effective action to support their learning](passive-surrender-elearning-challenges.md) — reports the opposite
+- [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related

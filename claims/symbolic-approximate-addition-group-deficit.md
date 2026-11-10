@@ -55,3 +55,4 @@ Repeated measures ANOVA on accuracy in symbolic and non-symbolic approximate add
 - [People with MLD show a large pooled deficit in mathematics performance versus typically performing peers (g = 1.52)](mld-large-pooled-math-deficit.md) — related
 - [People with MLD show lower number sense than typically developing peers (g = 0.88), with the largest deficits on mapping tasks](mld-number-sense-deficit-mapping-largest.md) — related
 - [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — related
+- [Children with mathematical difficulties show lower ANS acuity than typically achieving peers in non-symbolic comparison and non-symbolic addition, with only a marginally significant estimation difference](md-children-impaired-ans-comparison-addition.md) — reports the opposite

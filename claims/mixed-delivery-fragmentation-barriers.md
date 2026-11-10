@@ -56,3 +56,4 @@ Descriptive analysis in the report's background section enumerates challenges of
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — related
 - [Clinical and non-clinical staff reported joint training as beneficial given the siloed nature of primary care, though practical barriers exist](joint-training-beneficial-siloed-primary-care.md) — related
+- [High staff turnover and absenteeism limited the intervention, with only 20% of baseline workers still in place after two years](high-staff-turnover-limited-supervision-impact.md) — related

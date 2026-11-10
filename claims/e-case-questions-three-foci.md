@@ -49,3 +49,4 @@ Descriptive statement from the article's Evaluation section about the design of 
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
+- [Medical questions by patients on Internet health forums can be used for assessing clinical decision-making in undergraduate medical students](internet-forum-questions-assess-decision-making.md) — related

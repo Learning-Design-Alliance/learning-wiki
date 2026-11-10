@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 287 claims (165 show a difference, 81 mixed, 41 no difference) · 228 studies (84 causal, 39 associational, 36 review, 25 theoretical, 23 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 37 of 228 report an effect size · 270 claims rest on one study
+> **Evidence** · 297 claims (172 show a difference, 83 mixed, 42 no difference) · 233 studies (86 causal, 40 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 38 of 233 report an effect size · 280 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -335,6 +335,16 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [During the preparation phase, novices differ from intermediates and experts on ICSAD measures, but intermediates and experts do not differ](../claims/preparation-phase-novice-intermediate-expert-differences.md) [~M] — learners who differ on it differ in outcomes
 - [Experts and novices do not differ in applied tissue forces or diathermy accuracy, suggesting novices operate safely but inefficiently](../claims/novise-no-force-or-accuracy-differences.md) [~M] — learners who differ on it differ in outcomes
 - [Educational background is the major determinant of expression of scientific conceptions, with freshmen expressing more scientific conceptions than school students](../claims/educational-background-determinant-scientific-conceptions.md) [+M] — learners who differ on it differ in outcomes
+- [After 15 days of training, three novices' maximal coronal aortic measurements were within 0.5 cm of experienced assessors' in 85-97% of scans](../claims/novices-15-day-training-accurate-coronal-aortic-measurement.md) [+M] — learners who differ on it differ in outcomes
+- [Expertise-related activation differences appear in secondary frontal regions only for specific decision conditions](../claims/superior-frontal-activation-expertise-incorrect-decisions.md) [~M] — an instructional effect differs with it
+- [High Expertise pilots make more accurate simulated land/do-not-land decisions than Moderate Expertise pilots](../claims/expertise-landing-decision-accuracy.md) [+M] — learners who differ on it differ in outcomes
+- [High Expertise pilots show lower bilateral caudate activation than Moderate Expertise pilots during landing decisions](../claims/caudate-activation-lower-expert-pilots.md) [+M] — learners who differ on it differ in outcomes
+- [Low pretest knowledge, hospital work and motivation predict better learning outcome, while sex, hospital work and low pretest scores predict reduced risk of error](../claims/predictors-learning-outcome-risk-error-drug-calculations.md) [+M] — learners who differ on it differ in outcomes
+- [Moderate Expertise pilots make more false alarms (risky land decisions) than High Expertise pilots](../claims/moderate-expertise-more-false-alarms.md) [+M] — learners who differ on it differ in outcomes
+- [No significant difference was found between pretest and posttest knowledge-test scores over the 4-week period](../claims/no-significant-pretest-posttest-difference-clinical-reasoning.md) [-M] — measured as an outcome of the instruction studied
+- [Novices achieved high agreement with assessors in diagnosing infrarenal AAA (kappa > 0.8) but no agreement on localised suprarenal dilatation](../claims/novice-high-kappa-infrarenal-aaa-diagnosis.md) [~M] — learners who differ on it differ in outcomes
+- [Novices prefer positive feedback while experts seek out negative feedback](../claims/novices-prefer-positive-experts-seek-negative-feedback.md) [+M] — learners who differ on it differ in outcomes
+- [Novices' transverse-plane segmental aortic measurements fell outside clinically acceptable limits, worst at the suprarenal segment](../claims/novice-transverse-measurements-unacceptable-variability.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

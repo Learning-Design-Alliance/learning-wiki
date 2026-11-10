@@ -53,3 +53,4 @@ Sensitivity analysis removing each study sequentially to assess its influence on
 - [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related
 - [Sensitivity analysis excluding five studies with inadequate randomization leaves the PBL effect on theoretical scores unchanged (SMD = 1.06)](pbl-sensitivity-analysis-robust-effect.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
+- [The pooled PBL effect is robust to exclusion of any single study, and no publication bias is detected](pbl-pooled-effect-robust-no-publication-bias.md) — related

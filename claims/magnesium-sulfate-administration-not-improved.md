@@ -49,3 +49,4 @@ Video analysis of matched simulation pairs (Table 2 reports 86.4% first vs 82.1%
 - [Time from blood pressure measurement to antihypertensive administration decreased non-significantly in simulated PE/E cases](time-to-antihypertensive-decreased-nonsignificant.md) — related
 - [Skills scores declined significantly across all five assessed HMS/HBS domains after training](hms-hbs-skills-decline-all-five-domains.md) — related
 - [After simulation-based nurse mentoring in Bihar, composite scores of history questions asked and management steps completed rose from first to last simulated preeclampsia/eclampsia cases in one group with no comparison group](simulation-mentoring-improved-pe-e-composite-scores.md) — related
+- [Trainees cascaded their new knowledge to colleagues, who reported learning skills such as neonatal resuscitation, vacuum extraction and magnesium sulfate use](etatmba-cascading-learning-to-colleagues.md) — related

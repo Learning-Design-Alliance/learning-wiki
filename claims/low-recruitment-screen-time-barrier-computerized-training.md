@@ -48,3 +48,4 @@ Descriptive recruitment figures reported in the discussion of the multicenter tr
 - [Low attendance at Saturday sessions was a barrier to implementation, driven by pupil availability, variable parental engagement, and limited recruitment time](hsom-low-attendance-barrier.md) — a broader claim this one bears on
 - [Participation in the animation course was very low, so trial results estimate the effect of eligibility rather than participation](animation-course-low-participation-eligibility-effect.md) — a broader claim this one bears on
 - [Adaptive computerized math training (XtraMath) produced higher teacher-rated academic growth than active working-memory control immediately after intervention in preterm first graders](xtramath-short-term-taas-growth-preterm.md) — related
+- [A consumer panel of target-group members supplied beliefs, barriers and recruitment input used to tailor intervention content](consumer-panel-informed-intervention-content.md) — related

@@ -55,3 +55,4 @@ Reliability analysis of the two blinded surgeons' video ratings of the 41 partic
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [Medical students who trained with the Touch Surgery chest tube insertion module scored significantly higher on directly observed OSATS performance than students trained with an irrelevant module](serious-game-osats-direct-performance.md) — related
 - [Blinded video-based raters also scored the serious-game group significantly higher, and combined direct-plus-video ratings confirmed the difference](serious-game-osats-video-ratings.md) — related
+- [Blinded expert observers rated the modified Peyton's small-group sessions highly on trainee comprehension, focus of attention, tutor self-assuredness and flow of training](modified-peyton-expert-ratings-high.md) — related

@@ -75,3 +75,4 @@ Same qualitative study, Experiencing theme. The analysis reports that learners "
 - [Non-clinicians at high risk of opioid overdose experienced the overdose simulation as realistic due to physical fidelity, emotional activation, and memory reactivation](overdose-simulation-realism-lived-experience.md) — related
 - [Dramatization-based simulation has technical limitations: not all procedures can be executed on simulated patients, and physiological outcomes cannot be controlled](technical-limitations-dramatization-simulation.md) — reports the opposite
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
+- [The Thiel embalming method, though not widely known and requiring careful procedures and dedicated structures, is reported as one of the best training tools for anatomical surgery](thiel-embalming-surgery-training-tool.md) — related

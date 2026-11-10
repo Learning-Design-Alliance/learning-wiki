@@ -55,3 +55,4 @@ A quasi-experimental study of 134 university students in an Electronic Commerce 
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) — related
 - [Students across all learning styles found mobile Facebook convenient and easy to use for uploading, editing, and viewing ideas](mobile-facebook-convenient-easy-interface-all-learning-styles.md) — related
 - [Convergent tasks improve EFL learners' writing significantly more than divergent tasks](convergent-tasks-improve-efl-writing-more-than-divergent.md) — related
+- [No included study used a pre-posttest or controlled trial design, and there is no conclusive evidence that medical students benefit from Facebook as a learning environment on higher competence levels](no-controlled-studies-facebook-educational-effectiveness.md) — related

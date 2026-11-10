@@ -78,6 +78,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Structure surgical skills courses as short weekly spaced sessions instead of a single massed day](spaced-weekly-sessions-surgical-skills-courses.md)
 - [Shorten CPR retraining intervals and add practice opportunities, plus promote first-aid law awareness, to improve student CPR awareness](shorten-cpr-training-interval-strategy.md)
 - [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
+- [Structure self-directed e-learning with a delivery schedule over fixed time periods and recurrent facilitator-led feedback sessions](scheduled-elearning-with-facilitator-feedback-sessions.md)
 
 ## Examples
 -

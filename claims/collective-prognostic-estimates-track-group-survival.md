@@ -48,3 +48,4 @@ Group-level calibration analysis of the 800 phase 3 probabilistic estimates, tes
 ## Related Claims
 - [Prognostic errors are direction-dependent: survival is overestimated for patients surviving under 9 months and underestimated for those surviving longer](overestimation-under-9-months-underestimation-beyond.md) — related
 - [Probabilistic surprise question accuracy collapses in the mid-range of the confidence spectrum (54.5% for 40%–60% answers) but reaches 89.9% at the extremes](probabilistic-sq-midrange-coin-flip-accuracy.md) — related
+- [Physicians are reported to be reluctant to make prognostic predictions and discuss objective prognostic estimates with patients only 15% of the time](physicians-reluctant-discuss-prognosis-15-percent.md) — related

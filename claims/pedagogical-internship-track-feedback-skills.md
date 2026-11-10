@@ -51,3 +51,4 @@ Interview quote from Respondent 5 in the 'Emphasizing feedback' subtheme, identi
 - [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — a broader claim this one bears on
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related
+- [Leadership training was the component trainees most strongly valued, enabling them to change their own practice and initiate change in their facilities](etatmba-leadership-training-enabled-practice-change.md) — related

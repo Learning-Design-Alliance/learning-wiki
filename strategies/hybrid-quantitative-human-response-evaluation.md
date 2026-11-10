@@ -40,6 +40,7 @@ The article recommends evaluating LLM-generated analytical responses with both a
 ## Related Strategies
 
 - [Design guidelines for future LLM evaluation tools: configurable metric views, tighter metric-rubric integration, and comparison-foregrounding visualizations](design-guidelines-llm-evaluation-tools-education.md)
+- [Combine qualitative and quantitative methods with theory-based analysis when evaluating exchange programs](combine-qual-quant-theory-based-exchange-evaluation.md)
 
 ## Examples
 -
