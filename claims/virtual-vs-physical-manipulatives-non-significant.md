@@ -46,3 +46,4 @@ Separate random-effects meta-analysis of 7 studies (7 effect sizes, 393 students
 
 ## Related Claims
 - [Manipulatives use during mathematics instruction yields a small statistically significant achievement advantage over nonuse in grades PK-12](manipulatives-use-small-significant-advantage-over-nonuse.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — related

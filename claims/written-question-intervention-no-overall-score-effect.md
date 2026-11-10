@@ -50,3 +50,4 @@ Randomized controlled trial during a bachelor General Pathology course; 444 stud
 - [The written-question intervention is associated with a 0.5-point higher tumour pathology subscore in male students, at borderline significance (d = 0.35)](written-question-intervention-male-students-effect.md) — related
 - [The written-question intervention shows no learning effect in female students (difference 0.1, p = 0.75, effect size 0.04)](written-question-intervention-no-female-effect.md) — a narrower finding that bears on this claim
 - [The interim assessment benefit was largest on formal examination questions related to the assessed topic (0.47 points on tumour pathology)](interim-assessment-topic-specific-subscore-gain.md) — related
+- [Pass rates for formulating a focused clinical question rose from 22.9% to 28.3% after the short course, a non-statistically significant change in one uncontrolled pre-post study](question-formulation-weak-nonsignificant-gain.md) — related

@@ -64,3 +64,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [Exam question format (percentage of constructed-response questions) does not differentially affect male and female students of equal prior academic ability in introductory biology](exam-format-no-gender-differential-intro-biology.md) — related
 - [Demographic variables do not predict peer leaders' critical thinking gains](demographics-not-indicators-ct-gains.md) — related
 - [No significant interaction between section type (hybrid vs. traditional) and ethnicity or class standing on final scores](no-interaction-section-type-ethnicity-standing.md) — a narrower finding that bears on this claim
+- [No significant difference in recall between video podcast and live lecture holds across topics, genders and prior academic performance subgroups](recall-equivalence-robust-across-subgroups.md) — related

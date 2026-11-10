@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 192 claims (152 show a difference, 28 mixed, 12 no difference) · 166 studies (66 causal, 30 review, 24 qualitative, 14 associational, 14 design, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 166 report an effect size · 192 claims rest on one study
+> **Evidence** · 193 claims (153 show a difference, 28 mixed, 12 no difference) · 167 studies (66 causal, 30 review, 24 qualitative, 15 design, 14 associational, 12 quant-synthesis, 6 theoretical), `q1`–`q3` · 16 of 167 report an effect size · 193 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -234,6 +234,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [The article claims WeChat–PBL stimulates learning interest and enthusiasm, improves self-directed learning and enhances peer collaboration](../claims/wechat-pbl-overall-benefits-claim.md) [+W] — measured as an outcome of the instruction studied
 - [PBL shows significant pooled advantages over LBL on learning attitude, problem-solving skill, self-directed learning skill and collaborative skill](../claims/pbl-attitude-skills-outcomes-china.md) [+M] — measured as an outcome of the instruction studied
 - [Hospital-based supervisors rated new program graduates highest for teamwork, reflective practice and effective communication, with majorities rated clearly above the expected level](../claims/supervisors-rate-unsw-2009-graduates-high-teamwork-reflective-communication.md) [+M] — measured as an outcome of the instruction studied
+- [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](../claims/salg-strong-gains-modeling-content-process-cooperative.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

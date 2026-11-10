@@ -55,3 +55,4 @@ Paired t-test of 26 providers' standardised HBB Knowledge Checks (18 multiple-ch
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Total attitude scores (APuP) significantly improved after training (dz = 1.728)](apup-attitude-scores-improved-after-training.md) — related
 - [SCL-aHIT significantly increases provider knowledge of recognition and treatment of serious childhood illness immediately after training](scl-ahit-increases-provider-knowledge-acquisition.md) — related
+- [Post-training knowledge scores rose significantly above pre-training scores after the one-day RDT course](rdt-post-training-knowledge-score-increase.md) — related

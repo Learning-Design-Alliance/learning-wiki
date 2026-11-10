@@ -51,3 +51,4 @@ Crossover clustered randomized pilot trial of 32 fourth-year dental students; Ma
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
 - [No statistically significant difference in knowledge gains between live, flipped video, and interactive flipped methods (η² = 0.009)](no-between-group-difference-three-teaching-methods.md) — related
 - [Live lectures and videos produce similar learning outcomes in dental ergonomics, with no statistically significant difference between formats](live-lectures-videos-similar-ergonomics-outcomes.md) — related
+- [First-year clinical medical students show no statistically significant difference in multiple choice recall after video podcasts versus matched live lectures](video-podcast-recall-equals-live-lecture-rct.md) — related

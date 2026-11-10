@@ -49,6 +49,7 @@ The article recommends that medical schools treat near-peer teaching as "a delib
 ## Related Strategies
 
 - [Deploy trained recently graduated doctors as near-peer tutors for critical appraisal skills teaching where faculty resources are limited](trained-near-peer-tutors-critical-appraisal.md)
+- [Use junior doctors as near-peer tutors in roles beyond teaching delivery, including program design and organisation](junior-doctors-design-deliver-near-peer-revision-programs.md)
 
 ## Examples
 -

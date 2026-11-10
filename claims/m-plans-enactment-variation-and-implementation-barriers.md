@@ -73,3 +73,4 @@ Interviews and surveys asked teachers to reflect on efforts to incorporate MDPs,
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
 - [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
 - [Teachers describe physical activity in taught lessons as becoming routine practice in modern teaching, with variability in use](teachers-report-pa-lessons-becoming-norm.md) — related
+- [Clinical teachers apply the seven strategies flexibly, changing between them depending on situation, context and teacher preferences](strategies-used-flexibly-by-context.md) — related

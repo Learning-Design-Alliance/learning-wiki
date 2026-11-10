@@ -51,6 +51,7 @@ The article identifies a combination of teaching methods as effective for commun
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Pair BOPPPS with in-class communication practice (e.g. SBAR role-play) rather than micro-lectures for doctor-patient communication skills](boppps-inclass-communication-practice-strategy.md)
 - [Teach non-technical skills formally in surgical oncology education using structured modules, checklists, briefings, and bad-news communication training](nontechnical-skills-training-surgical-education-strategy.md)
+- [Use interactive training formats — role plays, skill rehearsal, video examples and practical worksheets — when teaching brief psychological strategies to health professionals](interactive-roleplay-rehearsal-training-strategy.md)
 
 ## Examples
 -

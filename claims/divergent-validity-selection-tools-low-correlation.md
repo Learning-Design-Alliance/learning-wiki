@@ -49,3 +49,4 @@ Pearson correlations calculated for admission total and dimension-item subtotal 
 - [UMAT total and dimension scores did not significantly predict any performance outcome in the integrated selection process](umat-not-predictive-of-medical-program-outcomes.md) — related
 - [UMAT scores correlate positively with early-year medical school GPA, most strongly at Institution A (r up to 0.48)](umat-correlates-early-year-medical-gpa.md) — related
 - [Prior academic achievement (UAI) is the strongest predictor of overall and knowledge-based outcomes in an integrated medical selection process, controlling for demographics](uai-strongest-predictor-medical-program-outcomes.md) — related
+- [Year 1 communication ratings inversely predicted year 5 OSCE performance for traditional curriculum students only](year1-communication-inverse-year5-osce-traditional.md) — related

@@ -71,3 +71,4 @@ Hierarchical regression with standardized test score in step one and slide-viewi
 - [Off-task laptop use decreased by about 7 minutes after monitoring surveys, but its negative relationship with exam scores was unchanged](offtask-use-drops-after-monitoring-surveys.md) — related
 - [Slide viewing during class is not related to seating position in the lecture hall](slide-viewing-not-related-to-seating-position.md) — related
 - [Academic engagement moderates the relationship between slide provision and exam performance](engagement-moderates-slide-provision-effect.md) — related
+- [Student pacing differed between laboratory and non-laboratory use of the virtual microscope, with more slides viewed per hour in lab but slightly longer per-slide viewing time outside lab](vm-viewing-pacing-in-lab-versus-out-of-lab.md) — related

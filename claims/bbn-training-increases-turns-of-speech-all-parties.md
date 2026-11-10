@@ -49,3 +49,4 @@ GEE analysis of LaComm turn counts in the randomised simulated consultation stud
 - [Trained residents use more assessment and supportive utterances in simulated triadic breaking bad news consultations](bbn-training-increases-assessment-support-utterances.md) — related
 - [A 40-h dyadic and triadic communication skills training programme lengthens the pre-delivery phase of breaking bad news in simulated triadic consultations](bbn-training-lengthens-pre-delivery-phase.md) — related
 - [After training, the simulated patient and relative express more medical and emotional words while residents use fewer medical and social words](bbn-training-shifts-utterance-content.md) — related
+- [Clinicians perceived that implementing the STAR communication skills lengthened consultations by about two to three minutes, a trade-off most viewed as worthwhile](star-consultations-lengthened-two-three-minutes-tradeoff.md) — related

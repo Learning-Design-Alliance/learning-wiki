@@ -68,6 +68,7 @@ Contests leverage goal-setting and incentive structures: specific, difficult goa
 - [Cooperative Learning](cooperative-learning.md) — team-based contests blend competition with collaboration
 - [Use weekly instructor-set challenges with no physical rewards to sustain intrinsic motivation on practice platforms](weekly-challenges-no-physical-rewards-strategy.md)
 - [Use competition between colleagues, more than between organisations, to motivate skills practice](colleague-competition-motivate-skills-practice.md)
+- [Run time-limited contests with small prizes that reward participation over performance to elicit posting in small online communities](small-prize-participation-contests-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — tracking and scoring are the contest's feedback engine

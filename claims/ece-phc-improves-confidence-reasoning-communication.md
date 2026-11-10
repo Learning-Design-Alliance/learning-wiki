@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-10
 sources:
   - id: widyandana-doni-majoor-gerard-scherpbier-albert-2012
     resource: "https://doi.org/10.1186/1472-6920-12-35"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ECE in PHC centers impacted positively in particular on students' confidence, clinical reasoning, and interpersonal communication. [→ Widyandana Doni; Majoor Gerard; Scherpbier Albert 2012](#widyandana-doni-majoor-gerard-scherpbier-albert-2012)

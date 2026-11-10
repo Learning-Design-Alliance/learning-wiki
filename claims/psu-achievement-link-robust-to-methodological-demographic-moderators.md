@@ -59,3 +59,4 @@ Univariate meta-regressions (Table 2) tested sex, region, PSU assessment, achiev
 - [The addiction–performance association held only among women and students without their own income in stratified analysis](addiction-performance-association-significant-only-women-no-income.md) — related
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
 - [Socio-demographic factors do not moderate the effect of parenting style on academic achievement](no-demographic-moderation-parenting-achievement.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — a narrower finding that bears on this claim

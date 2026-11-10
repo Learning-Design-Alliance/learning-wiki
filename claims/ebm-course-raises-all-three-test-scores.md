@@ -71,3 +71,4 @@ Control group (n = 28) tested before and after an unrelated non-EBM course showe
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — related
 - [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](online-ebm-course-domain-gains.md) — related
 - [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related
+- [A 4-hour interactive EBM workshop did not significantly improve internal medicine residents' EBM knowledge and skills test scores compared with control at 6 or 18 months](ebm-workshop-no-test-score-effect.md) — related

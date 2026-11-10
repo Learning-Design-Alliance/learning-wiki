@@ -49,3 +49,4 @@ Quasi-experimental classroom study with 314 game-playing students and 129 contro
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related
 - [Playing mathematical board games at school significantly increased 3rd-grade boys' introjected extrinsic motivation](board-games-raise-boys-introjected-extrinsic-motivation.md) — related
+- [The FOXRAB board game lets students contrast stochastic physical-model behavior with deterministic mathematical-model behavior](foxrab-stochastic-versus-deterministic-contrast.md) — related

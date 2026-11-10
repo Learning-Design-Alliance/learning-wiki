@@ -80,3 +80,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Only students interacting with a real nursing home resident reported increased empathy after the placement; the two simulated conditions did not](empathy-gain-only-traditional-placement.md) — related
 - [Students perceived that video made the PBL scenario seem more real by providing visual cues and context absent from text](vp-pbl-video-makes-scenario-real.md) — related
 - [Standardised patients perceived students' performance more positively than peer patients did, suggesting SP practice may foster professionalism](sps-perceive-students-more-positively.md) — related
+- [Students may need more one-to-one practice with patients and dedicated teaching in addition to integrated teaching for observable communication gains](one-to-one-practice-needed-beyond-integrated-teaching.md) — related

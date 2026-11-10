@@ -60,3 +60,4 @@ Descriptive demographic comparison of 68 respondents reported in Table 1: grade 
 - [The two cohorts were of equivalent academic standard before the module, with a non-significant mean prior-grade difference of 0.24](cohorts-equivalent-prior-achievement.md) — related
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
 - [Online and classroom PBL statistics students achieved similar examination results, with no meaningful difference between groups](online-pbl-statistics-similar-exam-outcomes.md) — related
+- [PBL graduates achieved better average grades in the final written national board examination than conventional graduates](pbl-graduates-better-board-exam-grades.md) — related

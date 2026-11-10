@@ -47,3 +47,4 @@ Template analysis of semi-structured interviews with 12 purposively sampled clin
 ## Related Claims
 - [Longer-serving clinical faculty show lower preference for teacher-centeredness, suggesting teaching conceptions shift with experience](longer-serving-faculty-less-teacher-centered.md) — related
 - [Fifty-one percent of surveyed postgraduate clinical teachers belong to a teacher-centered (transmission) cluster, with three distinct teacher profiles identified](three-teacher-clusters-transmission-majority.md) — related
+- [Lecturing, demonstrating and intervening align with a teaching-as-transmission perspective focused on the teacher's own knowledge and acting](lecturing-demonstrating-intervening-transmission.md) — related

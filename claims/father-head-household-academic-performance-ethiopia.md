@@ -56,3 +56,4 @@ In the multivariate model of the 399-child cross-sectional study, father head of
 - [Parents' socio-educational level predicts adolescent achievement, with maternal education a direct predictor and paternal education indirect](parental-education-predicts-adolescent-achievement.md) — reports the opposite
 - [Mothers' education predicts spelling and fathers' education predicts reading, but not math, in the fully adjusted model](parental-education-predicts-reading-spelling-rural-bangladesh.md) — related
 - [Non-repeat rates were higher among students with educated parents, enjoyment of medicine, and good family support](non-repeat-rate-sociodemographic-associations.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related

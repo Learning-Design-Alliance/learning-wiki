@@ -53,3 +53,5 @@ Longitudinal GEE analysis of 103 CHWs observed with a 20-step checklist at train
 - [Community health workers trained for half a day with a job-aid maintained or improved correct performance of critical malaria RDT steps over 12 months of community practice](chws-retain-rdt-critical-step-skills-12-months.md) — a narrower finding that bears on this claim
 - [Correct interpretation of faint positive RDT lines declined to 76.7% at 12 months, a skill-decay finding](faint-positive-interpretation-declines-12-months.md) — related
 - [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
+- [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related

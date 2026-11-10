@@ -53,3 +53,4 @@ ITT hierarchical linear modeling of the cluster RCT found "No statistically sign
 - [The karate intervention produced no significant benefits on total psychosocial difficulties or most SDQ subscales](karate-intervention-no-psychosocial-benefits.md) — related
 - [PATHS produced a primary effect increasing teacher-rated change in children's social–emotional competence (d = 0.47)](paths-primary-effect-teacher-rated-secchi.md) — related
 - [Usual school provision outperformed PATHS on the primary outcomes of teacher-rated peer problems and emotional symptoms](paths-primary-effects-favoring-usual-provision.md) — reports the opposite
+- [The course produced no significant change in child well-being as measured by the SDQ, with small non-significant declines in hyperactivity and total problems](koppouders-no-significant-child-wellbeing-change.md) — related

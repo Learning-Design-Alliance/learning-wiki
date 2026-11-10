@@ -49,3 +49,4 @@ Regression analysis of BSRE scores from 61 GP registrars in the quantitative pha
 - [Age, gender, and academic year predict academic achievement in pharmacology alongside perceptions](demographics-predict-pharmacology-achievement.md) — related
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — related
+- [Lower pre-course knowledge score independently predicts greater Research Ethics knowledge gain](lower-baseline-predicts-ethics-gain.md) — related

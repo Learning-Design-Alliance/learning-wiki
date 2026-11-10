@@ -55,3 +55,5 @@ Standardized questionnaire on attitudes administered to 895 final‐year student
 - [Students who wrote more than 10 prescriptions as undergraduates and those with higher prescribing confidence had significantly lower rates of inappropriate drug prescribing](prescribing-experience-and-confidence-reduce-errors.md) — related
 - [Final-year students lack pharmacovigilance competencies, particularly knowledge of adverse drug reaction reporting](students-lack-pharmacovigilance-competencies.md) — related
 - [Most medical students find it difficult to question authority, worry about disciplinary action for errors, and few feel able to approach someone practising unsafely](students-speak-up-barriers-authority-discipline.md) — related
+- [Pre-course, most final-year students lacked confidence and felt unprepared for the final OSCE](pre-course-osce-confidence-low.md) — related
+- [GPs/FPs in all four countries lacked the knowledge, skills and attitude to optimize therapy decision-making, including confidence with new treatments and insulin therapy](therapy-decision-making-gaps-all-four-countries.md) — related

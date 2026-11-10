@@ -47,6 +47,7 @@ The article describes using standardized patients including trained actors, comm
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 - [Acting/Role Play](acting-role-play.md)
 - [Role Play](role-play.md)
+- [Role play-based assessment of therapist competence with simulated patients](role-play-based-competence-assessment.md)
 
 ## Examples
 -

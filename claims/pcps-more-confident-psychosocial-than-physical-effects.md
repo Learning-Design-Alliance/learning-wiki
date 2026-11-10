@@ -51,3 +51,4 @@ Systematic review synthesis of eight included survey studies on PCP confidence i
 - [PCPs report stronger skills in detecting cancer recurrences (62–78%) than confidence to screen for recurrence (6–42%)](pcp-recurrence-detection-knowledge-confidence-gap.md) — related
 - [Qualitative studies consistently describe PCPs' lack of knowledge for survivorship care, with confidence depending on experience, sex, and survivor population](qualitative-pcp-lack-of-knowledge-moderators.md) — related
 - [Physicians' psychosocial competencies and personal commitment correlated positively with their frequency of integrating psychosocial care](competencies-commitment-correlate-integration.md) — related
+- [Management-phase gaps: physicians in all four countries lacked formal training in counseling and coaching patients, with suboptimal therapeutic relationships and limited understanding of psychosocial adherence issues](counseling-coaching-training-gap-management.md) — related

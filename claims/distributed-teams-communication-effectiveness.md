@@ -67,3 +67,4 @@ Narrative review citing Chidambaram (1996) on dispersed team communication over 
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — related
+- [Dispersed videoconferencing students rated interaction highest and were observed interacting more than co-located students](dispersed-videoconference-highest-interaction.md) — related

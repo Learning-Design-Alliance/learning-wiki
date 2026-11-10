@@ -49,3 +49,4 @@ This conclusion rests on the whole fidelity and competency assessment: only 72.4
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — a broader claim this one bears on
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — a narrower finding that bears on this claim
+- [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related

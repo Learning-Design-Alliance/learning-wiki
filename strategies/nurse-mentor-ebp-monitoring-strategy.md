@@ -58,6 +58,7 @@ Ten ICU nurses were recruited as mentors, trained for one week by the research t
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 - [Provide targeted, structured learning strategies — mentorship and peer learning — for ICU nurses with low autonomous learning capacity](targeted-strategies-low-autonomous-learning-nurses.md)
 - [On-site nurse mentoring programme with regular facility visits integrating case sheets as teaching aids](on-site-nurse-mentoring-visits-strategy.md)
+- [Use activated demonstration at the bedside to build skills for disparity-sensitive care](activated-demonstration-disparities-skills.md)
 
 ## Examples
 -

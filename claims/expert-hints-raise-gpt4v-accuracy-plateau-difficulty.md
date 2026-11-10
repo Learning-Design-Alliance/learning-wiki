@@ -53,3 +53,4 @@ Analysis of GPT-4V on 150 AMBOSS image questions across five difficulty levels, 
 - [GPT-4V's accuracy was inconsistent across medical subdomains, high in some (e.g. immunology 100%) and low in others (e.g. anatomy 25%)](gpt4v-subdomain-performance-inconsistent.md) — related
 - [In a simulated curbside consultation, GPT-4V required multiple specific physician-guided prompts to interpret complex case data accurately](curbside-consultation-required-multiple-prompts.md) — related
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
+- [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — related

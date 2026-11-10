@@ -48,3 +48,4 @@ Cross-sectional Survey Monkey survey of all students (n = 358 registered; 86 res
 - [Most student respondents perceived that SDL sessions improved their performance of the specific skills practised](students-perceive-sdl-improves-practised-skills.md) — related
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
 - [Self-assessed competency increased significantly for four of five SDL component skills, but not for critical thinking](four-of-five-sdl-skills-significant-increase.md) — related
+- [Students and faculty prefer multiple smaller exams over one final exam, and students wish for more self-guided study time](students-faculty-prefer-frequent-smaller-exams.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 321 claims (205 show a difference, 63 mixed, 53 no difference) · 200 studies (77 associational, 69 causal, 28 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 49 of 200 report an effect size · 313 claims rest on one study
+> **Evidence** · 322 claims (206 show a difference, 63 mixed, 53 no difference) · 201 studies (77 associational, 69 causal, 28 review, 10 quant-synthesis, 7 theoretical, 6 qualitative, 4 design), `q1`–`q4` · 49 of 201 report an effect size · 314 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -357,6 +357,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Anxiety about specific active learning practices varies by class/instructor, with clicker anxiety differing among all three courses](../claims/practice-anxiety-varies-by-instructor.md) [~M] — measured as an outcome of the instruction studied
 - [Mathematics anxiety correlates negatively with mathematics performance in both girls and boys, more strongly in girls](../claims/ma-performance-correlation-gender-difference.md) [+M] — learners who differ on it differ in outcomes
 - [Test anxiety correlates negatively with mathematics performance more strongly in girls than in boys](../claims/ta-performance-correlation-gender-difference.md) [+M] — learners who differ on it differ in outcomes
+- [Group work with manipulatives transforms mathematical problem solving into a social activity, decreasing student anxiety and increasing engagement](../claims/manipulative-group-work-reduces-anxiety-increases-engagement.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

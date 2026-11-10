@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 299 claims (173 show a difference, 84 mixed, 42 no difference) · 235 studies (86 causal, 41 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 235 report an effect size · 282 claims rest on one study
+> **Evidence** · 301 claims (174 show a difference, 85 mixed, 42 no difference) · 236 studies (87 causal, 41 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 236 report an effect size · 284 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -347,6 +347,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices' transverse-plane segmental aortic measurements fell outside clinically acceptable limits, worst at the suprarenal segment](../claims/novice-transverse-measurements-unacceptable-variability.md) [+M] — learners who differ on it differ in outcomes
 - [Experts show longer fixation durations only in ELN videos, with no overall expertise main effect](../claims/fixation-duration-expertise-video-interaction.md) [~M] — an instructional effect differs with it
 - [GP knowledge of the patient and prior consultations appears to allow abbreviated communication without exploration of background](../claims/gp-patient-knowledge-allows-abbreviated-communication.md) [+M] — learners who differ on it differ in outcomes
+- [Experts resect a greater percentage of the virtual myoma than novices at baseline in the Myoma Resection Module](../claims/vrhs-myoma-resection-experts-outperform-novices.md) [+M] — learners who differ on it differ in outcomes
+- [Novice myoma resection improves from about 65% to 89% after practice, approaching significance but remaining below expert performance](../claims/vrhs-myoma-resection-novice-improvement-mixed.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
@@ -366,6 +368,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [4C/Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — explicitly sequences learning tasks from simple-to-complex based on learner entry knowledge.
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why novice/expert differences reverse the effectiveness of guidance and example formats.
 - [Adapt worked-example sessions for high and low prior-knowledge students who did not benefit](../strategies/adapt-worked-examples-for-high-low-prior-knowledge.md)
+- [Adapt AGREE II instruction to learners' prior knowledge: offer e-learning to true novices, streamlined materials to experienced learners](../strategies/adapt-instruction-to-prior-knowledge-agree2.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Core Academic Literacies (Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-4-8/factors/core-academic-literacies-portrait-of-a-learner-4-8/summary). Licensed CC BY-NC 4.0.

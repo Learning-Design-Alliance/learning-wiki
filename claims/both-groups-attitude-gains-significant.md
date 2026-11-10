@@ -51,3 +51,4 @@ Paired-samples t-tests on Mathematics Attitude Questionnaire scores (n=30 per gr
 - [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](journal-writing-wtl-positive-science-attitude-change.md) — related
 - [Project based learning improved students' attitudes toward mathematics more than traditional teaching](pbl-improved-mathematics-attitudes.md) — related
 - [Peer education and traditional teaching both improved attitudes toward physical education, with no significant difference between the two groups.](peer-education-no-group-difference-pe-attitudes.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — related

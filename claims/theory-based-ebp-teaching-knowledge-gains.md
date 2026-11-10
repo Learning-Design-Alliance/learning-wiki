@@ -52,3 +52,4 @@ Review synthesis of knowledge outcomes measured at completion of the interventio
 - [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](nursing-ebp-efficacy-scores-increased.md) — related
 - [A web-based EBP tool usable from computer, smartphone, or iPad significantly improved overall research skills among nursing and nutrition student groups](web-based-ebp-tool-improved-research-skills.md) — related
 - [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related
+- [Residents with prior formal EBP training score higher at baseline but show similar responsiveness to the course](prior-ebp-training-higher-baseline-similar-gain.md) — related

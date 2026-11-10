@@ -58,3 +58,4 @@ Voluntary post-session evaluation by 53 of 58 participants at three institutions
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
+- [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related

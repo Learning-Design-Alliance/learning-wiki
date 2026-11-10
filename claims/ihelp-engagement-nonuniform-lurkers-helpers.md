@@ -49,3 +49,4 @@ Observational finding from iHelp deployment data over its 10-year use. The artic
 - [A cluster of highly active learners driving the learning communities included equally many low-hierarchy as high-hierarchy members](active-driver-cluster-includes-low-hierarchy-leaders.md) — related
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
 - [PHelpS proved easy to use and mostly recommended good peer helpers in a proof-of-concept test with real CSC workers](phelps-proof-of-concept-peer-help.md) — related
+- [Over the study, 45% of community members posted at least once, 20% were lurkers, and page views correlated strongly with posting (r = 0.65)](posting-lurking-and-viewing-rates-suh.md) — related

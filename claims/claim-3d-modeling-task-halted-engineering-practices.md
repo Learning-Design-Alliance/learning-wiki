@@ -55,3 +55,4 @@ Process-rug analysis reported in the Findings section: after a fifth-session ins
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
 - [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
+- [Intervening, in which the teacher interrupts and takes over the situation, could impair students' learning process and the teacher-student relationship](intervening-can-impair-learning.md) — related

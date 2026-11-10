@@ -82,3 +82,4 @@ Multicentre RCT in which 65 residents performed 139 ETIs, comparing simulation-b
 - [Just-in-time training videos before procedures yield faster learning and more successful performance than reading textbooks (Level 1b, Grade B)](jitt-videos-faster-learning-procedural-skills.md) — related
 - [First-pass endotracheal intubation success did not differ between cadaver-trained and manikin-trained students](cadaver-vs-manikin-first-pass-success-null.md) — related
 - [Within the expert-led+AI group, interns who completed 3 AI practice sessions showed higher technical performance and pass rates than those with 1 or 2 sessions](three-ai-practice-sessions-higher-tp-pass-rate.md) — related
+- [Additional mannequin simulation training beyond a brief session does not improve medical students' LMA placement success ratings in real patients](additional-mannequin-training-no-lma-placement-benefit.md) — related

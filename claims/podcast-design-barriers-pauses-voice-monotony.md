@@ -53,3 +53,5 @@ Qualitative Framework Analysis of four FGDs (three at Centre 1, one at Centre 2;
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related
 - [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](cognitive-load-management-in-inquiry-simulation-learning.md) — related
 - [Students requested richer content and improved audio, video and download quality when asked to suggest podcast improvements](podcast-improvement-suggestions-content-and-quality.md) — related
+- [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
+- [Students value video podcasts mainly for convenience of on-the-go, anywhere learning](podcast-valued-for-convenience.md) — related

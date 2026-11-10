@@ -53,3 +53,4 @@ Focus group content analysis at two Tanzanian hospitals; informants across cadre
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Simulator features that realistically simulate basic PPH management steps may have supported learning of those skills](realistic-simulator-features-support-basic-skill-learning.md) — related
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
+- [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](mannequin-low-fidelity-participant-feedback-lma.md) — related

@@ -55,3 +55,4 @@ Post-simulation descriptive statistics and Kruskal–Wallis comparisons across a
 - [Total SCLS scores differed significantly by teaching shift and academic year, with morning-shift and second-year students scoring higher](scls-scores-shift-and-academic-year-differences.md) — reports the opposite
 - [Third- and fourth-year medical students reported high overall satisfaction (85%) with simulation based learning](sbl-high-satisfaction-85-percent-medical-students.md) — related
 - [No significant difference in SBL satisfaction or challenge scores by year of education (p=0.62; p=0.99)](sbl-satisfaction-no-year-of-study-difference.md) — reports the opposite
+- [No significant differences in performance or ratings between lower-year (first and second) and higher-year (third and fourth) medical students](no-year-level-differences-performance-ratings.md) — related

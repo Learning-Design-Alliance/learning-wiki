@@ -48,3 +48,4 @@ Random-effects inverse variance weighted meta-analysis of 14 studies (14 effect 
 - [Virtual manipulatives show a non-significant advantage over physical manipulatives on mathematics achievement](virtual-vs-physical-manipulatives-non-significant.md) — related
 - [Prior reviews and meta-analyses of manipulative use yielded conflicting findings, with mean effect sizes ranging from zero to 1.03](prior-manipulatives-meta-analyses-conflicting.md) — related
 - [Moderator analyses for manipulative effects are inconclusive, with no discernable heterogeneity across participant and intervention characteristics](manipulative-moderators-inconclusive-no-heterogeneity.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — a narrower finding that bears on this claim

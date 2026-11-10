@@ -49,3 +49,4 @@ Exploratory multilevel subscale analyses of the Working Alliance Inventory in th
 - [Psychological distress decreased significantly from baseline to post-treatment in group-based MBCT completers](distress-reduction-group-mbct-cancer-completers.md) — related
 - [Group cohesion did not significantly predict reduction of psychological distress after group-based MBCT](group-cohesion-not-predicting-mbct-outcome.md) — related
 - [Observer-rated therapist competence did not predict reduction of psychological distress after group-based MBCT](therapist-competence-not-predicting-mbct-outcome.md) — related
+- [Both CTS competency subscales show significant between-group differences at follow-up after training](cts-subscales-both-improve-after-training.md) — related

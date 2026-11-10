@@ -53,6 +53,7 @@ The article recommends assigning trained near-peer tutors to teach critical appr
 
 - [Use peer-assisted learning by PGY-II residents to staff simulation-based learning where expert tutors are scarce](pgy2-peer-tutors-for-simulation-tutor-shortage.md)
 - [Integrate near-peer teaching as a deliberate design choice and capitalize on the complementary strengths of near-peer and faculty instructors](capitalize-complementary-near-peer-faculty-strengths.md)
+- [Use junior doctors as near-peer tutors in roles beyond teaching delivery, including program design and organisation](junior-doctors-design-deliver-near-peer-revision-programs.md)
 
 ## Examples
 -

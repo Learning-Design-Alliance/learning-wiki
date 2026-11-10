@@ -50,3 +50,4 @@ Review synthesis of CHW characteristic studies (e.g. Crispin et al. 2012 in Keny
 - [Longer service delivery time and more time spent on the job were associated with higher CHW performance](service-delivery-time-associated-chw-performance.md) — related
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
 - [Clearly defined CHW roles and clear communication processes among health system levels could strengthen CHW performance](clear-roles-communication-strengthen-chw-performance.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related

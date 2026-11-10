@@ -94,3 +94,4 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
 - [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

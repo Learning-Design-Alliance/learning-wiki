@@ -75,3 +75,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [Programme completion was not associated with care home ownership, type, size, prior end of life care training, or resident characteristics](no-association-home-characteristics-training-uptake.md) — related
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related

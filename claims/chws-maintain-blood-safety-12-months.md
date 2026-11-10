@@ -49,3 +49,4 @@ Observer checklist assessment of blood-safety steps at 3, 6, and 12 months. All 
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
 - [Over a third of students experienced needle-stick injuries but only 20.2% followed correct post-injury protocols](needlestick-injuries-low-protocol-adherence.md) — related
 - [Community health workers trained for half a day with a job-aid maintained or improved correct performance of critical malaria RDT steps over 12 months of community practice](chws-retain-rdt-critical-step-skills-12-months.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related

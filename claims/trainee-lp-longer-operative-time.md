@@ -56,3 +56,4 @@ In the same retrospective cohort (n=77; operative time reported for n=71), Table
 - [Median operative duration of TT cases was 65 minutes, comparable to published attending-supervised and consultant times](tt-operative-duration-65-minutes.md) — related
 - [Procedures rated difficult take significantly longer than non-difficult procedures, while trainee experience shows no significant operating-time difference](difficult-procedures-longer-operating-time.md) — related
 - [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related
+- [Prior studies report learning curves for laparoscopic pyloromyotomy of roughly 30 cases, reflected mainly in decreasing operating time](prior-lp-learning-curve-operating-time.md) — related

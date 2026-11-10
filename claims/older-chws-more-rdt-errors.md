@@ -53,3 +53,4 @@ GEE modelling of error counts across baseline and 12-month observations for 103 
 - [Female gender, age 65 years or older, colorectal cancer, diverticular disease and stricture are associated with colonoscopy incompletion in trainees' procedures](patient-factors-colonoscopy-incompletion.md) — related
 - [CHWs maintained blood-safety practices over 12 months, with no needle-stick injuries observed or reported and only isolated lancet and glove errors](chws-maintain-blood-safety-12-months.md) — related
 - [Time since training and CHW age were significantly associated with perfect performance on critical RDT steps in GEE regression](time-and-age-predict-critical-step-perfection.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related

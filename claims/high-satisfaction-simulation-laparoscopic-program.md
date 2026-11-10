@@ -58,3 +58,4 @@ Descriptive Kirkpatrick level-1 (reaction) results from the end-of-program quest
 - [Learner satisfaction with the telestroke simulation training is excellent, with more than 95% rating it 5/5](high-satisfaction-telestroke-simulation-training.md) — related
 - [All residents rated the training very important and approved it despite having little prior box trainer and no animal training experience](residents-rated-training-very-important.md) — related
 - [Midwives rated the compact training highly, with 81% rating it excellent and all stating they would recommend it](high-satisfaction-compact-training.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

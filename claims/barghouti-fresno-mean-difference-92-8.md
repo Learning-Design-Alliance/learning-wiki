@@ -57,3 +57,4 @@ Before-and-after study of a short multifaceted EBM course for 5th-year medical s
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
 - [FC-EBM students scored significantly higher on every Fresno component, with the largest gap in clinical application](fresno-component-scores-clinical-application-largest-gap.md) — related
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related

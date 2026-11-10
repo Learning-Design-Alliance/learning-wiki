@@ -46,3 +46,4 @@ This is background literature cited in the Introduction to motivate the study, n
 
 ## Related Claims
 - [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — related
+- [Deliberate practice relies on learners identifying their own weaknesses, yet medical learners' self-assessment ability is limited.](self-assessment-limits-deliberate-practice.md) — possibly the same claim (merge candidate)

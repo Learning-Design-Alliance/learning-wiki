@@ -54,3 +54,4 @@ Final evaluation feedback collected from the 2014 and 2015 intern cohorts after 
 - [Students strongly favored the jigsaw peer learning module, with 93% rating it good or excellent and 94% endorsing regular use](student-feedback-favors-jigsaw.md) — related
 - [Learners reported high satisfaction, rating the simulation 97% relevant, 97% effective, and 90% high quality](brown-bag-simulation-high-satisfaction.md) — related
 - [Trainees reported improved skills and self-confidence and supported making the at-home curriculum part of regular residency training](questionnaire-supports-curriculum-adoption.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

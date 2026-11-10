@@ -65,3 +65,4 @@ Inter-rater analysis of rubric-component scores from 231 pre-service teachers gr
 - [The AIPCAP checklist shows good reliability, with kappa above 0.40 in all evaluated comparisons](aipcap-checklist-kappa-reliability.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
 - [Inter-rater agreement among PBL tutors is low for most groups, with only three groups reaching moderate agreement](low-icc-agreement-pbl-tutor-ratings.md) — possibly the same claim (merge candidate)
+- [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related

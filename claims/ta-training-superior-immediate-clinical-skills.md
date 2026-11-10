@@ -54,3 +54,5 @@ Randomised controlled trial: 81 students who consented to videotaping (32 contro
 - [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related
 - [Skill complexity moderates the BPSL advantage: the more complex skill (IVC) shows a larger immediate benefit, while the simpler skill (NGT) benefits more in long-term retention](complexity-moderates-bpsl-advantage.md) — related
 - [Students rate patient educators significantly higher than physician tutors on ten of fourteen instructor evaluation questions](patient-educators-rated-higher-on-instructor-evaluations.md) — related
+- [Whether peer-led training yields as many High Pass OSCE grades as expert-led training is inconclusive; the expert-led advantage could exceed the 20% boundary](high-pass-peer-vs-expert-inconclusive.md) — related
+- [Peer-led advanced resuscitation training achieves first-time OSCE Pass rates non-inferior to expert-led training among medical students](peer-led-resuscitation-osce-pass-non-inferior.md) — related

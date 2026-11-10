@@ -50,3 +50,4 @@ Phenomenological interview study of 27 Cape Town family physicians analysed with
 - [Family physicians viewed guideline contextualisation as fundamental, with adaptation done as a team and owned at facility level](claim-team-contextualisation-ownership.md) — related
 - [Family physicians reported that workshop training on a guideline made adherence much more likely than passive circulation](claim-workshop-training-guideline-adherence.md) — related
 - [Time constraints, lack of financial resources and health system organisation were identified as major barriers to guideline implementation](claim-implementation-barriers-time-resources.md) — related
+- [Management-phase gaps: physicians in all four countries lacked formal training in counseling and coaching patients, with suboptimal therapeutic relationships and limited understanding of psychosocial adherence issues](counseling-coaching-training-gap-management.md) — related

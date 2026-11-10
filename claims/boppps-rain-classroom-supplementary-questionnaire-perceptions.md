@@ -69,3 +69,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
 - [Students reported close-to-moderate perceived gains in problem-solving and knowledge-construction abilities](perceived-learning-gains-close-to-moderate.md) — related
 - [Students responded favorably to collaborative testing, reporting high involvement, reduced stress, and interest in future group-testing classes](positive-student-perceptions-collaborative-testing.md) — related
+- [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](salg-strong-gains-modeling-content-process-cooperative.md) — related

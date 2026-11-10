@@ -68,3 +68,4 @@ Item-level paired samples t-test from the utilization scale (Table 2), pre-test 
 - [Residents' self-rated confidence using MI skills rose from pre-test to post-test and remained elevated at 1-month follow-up in one uncontrolled pre-post study](brief-mi-didactic-confidence-gains-residents.md) — related
 - [Residents' MI knowledge scores rose from pre-test to post-test and remained higher at 1-month follow-up in a single-group pre-post study of a 1-h MI didactic](brief-mi-didactic-knowledge-gains-residents.md) — related
 - [At 6-month follow-up, MECC HCS-trained physiotherapists used significantly more open discovery questions than untrained treatment-as-usual physiotherapists](mecc-hcs-trained-vs-tau-odq-6month.md) — related
+- [Open Questions skill was not retained after October 2006](open-questions-skill-not-retained-after-october-2006.md) — related

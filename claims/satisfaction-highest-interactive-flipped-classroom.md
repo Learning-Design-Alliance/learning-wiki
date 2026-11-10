@@ -48,3 +48,4 @@ Post-intervention Likert-scale perception questionnaires (adapted from a validat
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
 - [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

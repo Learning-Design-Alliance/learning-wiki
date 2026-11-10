@@ -52,3 +52,4 @@ Manifest content analysis of open-ended responses from 28 of the 29 participants
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — a broader claim this one bears on
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
+- [Group-based feedback identified empowerment gains and new counselling concepts, alongside barriers including negative professional reactions](group-feedback-empowerment-barriers.md) — related

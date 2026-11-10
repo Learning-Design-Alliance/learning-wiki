@@ -48,6 +48,7 @@ A just-in-time clinical teaching recipe for limited time, based on "five micro s
 
 - [Just-in-time training: stop-and-go simulation debriefing and over-the-shoulder clinical coaching](just-in-time-stop-and-go-over-the-shoulder.md)
 - [Match the clinical teaching model to the encounter type and learner level](match-teaching-model-to-encounter-type.md)
+- [Teach evidence-based general rules (One Minute Preceptor) to address knowledge gaps about disparities](general-rules-one-minute-preceptor-disparities.md)
 
 ## Examples
 -

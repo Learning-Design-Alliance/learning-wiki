@@ -58,3 +58,4 @@ Pre-post evaluation of information-seeking behaviors among final-year medical st
 - [EBM-trained students use PubMed/Medline, Medscape and the Cochrane Library significantly more, while use of Google, Google Scholar and Wikipedia does not differ](ebm-training-increases-database-use.md) — related
 - [Medical postgraduate students' attitude scores toward online literature searching rose from before to after a 4-month literature search training course in a single-group pre-post study without a comparison group](training-improves-attitudes-toward-online-searching.md) — related
 - [Self-reported EBP tool use is moderate: 53.1% read 2-5 articles monthly and 39.7% searched PubMed/MedLine 2-5 times per month](colombian-pts-moderate-ebp-tool-use.md) — related
+- [Residents' literature searching and use of evidence-based resources increased significantly from PGY-1 to PGY-3](literature-searches-resources-increase-residency.md) — related

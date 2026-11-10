@@ -63,6 +63,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 - [Structure at-home laparoscopic training as deliberate practice with objective metrics, feedback and proficiency benchmarks](at-home-deliberate-practice-laparoscopic-curriculum.md)
 - [Integrate laparoscopic Anubifix™-embalmed human models into mandatory surgical anatomy courses](integrate-anubifix-models-mandatory-anatomy-courses.md)
+- [Position INVEST as an integrated component of a staged laparoscopic curriculum, not a stand-alone curriculum](invest-within-staged-laparoscopic-curriculum.md)
 
 ## Examples
 -

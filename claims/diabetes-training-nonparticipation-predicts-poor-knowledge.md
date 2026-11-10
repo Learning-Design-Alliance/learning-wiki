@@ -51,3 +51,4 @@ Binary logistic regression on questionnaire data from 64 PCPs in a cross-section
 - [Most primary care physicians rated their confidence in initiating insulin as low and few had ever prescribed outpatient insulin for type 2 diabetes](low-insulin-confidence-and-prescribing-among-pcps.md) — related
 - [Primary care physicians showed serious gaps in screening for diabetes complications, with no microalbuminuria testing and low foot examination rates](pcp-complication-screening-gaps-southeast-nigeria.md) — related
 - [Primary care physicians in Southeast Nigeria showed very poor knowledge of glycemic thresholds for diagnosing diabetes](poor-knowledge-glycemic-diagnostic-thresholds-pcps-nigeria.md) — related
+- [Common diabetes-care gaps extend beyond physician knowledge to skills, attitudes, behaviours and context](diabetes-gaps-beyond-knowledge-domain.md) — related

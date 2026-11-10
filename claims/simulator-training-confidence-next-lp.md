@@ -55,3 +55,4 @@ Exploratory questionnaire (Table 2, n = 122) after simulator training in both gr
 - [Trainees accept Peyton's approach well: Peyton-group students felt they learned more and control-group women preferred the Peyton group](peyton-approach-acceptance-evaluation.md) — related
 - [Learner comfort and investigator-rated endoscope manipulation ratings were higher during the second endoscopy than the first, while patient-rated comfort and willingness to repeat did not change](learner-comfort-improves-patient-comfort-does-not.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
+- [Post-course, students reported improved confidence and clearer expectations for the OSCE](post-course-confidence-expectations-improved.md) — related

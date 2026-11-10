@@ -100,3 +100,4 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
 - [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
+- [No statistically significant difference existed between the blended and control groups on the pretest (p=0.7)](no-pretest-difference-dermatology-groups.md) — related

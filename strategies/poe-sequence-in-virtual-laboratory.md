@@ -50,6 +50,7 @@ POE is a constructivist strategy in which students first make a prediction about
 - [Conceptual Change](conceptual-change.md)
 - [Use PDEODE tasks (Predict-Discuss-Explain-Observe-Discuss-Explain) to facilitate conceptual change in chemistry topics](pdeode-six-step-teaching-strategy.md)
 - [Structure science lessons in four constructivist stages](four-stage-constructivist-lesson-strategy.md)
+- [Postactivity discussion resolves conflicting evidence across data types and connects student phylograms to scientific consensus](postactivity-discussion-multiple-evidence.md)
 
 ## Examples
 -

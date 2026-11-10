@@ -50,3 +50,4 @@ The introduction attributes to the final study by Lew and Schmidt a content anal
 - [A special-issue study examined under which conditions students in PBL feel more autonomous and engage more cognitively](pbl-cognitive-engagement-autonomy-study.md) — related
 - [A special-issue study applied a microanalytical approach to determine which tutor-related behaviors most affect students' knowledge construction and when during PBL](tutor-behaviors-knowledge-construction-microanalytic-study.md) — related
 - [A special-issue study used a quasi-experimental approach to compare the effects of worksheet scaffolds on student learning and academic achievement in PBL](worksheet-scaffold-quasi-experimental-study.md) — related
+- [Situational cognitive engagement during the PBL day correlates significantly with end-of-semester course grades](engagement-correlates-with-grades.md) — related

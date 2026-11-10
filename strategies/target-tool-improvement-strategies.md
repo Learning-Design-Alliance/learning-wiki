@@ -43,7 +43,8 @@ Based on the evaluation, the authors recommend concrete improvements to the TARG
 - [Time constraints, limited collaboration opportunities, colleague resistance, and school mobile-device policies were reported barriers to professional development with the TARGET-tool](../claims/target-tool-pd-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Complement existing writing instruction with a pre-class textual simulation plus curated reading materials and mentor forums](simulation-complement-to-writing-instruction-workflow.md)
 
 ## Examples
 -

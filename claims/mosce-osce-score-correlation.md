@@ -51,3 +51,4 @@ Pearson correlation analysis on the subset of students who took both the MOSCE a
 - [Summative OSCE scores were numerically higher in the peer-led mock OSCE group but did not reach statistical significance](mock-osce-osce-performance-non-significant-trend.md) — related
 - [Chi-square analyses found no relationship between mock OSCE participation (as examinee or standardized patient) and high versus low subsequent OSCE performance](mosce-participation-chi-square-null.md) — related
 - [Participation as an examinee in a student-led mock OSCE had no effect on subsequent third-year OSCE scores in medical students](mosce-participation-no-osce-score-effect.md) — related
+- [Student and professional scores on the same practice exams correlate highly (Pearson r = 0.61)](peer-professional-score-correlation-061.md) — related

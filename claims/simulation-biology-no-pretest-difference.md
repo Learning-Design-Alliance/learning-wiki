@@ -54,3 +54,4 @@ Pre-test comparison of 50 control and 50 experimental education students found m
 - [The control and experimental groups showed no significant difference in vocabulary knowledge at pre-test](blended-vocabulary-pretest-equivalence.md) — related
 - [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
+- [No statistically significant difference existed between the blended and control groups on the pretest (p=0.7)](no-pretest-difference-dermatology-groups.md) — related

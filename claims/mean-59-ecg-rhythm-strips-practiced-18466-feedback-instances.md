@@ -51,3 +51,4 @@ Observational cohort study of 314 consenting first-year students at two Canadian
 - [Diagnostic accuracy during practice increased significantly between modules 1-3 and possibly to module 5, while per-module practice time decreased through module 8](accuracy-increased-speed-increased-through-practice-modules.md) — related
 - [Summative examinations increase the odds of correctly identifying at least three of five ECG diagnoses about five-fold compared with formative examinations](summative-assessment-increases-ecg-diagnosis-odds.md) — related
 - [A majority (54%) of entitled students voluntarily used the VP module, averaging 91 minutes total use](voluntary-vp-uptake-54-percent.md) — related
+- [Decreasing the student/model ratio from 8 to 2 significantly increased the number of practice times but did not improve mean assessment scores](more-practice-opportunities-not-better-scores.md) — related

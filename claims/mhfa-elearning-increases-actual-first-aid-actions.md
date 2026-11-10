@@ -51,3 +51,4 @@ Non-ITT comparison of self-reported actions on a nine-item checklist in the pilo
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [Both eLearning and blended MHFA courses produce greater-than-large improvements in mental health first aid knowledge relative to a first aid control, with no significant difference between modes](mhfa-elearning-blended-knowledge-gains.md) — related
 - [The MHFA eLearning course decreased UK medical students' stigmatising attitudes (ITT)](mhfa-elearning-reduces-personal-stigma-itt.md) — related
+- [MHFA training does not change teachers' self-reported helping behaviours toward students or colleagues, their own mental health, or information seeking](mhfa-training-no-effect-teacher-helping-behaviour.md) — reports the opposite

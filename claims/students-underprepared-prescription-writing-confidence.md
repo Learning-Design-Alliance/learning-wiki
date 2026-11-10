@@ -79,3 +79,4 @@ Single-group study of 65 UK medical graduates using interviews, questionnaires a
 - [Nearly half of therapies chosen by European final‐year students were inappropriate and over half of prescriptions contained one or more prescribing errors](high-inappropriate-therapy-and-error-rates.md) — related
 - [Most European final‐year medical students lack confidence in prescribing skills and feel inadequately prepared and dissatisfied with their undergraduate CPT education](low-confidence-and-dissatisfaction-with-cpt-teaching.md) — possibly the same claim (merge candidate)
 - [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — a broader claim this one bears on
+- [Pre-course, most final-year students lacked confidence and felt unprepared for the final OSCE](pre-course-osce-confidence-low.md) — related

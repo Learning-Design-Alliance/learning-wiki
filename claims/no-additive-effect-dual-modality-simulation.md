@@ -50,3 +50,4 @@ In the RCT, the combined modality group did not outperform the single-modality g
 - [When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention](ic-ll-single-component-effects-nonsignificant.md) — related
 - [Most students preferred a mixture of VR and mannequin simulation over either single modality](students-prefer-mixed-vr-mannequin-approach.md) — related
 - [Combined traditional plus simulator training did not improve FAST skills over either training alone, suggesting the US simulator alone may be sufficient](combined-training-no-benefit-simulator-alone-sufficient.md) — possibly the same claim (merge candidate)
+- [An interactive practice exercise with expert-normed feedback did not improve AGREE II outcomes over a tutorial alone or a PDF User's Manual in this randomized trial](elearning-practice-exercise-no-benefit-over-manual.md) — related

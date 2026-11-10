@@ -76,3 +76,4 @@ Descriptive comparison of SP6 (fine motor skills) responses between HVRS and LAB
 - [Students reported that HVRS training improved their psychomotor skills and confidence, and cited unlimited repetitions and better visualization as main benefits](hvrs-perceived-skill-confidence-benefits.md) — related
 - [The null performance effect of HVRS augmentation is bounded by the pilot's small sample, single procedure, and participants' prior experience with both simulators](hvrs-pilot-study-limitations.md) — related
 - [Students rated HVRS visual realism favourably but found its tactile feedback unrealistic, with 79% reporting deroofing felt different between the two simulation environments](hvrs-tactile-realism-perceptions.md) — reports the opposite
+- [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](mannequin-low-fidelity-participant-feedback-lma.md) — related

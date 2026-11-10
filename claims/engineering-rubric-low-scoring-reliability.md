@@ -71,3 +71,4 @@ The one entry is a single class at Maui Community College: six scorers, six team
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
 - [The probable error of a score on the language error tests is 2.24](wilson-probable-error-224.md) — related
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — related
+- [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related

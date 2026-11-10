@@ -48,3 +48,4 @@ The review reports a mixed-methods study of 128 second-year nursing students at 
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
+- [First-year nursing students in class groups trained on a teacher-made IV injection model improved as much as those trained on a commercial model, with no significant difference in post-practice scores](teacher-made-model-equals-commercial-model-iv-training.md) — related

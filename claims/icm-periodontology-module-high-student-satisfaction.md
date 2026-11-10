@@ -55,3 +55,4 @@ Descriptive analysis of a 17-item questionnaire administered to the 55 participa
 - [Participants rated the simulation's effectiveness and performance very good or excellent, supporting content validity](vats-simulator-content-validity-rating.md) — related
 - [Learners rated the microlearning-based pharmacovigilance e-learning modules very highly, with over 90% selecting 'excellent' or 'good'](over-90-percent-rated-modules-excellent-or-good.md) — related
 - [The TUM hygiene courses received good to very good student evaluations across four semesters](tum-hygiene-course-evaluations-good.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

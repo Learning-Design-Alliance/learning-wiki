@@ -49,3 +49,4 @@ Logistic regression analysis of the 229 BLS trainees' post-training scores compa
 - [Most Ghanaian health care professionals trained through the Ghana Heart Initiative demonstrate adequate BLS knowledge and skills immediately after training (74.6%)](ghana-heart-initiative-bls-adequate-74-6-percent.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — reports the opposite
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
+- [Nursing assistants scored significantly lower on the post-training knowledge test than professional health workers](nursing-assistants-lower-post-training-scores.md) — related

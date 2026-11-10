@@ -45,7 +45,8 @@ The authors propose incorporating metaphors into the clinical toolkit, used when
 - [No individual metaphor performed better than others in ACEs simulation discussions; all averaged above the adequate threshold](../claims/no-superior-metaphor-aces-discussions.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Deliver a brief confidence-building educational programme that maps patient beliefs, explains pathoanatomy positively, and uses metaphors to reduce pain focus](confidence-building-non-injury-education-strategy.md)
 
 ## Examples
 -

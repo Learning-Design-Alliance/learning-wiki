@@ -51,6 +51,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Form heterogeneous student groups and rotate membership across Web 2.0 activities](heterogeneous-rotating-groups-web2-activities.md)
 - [Teacher intervention in peer grouping and timely feedback to keep peer-assisted learning objective](teacher-intervention-peer-grouping-timely-feedback.md)
 - [Keep tutorial group membership consistent across rotations to enable continuous group development](consistent-tutorial-group-composition-strategy.md)
+- [Compose heterogeneous PBL groups by the 'right mix' of academic ability and match facilitator expertise to group needs](right-mix-group-composition-strategy.md)
 
 ## Examples
 -

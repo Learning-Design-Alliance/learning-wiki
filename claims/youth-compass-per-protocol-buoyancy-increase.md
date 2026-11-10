@@ -51,3 +51,4 @@ Per-protocol analysis of the combined intervention group (n = 123) versus contro
 - [Intention-to-treat analyses show no statistically significant intervention effects of Youth COMPASS on stress or academic buoyancy](youth-compass-itt-null-effects.md) — related
 - [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — related
 - [Intervention gains are largest among adolescents with higher baseline stress, while buoyancy gains are unrelated to baseline buoyancy](baseline-stress-moderates-youth-compass-gains.md) — related
+- [Non-usage of the web-based intervention was high, and per-protocol subgroup analyses did not change the intention-to-treat findings](high-non-usage-attrition-web-trial.md) — reports the opposite

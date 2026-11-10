@@ -50,3 +50,4 @@ GLM repeated-measures analysis of two consecutive cohorts (25 professionals in 2
 - [Standardized-patient (ICSC) ratings of communication skills improve significantly for the 2009 cohort but not for the 2008 cohort](sp-icsc-ratings-improve-2009-not-2008.md) — related
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
 - [Faculty-rated communication skills in interviews with real patients do not differ significantly from ratings in interviews with standardized patients](real-patient-skills-match-standardized-patient-skills.md) — related
+- [Change in communication skills over time differed by cohort depending on the specific Interview Rating Scale item (three-way interaction)](time-cohort-item-three-way-interaction.md) — related

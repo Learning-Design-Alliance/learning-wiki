@@ -49,3 +49,4 @@ Descriptive study of three skills-lab sessions on IV catheter insertion, each wi
 - [A skills-lab session teaching IV catheter insertion to a group of three with the modified Peyton's Approach took about 37.5 minutes for six insertions](modified-peyton-session-time-37-5-min.md) — related
 - [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — related
 - [Trainees valued repeated observation, instructing peers, and the opportunity for independent performance in the modified Peyton's Approach](trainees-valued-observation-instruction-performance.md) — related
+- [First-year nursing students in class groups trained on a teacher-made IV injection model improved as much as those trained on a commercial model, with no significant difference in post-practice scores](teacher-made-model-equals-commercial-model-iv-training.md) — related

@@ -50,3 +50,4 @@ Summary of the study's second theme from observations and interviews across the 
 - [BIPOC solution providers embed culturally responsive pedagogy features in both their R&D processes and their end products](providers-culturally-responsive-product-and-process.md) — related
 - [Classic African board games foster social interaction, cultural transmission, and inclusive play for players with visual impairments](african-board-games-social-cultural-transmission.md) — related
 - [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related
+- [Mixed PBL tutorial groups enhance students' interaction across diverse boundaries](heterogeneous-pbl-groups-enhance-cross-boundary-interaction.md) — related

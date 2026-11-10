@@ -53,3 +53,4 @@ Finding from the three-arm randomised controlled trial comparing incentivised an
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — a broader claim this one bears on
 - [The completion impact of financial incentives for teen parents comes almost entirely from GED receipt rather than high school diploma receipt, and the GED effect was statistically significant only for Cal-Learn](financial-incentives-ged-receipt-significant.md) — related
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related
+- [Course adherence was low: only 20% of parents who began the course attended all eight sessions, and 42% attended fewer than four](koppouders-low-course-adherence.md) — related

@@ -50,3 +50,4 @@ Differentiated course evaluation in Results, contrasting with the overall prefer
 - [Prior comparative studies of live versus video lectures report contradictory results, mostly on restricted curriculum content](prior-live-video-studies-contradictory-restricted.md) — related
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related
+- [Students rate the presentation and content of live lectures higher than matched video podcasts](students-rate-lecture-presentation-above-podcast.md) — reports the opposite

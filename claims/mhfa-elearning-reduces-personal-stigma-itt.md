@@ -53,3 +53,4 @@ Intention-to-treat repeated measures ANOVA on the personal stigma subscale (seve
 - [The MHFA eLearning course did not improve recognition of a mental health problem, possibly due to a ceiling effect](mhfa-elearning-no-recognition-improvement-ceiling.md) — related
 - [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related
 - [eLearning MHFA reduces desire for social distance from people with depression or PTSD relative to control; the blended mode's reduction did not significantly exceed control](mhfa-social-distance-reduction.md) — related
+- [MHFA training reduces some personal stigma items among teachers, with mixed patterns across items and time points](mhfa-training-reduces-some-teacher-stigma-items.md) — related

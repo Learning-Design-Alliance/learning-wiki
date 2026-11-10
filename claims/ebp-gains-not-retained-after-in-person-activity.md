@@ -46,3 +46,4 @@ Third AFT administration in the same repeated-measures pilot (39 students). The 
 
 ## Related Claims
 - [Online EBP learning modules significantly improved health professions students' EBP competence as measured by the adapted Fresno test](online-ebp-modules-improve-aft-scores.md) — related
+- [The Spanish Fresno test shows large responsiveness indices (ES 1.77, SRM 1.65) to EBP educational change](fresno-test-responsiveness-es-1-77.md) — related

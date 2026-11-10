@@ -50,3 +50,4 @@ Descriptive analysis of a voluntary post-OSCE online survey (74.9% response rate
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
 - [Students held neutral or slightly positive perceptions of e-learning effectiveness, rating the clinical videos most helpful for learning clinical performance](neutral-slightly-positive-perceptions-e-learning.md) — related
 - [Students rate the smartphone video learning materials positively, but about half report videos freezing](student-questionnaire-video-freezing-issue.md) — related
+- [Pre-course, most final-year students lacked confidence and felt unprepared for the final OSCE](pre-course-osce-confidence-low.md) — related

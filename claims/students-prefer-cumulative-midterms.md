@@ -51,3 +51,4 @@ End-of-semester attitudinal survey compared by Mann-Whitney U test; overall atti
 - [Long-term retention after five months depends on an interaction between midterm format and students' entry scientific reasoning skills](cumulative-midterms-reasoning-retention-interaction.md) — related
 - [Midterm format and cognitive level interact on the retention exam: non-cumulative students retain more on high-order questions](retention-cognitive-level-interaction.md) — related
 - [Students in both sections reported that reviewing with a partner would be more helpful for their learning than studying alone](students-prefer-partner-review.md) — related
+- [Students and faculty prefer multiple smaller exams over one final exam, and students wish for more self-guided study time](students-faculty-prefer-frequent-smaller-exams.md) — related

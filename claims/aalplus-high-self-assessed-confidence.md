@@ -49,3 +49,4 @@ Five-year survey of all AaLplus participants (n = 1534 questionnaires, 98.6% res
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Most students attribute their basic medical skills to the AaLplus program, except hand disinfection and blood pressure measurement](aalplus-skill-acquisition-attribution.md) — related
 - [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related
+- [Post-course, students reported improved confidence and clearer expectations for the OSCE](post-course-confidence-expectations-improved.md) — related

@@ -47,6 +47,7 @@ The authors propose two complementary routes to widen access to ID training: pro
 - [Improve open-access CME e-learning by adding pre- and postmodule assessments, increasing interactivity and multimedia, and strengthening outreach in underrepresented regions](espe-cme-improvement-strategy-assessments-interactivity-outreach.md)
 - [Harmonize ID training between and within countries and across the psychiatrist lifespan from CAP to old age psychiatry](harmonized-lifespan-id-training-strategy.md)
 - [Strengthen and extend international university partnerships to ease students' access to clinical and scientific exchanges abroad](international-exchange-partnerships-medical-education.md)
+- [Support EBM training graduates beyond the course with follow-up support, exchange opportunities and counselling training](post-course-support-ebm-implementation.md)
 
 ## Examples
 -

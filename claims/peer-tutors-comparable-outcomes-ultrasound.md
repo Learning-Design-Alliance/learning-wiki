@@ -56,3 +56,4 @@ Narrative review of comparative studies on peer-to-peer ultrasound instruction; 
 - [Educated peers or non-physicians teach most basic practical skills as effectively as physicians, with exceptions for full-time faculty and expert teaching of bladder catheterization](peer-and-non-physician-instructors-equally-effective.md) — related
 - [Peer-assisted learning by trained student tutors is equivalent to faculty-led skills lab training and is used in about 90% of surveyed German skills labs](peer-assisted-learning-equivalent-faculty.md) — a broader claim this one bears on
 - [Students rate patient educators significantly higher than physician tutors on ten of fourteen instructor evaluation questions](patient-educators-rated-higher-on-instructor-evaluations.md) — related
+- [Prior comparative studies find peer tutors achieve outcomes comparable to expert or faculty tutors, though evidence is limited](prior-studies-peer-tutors-comparable-to-experts.md) — related

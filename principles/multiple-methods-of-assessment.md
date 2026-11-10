@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (33 for, 18 mixed, 2 against) · 59 studies (16 causal, 10 review, 9 associational, 8 theoretical, 6 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 59 report an effect size · 47 claims rest on one study
+> **Evidence** · 54 claims (33 for, 19 mixed, 2 against) · 60 studies (16 causal, 10 review, 10 associational, 8 theoretical, 6 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 60 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [The vOSCE is judged unable to formally assess 8% of DCN competencies, and 3% (notably physical examinations) cannot be assessed via either method](../claims/vosce-and-osce-assessment-boundaries-dcn.md) [+W] — attached 2026-11-07 from Comparison of the adequacies of the OSCE and vOSCE to assess the competencies required und, which proposed "Use the vOSCE as a complement to other assessment methodologies, not as the sole means of assessing competencies".
 - [Adopting diversified formative assessment significantly improved grade discrimination among BOPPPS-PBL cohorts, unlike the subjective pre-reform daily-performance evaluation](../claims/diversified-formative-assessment-improved-grade-discrimination.md) [+W] — attached 2026-11-07 from Feng Xinrui et al. (2024), which proposed "Diversified formative-plus-summative assessment system weighting assignments, experimental operations and a final exam".
 - [The OSATS-based chest tube insertion scale shows moderate-to-good intermethod reliability between 'direct' on-site and 'indirect' video ratings](../claims/cti-osats-scale-intermethod-reliability.md) [+W] — attached 2026-11-09 from Ober J et al. (2018), which proposed "Average 'direct' and 'indirect' rater scores to obtain the most accurate assessment result".
+- [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the searching domain (r = 0.13, p = 0.4)](../claims/poor-correlation-self-perceived-objective-ebm-searching.md) [~W] — attached 2026-11-10 from Lai Nai Ming (2011), which proposed "Self-perceived competence should not be used as a stand-alone tool to evaluate undergraduate EBM competence"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

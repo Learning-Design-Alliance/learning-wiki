@@ -48,3 +48,4 @@ Randomized study in which third-year medical undergraduates were assigned to 4 g
 - [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — a narrower finding that bears on this claim
 - [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](adaptive-tutorial-dialogues-effect-size-069.md) — related
 - [Interactive video control improves learning outcomes and satisfaction compared with noninteractive video](interactive-video-control-improves-learning.md) — related
+- [An interactive practice exercise with expert-normed feedback did not improve AGREE II outcomes over a tutorial alone or a PDF User's Manual in this randomized trial](elearning-practice-exercise-no-benefit-over-manual.md) — related

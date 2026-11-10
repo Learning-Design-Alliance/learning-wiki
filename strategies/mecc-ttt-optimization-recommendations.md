@@ -56,6 +56,7 @@ The article recommends action at programme, individual and organizational levels
 - [Trainer-of-trainees scale-up strategy combining Moyo device rollout with HBB simulation training](tot-moyo-hbb-scaleup-strategy.md)
 - [Train-the-trainer (TTT) programs to standardize endoscopy training](train-the-trainer-endoscopy-programs.md)
 - [Cascade compact training across the midwifery service and integrate it into pre-registration curricula and mandatory CPD](cascade-compact-training-midwifery-education.md)
+- [Cascade (peer) training model for affordable scale-up of RDT skills](cascade-peer-training-model-rdt-scale-up.md)
 
 ## Examples
 -

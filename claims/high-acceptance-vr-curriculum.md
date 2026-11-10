@@ -51,3 +51,4 @@ Survey of fellows using Technology Acceptance Model items; the article reports "
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — related
 - [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related
+- [No significant differences emerged between training conditions on training satisfaction or self-efficacy, with high ratings in all conditions](agree2-training-satisfaction-self-efficacy-null.md) — related

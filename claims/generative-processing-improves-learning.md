@@ -201,3 +201,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Greater use of low-impact encoding strategies (summarizing, listening, flashcards, rewriting notes) is associated with slightly lower exam scores](encoding-strategies-lower-exam-scores.md) — related
 - [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](prior-knowledge-predicts-benefit-construction-based-learning.md) — related
 - [Writing explanations required more mental effort than retrieving the material](writing-explanations-more-mental-effort-than-retrieval.md) — related
+- [Piloting, prompting and supplementing align with a teaching-as-organizing-student-activity perspective in which the teacher supports the student in acting as an active doctor](piloting-prompting-supplementing-organizing-activity.md) — related

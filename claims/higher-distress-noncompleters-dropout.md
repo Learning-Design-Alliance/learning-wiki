@@ -51,3 +51,5 @@ Baseline comparison of completers (n=116) and non-completers (n=26) in the inter
 - [Computer-based stress management training significantly improves knowledge about stress management among employees in the full intervention sample](computer-smt-improves-stress-knowledge-full-sample.md) — related
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
 - [Psychological distress decreased significantly from baseline to post-treatment in group-based MBCT completers](distress-reduction-group-mbct-cancer-completers.md) — related
+- [Participants who under-used problem-solving or support-seeking showed increased problem-solving or support-seeking coping, and those who used escape-avoidance showed decreased escape-avoidance coping from pre-test to post-test within the reported groups](coping-improved-in-underutilizing-subgroups.md) — related
+- [Use of problem-solving, seeking support, and escape-avoidance coping did not change over the course overall](coping-strategies-unchanged-overall.md) — related

@@ -51,3 +51,4 @@ Self-assessment of knowledge on a seven-point scale (adapted from Bhanji et al.)
 - [Participants hold very positive perceptions of faculty development workshop quality, with no significant differences between centralized and decentralized cycles](fd-workshops-very-positive-quality-perceptions.md) — related
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — related
 - [Post-session self-reported knowledge of the session topic increased significantly (64.4% reported increase, P < 0.001)](post-session-knowledge-increase-64-percent.md) — related
+- [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related

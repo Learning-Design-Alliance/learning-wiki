@@ -47,3 +47,4 @@ Survey question posed to first-year BSc MPT students (Figure 2d) asking whether 
 ## Related Claims
 - [Undergraduate students on a BSc programme found the virtual microscope easy to use and enjoyable despite finding histology subject matter difficult.](vm-easy-enjoyable-despite-difficult-subject.md) — related
 - [Groups of 5–6 children led by experienced staff worked best according to programme users](lit-small-groups-experienced-staff-best.md) — related
+- [Adopting the virtual microscope saved 210 hours of faculty precepting time per year and allowed laboratory sessions to be reduced from three hours to two hours without reducing slides taught](vm-saved-faculty-time-reduced-lab-hours.md) — related

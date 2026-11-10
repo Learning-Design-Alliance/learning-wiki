@@ -49,3 +49,4 @@ Comparison of average midterm induction-question scores (Figure 3) across semest
 - CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters — reports the opposite
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related
+- [More than 85% of students demonstrated mastery on the midterm question assessing mathematical modeling content knowledge in each semester.](midterm-content-mastery-85-percent.md) — related

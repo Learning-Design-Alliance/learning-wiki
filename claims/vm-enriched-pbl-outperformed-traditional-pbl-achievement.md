@@ -70,3 +70,4 @@ The same quasi-experimental study's pre-test analysis found no significant diffe
 - [Interviewed students reported that VMs supported learning (understanding, quick feedback, correcting mistakes) and independence from the teacher, but also reported fatigue, stress, distraction, and repetitive examples](vm-interview-themes-positive-and-negative.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [CLIL students scored higher than non-CLIL students on a mathematics test of quadratic equations](clil-students-score-higher-math-test.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — a broader claim this one bears on

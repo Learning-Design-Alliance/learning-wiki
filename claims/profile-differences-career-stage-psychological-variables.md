@@ -92,3 +92,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
 - [Baseline knowledge differed by age and education level, but pre-to-post change scores did not significantly differ between demographic subgroups in a single-group pre-post study of an e-learning course](baseline-demographic-differences-no-subgroup-effect-differences.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related

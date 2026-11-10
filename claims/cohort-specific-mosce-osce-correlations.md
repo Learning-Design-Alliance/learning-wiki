@@ -49,3 +49,4 @@ Cohort-specific Pearson correlations reported in Appendix 1. "the 2017 mock OSCE
 - [Participation as an examinee in a student-led mock OSCE had no effect on subsequent third-year OSCE scores in medical students](mosce-participation-no-osce-score-effect.md) — related
 - [Chi-square analyses found no relationship between mock OSCE participation (as examinee or standardized patient) and high versus low subsequent OSCE performance](mosce-participation-chi-square-null.md) — related
 - [Prior observational findings that MOSCE participants valued peer feedback and reported learning benefits were not matched by objective OSCE score gains](self-reported-mosce-benefits-not-objective.md) — related
+- [Student and professional scores on the same practice exams correlate highly (Pearson r = 0.61)](peer-professional-score-correlation-061.md) — related

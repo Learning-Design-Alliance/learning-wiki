@@ -57,3 +57,5 @@ Summative OSCE scores (five stations, checklist-scored 0–10, faculty examiners
 - [The teaching-associate advantage in head and skull examination skills persists at 4 months on a summative OSCE with a small-to-moderate effect size](ta-training-long-term-retention-4-months.md) — related
 - [Medical students trained in a complex head and skull examination by teaching associates outperform instructor-led peer-trained controls immediately after training](ta-training-superior-immediate-clinical-skills.md) — related
 - [No significant difference in summative assessment scores between groups in either year](cleims-summative-assessment-null.md) — related
+- [Whether peer-led training yields as many High Pass OSCE grades as expert-led training is inconclusive; the expert-led advantage could exceed the 20% boundary](high-pass-peer-vs-expert-inconclusive.md) — related
+- [Peer-led advanced resuscitation training achieves first-time OSCE Pass rates non-inferior to expert-led training among medical students](peer-led-resuscitation-osce-pass-non-inferior.md) — related

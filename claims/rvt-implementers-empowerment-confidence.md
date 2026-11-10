@@ -51,3 +51,4 @@ Manifest content analysis of 2-month follow-up open-ended responses; 14 particip
 - [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
 - [RVTs' seven-item communication self-confidence scores significantly increased by 2 months after a 5-day training programme, but not immediately after training](rvt-training-seven-item-confidence-increase-at-2-months.md) — related
 - [RVTs' global communication self-confidence rating significantly increased by the 2-month follow-up compared with pre- and post-programme](rvt-training-global-confidence-increase-at-2-months.md) — related
+- [Group-based feedback identified empowerment gains and new counselling concepts, alongside barriers including negative professional reactions](group-feedback-empowerment-barriers.md) — related

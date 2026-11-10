@@ -73,3 +73,5 @@ Program director interview: high attrition and student mobility kept numbers in 
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
 - [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](cultural-diversity-cooperative-task-increases-childrens-creativity.md) — reports the opposite
 - [The number of cliques in the forum interaction networks increased dramatically by the third iteration, while cohesion within cliques decreased](clique-numbers-increase-cohesion-decreases.md) — related
+- [Mixed PBL tutorial groups enhance students' interaction across diverse boundaries](heterogeneous-pbl-groups-enhance-cross-boundary-interaction.md) — reports the opposite
+- [Students in mixed PBL tutorial groups segregate along racial and cultural lines and do not fully integrate](heterogeneous-pbl-groups-segregate-not-integrate.md) — related

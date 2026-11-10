@@ -53,6 +53,7 @@ The article recommends VR simulators as a substitute training venue when residen
 - [Deploy the Anatomage Table through an online platform to sustain anatomy and surgical training during emergencies](anatomage-online-platform-pandemic-training-strategy.md)
 - [Use simulation training prior to actual surgery when elective surgical experience for trainees is disrupted](simulation-training-before-surgery-during-disruption.md)
 - [Use simulation technologies and skills labs to accelerate learning when operative exposure is reduced](simulation-skills-labs-reduced-operative-exposure.md)
+- [Use VR resectoscopic simulation to measure and improve novice technical skills before operating on patients](vr-simulation-before-operating-on-patients-strategy.md)
 
 ## Examples
 -

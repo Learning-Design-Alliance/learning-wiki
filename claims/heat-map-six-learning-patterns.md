@@ -48,3 +48,4 @@ Heat-map analysis of student-by-exam performance on evaluate-experimental-data i
 - [Flickering students who succeed on the last midterm are more likely to fail the final, indicating risk of overestimated mastery](flicker-off-last-midterm-paradox.md) — related
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
 - [Skill with data-evaluation problems develops gradually and does not plateau until about six exam iterations](six-iterations-plateau-data-evaluation.md) — related
+- [More than 85% of students demonstrated mastery on the midterm question assessing mathematical modeling content knowledge in each semester.](midterm-content-mastery-85-percent.md) — related

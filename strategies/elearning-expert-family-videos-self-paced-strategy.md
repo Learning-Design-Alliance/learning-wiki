@@ -49,6 +49,7 @@ The article recommends using an eLearning format for professional education beca
 
 - [Blended Learning](blended_learning.md)
 - [Adopt telemedicine and e-learning formats for ultrasonography teaching where flexibility, accessibility and cost savings matter](telemedicine-ultrasound-teaching-implementation-advantages.md)
+- [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 
 ## Examples
 -

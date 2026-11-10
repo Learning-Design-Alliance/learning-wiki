@@ -50,3 +50,4 @@ Within-section analysis comparing test-section performance on spirometry concept
 - [The spirometry-based active learning lab produced the largest performance gain on questions about the hallmarks of restrictive and obstructive respiratory diseases](spirometry-lab-improves-respiratory-disease-performance.md) — a narrower finding that bears on this claim
 - [The active learning lab did not significantly improve performance on the volume-pressure-airflow relationship concept](spirometry-lab-no-significant-gain-volume-pressure.md) — a narrower finding that bears on this claim
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
+- [More than 85% of students demonstrated mastery on the midterm question assessing mathematical modeling content knowledge in each semester.](midterm-content-mastery-85-percent.md) — related

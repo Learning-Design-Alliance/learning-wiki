@@ -71,3 +71,4 @@ Same controlled simulation trial, regression-adjusted primary outcome. Total han
 - [In the pilot simulation study, median time to first epinephrine administration was significantly longer for teams using the PediAppRREST app than for control teams](pediaprrrest-longer-epinephrine-time.md) — related
 - [Simulation-trained students activated emergency medical services faster than standard-trained students in a simulated cardiac arrest](sim-training-faster-ems-activation.md) — related
 - [Intervention teams initiated cardiac compressions 41 seconds faster than Control teams at the end of the first simulation week](cleims-resuscitation-compressions-year3.md) — related
+- [Never requesting the driver's help is associated with a significantly increased hands-off ratio during simulated resuscitation](not-requesting-help-increases-hands-off-ratio.md) — related

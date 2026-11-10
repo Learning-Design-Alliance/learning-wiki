@@ -65,3 +65,4 @@ Pretest equivalence check on the 60 matched and randomly assigned teachers: Leve
 - [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related
 - [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related
 - [Post-knowledge test scores did not differ significantly between the E-learning group and the traditional teaching group](no-significant-posttest-difference-elearning-vs-traditional.md) — related
+- [No statistically significant difference existed between the blended and control groups on the pretest (p=0.7)](no-pretest-difference-dermatology-groups.md) — related

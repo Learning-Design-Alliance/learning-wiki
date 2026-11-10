@@ -141,6 +141,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use interactive virtual patient cases to standardize clinical exposure and reinforce core internal medicine presentations for junior trainees](vp-cases-standardize-clinical-exposure-strategy.md)
 - [Move patient cases from classroom training into the serious game to enhance preparation and enable a shorter blended design](move-cases-to-game-blended-design-strategy.md)
 - [Use a staged approach to simulated patient practice: start with peer role-play for comfort and feedback, then progress to standardised patients](staged-peer-then-sp-practice-strategy.md)
+- [Use a virtual-clinic-plus-eBook model for independent learning about rare diseases lacking patient contact](virtual-clinic-ebook-rare-disease-strategy.md)
 
 ## Examples
 -

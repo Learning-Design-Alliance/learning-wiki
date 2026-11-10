@@ -50,3 +50,5 @@ Pre/post evaluation of a 6-month MI training programme for 31 Swedish dairy catt
 - [After 6 months of MI training, only a minority of veterinarians reached suggested MI competency thresholds](mi-training-competency-thresholds-partial.md) — related
 - [Veterinarians' MI-non-adherent persuasive and confrontational behaviours fell from before to after MI training in one uncontrolled pre-post study](mi-training-reduces-non-adherent-behaviours.md) — related
 - [Participating veterinarians rated MI skills as highly relevant to their work and reported high satisfaction with the training programme](veterinarians-rate-mi-training-relevant-satisfying.md) — related
+- [All three counsellors scored below Beginning Proficiency on every MITI variable at baseline](all-counsellors-below-beginning-proficiency-baseline.md) — related
+- [Mean MI skill of quitline counsellors improved in most MITI variables over two-and-a-half years of training and supervision](mi-skill-improved-most-miti-variables.md) — related

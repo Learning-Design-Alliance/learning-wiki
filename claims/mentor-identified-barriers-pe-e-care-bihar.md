@@ -53,3 +53,4 @@ Thematic analysis of 12 semi-structured interviews with nurse mentors conducted 
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Hospital staff in EOL simulation workshops recurrently reported lack of training, knowledge and time, technology overuse, uncertainty, and poor communication and teamwork skills](eol-workshop-recurring-barrier-themes.md) — related
+- [Common diabetes-care gaps extend beyond physician knowledge to skills, attitudes, behaviours and context](diabetes-gaps-beyond-knowledge-domain.md) — related

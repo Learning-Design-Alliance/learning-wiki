@@ -47,3 +47,4 @@ Paired t-tests on portal log data from 864 teachers compared usage at T1 and T2.
 ## Related Claims
 - [Teachers become more efficient in searching the portal over time, and most use it more frequently](teachers-become-more-efficient-portal-searchers.md) — related
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related
+- [Field usability testing during development surfaced and corrected coding, navigation, image-upload and display problems](writesim-field-usability-iterations-fixed-software-problems.md) — related

@@ -61,3 +61,5 @@ Independent t-test comparison of post-intervention ACE total scores between inte
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
 - [Blended-learning students scored significantly higher than didactic students on the second criterion-based EBM assessment task](blended-higher-second-assessment-task.md) — a narrower finding that bears on this claim
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related
+- [A 4-hour interactive EBM workshop did not significantly improve internal medicine residents' EBM knowledge and skills test scores compared with control at 6 or 18 months](ebm-workshop-no-test-score-effect.md) — related

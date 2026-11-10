@@ -19,24 +19,26 @@ sources:
 # CE-S-DSP & SOS hybrid self-report measure of cognitive engagement
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A hybrid self-report assessment assembled by Meg Guerreiro (2017) from existing cognitive-engagement measures to assess students' reported cognitive engagement, including in grades 6–8 mathematics.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Situational cognitive engagement measure (four-item self-report)**: A short self-report instrument designed to capture cognitive engagement in real time during class, distinguishing "situational" engagement from trait-like course-level measures. "The new situational cognitive engagement measure is composed of three overlapping facets": perceived engagement with the task, effort and persistence, and absorption or flow. Four items are scored on a 5-point Likert scale and take about 20 seconds to complete; coefficient H ranged from .70 to .79 across the five administrations in Study 2. (Rotgans et al. (2011))
 
 ### Claims
 - [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [+W]
+- [A four-item situational cognitive engagement measure is reliable and valid as shown by confirmatory factor analysis in two samples](../claims/scem-validated-four-item-measure.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Meg Guerreiro. (2017). The impact of a technology-enhanced math performance task on student cognitive engagement in mathematics. NWEA Research white paper. https://www.nwea.org/research/publication/the-impact-of-a-technology-enhanced-math-performance-task-on-student-cognitive-engagement-in-mathematics/
-
 <!-- merged 2026-10-10 from elements/ce-s-dsp-sos-cognitive-engagement-measure ("CE-S-DSP & SOS hybrid self-report measure of cognitive engagement"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Rotgans, J. I., & Schmidt, H. G. (2011). Cognitive engagement in the problem-based learning classroom. Advances in Health Sciences Education, 16(4), 465–479. https://doi.org/10.1007/s10459-011-9272-9
 
 # CE-S-DSP & SOS hybrid self-report measure of cognitive engagement
 

@@ -55,3 +55,4 @@ Adjusted logistic regression models (Table 4) in the national survey of 1371 stu
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Most surveyed Saudi medical students preferred synchronous eLearning, while about a third avoided interaction during synchronous lectures](saudi-medical-students-prefer-synchronous-elearning.md) — related
 - [Technological challenges, including platform access failures and unavailable resources, reduced the effectiveness of online learning](technological-challenges-reduce-online-learning-effectiveness.md) — related
+- [A substantial minority of students report podcasts are less engaging and reduce motivation to complete teaching](podcasts-less-engaging-than-lectures.md) — related

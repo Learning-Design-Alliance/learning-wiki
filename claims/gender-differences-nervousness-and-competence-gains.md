@@ -49,3 +49,4 @@ Sex-group comparisons within the evaluation of 182 students using t tests and Ma
 - [In introductory biology peer discussions, women are less likely than matched male peers to prefer the leader/explainer role and more likely to prefer collaborator, listener, or recorder roles](gender-predicts-preferred-peer-discussion-role.md) — related
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
 - [Female physicians rank communication and work-planning competencies higher while male physicians rank scientifically grounded working higher](gender-differences-competency-rankings-physicians.md) — related
+- [Year 2 observed communication was related to confidence in knowing how to listen to patients and to lower nervousness, but not to general communication confidence](listening-confidence-and-nervousness-relate-to-communication.md) — related

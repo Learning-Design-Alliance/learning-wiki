@@ -51,6 +51,7 @@ Mentors recommended moving beyond lectures toward experiential and technology-su
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Use role-playing as a teaching method for clinical-skills training of operating room nursing students and revise the curriculum to include empathy](role-playing-teaching-method-or-nursing-curriculum.md)
 - [Use the two-challenge rule to support nurses in respectfully asserting patient-safety concerns with physicians](two-challenge-rule-nurse-physician-communication.md)
+- [Use interactive training formats — role plays, skill rehearsal, video examples and practical worksheets — when teaching brief psychological strategies to health professionals](interactive-roleplay-rehearsal-training-strategy.md)
 
 ## Examples
 -

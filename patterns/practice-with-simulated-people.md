@@ -357,6 +357,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Rehearse SP roles with an identity card, an ACP coach as conversational partner, and joint reflection to improve standardisation](../strategies/sp-rehearsal-identity-card-standardisation.md)
 - [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](../strategies/og-residency-selection-assessment-strategies.md)
 - [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](../strategies/standardized-360-feedback-sequence-strategy.md)
+- [Attach skills-training models to a simulated patient so students attend to the person and practice communication during the procedure](../strategies/attach-model-to-simulated-patient-for-communication.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

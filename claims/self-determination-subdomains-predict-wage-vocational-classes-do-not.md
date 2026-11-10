@@ -51,3 +51,4 @@ Linear regression analysis of follow-up survey data; Table 1 reports, for exampl
 - [Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage](preschool-teacher-wage-gap-14-67-vs-32-80.md) — related
 - [The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments](self-determination-study-population-disability-categories.md) — related
 - [The e-training program improved psychological empowerment, with significant between-group differences for the total scale, self-determination and impact](e-training-improves-psychological-empowerment.md) — related
+- [At 4-month follow-up the intervention showed a slight adverse effect on most empowerment subscales, significant only for the Meaning subscale](long-term-adverse-meaning-subscale-effect.md) — related

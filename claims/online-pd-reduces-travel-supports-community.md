@@ -62,3 +62,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [The authors conclude online training options are unlikely to achieve high uptake among rural GPs even with evidence-based recruitment](online-training-low-uptake-conclusion.md) — related
 - [Students valued the blended design mainly for flexibility of place and time and for affordability, participating without disrupting daily work](blended-flexibility-and-affordability-benefits.md) — a narrower finding that bears on this claim
 - [Suggestions for improving the intervention were less consistent across participants, including longer training, off-site venues, stipends, and added HIV and drug dosing content, while onsite no-stipend training proved acceptable to many](lhw-mixed-suggestions-intervention-improvement.md) — related
+- [Students value video podcasts mainly for convenience of on-the-go, anywhere learning](podcast-valued-for-convenience.md) — related

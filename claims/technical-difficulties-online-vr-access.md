@@ -52,3 +52,4 @@ Survey question 4 on ease of online access, the only item with an average score 
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
+- [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related

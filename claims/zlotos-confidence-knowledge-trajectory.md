@@ -107,3 +107,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge gains from the online oncogenetics module persisted and further increased at 6-month retention testing](online-genetics-cpd-sustained-knowledge-retention.md) — related
 - [Pass-rates on the neural transmission speed question declined significantly between one and six weeks after the lecture, though they remained above baseline](question2-decline-time2-to-time3.md) — related
 - [Clinical performance gains after virtual patient simulation decayed significantly at 2.5 months, while mannequin-based simulation gains were sustained](virtual-simulation-gain-decay-2-5-months.md) — related
+- [Among community males, self-rated attitude scores rose from pre-test to post-test after the MCH session and fell toward baseline by three-month follow-up in one uncontrolled pre-post study](male-attitude-gain-not-sustained-three-months.md) — related

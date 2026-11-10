@@ -68,3 +68,4 @@ Survey findings reported in the Discussion: among the 65% of retailers who ident
 - [Attending a malaria workshop or receiving MOH drug information was not associated with knowing or recommending the first-line anti-malarial](malaria-workshop-attendance-not-associated-knowledge.md) — related
 - [Health-related qualification, not education level, predicts correctly identifying the recommended first-line anti-malarial](health-qualification-predicts-antimalarial-knowledge.md) — related
 - [Retailers who would refer a sick child rather than dispense the requested outdated drug are more likely to recommend AL for children, even controlling for knowledge](referral-practice-correlated-child-recommendation.md) — related
+- [After training and RDT introduction, antimalarial prescriptions fell from 56% to 33% of febrile patients while 76% were offered a test](rdt-introduction-reduced-antimalarial-prescriptions.md) — related

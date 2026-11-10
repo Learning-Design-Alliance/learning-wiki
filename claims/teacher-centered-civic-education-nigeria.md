@@ -51,3 +51,4 @@ The authors' observational claim about Nigerian classrooms, offered without prin
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
 - [The authoritarian method of teaching still dominates in schools](authoritarian-teaching-dominates-schools.md) — a broader claim this one bears on
 - [Undergraduate lecture experience transmits a normative belief that lecture is the accepted way to teach](undergraduate-lecture-enculturation-transmits-lecture-norm.md) — related
+- [Lecturing, demonstrating and intervening align with a teaching-as-transmission perspective focused on the teacher's own knowledge and acting](lecturing-demonstrating-intervening-transmission.md) — related

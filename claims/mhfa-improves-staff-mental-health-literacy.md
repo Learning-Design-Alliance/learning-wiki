@@ -54,3 +54,8 @@ Kidger et al.'s mixed-methods evaluation of Mental Health First Aid in six UK se
 - [Both eLearning and blended MHFA courses produce greater-than-large improvements in mental health first aid knowledge relative to a first aid control, with no significant difference between modes](mhfa-elearning-blended-knowledge-gains.md) — related
 - [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related
 - [The MHFA eLearning course decreased UK medical students' stigmatising attitudes (ITT)](mhfa-elearning-reduces-personal-stigma-itt.md) — related
+- [MHFA training increases teachers' endorsement of school policies and strategies for supporting students with mental health problems](mhfa-training-increases-school-policy-endorsement.md) — related
+- [MHFA training increases teachers' confidence in helping students and colleagues with mental health problems](mhfa-training-increases-teacher-confidence-helping.md) — related
+- [Mental Health First Aid training increases high school teachers' mental health knowledge, with gains sustained at 6 months](mhfa-training-increases-teacher-mental-health-knowledge.md) — related
+- [Students of MHFA-trained teachers report receiving more mental health information from school staff, but student mental health and help received are unchanged](mhfa-training-indirect-student-information-effect.md) — related
+- [MHFA training does not change teachers' self-reported helping behaviours toward students or colleagues, their own mental health, or information seeking](mhfa-training-no-effect-teacher-helping-behaviour.md) — related

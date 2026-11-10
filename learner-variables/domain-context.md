@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (86 show a difference, 27 mixed, 9 no difference) · 107 studies (27 causal, 23 qualitative, 20 review, 16 design, 10 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 14 of 107 report an effect size · 118 claims rest on one study
+> **Evidence** · 123 claims (87 show a difference, 27 mixed, 9 no difference) · 108 studies (27 causal, 23 qualitative, 20 review, 16 design, 11 associational, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 108 report an effect size · 119 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -163,6 +163,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Authenticity of the training scenario, framed by a patient case, is important for the learning process](../claims/authenticity-patient-case-simulator-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Inner motivation, active participation of the novice educator, and a supportive workplace learning environment are considered prerequisites for becoming an expert patient educator](../claims/motivation-and-supportive-environment-prerequisites-expert-educator.md) [+M] — learners who differ on it differ in outcomes
 - [Workplace characteristics, including availability of TB smear microscopy and referral-hospital placement, were associated with higher clinical case and physical exam scores](../claims/workplace-factors-associated-with-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Participants whose goals matched EBM content rated course relevance higher (80% vs 65%), and relevance was only weakly correlated with teaching-quality ratings](../claims/course-relevance-learning-goal-match.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

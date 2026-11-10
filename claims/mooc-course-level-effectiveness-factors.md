@@ -48,3 +48,4 @@ Narrative synthesis of facilitators and barriers extracted from the 36 primary s
 - [Multiple-choice questionnaires are the main assessment tool used to measure MOOC learning outcomes in healthcare education](mooc-assessment-multiple-choice-dominant.md) — related
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
 - [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related
+- [Concentrated recruitment and limiting the forums to a small number helped the community appear active, and the authors would in retrospect have used a single forum](concentrated-membership-few-forums-appear-active.md) — related

@@ -93,6 +93,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Replace or supplement a lecture with a short high-fidelity simulator session of identical content and duration](identical-content-simulator-session-strategy.md)
 - [Blend simulation with traditional training rather than separating them into discrete components](blend-simulation-with-traditional-procedural-training.md)
 - [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
+- [Add an online discussion-seminar adjunct aligned weekly with face-to-face dermatology teaching](weekly-aligned-online-seminar-adjunct-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ ANCOVA comparing the second experimental group, which played mathematical games 
 - [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related
 - [Daily mathematical routines involving logical challenges significantly increased 3rd-grade girls' introjected extrinsic motivation](daily-logic-challenge-routines-raise-girls-introjected-extrinsic-motivation.md) — related
 - [Playing students showed significant learning gains in mathematical achievement compared to control classes in grades 2, 4 and 6](teachable-agent-game-significant-math-gains.md) — related
+- [The FOXRAB board game lets students contrast stochastic physical-model behavior with deterministic mathematical-model behavior](foxrab-stochastic-versus-deterministic-contrast.md) — related

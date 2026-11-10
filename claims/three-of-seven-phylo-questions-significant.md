@@ -49,3 +49,4 @@ Question-by-question logistic regression on the final laboratory exam comparing 
 - [Intervention students scored 57.8% full credit and 93.3% at or above 75% on a challenging high-stakes tree-construction exam item](high-stakes-tree-construction-performance.md) — related
 - [Most intervention students cited the new exercises as their most effective preparation for the phylogenetics lab, while 13% wanted more between-tree comparison practice](student-feedback-preparation-survey.md) — related
 - [Business-as-usual students who completed the phylogenetics laboratory gained only on some tree-thinking skills, with no increase on polytomy, inference, or subsets of the ToL](lab-only-gains-restricted-to-few-skills.md) — related
+- [Students who completed the inquiry exercise showed more consistent gains in acceptance of evolutionary theory than control-section students on a pre/post survey](inquiry-phylogeny-evolution-acceptance-gains.md) — related
