@@ -51,6 +51,7 @@ The article's discussion offers concrete implementation recommendations: upload 
 - [Run online PBL by uploading micro clinical cases 3 days before class, having students present via video conferencing, and quizzing after each class](wechat-pbl-case-upload-and-quiz-strategy.md)
 - [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
 - [Adopt low-cost online reading quizzes as a course-structure intervention in community college STEM courses](low-cost-reading-quiz-intervention-strategy.md)
+- [Embed a relativity simulation in laboratory sessions with pre-work, collaborative exploration and assessed visual log books](rtr-laboratory-implementation-strategy.md)
 
 ## Examples
 -

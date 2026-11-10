@@ -64,3 +64,4 @@ Reliability analysis of ratings by two trained inter-raters using an 11-band ana
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
 - [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related
+- [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related

@@ -47,3 +47,4 @@ Controlled experiment (nearly 3 hours of instruction, random assignment) compari
 ## Related Claims
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
+- [Spreadsheets are harder to debug than comparable programs and lead less skilled users toward chartjunk](spreadsheet-drawbacks-debugging-chartjunk.md) — related

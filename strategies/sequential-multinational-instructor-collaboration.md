@@ -44,6 +44,7 @@ An implementable cooperation recipe: instructors trained in one country join the
 
 - [Facilitate educator networks and knowledge-sharing hubs for educational AI](educator-networks-knowledge-sharing-ai.md)
 - [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
+- [Develop and adapt intelligent-agent tutoring tools for Latin-American countries, where implementation is incipient](latin-america-intelligent-agent-development-opportunity.md)
 
 ## Examples
 -

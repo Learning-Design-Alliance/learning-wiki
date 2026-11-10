@@ -49,6 +49,7 @@ The report details a repeatable recipe for co-designing evaluation criteria: "Di
 - [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Participatory, V-model systems-engineering design process with end-user engagement](participatory-v-model-simulation-design.md)
+- [Iterative simulation design cycle with think-aloud student interviews before classroom use](phet-interview-driven-design-cycle.md)
 
 ## Examples
 -

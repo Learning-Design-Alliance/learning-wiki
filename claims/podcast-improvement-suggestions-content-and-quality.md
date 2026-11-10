@@ -47,3 +47,4 @@ Qualitative coding of open-ended item A2 suggestions (N = 76) on the adapted cod
 ## Related Claims
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](bespoke-free-text-voice-reveal-layout-issues.md) — related
+- [Downloading and editing online video to a local file is presented as the optimum route, solving reliability, cropping, display and portability problems, but it violates most sites' terms of use and likely copyright unless the owner grants permission](download-edit-video-optimum-but-legally-limited.md) — related

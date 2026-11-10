@@ -62,3 +62,4 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Teachers in ALCs use more student-centred and collaborative pedagogies than in traditional classrooms](alc-student-centred-pedagogy.md) — related
 - [The authors report an 18% increase in performance in the experimental group attributed to use of the interaction model](performance-increase-18-percent.md) — related
 - [The authors attribute the achievement difference to continuous time-and-space-independent interaction, greater academic engagement, and more active participation in the DWT environment](dwt-interaction-engagement-explanation.md) — related
+- [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — a broader claim this one bears on

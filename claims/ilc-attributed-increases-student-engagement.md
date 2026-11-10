@@ -55,3 +55,4 @@ Cross-case findings from interviews and classroom observations at four sites. Du
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](vsdr-alternative-problem-solving-reflection.md) — related
 - [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
 - [Teachers' written reflections attribute fraction-knowledge gains to solving and discussing tasks, studying curriculum and research, and observing students during research lessons](lesson-study-processes-teachers-report-knowledge-growth.md) — related
+- [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related

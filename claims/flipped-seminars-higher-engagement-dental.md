@@ -52,3 +52,4 @@ Observational report from the dental programme's own course evaluations after th
 - [Flipped classroom seminars improved immediate topic-specific test performance in three of four pharmacology topics compared with conventional teaching](fc-immediate-test-gains-three-topics.md) — related
 - [Transitioning a dental materials course to a flipped classroom format was followed by positive shifts in student satisfaction feedback across delivery, time, accessibility and content](fc-transition-positive-scef-feedback-dental-materials.md) — related
 - [After the flipped classroom transition, students submitted significantly more course evaluation comments, and nearly all agreed the course was enjoyable and the format effective](more-scef-comments-and-high-agreement-after-fc.md) — related
+- [Research-based interactive teaching techniques developed in undergraduate courses can be successfully employed in graduate courses](per-techniques-work-in-graduate-courses.md) — related

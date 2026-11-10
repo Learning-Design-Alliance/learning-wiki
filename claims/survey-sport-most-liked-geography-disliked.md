@@ -51,3 +51,4 @@ Questionnaire administered to 41 students randomly chosen from five classes at t
 - [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](reading-peaks-early-adolescence-girls-1920.md) — related
 - [Among 800 girls aged six to twenty interviewed in 1917-18, active games and sports constituted at least half of recreational preferences across the entire age range](active-games-dominate-girls-recreation-1920.md) — related
 - [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related
+- [Most first-grade science-education undergraduates surveyed at Ibaraki University dislike physics, and the dominant stated reason is that physics is too difficult to understand](pre-service-teachers-dislike-physics-too-difficult.md) — related

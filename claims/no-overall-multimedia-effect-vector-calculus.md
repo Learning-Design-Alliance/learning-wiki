@@ -53,3 +53,4 @@ Between-subject experiment (N = 16 without graphs, N = 20 with graphs), 36 engin
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
 - [Watching a multimedia presentation increases the probability of answering mid-term test questions correctly](multimedia-presentation-increases-probability-correct-answers.md) — reports the opposite
+- [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related

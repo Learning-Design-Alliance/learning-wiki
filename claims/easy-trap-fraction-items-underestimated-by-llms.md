@@ -80,3 +80,4 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - [Classification accuracy correlated with student performance: the classifier was more accurate on questions with more high-quality answers and less accurate where students struggled](classifier-accuracy-correlates-with-student-performance.md) — related
 - [Curriculum graduates rated their expected performance worse than Master graduates while rating case difficulty similarly](self-assessment-performance-difference.md) — related
 - [Accuracy on difficult questions is significantly lower than on easy questions for all four LLMs](difficulty-effect-attenuated-llms.md) — related
+- [Honor-class students answered fewer rotational-inertia questions correctly than expected despite the computations being fairly easy](honor-class-underperform-rotational-inertia-questions.md) — a narrower finding that bears on this claim

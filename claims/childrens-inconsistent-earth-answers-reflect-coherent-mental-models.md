@@ -54,3 +54,5 @@ The study is the standard citation for the view that children's misconceptions a
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
 - [Elementary students hold limited views of the difference between programmed behavior and AI-produced behavior](children-limited-programmed-vs-ai-behavior-views.md) — a narrower finding that bears on this claim
 - [B.Sc. students hold widespread misconceptions about ATP generation by mitochondrial oxidative phosphorylation, rooted in preconceptions from everyday experience](widespread-misconceptions-atp-generation-preconceptions.md) — a narrower finding that bears on this claim
+- [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
+- [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related

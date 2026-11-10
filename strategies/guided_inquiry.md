@@ -73,6 +73,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 - [Deliver a short post-exploration instructional video to complement science simulations](short-post-simulation-video-strategy.md)
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 - [Permit chatbots selectively within structured activities, e.g. a chatbot-free consolidation phase followed by a resource-supported inquiry phase](selective-chatbot-phased-cbl-permission.md)
+- [Pair simulations with guided-inquiry activities rather than relying on undirected exploration](guide-simulation-exploration-with-activities.md)
 
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.

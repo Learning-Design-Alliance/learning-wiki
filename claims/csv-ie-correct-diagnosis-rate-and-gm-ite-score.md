@@ -54,3 +54,4 @@ Cross-sectional analysis of 4,677 resident physicians from 563 teaching hospital
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
 - [Tachypnea-detecting residents answer the clinical simulation video question correctly far more often than non-detecting residents after matching](tachypnea-detection-higher-video-answer-rate.md) — related
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
+- [Students who studied physics in high school scored higher on an unannounced junior-high/first-year-high-school physics quiz than those who did not](quiz-score-gap-by-high-school-physics-study.md) — related

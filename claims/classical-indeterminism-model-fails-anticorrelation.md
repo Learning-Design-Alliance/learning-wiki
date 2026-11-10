@@ -53,3 +53,4 @@ An example modified program (Supplemental Material Fig. 3), in which measurement
 - [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](qrc-simulation-violates-bell-99-percent-800-pairs.md) — related
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](qrc-deployment-terminated-online-debates.md) — related
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](hidden-variables-violate-bell-50-percent.md)
+- [Comparing polarization data shows that the intensity of polarized light as well as polarized microwaves follows Malus's law](malus-law-light-and-microwaves.md) — related

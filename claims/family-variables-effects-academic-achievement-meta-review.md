@@ -72,3 +72,4 @@ Systematic review of meta-analyses, family findings comparing parental education
 - [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related
 - [Parental education, school type, and school grades shape the educational pathway: vocational training, age at enrolment, and study financing](educational-pathway-determinants-vocational-age-financing.md) — related
 - [The general home math environment factor positively predicts parent report of child math skills](general-hme-positive-predictor-parent-report.md) — related
+- [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — a narrower finding that bears on this claim

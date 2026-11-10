@@ -38,7 +38,7 @@ sources:
 # Pre-training Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 10 mixed, 1 against) · 25 studies (10 review, 8 quant-synthesis, 6 causal, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (8 for, 10 mixed, 1 against) · 26 studies (10 review, 8 quant-synthesis, 6 causal, 2 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Taken together: for novices facing a complex lesson on a system with many unfami
 - [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M] and [Pairing contextual encounters with explicit instruction produces stronger vocabulary outcomes than either alone](../claims/pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) [+M]: teaching the words a text uses, a reading-side relative of the primer.
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M]: the sibling principle for the main lesson itself; its discussion treats pre-training as the front-loaded counterpart.
 - [English-delivered AI explanations impose a double cognitive burden](../claims/double-burden-language-of-ai-instruction.md) [~M]: reported second-hand; why the primer's terms matter more in a second language.
+- [Majorana recommends starting the study of quantum mechanics with an ample and clear exposition of the essential mathematical tools before deriving the theory from experiment](../claims/majorana-math-tools-first-quantum-teaching.md) [+W] — attached 2026-11-10 from Bruno Preziosi et al. (2007), which proposed "Teach the mathematical tools of quantum mechanics as physicists would, without worrying about excessive formal rigour".
 
 ## Objective and learner-valued goal
 

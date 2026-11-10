@@ -62,6 +62,7 @@ Music and movement are not decorative add-ons; their benefit comes from well-est
 - [Acting-role-play](acting-role-play.md) — the movement component without the musical component
 - [Mnemonics](mnemonics.md) — songs are among the most durable mnemonic forms
 - [Conclude with a choreography-and-analysis final project in place of a final exam](choreography-analysis-final-project-culminating.md)
+- [Combine spectral analysis of musical instrument sounds with the free fall Doppler experiment to introduce non-science majors to spectra intuitively](music-spectra-before-doppler-strategy.md)
 
 ## Examples
 - Elementary alphabet and phonics songs (e.g., [Jolly Phonics](https://www.jollylearning.co.uk)), where each letter-sound has an associated action — melody plus gesture supporting phonemic encoding

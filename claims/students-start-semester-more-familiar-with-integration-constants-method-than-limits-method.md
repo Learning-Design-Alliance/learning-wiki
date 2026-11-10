@@ -49,3 +49,5 @@ Qualitative analysis of videotaped miniviews and a group quiz in intermediate me
 - [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) — related
 - [Lower-order habits persist after being superseded and resist new ways of working, requiring constant effort to overcome](law-of-habit-resistance-to-new-methods.md) — related
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
+- [A starburst pattern showed students using both limits and an integration constant were throwing all techniques at the problem rather than transitioning toward the limits method](starburst-kitchen-sink-not-stepping-stone.md) — related
+- [Many students in a sophomore mechanics class incorrectly insert a minus sign in front of the ma term when setting up a scalar net-force equation.](students-incorrect-minus-sign-ma-term-scalar-equation.md) — related

@@ -82,9 +82,12 @@ Estimation works as a form of [activation](../principles/activation.md): committ
 5. Repeat with varied contexts so learners generalize the estimation habit rather than memorizing one anchor.
 
 ## Related Strategies
+
 - [Predict-Observe-Explain](predict-observe-explain.md) — estimation applied to demonstrations and experiments
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — estimation is a prediction-based activation routine
 - [Error Analysis](../principles/error-analysis.md) — the estimate-vs-actual comparison is a structured error-analysis opportunity
+- [Give each student a physical garlic bulb and about 20 minutes to measure it and work the planting problems, then pool measurements on a class whiteboard](garlic-bulb-hands-on-measurement-strategy.md)
+- [Begin a physics problem by predicting from remembered experience, then check against calculation](predict-from-experience-then-check-calculation.md)
 
 ## Examples
 - **Fermi problems in physics classrooms** — "How many atoms are in a human body?" Students decompose the question, estimate each part, then compare against the accepted value; widely used in University of Maryland's Physics Education Research Group materials ([Einstein Project Fermi problems](https://www.physics.umd.edu/perg/)).

@@ -54,3 +54,4 @@ During very early focus group testing, many users "struggled to understand or di
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations](ai-overviews-mixed-effects-academic-search.md) — related
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related
+- [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](pre-lab-prediction-improves-lab-experience.md) — related

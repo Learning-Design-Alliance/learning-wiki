@@ -53,3 +53,4 @@ Narrative review of prior literature in the introduction. The article states "Ty
 - [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — related
 - [Specific active strategies — completing problem sets, self-quizzing, and explaining concepts — were uniquely predictive of biology exam performance, while passive strategies were nonsignificant or negative](specific-active-strategies-uniquely-predictive-biology.md) — related
 - [Passive exposure such as rereading is ineffective for creating memories, while retrieval practice and deliberate practice of skills support learning; frequent active homework can increase biology performance](active-homework-retrieval-practice-effectiveness.md) — related
+- [The model predicts that ineffective teaching based on one-way information transfer is fundamentally inadequate](one-way-information-transfer-rote-teaching-inadequate.md) — related

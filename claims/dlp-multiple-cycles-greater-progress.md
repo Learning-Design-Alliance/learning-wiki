@@ -57,3 +57,4 @@ Survey analysis across pilot-year coaching logs and teacher surveys; the report 
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](dlp-teachers-confident-21st-century-skill-technology-use.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
+- [Students benefit more from depth than breadth in high school science courses, supporting data-intensive deep study of core science content](depth-over-breadth-high-school-science.md) — related

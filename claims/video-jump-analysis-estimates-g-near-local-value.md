@@ -53,3 +53,4 @@ Numerical analysis of videotaped vertical jump data shown in figure 2, with velo
 - [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — related
 - [The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces](ai-video-constant-friction-recovers-plausible-mu.md)
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on
+- [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — related

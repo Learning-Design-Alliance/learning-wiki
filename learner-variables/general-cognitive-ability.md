@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 234 claims (148 show a difference, 51 mixed, 35 no difference) · 161 studies (63 causal, 60 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 38 of 161 report an effect size · 231 claims rest on one study
+> **Evidence** · 236 claims (149 show a difference, 51 mixed, 36 no difference) · 163 studies (63 causal, 61 associational, 15 quant-synthesis, 13 review, 7 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 163 report an effect size · 233 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -270,6 +270,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Enhanced active choice effects are larger for women with more education and higher abstract reasoning ability, though subgroup differences are not statistically significant](../claims/enhanced-active-choice-education-ability-heterogeneity.md) [~M] — an instructional effect differs with it
 - [Student aptitude strongly predicts writing performance but not clicker improvement, with no treatment × student interactions](../claims/aptitude-predicts-writing-not-clicker-gains.md) [~M] — learners who differ on it differ in outcomes
 - [The AH5 aptitude test showed inconsistent and largely non-significant correlations with medical education outcomes, unlike attainment measures](../claims/ah5-aptitude-inconsistent-prediction.md) [~M] — learners who differ on it differ in outcomes
+- [First-grade gifted 'physicists' pupils overwhelmingly reach the highest PISA science proficiency levels, unlike their grammar-school counterparts](../claims/gifted-first-graders-top-pisa-levels.md) [+M] — learners who differ on it differ in outcomes
+- [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](../claims/traditional-content-training-no-reasoning-transfer.md) [-W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

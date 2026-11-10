@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (13 show a difference, 4 mixed, 3 no difference) · 11 studies (6 causal, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 11 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (14 show a difference, 4 mixed, 3 no difference) · 12 studies (6 causal, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 20 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -56,6 +56,7 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [The association between quality of children's understanding and their application of the area formula of a parallelogram did not reach significance.](../claims/parallelogram-formula-association-not-significant-claim.md) [-M] — learners who differ on it differ in outcomes
 - [Nurses who read the AHA guidelines showed relatively good blood pressure measurement knowledge, while no other baseline characteristic was associated with skill or knowledge](../claims/reading-aha-guidelines-associated-bp-knowledge.md) [+M] — learners who differ on it differ in outcomes
 - [Subjective and objective assessment skills were the most coded learning gain from the simulation placement, with outcome-measure practice carried into clinical placements](../claims/sbl-assessment-skills-most-coded.md) [+M] — measured as an outcome of the instruction studied
+- [Plotting microphone distance versus time delay yields the speed of sound as the slope, reinforcing the time-of-flight concept](../claims/distance-delay-slope-sound-speed.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

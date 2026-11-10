@@ -54,3 +54,4 @@ Thematic content analysis of clinical interviews with 6 students (3 from each gr
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Multimedia learning materials supported self-paced review of difficult concepts, with auscultation skills highlighted as especially challenging](multimedia-materials-self-paced-review.md) — related
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
+- [Students gain direct understanding of the finiteness of the speed of light and of refraction slowing light](finiteness-of-light-understanding-outcome.md) — related

@@ -64,3 +64,4 @@ Discussion-section finding from an interview study of 10 Jordanian secondary-sch
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related
 - [Pair's self-evaluation performed every four sessions may make students more aware of their reading level and progress, enabling strategies for improvement crucial for modification of the self-concept](pair-self-evaluation-metacognitive-awareness.md) — related
 - [Embedded reflective writing in e-learning fostered metacognitive engagement and transformative learning beyond formal objectives](reflective-writing-elearning-metacognitive-transformative.md) — related
+- [After deep explanation of recoil, 18 students reported learning something new and benefiting from the discussion](post-instruction-students-receptive-recoil-discussion.md) — related

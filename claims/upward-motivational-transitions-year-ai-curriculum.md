@@ -52,3 +52,4 @@ Latent transition analysis of 2,086 students across one academic year estimated 
 - [Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester](positive-adaptation-highest-stability-maladaptive-least.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Peer-teaching group maintained stable confidence while faculty-led group declined](peer-teaching-stable-confidence-faculty-declined.md) — related
+- [Empirical score transitions show strong persistence in the same knowledge state rather than upward movement](empirical-transitions-show-state-persistence.md) — related

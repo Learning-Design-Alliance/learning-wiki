@@ -68,3 +68,4 @@ Descriptive SAGE Frustrations subscore means from the same entrance-exit survey 
 - [Students in small-group learning sections earned higher final exam class averages than students in individual work-based sections of a fourth-year university biology course](sgl-higher-final-exam-averages-biology.md) — related
 - [Students' open-ended responses in one uncontrolled pre-post study were grouped into categories of understanding, different perspectives, motivation, and social support, while citing scheduling, time, motivation, and communication limits](student-perceived-benefits-limitations-sgl.md) — related
 - [Small-group learning raised the 10th percentile of final exam grades, with the largest gains among the least prepared students](sgl-raised-tenth-percentile-exam-grades.md) — related
+- [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](pre-lab-prediction-improves-lab-experience.md) — related

@@ -70,3 +70,4 @@ The review summarises a Piagetian liquid quantity conservation task study by Pin
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related
 - [Lexical alignment reduces ambiguity and cognitive costs and is detectable as recurrence in conversational data](lexical-alignment-reduces-ambiguity.md) — related
 - [Chan et al. found physical-controller VR examination has higher ease of use and lower cognitive load than hand-tracking gestures](physical-controller-vr-higher-ease-of-use-lower-cognitive-load.md) — related
+- [Gesture-speech mismatches index transitional knowledge and can predict subsequent learning](gesture-speech-mismatch-predicts-learning.md) — related

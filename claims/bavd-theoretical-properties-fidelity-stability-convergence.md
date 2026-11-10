@@ -51,3 +51,4 @@ Analytical derivations (Theorems 1-5 and Proposition 1) proved in Section 11. Th
 - [Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance](bavd-attenuation-monotone-accessibility-security-tradeoff.md) — related
 - [The closed-loop adaptation law is stable only when the adaptation gain is small relative to behavioural responsiveness](bavd-closed-loop-stability-contraction-condition.md) — related
 - [The temporal diversion channel is unavailable on commodity 60 Hz displays, leaving a weaker spatial-only variant](bavd-temporal-channel-unavailable-60hz-hardware.md)
+- [Updating microcanonical temperature estimates converges to a monotonically increasing T(E), from which the entropy and density of states are obtained by integration](microcanonical-temperature-estimate-convergence.md) — related

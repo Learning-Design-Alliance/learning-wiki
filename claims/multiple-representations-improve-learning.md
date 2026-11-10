@@ -126,3 +126,6 @@ This review addresses the "representation dilemma": students often must learn un
 - [Students require prompting to connect information across multiple representations and do not do so spontaneously](students-need-prompting-connect-mers.md) — related
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — a narrower finding that bears on this claim
 - [Visual causal model (dual-mode) presentations yield larger immediate knowledge gains than auditory-only presentations of GAD explanations](visual-causal-models-improve-immediate-gad-learning.md) — related
+- [Texture-based LIC representation shows field structure at near-display resolution, avoiding the spatial-resolution limits of field lines and icon grids](lic-spatial-resolution-advantage-over-field-lines.md) — related
+- [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — a narrower finding that bears on this claim
+- [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related

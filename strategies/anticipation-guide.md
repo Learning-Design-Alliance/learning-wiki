@@ -73,11 +73,13 @@ Anticipation guides work by surfacing existing schemas and then challenging them
 6. Discuss discrepancies in pairs or whole class, focusing on *why* initial beliefs were wrong ([Cognitive Conflict](../elements/cognitive-conflict.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the broader family; the anticipation guide is a structured, misconception-targeted instance
 - [KWL](../strategies/kwl.md) — a related pre-during-post routine with open-ended rather than agree/disagree prompts
 - [Prequestions](../strategies/prequestions.md) — question-based activation with similar pre-testing effects
 - [KWL Chart](kwl-chart.md) — a related pre/during/post scaffold with open-ended prompts instead of agree/disagree statements
 - [Erroneous Examples](../elements/erroneous-examples.md) — the worked-example analogue: presenting flawed material for learners to diagnose
+- [Paired-question technique: matching questions so students get one right and one wrong, then guiding refinement of raw intuition](paired-question-technique-elby.md)
 
 ## Examples
 - A middle-school science teacher uses statements like "Heavier objects fall faster" before a gravity unit; students overwhelmingly agree, then confront Galileo's reasoning in the text and must reconcile their revision.

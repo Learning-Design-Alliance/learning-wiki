@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 272 claims (187 show a difference, 59 mixed, 26 no difference) · 168 studies (62 associational, 53 causal, 18 review, 15 qualitative, 10 theoretical, 8 design, 2 quant-synthesis), `q1`–`q4` · 39 of 168 report an effect size · 269 claims rest on one study
+> **Evidence** · 273 claims (188 show a difference, 59 mixed, 26 no difference) · 169 studies (62 associational, 53 causal, 18 review, 15 qualitative, 10 theoretical, 9 design, 2 quant-synthesis), `q1`–`q4` · 39 of 169 report an effect size · 270 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -307,6 +307,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [EM interns who experienced a patient experience simulation reported firsthand physical discomfort, emotional stress, confusion, and poor communication as patients or family members in the ED](../claims/interns-experienced-ed-discomfort-stress-confusion.md) [+M] — measured as an outcome of the instruction studied
 - [Interventions creating close, trusting ties between community members and CHVs through clear community positioning trigger self-esteem, pride, duty and community recognition](../claims/chv-community-ties-self-esteem-duty.md) [+M] — measured as an outcome of the instruction studied
 - [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](../claims/negative-achievement-emotions-elearning-rote-strategies.md) [+W] — learners who differ on it differ in outcomes
+- [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](../claims/pre-lab-prediction-improves-lab-experience.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

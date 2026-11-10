@@ -61,3 +61,4 @@ Proportion of class time devoted to group work 0.04 0.01 **"
 - [Instructors in traditional fixed-seat classrooms report more lecture than those in classrooms designed to accommodate group work](fixed-seat-classrooms-more-lecture.md) — related
 - [Generative-instruction classes spend a significantly greater proportion of class time on higher-order cognitive skill questions than active-instruction classes](generative-instructors-more-time-on-hocs.md) — related
 - [Students perceived the problem-based fundamental nursing curriculum as predominantly lecture-based despite its problem-based design intention](students-perceived-pbln-as-lecture-based.md) — related
+- [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related

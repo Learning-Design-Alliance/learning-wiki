@@ -53,3 +53,4 @@ Post-course Likert questionnaire of the 60 experimental-group students only (Cro
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Experimental-group students were more satisfied with teaching scene, individual participation, and teaching content, but not with course discussion, group cooperation, or teacher style](ai-scenario-simulation-selective-satisfaction-gains.md) — related
 - [Students rated the virtual surgical skills session highly, with a mean overall rating of 8.85 out of 10](virtual-session-high-satisfaction-rating.md) — related
+- [In the first course offering, students rated overall course quality 6.05/7.00 and instructor quality 6.89/7.00, and all open-ended comments were positive](mathematica-course-high-satisfaction-ratings.md) — related

@@ -48,3 +48,4 @@ Survey ratings of contribution to learning (1–5 scale) from the N = 227 sample
 - [Cold calling and volunteering are rated the most anxiety-inducing practices, and the most anxiogenic practices tend to be rated as having the least educational value](anxiogenic-practices-rated-least-educational-value.md) — related
 - [Students rate instructional practices with a social component as more anxiety provoking than non-social practices](social-ebips-more-anxiety-provoking-than-nonsocial.md) — related
 - [High-academic-self-efficacy students rate some individual practices as causing less anxiety and rate some practices as contributing more to learning](self-efficacy-predicts-practice-perceptions.md) — related
+- [End-of-semester lecture ratings averaged about 4/5 across topics, with special functions (L12) rated differently by juniors (4.7±0.5) than seniors (3.9±0.7)](lecture-topic-ratings-phys497-spring2007.md) — related

@@ -97,6 +97,7 @@ Experimentation supports learning by making learners active generators and teste
 - [Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations](../strategies/simulation-as-non-threatening-experimentation-alternative.md)
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](../strategies/scaffold-hypothesis-formation-before-testing.md)
 - [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
+- [Invite student-generated questions from the problem context to launch additional learning cycles in which students identify variables, hypothesize, design experiments, and test predictions](../strategies/garlic-student-question-learning-cycles.md)
 
 ## Key Sources
 - Klahr, D., & Dunbar, K. (1988). Dual space search during scientific reasoning. *Cognitive Science, 12*(1), 1–48. [doi:10.1207/s15516709cog1201_1](https://doi.org/10.1207/s15516709cog1201_1)

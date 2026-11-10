@@ -96,6 +96,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](ground-tasks-in-learners-real-world-contexts.md)
 - [Explicitly train students to transfer story-based contextualization to novel situations before exams](condition-story-based-contextual-transfer.md)
 - [Implement clinical context in all numeracy- and statistics-related courses in medical education](clinical-context-in-numeracy-courses.md)
+- [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
 
 ## Examples
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).

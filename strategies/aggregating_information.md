@@ -58,8 +58,10 @@ Aggregation turns discussion from a sequence of individual utterances into an ob
 5. Return to the aggregate at the close of the unit so learners can see how the shared understanding evolved.
 
 ## Related Strategies
+
 - Activating prior knowledge — aggregation at the start of a unit surfaces the group's prior ideas for collective examination
 - Think-pair-share — the pair discussion generates the raw material that whole-class aggregation then organizes
+- [Have groups record data summaries on the board for plenary statistical discussion at critical points](board-data-plenary-discussion-strategy.md)
 
 ## Examples
 - **Knowledge Forum** ([IKIT](https://www.knowledgeforum.com)) — Scardamalia and Bereiter's platform built around aggregating student notes into "rise-above" views, where learners explicitly synthesize earlier contributions into higher-level ideas.

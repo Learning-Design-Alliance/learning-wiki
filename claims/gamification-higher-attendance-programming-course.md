@@ -56,3 +56,4 @@ Administrative data comparison of attendance and late arrivals between the contr
 - [Attendance at interactive integration/feedback sessions was high when linked to course marks](high-attendance-marked-feedback-sessions.md) — related
 - [Student peer teachers were more likely to arrive on time and less likely to cancel than physician teachers](student-teachers-more-reliable-attendance.md) — related
 - [Attendance at R@W group sessions was high for sessions 1 to 3 but lower for the final session](raw-group-session-attendance-pattern.md) — related
+- [Students under Cash-Participation reportedly arrived more prepared, aiding material-coverage efficiency](cash-participation-preparedness-efficiency.md) — related

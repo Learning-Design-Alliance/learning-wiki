@@ -69,3 +69,4 @@ From the same interview set, females in the unformatted-to-formatted sequence (N
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests](formatted-problem-solving-plan-posttest-advantage.md) — related
 - [Interviewed students responded positively to the EDI learning structure and the emphasis on diagrams](edi-student-interview-response.md) — related
+- [Analysis of published PER work indicates students lack a structured methodology for solving physics problems](students-lack-structured-physics-problem-solving-methodology.md) — related

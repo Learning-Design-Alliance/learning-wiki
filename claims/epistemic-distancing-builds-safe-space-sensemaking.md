@@ -52,3 +52,4 @@ Close qualitative discourse analysis of videotaped first discussions of three tu
 - [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](groups-vary-first-sensemaking-timing.md) — related
 - [Four distinct, reliably codable behavioral clusters appear in collaborative tutorial video data](four-behavioral-clusters-tutorial-video.md) — related
 - [Students valued individual presentations in the tutorial as a good idea but mostly declined to give them because preparation was too time-consuming](individual-presentations-valued-but-skipped-time-cost.md) — related
+- [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — a narrower finding that bears on this claim

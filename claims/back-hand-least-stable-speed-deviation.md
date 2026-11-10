@@ -47,3 +47,4 @@ Average deviation from the median words written, computed separately for the one
 ## Related Claims
 - [Extreme slant is fastest in the one-minute test while back-hand is fastest in the five-minute test and vertical writing slowest](slant-style-speed-one-and-five-minute-tests.md) — related
 - [The fastest handwriting style, back-hand, shows the largest percentage of cases written with free hand movement](free-hand-movement-associated-with-fastest-style.md) — related
+- [High school students' kicked soccer ball speeds averaged 38 km/h with a standard deviation of 12 km/h](student-kick-speed-distribution-38-kmh.md) — related

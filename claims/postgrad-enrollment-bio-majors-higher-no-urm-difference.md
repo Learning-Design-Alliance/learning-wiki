@@ -49,3 +49,4 @@ Chi-square comparison of National Student Clearinghouse enrollment data (capture
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
 - [URM students attended voluntary SGM workshops more frequently than non-URM students](sgm-attendance-urm-higher.md) — related
 - [URM students who persisted as biology majors still had significantly lower subsequent biology and NSE GPAs than non-URM peers](urm-subsequent-gpa-still-lower.md) — related
+- [Program alumni published in leading journals and students attribute their research consciousness to the introductory courses](alumni-research-outcomes-anecdotal.md) — related

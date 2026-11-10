@@ -55,3 +55,4 @@ The article's retrospective section reports this as accumulated experience citin
 - [Physical presence of a robotic tutor agent is not significantly related to students' task performance in an emotionally-adaptive ITS](physical-presence-no-task-performance-effect.md) — a narrower finding that bears on this claim
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — related
 - [Students in the sports education model report enjoying non-player roles and gaining responsibility and empathy](sem-students-enjoy-non-player-roles-responsibility.md) — related
+- [Agent-based tutoring systems such as Andes increase student learning in physics, though they cost instructors and students time to learn](andes-tutor-increases-physics-learning.md) — related

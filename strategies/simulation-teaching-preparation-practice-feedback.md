@@ -49,6 +49,7 @@ The article recommends that simulation teaching be supported by "providing prepa
 - [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 - [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
 - [Staged pre-briefing preparation before a simulation scenario (written material, online class, laboratory practice)](staged-pre-briefing-preparation-sequence.md)
+- [Embed a relativity simulation in laboratory sessions with pre-work, collaborative exploration and assessed visual log books](rtr-laboratory-implementation-strategy.md)
 
 ## Examples
 -

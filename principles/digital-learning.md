@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (45 for, 50 mixed, 7 against) · 111 studies (29 causal, 24 review, 18 theoretical, 16 quant-synthesis, 9 associational, 8 qualitative, 7 design), `q1`–`q4` · 14 of 111 report an effect size · 91 claims rest on one study
+> **Evidence** · 103 claims (46 for, 50 mixed, 7 against) · 112 studies (29 causal, 24 review, 19 theoretical, 16 quant-synthesis, 9 associational, 8 qualitative, 7 design), `q1`–`q4` · 14 of 112 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [MEES motivation, learning enhancers, and real-world translation domains were highly rated, while barriers and learning discouragers received low scores](../claims/mees-domain-scores-pediatric-elearning.md) [+W] — attached 2026-11-04 from Hrasnica F et al. (2026), which proposed "Incorporate key messages, feedback, real-world cases, interactivity, and customizable content into e-learning tools".
 - [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](../claims/ar-more-challenges-than-benefits-anatomy.md) [+W] — attached 2026-11-04 from Williams A et al. (2026), which proposed "Match AR hardware delivery method to the intended learning benefit: mobile devices for individual learning, HMDs for collaborative and immersive benefits".
 - [The effect sizes of off-task use and slide viewing on exam scores are similarly small, so the cost-benefit ratio depends on how each student uses the laptop](../claims/laptop-cost-benefit-ratio-depends-on-student.md) [+W] — attached 2026-11-08 from Day Alison J. et al. (2021), which proposed "Weigh the costs and benefits of laptop use per student rather than banning or endorsing laptops wholesale"; tests this page's relationship.
+- [Downloading and editing online video to a local file is presented as the optimum route, solving reliability, cropping, display and portability problems, but it violates most sites' terms of use and likely copyright unless the owner grants permission](../claims/download-edit-video-optimum-but-legally-limited.md) [+W] — attached 2026-11-10 from Micolich (2008), which proposed "Use online video footage in higher-year physics lectures to provide a visual, dynamic substitute for live demonstrations that become impractical as the physics and equipment grow more complex".
 
 ## Objective and learner-valued goal
 

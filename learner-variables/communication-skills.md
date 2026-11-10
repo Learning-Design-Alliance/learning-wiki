@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (125 show a difference, 34 mixed, 25 no difference) · 152 studies (59 causal, 26 review, 25 associational, 20 quant-synthesis, 8 design, 7 qualitative, 7 theoretical), `q1`–`q4` · 22 of 152 report an effect size · 180 claims rest on one study
+> **Evidence** · 185 claims (126 show a difference, 34 mixed, 25 no difference) · 153 studies (59 causal, 26 review, 25 associational, 20 quant-synthesis, 8 qualitative, 8 design, 7 theoretical), `q1`–`q4` · 22 of 153 report an effect size · 181 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -226,6 +226,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Experience and self-learning are insufficient for communication skills: a randomized trial showed proper training improves oncologists' communication of bad news](../claims/communication-training-improves-oncologist-bad-news-skills.md) [+M] — measured as an outcome of the instruction studied
 - [Skills laboratory training produces better IPPI sub-ratings for both technical and communication skills](../claims/ippi-technical-communication-subcategory-advantage.md) [+M] — measured as an outcome of the instruction studied
 - [Medical students' observed communication skills with simulated patients improved between year 1 and year 2 regardless of curriculum cohort](../claims/communication-skills-improve-over-first-two-years.md) [+M] — measured as an outcome of the instruction studied
+- [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](../claims/students-overextend-physics-metaphors.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

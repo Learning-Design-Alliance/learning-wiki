@@ -74,3 +74,4 @@ The review reports the largest coefficients: conscientiousness–academic adjust
 - [Social support in all forms is a key protective factor for psychosocial success in the transition to university](social-support-key-protective-factor-transition.md) — related
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — related
 - [Associations between psychosocial factors and academic performance are heterogeneous, with 13 of 45 studies reporting null or weak findings](heterogeneous-associations-null-findings-medical-students.md) — related
+- [Student ball speed showed only very weak (if any) correlation with personal characteristics such as height (r² = 0.09)](ball-speed-weak-correlation-height-r2-009.md) — a narrower finding that bears on this claim

@@ -60,8 +60,10 @@ Writing a lab report requires learners to transform raw experience into organize
 6. Optionally, run structured peer review between drafting and submission
 
 ## Related Strategies
+
 - [Case-Based Learning](../strategies/case-based-learning.md) — reports on real datasets or published studies share the same evidence-to-claim reasoning structure
 - [Peer Review](../elements/peer-review.md) — a natural complement that adds an authentic audience and evaluation practice
+- [Scientific Community Labs: open-ended empirical questions with student-designed experiments and group reports](scientific-community-labs-strategy.md)
 
 ## Examples
 - **[5E Learning Cycle](../principles/inquiry-based-learning.md)** — the lab report serves the "Explain" and "Evaluate" phases, where learners formalize what the "Explore" phase surfaced

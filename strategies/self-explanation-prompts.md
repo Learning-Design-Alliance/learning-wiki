@@ -86,6 +86,7 @@ Self explanation forces the learner to actively integrate new information with p
 - **Retrieval practice** — complementary generative activity; explanation targets understanding, retrieval targets accessibility
 - **Comparing contrasting cases** — comparison prompts often elicit self explanations as a byproduct
 - [Induce self-explanation by prompting learners during study and problem solving](prompt-learners-to-self-explain-during-study.md)
+- [Instruct pairs to jointly explain problem-solving steps while working with a step-based intelligent tutoring system](joint-explanation-with-its-strategy.md)
 
 ## Examples
 - **Chi et al.'s classic paradigm** — Studying physics worked examples with each step annotated, prompted "What is this line telling you? Explain why it was done."

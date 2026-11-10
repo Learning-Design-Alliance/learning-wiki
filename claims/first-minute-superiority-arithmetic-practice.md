@@ -50,3 +50,4 @@ Analysis of medians from ten-minute timed tests in the four fundamentals, about 
 - [First-minute work is less variable than later-minute work in arithmetic practice tests](first-minute-less-variable.md) — related
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — related
 - [First-minute and last-minute arithmetic performance correlate highly across all fundamentals and grades](high-correlation-first-last-minute.md) — related
+- [Reaction time does not keep improving with practice beyond initial familiarization, and a 20-25 minute familiarization period stabilizes measurement](reaction-time-practice-effect-plateaus-physics-students.md) — related

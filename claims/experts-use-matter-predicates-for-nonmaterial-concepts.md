@@ -70,3 +70,6 @@ Re-analysis of expert interview excerpts from Slotta and Chi's own study shows e
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
+- [Coherent systems of metaphors exist in physicists' quantum-mechanics language and encode an underlying ontology of matter, processes and states](coherent-metaphor-systems-in-physicists-language.md) — a broader claim this one bears on
+- [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
+- [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related

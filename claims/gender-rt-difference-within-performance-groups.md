@@ -47,3 +47,4 @@ Table 4 of the cross-sectional study reports gender comparisons within each achi
 ## Related Claims
 - [Female students had faster visual reaction times and better academic performance than male students](female-faster-vrt-better-academic-performance.md) — related
 - [Low achievers had significantly slower reaction times than mid and high achievers, but mid and high achievers did not differ](low-achievers-slower-rt-than-mid-high.md) — related
+- [Reaction time shows no variation based on gender in this sample, with the female-to-male reaction-time ratio equal to unity](no-gender-difference-reaction-time-physics-students.md) — reports the opposite

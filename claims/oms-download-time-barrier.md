@@ -52,3 +52,4 @@ Case study observation and email-interview data from the I-TEP course. The study
 - SIM requires no specialized technology beyond computers or tablets that most schools already provide — reports the opposite
 - [Students with low internet bandwidth could complete the course when offered offline video download and batch mode alternatives](low-bandwidth-mitigation-strategies.md) — related
 - [Theoretical BLS knowledge outcomes do not differ between instructor-led sessions and self-directed computer CD/DVD learning](bls-theory-instructor-vs-self-directed-no-difference.md)
+- [Downloading and editing online video to a local file is presented as the optimum route, solving reliability, cropping, display and portability problems, but it violates most sites' terms of use and likely copyright unless the owner grants permission](download-edit-video-optimum-but-legally-limited.md) — related

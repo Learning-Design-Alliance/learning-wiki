@@ -68,3 +68,5 @@ Analysis of normalized gains by source representation mode in electromagnetism (
 - [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study](translation-among-modes-low-gain-large-effect.md) — related
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related
+- [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
+- [In interviews, students understood real-and-imaginary wave-function representations but the phase-color representation caused significant problems for most students](wave-function-representation-phase-color-problems.md) — related

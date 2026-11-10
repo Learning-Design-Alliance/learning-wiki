@@ -62,3 +62,7 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
 - [Normalized gains in HOTS aspects were moderate for communication, reasoning and connection but low for problem solving](cbps-hots-aspect-normalized-gains.md) — related
 - [Scientific reasoning gains (LCTSR) are equal between flipped and nonflipped active classrooms and significant within both](lctsr-reasoning-gains-equal-flipped-nonflipped.md) — related
+- [Several attitudes toward science improved in a general education astronomy course, with normalized gains of about 50% on the top items](astronomy-course-attitude-gains-50-percent.md) — related
+- [US and Chinese freshmen score almost identically on the Lawson scientific reasoning test (effect size 0.10, p = 0.201), despite large differences in physics content training](lawson-test-no-us-china-difference.md) — related
+- [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — a broader claim this one bears on

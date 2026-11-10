@@ -59,9 +59,11 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 6. Fade the conceptual supports as fluency develops, shifting prompts from "why does this work?" to "which method fits this problem?"
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — worked examples annotated with conceptual rationale are a primary vehicle for connecting the two knowledge types
 - [Self-Explanation](../elements/self-explanation.md) — the mechanism by which learners extract the concept–procedure link
 - [Comparing Cases](../elements/comparing-cases.md) — contrast supports abstraction of the concept underlying different procedures
+- [Use properly designed quantitative problems to reveal and reinforce students' conceptual understanding](quantitative-problems-reveal-conceptual-understanding.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — bridge unfamiliar procedures to familiar conceptual structures

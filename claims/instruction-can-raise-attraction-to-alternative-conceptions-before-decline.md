@@ -52,3 +52,4 @@ A rise in the number of students choosing an alternative-conception distractor a
 ## Related Claims
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](misconceptions-are-knowledge-elements-refined-not-replaced.md) — the theory this finding fits
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students](llm-math-distractors-more-valid-than-plausible.md) — related; distractors that track student ideas
+- [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related

@@ -71,3 +71,4 @@ Survey results on the sources of differing student preferences, reported in the 
 - [In a pilot with 10 participants, retrieved example recipes were perceived as better (60%) or same level (40%), with none rated much better, supporting the (+0.4, +0.8) quality range.](relex-pilot-quality-range-perception.md) — related
 - [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related
 - [Sixty-eight percent of students preferred the cartooning activity over learning in a traditional question-and-answer format](students-prefer-cartooning-over-traditional-format.md) — related
+- [Students in traditional laboratories access knowledge almost solely from authority, while reformed Scientific Community Labs foster sense-making framing](traditional-labs-authority-versus-scl-sense-making.md) — related

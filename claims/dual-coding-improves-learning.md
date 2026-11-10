@@ -186,3 +186,4 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related
 - [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](sglm-perceived-visual-learning.md) — related
 - [Two contextual differences — case format (serial cue vs. whole cases) and dual-channel information processing — are proposed explanations for why reflection phases are effective with text-based cases but not in simulation-based learning](case-format-and-channel-explanations-reflection-effectiveness.md) — related
+- [A pictorial 'images' method allows teleportation to be explained to laypeople using only the simplest mathematics](pictorial-images-method-explains-teleportation-laypeople.md) — a narrower finding that bears on this claim

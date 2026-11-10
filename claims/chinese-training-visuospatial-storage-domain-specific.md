@@ -52,3 +52,4 @@ The review reports, citing Demetriou et al. 2005, a cross-cultural comparison of
 - [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](common-attentional-component-binding-running-span-visual-stm.md) — related
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](short-term-storage-capacity-two-to-four-units.md) — related
+- [Ancient American mirrors of image-forming quality predate Greek and Chinese image-forming mirrors, usable to counter students' ideological dependence](precolombian-mirror-primacy-teaching.md) — related

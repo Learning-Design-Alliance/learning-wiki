@@ -49,6 +49,7 @@ El artículo distingue dos representaciones del movimiento aparente del Sol: el 
 
 - [Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año](../elements/solar-arc-maqueta-foam-wire-flashlight.md)
 - [Debate entre grupos asignados a los modelos geocéntrico y heliocéntrico para explorar explicaciones alternativas de los mismos fenómenos](../strategies/geocentric-heliocentric-model-debate.md)
+- [Iniciar la enseñanza astronómica explorando el ciclo día-noche con preguntas guía y dramatización con esferas](../strategies/estrategia-dia-noche-preguntas-guia-esferas.md)
 
 ## Key Sources
 - Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P. (2009). El movimiento de las sombras: Una propuesta de trabajo para la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui

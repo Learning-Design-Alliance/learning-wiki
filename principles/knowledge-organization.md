@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (19 for, 13 mixed) · 36 studies (12 causal, 8 review, 6 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (20 for, 13 mixed) · 37 studies (12 causal, 8 review, 6 quant-synthesis, 4 theoretical, 3 associational, 3 design, 1 qualitative), `q1`–`q4` · 8 of 37 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ Do not rank these by effect label: physics students on hierarchies, pooled conce
 - [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](../claims/frtf-talent-cluster-sorting-validated.md) [+W] — attached 2026-10-08 from Pretti et al. (2021), which proposed "Use a shared talent framework to give WIL stakeholders a common language for communicating about talent"; tests this page's relationship.
 - [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+W]
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
+- [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](../claims/textbooks-fail-postulate-attribution.md) [+W] — attached 2026-11-10 from Alfred Ziegler (2007), which proposed "When teaching the Lorentz transformation, make explicit which derivation steps rest on which postulate and which on additional assumptions".
 
 ## Objective and learner-valued goal
 

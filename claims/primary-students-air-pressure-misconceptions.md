@@ -53,3 +53,5 @@ Narrative literature review attributing these misconceptions to Lin (2006) for T
 - [Conceptual change instruction reduced specific air pressure misconceptions more than traditional instruction](conceptual-change-reduces-specific-air-pressure-misconceptions.md) — a narrower finding that bears on this claim
 - [Traditional instruction was associated with increases in some air pressure misconceptions](misconceptions-can-increase-in-traditional-instruction.md) — related
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
+- [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
+- [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](granular-matter-model-replaced-by-md.md) — related

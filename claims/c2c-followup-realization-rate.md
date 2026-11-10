@@ -48,3 +48,4 @@ Two-month follow-up survey (t2) of the same C2C cohort; 32 participants (50%) pr
 - [Strength of commitment was not significantly correlated with probability of realization, which participants attributed to workplace factors](commitment-strength-realization-null-correlation.md) — related
 - [Ten months after training, most follow-up respondents reported real emergency involvement and perceived benefits from the training in emergencies and in daily routines](follow-up-perceived-benefits-emergencies-and-routines.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [Teacher training must itself exemplify effective teaching and requires an extended period, estimated at no less than about two months of daily study plus a year of implementation](teacher-training-must-model-effective-teaching-and-time.md) — related

@@ -71,3 +71,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
 - [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related
 - [LLM-powered virtual patient conversations are inexpensive and fast to produce, at US $0.51 per conversation with GPT-4.0-Turbo](llm-vp-low-cost-scalable.md) — related
+- [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related

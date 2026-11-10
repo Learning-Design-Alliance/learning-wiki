@@ -54,3 +54,4 @@ Multi-level logistic regression (Table 7) on transition counts between AOIs; the
 - [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related
 - [System support was only marginally present in teachers' accounts, and most teachers who raised it felt they did not receive proper support.](online-teaching-system-support-lacking.md) — related
 - [Graph type reliably accounts for variation in assessment performance, within each test and combined](graph-type-accounts-for-performance-variance.md) — related
+- [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related

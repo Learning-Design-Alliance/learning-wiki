@@ -72,3 +72,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Variable practice yields higher transfer to a procedural task (salpingectomy) than self-directed training](variable-practice-higher-transfer-procedural-task.md) — related
 - [The authors state that long-term retention of skills is better when learned and repeatedly trained over a longer time frame, making the compact two-day format a limitation](longer-timeframe-better-skill-retention.md) — related
 - [Real-world and tablet training produce faster instrument hand-off than text study, and the real-world speed advantage disappears after one week](response-time-advantage-vanishes-at-delay.md) — a narrower finding that bears on this claim
+- [Exam length cannot be set fairly by treatment or opportunity: a short test penalizes conscientious students and a long exam penalizes fast ones](exam-length-tradeoff-speed-conscientiousness.md) — related

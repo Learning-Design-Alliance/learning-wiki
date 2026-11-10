@@ -56,3 +56,4 @@ Qualitative content analysis (Table 5) of answers to why pre-service teachers ch
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](teacher-themes-webquest-benefits-math.md) — related
 - [Pre-service teachers' teaching-practice problems cluster into planning, student participation, teaching strategies, and classroom management themes](pst-practice-problems-four-themes.md) — related
 - [EIL students apply a wider range of bonding methods in practice than LBL students](eil-wider-range-bonding-methods.md) — related
+- [Most surveyed pre-service teachers aim for teaching positions, especially in science or mathematics](career-preference-teaching-science-math.md) — related

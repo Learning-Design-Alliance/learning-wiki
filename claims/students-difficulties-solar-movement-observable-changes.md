@@ -51,3 +51,7 @@ Revisión narrativa de investigaciones locales y extranjeras sobre las dificulta
 - El Sol solo sale exactamente por el este y se pone exactamente por el oeste durante los equinoccios — related
 - The new Ciencias II curriculum shifts the entry point to physics from measurement of physical properties (1993 plan) to the perception of movement, integrating light and sound from the start of the course — related
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
+- [Causalidad inversa y teoría del alejamiento en las explicaciones de las estaciones del año](estaciones-causalidad-inversa-teoria-alejamiento.md) — related
+- [En la prueba piloto, ninguna encuestada se animó a explicar los temas lunares y muchas sorprendidas de que la Luna muestre siempre la misma cara](piloto-16-alumnas-preguntas-luna-sin-respuesta.md) — related
+- [Respuestas muy variadas sobre definiciones astronómicas corrientes y terminología cotidiana](terminologia-cotidiana-respuestas-variadas.md) — related
+- [Respuestas unánimes sobre verticalidad sin explicación: el conocimiento de la dirección del campo gravitatorio no resulta una estructura conceptual estable](verticalidad-respuesta-unanime-sin-explicacion.md) — related

@@ -55,3 +55,4 @@ Narrative review attributing to Järvenoja et al. (2018) a multi-tier video codi
 - Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design — related
 - [Struggle is experienced as a necessary and motivating part of theoretical sensemaking](struggle-necessary-and-motivating.md) — related
 - [Progressive engagement through the PFO model shifted students' reasoning about the game system from micro-level to macro-level abstraction](pfo-progression-micro-to-macro.md) — related
+- [Implicit learning swindles — mental models, micro-macro and interdisciplinary — emerge in teachers' proposals with high contextualization and operative proposals for overcoming learning difficulties](implicit-swindles-high-contextualization.md) — related

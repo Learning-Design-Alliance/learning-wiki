@@ -50,3 +50,6 @@ The authors' linguistic analysis of everyday expressions, drawing on Lakoff and 
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — a narrower finding that bears on this claim
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — a broader claim this one bears on
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — a narrower finding that bears on this claim
+- [Coherent systems of metaphors exist in physicists' quantum-mechanics language and encode an underlying ontology of matter, processes and states](coherent-metaphor-systems-in-physicists-language.md) — a narrower finding that bears on this claim
+- [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
+- [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related

@@ -48,6 +48,7 @@ Drawing on TCLAS implementation findings, the report recommends: continuing to r
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
 - [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
 - [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
+- [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 
 ## Examples
 -

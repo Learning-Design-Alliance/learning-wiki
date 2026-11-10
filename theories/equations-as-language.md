@@ -17,7 +17,7 @@ sources:
 # Equations as Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 qualitative, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Physics instruction often treats an equation as fully understood once a student can derive or correctly manipulate it. This theory argues that deriving an equation and comprehending it are separate achievements — analogous to the difference between decoding text and reading it with comprehension. Adapting a reading-comprehension framework from literacy research, the theory identifies three levels of understanding a physics equation:
@@ -45,6 +45,7 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~W]
 - [The RCR index is distinct from reading comprehension level: good comprehenders do not necessarily show high RCR](../claims/rcr-index-distinct-from-comprehension.md) [~W]
+- [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](../claims/outer-inner-minus-conflation-context-dependent.md) [+W] — attached 2026-11-10 from Kate Hayes et al. (2009), which proposed "Outer minus and inner minus: two distinct meanings of a negative sign in scalar physics equations".
 
 ## Related Theories
 - (none yet linked)

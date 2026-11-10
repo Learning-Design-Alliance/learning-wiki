@@ -53,3 +53,5 @@ Qualitative content analysis of one-on-one interviews with 30 students (five per
 - [Interviewed experimental students reported feeling themselves in thinking friendly classrooms and generally scientifically accurate understanding, with misconceptions persisting in Work, Simple Machines, and Frictional Force topics](interview-students-thinking-friendly-classroom-persistent-misconceptions.md) — related
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
 - [Misconceptions about atoms, compounds and mixtures detected at pre-test persisted or re-emerged at post-test in both experimental and control groups](misconceptions-persist-posttest-both-groups.md) — related
+- [Ignoring thermal energy conversion in the inelastic collision yields a prediction that visibly contradicts data](inelastic-collision-energy-misconception-overestimates-speed.md) — related
+- [The lab permits discussion of several student misconceptions about energy and momentum, though no quantitative learning data exist](lab-permits-misconception-discussion-no-quantitative-data.md) — related

@@ -73,3 +73,4 @@ Conditional LTA with demographic predictors of transition paths (Table 8). The q
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Higher self-rated Japanese proficiency, more frequent AI use, and prior AI-related training predicted membership in the positive versus maladaptive adaptation profile at Time 1](background-variables-predict-initial-adaptation-profile.md) — related
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [Empirical score transitions show strong persistence in the same knowledge state rather than upward movement](empirical-transitions-show-state-persistence.md) — related

@@ -53,3 +53,5 @@ The authors cite a plasma physics text (Chen, 1977) and parallel examples from n
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
 - [The number of correct actions in a tutor problem space is not inherent to the domain but arises from author design choices](problem-space-size-author-design-choices.md) — related
+- [The percentage of students mentioning the particle model of light declined from more than 80% in Fall 2005 to less than half in Spring 2007 as question wording became more specific](particle-model-mention-declined-with-specific-wording.md) — related
+- [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related

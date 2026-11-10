@@ -180,6 +180,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 - [Complementary interdisciplinary lesson pairing in which biology explains PE processes and PE visualises biology content](../designs/complementary-biology-pe-lesson-pairing.md)
 - [Design HOTs lessons around concepts, schemas, metaphors, visualization and inference](../strategies/hots-lesson-design-five-components-strategy.md)
+- [Use a 3-phase half-wave rectification demonstration to make the 120-degree phase separation visually concrete](../strategies/three-phase-rectifier-visual-phase-separation.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press. [doi:10.1093/acprof:oso/9780195066661.001.0001](https://doi.org/10.1093/acprof:oso/9780195066661.001.0001)

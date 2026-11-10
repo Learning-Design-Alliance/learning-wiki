@@ -50,3 +50,4 @@ Chi-square analysis of 4182 student-response combinations from a crossover desig
 - [Final course grade does not predict switching from less common to most common answers, but does predict switching from most common to less common answers when the bar graph is shown](grade-moderates-switch-direction-with-bar-graph.md) — related
 - [In a post hoc analysis, the bar-graph bias was stronger on harder questions than on easier questions](bar-graph-bias-stronger-on-harder-questions.md) — a narrower finding that bears on this claim
 - [Clicker participation did not differ between the bar-graph and no-graph treatments, ruling out participation as a confound](no-participation-difference-between-treatments.md) — related
+- [Asking students to draw a graph before showing multiple-choice options leads to a significantly higher percentage ultimately answering the clicker question correctly](draw-graph-first-improves-clicker-answers.md) — related

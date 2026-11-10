@@ -39,6 +39,7 @@ At the base of the curriculum pyramid, curiosity and self-motivation are intenti
 - [Cultivate Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
 - [Extension Projects for Advanced Students](extension_projects_for_advanced_students.md)
 - [Open each learning chapter with challenging questions before presenting key material to stimulate curiosity](chapter-opening-questions-stimulate-curiosity.md)
+- [Anchor spherical-geometry calculations in real-world cases such as the New York–Paris flight path and the Bermuda Triangle](real-world-spherical-geometry-anchor-strategy.md)
 
 ## Examples
 -

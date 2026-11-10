@@ -77,3 +77,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related
 - [Reflection logs indicate students in the integrative curriculum engaged in self-directed inquiry, richer peer and instructor interaction, and enthusiasm for simulation scenarios](reflection-logs-show-engagement-and-collaborative-inquiry.md) — related
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](pbl-separate-problems-isolation.md) — related
+- [Communication about internal events depends on the student judging the teacher as helpful, and cannot be carried out by a predetermined curriculum](internal-event-communication-depends-on-trust.md) — related

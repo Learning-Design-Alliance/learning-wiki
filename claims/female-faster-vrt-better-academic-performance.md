@@ -51,3 +51,4 @@ Student's t-test comparison between the 345 female and 273 male participants in 
 - [Female students had significantly faster reaction times than male students within each academic performance group](gender-rt-difference-within-performance-groups.md) — related
 - [Reaction times and gender are the only independent predictors of academic performance, explaining 11% of variance](rt-and-gender-independent-predictors-academic-performance.md) — related
 - [Low achievers had significantly slower reaction times than mid and high achievers, but mid and high achievers did not differ](low-achievers-slower-rt-than-mid-high.md) — related
+- [Reaction time shows no variation based on gender in this sample, with the female-to-male reaction-time ratio equal to unity](no-gender-difference-reaction-time-physics-students.md) — reports the opposite

@@ -60,9 +60,11 @@ Generation is a form of retrieval and elaboration: producing an example forces l
 5. Provide corrective feedback on inaccurate examples before misconceptions consolidate.
 
 ## Related Strategies
+
 - [Self-Explanation](../elements/self-explanation.md) — the underlying mechanism: articulating why an example fits is a self-explanation act
 - [Comparing Cases](../elements/comparing-cases.md) — generated examples gain power when contrasted with each other and with expert cases
 - [Retrieval Practice](retrieval-practice-activities.md) — generation is a retrieval event; both strengthen memory through effortful reconstruction
+- [Use properly designed quantitative problems to reveal and reinforce students' conceptual understanding](quantitative-problems-reveal-conceptual-understanding.md)
 
 ## Examples
 - In a statistics course, students generate their own real-world scenarios illustrating Type I vs. Type II errors, then critique each other's scenarios in small groups.

@@ -47,3 +47,4 @@ Drawn from the unsigned written answers in which a few of the surveyed pupils "e
 ## Related Claims
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
+- [Fairness of treatment merely propagates the fairness or unfairness of pre-existing rules and is inapplicable to exam design as a whole](fairness-of-treatment-propagates-rules.md) — related

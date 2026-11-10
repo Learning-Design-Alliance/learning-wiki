@@ -48,3 +48,4 @@ Self-report from anonymous end-of-semester surveys across seminar iterations, wh
 - [Blind-scored essays from seminar students were more accurate, better structured, and showed better understanding than control students' essays (d = 0.87)](argument-visualization-essay-quality-gains.md) — related
 - [Seminar students improved more on LSAT Logical Reasoning than control students (d = 0.71, 95% CI (0.37, 1.04), p < 0.001)](argument-visualization-seminar-lsat-gains.md) — related
 - [Each essay rubric dimension separately favored seminar students: structure d = 0.76, accuracy d = 0.74, understanding d = 0.97](essay-rubric-subcomponent-differences.md) — related
+- [Most students reported transferring Mathematica use into their other coursework that semester, mostly in graphing-calculator or math-handbook modes rather than extensive programming](mathematica-transfer-to-other-coursework.md) — related

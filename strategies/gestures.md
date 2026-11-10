@@ -62,6 +62,7 @@ Gestures exploit the same multimodal processing advantage as [Dual Coding Theory
 - [Dual coding through visuals and narration](../principles/cognitive-load-management.md) — gesture is the embodied counterpart of pairing words with images
 - [Think-aloud modeling](../elements/think-aloud.md) — combining verbalized reasoning with gesture makes both conceptual and spatial structure visible
 - [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](four-embodied-strategies-dynamic-visualizations.md)
+- [Instructors should attend to student gestures and inquire about early gesture occurrences rather than interrupt with content prompts](attend-to-student-gestures-inquiry-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — gesture enriches demonstrations by making spatial and procedural structure observable

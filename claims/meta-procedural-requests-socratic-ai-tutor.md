@@ -57,3 +57,4 @@ Observational frequency analysis of the 2,874-turn corpus from 221 sessions. The
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
 - [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related
 - [Treatment group discourse followed a seven-step developmental process while control group discourse followed only three steps and rarely settled on a position](seven-step-versus-three-step-discourse-process.md) — related
+- [Guided Socratic worked examples carry the chapter's mathematical content, with the learner supplying each intermediate step](socratic-worked-examples-spherical-geometry.md) — related

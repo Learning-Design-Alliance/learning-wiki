@@ -67,3 +67,4 @@ Same t-test analysis of pre-learning emotions in the two-group experiment; the c
 - [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](post-learning-emotion-declines-after-funny-video-induction.md) — related
 - [Positive pre-learning emotions induced by funny videos improved knowledge transfer but not knowledge retention in elementary students learning from a video lecture.](positive-pre-learning-emotion-improves-transfer-not-retention.md) — related
 - [No significant differences were found between the funny-video and control groups in learning motivation or learning satisfaction.](no-motivation-satisfaction-difference-funny-videos.md) — related
+- [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](pre-lab-prediction-improves-lab-experience.md) — related

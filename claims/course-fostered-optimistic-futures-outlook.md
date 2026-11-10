@@ -54,3 +54,4 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
 - [All six interviewed experimental-group preservice teachers said visual materials changed their outlook on global warming and made them follow related news more attentively](interviews-visual-materials-changed-outlook.md) — related
+- [In a six-student pilot, third-year students rated the QSim quantum simulation as useful and reported improved confidence with quantum concepts](qsim-pilot-evaluation.md) — related

@@ -52,3 +52,4 @@ Quasi-experimental study with 62 upper primary students (9–10 years old), half
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related
 - [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](blended-collaborative-activities-promote-authorial-production.md) — related
+- [Pairs produced more talk than individuals during example studying, but this does not yet establish deeper self-explanations](pairs-more-talk-unconfirmed-deeper-explanations.md) — related

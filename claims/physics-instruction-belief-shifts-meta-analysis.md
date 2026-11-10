@@ -50,3 +50,4 @@ Meta-analysis of 24 published CLASS/MPEX studies synthesizing pre-to-post shifts
 - [Small classes show significantly greater positive belief shifts than large classes](small-classes-greater-belief-shifts.md) — related
 - [No significant interactions between teaching method, class size, and student population on belief shifts, though the dataset is deeply unbalanced](no-interactions-belief-shift-factors.md) — related
 - [Physics majors enter undergraduate education with more expert-like beliefs than non-majors, and these beliefs remain stable throughout their undergraduate careers](physics-majors-stable-expert-beliefs.md) — related
+- [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — a narrower finding that bears on this claim

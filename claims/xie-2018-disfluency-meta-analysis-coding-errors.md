@@ -49,3 +49,4 @@ The commentary authors' re-examination of the meta-analysis's forest plot agains
 - Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data — related
 - [Applying the reproducibility checks to TRANSFER performance, the Xie et al. (2018) results are (rather) robust, but RECALL and moderator results are doubtful](xie-2018-transfer-robust-recall-doubtful.md) — related
 - Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis — related
+- [A slight change in coordinate system on the 2007 final caused severe setup errors whose hierarchical coding hid the prevalence of boundary condition errors](coordinate-change-hides-error-prevalence.md) — related

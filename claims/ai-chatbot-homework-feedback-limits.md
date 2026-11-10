@@ -56,3 +56,4 @@ Small-group hands-on testing during Session 3, in which faculty tried prompts on
 - [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md) — related
 - [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](ai-assistance-focused-on-pedagogical-strengths.md) — related
 - [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related
+- [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related

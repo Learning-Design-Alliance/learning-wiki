@@ -207,3 +207,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](task-cycle-activities-reported-benefits.md) — related
 - [General teaching strategies show an effect size of ES = 0.60, with modeling, questioning, and demonstrations as successful components](general-teaching-strategies-effect-size.md) — related
 - [Facilitators' approaches to addressing students' mistakes vary widely, from open group discussion to indirect procedural hints to not mentioning mistakes at all](facilitators-variable-mistake-approaches.md) — related
+- [Pairs produced more talk than individuals during example studying, but this does not yet establish deeper self-explanations](pairs-more-talk-unconfirmed-deeper-explanations.md) — a narrower finding that bears on this claim

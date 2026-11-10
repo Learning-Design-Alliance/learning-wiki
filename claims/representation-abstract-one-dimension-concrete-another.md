@@ -50,3 +50,4 @@ Analytical result of the taxonomy: the article illustrates with "a simulation of
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
+- [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related

@@ -61,9 +61,11 @@ Exhibitions work because an authentic audience raises the quality bar and gives 
 6. Debrief afterward: learners reflect on what the audience's questions revealed about gaps in their work.
 
 ## Related Strategies
+
 - Project-based learning — exhibition is the standard culminating structure for PBL
 - Portfolio assessment — exhibitions often draw on curated portfolios as the presented artifact
 - Peer critique — the revision engine that makes exhibitions academically substantive
+- [Blend art and science in public exhibits and events to reach unconventional audiences](art-science-blended-outreach-events.md)
 
 ## Examples
 - **[High Tech High](https://www.hightechhigh.org)** (San Diego) — semester-culminating exhibition nights where all students present projects to families and community members.

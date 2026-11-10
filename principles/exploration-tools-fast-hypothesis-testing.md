@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (12 for, 10 mixed) · 16 studies (4 causal, 4 design, 3 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 16 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (13 for, 10 mixed) · 17 studies (5 design, 4 causal, 3 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 17 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Learners, tools and outcomes differ across these claims (undergraduate physics c
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]: a survey of 64 students after one simulation lesson, with self-reported knowledge before and after and no test of learning. It bears on learners' valuation of the tool, not on learning.
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis from the discovery meta-analysis. It bears on the age row (adolescents most harmed by unassisted discovery), but it is about discovery generally, not tool-based exploration; not yet worked into the rows.
 - [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](../claims/computer-based-ibl-inquiry-skills-gains.md) [+W] — attached 2026-10-18 from Hasan Ozgur Kapici (2025), which proposed "Pair inquiry-based learning with technology-enabled scaffolding tools, since teacher guidance alone reaches students less individually".
+- [Manual graph production is time-consuming, error-prone, and does not significantly contribute to understanding the studied problem](../claims/manual-graphing-time-consuming-error-prone.md) [+W] — attached 2026-11-10 from Primoˇz Peterlin (2009), which proposed "When the purpose of a graph is data analysis rather than learning to plot, spend the time on discussing the graph's meaning instead of manual plotting".
 
 ## Objective and learner-valued goal
 

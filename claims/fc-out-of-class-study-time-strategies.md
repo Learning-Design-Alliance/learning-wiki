@@ -54,3 +54,4 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 - [FCCL students showed high engagement with pre-class videos (average 2.8 of 3 videos viewed weekly; 78.5% average viewing proportion)](fccl-high-pre-class-video-engagement.md) — related
 - [Self-reported out-of-class study time decreased in experiment 3 even though student performance increased](exp3-study-time-decreased.md) — related
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](link-timing-no-significant-viewing-difference.md) — related
+- [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related

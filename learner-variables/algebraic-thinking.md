@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (60 show a difference, 20 mixed, 12 no difference) · 61 studies (42 causal, 7 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 61 report an effect size · 89 claims rest on one study
+> **Evidence** · 93 claims (60 show a difference, 21 mixed, 12 no difference) · 62 studies (42 causal, 7 associational, 4 review, 4 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 62 report an effect size · 90 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -129,6 +129,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [CLIL students scored higher than non-CLIL students on a mathematics test of quadratic equations](../claims/clil-students-score-higher-math-test.md) [+M] — measured as an outcome of the instruction studied
 - [Algebra and geometry explain an additional 15% of variance in secondary-school mathematics achievement beyond arithmetic-based skills](../claims/algebra-geometry-add-15-percent-variance-math-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+W] — learners who differ on it differ in outcomes
+- [Students with only the expanded form of the dielectric function erred by treating its first and second terms as the real and imaginary parts and equating them individually to zero](../claims/expanded-form-terms-treated-as-real-imaginary-parts.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

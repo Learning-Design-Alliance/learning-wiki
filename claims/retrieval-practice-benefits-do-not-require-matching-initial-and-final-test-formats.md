@@ -103,3 +103,4 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — a narrower finding that bears on this claim
 - [Multiple-choice, short-answer, and hybrid retrieval-practice formats all improve delayed-test performance relative to no retrieval (review-reported)](multiple-formats-retrieval-practice-effective.md) — related
+- [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related

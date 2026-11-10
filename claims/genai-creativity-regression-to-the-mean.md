@@ -55,3 +55,4 @@ The article attributes this pattern to recent research on the creative potential
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
+- [Spreadsheets are harder to debug than comparable programs and lead less skilled users toward chartjunk](spreadsheet-drawbacks-debugging-chartjunk.md) — related
