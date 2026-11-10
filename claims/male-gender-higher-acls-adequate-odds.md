@@ -53,3 +53,4 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 - [Male medical students report higher confidence in anatomy knowledge than female students](male-gender-anatomy-confidence.md) — related
 - [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — reports the opposite
 - [WAD knowledge level, male gender, greater experience and urban practice location predicted GPs' confidence in diagnosing and managing WAD](gp-confidence-wad-predictors.md) — related
+- [Male retailers are more likely to have no health-related training and less likely to be trained in nursing or midwifery than female retailers](gender-disparity-retailer-health-training.md) — reports the opposite

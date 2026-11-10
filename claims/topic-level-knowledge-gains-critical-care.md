@@ -49,3 +49,4 @@ Results section and Table 2 of the pre-post study (n = 72): pain and agitation 0
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on
 - [Agreement rose from κ 0.24 to 0.36 for psychomotor agitation or retardation and from κ 0.29 to 0.59 for sleep–wake cycle disturbance in one uncontrolled pre-post study, though the former remained only fair](icdsc-psychomotor-sleep-item-improvement.md) — related
+- [Knowledge scores rose from pre-test to post-test in every topic area after the module, in one single-group pre-post study, with the largest rise for hypertension management in CKD (+33.5%)](topic-level-ckd-gains-largest-hypertension.md) — related

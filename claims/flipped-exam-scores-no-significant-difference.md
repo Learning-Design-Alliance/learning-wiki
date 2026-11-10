@@ -54,3 +54,4 @@ Cross-year comparison of an 11-question exam marked by the same individual: 2013
 - [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related
 - [Flipped classroom combined with a human anatomy web-based learning system produced higher post-quiz anatomy scores than traditional classroom teaching in medical freshmen](flipped-classroom-web-system-higher-anatomy-post-quiz.md) — related
 - [Participation in a NextGenU/flipped classroom public health course was followed by a statistically significant increase in students' self-perceived EOH knowledge for every competency](flipped-nextgenu-self-perceived-knowledge-increase.md) — related
+- [Online and classroom PBL statistics students achieved similar examination results, with no meaningful difference between groups](online-pbl-statistics-similar-exam-outcomes.md) — related

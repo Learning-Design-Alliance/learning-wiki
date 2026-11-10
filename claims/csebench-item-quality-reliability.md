@@ -73,3 +73,4 @@ Reliability analysis of the two large-scale diagnostic forms. The article report
 - [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related
 - [Educometric item analysis identified and eliminated one inadequate question, and the revised test showed satisfactory difficulty and discrimination indices](educometric-item-analysis-revised-bls-test.md) — related
 - [SAIL-10 discriminates between medical and pharmacy students and shows adequate internal consistency and stable reliability](sail-10-reliability-discriminative-validity.md) — related
+- [TOSLS shows acceptable psychometric properties: reliability 0.731–0.748, average item difficulty 0.59–0.68, and average item discrimination 0.26–0.27](tosls-psychometric-properties.md) — related

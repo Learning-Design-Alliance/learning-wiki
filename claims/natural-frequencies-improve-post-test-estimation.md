@@ -50,3 +50,4 @@ Narrative synthesis of five studies including three RCTs comparing natural frequ
 - [Natural frequencies combined with graphical aids produced the highest proportion of correct post-test probability estimates in one RCT](natural-frequencies-graphical-aids-highest-correct-estimates.md) — a narrower finding that bears on this claim
 - [Post-test probability is more poorly estimated for negative than positive test results in some studies](negative-test-results-poorer-estimation.md) — related
 - [Health professionals' estimation of post-test probability is generally poor with a tendency to overestimation](post-test-probability-estimation-poor-overestimation.md) — related
+- [Presenting test accuracy results as natural frequencies significantly increased participants' understanding compared with sensitivity and specificity percentages](natural-frequencies-improve-dtar-understanding.md) — a narrower finding that bears on this claim

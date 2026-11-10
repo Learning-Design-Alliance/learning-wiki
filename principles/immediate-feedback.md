@@ -155,10 +155,12 @@ Accuracy during practice, delayed retention, transfer and the learner's wish for
 - [Check-ins](check-ins.md) — quick check-ins can trigger immediate feedback and support adjustments.
 
 ## Examples
+
 - **Step-level tutoring feedback**: A digital system flags an incorrect move and gives a hint before the learner proceeds.
 - **Live coaching during practice**: An instructor responds to a reading, writing, or math step while the learner is still working.
 - **Immediate corrective feedback on retrieval**: Learners answer a prompt, see the correct answer, and try again quickly.
 - **Inline draft comments during conferences**: Feedback is given during revision rather than after the writing task is fully over.
+- [Deliver elaborate immediate spoken feedback after ARS questions, covering why the correct answer is right and why alternatives fail](../strategies/elaborate-spoken-feedback-after-ars-questions.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

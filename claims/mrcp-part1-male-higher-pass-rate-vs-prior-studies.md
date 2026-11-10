@@ -55,3 +55,5 @@ Univariable chi-squared comparison of first-sitting pass rates by sex in the 604
 - [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](ssc-mitigates-sex-differences-osce.md) — related
 - [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related
 - [Univariate analyses show significant first-attempt pass-rate differences at MRCS by gender, ethnicity, age, graduate status and socioeconomic measures (all p < 0.05)](univariate-sociodemographic-associations-mrcs.md) — related
+- [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related
+- [Sex differences in performance vary by assessment stage: males did better at A-level and BMS and MRCP(UK) Part 1 but less well on clinical assessments](sex-differences-vary-by-assessment-stage.md) — related

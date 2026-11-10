@@ -54,3 +54,4 @@ Welch ANOVA on NASA-TLX subscales in the same experiment; "significant differenc
 - [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — reports the opposite
 - [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — reports the opposite
 - [Workload ratings do not differ significantly by profession, prior AR experience, or prior HoloLens experience](workload-independent-of-background-and-ar-experience.md) — reports the opposite
+- [Fresh frozen cadaver training shows construct validity: experts scored significantly higher than novices on 4 of 5 laparoscopic tasks](ffc-training-construct-validity-four-of-five-tasks.md) — related

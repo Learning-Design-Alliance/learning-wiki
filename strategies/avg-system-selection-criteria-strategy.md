@@ -44,7 +44,8 @@ When choosing gaming systems for the DPT curriculum, the authors weighed three c
 - [Cohort 2 entered the curriculum significantly more confident than cohort 1 at baseline in 4 of 5 domains](../claims/cohort2-higher-baseline-confidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt motion-sensing video-game consoles as a low-cost adjunct to simulator-based laparoscopic training, especially in lower-budget institutions or at home](wii-as-low-cost-adjunct-to-simulator-training.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Survey of 153 experimental-group students (about 89%) using a ten-item Likert-ty
 - [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related
 - [Final-year nursing students rated the Nik's story virtual simulation highly on usability, engagement, and impact on learning, and most would recommend its continued use](niks-story-high-usability-engagement-impact.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
+- [All students ranked the multimedia software as the best study method and would recommend or pay for it](students-prefer-multimedia-over-printed-text.md) — related

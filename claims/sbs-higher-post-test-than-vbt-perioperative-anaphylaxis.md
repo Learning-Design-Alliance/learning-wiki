@@ -62,3 +62,4 @@ Pilot randomised controlled trial comparing SBS (n=42) and VBT (n=42) among four
 - [Dental students using ChatGPT-3.5 alongside videos achieve higher operational skill test scores than students using videos alone](chatgpt-supplement-raises-dental-operational-skill-scores.md) — related
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [VR simulation training produces higher post-intervention knowledge scores than video-based training in a randomized trial of PROM management and cesarean section](vr-simulation-higher-knowledge-scores-than-video-cs-training.md) — related
+- [Students using a voluntary virtual patient module achieved significantly higher BLS-AED knowledge post-test scores than controls (ES = 0.73)](voluntary-vp-module-higher-bls-knowledge-posttest.md) — related

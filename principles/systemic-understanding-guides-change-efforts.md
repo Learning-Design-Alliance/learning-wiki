@@ -27,7 +27,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 23 studies (7 theoretical, 5 review, 3 causal, 3 associational, 3 qualitative, 2 design), `q1`–`q3` · 1 of 23 report an effect size · 27 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 24 studies (7 theoretical, 5 review, 4 qualitative, 3 causal, 3 associational, 2 design), `q1`–`q3` · 1 of 24 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims bearing on the topic that have been read but are not part of the model ab
 - [The null results suggest simply communicating research evidence to schools is not enough to improve outcomes; transforming evidence into usable practice and school implementation conditions may matter as much](../claims/communicating-evidence-alone-insufficient.md) [~W] — attached 2026-11-01 from Pippa Lord et al. (2017), which proposed "Pair disseminated evidence-based materials with support that transforms them into practice and builds school implementation conditions".
 - [Supervision alone is positively associated with clinical quality only in facilities with quality assurance activities](../claims/quality-assurance-moderates-supervision-effect.md) [+W] — attached 2026-11-05 from Li Mengyao et al. (2026), which proposed "Combine supervision with feedback or training and institutional support rather than implementing supervision alone"; tests this page's relationship.
 - [Expert facilitator support alone did not predict programme uptake and could not compensate for unvolunteered trainers or organisational disruption](../claims/facilitation-alone-insufficient-for-uptake.md) [+W] — attached 2026-11-09 from Mayrhofer A et al. (2016), which proposed "Assess organisational readiness before implementing peer-to-peer end of life care training in care homes"; tests this page's relationship.
+- [Addressing organizational factors is at least equally important as individual-level interventions for sustaining humanistic practice and countering physician burnout.](../claims/organizational-change-as-important-as-individual-humanism-interventions.md) [+W] — attached 2026-11-10 from Rider et al. (2018), which proposed "Begin organizational change toward humanistic practice by building a shared vision among physicians, leaders, staff, and stakeholders".
 
 ## Objective and learner-valued goal
 

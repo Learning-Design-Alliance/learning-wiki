@@ -69,3 +69,4 @@ SUS item-level results from the post-intervention questionnaire in the same feas
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
 - [Permanent staff rated the quest management application positively, with 91% praising autonomous content modification without technical staff](quest-editor-autonomous-content-update-accepted.md) — related
 - [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related
+- [Students rated the automated testing station very positively, with mean scores of 5.3/6 for instructional organisation and 5.0/6 for usability](students-rate-automated-bls-testing-positively.md) — related

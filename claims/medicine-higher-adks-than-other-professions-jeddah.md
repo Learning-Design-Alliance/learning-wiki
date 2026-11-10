@@ -50,3 +50,6 @@ Cross-sectional online ADKS survey of 231 healthcare professionals in government
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
 - [Informal dementia learning experiences, but not formal dementia training, are associated with higher ADKS scores](informal-dementia-learning-higher-adks-formal-training-null.md) — related
 - [COVID-19 knowledge scores did not differ significantly among nurses, physicians, dentists, allied health professionals, and medical students across the four knowledge domains](no-professional-group-differences-covid19-knowledge.md) — related
+- [Health care staff in a regional Australian health district show moderate overall dementia knowledge, averaging 79% correct on the ADKS](health-staff-moderate-dementia-knowledge-adks-79.md) — related
+- [Dementia knowledge deficits concentrate in the medically oriented ADKS domains of risk factors and course of the disease](knowledge-deficits-risk-factors-course-domains.md) — related
+- [Dementia knowledge differs significantly by professional group, with medical staff scoring highest and support staff lowest](professional-group-differences-dementia-knowledge.md) — related

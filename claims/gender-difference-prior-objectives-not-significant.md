@@ -63,3 +63,4 @@ ANCOVA of posttest scores by gender, with pretest as covariate, over all 120 stu
 - [No significant treatment-by-gender interaction and no pretreatment gender differences in recess physical activity self-efficacy](no-treatment-gender-interaction-self-efficacy.md) — related
 - [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related
 - [Training type has a significant positive effect on examination scores independent of gender and academic year (ANCOVA)](ancova-training-effect-independent-gender-year.md) — related
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

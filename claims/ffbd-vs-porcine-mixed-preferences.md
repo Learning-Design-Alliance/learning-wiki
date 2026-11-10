@@ -53,3 +53,4 @@ Comparative study synthesised by the review (Wyles et al. 2011; 66 body donor an
 - [Fresh frozen cadaver use in the SIMULATE ureteroscopy curriculum showed no statistically significant performance advantage over non-cadaver cohorts](ffc-no-performance-advantage-simulate.md) — related
 - [Fresh frozen cadavers are the most highly rated training modality for content validity, while VR is rated relatively inferior to other modalities](content-validity-ffc-highest-rated-vr-inferior.md) — related
 - [Participants rate porcine tissue as similar to human tissue and all three tasks as effective for training](participant-ratings-tissue-similarity-task-effectiveness.md) — related
+- [Eleven surgical residents rated the Anubifix™ laparoscopic colorectal model as representative of the real situation and superior to animal models or virtual reality simulators](residents-rate-anubifix-model-representative-superior.md) — related

@@ -67,3 +67,4 @@ Subgroup analysis by discipline in the same cohort; the article reports all misc
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [Male students wrote good-quality MCQ in Pathophysiology significantly more frequently than female students](gender-difference-good-mcq-production.md) — reports the opposite
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
+- [The interim assessment benefit did not differ by gender or study discipline, though females and medical students scored higher overall](interim-assessment-effect-uniform-across-subgroups.md) — related

@@ -83,3 +83,4 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 - [Project based learning produced higher post-test achievement than traditional teaching in the ratio, proportion and percentage unit](pbl-higher-posttest-achievement-ratio-proportion.md) — related
 - [The experimental group's ESP scores improved significantly from pre-test to post-test under clicker use, while the control group's did not](clicker-group-significant-pre-post-gain.md) — related
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim
+- [Students show significant short-term knowledge gains in integrated laboratory classes covering liver function tests and adrenal function](ilc-significant-pre-posttest-gains.md) — a narrower finding that bears on this claim

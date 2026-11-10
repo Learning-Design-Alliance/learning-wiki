@@ -41,6 +41,7 @@ The report's program lessons recommend that teachers using emerging technologies
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Build teacher media skills and classroom media facilities through training, resource centres and equipment provision](teacher-media-training-and-facilities-strategy.md)
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
+- [Pilot-test media format before adopting mobile social learning technologies, and log time-on-viewing in future studies](pilot-media-format-and-time-on-viewing-strategy.md)
 
 ## Examples
 - [360 Filmmakers Challenge](../products/360-filmmakers-challenge.md)

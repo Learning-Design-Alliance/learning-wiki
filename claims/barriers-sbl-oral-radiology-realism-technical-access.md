@@ -64,3 +64,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Students judge conventional simulation training unrealistic, confined to pre-established scenario behaviors, and variable in effectiveness across instructors](conventional-simulation-unrealistic-instructor-variability.md) — related
 - [Dramatization-based simulation has technical limitations: not all procedures can be executed on simulated patients, and physiological outcomes cannot be controlled](technical-limitations-dramatization-simulation.md) — related
 - [Students identified SBL weaknesses of insufficient resources and facilities (68%), lack of trained staff (66%), and lack of accessibility (58%)](sbl-weaknesses-resources-staff-accessibility.md) — related
+- [Residents found mannequins unrealistic in physical characteristics but acknowledged simulation allowed verification of technique](mannequin-realism-technique-verification.md) — related

@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 121 claims (79 for, 38 mixed, 4 against) · 62 studies (20 causal, 17 quant-synthesis, 8 review, 7 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 62 report an effect size · 113 claims rest on one study
+> **Evidence** · 121 claims (79 for, 38 mixed, 4 against) · 63 studies (21 causal, 17 quant-synthesis, 8 review, 7 design, 6 associational, 3 theoretical, 1 qualitative), `q1`–`q4` · 19 of 63 report an effect size · 112 claims rest on one study
 
 ## Description and scope
 

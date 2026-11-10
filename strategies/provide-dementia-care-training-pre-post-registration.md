@@ -50,6 +50,7 @@ The review recommends that "Adequate dementia care training should be provided t
 ## Related Strategies
 
 - [Include dementia care in the undergraduate nursing curriculum](include-dementia-care-undergraduate-nursing-curriculum.md)
+- [Introduce systematic dementia-specific education or training for all health care staff, including support staff](systematic-dementia-specific-education-all-staff.md)
 
 ## Examples
 -

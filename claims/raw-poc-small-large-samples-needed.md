@@ -48,3 +48,4 @@ Descriptive and power analysis of the 57 raw predictor-outcome correlations in T
 - [A-levels show the highest construct-level predictive validity for undergraduate medical performance (.723), exceeding GCSEs/O-levels (.359) and aptitude tests (.181)](alevels-highest-clpv-undergraduate.md) — related
 - [Aptitude tests (AH5, UKCAT) have lower construct-level predictive validity than educational attainment measures, with overall CLPV .208 (CI .113–.299)](aptitude-tests-lower-clpv.md) — related
 - [Construct-level predictive validities (mean .450) are substantially higher than raw predictor-outcome correlations (mean .171) across 57 predictor-outcome pairs in medical student selection](clpv-substantially-higher-than-raw-poc.md) — related
+- [The AH5 aptitude test showed inconsistent and largely non-significant correlations with medical education outcomes, unlike attainment measures](ah5-aptitude-inconsistent-prediction.md) — related

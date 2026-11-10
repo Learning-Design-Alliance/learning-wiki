@@ -60,3 +60,4 @@ Baseline demographic comparisons in the 65-student cohort tested five demographi
 - [Previous experience with e-learning is the only demographic characteristic associated with nursing students' satisfaction with e-learning](previous-elearning-experience-associated-satisfaction.md) — related
 - [No statistically significant differences in nomophobia scores across academic level, residential status, marital status, college, or student habits](no-sociodemographic-differences-nomophobia-scores.md) — related
 - [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related
+- [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related

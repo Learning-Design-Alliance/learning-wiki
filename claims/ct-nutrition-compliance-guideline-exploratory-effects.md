@@ -69,3 +69,4 @@ Exploratory logistic mixed model analysis of fat-guideline compliance (0 = not c
 - [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — related
 - [Computer-tailored health communication meta-analyses show tailored messages significantly improve health-related behaviors compared to no intervention or a generic message](cthc-tailoring-improves-health-behaviors.md) — a broader claim this one bears on
 - [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related
+- [A meta-analysis of RCTs of interactive computer-based dietary interventions found a non-statistically significant weighted mean difference in BMI favouring e-learning devices](meta-analysis-non-significant-bmi-effect-e-lds.md) — related

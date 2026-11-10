@@ -56,3 +56,4 @@ Chi-square analysis of OSCE outcome in Table 5 shows a significant sex differenc
 - [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related
 - [OSCE red-card outcomes did not differ significantly between the video cohort (2016) and the no-video cohort (2013), though odds of a red card were 3.36 times higher in 2013](osce-red-cards-no-significant-difference-videos.md) — related
 - [Sex, prior training in healthcare and place of study showed no significant influence on OSCE performance](no-sex-prior-training-study-place-effect-osce.md) — related
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

@@ -51,3 +51,4 @@ Analysis within the entrance test group predicting zOutcomeOverall; the MaleGend
 - [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related
 - [Female medical school applicants outperformed male applicants on the piloted SJT in both years, with a medium effect size in 2017](sjt-gender-female-advantage-indonesia-pilot.md) — related
 - [Membership in outcome groups (failed, lagged, resat, no resitting) was not related to HAM-Nat scores or PEA among entrance-test students](outcome-groups-unrelated-to-ham-nat.md) — related
+- [Gender differences in HAM-Nat scores and success were not significant, but regression suggests prediction may be steeper for females and a suppressor effect elevates predictive power](hamnat-gender-suppressor-tendency.md) — related

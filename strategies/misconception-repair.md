@@ -58,9 +58,11 @@ Misconceptions are resistant to simple transmission of correct information; lear
 5. **Consolidate**: Require learners to apply the repaired model to new cases and re-answer the original elicitation item ([Application](../elements/application.md), [Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the elicitation phase that makes misconceptions visible before repair
 - [Refutation Texts](refutation-texts.md) — a written-instruction variant of the same mechanism
 - [Predict-Observe-Explain](predict-observe-explain.md) — a structured elicitation-confrontation cycle for demonstrations
+- [Elicit student misconceptions, create situations that challenge them, and emphasize conceptual frameworks rather than isolated facts](elicit-and-challenge-misconceptions-strategy.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *RealTime Physics* use pre-tutorial predictions, discrepant experiments, and guided reconciliation to repair force-and-motion misconceptions. [https://www.phys.washington.edu/groups/peg/](https://www.phys.washington.edu/groups/peg/)

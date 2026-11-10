@@ -69,3 +69,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Academic achievement rises with educational level but is not significantly related to age or marital status](gpa-increases-educational-level-nursing.md) — related
 - [No significant relationships were observed between demographic characteristics and self-handicapping or its subscale scores](no-demographic-relationships-self-handicapping.md) — related
 - [Years of rescue experience were not significantly correlated with baseline hypothermia knowledge in either group (professionals R = 0.10, p = 0.493; volunteers R = 0.06, p = 0.521).](experience-uncorrelated-with-baseline-hypothermia-knowledge.md) — related
+- [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related

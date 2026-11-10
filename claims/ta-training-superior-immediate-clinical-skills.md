@@ -52,3 +52,5 @@ Randomised controlled trial: 81 students who consented to videotaping (32 contro
 - [GTA-led teaching produces more final-year medical students competent in pelvic examination than manikin teaching at pass, merit and distinction thresholds](gta-teaching-more-competent-students-than-manikin.md) — related
 - [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — related
 - [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related
+- [Skill complexity moderates the BPSL advantage: the more complex skill (IVC) shows a larger immediate benefit, while the simpler skill (NGT) benefits more in long-term retention](complexity-moderates-bpsl-advantage.md) — related
+- [Students rate patient educators significantly higher than physician tutors on ten of fourteen instructor evaluation questions](patient-educators-rated-higher-on-instructor-evaluations.md) — related

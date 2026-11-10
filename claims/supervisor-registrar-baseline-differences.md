@@ -48,3 +48,4 @@ Baseline demographic comparisons in the Results of the pretest post-test study o
 ## Related Claims
 - [Self-rated GP Engagement scores rose from pre-test to post-test within both registrar and supervisor groups following the workshop, with supervisors scoring higher than registrars at both time points](dementia-workshop-improves-engagement.md) — related
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
+- [Professional and personal experience caring for someone with dementia are associated with higher dementia knowledge](caring-experience-associated-higher-knowledge.md) — related

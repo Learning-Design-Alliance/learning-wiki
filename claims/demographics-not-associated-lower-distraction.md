@@ -82,3 +82,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — reports the opposite
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — reports the opposite
+- [Socio-demographic characteristics and A-level qualifications did not distinguish course-completers from non-completers among identified struggling students](demographics-alevels-not-distinguish-strugglers.md) — related

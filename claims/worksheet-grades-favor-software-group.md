@@ -66,3 +66,4 @@ Grade distributions on Worksheet 2 (queries of different difficulty): EG had 23%
 ## Related Claims
 - [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — a broader claim this one bears on
 - [GeoGebra instruction with guided discovery worksheets produced significantly higher quadratic functions achievement than textbook-based instruction in a randomized pretest-posttest experiment](geogebra-guided-discovery-quadratic-achievement-gain.md) — related
+- [A special-issue study used a quasi-experimental approach to compare the effects of worksheet scaffolds on student learning and academic achievement in PBL](worksheet-scaffold-quasi-experimental-study.md) — related

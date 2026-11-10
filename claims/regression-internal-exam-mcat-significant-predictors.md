@@ -52,3 +52,4 @@ Multiple linear regression on 290 students with NBME score as dependent variable
 - [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
 - [Step 1 performance strongly predicts shelf exam performance across clerkships](step1-predicts-shelf-exam-performance.md) — related
 - [In multivariable regression, median MCAT is the only significant predictor of Step 1 score, with the model explaining 58.4% of variance](mcat-only-significant-step1-predictor.md) — related
+- [MCAT and undergraduate GPA are valid, reliable predictors of medical school performance, and a composite of the two is the best predictor](mcat-gpa-valid-predictors-medical-school.md) — related

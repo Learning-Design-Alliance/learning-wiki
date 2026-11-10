@@ -48,6 +48,7 @@ The article recommends embedding simulator practice into residency training rath
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
 - [Schedule practical skills training as mandatory, structured sessions rather than voluntary participation](mandatory-structured-scheduling-skills-training.md)
+- [Incorporate a simulation-based ultrasound module into mandatory physician orientation](ultrasound-module-in-mandatory-orientation-strategy.md)
 
 ## Examples
 -

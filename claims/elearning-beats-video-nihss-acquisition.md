@@ -58,3 +58,4 @@ Web-based randomized controlled trial in 3 Swiss university hospitals; 43 e-lear
 - [Prior professional eye care training is associated with slightly higher PEC knowledge and skill scores](prior-eye-training-associated-higher-pec-scores.md) — related
 - [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related
 - [Video materials preferentially promote clinical skill acquisition over written materials](video-materials-better-skill-acquisition-than-written.md) — related
+- [Didactic lectures produced greater knowledge gain than asynchronous computer-based modules for novice learners in an acute care course](didactic-beats-asynchronous-knowledge-gain-novices.md) — reports the opposite

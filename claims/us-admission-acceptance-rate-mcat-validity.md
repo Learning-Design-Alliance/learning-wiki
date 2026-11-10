@@ -69,3 +69,4 @@ Narrative review section on US admissions, attributing this finding to cited stu
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [Personality differences between admission groups are statistically significant but small, likely because the applicant pool is homogeneous](small-personality-differences-homogeneous-applicant-pool.md) — related
+- [College admission tests, including the MCAT, do not exhibit significant racial bias in prediction of medical school performance](admission-tests-no-prediction-bias.md) — related

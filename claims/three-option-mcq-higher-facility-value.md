@@ -48,3 +48,4 @@ Item analysis of the randomized three-group MCQ comparison (Table 3) reports the
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
 - [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — related
+- [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — a narrower finding that bears on this claim

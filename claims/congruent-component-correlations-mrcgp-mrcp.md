@@ -50,3 +50,4 @@ Pearson correlations from the merged database of candidates taking both assessme
 - [AKT correlations with MRCP(UK) are similar in White and BME candidates, but CSA correlations with MRCP(UK) are stronger in BME candidates](csa-stronger-correlations-bme-candidates.md) — related
 - [The new-format CSA is better predicted by PACES than the old-format CSA, with no evidence of differential bias against BME candidates](new-csa-better-predicted-by-paces-no-ethnicity-interaction.md) — related
 - [Performance in high-stakes clinical examinations such as PACES plausibly reflects performance in actual clinical practice](paces-performance-reflects-practice.md) — related
+- [Written and OSCE/practical examinations largely assess the same construct, with a disattenuated correlation of 0.998](written-osce-same-construct.md) — related

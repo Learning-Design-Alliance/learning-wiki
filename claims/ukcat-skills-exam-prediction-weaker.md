@@ -51,3 +51,5 @@ Univariable multilevel regression of skills-based exam scores on UKCAT scales in
 - [Higher UKCAT scores are associated with higher odds of passing each medical school year at first attempt, with total score showing the largest adjusted effect (OR 1.20)](ukcat-odds-passing-first-attempt.md) — related
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
 - [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — related
+- [Total UKCAT score correlates significantly but weakly with first-year medical school performance](ukcat-total-weakly-correlates-with-outcome.md) — related
+- [UKCAT Verbal Reasoning correlates positively with Theory examinations but not with Skills assessments](ukcat-verbal-reasoning-differential-theory-skills-prediction.md) — related

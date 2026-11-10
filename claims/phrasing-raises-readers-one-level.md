@@ -48,3 +48,4 @@ Interpretation of Figure 1, which plots mean first-passage comprehension scores 
 - [Reading passages segmented along phrase boundaries (pausal or syntactic) yields higher comprehension scores than standard prose format in elementary students](text-segmentation-improves-comprehension.md) — related
 - [Text segmentation benefits all reading levels: no interactions with grade, reading level, or passage difficulty](segmentation-facilitative-all-readers.md) — related
 - [The segmentation advantage is maintained across repeated readings and is widespread across participants](segmentation-effect-maintained-repeated-readings.md) — related
+- [Poor layout and presentation hindered understanding and motivation even for readers with good DTAR knowledge](dtar-layout-presentation-hinders-all-readers.md) — related

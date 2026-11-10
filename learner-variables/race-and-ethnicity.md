@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 249 claims (189 show a difference, 41 mixed, 19 no difference) · 190 studies (103 associational, 37 causal, 28 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 8 of 190 report an effect size · 247 claims rest on one study
+> **Evidence** · 251 claims (191 show a difference, 41 mixed, 19 no difference) · 191 studies (103 associational, 37 causal, 29 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 9 of 191 report an effect size · 249 claims rest on one study
 
 ## How to read this page
 
@@ -286,6 +286,8 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [White students earned higher final course grades than underrepresented minority students in this course](../claims/racial-grade-gap-active-learning-course.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Actual examination performance differed significantly by ethnic background, with white doctors outperforming all other ethnic groups on OSCE performance](../claims/ethnic-differences-actual-performance-osce.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](../claims/cognitive-test-group-differences-explain-underrepresentation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Underrepresented minority physicians tend to be more likely to serve underserved populations, but the evidence base is underdeveloped](../claims/minority-physicians-serve-underserved-populations.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -50,3 +50,4 @@ Meta-analysis of 40 studies (45 comparisons) from research and development, expe
 - [The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling](worksheet-effect-secondary-large-random-samples.md) — a narrower finding that bears on this claim
 - Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error — related
 - [Basketball players solved average and percentage problems better when framed by basketball practices than as school math worksheets, using different strategies across contexts](basketball-players-better-on-basketball-framed-math-problems.md) — related
+- [A special-issue study used a quasi-experimental approach to compare the effects of worksheet scaffolds on student learning and academic achievement in PBL](worksheet-scaffold-quasi-experimental-study.md) — related

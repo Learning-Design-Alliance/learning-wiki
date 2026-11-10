@@ -49,3 +49,4 @@ Descriptive analysis of a 14-item adapted eViP questionnaire (full sample N=50; 
 - [Undergraduate nursing students perceive global linear virtual patients as a relevant learning activity for integrating theory and practice](nursing-students-perceive-global-linear-vps-relevant-theory-practice.md) — a broader claim this one bears on
 - [Students rated human-created VPs slightly better on helpfulness, preparedness, and learning experience](students-rate-human-vps-slightly-better.md) — related
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — related
+- [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related

@@ -74,3 +74,5 @@ Pearson/Spearman correlation analysis in the Results section of the same cohort.
 - [UKCAT shows little relationship with the other pre-admission criteria, suggesting it measures different dimensions](ukcat-measures-dimensions-distinct-from-tss-interview.md) — related
 - [UKCAT total score is the only pre-admission measure independently associated with both final composite outcomes (EPM and H&C) at Glasgow Medical School](ukcat-total-only-independent-predictor-composite-outcomes.md) — related
 - [UKCAT total explains around 5% of variance in EPM and 6% in H&C in bivariate regression](ukcat-total-variance-explained-composites.md) — a narrower finding that bears on this claim
+- [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related
+- [Total UKCAT score correlates significantly but weakly with first-year medical school performance](ukcat-total-weakly-correlates-with-outcome.md) — related

@@ -52,3 +52,4 @@ The review reports Ong et al.'s use of a validated Script Concordance Test for n
 - [A supplementary team-based learning class improved fourth- and fifth-year medical students' key-feature problem examination performance in neurology](supplementary-tbl-improves-key-feature-examination-neurology.md) — possibly the same claim (merge candidate)
 - [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related
 - [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
+- [TBL produces greater immediate knowledge gains than passive learning in undergraduate clinical neurology](tbl-greater-immediate-knowledge-gains-than-passive-learning-neurology.md) — related

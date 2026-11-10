@@ -54,3 +54,4 @@ The brief states this as a documented research finding while reporting that raci
 - [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md) — related
 - [ECE programs are on average more racially segregated than elementary and high schools](ece-more-segregated-than-k12.md) — related
 - [Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district](magnet-schools-positive-effects.md) — related
+- [Evidence that increased racial diversity improves medical education outcomes is very weak, though diverse-group problem-solving research is suggestive](diversity-educational-outcomes-evidence-weak.md) — reports the opposite

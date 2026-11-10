@@ -56,3 +56,4 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
 - [OSCE scores correlate only weakly with subsequent workplace mini-CEX scores in clerkships (r = 0.26 overall, r = 0.27 domain)](osce-mini-cex-weak-correlation-r026.md) — reports the opposite
+- [Written and OSCE/practical examinations largely assess the same construct, with a disattenuated correlation of 0.998](written-osce-same-construct.md) — related

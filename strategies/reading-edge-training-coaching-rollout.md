@@ -68,6 +68,7 @@ The program's professional development model combines an initial workshop with o
 - [Support curriculum change through faculty preparation courses, regular meetings and early-adopter mentors](early-adopter-mentors-curriculum-change-strategy.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
+- [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 
 ## Examples
 -

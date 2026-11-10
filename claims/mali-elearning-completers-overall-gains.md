@@ -52,3 +52,4 @@ Table 4 compares overall scores for the 17 participants who completed all module
 - [Adaptive e-learning significantly increases neurosurgeons' self-assessed perceived knowledge of UBE](adaptive-elearning-increases-perceived-ube-knowledge.md) — a narrower finding that bears on this claim
 - [Gen-Equip e-learning modules significantly improve primary care professionals' pre/post knowledge and skills test scores (overall 66.7% to 89.9%, p < 0.001)](gen-equip-prepost-knowledge-skills-gain.md) — related
 - [Intervention completers' mental health knowledge scores rose from baseline to post-course on the embedded course quiz in one uncontrolled pre-post study](mhfa-elearning-improves-course-quiz-knowledge.md) — related
+- [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related

@@ -50,3 +50,4 @@ Within-participant Wilcoxon signed-rank comparison of first vs second attempts a
 - [Model C, with the highest difficulty score (4.430), had the longest intubation time and lowest first-attempt success rate among the four manikins](model-c-highest-difficulty-score-longest-time-lowest-success.md) — related
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
 - [Simulated forgetting between attempts reduces the predicted resit effect](forgetting-reduces-resit-effect-in-model.md) — related
+- [Time to adequate glottic visualization and the number of mucosal contacts fell from the first to the second clinical endoscopy, irrespective of simulator use](repeat-endoscopy-improves-tffl-speed-and-collisions.md) — related

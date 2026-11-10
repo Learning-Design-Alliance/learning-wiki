@@ -96,3 +96,4 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [The DKA simulator scoring system shows adequate internal consistency (Cronbach's α = 0.795) across its seven subscales](dka-simulator-internal-consistency.md) — related
 - [The modified 17-item ICAR showed high internal consistency overall (α = .981) and across all six domains (α = .881–.963)](icar-high-internal-consistency.md) — related
 - [ACE items show excellent discrimination but three critical-appraisal items have poor internal reliability](ace-item-discrimination-reliability.md) — related
+- [TOSLS shows acceptable psychometric properties: reliability 0.731–0.748, average item difficulty 0.59–0.68, and average item discrimination 0.26–0.27](tosls-psychometric-properties.md) — related

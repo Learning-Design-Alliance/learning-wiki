@@ -51,3 +51,4 @@ Post-study survey (Kirkpatrick level 1) of nurses who completed the asynchronous
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
+- [Students held mixed attitudes toward asynchronous learning but overwhelmingly valued its flexibility](mixed-attitudes-asynchronous-flexibility.md) — related

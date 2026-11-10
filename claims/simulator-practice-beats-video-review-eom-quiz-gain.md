@@ -54,3 +54,4 @@ Randomized comparative study of 84 undergraduate medical students at Peking Unio
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
 - [Emergency medicine residents' quiz scores on defibrillator function improved from 60% to 84% after a lecture-plus-simulation intervention](simulation-improves-resident-defibrillator-quiz-scores.md) — related
+- [Didactic lectures produced greater knowledge gain than asynchronous computer-based modules for novice learners in an acute care course](didactic-beats-asynchronous-knowledge-gain-novices.md) — related

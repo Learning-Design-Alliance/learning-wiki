@@ -49,3 +49,4 @@ Paired t-tests comparing the six OSATS variables between first and final attempt
 - [OSATS shows very good inter-observer reliability for assessing technical proficiency on an inanimate PJ model](osats-interobserver-reliability-inanimate-pj-model.md) — related
 - [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](continued-training-osats-subdomain-gains.md) — related
 - [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related
+- [On the global rating scale, all intervention groups except the control improved significantly, and both multimedia-based groups outgained the practical training group](global-rating-scale-multimedia-groups-outgain-practical.md) — related

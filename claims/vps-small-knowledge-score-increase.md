@@ -48,3 +48,4 @@ Same pre-post study of 169 students; the results section reports the knowledge-i
 - [Clinical reasoning item correct-answer rates rose significantly more than knowledge item correct-answer rates from pre-test to post-test in one uncontrolled pre-post study of VPS](cr-items-improve-more-than-k-items.md) — related
 - [Virtual patient simulation sessions significantly increase medical students' clinical reasoning scores without lecturer supervision](vps-increases-clinical-reasoning-scores.md) — related
 - [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
+- [Self-reported motivation to use virtual patients showed no significant changes from pre- to post-test, with some items scoring lower after training](vp-training-motivation-no-significant-change.md) — related

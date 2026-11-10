@@ -13,7 +13,7 @@ generated:
 # Formative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (10 for, 3 mixed) · 19 studies (6 review, 5 quant-synthesis, 3 causal, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (6 review, 5 quant-synthesis, 4 causal, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 9 claims rest on one study
 
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.
@@ -60,6 +60,7 @@ Formative assessment closes the gap between current and desired performance by m
 - [In the feedback-provider discourse, patient assessment data is used to give trainees feedback rather than to make progression decisions](../claims/feedback-provider-discourse-formative-use.md) [+W]
 - [Doing more web-based clinical-case formative assessment exercises is independently associated with passing the pathophysiology end-of-semester exam](../claims/clinical-case-formative-assessment-passing-association.md) [+W] — attached 2026-11-08 from Fernández Ros Nerea et al. (2021), which proposed "Web-based formative assessment tool delivering brief clinical cases with immediate feedback via Google Forms".
 - [Feedback understanding moderates the effect of the relevant FA on course-script knowledge but not on in-depth-knowledge gain](../claims/feedback-understanding-moderates-fa-effect.md) [~W] — attached 2026-11-09 from Minder Stefan P. et al. (2018), which proposed "Open-book online formative assessment with K-type MCQs and per-statement feedback pages"; tests this page's relationship.
+- [Adding elaborate spoken feedback to ARS questions in lectures does not significantly improve final exam performance compared with ARS questions without feedback](../claims/elaborate-feedback-ars-no-exam-gain.md) [~W] — attached 2026-11-10 from Rahman Alexander et al. (2013), which proposed "Audience response system (ARS) for in-lecture multiple-choice questioning in dental conservative dentistry lectures".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

@@ -78,3 +78,4 @@ The article reports the final 2PL model's fit (M2 = 225.325, RMSEA 0.031, SRMSR 
 - [IRT shows the scale's items provide overlapping, redundant information concentrated on high communication-skill levels](irt-items-overlapping-high-cs-levels.md) — reports the opposite
 - [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
+- [A three-subject Rasch scale model (biology, physics, chemistry) retained its properties in a validation sample better than a unidimensional scale, despite high factor correlations](three-subject-rasch-scales-better-validation.md) — related

@@ -74,3 +74,4 @@ Adverse-event monitoring in the feasibility study covered participant-reported s
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
 - [Participants rate the remote AR simulation system as highly usable, with mixed responses only about needing technical support](remote-ar-simulation-sus-high-usability.md) — related
 - [Postural discomfort and visual fatigue remain nonnegative for 40-minute sessions but longer use could reduce comfort](discomfort-acceptable-40-minute-sessions-limit.md) — related
+- [Nearly 40% of students agreed the test was too long and caused fatigue, an atypical item that failed to load on either PCA component](item-nine-test-too-long-fatigue-atypical.md) — related

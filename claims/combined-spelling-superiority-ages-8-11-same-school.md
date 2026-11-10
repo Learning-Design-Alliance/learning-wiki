@@ -52,3 +52,4 @@ The article's summized conclusions section spanning Parts I and II, covering Sta
 - [Both directed multisensory and silent visual spelling methods produced large improvement from baseline after 40 minutes of practice spread over four days](both-spelling-methods-large-improvement-baseline.md) — related
 - [In-class flash-card visual study with writing from memory raised Standard I dictation averages to 20.8, with every boy spelling some words correctly, though the method was time-costly and complicated](flash-card-visual-spelling-method-gains.md) — related
 - [Twelve weeks of copy-and-home-study spelling practice with next-day dictation produced no improvement in Standard I boys' ability to acquire new spellings](home-copy-dictation-no-improvement-standard-i.md) — related
+- [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — related

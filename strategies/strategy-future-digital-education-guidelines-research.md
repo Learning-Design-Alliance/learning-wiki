@@ -49,6 +49,8 @@ The review recommends that future research move beyond passive, low-interactivit
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Use digital decision-support tools and simulations in future research to improve assessment accuracy and inter-rater agreement](digital-decision-support-and-simulation-future-research.md)
+- [Deliver physician behaviour-change training via the internet to enable wide, low-cost dissemination across health systems](internet-delivery-scalable-physician-training-strategy.md)
+- [Pilot-test media format before adopting mobile social learning technologies, and log time-on-viewing in future studies](pilot-media-format-and-time-on-viewing-strategy.md)
 
 ## Examples
 -

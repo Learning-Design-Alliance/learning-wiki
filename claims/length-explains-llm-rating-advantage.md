@@ -49,3 +49,4 @@ Length-adjusted analysis (§5.1.1): OLS regression of each rubric dimension on w
 - [LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception](llm-feedback-higher-expert-ratings.md) — related
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related
 - [Needs-improvement sentences differ from positive sentences in actionability, out-of-class focus, and length](needs-improvement-sentence-qualities.md) — related
+- [No difference found on the focus dimension between comments perceived as stimulating and not stimulating reflection](feedback-focus-dimension-no-difference.md) — related

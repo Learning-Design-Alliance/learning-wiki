@@ -49,6 +49,7 @@ The article recommends that PAL tutors receive substantive training by experienc
 - [Provide structured training in peer teaching and feedback before PAL activities, and run PAL as structured, well-organised, monitored activities](structured-pal-training-before-activity-strategy.md)
 - [Use trained student teaching assistants, with a pre-course didactical workshop, to expand hands-on ultrasound training despite instructor shortages](student-tas-for-ultrasound-instructor-shortage.md)
 - [Offer residents-as-teachers training as early as PGY-1, using interactive formats and supervised teaching opportunities](rat-training-early-pgy1-strategy.md)
+- [Include a video-feedback presentation module in every didactic course for skills lab tutors, and continue offering Peyton's Method despite time concerns](include-presentation-module-in-every-didactic-course.md)
 
 ## Examples
 -

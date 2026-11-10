@@ -69,3 +69,4 @@ Theme two (reflections on training experience): "barriers included technical dif
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](stp-qualitative-themes-experience-limitations-applicability.md) — related
 - [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related
 - [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related
+- [Initially sceptical staff found the online variant an acceptable alternative that did not take significantly more time than classroom teaching](staff-accepted-online-variant-without-extra-time.md) — related

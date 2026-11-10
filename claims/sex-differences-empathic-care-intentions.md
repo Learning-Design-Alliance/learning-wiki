@@ -53,3 +53,4 @@ Cross-sectional survey; the Results section reports the sex contrast on the inte
 - [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
 - [Nursing students began the study with markedly higher pre-test empathy levels than architecture and landscape students](nursing-higher-baseline-empathy-than-design-students.md) — related
+- [Males and females differ in the importance they place on specific admissions characteristics: females rate communication and empathy higher, males rate knowledge of profession, leadership and sound judgment higher](sex-differences-attribute-importance-admissions.md) — related

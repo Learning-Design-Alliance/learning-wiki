@@ -53,3 +53,4 @@ Student t-test comparison of CPR quality metrics by sex in the 47-participant pr
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Real-time feedback device use increases chest compression depth by trainee doctors in simulated CPR](truecpr-feedback-increases-compression-depth.md) — related
+- [Self-rated self-efficacy scores rose from pre-test to post-test after SBTT in one uncontrolled pre-post study, with a larger rise among men than women](sbtt-self-efficacy-sex-difference.md) — related

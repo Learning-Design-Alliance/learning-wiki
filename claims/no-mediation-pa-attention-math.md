@@ -71,3 +71,4 @@ Bootstrap mediation analysis (Table 7) with step count as independent variable; 
 - [MVPA and average daily steps positively predict mathematics scores in both male and female middle school students](mvpa-steps-predict-math-scores-middle-school.md) — related
 - [BMI and aerobic fitness were eliminated from the regression models and showed no effect on mathematics scores](bmi-aerobic-fitness-no-math-effect.md) — related
 - [Sustained attention predicted mathematics scores in boys but not in girls, a sex difference the study reports as contradicting its assumption](sustained-attention-math-boys-only.md) — related
+- [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related

@@ -56,3 +56,4 @@ Quasi-experimental pre/post study of 41 first-year medical students who complete
 - [Quiz improvement is interpreted by the authors as retention of workshop content, since students received no performance feedback between quizzes](quiz-gain-interpreted-as-content-retention.md) — related
 - [Awareness of biases in combining assessment information could improve the robustness of student progression decisions](awareness-of-biases-improves-progression-decisions.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
+- [Across all study groups, combined raw test scores rose from 31% at pre-test to 48% at post-test (Cohen's d = 1.1), based on a pre-test to post-test comparison.](overall-prepost-gain-large.md) — related

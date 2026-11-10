@@ -47,3 +47,4 @@ Randomised controlled trial reported within the review comparing four presentati
 ## Related Claims
 - [Presenting accuracy data as natural frequencies rather than probabilities improves post-test probability estimation and speed of calculations](natural-frequencies-improve-post-test-estimation.md) — a broader claim this one bears on
 - [Health professionals' estimation of post-test probability is generally poor with a tendency to overestimation](post-test-probability-estimation-poor-overestimation.md) — related
+- [Presenting test accuracy results as natural frequencies significantly increased participants' understanding compared with sensitivity and specificity percentages](natural-frequencies-improve-dtar-understanding.md) — related

@@ -50,3 +50,4 @@ Secondary-outcome analysis of total LC time in the randomized controlled study. 
 - [SDTS requires substantially less total training time than traditional teaching in both skill modules](sdts-shorter-training-duration.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
 - [The feedback group has fewer complications despite performing more difficult laparoscopic cholecystectomies](video-debriefing-fewer-complications-despite-difficulty.md) — related
+- [Resident-performed SILS cholecystectomy achieves operative times similar to resident-performed traditional LC (70.0 vs 66.0 minutes).](resident-sils-operative-time-similar-traditional-lc.md) — related

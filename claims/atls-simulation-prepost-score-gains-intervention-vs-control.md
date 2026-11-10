@@ -56,3 +56,4 @@ Descriptive results from the quasi-experimental study (intervention n = 31, cont
 - [Both intervention and control groups improved from pre-test to post-test, with significantly greater gains in the IFINCTA group on all four modules](ifincta-pre-post-gains-both-groups.md) — related
 - [Decision making improves from first to second simulation in both seminar groups, so the gain is not specific to NTS training](decision-making-improved-both-groups.md) — related
 - [The programme transfers to a higher percentage of successful decisions during real match play](video-feedback-questioning-transfers-to-successful-decisions.md) — related
+- [A targeted e-learning module on leukaemia produced significantly higher post-test scores than existing online resources in senior medical students](leukaemia-elearning-module-outperformed-existing-online-resources.md) — related

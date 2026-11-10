@@ -52,3 +52,4 @@ Stepwise regression outcome for the 176-student cross-sectional sample: BMI and 
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Bootstrap analysis found no mediating effects of attention measures or aerobic fitness between physical activity and mathematics achievement](no-mediation-pa-attention-math.md) — related
 - [A recency effect: being highly aerobically fit in the final year of junior high is more strongly associated with exam scores than being highly fit in year 1 or 2](recency-aerobic-fitness-final-year-exam-scores.md) — reports the opposite
+- [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related

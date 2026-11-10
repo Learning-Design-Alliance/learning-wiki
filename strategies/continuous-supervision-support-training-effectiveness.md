@@ -47,6 +47,7 @@ The article's concluding recommendation for management training programmes: "sim
 - [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Train supervisors as coaches and mentors and provide a favourable clinical learning environment to support trainee doctors' talent development](supervisor-training-favourable-clinical-learning-environment-strategy.md)
+- [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ Spearman correlation between irrelevant fixation time and accelerometry-derived 
 - [Lower eye movement consistency (higher C3 entropy) is associated with poorer selective attention and inhibitory control](c3-entropy-linked-selective-attention-inhibitory-control.md) — related
 - [A less eyes-focused pattern and lower eye movement consistency jointly predict poorer recognition beyond age and cognitive abilities](eye-movement-pattern-consistency-predict-recognition-beyond-age.md) — related
 - [A more eyes-focused scanning pattern and higher eye movement consistency are each correlated with better face recognition performance](eyes-focused-pattern-consistency-correlate-better-recognition.md) — related
+- [The authors hypothesize that games stimulating target focusing improve gaze strategy, consistent with their observed reduction of movements and increased economy of path and accuracy](target-focusing-games-gaze-strategy-hypothesis.md) — related

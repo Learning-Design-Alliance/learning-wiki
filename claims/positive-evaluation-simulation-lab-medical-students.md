@@ -46,3 +46,4 @@ Anonymous post-session satisfaction questionnaire with two sections on a five-po
 
 ## Related Claims
 - [Intention to use checklists and observation grids as future reference correlated with intention to participate in future clinical skill laboratory sessions (p = 0.005)](checklist-future-use-correlated-participation-intention.md) — related
+- [Medical students attend voluntary OSCE-relevant basic skills-lab sessions significantly more often than voluntary advanced sessions not tied to assessment](osce-relevant-basic-sessions-attended-more-than-advanced.md) — related

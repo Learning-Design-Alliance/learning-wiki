@@ -49,3 +49,4 @@ Pre/post questionnaire analysis of 47 students using Mann–Whitney U tests. Imp
 - [A two-week otolaryngology simulation and human factors module did not significantly increase medical students' interest in surgical or otolaryngology careers](simulation-module-no-career-interest-change.md) — related
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
 - [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [Students in the technology-enhanced learning group rate e-mail reminders significantly more important after experiencing the course than before it](tel-students-value-email-reminders-more-after-course.md) — related

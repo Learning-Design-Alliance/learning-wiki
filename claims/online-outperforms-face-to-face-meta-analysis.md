@@ -3,12 +3,13 @@ type: claim
 title: Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).
 description: Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).
 id: online-outperforms-face-to-face-meta-analysis
+aliases: [doe-meta-analysis-online-beats-face-to-face]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
-newest_evidence: 2009
+newest_evidence: 2012
 sources:
   - id: means-2009
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
@@ -26,16 +27,27 @@ sources:
     i: "?"
     kind: quant-synthesis
     rigour: 2
+  - id: searls-david-b-2012
+    resource: "https://doi.org/10.1371/journal.pcbi.1002632"
+    title: "Searls David B. (2012). An Online Bioinformatics Curriculum. PLoS Computational Biology. https://doi.org/10.1371/journal.pcbi.1002632"
+    author: Searls David B.
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r2`, 1 theoretical `r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i1` Across 51 independent effect sizes from experimental or controlled quasi-experimental studies, mean student learning outcomes favored online conditions over face-to-face instruction, with an average effect size of +0.24, statistically significant at p < .01. [→ Means 2009](#means-2009)
+
+`q2 i?` The article reports, citing the U.S. Department of Education, that on average students in online learning conditions performed better than those receiving face-to-face instruction. [→ Searls David B 2012](#searls-david-b-2012)
 
 ## Evidence
 
@@ -59,7 +71,18 @@ The meta-analysis reports the pooled mean difference across the 51 contrasts as 
 
 > "The mean difference between online and face-to-face conditions across the 51 contrasts is statistically significant at the p < .01 level."
 
+### Searls David B 2012
+
+Searls David B. (2012). An Online Bioinformatics Curriculum. PLoS Computational Biology. https://doi.org/10.1371/journal.pcbi.1002632
+
+`q2 · i?` · `theoretical · r3`
+
+Secondhand report: the article attributes this finding to a U.S. Department of Education meta-analysis of 51 published head-to-head trials; the underlying study was not read for this extraction. No effect size is printed in the article.
+
+> "the U.S. Department of Education, in an exhaustive meta-analysis of 51 published head-to-head trials, found that “on average, students in online learning conditions performed better than those receiving face-to-face instruction” [2]."
+
 ## Discussion
+
 
 
 ## Related Claims

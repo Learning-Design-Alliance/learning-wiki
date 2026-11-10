@@ -54,6 +54,7 @@ The article recommends organizing simulator training as regular, frequent practi
 - [Simulation-based refresher training and proactive skills maintenance for physicians who infrequently perform intubation](simulation-refresher-training-infrequent-intubators.md)
 - [Schedule regular learning sessions and retraining to maintain intubating LMA insertion speed and confidence in novices](regular-retraining-lma-insertion-skills.md)
 - [Schedule practical skills training as mandatory, structured sessions rather than voluntary participation](mandatory-structured-scheduling-skills-training.md)
+- [Incorporate a simulation-based ultrasound module into mandatory physician orientation](ultrasound-module-in-mandatory-orientation-strategy.md)
 
 ## Examples
 -

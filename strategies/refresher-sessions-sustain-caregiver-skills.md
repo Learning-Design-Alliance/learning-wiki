@@ -81,6 +81,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Sustain resuscitation skills with daily practice, equipment checks, supportive supervision, and periodic refresher training](hbb-ongoing-practice-and-refresher-strategy.md)
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Structure self-directed e-learning with a delivery schedule over fixed time periods and recurrent facilitator-led feedback sessions](scheduled-elearning-with-facilitator-feedback-sessions.md)
+- [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 
 ## Examples
 -

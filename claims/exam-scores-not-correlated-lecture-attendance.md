@@ -47,3 +47,5 @@ Spearman correlation among the 51 course completers in the Results section. The 
 ## Related Claims
 - [Remote delivery of theoretical orthodontics lectures yields overall examination outcomes equal to in-class delivery among undergraduate dental students](remote-theory-lectures-equal-exam-outcomes-orthodontics.md) — related
 - [The number of face-to-face practical attendances correlates positively with exam points (Spearman r=0.236, p<.001), a small positive correlation](ftf-attendance-correlates-with-exam-points.md) — reports the opposite
+- [In the TEL group, neither number of lectures attended nor time spent on e-learning modules correlates significantly with examination results](no-correlation-attendance-or-module-time-with-exam.md) — related
+- [Dental students free to combine e-learning with lectures attend significantly fewer face-to-face lectures than students in a mandatory-attendance traditional course](tel-flexible-attendance-reduces-lecture-attendance.md) — related

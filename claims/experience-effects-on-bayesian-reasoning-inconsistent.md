@@ -48,3 +48,4 @@ Narrative synthesis of studies examining clinical experience, profession and aca
 - [Emergency department clinical experience is associated with more accurate junior doctor plain trauma X-ray interpretation](ed-clinical-experience-improves-trauma-xray-accuracy.md) — related
 - [Structured training improves junior doctor plain trauma X-ray interpretation accuracy](structured-training-improves-trauma-xray-accuracy.md) — related
 - [Health professionals' estimation of post-test probability is generally poor with a tendency to overestimation](post-test-probability-estimation-poor-overestimation.md) — related
+- [Consensus favoured e-signposting, key feature problems and Bayesian reasoning questions, while narrative saturation, wordy presentation and invisible feedback were poorly received](vp-consensus-helpful-unhelpful-properties.md) — related

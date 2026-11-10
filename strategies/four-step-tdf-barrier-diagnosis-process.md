@@ -41,7 +41,8 @@ The article outlines a four-step process for education researchers to apply the 
 - [Tdf 14 Domains Implementation Determinants](../theories/tdf-14-domains-implementation-determinants.md)
 
 ## Related Strategies
-- 
+
+- [Design prescribing-safety interventions around behaviour-change techniques matched to the relevant TDF domains](bct-targeting-tdf-domains-prescribing.md)
 
 ## Examples
 -

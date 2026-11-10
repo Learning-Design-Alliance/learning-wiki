@@ -52,3 +52,4 @@ Time-to-intervention analysis of the trial's video-recorded 12-month scenarios (
 - [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](real-time-feedback-improves-compression-30-2-cycles.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
+- [Hands-off ratio of 40% in simulated rural EMS resuscitation indicates minimization of interruptions in chest compressions was not performed well](rural-ems-hands-off-ratio-40-percent.md) — related

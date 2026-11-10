@@ -125,3 +125,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Cognitive load theory may help identify mismatches between representational schemes and the execution of (sub)tasks in CSCL](clt-identifies-representation-task-mismatches.md) — related
 - [Students require prompting to connect information across multiple representations and do not do so spontaneously](students-need-prompting-connect-mers.md) — related
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — a narrower finding that bears on this claim
+- [Visual causal model (dual-mode) presentations yield larger immediate knowledge gains than auditory-only presentations of GAD explanations](visual-causal-models-improve-immediate-gad-learning.md) — related

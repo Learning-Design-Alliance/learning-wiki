@@ -58,3 +58,4 @@ Quasi-experimental study of 115 sixth-semester medical students allocated by hos
 - [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related
 - [Structured LLM-generated feedback improves medical students' clinical decision-making performance across four AI-simulated history-taking scenarios](ai-feedback-improves-clinical-decision-making-rct.md) — related
 - [Students reported high satisfaction with Body Interact™ VPS training and rated it as bridging learning gaps, providing real feedback, and giving clinical simulation experience](high-satisfaction-body-interact-vps-training.md) — related
+- [A majority (54%) of entitled students voluntarily used the VP module, averaging 91 minutes total use](voluntary-vp-uptake-54-percent.md) — related

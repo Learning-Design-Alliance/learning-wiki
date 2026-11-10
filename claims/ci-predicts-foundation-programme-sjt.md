@@ -51,3 +51,4 @@ Prospective correlational linkage of CI scores from one UK medical school (2006�
 - [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — a broader claim this one bears on
 - [The Conscientiousness Index is stable between years 1 and 2 of medical school, and its first decile differs from all other deciles](ci-stable-across-years-first-decile-distinct.md) — related
+- [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](conscientiousness-stable-not-modified-by-teaching.md) — related

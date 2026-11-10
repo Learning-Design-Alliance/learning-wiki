@@ -87,3 +87,4 @@ ANOVA results for the awareness outcome in the same survey found 'no statistical
 - [No internal medicine house-staff scored 26/26 correct on CKD medication dose-adjustment awareness, and only 0.6% scored 25/26](no-resident-scored-26-of-26-ckd-dosing-awareness.md) — related
 - [The highest percentage of completely correct responses for any medication class and PGY group was 17.1% for awareness (gastrointestinal) and 16.3% for knowledge (rheumatologic)](completely-correct-under-18-percent-ckd-dosing.md) — related
 - [78.9% of the surveyed house-staff recognized that digoxin needs dose adjustment in CKD](digoxin-awareness-78-9-percent-ckd.md) — related
+- [Baseline CKD knowledge among U.S. internal medicine residents is poor, with mean pre-test scores of 45.1–57.0% across four years](poor-baseline-ckd-knowledge-residents.md) — related

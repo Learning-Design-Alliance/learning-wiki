@@ -48,3 +48,4 @@ The review reports Morriss et al.'s (2010) RCT analyses of psychosocial chatter 
 - [Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups](pps-training-improves-hcp-communication.md) — related
 - [Patients consulting trained practitioners reported higher satisfaction, significant in one RCT and non-significant in another](pps-training-patient-satisfaction-mixed.md) — related
 - [Effects on healthcare utilisation were inconsistent: TERM training showed no effects on visits or medication, while speciAL reduced visits significantly in the intervention group](pps-training-healthcare-utilisation-inconsistent.md) — related
+- [Neither training substantially worsens short-term symptom control, though symptom resolution is slightly longer with communication training](symptom-outcomes-largely-unaffected-by-training.md) — related

@@ -50,3 +50,4 @@ Cross-sectional survey of US ophthalmology residents (183 providing exact percen
 - [On multivariable analysis, higher Step 1 scores, incentives, more weekly study hours, fewer research hours, and less dependence on group study predict scoring at or above the 75th OKAP percentile](multivariable-predictors-top-okap-percentile.md) — related
 - [OKAP percentile was not significantly correlated with program size, total months spent studying, weekly research hours overall, or weekly duty hours](null-correlations-program-size-duty-hours.md) — related
 - [Greater use of online question banks and program-arranged review sessions correlates with higher OKAP percentile, while review books, BCSC books, question books, group study sessions, and review courses do not](question-banks-review-sessions-correlate-okap.md) — related
+- [Leipzig medical students use the Internet for study purposes on average 8.3 hours per week](leipzig-students-8-3-hours-internet-study.md) — related

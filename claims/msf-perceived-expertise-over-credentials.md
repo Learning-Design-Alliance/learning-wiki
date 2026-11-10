@@ -70,3 +70,4 @@ From the Discussion: the perception of expertise was not limited to specific pro
 - [Perceived power differentials between residents and allied healthcare professionals fluctuate and create barriers to providing and accepting multisource feedback](msf-power-dynamics-barriers.md) — related
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
 - [Hospital ward culture and interprofessional divides — including transient resident roles and lack of formal feedback channels — impede feedback provision and acceptance](msf-ward-culture-interprofessional-barriers.md) — related
+- [Residents perceived procedural skills assessment on the OSCE as a useful formative tool for direct observation and immediate feedback](osce-formative-procedural-assessment.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Null comparison on the three other course topics: scores were "not significantly
 - [Overall GM-ITE scores did not differ significantly among resident physicians educated in Japan, Non-Japan Asia, and Europe and Other regions (p = 0.153)](gm-ite-overall-score-no-regional-difference.md) — related
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — related
 - [Misconceptions can be uncovered in students’ written questions, with 11% of rated questions classified as containing a misconception](written-questions-uncover-misconceptions-11-percent.md) — related
+- [The interim assessment benefit was largest on formal examination questions related to the assessed topic (0.47 points on tumour pathology)](interim-assessment-topic-specific-subscore-gain.md) — related

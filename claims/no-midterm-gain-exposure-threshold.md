@@ -49,3 +49,4 @@ Results section of the randomized study: midterm VR-simulator tests were collect
 - [The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)](shortened-mzz-replicates-effect-waiting-controls.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — reports the opposite
 - [UP improvement over repeated XR sessions is greater and faster for ventriculostomy than for tumor resection](procedure-variability-moderates-xr-learning-gains.md) — related
+- [Repeated assessments may enhance learning (the testing effect), relevant to medical education assessment](repeated-assessments-testing-effect-medical-education.md) — reports the opposite

@@ -61,3 +61,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Coaching support was not always perceived as needed or accessible: some students relied on supportive mentors, and others could not engage due to time constraints and infrequent group meetings](coaching-support-not-always-accessible.md) — related
 - [Preclinical medical students' attitudes toward reflective group discourse on professional challenges are diverse, with some valuing the mentoring program and others expressing aversive attitudes](diverse-student-attitudes-reflective-mentoring-groups.md) — related
 - [Mentorship overlap and regular mentor meetings supported learner progress; same-discipline physician mentors served as role models](mentorship-overlap-and-role-modelling.md) — related
+- [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](assigned-mentors-superficial-relationship.md) — related

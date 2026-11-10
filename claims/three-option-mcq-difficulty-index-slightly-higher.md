@@ -59,3 +59,5 @@ Item-analysis comparison of the same 50 items in both formats; the DF difference
 - [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
 - [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related
 - [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — reports the opposite
+- [The mixed-option test form slightly reduces Rasch measurement error around person scores](mixed-option-reduces-measurement-error.md) — related
+- [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related

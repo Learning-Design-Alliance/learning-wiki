@@ -71,3 +71,4 @@ Log analysis shown in Fig. 2c and d compares activity hits per activity between 
 - [Website analytics showed module traffic spiking in the 1-3 days before examinations and around laboratory sessions](analytics-traffic-spikes-exams-labs.md) — a broader claim this one bears on
 - [Blending Moodle e-learning review with a field trip improves herbal plant identification scores for both plant groups in a quasi-experiment with 49 Chinese medicine students](moodle-review-improves-herbal-identification-quasi-experiment.md) — related
 - [The blended Moodle-plus-field-trip intervention shows a large effect size (Cohen's d = 1.38) on herbal plant identification](moodle-field-trip-cohens-d-1-38.md) — related
+- [Health professional students' use of an online learning repository peaks at times of increased academic need such as examinations](repository-usage-peaks-exam-periods.md) — related

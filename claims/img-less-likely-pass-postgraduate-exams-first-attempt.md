@@ -57,3 +57,4 @@ Multivariate logistic regression on 69,595 written and 38,485 clinical first att
 - [Asian and Black candidates are significantly less likely than White candidates to pass MRCS Part B at the first attempt after adjustment (OR 0.49 and OR 0.41)](asian-black-candidates-less-likely-pass-mrcs-part-b.md) — related
 - [BME UK graduates and international medical graduates in postgraduate training are perceived to face additional difficulties that affect their learning and performance compared with white UK graduates](bme-img-additional-training-difficulties-impede-learning.md) — related
 - [Ethnicity effects on examination performance persist after taking performance at previous assessment stages into account](ethnicity-effects-persist-after-prior-performance-adjustment.md) — related
+- [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related

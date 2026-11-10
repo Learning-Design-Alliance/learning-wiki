@@ -49,3 +49,4 @@ Behavioral retrieval test of 31 analyzed second-year undergraduates (19 biology,
 - [Students already show a pretest congruency effect: existing knowledge yields better baseline performance for schema-related questions](pretest-schema-congruency-effect.md) — related
 - [Successful encoding of schema-related information recruits the mPFC whereas successful encoding of schema-unrelated information recruits the medial temporal lobe](schema-by-memory-mpfc-mtl-interaction.md) — related
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
+- [New information fitting an existing schema is consolidated into neocortex more rapidly](schema-based-prior-knowledge-rapid-consolidation.md) — related

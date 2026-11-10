@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 670 claims (357 show a difference, 153 mixed, 160 no difference) · 476 studies (245 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 67 of 476 report an effect size · 662 claims rest on one study
+> **Evidence** · 677 claims (361 show a difference, 156 mixed, 160 no difference) · 480 studies (249 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 480 report an effect size · 669 claims rest on one study
 
 ## How to read this page
 
@@ -709,6 +709,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Item position within a strand showed no significant gender achievement differences on constructed-response explanation tasks](../claims/no-gender-difference-item-position.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](../claims/peer-assessment-effect-size-benchmarks.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students had a significantly lower error frequency than male students in cardiac examination, driven by inspection and palpation, while percussion was more error-prone in females](../claims/cardiac-exam-gender-skill-differences.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls report higher mathematics anxiety than boys in secondary school](../claims/girls-higher-math-anxiety-secondary.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls report higher test anxiety than boys in secondary school](../claims/girls-higher-test-anxiety-secondary.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Males and females differ in the importance they place on specific admissions characteristics: females rate communication and empathy higher, males rate knowledge of profession, leadership and sound judgment higher](../claims/sex-differences-attribute-importance-admissions.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Mathematics anxiety correlates negatively with mathematics performance in both girls and boys, more strongly in girls](../claims/ma-performance-correlation-gender-difference.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in performance vary by assessment stage: males did better at A-level and BMS and MRCP(UK) Part 1 but less well on clinical assessments](../claims/sex-differences-vary-by-assessment-stage.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](../claims/free-response-exams-no-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The PHY 431 gender gap widened over a decade, reaching 0.5 grade points by 2009 as enrollment grew from about 300 to more than 525 students](../claims/phy431-growing-gender-gap-class-size.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

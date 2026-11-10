@@ -48,3 +48,4 @@ Gender subgroup analysis of the randomized controlled trial (linear mixed models
 - [Female students outperform male students on tumour pathology in the control group, but the gender gap is much smaller in the intervention group](gender-gap-closed-by-written-question-intervention.md) — related
 - [Challenging students to formulate an extra written question during small-group work does not significantly improve overall tumour pathology examination scores](written-question-intervention-no-overall-score-effect.md) — related
 - [The written-question intervention shows no learning effect in female students (difference 0.1, p = 0.75, effect size 0.04)](written-question-intervention-no-female-effect.md) — related
+- [The interim assessment benefit was largest on formal examination questions related to the assessed topic (0.47 points on tumour pathology)](interim-assessment-topic-specific-subscore-gain.md) — related

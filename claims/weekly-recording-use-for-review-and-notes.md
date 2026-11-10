@@ -50,3 +50,4 @@ Survey frequency-of-use results (Table 6) from the 281 respondents. A companion 
 - [Students who use recorded lectures strategically do so actively, chiefly by pausing recordings to take notes or consult other resources](strategic-active-use-pausing-recordings.md) — related
 - [Students advise new users to employ recordings purposefully—for missed lectures or exam preparation—rather than extensively](student-advice-purposeful-recording-use.md) — reports the opposite
 - [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
+- [Leipzig medical students use the Internet for study purposes on average 8.3 hours per week](leipzig-students-8-3-hours-internet-study.md) — related

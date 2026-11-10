@@ -66,3 +66,4 @@ Within-group pre-post questionnaire comparison of self-assessed CPR competence f
 ## Related Claims
 - [PBL combined with high-fidelity simulation leads to a higher rate of immediately performed guideline-conform CPR than classical CPR training in medical students](pbl-high-fidelity-simulation-increases-immediate-cpr-competence.md) — related
 - [Subjective confidence and safety do not differ significantly between training formats despite performance differences](ldhf-als-no-confidence-difference.md) — related
+- [Students' self-evaluation of competence rose after the CPR course in both teaching techniques, to a level the authors judge too high relative to measured performance](post-course-self-evaluation-inflated-both-techniques.md) — related

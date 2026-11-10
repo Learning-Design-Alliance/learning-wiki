@@ -55,3 +55,4 @@ Observational analysis of value-added estimates for teachers in ten districts; c
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
 - [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — related
 - [The share of low-income students in a grade is negatively associated with proficiency across all school levels](low-income-share-negative-proficiency.md) — related
+- [Underrepresented minority physicians tend to be more likely to serve underserved populations, but the evidence base is underdeveloped](minority-physicians-serve-underserved-populations.md) — related

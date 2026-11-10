@@ -57,3 +57,4 @@ Descriptive statistics (frequencies and percentages) from research question one,
 - [Prior GPA did not differ significantly between the POGIL participant and non-participant groups](pogil-groups-equivalent-prior-gpa.md) — related
 - [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md) — related
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
+- [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related

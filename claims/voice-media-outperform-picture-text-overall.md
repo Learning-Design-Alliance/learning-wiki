@@ -95,3 +95,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [After the intervention, students rated visual stimuli higher than audio stimuli for DRM factual learning and knowledge retention (PS +1.05 to +1.27 versus +0.77 to +0.83), in one pre-post study with no comparison group](visual-over-audio-stimuli-video-learning.md) — related
 - [Students interacted with the presentation in varied ways, with multimedia engagement stimulating learning for some and distracting for others](prezi-varied-student-interaction-multimedia.md) — related
 - [Animation-enriched virtual patients produce more overall 'competent' PBLS ratings than video instruction, which outperforms static-media VP](animation-enriched-vp-more-competent-ratings-pbls.md) — related
+- [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — related

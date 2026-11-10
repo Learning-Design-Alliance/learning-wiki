@@ -52,3 +52,4 @@ Pre/post comparison in the RCT's primary outcome (Table 2): simulator group's sc
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
+- [Self-reported comfort in evaluating a pregnant patient with shortness of breath increased significantly in both workshop groups](comfort-evaluating-increased-both-groups.md) — related

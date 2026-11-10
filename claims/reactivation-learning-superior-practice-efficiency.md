@@ -46,3 +46,4 @@ Experiment 1 one-way ANOVA on practice efficiency, defined as improvement betwee
 
 ## Related Claims
 - [Brief passive reactivations induce significant learning gains in numeric fact recall at retest 8 days after encoding](reactivations-induce-numeric-fact-learning-gains.md) — related
+- [The eBook group showed higher learning efficiency (improvement per minute) on complex content despite its lower knowledge gains](ebook-higher-learning-efficiency-complex.md) — related

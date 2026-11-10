@@ -53,3 +53,4 @@ Two-round explorative Delphi survey of physician experts assessing the 288 Conse
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [In Delphi Round 2, three of 16 candidate shared-competency items were deleted for high variability (SD above 0.8) and lower relevance to shared collaborative roles](delphi-round2-item-deletion-high-sd.md) — related
 - [A three-round modified Delphi process led Taiwanese experts to consensus on 42 of 62 health literacy competencies (12 knowledge, 9 attitude, 21 skill items)](delphi-taiwan-consensus-42-of-62-competencies.md) — related
+- [A peer-teaching tutorial program covered 65.9% of all learning objectives and 73.7% of core objectives of the Practical Skills consensus statement.](tutorials-cover-65-9-percent-objectives-73-7-core.md) — related

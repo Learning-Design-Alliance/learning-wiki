@@ -49,6 +49,7 @@ Drawing on Surr et al.'s list of key features for effective dementia care traini
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Provide professional training to informal caregivers in the technology when implementing e-learning support](professional-training-informal-caregivers-e-learning.md)
+- [Introduce systematic dementia-specific education or training for all health care staff, including support staff](systematic-dementia-specific-education-all-staff.md)
 
 ## Examples
 -

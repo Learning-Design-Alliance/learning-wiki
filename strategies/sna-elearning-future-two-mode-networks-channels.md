@@ -41,6 +41,7 @@ The review recommends that future research broaden the network structures and co
 - [Future SNA e-learning studies should include a quantitative approach exploiting the statistical power of SNA to explain complex systems](sna-elearning-future-quantitative-approach.md)
 - [Future studies should use larger samples and test online social networking sites like Facebook or blogs for academic writing feedback](future-ocf-larger-samples-social-networks.md)
 - [Extend discussion sessions beyond the classroom through social network sites and visual cues](extend-discussions-sns-visual-cues-strategy.md)
+- [Incorporate social media and emerging interactive technologies into online EBM modules to enhance connectedness and satisfaction](social-media-enhance-online-ebm-connectedness.md)
 
 ## Examples
 -

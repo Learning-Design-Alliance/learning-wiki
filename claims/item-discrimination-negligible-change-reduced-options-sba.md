@@ -52,3 +52,5 @@ Simulation analysis of point-biserial correlation coefficients across three exam
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
+- [Mean item discrimination did not differ significantly between three- and four-option forms, but item-level discrimination re-ordered considerably](discrimination-unchanged-item-level-reordering.md) — related
+- [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related

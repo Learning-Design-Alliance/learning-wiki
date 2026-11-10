@@ -52,3 +52,4 @@ Single-group repeated-measures evaluation of face-to-face training (Study 1, N =
 - [Fathers attend parenting interventions at low rates, with only 17.2% of practitioners reporting fathers often attended](low-father-attendance-rates-parenting-interventions.md) — related
 - [Only about one quarter of practitioners are high in competence and one quarter have received father-engagement training, despite high confidence](quarter-high-competence-quarter-trained-father-engagement.md) — related
 - [Participation in training in father engagement predicts high practitioner competence in engaging fathers (OR = 2.25)](training-predicts-practitioner-father-engagement-competence.md) — related
+- [Training gains were not maintained at three-month follow-up, with no significant carry-forward differences between groups and deterioration in many outcome scores](no-carry-forward-effect-three-months.md) — reports the opposite

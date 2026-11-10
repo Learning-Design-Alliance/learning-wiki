@@ -56,3 +56,4 @@ Spearman correlation in the cross-sectional survey among 271 students with prior
 - [Use of additional online learning material correlated positively with examination scores but not significantly](moodle-material-use-exam-score-nonsignificant-correlation.md) — related
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
 - [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related
+- [Combining spaced education with face-to-face lectures levels learning-style-related differences in examination results](spaced-education-levels-learning-style-exam-correlations.md) — related

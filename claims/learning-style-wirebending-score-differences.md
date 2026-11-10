@@ -49,3 +49,4 @@ Kruskal-Wis comparison of wire-bending scores by ILS dimension (Table 8): active
 - [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — related
 - [In the flipped classroom, active, intuitive and sequential learning styles correlate positively with student satisfaction](ils-styles-correlate-satisfaction-flipped.md) — related
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [Combining spaced education with face-to-face lectures levels learning-style-related differences in examination results](spaced-education-levels-learning-style-exam-correlations.md) — related

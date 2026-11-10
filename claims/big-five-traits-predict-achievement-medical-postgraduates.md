@@ -61,3 +61,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
 - [Agreeableness predicts clinical performance while extraversion and openness relate only to academic achievement and neuroticism to neither](other-big-five-domains-dental-performance-patterns.md) — reports the opposite
 - [Big Five traits correlate significantly with Academic Behavioural Confidence subscales, positively except neuroticism, with conscientiousness showing the strongest correlations](big-five-correlations-academic-behavioural-confidence.md) — related
+- [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related

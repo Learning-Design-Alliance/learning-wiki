@@ -48,3 +48,4 @@ Multivariate quantile regression on knowledge scores of 830 IHCPs with 500 boots
 - [Residents seeing more than 6 patients per session self-assessed their theoretical knowledge significantly higher (average 3.4) than those seeing 5 or fewer patients](clinical-workload-associated-with-self-assessed-theoretical-knowledge.md) — related
 - [Informal health care providers in Ujjain scored low on a knowledge test of evidence-based neonatal care, with a mean score of 22.3 out of a maximum of 48](ihcp-low-neonatal-knowledge-score-ujjain.md) — related
 - [IHCPs treating children had significantly better knowledge scores across quantiles except at the highest quantile (90th)](treating-children-better-scores-except-q90.md) — related
+- [Doctors who treated ten or fewer TB patients in the past year were more likely to have adequate knowledge scores](fewer-tb-patients-adequate-knowledge.md) — related

@@ -73,3 +73,4 @@ The review's introduction states, citing prior studies, that "their skills deter
 - [Novice UGRA skill attrition can occur as fast as 24 hours after initial learning, motivating periodic retraining](rapid-skill-attrition-within-24-hours-novices.md) — related
 - [Adding a practical test with feedback after standard CPR training improves seventh grade students' practical CPR skills at 6-month follow-up compared with CPR training only](cpr-test-feedback-improves-six-month-skills.md) — related
 - [Lung isolation insertion time increased from post-test to 2-month follow-up in one group with no comparison group](lung-isolation-insertion-time-decay-two-months.md) — a narrower finding that bears on this claim
+- [Training gains were not maintained at three-month follow-up, with no significant carry-forward differences between groups and deterioration in many outcome scores](no-carry-forward-effect-three-months.md) — a narrower finding that bears on this claim

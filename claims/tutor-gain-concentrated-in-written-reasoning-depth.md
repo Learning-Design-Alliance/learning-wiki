@@ -58,3 +58,4 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 - [Tutors observed considerable improvement in the quality of students' oral exam presentations after the second training round.](pt-bet-tutor-rated-improvement.md) — related
 - [Question-authoring quality predicts molecular biology multiple-choice exam performance after controlling for prior grades and self-testing, in a 632+-student biochemistry cohort](question-authoring-quality-predicts-mcq-exam.md) — related
 - [A supplementary TBL class produced no significant difference in multiple-choice examination scores of factual and conceptual knowledge](supplementary-tbl-no-mcq-knowledge-difference.md) — related
+- [The SUN multiple-choice exam showed a ceiling effect after the workshop, limiting item discrimination](sun-mc-exam-ceiling-effect.md) — related

@@ -52,3 +52,4 @@ Authors' interpretive claim (type e) about the AAMC's advocacy posture, argued f
 - [Bard unexpectedly cited references including the 2021 AAMC SJT practice exam booklet, suggesting potential use as a reference manager despite its inaccuracy](bard-citation-behavior-reference-manager-potential.md) — related
 - [ChatGPT-4.0 outperformed ChatGPT-3.5 and Bard on the AAMC SJT in both raw and adjusted accuracy](chatgpt-4-outperforms-3-5-and-bard-aamc-sjt.md) — related
 - [The institution's admission competencies align with AAMC Premed competencies but include unique attributes such as confidence, leadership, and entrepreneurship](institution-unique-attributes-versus-aamc-premed.md) — related
+- [Holistic review is not a psychometrically valid alternative to statistical (actuarial) selection methods](holistic-review-not-psychometrically-valid.md) — related

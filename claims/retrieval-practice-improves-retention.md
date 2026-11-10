@@ -149,7 +149,7 @@ The article summarizes the retrieval-practice literature: experiments compare st
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 28 narrower claims that bear on it: **17 distinct studies** (6 causal, 5 quant-synthesis, 4 review, 1 kind not coded, 1 qualitative), `q1`–`q4`, 9 of 17 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* This table gathers the studies behind this claim and the 28 narrower claims that bear on it: **16 distinct studies** (6 causal, 5 quant-synthesis, 4 review, 1 qualitative), `q1`–`q4`, 9 of 16 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

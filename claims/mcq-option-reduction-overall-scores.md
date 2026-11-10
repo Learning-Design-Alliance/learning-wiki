@@ -53,3 +53,5 @@ Comparison of overall MCQ scores between sequential cohorts (first offering five
 - [On re-used questions with the least effective distractor removed, three of four courses showed no significant change in student performance](mcq-reused-questions-no-performance-change.md) — related
 - [Reducing SBA options from five to three maintains exam reliability and fail rates while increasing mean percentage marks by 1-3%](reduced-option-sba-maintains-reliability-increases-marks.md) — related
 - [Students score higher and take less time on three-option MCQ tests than on four- and five-option tests](three-option-mcq-higher-scores-less-time.md) — reports the opposite
+- [The mixed-option test form slightly reduces Rasch measurement error around person scores](mixed-option-reduces-measurement-error.md) — related
+- [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related

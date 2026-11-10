@@ -53,3 +53,4 @@ Regression analysis of three semesters of TBL course data (N = 134 per printed t
 - [Natural uptake of the freely available Exam Playbook differed by gender and race but not academic ability or first-generation status](exam-playbook-natural-uptake-demographics.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
 - [Gender and other PGY levels showed no significant effect on predicted exam score difference](gender-and-other-pgy-no-effect-exam-score-difference.md) — related
+- [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](free-response-exams-no-gender-gap.md) — related

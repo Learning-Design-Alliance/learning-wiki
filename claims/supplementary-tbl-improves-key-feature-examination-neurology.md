@@ -52,3 +52,4 @@ Static-group comparison in one neurology course: 11 voluntary TBL participants v
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a broader claim this one bears on
 - [Script concordance test performance rose significantly from pre-test to post-test in fourth-year medical students in one uncontrolled pre-post study of a team-based learning course on clinical symptoms](sct-performance-improves-after-tbl-clinical-reasoning.md) — related
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
+- [TBL produces greater immediate knowledge gains than passive learning in undergraduate clinical neurology](tbl-greater-immediate-knowledge-gains-than-passive-learning-neurology.md) — related

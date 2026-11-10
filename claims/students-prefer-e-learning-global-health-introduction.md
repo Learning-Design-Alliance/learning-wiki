@@ -48,3 +48,4 @@ Thematic analysis of four post-intervention focus groups (24 students, 14 e-lear
 ## Related Claims
 - [E-learning modules and peer-reviewed PDF articles both improved global health conceptual knowledge with no statistically significant difference between the two approaches](e-learning-versus-pdf-articles-no-knowledge-difference-global-health.md) — related
 - [HCPs want interactive components and personal exchange in e-learning to enhance knowledge-practice transfer](interactive-components-knowledge-practice-transfer.md) — related
+- [Students viewed online repositories as potential tools to support lifelong learning and health care delivery after graduation](repositories-support-lifelong-learning.md) — related

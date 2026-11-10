@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (24 for, 14 mixed, 2 against) · 56 studies (17 causal, 12 review, 11 quant-synthesis, 5 design, 4 associational, 4 qualitative, 3 theoretical), `q1`–`q4` · 9 of 56 report an effect size · 31 claims rest on one study
+> **Evidence** · 42 claims (25 for, 15 mixed, 2 against) · 58 studies (18 causal, 12 review, 11 quant-synthesis, 5 associational, 5 design, 4 qualitative, 3 theoretical), `q1`–`q4` · 10 of 58 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,8 @@ Claims this page has read and does not use in the model above, with how far each
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](../claims/msf-written-comments-quality-varies-actionability-limited.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "WBA feedback should be specific and action-based to be effective for improving practice".
 - [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](../claims/intraoperative-feedback-improves-surgical-performance.md) [+W] — attached 2026-11-01 from Trehan Abhishek et al. (2015), which proposed "Future intraoperative feedback research should systematically vary source, facilitator, frequency, duration and content"; tests this page's relationship.
 - [Endo.Adm feedback increased colonoscopy withdrawal time but did not significantly improve cecal intubation rate](../claims/endo-adm-feedback-withdrawal-time-not-cir.md) [~W] — attached 2026-11-08 from Yao Liwen et al. (2021), which proposed "Deliver automated, individualized audit-and-feedback report cards to professionals to improve procedural performance"; tests this page's relationship.
+- [Only 39% of learners used blueprinted feedback to direct further learning, and usefulness ratings declined through the course](../claims/low-use-declining-usefulness-blueprinted-feedback.md) [+W] — attached 2026-11-10 from Burr Steven A et al. (2013), which proposed "Integrate education on giving and receiving feedback into the curriculum so learners use individualised feedback effectively".
+- [Quality of individual contributions in PBL tutorial groups rose from pre-test to post-test only for students with a below-average initial score after midterm peer process feedback combined with goal setting, in one pre-post study with no comparison group](../claims/peer-process-feedback-improves-low-pretest-contributors.md) [~M] — attached 2026-11-10 from Kamp Rachelle J. A. et al. (2012), which proposed "Combine midterm peer process feedback with feed up, personalized improvement tips, and actively stimulated goal setting and reflection to strengthen its impact"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

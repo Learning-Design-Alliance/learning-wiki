@@ -52,3 +52,4 @@ The contrasting finding of the qualitative meta-synthesis of PBL meta-analyses: 
 - [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
+- [PBL students outperform traditional-curriculum students on long-term retention of core knowledge measured by progress tests](pbl-better-long-term-core-knowledge-retention.md) — reports the opposite

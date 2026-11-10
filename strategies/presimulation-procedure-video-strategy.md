@@ -52,6 +52,7 @@ Before the simulation session, both groups were instructed on the methodology an
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
 - [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
+- [Provide cognitive training (live demonstration plus reference DVD) before cadaver-based technical skills practice](cognitive-training-precedes-cadaver-technical-practice.md)
 
 ## Examples
 -

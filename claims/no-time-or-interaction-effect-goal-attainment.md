@@ -50,3 +50,4 @@ Mixed-design ANOVA within the same RCT reported no significant main effect of ti
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Neither the workshop nor the one-on-one intervention affected enrollment in the following semester](academic-planning-interventions-no-persistence-effect.md) — related
 - [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](koki-accuracy-no-group-differences.md) — related
+- [Presentation framerate did not affect detection accuracy despite 28 images/s being judged too fast](framerate-no-accuracy-effect.md) — related

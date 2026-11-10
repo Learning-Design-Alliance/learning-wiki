@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (42 for, 14 mixed) · 60 studies (17 causal, 11 quant-synthesis, 11 review, 11 qualitative, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 60 report an effect size · 49 claims rest on one study
+> **Evidence** · 59 claims (44 for, 15 mixed) · 61 studies (17 causal, 12 qualitative, 11 quant-synthesis, 11 review, 5 theoretical, 3 associational, 2 design), `q1`–`q4` · 10 of 61 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,9 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Group 3 scored higher on graduation theses than Group 1, but no difference was found between Group 1 and Group 2 thesis scores](../claims/thesis-gain-only-with-practice-component.md) [+W] — attached 2026-11-09 from Yang Ningxi et al. (2018), which proposed "Combine narrative medicine theory with clinical practice rather than theory alone when teaching empathy to nursing students"; tests this page's relationship.
 - [Experiential learning opportunities supported nursing students' clarification of their own values about death and dying and their respect for others' values](../claims/value-clarification-death-dying-experiential.md) [+M] — attached 2026-11-09 from Learning end-of-life care within a constructivist model: Undergraduate nursing students' e, which proposed "Nurse educators should plan end-of-life learning opportunities that raise emotional awareness and provide opportunities for value clarification"; tests this page's relationship.
 - [Experiential learning oral health education produced statistically significant better oral hygiene than traditional lecturing at 6 months, but not at 18 months](../claims/el-better-hygiene-than-tl-at-6-months.md) [~W] — attached 2026-11-09 from Angelopoulou Matina V et al. (2015), which proposed "Use teachers rather than external dental professionals to deliver school-based experiential health education, with training".
+- [Preclinical students who received part of their skills training as early clinical experiences in primary health care centers feel better prepared to perform clinical skills in their first clerkships than peers trained exclusively in a skills laboratory.](../claims/ece-phc-better-prepared-first-clerkships.md) [+W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
+- [In first clerkships, skills-laboratory-only students report far more difficulties applying clinical skills than peers with early clinical experience in primary health care centers.](../claims/npt-more-clerkship-difficulties-than-pt.md) [+W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
+- [Both ECE participants and skills-laboratory-only students believe the effectiveness of early clinical experience depends on the quality of supervision in the primary health care centers.](../claims/ece-effectiveness-depends-on-supervision-quality.md) [~W] — attached 2026-11-10 from Widyandana Doni; Majoor Gerard; Scherpbier Albert (2012), which proposed "Include early clinical experiences in primary health care centers in the preclinical curriculum to ease the transition into clerkships.".
 
 ## Objective and learner-valued goal
 

@@ -54,3 +54,4 @@ Single-center randomized open-label superiority trial of internal medicine resid
 - [Over seven years the expertise reached by peer tutors and peer learners was generally satisfactory](seven-year-satisfactory-expertise-pts-pls.md) — related
 - [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — related
 - [Intervention and control groups had equivalent clinical exposure during the 2 months before assessment](equal-clinical-exposure-between-groups.md) — related
+- [Internal Medicine residents report acquiring procedural skills through resident-directed learning with no formal mechanism to ensure acquisition or maintenance of skills](resident-directed-procedural-skill-acquisition.md) — reports the opposite

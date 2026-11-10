@@ -70,3 +70,4 @@ In the same regression model predicting mathematics achievement, performance-avo
 - [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — related
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](growth-mindset-negative-direct-association-math-china.md) — related
 - [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](growth-mindset-predicts-achievement-goal-orientations.md) — related
+- [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](performance-approach-goals-predict-low-frustration-tolerance.md) — related

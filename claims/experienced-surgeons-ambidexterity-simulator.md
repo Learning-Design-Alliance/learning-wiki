@@ -50,3 +50,4 @@ Within-subject analysis in the experienced group (n = 9, ≥ 100 arthroscopic pr
 - [Multivariate analysis shows experience predicts non-dominant grasping efficiency when controlling for hand dominance](multivariate-experience-nd-grasping-efficiency.md) — related
 - [Exercise duration does not differentiate experience levels on the arthroscopic simulator task](exercise-duration-null-metric.md) — related
 - [Non-dominant camera path length differs significantly across experience groups, with novices travelling furthest](nd-camera-path-length-group-difference.md) — related
+- [The authors argue that skills measured on a VR arthroscopy unit are somewhat transferable to and from the operating theater](vr-arthroscopic-skills-somewhat-transferable.md) — related

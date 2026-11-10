@@ -72,3 +72,4 @@ Same survey analysis: 19 of the 25 items showed no significant group differences
 - [Test-group students reported that the simulator's hands-on experience was easy to use, useful, and increased their confidence in performing hearing screenings](hss-qualitative-hands-on-confidence.md) — related
 - [Among students with prior live screening experience, confidence changes were mixed, with a negative change in combined hearing screening scores for the control group](hss-prior-experience-subgroup-mixed.md) — related
 - [Group differences on individual CPR test items were mostly non-significant, with only one theoretical question and one checklist item reaching significance](item-level-cpr-differences-mostly-null.md) — related
+- [Workshop satisfaction was higher on all items for the simulation group but none of the differences were significant](simulation-satisfaction-higher-not-significant.md) — related

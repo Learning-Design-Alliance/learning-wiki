@@ -39,6 +39,7 @@ The article describes adapting teaching to the communication needs of children w
 ## Related Strategies
 
 - [Deliver L2 listening lessons with PowerPoint slides containing pictures and photographs across pre-, during-, and post-listening stages](powerpoint-pre-during-post-listening-slides.md)
+- [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](parallel-standardized-computer-presentations-strategy.md)
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (19 for, 6 mixed, 1 against) · 15 studies (10 causal, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 15 report an effect size · 26 claims rest on one study
+> **Evidence** · 27 claims (20 for, 6 mixed, 1 against) · 16 studies (11 causal, 3 quant-synthesis, 2 design), `q1`–`q3` · 6 of 16 report an effect size · 27 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -73,6 +73,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [Hematology postgraduates in the WeChat-PBL program achieved high average quiz scores across five hematological diseases, ranging from 77.5% for lymphoma to 89.0% for acute myelogenous leukemia](../claims/wechat-pbl-quiz-scores-five-diseases.md) [+W] — attached 2026-11-08 from Luo P et al. (2021), which proposed "WeChat-PBL: an online problem-based learning mode for hematology postgraduates built on the WeChat app with micro clinical cases".
 - [Anesthesia residents' self-reported self-confidence for managing OR circulation, CVC, and pain-complication emergencies rose from pre-test to post-test after PBL training, in one uncontrolled pre-post study](../claims/pbl-alsop-improved-resident-self-confidence.md) [+W] — attached 2026-11-09 from Komasawa Nobuyasu et al. (2018), which proposed "ALS-Op PBL scenario curriculum: 23 written OR emergency vignettes with facilitated discussion".
 - [Self-rated confidence did not change from pre-test to post-test for impossible intubation, impossible oxygenation, or awake intubation after PBL, in one single-group pre-post study](../claims/pbl-no-gain-airway-high-experience-topics.md) [~W] — attached 2026-11-09 from Komasawa Nobuyasu et al. (2018), which proposed "ALS-Op PBL scenario curriculum: 23 written OR emergency vignettes with facilitated discussion".
+- [In a small-group CME context, problem-based learning produced significant pre- to post-intervention gains in all three dimensions of clinical competence (cognitive, habitual behavioral, affective)](../claims/pbl-significant-gains-all-three-cc-dimensions.md) [+W] — attached 2026-11-10 from Gongora-Ortega Javier et al. (2012), which proposed "Four-day small-group problem-based learning workshop for practicing general practitioners".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

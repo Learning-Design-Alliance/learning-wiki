@@ -61,3 +61,4 @@ Subgroup analysis of OSCE stations in the retrospective cohort: the test group s
 - [All groups show significant retrospective self-rated gains in history-taking skills, with no significant differences between groups in overall learning success](self-rated-gains-all-groups-no-differences.md) — related
 - [UK medical graduates are reasonably well prepared for history taking and performing full physical examinations](uk-graduates-prepared-history-taking-examinations.md) — related
 - [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related
+- [A second-year doctor-patient communication course is associated with significant self-assessed learning gains on all seven key learning objectives, largest for history taking (mean difference +1.7 'to know how', +1.8 'to show how')](communication-course-self-assessed-gains-all-objectives.md) — related

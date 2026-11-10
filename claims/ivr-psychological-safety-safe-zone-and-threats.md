@@ -56,3 +56,4 @@ Psychological safety was an overarching theme across all four normalisation proc
 - [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related
 - [Medical students experienced PAL sessions as a safe and egalitarian environment that shaped the type and style of learning](pal-safe-egalitarian-learning-environment.md) — related
 - [Students experienced PAL as a comfortable, safe learning environment that lowered stress and made it easier to ask questions and make mistakes](pal-safe-comfortable-learning-environment.md) — related
+- [Context factors can act synergistically, allowing adequate performance of an intimate examination without explanation or announcement](context-factors-act-synergistically.md) — related

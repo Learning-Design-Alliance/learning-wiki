@@ -52,3 +52,4 @@ One-sample Wilcoxon signed-rank tests comparing novice first-attempt scores to e
 - [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
 - [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
+- [Novices reached expert-benchmark performance levels on the four construct-valid tasks between the eighth and tenth repetition](novices-reach-benchmark-eight-to-ten-repetitions.md) — related

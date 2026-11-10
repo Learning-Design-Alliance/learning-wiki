@@ -48,3 +48,4 @@ Uncontrolled pilot study conducted in early 2017 with 18 medical students comple
 - [A majority of SAFMEDS participants (7 of 13) achieved a pre-specified behavioural fluency criterion in ECG interpretation within eight weeks](safmeds-fluency-criterion-attainment.md) — related
 - [SAFMEDS plus usual teaching produces significantly greater ECG interpretation accuracy than usual teaching alone in final-year medical students](safmeds-improves-ecg-interpretation-accuracy.md) — related
 - [Participants who achieved fluency completed more SAFMEDS trials on average than those who did not, suggesting trial volume relates to criterion attainment](trial-volume-relates-to-fluency-attainment.md) — related
+- [Across all study groups, combined raw test scores rose from 31% at pre-test to 48% at post-test (Cohen's d = 1.1), based on a pre-test to post-test comparison.](overall-prepost-gain-large.md) — related

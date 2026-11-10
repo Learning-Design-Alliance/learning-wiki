@@ -18,7 +18,7 @@ sources:
 # Provide positive comments alongside constructive criticism when responding to student writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (5 for, 11 mixed, 5 against) · 24 studies (7 review, 6 causal, 4 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (6 for, 11 mixed, 5 against) · 25 studies (7 review, 6 causal, 4 quant-synthesis, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ Claims found while converting this page that bear on it at a distance. None test
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [~W] — a 1970 training programme's assertion, no data; spoken classroom responses, not written comments.
 - [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](../claims/motivation-prompt-enthusiasm-pedagogy.md) [~M] and [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](../claims/gender-prompt-emotional-connection-pedagogy.md) [~M] — the same essay-feedback study as the withholding-bias claim, by student description.
 - [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](../claims/positive-affective-path-encouragement-mediation.md) [~M] — from the layered-feedback experiment; the page's title states an encouragement pathway, but its recorded entry reports only the non-significant pathway through perceived independence, so it is not used in the model.
+- [Feedback comments phrased in a positive tone are marginally more likely to be perceived as stimulating reflection](../claims/positive-tone-feedback-stimulates-reflection.md) [+M] — attached 2026-11-10 from Dekker H et al. (2013), which proposed "Write feedback on reflective essays as questions, positive in tone, and tailored slightly above the student's reflective level".
 
 ## Objective and learner-valued goal
 

@@ -74,3 +74,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [Videogame practice, gender, hand dominance, perceived manual skill, and surgical career intention did not determine laparoscopic task performance](no-demographic-factors-determine-laparoscopic-skill-acquisition.md) — related
 - [Programme completion was not associated with care home ownership, type, size, prior end of life care training, or resident characteristics](no-association-home-characteristics-training-uptake.md) — related
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
+- [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related

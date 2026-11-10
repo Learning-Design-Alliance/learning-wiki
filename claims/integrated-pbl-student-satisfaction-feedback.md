@@ -56,3 +56,4 @@ Self-report online Likert questionnaires (5-point, Cronbach alpha 0.856 and 0.85
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
 - [Clinical-based learning (clinical rotation and integration-into-clinic models) improves satisfaction, motivation and self-directed learning in dental materials science](clinical-based-learning-dental-materials.md) — related
 - [Students across three CBR-related courses perceive PBL as an effective teaching and learning method that enhances CBR competence](pbl-perceived-effective-cbr-competence-133-students.md) — related
+- [A majority of students reported better learning, a better learning climate, and preferred PBL 2.0 over the old format](pbl2-0-majority-preferred-new-format.md) — related

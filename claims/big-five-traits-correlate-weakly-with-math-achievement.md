@@ -89,3 +89,5 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Higher openness to experience predicts higher first-year GPA, to a smaller extent than conscientiousness](openness-positive-gpa-italian-freshmen.md) — related
 - [Extraversion, agreeableness and emotional stability show no significant association with GPA](other-big-five-traits-no-gpa-effect.md) — related
 - [Conscientiousness is positively related to student grades, but the estimated relationship is strongly biased upward when heterogeneous scale use is not corrected with anchoring vignettes](conscientiousness-grades-overestimated-uncorrected.md) — related
+- [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related
+- [Individual predictive correlations are weak (mostly 0.16–0.24) but the overall pattern of significant relationships exceeds chance (51 of 380, 13.4%)](weak-but-better-than-chance-predictive-correlations.md) — related

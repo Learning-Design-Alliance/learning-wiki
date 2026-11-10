@@ -46,6 +46,7 @@ The article proposes audience-informed design priorities rather than evidence of
 ## Related Strategies
 
 - [Investigate technology's role in community-based lifelong learning delivery as a research priority](technology-in-community-based-lifelong-learning-research.md)
+- [Treat the consensus competency and practice list as a menu of options and invest in faculty development while prioritization and evaluation research proceed](competency-list-as-menu-plus-faculty-development.md)
 
 ## Examples
 -

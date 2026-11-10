@@ -55,3 +55,4 @@ Log data from 63 participants showed the experimental group spent on average 48 
 - [Providers completed about two self-practise sessions per month over three months, fewer than the expected fortnightly schedule, with a median of 30 minutes spent practising](eenc-self-practise-two-sessions-per-month-fidelity.md) — related
 - [Successfully completed e-learning cases were worked through faster and with higher performance scores than unsuccessfully completed cases](successful-cases-faster-higher-performance.md) — related
 - [Smartphone application users completed the exam simulation faster than controls, significantly in complete-case analyses but not intention-to-treat](smartphone-app-reduces-test-completion-time.md) — related
+- [Interactive learning is more time consuming than reproductive learning: interactive participants completed far fewer tasks in the fixed 45 minutes](interactive-learning-more-time-consuming-anatomy.md) — related

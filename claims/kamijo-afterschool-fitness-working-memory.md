@@ -60,3 +60,4 @@ Nine-month daily afterschool physical activity program study by Kamijo et al. in
 - [Cardiorespiratory fitness is associated with working memory and cognitive flexibility but not inhibition in children](crf-associated-wm-cf-not-inhibition.md) — related
 - [A 15-week gamification-based physical activity program improves college students' cardiorespiratory fitness more than traditional lectures](gamification-program-improves-crf-college-students.md) — related
 - [A 9-month classroom-based physical activity intervention did not affect executive functions, aerobic fitness, or body mass index in 7-year-olds](active-math-no-effect-secondary-outcomes.md) — reports the opposite
+- [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related

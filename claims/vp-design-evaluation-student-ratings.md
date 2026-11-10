@@ -69,3 +69,5 @@ Same toolkit evaluation and open comments. Students "only partially found that w
 - [Students rated the case-based VR simulation highly acceptable: 95% affirmed it simulated real-patient scenarios, and all 40 reported making real-life doctor decisions and finding it interesting and useful](vr-pelvic-trauma-student-acceptability-ratings.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Students trained with standardized patients felt better prepared only for the stroke scenario, not for chest pain or dyspnea/asthma](standardized-patients-preparedness-stroke-only.md) — related
+- [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related
+- [Most participating clinicians rated the virtual patient as better than paper cases for training](vp-rated-better-than-paper-cases.md) — related

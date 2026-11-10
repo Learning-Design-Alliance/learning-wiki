@@ -52,3 +52,4 @@ Exploratory Mann-Whitney analysis of change scores by sex in the same cohort, wh
 ## Related Claims
 - [In one uncontrolled pre-post study, non-dominant-hand dexterity rose as sensitivity fell in certain fingers](dexterity-gain-inverse-nondominant-sensitivity-correlation.md) — related
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](home-training-improves-tactile-sensitivity-dental-students.md) — related
+- [Self-rated self-efficacy scores rose from pre-test to post-test after SBTT in one uncontrolled pre-post study, with a larger rise among men than women](sbtt-self-efficacy-sex-difference.md) — related

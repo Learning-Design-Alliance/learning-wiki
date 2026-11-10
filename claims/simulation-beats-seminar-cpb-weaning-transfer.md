@@ -54,3 +54,4 @@ RCT randomizing 20 anesthesia post-graduate trainees to simulation teaching or d
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
 - [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a broader claim this one bears on
 - [Replacing traditional seminars with standardized-patient training does not compromise factual knowledge as measured by written examination](standardized-patients-no-written-exam-difference.md) — related
+- [On the global rating scale, all intervention groups except the control improved significantly, and both multimedia-based groups outgained the practical training group](global-rating-scale-multimedia-groups-outgain-practical.md) — related

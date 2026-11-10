@@ -50,3 +50,4 @@ Questionnaire on a five-point Likert scale in the controlled trial (BL n = 27, D
 - [Didactic-group students reported higher self-perceived competence in constructing clinical questions and searching the literature than blended-learning students](didactic-higher-question-construction-confidence.md) — related
 - [Blended learning is no more effective than didactic learning at increasing medical students' EBM competency as measured by the Berlin Questionnaire](bl-vs-dl-no-competency-difference-berlin.md) — related
 - [Blended and didactic learning produce no significant difference in EBM competency on the ACE tool](bl-vs-dl-no-competency-difference-ace.md) — related
+- [A document review found the online EBM module covered most EBM competencies, though critical appraisal focused only on randomised controlled trials and guidelines](online-ebm-module-covers-most-ebm-competencies.md) — related

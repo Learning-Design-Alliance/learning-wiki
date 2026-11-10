@@ -49,3 +49,4 @@ Three-way mixed MANOVA on video-coded lessons; the explicitness three-way intera
 - [KC lesson duration increased significantly only in the SRL-AIDE group (d = 1.14), not in the comparison group (d = 0.12)](kc-duration-increase-only-srl-aide.md) — related
 - [In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)](mcs-explicitness-effect-size-d208.md) — related
 - [Teachers in the SRL-AIDE program showed greater pre-to-post gains than a comparison group in both the explicitness and duration of their in-class SRL practices](srl-aide-greater-gains-explicitness-duration.md) — related
+- [Competency scores show significant group-by-time (P = .03) and procedure-by-group (P = .02) interactions, while the three-way group-by-procedure-by-time interaction is not significant (P = .83)](competency-interaction-effects-ipod-trial.md) — related

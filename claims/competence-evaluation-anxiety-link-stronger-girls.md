@@ -52,3 +52,6 @@ Correlational analysis of the overall sixth-grade sample (n = 1,091) with Fisher
 - [Higher sixth-grade mathematical competence predicts lower evaluation anxiety and better mathematics attitudes in seventh grade for girls but not boys](competence-predicts-girls-anxiety-attitudes.md) — related
 - [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](girls-higher-evaluation-math-anxiety.md) — related
 - [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](low-achieving-girls-higher-anxiety-risk.md) — related
+- [Mathematics anxiety correlates negatively with mathematics performance in both girls and boys, more strongly in girls](ma-performance-correlation-gender-difference.md) — related
+- [After controlling for test anxiety, the negative MA-performance correlation remains significant only for girls](ma-performance-remains-after-ta-control-girls-only.md) — related
+- [Test anxiety correlates negatively with mathematics performance more strongly in girls than in boys](ta-performance-correlation-gender-difference.md) — related

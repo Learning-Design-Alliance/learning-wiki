@@ -51,3 +51,4 @@ Theme 3 of the narrative synthesis, drawn from cross-sectional surveys in Canada
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [A majority (60%) of surveyed emergency medicine program directors report no structured and longitudinal ECG curriculum](majority-pds-report-no-structured-ecg-curriculum.md) — a narrower finding that bears on this claim
 - [RaT curricula most consistently include adult learning theory, creating a positive learning environment, bedside and classroom teaching techniques, and feedback](rat-curricula-core-content-topics.md) — related
+- [The KT Canada training program's common educational elements include learning-needs assessment, social interaction, skills practice, and varied teaching techniques](kt-training-common-educational-elements.md) — related

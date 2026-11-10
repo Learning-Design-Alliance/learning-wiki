@@ -57,3 +57,4 @@ Summative content analysis of open-ended questionnaire answers on physical sympt
 - [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — related
 - [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — reports the opposite
 - [Users reported technical difficulties — low resolution (n = 17), irregular audio (n = 9), and dizziness after use — that qualify the simulation's usability.](360-vr-technical-difficulties-dizziness.md) — related
+- [Neither training substantially worsens short-term symptom control, though symptom resolution is slightly longer with communication training](symptom-outcomes-largely-unaffected-by-training.md) — related

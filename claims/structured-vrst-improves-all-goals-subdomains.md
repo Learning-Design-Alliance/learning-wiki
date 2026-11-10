@@ -58,3 +58,4 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — related
 - [Tissue handling and decision making were common areas for improvement for both training groups](tissue-handling-decision-making-common-weak-areas.md) — related
 - [All qualitative GOALS skill dimensions differ significantly across performance quartiles](qualitative-goals-dimensions-quartile-differences.md) — related
+- [Box trainers and virtual reality simulators train technical skills but do not provide anatomical image interpretation or tissue-handling practice, according to the authors' account](box-trainers-vr-lack-anatomical-interpretation.md) — reports the opposite

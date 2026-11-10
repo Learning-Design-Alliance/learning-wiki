@@ -53,6 +53,7 @@ The review recommends a staged adoption pathway for AI in nursing education. It 
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 - [Adopt a step-wise approach to technology integration in clinical skills teaching, starting with simple familiar tools matched to learning outcomes](stepwise-technology-integration-clinical-skills.md)
+- [Incorporate automated skills testing as formative assessment in an adaptive learning cycle with repetitive testing](automated-testing-adaptive-learning-cycle.md)
 
 ## Examples
 -

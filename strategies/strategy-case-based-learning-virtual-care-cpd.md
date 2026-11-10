@@ -51,6 +51,7 @@ The article recommends enhancing asynchronous virtual care CPD modules by adding
 - [Design online health-professional e-learning with a high pass mark, active interactivity, continuous feedback, and optional extension material](gen-equip-online-learning-design-strategies.md)
 - [Design continuing professional development as interactive blended programmes with multiple teaching strategies and self-set quality improvement targets](interactive-blended-multiple-strategies-cpd.md)
 - [Intensify communication-skills training, including telephone- or internet-based physician-patient interaction, and integrate telemedicine via dedicated modules](intensify-communication-and-telemedicine-training.md)
+- [Improve online module delivery through earlier technology training, higher-quality lecture recordings and better annotation equipment](online-pbl-module-improvement-recommendations.md)
 
 ## Examples
 -

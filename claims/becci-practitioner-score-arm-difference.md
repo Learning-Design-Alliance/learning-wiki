@@ -48,3 +48,5 @@ BECCI ratings of the fidelity-assessment recordings (266 usable recordings, 151 
 - [During treatment delivery, the intervention arm showed strong evidence of higher MITI Spirit, Empathy, Percent Open Questions, and MI-Adherence than the attention control arm](intervention-arm-higher-miti-spirit-empathy-open-questions.md) — related
 - [After MI/CBT skills training, primary care nurses achieved basic competency, with median MITI MI-Adherence of 86.2% and mean MITI Empathy of 4.09](nurse-post-training-basic-competency-miti.md) — related
 - [No evidence of a group difference between trial arms in percentage of complex reflections or reflection-to-question ratio](no-arm-difference-complex-reflections-ratio.md) — related
+- [Overall BECCI-rated MI skill use showed no significant difference between trained and untrained nurses at one-year follow-up](becci-overall-no-significant-difference.md) — reports the opposite
+- [Greater observed patient readiness to change health behaviour is positively associated with nurses' use of additional MI skills](patient-readiness-associated-mi-skills.md) — related

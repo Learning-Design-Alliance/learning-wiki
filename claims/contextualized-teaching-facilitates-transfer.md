@@ -182,3 +182,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Tutors reported increased student engagement at D-PBL option points and students valued simulating real-life case management stresses](dpbl-increased-engagement-option-points.md) — a narrower finding that bears on this claim
 - [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — a narrower finding that bears on this claim
 - [Students regarded the primary care VP as an authentic intermediate learning activity between theory and clinical practice with immediate feedback](vp-intermediate-learning-activity-authenticity.md) — a narrower finding that bears on this claim
+- [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related

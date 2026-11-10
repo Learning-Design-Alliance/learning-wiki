@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 360 claims (253 show a difference, 67 mixed, 40 no difference) · 237 studies (95 associational, 65 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 52 of 237 report an effect size · 352 claims rest on one study
+> **Evidence** · 363 claims (255 show a difference, 67 mixed, 41 no difference) · 238 studies (95 associational, 66 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 53 of 238 report an effect size · 355 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -400,6 +400,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Anxiety about specific active learning practices varies by class/instructor, with clicker anxiety differing among all three courses](../claims/practice-anxiety-varies-by-instructor.md) [+M] — measured as an outcome of the instruction studied
 - [In the progress testing cohort, perceived stress correlated positively with surface approach and negatively with deep approach](../claims/stress-approach-correlations-pt-cohort.md) [+M] — learners who differ on it differ in outcomes
 - [Intra-operative stress is higher among surgeons than anesthetists, highest in assisting surgeons, and higher stress causes increased errors](../claims/intraoperative-stress-higher-surgeons-increases-errors.md) [+M] — learners who differ on it differ in outcomes
+- [A brief task-focusing stress-coping instruction significantly reduces perceived stress/overload during simulated CPR](../claims/task-focusing-instruction-reduces-cpr-stress.md) [+M] — measured as an outcome of the instruction studied
+- [Exploratory subgroup analyses suggest males and the most-stressed quartile may benefit more from the stress-coping instruction, but no subgroup effect reached significance](../claims/subgroup-exploratory-benefit-stress-coping.md) [-M] — an instructional effect differs with it
+- [Higher perceived stress/overload is associated with less hands-on time during simulated CPR](../claims/stress-overload-negatively-correlated-hands-on-time.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

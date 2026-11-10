@@ -54,6 +54,7 @@ The authors recommend integrating technology-enhanced, simulation-based approach
 - [Using Technology](using_technology.md)
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Use simulation and technology-based teaching to relieve clinical space demand in large cohorts](simulation-relieve-clinical-space-demand-large-cohorts.md)
+- [Universities with large-enrollment classes should adopt interactive e-learning and provide on-campus computer and internet facilities](adopt-elearning-large-enrollment-with-facilities.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Parallel analysis for TT2 (lectures 9–16) question review before the final, re
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Students earning F grades attempted the most Quizzical questions, while A–C students showed similar, regular engagement patterns](grade-category-engagement-patterns.md) — related
 - [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related
+- [Students whose group scores decreased showed better cumulative-question retention on exam 3, but this pattern was not significant on exam 4](group-score-decrease-retention-exam3-only.md) — related

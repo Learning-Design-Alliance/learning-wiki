@@ -64,6 +64,7 @@ Multimodal presentation works when each mode carries a distinct, coordinated por
 - [Clear Structure Presentation](../principles/clear-structure.md) — signaling and organization determine whether multiple modes integrate or compete
 - [Use audio-visual (spoken text with graphics) presentation for system-paced, high element interactivity instruction](spoken-text-graphics-system-paced-instruction.md)
 - [Use multimedia graphic novel courseware with audio narration and TLH-based inquiry questions to foster critical thinking in history learning.](graphic-novel-audio-narration-history-courseware.md)
+- [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](parallel-standardized-computer-presentations-strategy.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — narrated visual problem-solving videos with synchronized writing, exemplifying temporal contiguity.

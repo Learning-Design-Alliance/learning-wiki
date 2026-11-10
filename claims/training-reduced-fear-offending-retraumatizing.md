@@ -68,3 +68,4 @@ Separate linear mixed model on the same trial's barrier ratings. The article pri
 - [Training significantly reduced professionals' discomfort when asking about traumatic events, with the effect stable between 3- and 6-month follow-up](training-reduced-feeling-uncomfortable-barrier.md) — related
 - [A one-day trauma inquiry training with a 3-month refresher reduced five of six perceived barriers to trauma inquiry among SUD professionals from baseline to 6-month follow-up](training-reduces-trauma-inquiry-barriers.md) — a broader claim this one bears on
 - [Training reduced unsureness about legal obligations toward authorities only at 6-month follow-up, not at 3 months](training-authority-unsureness-delayed-reduction.md) — related
+- [Medical students and surgical residents hold multiple misperceptions about IPV victims and perpetrators](trainee-ipv-misperceptions.md) — related

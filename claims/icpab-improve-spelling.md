@@ -54,3 +54,4 @@ Meta-analysis of a single study (Egger et al., two intervention arms, n = 188 st
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
 - [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md) — related
 - [Twenty weeks of classroom PA breaks did not improve children's spelling or reading performance in any condition](pa-breaks-no-spelling-reading-gains.md) — reports the opposite
+- [In the prior PAAC trial, a secondary analysis showed significant improvements in reading, math and spelling for students in physically active lessons but not control students](paac-secondary-analysis-academic-gains.md) — related

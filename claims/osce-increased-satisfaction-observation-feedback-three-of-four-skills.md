@@ -50,3 +50,4 @@ Pre-post survey analysis of 35 internal medicine interns after a 4-station OSCE,
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Students rate OSCE feedback as very helpful and report high subjective learning progress](aalplus-osce-feedback-ratings.md) — related
 - [Third-year medical students call consultations during clerkships but rarely receive feedback or formal instruction](consult-needs-assessment-third-year-feedback-gap.md) — related
+- [Residents perceived procedural skills assessment on the OSCE as a useful formative tool for direct observation and immediate feedback](osce-formative-procedural-assessment.md) — related

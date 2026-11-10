@@ -68,3 +68,4 @@ Logged time in the quality-criteria unit in the N = 45 experiment; the discussio
 - [AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged](genai-shifts-time-from-writing-to-research.md) — related
 - [Combined prompts produce substantially longer engagement with the text material than relevance prompts alone or no prompts](combined-prompts-longer-text-engagement.md) — related
 - [Experienced reviewers spend more time reading review criteria than novice reviewers](experienced-reviewers-read-criteria-longer.md) — related
+- [Students spent more time preparing all learning objectives under PBL 2.0, but less or equal time on their own assigned objective](pbl2-0-more-preparation-time-all-objectives.md) — related

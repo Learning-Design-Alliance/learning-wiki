@@ -53,3 +53,4 @@ Between-group comparison of overall CRM-score gains (Δ = post − pre) in the r
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — reports the opposite
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
 - [A small but statistically significant gender difference in SBL satisfaction scores favored female students (p=0.001)](sbl-satisfaction-gender-difference-significant.md) — related
+- [The interim assessment benefit did not differ by gender or study discipline, though females and medical students scored higher overall](interim-assessment-effect-uniform-across-subgroups.md) — related

@@ -71,3 +71,4 @@ Descriptive post-simulation item from the same 47-participant study: 46 particip
 - [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related
+- [Students rated the automated testing station very positively, with mean scores of 5.3/6 for instructional organisation and 5.0/6 for usability](students-rate-automated-bls-testing-positively.md) — related

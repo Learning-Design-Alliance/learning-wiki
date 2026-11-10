@@ -55,3 +55,4 @@ Qualitative component using student focus groups, professor field journals, and 
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — related
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — possibly the same claim (merge candidate)
 - [Students found the VP model structure easy to follow and flexible across program levels](vp-structure-easy-to-follow-student-reports.md) — related
+- [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related

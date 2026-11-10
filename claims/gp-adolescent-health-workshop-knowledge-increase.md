@@ -53,3 +53,4 @@ Pre-post survey component of the mixed-methods evaluation of the training interv
 - [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
 - [Learning Partnerships workshops were rated by medical students as highly useful for improving skills and confidence in communicating with adolescents about sensitive health issues](learning-partnerships-improved-medical-student-communication-confidence.md) — related
+- [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related

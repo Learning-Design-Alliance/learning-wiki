@@ -49,3 +49,7 @@ Longitudinal GEE analysis of 103 CHWs observed with a 20-step checklist at train
 - [CHWs interpret malaria RDT results accurately 12 months post-training (sensitivity 92.0%, specificity 97.3%), with faint-positive cassettes most frequently misinterpreted and no significant covariate effects](chw-rdt-interpretation-accuracy-12-months.md) — related
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
+- [CHWs maintained blood-safety practices over 12 months, with no needle-stick injuries observed or reported and only isolated lancet and glove errors](chws-maintain-blood-safety-12-months.md) — related
+- [Community health workers trained for half a day with a job-aid maintained or improved correct performance of critical malaria RDT steps over 12 months of community practice](chws-retain-rdt-critical-step-skills-12-months.md) — a narrower finding that bears on this claim
+- [Correct interpretation of faint positive RDT lines declined to 76.7% at 12 months, a skill-decay finding](faint-positive-interpretation-declines-12-months.md) — related
+- [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related

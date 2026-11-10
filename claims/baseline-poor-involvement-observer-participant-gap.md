@@ -50,3 +50,4 @@ Descriptive comparison of MAPPIN'SDM observer scales and questionnaires across t
 - [In one single-group pre-post study, observer-rated doctor and doctor–patient-dyad shared decision-making performance rose from the first to the fourth consultation after a minimal in-situ SDM training module](doktormitsdm-improved-observer-rated-sdm.md) — related
 - [No improvement was observed in patients' active SDM involvement or in patients' evaluations of the communication during the training](doktormitsdm-no-patient-improvement.md) — related
 - [Doctors' self-assessment of communication quality decreased across the four consultations while observer ratings rose](doctor-self-assessment-decreased-during-training.md) — related
+- [Polish GPs felt the communication training videos portrayed a consultation style that did not match how Polish patients and doctors communicate](polish-consultation-style-mismatch-videos.md) — related

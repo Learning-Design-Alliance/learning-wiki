@@ -49,3 +49,4 @@ Only-posttest static-group comparison of 140 grade-ten students (70 PBL, 70 CL) 
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
 - [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related
 - [Junior high students taught with culture-based RME achieve higher post-test critical mathematical thinking scores than students taught with conventional mathematics education](rme-culture-based-better-critical-thinking-posttest.md) — related
+- [A targeted e-learning module on leukaemia produced significantly higher post-test scores than existing online resources in senior medical students](leukaemia-elearning-module-outperformed-existing-online-resources.md) — related

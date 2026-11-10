@@ -49,3 +49,4 @@ Descriptive result reported with Fig. 2, where the line at 56% marks the minimum
 - [Claude outperformed ChatGPT-4 and Gemini in accuracy on Polish/English medical-dental exam questions in both prompt languages](claude-highest-accuracy-ldek-exam-questions.md) — related
 - [Three of four frontier LLMs exceeded the indicative 74% pass threshold on a simulated FRCS (Urol) Part A examination, while Grok 4.1 failed](three-of-four-llms-pass-simulated-frcs-urol-part-a.md) — related
 - [GPT-5.2's 95% CI straddled the 74% pass mark, making its pass status dependent on sitting-specific calibration](gpt-5-2-ci-straddles-pass-mark.md) — related
+- [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related

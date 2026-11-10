@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 297 claims (172 show a difference, 83 mixed, 42 no difference) · 233 studies (86 causal, 40 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 38 of 233 report an effect size · 280 claims rest on one study
+> **Evidence** · 299 claims (173 show a difference, 84 mixed, 42 no difference) · 235 studies (86 causal, 41 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 235 report an effect size · 282 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -345,6 +345,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices achieved high agreement with assessors in diagnosing infrarenal AAA (kappa > 0.8) but no agreement on localised suprarenal dilatation](../claims/novice-high-kappa-infrarenal-aaa-diagnosis.md) [~M] — learners who differ on it differ in outcomes
 - [Novices prefer positive feedback while experts seek out negative feedback](../claims/novices-prefer-positive-experts-seek-negative-feedback.md) [+M] — learners who differ on it differ in outcomes
 - [Novices' transverse-plane segmental aortic measurements fell outside clinically acceptable limits, worst at the suprarenal segment](../claims/novice-transverse-measurements-unacceptable-variability.md) [+M] — learners who differ on it differ in outcomes
+- [Experts show longer fixation durations only in ELN videos, with no overall expertise main effect](../claims/fixation-duration-expertise-video-interaction.md) [~M] — an instructional effect differs with it
+- [GP knowledge of the patient and prior consultations appears to allow abbreviated communication without exploration of background](../claims/gp-patient-knowledge-allows-abbreviated-communication.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

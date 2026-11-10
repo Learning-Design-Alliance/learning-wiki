@@ -72,3 +72,4 @@ Bivariate correlations between gender and empathy subscales; the article interpr
 - [Female medical students were reported to have higher empathy scores than male students in 18 of the included studies, with no gender differences found in seven cross-sectional studies](female-medical-students-higher-empathy-scores.md) — related
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related
 - [Lecturers show selective acceptance toward PLHIV, extending more empathy to those seen as innocent victims than to those perceived as responsible for infection](selective-acceptance-plhiv-innocent-victims.md) — related
+- [Male trainees are significantly less likely than female trainees to disagree with victim-blaming statements about IPV](gender-difference-ipv-victim-blaming.md) — related

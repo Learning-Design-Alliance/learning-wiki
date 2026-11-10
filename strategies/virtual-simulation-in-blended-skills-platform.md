@@ -49,6 +49,7 @@ As a forward-looking design recommendation, the authors propose that future blen
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
+- [Provide online video simulations of practical skills with supporting text as an addition to usual face-to-face teaching](online-video-simulations-plus-supporting-text-strategy.md)
 
 ## Examples
 -

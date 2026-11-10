@@ -48,3 +48,4 @@ User study results comparing participant ratings of heat map alignment for inter
 ## Related Claims
 - [In a five-participant user study, instructors found the emoji heat map saved time and helped identify interesting and difficult reading sections](emoji-heat-map-instructor-user-study.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
+- [Student-rated course difficulty and student interest in the course are positively associated with learning gains on the CINS-abbr](student-difficulty-interest-associated-with-gains.md) — related

@@ -69,3 +69,5 @@ Student feedback quoted verbatim in the open-ended questions analysis; some stud
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Students were highly satisfied with the FC-EBM course, rating every surveyed aspect above 4 on a 5-point scale](fc-ebm-student-satisfaction-above-four.md) — related
+- [The eBook group showed higher learning efficiency (improvement per minute) on complex content despite its lower knowledge gains](ebook-higher-learning-efficiency-complex.md) — related
+- [For complex problem-solving, eBook learning produced significantly smaller knowledge gains than both eCase learning and case-based classroom teaching, which performed comparably](ebook-inferior-for-complex-problem-solving.md) — related

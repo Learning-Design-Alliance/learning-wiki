@@ -68,3 +68,4 @@ FDR-controlled (0.25) correlations between change in anxiety and academic perfor
 - [Absence rate was significantly correlated with final grades for male students but not for female students](absenteeism-grade-correlation-males-only.md) — related
 - [The author concludes absenteeism is a negative predictor of academic success for male but not female medical sciences students in Saudi Arabia](absenteeism-negative-predictor-males-not-females.md) — related
 - [Preliminary course data showed a higher proportion of female students earning A+ grades than male students](preliminary-a-plus-proportion-sex-gap.md) — related
+- [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — related

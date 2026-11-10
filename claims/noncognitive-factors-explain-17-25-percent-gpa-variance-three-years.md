@@ -65,3 +65,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Neither negative nor positive emotional functioning alone was statistically powerful enough to explain achievement scores independently of the other](single-emotional-dimensions-insufficient-predictors.md) — related
 - [Cognitive and noncognitive predictors collectively explain less than 4% of variance in graduation](predictors-explain-under-4-percent-graduation-variance.md) — related
 - [Curriculum-sampling test scores show no significant relationship with cognitive ability but indicate noncognitive saturation, especially perceived test competence](curriculum-sampling-construct-saturation-test-competence.md) — a narrower finding that bears on this claim
+- [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related

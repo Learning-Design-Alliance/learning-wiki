@@ -95,3 +95,4 @@ A second definitional statement from the same section, defining off-track studen
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-freshmen-graduate-at-higher-rates.md) — a narrower finding that bears on this claim
 - [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md) — related
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — a narrower finding that bears on this claim
+- [Most non-completers left the course too early for early-warning flags to apply, and their departure was often unpredictable](non-completers-left-early-unpredictable.md) — related

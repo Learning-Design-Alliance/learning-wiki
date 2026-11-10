@@ -48,3 +48,4 @@ Interaction was monitored by counting all patient-initiated e-mails to the super
 ## Related Claims
 - [93.8% of enrolled JIA patients completed all 14 weeks of the Rheumates@Work program assignments](raw-93-8-percent-completed-assignments.md) — related
 - [Scheduled design cycles and peer review most successfully evoked iteration; the resources message and chat sessions were less successful](scheduled-cycles-and-peer-review-evoked-iteration-most.md) — related
+- [Students accepted the 14-day e-mail interval and did not perceive the spaced education e-mails as an intrusion](spaced-education-emails-accepted-14-day-interval.md) — related

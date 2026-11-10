@@ -56,3 +56,4 @@ Theme from thematic analysis of survey free-text and six faculty interviews on r
 - [Facilitator observations indicated higher student engagement than in lecture-based sessions](facilitator-observed-higher-engagement-than-lectures.md) — related
 - [Live lecture attendance choices depend primarily on lecturer communication skills and perceived lecture value rather than recording availability](attendance-driven-by-lecture-quality-not-recordings.md) — related
 - [Medical students report that the availability of recorded lectures has little influence on their live lecture attendance](recordings-little-influence-attendance-med-students.md) — reports the opposite
+- [Availability of online lecture resources did not reduce attendance at scheduled sessions; most students reported never or rarely skipping sessions because resources were available online](online-resources-no-attendance-drop.md) — reports the opposite

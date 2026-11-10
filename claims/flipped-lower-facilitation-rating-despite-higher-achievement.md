@@ -53,3 +53,4 @@ Course-evaluation item comparison between flipped (N=42) and traditional (N=34) 
 - [MLM students report more positive perceptions of instructor clarity, class atmosphere, and effective use of class time than non-MLM students despite identical instructors and in-class activities](mlm-students-better-perceptions-of-instruction.md) — reports the opposite
 - [Participants perceived facilitator-guided debriefing as more effective than self-guided debriefing despite comparable performance outcomes](facilitator-debriefing-perceived-more-effective.md) — related
 - [Students expressed no clear preference between the flipped classroom and traditional methodology, with ease of concentration scoring lowest](no-clear-preference-fc-vs-traditional.md) — related
+- [An ARS creates a more interactive, positive learning atmosphere even when it does not raise exam scores](ars-positive-learning-atmosphere.md) — reports the opposite

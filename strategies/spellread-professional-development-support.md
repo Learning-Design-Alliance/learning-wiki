@@ -74,6 +74,7 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
 - [Train health teachers with nutrition experts and provide resources and required lessons to promote school nutrition education](tot-expert-training-resources-required-course-strategy.md)
 - [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
+- [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 
 ## Examples
 -

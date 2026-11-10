@@ -63,6 +63,7 @@ Research maps function as a form of [Advance Organizer](../elements/advance-orga
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — maps are most interpretable when learners already hold some relevant schema to connect to
 - [Case-Based Learning](../strategies/case-based-learning.md) — cases can serve as concrete entry points into the abstract structure a map presents
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
+- [Provide online learning repositories with browsing or topic-mapping functions alongside keyword search, and keep access simple enough for low-technology-confidence users](repository-browse-mapping-functions-strategy.md)
 
 ## Related Elements
 - [Advance Organizer](../elements/advance-organizers.md) — a research map is a domain-scale organizer presented before detailed study

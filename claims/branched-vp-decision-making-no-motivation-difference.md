@@ -69,3 +69,4 @@ Per-institution t-tests across the six replicated administrations of the trial; 
 - [Authors interpret that six weeks of exposure was sufficient to overcome any short-term negative impact of branched decision-making on motivation and self-efficacy](six-week-exposure-overcomes-short-term-motivation-impact.md) — related
 - [Institutions with prior experience of PBL-style VP sessions reported higher mean motivation ratings, which the authors attribute to an institutional effect](prior-pbl-experience-higher-motivation-ratings.md) — related
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — a broader claim this one bears on
+- [Several design properties produce mixed positive and negative effects, and branched designs are predicted to raise complexity, e-inertia and errors](vp-design-properties-mixed-effects.md) — related

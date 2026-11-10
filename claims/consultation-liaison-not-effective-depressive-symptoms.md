@@ -49,3 +49,4 @@ Review cites Cape et al. (2010) systematic review and meta-analysis. "This appro
 - [Meta-analysis shows pooled effect of GP training alone is non-significant (d = -0.07)](meta-analysis-gp-training-alone-pooled-d-0-07-ns.md) — related
 - [Provider training is not associated with symptom change in collaborative care meta-regression](provider-training-not-predictor-symptom-change-collaborative-care.md) — related
 - [GP training alone does not improve care; training effects are more promising when combined with guideline implementation and collaborative care models](gp-training-alone-insufficient-combined-approach.md) — related
+- [Combined interview scores are significantly higher for liaison psychiatry posts than for other specialist psychiatry posts](liaison-posts-score-higher-than-specialist.md) — related

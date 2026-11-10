@@ -50,6 +50,7 @@ Beyond faculty debriefing, the article's discussion enumerates options to encour
 
 - [Schedule individual student-faculty debriefing meetings one week after F-OSCEs, with students pre-annotating their videos, to ensure use of performance data](student-faculty-debriefing-meeting-strategy.md)
 - [Use precepted video review preferentially for underperforming students and peer discussion as a resource-efficient alternative](tailored-video-remediation-preceptor-for-low-performers-peer-for-resource-limits.md)
+- [Use blinded peer review of blueprinted feedback from formative e-assessment to encourage reflection before summative assessment](peer-reviewed-formative-blueprinted-feedback-strategy.md)
 
 ## Examples
 -

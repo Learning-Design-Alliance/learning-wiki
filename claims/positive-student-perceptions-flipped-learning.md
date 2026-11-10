@@ -81,3 +81,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Most students preferred the flipped peer-assisted approach, and perceived superiority correlated with perceived usefulness of the coach, monitor and role-rotation roles](student-preference-flipped-pal-approach.md) — related
 - [Students strongly accept instructional videos as supplementary learning material and desire more of them](high-acceptance-instructional-videos-medical-students.md) — related
+- [Students hold positive attitudes towards e-learning that do not change over the course, yet continue to regard face-to-face lectures as the basis of their education](positive-e-learning-attitudes-lectures-still-basis.md) — related

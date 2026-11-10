@@ -54,3 +54,4 @@ MI Group	1.21 (0.45–2.88)	0.153"
 - [The mental imagery advantage was significant for only 6 of the 14 assessed anastomosis gestures, with no benefit on the remaining items](mental-imagery-benefit-limited-six-of-fourteen-items.md) — related
 - [Novice surgeons who performed a mental imagery rehearsal before physical practice achieved a significantly higher overall hand-sewn intestinal anastomosis score than controls](mental-imagery-rehearsal-higher-anastomosis-overall-score.md) — related
 - [Prior reviews of mental imagery in surgical education report mixed findings, with study quality and heterogeneity limiting conclusions](surgical-mental-imagery-reviews-mixed-heterogeneous.md) — a broader claim this one bears on
+- [The no-training control group showed no statistically significant change in task-specific checklist OSATS score from pre-test to post-test over 24 h](control-group-no-significant-osats-change.md) — related

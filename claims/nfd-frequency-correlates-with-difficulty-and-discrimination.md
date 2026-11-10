@@ -58,3 +58,5 @@ Pearson correlation analysis of NFD frequency against item DF and DS in both tes
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related
 - [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](mcq-option-number-no-validity-reliability-difference.md) — related
+- [Four-option items averaged 1.18 non-functioning distractors, and removing one markedly improved discrimination and model fit for item 45](non-functioning-distractors-average-1-18.md) — related
+- [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related

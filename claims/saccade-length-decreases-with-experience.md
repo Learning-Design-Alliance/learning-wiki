@@ -50,3 +50,5 @@ Saccade-length analysis in the five-group eye-tracking study: attendings "signif
 - [Blink rate decreases with ophthalmology experience, though PGY4 residents show a higher blink rate than PGY3s](blink-rate-decreases-with-experience-pgy4-anomaly.md) — related
 - [Diagnostic accuracy on fundus images increases significantly with ophthalmology training level, from 53.33% in PGY2s to 96.00% in attendings](fundus-diagnostic-accuracy-increases-with-experience.md) — related
 - [Higher- and lower-level referees show no significant differences in fixation and saccade measures](no-expertise-differences-referee-gaze-behavior.md) — reports the opposite
+- [Experts shorten saccades selectively in video sections where enlarged lymph nodes are present](experts-shorten-saccades-when-elns-present.md) — related
+- [Experts make shorter saccades than non-experts, contrary to the enlarged-perceptual-span hypothesis](experts-shorter-saccade-amplitudes.md) — related

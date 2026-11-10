@@ -48,3 +48,4 @@ Phenomenological focus-group study with 37 students across four clinical sites, 
 - [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
 - [Physiotherapy students prefer a combination of online e-learning and lecture-style learning formats for chronic disease management](physiotherapy-students-prefer-blended-e-learning-lecture-formats.md) — related
 - [Tutor implementation variability was the most common barrier to the blended learning approach, and didactic teaching was perceived as promoting only superficial learning](tutor-implementation-barrier-bl-ebm.md) — related
+- [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related

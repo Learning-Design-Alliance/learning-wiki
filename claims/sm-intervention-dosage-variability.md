@@ -51,3 +51,4 @@ Survey descriptive statistics (Table 4): medians of 45 min per session (range 15
 - [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related
 - [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
 - [Most surveyed UK therapists (59%) had received some form of selective mutism training, but only 15% received it during their professional qualification](sm-training-received-59-percent-15-percent-qualification.md) — related
+- [Average repository session length increases with year level, ranging from about 47 to 60 minutes](session-length-increases-with-year-level.md) — related

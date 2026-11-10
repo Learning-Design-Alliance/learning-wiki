@@ -50,3 +50,4 @@ Results section reporting completion-time t-test comparisons among the three sur
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related
 - [Experienced surgeons had significantly higher camera movement frequency and shorter camera movement duration and interval than new surgeons in most exercises](experienced-vs-new-camera-behavior.md) — related
+- [After VR training, inexperienced surgeons completed the test faster than experienced arthroscopic surgeons, but not statistically significantly (p = 0.4)](vr-trained-interns-match-experienced-surgeons-on-vr.md) — related

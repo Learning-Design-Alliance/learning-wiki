@@ -57,3 +57,4 @@ Prototype development phase of a developmental research study. Authors report th
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related
 - [LLM-powered virtual patients generate authentic patient-clinician dialogues rated favorably by blinded physician raters](llm-vp-authentic-dialogues.md) — related
 - [Students judged the virtual patient platform realistic for clinical assessment, diagnostic activity and treatment management](virtual-platform-realism-ratings.md) — related
+- [Most interviewed clinicians judged the virtual patient usable as an examination tool across competence levels because it standardizes the encounter](vp-standardized-examination-tool-bias-reduction.md) — related

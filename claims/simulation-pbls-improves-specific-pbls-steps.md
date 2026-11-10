@@ -82,3 +82,4 @@ Checklist-item analysis in the same pilot. The article reports Cohen's d > 1 for
 - [Three of forty skills showed no significant improvement from pre-course to post-course](three-skills-no-significant-improvement.md) — related
 - [Item-level completeness of the survey differs by group, with low scores in breathing-related items](item-level-survey-completeness-patterns.md) — related
 - [At three months, the two-stage and four-stage groups differed in one individual skill (ensuring safety) but not in quality of chest compressions or rescue breaths](two-stage-four-stage-secondary-outcomes-null.md) — related
+- [VP users performed better on some key BLS-AED skills: opening airways, checking circulation and knowing when to stop BLS](vp-users-better-some-bls-skills.md) — related

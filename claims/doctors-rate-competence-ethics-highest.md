@@ -55,3 +55,4 @@ Synthesis of the doctor-targeted questionnaires and studies among the 20 include
 - [Baseline: few students rank communication with pupils first and communicative values are not prioritized](baseline-communication-not-top-value.md) — related
 - [The module shifted students' perceptions of the qualities required to be a surgeon, with technical skill and work ethic most commonly cited](module-shifted-perceptions-surgeon-qualities.md) — related
 - [Internists rank 'Structure, work planning and priorities' and psychosocial attention higher while surgeons rank 'Verbal communication with colleagues and supervisors' higher](specialty-differences-competency-rankings-internists-surgeons.md) — related
+- [Veterinary stakeholders rank ethical behaviour, sound judgment, communication, and critical and creative thinking as the top four personal characteristics for admissions selection](top-four-admissions-characteristics-veterinary.md) — related

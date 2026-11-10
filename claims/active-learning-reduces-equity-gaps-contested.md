@@ -69,3 +69,4 @@ The review reports an observational study cited as Stains et al. (2018) covering
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — a narrower finding that bears on this claim
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — a narrower finding that bears on this claim
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
+- [Evidence that increased racial diversity improves medical education outcomes is very weak, though diverse-group problem-solving research is suggestive](diversity-educational-outcomes-evidence-weak.md) — related

@@ -60,3 +60,5 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [EBM-trained medical students rate all six self-reported EBM skills significantly better than untrained students, with differences emerging mainly after the second year](ebm-training-better-self-rated-skills-medical-students.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
 - [Blended learning students report significantly higher self-efficacy, attitudes and behaviour toward EBM than didactic learning students](bl-higher-self-efficacy-attitudes-behaviour.md) — related
+- [A document review found the online EBM module covered most EBM competencies, though critical appraisal focused only on randomised controlled trials and guidelines](online-ebm-module-covers-most-ebm-competencies.md) — related
+- [Students were least confident in critically appraising studies even though the bulk of the module focused on critical appraisal](students-least-confident-critical-appraisal-despite-module-focus.md) — related

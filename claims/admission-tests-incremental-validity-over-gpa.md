@@ -62,3 +62,5 @@ Hierarchical multiple regression analyses on the TMS and HAM-Nat samples control
 - [The HAM-Nat science test explains more than 5% of preclinical study performance variance in most first- and second-semester dental subjects, supplementing GPA](ham-nat-explains-preclinical-variance.md) — a narrower finding that bears on this claim
 - [Each admissions tool adds incremental validity for explaining GPA variance, jointly explaining 3 to 36 per cent of variance](incremental-validity-multiple-admissions-tools.md) — related
 - [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — reports the opposite
+- [The HAM-Nat-BPC scale provides predictive information for academic success independent of, and roughly equal in size to, high school GPA](hamnat-incremental-validity-over-gpa.md) — related
+- [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — related

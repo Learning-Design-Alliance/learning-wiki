@@ -50,3 +50,4 @@ Mixed factorial repeated measures ANOVA (n = 19) testing group-variable by time 
 ## Related Claims
 - [No significant gender differences in end-activity usability ratings or in within-group maths gains](mobile-math-no-gender-differences-ratings-or-gains.md) — related
 - [Students' perceived usability of the game declined significantly across lessons while focused attention, aesthetics, and satisfaction remained stable](gbl-perceived-usability-declined-across-lessons.md) — related
+- [Confidence in female catheterization increased over time in both groups while confidence in male catheterization decreased, showing a significant procedure-by-time interaction (P < .001)](confidence-procedure-by-time-female-up-male-down.md) — related

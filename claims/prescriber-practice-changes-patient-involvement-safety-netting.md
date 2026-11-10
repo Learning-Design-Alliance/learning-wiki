@@ -52,3 +52,4 @@ Qualitative thematic analysis of interviews (n=15). Examples include scheduling 
 - [Involving patients in shared decision-making about treatment options helped them make informed decisions and addressed patient-specific concerns](shared-decision-making-informed-ult-decisions.md) — related
 - [Intervention physicians engaged in better shared decision-making with standardized patients despite no between-group difference in shared decision-making knowledge](shared-decision-making-behavior-better-web-group.md) — related
 - [Fewer than one-third of new depressed patients prescribed an antidepressant are followed up soon and regularly in accordance with FDA recommendations](fewer-than-one-third-antidepressant-followup.md) — related
+- [GPs in five European countries viewed the INTRO web-based antibiotic prescribing intervention as broadly acceptable, feasible and useful for improving clinical practice](intro-intervention-acceptable-feasible-five-countries.md) — related

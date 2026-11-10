@@ -59,3 +59,4 @@ School-level analysis of 2004–06 Cal-SCHLS and testing data. After socioeconom
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related
 - [The SES achievement gap produced by evaluators occurs even in the absence of actual performance differences](gap-created-absent-performance-differences.md) — related
 - [Lower standardized test scores are not a fixed attribute of African American students](test-scores-not-fixed-attribute.md) — related
+- [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related

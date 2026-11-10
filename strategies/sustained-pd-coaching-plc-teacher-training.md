@@ -88,6 +88,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Support international implementation by adapting the model locally, relying on local leaders, and providing long-term job-embedded professional development](international-implementation-adaptability-leadership.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 - [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](peer-coaching-faculty-learning-communities.md)
+- [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
+- [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
 
 ## Examples
 -

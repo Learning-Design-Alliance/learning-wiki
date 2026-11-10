@@ -50,6 +50,7 @@ The authors recommend resource-adaptive adjustments to keep the program's multi-
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 - [Use low-cost homemade box trainers to expand access to laparoscopic training in resource-limited settings](low-cost-homemade-box-trainers-resource-limited-settings.md)
 - [Implement FLS-style simulation training with low-cost materials in resource-limited settings](low-cost-fls-implementation-resource-limited-settings.md)
+- [Adopt motion-sensing video-game consoles as a low-cost adjunct to simulator-based laparoscopic training, especially in lower-budget institutions or at home](wii-as-low-cost-adjunct-to-simulator-training.md)
 
 ## Examples
 -

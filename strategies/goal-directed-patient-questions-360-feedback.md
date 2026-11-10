@@ -50,6 +50,7 @@ The authors recommend rethinking how patient feedback is collected to make it ac
 - [Distinguish the purposes and scales of coexisting feedback sources in educational gig platforms](distinguish-feedback-types-multisource-gig-platforms.md)
 - [Make platform quality standards interpretable by pairing automated scores with rationales and contextual cues](make-quality-standards-interpretable-with-rationales.md)
 - [Use the tertiary-hospital GP competency framework for self-evaluation and multisource feedback in medical education and quality improvement](gp-competency-framework-self-evaluation-multisource-feedback.md)
+- [Use multisource (360-degree) feedback with confidential sealed questionnaires from six evaluator groups to assess resident professionalism and communication skills](multisource-feedback-six-evaluator-groups-resident-assessment.md)
 
 ## Examples
 -

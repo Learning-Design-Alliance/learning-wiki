@@ -58,3 +58,4 @@ Per-protocol analysis of the randomized controlled trial's primary outcome: LP s
 - [Simulation-based education with frequency building and precision teaching produced behavioural fluency in lumbar puncture among paediatric trainees in a mean of five trials and about 95 minutes of training](fluency-lumbar-puncture-five-trials-95-minutes.md) — related
 - [Adding standard simulation to e-learning did not significantly improve proficiency rates over e-learning alone](standard-simulation-no-significant-gain-over-e-learning-alone.md) — related
 - [Traumatic lumbar puncture (39%) and post-LP headache (20%) were the most commonly reported complications among trainees](traumatic-lp-and-headache-common-complications.md) — related
+- [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related

@@ -92,3 +92,5 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [International students earned significantly fewer exam points than the reference category in the regression model](international-students-lower-exam-points.md) — related
 - [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — a narrower finding that bears on this claim
 - [The effect size of peer assessment (d = .122) is about 40% of the gender achievement gap and about 20% of the racial achievement gap in the study population](peer-assessment-effect-size-benchmarks.md) — related
+- [Regression-based or constrained-optimization selection can attain targeted racial diversity without large declines in class performance](constrained-optimization-attains-diversity-small-tradeoff.md) — related
+- [Female students earn lower grades than equivalently prepared male counterparts in most courses studied (β −0.021 to −0.133; up to 0.303 grade points lower)](gender-gap-upper-level-life-science-courses.md) — reports the opposite

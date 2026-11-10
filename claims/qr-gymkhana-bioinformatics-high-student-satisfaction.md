@@ -53,3 +53,4 @@ Voluntary anonymous 10-question online survey administered on the virtual campus
 - [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related
 - [User satisfaction with the system is high overall (94%), with educators most satisfied (90%) and grade 4–6 students relatively less satisfied](hci-system-user-satisfaction-educators-highest.md) — related
 - [Undergraduates' self-reported interest in bioinformatics shifted from medium to high between surveys before and after a 5-hour EDUCE module in MICB 301, with no comparison group](educe-micb301-bioinformatics-interest-increase.md) — related
+- [The author argues that a motivated student can probably already become a competent, employable bioinformatics professional using free online video resources, with important caveats](online-bioinformatics-education-arrived-thesis.md) — related

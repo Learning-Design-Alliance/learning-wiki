@@ -72,3 +72,4 @@ The review attributes these moderator findings to other included studies; the re
 - [A greater proportion of primary care physicians report confidence in managing psychosocial effects of cancer (24–47%) than physical effects (10–37%)](pcps-more-confident-psychosocial-than-physical-effects.md) — related
 - [Physicians' work experience associated with self-rated psychosocial competencies, with only the lowest and highest experience groups differing significantly](work-experience-associated-psychosocial-competencies.md) — related
 - [Physicians report not integrating evidence-based obesity guidelines, citing deficiencies in knowledge, skills, and confidence](physicians-lack-obesity-management-confidence.md) — related
+- [Crisis-centre work, recent survivor examination, and seeing more than 60% of survivors are associated with higher provider confidence](crisis-centre-recent-practice-confidence.md) — related

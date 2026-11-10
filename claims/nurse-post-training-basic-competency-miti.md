@@ -48,3 +48,4 @@ Post-training competency assessment of the 11 intervention-arm nurses by the MIT
 - [The intervention arm scored significantly higher than the attention control arm on the BECCI behaviour change counselling index (z = 3.22, p < .01)](becci-practitioner-score-arm-difference.md) — related
 - [During treatment delivery, the intervention arm showed strong evidence of higher MITI Spirit, Empathy, Percent Open Questions, and MI-Adherence than the attention control arm](intervention-arm-higher-miti-spirit-empathy-open-questions.md) — related
 - [Primary care nurses struggled to acquire and deliver MI and CBT skills to a high level despite intensive, manualised training with ongoing supervision](nurse-psychological-skills-training-not-high-competency.md) — reports the opposite
+- [Overall BECCI-rated MI skill use showed no significant difference between trained and untrained nurses at one-year follow-up](becci-overall-no-significant-difference.md) — related

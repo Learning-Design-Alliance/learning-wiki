@@ -51,3 +51,4 @@ Open-ended questionnaire responses on strengths, weaknesses and suggestions in t
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [In a branching virtual patient for PBL, the majority of responding undergraduate medical students preferred text-based scenarios over video-based ones](vp-pbl-majority-prefer-text-over-video.md) — related
+- [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related

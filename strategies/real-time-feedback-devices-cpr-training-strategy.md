@@ -54,6 +54,7 @@ During resuscitation training, give learners a feedback device that displays com
 
 - Truecpr Feedback Device
 - [Use fluorescent-marked solution and ultra-violet light to give direct visual feedback on hand hygiene technique](fluorescent-uv-hand-hygiene-visual-feedback-strategy.md)
+- [Use a metronome during CPR training to guide chest compression rate](metronome-compression-rate-guidance-strategy.md)
 
 ## Examples
 -

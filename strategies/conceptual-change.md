@@ -63,6 +63,8 @@ Learners do not enter instruction as blank slates; intuitive misconceptions (e.g
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the diagnostic first step; conceptual change is activation with a confrontational purpose
 - [Predicting-observing-explaining](predict-observe-explain.md) — a structured routine for the elicit-confront cycle *(if unavailable, use POE routines within inquiry instruction)*
 - [Implementing the predict-observation-explain (POE) sequence inside a virtual laboratory](poe-sequence-in-virtual-laboratory.md)
+- [Elicit student misconceptions, create situations that challenge them, and emphasize conceptual frameworks rather than isolated facts](elicit-and-challenge-misconceptions-strategy.md)
+- [Use the three steps of conceptual change as teaching starting points: confront misconceptions, provide concrete analogies, and practice testing hypotheses](mayer-conceptual-change-teaching-steps.md)
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *Physics by Inquiry* (McDermott et al.) — built entirely on eliciting common misconceptions, confronting them with experiments, and guided reconstruction.

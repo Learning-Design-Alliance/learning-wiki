@@ -48,3 +48,4 @@ Authors' interpretation of the Figure 1 scatter: they hypothesize experts took a
 ## Related Claims
 - [Among the 26 EES procedures, experts rated polypectomy least difficult and Vidian neurectomy most difficult.](polypectomy-least-vidian-neurectomy-most-difficult.md) — related
 - [Experts reached consensus ranking 23 EES basic skills into 3 groups of increasing difficulty, from easiest (navigation with a 0° telescope) to most difficult (suturing in the nasal cavity), with ≥80% agreement.](ees-basic-skills-three-difficulty-groups.md) — related
+- [The authors attribute the simulator's null effect partly to its failure to reflect nasal cavity anatomy and the challenges of performing endoscopy on a live patient](simulator-anatomy-fidelity-limitation-tffl.md) — related

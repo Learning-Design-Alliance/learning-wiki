@@ -50,3 +50,5 @@ Interpretation assessment at 12-month follow-up in which each of 103 CHWs interp
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
 - [Skills decay over time: twelve level-3 studies fail to find lasting effects and reviewed studies show a predominant decrease in skills](procedural-skills-decay-after-cbe.md) — a broader claim this one bears on
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
+- [Correct interpretation of faint positive RDT lines declined to 76.7% at 12 months, a skill-decay finding](faint-positive-interpretation-declines-12-months.md) — related
+- [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related

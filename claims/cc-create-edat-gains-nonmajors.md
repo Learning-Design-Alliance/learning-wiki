@@ -69,3 +69,4 @@ Majors/nonmajors comparison within the pooled EDAT data (Table 6 footnote). The 
 - [SALG scores rose from pre-test to post-test across all categories among students in first-time community college CREATE courses, with the largest changes in understanding and skills, in one group with no comparison group](cc-create-salg-self-rated-gains.md) — related
 - [A majority of community college students in first-time CREATE courses preferred CREATE to other teaching methods they had experienced](cc-create-student-preference-over-lecture.md) — related
 - [Workshop-trained community college faculty taught effectively with CREATE in their first attempt, per outside-evaluator observations](cc-faculty-teach-effectively-create-first-attempt.md) — related
+- [Students majoring in a course's field outperform nonmajors (β 0.027–0.114; 0.088–0.397 grade points higher)](major-status-boost-life-science-grades.md) — related

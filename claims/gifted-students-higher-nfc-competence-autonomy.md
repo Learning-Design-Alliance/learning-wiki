@@ -53,3 +53,4 @@ Pre-experiment NFC questionnaire comparison in the 2×2 design: gifted students 
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](example-problem-pairs-raise-perceived-competence.md) — related
 - [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](example-problem-pairs-more-efficient-both-gifted-nongifted.md) — related
 - [Starting with an example strongly benefits first practice problem performance, with a larger effect for gifted students](first-practice-problem-sequence-interaction.md) — related
+- [Need for Cognition does not differ by presentation condition but is higher among lay people than patients](nfc-higher-lay-people-than-patients.md) — related

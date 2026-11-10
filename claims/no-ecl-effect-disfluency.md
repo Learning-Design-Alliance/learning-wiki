@@ -54,3 +54,4 @@ Regression analyses of subjective ECL ratings after learning and after testing i
 - [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related
+- [Presentation framerate did not affect detection accuracy despite 28 images/s being judged too fast](framerate-no-accuracy-effect.md) — related

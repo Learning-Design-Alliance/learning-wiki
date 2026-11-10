@@ -85,3 +85,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related
 - [Clinical placements in emergency and ICU involve an intense emotional experience, with negative emotions before the placement and emotional ambivalence during it](intense-emotional-experience-critical-care-placement.md) — related
 - [Students found anatomy teaching by ultrasound innovative, exciting and engaging, and autonomous exercise improved self-criticism](student-engagement-ultrasound-anatomy.md) — related
+- [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related

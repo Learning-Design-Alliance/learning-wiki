@@ -45,7 +45,8 @@ The authors recommend that each hospital run internal surveys on crucial issues 
 - [In one uncontrolled pre-post study, the share of staff who self-rated their cardiac arrest management skills as adequate rose significantly from 17.9% to 42.3% after BLS-D training](../claims/self-assessed-preparation-rise-post-course.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Target future BLS/AED training at recognition of cardiac arrest, minimizing hands-off time, adequate tidal volumes, and defibrillation safety checks](targeted-bls-training-recognition-hands-off-tidal-volume-safety-checks.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Pretest-posttest experimental control group study with 120 SSII students in Minn
 ## Related Claims
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](at-cai-not-significant-vs-lecture.md) — related
 - [No significant difference in solid geometry achievement between animation-with-narration and animation-with-text CAI groups](no-significant-difference-an-vs-at.md) — related
+- [A targeted e-learning module on leukaemia produced significantly higher post-test scores than existing online resources in senior medical students](leukaemia-elearning-module-outperformed-existing-online-resources.md) — related

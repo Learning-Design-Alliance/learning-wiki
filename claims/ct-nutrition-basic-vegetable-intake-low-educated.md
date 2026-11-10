@@ -69,3 +69,4 @@ Type III tests in the linear mixed models for the three-group RCT (total sample 
 - [The tailored nutrition interventions produced no long-term group effects on self-control or BMI](ct-nutrition-no-effects-self-control-bmi.md) — related
 - [Self-regulation scores increased more in the control group than in either tailored intervention group at nine months](ct-nutrition-self-regulation-larger-control-increase.md) — related
 - [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related
+- [A meta-analysis of RCTs of interactive computer-based dietary interventions found a non-statistically significant weighted mean difference in BMI favouring e-learning devices](meta-analysis-non-significant-bmi-effect-e-lds.md) — related

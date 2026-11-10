@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/prior-training-no-knowledge-confidence-gain.md
+---
+
+# Revision history: [claims/prior-training-no-knowledge-confidence-gain](../claims/prior-training-no-knowledge-confidence-gain.md)
+
+### 2026-11-10 · ingest · process:wiki-ingest
+Ingested from pmc-3733892 (Knowledge and confidence of South African health care providers regarding post-rape care: a cross-sectional study.) via eval_harness.py + ingest_extractions.py

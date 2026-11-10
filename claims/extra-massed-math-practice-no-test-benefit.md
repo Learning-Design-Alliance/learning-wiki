@@ -52,3 +52,4 @@ The comparison doubled practice from two problems to four, so it says nothing ab
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the same experiment's spacing contrast
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — the same article's second experiment
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](spacing-reduces-quiz-practice-performance.md) — related
+- [A second interim assessment taken within the same session adds no measurable benefit over a single interim assessment](second-interim-assessment-no-added-value.md) — related

@@ -51,3 +51,4 @@ Postoperative outcome comparison (Table 3) between the early and late experience
 - [After the learning-curve inflection, total procedure time, fluoroscopy time, and contrast dye volume were significantly reduced in later-experience TAVR cases for native AR](tavr-ar-later-cases-shorter-times-less-contrast.md) — related
 - [CUSUM analysis identifies a procedure-time learning-curve inflection at case 52 and a fluoroscopy-time inflection at case 43 for TAVR in native aortic regurgitation](tavr-ar-learning-curve-52-cases-cusum.md) — related
 - [Device success and 30-day mortality did not differ significantly between early- and late-experience TAVR groups for native AR](tavr-ar-outcomes-not-different-across-learning-curve.md) — related
+- [Mean hospital length of stay did not differ between resident-performed SILS and traditional LC groups.](resident-sils-length-of-stay-similar-traditional-lc.md) — related

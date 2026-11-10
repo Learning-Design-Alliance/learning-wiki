@@ -51,3 +51,4 @@ Linear regression for Patient 2 (2016–2022, N = 827) reports "F = 96.37; p = 1
 - [Patient 1 evaluations showed significant positive variability in the closing session domain (F = 40.36; p = 5.18949E-10)](patient1-closing-session-significant-model.md) — related
 - [Patient 3 evaluations showed high consistency in the introduction domain (F = 11.36; p < 0.0008) and significant positive variability in closing session (F = 9.13; p < 0.003)](patient3-introduction-consistency-closing-improvement.md) — related
 - [Faculty and standardized patient evaluations of student professionalism differed significantly in relationship-building and information-sharing domains](faculty-sp-professionalism-score-discrepancies.md) — related
+- [Students form e-relationships with case characters, and sustaining more than two relationships becomes difficult](vp-e-relationships-relationship-threshold.md) — related

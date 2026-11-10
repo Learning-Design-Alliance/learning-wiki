@@ -49,3 +49,4 @@ Meta-analytic summary in Table 3 of 161 studies from Grove et al. (136 studies, 
 - [Traditional interview scores show modest predictive validity: average observed correlation ra = .15 and average corrected validity rac = .29 across 106 published validity coefficients](interview-corrected-validity-029.md)
 - [Traditional unstructured/semi-structured admission interviews have low-to-moderate reliability (weighted average ra = .42), which limits their maximum attainable validity to rx'y' = .65](interview-reliability-042-limits-validity.md)
 - [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](har-outperforms-llm-judge-acceptance-alignment.md) — related
+- [Holistic review is not a psychometrically valid alternative to statistical (actuarial) selection methods](holistic-review-not-psychometrically-valid.md) — a broader claim this one bears on

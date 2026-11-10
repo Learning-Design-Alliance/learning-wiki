@@ -3,6 +3,7 @@ type: claim
 title: Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session
 description: Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session
 id: t-rat-exceeds-i-rat-interdisciplinary-tbl
+aliases: [grat-correct-answers-exceed-irat]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -26,17 +27,28 @@ sources:
     i: "?"
     kind: causal
     rigour: 1
+  - id: tan-nigel-ck-2011
+    resource: "https://doi.org/10.1186/1472-6920-11-91"
+    title: "Tan Nigel CK, Kandiah Nagaendran, Chan Yiong Huak, Umapathi Thirugnanam, Lee Sze Haur, Tan Kevin. (2011). A controlled study of team-based learning for undergraduate clinical neurology education. BMC Medical Education. https://doi.org/10.1186/1472-6920-11-91"
+    author: Tan Nigel CK, Kandiah Nagaendran, Chan Yiong Huak, Umapathi Thirugnanam, Lee Sze Haur, Tan Kevin
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` t-RAT scores were significantly higher than i-RAT scores across nine multidisciplinary questions (P < 0.05). [→ Hassan Ahmed Nour Eldin 2026](#hassan-ahmed-nour-eldin-2026)
 `q3 i?` The mean t-RAT score was approximately 20% higher than the mean i-RAT score (P < 0.02). [→ Hassan Ahmed Nour Eldin 2026 (2)](#hassan-ahmed-nour-eldin-2026-2)
+
+`q3 i?` The proportion of correct answers was significantly higher during the Group Readiness Assurance Test than the Individual Readiness Assurance Test (79.5% vs 62.3%, p = 0.006). [→ Tan Nigel CK 2011](#tan-nigel-ck-2011)
 
 ## Evidence
 
@@ -60,10 +72,22 @@ Paired t-test comparison of mean i-RAT vs t-RAT scores in the same session. The 
 
 > "Additionally, the mean score for the t-RAT was approximately 20% significantly higher than that of the i-RAT (P < 0.02), as shown in Fig. 3."
 
+### Tan Nigel CK 2011
+
+Tan Nigel CK, Kandiah Nagaendran, Chan Yiong Huak, Umapathi Thirugnanam, Lee Sze Haur, Tan Kevin. (2011). A controlled study of team-based learning for undergraduate clinical neurology education. BMC Medical Education. https://doi.org/10.1186/1472-6920-11-91
+
+`q3 · i?` · `causal · r2`
+
+Within-phase-2 process measure from the 49-student study: team consensus answers after group discussion were correct more often than individual answers on the same clinical scenarios, tested with a χ2 test as printed.
+
+> "The proportion of correct answers was significantly higher during GRAT compared to IRAT (GRAT 62/78, 79.5% vs IRAT 207/332, 62.3%; p = 0.006)"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — a broader claim this one bears on
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — possibly the same claim (merge candidate)

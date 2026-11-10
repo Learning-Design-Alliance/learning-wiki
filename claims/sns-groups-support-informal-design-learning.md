@@ -56,3 +56,4 @@ Naturalistic observation of five student-created Facebook groups in an HCI desig
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
 - [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related
+- [StudiVZ/MeinVZ declined sharply as Facebook overtook it, illustrating the volatility risk of building curricular projects on external Web 2.0 platforms](studivz-decline-platform-volatility-risk.md) — related

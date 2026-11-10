@@ -49,3 +49,4 @@ Two student questionnaires (12 items for the control group, 13 for the experimen
 - [Students taught with Microsoft Mathematics reported more positive mathematics and computer confidence attitudes than control students](microsoft-mathematics-positive-confidence-attitudes.md) — related
 - [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related
 - [Students with SLD express positive opinions about science concept instruction based on the keyword strategy](positive-social-validity-keyword-strategy.md) — related
+- [Most students expressed positive attitudes toward ILC tasks, integration, and laboratory procedures](ilc-positive-student-perceptions.md) — related

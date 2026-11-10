@@ -76,3 +76,4 @@ The article's abstract summarizing the same video-rating reliability analysis: "
 - [GOALS and ALL scores show good interrater and intrarater reliability for assessing laparoscopic skills](goals-all-scores-interrater-intrarater-reliability.md) — related
 - [Blind OSATS global rating scoring of simulator sessions showed high interrater agreement between two expert observers](osats-high-interrater-agreement-bg-pdt-simulator.md) — related
 - [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related
+- [Blinded video-based GOALS assessment of cadaver task performance showed significant interrater reliability between two assessors](interrater-reliability-blinded-video-goals-assessment.md) — related

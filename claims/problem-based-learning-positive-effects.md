@@ -51,3 +51,4 @@ The article's narrative summary of problem-based learning research, cited in its
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
+- [Prior reviews report PBL does not improve knowledge acquisition or test scores but may increase long-term retention and critical thinking](pbl-reviews-retention-not-acquisition.md) — related

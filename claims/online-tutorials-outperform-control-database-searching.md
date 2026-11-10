@@ -51,3 +51,4 @@ Randomized post-test-only control group experiment with 90 undergraduates inexpe
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
 - [Post-test ANOVA showed a significant difference among the three instruction groups after ten sessions](anova-posttest-significant-group-differences.md) — related
 - [Students' attitudes and skills vital for efficient use of online databases rose from pre-test to post-test after training in online literature search, in one uncontrolled pre-post study](training-effective-information-literacy-delivery.md) — a broader claim this one bears on
+- [Students who completed a tutorial scored higher on the post-test than students who did the post-test but no tutorial](tutorial-completion-raises-posttest.md) — a narrower finding that bears on this claim

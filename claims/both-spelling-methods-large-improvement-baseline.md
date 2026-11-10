@@ -53,3 +53,4 @@ In the same 53-boy experiment, the preliminary test averages were 5.5 (Set A) an
 - [In-class flash-card visual study with writing from memory raised Standard I dictation averages to 20.8, with every boy spelling some words correctly, though the method was time-costly and complicated](flash-card-visual-spelling-method-gains.md) — related
 - [Twelve weeks of copy-and-home-study spelling practice with next-day dictation produced no improvement in Standard I boys' ability to acquire new spellings](home-copy-dictation-no-improvement-standard-i.md) — related
 - [Reviewer credits the method with directness, concentration from flash-cards, valuable action responses, and stimulating effect](watkins-method-strengths-acknowledged.md) — related
+- [Multisensory facilitation of unisensory learning occurs and is more pronounced in the congruent condition](multisensory-facilitation-congruent-condition.md) — related

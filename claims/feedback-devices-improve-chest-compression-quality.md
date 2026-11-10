@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-10
 sources:
   - id: puslecki-m-2021
     resource: "https://doi.org/10.1371/journal.pone.0257162"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With a QCPR feedback device, mean compression depth rose from 51.2 to 56.8 mm, rate fell from 123.3 to 107.8 per minute, and chest recoil rose from 61.5% to 99.1%. [→ Puslecki M 2021](#puslecki-m-2021)

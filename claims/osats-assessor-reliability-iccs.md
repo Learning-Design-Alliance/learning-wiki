@@ -81,3 +81,4 @@ Reliability analysis on a selected subset of video-recorded assessments in the p
 - [Inter-rater reliability of the DPCC-MS varies substantially across rater pairs, from poor to excellent](dpcc-ms-inter-rater-reliability-variable.md) — related
 - [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
 - [A 10-item virtual case-based decision-making assessment tool shows good inter-rater agreement between two independent assessors (ICC 0.742)](virtual-case-tool-icc-0742.md) — related
+- [Blinded video-based GOALS assessment of cadaver task performance showed significant interrater reliability between two assessors](interrater-reliability-blinded-video-goals-assessment.md) — related

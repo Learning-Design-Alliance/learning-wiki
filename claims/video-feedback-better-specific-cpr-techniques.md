@@ -52,3 +52,4 @@ Post-intervention comparison of mannequin-based technique performance in 38 stud
 - [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](real-time-feedback-improves-compression-30-2-cycles.md) — related
 - [Real-time feedback training increases compliance with the combined compression rate-and-depth target in hands-only CPR among medical students](real-time-feedback-improves-compression-target-hands-only-cpr.md) — related
 - [Post-training CPR skill scores are significantly higher in the video feedback group than in the infographic group](video-feedback-group-higher-post-training-cpr-skill.md) — a broader claim this one bears on
+- [VP users performed better on some key BLS-AED skills: opening airways, checking circulation and knowing when to stop BLS](vp-users-better-some-bls-skills.md) — related

@@ -50,3 +50,4 @@ Intention-to-treat hierarchical linear modelling with the full randomized sample
 - [Per-protocol completion of Youth COMPASS produces a small but statistically significant increase in academic buoyancy relative to control](youth-compass-per-protocol-buoyancy-increase.md) — related
 - [Per-protocol completion of the Youth COMPASS program produces a small but statistically significant decrease in overall stress relative to control](youth-compass-per-protocol-stress-decrease.md) — related
 - [Male participants showed lower adherence to the web-based program, and gender differences appeared in baseline stress and buoyancy](gender-differences-adherence-stress-buoyancy.md) — related
+- [Exploratory subgroup analyses suggest males and the most-stressed quartile may benefit more from the stress-coping instruction, but no subgroup effect reached significance](subgroup-exploratory-benefit-stress-coping.md) — related

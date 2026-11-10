@@ -62,6 +62,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Sequence supervised live surgical training only after adequate deliberate practice with feedback, reflective learning, and competency-benchmarked assessment](gate-live-surgery-behind-simulation-competency-strategy.md)
 - [Use an integrated laparoscopic surgical training program combining different training modalities](integrated-laparoscopic-training-program-strategy.md)
 - [Structure at-home laparoscopic training as deliberate practice with objective metrics, feedback and proficiency benchmarks](at-home-deliberate-practice-laparoscopic-curriculum.md)
+- [Integrate laparoscopic Anubifix™-embalmed human models into mandatory surgical anatomy courses](integrate-anubifix-models-mandatory-anatomy-courses.md)
 
 ## Examples
 -

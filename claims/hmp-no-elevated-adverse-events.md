@@ -53,3 +53,4 @@ Exploratory logistic regression models with preregistered covariates on N=662, c
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
 - [There was no evidence of harm from digital asthma interventions, though only two reviews addressed adverse events](digital-asthma-interventions-no-evidence-of-harm.md) — related
 - [No statistically significant differences in adverse maternal or neonatal outcomes between pre- and post-intervention periods](no-significant-change-adverse-outcomes-twin-birth-training.md) — related
+- [Neither training substantially worsens short-term symptom control, though symptom resolution is slightly longer with communication training](symptom-outcomes-largely-unaffected-by-training.md) — related

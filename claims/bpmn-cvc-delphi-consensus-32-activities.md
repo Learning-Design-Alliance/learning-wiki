@@ -56,3 +56,4 @@ Online Delphi survey with 13 experts (anesthesiology, intensive medicine, nephro
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
 - [Applicants from the authors' institution performed similarly overall to other applicants, with better results on some checklist items](home-institution-applicants-similar-stemi-performance.md) — related
+- [A modified Delphi panel of 23 health professions education experts reached consensus on 62 of 64 health literacy educational competencies and 32 of 33 health literacy practices after four rating rounds](delphi-consensus-62-competencies-32-practices.md) — related

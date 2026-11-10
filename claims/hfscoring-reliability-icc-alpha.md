@@ -94,3 +94,4 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
 - [Simulated patient and examiner empathy ratings show substantial inter-rater reliability and internal consistency](empathy-ratings-sp-examiner-reliability.md) — a narrower finding that bears on this claim
 - [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [The CTCS-SP shows good inter-rater reliability, with an ICC of .84 for the mean competence score](ctcs-sp-good-inter-rater-reliability.md) — related

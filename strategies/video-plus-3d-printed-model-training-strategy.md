@@ -56,6 +56,7 @@ The article's training recipe: all groups first viewed a standard instructional 
 - [Use external observational training before mental practice of an unfamiliar procedure](external-observational-training-before-imagery.md)
 - [Repeated hands-on simulation surgeries on a 3D-printed congenital heart disease model at approximately 1-week intervals](strategy-repeated-3d-printed-simulation-surgeries.md)
 - [Facilitated 25-minute mental practice session with step-by-step textbook breakdown, optionally supported by an interactive 3D anatomical model, before simulated surgery](facilitated-mp-session-textbook-excerpt-3d-aid.md)
+- [Provide cognitive training (live demonstration plus reference DVD) before cadaver-based technical skills practice](cognitive-training-precedes-cadaver-technical-practice.md)
 
 ## Examples
 -

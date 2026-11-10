@@ -53,3 +53,4 @@ Multiple regression with Z-transformed project grade as dependent variable; vari
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
 - [Neither negative nor positive emotional functioning alone was statistically powerful enough to explain achievement scores independently of the other](single-emotional-dimensions-insufficient-predictors.md) — related
 - [An explanatory stepwise regression including student, tutor and group factors explains 75% of grade variance, with interactivity, cohesion and social capital as significant positive predictors](explanatory-regression-explains-grade-variance.md) — related
+- [Group allocation was the only significant predictor of post-test performance, with neither academic ability nor study time predictive in the regression model](group-allocation-only-predictor-post-test-leukaemia.md) — related
