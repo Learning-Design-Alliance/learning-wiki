@@ -47,3 +47,4 @@ Pre-post comparison of an 18-question Quality Assessment Questionnaire completed
 ## Related Claims
 - [Stakeholder feedback identified gaps in PBL spanning problem design (misalignment, simplicity, contextual relevance, inter-PBL connection) and delivery (training, assessment alignment)](pbl-gap-taxonomy-design-delivery.md) — related
 - [Student and faculty satisfaction with PBL sessions after the intervention averaged 4.8 and 4.1 respectively on a five-point scale](pbl-intervention-satisfaction-ratings.md) — related
+- [Incorporating learner feedback into curricular revision was associated with increased learner satisfaction with the instructive value of an online curriculum, from 3.8 to 4.1 on a 5-point scale](feedback-revision-increases-instructive-value-rating.md) — related

@@ -51,3 +51,5 @@ Randomized, data analyst–blinded web-based trial at the University of Geneva (
 - [E-learning participants report higher satisfaction and are more likely to recommend the course than video participants](e-learning-higher-satisfaction-and-recommendation-nihss.md) — related
 - [The e-learning advantage concentrates in five NIHSS quiz elements: key concepts, consciousness-global, facial palsy, ataxia, and sensory items](nihss-item-level-advantages-interactive-e-learning.md) — a narrower finding that bears on this claim
 - [Paramedics who used the e-learning module were more likely to recommend the course to a colleague than those who used the video](elearning-higher-recommendation-nihss-paramedics.md) — related
+- [Didactic lectures produced greater knowledge gain than asynchronous computer-based modules for novice learners in an acute care course](didactic-beats-asynchronous-knowledge-gain-novices.md) — reports the opposite
+- [Students entered with significantly higher baseline knowledge of asynchronous topics than didactic topics](higher-pretest-asynchronous-topics.md) — related

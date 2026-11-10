@@ -52,3 +52,4 @@ Per-class analysis of the 34 observed classrooms (Figure 3) using binomial exact
 - [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](males-participate-more-than-females-life-sciences.md) — related
 - [A greater percentage of female students in attendance predicts greater female verbal participation relative to males](female-attendance-predicts-participation-gap.md) — related
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

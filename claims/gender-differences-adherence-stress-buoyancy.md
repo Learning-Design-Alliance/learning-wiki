@@ -69,3 +69,4 @@ Baseline gender comparison in the per-protocol sample. Girls reported higher ove
 - [Per-protocol completion of Youth COMPASS produces a small but statistically significant increase in academic buoyancy relative to control](youth-compass-per-protocol-buoyancy-increase.md) — related
 - [Gender differences appear in academic self-efficacy and buoyancy but not in mathematics performance, and age shows no differences](gender-differences-ase-ab-not-math.md) — related
 - [Intention-to-treat analyses show no statistically significant intervention effects of Youth COMPASS on stress or academic buoyancy](youth-compass-itt-null-effects.md) — related
+- [Exploratory subgroup analyses suggest males and the most-stressed quartile may benefit more from the stress-coping instruction, but no subgroup effect reached significance](subgroup-exploratory-benefit-stress-coping.md) — related

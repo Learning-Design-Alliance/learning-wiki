@@ -67,3 +67,5 @@ Cross-sectional quality-control assessment of 586 emergency physicians and nurse
 - [Participation in theoretical or practical training did not differentially change knowledge scores over time](training-no-differential-knowledge-effect.md) — related
 - [After the online course, students averaged a 9.1 checklist score in simulated BLS care, indicating practical learning](simulated-bls-practical-score-after-online-course.md) — related
 - [Simulation studies identified poor CPR performance, with inadequate compressions in 32–62% of attempts and 50–90% of ventilations incorrectly performed](poor-cpr-performance-identified-in-simulation.md) — related
+- [Students' self-evaluation of CPR skill was uncorrelated with their actual measured performance](no-correlation-self-evaluation-actual-cpr-performance.md) — related
+- [Only half of rural EMS providers performed BLS for the recommended 2 minutes and 80% used the correct 30:2 ratio, with a 35-second delay to first compression or ventilation](rural-ems-algorithm-recognition-gaps.md) — related

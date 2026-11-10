@@ -77,6 +77,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 **Understanding by Design (Wiggins & McTighe)** — A published curriculum design framework that begins with "desired results" (objectives) and works backward to evidence and learning plan; widely used in K–12 curriculum development.
 
 **[Coursera](https://www.coursera.org)** — Course and module pages lead with "What you'll learn" objective lists, giving prospective and enrolled learners explicit targets before content begins.
+- [Use a skills consensus statement to recommend an order of tutorial participation to students](../strategies/consensus-statement-tutorial-ordering-strategy.md)
 
 ## Key Sources
 - Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives.* Longman.

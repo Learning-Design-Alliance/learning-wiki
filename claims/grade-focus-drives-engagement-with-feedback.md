@@ -48,3 +48,4 @@ Qualitative interview finding: students consulted feedback as a thermometer to c
 - [Self-reported active use of feedback was relatively low and did not differ between formative and summative PT groups](active-feedback-use-low-similar-both-groups.md) — related
 - [Students consult progress test feedback more after a summative PT than after a purely formative PT, in self-report and in logged system use](summative-pt-more-feedback-consultation-than-formative.md) — related
 - [Students who did not consult formative PT feedback more often considered the test unimportant, and students who did not prepare cited unimportance far more often in the formative group than the summative group (27% vs 1%)](perceived-unimportance-drives-non-use-formative-pt.md) — related
+- [Students' motivation to use feedback is influenced more by comparison with peer performance than internal standards](norm-referencing-motivates-feedback-use.md) — related

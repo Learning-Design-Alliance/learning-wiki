@@ -52,6 +52,7 @@ The article recommends that "Simulator training should be incorporated into the 
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 - [Integrate surgical simulator training into the undergraduate medical curriculum before residency](integrate-surgical-simulation-before-residency.md)
 - [Incorporate a 2-week mentored simulation course into vascular resident training](two-week-mentored-vascular-simulation-course.md)
+- [Incorporate SILS into surgical training via designated simulator time, simulation technology development, and longer resident operating room times](simulation-strategies-for-sils-training.md)
 
 ## Examples
 -

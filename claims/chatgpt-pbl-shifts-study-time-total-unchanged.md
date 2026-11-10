@@ -53,3 +53,4 @@ Comparison of self-reported study times before and after class between the two g
 - [TCLEBL shifted extracurricular time toward pre-class preparation, with significantly less post-class review and writing time and no difference in total time](tclebl-time-reallocation-no-total-difference.md) — related
 - [Students reported higher pre-class burden with FC+CBL but no increase in in-class pressure relative to LBC](fc-cbl-pre-class-burden-not-in-class-pressure.md) — related
 - [FC-TCLEBL students spent more time preparing before class but less time reviewing after class than LBC students, with no difference in total time](fc-tclebl-preparation-review-time-tradeoff.md) — related
+- [Students spent more time preparing all learning objectives under PBL 2.0, but less or equal time on their own assigned objective](pbl2-0-more-preparation-time-all-objectives.md) — related

@@ -55,3 +55,4 @@ Hierarchical multiple regression in the 424-student survey: Step 1 (gender, coun
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Polish PE students have higher GPA, emotional stability, and extroversion than Ukrainian PE students, but the two samples do not differ in academic motivation](polish-ukrainian-pe-gpa-personality-no-motivation-difference.md) — related
+- [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related

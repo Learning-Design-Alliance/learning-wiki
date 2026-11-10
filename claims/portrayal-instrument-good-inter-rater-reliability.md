@@ -52,3 +52,4 @@ Inter-rater reliability analysis using intraclass correlation coefficients on bl
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Reliability statistics were comparable between paired-examiner and single-examiner assessments in one uncontrolled pre-post study](paired-single-examiner-reliability-comparable.md) — related
 - [The virtual case-based tool permits reliable assessment of students by only one assessor](single-assessor-feasibility-virtual-case-tool.md) — related
+- [The CTCS-SP shows good inter-rater reliability, with an ICC of .84 for the mean competence score](ctcs-sp-good-inter-rater-reliability.md) — related

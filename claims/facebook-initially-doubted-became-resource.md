@@ -52,3 +52,4 @@ Qualitative finding from thematic analysis of the students' final reports, on th
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [Facebook-based digital storytelling helped cross-national students overcome stereotypes and share opinions](facebook-digital-storytelling-overcame-stereotypes.md) — related
 - [Field notes documented implementation difficulties: initial group membership, mother-tongue use, and group-composition complaints](web2-implementation-difficulties-field-notes.md) — related
+- [StudiVZ/MeinVZ declined sharply as Facebook overtook it, illustrating the volatility risk of building curricular projects on external Web 2.0 platforms](studivz-decline-platform-volatility-risk.md) — related

@@ -51,3 +51,4 @@ Results section percentages for the compression-parameter items: "only 69.6% of 
 - [Prior CPR training did not ensure knowledge of quality standards, and no significant differences in CPR quality were observed by prior training](prior-training-insufficient-for-quality-standards.md) — related
 - [Gaza healthcare workers' BLS knowledge is strongest on CPR ratio, compression location and myocardial infarction recognition, moderate on trauma and airway items](gaza-bls-knowledge-strengths.md) — related
 - [Only 59.4% of students correctly answered all options under the purpose-of-CPR question](purpose-of-cpr-partial-knowledge.md) — related
+- [Only half of rural EMS providers performed BLS for the recommended 2 minutes and 80% used the correct 30:2 ratio, with a 35-second delay to first compression or ventilation](rural-ems-algorithm-recognition-gaps.md) — related

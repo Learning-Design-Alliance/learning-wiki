@@ -64,3 +64,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [Onsite and blinded expert OSATS ratings show high inter-rater reliability for the simulation assessments](osats-onsite-blinded-rater-agreement-high.md) — related
 - [Metrics-based assessment of epidural catheter placement achieves high inter-rater reliability (0.88) and discriminates experts from novices](metrics-assessment-high-irr-construct-validity.md) — related
 - [Blinded evaluators showed significant inter-rater correlation on the Task Specific Evaluation but not on the Global Evaluation of Mastoidectomy](inter-rater-reliability-task-specific-significant-global-not.md) — a narrower finding that bears on this claim
+- [Blinded video-based GOALS assessment of cadaver task performance showed significant interrater reliability between two assessors](interrater-reliability-blinded-video-goals-assessment.md) — related

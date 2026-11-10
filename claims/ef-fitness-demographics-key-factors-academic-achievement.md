@@ -58,3 +58,4 @@ RFECV feature-selection analysis of 300 primary school students (151 boys, 149 g
 - [A 9-month classroom-based physical activity intervention did not affect executive functions, aerobic fitness, or body mass index in 7-year-olds](active-math-no-effect-secondary-outcomes.md) — related
 - [Cardiovascular risk factors and body mass index correlate negatively with SIMCE achievement only in high-school students](cardiovascular-risk-bmi-negative-correlation-1hsg-only.md) — related
 - [Sex, BMI and urbanization correlate with fitness patterns and with exam scores, justifying their use as ANCOVA covariates](demographics-correlate-fitness-patterns-and-exam-scores.md) — related
+- [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — a narrower finding that bears on this claim

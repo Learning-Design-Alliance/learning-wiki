@@ -66,3 +66,4 @@ Post-training survey percentages among the same 262 participants: "50% and 29.5%
 ## Related Claims
 - [A short-term social skills teaching program increases inclusive classroom teachers' knowledge of teaching social skills](sstp-increases-teacher-social-skills-teaching-knowledge.md) — related
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related
+- [Facebook use is very high among medical students (up to 96%) and continues after graduation (nearly 50% of clinicians)](facebook-use-medical-students-96-percent.md) — related

@@ -49,3 +49,4 @@ Reliability analysis of the Chain Puzzle in the 100-student trial: thirty-one of
 - [A three-test subset (Analogues, Chain Puzzle, Economic Prophecies) differentiated the group nearly as well as the full twelve-test battery.](three-test-subset-differentiates-originality.md) — related
 - [Individual differences in substitution-test learning are large, ranging from 8 to 44 substitutions on the first day and reaching 214 for the best performer by trial sixteen](large-individual-differences-substitution-learning.md) — related
 - [An inventor of international reputation ranked within the first half but showed no exceptional originality on the tests.](inventor-not-exceptional-on-originality-tests.md) — related
+- [Tutor-assessed group-participation behaviours best predict overall examination performance and distinguish top from bottom examination achievers](group-participation-ta-items-best-predict-exams.md) — related

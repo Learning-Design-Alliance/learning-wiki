@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 250 claims (162 show a difference, 59 mixed, 29 no difference) · 216 studies (105 causal, 51 associational, 24 review, 15 quant-synthesis, 9 qualitative, 9 design, 3 theoretical), `q1`–`q4` · 42 of 216 report an effect size · 246 claims rest on one study
+> **Evidence** · 253 claims (165 show a difference, 59 mixed, 29 no difference) · 219 studies (107 causal, 52 associational, 24 review, 15 quant-synthesis, 9 qualitative, 9 design, 3 theoretical), `q1`–`q4` · 42 of 219 report an effect size · 249 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -307,6 +307,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The first course implementation ended prematurely because participating nursing students could not be convinced to continue amid reservations about medical-student participation, course obligations, timetable conflicts and time burden](../claims/first-piloting-premature-termination-barriers.md) [+M] — learners who differ on it differ in outcomes
 - [Attendance at R@W group sessions was high for sessions 1 to 3 but lower for the final session](../claims/raw-group-session-attendance-pattern.md) [~M] — measured as an outcome of the instruction studied
 - [PLP and induction meeting attendance effects diverged: clinical attendance favoured the intervention while classroom-based attendance favoured the control group](../claims/plp-induction-attendance-divergent.md) [~M] — an instructional effect differs with it
+- [Attendance at OSCE-relevant voluntary basic sessions peaks shortly before the OSCE while advanced-session attendance declines to zero by week 10](../claims/attendance-timing-peak-before-osce.md) [+M] — measured as an outcome of the instruction studied
+- [Dental students free to combine e-learning with lectures attend significantly fewer face-to-face lectures than students in a mandatory-attendance traditional course](../claims/tel-flexible-attendance-reduces-lecture-attendance.md) [+M] — measured as an outcome of the instruction studied
+- [Medical trainee interns given continued video iPod access to catheterization videos maintain skill competency over 3 months, while control-group competency declines](../claims/video-ipod-access-maintains-catheterization-competency.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

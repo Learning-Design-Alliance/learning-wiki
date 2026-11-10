@@ -50,6 +50,7 @@ The authors recommend that clinical skills teaching be supplemented with a mobil
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
+- [Pilot-test media format before adopting mobile social learning technologies, and log time-on-viewing in future studies](pilot-media-format-and-time-on-viewing-strategy.md)
 
 ## Examples
 -

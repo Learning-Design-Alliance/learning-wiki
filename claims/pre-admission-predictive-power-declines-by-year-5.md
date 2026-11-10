@@ -52,3 +52,4 @@ Mutually adjusted regression analyses of years 1 and 5 outcomes (Additional file
 - [UKCAT total score is the only pre-admission measure independently associated with both final composite outcomes (EPM and H&C) at Glasgow Medical School](ukcat-total-only-independent-predictor-composite-outcomes.md) — related
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
 - [UKCAT shows little relationship with the other pre-admission criteria, suggesting it measures different dimensions](ukcat-measures-dimensions-distinct-from-tss-interview.md) — related
+- [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related

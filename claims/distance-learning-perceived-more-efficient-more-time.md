@@ -47,3 +47,4 @@ Effectiveness-domain Likert items (Table 2, 0–3 scale, domain mean 1.84 ± 0.5
 ## Related Claims
 - [The majority of students perceived vodcasts as improving understanding of lecture material both as preview and revision tools.](positive-student-perceptions-of-vodcasts-preview-and-revision.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
+- [Students preferred the online repository to other sources of learning material primarily because of its efficiency of access](students-prefer-repository-for-efficiency.md) — related

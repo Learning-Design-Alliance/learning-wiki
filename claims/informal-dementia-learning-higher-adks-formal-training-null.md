@@ -68,3 +68,7 @@ Same cross-sectional survey (N = 231): the 24 participants with dementia trainin
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Medical professionals show significantly higher Alzheimer's disease knowledge than pharmacy, nursing, and allied health professionals](medicine-higher-adks-than-other-professions-jeddah.md) — related
+- [Professional and personal experience caring for someone with dementia are associated with higher dementia knowledge](caring-experience-associated-higher-knowledge.md) — related
+- [Dementia-specific training is associated with higher dementia knowledge, independent of demographics and personal experience](dementia-training-associated-higher-knowledge.md) — reports the opposite
+- [Health care staff in a regional Australian health district show moderate overall dementia knowledge, averaging 79% correct on the ADKS](health-staff-moderate-dementia-knowledge-adks-79.md) — related
+- [Self-rated dementia knowledge correlates positively with measured ADKS performance](self-rated-knowledge-correlates-adks.md) — related

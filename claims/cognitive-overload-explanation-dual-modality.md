@@ -52,3 +52,4 @@ This is the authors' interpretation offered in the Discussion, not a tested resu
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — related
 - [The authors attribute the 4-step group's short-term advantage to Step 3 verbalization producing deeper cognitive processing](step3-verbalization-cognitive-processing.md) — related
+- [The authors interpret that information overload and retroactive interference from the compressed 2.5-day intervention may explain the null training effect](overload-retroactive-interference-ontology-training.md) — related

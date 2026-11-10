@@ -54,3 +54,4 @@ Reliability analysis of the QCGE-SAS in the validation study (N = 246), covering
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [The 16-item assessment showed weak internal consistency but mostly acceptable-to-excellent item discrimination](cxr-test-weak-alpha-item-analysis.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
+- [The SUN-modified STEBI-A shows acceptable reliability overall and for the PSTE subscale, but the STOE subscale falls below the accepted threshold](sun-modified-stebi-a-reliability.md) — related

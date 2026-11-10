@@ -65,3 +65,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](students-enjoyed-conducting-experiments-most.md) — related
 - [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — related
 - [Perceived cultural differences and experienced crises mediate the exchange program's learning effects](cultural-difference-crisis-mediate-exchange-learning.md) — related
+- [Students accepted the 14-day e-mail interval and did not perceive the spaced education e-mails as an intrusion](spaced-education-emails-accepted-14-day-interval.md) — related

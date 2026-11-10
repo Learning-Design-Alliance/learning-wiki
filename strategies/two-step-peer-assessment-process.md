@@ -49,6 +49,7 @@ The article recommends moving from a single post-summative peer assessment to a 
 - [Revision Cycles](revision-cycles.md)
 - [Action Oriented Feedback](action-oriented-feedback.md)
 - [Introduce peer assessment early and phasewise in the medical curriculum, starting with formative feedback plus skills training](phased-early-peer-assessment-introduction.md)
+- [Use blinded peer review of blueprinted feedback from formative e-assessment to encourage reflection before summative assessment](peer-reviewed-formative-blueprinted-feedback-strategy.md)
 
 ## Examples
 -

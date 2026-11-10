@@ -61,3 +61,4 @@ The authors' characterization of why AI feedback tools have attracted attention 
 - [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — a narrower finding that bears on this claim
 - [Audio versus written group feedback showed no statistically significant difference on perceived timeliness of feedback on student progress](audio-group-feedback-timeliness-null.md) — related
 - [Instructors reported a moderate, acceptable increase in workload from asynchronous chat facilitation in WeChat-based PBL](wechat-pbl-instructor-workload-increase.md) — a narrower finding that bears on this claim
+- [Online asynchronous students reported higher satisfaction with the module than classroom students, except for timeliness of tutor feedback](online-variant-higher-satisfaction-except-feedback-timeliness.md) — related

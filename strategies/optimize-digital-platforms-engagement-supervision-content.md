@@ -56,6 +56,7 @@ Based on nurses' feedback and the authors' recommendations, digital training pla
 - [Future red flag trainings should keep asynchronous flexible learning, vary formats, and add complex vignettes with detailed background information](red-flag-training-enhancement-strategy.md)
 - [Optimize remote feedback quality by reducing group size and improving audio/video equipment](optimize-remote-feedback-quality-strategy.md)
 - [Incorporate instant score feedback and richer communication interactivity into VR simulations to motivate repeated, self-directed use](vr-instant-score-feedback-repeated-use-strategy.md)
+- [Use CME platforms and NTP training to train both public and private doctors on standard TB diagnosis and management guidelines](cme-ntp-training-for-private-providers.md)
 
 ## Examples
 -

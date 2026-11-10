@@ -51,3 +51,6 @@ Review synthesis of six articles reporting patient-level outcomes (Kirkpatrick l
 - [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](dlrs-increase-prescribing-knowledge-test-scores.md) — related
 - [The tele-education program showed a nonsignificant trend toward more appropriate NPH and regular insulin prescriptions in hospitalized patients](nonsignificant-trend-appropriate-insulin-prescriptions.md) — a narrower finding that bears on this claim
 - [Some prescribers reported intended or actual practice changes toward involving patients in decisions and safety-netting](prescriber-practice-changes-patient-involvement-safety-netting.md) — related
+- [Combined CRP and enhanced-communication training achieves the greatest reduction in antibiotic prescribing](combined-crp-communication-training-greatest-reduction.md) — related
+- [Internet-based CRP training reduces antibiotic prescribing for respiratory-tract infections in primary care](internet-crp-training-reduces-antibiotic-prescribing.md) — a narrower finding that bears on this claim
+- [No significant interaction between CRP and communication training on antibiotic prescribing](no-significant-crp-communication-interaction.md) — related

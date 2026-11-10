@@ -48,3 +48,4 @@ Pre-test–post-test experiment with 60 randomly selected IGNOU Certificate in C
 - [CD-group learners perceived the interactive multimedia CD module as a whole as more effective than face-to-face teaching, print, and online learning](cd-group-perceived-cd-module-more-effective.md) — related
 - [Theoretical BLS knowledge outcomes do not differ between instructor-led sessions and self-directed computer CD/DVD learning](bls-theory-instructor-vs-self-directed-no-difference.md) — related
 - [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related
+- [A targeted e-learning module on leukaemia produced significantly higher post-test scores than existing online resources in senior medical students](leukaemia-elearning-module-outperformed-existing-online-resources.md) — related

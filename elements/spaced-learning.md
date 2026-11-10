@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 25 studies (14 causal, 6 review, 4 quant-synthesis, 1 design), `q2`–`q4` · 4 of 25 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 26 studies (15 causal, 6 review, 4 quant-synthesis, 1 design), `q2`–`q4` · 4 of 26 report an effect size · 26 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -47,6 +47,8 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [+W]
 - [Spaced training produces a significantly higher total suturing score than concentrated training immediately after training](../claims/spaced-training-higher-posttraining-total-score-suturing.md) [+W] — attached 2026-11-07 from Yan Xinjian et al. (2024), which proposed "Spaced training protocol of three 40-minute sessions with 20-minute active breaks for cosmetic suturing instruction"; tests this page's relationship.
 - [At three-month follow-up, the spaced training group scores significantly higher than the concentrated group on total score and all three subscales](../claims/spaced-training-higher-followup-all-scores.md) [+W] — attached 2026-11-07 from Yan Xinjian et al. (2024), which proposed "Spaced training protocol of three 40-minute sessions with 20-minute active breaks for cosmetic suturing instruction"; tests this page's relationship.
+- [Adding spaced education to face-to-face lectures leads students to spend significantly more time on the learning content](../claims/spaced-education-increases-time-on-learning-content.md) [+W] — attached 2026-11-10 from Nkenke Emeka et al. (2012), which proposed "E-mail-delivered spaced education intervention with delayed multiple-choice questions and explanatory feedback".
+- [Students accepted the 14-day e-mail interval and did not perceive the spaced education e-mails as an intrusion](../claims/spaced-education-emails-accepted-14-day-interval.md) [~W] — attached 2026-11-10 from Nkenke Emeka et al. (2012), which proposed "E-mail-delivered spaced education intervention with delayed multiple-choice questions and explanatory feedback".
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

@@ -60,3 +60,4 @@ Cohort analysis of CPS students (Figure 4) shows sophomore off-track status is h
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related
 - [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related
 - [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — related
+- [Most non-completers left the course too early for early-warning flags to apply, and their departure was often unpredictable](non-completers-left-early-unpredictable.md) — related

@@ -65,3 +65,5 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [Both flipped classroom and traditional instruction groups improve EBN knowledge and self-efficacy after training, with scores declining by one month](both-groups-improve-then-decline-ebn.md) — related
 - [Skill gains from the Pavlik harness simulation module are retained at one month with no evidence of competency decay](pavlik-harness-simulation-skill-retention-one-month.md) — related
 - [Despite decay, novices' lung isolation skill scores were significantly above pre-training baseline at 2 months in a single-group pre-post study](partial-skill-retention-above-baseline-two-months.md) — related
+- [Correct interpretation of faint positive RDT lines declined to 76.7% at 12 months, a skill-decay finding](faint-positive-interpretation-declines-12-months.md) — related
+- [At 1-month follow-up, comfort measures rose steadily in the traditional group but declined in the simulation group, with no significant group effect or interaction](simulation-comfort-gains-decline-at-one-month.md) — a narrower finding that bears on this claim

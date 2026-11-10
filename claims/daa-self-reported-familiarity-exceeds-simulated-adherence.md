@@ -50,3 +50,4 @@ Pre/post survey linked to simulation performance for 63 residents at one institu
 - [In a simulated OOOR emergency, unsuccessful residents more often took algorithm-appropriate rescue steps than residents who never attempted intubation](unsuccessful-versus-no-attempt-rescue-behaviors.md) — related
 - [Senior residents report greater DAA familiarity and more often retry with a different blade, but intubation success does not differ by seniority](senior-junior-daa-behavior-differences.md) — related
 - [Residents request anesthesiology faculty and ENT presence less often in simulation than they self-report, and many request neither even after failed intubation](faculty-ent-requesting-lower-in-simulation.md) — related
+- [Most student PBL groups adhered to the new PBL 2.0 format, though fidelity was imperfect](pbl2-0-majority-group-adherence.md) — related

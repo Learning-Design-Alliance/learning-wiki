@@ -47,3 +47,4 @@ Descriptive survey of 24 of 31 faculty (77.4%) using 16 Likert frequency items (
 ## Related Claims
 - [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](tbl-clinical-disciplines-mostly-modified-implementation.md) — a broader claim this one bears on
 - [Peer evaluation was the least valued TBL component after the intervention, with students rating the usefulness of receiving peer feedback at 3.64 and its effect on their interactions at 2.97](peer-evaluation-least-valued-tbl-component.md) — related
+- [Use of Peyton's Method in teaching varies widely, with roughly one quarter of tutors marking each of the four frequency answers](peyton-method-use-frequency-varies.md) — related

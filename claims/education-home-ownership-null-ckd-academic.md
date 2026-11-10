@@ -49,3 +49,4 @@ Discussion of the same multivariable regression results: the education and home-
 - [Children with CKD in the lowest global SES quartile are less likely to show average-or-above parent-rated numeracy and literacy performance than those in the highest quartile](lowest-ses-quartile-poorer-numeracy-literacy-ckd.md) — related
 - [SES–academic performance associations in children with CKD persist after adjusting for potential mediators including comorbidities and CKD duration](ses-academic-robust-to-mediator-adjustment-ckd.md) — related
 - [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — related
+- [Non-academic clinicians misapplied ratio-measure heuristics to sensitivity and specificity confidence intervals](ci-crossing-one-heuristic-transfer-error.md) — related

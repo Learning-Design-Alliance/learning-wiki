@@ -48,3 +48,4 @@ Descriptive statistics (Figure 1) from the cross-sectional survey among the 809 
 ## Related Claims
 - [Service providers with disability-specific IPV routines rarely use them, with most reporting no use in the previous 12 months](low-use-of-disability-specific-ipv-routines.md) — related
 - [Police officers report higher self-perceived competence in providing IPV support to women with disabilities than healthcare workers across regression models](police-officers-higher-self-perceived-competence.md) — related
+- [Trainees report seldom or rarely screening patients for IPV, including patients with IPV-linked conditions](trainees-seldom-screen-ipv.md) — related

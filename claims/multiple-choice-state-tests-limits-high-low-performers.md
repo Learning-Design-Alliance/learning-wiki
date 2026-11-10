@@ -78,3 +78,4 @@ Authors' discussion in the introduction's themes section about state tests, whic
 - [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — a narrower finding that bears on this claim
 - [Clinical evaluators reported that current SMA COAs show ceiling effects in treated infants and floor effects in strong sitters and ambulant individuals](sma-coa-ceiling-floor-effects.md) — a narrower finding that bears on this claim
 - [In its current form the four-item scale may not adequately differentiate students with poor communication skills from those who perform better](cs-scale-poor-differentiation-low-performers.md) — related
+- [The SUN multiple-choice exam showed a ceiling effect after the workshop, limiting item discrimination](sun-mc-exam-ceiling-effect.md) — a narrower finding that bears on this claim

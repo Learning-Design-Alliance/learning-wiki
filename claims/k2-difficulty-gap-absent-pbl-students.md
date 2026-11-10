@@ -65,3 +65,4 @@ Reported proportions of students answering K2-type questions correctly in the tw
 
 ## Related Claims
 - [New-curriculum students scored significantly higher on MCQ examinations than old-curriculum students](pbl-higher-mcq-scores-psychiatry.md) — related
+- [E-learning participants rated the knowledge-question questions as easier and fewer rated them difficult compared with traditional-lecture students](e-learning-group-question-ease-perceptions.md) — related

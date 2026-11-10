@@ -75,3 +75,4 @@ The same synthesis section reports format parameters: most i-RATs closed-book, "
 - [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related
 - [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](tbl-clinical-disciplines-mostly-modified-implementation.md) — related
 - [Participants report that clinical competence assessment in Iranian medical education relies on written and multiple-choice exams rather than performance-based evaluation.](weak-performance-based-assessment-iran.md) — related
+- [PBL students assessed with open-book tests score somewhat higher on core knowledge than PBL students assessed only with closed-book tests](open-book-tests-somewhat-higher-core-knowledge.md) — related

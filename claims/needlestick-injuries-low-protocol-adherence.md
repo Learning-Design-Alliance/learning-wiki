@@ -50,3 +50,4 @@ Supplementary scenario-based findings from the cross-sectional survey (N = 420),
 - [After brief cadaver simulation training, most PA students successfully complete an ultrasound-guided cyst drainage skills test, averaging 1.9 needle sticks and 143 seconds](pa-skills-test-performance-cyst-drainage.md) — related
 - [60.7% of dental students who experienced sharp object injuries did not report them, most commonly because the injury was perceived as minor (44.1%)](majority-injuries-unreported-perceived-minor.md) — related
 - [Before the intervention, most dental students lacked knowledge of correct post-injury response and PEP awareness rose from 40.2% to 92%](pep-knowledge-low-before-intervention-40-to-92.md) — related
+- [CHWs maintained blood-safety practices over 12 months, with no needle-stick injuries observed or reported and only isolated lancet and glove errors](chws-maintain-blood-safety-12-months.md) — related

@@ -50,3 +50,4 @@ Multiple logistic regression model on the retrospective five-year data (Table 3:
 - [One year after a physician awareness-training program, influenza and pneumococcal vaccination uptake in diabetic patients rose to 63.3% and 40.7%](physician-training-raises-diabetic-vaccination-uptake.md) — related
 - [Despite high physician recommendation rates over five years, actual vaccination uptake among diabetic patients remained very low](high-recommendation-low-uptake-gap.md) — related
 - [Patients' own fears and hesitations were the most frequent reported reasons for not receiving influenza and pneumococcal vaccines](patient-fears-main-barrier-vaccination.md) — related
+- [Model scenarios containing women produced lower QALYs than scenarios containing men because higher time with type 2 diabetes offset lower cardiovascular disease](women-scenarios-lower-qalys-higher-t2d.md) — related

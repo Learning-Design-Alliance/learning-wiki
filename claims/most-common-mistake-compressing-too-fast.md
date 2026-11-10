@@ -50,3 +50,4 @@ Descriptive annotation data from the SimPad SkillsReporter across the 11 partici
 - [Feedback device use lowers chest compression rate toward the guideline-recommended range in simulated CPR](truecpr-feedback-lowers-compression-rate.md) — related
 - [Pre-training compression frequency and depth averages fell within AHA ranges, but quality was inadequate because the two parameters rarely occurred simultaneously](compression-frequency-depth-within-range-but-quality-inadequate.md) — related
 - [Sessions with CPR Tutor feedback showed no significant difference in overall mistake frequency compared with control sessions without feedback](cpr-tutor-no-overall-mistake-frequency-reduction.md) — related
+- [Chest compression depth was adequate in a majority (55% in 40–50 mm) while compression rate exceeded the guideline maximum in half of providers](rural-ems-compression-depth-rate.md) — related

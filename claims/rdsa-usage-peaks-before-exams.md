@@ -50,3 +50,4 @@ Log analysis of system usage for the 2023/24 cohort: 132 of 136 students (97%) u
 - [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — related
+- [Health professional students' use of an online learning repository peaks at times of increased academic need such as examinations](repository-usage-peaks-exam-periods.md) — related

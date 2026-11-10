@@ -52,3 +52,4 @@ In this RCT's intergroup comparison, "there were no significant differences betw
 - [Both trained groups (remote and face-to-face) significantly outperformed the untrained control group on procedural performance](trained-groups-outperform-control-chest-tube.md) — related
 - [Students in ultrasound-guided CVC placement training positively evaluated all process-oriented feedback intervention actions, with 70–100% positive responses per action](process-oriented-feedback-positive-student-reaction-cvc.md) — related
 - [Self-guided simulation practice produced checklist and GRS performance equal to coached simulation practice, cautioning against excessive external feedback](self-guided-practice-equals-coached-practice.md) — related
+- [On the global rating scale, all intervention groups except the control improved significantly, and both multimedia-based groups outgained the practical training group](global-rating-scale-multimedia-groups-outgain-practical.md) — related

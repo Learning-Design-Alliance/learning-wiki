@@ -66,3 +66,6 @@ Nationwide survey study of 2113 medical students from all 38 German medical scho
 - [GPA explained less than 5% of variance in most first-two-semester subjects and the NVP, with GPA validity confirmed for some but not all preclinical examinations](gpa-limited-preclinical-prediction.md) — related
 - [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
 - [Neither HAM-Nat nor GPA predicted performance in the ZEK practical examination in any cohort](neither-test-predicts-zek-practical.md) — reports the opposite
+- [A-level correlations with undergraduate and postgraduate performance are higher after correction for right-censoring, since raw correlations are attenuated by range restriction and grade inflation](a-level-right-censoring-attenuates-predictive-correlations.md) — related
+- [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — a narrower finding that bears on this claim
+- [Observed Konkoor validity coefficients may underestimate true validity because they were not corrected for range restriction](konkoor-validity-coefficients-uncorrected-range-restriction.md) — related

@@ -53,3 +53,4 @@ Three-arm RCT of 60 MIS-naive medical students, each group receiving 16 h of tra
 - [The unweighted and weighted A-OSATS scores correlated highly with the general OSATS global rating scale and with each other](a-osats-correlates-with-osats-grs.md) — related
 - [OSATS global rating and error-scale scores changed across stages without statistical significance](vats-osats-error-scale-null-results.md) — related
 - [All OSATS scores increased significantly from pre- to post-course assessment across all six training tasks](osats-scores-increased-all-tasks.md) — related
+- [On the global rating scale, all intervention groups except the control improved significantly, and both multimedia-based groups outgained the practical training group](global-rating-scale-multimedia-groups-outgain-practical.md) — related

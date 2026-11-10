@@ -52,3 +52,4 @@ Chi-square comparison (N = 179 per group) of demographic and degree composition 
 - [Casper performance favors female participants and participants without a migration background, with native language explaining the migration-background effect](casper-german-pilot-subgroup-differences.md) — related
 - [Gender composition differed significantly between the flipped virtual classroom cohort and the other two cohorts](gender-composition-difference-cohorts.md) — related
 - [The integrated selection process broadened admission beyond UAI alone without major socio-demographic changes and with lower year 1 discontinuation rates](integrated-selection-broadened-access-lower-discontinuation.md) — related
+- [Regression-based or constrained-optimization selection can attain targeted racial diversity without large declines in class performance](constrained-optimization-attains-diversity-small-tradeoff.md) — related

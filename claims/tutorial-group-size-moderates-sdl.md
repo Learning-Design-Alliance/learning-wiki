@@ -56,3 +56,4 @@ Review reports Lohman and Finkelstein's pretest–posttest comparison of small, 
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](pbl-promotes-sdl-lectures-deter.md) — related
 - [Higher SDL ability is reported when students work in small groups with peers and an educator rather than one-on-one](small-groups-peers-educator-higher-sdl.md) — related
+- [Prior work found tutor-less PBL comparable to tutor-led PBL in effects on student learning, and earlier tutor-less large-class studies reported improved grades and perceived learning](prior-tutor-less-pbl-studies-positive-effects.md) — related

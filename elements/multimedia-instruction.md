@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 114 claims (71 for, 40 mixed, 3 against) · 92 studies (67 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 19 of 92 report an effect size · 108 claims rest on one study
+> **Evidence** · 117 claims (74 for, 40 mixed, 3 against) · 94 studies (69 causal, 10 quant-synthesis, 9 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 19 of 94 report an effect size · 111 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -150,6 +150,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Gamified interactive multimedia and PowerPoint show modules produce no significant difference in knowledge or competence gain](../claims/im-vs-pps-no-difference-in-gains.md) [~M] — attached 2026-11-09 from Lee Li-Ang et al. (2018), which proposed "Conventional PowerPoint show (PPS) module of narrated video lectures for mobile e-learning".
 - [Overall summative assessment scores did not differ between students by 3MTL usage, though pairwise comparisons favoured heavy users](../claims/podcast-usage-overall-scores-null-pairwise-significant.md) [~W] — attached 2026-11-09 from Prakash S.S. et al. (2017), which proposed "3-MinuTe Lessons (3MTLs): eight audiovisual podcasts of ≤3 minutes as lecture supplements".
 - [In one single-group pre-post study, the number of surgical errors residents committed during selective neck dissection fell from 91 to 41 after exposure to a high definition video teaching module](../claims/hdvm-reduces-surgical-errors-neck-dissection.md) [+W] — attached 2026-11-10 from Mendez Adrian et al. (2014), which proposed "High definition video teaching module (HDVM) for selective neck dissection"; tests this page's relationship.
+- [Medical students taught rhomboid flap design with multimedia CAL software earn higher OSATS checklist scores than students taught with printed text](../claims/cal-checklist-scores-superior-printed-text.md) [+W] — attached 2026-11-10 from de Sena David P. et al. (2013), which proposed "Multimedia CAL software for teaching rhomboid skin flap surgery on mobile platforms"; tests this page's relationship.
+- [Multimedia-based training significantly improves surgical performance of laparoscopic cholecystectomy in a Pelvi-Trainer, with the highest pre-to-post OSATS checklist gain of the four groups](../claims/multimedia-training-improves-laparoscopic-osats-gain.md) [+W] — attached 2026-11-10 from Pape-Koehler Carolina et al. (2013), which proposed "Webop multimedia Internet platform with operation primer for laparoscopic cholecystectomy training"; tests this page's relationship.
+- [In the factorial analysis, multimedia-based training had a significant effect on ΔOSATS (4.6 vs 1.7, p = 0.001) while practical training did not (3.6 vs 2.8, p = 0.38)](../claims/factorial-multimedia-effect-significant-practical-not.md) [+W] — attached 2026-11-10 from Pape-Koehler Carolina et al. (2013), which proposed "Webop multimedia Internet platform with operation primer for laparoscopic cholecystectomy training"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -177,6 +180,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
 - [Create a narrated expert video library of specific surgical techniques coupled with existing workshops and lectures](../strategies/narrated-expert-video-library-surgical-curriculum.md)
 - [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](../strategies/reuse-lecture-slides-interactive-modules-strategy.md)
+- [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](../strategies/parallel-standardized-computer-presentations-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

@@ -50,3 +50,4 @@ Second-phase quasi-experimental comparison with 39 final-year dental students us
 - [Post-shock sequence deficiencies persist regardless of instruction modification](post-shock-sequence-deficiencies-persist.md) — related
 - [Prior training in basic life support or AED use does not guarantee correct AED performance](prior-training-does-not-guarantee-aed-competence.md) — related
 - [No significant sex-related differences in AED performance were observed](no-significant-sex-differences-aed-performance.md) — related
+- [Most rural EMS providers omitted defibrillation safety checks during AED rhythm analysis and before shock delivery](rural-ems-defibrillation-safety-checks-omitted.md) — related

@@ -49,3 +49,4 @@ Second-phase results for 39 students using modified instructions. The article re
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
 - [Prior training in basic life support or AED use does not guarantee correct AED performance](prior-training-does-not-guarantee-aed-competence.md) — related
 - [Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes](rcdp-scenario-testing-mastery-no-modifications.md) — related
+- [Most rural EMS providers omitted defibrillation safety checks during AED rhythm analysis and before shock delivery](rural-ems-defibrillation-safety-checks-omitted.md) — related

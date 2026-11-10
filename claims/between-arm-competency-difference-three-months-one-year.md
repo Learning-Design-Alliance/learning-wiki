@@ -50,3 +50,4 @@ Between-arm Wilcoxon rank sum comparison in the GLASS trial ITT analysis (Table 
 - [After intervention, the control arm achieved significantly more maximum scores in conjunctival suturing than the intervention arm had at the same point](conjunctival-suturing-maximum-score-between-arm-difference.md) — related
 - [Simulation training improved trabeculectomy-specific skills most, while speed showed the lowest scores at every intervention-arm timeline](skill-specific-gains-suturing-versus-speed.md) — related
 - [Vascular simulation training residents score higher on theoretical knowledge tests than conventionally trained residents](st-higher-theoretical-scores-vascular-residents.md) — related
+- [Matched-pair analysis showed large within-person score gains in the intervention arm and score losses in most control participants over the eight-month interval](matched-pair-gains-intervention-arm.md) — related

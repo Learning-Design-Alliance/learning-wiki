@@ -48,3 +48,4 @@ Post-training questionnaire of the 6 simulation participants; usefulness of each
 - [Residents' self-reported comfort with eyelid laceration repair was significantly higher after simulation than before, for both simple and margin-involving lacerations](simulator-comfort-higher-post-simulation-eyelid-laceration.md) — related
 - [Fresh frozen cadaver use in the SIMULATE ureteroscopy curriculum showed no statistically significant performance advantage over non-cadaver cohorts](ffc-no-performance-advantage-simulate.md) — related
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
+- [Residents found mannequins unrealistic in physical characteristics but acknowledged simulation allowed verification of technique](mannequin-realism-technique-verification.md) — related

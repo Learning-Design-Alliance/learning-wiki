@@ -50,3 +50,4 @@ Authors' implementation and interpretive account (type e): the two-factor model 
 - [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related
 - [Anaesthesiology residents rate themselves lower than colleagues and coworkers rate them, while patients give the highest ratings](msf-self-ratings-lower-patients-highest.md) — related
 - [Rater idiosyncrasy accounts for a large share of variance in social-support ratings but little for other TRENT dimensions](rater-idiosyncrasy-social-support-high.md) — related
+- [Exploratory factor analysis supports a two-factor structure (professionalism; interpersonal and communication skills) on five MSF questionnaires and a four-factor structure on the patient questionnaire, accounting for 70–75% of variance](msf-factor-structure-variance-explained.md) — related

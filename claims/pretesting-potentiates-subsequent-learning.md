@@ -68,3 +68,4 @@ The review reports, citing Wissman et al. (2011), a laboratory experiment in whi
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
 - [Generating answers before searching online improves recall of searched information compared with immediate searching](thinking-before-googling-improves-recall.md) — related
+- [Repeated assessments may enhance learning (the testing effect), relevant to medical education assessment](repeated-assessments-testing-effect-medical-education.md) — related

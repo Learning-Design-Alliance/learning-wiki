@@ -47,3 +47,4 @@ Mann–Whitney U comparison of posttraining scores between medical and paramedic
 ## Related Claims
 - [Score improvement after simulation training is significantly higher in the paramedical subgroup than in physicians, except for telestroke and rt-PA treatment knowledge](paramedical-improvement-exceeds-physicians.md) — related
 - [After the curriculum, paramedics' theoretical test performance was comparable to physicians' and significantly higher than medical students'](paramedics-theory-comparable-physicians-better-students.md) — related
+- [Students rate patient educators significantly higher than physician tutors on ten of fourteen instructor evaluation questions](patient-educators-rated-higher-on-instructor-evaluations.md) — related

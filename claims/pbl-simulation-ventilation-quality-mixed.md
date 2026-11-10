@@ -68,3 +68,4 @@ Tidal-volume secondary endpoint from the manikin data at skill assessment and fo
 - [PBL combined with high-fidelity simulation leads to a higher rate of immediately performed guideline-conform CPR than classical CPR training in medical students](pbl-high-fidelity-simulation-increases-immediate-cpr-competence.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [After BLS training, students fail to meet AHA ventilation guidelines: fewer than half of ventilations deliver adequate tidal volume and missed ventilations average 2.2 per cycle](bls-training-ventilation-inadequate.md) — related
+- [Tidal volumes delivered by rural EMS providers during simulated CPR significantly exceeded the recommended maximum of 600 ml](rural-ems-tidal-volume-exceeded-600ml.md) — related

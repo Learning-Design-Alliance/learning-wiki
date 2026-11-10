@@ -69,3 +69,4 @@ In the standardized ED workflow optimization simulation scenario used for educat
 - [QBI conditions showed significantly higher learning engagement, perceived interaction, and course satisfaction than the control, with large effect sizes and no differences between platforms](qbi-engagement-interaction-satisfaction-gains.md) — related
 - [Students' engagement in the MindTap learning platform increased significantly across logins, time spent, and engagement score after the persuasive intervention was introduced.](mindtap-engagement-increased-during-intervention.md) — related
 - [Older adults logged into the platform significantly more often than young-old adults during the intervention week](epa-coach-usage-logins-older-adults.md) — related
+- [eCase students logged into the learning platform significantly more often than eBook students (2.8 vs 1.6 logins)](ecase-more-logins-than-ebook.md) — related

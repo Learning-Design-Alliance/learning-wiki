@@ -52,3 +52,4 @@ Pearson correlation analysis in the same retrospective dataset of 290 students; 
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
 - [MCAT scores and USGPA correlate with academic outcomes and alter LASSI correlations when controlled](mcat-usgpa-control-effects-on-lassi-correlations.md) — related
 - [MCAT scores correlate positively with examination performance but not with strength of motivation](mcat-predicts-exams-not-motivation.md) — related
+- [MCAT and undergraduate GPA are valid, reliable predictors of medical school performance, and a composite of the two is the best predictor](mcat-gpa-valid-predictors-medical-school.md) — a broader claim this one bears on

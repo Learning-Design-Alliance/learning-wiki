@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (90 show a difference, 26 mixed, 10 no difference) · 98 studies (38 associational, 18 causal, 15 review, 9 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 98 report an effect size · 121 claims rest on one study
+> **Evidence** · 127 claims (90 show a difference, 27 mixed, 10 no difference) · 99 studies (38 associational, 19 causal, 15 review, 9 qualitative, 8 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 8 of 99 report an effect size · 122 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -170,6 +170,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [The cohort with access to online e-learning material scored on average 2.08% higher on the SNQ examination than the cohort without access](../claims/elearning-snq-grade-2-08-percent-higher.md) [+M] — learners who differ on it differ in outcomes
 - [The cohort with access to online e-learning material scored on average 5.57% higher on the MCQ examination than the cohort without access](../claims/elearning-mcq-grade-5-57-percent-higher.md) [+M] — learners who differ on it differ in outcomes
 - [Deaf Community Capital, Asking for Accommodations, and Communication Access scores are highest when mentors are deaf or familiar with the Deaf community](../claims/mentor-familiarity-raises-three-dms-factors.md) [+M] — measured as an outcome of the instruction studied
+- [Non-participation in the e-learning course was attributed mainly to commuting time, heavy study load, missed deadlines and lack of internet access, and 62% wished to participate in future](../claims/non-participation-causes-and-future-wish.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

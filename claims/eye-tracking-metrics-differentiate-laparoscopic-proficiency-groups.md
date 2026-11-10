@@ -74,3 +74,4 @@ One-way Welch ANOVA across the three novice clusters and the expert group in the
 - [Mixed-reality feedback condition did not significantly affect novices' visual attention or mental workload during laparoscopic training](mr-feedback-no-significant-effect-attention-workload.md) — related
 - [A sensor-based objective metric framework differentiates novice from intermediate microsurgeons in line with ALI-based subjective assessment](sensor-metrics-differentiate-microsurgery-proficiency.md) — related
 - [The authors interpret early-stage laparoscopic skill improvement as reallocation of mental resources from the secondary task to the primary surgical task](early-stage-improvement-resource-reallocation.md) — related
+- [Fresh frozen cadaver training shows construct validity: experts scored significantly higher than novices on 4 of 5 laparoscopic tasks](ffc-training-construct-validity-four-of-five-tasks.md) — related

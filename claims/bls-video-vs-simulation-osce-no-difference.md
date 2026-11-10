@@ -63,3 +63,4 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [Tablet-based video training produced MCQ knowledge gains comparable to traditional in-person training among community health workers in rural Uganda](tablet-training-comparable-mcq-gains-chws.md) — related
 - [The OSCE advantage from standardized-patient training does not transfer to an unrelated resuscitation (ACLS) scenario](standardized-patients-no-acls-transfer.md) — related
 - [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related
+- [Post-workshop knowledge scores did not differ significantly between simulation-based and traditional case-based CME workshops](simulation-vs-traditional-cme-no-knowledge-difference.md) — related

@@ -47,3 +47,4 @@ Results-section analysis of question quality by gender, illustrated in Fig. 1, a
 ## Related Claims
 - [Male students verbally participate more than female students in life sciences courses, with 32% of males versus 22% of females participating at least once per class](males-participate-more-than-females-life-sciences.md) — related
 - [Misconceptions showed no gender difference but were found only in medical students’ questions, not biomedical science students’ questions](misconceptions-discipline-and-gender-pattern.md) — reports the opposite
+- [The interim assessment benefit did not differ by gender or study discipline, though females and medical students scored higher overall](interim-assessment-effect-uniform-across-subgroups.md) — related

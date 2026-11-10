@@ -69,3 +69,4 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [Learner–learner interaction was perceived as significantly more work than learner–content interaction in an online asynchronous undergraduate course](learner-learner-interaction-perceived-more-work-than-learner-content.md) — related
 - [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](cooperative-program-social-skill-development-observation.md) — related
 - [The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning](ctbl-contradicts-ab-raza-islamic-countries-claim.md) — related
+- [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related

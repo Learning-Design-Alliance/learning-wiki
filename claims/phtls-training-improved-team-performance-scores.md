@@ -48,3 +48,4 @@ Validation review of 36 videos from three measuring points (t0, t1, t2) of a two
 - [Trauma-care procedures were performed faster after PHTLS training and remained faster one year later](phtls-training-faster-procedures.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Primary assessment performance declines significantly between the end of the course and 3–4 months later, but remains above the pre-course level](abcde-performance-declines-but-remains-above-baseline.md) — related
+- [Procedural skill performance declines in nearly all students within 3 to 6 months regardless of teaching method](skill-decline-nearly-all-students.md) — related

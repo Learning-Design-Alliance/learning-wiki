@@ -61,3 +61,4 @@ Review's retention-period synthesis: in Aqel et al. (first-year nursing students
 - [BCLS knowledge and skills scores rise over time in both groups after lecture and simulation training](bcls-scores-ascending-trend-both-groups.md) — a narrower finding that bears on this claim
 - [CBT plus high-fidelity simulation significantly improved nurses' sepsis knowledge immediately after the intervention, but the improvement was not sustained at 90 days](cbt-hfs-improved-sepsis-knowledge-not-sustained-90-days.md) — reports the opposite
 - [No statistically significant reduction in CPR knowledge or skills was detected between six and nine months after the first training](cpr-no-significant-decline-six-to-nine-months.md) — related
+- [Training gains were not maintained at three-month follow-up, with no significant carry-forward differences between groups and deterioration in many outcome scores](no-carry-forward-effect-three-months.md) — reports the opposite

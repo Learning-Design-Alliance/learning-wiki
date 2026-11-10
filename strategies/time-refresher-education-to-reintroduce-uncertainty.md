@@ -59,6 +59,7 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Schedule remedial training at intervals scaled to procedure complexity, frequency, and consequence severity](remedial-training-interval-strategy.md)
 - [Investigate optimal integration of periodic breaks, interspersed test questions, spaced learning intervals, and video length in video-based e-learning](optimize-breaks-questions-spacing-video-length-elearning.md)
 - [Teach an early, actively delivered learning-strategies module in medical school with spaced follow-up modules](spaced-learning-to-learn-module-medical-school.md)
+- [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 
 ## Examples
 -

@@ -97,6 +97,7 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 - [Use iterative resident feedback to identify modifiable delivery barriers and make targeted, low-resource curriculum adaptations between iterations](iterative-feedback-curriculum-adaptation-strategy.md)
 - [Plan multifaceted feedback combining corrective and cognitive feedback, expert worksheet models, and peer observation under rubrics](planned-corrective-cognitive-feedback-case-flipped.md)
 - [Introduce a two-step peer assessment process so students can act on feedback between assessments](two-step-peer-assessment-process.md)
+- [Incorporate automated skills testing as formative assessment in an adaptive learning cycle with repetitive testing](automated-testing-adaptive-learning-cycle.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.

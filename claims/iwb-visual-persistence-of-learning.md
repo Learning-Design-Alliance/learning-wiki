@@ -66,3 +66,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — related
+- [Knowledge persists 4 weeks after a single presentation, but the visual causal model advantage does not and memory drops substantially](retention-decays-visual-advantage-does-not-persist.md) — related

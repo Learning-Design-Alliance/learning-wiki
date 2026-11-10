@@ -48,3 +48,4 @@ Authors' interpretation (not a tested result) in the Discussion, citing external
 - [The exam-score advantage of peer-led teaching session attendees did not extend to the second organ-systems-physiology examination](plts-advantage-not-significant-physiology-exam.md) — related
 - [First-year medical students who attended at least five peer-led teaching sessions scored significantly higher on the first basic-sciences NBME exam than non-attendees, by 4.28% on average](plts-attendees-higher-basic-science-exam-428-percent.md) — related
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
+- [The beginning-of-term attendance peak is attributed by the authors to self-directed learning processes rather than the assessment effect](term-start-peak-self-directed-learning.md) — related

@@ -54,3 +54,4 @@ Quasi-experimental single-group pre-test–post-test study of 45 medical student
 - [A non-study-related internal medicine assessment showed no between-group differences, arguing against a Hawthorne effect explanation](internal-medicine-control-hawthorne-effect.md) — related
 - [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](flipped-classroom-higher-emergency-osce-total-score.md) — related
 - [Knowledge-test scores improved for emergency medical knowledge (60% to 72%) and CB-EMS knowledge (2% to 40%), while language skills stayed high (94% to 95%)](knowledge-test-gains-cb-ems.md) — related
+- [Pre- and post-tests were validated as comparable in difficulty using a reference group of emergency medicine interns](reference-group-test-difficulty-validation.md) — related

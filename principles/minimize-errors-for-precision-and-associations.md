@@ -18,7 +18,7 @@ sources:
 # Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 24 studies (7 causal, 7 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (10 for, 8 mixed) · 25 studies (8 causal, 7 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Learners, tasks and outcomes differ across these claims (pigeons, students with 
 
 - [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](../claims/trainee-experience-moderates-aiding-transfer.md) [~W]: fault-diagnosis trainees in an FAA certificate programme; whether practice with aids carried over to unaided work differed by trainee experience. It bears on removing support (cues, aids) on the way to unaided precision, in a different task; not yet read against this model.
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](../claims/errors-as-feedback-fossilization-risk.md) [~W]: an interpretive article on error analysis in EFL teaching, with no data: errors show the teacher what remains to learn, and unhandled ones may become fixed. It bears on correcting errors at once, as an argument only.
+- [Computer-assisted errorless learning memory training produced significant within-group improvements in general cognition, dementia rating, and prospective memory in patients with early Alzheimer's disease](../claims/celp-within-group-cognitive-gains-early-alzheimers.md) [+W] — attached 2026-11-10 from Lee Grace Y et al. (2013), which proposed "Use errorless learning rather than errorful trial-and-error methods when teaching learners with acquired memory deficits who cannot self-correct errors".
 
 ## Objective and learner-valued goal
 

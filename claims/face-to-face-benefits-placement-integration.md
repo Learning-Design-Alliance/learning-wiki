@@ -75,3 +75,4 @@ The review reports, citing the included studies, that the online tool showed les
 - [Non-traditional clinical placements (Recovery Camp) reduce stigma more than typical placements](recovery-camp-reduces-stigma-more-than-typical-placement.md) — related
 - [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — related
 - [Most participating clinical educators agree simulation activities should count toward practice education hours, while indicating the bulk of hours should remain in the clinical environment.](sbe-count-toward-clinical-hours.md) — related
+- [Students rated the Physiotherapy eSkills Training Online resource as very useful for learning practical skills](eskills-resource-high-student-usefulness-ratings.md) — related

@@ -84,6 +84,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 **[National Center for Case Study Teaching in Science](https://sciencecases.lib.buffalo.edu/)** — Peer-reviewed science cases (e.g., on genetics, epidemiology) with teaching notes, used in undergraduate STEM courses.
 
 **[Problem-based medical curricula](https://pmc.ncbi.nlm.nih.gov/articles/PMC200047/)** — Patient cases (e.g., at McMaster and Maastricht) that drive small-group learning of biomedical science.
+- [Use small-group task-based learning with case scenarios and hands-on laboratory procedures to teach integration in practical classes](../strategies/ilc-small-group-task-based-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

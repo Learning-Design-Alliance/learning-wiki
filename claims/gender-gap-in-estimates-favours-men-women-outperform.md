@@ -50,3 +50,4 @@ Gender comparison of estimated and actual scores in the cross-sectional study of
 - [Non-UK-trained doctors overestimated their knowledge test performance relative to UK-trained doctors, while UK-trained doctors outperformed non-UK-trained doctors on the OSCE](pmq-region-estimates-versus-actual-performance.md) — related
 - [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](pre-exam-anxiety-no-score-link-gender-difference.md) — related
 - [Only about a third of students correctly estimated their OSCE performance, and self-assessment correlated only weakly with actual score (r=0.26)](self-assessment-overestimation-osce-r-026.md) — related
+- [Gender-stratified analyses showed only marginal differences: women reported slightly higher significant learning progress only on confidence in approaching new patients (0.8 vs 0.5, p=.032)](gender-differences-marginal-communication-gains.md) — related

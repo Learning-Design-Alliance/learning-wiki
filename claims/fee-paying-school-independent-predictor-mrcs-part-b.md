@@ -51,3 +51,4 @@ Multivariate logistic regression in the Part B cohort (final model N = 1125) adj
 - [Being a non-graduate on entry to medicine independently predicts first-attempt success at both MRCS Part A (OR 1.98) and Part B (OR 1.77)](non-graduate-independent-predictor-mrcs.md) — related
 - [Being male is an independent predictor of passing MRCS Part A at the first attempt after adjusting for prior academic attainment and all sociodemographic factors (OR 2.34)](male-independent-predictor-mrcs-part-a.md) — related
 - [Students attending fee-paying schools performed significantly more weakly on EPM decile, EPM total and UKFPO total, but not the SJT, than those attending other school types](fee-paying-schools-weaker-epm-ukfpo-not-sjt.md) — related
+- [Demographic and schooling background measures independently predict first-year outcome after educational attainment is taken into account](background-measures-independently-predict-medical-outcome.md) — related

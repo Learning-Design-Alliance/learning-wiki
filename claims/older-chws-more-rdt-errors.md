@@ -51,3 +51,5 @@ GEE modelling of error counts across baseline and 12-month observations for 103 
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
 - [Age is significantly associated with leaders' ICT use, with younger nurse leaders more able than older counterparts](age-associated-ict-use-nurse-leaders.md) — related
 - [Female gender, age 65 years or older, colorectal cancer, diverticular disease and stricture are associated with colonoscopy incompletion in trainees' procedures](patient-factors-colonoscopy-incompletion.md) — related
+- [CHWs maintained blood-safety practices over 12 months, with no needle-stick injuries observed or reported and only isolated lancet and glove errors](chws-maintain-blood-safety-12-months.md) — related
+- [Time since training and CHW age were significantly associated with perfect performance on critical RDT steps in GEE regression](time-and-age-predict-critical-step-perfection.md) — related

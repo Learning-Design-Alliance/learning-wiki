@@ -48,3 +48,4 @@ The editorial reports, citing Lampe, Wohn, Vitak, Ellison and Wash, a sequence o
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — a broader claim this one bears on
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Teachers perceived students as intensive social-network users but unprepared to use digital technologies for learning and professional purposes](students-social-networks-but-unprepared-learning-tools.md) — related
+- [StudiVZ/MeinVZ declined sharply as Facebook overtook it, illustrating the volatility risk of building curricular projects on external Web 2.0 platforms](studivz-decline-platform-volatility-risk.md) — related

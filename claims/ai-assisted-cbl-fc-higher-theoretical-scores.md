@@ -61,3 +61,4 @@ Randomized controlled trial of 50 residents (n=25 per group) at a single centre.
 - [BOPPPS-CBL teaching produces higher post-class chest pain test scores than lecture-based learning among resident physicians](boppps-cbl-higher-post-class-test-scores-residents.md) — related
 - [Both case-based learning and traditional lecture significantly increase residents' knowledge of research integrity, with no significant difference between the two methods](cbl-and-lecture-both-improve-residents-research-integrity-knowledge.md) — reports the opposite
 - [No significant difference among CBL, lecture, and reflection groups in patient safety knowledge after the intervention](no-between-group-knowledge-difference-patient-safety.md) — related
+- [Both intervention groups (interactive and reproductive) outperform a no-intervention control group on the anatomy post-test](intervention-groups-outperform-control-anatomy.md) — related

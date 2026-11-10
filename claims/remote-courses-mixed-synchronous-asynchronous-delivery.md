@@ -54,3 +54,4 @@ Table 1 of the national student survey (n = 1,008) reports delivery mechanisms: 
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — a narrower finding that bears on this claim
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — related
 - [Students in a large analytical chemistry course preferred synchronous videoconference lectures over pre-recorded asynchronous lectures](students-prefer-synchronous-lectures-large-course.md) — related
+- [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related

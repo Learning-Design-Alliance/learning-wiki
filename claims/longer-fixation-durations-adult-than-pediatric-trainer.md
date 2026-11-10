@@ -68,3 +68,4 @@ Figure 7 heatmaps for two novices under both trial orders visually corroborate t
 - [Eye-tracking and mental workload metrics differentiate novice proficiency groups and distinguish them from expert performance in laparoscopic peg transfer training](eye-tracking-metrics-differentiate-laparoscopic-proficiency-groups.md) — related
 - [Mixed-reality feedback condition did not significantly affect novices' visual attention or mental workload during laparoscopic training](mr-feedback-no-significant-effect-attention-workload.md) — related
 - [Trial order affects mental workload: novices who started with the pediatric trainer had higher pupil diameter than those who started with the adult trainer](trial-order-pediatric-first-higher-pupil-diameter.md) — related
+- [Experts show longer fixation durations only in ELN videos, with no overall expertise main effect](fixation-duration-expertise-video-interaction.md) — related

@@ -72,6 +72,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Combine preprocedural online didactics, video demonstration, case-based learning, and simulation to address both cognitive and psychomotor procedural learning](comprehensive-multimodal-procedure-education-package.md)
 - [Implement the teach-and-question assignment with brief in-class training, example videos, partner-finding support, required audio recordings, and scattered instructor feedback](tq-implementation-strategy.md)
 - [Combine interactive virtual patient preparation with standard hands-on simulation training for procedural skills](vp-blended-preparation-before-skills-training.md)
+- [Provide cognitive training (live demonstration plus reference DVD) before cadaver-based technical skills practice](cognitive-training-precedes-cadaver-technical-practice.md)
 
 ## Examples
 -

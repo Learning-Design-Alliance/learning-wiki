@@ -53,3 +53,5 @@ Exit questionnaires with 15 closed questions on cognitive and affective states (
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related
 - [Final-semester medical students reported that a primary care virtual patient supported self-directed learning and stimulated reflection](vp-primary-care-supports-self-directed-learning-student-reports.md) — related
+- [Most students rated the combination of virtual patients and teaching events positively as a worthwhile learning experience](students-rate-vp-integration-positively.md) — related
+- [Most participating clinicians rated the virtual patient as better than paper cases for training](vp-rated-better-than-paper-cases.md) — related

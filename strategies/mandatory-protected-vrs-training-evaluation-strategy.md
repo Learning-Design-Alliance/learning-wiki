@@ -46,6 +46,7 @@ Because voluntary uptake of the VRS curriculum was poor, the authors argue futur
 
 - [Integrate SBE mandatorily into neurosurgery curricula with protected time alongside clinical rotations](strategic-sbe-integration-protected-time.md)
 - [Improve announcements and cross-link related e-learning to increase voluntary uptake of an e-learning supplement](announcements-and-crosslinking-boost-elearning-uptake.md)
+- [Motivate students and lower access barriers when integrating voluntary virtual patients into a course](motivate-students-voluntary-vp-integration.md)
 
 ## Examples
 -

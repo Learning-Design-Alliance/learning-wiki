@@ -56,3 +56,5 @@ The review reports a randomized controlled trial comparing VR-trained and non-VR
 - [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related
 - [VR training produced more efficient radiography students with fewer errors and faster diagnostic imaging than traditional simulation training](vr-training-more-efficient-fewer-errors-radiography.md) — related
 - [IVR-trained residents made fewer critical procedural errors in guide pin insertion, glenoid reaming, and baseplate sizing than video-trained controls](ivr-training-fewer-critical-errors-rsa.md) — related
+- [Multimedia-based training significantly improves surgical performance of laparoscopic cholecystectomy in a Pelvi-Trainer, with the highest pre-to-post OSATS checklist gain of the four groups](multimedia-training-improves-laparoscopic-osats-gain.md) — related
+- [In the full virtual cholecystectomy task, Wii training reduced perforations and unsafe cautery compared with controls](wii-training-reduces-cholecystectomy-errors.md) — related

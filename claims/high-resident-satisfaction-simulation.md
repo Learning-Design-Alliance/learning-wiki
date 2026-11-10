@@ -64,3 +64,4 @@ Post-simulation reaction survey (Kirkpatrick level 1) completed anonymously by 2
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Students rated the educational card game very satisfactory overall (mean 4.29), with usefulness rated highest](card-game-very-satisfactory-ratings.md) — related
+- [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related

@@ -55,3 +55,5 @@ Retrospective cohort analysis of 349 admitted students. Pearson correlations com
 - [Admission test scores (TMS and HAM-Nat) predict preclinical academic performance in German medical students, with correlations between 0.23 and 0.48 after range-restriction correction](tms-hamnat-predict-preclinical-performance.md) — related
 - [Compared with published evidence on other admissions tests, BMAT seems less useful than comparable tools such as UCAT, UMAT, MCAT and GAMSAT](bmat-less-useful-than-comparable-admissions-tests.md) — related
 - [Total pre-admission public performance score shows no linear correlation with overall first-OSCE results](total-performance-score-no-linear-correlation-osce.md) — related
+- [College admission tests, including the MCAT, do not exhibit significant racial bias in prediction of medical school performance](admission-tests-no-prediction-bias.md) — related
+- [Alternate pre-admission measures cannot remediate minority underrepresentation because no valid alternate format eliminates subgroup differences and composites dilute predictive validity](alternate-measures-cannot-remediate-underrepresentation.md) — related

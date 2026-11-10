@@ -47,3 +47,4 @@ Post-hoc analysis of the Group × ROI interaction on mean fixation duration (F (
 ## Related Claims
 - [Experts fixate the perineal region significantly more often than novices, with no other ROI showing a group difference in fixation number](experts-fixate-perineal-region-more.md) — related
 - [Expert anesthetists make more total fixation points than residents while viewing a simulated PPH video](experts-more-fixation-points-pph-video.md) — related
+- [Experts show longer fixation durations only in ELN videos, with no overall expertise main effect](fixation-duration-expertise-video-interaction.md) — related

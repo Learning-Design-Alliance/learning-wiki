@@ -43,6 +43,7 @@ The review recommends that future research in communication skills training for 
 - [Adopt cluster-randomised or stepped-wedge trial designs with blinded, video-based assessment and pre-defined process and patient endpoints in future NTS training research.](future-nts-research-design-recommendations.md)
 - [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
 - [Prioritize randomized controlled trials, established validity frameworks, and protocol publication in future VRS simulation research](future-vrs-simulation-research-recommendations.md)
+- [Use standardised, repeated tutor behavioural observations throughout training to assess professional behaviours](repeated-tutor-behavioural-observations.md)
 
 ## Examples
 -

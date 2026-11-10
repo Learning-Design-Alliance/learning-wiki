@@ -47,3 +47,4 @@ Student-reported ratings of current teaching methods in the 234-student survey (
 ## Related Claims
 - [Patient's opposite sex was the most commonly reported barrier to both intimate-area examination and sexual history taking](opposite-sex-greatest-iae-sht-barrier.md) — related
 - [About one-third of students were unsatisfied with current IAE and SHT teaching methods](student-dissatisfaction-current-iae-sht-teaching.md) — related
+- [Skills-laboratory-only students report that manikin-based practice differs substantially from performing procedures on real patients.](manikin-patient-gap-procedural-skills.md) — related

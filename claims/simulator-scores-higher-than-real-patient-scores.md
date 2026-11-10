@@ -50,3 +50,4 @@ Secondary-outcome comparison (Table 4) in the RCT; the authors attribute the gap
 - [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related
 - [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — related
 - [Experts and residents support early objective simulation-based assessment in years 2-3 as a safeguard and learning accelerator](early-simulation-assessment-years-2-3-support.md) — related
+- [Self-reported comfort in evaluating a pregnant patient with shortness of breath increased significantly in both workshop groups](comfort-evaluating-increased-both-groups.md) — related

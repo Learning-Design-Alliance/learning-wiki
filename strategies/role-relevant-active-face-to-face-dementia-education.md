@@ -46,6 +46,7 @@ This strategy directs program designers to tailor dementia education to what par
 - [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
 - [Make dementia workforce education and training cost-effective and evaluate its costs](dementia-training-cost-effectiveness-strategy.md)
 - [Personalize e-learning content through an entry customization questionnaire and organize topics in graduated complexity levels](customization-questionnaire-personalized-content-strategy.md)
+- [Introduce systematic dementia-specific education or training for all health care staff, including support staff](systematic-dementia-specific-education-all-staff.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Third theme in the Results section. Panelists highlighted accountability, time m
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [The consensus core competencies align with competencies emphasized in prior national and international studies](core-competencies-align-prior-studies.md) — related
+- [Stream 1 trainees must master core competencies spanning KT models, synthesis, research methods, and KT intervention development](stream1-core-competencies-mrc-kta.md) — related

@@ -49,3 +49,4 @@ This is the authors' interpretive argument in the mentor–mentee relationships 
 - [Mentors from marginalised groups are asked to perform disproportionally more mentoring than scholars from privileged backgrounds](minority-mentors-disproportionate-mentoring-load.md) — related
 - [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](sl-duration-and-mentor-moderators.md) — related
 - [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](mentoring-coaching-reduce-teacher-attrition.md) — related
+- [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](assigned-mentors-superficial-relationship.md) — related

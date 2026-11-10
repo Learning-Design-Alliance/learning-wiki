@@ -52,3 +52,5 @@ Clinical examinations using Silness & Löe plaque and gingival indices at baseli
 - [Both educational methods significantly improved oral health knowledge and reduced plaque and gingival scores within clusters over 12 weeks.](both-methods-improved-knowledge-and-oral-hygiene.md) — related
 - [One-time OHE produced significant but limited improvements: knowledge and gingivitis-prevention behavior improved but oral cancer prevention behavior and oral hygiene status did not](one-time-ohe-limited-effects.md) — related
 - [Gingival health and caries did not differ between the EL and TL groups; caries increased significantly in both groups at 18 months](gingivitis-caries-no-group-differences.md) — related
+- [Computer-based Fones training yields a significant group×time interaction for gingivitis in a randomized controlled trial](fones-cbt-gingivitis-interaction.md) — related
+- [Fones training effects on skills and gingivitis persist across 6, 12, and 28 weeks, while Bass never differs significantly from control](fones-effects-persist-bass-null.md) — related

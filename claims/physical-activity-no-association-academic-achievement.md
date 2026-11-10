@@ -60,3 +60,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Academic achievement of overweight or obese fourth graders was similar to average-weight peers](overweight-status-similar-achievement-fourth-graders.md) — related
 - [MVPA at 14.5y is not significantly associated with GCSE academic performance at 16y in British adolescents](mvpa-not-associated-gcse-performance.md) — related
 - [The negative association between vigorous-intensity physical activity and academic performance disappears after adjusting for school fixed effects](vigorous-activity-association-school-fixed-effects.md) — related
+- [The A + PAAC trial will test cognitive function, cardiovascular fitness, daily physical activity, BMI and attention-to-task as potential mediators of any achievement effect](a-paac-mediator-measures.md) — related

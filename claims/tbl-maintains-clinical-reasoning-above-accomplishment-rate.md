@@ -48,3 +48,4 @@ Within-group repeated-measure analysis across the three measurement points in th
 - [TBL students report significantly higher classroom engagement than LBL students across all three class sessions](tbl-higher-classroom-engagement-than-lbl.md) — related
 - [Midwifery students taught postpartum hemorrhage via team-based learning show significantly higher clinical reasoning scores than lecture-based learning students at post-test and 2 weeks post-test](tbl-higher-clinical-reasoning-than-lbl-midwifery.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
+- [TBL scores continue improving 48 hours later while passive learning scores peak then drop](tbl-continued-improvement-48-hours-passive-learning-declines.md) — related

@@ -53,7 +53,8 @@ The article recommends that where PPBL implementation is time-consuming and tuto
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](../claims/nurse-educator-workload-time-barrier-pbl.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Adopt tutor-less PBL in large classrooms where funding or time constraints prohibit tutor-led small-group PBL](adopt-tutor-less-pbl-where-tutors-infeasible.md)
 
 ## Examples
 -

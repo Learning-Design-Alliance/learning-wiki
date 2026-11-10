@@ -55,3 +55,4 @@ FGD thematic analysis found students valued PBL's group dynamics and pacing, wit
 - [Students perceived TBL as requiring more individual preparation and effort and more lecturer involvement than PBL](tbl-perceived-needing-preparation-and-facilitation.md) — related
 - [Student preference for TBL over traditional lectures improved significantly after the intervention but remained one of the lowest-rated survey items](tbl-preference-improved-but-still-low.md) — related
 - [Medical students perceived clinician facilitation and the standardised TBL structure as providing more reliable guidance than their variable PBL tutor experiences](tbl-clinician-facilitation-guided-learning-perception.md) — reports the opposite
+- [Students report high engagement with TBL and most prefer it to conventional tutorials](tbl-high-engagement-preferred-over-tutorials.md) — related

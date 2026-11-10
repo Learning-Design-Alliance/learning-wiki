@@ -59,3 +59,6 @@ Retrospective cohort analysis of 349 admitted students with MCAT scores at a sin
 - [Correlations between individual students' MCAT and Step 1 scores were low (averaging 0.17)](low-mcat-step1-correlation-msm.md) — related
 - [US medical school admission is highly competitive, with 53,029 applicants and 21,025 matriculants in 2016 (39.6% acceptance rate), and MCAT scores show limited predictive validity](us-admission-acceptance-rate-mcat-validity.md) — related
 - [Predictive validity of the trial-studying test does not differ significantly from that of high school mean grades for first-year performance measures](trial-studying-predictive-validity-equals-high-school-grades.md) — related
+- [College admission tests, including the MCAT, do not exhibit significant racial bias in prediction of medical school performance](admission-tests-no-prediction-bias.md) — related
+- [Alternate pre-admission measures cannot remediate minority underrepresentation because no valid alternate format eliminates subgroup differences and composites dilute predictive validity](alternate-measures-cannot-remediate-underrepresentation.md) — related
+- [MCAT and undergraduate GPA are valid, reliable predictors of medical school performance, and a composite of the two is the best predictor](mcat-gpa-valid-predictors-medical-school.md) — reports the opposite

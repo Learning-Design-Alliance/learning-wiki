@@ -54,3 +54,4 @@ Synthesis across the review's 30 included studies. The review reports "Female st
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
 - [Female students were more ethically sensitive than male students regardless of educational context group](females-more-ethically-sensitive.md) — related
 - [Female students score higher on empathy than male students in both teaching groups before and after class](female-higher-empathy-both-groups.md) — a narrower finding that bears on this claim
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

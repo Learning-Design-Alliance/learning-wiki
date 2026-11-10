@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (52 for, 22 mixed, 2 against) · 87 studies (51 causal, 14 review, 9 quant-synthesis, 7 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 87 report an effect size · 66 claims rest on one study
+> **Evidence** · 78 claims (54 for, 22 mixed, 2 against) · 88 studies (52 causal, 14 review, 9 quant-synthesis, 7 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 88 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Operator validity rates improve most over the first 10 Fibroscans, with a 10-fold increase in scans performed significantly improving the odds of a valid LSE](../claims/fibroscan-learning-curve-first-10-scans.md) [+W] — attached 2026-11-10 from Armstrong M J et al. (2013), which proposed "Give novice Fibroscan operators a supervised period incorporating a minimum of 10 scans on patients before independent use".
 - [Medical students randomized to access a lower limb examination video were more often rated globally competent than students without video access](../claims/lle-video-access-improves-global-competence-osce.md) [+W] — attached 2026-11-10 from Hibbert Emily J et al. (2013), which proposed "Use high-quality video demonstrations as an adjunct to face-to-face clinical skills teaching in a blended learning format".
 - [Medical students randomized to access a diabetes history-taking video were more often rated globally competent than students without video access](../claims/dmh-video-access-improves-global-competence-osce.md) [+W] — attached 2026-11-10 from Hibbert Emily J et al. (2013), which proposed "Use high-quality video demonstrations as an adjunct to face-to-face clinical skills teaching in a blended learning format".
+- [Skills laboratory training of IV cannulation yields better video-assessed clinical performance than bedside teaching in first-year medical students](../claims/skills-lab-iv-cannulation-transfer-superior-video-ratings.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
+- [Skills laboratory training shortens the time needed for successful IV cannulation on a patient compared with bedside teaching](../claims/skills-lab-training-shorter-cannulation-time.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

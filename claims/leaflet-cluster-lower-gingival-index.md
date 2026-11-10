@@ -47,3 +47,4 @@ Between-cluster gingival index comparison in the cluster-randomized trial: Leafl
 ## Related Claims
 - [Both educational methods significantly improved oral health knowledge and reduced plaque and gingival scores within clusters over 12 weeks.](both-methods-improved-knowledge-and-oral-hygiene.md) — related
 - [In a cluster-randomized trial among Syrian schoolchildren aged 10–11, the leaflet cluster achieved significantly better oral health knowledge than the E-learning cluster at 6 and 12 weeks, with a higher knowledge gain.](leaflet-cluster-better-knowledge-than-e-learning.md) — related
+- [MPI group effects hold for both approximal and cervical gingival-margin sections, but approximal differences are not significant at 28 weeks](mpi-approximal-cervical-section-effects.md) — related

@@ -54,3 +54,4 @@ Pearson correlation analyses within the cluster-RCT using self-reported time on 
 - [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related
 - [The game group spent roughly three times more self-reported learning time than the e-module group, with no association between learning time and outcomes](game-group-longer-learning-time-no-outcome-association.md) — related
 - [Post-patient encounter form completion correlates with assessment scores, so PPEF scores were not compared between groups](ppef-completion-correlates-with-proficiency.md) — a narrower finding that bears on this claim
+- [In the TEL group, neither number of lectures attended nor time spent on e-learning modules correlates significantly with examination results](no-correlation-attendance-or-module-time-with-exam.md) — related

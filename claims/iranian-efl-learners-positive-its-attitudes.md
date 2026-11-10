@@ -47,3 +47,4 @@ Descriptive analysis of the researcher-designed 21-item Likert questionnaire plu
 ## Related Claims
 - [SRL through an intelligent tutoring system significantly improves EFL learners' speaking ability compared with traditional instruction](srl-its-improves-efl-speaking.md) — related
 - [Traditional Iranian speaking instruction produced no significant short-term or long-term speaking gains](traditional-speaking-instruction-no-gains.md) — related
+- [Most students expressed positive attitudes toward ILC tasks, integration, and laboratory procedures](ilc-positive-student-perceptions.md) — related

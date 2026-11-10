@@ -46,6 +46,7 @@ Because gaps between what learners want to communicate and what they can communi
 ## Related Strategies
 
 - [Learning Menus](learning-menus.md)
+- [Treat the consensus competency and practice list as a menu of options and invest in faculty development while prioritization and evaluation research proceed](competency-list-as-menu-plus-faculty-development.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ Table 2 of the 3-way ANCOVA lists the pretest covariate with sum of squares 314.
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [The omnibus ANCOVA showed a statistically significant difference in post-test scores among the three presentation-mode groups](ancova-omnibus-significant-post-test-groups.md) — related
+- [The Patient Exposure by Tutorial interaction is statistically significant, indicating the in-sequence effect exceeds the sum of patient exposure and tutorial completion alone](patient-tutorial-interaction-significant.md) — related

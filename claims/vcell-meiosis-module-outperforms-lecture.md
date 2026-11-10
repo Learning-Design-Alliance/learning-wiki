@@ -72,3 +72,4 @@ Item-level analysis of the 10-question meiosis assessment found the module group
 - [No significant section effect on normalized gain scores, overall or within either treatment group](no-section-effect-meiosis-gains.md) — related
 - [Blended learning raises medical students' communication knowledge by roughly 17 points over a face-to-face lecture alone](blended-learning-raises-communication-knowledge-rct.md) — related
 - [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — related
+- [Medical students using the e-learning module scored significantly higher on the reproductive health knowledge questionnaire than students receiving traditional lectures only](e-learning-group-higher-knowledge-scores.md) — related

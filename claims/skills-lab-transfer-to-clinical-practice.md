@@ -67,3 +67,4 @@ The review reports Lynagh et al.'s 2007 systematic review: of twelve studies exa
 - [Skills lab training effects on procedural skills last longer than traditional 'see one – do one' training](skills-lab-long-term-retention-rct.md) — related
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — a broader claim this one bears on
 - [Simulation-based training on a vessel phantom improved first attempt success rate for ultrasound-guided radial artery cannulation in real patients](simulation-phantom-training-improves-first-attempt-success.md) — related
+- [Skills laboratory training shortens the time needed for successful IV cannulation on a patient compared with bedside teaching](skills-lab-training-shorter-cannulation-time.md) — related

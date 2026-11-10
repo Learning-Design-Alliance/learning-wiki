@@ -72,3 +72,6 @@ GEE logistic regression (Table 4) predicting odds of passing each year at first 
 - [Small differences in UKCAT points translate into meaningful prediction: 333-500 extra UKCAT points correspond to one additional mark on each UKFPO outcome](ukcat-points-translate-to-ukfpo-marks.md) — related
 - [All UKCAT scale and total scores significantly predict theory-based exam performance throughout all 5 years of medical school, with small coefficients of roughly 0.1 to 0.2](ukcat-predicts-theory-exams-all-five-years.md) — related
 - [Predictive power of pre-admission measures declines across the course: all predicted year 1 written exam but almost none predicted year 5 outcomes](pre-admission-predictive-power-declines-by-year-5.md) — related
+- [Prior educational attainment significantly predicts first-year medical school performance (r = .362)](educational-attainment-predicts-first-year-medical-performance.md) — related
+- [SQA (Scottish) qualifications predict first-year medical school outcome more strongly than GCE qualifications](sqa-qualifications-predict-better-than-gce.md) — related
+- [UKCAT Verbal Reasoning correlates positively with Theory examinations but not with Skills assessments](ukcat-verbal-reasoning-differential-theory-skills-prediction.md) — related

@@ -47,3 +47,4 @@ Non-experimental before-and-after study of 340 professionals who completed both 
 ## Related Claims
 - [Average proportional score change was similar across hemorrhage, sepsis and resuscitation modules and significantly higher than in the hypertension module (p = 0.019)](hemorrhage-sepsis-resuscitation-gains-exceed-hypertension.md) — related
 - [Nurses' knowledge acquisition exceeded doctors' in the hypertension, hemorrhage and sepsis modules, and licensed practical nurses gained most in the resuscitation module](nurse-gains-exceed-doctors-obstetric-modules.md) — related
+- [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related

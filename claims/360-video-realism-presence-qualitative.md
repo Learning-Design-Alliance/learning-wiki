@@ -72,3 +72,4 @@ From the qualitative section on the HMD 360-degree video experience: "Several pa
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
 - [Informants valued realistic scenarios and repetitive practice as learning features that changed clinical PPH behaviour](realism-repetition-valued-pph-simulation.md) — related
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
+- [Students report a learning–realism trade-off: branching cases feel more realistic but the linear case was judged the better learning experience](vp-learning-realism-tradeoff.md) — related

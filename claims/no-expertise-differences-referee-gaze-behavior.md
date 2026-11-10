@@ -53,3 +53,4 @@ Two-way ANOVAs on eye-tracking data from 31 higher-level and 20 lower-level refe
 - [Attending ophthalmologists show significantly shorter fixation durations than PGY2 residents when reading fundus images](attendings-shorter-fixation-durations-fundus-reading.md) — reports the opposite
 - [Attendings fixate a significantly greater percentage of the fundus image area than PGY2 residents, with coverage increasing across experience levels](attendings-greater-image-area-fixated.md) — reports the opposite
 - [Average saccade length decreases progressively with ophthalmology experience, with attendings' saccades significantly shorter than PGY2s'](saccade-length-decreases-with-experience.md) — reports the opposite
+- [Experts make shorter saccades than non-experts, contrary to the enlarged-perceptual-span hypothesis](experts-shorter-saccade-amplitudes.md) — related

@@ -74,3 +74,4 @@ Phase 1 module-level paired t tests: all modules significant except the child wi
 - [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related
 - [Simulation-based training improves immediate knowledge-test scores of primary care professionals in critical patient care](simulation-training-improves-pc-knowledge-critical-care.md) — related
 - [Certainty levels for correct answers increased consistently and statistically significantly from pre- to post-tests in all five study modules](crmcq-certainty-increase-significant-all-modules.md) — related
+- [Knowledge gains (posttest minus pretest) increased from 17.0% to 20.2% after learner feedback was incorporated into curricular revision](feedback-revision-increases-knowledge-gains.md) — related

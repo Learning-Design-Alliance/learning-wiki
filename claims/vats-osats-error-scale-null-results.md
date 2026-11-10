@@ -51,3 +51,4 @@ Blind video assessment of 75 recorded sutures by two experienced VATS surgeons u
 - [Global GOALS, global OSATS, and task-specific OSATS scores rose from pre-test to post-test in three PT/CL training groups of MIS novices](three-pt-cl-mixes-improve-lche-performance-scores.md) — related
 - [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related
 - [Suture time decreased significantly across the three simulator training stages](vats-simulator-suture-time-decrease.md) — related
+- [On the global rating scale, all intervention groups except the control improved significantly, and both multimedia-based groups outgained the practical training group](global-rating-scale-multimedia-groups-outgain-practical.md) — related

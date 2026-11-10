@@ -43,7 +43,8 @@ The article recommends that students of method complete the empirical half of th
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](../claims/instructional-design-models-are-validated-by-adoption-not-testing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the three steps of conceptual change as teaching starting points: confront misconceptions, provide concrete analogies, and practice testing hypotheses](mayer-conceptual-change-teaching-steps.md)
 
 ## Examples
 -

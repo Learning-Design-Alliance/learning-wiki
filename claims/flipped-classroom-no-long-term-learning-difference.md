@@ -48,3 +48,4 @@ Eight-month delayed retention test (ten questions, two per topic area) in the cl
 - [Six months after flipped seminars, students retained more topic knowledge than conventionally taught students](fc-six-month-long-term-retention.md) — related
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — reports the opposite
 - [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](no-retention-difference-three-methods.md) — related
+- [No significant differences between curricula on long-term retention of backup knowledge](no-curriculum-differences-backup-knowledge.md) — related

@@ -57,3 +57,5 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [Simulators let trainees learn procedures, analyze 3D anatomy, and practice technical skills in risk-free environments](simulators-risk-free-surgical-practice.md) — related
 - [Physicians rated the simulator helpful for anatomical understanding (75%) and epiduroscopy training (85%), but realism was acceptable to only 40%](epidurosim-survey-helpful-but-moderate-realism.md) — related
 - [Low-fidelity airway training models can provide the same training results as high-fidelity counterparts at lower cost, according to studies cited by the authors](low-fidelity-models-match-high-fidelity-results.md) — related
+- [Box trainers and virtual reality simulators train technical skills but do not provide anatomical image interpretation or tissue-handling practice, according to the authors' account](box-trainers-vr-lack-anatomical-interpretation.md) — related
+- [Skills-laboratory-only students report that manikin-based practice differs substantially from performing procedures on real patients.](manikin-patient-gap-procedural-skills.md) — related

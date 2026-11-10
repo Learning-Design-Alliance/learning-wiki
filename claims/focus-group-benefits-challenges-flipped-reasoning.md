@@ -55,3 +55,4 @@ Focus group interview one week after the survey with seven volunteers (three fem
 - [Focus group discussion of ForPEC yielded comments categorized as completeness, practicality and usefulness](forpec-focus-group-completeness-practicality-usefulness.md) — related
 - [Students cite research skill development, collaboration skills, active learning, and increased motivation as the most beneficial aspects of the PBL-based CRE](cre-open-ended-benefits.md) — related
 - [Time constraints and intra-group conflicts were the major hindering factors reported in the collaborative writing activity](time-conflicts-hindered-collaborative-protocol-writing.md) — related
+- [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related

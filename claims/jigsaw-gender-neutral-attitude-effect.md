@@ -62,3 +62,4 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 - [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related
 - [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related
 - [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

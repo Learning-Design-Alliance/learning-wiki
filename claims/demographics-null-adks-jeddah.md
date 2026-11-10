@@ -57,3 +57,7 @@ Cross-sectional survey (N = 231), Table 1 t tests/ANOVA: gender (P = .570), age 
 - [Medical professionals show significantly higher Alzheimer's disease knowledge than pharmacy, nursing, and allied health professionals](medicine-higher-adks-than-other-professions-jeddah.md) — related
 - [Supervisors and registrars differ at baseline in age, prior dementia training and professional dementia care experience](supervisor-registrar-baseline-differences.md) — related
 - [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related
+- [Professional and personal experience caring for someone with dementia are associated with higher dementia knowledge](caring-experience-associated-higher-knowledge.md) — reports the opposite
+- [Dementia-specific training is associated with higher dementia knowledge, independent of demographics and personal experience](dementia-training-associated-higher-knowledge.md) — related
+- [Health care staff in a regional Australian health district show moderate overall dementia knowledge, averaging 79% correct on the ADKS](health-staff-moderate-dementia-knowledge-adks-79.md) — related
+- [Self-rated dementia knowledge correlates positively with measured ADKS performance](self-rated-knowledge-correlates-adks.md) — related

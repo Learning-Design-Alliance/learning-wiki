@@ -55,6 +55,7 @@ The strategy engages students in designing and administering a mock OSCE one wee
 - [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](enhanced-osce-simulation-preparation.md)
 - [Offer a brief pre-assessment relaxation, breathing and positive-reinforcement session to reduce student anxiety before high-stakes performance examinations](brief-pre-osce-relaxation-session-strategy.md)
 - [Comprehensive pre-exam SP and examiner training program with scripted cases, rubric walkthrough, video review, and simulated examinees](sp-examiner-pre-exam-training-program-strategy.md)
+- [Offer in-course assessments so students can test clinical-technical skills before the OSCE](in-course-skills-assessments-before-osce.md)
 
 ## Examples
 -

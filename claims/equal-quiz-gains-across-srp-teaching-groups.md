@@ -59,3 +59,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [All three learning groups' knowledge scores rose significantly from pre-test to post-test after watching the online video, with change measured within each group](significant-within-group-knowledge-gain-all-three-video-groups.md) — related
 - [E-learning modules and peer-reviewed PDF articles both improved global health conceptual knowledge with no statistically significant difference between the two approaches](e-learning-versus-pdf-articles-no-knowledge-difference-global-health.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
+- [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related

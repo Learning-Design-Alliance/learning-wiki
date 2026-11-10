@@ -84,3 +84,4 @@ Single-factor repeated-measures ANOVA for the control group; printed means pre-t
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [The SML+AI group showed significantly higher 5-month retention of anatomical knowledge than the control and SML groups](chatgpt-virtual-manipulatives-higher-retention.md) — related
 - [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related
+- [Asynchronous-group retention scores fell significantly below their pre-test scores](asynchronous-retention-below-pretest.md) — related

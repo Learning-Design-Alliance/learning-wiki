@@ -85,3 +85,4 @@ t-tests comparing score change between combined subtests 1–2 and subtest 3 in 
 ## Related Claims
 - [In a cumulative assessment program, initially low-scoring students' scores improved significantly more than initially high-scoring students' scores decreased between the first and second subtests in all four modules](cumulative-assessment-low-scorers-improve-subtest-1-2.md) — related
 - [The authors suggest that perceived imminence, impact and workload of the third subtest may explain the inconsistent subtest 2–3 results](imminence-impact-workload-moderate-cumulative-assessment.md) — related
+- [Guideline-based training did not consistently influence intra-group similarity of students' ontologies, with significant f-measure changes in opposite directions in the two groups](intra-group-homogeneity-opposite-directions-ontology-training.md) — related

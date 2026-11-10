@@ -57,3 +57,4 @@ Same 43-student randomized controlled trial, first-attempt comparison with and w
 - [Trainee doctors report higher self-confidence and prefer the feedback device for real resuscitation](truecpr-feedback-confidence-preference.md) — related
 - [Feedback device use shows no significant difference in correct hand positioning during simulated CPR](truecpr-feedback-hand-position-null.md) — possibly the same claim (merge candidate)
 - [Smartwatch feedback does not significantly improve chest compression rate or full decompression in infant CPR simulation](smartwatch-feedback-no-effect-rate-decompression.md) — related
+- [Only a small minority of students met criteria for correct rate, depth, and hand placement, with no difference between teaching techniques](minority-students-all-compression-variables-correct.md) — related

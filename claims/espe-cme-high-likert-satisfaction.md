@@ -77,3 +77,6 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — a narrower finding that bears on this claim
+- [The quality of educational content matters most to online learners, more than interactivity or website design](content-quality-matters-most-to-learners.md) — related
+- [Incorporating learner feedback into curricular revision was associated with increased learner satisfaction with the instructive value of an online curriculum, from 3.8 to 4.1 on a 5-point scale](feedback-revision-increases-instructive-value-rating.md) — related
+- [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related

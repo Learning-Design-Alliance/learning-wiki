@@ -50,3 +50,4 @@ Course Experience Questionnaire with five subscales (Good Teaching, Clear Goals 
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related
 - [No learning environment scale was associated with occupational therapy students' exam grades](learning-environment-not-associated-grades-ot.md) — related
 - [Students in the MOOC-based blended group report higher satisfaction with teaching and learning effects, with no differences in self-study, operational practice, or teamwork](mooc-blended-higher-satisfaction-feedback.md) — related
+- [E-learning participants reported significantly higher course experience on the Good Teaching, Clear Goals and Standards, and Appropriate Workload scales, with no difference on Appropriate Assessment or Generic Skills](e-learning-higher-ceq-good-teaching-goals-workload.md) — related

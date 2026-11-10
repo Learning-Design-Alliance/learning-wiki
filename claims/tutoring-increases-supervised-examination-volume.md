@@ -54,3 +54,4 @@ Examination counts over the 6-month intervention period in the randomized trial:
 - [Emergency medicine residents assessed during real clinical practice achieved satisfactory image acquisition, satisfactory image interpretation, and good clinical integration after a mandatory POCUS course](pocus-real-practice-competence-satisfactory-overall.md) — related
 - [Two months of clinical training alone was insufficient to ensure competence at a predefined basic level](clinical-training-alone-insufficient-competence.md) — related
 - [Intervention and control groups had equivalent clinical exposure during the 2 months before assessment](equal-clinical-exposure-between-groups.md) — related
+- [Internal Medicine residents report acquiring procedural skills through resident-directed learning with no formal mechanism to ensure acquisition or maintenance of skills](resident-directed-procedural-skill-acquisition.md) — reports the opposite

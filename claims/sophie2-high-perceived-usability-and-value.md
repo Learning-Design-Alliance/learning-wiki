@@ -73,3 +73,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Students reported that maximal simplicity and usability drove adoption of Learning Moment, while extraneous entry steps felt burdensome](lm-simplicity-maximal-usability-theme.md) — related
 - [Teachers evaluated the e-learning resource's utility very positively, with 97% reporting they would recommend it to others](elearning-resource-utility-rated-positively.md) — related
 - [Participants give positive feedback on AR visual and audio perception and on gesture and voice interaction](positive-usability-feedback-perception-interaction.md) — related
+- [Students rated the automated testing station very positively, with mean scores of 5.3/6 for instructional organisation and 5.0/6 for usability](students-rate-automated-bls-testing-positively.md) — related

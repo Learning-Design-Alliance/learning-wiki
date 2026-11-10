@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (89 show a difference, 43 mixed, 20 no difference) · 63 studies (28 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 21 of 63 report an effect size · 150 claims rest on one study
+> **Evidence** · 155 claims (91 show a difference, 44 mixed, 20 no difference) · 64 studies (29 associational, 20 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 21 of 64 report an effect size · 153 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -187,6 +187,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Students who transitioned from a multiple goals profile to a moderate/indifferent profile showed stronger language achievement growth than students who retained the multiple goals profile](../claims/transition-multiple-to-moderate-language-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Students with an approach-oriented or moderate goal profile report higher self-reported effort in language than students with a multiple goals profile, though their effort declines over time while the multiple goals profile's effort increases](../claims/approach-profile-higher-self-reported-effort-language.md) [~M] — learners who differ on it differ in outcomes
 - [Students with approach-oriented or moderate goal profiles show stronger language achievement gains over time than students with a multiple goals profile, with no difference in average achievement levels](../claims/favourable-profiles-stronger-language-achievement-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery goal orientation is negatively associated with low frustration tolerance among medical students](../claims/mastery-goals-negatively-associated-with-low-frustration-tolerance.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery goal orientation is positively associated with perceived psychosocial abilities among first-year medical students](../claims/mastery-goals-associated-with-perceived-psychosocial-abilities.md) [+M] — learners who differ on it differ in outcomes
+- [Performance-approach goal orientation predicts low frustration tolerance among medical students, while performance-avoidance adds little](../claims/performance-approach-goals-predict-low-frustration-tolerance.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

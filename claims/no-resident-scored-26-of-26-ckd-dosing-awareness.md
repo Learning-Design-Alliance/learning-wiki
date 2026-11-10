@@ -49,3 +49,4 @@ Cross-sectional survey of 341 internal medicine house-staff at six New York-area
 - [Awareness of CKD dose-adjustment needs was greater for PGY2 and PGY3 than PGY1 for allergy, endocrine, gastrointestinal, and rheumatologic classes but not for analgesic, cardiovascular, or neuropsychotropic classes](awareness-pgy-gains-four-classes-not-three-ckd.md) — related
 - [78.9% of the surveyed house-staff recognized that digoxin needs dose adjustment in CKD](digoxin-awareness-78-9-percent-ckd.md) — related
 - [The highest percentage of completely correct responses for any medication class and PGY group was 17.1% for awareness (gastrointestinal) and 16.3% for knowledge (rheumatologic)](completely-correct-under-18-percent-ckd-dosing.md) — related
+- [Baseline CKD knowledge among U.S. internal medicine residents is poor, with mean pre-test scores of 45.1–57.0% across four years](poor-baseline-ckd-knowledge-residents.md) — related

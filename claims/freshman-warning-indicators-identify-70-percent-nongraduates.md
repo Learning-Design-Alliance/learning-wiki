@@ -62,3 +62,4 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator](academic-indicators-outperform-attendance-true-positive.md) — related
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
+- [Most non-completers left the course too early for early-warning flags to apply, and their departure was often unpredictable](non-completers-left-early-unpredictable.md) — reports the opposite

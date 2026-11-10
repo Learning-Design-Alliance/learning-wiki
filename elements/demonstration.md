@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 12 studies (9 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 12 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 13 studies (10 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 13 report an effect size · 14 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -76,6 +76,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - [A mobile-based catheterization video clip raises nursing students' learning motivation, confidence in practice, and class satisfaction versus no additional video access](../claims/mobile-video-boosts-motivation-confidence-satisfaction-nursing.md) [+W] — attached 2026-11-09 from Lee Nam-Ju et al. (2016), which proposed "Urinary catheterization mobile video clip (6 min 30 s, downloadable to any mobile device)"; tests this page's relationship.
 - [Procedural video and live demonstration produce equivalent blind-assessed Adam's Clasp fabrication scores in fourth-year dental students](../claims/procedural-video-equivalent-live-demonstration-adams-clasp.md) [~W] — attached 2026-11-09 from Alqahtani ND et al. (2015), which proposed "Twelve-minute procedural video for teaching Adam's Clasp fabrication".
 - [Students taught by procedural video rated the clarity of the teaching method's steps higher than live-demonstration students](../claims/video-group-rated-steps-clearer-than-live-demonstration.md) [+W] — attached 2026-11-09 from Alqahtani ND et al. (2015), which proposed "Twelve-minute procedural video for teaching Adam's Clasp fabrication".
+- [Medical trainee interns given continued video iPod access to catheterization videos maintain skill competency over 3 months, while control-group competency declines](../claims/video-ipod-access-maintains-catheterization-competency.md) [+W] — attached 2026-11-10 from Hansen M et al. (2011), which proposed "Video iPod delivery of faculty-prepared male and female urinary catheterization videos".
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

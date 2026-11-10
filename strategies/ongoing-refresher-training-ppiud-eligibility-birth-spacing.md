@@ -51,6 +51,7 @@ The article recommends that PPIUD training interventions not be one-off: provide
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Provide regular, periodic refresher training on frailty rather than one-time orientation programs](regular-frailty-refresher-training-strategy.md)
 - [Schedule refresher sessions and repeated practice opportunities to maintain urgent laryngectomy skills over time](refresher-sessions-skill-maintenance-laryngectomy.md)
+- [Comprehensive standardized training with scheduled refresher courses and attitude education for post-rape care providers](comprehensive-training-refresher-attitude-education-strategy.md)
 
 ## Examples
 -

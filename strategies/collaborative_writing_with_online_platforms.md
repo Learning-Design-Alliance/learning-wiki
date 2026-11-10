@@ -71,6 +71,7 @@ Collaborative writing works because composing together forces learners to articu
 - Process writing workshops — collaborative platforms extend the draft–feedback–revise cycle across a group
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
+- [Use structured asynchronous online peer discussion of authentic critical appraisal papers to support learning in the clinical workplace](structured-asynchronous-peer-discussion-of-cat-papers-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision cycles are the practice that converts feedback into improved writing

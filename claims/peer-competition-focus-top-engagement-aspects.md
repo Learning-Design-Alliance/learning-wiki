@@ -70,3 +70,4 @@ Same survey's engagement category: the prize-focus item was the lowest-rated, at
 - [Students preferred competitive TP environments, with 53% selecting individual competition with one clicker per student as the environment in which they learned best.](students-prefer-individual-competition-tp.md) — a narrower finding that bears on this claim
 - [Students most highly rated gamified TP games for practicing application of theoretical knowledge to clinical scenarios, prioritizing review concepts, and connecting complex concepts.](tp-games-foster-application-prioritization-connections.md) — related
 - [Internal medicine residents identified the leaderboard as the single most important motivator of participation in a gamified knowledge competition.](leaderboard-top-motivator-residents-kaizen-im.md) — related
+- [Students rate ARS use in lectures as motivating and report more active participation](ars-motivation-active-participation-ratings.md) — related

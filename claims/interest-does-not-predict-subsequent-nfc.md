@@ -53,3 +53,4 @@ Cross-lagged panel modeling (Model 1) across four measurement occasions found no
 ## Related Claims
 - [Previous need for cognition positively predicts subsequent academic interest in mathematics, German, and English over Grades 5–7](nfc-predicts-subsequent-academic-interest.md) — related
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
+- [Need for Cognition does not differ by presentation condition but is higher among lay people than patients](nfc-higher-lay-people-than-patients.md) — related

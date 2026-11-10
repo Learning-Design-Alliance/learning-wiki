@@ -56,3 +56,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — a narrower finding that bears on this claim
 - [DMIS students rated course content and self-efficacy higher than controls after laboratory lectures](dmis-higher-course-content-self-efficacy-ratings.md) — related
 - [The control group, which received no communication training, exhibited significant gains in communication confidence and self-efficacy during the study period](control-group-confidence-selfefficacy-gains.md) — related
+- [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related

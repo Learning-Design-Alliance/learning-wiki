@@ -50,3 +50,4 @@ End-of-program questionnaire in the randomized comparison. "the simulation group
 - [Simulation-group residents value the program and PGY-II residents as teaching staff more than lecture-group residents](simulation-group-higher-program-and-teaching-staff-ratings.md) — related
 - [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related
 - [Time spent online differed significantly across Year 2 groups (p < 0.0001), highest in Group B and lowest in Group D](time-online-varied-across-groups.md) — related
+- [Adding spaced education to face-to-face lectures leads students to spend significantly more time on the learning content](spaced-education-increases-time-on-learning-content.md) — related

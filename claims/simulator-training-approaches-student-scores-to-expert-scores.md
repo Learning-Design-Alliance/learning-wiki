@@ -47,3 +47,4 @@ Comparison of student scores against the averaged time and score of instructor s
 ## Related Claims
 - [Repeated training on the 3D-printed model improves performance: after eight sessions novices approached untrained intermediate level and intermediates approached expert scores](liia-repeated-training-learning-curve.md) — related
 - [In pig ex vivo organs, trained novices performed like untrained intermediates, and trained intermediates matched expert scores but not expert operation times](liia-training-pig-exvivo-transfer.md) — related
+- [Dominant-to-nondominant hand peg transfer showed no significant expert-novice difference on the cadaver model](dominant-to-nondominant-peg-transfer-no-construct-validity.md) — related

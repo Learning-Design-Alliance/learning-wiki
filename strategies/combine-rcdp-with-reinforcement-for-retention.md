@@ -61,6 +61,7 @@ Because RCDP improved immediate but not one-year forceps skill performance, the 
 - [Non-routine practitioners of advanced procedural skills should receive periodic reinforcement or retraining after initial simulator training](periodic-retraining-rarely-used-procedural-skills.md)
 - [Repeat oral health education frequently and reinforce it with parental involvement and preventive measures to sustain effects](repeat-oral-health-education-frequently.md)
 - [Structure self-directed e-learning with a delivery schedule over fixed time periods and recurrent facilitator-led feedback sessions](scheduled-elearning-with-facilitator-feedback-sessions.md)
+- [Schedule refresher training at biannual intervals for complex procedural skills and annually for easier ones](biannual-refresher-complex-skills-strategy.md)
 
 ## Examples
 -

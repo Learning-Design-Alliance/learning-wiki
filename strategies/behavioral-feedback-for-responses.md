@@ -54,6 +54,7 @@ Behavioral science distinguishes how to respond to a learner's correct versus in
 - [Use indirect correction and self-correction to avoid face-threatening error treatment](indirect-error-correction-self-correction.md)
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 - [Avoid comforting cues that divert children's attention away from their mistakes](avoid-comforting-cues-diverting-attention-mistakes.md)
+- [Deliver elaborate immediate spoken feedback after ARS questions, covering why the correct answer is right and why alternatives fail](elaborate-spoken-feedback-after-ars-questions.md)
 
 ## Examples
 

@@ -55,6 +55,7 @@ The authors developed a pool of VP cases "to standardize clinical exposure and i
 ## Related Strategies
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Use the VP implementation model to plan encoded design features and constructed delivery activity for a given topic and audience](vp-model-guided-authoring-strategy.md)
 
 ## Examples
 -

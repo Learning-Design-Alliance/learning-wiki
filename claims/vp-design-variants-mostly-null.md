@@ -73,3 +73,4 @@ Skills-domain design comparisons: human empathic feedback and narrative structur
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — possibly the same claim (merge candidate)
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related
+- [Several design properties produce mixed positive and negative effects, and branched designs are predicted to raise complexity, e-inertia and errors](vp-design-properties-mixed-effects.md) — related

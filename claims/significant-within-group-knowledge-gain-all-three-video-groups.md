@@ -52,3 +52,4 @@ Within-group repeated measures mixed-model ANOVA in the randomized cohort of 49 
 - [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [At 6 months, the full video and short answer questions groups retained knowledge significantly while the logic puzzles group did not, with no significant between-group difference in retention](six-month-retention-full-video-and-short-answer-but-not-logic-puzzles.md) — related
+- [Students show significant short-term knowledge gains in integrated laboratory classes covering liver function tests and adrenal function](ilc-significant-pre-posttest-gains.md) — a narrower finding that bears on this claim

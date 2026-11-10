@@ -9,6 +9,7 @@ generated:
   at: 2026-11-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-10
 sources:
   - id: wassenaar-t-m-2021
     resource: "https://doi.org/10.1186/s12966-021-01113-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At posttest, the intervention group showed no significant difference in cardiorespiratory fitness (20-m shuttle run laps) compared with the control group. [→ Wassenaar T. M. 2021](#wassenaar-t-m-2021)

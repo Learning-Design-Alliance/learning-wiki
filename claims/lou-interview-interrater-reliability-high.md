@@ -60,3 +60,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
+- [Two consultant interviewers using the pre-defined scoring scheme achieved significant inter-rater correlation and consistency](interview-scheme-interrater-reliability.md) — related

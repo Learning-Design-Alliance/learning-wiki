@@ -64,6 +64,7 @@ Stamina is a capacity that develops through practice under manageable load, much
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — brief pre-reading activation helps students enter a text and sustain engagement
 - [Sustained Silent Reading](sustained-silent-reading.md) — the broader routine within which gradual increase operates
 - [Implement a daily structured reading routine combining fixed free-reading and variable enrichment activities](daily-structured-reading-routine-strategy.md)
+- [Extend errorless memory training dosage: increase sessions from 12 to 15, lengthen sessions gradually from 30 to 45 minutes, and add revision sessions at sessions 5, 10, and 15](increase-errorless-training-dosage-revision-sessions.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — stamina is built through repeated, distributed reading practice

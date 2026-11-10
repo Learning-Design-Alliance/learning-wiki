@@ -49,6 +49,7 @@ From the thematic analysis the author derives three design recommendations for f
 - [Case-study-focused PBL unit design combining weekly in-person tutorials, case-based practicals and H5P interactive activities for large cohorts](case-study-pbl-unit-design-strategy.md)
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Keep guideline e-learning concise and integrate text with images and videos](concise-multimedia-guideline-e-learning-strategy.md)
+- [Use video-vignette e-learning modules with expert explanation to teach guideline recommendations](video-vignette-e-learning-suicide-guideline.md)
 
 ## Examples
 -

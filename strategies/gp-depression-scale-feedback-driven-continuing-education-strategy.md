@@ -48,6 +48,7 @@ The authors propose using the validated scale within a structured feedback loop:
 
 - [Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics](astra-adaptive-scenario-generation.md)
 - [Map identified procedural-training gaps to targeted simulation design features, including timed scenarios, embedded consent tasks, ethical scenarios, modular practice, feedback loops, and milestone-based benchmarks](simulation-design-features-mapped-to-cvc-training-gaps.md)
+- [Provide a cohort summary blueprinted report so teachers can identify gaps in teaching and trends in learner performance](cohort-summary-blueprinted-report-strategy.md)
 
 ## Examples
 -

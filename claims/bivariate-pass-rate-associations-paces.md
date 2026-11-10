@@ -54,3 +54,5 @@ Descriptive bivariate analysis of 6820 candidates with complete data, of whom ju
 - [Group-level performance differences between white vs non-white and male vs female UK graduates cannot be explained by a subset of unfair questions](group-differences-not-explained-by-unfair-questions.md) — related
 - [Most notable DIF concerned sex rather than ethnicity: white UK graduates were advantaged in both ethnicity cases, while female graduates tended to be advantaged in the sex cases](sex-vs-ethnicity-dif-direction-pattern.md) — related
 - [BME candidates performed less well than White candidates on all five assessments (P < .001)](bme-candidates-underperform-all-five-assessments.md) — related
+- [Non-white students underperformed on undergraduate BMS and clinical assessments but had equivalent MRCP(UK) performance and were equally likely to be on the Specialist Register](ethnicity-underperformance-undergraduate-equivalent-register.md) — related
+- [Most first-year medical students (84.3%) pass all examinations at first attempt, with small fail, repeat and attrition groups](first-year-medical-outcome-distribution-ukcat12.md) — related

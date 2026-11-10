@@ -120,3 +120,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Sex differences in SIMCE achievement appear only in high school, favouring males in both language and mathematics](sex-differences-simce-high-school-males.md) — related
 - [The gender gap in grade mean and variability has not changed significantly over the last eight decades](grade-gender-gap-stable-over-80-years.md) — related
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
+- [Secondary school girls and boys show no significant difference in mathematics performance on timed mental mathematics tests](no-gender-difference-secondary-maths-performance.md) — reports the opposite

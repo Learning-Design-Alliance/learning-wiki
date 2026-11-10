@@ -46,6 +46,7 @@ The author proposes at least three practical and principled ways to incorporate 
 ## Related Strategies
 
 - [Use mined student factors to provide personalized teaching content and methods by group differences](personalized-teaching-from-mined-student-factors.md)
+- [Run group projects spanning risk-factor and mathematical analyses, with presentations that reveal how methods complement each other](mmf-group-project-analysis-strategy.md)
 
 ## Examples
 -

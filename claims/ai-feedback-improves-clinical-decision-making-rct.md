@@ -91,3 +91,4 @@ Double-blind randomized controlled trial in which 21 medical students completed 
 - [Interactive e-case questions target three foci: symptom patterns, clinical reasoning, and clinical decision making](e-case-questions-three-foci.md) — related
 - [Optional video feedback added no apparent benefit to satisfaction, confidence, preparedness or OSCE scores, with the video-feedback group achieving the lowest OSCE scores](optional-video-feedback-no-added-benefit.md) — related
 - [Confirmative feedback alone may not be sufficient for improving students' clinical reasoning skills](confirmative-feedback-insufficient-for-clinical-reasoning.md) — reports the opposite
+- [Adding elaborate spoken feedback to ARS questions in lectures does not significantly improve final exam performance compared with ARS questions without feedback](elaborate-feedback-ars-no-exam-gain.md) — reports the opposite

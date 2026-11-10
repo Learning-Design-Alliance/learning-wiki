@@ -64,3 +64,4 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [Most laypersons felt capable of performing BLS/AED three months after course completion irrespective of teaching technique](bls-aed-self-confidence-retained-three-months.md) — related
 - [Both self-training modalities improved CPR theoretical and practical scores from baseline](both-modalities-improve-cpr-scores.md) — related
 - [Both simulation and case-based discussion improved knowledge from pre-test to post-test, and scores were maintained at 4–6-month retention](both-methods-improve-and-maintain-knowledge.md) — reports the opposite
+- [Medical trainee interns given continued video iPod access to catheterization videos maintain skill competency over 3 months, while control-group competency declines](video-ipod-access-maintains-catheterization-competency.md) — related

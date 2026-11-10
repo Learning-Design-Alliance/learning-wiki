@@ -80,3 +80,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Higher SES and speaking Greek at home predict lower odds of membership in the minimal profile only](ses-home-language-protect-minimal-profile.md) — related
 - [Male students reported greater persuasion and commitment to active learning than female students, with no gender difference in identification or self-regulated learning](gender-differences-in-buy-in-persuasion-commitment.md) — reports the opposite
 - [Few students report groupmates limiting their participation, and lower biology competency, not gender or race/ethnicity, predicts such reports](low-exclusion-reports-competency-predicts.md) — related
+- [Socio-demographic characteristics and A-level qualifications did not distinguish course-completers from non-completers among identified struggling students](demographics-alevels-not-distinguish-strugglers.md) — related

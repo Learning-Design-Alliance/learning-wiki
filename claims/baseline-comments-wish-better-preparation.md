@@ -50,3 +50,4 @@ Qualitative content analysis of baseline free-text comments from 25 students, di
 - [Most teachers did not feel adequately prepared to use the IWB and wanted more training](iwb-teachers-unprepared-training-need.md) — related
 - [Students' most important lessons concerned consolidation of counseling skills (59.8% of comments), reflective practice (28.3%), and insight into clinical placement (12%)](key-learning-consolidation-reflection-placement-preparation.md) — related
 - [All surveyed residents wanted more expert-made videos of specific surgical techniques in their training](residents-want-more-expert-technique-videos.md) — related
+- [Preclinical students who received part of their skills training as early clinical experiences in primary health care centers feel better prepared to perform clinical skills in their first clerkships than peers trained exclusively in a skills laboratory.](ece-phc-better-prepared-first-clerkships.md) — related

@@ -51,3 +51,4 @@ Multivariable linear regression on complete cases (n = 88) adjusting for gender,
 - [Age, gender, job position, and hospital type did not significantly predict nurses' warfarin-related knowledge scores](demographics-not-significant-warfarin-knowledge-predictors.md) — related
 - [Age 25 years or older is the only significant demographic predictor of simulator score, with older students scoring lower](age-25-plus-lower-simulator-scores.md) — related
 - [Knowledge outcomes did not differ by district or by years since basic nursing training](no-district-or-experience-differences.md) — reports the opposite
+- [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related

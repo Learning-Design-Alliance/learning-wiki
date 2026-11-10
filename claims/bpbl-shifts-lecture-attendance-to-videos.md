@@ -69,3 +69,4 @@ Video use was compared with Fisher's exact test in the same randomised main stud
 - [Only 15% of students previewed all nine vodcasts before lectures, with 77% viewing at least one.](low-vodcast-preview-uptake-gem-students.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [Most students in the blended PBL course showed improvements in information searching, reflection before intervening, debating, attendance, and communication](pbl-skills-improvements-blended-course.md) — related
+- [Dental students free to combine e-learning with lectures attend significantly fewer face-to-face lectures than students in a mandatory-attendance traditional course](tel-flexible-attendance-reduces-lecture-attendance.md) — related

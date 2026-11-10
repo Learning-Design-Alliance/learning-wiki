@@ -79,3 +79,6 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — a narrower finding that bears on this claim
 - [Training on standardized patients yields a small but statistically significant improvement in OSCE scores compared with traditional seminars](standardized-patients-small-osce-improvement.md) — related
 - [Full hands-on participants rated the educational environment higher than lecture-only observers on the DREEM (P=0.038)](abcs3-full-participants-higher-dreem-than-observers.md) — related
+- [Didactic lectures produced greater knowledge gain than asynchronous computer-based modules for novice learners in an acute care course](didactic-beats-asynchronous-knowledge-gain-novices.md) — related
+- [Medical students using the e-learning module scored significantly higher on the reproductive health knowledge questionnaire than students receiving traditional lectures only](e-learning-group-higher-knowledge-scores.md) — related
+- [Students using a voluntary virtual patient module achieved significantly higher BLS-AED knowledge post-test scores than controls (ES = 0.73)](voluntary-vp-module-higher-bls-knowledge-posttest.md) — a narrower finding that bears on this claim

@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (18 for, 20 mixed, 3 against) · 37 studies (11 causal, 8 review, 6 quant-synthesis, 6 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 37 report an effect size · 39 claims rest on one study
+> **Evidence** · 42 claims (18 for, 21 mixed, 3 against) · 38 studies (12 causal, 8 review, 6 quant-synthesis, 6 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 38 report an effect size · 40 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -92,6 +92,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](../claims/ai-almost-perfect-agreement-peg-transfer-assessment.md) [+W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
 - [AI agreement with expert evaluators is moderate for the bean drop exercise, lower than for peg transfer](../claims/ai-moderate-agreement-bean-drop-assessment.md) [~W] — attached 2026-11-07 from Belmar Francisca et al. (2022), which proposed "AI assessment algorithm for basic laparoscopic simulation exercises (U-net and YOLO v4)"; tests this page's relationship.
 - [Common OSCE and Management Viva assessor biases such as familiarity with the student were not observed in this rural-campus cohort](../claims/examiner-familiarity-bias-not-observed.md) [~W] — attached 2026-11-08 from Shulruf Boaz et al. (2019), which proposed "OBM2 borderline-performance moderation method for OSCE and Management Viva examiner marks".
+- [The mean overall GP communication score rose from standard to context-specific MAAS-Global rating in one uncontrolled pre-post study; the increase was statistically significant and had a large effect size](../claims/context-specific-rating-raises-maas-global-overall-score.md) [~W] — attached 2026-11-10 from Essers Geurt et al. (2013), which proposed "Context-specific rating protocol for incorporating context factors into MAAS-Global communication assessment".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

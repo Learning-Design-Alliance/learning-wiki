@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (127 show a difference, 34 mixed, 14 no difference) · 107 studies (31 associational, 23 review, 20 qualitative, 14 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 107 report an effect size · 175 claims rest on one study
+> **Evidence** · 176 claims (127 show a difference, 35 mixed, 14 no difference) · 108 studies (31 associational, 23 review, 20 qualitative, 15 causal, 8 design, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 10 of 108 report an effect size · 176 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -211,6 +211,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Learning in the peer assessment program was facilitated by psychological safety and the quality of feedback](../claims/psychological-safety-and-feedback-quality-facilitate-pa-learning.md) [+M] — learners who differ on it differ in outcomes
 - [The authors argue that safety interventions targeting more than one dimension of the 3D safety model (culture, system, technology) are more likely to make a substantial impression than one-dimensional interventions](../claims/multi-dimensional-safety-interventions-hypothesis.md) [+W] — measured as an outcome of the instruction studied
 - [Faculty view audience response systems as making response safe, while residents question their effectiveness at engaging learners](../claims/audience-response-system-divergent-views.md) [~M] — measured as an outcome of the instruction studied
+- [SBTT improved nurse assistants' teamwork climate, safety climate and working conditions, and nurses' safety climate, but not physicians' SAQ scores](../claims/sbtt-saq-factors-profession-divergence.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

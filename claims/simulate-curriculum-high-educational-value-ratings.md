@@ -49,3 +49,4 @@ Post-training anonymous evaluation survey on a 5-point Likert scale, analysed wi
 - [One year after a two-week EFAST curriculum, medical student respondents reported increased knowledge, confidence, and likelihood of performing EFAST and POCUS](efast-curriculum-student-perceived-confidence-knowledge-gains.md) — related
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
+- [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related

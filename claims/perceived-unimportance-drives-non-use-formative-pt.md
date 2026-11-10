@@ -71,3 +71,4 @@ Questionnaire comparison of reasons for not preparing: "27% of the students in t
 - [Test preparation for the progress test was low and did not differ between formative and summative assessment conditions](no-assessment-condition-difference-test-preparation.md) — related
 - [Students consult progress test feedback more after a summative PT than after a purely formative PT, in self-report and in logged system use](summative-pt-more-feedback-consultation-than-formative.md) — related
 - [Students who did not prepare specifically for the exam scored significantly lower than prepared students (d=0.27)](unprepared-students-score-lower-osce-d-027.md) — related
+- [Students' motivation to use feedback is influenced more by comparison with peer performance than internal standards](norm-referencing-motivates-feedback-use.md) — related

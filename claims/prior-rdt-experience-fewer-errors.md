@@ -49,3 +49,4 @@ Multivariable Poisson regression of total error counts at 12-month follow-up for
 - [Community health workers trained to conduct malaria RDTs maintain overall competency over 12 months, with accuracy-step error rates halved and no significant decline in total or safety step performance](chw-rdt-competency-maintained-12-months.md) — related
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
 - [CHWs interpret malaria RDT results accurately 12 months post-training (sensitivity 92.0%, specificity 97.3%), with faint-positive cassettes most frequently misinterpreted and no significant covariate effects](chw-rdt-interpretation-accuracy-12-months.md) — related
+- [Time since training and CHW age were significantly associated with perfect performance on critical RDT steps in GEE regression](time-and-age-predict-critical-step-perfection.md) — related

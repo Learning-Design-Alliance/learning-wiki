@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 99 claims (56 for, 41 mixed, 2 against) · 74 studies (40 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 74 report an effect size · 94 claims rest on one study
+> **Evidence** · 100 claims (57 for, 41 mixed, 2 against) · 75 studies (41 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 22 of 75 report an effect size · 95 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [In one uncontrolled pre-post study, dental students' total error rates in classifying periodontal patients were significantly lower after participation in an ICM-based, case-based periodontology module, with a medium effect size](../claims/icm-periodontology-module-total-error-rate-reduction.md) [+W] — attached 2026-11-08 from Crome Marius et al. (2021), which proposed "Use ICM-based case teaching as a supplement to, not a replacement for, patient-based learning in clinical dental education"; tests this page's relationship.
 - [Two weeks after the course, live and video CCD formats no longer differ but both outperform printed cases on clinical reasoning](../claims/delayed-post-test-live-video-beat-paper.md) [+M] — attached 2026-11-08 from Weidenbusch M et al. (2019), which proposed "Clinical case discussion (CCD) session structure: admission, interactive discussion, summary"; tests this page's relationship.
 - [Weekly case-based tele-education was associated with reduced ICU and hospital mortality, shorter length of stay, and cost savings in a limited-resource MICU](../claims/tele-education-reduced-icu-mortality-limited-resource.md) [+W] — attached 2026-11-09 from Kovacevic Pedja et al. (2019), which proposed "Weekly 45-min case-based tele-education rounds in three phases".
+- [For complex problem-solving, eBook learning produced significantly smaller knowledge gains than both eCase learning and case-based classroom teaching, which performed comparably](../claims/ebook-inferior-for-complex-problem-solving.md) [+W] — attached 2026-11-10 from Bjarne Skjødt Worm (2013), which proposed "Match the learning method to content complexity: case-based formats (eCases or classroom) for complex problem-solving, any method for simple recall"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

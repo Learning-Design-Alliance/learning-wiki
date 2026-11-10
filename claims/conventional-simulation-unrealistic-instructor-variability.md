@@ -67,3 +67,4 @@ Theme cluster 'Difference in effectiveness according to the instructor' from the
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
+- [Residents found mannequins unrealistic in physical characteristics but acknowledged simulation allowed verification of technique](mannequin-realism-technique-verification.md) — related

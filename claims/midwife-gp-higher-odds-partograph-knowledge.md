@@ -52,3 +52,4 @@ Multivariable logistic regression in the cross-sectional survey of 373 obstetric
 - [94.1% of obstetric care providers expressed the need for additional partograph training](providers-need-additional-partograph-training.md) — related
 - [59.8% of obstetric care providers in West Cameroon had a good level of partograph knowledge](west-cameroon-partograph-good-knowledge-59-8.md) — related
 - [72.1% of obstetric care providers in West Cameroon systematically used the partograph](west-cameroon-partograph-systematic-use-72-1.md) — related
+- [Older providers and nurses have lower odds of high knowledge, while a more appropriate rape attitude has greater odds](attitude-age-rank-knowledge-multivariable.md) — related

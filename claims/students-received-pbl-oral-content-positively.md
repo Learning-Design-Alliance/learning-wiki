@@ -74,3 +74,4 @@ Qualitative content analysis (Mayring) of free-text answers on main insights; in
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
 - [First-year Biology students report high satisfaction with a QR-based active learning bioinformatics lesson, with 94.6% finding the lesson important and about 89% finding it effective for information-management skills](qr-gymkhana-bioinformatics-high-student-satisfaction.md) — related
 - [Students rate the interprofessional training's content and teaching methods as appropriate](ipe-content-method-satisfaction-ratings.md) — related
+- [Students reported increased interaction and better group functioning under PBL 2.0](pbl2-0-increased-interaction.md) — related

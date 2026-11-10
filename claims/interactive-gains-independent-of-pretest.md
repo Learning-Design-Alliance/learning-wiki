@@ -50,3 +50,4 @@ Authors' conclusion drawn from the overall and partial didactic-test evaluations
 - [The interactive method C significantly improved first-year students' physics knowledge compared with traditional teaching in the 2010 experiment](interactive-method-c-significant-knowledge-gain.md)
 - [In the authors' conditions P&E outperformed both Interactive Lecture Demonstrations and Peer Instruction](pe-outperformed-ild-and-pi.md)
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md)
+- [Interactive learning yields a higher post-test knowledge gain than reproductive learning for participants with weak prior knowledge, but not for those with strong prior knowledge](interactive-beats-reproductive-low-prior-knowledge-anatomy.md) — reports the opposite

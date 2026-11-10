@@ -57,6 +57,7 @@ A compact training sequence in which learners first view a 15-minute instruction
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
+- [Provide cognitive training (live demonstration plus reference DVD) before cadaver-based technical skills practice](cognitive-training-precedes-cadaver-technical-practice.md)
 
 ## Examples
 -

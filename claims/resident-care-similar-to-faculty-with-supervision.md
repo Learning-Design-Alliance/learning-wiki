@@ -75,3 +75,4 @@ Same synthesis of faculty-versus-resident comparisons. The review reports that d
 - [Mortality after CABG was higher for the local team (13.7%) than for international missions (8.8%), but the difference was not statistically significant](cabg-mortality-local-vs-missions-not-significant.md) — a narrower finding that bears on this claim
 - [The local surgical team had significantly longer total operation, aortic cross-clamping, and cardiopulmonary bypass times than international missions](local-team-longer-operative-times-than-missions.md) — related
 - [Extubation in the operating room was significantly higher in the late-experience group, while ICU and hospital stay did not differ](tavr-ar-extubation-in-or-higher-later-group.md) — related
+- [Mean hospital length of stay did not differ between resident-performed SILS and traditional LC groups.](resident-sils-length-of-stay-similar-traditional-lc.md) — a narrower finding that bears on this claim

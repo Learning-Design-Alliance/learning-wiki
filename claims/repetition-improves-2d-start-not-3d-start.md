@@ -49,3 +49,4 @@ Table 1 comparison of first–third versus eighth–tenth attempts in the 40-par
 - [Novices trained first on 3D performed significantly worse after switching to 2D, especially on technical errors in complicated tasks](3d-start-worsens-after-switch-to-2d.md) — related
 - [During the early phase of training, novices starting on 3D performed significantly better than 2D-start novices, especially on technical errors](early-phase-3d-start-advantage-technical-errors.md) — related
 - [The performance decline after switching from 3D to 2D depends on task difficulty: the simple task showed no significant decline, complicated tasks did](switch-decline-depends-on-task-difficulty.md) — related
+- [Novices reached expert-benchmark performance levels on the four construct-valid tasks between the eighth and tenth repetition](novices-reach-benchmark-eight-to-ten-repetitions.md) — related

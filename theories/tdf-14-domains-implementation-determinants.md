@@ -48,6 +48,7 @@ The Theoretical Domains Framework (TDF) is "a collection of theories relevant to
 ## Examples
 
 - [Four-step TDF process for diagnosing and remediating curriculum implementation barriers](../strategies/four-step-tdf-barrier-diagnosis-process.md)
+- [Design prescribing-safety interventions around behaviour-change techniques matched to the relevant TDF domains](../strategies/bct-targeting-tdf-domains-prescribing.md)
 
 ## Key Sources
 - Zucker, T. A., Jacbos, E., & Cabell, S. Q. (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development, 32(8), 1194-1219. https://doi.org/10.1080/10409289.2020.1839288

@@ -87,3 +87,4 @@ OSCE with five standardized stations, rated independently by three assessors per
 - [Experimental group outperformed control group at specific individual OSCE stations](osce-station-level-differences.md) — related
 - [Verbal performance high scores relate to better results on both history and physical examination OSCE stations](verbal-performance-better-history-and-examination-stations.md) — related
 - [Real multidisciplinary teams support motivation and preparedness for learning better than improvised teams in simulated training](real-teams-support-self-efficacy-sim-training.md) — related
+- [A second-year doctor-patient communication course is associated with significant self-assessed learning gains on all seven key learning objectives, largest for history taking (mean difference +1.7 'to know how', +1.8 'to show how')](communication-course-self-assessed-gains-all-objectives.md) — related

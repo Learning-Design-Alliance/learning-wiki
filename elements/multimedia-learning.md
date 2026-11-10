@@ -126,6 +126,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Use multimedia graphic novel courseware with audio narration and TLH-based inquiry questions to foster critical thinking in history learning.](../strategies/graphic-novel-audio-narration-history-courseware.md)
 - [Deliver video-based listening exercises through a structured online platform with limited replay attempts](../strategies/moodle-video-listening-exercises.md)
 - [Integrate animated video education into pre-procedural patient education](../strategies/animated-video-preprocedural-education-strategy.md)
+- [Use parallel, standardized interactive computer presentations with multimodal demonstrations for technique-skill training](../strategies/parallel-standardized-computer-presentations-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

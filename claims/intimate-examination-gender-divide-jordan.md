@@ -58,3 +58,4 @@ Cross-sectional survey of 188 Jordanian final-year medical students comparing in
 - [Patient's opposite sex was the most commonly reported barrier to both intimate-area examination and sexual history taking](opposite-sex-greatest-iae-sht-barrier.md) — related
 - [Most Saudi final-year medical students in the surveyed colleges had never performed many types of intimate-area examination during clinical training](saudi-students-never-performed-iae-survey.md) — related
 - [Sex-matched examination pattern: female students performed more female intimate-area examinations and male students more male ones](sex-matched-iae-experience-pattern.md) — possibly the same claim (merge candidate)
+- [Context factors can act synergistically, allowing adequate performance of an intimate examination without explanation or announcement](context-factors-act-synergistically.md) — related

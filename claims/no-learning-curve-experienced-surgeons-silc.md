@@ -49,3 +49,4 @@ Retrospective review of 290 SILCs by 4 surgeons; chronological procedure times p
 - [SILC conversion to multiport or open surgery occurred in 3.1% of cases, with no significant relationship between complications and surgeon experience](silc-conversion-rate-3-percent.md) — related
 - [Prior published studies report SILC learning curves ranging from 5 to 75 cases, without differentiating surgeons by prior training or experience](prior-silc-learning-curve-5-to-75-cases.md) — related
 - [When comparing between surgeons rather than within surgeons, operative times differed significantly across all first, middle, and last cohorts](between-surgeon-operative-time-differences.md) — related
+- [Residents proficient in conventional laparoscopic appendectomy show a significant learning curve when learning SILS appendectomy in pediatric patients](sils-appendectomy-learning-curve-pediatric-residents.md) — related

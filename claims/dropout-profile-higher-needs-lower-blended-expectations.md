@@ -47,3 +47,4 @@ Descriptive dropout analysis; the article states "The dropout sample was too sma
 ## Related Claims
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
 - [First-year medical students who completed an integrated blended-learning course scored higher on a video-based shoulder examination than students in a lecture-and-self-study control group](integrated-blended-learning-improves-shoulder-exam-performance.md) — related
+- [T1 dropout was largely non-selective: gender, age and patient experience were not significantly associated with dropout, though T1 participants had slightly higher T0 self-assessments on three items](t1-dropout-largely-non-selective.md) — reports the opposite

@@ -50,6 +50,7 @@ The article recommends that emergency physicians continue to receive objective f
 - [Integrate ongoing hands-on POCUS training into pediatric residency curricula to build resident competence and confidence](hands-on-pocus-training-integration-pediatric-residency.md)
 - [Provide an ongoing remote image-uploading gateway so experts can continue supporting trained non-cardiologists after formal training ends](remote-image-uploading-gateway-support.md)
 - [Provide consistent support and assistance to maintain learner eagerness with mobile skills](consistent-support-assistance-mobile-skill-eagerness.md)
+- [Sustain MI skill acquisition with ongoing coaching, feedback, supervision and on-the-job practice rather than training alone](ongoing-coaching-feedback-sustain-mi-skills.md)
 
 ## Examples
 -

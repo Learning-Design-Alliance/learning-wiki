@@ -20,7 +20,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (17 for, 46 mixed, 13 against) · 63 studies (19 associational, 15 theoretical, 8 causal, 8 review, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 5 of 63 report an effect size · 74 claims rest on one study
+> **Evidence** · 77 claims (18 for, 46 mixed, 13 against) · 64 studies (19 associational, 15 theoretical, 9 causal, 8 review, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 5 of 64 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Read against the model on 2026-10-15 and again on 2026-10-19; these bear on it o
 - [Introducing a mandatory practice module and a dedicated summative rhythm strip exam was associated with a 9-fold increase in student practice volume compared with voluntary practice without an exam](../claims/mandatory-module-summative-exam-ninefold-practice-increase.md) [~W] — attached 2026-11-08 from Waechter Jason et al. (2019), which proposed "Mandate a baseline practice module and pair deliberate practice with a dedicated summative exam to drive practice volume in skill-based learning".
 - [Embedding a summative component in online formative assessment doubled improvement scores (19% vs 38.5%, p < 0.0001)](../claims/summative-component-doubles-improvement-scores.md) [+W] — attached 2026-11-10 from Palmer Edward (2014), which proposed "Couple formative assessment to a summative component to drive student engagement with online learning material"; tests this page's relationship.
 - [Usage of the online cases rose sharply when a summative component was added, even for purely optional cases](../claims/summative-component-increases-optional-case-usage.md) [+W] — attached 2026-11-10 from Palmer Edward (2014), which proposed "Couple formative assessment to a summative component to drive student engagement with online learning material"; tests this page's relationship.
+- [Summative examinations increase the odds of correctly identifying at least three of five ECG diagnoses about five-fold compared with formative examinations](../claims/summative-assessment-increases-ecg-diagnosis-odds.md) [+W] — attached 2026-11-10 from Raupach Tobias et al. (2013), which proposed "Match summative examinations closely to desired learning outcomes and prioritize resources toward high-quality summative assessment".
 
 ## Objective and learner-valued goal
 

@@ -52,3 +52,4 @@ Narrative synthesis of twenty-two studies assessing Bayesian reasoning among hea
 - [Evidence is mixed on whether likelihood ratio formats yield more accurate post-test probability estimates than sensitivity and specificity](mixed-evidence-likelihood-ratio-versus-sensitivity-specificity.md) — related
 - [Presenting accuracy data as natural frequencies rather than probabilities improves post-test probability estimation and speed of calculations](natural-frequencies-improve-post-test-estimation.md) — related
 - [Natural frequencies combined with graphical aids produced the highest proportion of correct post-test probability estimates in one RCT](natural-frequencies-graphical-aids-highest-correct-estimates.md) — related
+- [Consensus favoured e-signposting, key feature problems and Bayesian reasoning questions, while narrative saturation, wordy presentation and invisible feedback were poorly received](vp-consensus-helpful-unhelpful-properties.md) — related

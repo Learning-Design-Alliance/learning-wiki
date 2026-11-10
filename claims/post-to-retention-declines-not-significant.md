@@ -57,3 +57,4 @@ McNemar tests comparing post-test and retention-test benchmark attainment in the
 - [TEE knowledge and view-acquisition skills persisted at three months, with scores decreasing only slightly from post-training levels](tee-scores-persist-three-month-follow-up.md) — a narrower finding that bears on this claim
 - [Performance declined from final post-test to 4-week retention test, but the deterioration was not statistically significant](retention-deterioration-not-significant-bronchoscopy.md) — possibly the same claim (merge candidate)
 - [Newly acquired ECG interpretation skills decline significantly between post-test and retention-test at every follow-up interval](ecg-skills-decline-after-tutorial.md) — related
+- [Training gains were not maintained at three-month follow-up, with no significant carry-forward differences between groups and deterioration in many outcome scores](no-carry-forward-effect-three-months.md) — related

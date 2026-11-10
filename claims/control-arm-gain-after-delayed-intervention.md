@@ -47,3 +47,4 @@ Within-arm Wilcoxon signed rank analysis in the control arm of the GLASS trial (
 ## Related Claims
 - [Simulation-trained residents scored significantly higher than conventionally trained residents at three months and one year](between-arm-competency-difference-three-months-one-year.md) — related
 - [A one-week intensive trabeculectomy simulation course produces a large, sustained increase in residents' simulated surgical competency scores](simulation-course-sustained-trabeculectomy-competency-gain.md) — related
+- [Matched-pair analysis showed large within-person score gains in the intervention arm and score losses in most control participants over the eight-month interval](matched-pair-gains-intervention-arm.md) — related

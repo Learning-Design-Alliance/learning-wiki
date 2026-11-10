@@ -50,3 +50,4 @@ Authors' interpretation in the Discussion: because the identical quizzes were no
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — a broader claim this one bears on
 - [Medical students using spaced study followed by quizzing achieved significantly higher recall accuracy than quiz-only students in sessions s1 and s2](study-quiz-group-higher-recall-accuracy.md) — related
+- [Testing effect operates in a realistic ongoing medical curriculum even without explicit feedback](testing-effect-in-ongoing-medical-curriculum.md) — related

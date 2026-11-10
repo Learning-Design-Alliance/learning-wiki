@@ -69,3 +69,7 @@ ANOVA across CI deciles (F(9, 848)=935.66, p<0.001) with post-hoc t-test showing
 - [Students in the first decile of Conscientiousness Index scores have significantly lower Educational Performance Measure decile scores than the remaining students](ci-first-decile-lower-epm.md) — related
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — related
 - [Conscientiousness Index scores significantly correlate with Prescribing Safety Assessment scores, and first-decile students score significantly lower](ci-predicts-prescribing-safety-assessment.md) — related
+- [CI % score distributions are negatively skewed with peaks around 90% in both years, suggesting medical students are a highly conscientious group](ci-percent-negatively-skewed-high-distributions.md) — related
+- [Conscientiousness Index % scores show no significant change from year 1 to year 2 of medical school in combined cohorts](ci-percent-no-change-year1-to-year2.md) — related
+- [CI % scores in year 1 correlate significantly with CI % scores in year 2 (R = 0.54 for combined cohorts)](ci-percent-year1-year2-correlation.md) — possibly the same claim (merge candidate)
+- [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](conscientiousness-stable-not-modified-by-teaching.md) — possibly the same claim (merge candidate)

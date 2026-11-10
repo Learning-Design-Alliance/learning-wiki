@@ -49,3 +49,4 @@ Pilot study with ten fourth-year undergraduate medical students (five female, fi
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
 - [Pilot students requested clearer instructions, more accessible hints, and more mystery in escape room design](escape-room-improvement-suggestions.md) — related
 - [Expert suggestions were incorporated to improve the scenario's realism and information](expert-suggestions-improved-scenario.md) — related
+- [Students report a learning–realism trade-off: branching cases feel more realistic but the linear case was judged the better learning experience](vp-learning-realism-tradeoff.md) — related

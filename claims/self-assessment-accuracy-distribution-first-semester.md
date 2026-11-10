@@ -59,3 +59,4 @@ Descriptive analysis of the self-assessment accuracy distribution in the same N 
 - [Student self-reported learning gains on the SALG survey do not accurately predict objective CAT gains in critical thinking](self-report-inaccurate-critical-thinking-gains.md) — related
 - [Among nursing students, 30 of 39 scored themselves lower than faculty on clinical competence in an OSCE evaluation](students-underestimate-competence-versus-faculty-osce.md) — related
 - [Both high and lower performers significantly underestimated their OSCE performance, so the high/low performer self-estimation pattern did not hold for the practical skills test](osce-underestimation-across-performer-levels.md) — related
+- [Self-assessed learning progress is strongly stratified by baseline level: students rating themselves 1 or 2 at T0 improved by 2.2 points on average, those rating 3 by 1.1, and those rating 4 or 5 by 0.1](learning-progress-stratified-by-baseline.md) — related

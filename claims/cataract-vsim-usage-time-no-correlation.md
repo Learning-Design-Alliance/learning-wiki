@@ -55,3 +55,4 @@ In the exploratory Spearman's correlation analysis, "no significant correlation 
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
 - [Time spent in the e-learning platform showed no correlation with the number, image quality, or accuracy of subsequent FAST examinations](no-correlation-elearning-time-fast-outcomes.md) — a narrower finding that bears on this claim
 - [Time spent on pre-placement work correlates positively with end-of-placement knowledge test performance](preparation-time-correlates-with-knowledge-test.md) — related
+- [Completion rate (percentage of screen cards viewed) correlated with post-test score, but usage time and formative scores did not](completion-rate-correlates-posttest.md) — related

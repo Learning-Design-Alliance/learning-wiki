@@ -73,3 +73,4 @@ Within-group paired t-tests on the 30-minute 10-tracing ECG test at baseline and
 - [The FRAICH method dominates students' ECG interpretation approaches, and a switch to sequential ECG analysis in the workshop group accompanied skill gains](fraich-dominant-sequential-analysis-switch.md) — related
 - [Baseline self-confidence in ECG interpretation does not correlate with baseline ECG exam performance](no-correlation-confidence-ecg-exam-score.md) — related
 - [A majority of SAFMEDS participants (7 of 13) achieved a pre-specified behavioural fluency criterion in ECG interpretation within eight weeks](safmeds-fluency-criterion-attainment.md) — related
+- [Peer teaching and lectures increase learning effort: peer teaching more than quadruples the odds of over two hours weekly ECG self-study versus self-directed learning](teaching-intensity-increases-learning-effort.md) — related

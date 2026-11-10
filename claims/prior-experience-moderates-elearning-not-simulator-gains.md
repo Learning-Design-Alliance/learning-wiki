@@ -70,3 +70,4 @@ Descriptive subgroup comparison within the simulator course sample (n = 18). Bas
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
 - [Two-module simulator training significantly increases neurosurgeons' self-assessed manual/technical UBE skills](simulator-training-increases-perceived-ube-skills.md) — related
 - [Simulation-mannequin training yields higher post-training theoretical TEE test scores than e-learning or hands-on operating-room training in novice residents](simulation-mannequin-higher-post-training-tee-theoretical-scores.md) — related
+- [Interactive learning yields a higher post-test knowledge gain than reproductive learning for participants with weak prior knowledge, but not for those with strong prior knowledge](interactive-beats-reproductive-low-prior-knowledge-anatomy.md) — related

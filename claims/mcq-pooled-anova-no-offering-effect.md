@@ -51,3 +51,4 @@ Pooled 4 × 2 mixed model ANOVA of DF and DI across all courses, with course and
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — related
 - [Reducing MCQs from five to three options slightly raises item difficulty index without a statistically significant difference](three-option-mcq-difficulty-index-slightly-higher.md) — related
 - [Mean item discrimination changes negligibly when reducing SBA options from five to three](item-discrimination-negligible-change-reduced-options-sba.md) — related
+- [Mean item discrimination did not differ significantly between three- and four-option forms, but item-level discrimination re-ordered considerably](discrimination-unchanged-item-level-reordering.md) — related

@@ -67,3 +67,4 @@ ANCOVA on combined two-year data for TT2 and TT3 controlling for previous cumula
 - [Students earning F grades attempted the most Quizzical questions, while A–C students showed similar, regular engagement patterns](grade-category-engagement-patterns.md) — related
 - [Higher Quizzical quiz-participation engagement is associated with higher formal exam performance after controlling for prior GPA](quizzical-participation-exam-performance.md) — a broader claim this one bears on
 - [Requiring students to author multiple-choice questions is associated with higher course performance after controlling for prior academic performance](mcq-authoring-course-performance.md) — related
+- [Students whose group scores decreased showed better cumulative-question retention on exam 3, but this pattern was not significant on exam 4](group-score-decrease-retention-exam3-only.md) — related

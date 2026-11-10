@@ -57,3 +57,4 @@ Pre- and post-course ten-question multiple-choice test completed by 367 of 429 a
 - [Medical students scored significantly higher on the post-course multiple-choice test than on the pre-test (P<0.001)](abcs3-posttest-higher-than-pretest.md) — related
 - [Mean multiple-choice scores for declarative knowledge rose from 5 to 7 out of 10 after ALICE use, in one uncontrolled pre-post study (P<.01)](alice-mcq-declarative-knowledge-gain.md) — related
 - [An e-learning course on delirium significantly improved nursing staff's knowledge, with a mean change score of 8.1 points and an effect size of 0.8](e-learning-delirium-course-improved-nurse-knowledge.md) — related
+- [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related

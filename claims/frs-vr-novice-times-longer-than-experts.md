@@ -55,3 +55,4 @@ One-sample t tests comparing 16 novices' first-attempt times to expert means acr
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [Novice medical students required far more time and clutch use on robotic tasks than an expert benchmark](novice-expert-performance-gap-robotic-tasks.md) — related
+- [Novices reached expert-benchmark performance levels on the four construct-valid tasks between the eighth and tenth repetition](novices-reach-benchmark-eight-to-ten-repetitions.md) — related

@@ -49,3 +49,4 @@ Pre/post-test results on translation among different modes of concept representa
 - [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related
 - [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](translation-difficulty-depends-on-concept-understanding.md) — related
+- [The in-sequence advantage reached statistical significance for the ORS topic (d = 0.85) but not for the FWS topic (d = 0.38)](in-sequence-effect-varies-by-topic.md) — related

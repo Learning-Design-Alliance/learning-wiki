@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 291 claims (196 show a difference, 57 mixed, 38 no difference) · 204 studies (67 causal, 50 associational, 44 review, 16 quant-synthesis, 16 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 55 of 204 report an effect size · 284 claims rest on one study
+> **Evidence** · 293 claims (197 show a difference, 58 mixed, 38 no difference) · 206 studies (68 causal, 50 associational, 44 review, 17 qualitative, 16 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 55 of 206 report an effect size · 286 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -333,6 +333,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Empathy ratings correlate negatively with penalty points on interactional OSCE stations in final-year medical examinations](../claims/empathy-interactional-osce-penalty-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Empathy ratings correlate with OSLER long-case penalty points awarded by a completely separate set of raters](../claims/empathy-osler-penalty-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Empathy ratings show no correlation with penalty points on procedural skills OSCE stations](../claims/empathy-procedural-osce-no-correlation.md) [-M] — learners who differ on it differ in outcomes
+- [Against published benchmarks from other Australian medical schools, new program graduates rated equivalent on prevention and interpersonal skills but significantly higher on confidence and collaboration](../claims/unsw-2009-graduates-higher-confidence-collaboration-vs-benchmarks.md) [~M] — measured as an outcome of the instruction studied
+- [Early clinical experience in primary health care centers particularly improves students' confidence, clinical reasoning, and interpersonal communication.](../claims/ece-phc-improves-confidence-reasoning-communication.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

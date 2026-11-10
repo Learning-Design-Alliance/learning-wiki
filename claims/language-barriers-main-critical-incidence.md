@@ -67,3 +67,4 @@ Same interview study; participants reported adapting pronunciation, articulation
 ## Related Claims
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Specialists reflecting on their own consultations focused on generic communication skills rather than specific intercultural communication skills](specialists-focus-generic-not-icc-skills.md) — related
+- [Specific patient verbal and non-verbal behaviour appears to shape GP communication, including reduced empathy and altered structuring](patient-behaviour-shapes-gp-communication.md) — related

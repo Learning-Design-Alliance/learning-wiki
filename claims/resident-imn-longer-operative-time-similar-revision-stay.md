@@ -97,3 +97,4 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [Trainee operations show longer hospital stay and higher perioperative blood loss than experienced surgeons, while experienced-surgeon patients report more days of painkillers at home](tvt-resource-outcome-differences.md) — related
 - [Extubation in the operating room was significantly higher in the late-experience group, while ICU and hospital stay did not differ](tavr-ar-extubation-in-or-higher-later-group.md) — related
 - [Trainee involvement increased mean operating time by approximately 10 minutes, with the difference confined to easier grade I-II cases](trainee-operating-time-10-minute-increase.md) — related
+- [Resident-performed SILS cholecystectomy achieves operative times similar to resident-performed traditional LC (70.0 vs 66.0 minutes).](resident-sils-operative-time-similar-traditional-lc.md) — related

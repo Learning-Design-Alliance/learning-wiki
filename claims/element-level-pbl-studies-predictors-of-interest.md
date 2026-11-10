@@ -73,3 +73,4 @@ The review reports Noordzij and Wijnia (accepted) examined effects of problem qu
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
 - [Situational interest in a PBL session follows a U-shape: it rises after the problem is presented and falls as knowledge closes the gap (knowledge-deprivation hypothesis)](knowledge-deprivation-hypothesis-situational-interest-u-shape.md) — related
+- [A special-issue study examined under which conditions students in PBL feel more autonomous and engage more cognitively](pbl-cognitive-engagement-autonomy-study.md) — related

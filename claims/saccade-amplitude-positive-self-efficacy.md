@@ -46,3 +46,5 @@ Model 4 of the multilevel analysis on participant-defined events; the article no
 
 ## Related Claims
 - [Increased self-reported internal focus negatively predicts event-level goal achievement and self-efficacy](internal-focus-negative-achievement-efficacy.md) — related
+- [Experts shorten saccades selectively in video sections where enlarged lymph nodes are present](experts-shorten-saccades-when-elns-present.md) — related
+- [Experts make shorter saccades than non-experts, contrary to the enlarged-perceptual-span hypothesis](experts-shorter-saccade-amplitudes.md) — related

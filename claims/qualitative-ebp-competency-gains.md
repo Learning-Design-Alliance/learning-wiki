@@ -53,3 +53,4 @@ Thematic analysis of semi-structured interviews with 18 undergraduate nursing st
 - [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](journal-clubs-enhance-critical-appraisal-pharmacy-students.md) — related
 - [A structured paired journal club activity leads pharmacy students to report new knowledge and increased confidence in critically evaluating research](journal-club-self-reported-knowledge-confidence-gains.md) — related
 - [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related
+- [Students were least confident in critically appraising studies even though the bulk of the module focused on critical appraisal](students-least-confident-critical-appraisal-despite-module-focus.md) — related

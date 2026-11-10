@@ -68,3 +68,4 @@ The same mixed-model comparison of the two trial arms on MITI global scores duri
 - [The intervention arm scored significantly higher than the attention control arm on the BECCI behaviour change counselling index (z = 3.22, p < .01)](becci-practitioner-score-arm-difference.md) — related
 - [No evidence of a group difference between trial arms in percentage of complex reflections or reflection-to-question ratio](no-arm-difference-complex-reflections-ratio.md) — related
 - [After MI/CBT skills training, primary care nurses achieved basic competency, with median MITI MI-Adherence of 86.2% and mean MITI Empathy of 4.09](nurse-post-training-basic-competency-miti.md) — related
+- [Overall BECCI-rated MI skill use showed no significant difference between trained and untrained nurses at one-year follow-up](becci-overall-no-significant-difference.md) — reports the opposite

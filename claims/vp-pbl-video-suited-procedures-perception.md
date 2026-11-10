@@ -9,6 +9,7 @@ generated:
   at: 2026-11-09
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-10
 sources:
   - id: luke-a-woodham-2015
     resource: "https://doi.org/10.2196/jmir.3922"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students and tutors suggested video offers particular advantages over text for representing clinical procedures. [→ Luke A Woodham 2015](#luke-a-woodham-2015)

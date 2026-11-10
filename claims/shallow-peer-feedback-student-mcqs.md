@@ -73,3 +73,4 @@ Survey items on the peer learning environment among 62 respondents, including th
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [Specific feedback was the most common trait and actionable feedback the least common in both trained and untrained groups](specific-most-actionable-least-trait.md) — related
+- [Participation in the online discussion boards varied widely, with seven students contributing disproportionately and no one reading all 156 messages](uneven-discussion-board-participation-online-pbl.md) — related

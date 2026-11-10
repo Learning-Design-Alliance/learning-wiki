@@ -52,6 +52,7 @@ A preparation strategy in which institutions give students extended, OSCE-specif
 - [Use OSCE as a strategy to enhance occupational therapy students' clinical skills and prepare them for practice](osce-strategy-ot-educators.md)
 - [Increase practice questions, simulated examinations, and peer tutoring to strengthen test strategies](practice-questions-simulated-exams-peer-tutoring-strategy.md)
 - [Comprehensive pre-exam SP and examiner training program with scripted cases, rubric walkthrough, video review, and simulated examinees](sp-examiner-pre-exam-training-program-strategy.md)
+- [Offer in-course assessments so students can test clinical-technical skills before the OSCE](in-course-skills-assessments-before-osce.md)
 
 ## Examples
 -

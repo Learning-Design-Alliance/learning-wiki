@@ -53,3 +53,5 @@ A qualitative meta-synthesis of prior meta-analyses comparing PBL with tradition
 - [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
+- [PBL students outperform traditional-curriculum students on long-term retention of core knowledge measured by progress tests](pbl-better-long-term-core-knowledge-retention.md) — a narrower finding that bears on this claim
+- [Prior reviews report PBL does not improve knowledge acquisition or test scores but may increase long-term retention and critical thinking](pbl-reviews-retention-not-acquisition.md) — possibly the same claim (merge candidate)

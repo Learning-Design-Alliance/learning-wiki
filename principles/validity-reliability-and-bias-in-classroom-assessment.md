@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 463 claims (228 for, 207 mixed, 28 against) · 346 studies (109 associational, 84 design, 60 causal, 48 review, 28 theoretical, 13 quant-synthesis, 4 qualitative), `q1`–`q3` · 30 of 346 report an effect size · 456 claims rest on one study
+> **Evidence** · 467 claims (231 for, 208 mixed, 28 against) · 349 studies (110 associational, 84 design, 61 causal, 48 review, 28 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 349 report an effect size · 460 claims rest on one study
 
 ## Conditional relationship
 
@@ -307,6 +307,10 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Multiple-choice assessment correlates at least as highly as open-ended assessment — and possibly more highly — with subsequent workplace performance after graduation](../claims/mcq-predicts-workplace-performance-better.md) [+W] — attached 2026-11-10 from Hift Richard J (2014), which proposed "Phase out open-ended questions from exit-level summative assessment in favour of well-constructed multiple-choice items"; tests this page's relationship.
 - [Concurrent validity, reliability, and item discrimination do not differ significantly across three-, four-, and five-option MCQ tests](../claims/mcq-option-number-no-validity-reliability-difference.md) [~W] — attached 2026-11-10 from Vegada Bhavisha et al. (2016), which proposed "Prefer three-option MCQs over four- and five-option formats for knowledge assessment"; tests this page's relationship.
 - [Frame-of-reference rater training makes raters rate more stringently and shifts group grading toward the observers' reference](../claims/rater-training-increases-stringency-toward-observers.md) [~W] — attached 2026-11-10 from Weitz G et al. (2014), which proposed "Implementing brief frame-of-reference rater training to improve fairness of clinical skills examinations is unlikely to be effective".
+- [Real-life GP consultations contain 19 identifiable context factors that may explain why GPs score low on generic communication assessment yet perform adequately](../claims/19-context-factors-explain-gp-communication-deviation.md) [+W] — attached 2026-11-10 from Essers G et al. (2011), which proposed "Communication assessment of GPs and registrars should explicitly account for context factors".
+- [Mean item discrimination did not differ significantly between three- and four-option forms, but item-level discrimination re-ordered considerably](../claims/discrimination-unchanged-item-level-reordering.md) [~W] — attached 2026-11-10 from Zoanetti N et al. (2013), which proposed "Decide the number of multiple-choice response options at the item level, on psychometric and educational grounds, rather than by a uniform policy"; tests this page's relationship.
+- [Four-option items averaged 1.18 non-functioning distractors, and removing one markedly improved discrimination and model fit for item 45](../claims/non-functioning-distractors-average-1-18.md) [+W] — attached 2026-11-10 from Zoanetti N et al. (2013), which proposed "Decide the number of multiple-choice response options at the item level, on psychometric and educational grounds, rather than by a uniform policy"; tests this page's relationship.
+- [Total UKCAT score correlates significantly but weakly with first-year medical school performance](../claims/ukcat-total-weakly-correlates-with-outcome.md) [+W] — attached 2026-11-10 from McManus I C et al. (2013), which proposed "Use the full range of existing educational attainment measures when making medical selection decisions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

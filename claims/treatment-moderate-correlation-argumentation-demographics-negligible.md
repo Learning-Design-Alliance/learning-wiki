@@ -54,3 +54,4 @@ Pearson Product Moment correlations among argumentation skill, grade, gender, et
 - [Demographic variables showed low to negligible relationships with content knowledge and argumentation skill](demographics-low-negligible-relationships-cde-outcomes.md) — related
 - [No significant correlation between demographic variables and clinical skills scores](no-demographic-correlation-clinical-skills.md) — related
 - [Comfort with computers, perception of prior online experiences, and number of prior experiences were all negligibly and non-significantly correlated](comfort-experience-count-correlations-null.md) — related
+- [Instructor demographics (teaching experience, gender, age) show mostly weak associations with student descriptor ratings, the strongest being a moderate positive correlation between teaching experience and initial enthusiasm ratings](weak-demographic-rating-associations.md) — related

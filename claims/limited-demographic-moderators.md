@@ -72,3 +72,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [Reading guides were used similarly across student groups by gender, ethnicity, and aptitude, with demographics contributing to completion in few cases and inconsistently](reading-guide-use-equitable-across-student-groups.md) — related
 - [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
 - [No differences in classroom anxiety by gender, ethnicity, or year in school were detected](no-anxiety-differences-demographics.md) — related
+- [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related

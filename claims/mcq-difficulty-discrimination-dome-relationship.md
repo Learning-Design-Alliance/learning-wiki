@@ -50,3 +50,4 @@ Graphical analysis plotting DF and DI for each course across offerings (Fig. 4).
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
 - [Three-option MCQ items tend to discriminate better between high and low performers than five-option items, but not significantly](three-option-mcq-discrimination-index-higher-not-significant.md) — related
 - [Changing from five-option to four-option MCQs produced only small, mixed changes in overall student scores across four courses](mcq-option-reduction-overall-scores.md) — related
+- [The mixed-option test form slightly reduces Rasch measurement error around person scores](mixed-option-reduces-measurement-error.md) — related

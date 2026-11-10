@@ -49,3 +49,4 @@ A qualitative focus group study of students' VGS experiences conducted by the te
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
 - [Engaging the teaching team early is essential for curricular uptake of virtual gaming simulation](teaching-team-engagement-essential-vgs-uptake.md) — related
+- [Students who appreciated the virtual slides more than their peers had a distinct profile of professionally motivated active learners](professionally-motivated-active-learner-profile.md) — related

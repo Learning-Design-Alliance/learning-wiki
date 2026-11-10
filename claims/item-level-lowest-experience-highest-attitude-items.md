@@ -46,3 +46,4 @@ Item-level descriptive results from the 280-resident survey (Table 2); the lowes
 
 ## Related Claims
 - [Japanese PGY-1 residents show moderate overall LGBT-related clinical competence, with attitudinal awareness highest and clinical preparedness and training lowest](japan-pgy1-lgbt-docss-moderate-competence-attitude-gap.md) — related
+- [Residents scored lowest on spending enough time with patients and suggesting community resources, per patient surveys](residents-low-scores-time-with-patients-community-resources.md) — related

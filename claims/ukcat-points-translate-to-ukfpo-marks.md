@@ -50,3 +50,4 @@ Multivariate multilevel results for the national cohort, with UKCAT scores rangi
 - [UKCAT scores retain incremental predictive validity over prior educational attainment for most outcomes, with quantitative reasoning the main exception](ukcat-incremental-validity-over-attainment.md) — related
 - [All UKCAT scale and total scores significantly predict theory-based exam performance throughout all 5 years of medical school, with small coefficients of roughly 0.1 to 0.2](ukcat-predicts-theory-exams-all-five-years.md) — related
 - [UKCAT total explains around 5% of variance in EPM and 6% in H&C in bivariate regression](ukcat-total-variance-explained-composites.md) — related
+- [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related

@@ -50,3 +50,4 @@ Cross-sectional survey reporting never-performed proportions in 188 final-year J
 - [Male medical students in Jordan consistently outperform female students in performing more than 10 general clinical examinations on any patient during training](males-more-general-examinations-jordan.md) — related
 - [Male students report far less supervisor support for intimate examinations than female students, while general-examination confidence shows no gender difference](supervisor-support-gender-difference-intimate-exams.md) — related
 - [Most Saudi final-year medical students in the surveyed colleges had never performed many types of intimate-area examination during clinical training](saudi-students-never-performed-iae-survey.md) — related
+- [Context factors can act synergistically, allowing adequate performance of an intimate examination without explanation or announcement](context-factors-act-synergistically.md) — related

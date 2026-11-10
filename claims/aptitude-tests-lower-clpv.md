@@ -56,3 +56,4 @@ Meta-regression of nine aptitude-test CLPVs from three cohorts. The article repo
 - [Selection ratios show stronger selection on GCE qualifications (A-levels .656) than SQA qualifications, and strongest on derived composite attainment measures (GCE .358)](selection-ratios-vary-by-predictor.md) — related
 - [UKCAT scores retain incremental predictive validity over prior educational attainment for most outcomes, with quantitative reasoning the main exception](ukcat-incremental-validity-over-attainment.md) — related
 - [The intellectually flexible facet (aptitude test score and openness) contributes to selection odds despite not differing between groups](intellectually-flexible-facet-selection-odds.md) — related
+- [The AH5 aptitude test showed inconsistent and largely non-significant correlations with medical education outcomes, unlike attainment measures](ah5-aptitude-inconsistent-prediction.md) — related

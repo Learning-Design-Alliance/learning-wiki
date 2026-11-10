@@ -76,3 +76,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](classroom-learning-more-comprehensive-than-recorded-video.md) — related
 - [75% of recent studies report a direct relation between Open Teaching and MOOC, dependent on MOOC design](mooc-open-teaching-relation-design-dependent.md) — related
 - [Students preferred flexible recorded online sessions over face-to-face teaching after completing SATMAS](satmas-online-preference.md) — related
+- [Students preferentially accessed lecture slides and practical videos over other repository resource types, with video uptake rising and slide uptake falling between 2009 and 2010](lecture-slides-videos-most-accessed.md) — related

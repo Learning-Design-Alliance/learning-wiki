@@ -51,6 +51,8 @@ Based on the study's findings, the authors give educators seven recommendations:
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Adopt a hybrid model and enhance interactive online elements to bridge the gap between online and face-to-face clinical teaching](hybrid-model-enhanced-interactivity-clinical-online.md)
 - [Implement four user-suggested improvements when deploying interactive clinical avatar simulations](avatar-implementation-improvement-strategy.md)
+- [Motivate students and lower access barriers when integrating voluntary virtual patients into a course](motivate-students-voluntary-vp-integration.md)
+- [Use MVW-CPR team training as pre-training before, or repetitive training after, conventional CPR courses](mvw-cpr-pretraining-before-conventional-courses-strategy.md)
 
 ## Examples
 -

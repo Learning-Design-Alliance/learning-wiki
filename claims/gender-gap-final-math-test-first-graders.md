@@ -55,3 +55,4 @@ Secondary correlational analysis of age and gender across all conditions in the 
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
 - [Math anxiety levels do not differ significantly by gender among third graders](math-anxiety-no-gender-difference-third-graders.md) — related
 - [Girls outperform boys in literacy achievement while no gender difference appears in mathematics performance](gender-literacy-advantage-no-math-difference.md) — reports the opposite
+- [Secondary school girls and boys show no significant difference in mathematics performance on timed mental mathematics tests](no-gender-difference-secondary-maths-performance.md) — reports the opposite

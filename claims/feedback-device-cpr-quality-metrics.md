@@ -49,3 +49,4 @@ Objective CPR-quality data recorded by the manikin's feedback software for 52 pa
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
+- [Tidal volumes delivered by rural EMS providers during simulated CPR significantly exceeded the recommended maximum of 600 ml](rural-ems-tidal-volume-exceeded-600ml.md) — related

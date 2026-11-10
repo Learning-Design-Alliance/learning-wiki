@@ -51,3 +51,4 @@ Qualitative in-depth interviews (approximately 50 minutes, 8 guide questions) wi
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Focus groups identified five themes about riAniMO: realism, team strength, reduced training burden, facilitator feedback, and evaluation transparency](rianimo-focus-group-five-themes.md) — related
 - [A single facilitated work-through with instant feedback restored decayed performance to proficiency on a simulated model](brief-facilitated-retraining-restores-proficiency.md) — related
+- [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related

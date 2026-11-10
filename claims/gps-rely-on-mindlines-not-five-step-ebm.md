@@ -49,3 +49,4 @@ Direct-observation qualitative study of GPs in two UK practices, reported within
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
 - [Search and critical-appraisal skills lacked credibility as core GP competencies in the systematic review](search-appraisal-skills-lack-credibility-gp-competencies.md) — related
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
+- [GPs preferred the intervention's evidence base to be drawn from research in their own countries or familiar national sources](country-relevant-evidence-preference.md) — related

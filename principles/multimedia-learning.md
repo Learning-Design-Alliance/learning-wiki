@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 132 claims (59 for, 69 mixed, 4 against) · 104 studies (59 causal, 17 review, 15 quant-synthesis, 5 associational, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 25 of 104 report an effect size · 122 claims rest on one study
+> **Evidence** · 133 claims (60 for, 69 mixed, 4 against) · 105 studies (60 causal, 17 review, 15 quant-synthesis, 5 associational, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 25 of 105 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Video annotations outperform picture and text-only annotations for learning difficult vocabulary words](../claims/video-annotations-outperform-pictures-for-difficult-words.md) [+W] — attached 2026-11-03 from Lin et al. (2012), which proposed "Use video annotations when target word meanings are difficult or unfamiliar to learners"; tests this page's relationship.
 - [Video training produces greater post-training total questionnaire score improvements than PDF training in physicians' invasive fungal disease knowledge](../claims/video-training-superior-ifd-knowledge-gains.md) [+W] — attached 2026-11-04 from Chen Yijian et al. (2026), which proposed "Incorporate video-based learning tools into medical training for complex clinical knowledge"; tests this page's relationship.
 - [Dental students' immediate post-injury performance knowledge, PEP knowledge, and needle-covering knowledge rose significantly from pre-test to post-test after an animated-video educational intervention, in one group with no comparison group](../claims/animated-video-improves-soi-knowledge-dental-students.md) [+W] — attached 2026-11-06 from Zarabadipour Mahdieh et al. (2025), which proposed "Use short animated visual learning tools covering post-injury steps, PEP protocols, and safe needle handling to teach sharp object injury management in dental curricula".
+- [Medical students taught rhomboid flap design with multimedia CAL software earn higher OSATS checklist scores than students taught with printed text](../claims/cal-checklist-scores-superior-printed-text.md) [+W] — attached 2026-11-10 from de Sena David P. et al. (2013), which proposed "Use short multimedia CAL modules combining animation, audio and text as an ancillary self-learning tool for procedural skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

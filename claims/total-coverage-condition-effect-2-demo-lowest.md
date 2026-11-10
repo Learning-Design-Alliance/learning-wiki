@@ -48,3 +48,4 @@ ANOVA on log-based total coverage (mean 70.2%) across the three conditions of 65
 - [Video coverage declined significantly after the preview, and reviews were viewed more fully than second demonstrations](coverage-declines-after-preview-reviews-beat-second-demos.md) — related
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
 - [Adding reviews or a second demonstration did not significantly improve self-efficacy or learning over the control condition](no-condition-effect-reviews-second-demonstrations.md) — related
+- [Tutorial coverage of learning objectives differed considerably by organ system, from 90% (Nervous System) to 30% (Respiratory System).](coverage-varies-by-organ-system-nervous-respiratory.md) — related

@@ -52,3 +52,4 @@ Authors' interpretation of the randomized trial's three-month follow-up results,
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [Previous simulated FONA procedures correlated moderately with first-evaluation score but practically not with final-evaluation score](simulated-fona-experience-first-eval-association.md) — related
 - [Complex spinal manipulation skills decline significantly within at least 6 months regardless of instructional method](spinal-manipulation-skills-decline-six-months.md) — related
+- [Procedural skill performance declines in nearly all students within 3 to 6 months regardless of teaching method](skill-decline-nearly-all-students.md) — reports the opposite

@@ -51,3 +51,4 @@ Post-class questionnaire (Cronbach's alpha 0.981, KMO 0.941) completed by 121 of
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
+- [Workshop satisfaction was higher on all items for the simulation group but none of the differences were significant](simulation-satisfaction-higher-not-significant.md) — reports the opposite

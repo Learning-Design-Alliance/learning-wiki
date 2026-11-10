@@ -53,3 +53,5 @@ Randomised trial measuring the Safety Attitudes Questionnaire 1 month before and
 - [In situ simulation participants generate more suggestions for organisational changes than off-site participants](iss-more-organisational-change-suggestions.md) — related
 - [ISS participants described more experiences that would involve organisational changes than OSS participants, giving in situ simulation an organisational impact off-site simulation lacked](iss-greater-organisational-impact-than-oss.md) — related
 - [In situ participants rate simulation authenticity significantly higher than off-site participants, yet this perception did not influence individual or team outcomes](iss-higher-authenticity-rating-no-outcome-effect.md) — related
+- [SBTT improved nurse assistants' teamwork climate, safety climate and working conditions, and nurses' safety climate, but not physicians' SAQ scores](sbtt-saq-factors-profession-divergence.md) — related
+- [Stress recognition scores decreased for nurses and nurse assistants after SBTT](sbtt-stress-recognition-decrease.md) — related

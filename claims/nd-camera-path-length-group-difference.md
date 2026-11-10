@@ -53,3 +53,4 @@ Between-group analysis of non-dominant camera path length across the three exper
 - [Experts dissect pulmonary vessels faster and complete robotic vascular tasks in shorter time than novices, with no difference in path length](expert-novice-speed-time-motion-metrics-rats.md) — related
 - [Experienced operators travelled a much shorter probe path than novices during the biometry task](shorter-probe-path-experienced-ultrasound-operators.md) — related
 - [Baseline differences existed between groups on angular path length, total time, and interest/enjoyment](baseline-differences-angular-path-time-interest.md) — related
+- [VR training reduced camera path length in inexperienced surgeons, a statistically significant improvement over untrained controls (p = 0.02)](vr-training-reduces-camera-path-length.md) — related

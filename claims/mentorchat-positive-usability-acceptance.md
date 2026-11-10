@@ -75,3 +75,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — related
 - [Lapp received mostly positive usability ratings from the remote-feedback group, with some reported navigation problems](lapp-positive-usability-survey-navigation-problems.md) — related
 - [Pilot participants rated the CAI highly usable and effective for nutritional assessment learning](cai-pilot-high-usability-effectiveness-ratings.md) — related
+- [Students rated the automated testing station very positively, with mean scores of 5.3/6 for instructional organisation and 5.0/6 for usability](students-rate-automated-bls-testing-positively.md) — related

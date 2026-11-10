@@ -55,3 +55,4 @@ Nonparametric Mann-Whitney U tests on VASS scores (pre-test n = 239, post-test n
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
 - [VASS attitude classifications can be grouped into folk, transitional, and expert profiles using percent expert-like response](vass-three-profile-classification.md) — related
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
+- [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related

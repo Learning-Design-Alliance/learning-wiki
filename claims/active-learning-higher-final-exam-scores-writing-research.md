@@ -59,3 +59,4 @@ Quasi-experimental comparison of two groups of female students (n=137 control, n
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
 - [Students taught with a flipped classroom methodology obtained higher quantitative exam grades than students taught with lecture-based learning in a social work university course](flipped-classroom-higher-quantitative-exam-grades-social-work.md) — related
 - [Students taught with identical flipped active-learning instruction show no performance difference between a SCALE-UP–type classroom and a traditional lecture hall](scale-up-classroom-no-performance-advantage.md) — related
+- [The vast majority of students scored higher on their group exam than on their individual exam](93-point-9-percent-group-score-higher.md) — related

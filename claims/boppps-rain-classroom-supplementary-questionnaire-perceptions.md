@@ -68,3 +68,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Over 98% of students in the video feedback group were satisfied with the smartphone-based video feedback teaching method](high-student-satisfaction-smartphone-video-feedback.md) — related
 - [Most undergraduate medical students perceive the Clinical Reasoning Map as improving their understanding of complex cases, but it shows no clear recall advantage over a list of diagnoses](crm-undergraduates-perceived-understanding-no-recall-advantage.md) — related
 - [Students reported close-to-moderate perceived gains in problem-solving and knowledge-construction abilities](perceived-learning-gains-close-to-moderate.md) — related
+- [Students responded favorably to collaborative testing, reporting high involvement, reduced stress, and interest in future group-testing classes](positive-student-perceptions-collaborative-testing.md) — related

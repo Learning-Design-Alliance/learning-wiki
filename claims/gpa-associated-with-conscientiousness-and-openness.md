@@ -58,3 +58,4 @@ Aggregated GPA regression across the three TOSCA studies with all students, Mode
 - [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related
 - [Cognitive ability is the strongest pretraining predictor of academic and military GPA](cognitive-ability-best-predictor-academic-military-gpa.md) — related
 - [Curriculum-sampling test scores show no significant relationship with cognitive ability but indicate noncognitive saturation, especially perceived test competence](curriculum-sampling-construct-saturation-test-competence.md) — related
+- [Non-cognitive traits (narcissism, aloofness, irrational thinking, conscientiousness, confidence, INVOLVEMENT) predict examination performance, but not Theme C](non-cognitive-traits-predict-exam-outcomes.md) — related

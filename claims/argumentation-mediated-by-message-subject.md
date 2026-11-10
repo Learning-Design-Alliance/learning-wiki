@@ -70,3 +70,4 @@ Correlational and regression analyses at discussion level (n = 36) found less ar
 - [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
 - [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md) — related
 - [Discussion forums were rated moderately positively (mean 3.4–3.8 of 5) but obligatory participation and message volume drew negative comments](discussion-forums-moderately-positive-obligatory-comments-negative.md) — related
+- [Revised paper discussions contain significantly more opinions, argumentation, and broaden-and-deepen units, with large effect sizes except for broaden-and-deepen](revised-papers-more-opinions-argumentation.md) — related

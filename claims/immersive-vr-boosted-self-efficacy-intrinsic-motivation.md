@@ -77,3 +77,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [An intravenous injection VR simulator program improved nursing students' knowledge, acceptance, and motivation](ivr-injection-vr-simulator-nursing-knowledge.md) — related
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [Caregivers of children with tracheostomy who received simulation training had higher post-test confidence, and mortality in their homes was lower than for caregivers without simulation (study A4)](tracheostomy-caregiver-simulation-confidence-mortality-a4.md) — related
+- [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related

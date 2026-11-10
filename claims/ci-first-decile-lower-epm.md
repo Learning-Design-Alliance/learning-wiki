@@ -52,3 +52,4 @@ T-test comparison of EPM decile scores between first-CI-decile students and the 
 - [Conscientiousness Index scores in years 1–2 of medical school significantly correlate with later UK Foundation Programme Situational Judgement Test scores](ci-predicts-foundation-programme-sjt.md) — related
 - [Conscientiousness Index scores significantly correlate with Prescribing Safety Assessment scores, and first-decile students score significantly lower](ci-predicts-prescribing-safety-assessment.md) — related
 - [The Conscientiousness Index is stable between years 1 and 2 of medical school, and its first decile differs from all other deciles](ci-stable-across-years-first-decile-distinct.md) — related
+- [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](conscientiousness-stable-not-modified-by-teaching.md) — related

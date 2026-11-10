@@ -49,3 +49,4 @@ Paired sample t-tests on the short-answer test: experimental group rose from 5.8
 - [Computer-assisted Roundhouse Diagrams produced higher posttest scores than the Context-Based Learning curriculum alone on a 9th-grade Force and Motion multiple-choice achievement test](roundhouse-diagrams-higher-achievement-test-posttest.md) — related
 - [Roundhouse Diagrams helped reveal student misconceptions, which students generally reflected in the visuals they drew](roundhouse-diagrams-reveal-misconceptions.md) — related
 - [Within-group gains on the multiple-choice achievement test were significant only for the Roundhouse Diagram group, not the control group](roundhouse-gain-significant-control-not.md) — related
+- [Students show significant short-term knowledge gains in integrated laboratory classes covering liver function tests and adrenal function](ilc-significant-pre-posttest-gains.md) — a narrower finding that bears on this claim

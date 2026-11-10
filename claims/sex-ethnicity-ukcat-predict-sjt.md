@@ -55,3 +55,4 @@ Multiple regression on UKMED graduate-entrant data predicting normalised FPAS SJ
 - [Female gender, increasing age, white ethnicity and more affluent IMD quintile were significantly and positively associated with all four UKFPO outcome measures](sociodemographic-factors-predict-ukfpo-outcomes.md) — related
 - [The abstract reasoning subtest did not significantly predict SJT performance, unlike the other three UKCAT domains](ukcat-abstract-reasoning-not-predictive-of-sjt.md) — related
 - [The UKCAT total score and its cognitive subtests have small but significant predictive validity for medical school exit performance on the EPM and SJT](ukcat-predicts-exit-performance-epm-sjt.md) — related
+- [UKCAT cognitive test scores predict examination results but seldom tutor-rated professional behaviours](cognitive-scores-predict-exams-not-behaviours.md) — related

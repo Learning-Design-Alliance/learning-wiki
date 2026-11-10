@@ -53,3 +53,4 @@ Anonymous satisfaction survey of 54 students (60% of quiz participants; 30% of a
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
 - [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related
 - [Residents unanimously rated the module's embedded self-assessment checkpoint questions as helpful for reinforcing learning](embedded-checkpoint-questions-rated-helpful.md) — related
+- [Students preferred the online repository to other sources of learning material primarily because of its efficiency of access](students-prefer-repository-for-efficiency.md) — a narrower finding that bears on this claim

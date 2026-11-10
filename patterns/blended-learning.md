@@ -241,6 +241,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Deliver theoretical content online and reserve face-to-face lessons for practice in blended communication courses](../strategies/online-theory-face-to-face-practice-strategy.md)
 - [Adopt a mixed mode combining classroom and e-learning for post-graduate health-professions education](../strategies/mixed-mode-classroom-elearning-postgraduate-strategy.md)
 - [Use e-learning as structured preparation before a lecture and practical seminar (blended design for skills courses)](../strategies/elearning-structured-preparation-before-lecture-seminar.md)
+- [Blend face-to-face lectures with delayed e-mail spaced education questions to activate students](../strategies/blend-lectures-with-delayed-email-spaced-questions-strategy.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

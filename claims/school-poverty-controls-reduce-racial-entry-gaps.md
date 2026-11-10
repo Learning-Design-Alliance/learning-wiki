@@ -68,3 +68,4 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related
 - [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related
 - [Achievement gaps (gender, racial, class year, math background) were smaller at the end of the course than before it, based on a pre-test/post-test comparison within the course](course-tended-to-reduce-achievement-gaps.md) — related
+- [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](cognitive-test-group-differences-explain-underrepresentation.md) — related

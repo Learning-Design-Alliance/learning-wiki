@@ -50,3 +50,4 @@ Review discussion of supplemental-model challenges, citing included studies. The
 - [Strategy freedom leads students to skip unit and substance steps, reducing conceptual practice opportunities](strategy-freedom-skips-unit-substance-steps.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [Students disengage at a 'skipping threshold', and data logs triangulate self-reported skipping with actual skipping behaviour](vp-skipping-threshold-triangulated.md) — related

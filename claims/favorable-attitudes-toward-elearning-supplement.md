@@ -48,3 +48,4 @@ Questionnaire of 30 experimental-group students on a five-point Likert scale sho
 - [E-learning increases student motivation to study English](elearning-increases-student-motivation.md) — related
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
+- [Students hold positive attitudes towards e-learning that do not change over the course, yet continue to regard face-to-face lectures as the basis of their education](positive-e-learning-attitudes-lectures-still-basis.md) — related

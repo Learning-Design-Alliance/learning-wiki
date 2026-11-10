@@ -49,3 +49,4 @@ Demographic comparison in the Results section between the target population of h
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](demographics-null-adks-jeddah.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
+- [Socio-demographic characteristics and A-level qualifications did not distinguish course-completers from non-completers among identified struggling students](demographics-alevels-not-distinguish-strugglers.md) — related

@@ -93,6 +93,7 @@ Multimodal resources can support learning when verbal and visual channels are co
 - [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
 - [Use curated resources (BEME, Twelve tips, ALiEM primers, AMEE Guides, KeyLIME, ALiEM eBooks) to develop evidence-based educational initiatives](evidence-based-education-resource-toolbox.md)
 - [Do not use multimodal independent study resources in a condensed course to introduce new material](independent-resources-reinforce-not-introduce-strategy.md)
+- [Provide online learning repositories with browsing or topic-mapping functions alongside keyword search, and keep access simple enough for low-technology-confidence users](repository-browse-mapping-functions-strategy.md)
 
 ## Examples
 - **[Newsela](https://newsela.com)** — the same news article at multiple reading levels, pairing text with quizzes; a tiered-library implementation for mixed-readability classrooms.

@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 43 claims (23 for, 18 mixed, 2 against) · 44 studies (19 causal, 7 theoretical, 6 quant-synthesis, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 44 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (24 for, 18 mixed, 2 against) · 45 studies (19 causal, 7 theoretical, 6 quant-synthesis, 5 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 45 report an effect size · 40 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -79,6 +79,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](../claims/constructivist-teaching-efm-aspect-gains.md) [+W] — attached 2026-11-06 from Chen Zhuli et al. (2025), which proposed "Constructivist teaching applied to electronic fetal monitoring training".
 - [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](../claims/prior-knowledge-predicts-benefit-construction-based-learning.md) [+W] — attached 2026-11-08 from Garvin Brod (2021), which proposed "Construction-of-understanding ecosystem modified to include four prerequisite nodes: agency beliefs, prior knowledge, cognitive capacities, and metacognitive capacities".
 - [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](../claims/guidance-improves-k12-inquiry-outcomes-inverted-u.md) [+W] — attached 2026-11-08 from Garvin Brod (2021), which proposed "Construction-of-understanding ecosystem modified to include four prerequisite nodes: agency beliefs, prior knowledge, cognitive capacities, and metacognitive capacities".
+- [Instructor practices targeting student misconceptions about natural selection are positively associated with learning gains on the CINS-abbr](../claims/misconception-targeting-associated-with-gains.md) [+W] — attached 2026-11-10 from Andrews T. M. et al. (2011), which proposed "Constructivist-expertise account: active learning improves learning only when implemented with the constructivist elements that science-education researchers possess".
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

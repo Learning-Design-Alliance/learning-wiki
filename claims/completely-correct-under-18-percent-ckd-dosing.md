@@ -69,3 +69,4 @@ Item-level analysis of completely correct responses from the same survey, knowle
 - [Knowledge of the GFR level at which CKD medications need adjustment was greater for PGY3 than PGY1 for allergy, cardiovascular, endocrine, and gastrointestinal classes but not for analgesic or neuropsychotropic classes](knowledge-pgy-gains-four-classes-not-two-ckd.md) — related
 - [78.9% of the surveyed house-staff recognized that digoxin needs dose adjustment in CKD](digoxin-awareness-78-9-percent-ckd.md) — related
 - [No internal medicine house-staff scored 26/26 correct on CKD medication dose-adjustment awareness, and only 0.6% scored 25/26](no-resident-scored-26-of-26-ckd-dosing-awareness.md) — related
+- [Baseline CKD knowledge among U.S. internal medicine residents is poor, with mean pre-test scores of 45.1–57.0% across four years](poor-baseline-ckd-knowledge-residents.md) — related

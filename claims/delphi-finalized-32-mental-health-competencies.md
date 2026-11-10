@@ -65,3 +65,4 @@ Modified Delphi study reporting final voting outcomes. The abstract states "Foll
 - [Experts proposed new activities and modifications that were incorporated into the model, while several checklist-derived activities failed to reach consensus](delphi-expert-proposals-and-exclusions.md) — related
 - [A two-round eDelphi with eight external experts refined the EPR domains and learning outcomes to a final set of 32 outcomes](edelphi-refined-epr-outcomes-to-32.md) — related
 - [A Delphi study identified 18 skills for Advanced Access and 22 skills for Process Redesign logistics improvement projects](delphi-18-22-skills-logistics-improvement.md) — related
+- [A modified Delphi panel of 23 health professions education experts reached consensus on 62 of 64 health literacy educational competencies and 32 of 33 health literacy practices after four rating rounds](delphi-consensus-62-competencies-32-practices.md) — related

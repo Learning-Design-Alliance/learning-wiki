@@ -49,3 +49,5 @@ Cross-sectional satisfaction survey of 112 enrolled gynecologists (junior n=34, 
 - [Prior laparoscopic training experience is associated with greater satisfaction regarding training productivity](prior-laparoscopic-experience-productivity-satisfaction.md) — a narrower finding that bears on this claim
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — related
+- [Job satisfaction increases significantly with seniority among core psychiatry trainees, but the cross-sectional design cannot confirm a causal trend](job-satisfaction-increases-with-seniority.md) — related
+- [Trainees identified protective factors that improved the general adult inpatient training experience, including an actively involved consultant and a balanced senior-junior trainee pair](protective-factors-general-adult-inpatient-training.md) — related

@@ -85,3 +85,4 @@ Discussion, authors' interpretation beyond prior publications: 'Potential barrie
 ## Related Claims
 - [Clinical reception training with SPs and dental simulators yields superior history taking, physical examination, and doctor-patient communication performance versus traditional training](sp-dental-simulator-reception-training-improves-history-exam-communication.md) — related
 - [Online-only format fostered more intensive student–teacher communication, with cameras on and small groups as key enablers](online-teacher-communication-more-intensive-cameras-small-groups.md) — related
+- [Students form e-relationships with case characters, and sustaining more than two relationships becomes difficult](vp-e-relationships-relationship-threshold.md) — related

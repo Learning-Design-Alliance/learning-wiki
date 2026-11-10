@@ -66,3 +66,4 @@ Objective attempt-log analysis of re-quiz durations: "this summed duration over 
 ## Related Claims
 - [Delayed re-quizzing predicts higher high-stakes cumulative final exam scores when controlling for preparation](delayed-requizzing-final-exam-gain.md) — related
 - [Students who were more successful in General Chemistry I were more likely to participate in delayed re-quizzing](prior-chem-success-predicts-requizzing.md) — related
+- [Leipzig medical students use the Internet for study purposes on average 8.3 hours per week](leipzig-students-8-3-hours-internet-study.md) — related

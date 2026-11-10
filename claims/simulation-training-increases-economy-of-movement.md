@@ -48,3 +48,5 @@ Review of 8 studies measuring economy of movement including camera navigation, e
 ## Related Claims
 - [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — a narrower finding that bears on this claim
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — a broader claim this one bears on
+- [The authors hypothesize that games stimulating target focusing improve gaze strategy, consistent with their observed reduction of movements and increased economy of path and accuracy](target-focusing-games-gaze-strategy-hypothesis.md) — a narrower finding that bears on this claim
+- [Wii training affected accuracy and economy of movement most strongly, while total task time did not differ significantly between groups for two tasks](wii-training-accuracy-economy-over-speed.md) — a narrower finding that bears on this claim
