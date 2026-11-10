@@ -54,6 +54,7 @@ Based on the null results, the article recommends that conflict orientation trai
 - [Integrate longitudinal support such as group mentorship into change-agent training to foster lasting skill development](longitudinal-support-agency-training.md)
 - [Give the User Training step further attention in entry-to-practice programs, using 2–4 hours of experiential bootcamp-style wheelchair skills learning](user-training-step-attention-strategy.md)
 - [Incorporate experiential learning programs into the learning process so students strengthen attitudes, abilities, and skills](incorporate-elp-into-learning-process-strategy.md)
+- [Provide teachers with diversity training and conflict-resolution skills for facilitating heterogeneous PBL groups](diversity-training-for-pbl-facilitators.md)
 
 ## Examples
 -

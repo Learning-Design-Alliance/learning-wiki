@@ -47,3 +47,4 @@ In the same five-group quasi-experiment, Group 5 played Kahoot® team-based at b
 ## Related Claims
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
+- [In paired individual-then-group quizzes, group quiz grades exceeded the individual grades of term high achievers, and matched the daily top performer's grades](group-quiz-grades-exceed-high-achievers.md) — related

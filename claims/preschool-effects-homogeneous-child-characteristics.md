@@ -72,3 +72,4 @@ The same interaction analyses found suggestive SES heterogeneity (3 of 16 intera
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
 - [No significant treatment by demographic interactions were detected in moderation analyses](no-significant-treatment-demographic-interactions.md) — related
 - [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — a narrower finding that bears on this claim

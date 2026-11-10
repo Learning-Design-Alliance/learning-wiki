@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 563 claims (361 for, 177 mixed, 25 against) · 360 studies (161 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 360 report an effect size · 558 claims rest on one study
+> **Evidence** · 565 claims (361 for, 179 mixed, 25 against) · 361 studies (162 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 361 report an effect size · 560 claims rest on one study
 
 ## Conditional relationship
 
@@ -561,6 +561,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [VR training reduced camera path length in inexperienced surgeons, a statistically significant improvement over untrained controls (p = 0.02)](../claims/vr-training-reduces-camera-path-length.md) [+W] — attached 2026-11-10 from Andersen C et al. (2011), which proposed "Use short immersive VR simulator training programs to help inexperienced surgeons acquire basic navigation skills before supervised real surgery"; tests this page's relationship.
 - [VR training reduced depth of collisions with surrounding tissue in inexperienced surgeons relative to untrained controls (p = 0.02)](../claims/vr-training-reduces-collision-depth.md) [+W] — attached 2026-11-10 from Andersen C et al. (2011), which proposed "Use short immersive VR simulator training programs to help inexperienced surgeons acquire basic navigation skills before supervised real surgery"; tests this page's relationship.
 - [After VR training, inexperienced surgeons completed the test faster than experienced arthroscopic surgeons, but not statistically significantly (p = 0.4)](../claims/vr-trained-interns-match-experienced-surgeons-on-vr.md) [~W] — attached 2026-11-10 from Andersen C et al. (2011), which proposed "Use short immersive VR simulator training programs to help inexperienced surgeons acquire basic navigation skills before supervised real surgery".
+- [Additional mannequin simulation training beyond a brief session does not improve medical students' LMA placement success ratings in real patients](../claims/additional-mannequin-training-no-lma-placement-benefit.md) [~M] — attached 2026-11-10 from Laiou Elpiniki et al. (2011), which proposed "Educators should match simulation fidelity and training dose to the difficulty of the clinical skill being taught"; tests this page's relationship.
+- [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](../claims/mannequin-low-fidelity-participant-feedback-lma.md) [~M] — attached 2026-11-10 from Laiou Elpiniki et al. (2011), which proposed "Educators should match simulation fidelity and training dose to the difficulty of the clinical skill being taught".
 
 ## Objective and learner-valued goal
 
@@ -844,6 +846,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](../strategies/daily-repeated-vr-practice-then-final-test.md)
 - [Add a self-assessment mode without real-time instructions to immersive VR procedural training modules](../strategies/vr-self-assessment-mode-no-instructions.md)
 - [Adopt a mixed learning mode combining virtual simulation with practical tactile experiences and teacher guidance](../strategies/mixed-learning-mode-vr-plus-tactile.md)
+- [Attach skills-training models to a simulated patient so students attend to the person and practice communication during the procedure](../strategies/attach-model-to-simulated-patient-for-communication.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

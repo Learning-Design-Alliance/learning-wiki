@@ -69,3 +69,4 @@ Mid-test after the first two discussion sessions in the same crossover trial, co
 - [Near-peer and staff tutoring produced no statistically significant difference in overall Evidence-based Practice Confidence (EPIC) scale scores at the end of the module](near-peer-staff-comparable-epic-confidence.md) — related
 - [Students rated their near-peer tutored sessions more positively than staff-tutored sessions on most tutorial-evaluation items in both halves of the module](near-peer-tutorials-rated-better.md) — related
 - [A video-based, student tutor-led ultrasound course yields OSCE total scores comparable to a faculty staff-led course without media support](vist-osce-total-score-comparable-to-faculty-course.md) — related
+- [Final-year medical students rate near-peer OSCE revision teaching as comparable to consultant-led teaching (73.2%)](near-peer-teaching-comparable-to-consultant-led-osce-revision.md) — related

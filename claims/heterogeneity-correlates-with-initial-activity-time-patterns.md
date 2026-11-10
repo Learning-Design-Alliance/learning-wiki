@@ -51,3 +51,4 @@ Correlational analysis of precourse heterogeneity indices and initial-phase time
 - [Groups spent far more time getting to know each other than on task-related communication during the initial collaboration phase](groups-prioritize-getting-to-know-over-task-communication-initially.md) — related
 - [Initial-phase task-related communication moderates the negative relationship between first-language heterogeneity and self-efficacy gains, while getting-to-know-each-other time does not](task-related-communication-moderates-heterogeneity-self-efficacy-effect.md) — related
 - [International online MBA students perceived cultural differences in collaboration but reported they did not negatively affect their learning](cultural-differences-visible-not-negative-collaboration.md) — related
+- [Mixed PBL tutorial groups enhance students' interaction across diverse boundaries](heterogeneous-pbl-groups-enhance-cross-boundary-interaction.md) — related

@@ -72,3 +72,4 @@ Structural model path coefficients from Fig 2 of the same study: social support�
 - [The model explains substantial variance in emotional engagement and active learning with good predictive relevance](swbcl-model-explained-variance.md) — related
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](self-efficacy-partial-mediator-eot-communication.md) — related
 - [The mediation models fit well and explain 22% of variance in extra training and 37% in academic performance](mediation-model-fit-variance.md) — related
+- [Engagement at each PBL phase strongly predicts engagement at the next phase, with earlier measures explaining 81% of variance in the final measure](sequential-engagement-path-analysis.md) — related

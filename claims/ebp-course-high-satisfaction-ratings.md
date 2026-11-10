@@ -80,3 +80,5 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
 - [A total of 495 tutors have been trained in the basic course in medical teaching, which is rated with a mean overall grade of 1.7 (SD 0.6)](495-tutors-basic-course-rated-1-7.md) — related
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
+- [Participants whose goals matched EBM content rated course relevance higher (80% vs 65%), and relevance was only weakly correlated with teaching-quality ratings](course-relevance-learning-goal-match.md) — related
+- [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related

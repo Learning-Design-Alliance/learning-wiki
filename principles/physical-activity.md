@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (23 for, 22 mixed, 3 against) · 37 studies (15 causal, 8 quant-synthesis, 8 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 37 report an effect size · 42 claims rest on one study
+> **Evidence** · 49 claims (24 for, 22 mixed, 3 against) · 37 studies (15 causal, 8 quant-synthesis, 8 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 37 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Twenty weeks of classroom PA breaks did not significantly improve children's updating or inhibition regardless of cognitive engagement or exertion level](../claims/pa-breaks-no-updating-inhibition-gains.md) [~M] — attached 2026-11-09 from Egger Fabienne et al. (2019), which proposed "Design classroom PA breaks to combine physical exertion with high cognitive engagement rather than relying on pure aerobic activity".
 - [Staff consider feasible PA programmes to be short (1–5, up to 10 minutes), classroom-based, teacher-delivered, and provided in ready-to-use materials](../claims/feasible-pa-short-classroom-ready-to-use.md) [+W] — attached 2026-11-09 from van den Berg V. et al. (2017), which proposed "Classroom-based short PA breaks with ready-to-use materials".
 - [Teachers prefer PA breaks during or between lessons over PA integrated with academic content, viewing PA as a way to restore attention rather than a way to learn](../claims/pa-breaks-preferred-over-integration.md) [+W] — attached 2026-11-09 from van den Berg V. et al. (2017), which proposed "Classroom-based short PA breaks with ready-to-use materials".
+- [Teachers implemented on average 98% of juggling-math lessons and 99% of control math lessons over the 5-week program](../claims/juggling-math-high-implementation-rates.md) [+W] — attached 2026-11-10 from van den Berg V. et al. (2019), which proposed "School-based physical activity programs should fit teachers' preferences by not costing academic lesson time and requiring little or no preparation".
 
 ## Claims
 

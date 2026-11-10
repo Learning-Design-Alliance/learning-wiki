@@ -57,3 +57,4 @@ Pre-post evaluation of a one-day multifaceted EBM workshop for pharmacy students
 - [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](reversed-classroom-workshops-beat-lecture-ecg.md) — related
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
 - [Students' competency scores concerning search strategy design and conducting a search rose from pre-test to post-test in one uncontrolled pre-post study](training-improves-search-strategy-design.md) — related
+- [A 4-hour interactive EBM workshop did not significantly improve internal medicine residents' EBM knowledge and skills test scores compared with control at 6 or 18 months](ebm-workshop-no-test-score-effect.md) — related

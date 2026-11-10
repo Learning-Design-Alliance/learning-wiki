@@ -50,3 +50,4 @@ Synthesis of the target-population theme across 20 studies; the review states "p
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [The dominant school-based CPR interventions were instructor-led training with video simulations, assessed mainly by subjective questionnaires](instructor-led-video-simulation-dominant-cpr-intervention.md) — related
+- [Peer-led advanced resuscitation training achieves first-time OSCE Pass rates non-inferior to expert-led training among medical students](peer-led-resuscitation-osce-pass-non-inferior.md) — a narrower finding that bears on this claim

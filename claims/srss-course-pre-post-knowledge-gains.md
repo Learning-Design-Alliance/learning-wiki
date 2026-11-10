@@ -51,3 +51,4 @@ Pre-test/post-test analysis (Table 2) across course cohorts using an identical f
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
 - [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](pharmacy-elective-course-gains-and-preceptor-views.md) — related
+- [Searching and appraisal skills show only modest gains compared with calculation skills after the course](modest-search-appraisal-gains.md) — related

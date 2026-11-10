@@ -50,3 +50,4 @@ Paired-samples t-tests within each group of the quasi-experimental study (n=30 p
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related
 - [Interviewed students reported that VMs supported learning (understanding, quick feedback, correcting mistakes) and independence from the teacher, but also reported fatigue, stress, distraction, and repetitive examples](vm-interview-themes-positive-and-negative.md) — related
 - [e-PBL participants' attitude scores rose significantly from pretest to posttest](e-pbl-attitude-pretest-posttest-gain.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — related

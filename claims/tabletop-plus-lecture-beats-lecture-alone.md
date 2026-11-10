@@ -55,3 +55,4 @@ Quasi-experimental pretest–posttest study (Mirzaei et al. 2020, Iran) comparin
 - [Traditional Hazmat training showed no significant effect on nurses' site control or patient care performance in tabletop exercises](traditional-hazmat-training-no-significant-performance-effect.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
 - [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — a narrower finding that bears on this claim
+- [An interactive practice exercise with expert-normed feedback did not improve AGREE II outcomes over a tutorial alone or a PDF User's Manual in this randomized trial](elearning-practice-exercise-no-benefit-over-manual.md) — related

@@ -53,6 +53,7 @@ The article concludes that high-quality interactive eLearning can scale up train
 - Malnutrition Elearning Course Element
 - [Adopt onsite LDHF/m-mentoring for health worker capacity building where feasible, keeping staff at service delivery points](onsite-ldhf-mentoring-capacity-building-strategy.md)
 - [Provide simultaneous and continuous supervision and support to sustain training effectiveness](continuous-supervision-support-training-effectiveness.md)
+- [Use scheduled interactive on-line courses as a scalable strategy for building health research capacity in resource-limited settings](scheduled-online-courses-research-capacity-strategy.md)
 
 ## Examples
 -

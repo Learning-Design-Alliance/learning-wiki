@@ -55,3 +55,5 @@ Subdomain analysis in the training beyond proficiency group showed significant i
 - [All six OSATS global rating scale variables scored significantly higher in the final drill than the first drill](osats-six-variables-improve-first-to-final-drill.md) — related
 - [Experts rate patient safety, sterility and seeking help as the most important elements in judging procedural competence](experts-rate-safety-sterility-seeking-help-most-important.md) — related
 - [Transparent simulator training yields higher OSATS-rated endourological proficiency than opaque simulator training and than verbal instruction alone](transparent-simulator-higher-osats-than-opaque-and-verbal.md) — related
+- [INVEST shows no significant skill-acquisition benefit for respect for tissue, instrument handling, and knowledge of instruments](invest-no-gain-three-osats-items.md) — related
+- [INVEST yields statistically significant and clinically relevant (ES > 0.80) skill gains on four OSATS items: time and motion, use of assistants, flow of operation, and knowledge of the procedure](invest-significant-four-osats-items.md) — related

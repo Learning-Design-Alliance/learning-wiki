@@ -49,3 +49,4 @@ Exploratory per-case analysis within the vignette study. Accuracy differed sharp
 - [Self-confidence significantly predicts dental students' diagnostic accuracy in radiographic interpretation](self-confidence-predicts-radiographic-diagnostic-accuracy.md) — related
 - [Confidence in a predicted diagnosis rose slightly from Step 1 to Step 2 and fell slightly from Step 2 to Step 3 among medical students reasoning on vignettes, in one group with no comparison group](verbalizing-discordant-evidence-lowers-diagnostic-confidence.md) — related
 - [Misdiagnosis students showed significant confidence increases at Step 2 and decreases at Step 3, while correct-diagnosis students showed no significant confidence changes](confidence-steps-significant-only-in-misdiagnosis-group.md) — related
+- [In a post hoc analysis, the bar-graph bias was stronger on harder questions than on easier questions](bar-graph-bias-stronger-on-harder-questions.md) — related

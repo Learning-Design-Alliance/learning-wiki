@@ -61,6 +61,7 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Differentiate safety education content and teaching methods for novice versus experienced nurses](differentiate-safety-education-novice-experienced-nurses.md)
 - [Progressive, refreshed PAL teacher training with tailored ongoing support](progressive-refreshed-pal-teacher-training-strategy.md)
 - [Provide separate training programmes tailored to different provider groups to improve refresher attendance and performance](provider-role-tailored-separate-training.md)
+- [Stagger training sessions and tailor content to lower academic levels](staggered-training-tailored-content-strategy.md)
 
 ## Examples
 -

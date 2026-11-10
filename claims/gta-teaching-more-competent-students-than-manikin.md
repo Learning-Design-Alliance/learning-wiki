@@ -53,3 +53,4 @@ Randomised controlled trial (TARGET) of 492 final-year medical students, 418 ass
 - [Evidence for improved OSCE performance from GTA training is mixed, and the evidence base relies heavily on self-reported, short-term, single-centre measures](gta-osce-evidence-mixed-self-reported-short-term.md) — related
 - [GTA programmes are consistently associated with reduced student anxiety and improved confidence in pelvic examination, though evidence is frequently short-term and self-reported](gta-programmes-reduce-anxiety-improve-confidence.md) — related
 - [Medical students trained in a complex head and skull examination by teaching associates outperform instructor-led peer-trained controls immediately after training](ta-training-superior-immediate-clinical-skills.md) — related
+- [Peer-led advanced resuscitation training achieves first-time OSCE Pass rates non-inferior to expert-led training among medical students](peer-led-resuscitation-osce-pass-non-inferior.md) — related

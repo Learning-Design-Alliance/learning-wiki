@@ -67,3 +67,4 @@ Post-laboratory class five assessment in which students identified samples in a 
 - [Revised-section students scored significantly higher on the rock and mineral portion of the midterm exam despite identifying half as many samples](higher-inquiry-labs-improve-midterm-scores.md) — related
 - [Rubric-guided revisions measurably shifted the inquiry-level composition of the three targeted laboratory classes toward higher levels](rubric-guided-revision-shifts-inquiry-proportions.md) — related
 - [Students in the revised geologic time laboratory scored significantly higher on the final exam Earth history question](revised-geologic-time-lab-improves-final-exam.md) — related
+- [Students completing the inquiry phylogeny exercise slightly outperformed control-section students on three phylogeny-related exam questions despite lower overall exam scores](inquiry-phylogeny-exam-question-gains.md) — related

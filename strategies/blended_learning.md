@@ -102,6 +102,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Leverage online and asynchronous learning strategies to supplement lecture and lab components of wheelchair-related content](online-asynchronous-wheelchair-content-strategy.md)
 - [Offer multiple training formats alongside each other and blend digital learning with face-to-face expert contact](blended-multi-format-digital-cst-strategy.md)
 - [Blend didactic lectures with small-group active learning activities in biostatistics teaching](blended-small-group-biostatistics-teaching.md)
+- [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

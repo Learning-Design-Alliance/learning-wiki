@@ -68,3 +68,4 @@ Reliability analysis in Phase I of the START-Play randomized controlled trial: 2
 - [A purpose-built 24-item trichotomous assessment tool for ABCDE adherence shows high intra-observer reliability (ICC 0.87)](abcde-adherence-assessment-tool-icc-087.md) — related
 - [Simulation scoring of diagnostic performance is objective with high inter-rater agreement](simulation-scoring-objectivity-icc.md) — related
 - [The SAFT shows excellent test-retest and inter-rater reliability for total scores](saft-excellent-reliability.md) — related
+- [The adapted Fresno test demonstrated high inter-rater reliability (r = 0.90) in this study](adapted-fresno-test-inter-rater-reliability.md) — related

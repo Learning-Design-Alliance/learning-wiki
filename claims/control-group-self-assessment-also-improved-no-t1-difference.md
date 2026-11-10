@@ -65,3 +65,4 @@ Mann-Whitney U comparison of intervention and control group self-assessments at 
 ## Related Claims
 - [A one-time communication training improves dental students' self-assessed communication skills, especially complex skills such as conversation structure and nonverbal communication](communication-training-improves-dental-student-self-assessment.md) — related
 - [Treatment partners rated the intervention group significantly better on conversation structure, nonverbal signals, dealing with behaviour types and questioning techniques](treatment-partners-rate-intervention-group-better.md) — related
+- [Untrained control social workers showed a small but significant rise in objective competence from baseline to follow-up, measured before and after within the control group](control-group-testing-effect-competence-gain.md) — related

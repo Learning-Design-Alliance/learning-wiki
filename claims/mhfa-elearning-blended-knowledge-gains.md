@@ -54,3 +54,4 @@ Parallel-group RCT with 608 Australian public servants randomised 1:1:1 to eLear
 - [Mental Health First Aid training improved school staff mental health knowledge, attitudes and confidence in helping colleagues](mhfa-improves-staff-mental-health-literacy.md) — related
 - [The MHFA eLearning course improved UK medical students' mental health first aid intentions relative to no-access control (ITT)](mhfa-elearning-improves-first-aid-intentions-itt.md) — related
 - [Intervention participants reported more actual mental health first aid actions toward a close other during the trial](mhfa-elearning-increases-actual-first-aid-actions.md) — related
+- [Mental Health First Aid training increases high school teachers' mental health knowledge, with gains sustained at 6 months](mhfa-training-increases-teacher-mental-health-knowledge.md) — related

@@ -48,3 +48,4 @@ Temporal institutional analysis using CUSUM based on an expected composite adver
 - [Composite adverse outcomes, recovery, reintervention and readmission were comparable between trainee- and specialist-performed laparoscopic pyloromyotomy](trainee-lp-comparable-recovery-outcomes.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Supervised trainee-performed laparoscopic pyloromyotomy shows no significant increase in surgery-related complications compared with specialist-performed cases](trainee-lp-no-complication-increase.md) — related
+- [Complication rates for laparoscopic pyloromyotomy decreased significantly after the first 35 procedures, indicating a learning curve of about 35 operations](lp-pyloromyotomy-learning-curve-35-procedures.md) — related

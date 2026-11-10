@@ -59,3 +59,4 @@ Qualitative content analysis of VP descriptions. The Challenges subcategory repo
 - [A non-negligible proportion of students experienced technical difficulties with online access to the virtual reality platform](technical-difficulties-online-vr-access.md) — related
 - [Free-text keyword-recognition problems in virtual patients did not distract most trainees from learning](vp-keyword-recognition-issues-not-detracting.md) — related
 - [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — a narrower finding that bears on this claim
+- [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related

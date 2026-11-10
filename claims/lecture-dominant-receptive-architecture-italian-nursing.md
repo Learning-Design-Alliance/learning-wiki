@@ -48,3 +48,4 @@ Cross-sectional questionnaire survey of 992 nursing instructors in Italian unive
 - [Student-focused didactic architectures were used less frequently on average than teacher-focused architectures](student-focused-architectures-less-used.md) — possibly the same claim (merge candidate)
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
 - [Interventions targeting individual departments or institutions may fail to change the broader academic system because selection hurdles and transmission pathways favor lecture](local-pedagogical-interventions-may-fail-systemically.md) — related
+- [Lecturing, demonstrating and intervening align with a teaching-as-transmission perspective focused on the teacher's own knowledge and acting](lecturing-demonstrating-intervening-transmission.md) — related

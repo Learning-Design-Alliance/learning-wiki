@@ -47,3 +47,5 @@ Repeated-measures one-way ANOVA across three time points in a pilot study of 39 
 ## Related Claims
 - [Average AFT scores decreased to pre-module levels after the in-person interprofessional EBP learning experience, in one single-group pre-post study](ebp-gains-not-retained-after-in-person-activity.md) — related
 - [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](online-ebm-course-domain-gains.md) — related
+- [Family medicine residents' EBP knowledge and skills measured by the Fresno test rose from 63.9 to 111.6 after a four half-day EBP short course, in one uncontrolled pre-post study](ebp-short-course-improves-resident-knowledge-fresno.md) — related
+- [The Spanish Fresno test shows large responsiveness indices (ES 1.77, SRM 1.65) to EBP educational change](fresno-test-responsiveness-es-1-77.md) — related

@@ -54,3 +54,4 @@ Single-arm pre-post change on the 20-item true/false quiz embedded in the eLearn
 - [Medical participants' knowledge of adolescent health and general practice access issues rose significantly from pre-test to post-test after an applied adolescent health education workshop plus school field experience, in one uncontrolled pre-post study](gp-adolescent-health-workshop-knowledge-increase.md) — related
 - [Both learning groups showed a significant pre-to-post increase in global health knowledge quiz scores](global-health-knowledge-quiz-pre-post-gain.md) — related
 - [Within the e-learning group, quiz scores improved significantly from pre- to post-quiz in all four modules of the reproductive health e-course](e-learning-module-pre-post-quiz-gains.md) — related
+- [Mental Health First Aid training increases high school teachers' mental health knowledge, with gains sustained at 6 months](mhfa-training-increases-teacher-mental-health-knowledge.md) — related

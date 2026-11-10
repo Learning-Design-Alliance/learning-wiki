@@ -50,3 +50,4 @@ Self-reported practice questionnaire in the cross-sectional study of 64 PCPs; an
 - [Most primary care physicians rated their confidence in initiating insulin as low and few had ever prescribed outpatient insulin for type 2 diabetes](low-insulin-confidence-and-prescribing-among-pcps.md) — related
 - [Primary care physicians in Southeast Nigeria showed very poor knowledge of glycemic thresholds for diagnosing diabetes](poor-knowledge-glycemic-diagnostic-thresholds-pcps-nigeria.md) — related
 - [Non-participation in diabetes training is a significant predictor of poor diabetes care knowledge among primary care physicians](diabetes-training-nonparticipation-predicts-poor-knowledge.md) — related
+- [Common diabetes-care gaps extend beyond physician knowledge to skills, attitudes, behaviours and context](diabetes-gaps-beyond-knowledge-domain.md) — related

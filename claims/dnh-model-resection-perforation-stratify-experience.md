@@ -50,3 +50,4 @@ Procedural outcome analysis (Table 1) of the same 15-operator simulation study, 
 - [Technical-step realism was uneven: marking and circumferential incision scored higher than submucosal injection and dissection](dnh-model-step-realism-uneven.md) — related
 - [ESGE ESD training curriculum prescribes a stepwise pathway (at least 20 animal-model ESDs, then observation and supervised human cases) with quality benchmarks of 90% en bloc resection and <3% perforation](esge-esd-training-curriculum.md) — related
 - [Simulator-trained students perforate the cortical bone half as often as lecture-only novices on the resin model](simulator-training-halves-perforation-frequency.md) — related
+- [Experts resect a greater percentage of the virtual myoma than novices at baseline in the Myoma Resection Module](vrhs-myoma-resection-experts-outperform-novices.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Quantitative archive analysis of 33 students' grades. The group-level correlatio
 - [HF group participants overrated their performance and confidence relative to LF participants despite comparable or inferior outcomes](hf-simulation-induces-overconfidence.md) — related
 - [Students rate themselves significantly more positively than trainers on several communication sub-skills, with effect sizes from small to very high](students-overrate-communication-subskills.md) — related
 - [Trainees consistently assign themselves lower autonomy and performance scores than faculty, with dis-attenuated inter-rater correlations of 0.71–0.88 for autonomy and 0.45–0.63 for performance](trainees-underrate-autonomy-performance-versus-faculty.md) — related
+- [Agreement between medical students' self-assessments and instructor ratings of LMA placement success is poor to fair](poor-student-instructor-agreement-lma-self-assessment.md) — related

@@ -67,3 +67,4 @@ In the same discriminative validity analysis, the knowledge subdomain on informa
 ## Related Claims
 - [Test-retest reliability of the EBMQ was mixed, with most items showing good or fair correlations but some low](ebmq-test-retest-reliability-mixed.md) — related
 - [Item discrimination was low when computed on overall test scores but acceptable (over 0.2) when computed by EBM topic or cognitive level](discrimination-acceptable-by-domain-not-overall.md) — related
+- [A newly developed 19-item EBM competence test had student scores that rose from 4.8 (SD 1.2) before to 13.5 (SD 3.7) after a comparable EBM course in one uncontrolled pre-post study, and had high interrater reliability](ebm-competence-test-validated.md) — related

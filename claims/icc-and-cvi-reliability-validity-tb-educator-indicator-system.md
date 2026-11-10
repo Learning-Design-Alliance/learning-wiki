@@ -65,3 +65,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [The DOVCS checklist showed high internal consistency and moderate inter-rater reliability for assessing virtual consultation skills](dovcs-checklist-reliability.md) — related
 - [A pharmacist-specific Chinese-language Mini-CEX with nine domains achieved acceptable inter-rater reliability (0.7) after expert Delphi validation and evaluator workshops](pharmacist-chinese-mini-cex-reliability-0-7.md) — related
+- [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — reports the opposite

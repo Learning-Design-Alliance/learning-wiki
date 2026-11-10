@@ -77,3 +77,4 @@ Same longitudinal curriculum evaluation; Fresno test scores increased from basel
 - [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related
 - [First-year medical students completing an 8-week critical appraisal worksheet intervention showed an average 4% improvement in Berlin questionnaire correct answers](caw-pbl-4-percent-berlin-improvement.md) — related
 - [The type of EBM knowledge test used substantially changes the estimated level of EBM knowledge in the same medical students](ebm-test-choice-affects-knowledge-estimation.md) — related
+- [Family medicine residents' EBP knowledge and skills measured by the Fresno test rose from 63.9 to 111.6 after a four half-day EBP short course, in one uncontrolled pre-post study](ebp-short-course-improves-resident-knowledge-fresno.md) — related

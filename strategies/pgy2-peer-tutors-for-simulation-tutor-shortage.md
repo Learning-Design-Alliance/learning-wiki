@@ -52,6 +52,7 @@ The article recommends addressing the shortage of simulation tutors by having ne
 - [Deploy trained recently graduated doctors as near-peer tutors for critical appraisal skills teaching where faculty resources are limited](trained-near-peer-tutors-critical-appraisal.md)
 - [Use trained student teaching assistants, with a pre-course didactical workshop, to expand hands-on ultrasound training despite instructor shortages](student-tas-for-ultrasound-instructor-shortage.md)
 - [Peer-led continuing-education workshops by skillful iPad users to reduce the computer-proficiency gap](peer-led-ipad-workshops-reduce-proficiency-gap.md)
+- [Use junior doctors as near-peer tutors in roles beyond teaching delivery, including program design and organisation](junior-doctors-design-deliver-near-peer-revision-programs.md)
 
 ## Examples
 -

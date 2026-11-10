@@ -48,3 +48,4 @@ Theme from student focus groups on creating an inclusive environment; the study 
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
 - [Students reported high engagement perceptions, including feeling connected with the university through Facebook conversations with classmates](facebook-course-engagement-perceptions.md) — related
 - [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
+- [Mixed PBL tutorial groups enhance students' interaction across diverse boundaries](heterogeneous-pbl-groups-enhance-cross-boundary-interaction.md) — related

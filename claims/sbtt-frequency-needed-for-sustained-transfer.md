@@ -54,3 +54,4 @@ Focus group interview 2 (six months after SBTT). Participants reported mixed tra
 - [Students reported transfer of interprofessional competencies to their workplace six to eight weeks after interprofessional simulation training](reported-ipe-transfer-to-workplace.md) — related
 - [Interprofessional team training using TeamSTEPPS led healthcare professionals to experience greater awareness and knowledge of their common teamwork skills during a 12-month implementation on a surgical ward](teamstepps-team-training-greater-awareness-teamwork-skills.md) — related
 - [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related
+- [Six months after training, 65% of interviewed participants reported implementing EBM skills, with implementation levels varying by subgroup](ebm-skills-implementation-six-months.md) — related

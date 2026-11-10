@@ -50,3 +50,5 @@ Longitudinal observation study: trained observers assessed 65 Zambian CHWs with 
 - [Time since training and CHW age were significantly associated with perfect performance on critical RDT steps in GEE regression](time-and-age-predict-critical-step-perfection.md) — related
 - [Correct interpretation of faint positive RDT lines declined to 76.7% at 12 months, a skill-decay finding](faint-positive-interpretation-declines-12-months.md) — related
 - [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
+- [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related

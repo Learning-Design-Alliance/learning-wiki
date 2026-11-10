@@ -109,3 +109,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Two independent faculty raters using the Ottawa CRM Global Rating Scale showed good interrater agreement (kappa = 0.74, 95% CI 0.66–0.82)](ottawa-crm-grs-interrater-kappa-074.md) — related
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [GREET checklist shows good criterion validity (ICC 0.73) and almost perfect inter-rater reliability (ICC 0.96) in psychometric testing with 31 health professional students](greet-psychometric-icc-validity-reliability.md) — related
+- [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related

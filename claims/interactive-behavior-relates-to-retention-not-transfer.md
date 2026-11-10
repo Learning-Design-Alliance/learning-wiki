@@ -49,3 +49,4 @@ Correlational analysis in the learner control group (n = 26), controlling prior 
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Study time was not correlated with retention or transfer knowledge in either group](study-time-uncorrelated-knowledge-gain.md) — related
+- [Student pacing differed between laboratory and non-laboratory use of the virtual microscope, with more slides viewed per hour in lab but slightly longer per-slide viewing time outside lab](vm-viewing-pacing-in-lab-versus-out-of-lab.md) — related

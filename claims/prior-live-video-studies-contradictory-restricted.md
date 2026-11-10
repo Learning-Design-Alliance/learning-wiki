@@ -50,3 +50,4 @@ The article's narrative review of prior work (Introduction and Discussion): Paeg
 - [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](live-lecture-better-comprehension-questions.md) — reports the opposite
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
 - [Video lectures are rated significantly better than live lectures on learning atmosphere, concentration, presence of other students and acoustic intelligibility](video-rated-better-on-atmosphere-concentration-acoustics.md) — related
+- [Students rate the presentation and content of live lectures higher than matched video podcasts](students-rate-lecture-presentation-above-podcast.md) — a narrower finding that bears on this claim

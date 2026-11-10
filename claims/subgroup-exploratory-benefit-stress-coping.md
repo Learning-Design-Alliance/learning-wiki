@@ -53,3 +53,4 @@ Exploratory linear regression analyses with interaction terms for subgroups (Fig
 - [Initial psychological distress level moderated intervention effects: knowledge gains appeared in the low-distress subgroup and support-seeking gains only in the high-distress subgroup](distress-level-moderates-smt-effects.md) — related
 - [Intention-to-treat analyses show no statistically significant intervention effects of Youth COMPASS on stress or academic buoyancy](youth-compass-itt-null-effects.md) — related
 - [Task-focusing stress-coping instruction did not significantly improve CPR performance measures](task-focusing-instruction-no-significant-performance-gain.md) — a broader claim this one bears on
+- [Non-usage of the web-based intervention was high, and per-protocol subgroup analyses did not change the intention-to-treat findings](high-non-usage-attrition-web-trial.md) — related

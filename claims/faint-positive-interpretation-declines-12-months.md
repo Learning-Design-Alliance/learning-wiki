@@ -51,3 +51,5 @@ Photograph-based assessment of RDT reading at each observation wave showed a non
 - [CHW interpretation of invalid RDT results improved over time, and the no-line versus test-line-only gap closed by 12 months](invalid-rdt-interpretation-improves-over-time.md) — related
 - [Community health workers trained to conduct malaria RDTs maintain overall competency over 12 months, with accuracy-step error rates halved and no significant decline in total or safety step performance](chw-rdt-competency-maintained-12-months.md) — related
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
+- [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related

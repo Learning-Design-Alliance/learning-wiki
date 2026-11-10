@@ -72,3 +72,4 @@ Narrative review report of one included UK survey study (Walter et al.) comparin
 - [PCP confidence in managing physical effects varies by symptom: 79% felt confident managing fatigue versus 16% for chemobrain](pcp-confidence-varies-specific-physical-effects.md)
 - [PCPs report stronger skills in detecting cancer recurrences (62–78%) than confidence to screen for recurrence (6–42%)](pcp-recurrence-detection-knowledge-confidence-gap.md)
 - [In-depth interviews with 5 medical students, 5 PCPs, and 5 breast cancer survivors identified gaps in communication skills training and shaped the scenario's timing, mode, and SPIKES-based protocol](formative-interviews-informed-vsp-design.md) — related
+- [Management-phase gaps: physicians in all four countries lacked formal training in counseling and coaching patients, with suboptimal therapeutic relationships and limited understanding of psychosocial adherence issues](counseling-coaching-training-gap-management.md) — related

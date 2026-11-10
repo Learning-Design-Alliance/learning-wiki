@@ -51,6 +51,7 @@ The article's Way forward section recommends a cascading capacity-building model
 - [Interprofessional learning opportunities such as joint supervision, shared case discussions and collaborative learning forums support ANPs to develop expertise while benefiting from specialist knowledge.](joint-supervision-and-shared-case-discussions.md)
 - [Strengthen digital health systems to capture waist circumference and MASLD-specific fields for automated high-risk case detection](digital-health-masld-data-capture-strategy.md)
 - [Combine hands-on experiential engagement with peer-led teaching to build disposal knowledge and advocacy in cascade](experiential-plus-peer-led-cascade-model.md)
+- [Cascade (peer) training model for affordable scale-up of RDT skills](cascade-peer-training-model-rdt-scale-up.md)
 
 ## Examples
 -

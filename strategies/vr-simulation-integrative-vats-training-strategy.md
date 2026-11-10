@@ -48,6 +48,7 @@ The review recommends using VR simulation within surgical training programs whil
 
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Use VR resectoscopic simulation to measure and improve novice technical skills before operating on patients](vr-simulation-before-operating-on-patients-strategy.md)
 
 ## Examples
 -

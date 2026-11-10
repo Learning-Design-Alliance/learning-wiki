@@ -47,3 +47,4 @@ Heat-map comparison of last-midterm versus final-exam performance for flickering
 ## Related Claims
 - [Heat-map analysis reveals six individual learning patterns, with mid and late learners comprising about 24% of the class](heat-map-six-learning-patterns.md) — related
 - [All three students who failed the midterm passed the final, improving their scores by 22 to 27 points](ttr-low-midterm-scorers-improved-on-final.md) — related
+- [More than 85% of students demonstrated mastery on the midterm question assessing mathematical modeling content knowledge in each semester.](midterm-content-mastery-85-percent.md) — related

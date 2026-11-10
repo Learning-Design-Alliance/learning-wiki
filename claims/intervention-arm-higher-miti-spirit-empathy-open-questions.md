@@ -69,3 +69,4 @@ The same mixed-model comparison of the two trial arms on MITI global scores duri
 - [No evidence of a group difference between trial arms in percentage of complex reflections or reflection-to-question ratio](no-arm-difference-complex-reflections-ratio.md) — related
 - [After MI/CBT skills training, primary care nurses achieved basic competency, with median MITI MI-Adherence of 86.2% and mean MITI Empathy of 4.09](nurse-post-training-basic-competency-miti.md) — related
 - [Overall BECCI-rated MI skill use showed no significant difference between trained and untrained nurses at one-year follow-up](becci-overall-no-significant-difference.md) — reports the opposite
+- [Open Questions skill was not retained after October 2006](open-questions-skill-not-retained-after-october-2006.md) — related

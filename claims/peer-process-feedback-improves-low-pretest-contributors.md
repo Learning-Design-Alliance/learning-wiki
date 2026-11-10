@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-10
 sources:
   - id: kamp-rachelle-j-a-2012
     resource: "https://doi.org/10.1007/s10459-012-9364-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-10 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The change in total M-PARS score from pre-test to post-test differed across initial-score groups in one pre-post study with no comparison group. [→ Kamp Rachelle J. A. 2012](#kamp-rachelle-j-a-2012)

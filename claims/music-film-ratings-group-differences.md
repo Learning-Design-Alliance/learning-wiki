@@ -47,3 +47,4 @@ Film evaluation ratings from the music-film study, in which three films (includi
 ## Related Claims
 - [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](music-av-use-group-differences.md) — related
 - [Musical people react more by involuntary movements to unexpected stimuli, but strongly motor individuals are as common among non-musical as musical people](motor-individuals-equally-common-musical-nonmusical.md) — related
+- [In-tune melodies are rated more pleasant than out-of-tune music and noise, but arousal ratings do not differ between background conditions](background-stimulus-valence-arousal-ratings.md) — related

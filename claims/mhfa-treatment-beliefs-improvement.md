@@ -51,3 +51,4 @@ Secondary outcome in the RCT, a 16-item scale benchmarked to Australian health-p
 - [Both MHFA delivery modes improve confidence in helping a co-worker with depression or PTSD by medium effect sizes, with no significant difference between modes](mhfa-confidence-improvement.md) — related
 - [Both MHFA modes reduce beliefs that people with depression or PTSD are dangerous or unpredictable, while weak-not-sick stigma shows no significant improvement](mhfa-dangerousness-stigma-reduction.md) — related
 - [Both MHFA modes greatly improve the quality of helping intentions, and blended delivery adds a small additional advantage for the depression vignette only](mhfa-helping-intentions-quality.md) — related
+- [MHFA training shifts teachers' beliefs about depression treatment toward those of mental health professionals](mhfa-training-shifts-teacher-treatment-beliefs.md) — a narrower finding that bears on this claim

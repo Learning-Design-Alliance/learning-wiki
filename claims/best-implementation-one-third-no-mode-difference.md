@@ -70,3 +70,4 @@ Secondary analysis of implementers versus non-implementers: "Participants delive
 - [Online (iBeST) and face-to-face workshop training produced similar knowledge scores in physiotherapists](ibest-knowledge-similar-to-workshop.md) — related
 - [Face-to-face workshop produced a significantly greater reduction in biomedical attitudes to low back pain than iBeST](workshop-greater-biomedical-attitude-change.md) — related
 - [Performance declined and confidence decreased over the six-month follow-up period](performance-decline-confidence-decrease-six-months.md) — related
+- [Six months after training, 65% of interviewed participants reported implementing EBM skills, with implementation levels varying by subgroup](ebm-skills-implementation-six-months.md) — related

@@ -75,3 +75,4 @@ Same qualitative theme, instructor sub-theme. Students valued structured pre-sim
 - [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — related
 - [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related
 - [Undergraduate health students initially experience discomfort in multiprofessional IPE teams, which diminishes over the integrated internship experience](ipe-initial-discomfort-diminishes-over-integration-module.md) — related
+- [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](mannequin-low-fidelity-participant-feedback-lma.md) — related

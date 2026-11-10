@@ -51,3 +51,4 @@ Cross-sectional questionnaire study of 64 PCPs assessed knowledge of WHO 1999 di
 - [Primary care physicians showed serious gaps in screening for diabetes complications, with no microalbuminuria testing and low foot examination rates](pcp-complication-screening-gaps-southeast-nigeria.md) — related
 - [Non-participation in diabetes training is a significant predictor of poor diabetes care knowledge among primary care physicians](diabetes-training-nonparticipation-predicts-poor-knowledge.md) — related
 - [Among PHC workers in Gusau, Nigeria, 61.9% had good hypertension knowledge, but only 56.3% knew the correct diagnostic BP threshold and 59.7% could list major complications](phc-workers-hypertension-knowledge-gaps-gusau.md) — related
+- [Common diabetes-care gaps extend beyond physician knowledge to skills, attitudes, behaviours and context](diabetes-gaps-beyond-knowledge-domain.md) — related

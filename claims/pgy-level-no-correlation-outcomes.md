@@ -51,3 +51,4 @@ Spearman rho correlation analysis across 60 resident-performed cases. All correl
 - [Independent senior-resident femoral IMN yields overall surgical complication rates comparable to fellowship-trained surgeons after propensity matching](resident-imn-comparable-complication-rates.md) — related
 - [Supervised resident-performed stereotactic brain biopsies had complication rates comparable to staff-performed cases (1.7% vs 1.9%)](resident-biopsy-complication-rates-comparable.md) — related
 - [Extubation in the operating room was significantly higher in the late-experience group, while ICU and hospital stay did not differ](tavr-ar-extubation-in-or-higher-later-group.md) — related
+- [Complication rates did not differ significantly between early-trained and later-trained ureterorenoscopy operators](ureteroscopy-complications-not-different-between-operator-groups.md) — related

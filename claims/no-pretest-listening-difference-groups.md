@@ -92,3 +92,4 @@ Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
 - [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — related
+- [No statistically significant difference existed between the blended and control groups on the pretest (p=0.7)](no-pretest-difference-dermatology-groups.md) — related

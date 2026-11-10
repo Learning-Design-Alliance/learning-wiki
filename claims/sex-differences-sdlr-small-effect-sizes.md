@@ -59,3 +59,4 @@ Cross-sectional ANOVA comparing male and female students across all preclinical 
 - [Male students show significantly higher SBP and lower SpO2 than female students at each time point, with negligible clinical significance](males-higher-sbp-lower-spo2-across-time-points.md) — a narrower finding that bears on this claim
 - [No gender differences or year-by-gender interaction effects in SDLRS or GCS scores](no-gender-effects-sdlrs-gcs.md) — reports the opposite
 - [Female students significantly outperform male students on practical skills at 4 months and on communication ratings regardless of group](gender-differences-osce-scores.md) — related
+- [Female students achieved higher observed communication scores than male students in both years](female-students-higher-communication-ratings.md) — related

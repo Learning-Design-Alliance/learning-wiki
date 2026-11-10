@@ -51,6 +51,7 @@ The project used a trainer-of-trainees (TOT) cascade: master trainers at Haydom 
 
 - [Optimizing MECC TtT delivery: skills-based experiential training, clear cascade expectations, trainer flexibility, and quality-based evaluation](mecc-ttt-optimization-recommendations.md)
 - [Place mannequins and self-study resources in each community midwife's practice setting with virtually proctored practice sessions by peer mentors to reduce dropout at scale-up.](mannequins-self-study-peer-mentored-practice-strategy.md)
+- [Cascade (peer) training model for affordable scale-up of RDT skills](cascade-peer-training-model-rdt-scale-up.md)
 
 ## Examples
 -

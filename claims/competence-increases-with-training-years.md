@@ -48,3 +48,4 @@ One-way ANOVA across programme years with Bonferroni-corrected pairwise comparis
 ## Related Claims
 - [Classroom versus clinical setting differences in patient safety dimension scores are statistically significant but mostly very small in effect size](classroom-clinical-differences-small-effect-sizes.md) — related
 - [Upper-year medical students report less confidence than first-year students in learning about culture of safety and teamwork](upper-year-students-less-confident-culture-teamwork.md) — reports the opposite
+- [Medical students' scores on the 'planning' subscale of deliberate practice increase across curriculum years 1-3.](deliberate-practice-planning-increases-across-years.md) — related

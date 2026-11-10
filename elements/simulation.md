@@ -838,6 +838,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](../strategies/simulation-case-based-delirium-training.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](../strategies/weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](../strategies/vr-complementary-continuing-emergency-training-strategy.md)
+- [Attach skills-training models to a simulated patient so students attend to the person and practice communication during the procedure](../strategies/attach-model-to-simulated-patient-for-communication.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

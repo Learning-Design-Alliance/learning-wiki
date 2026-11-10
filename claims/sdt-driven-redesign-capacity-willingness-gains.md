@@ -68,3 +68,4 @@ A single cohort of 26 volunteer teachers (Cycle 2) completed self-report surveys
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
 - [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
 - [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related
+- [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related

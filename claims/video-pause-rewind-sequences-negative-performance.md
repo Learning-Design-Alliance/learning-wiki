@@ -56,3 +56,4 @@ Students recruited from one Precalculus course at a US university (a convenience
 - [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — reports the opposite
+- [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related

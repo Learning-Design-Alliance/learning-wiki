@@ -63,3 +63,4 @@ Within-group Wilcoxon tests (control W=-28; experimental W=-231, z-observed 4.01
 - [All three groups showed significant within-group improvement in disaster nursing competency regardless of instruction type](within-group-competency-improvement-all-groups.md) — related
 - [OLM students received significantly higher grade classifications than IPL students despite identical median grades](olm-higher-grade-classifications-nutritional-medicine.md) — related
 - [Posttest LDL and total cholesterol levels were lower than pretest within both study groups, with the article's Results and Discussion disagreeing on intergroup significance](ldl-total-cholesterol-intragroup-decrease-both-groups.md) — related
+- [Posttest scores improved significantly from pretest in both the blended and control groups (p<0.01)](both-groups-significant-pre-post-gains-dermatology.md) — related

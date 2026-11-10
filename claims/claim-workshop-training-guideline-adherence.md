@@ -48,3 +48,4 @@ Qualitative interview finding: formal and ongoing training on a new guideline wa
 - [Family physicians perceive evidence-based medicine as limited because it mainly addresses the biomedical side of patient care](claim-ebm-limited-biomedical-focus.md) — related
 - [Intervention designs with frequent supervision and continuous training led to better CHW performance in certain settings](frequent-supervision-continuous-training-better-chw-performance.md) — related
 - [Professionals self-report competence with clozapine guidelines but express less confidence in adhering to them](hcp-self-reported-competence-exceeds-confidence-clozapine.md) — related
+- [Management-phase gaps: physicians in all four countries lacked formal training in counseling and coaching patients, with suboptimal therapeutic relationships and limited understanding of psychosocial adherence issues](counseling-coaching-training-gap-management.md) — related

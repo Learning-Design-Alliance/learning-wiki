@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 677 claims (361 show a difference, 156 mixed, 160 no difference) · 480 studies (249 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 480 report an effect size · 669 claims rest on one study
+> **Evidence** · 678 claims (362 show a difference, 156 mixed, 160 no difference) · 481 studies (250 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 481 report an effect size · 670 claims rest on one study
 
 ## How to read this page
 
@@ -716,6 +716,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex differences in performance vary by assessment stage: males did better at A-level and BMS and MRCP(UK) Part 1 but less well on clinical assessments](../claims/sex-differences-vary-by-assessment-stage.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](../claims/free-response-exams-no-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The PHY 431 gender gap widened over a decade, reaching 0.5 grade points by 2009 as enrollment grew from about 300 to more than 525 students](../claims/phy431-growing-gender-gap-class-size.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students achieved higher observed communication scores than male students in both years](../claims/female-students-higher-communication-ratings.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

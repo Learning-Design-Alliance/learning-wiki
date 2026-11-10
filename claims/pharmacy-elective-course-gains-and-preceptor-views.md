@@ -58,3 +58,4 @@ Pre-post evaluation of a 2-hour weekly elective EBM course (case studies, proble
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [A 100-minute mobile e-learning course produces significant gains in knowledge (median 50%) and competence (median 13%) in novice undergraduate medical students](mtel-knowledge-competence-gains-orl.md) — related
 - [Students scored well on module quizzes overall but lower on critical appraisal and MeSH-only searching items](module-quiz-scores-weaker-on-appraisal-and-mesh.md) — related
+- [A newly developed 19-item EBM competence test had student scores that rose from 4.8 (SD 1.2) before to 13.5 (SD 3.7) after a comparable EBM course in one uncontrolled pre-post study, and had high interrater reliability](ebm-competence-test-validated.md) — related

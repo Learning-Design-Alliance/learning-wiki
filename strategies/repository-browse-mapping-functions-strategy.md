@@ -48,6 +48,7 @@ Focus-group participants recommended expanding the repository while improving ho
 - [Educational Research Map Visualization](educational_research_map_visualization.md)
 - [Research Map](research_map.md)
 - [Rich Library: Multimodal](rich_library-multimodal.md)
+- [EBM training should emphasize efficient searching by focusing on appropriate clinical information sources](ebm-training-emphasize-efficient-searching-appropriate-sources.md)
 
 ## Examples
 -

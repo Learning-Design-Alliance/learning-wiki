@@ -63,3 +63,4 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [ASPECT's 16 items load onto three engagement factors (value of group activity, personal effort, instructor contribution) with Cronbach's alpha 0.78–0.91](aspect-sixteen-items-three-factors.md) — related
 - [ACE items show excellent discrimination but three critical-appraisal items have poor internal reliability](ace-item-discrimination-reliability.md) — related
 - [The virtual case-based assessment scale has high internal consistency (Cronbach's alpha 0.848)](virtual-case-tool-alpha-0848.md) — related
+- [The pilot questionnaire demonstrated good internal consistency (Cronbach's alpha = 0.79) among its 16 self-perceived competence items](ebm-self-competence-questionnaire-internal-consistency.md) — related

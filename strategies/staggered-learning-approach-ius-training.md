@@ -51,6 +51,7 @@ The article recommends a staggered learning approach in which complex semi-quant
 - [Phased internship mentorship: build self-efficacy before introducing complex teaching responsibilities](phased-internship-efficacy-before-competence-tasks.md)
 - [Prioritize high-difficulty competencies such as image optimization and metric precision in curriculum design](prioritize-high-difficulty-competencies-curriculum.md)
 - [Sequence DP training from emotion regulation and foundational skills to higher-order skills](dp-emotion-regulation-first-sequencing.md)
+- [Stagger training sessions and tailor content to lower academic levels](staggered-training-tailored-content-strategy.md)
 
 ## Examples
 -

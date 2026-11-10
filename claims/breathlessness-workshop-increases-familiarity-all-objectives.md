@@ -54,3 +54,4 @@ Single-group pre-post evaluation of a 3-day workshop with 39 matched participant
 - [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — related
 - [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Students' familiarity with medical resources and databases rose from pre-test to post-test after training, in one uncontrolled pre-post study](training-improves-familiarity-medical-databases.md) — related
+- [e-Learning studies show knowledge gains, with one study finding greater knowledge than a two-day workshop](elearning-knowledge-gains.md) — related

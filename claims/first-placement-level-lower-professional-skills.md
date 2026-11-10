@@ -47,3 +47,4 @@ Repeated measures ANOVA across the three placement levels found differences only
 ## Related Claims
 - [School cycle (age/grade level) significantly affects vocabulary test performance, with first-cycle pupils scoring lowest](school-cycle-affects-vocabulary-scores.md) — related
 - [No significant differences between role-established and role-emerging placements in students' post-placement perceptions of personal and professional skills](no-model-difference-personal-professional-skills.md) — related
+- [No significant differences in performance or ratings between lower-year (first and second) and higher-year (third and fourth) medical students](no-year-level-differences-performance-ratings.md) — related

@@ -63,3 +63,5 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [Risk competence scores rose from pre-test to post-test among students in the blended learning program (Cohen's d = 2.61)](blended-re-c-program-large-overall-gain.md) — related
 - [SAFT total scores increase significantly after an interactive educational intervention, with a moderate effect size](saft-responsive-to-change.md) — related
 - [Within each training group, US and FAST knowledge scores improved significantly from pre- to post-course (p<0.001 in each group), with no significant difference in gains between groups](fast-knowledge-gains-within-groups-no-between-group-difference.md) — related
+- [A newly developed 19-item EBM competence test had student scores that rose from 4.8 (SD 1.2) before to 13.5 (SD 3.7) after a comparable EBM course in one uncontrolled pre-post study, and had high interrater reliability](ebm-competence-test-validated.md) — related
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related

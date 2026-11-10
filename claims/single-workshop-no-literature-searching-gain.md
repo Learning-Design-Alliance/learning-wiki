@@ -57,3 +57,4 @@ Randomised controlled trial of a single 2-hour workshop in EBM literature search
 - [A 1-week EBM course raised scores on all three EBM knowledge tests, while control-group scores did not change](ebm-course-raises-all-three-test-scores.md) — related
 - [Short joint mapping workshops plus one-on-one counselling supported lecturers, while mapping alone frequently led to incomplete tasks](workshops-plus-one-on-one-mapping-support.md) — related
 - [Medical postgraduate students' attitude scores toward online literature searching rose from before to after a 4-month literature search training course in a single-group pre-post study without a comparison group](training-improves-attitudes-toward-online-searching.md) — related
+- [A 4-hour interactive EBM workshop did not significantly improve internal medicine residents' EBM knowledge and skills test scores compared with control at 6 or 18 months](ebm-workshop-no-test-score-effect.md) — related

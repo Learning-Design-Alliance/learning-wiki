@@ -54,3 +54,4 @@ Authors' overall interpretation of the 72-student Tarski's World experiment, sta
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
 - [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](tarski-world-facilitated-conditional-reasoning.md) — a narrower finding that bears on this claim
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](video-plus-verbal-feedback-enhances-retention.md) — a narrower finding that bears on this claim
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — related

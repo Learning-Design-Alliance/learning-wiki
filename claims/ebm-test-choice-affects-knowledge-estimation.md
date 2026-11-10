@@ -56,3 +56,4 @@ Within-group comparison of the three tests in the EBM group (n = 39) after the c
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
 - [EBM competency does not differ significantly between medical students taught via blended learning versus face-to-face delivery](bl-f2f-no-significant-ebm-competency-difference.md) — related
 - [Blended learning is no more effective than didactic learning at increasing medical students' EBM competency as measured by the Berlin Questionnaire](bl-vs-dl-no-competency-difference-berlin.md) — related
+- [Family medicine residents' EBP knowledge and skills measured by the Fresno test rose from 63.9 to 111.6 after a four half-day EBP short course, in one uncontrolled pre-post study](ebp-short-course-improves-resident-knowledge-fresno.md) — related

@@ -77,3 +77,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Use of the voluntary e-learning cases tended to decline over the course of the semester](casetrain-usage-declines-over-semester.md) — related
 - [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](post-learning-emotion-declines-after-funny-video-induction.md) — related
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
+- [Group work with manipulatives transforms mathematical problem solving into a social activity, decreasing student anxiety and increasing engagement](manipulative-group-work-reduces-anxiety-increases-engagement.md) — related

@@ -68,3 +68,5 @@ The same GEE logistic regression model assessed age effects on perfect critical-
 - [Community health workers trained for half a day with a job-aid maintained or improved correct performance of critical malaria RDT steps over 12 months of community practice](chws-retain-rdt-critical-step-skills-12-months.md) — related
 - [CHWs aged 50 years or older commit more total and safety errors when conducting RDTs than younger CHWs](older-chws-more-rdt-errors.md) — related
 - [Prior RDT experience and male gender are associated with fewer RDT procedure errors at 12-month follow-up](prior-rdt-experience-fewer-errors.md) — related
+- [One-day RDT training produced sustained practical competence in lower-level health workers six weeks post-training](one-day-rdt-training-competence-six-weeks.md) — related
+- [Health workers trained on-the-job by trained peers performed RDTs comparably to centrally trained workers](peer-trained-workers-comparable-rdt-performance.md) — related

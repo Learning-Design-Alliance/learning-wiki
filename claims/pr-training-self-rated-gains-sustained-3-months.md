@@ -84,3 +84,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Confidence gains from data linkage ethics training persist 8-17 months after the workshop for the majority of respondents](deferred-survey-confidence-gains-persist.md) — related
 - [Training effects persisted to an extent in clinical practice, with candidates recalling applications of learning months after the course](simulation-sustained-practice-effects.md) — related
 - [A one-day dementia training program was followed by significantly higher physician self-rated confidence in dementia care skills at 6 months, with the largest gains in caregiver education and community referrals](dementia-training-confidence-gains-six-months.md) — related
+- [On-line Biostatistics knowledge scores rose from baseline to 3 months (48% to 63%) within the on-line course group](online-biostatistics-knowledge-gain-sustained.md) — related

@@ -55,6 +55,8 @@ The authors describe how they ran PBL sessions, influenced by the Buck Institute
 - [Establish Group Roles](establish-group-roles.md)
 - [Role Assignment](role-assignment.md)
 - [Racial Equity In Pbl Build Community Through Shared Ownership](racial-equity-in-pbl-build-community-through-shared-ownership.md)
+- [Provide teachers with diversity training and conflict-resolution skills for facilitating heterogeneous PBL groups](diversity-training-for-pbl-facilitators.md)
+- [Compose heterogeneous PBL groups by the 'right mix' of academic ability and match facilitator expertise to group needs](right-mix-group-composition-strategy.md)
 
 ## Examples
 -

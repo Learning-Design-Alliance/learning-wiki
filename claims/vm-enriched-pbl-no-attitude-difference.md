@@ -57,3 +57,4 @@ In the quasi-experimental comparison, the Mathematics Attitude Questionnaire (38
 - [The web-assisted virtual material produced no statistically significant change in students' attitudes toward science and technology lesson](virtual-material-no-attitude-effect.md) — related
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
 - [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related
+- [Consistent and knowledgeable use of manipulatives improves students' mathematical achievement and attitudes toward mathematics](manipulatives-improve-math-achievement-and-attitudes.md) — related

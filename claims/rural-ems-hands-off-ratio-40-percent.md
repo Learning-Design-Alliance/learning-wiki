@@ -48,3 +48,4 @@ Manikin assessment of the 20 EMS teams; hands-off time was defined as time witho
 ## Related Claims
 - [Only half of rural EMS providers performed BLS for the recommended 2 minutes and 80% used the correct 30:2 ratio, with a 35-second delay to first compression or ventilation](rural-ems-algorithm-recognition-gaps.md) — related
 - [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related
+- [Never requesting the driver's help is associated with a significantly increased hands-off ratio during simulated resuscitation](not-requesting-help-increases-hands-off-ratio.md) — related

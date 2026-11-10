@@ -50,3 +50,4 @@ Analysis of the teacher-completed SDQ secondary outcome (total difficulties, int
 - [Zirkus Empathico increased parent-rated prosocial behavior but not child-assessed prosocial behavior](zirkus-empathico-prosocial-behavior-parent-rated.md) — related
 - [Zirkus Empathico reduced parent-rated behavioral problems in preschoolers](zirkus-empathico-reduced-behavioral-problems.md) — related
 - [Mind the Gap showed no statistically significant effect on secondary outcomes including reading, general maths, mental arithmetic and pupils' feelings about their relationship with their parents](mind-the-gap-null-secondary-outcomes.md) — related
+- [The course produced no significant change in child well-being as measured by the SDQ, with small non-significant declines in hyperactivity and total problems](koppouders-no-significant-child-wellbeing-change.md) — related

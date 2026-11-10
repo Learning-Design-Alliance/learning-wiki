@@ -51,7 +51,8 @@ The authors recommend that programmes adopt outdoor walking seminars as a way to
 - [Splitting a seminar into small walking subgroups roughly triples each student's talking time compared with a whole-group indoor seminar](../claims/walking-subgroups-triple-talking-time.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer interactive seminars as an option alongside small group tutorials where resources are constrained](interactive-seminars-as-cost-effective-alternative-option.md)
 
 ## Examples
 -

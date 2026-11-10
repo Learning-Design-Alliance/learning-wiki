@@ -113074,5 +113074,445 @@
  "test-format\tthree-option version with a poorly functioning distractor removed\tfour-option version including the distractor": {
   "label": "four-option vs three-option test",
   "treatment_is_a": false
+ },
+ "active-learning\t15-hour face-to-face training with role plays, rehearsal, video and discussion\tcontrol group without the training intervention": {
+  "label": "active-learning training vs no training",
+  "treatment_is_a": true
+ },
+ "active-learning\t4-hour interactive EBM workshop\tno EBM workshop": {
+  "label": "interactive EBM workshop vs no workshop",
+  "treatment_is_a": true
+ },
+ "active-learning\t4-hour interactive EBM workshop\tno workshop": {
+  "label": "interactive EBM workshop vs no workshop",
+  "treatment_is_a": true
+ },
+ "active-learning\tExperience in the Refined SGL course\tAttitudes at course entry": {
+  "label": "refined SGL course experience vs course-entry attitudes",
+  "treatment_is_a": true
+ },
+ "active-learning\tGroup completion of quizzes\tIndividual completion of the same quizzes": {
+  "label": "group quiz completion vs individual quiz completion",
+  "treatment_is_a": true
+ },
+ "active-learning\tInitial SGL permanent small groups\tIndividualistic individual work": {
+  "label": "initial permanent small-group learning vs individualistic individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tInitial permanent small-group learning\tIndividualistic work-based learning": {
+  "label": "initial permanent small-group learning vs individualistic work-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined SGL in permanent groups\tIndividualistic individual work": {
+  "label": "refined permanent small-group learning vs individualistic individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined SGL permanent small groups\tIndividualistic individual work": {
+  "label": "refined permanent small-group learning vs individualistic individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined SGL permanent small groups\tInitial SGL permanent small groups": {
+  "label": "refined permanent small-group learning vs initial permanent small-group learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined SGL with permanent small groups\tIndividualistic individual work-based course": {
+  "label": "refined permanent small-group learning vs individualistic work-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined SGL with permanent small groups and individual-first group quizzes\tInitial SGL with permanent small groups": {
+  "label": "refined permanent small-group learning with individual-first group quizzes vs initial permanent small-group learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined permanent small-group learning\tIndividualistic work-based learning": {
+  "label": "refined permanent small-group learning vs individualistic work-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined permanent small-group learning\tInitial permanent small-group learning": {
+  "label": "refined permanent small-group learning vs initial permanent small-group learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined small-group learning at course end\tRefined small-group learning at course start": {
+  "label": "refined small-group learning at course end vs course start",
+  "treatment_is_a": true
+ },
+ "active-learning\tRefined small-group learning course\tEntrance survey before the course": {
+  "label": "refined small-group learning course vs course-entry baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tafter completing the refined small-group-learning course\tentrance survey before the course": {
+  "label": "refined small-group learning course completion vs course-entry baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup quiz\tdaily top-performing student's individual quiz": {
+  "label": "group quiz vs individual quiz",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup quiz completed after individual attempt\tindividual quiz completed alone": {
+  "label": "group quiz after individual attempt vs individual quiz alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup quiz completed after individual attempt\tindividual quiz grades of each group's term high achiever": {
+  "label": "group quiz after individual attempt vs high-achieving student's individual quiz",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup work with manipulatives\tnot stated": {
+  "label": "group work with manipulatives vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tlive interactive multiformat CME program\tmatched nonparticipants": {
+  "label": "live interactive multiformat CME program vs nonparticipation",
+  "treatment_is_a": true
+ },
+ "active-learning\tlive, interactive, case-based, multiformat CME program\tno participation in the CME program": {
+  "label": "live interactive case-based multiformat CME program vs nonparticipation",
+  "treatment_is_a": true
+ },
+ "active-learning\tlive, interactive, case-based, multiformat CME program\tnonparticipation": {
+  "label": "live interactive case-based multiformat CME program vs nonparticipation",
+  "treatment_is_a": true
+ },
+ "active-learning\tmulti-part inquiry-based molecular phylogeny activity\ttraditional laboratory exercise": {
+  "label": "inquiry-based molecular phylogeny exercise vs traditional laboratory exercise",
+  "treatment_is_a": true
+ },
+ "active-learning\tmulti-part inquiry-based molecular phylogeny exercises\ttraditional laboratory exercise": {
+  "label": "inquiry-based molecular phylogeny exercise vs traditional laboratory exercise",
+  "treatment_is_a": true
+ },
+ "active-learning\trepeated group modeling, problem solving, and prototyping\tstudents' early-semester performance before extended practice": {
+  "label": "repeated group modeling, problem solving, and prototyping vs early-semester baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsix-week group project developing and presenting an original biological model\tstudents' early-semester modeling performance before the final project": {
+  "label": "extended group biological-model project vs early-semester modeling baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall group tutorials\tinteractive seminars": {
+  "label": "small-group tutorials vs interactive seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tthree-part inquiry-based molecular phylogeny exercise\ttraditional laboratory exercise": {
+  "label": "inquiry-based molecular phylogeny exercise vs traditional laboratory exercise",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEBM course\tbefore EBM course": {
+  "label": "EBM course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEBM course\tbefore the EBM course": {
+  "label": "EBM course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tLecturing, demonstrating, and intervening\tOther pedagogical strategies": {
+  "label": "Lecturing, demonstrating, and intervening vs other pedagogical strategies",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMCH session with lecture and participatory activities\tpre-session baseline": {
+  "label": "MCH education session with lecture and participatory activities vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMCH session with lecture, PowerPoint, and participatory learning activities\tpre-session assessment": {
+  "label": "MCH education session with lecture, PowerPoint, and participatory activities vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMental Health First Aid training\twait-list control": {
+  "label": "Mental Health First Aid training vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRDT training and implementation\tpre-training period": {
+  "label": "RDT training plus implementation vs pre-training routine care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taccurate, understandable, and convincing explanation\tlack of clinical knowledge about the disease or exercise goals": {
+  "label": "Accurate, understandable, and convincing explanation vs no or insufficient explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclear explanation of condition and exercise goals\tlack of clinical knowledge or explanation": {
+  "label": "Clear explanation of the condition and exercise goals vs no or insufficient explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-hour MCH education session with presentation and participatory activities\tpre-session baseline": {
+  "label": "MCH education session with presentation and participatory activities vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-hour MCH session with PowerPoint and participatory activities\tpre-session assessment before the MCH session": {
+  "label": "MCH education session with PowerPoint and participatory activities vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour half-day EBP course\tpre-course": {
+  "label": "Four half-day EBP course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour half-day EBP course\tpre-course assessment": {
+  "label": "Four half-day EBP course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour half-day EBP course\tpre-course baseline": {
+  "label": "Four half-day EBP course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified Youth Mental Health First Aid training\twait-list control": {
+  "label": "Youth Mental Health First Aid training vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodified Youth Mental Health First Aid training for teachers\twait-list control": {
+  "label": "Youth Mental Health First Aid training for teachers vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnear-peer-led OSCE revision program\tstudents' pre-course state": {
+  "label": "Near-peer-led OSCE revision program vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnear-peer-led OSCE revision teaching\ttraditional consultant-led teaching": {
+  "label": "Near-peer-led OSCE revision teaching vs traditional consultant-led teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day RDT training\tpre-training assessment": {
+  "label": "One-day RDT training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day RDT training\tpre-training exercise": {
+  "label": "One-day RDT training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day RDT training plus RDT introduction\tpre-training prescribing practice": {
+  "label": "One-day RDT training plus RDT introduction vs pre-training prescribing practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day RDT training plus implementation\tpre-training routine care": {
+  "label": "One-day RDT training plus implementation vs pre-training routine care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day RDT training plus routine implementation\tpre-training routine care": {
+  "label": "One-day RDT training plus routine implementation vs pre-training routine care",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-day central RDT training\tpre-training knowledge test": {
+  "label": "Central RDT training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-week EBM training course for patient and consumer representatives\tcomparable EBM seminar for undergraduate Health Sciences and Education students": {
+  "label": "EBM course for patient and consumer representatives vs EBM seminar for undergraduate students",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpeer-led five-hour MCH education session using the same educational materials\tpre-session baseline": {
+  "label": "Peer-led MCH education session with lecture materials vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteach rapidly to the learner's diagnosed need using general rules\tprovide untargeted or unnecessary information": {
+  "label": "Instruction targeted to the learner's diagnosed need vs untargeted or unnecessary information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteachers received Mental Health First Aid training\twait-list control; teachers not yet trained": {
+  "label": "Mental Health First Aid training for teachers vs wait-list/no training",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tWriteSim simulation with immediate answer keys and corrective feedback\tNo comparison condition stated": {
+  "label": "feedback vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tobserved exercise performance with feedback and corrective instruction\tno observation, feedback, or corrective instruction": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tongoing MI supervision with MITI feedback\tbaseline MI skill": {
+  "label": "feedback-supported MI supervision/training vs baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tongoing MI supervision with MITI-based feedback\tbaseline assessment before the supervision period": {
+  "label": "feedback-supported MI supervision/training vs baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tongoing MI training with MITI-coded feedback and supervision\tbaseline assessment before the observed training period": {
+  "label": "feedback-supported MI supervision/training vs baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tongoing MI training with MITI-coded feedback and supervision\tearlier assessment before the later follow-up": {
+  "label": "feedback-supported MI supervision/training vs baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tprovide specific, timely, supportive feedback\tomit feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tImmediate answer keys and corrective feedback\tNo feedback comparison condition reported": {
+  "label": "immediate vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdiagnose the learner's instructional need\tteach without diagnosing the learner": {
+  "label": "diagnostic assessment vs no diagnostic assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular provider monitoring of adherence or health progress\tno regular provider monitoring": {
+  "label": "regular monitoring vs no regular monitoring",
+  "treatment_is_a": true
+ },
+ "media-design\tbar graph displayed before discussion\tbar graph not displayed before discussion": {
+  "label": "initial class-response graph displayed before discussion vs not displayed before discussion",
+  "treatment_is_a": true
+ },
+ "media-design\tbar graph of initial class responses displayed before peer discussion\tpeer discussion without displaying the initial class-response graph": {
+  "label": "initial class-response graph displayed before discussion vs not displayed before discussion",
+  "treatment_is_a": true
+ },
+ "media-design\tbar graph of initial class responses shown before discussion\tbar graph not shown before discussion": {
+  "label": "initial class-response graph displayed before discussion vs not displayed before discussion",
+  "treatment_is_a": true
+ },
+ "practice-amount\t20 minutes of additional mannequin LMA training until proficient\tbrief standard mannequin training only": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t20 minutes of additional mannequin training until proficient\tbrief mannequin training": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional 20-minute intensive mannequin training until proficient\tbrief mannequin training": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\teducational programme\tsymptom-based physical training": {
+  "label": "educational programme vs symptom-based physical training",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfourth clinical LMA placement\tfirst clinical LMA placement": {
+  "label": "more prior clinical experience vs less prior clinical experience",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater laparoscopic pyloromyotomies after experience\tinitial laparoscopic pyloromyotomies": {
+  "label": "more prior clinical experience vs less prior clinical experience",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlong course\tshort course": {
+  "label": "longer course vs shorter course",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmedium course\tlong course": {
+  "label": "longer course vs shorter course",
+  "treatment_is_a": false
+ },
+ "practice-amount\tmedium course\tshort course": {
+  "label": "longer course vs shorter course",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore practice with TM (2 students per model)\tless practice with TM (8 students per model)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond 35 laparoscopic procedures\tfirst 35 laparoscopic procedures": {
+  "label": "more prior clinical experience vs less prior clinical experience",
+  "treatment_is_a": true
+ },
+ "practice-amount\tshort course\tlong course": {
+  "label": "longer course vs shorter course",
+  "treatment_is_a": false
+ },
+ "practice-amount\tshort course\tmedium course": {
+  "label": "longer course vs shorter course",
+  "treatment_is_a": false
+ },
+ "practice-amount\tteacher-made model with 2 students per model\tteacher-made model with 8 students per model": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttutorial only\ttutorial plus interactive practice exercise with feedback": {
+  "label": "interactive practice with feedback vs tutorial only",
+  "treatment_is_a": false
+ },
+ "practice-amount\ttwo students per teacher-made model\teight students per teacher-made model": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo students per teacher-made model, with more practice opportunities\teight students per teacher-made model, with fewer practice opportunities": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tquestions explicitly soliciting replies from the whole community\tfollow-up questions directed to the original poster": {
+  "label": "whole-community-directed questions vs original-poster-directed follow-up questions",
+  "treatment_is_a": true
+ },
+ "prompts\tuse open-ended prompts to promote reflection\tgive feedback without prompting reflection": {
+  "label": "reflection-promoting prompts vs feedback without reflection prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tmultiple smaller exams during the semester\tone large final examination": {
+  "label": "more frequent assessments vs less frequent assessments",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttwo assessments per semester\tone assessment per semester": {
+  "label": "more frequent assessments vs less frequent assessments",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcontest for first-time posters with a prize drawing\tother participation strategies or no first-time-poster contest": {
+  "label": "posting contests with prizes vs no posting contest",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tforum and walking contests with small prizes\tforum participation without contests": {
+  "label": "forum participation and walking-goal contests with small prizes vs no contests",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tsmall-prize participation and walking-goal contests\tperiods without contests": {
+  "label": "forum participation and walking-goal contests with small prizes vs no contests",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttime-limited posting contests, including a first-time-poster prize drawing\tno posting contest": {
+  "label": "posting contests with prizes vs no posting contest",
+  "treatment_is_a": true
+ },
+ "simulation\tIV practice on a model\tpre-practice assessment before model practice": {
+  "label": "practice vs pre-practice assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tTM practice attached to a simulated patient\tCM practice on a separate inanimate arm": {
+  "label": "teacher-made model attached to a simulated patient vs separate commercial model",
+  "treatment_is_a": true
+ },
+ "simulation\tWriteSim TCExam training with manuscript-writing simulation questions\tNo comparison condition stated": {
+  "label": "simulation-based training vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "simulation\tassessment on a TM or CM\tassessment on a real patient": {
+  "label": "simulated-model assessment vs real-patient assessment",
+  "treatment_is_a": true
+ },
+ "simulation\thysteroscopic instruction and nine simulator practice runs\tnovice baseline before training": {
+  "label": "simulation training and practice vs baseline before training",
+  "treatment_is_a": true
+ },
+ "simulation\tnine VR simulator practice runs plus a recorded tenth run\tbaseline VR simulator run": {
+  "label": "repeated VR simulator practice vs baseline VR simulator run",
+  "treatment_is_a": true
+ },
+ "simulation\tnine additional practice runs on the virtual reality simulator\tbaseline run before training": {
+  "label": "repeated VR simulator practice vs baseline VR simulator run",
+  "treatment_is_a": true
+ },
+ "simulation\tnine additional virtual-reality practice runs plus instruction\tbaseline virtual-reality run": {
+  "label": "simulation training and practice vs baseline VR simulator run",
+  "treatment_is_a": true
+ },
+ "simulation\tphysical Pólya urn demonstration\tparticipants’ initial prediction of random fluctuation": {
+  "label": "physical demonstration vs initial prediction without demonstration",
+  "treatment_is_a": true
+ },
+ "simulation\tpractice on TM attached to a simulated patient\tpractice on CM separate from a simulated patient": {
+  "label": "teacher-made model attached to a simulated patient vs separate commercial model",
+  "treatment_is_a": true
+ },
+ "simulation\tteacher-made model (TM)\tcommercial model (CM)": {
+  "label": "teacher-made model vs commercial model",
+  "treatment_is_a": true
+ },
+ "simulation\tteacher-made model (TM) attached to a simulated patient\tseparate commercial model (CM)": {
+  "label": "teacher-made model attached to a simulated patient vs separate commercial model",
+  "treatment_is_a": true
+ },
+ "simulation\tteacher-made model (TM) practice\tcommercial model (CM) practice": {
+  "label": "teacher-made model vs commercial model",
+  "treatment_is_a": true
+ },
+ "simulation\tteacher-made model attached to a simulated patient\tseparate commercial model arm": {
+  "label": "teacher-made model attached to a simulated patient vs separate commercial model",
+  "treatment_is_a": true
  }
 }

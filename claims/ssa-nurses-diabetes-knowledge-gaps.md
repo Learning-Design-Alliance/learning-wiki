@@ -52,3 +52,4 @@ The review's synthesis of 20 included studies, reported descriptively, found tha
 - [Barriers to nurses' diabetes knowledge acquisition include lack of guidelines, inadequate staffing, salary and training resources](barriers-nurse-diabetes-knowledge-ssa.md) — related
 - [Nurses with 1–5 years of experience scored higher on diabetes knowledge than more experienced nurses in one Nigerian study](early-career-nurses-higher-diabetes-knowledge.md) — related
 - [National audit data reveal large adherence gaps in fundamental stroke nursing practices such as fever treatment, insulin timing, and swallow screening](stroke-nursing-adherence-gaps-audit.md) — related
+- [GPs/FPs in all four countries lacked the knowledge, skills and attitude to optimize therapy decision-making, including confidence with new treatments and insulin therapy](therapy-decision-making-gaps-all-four-countries.md) — related

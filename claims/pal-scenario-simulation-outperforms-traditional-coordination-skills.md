@@ -54,3 +54,4 @@ Quasi-experiment comparing 90 interns per group (historical control from the pri
 - [Within the peer-assisted scenario simulation group, all five trauma first aid procedure scores improved significantly from pre- to post-training](pal-scenario-within-group-procedure-gains.md) — reports the opposite
 - [Interns hands-on trained on a scenario outperform other groups in simulated assessment of that scenario](simulation-trained-outperform-on-scenario-assessment.md) — a narrower finding that bears on this claim
 - [Knowledge of manual external defibrillator handling showed the lowest improvement after simulation training](low-gain-manual-defibrillator-handling.md) — related
+- [Peer-led advanced resuscitation training with modified low-energy defibrillators produced no unsafe defibrillation incidents](peer-led-defibrillation-training-no-safety-incidents.md) — related

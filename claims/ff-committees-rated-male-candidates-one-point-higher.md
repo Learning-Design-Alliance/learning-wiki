@@ -51,3 +51,4 @@ OLS regression analysis of 5,036 interview observations (2006–2019) with an in
 - [The interview-rating benefit of voluntary service was gender-specific and reversed by committee composition: all-male and mixed committees rewarded women's volunteer work, all-female committees men's](voluntary-service-valuation-gender-specific-by-committee.md) — related
 - [Completing voluntary service was significantly linked to approximately one additional interview point across all interview subcategories](voluntary-service-one-point-interview-bonus.md) — related
 - [No evidence was found linking structured interview performance to later struggling on the GEM course](no-interview-performance-link-to-struggling.md) — related
+- [Female students achieved higher observed communication scores than male students in both years](female-students-higher-communication-ratings.md) — related

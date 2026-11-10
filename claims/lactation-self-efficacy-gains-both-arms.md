@@ -52,3 +52,4 @@ Difference-in-differences analysis of mean change scores in the cluster randomiz
 - [Simulation substantially increases self-perceived confidence in infant feeding, with comparable gains in telesimulation and in-person modalities](simulation-confidence-gains-modality-comparable.md) — related
 - [Telesimulation produces clinical reasoning improvements comparable to in-person simulation, with a numerically greater but non-significant change in the telesimulation group](telesimulation-comparable-clinical-reasoning-in-person.md) — related
 - [Telesimulation achieves enhanced self-reported knowledge and confidence in line with in-person simulation](telesimulation-knowledge-confidence-in-line-with-in-person.md) — related
+- [No significant differences emerged between training conditions on training satisfaction or self-efficacy, with high ratings in all conditions](agree2-training-satisfaction-self-efficacy-null.md) — related

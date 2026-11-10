@@ -49,6 +49,7 @@ Participants proposed concrete changes to nursing diagnosis instruction: extendi
 
 - [Timetable collaborative learning into the internship and redesign feedback mechanisms to lower the barrier to commenting](timetable-collaborative-learning-and-lower-feedback-barriers.md)
 - [Teach diagnostic restraint through explicit alarm-versus-functional instruction, case-based reasoning practice, bedside modeling of positive diagnosis, and restraint-rewarding assessment](teach-positive-diagnosis-and-restraint-strategy.md)
+- [Use activated demonstration at the bedside to build skills for disparity-sensitive care](activated-demonstration-disparities-skills.md)
 
 ## Examples
 -

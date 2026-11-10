@@ -60,3 +60,4 @@ Deductive framework analysis of 88 included studies mapped inductively derived t
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — a narrower finding that bears on this claim
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
 - [Collaboration within the medical team is more explicitly represented in surgical curricula than interprofessional cooperation on healthcare sector issues](surgery-collaborator-team-emphasis-over-interprofessional.md) — related
+- [Collaborative learning in diverse PBL groups prepares students for professional work in a multicultural society](heterogeneous-pbl-prepares-for-multicultural-profession.md) — related

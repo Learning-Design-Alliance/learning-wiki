@@ -61,3 +61,4 @@ One-group quasi-experimental before-after study of 103 final-year nursing studen
 - [Maximum scores declined after primary intervention except in fluidity and speed, which rose significantly](max-scores-decline-except-fluidity-speed.md) — related
 - [OBGYN simulation increased medical students' knowledge immediately, with retention at 4 months but return to baseline by 8 months](obgyn-simulation-knowledge-gain-decay.md) — related
 - [Clinical virtual simulation improves nursing students' knowledge retention and clinical reasoning immediately after a lesson and 2 months later](cvs-improves-knowledge-retention-nursing.md) — related
+- [Post-training knowledge scores rose significantly above pre-training scores after the one-day RDT course](rdt-post-training-knowledge-score-increase.md) — related

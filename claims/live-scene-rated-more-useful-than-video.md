@@ -48,3 +48,4 @@ End-of-seminar opinion question (linear scale 0–10) on the usefulness of the s
 - [Live-scene students scored slightly higher than video students, significantly only on the overall questionnaire](scene-group-slightly-higher-scores-than-video-group.md) — related
 - [Delirium knowledge questionnaire scores rose from pre-test to post-test in both the live-scene and video groups, with large pre-post effect sizes](live-scene-and-video-groups-improve-delirium-knowledge-large-es.md) — related
 - [Score gains from before to after the seminar did not differ significantly between the scene and video groups](no-significant-gain-difference-between-scene-and-video-groups.md) — related
+- [Students rate the presentation and content of live lectures higher than matched video podcasts](students-rate-lecture-presentation-above-podcast.md) — related

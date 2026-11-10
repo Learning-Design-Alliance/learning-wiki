@@ -55,3 +55,4 @@ Pre-post evaluation of a three-session EBM and critical appraisal course for 4th
 - [Baseline self-confidence moderates knowledge gains, with somewhat confident and neutral nurses improving most and very confident nurses least](baseline-confidence-moderates-sdl-ecg-gains.md) — related
 - [Among participating residents, self-rated confidence scores rose from pre-test to post-test after team-based simulation training in one group with no comparison group; the change was statistically significant](confidence-gain-significant.md) — related
 - [Nurses' critical appraisal knowledge scores increased significantly after the online InfoCritique course, from a mean of 70.5 to 86.6 out of 100.](elearning-critical-appraisal-knowledge-gain-nurses.md) — related
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related

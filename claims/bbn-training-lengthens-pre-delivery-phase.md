@@ -48,3 +48,4 @@ Randomised controlled study of 95 residents assigned to a 40-h training programm
 - [Training leads residents to initiate the simulated relative's first turn of speech about the bad news more often and earlier, during the pre-delivery phase](bbn-training-includes-relative-earlier.md) — related
 - [Trained residents use more assessment and supportive utterances in simulated triadic breaking bad news consultations](bbn-training-increases-assessment-support-utterances.md) — related
 - [Training increases the number of turns of speech by residents, the simulated patient, and the simulated relative in similar proportions](bbn-training-increases-turns-of-speech-all-parties.md) — related
+- [Clinicians perceived that implementing the STAR communication skills lengthened consultations by about two to three minutes, a trade-off most viewed as worthwhile](star-consultations-lengthened-two-three-minutes-tradeoff.md) — related

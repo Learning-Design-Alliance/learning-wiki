@@ -51,3 +51,4 @@ Randomized controlled crossover trial (Hoogendam et al., 2012) with 8 specialist
 - [PICO versus PICOS and SPIDER: PICO gave higher sensitivity and lower precision, but with different numbers of search blocks per model](pico-vs-picos-spider-blocks-confound.md) — related
 - [TGfU school-implementation research 2014–2019 comprises only 12 school-based studies despite many publications](tgfu-review-12-school-implementation-studies.md) — related
 - [A two-hour single intervention on Medline searching led intervention students to have fewer search errors and higher quality searches than control students](medline-searching-intervention-fewer-errors.md) — related
+- [First-time resident users retrieved relevant answers to a higher proportion of clinical questions with UpToDate (76%) than with PubMed Clinical Queries (43%)](uptodate-higher-answer-retrieval-than-pubmed-clinical-queries.md) — related

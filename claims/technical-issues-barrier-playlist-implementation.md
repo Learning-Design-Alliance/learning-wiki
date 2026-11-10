@@ -119,3 +119,5 @@ Observational and interview study of four after-school sites; educators reported
 - [Technical barriers in the Pebblepad ePortfolio detracted from an otherwise positive student experience, with students spending up to 5 h on a single case](pebblepad-technical-barriers-detracted-engagement.md) — a narrower finding that bears on this claim
 - [Poor continuity of network access limits the WeChat–PBL model where Wi-Fi is not ubiquitous](wechat-pbl-poor-network-continuity-limitation.md) — related
 - [Students identified workload, technical problems, content overload and lack of face-to-face interaction as barriers to the beta e-learning program](e-learning-barriers-workload-technical-content-overload.md) — related
+- [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related
+- [Field usability testing during development surfaced and corrected coding, navigation, image-upload and display problems](writesim-field-usability-iterations-fixed-software-problems.md) — related

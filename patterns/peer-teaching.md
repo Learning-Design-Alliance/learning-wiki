@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (29 for, 21 mixed, 4 against) · 35 studies (12 causal, 10 quant-synthesis, 4 qualitative, 4 design, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 35 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (30 for, 23 mixed, 4 against) · 37 studies (14 causal, 10 quant-synthesis, 4 qualitative, 4 design, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 37 report an effect size · 54 claims rest on one study
 
 ## Description and scope
 
@@ -118,6 +118,9 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](../claims/desired-training-content-theory-practice-feedback.md) [+W] — attached 2026-11-06 from George SS et al. (2025), which proposed "Design peer-teacher training that combines a theoretical base with contextualized practical teaching experience and feedback".
 - [Near-peer instructors teaching anatomy dissection are rated by first-year students on par with professional teachers, and significantly higher in 2016](../claims/npi-anatomy-ratings-par-with-faculty.md) [+W] — attached 2026-11-09 from Dickman N et al. (2017), which proposed "Use trained student near-peer instructors as small-group facilitators in gross anatomy dissection, especially where qualified instructors are scarce"; tests this page's relationship.
 - [Peer-taught simulation leads to equivalent knowledge acquisition compared with physician-taught simulation in an emergency medicine clerkship](../claims/peer-taught-simulation-equivalent-knowledge-acquisition.md) [~W] — attached 2026-11-09 from House Joseph B. MD et al. (2017), which proposed "Rotating three-case peer-led simulation session with one monitoring physician"; tests this page's relationship.
+- [Male volunteers who learned MCH topics can teach another group of males with similar knowledge gains, but the attitude improvement does not transfer](../claims/peer-males-teach-others-knowledge-but-not-attitude.md) [~M] — attached 2026-11-10 from Kadomoto Noriko et al. (2011), which proposed "AMMA male-to-male cascade: males learn MCH topics and then teach what they learned to other males in their communities"; tests this page's relationship.
+- [Peer-led advanced resuscitation training achieves first-time OSCE Pass rates non-inferior to expert-led training among medical students](../claims/peer-led-resuscitation-osce-pass-non-inferior.md) [+W] — attached 2026-11-10 from Hughes Thomas C et al. (2010), which proposed "Train peer instructors in basic medical education before they lead advanced skills teaching in small groups".
+- [Whether peer-led training yields as many High Pass OSCE grades as expert-led training is inconclusive; the expert-led advantage could exceed the 20% boundary](../claims/high-pass-peer-vs-expert-inconclusive.md) [~W] — attached 2026-11-10 from Hughes Thomas C et al. (2010), which proposed "Train peer instructors in basic medical education before they lead advanced skills teaching in small groups".
 
 ## Illustrative design instance and observation record
 

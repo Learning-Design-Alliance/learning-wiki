@@ -62,3 +62,4 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [Among participating residents, self-rated confidence scores rose from pre-test to post-test after team-based simulation training in one group with no comparison group; the change was statistically significant](confidence-gain-significant.md) — related
 - [Knowledge, skill and experience domain scores rose significantly from pre-test to post-test, while attitude and value domain scores did not show a statistically significant change, in one self-rated uncontrolled pre-post study](iccn-domain-mixed-gains-attitude-value-null.md) — reports the opposite
 - [Most trainees self-rated as beginner or intermediate in overall EBM ability](trainees-self-rate-beginner-intermediate-ebm.md) — related
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related

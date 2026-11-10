@@ -51,6 +51,7 @@ Based on the trial's satisfaction and feedback findings, the authors recommend a
 - [Blended Learning](blended_learning.md)
 - [Use sequential adaptive e-learning plus simulator training to establish novel minimally invasive surgical techniques](sequential-elearning-simulator-for-novel-mis-techniques.md)
 - [Give the face-to-face feedback a more prominent role in order and emphasis when delivering the doktormitSDM module](doktormitsdm-emphasize-face-to-face-feedback.md)
+- [Use a blended e-learning plus face-to-face approach as a cost-effective way to deliver continuing medical education to clinicians](blended-elearning-facetoface-cost-effective-cme.md)
 
 ## Examples
 -

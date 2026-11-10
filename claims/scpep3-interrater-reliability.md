@@ -55,3 +55,4 @@ Inter-rater reliability analysis on a subsample of 59 children with ASD (ages 2�
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [The validated sCPEP-3 supports individualized educational program planning, early identification, and treatment-effect evaluation for mandarin-speaking children with ASD](scpep3-practical-implications-mainland-china.md) — related
+- [The adapted Fresno test demonstrated high inter-rater reliability (r = 0.90) in this study](adapted-fresno-test-inter-rater-reliability.md) — related

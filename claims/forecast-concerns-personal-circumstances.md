@@ -54,3 +54,4 @@ Thematic analysis of focus group Activity 2 discussions (20 students) produced t
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
 - [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](ai-cannot-capture-social-emotional-dynamics.md) — related
 - [Mental tests have decided limitations: they miss motivation, persistence, and emotional life, and intelligence ratios are subject to change](intelligence-test-limitations-profile-needed.md) — related
+- [Patient outcome is a problematic indirect measure of therapist skill because patient characteristics confound it](patient-outcome-poor-competence-measure.md) — related

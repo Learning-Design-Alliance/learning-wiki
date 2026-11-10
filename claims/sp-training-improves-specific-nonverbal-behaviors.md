@@ -50,3 +50,4 @@ Wilcoxon signed-rank comparisons of the 12 checklist items across the 51 student
 - [Hand gestures rose from pre-test to post-test after SP-based communication training in one uncontrolled pre-post study](sp-training-increases-hand-gestures.md) — related
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
+- [Professional development curriculum students scored higher on use of silence and frequency of interruptions, and showed a large increase in keeping the discussion relevant](pd-cohort-higher-silence-interruptions-relevance.md) — related

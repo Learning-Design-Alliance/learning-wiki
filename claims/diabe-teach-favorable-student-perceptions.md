@@ -47,3 +47,4 @@ Feedback survey of the 28 game-group participants using nine 1–5 Likert items,
 ## Related Claims
 - [The game group gave more 'I don't know' responses and fewer wrong answers than the control group, suggesting greater recognition of knowledge gaps](diabe-teach-idontknow-versus-guessing.md) — related
 - [Medical students who played the Diabe-teach board game scored higher on an immediate diabetes post-test than students in a self-study control group](diabe-teach-posttest-outperformed-self-study.md) — related
+- [Post-course, students reported improved confidence and clearer expectations for the OSCE](post-course-confidence-expectations-improved.md) — related

@@ -52,3 +52,4 @@ Descriptive report of objective final-examination scores for the two cohorts; th
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — related
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
+- [PBL graduates achieved better average grades in the final written national board examination than conventional graduates](pbl-graduates-better-board-exam-grades.md) — related

@@ -44,6 +44,7 @@ The training replaced conventional lecture with autonomous student role-play: gr
 ## Related Strategies
 
 - [Prepare and train IPE facilitators in group facilitation skills, conflict resolution, and simulation-specific competencies](ipe-facilitator-training-strategy.md)
+- [Provide teachers with diversity training and conflict-resolution skills for facilitating heterogeneous PBL groups](diversity-training-for-pbl-facilitators.md)
 
 ## Examples
 -

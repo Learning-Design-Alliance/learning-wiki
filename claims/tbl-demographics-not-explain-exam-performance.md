@@ -54,3 +54,4 @@ Regression analysis of three semesters of TBL course data (N = 134 per printed t
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
 - [Gender and other PGY levels showed no significant effect on predicted exam score difference](gender-and-other-pgy-no-effect-exam-score-difference.md) — related
 - [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](free-response-exams-no-gender-gap.md) — related
+- [No significant difference in recall between video podcast and live lecture holds across topics, genders and prior academic performance subgroups](recall-equivalence-robust-across-subgroups.md) — related

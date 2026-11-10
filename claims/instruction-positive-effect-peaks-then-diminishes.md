@@ -52,3 +52,4 @@ Between-student response curve for Mechanics (Fig. 3), averaged across fall and 
 - [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — a broader claim this one bears on
 - [In Experiment 1, unlearning of the initial category and re-learning of the target category proceeded in parallel rather than unlearning preceding re-learning.](unlearning-relearning-parallel-exp1.md) — related
+- [The student-professional grading gap increases later in the term, tracking rising question difficulty](grading-gap-increases-late-in-term.md) — related

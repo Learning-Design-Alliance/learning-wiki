@@ -52,3 +52,4 @@ Register-based comparison of resource-consumption outcomes for trainee operation
 - [Most trainee surgeons drop out before completing 50 TVT operations, but early dropouts' outcomes resemble those who complete training and the quality reference](tvt-trainee-dropout-sensitivity.md) — related
 - [Trainee TVT surgeons show no statistically significant difference from experienced surgeons in perioperative bladder perforation or 1-year urinary continence at any point in their first 50 operations](tvt-trainees-primary-outcomes-equivalent.md) — related
 - [Mean hospital length of stay did not differ between resident-performed SILS and traditional LC groups.](resident-sils-length-of-stay-similar-traditional-lc.md) — reports the opposite
+- [Patients operated on by early-trained urologists spent significantly less time in hospital after ureterorenoscopy](early-trained-operators-shorter-postoperative-hospitalization.md) — reports the opposite

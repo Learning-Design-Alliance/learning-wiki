@@ -70,3 +70,4 @@ Cross-study summary of R2 and adjusted R2 from regression models with the ten LA
 - [All LASSI scales except Using Academic Resources correlate significantly with preclinical and Step 1 performance across the whole cohort](lassi-scales-except-uar-correlate-with-performance.md) — related
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — reports the opposite
 - [Concentration is the only LASSI study strategy correlated with USMLE Step 1 performance among pre-clinical medical students](concentration-only-study-strategy-correlated-step1.md) — a narrower finding that bears on this claim
+- [OSCE results correlate with planning (years 1 and 3) and with concentration/dedication (year 3) and repetition/revision (year 1).](planning-concentration-correlate-osce-years-1-3.md) — a narrower finding that bears on this claim

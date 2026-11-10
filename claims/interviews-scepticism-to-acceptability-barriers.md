@@ -70,3 +70,4 @@ Theme two (reflections on training experience): "barriers included technical dif
 - [The STP was highly acceptable and satisfying: the online format was rated 9.12/10 and 69.2% of participants were very satisfied](stp-high-satisfaction-acceptability.md) — related
 - [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related
 - [Initially sceptical staff found the online variant an acceptable alternative that did not take significantly more time than classroom teaching](staff-accepted-online-variant-without-extra-time.md) — related
+- [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related

@@ -90,3 +90,4 @@ Observational note from the synchronous spring 2021 semester: classroom response
 - [The program's first teleconferenced academic conference drew 30 attendees, and a straw poll showed residents and faculty were happy with the format and interested in continuing remotely](first-teleconference-30-attendees-straw-poll-positive.md) — related
 - [Most live-CCD students favour routine curriculum implementation, far fewer video or paper students do](ccd-curriculum-implementation-preferences.md) — related
 - [Direct interaction with the lecturer was a key decision criterion for choosing the face-to-face format](lecturer-interaction-drives-face-to-face-choice.md) — related
+- [Fewer questions were asked of the instructor in webcast conditions, suggesting greater transactional distance for webcast and chat media](fewer-webcast-questions-transactional-distance.md) — related

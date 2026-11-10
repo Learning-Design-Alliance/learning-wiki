@@ -50,3 +50,4 @@ Survey acceptability results from the same 46-participant cohort: participants r
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
 - [Participants rated the CCC note-taking strategy highly acceptable on a social validity survey](ccc-social-validity-high-acceptability.md) — related
+- [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related

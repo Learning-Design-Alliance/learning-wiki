@@ -78,3 +78,4 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 - [The pretest and posttest demonstrated significant criterion-referenced validity against the Oxford Placement Test](pretest-posttest-criterion-referenced-validity-opt.md) — related
 - [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — a narrower finding that bears on this claim
 - [Discriminant validity analysis shows the five competency clusters are reflected in the empirical results of the progress test](competency-clusters-discriminant-validity.md) — a narrower finding that bears on this claim
+- [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — a narrower finding that bears on this claim

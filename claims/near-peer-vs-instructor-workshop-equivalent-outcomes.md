@@ -57,3 +57,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [No difference in learning outcomes was found between resident-given and faculty-given lectures, and nurse-given lectures received equivalent evaluation scores](resident-faculty-lecture-outcomes-equivalent.md) — related
 - [Peer-led simulation-based learning produces knowledge-test gains equivalent to peer-led lectures in PGY-I residents](peer-led-simulation-knowledge-gains-equivalent-to-lecture.md) — related
 - [Near-peer instructors teaching anatomy dissection are rated by first-year students on par with professional teachers, and significantly higher in 2016](npi-anatomy-ratings-par-with-faculty.md) — related
+- [Student evaluation ratings of resuscitation teaching did not differ significantly between the peer-led trial year and the previous expert-led year](evaluation-ratings-peer-vs-expert-year-not-significant.md) — related

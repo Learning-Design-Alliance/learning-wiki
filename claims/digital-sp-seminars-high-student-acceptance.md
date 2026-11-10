@@ -52,3 +52,4 @@ Anonymous online questionnaire evaluation of digital SP seminars in the 6th and 
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [GP-trainees showed high acceptance of the converted digital seminar format, with 99% willing to participate in an online seminar again and 58% satisfied or very satisfied with the implementation.](kwbw-webinar-high-acceptance-gp-trainees.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
+- [Students rated the dermatology e-learning course highly, with 90.9% rating it very good to excellent](elearning-dermatology-high-satisfaction-90-9.md) — related

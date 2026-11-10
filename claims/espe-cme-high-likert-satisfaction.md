@@ -80,3 +80,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [The quality of educational content matters most to online learners, more than interactivity or website design](content-quality-matters-most-to-learners.md) — related
 - [Incorporating learner feedback into curricular revision was associated with increased learner satisfaction with the instructive value of an online curriculum, from 3.8 to 4.1 on a 5-point scale](feedback-revision-increases-instructive-value-rating.md) — related
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
+- [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related

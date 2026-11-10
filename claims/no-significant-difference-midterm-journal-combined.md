@@ -61,3 +61,4 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Facilitator group was a significant factor in student self-assessed SDL total scores at course midpoint but not at endpoint](facilitator-effect-midpoint-only.md) — related
 - [Introducing a mid-term check on day 8 of online ligation practice did not significantly increase examination scores](midterm-check-no-significant-score-increase.md) — related
 - [Hybrid-section students who used both audio and visual components of the online lecture reported higher midterm grades than those who used only the visual component](audio-use-associated-higher-midterm-grades.md) — related
+- [No significant differences in exam performance or overall instruction and technology ratings across videoconference/webcast and co-located/dispersed conditions](no-exam-rating-differences-four-distance-conditions.md) — related

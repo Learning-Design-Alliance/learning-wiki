@@ -61,6 +61,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 - [Use ChatGPT-based virtual patient chatbots as a supplementary platform for bedside history-taking practice and international case sharing](chatbot-supplementary-bedside-teaching-strategy.md)
 - [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
+- [Use a virtual-clinic-plus-eBook model for independent learning about rare diseases lacking patient contact](virtual-clinic-ebook-rare-disease-strategy.md)
 
 ## Examples
 -

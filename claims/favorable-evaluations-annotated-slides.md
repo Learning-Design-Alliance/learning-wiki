@@ -47,3 +47,4 @@ Anonymous course evaluation data from 105 students in the 2010/2011 cohort, coll
 ## Related Claims
 - [Participants rated the GREET checklist positively for layout and ease of use, with 93% rating it Good or better](greet-positive-usability-ratings.md) — related
 - [Interviewed students embraced emphasizing normal structures, but their preparation for the entrance examination and use of the digital resources varied considerably](varied-use-of-virtual-resources.md) — related
+- [Students created the majority of slide annotation markers in the virtual microscope and used the voting system to peer-review markers, with low-scoring markers automatically removed](student-created-majority-annotations-peer-voting.md) — related

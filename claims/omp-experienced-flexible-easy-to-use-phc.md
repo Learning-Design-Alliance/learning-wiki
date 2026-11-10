@@ -52,3 +52,4 @@ Qualitative content analysis of eight follow-up group interviews with 26 tutors 
 - [After an OMP workshop, tutors' self-rated tutoring competence and frequency of giving feedback on what was not done well increased significantly](omp-workshop-increases-self-rated-competence.md) — related
 - [An OMP-based preceptor education program produced no statistically significant change in preceptor nurses' clinical core competency (CCCP) or communication competence (GICC-15) scores](omp-pep-no-significant-cccp-gicc-change.md) — related
 - [Students found the VP model structure easy to follow and flexible across program levels](vp-structure-easy-to-follow-student-reports.md) — related
+- [Clinical teachers apply the seven strategies flexibly, changing between them depending on situation, context and teacher preferences](strategies-used-flexibly-by-context.md) — related

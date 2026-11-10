@@ -53,3 +53,5 @@ Controlled before-and-after study with 113 first-year medical students completin
 - [Higher-year medical students score higher on both subjective and objective health numeracy than lower-year students](higher-medical-years-higher-numeracy.md) — related
 - [Embedding numerical expressions in a medical context is associated with maintained subjective numeracy](medical-context-embedding-maintains-subjective-numeracy.md) — related
 - [Additional statistics exercises added to the PBL course were reported ineffective by student evaluations, requiring better coordination with a biostatistics workshop](pbl-statistics-exercises-ineffective.md) — related
+- [On-line Biostatistics knowledge scores rose from baseline to 3 months (48% to 63%) within the on-line course group](online-biostatistics-knowledge-gain-sustained.md) — related
+- [Among Indian scientists randomized to on-site Biostatistics training, median knowledge scores rose from 49% at baseline to 64% at 3 months in a one-group pre-post comparison](onsite-biostatistics-knowledge-gain-sustained.md) — related

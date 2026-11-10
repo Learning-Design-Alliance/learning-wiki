@@ -49,3 +49,4 @@ Catch-trial analysis (pink noise in both channels, no target) in the same ERP ex
 - [In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference](auditory-number-congruency-detection-both-groups.md) — related
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related
 - [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related
+- [No hemispheric lateralisation differences in cortical activation across background music conditions](no-lateralisation-background-music.md) — related

@@ -65,3 +65,4 @@ Author's interpretation (type e), citing Stahl (1992) that without students spen
 
 ## Related Claims
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
+- [Group sizes of five or six led to domination or freeloading, while groups of three or four maximized each member's potential to contribute.](group-size-three-or-four-avoid-freeloading.md) — related

@@ -52,3 +52,4 @@ Binary logistic regression in the Results on predictors of both outcomes among s
 - [About two-thirds of Iraqi medical and health sciences educators report awarding extra marks beyond what was warranted](iraq-grading-leniency-67-percent-prevalence.md) — related
 - [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related
 - [A minority of dermatology assessors self-report failure to fail (12.5%) or grade inflation (18%) in the previous 12 months](dermatology-assessors-self-report-failure-to-fail-and-grade-inflation.md) — related
+- [Students grading practice exams award significantly more points than a professional grader, about 25% more overall](peer-graders-more-lenient-than-professional.md) — related

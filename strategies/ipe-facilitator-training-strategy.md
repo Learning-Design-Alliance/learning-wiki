@@ -47,6 +47,7 @@ The review recommends that facilitators require preparation before implementing 
 - [Develop facilitator training, fellowships, and scholarly tracks so all simulation facilitators possess skills in simulation pedagogy](simulation-facilitator-training-strategy-em.md)
 - [Use role-play with video recording and small group discussion to teach interprofessional conflict communication](roleplay-video-small-group-conflict-strategy.md)
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
+- [Provide teachers with diversity training and conflict-resolution skills for facilitating heterogeneous PBL groups](diversity-training-for-pbl-facilitators.md)
 
 ## Examples
 -

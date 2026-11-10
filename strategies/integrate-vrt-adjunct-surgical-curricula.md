@@ -61,6 +61,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 - [Deliver the initial CIED learning curve in metrics-based simulation to a proficiency benchmark before in vivo practice](simulation-first-learning-curve-cied-strategy.md)
 - [Increase residents' time on simulators, pelvic trainers and cadaver courses to build surgical skill and confidence](simulator-pelvic-trainer-time-for-surgical-residents.md)
+- [Use VR resectoscopic simulation to measure and improve novice technical skills before operating on patients](vr-simulation-before-operating-on-patients-strategy.md)
 
 ## Examples
 -

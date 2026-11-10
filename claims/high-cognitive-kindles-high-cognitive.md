@@ -55,3 +55,4 @@ Stochastic process mining with a first-order Markov model (RQ1) estimated transi
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related
 - [Clair did not significantly increase deepening of reasoning (Goal 3), with the What-if talk move rarely triggered](clair-no-effect-deepening-reasoning.md) — related
 - [Participation in the share phase of group reflection was similar between cohorts, reaching at most 40–47%](gr-share-participation-similar-groups.md) — related
+- [Cognitive engagement rises during group findings-sharing rather than during the initial self-study phase](engagement-rises-at-findings-sharing.md) — related

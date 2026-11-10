@@ -48,6 +48,7 @@ The article recommends that "The curriculum should be deliberately designed to i
 
 - [Train the trainers in learning-promoting feedback approaches, supported by quality circle meetings sharing standards of good outpatient care](trainer-training-learning-focused-feedback-culture.md)
 - [Shift the professional feedback culture from avoiding performance feedback to actively seeking feedback](shift-feedback-culture-toward-actively-seeking-feedback.md)
+- [Give specific, timely, supportive feedback and use it to promote reflection on attitude barriers](feedback-reflection-attitude-barriers-disparities.md)
 
 ## Examples
 -

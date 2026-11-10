@@ -56,3 +56,4 @@ Univariate analysis (t-tests/ANOVA) across sociodemographic variables in the 627
 - [Demographic characteristics (age, gender, education, institution type, tenure) show no statistically significant difference in new nurse managers' competence scores](demographics-no-competence-difference-nurse-managers.md) — related
 - [Older ICU nurses score higher on PED knowledge, attitude, and total KAP](age-positively-associated-ped-kap.md) — related
 - [No statistically significant differences in total SCLS score were found for age, sex, employment status, contract type, work shift, work experience, or healthcare experience](scls-scores-no-other-demographic-differences.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — related

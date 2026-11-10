@@ -47,3 +47,4 @@ In the report's retrospective case study of the ASSISTments efficacy trial, the 
 - [Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction](assistments-no-incremental-teacher-time-cost.md) — related
 - [Implementation varied substantially across teacher trials, and business-as-usual revision was often already technology-rich](medly-implementation-varied-technology-rich-control.md) — related
 - [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — related
+- [Questions and answers is the observed strategy aimed at making student understanding possible, but teachers applied it inconsistently](questions-answers-making-understanding-possible.md) — related

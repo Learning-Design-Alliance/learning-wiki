@@ -66,3 +66,4 @@ Same evaluation in 2014: of 70 students, 41 feedback forms were returned (~58%);
 ## Related Claims
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
+- [Final-year medical students rate near-peer OSCE revision teaching as comparable to consultant-led teaching (73.2%)](near-peer-teaching-comparable-to-consultant-led-osce-revision.md) — related

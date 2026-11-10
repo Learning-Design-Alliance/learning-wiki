@@ -73,3 +73,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
 - [No differences in classroom anxiety by gender, ethnicity, or year in school were detected](no-anxiety-differences-demographics.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
+- [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — a narrower finding that bears on this claim

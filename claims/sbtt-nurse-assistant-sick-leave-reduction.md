@@ -46,3 +46,4 @@ Regression analysis of sick leave as a percentage of scheduled working time (200
 
 ## Related Claims
 - [Nurse turnover declined in the SBTT intervention ICU relative to the control ICU, with no significant change for nurse assistants](sbtt-nurse-turnover-reduction.md) — related
+- [No significant between-group differences emerged in physical activity, work ability, quality of life, sick leave or medication use](no-group-differences-physical-activity-work-sick-leave.md) — related

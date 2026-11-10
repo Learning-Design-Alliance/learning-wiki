@@ -49,6 +49,7 @@ The article recommends integrating E-learning technologies into traditional GP r
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Add an online discussion-seminar adjunct aligned weekly with face-to-face dermatology teaching](weekly-aligned-online-seminar-adjunct-strategy.md)
 
 ## Examples
 -

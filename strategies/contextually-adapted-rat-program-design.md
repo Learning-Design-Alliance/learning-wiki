@@ -56,6 +56,7 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 - [Set a region-specific proficiency score based on local expert performance when adapting a validated simulation for a new training context](region-specific-proficiency-score-local-experts.md)
 - [Use online platforms to connect eastern and western universities for cross-regional interprofessional teaching](online-cross-regional-ipe-strategy.md)
 - [Tailor physician leadership training program content to the specific needs and cultural aspects of each region](tailor-leadership-training-to-regional-culture.md)
+- [Address common cross-border CPD gaps through international educational designs adapted to each country's healthcare system](international-cpd-educational-design-strategy.md)
 
 ## Examples
 -

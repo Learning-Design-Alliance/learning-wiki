@@ -56,3 +56,4 @@ Difficulty–accuracy analysis (Fig. 5) of the 30-iteration accuracy data across
 - [GPT-4o shows a clear advantage in complex question formats, exceeding 85% accuracy on case analysis (A3/A4) and matching (B1) questions](gpt4o-advantage-complex-question-formats.md) — reports the opposite
 - [Expert hints raised GPT-4V's accuracy and flattened its performance across question difficulty levels, while medical students' performance declined with difficulty](expert-hints-raise-gpt4v-accuracy-plateau-difficulty.md) — a narrower finding that bears on this claim
 - [GPT-4V outperformed medical students on the most difficult AMBOSS questions, by 60% with hints and 26.7% without hints](gpt4v-outperforms-medical-students-difficult-questions.md) — related
+- [Success rates on the three activities were above 80%, 70%, and 60% respectively, indicating progressively challenging tasks](phylogeny-activity-success-rates.md) — related

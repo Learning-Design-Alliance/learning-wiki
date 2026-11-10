@@ -76,3 +76,4 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
+- [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related

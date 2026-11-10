@@ -62,3 +62,5 @@ Controlled trial of 14 two-hour weekly EBM sessions for medical students (n=289)
 - [Blended learning students report significantly higher self-efficacy, attitudes and behaviour toward EBM than didactic learning students](bl-higher-self-efficacy-attitudes-behaviour.md) — related
 - [A document review found the online EBM module covered most EBM competencies, though critical appraisal focused only on randomised controlled trials and guidelines](online-ebm-module-covers-most-ebm-competencies.md) — related
 - [Students were least confident in critically appraising studies even though the bulk of the module focused on critical appraisal](students-least-confident-critical-appraisal-despite-module-focus.md) — related
+- [Course participants achieved EBM competence-test scores statistically comparable to trained undergraduate health sciences students](ebm-scores-comparable-to-students.md) — related
+- [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the appraising domain (r = 0.24, p = 0.1)](poor-correlation-self-perceived-objective-ebm-appraising.md) — related

@@ -47,3 +47,4 @@ Fisher exact test comparison of pass/fail rates using the predetermined pass thr
 ## Related Claims
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
 - [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related
+- [Passing rates rose from pre-test to post-test on calculation items such as sensitivity, specificity, absolute risk reduction and number needed to treat, in one uncontrolled pre-post study](calculation-items-largest-ebp-gains.md) — related

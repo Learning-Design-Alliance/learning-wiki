@@ -69,3 +69,4 @@ In the same video-rating analysis, blinded assessors scored the 25-item binary c
 - [Patient-rated procedural performance and communication do not differ between skills laboratory and bedside teaching groups](patient-ratings-no-group-difference-iv-cannulation.md) — related
 - [Skills laboratory training shortens the time needed for successful IV cannulation on a patient compared with bedside teaching](skills-lab-training-shorter-cannulation-time.md) — related
 - [Skills laboratory students report higher confidence, motivation, and perceived feedback benefit after training than bedside teaching students](skills-lab-higher-acceptance-confidence-motivation.md) — related
+- [First-year nursing students in class groups trained on a teacher-made IV injection model improved as much as those trained on a commercial model, with no significant difference in post-practice scores](teacher-made-model-equals-commercial-model-iv-training.md) — related

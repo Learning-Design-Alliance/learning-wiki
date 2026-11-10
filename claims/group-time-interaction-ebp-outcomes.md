@@ -48,3 +48,4 @@ Interaction model involving both the IG and CG in the LMM analysis; the article 
 - [The control group showed no statistically significant change in EBP competencies over the follow-up period](control-group-no-ebp-change.md) — related
 - [The EBP course significantly improved ACE test scores in the intervention group, with a 10.8% gain](ebp-course-improves-ace-scores.md) — reports the opposite
 - [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related
+- [Family medicine residents' EBP knowledge and skills measured by the Fresno test rose from 63.9 to 111.6 after a four half-day EBP short course, in one uncontrolled pre-post study](ebp-short-course-improves-resident-knowledge-fresno.md) — related

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (165 show a difference, 59 mixed, 29 no difference) · 219 studies (107 causal, 52 associational, 24 review, 15 quant-synthesis, 9 qualitative, 9 design, 3 theoretical), `q1`–`q4` · 42 of 219 report an effect size · 249 claims rest on one study
+> **Evidence** · 256 claims (168 show a difference, 59 mixed, 29 no difference) · 222 studies (107 causal, 53 associational, 24 review, 15 quant-synthesis, 10 qualitative, 10 design, 3 theoretical), `q1`–`q4` · 42 of 222 report an effect size · 252 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -310,6 +310,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Attendance at OSCE-relevant voluntary basic sessions peaks shortly before the OSCE while advanced-session attendance declines to zero by week 10](../claims/attendance-timing-peak-before-osce.md) [+M] — measured as an outcome of the instruction studied
 - [Dental students free to combine e-learning with lectures attend significantly fewer face-to-face lectures than students in a mandatory-attendance traditional course](../claims/tel-flexible-attendance-reduces-lecture-attendance.md) [+M] — measured as an outcome of the instruction studied
 - [Medical trainee interns given continued video iPod access to catheterization videos maintain skill competency over 3 months, while control-group competency declines](../claims/video-ipod-access-maintains-catheterization-competency.md) [+M] — learners who differ on it differ in outcomes
+- [Course adherence was low: only 20% of parents who began the course attended all eight sessions, and 42% attended fewer than four](../claims/koppouders-low-course-adherence.md) [+M] — measured as an outcome of the instruction studied
+- [Increases in TSS/QI result mainly from increased self-study time rather than decreased instruction time](../claims/tssqi-raises-driven-by-tss.md) [+M] — learners who differ on it differ in outcomes
+- [Intervening, in which the teacher interrupts and takes over the situation, could impair students' learning process and the teacher-student relationship](../claims/intervening-can-impair-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

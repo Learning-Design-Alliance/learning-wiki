@@ -43,6 +43,7 @@ The article's recommendations for educational institutions and researchers targe
 - [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 - [Racial Identity Work](racial_identity_work.md)
 - [Give learners enough time to work through case examples and guard against cognitive overload](sufficient-time-prevent-cognitive-overload-vp-cases.md)
+- [Give specific, timely, supportive feedback and use it to promote reflection on attitude barriers](feedback-reflection-attitude-barriers-disparities.md)
 
 ## Examples
 -

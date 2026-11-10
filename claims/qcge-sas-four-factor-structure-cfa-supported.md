@@ -82,3 +82,4 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 - [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related
 - [Confirmatory factor analysis supports the two-dimensional structure of the Spanish SCLS with good fit indices](scls-spanish-cfa-two-dimensional-fit.md) — related
 - [The Brazilian SEPC scale replicates the original three-factor structure and achieves satisfactory confirmatory factor analysis fit once correlations between items' errors are modelled](sepc-br-cfa-replicates-original-factors.md) — related
+- [A four-item situational cognitive engagement measure is reliable and valid as shown by confirmatory factor analysis in two samples](scem-validated-four-item-measure.md) — related

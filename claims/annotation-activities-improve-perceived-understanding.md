@@ -49,3 +49,4 @@ Online questionnaire administered before the timed quiz in both cohorts; Mann-Wh
 - [Collaborative annotation is equivalent to individual annotation for junior medical science students' quiz performance (no significant difference)](collaborative-wsi-annotation-equivalent-junior-students.md) — related
 - [Collaborative annotation of whole slide images significantly improves quiz performance over individual annotation for senior medical students, with a large effect size](collaborative-wsi-annotation-superior-senior-students.md) — related
 - [Senior students rated learning effectiveness through collaboration significantly higher than junior students](senior-students-rate-collaboration-effectiveness-higher.md) — related
+- [Students created the majority of slide annotation markers in the virtual microscope and used the voting system to peer-review markers, with low-scoring markers automatically removed](student-created-majority-annotations-peer-voting.md) — related

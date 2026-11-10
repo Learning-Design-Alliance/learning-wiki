@@ -48,3 +48,4 @@ Passing-rate and module-grade comparisons in the randomized trial (n = 46 random
 ## Related Claims
 - [Home-based self-regulated training and centralized instructor-regulated training produce no significant inter-group differences in laparoscopic performance at pretest, posttest, or 6-month retention test](hsrt-cirt-no-intergroup-performance-differences.md) — related
 - [HSRT distributed training over more days (7 ± 3 vs 2 ± 0) with no significant difference in total training time](hsrt-distributed-training-more-days.md) — related
+- [Among expert instructors, Pass and High Pass proportions did not vary significantly by instructor type (senior doctor, middle-grade doctor, nurse)](expert-instructor-type-no-significant-variation.md) — related

@@ -56,6 +56,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 - [Tailor ATLS pre-course preparation and extend course duration for less experienced and at-risk participants](tailored-atls-precourse-preparation-strategy.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
+- [Adapt AGREE II instruction to learners' prior knowledge: offer e-learning to true novices, streamlined materials to experienced learners](adapt-instruction-to-prior-knowledge-agree2.md)
 
 ## Examples
 -

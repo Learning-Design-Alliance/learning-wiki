@@ -56,3 +56,5 @@ Fisher exact test comparisons of complication occurrence between periods. Minor 
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
 - [Conversion to open surgery decreased across the training periods, reaching the lowest rate after SLSST](slsst-era-lower-conversion-rate.md) — reports the opposite
 - [The apprenticeship model of endoscopy training carries patient-safety, efficiency, and feedback-consistency drawbacks](apprenticeship-model-drawbacks-endoscopy.md) — related
+- [Complication rates for laparoscopic pyloromyotomy decreased significantly after the first 35 procedures, indicating a learning curve of about 35 operations](lp-pyloromyotomy-learning-curve-35-procedures.md) — related
+- [Severe complications (perforations and conversions) were concentrated in the first 35 laparoscopic pyloromyotomy procedures](lp-severe-complications-first-35.md) — related

@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (54 for, 22 mixed, 2 against) · 88 studies (52 causal, 14 review, 9 quant-synthesis, 7 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 88 report an effect size · 68 claims rest on one study
+> **Evidence** · 79 claims (55 for, 22 mixed, 2 against) · 89 studies (52 causal, 14 review, 9 quant-synthesis, 7 theoretical, 4 associational, 2 design, 1 qualitative), `q1`–`q4` · 12 of 89 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Medical students randomized to access a diabetes history-taking video were more often rated globally competent than students without video access](../claims/dmh-video-access-improves-global-competence-osce.md) [+W] — attached 2026-11-10 from Hibbert Emily J et al. (2013), which proposed "Use high-quality video demonstrations as an adjunct to face-to-face clinical skills teaching in a blended learning format".
 - [Skills laboratory training of IV cannulation yields better video-assessed clinical performance than bedside teaching in first-year medical students](../claims/skills-lab-iv-cannulation-transfer-superior-video-ratings.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
 - [Skills laboratory training shortens the time needed for successful IV cannulation on a patient compared with bedside teaching](../claims/skills-lab-training-shorter-cannulation-time.md) [+W] — attached 2026-11-10 from Lund Frederike et al. (2012), which proposed "Use structured, proficiency-based skills laboratory training with deliberate practice and feedback to prepare students for invasive procedures before first performance on a patient"; tests this page's relationship.
+- [Urologists trained systematically in endoscopy from the start of specialization achieve significantly higher ureterorenoscopy success rates than operators who learned endoscopy later in their careers](../claims/early-endoscopy-training-higher-ureterorenoscopy-success.md) [+W] — attached 2026-11-10 from Librenjak Davor et al. (2011), which proposed "Give new surgical specialists timely, systematic, mentor-guided endoscopy training beginning at the start of specialization"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

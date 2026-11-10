@@ -52,3 +52,4 @@ One-month follow-up comparison in the same 151-nurse quasi-experiment. The exper
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [GEE analysis shows the flipped classroom group's self-efficacy improvement exceeds the control group's at both post-course time points](gee-self-efficacy-improvement-flipped-exceeds-control.md) — related
 - [A higher percentage of flipped learning participants called emergency services immediately after training, a difference that disappeared at 6 months](flipped-learning-call-119-immediate-advantage.md) — related
+- [Immediate Biostatistics knowledge gain is higher after on-site than on-line training, but the difference disappears at 3 months](immediate-biostatistics-gain-favors-onsite-then-converges.md) — related

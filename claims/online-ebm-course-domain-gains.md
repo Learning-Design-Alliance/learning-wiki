@@ -63,3 +63,4 @@ Pre-post evaluation of an online EBM course (six online didactic modules and ses
 - [Nurses' critical appraisal knowledge scores increased significantly after the online InfoCritique course, from a mean of 70.5 to 86.6 out of 100.](elearning-critical-appraisal-knowledge-gain-nurses.md) — related
 - [A document review found the online EBM module covered most EBM competencies, though critical appraisal focused only on randomised controlled trials and guidelines](online-ebm-module-covers-most-ebm-competencies.md) — related
 - [Tutors found explaining difficult EBM concepts and practical skills via the online platform challenging and saw a need for more advanced technology](tutors-found-explaining-concepts-online-challenging.md) — related
+- [Searching and appraisal skills show only modest gains compared with calculation skills after the course](modest-search-appraisal-gains.md) — related
