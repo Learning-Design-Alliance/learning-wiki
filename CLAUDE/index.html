@@ -990,6 +990,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#proposed-not-applied-structure-for-searching-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proposed (not applied): structure for searching evidence
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -1507,6 +1518,17 @@
     <span class="md-ellipsis">
       
         Known open work
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proposed-not-applied-structure-for-searching-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proposed (not applied): structure for searching evidence
       
     </span>
   </a>
@@ -2422,6 +2444,30 @@ conventions (<code>priority_worklist.py</code>, <code>check_evidence_markers.py<
 (<code>check_citations.py</code> and its <code>--collisions</code>, <code>--metadata</code>, <code>--titles</code>, <code>--variants</code> modes;
 <code>citation_worklist.py</code> for the book backlog), and the maintainer decisions listed in the
 2026-10-09 history entry; the kinds and the independence rule were settled 2026-10-10.</p>
+<h3 id="proposed-not-applied-structure-for-searching-evidence">Proposed (not applied): structure for searching evidence<a class="headerlink" href="#proposed-not-applied-structure-for-searching-evidence" title="Permanent link">&para;</a></h3>
+<p>Proposals only, from building <code>scripts/graph_search.py</code> (2026-11-13), for the maintainer to decide.
+None is applied, and none should be without the maintainer. Each names a search the wiki's structure
+cannot answer today, so the tool falls back to keywords, markers or regexes there:</p>
+<ol>
+<li><strong>Expose the evidence cells per claim</strong>, in frontmatter or a compact index, recording the coder
+   (model and prompt version) and an agreement check against a human-coded sample. Today the cells are
+   a model's labels with no reference, so they can find candidates but cannot be cited as evidence.</li>
+<li><strong>A per-claim effect field</strong>: design variable, direction, outcome and timing.</li>
+<li><strong>A structured population field</strong> that can say post-secondary, workplace or MOOC. The cells code
+   <code>L.age</code>, which says only <code>adult</code>; <code>evidence-dimensions.json</code> defines <code>population_band</code>, but no cell
+   codes it, and the claim's <code>n:</code> is free text and usually empty.</li>
+<li><strong>A <code>moderated_by</code> edge</strong>, so a boundary condition ("for novices only") is not found only in prose.</li>
+<li><strong>Same-study backlinks</strong> between claims split from one study, so a practice decrement and a retention
+   gain from the same experiment are linked by more than a shared source entry.</li>
+<li><strong>Hub element pages</strong> for interleaving, chunking and prerequisite sequencing (interleaving, chunking
+   and sequencing exist as principles, not elements), and <strong>design→element links</strong>: only 27 of 3,860
+   designs link to an element.</li>
+<li><strong>A mechanism or construct field on elements.</strong></li>
+<li><strong>Retire free-text <code>evidence_strength</code></strong> in favour of a level computed per claim from its sources.
+   This reverses the standing rule "Do not clean up <code>evidence_strength:</code>" (under <em>Evidence markers are
+   the evidence layer</em>), so it needs the maintainer.</li>
+<li><strong>Fix slugs that contradict their titles</strong> (a claim whose slug states the opposite of its finding).</li>
+</ol>
 <hr />
 <h2 id="research-observations-the-structured-record-beside-a-claim">Research observations — the structured record beside a claim<a class="headerlink" href="#research-observations-the-structured-record-beside-a-claim" title="Permanent link">&para;</a></h2>
 <p>A claim page argues something. <code>observations/&lt;study-key&gt;.yaml</code> records the configuration
@@ -3570,6 +3616,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
+    graph_search.py    ← candidate claims by design variable: evidence, nulls, boundaries, crossovers (reads only)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -&gt; protocol
