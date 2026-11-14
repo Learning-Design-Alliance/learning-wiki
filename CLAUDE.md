@@ -399,6 +399,31 @@ conventions (`priority_worklist.py`, `check_evidence_markers.py`), the citation 
 `citation_worklist.py` for the book backlog), and the maintainer decisions listed in the
 2026-10-09 history entry; the kinds and the independence rule were settled 2026-10-10.
 
+### Proposed (not applied): structure for searching evidence
+
+Proposals only, from building `scripts/graph_search.py` (2026-11-13), for the maintainer to decide.
+None is applied, and none should be without the maintainer. Each names a search the wiki's structure
+cannot answer today, so the tool falls back to keywords, markers or regexes there:
+
+1. **Expose the evidence cells per claim**, in frontmatter or a compact index, recording the coder
+   (model and prompt version) and an agreement check against a human-coded sample. Today the cells are
+   a model's labels with no reference, so they can find candidates but cannot be cited as evidence.
+2. **A per-claim effect field**: design variable, direction, outcome and timing.
+3. **A structured population field** that can say post-secondary, workplace or MOOC. The cells code
+   `L.age`, which says only `adult`; `evidence-dimensions.json` defines `population_band`, but no cell
+   codes it, and the claim's `n:` is free text and usually empty.
+4. **A `moderated_by` edge**, so a boundary condition ("for novices only") is not found only in prose.
+5. **Same-study backlinks** between claims split from one study, so a practice decrement and a retention
+   gain from the same experiment are linked by more than a shared source entry.
+6. **Hub element pages** for interleaving, chunking and prerequisite sequencing (interleaving, chunking
+   and sequencing exist as principles, not elements), and **design→element links**: only 27 of 3,860
+   designs link to an element.
+7. **A mechanism or construct field on elements.**
+8. **Retire free-text `evidence_strength`** in favour of a level computed per claim from its sources.
+   This reverses the standing rule "Do not clean up `evidence_strength:`" (under *Evidence markers are
+   the evidence layer*), so it needs the maintainer.
+9. **Fix slugs that contradict their titles** (a claim whose slug states the opposite of its finding).
+
 ---
 
 ## Research observations — the structured record beside a claim
@@ -1611,6 +1636,7 @@ ld-wiki/
     smd_worklist.py    ← WWC/ESSA review pages to extract next, for the SMD family (see above)
     priority_worklist.py ← what to extract next: cited-but-unrecorded, hub, and evidence-less claims (see above)
     mcp_server.py      ← the wiki as MCP tools: search, fetch, resolve, backlinks, why (see above)
+    graph_search.py    ← candidate claims by design variable: evidence, nulls, boundaries, crossovers (reads only)
     observation_lib.py ← the evidence layer's schema and validator (see above)
     research_lib.py    ← the research layer's schemas, validators and joins (see above)
     check_research.py  ← validate the research layer; --why traverses claim -> protocol
