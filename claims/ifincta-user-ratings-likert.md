@@ -46,3 +46,4 @@ Secondary subjective outcome: the 11 intervention-group students rated the IFINC
 
 ## Related Claims
 - [Novices using the IFINCTA cognitive task analysis tool scored significantly better than controls using an operative technique manual on all four post-test modules of femoral intramedullary nailing](ifincta-outperforms-op-tech-manual-post-test.md) — related
+- [Six post-16 work experience students rated their placement positively on a Likert scale, judging it an ideal introduction to the university learning environment](work-experience-student-likert-evaluation.md) — related

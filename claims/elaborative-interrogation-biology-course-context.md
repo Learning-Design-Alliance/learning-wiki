@@ -58,3 +58,4 @@ Classroom-embedded experiment by B. L. Smith et al. (2010) described in the mono
 - [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [Voluntary practice quizzes plus a true/false summative test alone (step I) produced no measurable knowledge improvement](step-i-quizzes-no-knowledge-improvement.md) — related
+- [A diagnostic test of seven randomly chosen True/False questions per concept category makes random guessing across a category less than one per cent likely](seven-tf-questions-per-category-guessing-below-one-percent.md) — related

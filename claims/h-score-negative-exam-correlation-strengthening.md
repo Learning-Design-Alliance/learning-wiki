@@ -50,3 +50,4 @@ Longitudinal observational analysis of six offerings comparing averaged homework
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [Students who withdrew after Midterm 1 had higher H-scores than course completers, with the gap widening by Spring 2026](withdrawal-associated-with-elevated-h-scores.md) — related
+- [After a semester of computational homework, about 60% of introductory mechanics students successfully modeled a novel central force problem in a proctored individual evaluation](computational-evaluation-majority-success-intro-mechanics.md) — related

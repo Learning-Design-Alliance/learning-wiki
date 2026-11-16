@@ -52,6 +52,7 @@ A concrete teaching routine in which the teacher opens reading activities with w
 ## Related Strategies
 
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
+- [Use local ancient monuments as outdoor classrooms, chosen after surveying what pupils and teachers do not know](local-monuments-as-outdoor-classrooms-strategy.md)
 
 ## Examples
 -

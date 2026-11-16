@@ -48,6 +48,7 @@ Based on student and facilitator feedback that productivity declined near the en
 - [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 - [Deliver the Geriatrics 5Ms modules as individual sessions in a spaced longitudinal educational series to promote knowledge retention](geriatrics-5ms-spaced-educational-series-strategy.md)
 - [Teach an early, actively delivered learning-strategies module in medical school with spaced follow-up modules](spaced-learning-to-learn-module-medical-school.md)
+- [Alternate instructional formats and spread topics apart to manage fatigue in intensive programs](alternate-forms-spread-topics-manage-fatigue.md)
 
 ## Examples
 -

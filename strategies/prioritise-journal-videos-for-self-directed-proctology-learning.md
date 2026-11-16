@@ -45,6 +45,7 @@ The article recommends that surgical trainees using videos for self-directed lea
 ## Related Strategies
 
 - [Carefully vet freely available video resources for clinical correlation and procedural detail rather than assuming all supplemental video content is comparably rigorous](vet-video-resources-clinical-correlation-rigor.md)
+- [Supplement tutoring with vetted online video lectures and modeled solutions to close analogues](vetted-online-videos-and-analogue-solutions.md)
 
 ## Examples
 -

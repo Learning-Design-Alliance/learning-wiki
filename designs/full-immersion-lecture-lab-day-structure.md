@@ -42,6 +42,10 @@ The summer school organizes each day so that lectures prepare hands-on work: "In
 
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 
+## Related Designs
+
+- [Five-day summer-school structure: two skill-building school days, a monument field day, a university analysis day, and a student-run presentation day](five-day-archaeo-astronomy-summer-school-structure.md)
+
 ## Related Patterns
 
 - [5E Learning Cycle](../principles/inquiry-based-learning.md)

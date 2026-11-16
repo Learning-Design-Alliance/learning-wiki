@@ -53,3 +53,4 @@ The review's Table 1 systematization of ErrEx vs CorrEx comparisons reports for 
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related
+- [Traditional answer-oriented problem solving imposes severe cognitive load, predisposing students to means–ends analysis at the expense of pattern noticing](traditional-problems-cognitive-load-means-ends.md) — related

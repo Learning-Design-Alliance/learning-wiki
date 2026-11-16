@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-16
 recheck_by: 2013
 sources:
   - id: takehiro-azuma-and-keiichi-nagao-2008
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
+> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 9 of 22 studied differential and integral calculus in class and 4 linear algebra; 1 and 0 respectively said they had acquired them. [→ Takehiro Azuma and Keiichi Nagao 2008](#takehiro-azuma-and-keiichi-nagao-2008)

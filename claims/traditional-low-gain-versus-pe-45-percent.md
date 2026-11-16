@@ -53,3 +53,5 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [The benefit of interactive methods appeared independently of students' incoming knowledge, including weak and strong pretest performers](interactive-gains-independent-of-pretest.md)
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
+- [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
+- [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — related

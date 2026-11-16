@@ -52,3 +52,4 @@ Thematic analysis of two focus group discussions (n = 8 each) held two weeks aft
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [VR-trained radiographers report higher confidence, faster adaptation, valued immediate feedback and advanced scenarios, and needed less initial supervision](qualitative-themes-vr-preparedness-benefits.md) — a broader claim this one bears on
 - [Trainee focus groups identified that simulation training built a stronger, more confident team and created a space for communication and decision-making](ecmo-sim-qualitative-confidence-themes.md) — related
+- [Periodic in-class surveys showed improved self-confidence in all identified skills, with lab and class activities cited far more often than the blog](in-class-surveys-confidence-improved-lab-and-activities-cited.md) — related

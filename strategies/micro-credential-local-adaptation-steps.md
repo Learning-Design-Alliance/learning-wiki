@@ -41,6 +41,7 @@ Digital Promise adapted an existing micro-credential for Haitian educators in fi
 ## Related Strategies
 
 - [Use Five Key Questions to stress-test proposed micro-credential competencies before drafting](five-key-questions-micro-credential-development.md)
+- [Adapt existing professional research tools for education instead of building separate educational software](adapt-professional-tools-for-education.md)
 
 ## Examples
 -

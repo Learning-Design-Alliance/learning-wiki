@@ -29,5 +29,5 @@ A 30-item multiple-choice conceptual assessment of introductory electricity and 
 -
 
 ## Key Sources
-- Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. https://arxiv.org/abs/0906.0022
+- Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. https://arxiv.org/abs/0906.0022. [doi:10.48550/arxiv.0906.0022](https://doi.org/10.48550/arxiv.0906.0022)
 - S. J. Pollock. (2009). A Longitudinal Study of Student Conceptual Understanding in Electricity and Magnetism. Physics Education Research Conference proceedings. https://www.compadre.org/PER/

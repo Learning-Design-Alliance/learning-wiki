@@ -43,6 +43,7 @@ The authors recommend deploying simulated small-group sections as a supplement t
 - [Use unlearning-based simulated students as scalable practice environments for teacher professional development](unlearning-simulation-teacher-professional-development.md)
 - [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

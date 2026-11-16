@@ -60,6 +60,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Use true-false examinations with immediate self-correction and public display of scores as a time-saving teaching and assessment routine](true-false-immediate-correction-display-strategy.md)
 - [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
+- [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
 
 ## Examples
 -

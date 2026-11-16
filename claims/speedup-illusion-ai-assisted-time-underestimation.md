@@ -90,3 +90,4 @@ Pre-registered Study 2 (prediction sample N=600, completion sample N=1001 on Pro
 - [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related
 - Registered report authors report more constructive review, greater candor about findings, and time savings — related
+- [Students overwhelmingly expect the stopwatch method to be more accurate, but the low-tech height method is actually the best of the three techniques](students-misjudge-height-method-accuracy.md) — related

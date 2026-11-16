@@ -47,6 +47,7 @@ The article recommends that instructors "should assume students enter science co
 
 - [Misconception Repair](misconception-repair.md)
 - [Conceptual Change](conceptual-change.md)
+- [Emphasize concepts, hands-on experiments and emotion-raising stories in science teaching to ease conceptual change](concept-oriented-teaching-hands-on-experiments-suspense-stories.md)
 
 ## Examples
 -

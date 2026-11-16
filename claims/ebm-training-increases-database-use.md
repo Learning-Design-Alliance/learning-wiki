@@ -86,3 +86,4 @@ Health sciences subgroup analysis: trained students used PubMed/Medline, Medscap
 - [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related
 - [Medical students who received multifaceted EBM training and searched PubMed or Medline more than three times per week increased from 9.7% to 31.7% (P<0.001)](search-frequency-increased-after-ebm-training.md) — related
 - [EBM-trained medical students favour online journals and professional guidelines over printed books as their main source of healthcare information retrieval](ebm-training-shifts-information-sources.md) — related
+- [For students with some prior database use, changes in future resource use (books and Google) were only of marginal statistical significance](group-b-marginal-changes-resource-use.md) — related

@@ -68,3 +68,4 @@ Omnibus interaction test from the same two-way ANOVA: the profile × expertise i
 - [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
 - [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](self-assessment-accuracy-distribution-first-semester.md) — related
+- [Students most successfully deduced planetary size effects from light curves, with weaker results for rings, atmospheres, and reflected light](light-curve-deduction-success-varies-by-question-topic.md) — related

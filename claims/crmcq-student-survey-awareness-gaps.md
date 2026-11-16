@@ -48,3 +48,4 @@ Anonymous online survey of 24 of 29 participants using a five-point Likert scale
 - [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related
 - [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related
 - [After training, 85%–92% of nurses self-reported agreeing or strongly agreeing that the VR materials achieved their purpose and that they would recommend them](nurses-positive-responses-vr-materials-85-92-percent.md) — related
+- [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related

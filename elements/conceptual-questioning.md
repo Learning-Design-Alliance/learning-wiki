@@ -19,7 +19,7 @@ sources:
 # Conceptual Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 design), `q2`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Conceptual questioning poses open, "why" and "what-if" questions that target learners' underlying conceptions rather than recall of facts. The goal is to surface assumptions, create productive cognitive conflict, and prompt learners to explain, justify, and revise their mental models.
@@ -67,6 +67,7 @@ Conceptual questions work because generating an answer requires learners to elab
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](../claims/ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) [+M]
 - [Teachers in the structured-reflection study condition asked significantly more 'Why/How' and 'If/then' questions than the 'What' questions asked by most control teachers](../claims/ceble-why-how-if-then-questions.md) [+W]
+- [A student's annoyance at conceptual homework problems stabilizes her context-dependent epistemological stance about a real/ideal gulf in circuits](../claims/annoyance-stabilizes-epistemological-stance-judy.md) [~W] — attached 2026-11-16 from Ayush Gupta et al. (2010), which proposed "Conceptual homework questions co-created by the instructor and researchers in a Basic Circuits course".
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, sequential form of conceptual questioning that probes assumptions and implications

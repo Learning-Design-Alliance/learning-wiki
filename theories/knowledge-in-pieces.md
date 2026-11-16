@@ -62,8 +62,10 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [Constructivism](constructivism.md) — the premise, that learners build new knowledge from prior understanding, on which Smith et al. rest their critique
 
 ## Examples
+
 - [Misconception Probes](../elements/misconception-probes.md) — the diagnostic element whose reading depends on which view is taken: a probe answer is a sample of context-cued thinking, not necessarily a stable belief
 - [Conceptual Change](../strategies/conceptual-change.md) — the elicit-confront-resolve strategy built on the coherent-model view
+- [Design instructional environments that trigger favorable epistemological stances rather than confronting and replacing mis-epistemologies](../strategies/trigger-favorable-epistemological-stances-environments.md)
 
 ## Key Sources
 - diSessa, A. A. (1993). Toward an epistemology of physics. *Cognition and Instruction, 10*(2–3), 105–225. [doi:10.1080/07370008.1985.9649008](https://doi.org/10.1080/07370008.1985.9649008)

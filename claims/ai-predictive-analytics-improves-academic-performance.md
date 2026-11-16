@@ -92,3 +92,4 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 - [Early identification with warnings and probation increased use of support services, and one-on-one remediation predicted completion of preclerkship studies](early-identification-supportive-services-completion.md) — related
 - [Medical leads valued the ePortfolio as a way to systematically record and track students' progress and identify students needing remediation](eportfolio-tracked-student-progress-remediation.md) — related
 - [Perceived usefulness of early warning scoring systems employed during the training increased slightly post-course](early-warning-score-usefulness-increase.md) — related
+- [Rapid attendance data allowed early contact of absent students, described as vital for improving retention and progression](early-contact-of-absent-students-vital-for-retention.md) — related

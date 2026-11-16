@@ -55,3 +55,4 @@ Theoretical argument in the editorial, drawing on Eraut's (1994) four processes 
 - [Experts show rapid pattern recognition and instantaneous visceral decision-making, while novices rely on prolonged deliberate analysis that may lag events](expert-pattern-recognition-novice-prolonged-analysis.md) — a narrower finding that bears on this claim
 - [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — a narrower finding that bears on this claim
 - [Building the threadbare DAQ card taught students the fundamentals of interfacing and enabled slow-event physics experiments](daq-card-taught-interfacing-fundamentals.md) — related
+- [Intuition functions as something distinct from formal reasoning but enabling it](intuition-enables-formal-reasoning.md) — related

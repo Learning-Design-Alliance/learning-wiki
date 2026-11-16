@@ -49,3 +49,4 @@ Exploratory 15-item five-point Likert satisfaction survey administered in Week 4
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [PISA-VET combines digitalized simulations with hands-on demonstrations to increase measurement validity and engagement](pisa-vet-simulations-demonstrations-validity.md) — related
+- [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related

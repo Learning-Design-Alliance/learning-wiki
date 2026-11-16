@@ -114254,5 +114254,605 @@
  "worked-examples\tinstructional exercises estimating the superfluid transition temperature and excitation gap\ttextbook discussion that mentions BEC without quantitative derivation": {
   "label": "quantitative exercises vs textbook discussion",
   "treatment_is_a": true
+ },
+ "active-learning\t3D cooperative instrument operation in group learning\tno comparison condition stated": {
+  "label": "3D cooperative instrument operation vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tILD lecture plus RTP lab\tother lecture-lab format categories": {
+  "label": "ILD lecture plus RTP lab vs other lecture-lab formats",
+  "treatment_is_a": true
+ },
+ "active-learning\tILD lecture plus RTP lab\ttraditional lecture plus traditional lab": {
+  "label": "ILD lecture plus RTP lab vs traditional lecture plus traditional lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning by Design project- and design-based iterative curriculum\ttraditional-format comparison class": {
+  "label": "Learning by Design project/design-based curriculum vs traditional-format instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning by Design project-based curriculum\tmore traditional non-LBD classroom": {
+  "label": "Learning by Design project-based curriculum vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning by Design project-based iterative curriculum\tmore traditional, smaller-scale and directive instruction": {
+  "label": "Learning by Design project-based iterative curriculum vs directive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPhysics by Inquiry and Lecture-Tutorials\treported algebra- and calculus-based active-engagement courses": {
+  "label": "Physics by Inquiry and Lecture-Tutorials vs other active-engagement courses",
+  "treatment_is_a": true
+ },
+ "active-learning\tRTP inquiry-based lab\ttraditional cookbook-style lab": {
+  "label": "RTP inquiry-based lab vs traditional cookbook-style lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tRTP lab\ttraditional-format lab": {
+  "label": "RTP lab vs traditional-format lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tRealTime Physics lab\ttraditional-format lab": {
+  "label": "RealTime Physics lab vs traditional-format lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tTutorials, Group Problem Solving, and Workshop Physics\tlinear algorithms for programming students' thinking": {
+  "label": "Tutorial-, group-problem-solving, and workshop instruction vs algorithmic/directive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tany ILD or RTP component\ttraditional-format lecture and lab": {
+  "label": "ILD or RTP instruction vs traditional lecture and lab",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative Buddy Quizzes\tregular quizzes": {
+  "label": "Collaborative quizzes vs regular quizzes",
+  "treatment_is_a": true
+ },
+ "active-learning\tconceptual physics and astronomy courses using active-engagement curricula\tzero normalized gain in scientific reasoning": {
+  "label": "Active-engagement curricula vs zero normalized gain",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry activity followed by synthesis and telescope construction\tnot reported": {
+  "label": "Inquiry activity with synthesis and telescope construction vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry activity with group investigation and presentations\tnot reported": {
+  "label": "Inquiry activity with group investigation and presentations vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory curriculum\ttraditional laboratory curriculum": {
+  "label": "Inquiry-based laboratory curriculum vs traditional laboratory curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-solving methodology via active teaching and learning strategies\tnot stated": {
+  "label": "Active teaching and learning strategies vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed instruction\ttraditional instruction": {
+  "label": "Reformed instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstellar constellation role-playing activity\tpre-assessment before the activity": {
+  "label": "Stellar constellation role-playing activity vs pre-assessment/no active intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents actively measured radioactivity in small groups\tnot stated": {
+  "label": "Active small-group measurement activity vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents actively participate in learning while teachers facilitate\tlecture-centered teaching": {
+  "label": "Active, teacher-facilitated learning vs lecture-centered teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based interactive exploratory workshops\tnon-team or passive study": {
+  "label": "Team-based interactive exploratory workshops vs non-team or passive study",
+  "treatment_is_a": true
+ },
+ "case-comparison\tDeriving acceleration from energy conservation using a = 1/2 dv²/dx\tUsing the usual position- and velocity-as-functions-of-time equations": {
+  "label": "Energy-based derivation vs time-based derivation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tTeach Riccioli alongside Galileo\tTeach Galileo as the scientist with the right answer": {
+  "label": "Historically nuanced Riccioli/Galileo comparison vs triumphalist Galileo-right framing",
+  "treatment_is_a": true
+ },
+ "case-comparison\tTeach Riccioli as a rational scientist who reached the wrong conclusion\tPortray anti-Copernicans as opposed to rational thinking or science": {
+  "label": "Historically nuanced Riccioli/Galileo comparison vs triumphalist Galileo-right framing",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing analytic and numerical solutions in Modellus\tanalytic solution versus Euler and Euler-Cromer numerical solutions": {
+  "label": "Modellus analytic/numerical comparison vs Euler/Euler-Cromer numerical comparison",
+  "treatment_is_a": true
+ },
+ "case-comparison\thigh-speed-camera time-of-flight measurement\tstopwatch time-of-flight measurement": {
+  "label": "High-speed-camera measurement vs stopwatch measurement",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmaximum-height measurement\thigh-speed-camera time-of-flight measurement": {
+  "label": "Maximum-height measurement vs high-speed-camera time-of-flight measurement",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmaximum-height measurement\tstopwatch time-of-flight measurement": {
+  "label": "Maximum-height measurement vs stopwatch time-of-flight measurement",
+  "treatment_is_a": true
+ },
+ "case-comparison\tnumerical Euler and Euler-Cromer solutions\tanalytic solution": {
+  "label": "Numerical solutions vs analytic solution",
+  "treatment_is_a": true
+ },
+ "case-comparison\tred laser on red paper\tred laser on pigments commonly described as absorbing red light": {
+  "label": "Red paper reflecting red light vs red-absorbing pigment",
+  "treatment_is_a": true
+ },
+ "debriefing\tgraphing attempt after discussion\tinitial graphing attempt": {
+  "label": "graphing after discussion vs initial graphing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tAtwood’s machine followed by increasingly complex rope and chain problems\tvariable-mass problems introduced without the familiar Atwood’s-machine analogy": {
+  "label": "analogy-based sequencing vs non-analogy-based sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tAtwood’s machine introduced before analogous rope or chain problems\tunspecified alternative instruction without this analogy-based sequence": {
+  "label": "analogy-based sequencing vs non-analogy-based sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tintroducing variable-mass rope problems through analogy with the familiar Atwood machine\ttraditional treatment without the suggested analogy-based enlargement": {
+  "label": "analogy-based sequencing vs non-analogy-based sequencing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCopenhagen/Agnostic or de-emphasized interpretation instruction\tMatter-Wave instruction": {
+  "label": "Copenhagen/agnostic instruction vs matter-wave instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCopenhagen/Agnostic or interpretation-deemphasizing instruction\tMatter-Wave instruction": {
+  "label": "Copenhagen/agnostic instruction vs matter-wave instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT curriculum emphasizing fundamental quantum uncertainty\tother modern physics course offerings": {
+  "label": "Explicit/sustained interpretive instruction vs other modern-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT curriculum with interpretive themes\tother modern physics course offerings": {
+  "label": "Explicit/sustained interpretive instruction vs other modern-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT curriculum with sustained interpretive instruction\tthree other modern physics course offerings": {
+  "label": "Explicit/sustained interpretive instruction vs other modern-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT explicit instruction in quantum interpretations\tENG-MW matter-wave instruction with less explicit interpretive discussion": {
+  "label": "Explicit interpretive instruction vs less-explicit interpretive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT explicit instruction in quantum interpretations\tENG-R/S realist/statistical instruction": {
+  "label": "Explicit quantum-interpretation instruction vs realist/statistical instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tENG-INT explicit instruction in quantum interpretations\tPHYS-C/A Copenhagen/agnostic instruction with less emphasis on interpretation": {
+  "label": "Explicit interpretive instruction vs less-explicit Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicitly taught localized-particle interpretation for atomic electrons\tLess explicit treatment of interpretation in other courses": {
+  "label": "Explicit localized-particle interpretation vs less-explicit interpretive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicitly teach delocalized-wave interpretation in the double-slit context\tLess explicit attention to interpretation in the atomic-electron context": {
+  "label": "Explicit matter-wave interpretation in the double-slit context vs less-explicit interpretation in the atomic-electron context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave instruction in the double-slit topic\tMatter-Wave instruction without explicit interpretive treatment of atomic systems": {
+  "label": "Explicit matter-wave interpretation in the double-slit context vs less-explicit interpretation in the atomic-electron context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave instruction plus two days of late-course interpretive discussion\tMatter-Wave instruction without the added late-course interpretive discussion": {
+  "label": "Added later interpretive discussion vs no added later interpretive discussion",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave interpretation taught explicitly for the double-slit experiment\tInterpretive themes not explicitly addressed in the atomic-electron context": {
+  "label": "Explicit matter-wave interpretation in the double-slit context vs less-explicit interpretation in the atomic-electron context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRealist/Statistical instruction\tMatter-Wave instruction": {
+  "label": "Realist/statistical instruction vs matter-wave instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRealist/Statistical interpretation instruction\tMatter-Wave, Copenhagen/Agnostic, or Agnostic instruction": {
+  "label": "Realist/statistical instruction vs matter-wave/Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicating compressed derivation steps\texpert-like compressed derivation": {
+  "label": "Expanded derivation steps vs compressed derivation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit communication of physics-specific mathematical conventions\tmathematics instruction without attention to physics conventions": {
+  "label": "Explicit physics-specific mathematical conventions vs mathematics instruction without physics conventions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in a particular quantum interpretation\tless explicit or de-emphasized interpretive instruction": {
+  "label": "Explicit interpretive instruction vs less-explicit interpretive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in scientific reasoning\tearlier course instruction": {
+  "label": "Explicit scientific-reasoning instruction vs earlier course instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit matter-wave interpretation instruction\tCopenhagen/Agnostic instruction": {
+  "label": "Matter-wave interpretation instruction vs Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly promoted matter-wave interpretation\tCopenhagen/agnostic instruction emphasizing probability, measurement limits, or calculation": {
+  "label": "Matter-wave interpretation instruction vs Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly teaching intuition and the hidden curriculum\tleaving the hidden curriculum implicit": {
+  "label": "Explicit intuition and hidden-curriculum instruction vs implicit intuition and hidden curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal problem-solving rubric without intuitive sense-making\trubric tied to intuitive meaning and physical context": {
+  "label": "Formal problem-solving rubric vs intuition-and-context rubric",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction with less explicit attention to interpretive themes in later course topics\texplicit instruction in interpretive themes": {
+  "label": "Explicit interpretive instruction vs less-explicit interpretive instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinterpretive themes explicitly addressed\tthemes not explicitly addressed": {
+  "label": "Explicitly addressed interpretive themes vs themes not explicitly addressed",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tless explicit interpretive instruction in the atomic-electron context\texplicit interpretive instruction in the double-slit context": {
+  "label": "Explicit matter-wave interpretation in the double-slit context vs less-explicit interpretation in the atomic-electron context",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tless explicit interpretive instruction in the atomic-electron context\texplicit matter-wave instruction in the double-slit context": {
+  "label": "Explicit matter-wave interpretation in the double-slit context vs less-explicit interpretation in the atomic-electron context",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tmatter-wave instruction plus two days of general interpretive discussion\tmatter-wave instruction without the later general discussion": {
+  "label": "Added later general interpretive discussion vs no added later general interpretive discussion",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\topen-ended data collection and graph construction from student-captured video\ttasks carried out after receiving detailed instruction, typically with a worksheet": {
+  "label": "Open-ended student data collection and graph construction vs detailed guided worksheet tasks",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpre-tutorial homework plus a short Taylor-series lecture\tpre-tutorial homework alone": {
+  "label": "Pre-tutorial homework plus lecture vs pre-tutorial homework alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttasks with received instructions and a worksheet\tindependent measurement and interpretation of experimental data": {
+  "label": "Guided worksheet tasks vs independent measurement and data interpretation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo days of general discussion of interpretive themes near the end of the course\tsimilar Matter-Wave course without that later general discussion": {
+  "label": "Added later general interpretive discussion vs no added later general interpretive discussion",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tassessment feedback returned within about 30 minutes\tfeedback delayed for several days or not feasible with previous technology-sparse practice": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tGame-based gravitational-wave outreach activities\tno explicit comparison": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tPrediction followed by paired hypothesis-building with drawings\tNot stated": {
+  "label": "guided discovery vs unspecified control",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided-inquiry billiards activity\ttraditional instruction": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based focused investigation with facilitation\tnone reported": {
+  "label": "guided discovery vs unspecified control",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based laboratory activities\ttraditional laboratory activities without inquiry": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1st-grade pupils in the special physics class\tSerbia Grammar school sample": {
+  "label": "Special physics class vs grammar-school sample",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2.2 or 3rd class first degree\t1st, 2.1 or higher degree": {
+  "label": "Lower degree class (2.2/third-class) vs higher degree class (first/2.1 or higher)",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2.2 or 3rd class first degree\t1st, 2.1 or higher first degree": {
+  "label": "Lower degree class (2.2/third-class) vs higher degree class (first/2.1 or higher)",
+  "treatment_is_a": true
+ },
+ "media-design\tExponent text colored black\tExponent text colored red": {
+  "label": "Black exponent text vs red exponent text",
+  "treatment_is_a": true
+ },
+ "media-design\taligned head-to-tail vector arrangement\tdivergent tail-to-tail vector arrangement": {
+  "label": "Aligned head-to-tail vectors vs divergent tail-to-tail vectors",
+  "treatment_is_a": true
+ },
+ "media-design\taligned head-to-tail vector arrangement with grid\tdivergent tail-to-tail vector arrangement with grid": {
+  "label": "Aligned head-to-tail vectors with grid vs divergent tail-to-tail vectors with grid",
+  "treatment_is_a": true
+ },
+ "media-design\taligned head-to-tail vector arrangement without a grid\tdivergent tail-to-tail vector arrangement without a grid": {
+  "label": "Aligned head-to-tail vectors without grid vs divergent tail-to-tail vectors without grid",
+  "treatment_is_a": true
+ },
+ "media-design\taligned head-to-tail vector arrangement without grid\tdivergent tail-to-tail vector arrangement without grid": {
+  "label": "Aligned head-to-tail vectors without grid vs divergent tail-to-tail vectors without grid",
+  "treatment_is_a": true
+ },
+ "media-design\taligned vector arrangement without a grid\tdivergent vector arrangement without a grid": {
+  "label": "Aligned vectors without grid vs divergent vectors without grid",
+  "treatment_is_a": true
+ },
+ "media-design\tcircular tube with three half turns\tcircular tube with one half turn": {
+  "label": "Tube with three half-turns vs tube with one half-turn",
+  "treatment_is_a": true
+ },
+ "media-design\tcoordinate grid present\tcoordinate grid absent": {
+  "label": "Coordinate grid present vs coordinate grid absent",
+  "treatment_is_a": true
+ },
+ "media-design\tcoordinate grid present\tno coordinate grid": {
+  "label": "Coordinate grid present vs coordinate grid absent",
+  "treatment_is_a": true
+ },
+ "media-design\tdiscussion supported by absorption curves with soft-edged passing bands\tdiscussion without absorption-curve documents": {
+  "label": "Absorption-curve documents with soft-edged passing bands vs no absorption-curve documents",
+  "treatment_is_a": true
+ },
+ "media-design\thalf of a converging lens covered\tconverging lens removed": {
+  "label": "Half-covered converging lens vs removed converging lens",
+  "treatment_is_a": true
+ },
+ "media-design\thead-to-head vector arrangement with a grid (Question 8)\tother vector representations/questions": {
+  "label": "Head-to-head gridded vector representation vs other vector representations or questions",
+  "treatment_is_a": true
+ },
+ "media-design\tnon-gridded vector representations\tgridded vector representations": {
+  "label": "Gridded vector representations vs non-gridded vector representations",
+  "treatment_is_a": false
+ },
+ "media-design\tnumeric problem format\totherwise equivalent symbolic problem format": {
+  "label": "Numeric problem format vs symbolic problem format",
+  "treatment_is_a": true
+ },
+ "media-design\tnumeric problem format\tpurely symbolic problem format": {
+  "label": "Numeric problem format vs symbolic problem format",
+  "treatment_is_a": true
+ },
+ "media-design\tnumeric problem solving\tsymbolic problem solving": {
+  "label": "Numeric problem solving vs symbolic problem solving",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture of a tube with three half-turns\tpicture of a tube with one half-turn": {
+  "label": "Tube with three half-turns vs tube with one half-turn",
+  "treatment_is_a": true
+ },
+ "media-design\trocket question presented in words\trocket question presented pictorially": {
+  "label": "Verbal rocket-question presentation vs pictorial rocket-question presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tspectral energy per fractional bandwidth distribution using ln wavelength or ln frequency\tconventional Bλ versus wavelength or Bν versus frequency plots": {
+  "label": "Log-wavelength or log-frequency spectral distribution vs conventional wavelength or frequency plots",
+  "treatment_is_a": true
+ },
+ "media-design\tvaried visual representations of vector pairs\tunchanged visual representation": {
+  "label": "Varied visual representations of vector pairs vs unchanged visual representation",
+  "treatment_is_a": true
+ },
+ "media-design\tvectors presented on a grid\tvectors presented without a grid": {
+  "label": "Gridded vector representations vs non-gridded vector representations",
+  "treatment_is_a": true
+ },
+ "media-design\tverbal description of rocket motion\tdiagrammatic/pictogram presentation": {
+  "label": "Verbal rocket-motion description vs diagrammatic or pictogram presentation",
+  "treatment_is_a": true
+ },
+ "prompts\tIdentify Assumptions and Relationships prompt\tOther problem-solving prompt segments": {
+  "label": "Identify-assumptions-and-relationships prompts vs other problem-solving prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tIdentify Assumptions and Relationships prompt\tother problem-solving prompt segments": {
+  "label": "Identify-assumptions-and-relationships prompts vs other problem-solving prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tIdentify assumptions and relationships prompt\tother problem-solving segments": {
+  "label": "Identify-assumptions-and-relationships prompts vs other problem-solving prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tInterpret, Identify Relevant Physics, and Error-Checking and Sensemaking prompts\t38% Conceptual Discussion benchmark": {
+  "label": "Integrated problem-solving and sensemaking prompts vs conceptual discussion",
+  "treatment_is_a": true
+ },
+ "prompts\tPrescribed sensemaking-intended prompts 1, 2, and 6\tWell-functioning group benchmark section": {
+  "label": "Prescribed sensemaking prompts vs well-functioning-group benchmark",
+  "treatment_is_a": true
+ },
+ "prompts\tprescribed problem-solving prompts 1, 2, and 6\tsingle-episode benchmark from a well-functioning group": {
+  "label": "Prescribed problem-solving prompts vs well-functioning-group benchmark",
+  "treatment_is_a": true
+ },
+ "prompts\tprescribed six-step problem-solving prompts\tbenchmark segment from a well-functioning group": {
+  "label": "Prescribed six-step problem-solving prompts vs well-functioning-group benchmark",
+  "treatment_is_a": true
+ },
+ "prompts\tprescribed six-step problem-solving prompts\twell-functioning group benchmark interaction": {
+  "label": "Prescribed six-step problem-solving prompts vs well-functioning-group benchmark",
+  "treatment_is_a": true
+ },
+ "prompts\tresearcher-posed equivalence prompt\tstudents' spontaneous evocation": {
+  "label": "Explicit equivalence prompt vs spontaneous evocation",
+  "treatment_is_a": true
+ },
+ "prompts\trevised instruction sheet with guided questions and personal instructions\tprevious instruction approach": {
+  "label": "Guided instruction sheet with personal instructions vs previous instruction approach",
+  "treatment_is_a": true
+ },
+ "prompts\trevised laboratory worksheet with guided design and uncertainty questions\tconventional laboratory instruction without student involvement in experiment design": {
+  "label": "Guided experiment-design and uncertainty prompts vs conventional laboratory instruction",
+  "treatment_is_a": true
+ },
+ "prompts\trevised worksheet with guided experiment-design and uncertainty-estimation questions\tconventional laboratory instruction": {
+  "label": "Guided experiment-design and uncertainty prompts vs conventional laboratory instruction",
+  "treatment_is_a": true
+ },
+ "prompts\trevised worksheet with prompts to design measurements and preestimate uncertainty\tusual laboratory instruction with teacher-set measurement range and steps": {
+  "label": "Student-guided measurement design and uncertainty estimation vs teacher-prescribed measurements and procedures",
+  "treatment_is_a": true
+ },
+ "prompts\tteacher explicitly asked whether Earth is immobile\tstudents’ prior ship prediction": {
+  "label": "Explicit prompt about Earth's immobility vs students' prior ship prediction",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tequal 0.5% FCI bonus offered to both curricula\tbonus offered only to traditional students": {
+  "label": "equal incentives for all vs incentives for one group",
+  "treatment_is_a": true
+ },
+ "scaffolding\tconceptual cue about the sign of g\tbefore the cue, while stuck on the sign of h": {
+  "label": "Conceptual cue vs no cue yet",
+  "treatment_is_a": true
+ },
+ "scaffolding\tconceptual cue about the sign of g\tno cue and earlier cue about h": {
+  "label": "Cue on the current target (g) vs earlier cue on another target (h)",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgeneric Taylor-series expression plus interviewer guidance\tattempting the physical expansion without explicit instruction": {
+  "label": "Guided explicit support vs unguided physical expansion",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgeneric Taylor-series expression provided\tgenerate the expansion without the expression": {
+  "label": "Generic Taylor-series form provided vs self-generated expansion",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgeneric Taylor-series expression provided\tno generic expression provided": {
+  "label": "Generic Taylor-series form provided vs no generic form",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgeneric Taylor-series form provided before applying it to the physical scenario\tgenerating the expansion spontaneously in the physical scenario": {
+  "label": "Generic Taylor-series form provided before application vs spontaneous generation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructor intervention explaining the appropriate Taylor-series form\tattempting the pre-tutorial expansion without intervention": {
+  "label": "Instructor explanation/intervention vs no intervention",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpre-tutorial homework on generating and interpreting the Taylor series\tno pre-tutorial homework": {
+  "label": "Pre-tutorial preparatory homework vs no preparatory homework",
+  "treatment_is_a": true
+ },
+ "scaffolding\trevised laboratory instruction sheet with guided uncertainty and experiment-design questions\tusual laboratory instruction": {
+  "label": "Guided laboratory instructions vs usual laboratory instructions",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulation\treal experiment": {
+  "label": "computer simulation vs real experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations\tordinary student experiments": {
+  "label": "computer simulation vs real experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations\tstudent experiments": {
+  "label": "computer simulation vs real experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tcomputer simulations\tstudent experiments with real circuits": {
+  "label": "computer simulation vs real experiment",
+  "treatment_is_a": true
+ },
+ "simulation\thigher number of computer simulations\tlower number of computer simulations": {
+  "label": "more simulations vs fewer simulations",
+  "treatment_is_a": true
+ },
+ "test-format\tBuddy Quiz with peer discussion and opportunity to amend answers\tworking alone on a regular quiz": {
+  "label": "buddy/peer-collaborative quizzes vs individual regular quizzes",
+  "treatment_is_a": true
+ },
+ "test-format\tBuddy Quizzes with peer collaboration and two-colour scoring\tregular quizzes": {
+  "label": "buddy/peer-collaborative quizzes vs individual regular quizzes",
+  "treatment_is_a": true
+ },
+ "test-format\tconceptual questions requiring reasoning and argumentation\tcomputation and regurgitation questions": {
+  "label": "conceptual reasoning questions vs computational/regurgitation questions",
+  "treatment_is_a": true
+ },
+ "test-format\tconceptual, essay-like assessment\ttime-pressured computation and wide-coverage assessment": {
+  "label": "conceptual essay-like assessment vs computational time-pressured assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tfinal test with P9 separated into P9a and P9b\tpilot tests with the original P9 format": {
+  "label": "separated/split question vs combined/unsplit question",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven correct question\tgiven increase question": {
+  "label": "given-correct question vs given-increase question",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven correct question\ttraditional question": {
+  "label": "given-correct question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven correct question: justify a stated correct answer\ttraditional, incorrect traditional, and given increase questions": {
+  "label": "given-correct question vs other question types",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven correct question: justify an answer identified as correct\ttraditional and other novel question types: select or evaluate the answer without being told it is correct": {
+  "label": "given-correct question vs other question types",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven increase question\ttraditional question": {
+  "label": "given-increase question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven increase question: evaluate a specified answer\ttraditional question: select a correct response": {
+  "label": "given-increase question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tgiven increase question: evaluate a specified answer\ttraditional question: select the correct answer": {
+  "label": "given-increase question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tincorrect traditional question: eliminate an incorrect response\ttraditional question: select a correct response": {
+  "label": "incorrect-traditional question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tincorrect traditional question: select an incorrect response\ttraditional question: select a correct response": {
+  "label": "incorrect-traditional question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tincorrect-traditional question\ttraditional question": {
+  "label": "incorrect-traditional question vs traditional question",
+  "treatment_is_a": true
+ },
+ "test-format\tincrease response option\tdecrease response option": {
+  "label": "increase response option vs decrease response option",
+  "treatment_is_a": true
+ },
+ "test-format\trotation and translation asked in two separate questions\trotation and translation asked in one combined question": {
+  "label": "separated/split question vs combined/unsplit question",
+  "treatment_is_a": true
+ },
+ "test-format\tseparate true/false questions, each tagged to one concept category\tMCQs combining multiple concepts": {
+  "label": "single-concept true/false questions vs multi-concept multiple-choice questions",
+  "treatment_is_a": true
+ },
+ "test-format\tset of novel question types\ttraditional question type": {
+  "label": "novel question types vs traditional question type",
+  "treatment_is_a": true
+ },
+ "test-format\tseven randomly selected true/false questions per concept category\ta single or smaller number of true/false questions per category": {
+  "label": "more vs fewer true/false questions per concept category",
+  "treatment_is_a": true
+ },
+ "test-format\ttraditional question: choose decrease as correct\tincorrect traditional question: eliminate decrease as incorrect": {
+  "label": "incorrect-traditional question vs traditional question",
+  "treatment_is_a": false
+ },
+ "test-format\ttraditional question: select the correct response\tincorrect traditional question: select the incorrect response": {
+  "label": "incorrect-traditional question vs traditional question",
+  "treatment_is_a": false
  }
 }

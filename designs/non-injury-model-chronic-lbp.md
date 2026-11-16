@@ -43,7 +43,8 @@ The non-injury model, adapted from Indahl, is a cognitive/educational framework 
 - [Fear Avoidance Beliefs Improved More In Educational Group](../claims/fear-avoidance-beliefs-improved-more-in-educational-group.md) [+M]
 
 ## Related Designs
-- 
+
+- [Avoid adding cautionary 'be careful with your back' messaging to cognitive interventions for chronic low back pain](avoid-cautionary-messaging-in-lbp-cognitive-intervention.md)
 
 ## Examples
 -

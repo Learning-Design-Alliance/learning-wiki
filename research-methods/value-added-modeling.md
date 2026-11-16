@@ -47,7 +47,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 23 studies (19 associational, 2 review, 2 design), `q1`–`q3` · 0 of 23 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (32 for, 9 mixed, 1 against) · 24 studies (20 associational, 2 review, 2 design), `q1`–`q3` · 0 of 24 report an effect size · 41 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.
@@ -64,9 +64,9 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - **Value-added measurement of teacher performance as the basis for defining highest-performing teachers**: The brief defines value-added in ideal terms as "the contribution of the teacher to student achievement growth, holding constant the factors outside the teacher's control." It estimates value-added as average test-score growth for each teacher relative to the district average, with statistical controls for student background and entering achievement, using up to three years of data per teacher for precision. The top 20 percent of teachers within each district, subject, and grade span are labeled highest performing. The authors note active debate about high-stakes use but observe these measures resemble indicators districts use in Race to the Top, the Teacher Incentive Fund, DC's IMPACT syste (Steven Glazerman et al. (2011))
 - **Value-added model for identifying effective schools in Memphis City school district**: Mathematica developed a value-added model to identify effective schools in the Memphis City school district during the first year of a New Leaders for New Schools initiative. The model "estimates each school's effect on student performance across all tested grades and subjects, accounting for student mobility, observable differences in student demographics, and measurement error in test scores." It served as the identification tool for a principal-training nonprofit's educator award program. (Kevin Booker (2008))
 - **Two-step value-added model: predict achievement from background, then average residuals per school**: The article describes VA modeling as a two-step statistical procedure: first, expected achievement is estimated for each student as a function of initial characteristics such as prior achievement and background, typically via linear regression or multilevel models; second, a school's VA score is the mean difference between actual and expected achievement of its students. The authors state that "all gains in achievement that are left are likely to be due to teacher or school effectiveness" once background is controlled. They used a multilevel model with prior mathematics and language achievement, SES, migration status, home language, and sex as covariates. (Emslander et al. (2022))
+- **MNAR extensions of sequential multi-membership value-added models via random effects selection and pattern mixture specifications**: This framework extends value-added models for longitudinal student achievement data so that unobserved scores may be missing not at random rather than MAR. The article states it "applies two alternative MNAR model specifications: random eﬀects selection and a pattern mixture model to extend recent value-added modeling approaches". The selection model lets the number of observed scores depend on the latent student effect; the pattern mixture model lets annual means and variances differ by response pattern while teacher effects and out-year weights are held constant across patterns. Both were fitted in WinBUGS with a Bayesian approach and relatively uninformative priors. (McCaffrey et al. (2011))
 
 ### Claims
-
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](../claims/access-effective-teaching-varies-across-districts.md) [+W]
 - [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+M]
 - [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](../claims/teaching-effectiveness-disparity-small-share-of-achievement-gap.md) [+W]
@@ -106,6 +106,9 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](../claims/teacher-race-observation-gaps-explained-by-school-poverty.md) [~W]
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](../claims/reach-observation-value-added-correlation-0349.md) [~W]
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](../claims/memphis-model-adjusts-mobility-demographics-measurement-error.md) [+W]
+- [A random effects selection model allowing MNAR data fits longitudinal value-added achievement data better than the MAR model by DIC](../claims/selection-model-better-dic-than-mar.md) [+M]
+- [Allowing achievement data to be missing not at random has little impact on estimated teacher effects in value-added modeling, with MNAR and MAR estimates correlating at 0.98 or better](../claims/mnar-little-impact-teacher-effect-estimates.md) [+M]
+- [The number of observed test scores depends on students' unobserved general achievement level, with higher-achieving students more likely to have complete data](../claims/observed-scores-depend-on-latent-achievement.md) [+M]
 
 ## Related Research Methods
 -
@@ -129,6 +132,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/
 - Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing Teachers? NCEE Evaluation Brief, NCEE 2011-4016. https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf
 - Emslander, Levy, Scherer, Fischbach. (2022). Value-added scores show limited stability over time in primary school. PLoS One. https://doi.org/10.1371/journal.pone.0279255
+- McCaffrey, D. F. and Lockwood, J. R. (2011). Missing data in value-added modeling of teacher effects. The Annals of Applied Statistics, 5(2A), 773-797. https://doi.org/10.1214/10-AOAS405
 
 # Value-added measures of teacher effectiveness
 

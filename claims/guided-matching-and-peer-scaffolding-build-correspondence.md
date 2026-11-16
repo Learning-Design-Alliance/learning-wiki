@@ -70,3 +70,4 @@ Observation during grid games (Teddy Bear Bingo-type cards with dice): Rachel do
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — related
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
 - Rote counting is of surprisingly little help to preoperational children in judging whether two groups have the same number — related
+- [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related

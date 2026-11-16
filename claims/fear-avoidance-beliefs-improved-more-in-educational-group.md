@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-16
 sources:
   - id: sorensen-pia-h-2010
     resource: "https://doi.org/10.1186/1471-2474-11-212"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` FABQ scores showed statistically significant between-group differences favouring the educational programme at 2, 6 and 12 months (p <.001, p = .007, p = .01). [→ Sorensen Pia H 2010](#sorensen-pia-h-2010)

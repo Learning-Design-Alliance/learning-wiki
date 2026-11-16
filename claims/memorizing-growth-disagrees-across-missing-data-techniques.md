@@ -47,3 +47,5 @@ Sensitivity analysis of latent growth models on one cohort's memorizing subscale
 
 ## Related Claims
 - [The Shape Stroop, Bear/Dragon, and Tower tasks showed a pronounced drop in average performance from about 25 to 30 months of age, possibly reflecting systematic missingness rather than declining ability](inhibitory-tasks-performance-drop-25-30-months.md) — related
+- [A random effects selection model allowing MNAR data fits longitudinal value-added achievement data better than the MAR model by DIC](selection-model-better-dic-than-mar.md) — related
+- [Allowing achievement data to be missing not at random has little impact on estimated teacher effects in value-added modeling, with MNAR and MAR estimates correlating at 0.98 or better](mnar-little-impact-teacher-effect-estimates.md) — related

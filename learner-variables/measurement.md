@@ -71,5 +71,7 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 
 ## Examples
 
+- [Have students measure wavelength with the Google Earth distance tool and calculate wave speed from the gravity-wave formulas](../strategies/google-earth-distance-measurement-wave-speed-strategy.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Measurement (Building Math 3-6, Building Math 7-10). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/measurement-math-3-6/summary). Licensed CC BY-NC 4.0.

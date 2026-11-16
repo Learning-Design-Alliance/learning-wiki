@@ -56,3 +56,4 @@ The review reports, citing Sweller and Chandler (1994), four experiments on lear
 - [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related
 - [Understanding depends on the degree of interaction among elements of information](understanding-depends-on-element-interaction.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — related
+- [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — related

@@ -47,6 +47,7 @@ In the electrical engineering technology module, students build a circuit at a c
 ## Related Strategies
 
 - [Hands-On Laboratory Procedures](hands-on_laboratory_procedures.md)
+- [Scale up simple school-based experiments to realistic monument dimensions, turning the outdoor classroom into a mathematics laboratory](scale-up-experiments-monument-mathematics-laboratory.md)
 
 ## Examples
 -

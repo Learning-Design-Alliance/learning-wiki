@@ -46,3 +46,4 @@ Second-hand case study: the review attributes this to Doosti (2026), describing 
 
 ## Related Claims
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
+- [Over 250 feedback forms from the school campaign informed improvements to the tools and use cases](over-250-feedback-forms-informed-tools.md) — related

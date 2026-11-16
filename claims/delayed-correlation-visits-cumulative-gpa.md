@@ -52,3 +52,5 @@ Correlational analysis of TutorTrac visit counts against cumulative GPA by quart
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Time Management correlates with first-semester GPA and pre-clerkship GPA across four cohorts](time-management-correlates-gpa-medical-students.md) — related
+- [Cadets who used evening math tutoring improved their placement-to-FSE score gain more than the complete Calculus 1 cohort](evening-tutoring-larger-score-gains-calculus-1.md) — related
+- [Demand at the Evening Tutoring Center was dominated by Calculus 1, followed closely by Calculus 3, with over 2500 cadets served in the first semester](tutoring-demand-calculus-1-and-3.md) — related

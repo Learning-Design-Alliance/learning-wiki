@@ -46,3 +46,4 @@ This is the article's analysis of commonly used textbooks, reported in its Intro
 
 ## Related Claims
 - [Analysis of published PER work indicates students lack a structured methodology for solving physics problems](students-lack-structured-physics-problem-solving-methodology.md) — related
+- [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related

@@ -46,3 +46,4 @@ Cross-slice correlation analysis of student random-effect estimates from the res
 - [RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate](no-main-effect-rt-propensity-learning-rate.md) — related
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
+- [Log response time is practically uncorrelated with students' estimated ability on this unspeeded low-stakes test](log-rt-uncorrelated-with-ability-low-stakes.md) — related

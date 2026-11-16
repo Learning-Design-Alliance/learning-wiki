@@ -48,3 +48,4 @@ Correlational analysis in the Results section using Pearson correlation after Sh
 - [TBL + peer teaching cohort achieved significantly higher theoretical test scores than the traditional cohort after three months of oral medicine residency training](tbl-pt-higher-theoretical-scores-dental-residency.md) — related
 - [TBL + peer teaching cohort showed significantly higher emotional and participation/interaction engagement, with no difference in skills or performance engagement](tbl-pt-engagement-emotional-participation-gains.md) — related
 - [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related
+- [A higher number of completed simulations correlated with better quiz performance, but the author explicitly warns this correlation does not establish causation](simulation-count-correlates-with-quiz-performance.md) — related

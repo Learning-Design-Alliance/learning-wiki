@@ -54,3 +54,4 @@ Randomized controlled experiment in a regional hospital children's ward: experim
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
 - [Robot-assisted storytelling produces statistically significant pre-post improvement in behavioural engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-behavioural-engagement-gain.md) — related
 - [One-third of hospital medication errors occur during configuration and administration phases dominated by nursing activities](one-third-medication-errors-nursing-phases.md) — related
+- [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — related

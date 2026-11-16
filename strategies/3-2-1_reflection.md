@@ -59,10 +59,12 @@ The routine works because it forces generative processing: learners must select,
 4. **Close the loop** — open the next session by addressing the most common "1 question" or misconception, making the routine visibly consequential
 
 ## Related Strategies
+
 - [3-2-1_Reflection](3-2-1_reflection.md) — the canonical slug for this routine; variants across grade levels share the same structure
 - [Muddiest Point](muddiest-point.md) — a minimal one-item variant that isolates the highest-value component (the lingering confusion)
 - [Exit Tickets](exit-ticket.md) — the broader family of end-of-class formative checks of which 3-2-1 is one template
 - [Think-Pair-Share](../patterns/think-pair-share.md) — pairs individual written reflection with peer elaboration
+- [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 
 ## Examples
 - **Elementary science**: after a unit on the water cycle, students write 3 facts, 2 "wow" details, and 1 question; the teacher sorts the questions into the next day's mini-lesson

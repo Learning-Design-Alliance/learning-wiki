@@ -57,3 +57,4 @@ Theoretical exposition of Dewey's account of internalization, presented in the p
 - [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](consciousness-prominent-in-change-not-habits.md) — related
 - [Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought](edwards-learning-habit-formation-thesis.md) — related
 - [Reflective portfolios cause student and teacher dissatisfaction because forced, fixed-format reflection offers little perceived gain and little learner direction](reflective-portfolio-dissatisfaction-forced-reflection.md) — related
+- [Academic dishonesty builds a propensity for dishonesty into student character because actions form habits and habits form character](cheating-builds-dishonest-character-propensity.md) — related

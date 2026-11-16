@@ -49,3 +49,4 @@ Survey perception analysis (item W3 on on-site laboratory or social practice cla
 - [Advanced mathematics course offerings are broadly consistent across medical majors, with localized differences in Nursing, Midwifery and Forensic Medicine](localized-differences-course-offerings-medical-majors.md) — related
 - [Teachers perceive a significant disconnect between medical advanced mathematics teaching content and the actual needs of professional talents](disconnect-medical-math-content-professional-needs.md) — related
 - [Teachers perceive teaching reform of medical advanced mathematics as ineffective in meeting medical talent cultivation and teaching-research integration](teaching-reform-perceived-ineffective-medical-math.md) — related
+- [Even motivated and talented high-school students showed serious gaps in fundamental topics, especially in collecting and correctly using experimental data](talented-students-data-collection-learning-problems-waves.md) — related

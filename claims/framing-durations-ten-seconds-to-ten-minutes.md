@@ -48,3 +48,5 @@ Observational report from the video data set (Section IV.E): new information fro
 ## Related Claims
 - [Epistemological frames of novice-leaning physics students can be sticky, trapping them for many minutes](sticky-epistemological-frames-novice-students.md) — related
 - [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — related
+- [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — a narrower finding that bears on this claim
+- [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — related

@@ -169,6 +169,7 @@ Finding relevant sources on a practice question, choosing trustworthy ones, sear
 - [Direct Instruction: Keyword Search](../strategies/direct_instruction-keyword_search.md) — selecting, combining and refining keywords, with credibility checks on what is retrieved
 - [Search Strategy Scaffolds](../strategies/search-strategy-scaffolds.md) — structured supports for formulating queries and evaluating results
 - [Lateral Reading](../strategies/lateral-reading.md) — the off-page check that follows a search, owned by [Evaluating Sources](evaluating-sources.md)
+- [Teach literature searching with an iterative search-sort-inspect-repeat algorithm using field tags, search-string perturbations, and citation sorting](../strategies/search-sort-inspect-repeat-literature-strategy.md)
 
 ## Key Sources
 - Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.

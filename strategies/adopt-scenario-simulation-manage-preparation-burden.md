@@ -49,6 +49,7 @@ The article recommends promoting the practical training scenario simulation meth
 - Practical Training Scenario Simulation Teaching Method
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
+- [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 
 ## Examples
 -

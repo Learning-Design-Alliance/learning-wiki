@@ -58,3 +58,4 @@ Authors' interpretation from examining test papers: "a large majority of the DM 
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Two types of equation in school mathematics are easily confused and the confusion can be avoided by suggested means](two-types-of-equation-confusion.md) — related
 - [Preliminary testing found most General Physics students could not get beyond the plan-making stage of Polya problem solving](preliminary-study-polya-stage-failure.md) — related
+- [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — related

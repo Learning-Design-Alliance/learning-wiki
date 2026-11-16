@@ -58,3 +58,4 @@ Observational analysis of retests taken no more than one day after the initial t
 - [Discussing low test performance with a mentor is associated with much higher odds of serious test-taking behavior in a low-stakes progress test](mentor-discussion-low-performance-serious-test-taking.md) — related
 - [Presentation type and individuality of discussed results show no significant relation to serious test-taking behavior as main effects](null-presentation-type-individuality-results.md) — related
 - [Consequences for not participating are associated with higher odds of serious test-taking behavior in a low-stakes assessment](participation-consequences-serious-test-taking.md) — related
+- [SAT scores fluctuate little on retest: re-taking improves scores by only 20 to 30 points per section on average](sat-retest-reliability-20-30-points.md) — related

@@ -46,3 +46,4 @@ Qualitative focus-group finding among senior (and some junior) students: regiona
 
 ## Related Claims
 - [In a PBL medical curriculum, clinical exposure — especially one-to-one contact with a real patient — is the prime motivating factor to study anatomy, while PBL paper cases offer insufficient incentive](real-patient-contact-motivates-anatomy-study.md) — related
+- [Teaching only Bλ and its Wien peak in introductory courses leaves students confused when they later encounter Bν](teaching-only-b-lambda-causes-later-confusion.md) — a narrower finding that bears on this claim

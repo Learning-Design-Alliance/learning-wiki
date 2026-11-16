@@ -60,9 +60,11 @@ The choice of worked example type should track learner expertise: high guidance 
 6. Monitor expertise and drop example support as soon as learners solve problems efficiently — continuing examples past this point wastes time [Guidance that helps novices becomes less effective or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S].
 
 ## Related Strategies
+
 - [Fading](../elements/fading.md) — the mechanism by which example types progress from full support to independence
 - [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — the diagnosis-and-correction variant that builds conceptual knowledge
 - [Completion Problems](../elements/fading.md) — the intermediate type on the guidance continuum
+- [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](test-case-before-grading-case-homework.md)
 
 ## Examples
 - **Sweller & Cooper's algebra studies** — the foundational example–problem pair design: learners studied a fully worked algebra example, then solved an isomorphic problem, outperforming learners who solved all problems themselves.

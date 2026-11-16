@@ -57,3 +57,5 @@ Qualitative episode analysis of group B on the electrostatics tutorial, where ex
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related
 - [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — possibly the same claim (merge candidate)
+- [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related

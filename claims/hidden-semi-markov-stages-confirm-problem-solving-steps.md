@@ -49,3 +49,4 @@ The review reports, citing prior work, this mathematical method for recognising 
 - [Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models](hmm-transitional-regularities-pattern-types.md) — related
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
+- [Traditional answer-oriented problem solving imposes severe cognitive load, predisposing students to means–ends analysis at the expense of pattern noticing](traditional-problems-cognitive-load-means-ends.md) — related

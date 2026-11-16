@@ -71,3 +71,4 @@ From the Discussion: the perception of expertise was not limited to specific pro
 - [Residents use clinical team members other than the official supervisor as unofficial sources of supervision](clinical-team-as-supervision-substitute.md) — related
 - [Hospital ward culture and interprofessional divides — including transient resident roles and lack of formal feedback channels — impede feedback provision and acceptance](msf-ward-culture-interprofessional-barriers.md) — related
 - [Residents perceived procedural skills assessment on the OSCE as a useful formative tool for direct observation and immediate feedback](osce-formative-procedural-assessment.md) — a narrower finding that bears on this claim
+- [Academic dishonesty in credentialed professions risks the unfounded illusion of professional competence and undermines expected expertise and trust](cheating-undermines-professional-competence-trust.md) — related

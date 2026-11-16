@@ -48,3 +48,4 @@ Study 6 randomised control trial on two short non-credit OpenLearn Create course
 - [A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled](aida-induction-pilot-then-stalled-upscaling.md) — related
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
+- [Over 250 feedback forms from the school campaign informed improvements to the tools and use cases](over-250-feedback-forms-informed-tools.md) — related

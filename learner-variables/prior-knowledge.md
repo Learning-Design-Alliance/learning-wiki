@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 301 claims (174 show a difference, 85 mixed, 42 no difference) · 236 studies (87 causal, 41 associational, 37 review, 25 theoretical, 24 design, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 236 report an effect size · 284 claims rest on one study
+> **Evidence** · 304 claims (174 show a difference, 86 mixed, 44 no difference) · 239 studies (88 causal, 42 associational, 37 review, 25 design, 25 theoretical, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 239 report an effect size · 286 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -349,6 +349,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [GP knowledge of the patient and prior consultations appears to allow abbreviated communication without exploration of background](../claims/gp-patient-knowledge-allows-abbreviated-communication.md) [+M] — learners who differ on it differ in outcomes
 - [Experts resect a greater percentage of the virtual myoma than novices at baseline in the Myoma Resection Module](../claims/vrhs-myoma-resection-experts-outperform-novices.md) [+M] — learners who differ on it differ in outcomes
 - [Novice myoma resection improves from about 65% to 89% after practice, approaching significance but remaining below expert performance](../claims/vrhs-myoma-resection-novice-improvement-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [Expert and novice card sorters are not distinguishable by the number of categories they create](../claims/expert-novice-category-number-ks-null.md) [-M] — learners who differ on it differ in outcomes
+- [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](../claims/expert-chunking-realistic-circuits.md) [~M] — learners who differ on it differ in outcomes
+- [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](../claims/qmcs-graduate-courses-no-gains-no-correlation.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

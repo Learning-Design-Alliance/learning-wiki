@@ -73,3 +73,4 @@ Course satisfaction comparison between the two randomized groups on the anonymou
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [General course satisfaction was significantly higher in the traditional face-to-face group than in the blended e-learning group](als-satisfaction-higher-face-to-face.md) — related
+- [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related

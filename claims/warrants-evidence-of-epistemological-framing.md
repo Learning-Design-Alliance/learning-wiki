@@ -48,3 +48,8 @@ Methodological claim grounded in the authors' videotaped observations of group p
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — a narrower finding that bears on this claim
 - [Case study: a student's physical-mapping framing of the work integral resisted change during group argument](case-study-framing-inertia-work-paths.md) — a narrower finding that bears on this claim
 - [Epistemological frames of novice-leaning physics students can be sticky, trapping them for many minutes](sticky-epistemological-frames-novice-students.md) — related
+- [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — related
+- [Journeyman physics students can shift their epistemological framings quickly yet in a controlled manner during problem solving](journeymen-quick-controlled-epistemological-frame-shifts.md) — related
+- [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — related
+- [Michael's epistemological stance leads him to seek physically and mathematically convincing explanations while many classmates seek the \"right answer\"](sense-maker-different-warrants-peers.md) — a narrower finding that bears on this claim
+- [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related

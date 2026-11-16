@@ -64,6 +64,7 @@ Activation works because new knowledge is stored in relation to existing knowled
 - [Analogies](analogies.md) — activation through mapping from a familiar domain
 - [Advance Organizers](../elements/advance-organizers.md) — expository activation via introductory structure
 - [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
+- [Identify common nuclear-issues misconceptions among students and the general population to develop educational material addressing them](misconception-survey-informs-material-development.md)
 
 ## Examples
 - **[Predict-Observe-Explain](predict-observe-explain.md) (POE)** in physics teaching: students predict what a demonstration will show, commit to a prediction, observe, and reconcile discrepancies — activating (and exposing) intuitive misconceptions before formal explanation.

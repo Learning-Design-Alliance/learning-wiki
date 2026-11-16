@@ -66,3 +66,4 @@ Item characteristic curves for item 45 in both versions, produced with ConQuest 
 ## Related Claims
 - [More non-functioning distractors per item correlate with easier items and lower discrimination in both MCQ formats](nfd-frequency-correlates-with-difficulty-and-discrimination.md) — related
 - [Removing the least effective distractor from questions that already had four effective distractors slightly reduced discrimination and negligibly changed difficulty](mcq-four-effective-distractor-subset-effects.md) — reports the opposite
+- [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related

@@ -51,3 +51,4 @@ Subgroup comparison within the usual-teaching group of first-attempt success rat
 - [First-attempt puncture success is comparable between groups, but trained students require significantly more attempts for success](first-attempt-success-comparable-more-attempts-trained.md) — related
 - [Structured training students are significantly less likely to use local anesthesia before their first arterial puncture than students with usual teaching](structured-training-reduces-anesthesia-use-first-arterial-puncture.md) — related
 - [Mental imagery benefit on first-puncture success persists after adjustment for prior PVC experience, with no significant interaction by experience level](mental-imagery-adjusted-experience-pvc.md) — related
+- [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related

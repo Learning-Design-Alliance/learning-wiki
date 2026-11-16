@@ -42,7 +42,8 @@ The article presents a combined bibliometric approach in which "coauthorship ana
 - 
 
 ## Examples
--
+
+- [Bibliometric mapping of top research groups in Physics and Mathematics in Southeast Europe](../strategies/seenet-mtp-bibliometric-excellence-mapping-strategy.md)
 
 ## Key Sources
 - Risha, Z. & Roschelle, J. (2026, July). A bibliographic analysis of digital learning platforms as research infrastructure. Digital Promise. https://doi.org/10.51388/20.500.12265/305

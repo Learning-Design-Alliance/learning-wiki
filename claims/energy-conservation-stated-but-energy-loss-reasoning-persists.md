@@ -68,3 +68,4 @@ Observations and interviews in the transformed courses showed students who had a
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
 - [A transformed curriculum reduces the prevalence of previously documented tunneling difficulties relative to comparable traditional courses](transformed-curriculum-reduces-tunneling-difficulties.md) — related
 - [Students struggle to relate potential energy graphs to physical systems even with physical context, but explicit model-building instruction produces correct explanations by course end](potential-energy-graph-understanding-instruction.md) — related
+- [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](rope-energy-method-beginning-students.md) — related

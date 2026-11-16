@@ -49,3 +49,5 @@ Pre/post matched survey in the author's general education astronomy course, with
 - [Attitudes toward science may be less deeply ingrained than attitudes toward learning, which prior studies found tend to decline or remain unchanged](attitudes-toward-science-less-deeply-ingrained.md) — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
+- [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
+- [Discussing Riccioli encouraged physics students and opened skeptical non-science-major astronomy students up to science](riccioli-discussion-student-reactions.md) — related

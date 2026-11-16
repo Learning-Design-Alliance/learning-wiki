@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (19 for, 15 mixed, 2 against) · 43 studies (22 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 11 of 43 report an effect size · 28 claims rest on one study
+> **Evidence** · 38 claims (21 for, 15 mixed, 2 against) · 45 studies (22 causal, 5 review, 4 quant-synthesis, 4 associational, 4 qualitative, 4 theoretical, 2 design), `q1`–`q4` · 11 of 45 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,8 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — attached 2026-10-23 from Fuchs et al. (2016), which proposed "Use supported self-explaining to compensate for weak working memory in at-risk learners"; tests this page's relationship.
 - [Children who actively generate their own predictions show better conceptual learning about water displacement than children who observe matched predictions from another learner](../claims/diy-prediction-better-conceptual-learning-than-yoked-observation.md) [+W] — attached 2026-10-26 from Brod et al. (2025), which proposed "Even minimal volitional acts such as generating predictions support conceptual learning beyond the informational content of the evidence"; tests this page's relationship.
 - [Teachers perceived that beginning a lesson with a challenging task fosters more creative and empowered mathematical thinking in students](../claims/task-first-fosters-creativity-empowerment.md) [+W] — attached 2026-11-02 from James Russo (2017), which proposed "For teachers new to challenging tasks, incorporating cognitively demanding tasks in any capacity may be the more dramatic shift than the choice of lesson structure".
+- [The explicit assumptions prompt prompted Conceptual Discussion from every group studied and had the highest overall Conceptual Discussion percentage](../claims/assumptions-prompt-most-conceptual-discussion.md) [+W] — attached 2026-11-16 from Martinuk et al. (2010), which proposed "Require students to state modeling assumptions to induce conceptual discussion, because reconciliation between formal physics and everyday intuition is required".
+- [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](../claims/engineering-assessment-rewards-regurgitation.md) [+W] — attached 2026-11-16 from Brian A. Danielak et al. (2010), which proposed "Retention efforts should target not only demographic diversity but also the approaches to knowledge, learning, and problem-solving that programs support".
 
 ## Objective and learner-valued goal
 

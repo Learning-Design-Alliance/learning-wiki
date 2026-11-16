@@ -52,3 +52,5 @@ The essay lists pros of team teaching, including that "teachers do not work in i
 - [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
 - [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](ai-mediation-cognitive-and-relational-dimensions.md) — related
 - [Dyadic pair interaction showed domination and unequal cognitive engagement, consistent with prior CSCL drawback findings](dyadic-domination-unequal-engagement.md) — related
+- [Facilitation challenges in team-based design activities include dominant members, reluctant contributors, late arrivals, and uneven background knowledge](team-facilitation-challenges-design-activities.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

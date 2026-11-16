@@ -50,3 +50,5 @@ Classification of non-STEM students (N = 109) into concrete operational, transit
 - [Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items](non-stem-weak-proportional-hypothetico-deductive-reasoning.md) — related
 - Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
+- [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
+- [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related

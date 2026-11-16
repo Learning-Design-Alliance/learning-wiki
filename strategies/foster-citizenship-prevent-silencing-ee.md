@@ -44,6 +44,7 @@ The article recommends that EE in schools and teacher training move beyond conse
 ## Related Strategies
 
 - [Stakeholders should foster workable strategies to improve EE teaching and learning across disciplines and place GIS use in national education objectives](stakeholder-strategies-ee-gis-national-objectives.md)
+- [Use role play in science teaching to develop empathy and problem-solving while conveying global citizenship](role-play-astronomy-global-citizenship-strategy.md)
 
 ## Examples
 -

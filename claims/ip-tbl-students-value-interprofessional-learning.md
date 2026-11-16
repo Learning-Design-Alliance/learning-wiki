@@ -48,3 +48,4 @@ Questionnaire completed by 117/311 (38%) of participants immediately after the s
 - [Teamwork perceptions were already high before the intervention and rose significantly after it, though perceived attentiveness of teammates remained below the agree threshold](teamwork-perceptions-high-and-improved.md) — related
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
 - [Most surveyed students were satisfied with interprofessional OFST and supported extending it to other colleges or disciplines](ofst-satisfaction-and-extension-support.md) — related
+- [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related

@@ -65,3 +65,4 @@ The article's interpretive observation in section 2 about the discrepancy betwee
 
 ## Related Claims
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
+- [Particles and Nuclei strongly emphasises physical concepts while giving applications little and highly selective attention, exemplified by a one-third-page reactors digression](particles-and-nuclei-emphasises-physical-concepts.md) — related

@@ -68,3 +68,4 @@ Domain-level RM-ANOVA results (Table 5): control males gained 24.4 and control f
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related
 - [Post-test scores on the LPCI, GSA, and PSVT-Rot were significantly correlated for every group except control males on PSVT-Rot versus LPCI](post-assessment-correlations-spatial-lunar.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test achievement than traditional teaching in the Earth, Sun and Moon unit](cbi-improves-earth-sun-moon-achievement.md) — related
+- [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related

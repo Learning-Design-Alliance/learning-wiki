@@ -53,3 +53,4 @@ Systematic review synthesis of 51 empirical studies (2000–2024) identified via
 - Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies) — related
 - [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related
+- [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related

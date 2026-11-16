@@ -90,3 +90,6 @@ Second episode analysis of the same group on an epistemological worksheet questi
 - [Chaining instances cluster near transitions between worksheet and discussion frames](chaining-near-frame-transitions.md) — related
 - [Groups differ in how they frame tutorials: one group favored discussion while another favored worksheet completion](groups-vary-in-tutorial-framing.md) — related
 - [The majority of mechanistic reasoning during tutorials occurs in the animated discussion frame](mechanistic-reasoning-majority-discussion-frame.md) — related
+- [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
+- [Journeyman physics students can shift their epistemological framings quickly yet in a controlled manner during problem solving](journeymen-quick-controlled-epistemological-frame-shifts.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related

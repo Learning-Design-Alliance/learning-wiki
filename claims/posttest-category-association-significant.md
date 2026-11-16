@@ -51,3 +51,5 @@ GT contingency-table analysis of category scores (item counts per category rangi
 - [At Georgia Tech, M&I students outperform traditional students on nearly all BEMA items, with magnetostatics alone accounting for 55% of the overall performance difference](mi-item-analysis-magnetostatics-dominates.md) — related
 - [M&I students perform roughly one letter grade higher on the BEMA than traditional students with the same final course grade](mi-one-letter-grade-bema-advantage.md) — related
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
+- [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related
+- [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related

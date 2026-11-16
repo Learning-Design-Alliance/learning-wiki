@@ -63,3 +63,4 @@ Post-test satisfaction survey of the experimental group (n = 58), an 11-item fiv
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related
 - [Students rated the simulations highly useful for their learning (average 4.0 of 5), and 80% of volunteered survey comments about the simulations were positive](student-perceptions-simulation-usefulness.md) — related
+- [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related

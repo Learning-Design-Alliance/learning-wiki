@@ -42,6 +42,10 @@ The curriculum is organized as five sequential units of roughly two to six hours
 ### Claims
 - 
 
+## Related Designs
+
+- [Five-day summer-school structure: two skill-building school days, a monument field day, a university analysis day, and a student-run presentation day](five-day-archaeo-astronomy-summer-school-structure.md)
+
 ## Related Patterns
 
 - [Five core areas of classroom technology use as organizing units for assessment](../products/the-toolkit.md)

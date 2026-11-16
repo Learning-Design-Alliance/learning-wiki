@@ -142,3 +142,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [The greater the reorganization of prior knowledge required, the harder new information is to acquire](reorganization-depth-difficulty-conceptual-change.md) — related
 - [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — a narrower finding that bears on this claim
 - [Scenarios should challenge participants to experience failures and feelings of inadequacy to drive reflection and learning](failure-driven-scenarios-drive-reflection.md) — related
+- [Real-time correspondence between Modellus animations and model mathematics helped students resolve cognitive conflicts and difficulties in key concepts](modellus-real-time-correspondence-resolved-difficulties.md) — a narrower finding that bears on this claim

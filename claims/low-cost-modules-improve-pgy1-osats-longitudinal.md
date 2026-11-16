@@ -53,3 +53,4 @@ Prospective cohort study of eight PGY1 residents tested before and after a year 
 - [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on
 - [Within the intervention group, mean skill scores rose significantly from pre-test to post-test on each of the nine skills after app use](intervention-within-group-skill-gains.md) — a narrower finding that bears on this claim
 - [Diagnostic accuracy during practice increased significantly between modules 1-3 and possibly to module 5, while per-module practice time decreased through module 8](accuracy-increased-speed-increased-through-practice-modules.md) — related
+- [AMSC students improved their knowledge-survey scores by an average of 80% from pre-test to post-test](amsc-pre-post-knowledge-gain-80-percent.md) — related

@@ -68,6 +68,7 @@ Presenting group work requires learners to reconstruct and verbalize their reaso
 - [Alternate student work forms: small groups, brainstorming, and oral presentation in project work](alternate-work-forms-small-groups-brainstorming.md)
 - [Use post-presentation survey questions adapted from Sinclair to elicit and code learners' metacognitive justifications](sinclair-post-presentation-survey-strategy.md)
 - [Present the professor's completed worksheet after group presentations as cognitive feedback by comparison](completed-worksheet-cognitive-feedback-strategy.md)
+- [Structure poster presentations around the claim-evidence-reasoning formulation to build communication skills](claim-evidence-reasoning-poster-presentations.md)
 
 ## Examples
 - A 6th-grade science class completes a collaborative investigation, then each group presents its findings — the steps taken, challenges faced, and how conclusions were reached — while classmates question the evidence

@@ -54,3 +54,5 @@ Model–student comparison ranking questions by proportion correct (Table 2, Sec
 - [Item-level accuracy remained stable on the hardest case-specific item, suggesting persistent difficulty](cblc-item8-persistent-difficulty.md) — related
 - [Case difficulty varies widely: COVID-19 pneumonia (85.4%) and pneumoperitoneum (80.5%) were best interpreted, while pneumomediastinum (42.0%) and left lower lobe pneumonia (43.4%) were worst](cxr-case-difficulty-variation.md) — related
 - [In a post hoc analysis, the bar-graph bias was stronger on harder questions than on easier questions](bar-graph-bias-stronger-on-harder-questions.md) — related
+- [The intermediate performance declines cannot be consistently attributed to changes in question difficulty across quizzes](declines-not-question-difficulty.md) — related
+- [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related

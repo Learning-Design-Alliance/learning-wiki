@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-16
 sources:
   - id: okabayashi-2022
     resource: "https://doi.org/10.3928/24748307-20221113-01"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On efficacy (difficulties and readability), quizzes were judged easy while detailed descriptions with technical words were difficult to follow, and accompanying sentences were too long. [→ Okabayashi 2022](#okabayashi-2022)

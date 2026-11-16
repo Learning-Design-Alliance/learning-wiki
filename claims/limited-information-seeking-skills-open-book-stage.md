@@ -49,3 +49,4 @@ Observational evaluation of documented search processes during the open-book sta
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [Teachers on Instagram predominantly engage in low-cost collaboration (information seeking) and rarely in high-cost collaboration (co-creating)](instagram-low-cost-collaboration-predominates.md) — related
 - [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related
+- [Students with some prior database use hold perceptions of reputable science resources closer to those of professional scientists than novices do](experienced-students-perceptions-closer-to-scientists.md) — related

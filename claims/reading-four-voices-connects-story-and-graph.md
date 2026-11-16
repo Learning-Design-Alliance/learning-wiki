@@ -47,3 +47,4 @@ Illustrative classroom task description from the brief's sample lesson You've Cr
 ## Related Claims
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
+- [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](modellus-multiple-representations-interpretation.md) — related

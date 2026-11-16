@@ -53,6 +53,7 @@ The authors designed their assignments "to require little additional class time 
 - [Embed new curricular content by replacing an existing clerkship activity rather than adding instructional time](replace-existing-clerkship-activity-strategy.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
 
 ## Examples
 -

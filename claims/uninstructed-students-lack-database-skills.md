@@ -48,3 +48,4 @@ Descriptive result from the control group (n = 30) of the randomized experiment,
 ## Related Claims
 - [Undergraduates who complete either an interactive GotS tutorial or a screencast score significantly higher on a database-searching post-test than an uninstructed control group](online-tutorials-outperform-control-database-searching.md) — related
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
+- [Undergraduate students with little or no prior database use show a statistically significant increase in their reported use of online journal databases after learning the search methodology](novice-students-increase-database-use-after-search-methodology.md) — related

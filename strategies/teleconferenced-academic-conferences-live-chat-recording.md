@@ -53,6 +53,7 @@ The article recommends replacing in-person weekday academic conferences with vid
 - [Keep residents involved in telehealth clinics through a staged model of trainee history-taking, attending discussion, joint patient video conference, and post-visit debrief](telehealth-clinic-resident-involvement-model.md)
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Use telephone video-conferencing for interim monitoring of structured surgical training programs](video-conferencing-interim-curriculum-monitoring.md)
+- [Extend e-learning platforms with video-conferencing attendance verification and student payment integration](citadel-further-work-attendance-and-payment.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The article recommends flexible, online-based scheduling to enable students to p
 - [Provide flexible learning plans and time-management support for working nursing students](flexible-learning-plans-working-nursing-students.md)
 - [Extend clinical simulation laboratory operating hours, including after-hours and weekend opening, to improve student access for SSL](extend-simulation-lab-operating-hours.md)
 - [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
+- [Extend e-learning platforms with video-conferencing attendance verification and student payment integration](citadel-further-work-attendance-and-payment.md)
 
 ## Examples
 -

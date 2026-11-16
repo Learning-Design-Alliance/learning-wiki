@@ -76,3 +76,4 @@ The review reports Williams et al. (2013) college-student experiments on learnin
 - [The RR model explains children's stubborn persistence with ineffective spelling strategies that the Overlapping Waves model could not account for](rr-model-explains-stubborn-ineffective-strategies.md) — related
 - [Mental set acquired for one task persists and impairs performance in spelling recall and in geography problem-solving](set-persistence-spelling-geography.md) — related
 - [Later introduction of exceptions improves category learning, suggesting delayed teaching of exception words may aid decoding](late-exception-introduction-benefits.md) — related
+- [Neither overgeneralization nor increased cognitive load explanations account for the observed U-shaped declines in Newtonian reasoning](overgeneralization-load-explanations-rejected.md) — related

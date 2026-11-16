@@ -52,3 +52,4 @@ Publication-bias analyses (rank correlation, PET/PEESE, regression, selection mo
 - [No significant difference between red and control color conditions for anagram tests or knowledge tests](red-color-no-effect-anagrams-knowledge.md) — related
 - [The pooled effect of viewing red color on cognitive test performance is small (Δ = -0.13)](red-color-pooled-effect-small.md) — reports the opposite
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — reports the opposite
+- [A presentation change — rendering the randomized exponent on the interaction constant in black rather than WebAssign's default red — reduced exponent-confusion errors from 30.5% to 9.1% between assignment versions.](exponent-confusion-reduced-by-text-color-change.md) — related

@@ -49,6 +49,7 @@ A low-cost experimental kit for physics demonstrations in which a tablet's magne
 ## Examples
 
 - [Extend tablet magnetometer experiments to other current geometries](../strategies/extend-magnetometer-experiments-other-geometries.md)
+- [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](../strategies/ga-experiment-sequence-master-equation-mind-map.md)
 
 ## Key Sources
 - V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581

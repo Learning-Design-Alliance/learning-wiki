@@ -48,3 +48,4 @@ Weekly activity plots from the non-pandemic cohort's usage logs (Figure 1B–C).
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
+- [The games and sketches increased online visibility, with growing downloads, views and webpage visits during 2011](gw-games-growing-online-engagement-2011.md) — related

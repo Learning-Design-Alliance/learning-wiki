@@ -55,3 +55,4 @@ Post-training satisfaction items (Table 1 questions 5–7) in the pilot study of
 - [Students recommended virtual patient simulation only in addition to bedside training, never as stand-alone use](vr-recommended-only-additional-to-bedside.md) — related
 - [Students reported that assigning certainty ratings to MCQ answers made them aware of what they know and do not know and assisted in identifying knowledge gaps](crmcq-student-survey-awareness-gaps.md) — related
 - [Students showed high satisfaction with and acceptance of the blended learning concept and NESTOR](high-student-acceptance-blended-learning-nestor.md) — related
+- [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related

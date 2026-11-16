@@ -53,3 +53,4 @@ Qualitative SGFS findings on affective and pedagogical support: students describ
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

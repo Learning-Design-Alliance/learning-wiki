@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-11-16
 sources:
   - id: daniell-difrancesca-2025
     resource: "https://doi.org/10.1007/s11251-025-09741-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For quiz 1, the Kahoot-performance-by-competitiveness interaction was significant, with a positive Kahoot-quiz relationship for the HC group only; the interactions for quizzes 2 and 3 were not significant. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

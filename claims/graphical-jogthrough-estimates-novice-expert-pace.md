@@ -49,3 +49,4 @@ Authors’ interpretive conclusion from the reported evaluation session of the N
 - [In Graphical Jogthrough, evaluators’ ratings yield a graph of estimated proportion of effective users versus the time needed to achieve effectiveness](graphical-jogthrough-graph-of-effective-users-over-time.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
 - [Task progression graphs show difficult Narrative Manager events raise the distance-to-goal curve while assistive events such as hiding materials produce flat zones that cost user time](event-effects-on-task-progression.md) — related
+- [The CMS User Support operates a self-sustained cycle in which expert users teach new users, who become experts and improve the instruction materials](cms-self-sustained-teaching-cycle.md) — related

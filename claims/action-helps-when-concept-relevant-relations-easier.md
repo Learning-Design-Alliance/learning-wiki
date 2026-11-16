@@ -58,3 +58,4 @@ Theoretical argument in a commentary: the authors argue that action helps when i
 - [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related
 - [Deictic gestures had stronger connections to other features in the high-learning group, suggesting a more effective use of embodied representations to ground abstract concepts and direct attention.](deictic-gestures-stronger-connections-high-learning.md) — related
 - [Students transferred abstract area concepts to concrete app examples, cultivating mathematical thinking](abstract-area-to-concrete-app-examples.md) — related
+- [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](modellus-multiple-representations-interpretation.md) — a narrower finding that bears on this claim

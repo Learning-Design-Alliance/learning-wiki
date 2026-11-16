@@ -52,3 +52,4 @@ Online questionnaire (Sojump) of all 24 integrated-course participants; descript
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
 - [Most undergraduate dental students in the jigsaw group reported that the method enhanced their understanding, provided adequate discussion time, and allowed effective contribution](jigsaw-student-feedback-dental.md) — related
 - [Students in the cross-campus international histology project reported positive collaboration and transferable skills, with accommodating different time zones reported as the main difficulty.](cross-campus-project-skills-and-time-zone-difficulty.md) — related
+- [Students in RTP labs report a stronger perceived connection between lab experiment concepts and lecture theory than students in traditional labs](rtp-students-report-lab-lecture-connection.md) — related

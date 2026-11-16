@@ -103,6 +103,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 Just-In-Time Teaching's WarmUps are one concrete mechanism for surfacing misconceptions before they interfere with new instruction — see [Just-In-Time Teaching (JiTT)](../principles/responsive-teaching.md).
 - [Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges](../strategies/belief-level-interventions-ai-use-calibration.md)
 - [Design JiTT web exercises as small clusters of open-ended questions tied to learning outcomes and misconceptions](../strategies/jitt-open-ended-question-clusters-strategy.md)
+- [Emphasize concepts, hands-on experiments and emotion-raising stories in science teaching to ease conceptual change](../strategies/concept-oriented-teaching-hands-on-experiments-suspense-stories.md)
 
 ## Key Sources
 - Tanner, K., & Allen, D. (2005). Approaches to biology teaching and learning: Understanding the wrong answers — teaching toward conceptual change. *Cell Biology Education, 4*(2), 112-117.

@@ -46,3 +46,4 @@ Qualitative analysis of the 25 prospective teachers' curricular proposals, count
 
 ## Related Claims
 - [SRL interventions for pre-service teachers unevenly cover SRL areas: cognition (n = 62) and metacognition (n = 55) dominate, while emotion (8 interventions) and context regulation (n = 6) are rare](uneven-srl-area-coverage-pst-interventions.md) — related
+- [The percentage of students expressing alternative concepts about sound varies only slightly across educational levels, while the percentage free of them rises with level](sound-concept-prevalence-across-levels.md) — related

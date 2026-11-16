@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-11-16
 sources:
   - id: brian-c-thomas-2007
     resource: "https://doi.org/10.48550/arXiv.0710.2631"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Part 1 of the activity, about six students suggested the "natural" part of the standards' definition of science was too limiting or inappropriate, and one proposed removing the word entirely. [→ Brian C. Thomas 2007](#brian-c-thomas-2007)

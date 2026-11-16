@@ -59,3 +59,4 @@ The brief summarizes research in Chicago and nationally on predictors of college
 - [Dropping standardized test scores from admissions raises or lowers simulated degree completion depending on whether the test is valid](dropping-test-scores-changes-simulated-degree-completion.md) — related
 - [HSGA, APT and ACT scores were each significantly positively associated with cumulative GPA at graduation](admission-scores-positively-associated-gpa.md) — related
 - [High school grade average is the strongest multivariate predictor of cumulative GPA at graduation among allied health students at King Saud University](hsga-strongest-admission-predictor-allied-health-gpa.md) — a narrower finding that bears on this claim
+- [SAT distributions of graduates and non-graduates are identical, while low high school GPA predicts non-graduation](hsgpa-not-sat-predicts-graduation.md) — a narrower finding that bears on this claim

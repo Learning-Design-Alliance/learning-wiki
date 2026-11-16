@@ -81,6 +81,7 @@ Reflection is a skill that must be demonstrated before it can be internalized; o
 - [Check-Ins](../principles/check-ins.md) — brief structured moments where modeled reflection can be practiced at low stakes
 - [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 - [Include self and collaborative reflection in future PBL research and practice to evaluate students’ own learning and progress](pbl-self-collaborative-reflection-emphasis.md)
+- [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 
 ## Examples
 - A teacher educator reflects on a workshop session and shares journal excerpts with teacher candidates, annotating where she noticed a missed question or revised an assumption.

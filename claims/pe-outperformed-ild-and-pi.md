@@ -49,3 +49,4 @@ Comparison within the authors' multi-year experiment: PI was tested in one exper
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [The benefit of interactive methods appeared independently of students' incoming knowledge, including weak and strong pretest performers](interactive-gains-independent-of-pretest.md)
+- [Taking both ILD and RTP components did not improve the percentage of students successfully completing introductory physics with a C or better](ild-rtp-no-completion-rate-advantage.md) — related

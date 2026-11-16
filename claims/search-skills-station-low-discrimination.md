@@ -49,3 +49,4 @@ Item analysis of Station 2 (Search Skills) research questions from the station-l
 - [The Statistics station was the most difficult and most discriminating station, with a difficulty index of 50% and a discrimination index of 100%](statistics-station-highest-difficulty-discrimination.md) — related
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
 - [Thirteen questions discriminate passing from non-passing students, and moderate-complexity items discriminate better than difficult ones](moderate-complexity-questions-discriminate-best.md) — related
+- [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related

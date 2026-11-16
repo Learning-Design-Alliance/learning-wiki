@@ -47,3 +47,4 @@ Analysis of GEPC verification records for the course "Nursing Care in Welfare Pr
 
 ## Related Claims
 - [Verification of failing learning activities differed significantly depending on the hospital and clinical practices unit where students trained](activity-verification-varies-by-hospital-unit.md) — related
+- [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](ccd-modeling-activity-goals-met.md) — related

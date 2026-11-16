@@ -49,3 +49,4 @@ Qualitative analysis of the episode. S2 cites the incompletely recalled theorem 
 - [Disagreement over an answer can be, at bottom, an implicit argument over which type of mathematical justification counts](framing-negotiation-under-surface-disagreement.md) — a broader claim this one bears on
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — related
 - [A call to compute and compare numerical results reframed the discussion as Calculation, which the partner immediately accepted](calculation-reframe-successful-negotiation.md) — related
+- [A journeyman student can nest Calculation, Physical Mapping, and Invoking Authority framings within an overarching framing that values coherence among lines of reasoning](overarching-coherency-valuing-framing.md) — related

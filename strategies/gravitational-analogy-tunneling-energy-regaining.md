@@ -43,7 +43,8 @@ When transformed-course students understood that the electron loses kinetic ener
 - [A transformed curriculum reduces the prevalence of previously documented tunneling difficulties relative to comparable traditional courses](../claims/transformed-curriculum-reduces-tunneling-difficulties.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Anticipate and explicitly address the force-versus-acceleration confusion and the meaning of relative gravitational acceleration](surface-gravity-misconception-addressing-strategy.md)
 
 ## Examples
 -

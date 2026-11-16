@@ -113,6 +113,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Use simulated patients actively in debriefing and assessment, and role play for empathetic perspective-taking](simulated-patient-debriefing-role-play-empathy-strategy.md)
 - [Use interactive training formats — role plays, skill rehearsal, video examples and practical worksheets — when teaching brief psychological strategies to health professionals](interactive-roleplay-rehearsal-training-strategy.md)
 - [Role play-based assessment of therapist competence with simulated patients](role-play-based-competence-assessment.md)
+- [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

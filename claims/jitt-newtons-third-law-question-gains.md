@@ -50,3 +50,4 @@ Sub-analysis of the same 222-student, five-semester FCI pretest/post-test compar
 - [Actively engaging learning environments show higher learning gains than one-way lecture environments, according to a National Academies consensus study cited in one article](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
+- [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related

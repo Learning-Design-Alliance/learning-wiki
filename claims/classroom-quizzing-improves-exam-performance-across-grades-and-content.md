@@ -165,3 +165,5 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Benefits of testing extend to classroom settings, including daily exams, online quizzes, and end-of-lecture recall (review-reported)](testing-benefits-extend-to-classroom.md) — a narrower finding that bears on this claim
 - [Clicker participation correlates positively with final course grade, with A students participating at about twice the rate of D/F students](clicker-participation-correlates-with-grade.md) — related
 - [In paired individual-then-group quizzes, group quiz grades exceeded the individual grades of term high achievers, and matched the daily top performer's grades](group-quiz-grades-exceed-high-achievers.md) — a narrower finding that bears on this claim
+- [The Buddy Quiz was deployed twice weekly-scale in two Physics First sections without curving grades](buddy-quiz-deployment-two-physics-first-sections.md) — related
+- [Introducing clickers raised attendance from 40% to 85% and evaluations by 30% but produced no significant difference in exam and quiz scores](clickers-raise-attendance-not-scores-astronomy.md) — reports the opposite

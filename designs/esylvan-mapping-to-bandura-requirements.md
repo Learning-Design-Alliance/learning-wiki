@@ -39,6 +39,10 @@ The paper enumerates how eSylvan instantiated each of Bandura's four requirement
 ### Claims
 - 
 
+## Related Designs
+
+- [Mapped set of Blackboard tools (Syllabus, Content, Calendar, Self Test, Quiz, Drop Box) each tied to specific student learning activities](blackboard-tool-activity-mapping.md)
+
 ## Related Patterns
 - 
 

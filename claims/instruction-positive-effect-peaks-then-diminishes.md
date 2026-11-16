@@ -55,3 +55,5 @@ Between-student response curve for Mechanics (Fig. 3), averaged across fall and 
 - [The student-professional grading gap increases later in the term, tracking rising question difficulty](grading-gap-increases-late-in-term.md) — related
 - [Conflicting lines of reasoning among group members precipitate entry into the discussion frame](conflicting-reasoning-precipitates-discussion-frame.md) — related
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
+- [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related
+- [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related

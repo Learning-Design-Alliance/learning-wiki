@@ -42,6 +42,7 @@ The article's first recommendation urges instructors to use a backwards design a
 
 - [Set Clear Objectives](set_clear_objectives.md)
 - [Lesson Plans](lesson_plans.md)
+- [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
 
 ## Examples
 -

@@ -54,3 +54,5 @@ Regression analysis using number of reading guides fully completed before class 
 - [ASPECT discriminates between activity types and student ethnicities on value and instructor contribution, but not on personal effort](aspect-discriminates-value-instructor-not-effort.md) — related
 - [Demographic factors show statistically significant but very small associations with self-reported preparedness](demographic-effects-on-preparedness-very-small.md) — related
 - [Prior knowledge and individual effort, not classroom type, predict postcourse content knowledge](prior-knowledge-effort-predict-post-knowledge.md) — related
+- [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
+- [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related

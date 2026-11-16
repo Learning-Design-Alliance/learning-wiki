@@ -48,3 +48,4 @@ General evaluation of the Moodle course by e-learning group participants on a si
 ## Related Claims
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
 - [Students rated the simulation, ward work, examination and overall course very positively](high-student-ratings-pain-course.md) — related
+- [Six post-16 work experience students rated their placement positively on a Likert scale, judging it an ideal introduction to the university learning environment](work-experience-student-likert-evaluation.md) — related

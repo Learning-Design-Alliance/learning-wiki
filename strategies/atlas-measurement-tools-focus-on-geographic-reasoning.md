@@ -41,6 +41,8 @@ The article recommends using the atlas's built-in measurement functions (distanc
 ## Related Strategies
 
 - [Teachers can generate customized electronic contour maps by deleting selected layers and objects](custom-electronic-contour-maps.md)
+- [Have students measure wavelength with the Google Earth distance tool and calculate wave speed from the gravity-wave formulas](google-earth-distance-measurement-wave-speed-strategy.md)
+- [Students search out their own wave-phenomenon examples on Google Earth and compare them with textbook images](student-google-earth-wave-search-strategy.md)
 
 ## Examples
 -

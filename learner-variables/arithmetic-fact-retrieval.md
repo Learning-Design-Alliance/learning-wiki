@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (36 show a difference, 9 mixed, 11 no difference) · 22 studies (12 causal, 10 associational), `q2`–`q3` · 9 of 22 report an effect size · 54 claims rest on one study
+> **Evidence** · 57 claims (37 show a difference, 9 mixed, 11 no difference) · 23 studies (12 causal, 11 associational), `q2`–`q3` · 9 of 23 report an effect size · 55 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -93,6 +93,7 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Post-test achievement of the MFTM group significantly exceeds that of the CTM group](../claims/mftm-posttest-significantly-higher-than-ctm.md) [+M] — instruction changes it
 - [Basic arithmetic skills remain significantly associated with mathematics achievement in secondary school, explaining 56% of variance](../claims/arithmetic-skills-56-percent-variance-secondary.md) [+M] — learners who differ on it differ in outcomes
 - [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+M] — learners who differ on it differ in outcomes
+- [Students who passed the final computational evaluation held more favorable COMPASS scores than students who failed it](../claims/passed-computational-evaluation-more-favorable-compass.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

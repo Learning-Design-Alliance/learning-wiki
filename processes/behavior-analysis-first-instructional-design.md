@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 34 claims (20 for, 13 mixed, 1 against) · 34 studies (21 causal, 8 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 34 report an effect size · 34 claims rest on one study
+> **Evidence** · 34 claims (20 for, 13 mixed, 1 against) · 35 studies (21 causal, 9 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 35 report an effect size · 33 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.

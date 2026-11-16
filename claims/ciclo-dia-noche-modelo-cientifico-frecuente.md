@@ -50,3 +50,4 @@ Análisis de respuestas de la prueba piloto a la pregunta 4 del cuestionario. El
 - [Causalidad inversa y teoría del alejamiento en las explicaciones de las estaciones del año](estaciones-causalidad-inversa-teoria-alejamiento.md) — related
 - [En la prueba piloto, ninguna encuestada se animó a explicar los temas lunares y muchas sorprendidas de que la Luna muestre siempre la misma cara](piloto-16-alumnas-preguntas-luna-sin-respuesta.md) — related
 - [Respuestas muy variadas sobre definiciones astronómicas corrientes y terminología cotidiana](terminologia-cotidiana-respuestas-variadas.md) — related
+- [Una mayoría de los futuros docentes (63%) explica correctamente el ciclo día-noche mediante la rotación de la Tierra](ciclo-dia-noche-63-cientifico.md) — possibly the same claim (merge candidate)

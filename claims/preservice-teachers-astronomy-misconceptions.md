@@ -1,0 +1,54 @@
+---
+type: claim
+title: Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions
+description: Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions
+id: preservice-teachers-astronomy-misconceptions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-16
+evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
+sources:
+  - id: alejandro-gangui-2010
+    resource: "https://doi.org/10.48550/arXiv.1006.0179"
+    title: "Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.48550/arXiv.1006.0179](https://doi.org/10.48550/arXiv.1006.0179)"
+    author: "Alejandro Gangui, María Iglesias & Cynthia Quinteros"
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+
+## Subclaims
+`q2 i?` A questionnaire administered to preservice elementary teachers in Buenos Aires shows that some non-scientific conceptions are part of their scientific background. [→ Alejandro Gangui 2010](#alejandro-gangui-2010)
+
+## Evidence
+
+### Alejandro Gangui 2010
+
+Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.48550/arXiv.1006.0179](https://doi.org/10.48550/arXiv.1006.0179)
+
+`q2 · i?` · `associational · r1`
+
+First analysis of a twelve-question astronomy questionnaire given to preservice elementary teachers from various normal schools in Buenos Aires (n=51 with the final version; higher n for unmodified questions). The study reports that "some non-scientiﬁc conceptions are indeed part of the prospecti ve teachers’ (scientiﬁc) background". Percent tables are presented but the authors state they do not have statistical value.
+
+> "The collection of data recovered so far shows that some non-scientiﬁc conceptions are indeed part of the prospecti ve teachers’ (scientiﬁc) background"
+
+## Discussion
+
+
+## Related Claims
+- [Preservice teachers largely lack correct explanations for astronomical elements of everyday language, such as shooting stars and the lucero (Venus)](daily-language-astronomy-questions-results.md) — a narrower finding that bears on this claim
+- [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — a narrower finding that bears on this claim
+- [Argentine primary and secondary minimum-content curricula include the astronomy topics most associated with alternative conceptions](argentine-curricula-include-conflictive-astronomy-topics.md) — related
+- [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related
+- [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — a narrower finding that bears on this claim
+- [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related

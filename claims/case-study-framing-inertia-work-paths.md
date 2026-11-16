@@ -49,3 +49,5 @@ Case study 1, from videotaped group homework in Intermediate Theoretical Methods
 - [Disagreement over an answer can be, at bottom, an implicit argument over which type of mathematical justification counts](framing-negotiation-under-surface-disagreement.md) — a broader claim this one bears on
 - [Citing a recalled theorem as justification signals an Invoking Authority framing of mathematics use](invoking-authority-framing-warrant.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — a broader claim this one bears on
+- [Michael's epistemological stance leads him to seek physically and mathematically convincing explanations while many classmates seek the \"right answer\"](sense-maker-different-warrants-peers.md) — related
+- [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related

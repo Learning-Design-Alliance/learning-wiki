@@ -74,3 +74,8 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Peer instruction improves student scores and comprehension compared with traditional lecture and with self-explanation](peer-instruction-improves-scores-comprehension.md) — related
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite
+- [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
+- [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
+- [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — a broader claim this one bears on
+- [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
+- [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related

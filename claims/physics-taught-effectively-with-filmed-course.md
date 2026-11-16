@@ -47,3 +47,4 @@ This is the stated conclusion of the Utah study, which used ten experimental and
 ## Related Claims
 - [Medium-ability students showed some tendency to do better in the film-based physics course](medium-ability-students-tendency-better-film-course.md) — a narrower finding that bears on this claim
 - [In the Utah Physics Film Project, filmed and regular physics instruction showed no differences in large and small schools, but medium-sized schools favored regular instruction](physics-films-no-difference-medium-schools-favor-regular.md) — related
+- [Even motivated and talented high-school students showed serious gaps in fundamental topics, especially in collecting and correctly using experimental data](talented-students-data-collection-learning-problems-waves.md) — related

@@ -48,3 +48,4 @@ Kiyani Amber, Hanif Fariha, Muhammad Muhammad, Iqbal Sana, Zaib Nadia, Bashir Ul
 ## Related Claims
 - [Instructor-developed items showed higher discrimination than ChatGPT items in 3PL IRT analysis](instructor-items-higher-discrimination-3pl.md) — related
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
+- [Estimated guessing chances vary widely across FCI items, with question 16 above 30% and questions 23 and 26 at no more than 5% for low-proficiency students](fci-guessing-parameter-variation-across-items.md) — related

@@ -52,3 +52,4 @@ Logistic regression in the total sample of 334 with GPA as covariate: Table 5 pr
 - [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — related
 - [Both admission tests show substantial incremental validity over high-school GPA for predicting preclinical performance, whereas GPA adds little beyond admission test scores](admission-tests-incremental-validity-over-gpa.md) — related
 - [Reciprocal suppression between HAM-Nat and pre-university educational attainment raises both beta weights in predicting study outcome](reciprocal-suppression-ham-nat-pea.md) — related
+- [A roughly equally weighted combination of SAT and high school GPA (in SD units) best predicts upper division GPA](equal-weight-sat-hsgpa-best-predictor.md) — related

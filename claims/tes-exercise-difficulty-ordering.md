@@ -66,3 +66,4 @@ Within-exercise comparison across the 5 cm and 7.5 cm tubular systems in the sam
 ## Related Claims
 - [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related
 - [Performance time improves significantly from round to round for all participants in all synthetic exercises of the transanal endoscopic surgery training program](tes-training-round-to-round-time-improvement.md) — related
+- [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related

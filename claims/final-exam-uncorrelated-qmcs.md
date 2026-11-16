@@ -47,3 +47,4 @@ Correlational analysis shown in Fig. 2 across the three years, indicating the QM
 ## Related Claims
 - [Graduate quantum mechanics instruction does not improve students' undergraduate-level conceptual understanding as measured by the QMCS](qmcs-no-gain-graduate-course.md) — related
 - [GQMCS conceptual scores correlate strongly with final exam scores (Pearson correlation coefficient of 0.74) even though the final was 75% calculations](gqmcs-final-exam-correlation-0-74.md) — reports the opposite
+- [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — related

@@ -39,7 +39,8 @@ The concluding section proposes assignable investigations that deepen understand
 - introduction to horizons and field localization
 
 ## Related Strategies
-- 
+
+- [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
 
 ## Examples
 -

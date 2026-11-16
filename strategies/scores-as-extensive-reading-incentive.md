@@ -46,6 +46,7 @@ From her observation of the trial, the author concluded that allocating some sco
 ## Related Strategies
 
 - [Use storytelling and story-acting tasks for sharing reading experiences](storytelling-acting-sharing-tasks.md)
+- [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 
 ## Examples
 -

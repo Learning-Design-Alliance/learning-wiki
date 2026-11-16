@@ -40,6 +40,7 @@ To ensure rural districts are well represented on statewide review panels, NDE c
 
 - [Use a universal rubric with dual criteria — standards alignment and access/equity — for cross-content-area review of instructional materials](universal-rubric-dual-criteria-review-strategy.md)
 - [Facilitate a multi-session collaborative workgroup to co-develop state guidance](collaborative-workgroup-co-development.md)
+- [Develop education programs through needs assessment with educators, master-teacher co-development, and participant feedback](needs-assessment-master-teacher-program-development.md)
 
 ## Examples
 -

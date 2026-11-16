@@ -70,6 +70,7 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 - [Provide student-adaptive self-explanation prompts that target only example parts the student may not fully understand, rather than prompting at every step](adaptive-selective-self-explanation-prompting.md)
 - [Use PCA facilitation messages that prompt reflection on task goals, metacognition, and motivation during collaborative explanation tasks](pca-facilitation-prompt-types.md)
 - [Use self-explanation prompts after example study to boost transfer when instructional time or learner effort is limited](self-explanation-prompts-after-example-study-strategy.md)
+- [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — small-group reading sessions in which students rotate through structured roles (questioning, clarifying, summarizing, predicting), each functioning as a scripted metacognitive prompt that is gradually faded.

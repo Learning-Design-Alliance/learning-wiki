@@ -44,7 +44,9 @@ The article organizes student work as a sequence of three experiments on the sam
 
 
 ## Related Strategies
-- 
+
+- [Sequenced extracurricular laboratory path: Shive machine, sound with oscilloscope, acoustic interference, then resonance](sequenced-waves-laboratory-path-strategy.md)
+- [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](ga-experiment-sequence-master-equation-mind-map.md)
 
 ## Examples
 -

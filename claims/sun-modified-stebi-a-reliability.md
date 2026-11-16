@@ -49,3 +49,4 @@ Psychometric evaluation of the modified instrument using 42 pretests and 24 post
 - [Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency](qcge-sas-social-subscale-unacceptable-reliability.md) — related
 - [SUN workshop participation significantly increases high school biology teachers' knowledge of biological energy transfer, with gains maintained 1 yr later versus randomized controls](sun-workshop-teacher-knowledge-gains-sustained.md) — related
 - [SUN workshop participation significantly increases teachers' self-efficacy for teaching biological energy transfer, sustained 1 yr later](sun-workshop-teacher-self-efficacy-gains-sustained.md) — related
+- [Learning Assistants showed positive change on 4 of 23 STEBI items over the semester](la-stebi-positive-change.md) — related

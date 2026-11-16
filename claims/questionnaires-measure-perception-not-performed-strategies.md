@@ -72,3 +72,5 @@ The editorial's methodological-considerations section states this validity chall
 - [Behavioral marker systems offer greater objectivity than self-report but are more resource intensive](behavioral-marker-systems-objective-but-costly.md) — possibly the same claim (merge candidate)
 - [Self-reported hygiene attitudes and behaviors often diverge from actually observed hygiene behavior](self-reported-versus-observed-hygiene-divergence.md) — a narrower finding that bears on this claim
 - [Self-perceived competence is a limited proxy for actual competence because perceived competencies do not always match objectively measured competencies](self-perceived-competence-limited-proxy-objective-competence.md) — related
+- [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — related
+- [Students overwhelmingly expect the stopwatch method to be more accurate, but the low-tech height method is actually the best of the three techniques](students-misjudge-height-method-accuracy.md) — a narrower finding that bears on this claim

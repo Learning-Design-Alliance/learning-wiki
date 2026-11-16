@@ -41,7 +41,8 @@ Because intervention benefits were larger in classes where more peers used the E
 - [Class climate—peer uptake and instructor credit incentives—relates to larger Exam Playbook effect sizes](../claims/exam-playbook-class-climate-moderators.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 
 ## Examples
 -

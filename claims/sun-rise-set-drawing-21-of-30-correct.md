@@ -51,3 +51,4 @@ Post-test drawing question in the single-group study of 30 deaf students; Table 
 ## Related Claims
 - [Deaf students held alternative conceptions about seasons, attributing them to the Moon's shadow and clouds](deaf-students-alternative-seasons-conceptions.md) — related
 - [Drawing the Solar System without visual support revealed that experimental-group students formed accurate representations of planet order, size, and characteristics](drawing-assessment-solar-system-representations.md) — related
+- [Pupils commonly generalise the Sun's rising and setting positions to East and West, and alignment activities at Arbor Low were designed to target this misconception](sun-rising-setting-position-misconception-targeted.md) — related

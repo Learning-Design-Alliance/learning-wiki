@@ -48,3 +48,4 @@ The article's framing argument: healthcare is a complex adaptive system whose be
 - [Evidence on AI-driven simulation in dental education shows moderate-to-high heterogeneity and limited certainty](ads-evidence-heterogeneity-limited-certainty.md) — related
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
+- [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — related

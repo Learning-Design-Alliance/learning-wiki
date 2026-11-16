@@ -49,3 +49,4 @@ Secondary analysis of the honor class's responses to the thirty-question written
 - [Upper-level physics majors did not outperform non-honors introductory students on rotational-inertia question 3](physics-majors-no-better-than-intro-on-question-3.md) — related
 - [Students often fail to use the concept of rotational inertia correctly, which the article attributes to limited exposure to computing moments of inertia](limited-rotational-inertia-computation-hurts-reasoning.md) — related
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — a broader claim this one bears on
+- [Calculus-based students at RIT and UMaine answered far more often correctly than algebra-based students, with no significant representational differences in response patterns](calculus-based-higher-vector-addition-accuracy-uniform-methods.md) — related

@@ -49,3 +49,7 @@ Comparison of QMCS post-test scores across student backgrounds: 86% ± 5% for M.
 - [Graduate quantum mechanics instruction does not improve students' undergraduate-level conceptual understanding as measured by the QMCS](qmcs-no-gain-graduate-course.md) — related
 - [Students scored higher on the GQMCS in reformed course years, with year 3 (most comprehensive textbook) highest](gqmcs-scores-improved-reformed-years.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [QMCS posttest scores rise with course level, with significant gains in modern physics and zero gains in graduate courses](qmcs-posttest-scores-increase-with-level.md) — a broader claim this one bears on
+- [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
+- [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
+- [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — related

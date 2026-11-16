@@ -71,3 +71,4 @@ Authors' interpretation in the discussion of the biology-domain activation patte
 - [Scientists with a Ph.D. in physics respond more slowly to incongruent statements than to matched congruent statements, with a response-time increase in physics twice as large as in biology](phd-physicists-slower-incongruent-statements.md) — related
 - [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related
 - [Expertise-related activation differences appear in secondary frontal regions only for specific decision conditions](superior-frontal-activation-expertise-incorrect-decisions.md) — related
+- [Novice students today hold naive beliefs about movement similar to those of pre-modern scientists, including Aristotelian impetus-like intuitions](novice-students-hold-historic-naive-movement-beliefs.md) — related

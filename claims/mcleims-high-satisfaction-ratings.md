@@ -74,3 +74,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Participants rated the one-day workshop highly, with overall satisfaction averaging 4.78 out of 5](pa-workshop-satisfaction-478-of-5.md) — related
 - [Attendees rate the streamlined train-the-trainer workshop highly satisfactory](ft-workshop-satisfaction-ratings.md) — related
 - [All three OCTQ global ratings showed mean scores greater than 4, raising ceiling-effect concerns](octq-global-ratings-ceiling-effect.md) — related
+- [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related

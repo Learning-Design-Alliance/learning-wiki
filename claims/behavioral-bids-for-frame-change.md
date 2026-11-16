@@ -54,3 +54,5 @@ Qualitative analysis of Kendra's anomalous statements in group A's episodes. The
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [Chaining instances cluster near transitions between worksheet and discussion frames](chaining-near-frame-transitions.md) — related
 - [Gestures can reveal the content and source of student physics ideas, including ideas generated before they are articulated verbally](gestures-reveal-content-and-source-of-student-ideas.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related
+- [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related

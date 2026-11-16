@@ -50,3 +50,4 @@ Analysis of an experience assessing Experimental Physics laboratory reports with
 - Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - [The review reports, citing Polverini and Gregorcic, that ChatGPT-4-Turbo solves physics tasks with line graphs with a similar overall score as high school students](chatgpt-4-turbo-line-graph-physics-score-similar-high-school-students.md) — related
+- [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — related

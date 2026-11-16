@@ -49,6 +49,7 @@ To address mannequin limitations, the authors recommend using real actors who ca
 
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Use realistic simulation scenarios of STEMI assistance, adjusted to the local health system, in undergraduate medical teaching](realistic-stemi-simulation-teaching-strategy.md)
+- [Use role play in science teaching to develop empathy and problem-solving while conveying global citizenship](role-play-astronomy-global-citizenship-strategy.md)
 
 ## Examples
 -

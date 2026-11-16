@@ -69,3 +69,4 @@ The review reports a common practice of comparing operationalizations: studies "
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](mixed-evidence-network-density-course-outcomes.md) — a narrower finding that bears on this claim
 - [SNA, particularly when combined with content analysis, can provide a detailed understanding of interactions between network members, supporting optimisation of course design, learner-group composition and dropout identification](sna-combined-content-analysis-understanding-interactions.md) — related
 - Indices of centrality and density were the SNA measures most often used in e-learning research — related
+- [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related

@@ -54,6 +54,7 @@ The article recommends that teachers and lecturers use immersive multimedia lear
 ## Related Strategies
 
 - [Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies](promote-peer-interaction-scaffold-l2-nom.md)
+- [Supplement tutoring with vetted online video lectures and modeled solutions to close analogues](vetted-online-videos-and-analogue-solutions.md)
 
 ## Examples
 -

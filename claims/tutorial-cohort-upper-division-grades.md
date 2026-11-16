@@ -48,3 +48,4 @@ Course-grade comparison across seven semesters of traditionally curved upper-div
 - [Upper-division students who had freshman Tutorials score about 15 points higher on the BEMA than comparable upper-division students without Tutorials](freshman-tutorials-persist-upper-division-bema.md) — related
 - [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
 - [The Tutorial-versus-non-Tutorial BEMA difference persists across all six topical question clusters, with no significant within-cluster change from freshman to upper-division](bema-subtopic-clusters-persist.md) — related
+- [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related

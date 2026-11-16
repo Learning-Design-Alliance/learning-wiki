@@ -87,3 +87,5 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [Girls directed more visual attention to instructional content (virtual teacher and screen) while boys distributed attention more broadly including to virtual peer learners.](gender-differences-visual-attention-vr-classroom.md) — related
 - [Assignment-completion timing showed mixed gender results across performance groups, with girls overall completing more assignments on time at only marginal significance](mixed-gender-results-assignment-completion-timing.md) — related
+- [Boys respond significantly faster than girls on the unspeeded low-stakes test, but the difference does not affect achievement](boys-faster-than-girls-unspeeded-test.md) — possibly the same claim (merge candidate)
+- [Girls show a much greater warm-up effect than boys: the gender response-time difference is concentrated at the beginning of the test and decreases with item position](girls-greater-warm-up-effect.md) — related

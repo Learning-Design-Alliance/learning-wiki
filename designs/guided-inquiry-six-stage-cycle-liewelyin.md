@@ -43,7 +43,8 @@ The article implements guided inquiry as a six-stage inquiry cycle from Liewelyi
 - [Guided Inquiry Advantage Reflective Only](../claims/guided-inquiry-advantage-reflective-only.md) [~M]
 
 ## Related Designs
-- 
+
+- [Inquiry as teaching science as science is done, with facilitator-guided student investigation](inquiry-as-science-is-done-with-facilitation.md)
 
 ## Examples
 -

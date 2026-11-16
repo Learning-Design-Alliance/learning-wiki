@@ -51,3 +51,6 @@ Authors' interpretation of episode data: a group in the worksheet frame shifted 
 - [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
 - [Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect](winnowing-effect-raises-em-entry-response.md) — related
 - [Changes in gesture size, precision, and viewpoint indicate the decreasing novelty of student ideas across a series of statements](gesture-form-indicates-idea-novelty.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related
+- [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — related
+- [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related

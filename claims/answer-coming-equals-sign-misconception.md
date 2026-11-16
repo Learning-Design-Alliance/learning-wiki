@@ -59,3 +59,4 @@ The brief describes this documented misconception, citing Carpenter et al. (2003
 - [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related
 - [Students' knowledge of equals sign definitions relates to their equation-solving performance at the student level](definition-relates-equation-solving.md) — related
 - [Function-based algebra affords a consistent interpretation of both equivalence and equals of functions](function-based-consistent-equivalence-equals-interpretation.md) — related
+- [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related

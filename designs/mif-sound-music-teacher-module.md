@@ -48,4 +48,4 @@ The MIF is a 10-lecture modular teacher-education course structured in six steps
 -
 
 ## Key Sources
-- Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://www.mptl.eu/
+- Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://www.mptl.eu/. [doi:10.48550/arxiv.0808.3695](https://doi.org/10.48550/arxiv.0808.3695)

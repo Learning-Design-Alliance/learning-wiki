@@ -42,6 +42,7 @@ The article recommends a dynamic teaching approach in which medical students pra
 ## Related Strategies
 
 - [Acting/Role Play](acting-role-play.md)
+- [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 
 ## Examples
 -

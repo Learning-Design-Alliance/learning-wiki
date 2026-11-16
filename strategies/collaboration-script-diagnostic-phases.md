@@ -45,6 +45,7 @@ In the conditions with a collaboration script, the script structured interaction
 
 - [Focus collaborative diagnosis on initially unshared information through a cycle of eliciting and sharing](focus-on-unshared-information-cycle-eliciting-sharing.md)
 - [Target the development of collaborative diagnostic activities with adaptive collaboration scripts and group awareness tools](develop-cdas-adaptive-scripts-awareness-tools.md)
+- [Structure poster presentations around the claim-evidence-reasoning formulation to build communication skills](claim-evidence-reasoning-poster-presentations.md)
 
 ## Examples
 -

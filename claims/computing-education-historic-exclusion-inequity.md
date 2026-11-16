@@ -62,3 +62,4 @@ Theoretical argument in the guide's introduction, citing prior scholarship (Marg
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — a narrower finding that bears on this claim
 - [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related
 - [Teachers acted on social inequities by flexibly distributing resources, promoting marginalized groups, and critically reflecting on power and their own positionality](acting-on-social-inequities-hpe.md) — related
+- [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related

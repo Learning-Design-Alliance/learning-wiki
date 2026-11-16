@@ -51,3 +51,4 @@ Computer simulation (Experiment 3) using the Lee & Sarnecka generative model to 
 - Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates — related
 - The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power — related
 - Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects — related
+- [Incomplete longitudinal test score data are extremely common and unbalanced across teachers, with only about 21 percent of students fully observed](incomplete-test-scores-common-and-unbalanced.md) — related

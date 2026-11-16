@@ -48,3 +48,4 @@ Comparison between the two questions (S4 Table, Fig 2) showed more scientific co
 - [Scientific and alternative conceptions of tree assimilation and wood synthesis coexist in students across all educational levels](coexistence-scientific-alternative-conceptions-tree-assimilation.md) — related
 - [Educational background is the major determinant of expression of scientific conceptions, with freshmen expressing more scientific conceptions than school students](educational-background-determinant-scientific-conceptions.md) — related
 - [Age negatively predicts expression of alternative conceptions and older students show less fragmented knowledge, but sex has almost no influence](age-fosters-knowledge-integration-sex-no-influence.md) — related
+- [The percentage of students expressing alternative concepts about sound varies only slightly across educational levels, while the percentage free of them rises with level](sound-concept-prevalence-across-levels.md) — related

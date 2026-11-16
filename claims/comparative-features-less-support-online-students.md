@@ -49,3 +49,4 @@ Focus group frequency analysis of 20 students showed no agreement on which data 
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — a broader claim this one bears on
 - [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](dashboard-benefits-achiever-satisfaction-mixed.md) — related
+- [Rapid attendance data allowed early contact of absent students, described as vital for improving retention and progression](early-contact-of-absent-students-vital-for-retention.md) — related

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (147 show a difference, 20 mixed, 24 no difference) · 155 studies (88 causal, 18 review, 14 associational, 12 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 35 of 155 report an effect size · 187 claims rest on one study
+> **Evidence** · 196 claims (150 show a difference, 20 mixed, 26 no difference) · 160 studies (89 causal, 18 review, 14 associational, 12 quant-synthesis, 11 qualitative, 10 design, 5 theoretical), `q1`–`q4` · 35 of 160 report an effect size · 190 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -229,6 +229,11 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Most staff and students doubt that every student is creative but agree creativity methods do not hinder problem solving](../claims/low-belief-every-student-creative.md) [-W] — measured as an outcome of the instruction studied
 - [PBL shows significant pooled advantages over LBL on learning attitude, problem-solving skill, self-directed learning skill and collaborative skill](../claims/pbl-attitude-skills-outcomes-china.md) [+M] — measured as an outcome of the instruction studied
 - [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](../claims/problem-based-presentation-axes-promote-interaction.md) [+W] — measured as an outcome of the instruction studied
+- [After computational homework, many introductory mechanics students could model a new physical situation they had no prior experience with](../claims/computational-homework-novel-situation-modeling.md) [+M] — measured as an outcome of the instruction studied
+- [In a large introductory mechanics course, the majority of students (60.4%) successfully completed a proctored computational modeling evaluation on a novel central force problem after a semester of computational homework.](../claims/computational-evaluation-majority-success-intro-mechanics.md) [+M] — measured as an outcome of the instruction studied
+- [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](../claims/per-active-strategies-strengthen-problem-solving.md) [+W] — measured as an outcome of the instruction studied
+- [Prescribed problem-solving prompts are not, in general, effective at promoting sensemaking during group problem solving](../claims/prescribed-prompts-not-sufficient-for-sensemaking.md) [-M] — measured as an outcome of the instruction studied
+- [Students solved analytic and computational homework problems with similar success rates (84.6% vs 85.8%)](../claims/analytic-vs-computational-homework-equal-success.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

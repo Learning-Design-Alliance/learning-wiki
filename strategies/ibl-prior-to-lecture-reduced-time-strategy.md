@@ -51,6 +51,7 @@ The authors recommend deploying well-designed Internet-based material before or 
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

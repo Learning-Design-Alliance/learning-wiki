@@ -49,3 +49,4 @@ Descriptive results from the same single-center survey (Table 1, n = 100 + 20 as
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md) — related
 - [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](tam-construct-means-asr-writing-study.md) — related
+- [CITADEL was designed with flexibility, portability, usability, security, reusability and expansion in mind and is not platform dependent](citadel-platform-independent-design-goals.md) — related

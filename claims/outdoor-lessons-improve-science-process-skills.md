@@ -48,3 +48,4 @@ Quasi-experimental pre-test-post-test control group study with 119 Year Five stu
 - [Outdoor school ground lessons produce significantly higher post-test scientific curiosity than conventional teaching, while the control group's curiosity declined](outdoor-lessons-improve-scientific-curiosity.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Within the eco-hunt group, all six science process skill dimensions improved significantly, with classifying improving most (39.3%) and predicting least (9.2%)](sps-dimension-gains-classifying-most-predicting-least.md) — a narrower finding that bears on this claim
+- [Outdoor learning furthers deeper learning and demonstrates the practicality of taught skills, per the Rickinson et al. review](outdoor-classroom-deeper-learning.md) — a broader claim this one bears on

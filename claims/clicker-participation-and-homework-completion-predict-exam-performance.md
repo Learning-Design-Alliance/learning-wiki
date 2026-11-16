@@ -59,3 +59,4 @@ Observational analysis of 346 consenting students in two sections of an introduc
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [Class work completion rates were slightly lower for the clicker group when learning new content](clickers-lower-classwork-completion-new-content.md) — related
 - [Among group-work subtypes, only the presence of worksheets showed a clear effect on learning gains; clicker questions showed a very weak effect](worksheets-clear-effect-clickers-weak.md) — related
+- [Introducing clickers raised attendance from 40% to 85% and evaluations by 30% but produced no significant difference in exam and quiz scores](clickers-raise-attendance-not-scores-astronomy.md) — related

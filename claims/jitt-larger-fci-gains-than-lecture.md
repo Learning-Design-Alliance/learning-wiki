@@ -62,3 +62,9 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related
 - [Intervention students improved significantly on five of ten pre/post concept-assessment items, with an overall normalized change of 0.139, but showed a significant decrease in placing an extinct common ancestor](pre-post-concept-assessment-gains.md) — related
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
+- [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
+- [LBD middle school physics students show large Newtonian concept gains while a matched comparison class shows gains consistent with zero](lbd-large-newtonian-gains-vs-comparison.md) — related
+- [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — related
+- [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
+- [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
+- [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related

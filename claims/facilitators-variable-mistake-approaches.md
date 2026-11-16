@@ -49,3 +49,4 @@ Interview finding: one facilitator (Nancy) stated "they see all the mistakes the
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

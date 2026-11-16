@@ -54,4 +54,4 @@ The article enumerates potential motivations for using online video in physics l
 -
 
 ## Key Sources
-- Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441
+- Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441. [doi:10.48550/arxiv.0808.3441](https://doi.org/10.48550/arxiv.0808.3441)

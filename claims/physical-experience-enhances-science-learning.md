@@ -122,3 +122,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
 - [Combining real and virtual laboratories outperforms either single modality in physics learning outcomes](combined-real-virtual-labs-outperform-single-modes.md) — related
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
+- [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — a narrower finding that bears on this claim

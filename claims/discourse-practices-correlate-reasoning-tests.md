@@ -54,3 +54,4 @@ The primer's What Does the Research Say section reports, citing Tao & Chen (2024
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related
+- [Explicit instruction in scientific reasoning appears to produce larger reasoning gains, though observations are preliminary](explicit-reasoning-instruction-larger-gains-preliminary.md) — related

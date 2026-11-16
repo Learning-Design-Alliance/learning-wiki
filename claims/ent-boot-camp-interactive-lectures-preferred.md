@@ -49,3 +49,4 @@ Self-reported component preference from the post-boot-camp questionnaire of the 
 - [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related
 - [Simulation-based boot camps help maintain emergency ENT training within COVID-19 public health constraints of social distancing](ent-boot-camp-covid-training-continuity.md) — related
 - [Despite prior surgical experience, most trainees had few clinical encounters with the three covered ENT emergency scenarios before the boot camp](ent-boot-camp-novice-scenario-exposure.md) — related
+- [Students were split into two roughly equal camps in their preference between experiments and simulations, and many recommended using both methods in class](student-preference-split-between-experiments-and-simulations.md) — related

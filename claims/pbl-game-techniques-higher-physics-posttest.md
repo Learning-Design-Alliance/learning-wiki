@@ -81,3 +81,5 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Project-based ESP instruction improves tertiary ESP students' acquisition of specialization-related English vocabulary compared with conventional instruction](pbl-esp-vocabulary-gains-qassim.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
+- [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
+- [Special physics class students rate teacher-student relationships statistically significantly higher than students in other classes, and report more research, project and experimental opportunities](teacher-student-relationship-perceptions-special-class.md) — related

@@ -52,3 +52,4 @@ Spotlight interview with a Magnolia district leader describing what the report n
 - [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Equity in makerspaces is not guaranteed by their existence](maker-equity-not-guaranteed.md) — related
+- [Even motivated and talented high-school students showed serious gaps in fundamental topics, especially in collecting and correctly using experimental data](talented-students-data-collection-learning-problems-waves.md) — related

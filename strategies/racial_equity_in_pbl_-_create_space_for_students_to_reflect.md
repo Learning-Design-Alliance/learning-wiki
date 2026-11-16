@@ -64,6 +64,7 @@ Reflection converts experience into learning: without structured processing, stu
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a one-on-one format for private reflective dialogue
 - [Check-Ins](../principles/check-ins.md) — the daily micro-version of this strategy
 - [Support community-connected project-based learning through PBL champions, collaboration time, and experience-tiered professional learning](community-connected-pbl-support-structure.md)
+- [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
 
 ## Examples
 - **EL Education** ([https://eleducation.org](https://eleducation.org)) — its PBL model builds "crew" reflections and passage presentations in which students reflect on character and academic growth, a structure used in diverse urban schools.

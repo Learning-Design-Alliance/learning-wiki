@@ -45,7 +45,8 @@ The authors restructured a first-year graduate quantum mechanics syllabus to add
 - [Graduate quantum mechanics instruction does not improve students' undergraduate-level conceptual understanding as measured by the QMCS](../claims/qmcs-no-gain-graduate-course.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
 
 ## Examples
 -

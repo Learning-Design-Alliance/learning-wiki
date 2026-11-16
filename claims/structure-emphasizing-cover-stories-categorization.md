@@ -65,3 +65,5 @@ The review reports, citing Quilici and Mayer's follow-up experiment on two probl
 
 ## Related Claims
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [Novices' categorization tendency shifted toward categorizing problems by principle rather than surface feature from pre-test to post-test after brief exposure to computer-constrained conceptual analysis, in one uncontrolled pre-post study](computer-constrained-conceptual-analysis-shifts-categorization.md) — related
+- [In problem categorization tasks, novices sort physics problems by surface features while experts sort them by solution principles](experts-categorise-by-solution-novices-by-surface.md) — related

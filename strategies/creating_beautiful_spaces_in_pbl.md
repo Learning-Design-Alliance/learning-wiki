@@ -59,8 +59,10 @@ Displaying authentic student work functions as a persistent, public form of [ass
 5. Open displays to families and community members as an exhibition event with a real audience
 
 ## Related Strategies
+
 - Exhibitions of learning — the event-based counterpart; beautiful spaces make every day an implicit exhibition
 - School-wide culture routines — displays are the environmental layer of the same culture work
+- [Involve students in all steps of building the installation](students-build-installation-together.md)
 
 ## Examples
 - **[Expeditionary Learning / EL Education](https://eleducation.org)** schools treat "beautiful work" as a core design principle, with hallway galleries of polished student products and revision documentation across their network schools.

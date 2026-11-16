@@ -50,3 +50,4 @@ Descriptive analysis of CPS high school graduates. Their 2.87 GPA was similar to
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [SAT distributions of graduates and non-graduates are identical, while low high school GPA predicts non-graduation](hsgpa-not-sat-predicts-graduation.md) — related

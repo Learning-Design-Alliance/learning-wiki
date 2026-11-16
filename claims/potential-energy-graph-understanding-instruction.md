@@ -67,3 +67,4 @@ After adding instruction (Figure 8) on building a square well by superimposing C
 ## Related Claims
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [After transformed instruction most students state energy is conserved in tunneling, yet energy-loss reasoning persists in subtle forms](energy-conservation-stated-but-energy-loss-reasoning-persists.md) — related
+- [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related

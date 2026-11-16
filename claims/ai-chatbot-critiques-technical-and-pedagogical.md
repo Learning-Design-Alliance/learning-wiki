@@ -46,3 +46,4 @@ Qualitative coding of written feedback from 6 of the 9 students who rated ≥2 A
 
 ## Related Claims
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
+- [Students were split into two roughly equal camps in their preference between experiments and simulations, and many recommended using both methods in class](student-preference-split-between-experiments-and-simulations.md) — related

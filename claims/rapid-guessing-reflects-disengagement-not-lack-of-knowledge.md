@@ -56,3 +56,4 @@ The article's interpretive takeaway from its same-day retest analysis: if rapid 
 - [Test-taking disengagement frequently differs between a MAP Growth initial test and a same-day retest](disengagement-differs-initial-test-versus-retest.md) — related
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](rapid-guessing-mastery-feedback-loop.md) — related
+- [SAT scores fluctuate little on retest: re-taking improves scores by only 20 to 30 points per section on average](sat-retest-reliability-20-30-points.md) — related

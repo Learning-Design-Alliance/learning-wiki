@@ -41,7 +41,8 @@ To support courses with labs, the article describes a supplementary algorithm ru
 - [Three Stage Llm Team Formation Methodology](../designs/three-stage-llm-team-formation-methodology.md)
 
 ## Related Strategies
-- 
+
+- [Instructor-managed sorting of students into research groups using rankings plus group-dynamics considerations](instructor-managed-project-group-sorting.md)
 
 ## Examples
 -

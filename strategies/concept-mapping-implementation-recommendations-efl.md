@@ -48,6 +48,8 @@ The article recommends EFL teachers incorporate the concept map strategy as a br
 - [Concept Mapping](concept_mapping.md)
 - [Implement brainstorming sessions in EFL writing lessons through small monitored groups with clarified problems, open expression, deferred judgment and fixed timing](brainstorming-session-procedures-efl-writing.md)
 - [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](mind-mapping-overview-preview-inview-review.md)
+- [Use a familiar-object starter activity to introduce modeling trade-offs before demanding content](familiar-object-starter-modeling-tradeoffs.md)
+- [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](ga-experiment-sequence-master-equation-mind-map.md)
 
 ## Examples
 -

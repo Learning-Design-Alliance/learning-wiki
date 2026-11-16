@@ -51,3 +51,6 @@ Anonymous end-of-semester evaluation with 21 closed-ended 5-point items and four
 - [At-risk first-year Bioscience students who participated in the Study Buddy Support scheme passed at a higher rate (72%) than at-risk students who did not participate (49%)](sbs-participants-higher-pass-rate-than-non-participants.md) — related
 - [About 63% of responding first-year students agreed the CRE course contributed to their ability to demonstrate initiative and self-direction in learning](cre-satisfaction-self-direction-agreement.md) — related
 - [Survey respondents' benefit reports did not differ significantly across the three course sessions](no-session-differences-in-responses.md) — related
+- [Students in one Physics First section predominantly reported liking Buddy Quizzes more than regular quizzes](buddy-quiz-student-feedback-predominantly-positive.md) — related
+- [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related
+- [The Buddy Quiz was deployed twice weekly-scale in two Physics First sections without curving grades](buddy-quiz-deployment-two-physics-first-sections.md) — related

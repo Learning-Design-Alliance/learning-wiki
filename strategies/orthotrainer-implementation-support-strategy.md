@@ -44,6 +44,7 @@ From their implementation experience the authors recommend supplementing the ten
 ## Related Strategies
 
 - [Keep smartphone e-learning videos short and ensure good Internet access so they stream smoothly on any device](keep-elearning-videos-short-smooth-streaming.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

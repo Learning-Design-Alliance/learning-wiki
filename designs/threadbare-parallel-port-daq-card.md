@@ -41,7 +41,8 @@ A minimal data acquisition card built in an undergraduate class to interface wit
 - 
 
 ## Related Designs
-- 
+
+- [Embedded RS-232 module capturing multimeter panel data with an 89C51 chip](embedded-rs232-module-89c51-multimeter.md)
 
 ## Examples
 -

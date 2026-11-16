@@ -52,3 +52,4 @@ Likert-scale attitudinal survey (86% response rate) measuring student perception
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
 - [No statistically significant difference between groups in understanding of teaching objectives, satisfaction with the preview method, or satisfaction with the curriculum](flipped-classroom-null-objectives-preview-curriculum-satisfaction.md) — related
 - [Students perceived distance learning as more efficient and as providing more time to study and review materials than classroom learning](distance-learning-perceived-more-efficient-more-time.md) — related
+- [First results of the revised instruction sheet suggest at least half of students showed better understanding of the experimental procedure and of their measurements](revised-sheet-first-findings-half-better-understanding.md) — related

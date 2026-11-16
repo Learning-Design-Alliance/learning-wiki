@@ -42,6 +42,7 @@ The authors propose that postdoctoral fellows, of whom Japan has many in element
 
 - [Increase protected research time for anatomy faculty through team teaching and postdoctoral teaching positions](team-teaching-postdocs-protected-research-time.md)
 - [Enhance access to advanced science coursework in secondary and postsecondary school to raise students' chances of entering PEMC fields](enhance-access-advanced-science-coursework.md)
+- [Introduce particle physics concepts of scale and matter in elementary education](introduce-particle-physics-early-advocacy.md)
 
 ## Examples
 -

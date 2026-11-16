@@ -52,3 +52,4 @@ MEES real-world translator item selected by 12 of 13 participants (92%). The aut
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Laboratory-established learning principles do not automatically translate to learning gains for all students in real classrooms](lab-principles-not-automatic-classroom-gains.md) — related
+- [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related

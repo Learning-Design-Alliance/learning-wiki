@@ -50,3 +50,4 @@ Content analysis of answers to the third open-ended EEAES question. The article 
 - [Most experimental-group pre-service teachers viewed the project-based HNOS course positively and recommended carrying it out through project activities](participants-endorse-pbhnos.md) — related
 - [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](outdoor-education-posttest-advantage-attitudes-uses-concern.md) — a broader claim this one bears on
 - [Motivation to teach outdoors was observed in only one participant, an EG physics teacher who decided to teach physics in the outdoors](motivation-single-eg-participant.md) — related
+- [Outdoor learning furthers deeper learning and demonstrates the practicality of taught skills, per the Rickinson et al. review](outdoor-classroom-deeper-learning.md) — related

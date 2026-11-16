@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (37 show a difference, 8 mixed, 4 no difference) · 30 studies (20 causal, 4 review, 4 associational, 2 design), `q1`–`q4` · 8 of 30 report an effect size · 48 claims rest on one study
+> **Evidence** · 50 claims (38 show a difference, 8 mixed, 4 no difference) · 31 studies (21 causal, 4 review, 4 associational, 2 design), `q1`–`q4` · 8 of 31 report an effect size · 49 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -85,6 +85,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Students began making estimates and inferences during the project interviews, suggesting growth in scientific process skills](../claims/deaf-students-process-skills-growth-interviews.md) [+W] — instruction changes it
 - [Case-based inference accuracy was significantly higher in the AI-enhanced group than in both comparison groups](../claims/ai-enhanced-higher-case-inference-accuracy.md) [+M] — measured as an outcome of the instruction studied
 - [Participants reported improved communication skills after ACP-SCT, including patient listening, inferring message meanings, and responding to emotions](../claims/acp-sct-self-reported-communication-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Second law decline at RB stems from failure to infer acceleration when it is not explicitly given, suggesting second law and acceleration develop in tandem](../claims/second-law-acceleration-entangled.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

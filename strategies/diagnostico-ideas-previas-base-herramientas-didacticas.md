@@ -45,7 +45,8 @@ Estrategia del proyecto: comenzar por un diagnóstico situacional de los docente
 - [Respuestas unánimes sobre verticalidad sin explicación: el conocimiento de la dirección del campo gravitatorio no resulta una estructura conceptual estable](../claims/verticalidad-respuesta-unanime-sin-explicacion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Rediseño iterativo de un instrumento de diagnóstico mediante pruebas piloto sucesivas](rediseno-iterativo-pilotos-cuestionario-diagnostico.md)
 
 ## Examples
 -

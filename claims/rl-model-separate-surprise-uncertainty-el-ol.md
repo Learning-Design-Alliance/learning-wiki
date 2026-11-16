@@ -69,3 +69,4 @@ Wilcoxon signed-rank tests of maximum likelihood parameter estimates against zer
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
 - [Choice behavior is more value-driven in the observational than individual learning condition, and adults show higher choice specificity than children](inverse-temperature-condition-age-differences.md) — related
 - [Observational learning yields high performance early in learning while individual learning improves gradually across trials](observational-learning-fast-individual-gradual.md) — related
+- [Surprisal-based model selection adds an Occam-factor penalty for superfluous fit-parameters on top of goodness of fit](kl-divergence-model-selection-occam-penalty.md) — related

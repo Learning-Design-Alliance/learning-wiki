@@ -49,3 +49,4 @@ Discussion of the Mann–Whitney U comparison between Groups 1 and 2; the Result
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [The Statistics station was the most difficult and most discriminating station, with a difficulty index of 50% and a discrimination index of 100%](statistics-station-highest-difficulty-discrimination.md) — related
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
+- [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related

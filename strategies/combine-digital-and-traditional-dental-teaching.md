@@ -57,6 +57,7 @@ The article recommends deploying digital evaluation systems as a supplement to, 
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
 - [Use interactive eBooks as an adjunct to traditional teaching rather than a substitute](ebooks-as-adjunct-to-traditional-teaching.md)
 - [Introduce global health through e-learning in conjunction with face-to-face small group teaching](e-learning-combined-with-face-to-face-global-health-teaching.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

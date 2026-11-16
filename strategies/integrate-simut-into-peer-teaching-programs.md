@@ -53,6 +53,7 @@ The authors recommend combining simulator-based and peer-assisted ultrasound tra
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Blend simulation with traditional training rather than separating them into discrete components](blend-simulation-with-traditional-procedural-training.md)
 - [Incorporate a simulation-based ultrasound module into mandatory physician orientation](ultrasound-module-in-mandatory-orientation-strategy.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The article recommends AR as a supplement rather than a replacement for cadaveri
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

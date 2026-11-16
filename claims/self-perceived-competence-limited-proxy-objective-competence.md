@@ -57,3 +57,4 @@ Authors' interpretive limitation statement in the Discussion, citing prior studi
 - [Surveys showed significantly improved confidence in reporting all facial subunits, including the untaught mandible, which the authors attribute to acquiescence bias](survey-confidence-gains-acquiescence-bias.md) — related
 - [The DTI measures self-assessment of clinical reasoning, not actual diagnostic ability, limiting cross-faculty calibration](dti-measures-self-assessment-not-actual-ability.md) — a narrower finding that bears on this claim
 - [Program graduates perceive themselves as more competent both as teachers and as learners compared with non-participants](graduates-perceive-competence-gains-teacher-learner.md) — related
+- [Measuring teaching outcomes cautiously is urged because measurements could create illusions about what students actually learn](measuring-teaching-outcomes-illusion-risk.md) — related

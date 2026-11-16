@@ -49,3 +49,4 @@ Questionnaire survey of 166 valid responses on a 10-point Likert scale (12 items
 - [After using the digital inlay platform, preclinical dental students averaged 43.32 ± 16.17 out of 60 on a restorative-concepts exam, with 48.03% scoring 50 or higher](vr-inlay-platform-exam-scores-43-32.md) — related
 - [Most students reported increased motivation for independent study and improved understanding of fundamental inlay/onlay concepts after platform use](vr-inlay-platform-motivation-and-concept-understanding.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [CITADEL was designed with flexibility, portability, usability, security, reusability and expansion in mind and is not platform dependent](citadel-platform-independent-design-goals.md) — related

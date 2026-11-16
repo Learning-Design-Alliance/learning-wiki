@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (127 show a difference, 40 mixed, 29 no difference) · 140 studies (65 causal, 24 associational, 16 review, 12 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 33 of 140 report an effect size · 195 claims rest on one study
+> **Evidence** · 198 claims (128 show a difference, 41 mixed, 29 no difference) · 141 studies (66 causal, 24 associational, 16 review, 12 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 33 of 141 report an effect size · 197 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -238,6 +238,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [By year end, regulation of metacognition correlates moderately with academic results, more strongly than knowledge](../claims/regulation-moderate-correlation-results-end.md) [+M] — learners who differ on it differ in outcomes
 - [First-year medical students' knowledge of metacognition shows no significant change over the academic year](../claims/no-change-metacognitive-knowledge-first-year.md) [-M] — measured as an outcome of the instruction studied
 - [Regulation of metacognition increases significantly over the first academic year](../claims/regulation-metacognition-increases-first-year.md) [+M] — measured as an outcome of the instruction studied
+- [A pre-service elementary science course supplemented with weekly Thinking Science lessons produced a CTSR gain of about 2.2 points, roughly double the normal increase](../claims/thinking-science-lessons-double-ctsr-gain.md) [+M] — measured as an outcome of the instruction studied
+- [Typical CTSR gains in local science classes are about 1 point, with many classes showing gains of zero](../claims/typical-ctsr-gain-about-one-point.md) [~W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -46,3 +46,4 @@ Anonymous end-of-course evaluations on the university's standard form; Table 2 p
 
 ## Related Claims
 - [Experimental-class students rated their own knowledge and discussion abilities significantly higher on a 12-question self-assessment](discussion-week-higher-self-assessment.md) — related
+- [Special physics class students rate teacher-student relationships statistically significantly higher than students in other classes, and report more research, project and experimental opportunities](teacher-student-relationship-perceptions-special-class.md) — related

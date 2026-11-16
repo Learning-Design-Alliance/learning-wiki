@@ -48,3 +48,4 @@ Section VII.C survey finding: nearly all texts opt for the sequence principle of
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](textbooks-fail-postulate-attribution.md) — related
 - [Most textbooks do not justify the linearity of the Lorentz transformation, and many present invariance of transverse coordinates as obvious](textbooks-linearity-transverse-unjustified.md) — related
 - [Surveyed textbooks present transversality treatments falling into three categories, and none include physical arguments for transversality](textbook-transversality-three-categories.md) — related
+- [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](conventional-relativity-introduction-damages-conceptual-hierarchy.md) — related

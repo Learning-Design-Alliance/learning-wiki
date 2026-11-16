@@ -50,3 +50,4 @@ Descriptive analysis of aggregated exam data for all first-year courses (Table 6
 - [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
 - [Participation in preparatory exercises predicted conceptual-understanding test performance in the first two iterations only, with no evidence in Years 3 and 4](participation-predicts-conceptual-understanding-first-two-years-only.md) — related
 - [The Study Smart cohort showed greater knowledge growth across exams than the prior, untrained cohort](study-smart-cohort-greater-exam-growth.md) — related
+- [Participation in online teaching evaluations decreased steadily from cohort P15 to P18, a confound the authors flag for interpreting evaluation trends](evaluation-participation-decline-p15-p18.md) — related

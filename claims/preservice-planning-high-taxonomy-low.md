@@ -53,3 +53,4 @@ Descriptive statistics (Table 1) for 101 pre-service teachers: STEBI mean 70.50 
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
 - Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences](reasons-for-choosing-science-objectives.md) — related
+- [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](stebi-gains-students-la-classes.md) — related

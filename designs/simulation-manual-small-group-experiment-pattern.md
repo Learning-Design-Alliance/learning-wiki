@@ -41,7 +41,8 @@ The instructional pattern places students in groups of two or three within large
 - 
 
 ## Related Designs
-- 
+
+- [Interactive computational modelling workshop activities in pairs with guided protocols and embedded video support](computational-modelling-workshop-activity-pattern.md)
 
 ## Examples
 -

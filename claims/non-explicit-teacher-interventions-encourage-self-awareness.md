@@ -53,3 +53,4 @@ The authors' interpretive claim from the Summary, drawn from Extract 3 where the
 - [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](unguided-contrasting-cases-no-learning-effect.md) — related
 - [Non-scaffolding teacher utterances offering affirmation and positive feedback (T:NS) trigger student curiosity](non-scaffolding-affirming-utterances-trigger-curiosity.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
+- [Prescribed problem-solving prompts are not, in general, effective at promoting sensemaking during group problem solving](prescribed-prompts-not-sufficient-for-sensemaking.md) — related

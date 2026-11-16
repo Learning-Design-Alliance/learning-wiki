@@ -52,3 +52,4 @@ Exploratory qualitative comparison of 24 lab groups (15 Solution-condition, 9 Cr
 - [Only the well-specified text-only prompt produced a correct quantitative result from o4-mini, while underspecified prompts led to numerical errors and misleading final results](prompt-specificity-shapes-lrm-physics-solution-correctness.md) — related
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — a broader claim this one bears on
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
+- [Comparing analytic with Euler and Euler-Cromer numerical solutions led students to quantify iteration error, which affected position but not velocity](analytic-versus-numerical-solution-error-activity.md) — related

@@ -86,6 +86,8 @@ Bibliometric maps reduce the search cost of navigating a large, unfamiliar liter
 - [Use transformer-based topic modeling (BERTopic) to map thematic structure and evolution of an emerging research field](use-bertopic-map-emerging-field-themes.md)
 - [Draw across adult-learning literatures ('larger tent' approach) rather than over-relying on field-specific literature in teacher education](larger-tent-cross-field-adult-learning-literature.md)
 - [Provide online learning repositories with browsing or topic-mapping functions alongside keyword search, and keep access simple enough for low-technology-confidence users](repository-browse-mapping-functions-strategy.md)
+- [Teach literature searching with an iterative search-sort-inspect-repeat algorithm using field tags, search-string perturbations, and citation sorting](search-sort-inspect-repeat-literature-strategy.md)
+- [Bibliometric mapping of top research groups in Physics and Mathematics in Southeast Europe](seenet-mtp-bibliometric-excellence-mapping-strategy.md)
 
 ## Examples
 - **[Digital Promise Research Map](https://researchmap.digitalpromise.org)** — an interactive visualization of education research built from bibliographic coupling of journal articles; users explore topics, connections between topics, and save articles of interest.

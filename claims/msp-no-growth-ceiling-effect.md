@@ -53,3 +53,4 @@ Paired t-test on the human-graded sample (N=50) found no growth in MSP, with a p
 - [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) — related
 - [The study was affected by a ceiling effect despite control measures aimed at avoiding it](msf-ceiling-effect-despite-controls.md) — related
 - [The CGI secondary measure showed no significant change from baseline in either group](cgi-no-significant-change.md) — related
+- [Learning Assistants showed no significant increase in CTSR scores, which the authors attribute to ceiling effects from selective recruitment](la-ctsr-no-significant-increase.md) — related

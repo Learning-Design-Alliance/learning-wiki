@@ -56,3 +56,4 @@ Burgos et al. is an onto-semiotic analysis of the definite-integral concept and 
 - [A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits](orton-clinical-interviews-elementary-calculus.md) — related
 - [ID learners' initial theoretical understanding is basic, perfunctory, and reliant on expert sources](initial-theoretical-understanding-basic-perfunctory.md) — related
 - [Weak foundational mathematics knowledge limited students' responsiveness to heuristic instruction, per the researcher's observation](weak-foundational-knowledge-limits-heuristic-instruction.md) — related
+- [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — related

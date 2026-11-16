@@ -52,3 +52,4 @@ DEW outcome in the same randomized psychology-course study (n à 240 with consen
 - [Reading a brief online female role model letter raised course grades for women in an introductory psychology course (d = .24)](role-model-letter-higher-psychology-grades.md) — related
 - [The role model letter lowered the DEW rate for women in introductory chemistry (OR = .23)](role-model-letter-lower-chemistry-dew.md) — related
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](focus-intervention-lower-course-withdrawal.md) — related
+- [Under an objective grading scheme, 29% of introductory astronomy students fail to meet minimal college standards, 41% perform satisfactorily, and 30% reach good or superior work](objective-astronomy-grading-29-percent-fail-minimal-standards.md) — related

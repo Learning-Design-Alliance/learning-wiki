@@ -46,6 +46,7 @@ The article recommends that "Teachers can be provided trainings about CAMI and C
 ## Related Strategies
 
 - [Train teachers and add coursework on collaborative dynamic web technologies, and give timely feedback in DWT-supported environments](dwt-teacher-training-and-timely-feedback.md)
+- [Embed a CAS in an e-book file to give e-books interactive step-by-step problem solving, error feedback and interactive graphs](cas-attached-ebook-interactivity-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Analysis of the principal-assigned professional practice rating found "Variation
 - [Principals in the pilot did not typically use all 22 rubric components when observing teachers](principals-used-subsets-of-rubric-components.md) — related
 - [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related
 - [Most variation in teacher evaluation scores is within schools rather than between schools](within-school-variation-dominates-teacher-evaluation-scores.md) — related
+- [Incomplete longitudinal test score data are extremely common and unbalanced across teachers, with only about 21 percent of students fully observed](incomplete-test-scores-common-and-unbalanced.md) — related

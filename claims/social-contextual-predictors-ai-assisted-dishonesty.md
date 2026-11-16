@@ -53,3 +53,4 @@ Multiple regression analyses in the survey of 1,045 undergraduates tested social
 - [Instructors' moral awareness and intention grow parallel with institutional and social support](instructor-moral-awareness-intention-institutional-social-support.md) — related
 - [Interpersonal factors — family, peers, and society — are perceived reasons for nursing students' exam cheating](interpersonal-factors-nursing-exam-cheating.md) — related
 - [Nursing students' intrapersonal factors — knowledge, attitude, skill, personality, experience, and motivation — are perceived reasons for exam cheating](intrapersonal-factors-nursing-exam-cheating.md) — related
+- [Academic dishonesty in credentialed professions risks the unfounded illusion of professional competence and undermines expected expertise and trust](cheating-undermines-professional-competence-trust.md) — related

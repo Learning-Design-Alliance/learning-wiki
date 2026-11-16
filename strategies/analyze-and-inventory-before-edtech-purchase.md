@@ -49,6 +49,7 @@ Step 1 of the framework directs leaders to begin "with cross-departmental analys
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
 - [Form a small cross-departmental team with defined facilitation roles before starting alignment work](small-cross-departmental-team-facilitation-roles.md)
 - [Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements](promise-evaluation-data-sharing-framework.md)
+- [Adapt existing professional research tools for education instead of building separate educational software](adapt-professional-tools-for-education.md)
 
 ## Examples
 -

@@ -37,7 +37,8 @@ The article recommends that teachers with moderate technology skills create VR e
 - Creating and viewing immersive content connected to literacy topics
 
 ## Related Strategies
-- 
+
+- [Students search out their own wave-phenomenon examples on Google Earth and compare them with textbook images](student-google-earth-wave-search-strategy.md)
 
 ## Examples
 -

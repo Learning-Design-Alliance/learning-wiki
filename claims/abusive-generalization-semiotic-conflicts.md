@@ -49,3 +49,4 @@ Authors' interpretive analysis (type e) of EC4 in section 4: the first abusive g
 - [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](starbird-intuitive-integral-five-configurations.md) — related
 - [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](stewart-definition-prior-knowledge-demands.md) — related
 - [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](procedural-strong-conceptual-limited-integral.md)
+- [Intuition functions as something distinct from formal reasoning but enabling it](intuition-enables-formal-reasoning.md) — related

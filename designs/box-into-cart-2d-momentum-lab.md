@@ -42,7 +42,8 @@ A laboratory activity in which a sliding mass (a 'box') slides down an incline a
 - 
 
 ## Related Designs
-- 
+
+- [Three-method projectile launcher measurement activity comparing stopwatch, maximum-height, and high-speed-camera techniques](three-method-projectile-launcher-uncertainty-activity.md)
 
 ## Examples
 -

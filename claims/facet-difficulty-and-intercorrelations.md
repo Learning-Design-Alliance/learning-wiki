@@ -70,3 +70,4 @@ Correlational analysis among the in-game estimates in the validation study. The 
 - [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
 - [Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem](isomorph-difficulty-rule-learning-working-memory.md) — related
 - [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](zoo-u-subscale-intercorrelations-expected-overlap.md) — related
+- [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related

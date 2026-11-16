@@ -51,3 +51,4 @@ Interview findings with students S7, S12 and S20 across three observation dates;
 ## Related Claims
 - [Deaf students ordered close celestial bodies more successfully than far celestial bodies after the project](deaf-students-order-close-celestial-bodies-better.md) — related
 - [Twenty-one of 30 deaf students correctly marked where the Sun rises and sets after observation-based activities](sun-rise-set-drawing-21-of-30-correct.md) — related
+- [Pupils commonly generalise the Sun's rising and setting positions to East and West, and alignment activities at Arbor Low were designed to target this misconception](sun-rising-setting-position-misconception-targeted.md) — related

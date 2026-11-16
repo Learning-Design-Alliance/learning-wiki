@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-16
 sources:
   - id: g-s-djordjevica-and-d-pavlovic-babic-2009
     resource: "https://doi.org/10.48550/arXiv.0912.1042"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a ministry-nominated independent test in spring 2007, 4th-grade 'physicists' scored 85.68% total while 'mathematicians' scored 74.26% and the standard class 34.47%, with the gap largest at complexity level 4. [→ G. S. Djordjevica and D. Pavlovic-Babic 2009](#g-s-djordjevica-and-d-pavlovic-babic-2009)
@@ -49,3 +50,7 @@ Independent evaluation by a team nominated by the Serbian Ministry of Education,
 - [4th-grade gifted 'physicists' perform on average at grammar-school level on PISA science but with roughly three times the concentration of top performances](physicists-top-performance-concentration-pisa.md) — related
 - [First-grade gifted 'physicists' pupils overwhelmingly reach the highest PISA science proficiency levels, unlike their grammar-school counterparts](gifted-first-graders-top-pisa-levels.md) — related
 - [Pupils from standard classes are unable to solve physics problems, with problem-solving records tending to zero across three generations](standard-class-problem-solving-near-zero.md) — related
+- [In an independent external evaluation, special physics class students scored significantly higher on a science knowledge test than grammar school students and at least 22% higher on physics tasks than both control groups](external-evaluation-knowledge-test-advantage.md) — reports the opposite
+- [After four years in the special physics curriculum, pupils' physics skills significantly exceed those of selected mathematicians, with scores roughly doubled relative to first grade](four-years-special-curriculum-doubled-physics-score.md) — possibly the same claim (merge candidate)
+- [Special physics class pupils show significantly better physics problem-solving abilities than standard and special math classes in the same city](special-physics-class-better-problem-solving-nis.md) — related
+- [Special physics class pupils concentrate at the top PISA science proficiency levels far more than grammar school peers, and almost all first-grade gifted pupils reach the highest levels](pisa-top-levels-special-physics-class.md) — related

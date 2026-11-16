@@ -40,7 +40,8 @@ Two internet-based training platforms for learning to appraise practice guidelin
 - 
 
 ## Related Designs
-- 
+
+- [CMS hands-on tutorial program on common physics analysis tools (CMSSW/Python, PAT, RooStats/RooFit, CRAB, Fireworks) with feedback forms](cms-hands-on-tutorial-program.md)
 
 ## Examples
 -

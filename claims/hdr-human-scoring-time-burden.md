@@ -72,3 +72,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related
 - [LLM-powered virtual patient conversations are inexpensive and fast to produce, at US $0.51 per conversation with GPT-4.0-Turbo](llm-vp-low-cost-scalable.md) — related
 - [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related
+- [Form-recognition marking enabled return of workshop-test feedback within 30 minutes of the end of an assessment session for a class of 240 students](rapid-marking-feedback-within-30-minutes-class-of-240.md) — related

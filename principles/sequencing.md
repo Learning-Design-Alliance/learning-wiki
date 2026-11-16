@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (31 for, 24 mixed, 1 against) · 50 studies (22 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 50 report an effect size · 52 claims rest on one study
+> **Evidence** · 57 claims (32 for, 24 mixed, 1 against) · 51 studies (22 causal, 11 theoretical, 10 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 51 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [Step-by-step teaching yields a significantly higher total clinical competence score than traditional teaching in postgraduate reproductive ultrasound training](../claims/sbs-improves-total-clinical-competence-score.md) [+W] — attached 2026-11-07 from Li Xin et al. (2024), which proposed "Three-phase, stage-gated step-by-step training program for reproductive ultrasound (theory, practice, clinical application)"; tests this page's relationship.
 - [In DL-first trainees, mean intubation time in the second series (VL) was significantly shorter than in the first series (DL), while VL-first trainees showed no significant difference between series](../claims/dl-first-second-series-intubation-time-shorter.md) [+W] — attached 2026-11-08 from Gu Minglu MM et al. (2019), which proposed "Teach endotracheal intubation with direct laryngoscopy before video laryngoscopy"; tests this page's relationship.
 - [Simple-before-complex training order yields better grammar learning than complex-before-simple order, driven by the simple rule](../claims/simple-first-training-order-better-grammar-learning.md) [+W] — attached 2026-11-09 from Antoniou Mark et al. (2016), which proposed "Sequence nonnative grammar training from simple to complex rules before testing"; tests this page's relationship.
+- [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](../claims/conventional-relativity-introduction-damages-conceptual-hierarchy.md) [+W] — attached 2026-11-16 from Gürel et al. (2011), which proposed "Incorporate the Lorentzian route, but complete the historical route with Einstein's reinterpretation rather than stopping at Bell's dynamical pedagogy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -236,6 +237,8 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
 - [Sequence microaggression curricula from foundational naming skills toward more complex debriefing skills](../strategies/foundational-to-complex-microaggression-sequencing.md)
 - [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](../strategies/graduated-complexity-educator-development-sequence.md)
+- [Sequenced extracurricular laboratory path: Shive machine, sound with oscilloscope, acoustic interference, then resonance](../strategies/sequenced-waves-laboratory-path-strategy.md)
+- [Two-part lesson: Lorentzian derivation of the transformations first, then Einstein's kinematic reinterpretation](../strategies/two-part-lorentzian-then-einstein-lesson.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

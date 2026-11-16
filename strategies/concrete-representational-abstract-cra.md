@@ -135,6 +135,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - [Multiple Representations](multiple-representations.md) — the broader principle of linking forms; CRA is a temporal sequencing of it
 - [Scaffolding](scaffolding.md) — the stage sequence is a scaffold that must be faded as symbolic competence grows
 - [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](phase-matched-cfc-analogy-template-usage.md)
+- [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
 
 ## Examples
 - **Place value**: learners build 342 with base ten blocks, then draw flats/longs/units, then write the numeral — with the numeral introduced while blocks are still visible

@@ -65,6 +65,7 @@ The routine operationalizes reflection as contrast: by forcing learners to juxta
 - [3-2-1 reflection](../strategies/3-2-1_reflection.md) — a lighter-weight alternative when no genuine belief shift is expected
 - [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
+- [Weekly Thinking Science lesson routine for pre-service teachers: work the lesson as students, then metacognitive discussion, activity design, and written reflection](thinking-science-preservice-weekly-routine.md)
 
 ## Examples
 - **[Project Zero's Visible Thinking](https://pz.harvard.edu/projects/visible-thinking)** — the originating source; the routine is documented among Project Zero's Thinking Routines toolbox with classroom video examples.
