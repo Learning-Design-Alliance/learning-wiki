@@ -42,6 +42,7 @@ This strategy addresses practical testing situations where no clear a priori the
 
 - [Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm](limited-information-then-efficient-em-sequential-procedure.md)
 - [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
+- [Choose the unit of analysis for learning research empirically by examining stabilities and dynamics in data](empirical-choice-of-cognitive-unit-strategy.md)
 
 ## Examples
 -

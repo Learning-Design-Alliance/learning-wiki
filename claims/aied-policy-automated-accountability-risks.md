@@ -51,3 +51,4 @@ Theoretical/political argument in the Politics section, citing Gulson et al. (20
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — a narrower finding that bears on this claim
+- [The legitimacy of academic rules rests in the legitimacy of the issuing authority, not in individual students' judgments of rational justification](rule-legitimacy-rests-with-issuing-authority.md) — related

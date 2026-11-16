@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-16
 sources:
   - id: g-s-djordjevica-and-d-pavlovic-babic-2009
     resource: "https://doi.org/10.48550/arXiv.0912.1042"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 1st grade comparison, almost all gifted 'physicists' pupils (80%) scored in the highest PISA proficiency levels, against 8% of the Serbia grammar-school sample and 0.3% of the Serbia whole sample. [→ G. S. Djordjevica and D. Pavlovic-Babic 2009](#g-s-djordjevica-and-d-pavlovic-babic-2009)
@@ -52,3 +53,4 @@ PISA 2006 science competencies testing in May 2007 with a 2-hours paper-pencil s
 - [After four years in the specialized physics curriculum, 'physicists' pupils substantially outperform 'mathematicians' and standard-class pupils on physics tests of increasing complexity](physicists-class-outperforms-on-physics-tests.md) — related
 - [Serbia's whole PISA 2006 sample scored 436 against the OECD mean of 500, equivalent to losing about one and a half school years](serbia-pisa-below-oecd-average.md) — related
 - [Pupils from standard classes are unable to solve physics problems, with problem-solving records tending to zero across three generations](standard-class-problem-solving-near-zero.md) — related
+- [Special physics class pupils concentrate at the top PISA science proficiency levels far more than grammar school peers, and almost all first-grade gifted pupils reach the highest levels](pisa-top-levels-special-physics-class.md) — a broader claim this one bears on

@@ -48,3 +48,4 @@ Post-participation survey of the six-member Merlyn Mind Practitioner Advisory Bo
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — reports the opposite
 - [Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement](practitioners-learned-about-ai.md) — related
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
+- [Students evaluated the Learning Assistant role positively, with 88% agreeing LAs were valuable team members and 92% understanding and appreciating the role](positive-student-evaluations-of-las.md) — related

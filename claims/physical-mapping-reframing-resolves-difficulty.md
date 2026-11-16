@@ -48,3 +48,4 @@ Case-study transcript analysis: S3's comment that the integral runs over the squ
 - [The calculation framing spreads through a working group: peers offered only calculation strategies to resolve a divergent integral](calculation-framing-spreads-through-group.md) — related
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
+- [A journeyman student can nest Calculation, Physical Mapping, and Invoking Authority framings within an overarching framing that values coherence among lines of reasoning](overarching-coherency-valuing-framing.md) — related

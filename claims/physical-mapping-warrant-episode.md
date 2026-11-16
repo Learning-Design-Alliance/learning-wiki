@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-16
 sources:
   - id: thomas-j-bing-and-edward-f-redish-2008
     resource: "https://doi.org/10.48550/arXiv.0808.1887"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the episode, S1 claimed more work is done along the longer two-part path, offering the path's greater length as data, and the authors read his warrant as evidence he is framing his math use as Physical Mapping. [→ Thomas J. Bing and Edward F. Redish 2008](#thomas-j-bing-and-edward-f-redish-2008)
@@ -50,3 +51,5 @@ Qualitative analysis of a video episode of two physics students. Parsing S1's ar
 - [Citing a recalled theorem as justification signals an Invoking Authority framing of mathematics use](invoking-authority-framing-warrant.md) — related
 - [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](physical-mapping-reframing-resolves-difficulty.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — a broader claim this one bears on
+- [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — a broader claim this one bears on
+- [Michael's epistemological stance leads him to seek physically and mathematically convincing explanations while many classmates seek the \"right answer\"](sense-maker-different-warrants-peers.md) — related

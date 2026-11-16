@@ -48,3 +48,5 @@ Correlational analysis of student-level random-effect estimates from the iAFM an
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](rt-propensities-moderate-strong-stability.md) — related
 - [High math-anxious participants sacrifice accuracy for speed as problems become more difficult, interpreted as an avoidance-like effort to finish quickly](high-math-anxious-sacrifice-accuracy-for-speed.md) — related
+- [Log response time is practically uncorrelated with students' estimated ability on this unspeeded low-stakes test](log-rt-uncorrelated-with-ability-low-stakes.md) — reports the opposite
+- [On an unspeeded low-stakes test, correct answers have shorter response times than incorrect answers](correct-answers-shorter-response-time-low-stakes.md) — related

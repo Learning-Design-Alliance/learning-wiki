@@ -58,3 +58,4 @@ Same PLS-SEM survey study (n = 548); the structural path from AI-TPACK to scienc
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related
 - [Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor](its-practice-no-self-efficacy-gain.md) — related
+- [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](stebi-gains-students-la-classes.md) — related

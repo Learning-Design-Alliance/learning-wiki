@@ -48,7 +48,8 @@ Rather than removing Mathematica from the curriculum, the authors recommend that
 - [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](../claims/physical-mapping-reframing-resolves-difficulty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Make epistemological issues of mathematical use explicit in upper-division physics instruction](make-epistemological-sophistication-explicit-upper-division.md)
 
 ## Examples
 -

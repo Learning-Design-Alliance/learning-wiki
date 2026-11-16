@@ -54,3 +54,4 @@ The review reports this finding from British progression research (attributed to
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [A few students reasoned second-order about Wikipedia's distributed oversight, but not about specific content](second-order-wikipedia-oversight-reasoning.md) — a narrower finding that bears on this claim
 - [Children's ideas about historical evidence progress through six identifiable steps between ages seven and fourteen](six-step-progression-ideas-historical-evidence.md) — related
+- [Students may not spontaneously integrate energy concepts across physics and biology under ordinary instruction, even with reasonably sophisticated conceptual understanding](energy-integration-not-spontaneous-under-ordinary-instruction.md) — a narrower finding that bears on this claim

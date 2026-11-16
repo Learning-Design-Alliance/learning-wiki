@@ -42,7 +42,8 @@ A classroom activity casting students as LIGO data analysts, introducing compact
 - 
 
 ## Related Designs
-- 
+
+- [Students filter real collider events by quality criteria to produce clean mass plots](student-event-filtering-mass-plot.md)
 
 ## Examples
 -

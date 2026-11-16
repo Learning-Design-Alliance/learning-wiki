@@ -12,7 +12,7 @@ generated:
 # Cognitivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 8 studies (3 theoretical, 2 review, 2 associational, 1 design), `q1`–`q2` · 1 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 9 studies (3 associational, 3 theoretical, 2 review, 1 design), `q1`–`q2` · 1 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it ([Ertmer & Newby, 2013](https://doi.org/10.1002/piq.21143)).

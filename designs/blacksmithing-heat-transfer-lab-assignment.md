@@ -44,7 +44,8 @@ A lab/programming assignment in which students estimate the energy needed to hea
 - [Simulation Overprediction Radiation Scheme Improves Fit](../claims/simulation-overprediction-radiation-scheme-improves-fit.md) [+M]
 
 ## Related Designs
-- 
+
+- [VPython computational modeling homework in introductory mechanics](vpython-computational-modeling-homework-mechanics.md)
 
 ## Examples
 -

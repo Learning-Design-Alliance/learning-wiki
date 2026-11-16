@@ -49,3 +49,5 @@ Secondary analyses of the PLTL leader group controlling demographic co-variables
 - [Peer leaders' overall CCTST critical thinking scores showed no significant change from pre-test to post-test in the PLTL training and leadership-experience group](pltl-peer-leaders-no-overall-cctst-gain.md) — related
 - [Thesis-score gains from the writing intervention did not differ by ethnicity, Hispanic identity, or first-generation legacy status](equal-writing-intervention-gains-across-demographics.md) — related
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
+- [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
+- [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related

@@ -52,3 +52,4 @@ Formative study with 7 students and 3 instructors using one-hour semi-structured
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [Challenges interact dynamically to form a self-reinforcing recursive constraint](self-reinforcing-recursive-constraint-srl-recommenders.md) — related
 - [Qualitative content analysis of student interviews identified five themes: novelty, engagement, critical awareness of child health determinants, deeper learning through visual contextualization, and practical barriers](photovoice-tbl-five-themes.md) — related
+- [Even motivated and talented high-school students showed serious gaps in fundamental topics, especially in collecting and correctly using experimental data](talented-students-data-collection-learning-problems-waves.md) — related

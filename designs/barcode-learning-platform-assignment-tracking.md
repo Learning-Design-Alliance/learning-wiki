@@ -40,7 +40,8 @@ School C uses a self-developed learning platform that is crucial to organizing i
 - [Type C Structural School Wide Digital Use](../claims/type-c-structural-school-wide-digital-use.md) [+M]
 
 ## Related Designs
-- 
+
+- [Barcode-scanner and form-recognition attendance and assessment administration system with MySQL database](barcode-form-recognition-attendance-administration-system.md)
 
 ## Examples
 -

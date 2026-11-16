@@ -56,3 +56,4 @@ Qualitative component using student focus groups, professor field journals, and 
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — possibly the same claim (merge candidate)
 - [Students found the VP model structure easy to follow and flexible across program levels](vp-structure-easy-to-follow-student-reports.md) — related
 - [Grounded theory analysis identifies a core phenomenon 'learning from the VP' with four categories: VP Construction, External Preconditions, Student–VP Interaction and Consequences](vp-learning-core-phenomenon-four-categories.md) — related
+- [The historical dimension of the sequence has motivational and metacognitive value: students feel legitimized in error and proud to reason like Galileo](historical-controversy-motivational-metacognitive-value.md) — related

@@ -47,3 +47,4 @@ In the randomized controlled trial, self-efficacy was measured with a modified S
 ## Related Claims
 - [SUN workshop participation significantly increases high school biology teachers' knowledge of biological energy transfer, with gains maintained 1 yr later versus randomized controls](sun-workshop-teacher-knowledge-gains-sustained.md) — related
 - [The SUN-modified STEBI-A shows acceptable reliability overall and for the PSTE subscale, but the STOE subscale falls below the accepted threshold](sun-modified-stebi-a-reliability.md) — related
+- [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](stebi-gains-students-la-classes.md) — related

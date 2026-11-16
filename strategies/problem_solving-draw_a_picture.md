@@ -67,6 +67,7 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](explicit-instruction-informative-pictures.md)
 - [Use causal diagramming (strategy maps) as a systems thinking tool to improve mental models and decision making](causal-diagramming-strategy-review-strategy.md)
 - [Score full conceptual-index diagrams A and other students B so students benefit from each other's help in solving problems.](a-score-diagram-feedback-strategy.md)
+- [Disassemble-and-rebuild consensus task for teaching optical conjugation and relays](ao-rebuild-consensus-design-task.md)
 
 ## Examples
 - **Singapore Math bar models** — a national curriculum sequence in which students progress from concrete objects to standardized bar diagrams for word problems ([Thinking Blocks](https://www.mathplayground.com/thinkingblocks.html) offers an interactive version)

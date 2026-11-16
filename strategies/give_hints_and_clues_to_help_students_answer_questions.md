@@ -67,6 +67,7 @@ Hinting is a form of [Scaffolding](../principles/scaffolding.md) delivered in th
 - [During the discussion, the teacher asks directive questions that point to the relevant concepts students need to recall from their subsequent self-study](teacher-directive-questions-retrieve-prior-knowledge.md)
 - [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 - [ITS developers should continue to provide principle-based and bottom-out hints and support sense making around them](design-recommendations-principle-based-hints-and-sense-making.md)
+- [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — math exercises offer a sequence of hints, each revealing one step; the final hint is a fully worked step, and hint use is tracked as a signal of struggle.

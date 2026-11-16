@@ -53,6 +53,7 @@ The article's discussion recommends that web-assisted activities and simulations
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 - [Combine initial in-person training with subsequent digital at-home training to satisfy trainee preferences while retaining digital flexibility](initial-in-person-then-digital-training-combination.md)
 - [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
+- [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
 
 ## Examples
 -

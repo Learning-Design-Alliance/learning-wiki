@@ -48,3 +48,4 @@ Kirkpatrick Level 4 (results/outcomes) items from the same survey of 106 preclin
 - [Classic lectures were the single most preferred whole-block format among surveyed students, ahead of PBL](classic-lectures-most-preferred-whole-block.md) — related
 - [Preclinical medical students at Najran University enjoyed PBL and were more motivated to join it than TBL](pbl-more-enjoyed-and-motivating-than-tbl-nu-survey.md) — related
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related
+- [Students were split into two roughly equal camps in their preference between experiments and simulations, and many recommended using both methods in class](student-preference-split-between-experiments-and-simulations.md) — related

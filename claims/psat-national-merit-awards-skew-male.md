@@ -60,3 +60,4 @@ Rosser's testimony on the National Merit Scholarship Corporation, which awards o
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
 - [Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance](timed-test-gender-gap-underpredicts-college-performance.md) — related
+- [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related

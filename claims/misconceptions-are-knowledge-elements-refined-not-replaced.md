@@ -54,3 +54,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) — related
 - [The idea of discreteness is a fundamental presupposition that constrains students' understanding of the density of rational numbers](discreteness-presupposition-constrains-density-understanding.md) — related
 - [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related
+- [A particle mental model of sound propagation is stable, coherent and widely applicable at all educational levels](sound-particle-mental-model.md) — a narrower finding that bears on this claim

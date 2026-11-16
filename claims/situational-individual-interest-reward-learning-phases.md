@@ -48,3 +48,4 @@ Theoretical reinterpretation within the review: the framework accommodates Hidi 
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](curiosity-resolution-cycle-individual-interest.md) — related
 - [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](trait-curiosity-generalized-reward-value.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Individual and distributed/situated cognition accounts are theoretically continuous, differing in the scale of dynamics of interest](cognition-accounts-continuous-across-scales.md) — related

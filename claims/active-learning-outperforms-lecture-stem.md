@@ -54,3 +54,4 @@ This is the article's opening synthesis of research on how people learn, not a n
 - [Failure rates in experiment 3 dropped from 48% to 25% relative to lecture-based control terms](exp3-dfw-rates-drop-48-to-25.md) — a narrower finding that bears on this claim
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — a narrower finding that bears on this claim
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
+- [Under an objective grading scheme, 29% of introductory astronomy students fail to meet minimal college standards, 41% perform satisfactorily, and 30% reach good or superior work](objective-astronomy-grading-29-percent-fail-minimal-standards.md) — related

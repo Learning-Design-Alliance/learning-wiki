@@ -48,3 +48,4 @@ Post-rotation 12-item questionnaire administered to residents who completed the 
 - [Residents reported that boot camp participation enhanced their confidence and readiness for managing patient care in the NICU](boot-camp-enhanced-resident-confidence-readiness.md) — related
 - [Most residents (80.40%) agreed that holding the boot camp prior to each NICU rotation would be useful](residents-support-repeat-boot-camp-each-rotation.md) — related
 - [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — a broader claim this one bears on
+- [Students rated the AMSC highly valuable at course end and reported it prepared them for their internships](amsc-student-evaluation-ratings.md) — related

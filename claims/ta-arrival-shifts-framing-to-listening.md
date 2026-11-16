@@ -89,3 +89,5 @@ Same episode: students' minimal speech ("Yes," "Okay") was aimed at acknowledgin
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — a broader claim this one bears on
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
 - [Conflicting lines of reasoning among group members precipitate entry into the discussion frame](conflicting-reasoning-precipitates-discussion-frame.md) — related
+- [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related

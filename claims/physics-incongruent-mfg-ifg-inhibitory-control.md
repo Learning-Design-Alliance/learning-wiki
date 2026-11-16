@@ -75,3 +75,4 @@ Authors' interpretation in the discussion: the greater involvement of frontal an
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
 - [Reading supernatural scenarios with unexpected realistic characters activates the left preCG, poCG and IFG more than reading supernatural scenarios with fictional characters](sr-greater-activation-than-sf-sensorimotor-ifg.md) — related
 - [Left MFG functional connectivity to the salience network (ACC and insula) mediates the longitudinal reading–cognitive flexibility associations](left-mfg-salience-connectivity-mediation.md) — related
+- [Novice students today hold naive beliefs about movement similar to those of pre-modern scientists, including Aristotelian impetus-like intuitions](novice-students-hold-historic-naive-movement-beliefs.md) — related

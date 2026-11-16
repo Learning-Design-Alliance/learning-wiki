@@ -66,3 +66,4 @@ The review attributes to Klahr and Dunbar's SDDS studies the finding that "56% o
 
 ## Related Claims
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
+- [A robot-as-alien-creature exercise met its goal of getting students to build hypotheses from hands-on evidence, even though no group found the correct controller](robot-exercise-hypothesis-goal-met-no-group-solved.md) — related

@@ -49,3 +49,5 @@ Ethnographic observation from videotaped study sessions across a range of physic
 - [Observed epistemological framings extend over durations from ten seconds to ten minutes](framing-durations-ten-seconds-to-ten-minutes.md) — related
 - [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
+- [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related
+- [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — a broader claim this one bears on

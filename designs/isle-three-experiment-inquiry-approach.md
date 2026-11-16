@@ -44,6 +44,7 @@ ISLE is an approach to physics teaching in which students build and test physics
 ## Related Designs
 
 - [Modeling-based inquiry as a classroom process running from mental models to consensus models and experimental testing](modeling-process-mental-to-consensus-models.md)
+- [Interactive, research-inspired learning environments in which students work as teams of scientists do](research-inspired-interactive-learning-environment.md)
 
 ## Examples
 -

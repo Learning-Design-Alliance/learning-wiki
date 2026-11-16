@@ -43,7 +43,8 @@ As part of the recommended representation combination, the authors propose letti
 - [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](../claims/multiple-representations-reduce-format-dependence.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use interactive vector objects and animated moving-frame scenarios to reify abstract physics concepts](modellus-interactive-objects-strategy.md)
 
 ## Examples
 -

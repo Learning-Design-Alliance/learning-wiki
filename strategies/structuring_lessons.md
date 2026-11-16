@@ -65,6 +65,7 @@ Structured lessons reduce extraneous cognitive load by making the organization o
 - [Clear Structure](../principles/clear-structure.md) — the presentation-level principle this strategy enacts at lesson scale
 - [A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance](five-moment-q-learning-lesson-plan.md)
 - [Seven-step music lesson planning model incorporating a 10-minute DI component](seven-step-di-music-lesson-planning-model.md)
+- [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
 
 ## Examples
 - **Rosenshine's Principles of Instruction** — a research-derived lesson template (daily review, small-step presentation, guided practice, checks for understanding) widely used in UK and US school improvement programs ([Rosenshine, 2012](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf)).

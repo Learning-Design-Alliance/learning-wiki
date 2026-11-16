@@ -50,3 +50,4 @@ Analysis of the seven incorrect homework solutions found a shared initial step: 
 ## Related Claims
 - [Among 16 graduate students solving a plasma physics homework problem, obtaining the compact form of the dielectric function perfectly correlated with correctly solving for its roots](compact-form-dielectric-perfect-correlation-correct-roots.md) — related
 - [Graduate students' explicit awareness that the frequency ω is complex did not determine their success in solving for the roots; access to the compact form did](omega-complex-awareness-did-not-determine-root-success.md) — a narrower finding that bears on this claim
+- [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related

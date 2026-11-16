@@ -40,6 +40,7 @@ To give students more problem-solving time, "A teacher can increase students' ex
 
 - Balance Routine And Non Routine Problems
 - [Hint Design](hint-design.md)
+- [Teach computation via guided lab-built programs that students independently alter to solve modified homework problems, checked against a provided test case before a graded case.](lab-built-program-modification-homework-strategy.md)
 
 ## Examples
 -

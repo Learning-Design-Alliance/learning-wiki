@@ -50,3 +50,4 @@ Sensitivity analysis of the value-added model in five of the ten districts, comp
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
 - [Rank orderings of teachers do not change radically under mild scale transformations](teacher-rank-orderings-robust-to-mild-transformations.md) — related
+- [Allowing achievement data to be missing not at random has little impact on estimated teacher effects in value-added modeling, with MNAR and MAR estimates correlating at 0.98 or better](mnar-little-impact-teacher-effect-estimates.md) — related

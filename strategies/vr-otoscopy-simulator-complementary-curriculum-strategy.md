@@ -52,6 +52,7 @@ The article recommends embedding the validated virtual reality otoscopy simulato
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Incorporate immersive VR simulation into radiography education to build clinical preparedness](immersive-vr-simulation-radiography-education-strategy.md)
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

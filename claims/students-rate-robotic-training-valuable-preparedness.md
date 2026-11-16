@@ -50,3 +50,4 @@ Post-session questionnaire completed by all 14 participating students, using thr
 - [scGY participants rank the structured clinical gap year as more valuable than shadowing or volunteering for pre-clinical preparation](scgy-ranked-above-shadowing-volunteering.md) — related
 - [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — related
 - [Participants described the potential applicability of the integrated video-plus-simulation approach to other areas of surgical training such as trauma or wound care.](applicability-to-other-surgical-training-areas.md) — related
+- [Students rated the AMSC highly valuable at course end and reported it prepared them for their internships](amsc-student-evaluation-ratings.md) — related

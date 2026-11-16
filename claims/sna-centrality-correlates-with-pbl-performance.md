@@ -56,3 +56,4 @@ Pearson correlation analysis (RQ1) of student SNA parameters versus final grades
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md) — related
 - [In-degree centrality, but not degree or out-degree, is moderately correlated with final grade in online clinical case discussions](in-degree-centrality-moderately-correlated-final-grade.md) — a narrower finding that bears on this claim
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — related
+- [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related

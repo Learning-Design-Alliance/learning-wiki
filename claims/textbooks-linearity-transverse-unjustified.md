@@ -66,3 +66,4 @@ Section VII.B survey finding on the invariance of the transverse coordinates in 
 ## Related Claims
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](textbooks-fail-postulate-attribution.md) — related
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related
+- [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](conventional-relativity-introduction-damages-conceptual-hierarchy.md) — related

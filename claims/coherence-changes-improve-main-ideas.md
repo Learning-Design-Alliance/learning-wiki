@@ -49,3 +49,4 @@ Experiment with 67 tenth graders randomly assigned to four text versions; 2x2 AN
 - [The revised coherence version measurably increased textual coherence on two quantitative indices](coherence-indices-manipulation-check.md) — related
 - [Each kind of textual change selectively aids recall of the idea units it itself highlights](each-change-highlights-its-own-ideas.md) — related
 - [Problem-solving performance improves significantly only when coherence and linking changes are combined, showing the predicted interaction](problem-solving-requires-both-changes.md) — related
+- [A presentation change — rendering the randomized exponent on the interaction constant in black rather than WebAssign's default red — reduced exponent-confusion errors from 30.5% to 9.1% between assignment versions.](exponent-confusion-reduced-by-text-color-change.md) — a narrower finding that bears on this claim

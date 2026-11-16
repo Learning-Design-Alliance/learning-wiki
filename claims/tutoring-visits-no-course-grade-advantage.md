@@ -53,3 +53,5 @@ The article's analysis of individual class outcomes for TC visitors. It attribut
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — related
 - [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — reports the opposite
+- [Cadets who used evening math tutoring improved their placement-to-FSE score gain more than the complete Calculus 1 cohort](evening-tutoring-larger-score-gains-calculus-1.md) — reports the opposite
+- [Cadets who used the tutoring center had weaker math backgrounds than the cadet wing as a whole](tutoring-users-weaker-backgrounds-placement.md) — related

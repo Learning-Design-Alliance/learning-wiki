@@ -57,3 +57,4 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
 - [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related
+- [Academic dishonesty builds a propensity for dishonesty into student character because actions form habits and habits form character](cheating-builds-dishonest-character-propensity.md) — related

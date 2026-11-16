@@ -31,7 +31,8 @@ A free desktop virtual-reality simulation developed by Dominic McGrath and colle
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](../claims/rtr-student-attitudes-interest.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [GeodesicViewer](geodesicviewer.md)
 
 ## Key Sources
 - Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. https://arxiv.org/abs/0911.0226

@@ -49,3 +49,4 @@ Secondary analysis of the PISA 2006 national database reported in the paper's PI
 - [4th-grade gifted 'physicists' perform on average at grammar-school level on PISA science but with roughly three times the concentration of top performances](physicists-top-performance-concentration-pisa.md) — related
 - [First-grade gifted 'physicists' pupils overwhelmingly reach the highest PISA science proficiency levels, unlike their grammar-school counterparts](gifted-first-graders-top-pisa-levels.md) — related
 - [Pupils from standard classes are unable to solve physics problems, with problem-solving records tending to zero across three generations](standard-class-problem-solving-near-zero.md) — related
+- [Special physics class pupils concentrate at the top PISA science proficiency levels far more than grammar school peers, and almost all first-grade gifted pupils reach the highest levels](pisa-top-levels-special-physics-class.md) — related

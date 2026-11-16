@@ -53,3 +53,4 @@ Thematic analysis of think-aloud and observation data from the case study. The a
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
 - [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](students-obstacles-critical-thinking-number-theory.md) — related
+- [Form-recognition marking supported question-level analysis that revealed overly difficult or ambiguously worded workshop-test questions for lecturer feedback](question-level-item-analysis-reveals-difficult-or-ambiguous-questions.md) — related

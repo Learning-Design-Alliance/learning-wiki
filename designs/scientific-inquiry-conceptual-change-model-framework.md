@@ -46,7 +46,8 @@ The scientific inquiry learning model based on conceptual change is a learning m
 - [Scientific Inquiry Conceptual Change Improves Science Process Skills](../claims/scientific-inquiry-conceptual-change-improves-science-process-skills.md) [+M]
 
 ## Related Designs
-- 
+
+- [Inquiry as teaching science as science is done, with facilitator-guided student investigation](inquiry-as-science-is-done-with-facilitation.md)
 
 ## Examples
 -

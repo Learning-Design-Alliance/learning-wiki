@@ -64,9 +64,11 @@ Co-construction leverages the social nature of cognition: articulating ideas to 
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](../claims/teacher-role-shift-facilitator-ethical-supervisor.md) [+W]
 
 ## Related Strategies
+
 - [Peer Instruction](../strategies/peer-instruction.md) — a structured protocol that operationalizes co-construction at scale in large classes
 - [Jigsaw](../strategies/jigsaw.md) — assigns each learner a piece of the knowledge, making interdependence and co-construction structural
 - [Socratic Questioning](../elements/socratic-questioning.md) — the questioning technique that drives productive co-constructive dialogue
+- [Involve students in all steps of building the installation](students-build-installation-together.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — students vote on conceptual questions, discuss with neighbors, and re-vote; the teacher then addresses remaining confusion. See [https://blog.peerinstruction.net](https://blog.peerinstruction.net) and the Peer Instruction network resources.

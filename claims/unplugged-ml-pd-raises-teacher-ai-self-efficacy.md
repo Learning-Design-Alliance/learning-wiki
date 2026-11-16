@@ -59,3 +59,4 @@ Pre/post study of an online PD program with ten K–12 educators who created exp
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
 - [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](ml-confidence-interest-increase.md) — related
 - [After a two-to-three-week computer vision professional development program, 13 of 18 (72%) of middle school teachers' computer vision constructs shifted clusters, which the authors read as restructured perceptions (pre/post, no comparison group)](cv-pd-restructures-teacher-cv-constructs.md) — related
+- [Participating teachers report applying new particle physics content knowledge and trying new teaching practices in their classrooms](teacher-reported-classroom-application-of-pd-content.md) — related

@@ -48,3 +48,4 @@ The abstract identifies "An important change from a previous approach" in the co
 - [The subsystem handles dimensional units of physical quantities throughout, described as a new feature](algebra-subsystem-dimensional-units-throughout.md) — related
 - [Equation-dependence determination lets the help module model which equations the student appears to know](equation-dependence-models-student-knowledge.md) — related
 - [The subsystem checks the validity of equations students enter and determines dependence on other equations](equation-validity-and-dependence-checking.md) — related
+- [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — related

@@ -58,9 +58,11 @@ T-charts operationalize structured comparison, one of the highest-yield instruct
 5. Close with [Peer Discussion](../elements/peer-discussion.md) — learners compare charts, resolve discrepancies, and articulate why attributes differ.
 
 ## Related Strategies
+
 - Venn diagram — the same comparison function with an overlap region for shared attributes; better when similarities matter as much as differences
 - Concept mapping — better suited to multi-variable relationships than the T-chart's binary frame
 - Anticipation guides — a before-reading comparison structure that pairs well with a T-chart during reading
+- [Build and share surprisal tables comparing models against newly-recognized phenomena](surprisal-tables-classroom-model-comparison.md)
 
 ## Related Elements
 - [Provide Guidance](../elements/provide-guidance.md) — attribute-level modeling determines chart quality

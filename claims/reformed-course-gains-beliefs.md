@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: mixed
 newest_evidence: 2008
+source_checked: 2026-11-16
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0709.4503"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reformed course for engineering majors showed high learning gains on the Quantum Mechanics Conceptual Survey and a lack of shift in beliefs about physics on the Colorado Learning Attitudes about Science Survey. [→ S. B. McKagan 2008](#s-b-mckagan-2008)
@@ -74,3 +75,9 @@ Comparison courses reported in the same section: the pre-reform engineering cour
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Courses for elementary education and non-science majors show greater belief shifts than calculus-based courses](student-population-belief-shifts.md) — related
 - [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](incoming-beliefs-correlate-conceptual-gains.md) — related
+- [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related
+- [In the transformed ENG-INT course, 98% of students reported interest in quantum physics after instruction, and no student gave a negative response.](eng-int-nearly-unanimous-post-instruction-interest.md) — related
+- [Student interest in quantum mechanics typically declines after instruction in modern physics, with negative responses increasing significantly (p < 0.001).](interest-in-quantum-mechanics-declines-after-typical-instruction.md) — related
+- [QMCS posttest scores rise with course level, with significant gains in modern physics and zero gains in graduate courses](qmcs-posttest-scores-increase-with-level.md) — related
+- [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
+- [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related

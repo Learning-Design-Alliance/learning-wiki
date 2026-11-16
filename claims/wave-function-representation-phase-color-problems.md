@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-16
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0709.4503"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Apart from two students whose confusion stemmed from expectations, students did not express confusion over the real and imaginary representations of the wave function, and several learned concepts such as the 90-degree phase offset from them. [→ S. B. McKagan 2008](#s-b-mckagan-2008)

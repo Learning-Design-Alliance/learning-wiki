@@ -55,3 +55,4 @@ The synthesis reports, citing Pomian Bogdanov (2022) and Penuel, Rubin, et al. (
 - [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md) — related
 - [Tensions arise when there is a perceived imbalance in the centering of social justice](social-justice-tensions-perceived-imbalance.md) — related
 - [Students report a dilemma between reflection being unforceable and the need for some curricular obligation, since without obligation they would opt for graded familiar learning](obligation-without-coercion-mentoring-participation.md) — related
+- [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](ccd-modeling-activity-goals-met.md) — related

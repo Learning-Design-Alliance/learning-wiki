@@ -65,6 +65,7 @@ SFA works because it requires learners to compare and contrast related concepts 
 - [Word Walls](word-walls.md) — SFA grids can anchor a wall display of related terms
 - [Framing strategy using visual grids to organise mathematical concepts](framing-visual-grid-strategy.md)
 - [Teach students to generate differences between related concepts and associate each feature with its concept name before assessment](generate-differences-associate-features-strategy.md)
+- [Build and share surprisal tables comparing models against newly-recognized phenomena](surprisal-tables-classroom-model-comparison.md)
 
 ## Examples
 - **Science:** a grid of vertebrate classes (mammal, bird, reptile, amphibian, fish) against features (warm-blooded, live birth, scales, aquatic) — contested cells drive the lesson

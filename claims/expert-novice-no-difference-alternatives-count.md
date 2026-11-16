@@ -53,3 +53,5 @@ T-test on the same 37-teacher sample found no significant group difference in al
 - [Novice residents mention far fewer procedural considerations than experts during TAD insertion, with only four of 15 expert themes mentioned by more than 50% of residents](residents-mention-four-of-fifteen-expert-tad-themes.md) — reports the opposite
 - [Expert active-learning instructors notice creating opportunities for generative work significantly more often than novices](experts-notice-generative-work.md) — related
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
+- [Expert and novice card sorters are not distinguishable by the number of categories they create](expert-novice-category-number-ks-null.md) — related
+- [Expert and novice card sorters are not distinguishable by macroscopic graph measures: 3-cycles, maximum clique size, diameter, and average path length](macroscopic-graph-measures-no-expert-novice-difference.md) — related

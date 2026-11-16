@@ -50,3 +50,4 @@ The author's own exam data over four years of including simple conceptual questi
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
 - [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related
 - [CPS classes scored higher on conceptual questions than traditional classes, significantly at schools A and B](cps-conceptual-questions-advantage.md) — related
+- [Form-recognition marking supported question-level analysis that revealed overly difficult or ambiguously worded workshop-test questions for lecturer feedback](question-level-item-analysis-reveals-difficult-or-ambiguous-questions.md) — related

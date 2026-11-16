@@ -49,3 +49,4 @@ Linear mixed model of Statistics grades from the archival registrar data set, co
 - [In Physical Science, elementary education majors earned lower grades than business and STEM majors but higher grades than all other major types](eled-physical-science-grades-lower-than-stem.md) — related
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Elementary education majors entered with lower ACT scores but higher high school GPAs than students in other major types](eled-lower-act-higher-hs-gpa-than-other-majors.md) — related
+- [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related

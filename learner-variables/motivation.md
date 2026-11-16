@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 461 claims (301 show a difference, 110 mixed, 50 no difference) · 328 studies (124 associational, 109 causal, 42 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 10 design), `q1`–`q4` · 90 of 328 report an effect size · 449 claims rest on one study
+> **Evidence** · 462 claims (302 show a difference, 110 mixed, 50 no difference) · 329 studies (124 associational, 110 causal, 42 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 10 design), `q1`–`q4` · 90 of 329 report an effect size · 450 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -511,6 +511,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Standardized patients joining a DRE training program report mainly intrinsic motivation and interest, with no predominant motive pattern](../claims/sp-dre-intrinsic-motivation-no-predominant-motive.md) [-M] — measured as an outcome of the instruction studied
 - [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](../claims/flipped-course-increased-eoh-interest.md) [+M] — measured as an outcome of the instruction studied
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](../claims/einsteinmobil-student-interest.md) [+W] — measured as an outcome of the instruction studied
+- [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](../claims/wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -42,7 +42,8 @@ As effective ways to promote conceptual change, the article recommends "student-
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Emphasize concepts, hands-on experiments and emotion-raising stories in science teaching to ease conceptual change](concept-oriented-teaching-hands-on-experiments-suspense-stories.md)
 
 ## Examples
 -

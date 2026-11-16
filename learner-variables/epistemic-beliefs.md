@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (40 show a difference, 12 mixed, 4 no difference) · 34 studies (10 causal, 6 design, 5 associational, 4 review, 4 qualitative, 3 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 34 report an effect size · 56 claims rest on one study
+> **Evidence** · 58 claims (42 show a difference, 12 mixed, 4 no difference) · 35 studies (10 causal, 6 design, 5 associational, 5 qualitative, 4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 35 report an effect size · 58 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -88,6 +88,8 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Community college CREATE students showed significant self-rated gains in reading primary literature, understanding research, and maturation of epistemological beliefs, with no change in the knowledge-is-certain category](../claims/cc-create-saab-affective-epistemological-gains.md) [~M] — measured as an outcome of the instruction studied
 - [Only CURE students showed progress in views of science as creative and process based](../claims/cure-only-gains-creative-process-views-nature-of-science.md) [+M] — measured as an outcome of the instruction studied
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](../claims/reformed-course-gains-beliefs.md) [+M] — measured as an outcome of the instruction studied
+- [A student's epistemological stance can shift subtly in the moment toward expecting mathematical formalism to mesh with everyday experience, triggered by a conceptual cue](../claims/epistemological-stance-shifts-with-conceptual-cue.md) [+W] — measured as an outcome of the instruction studied
+- [A student's persistent problem-solving impasse can be stabilized by an epistemological stance rather than by a conceptual or skill deficit](../claims/impasse-stabilized-by-epistemological-stance.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

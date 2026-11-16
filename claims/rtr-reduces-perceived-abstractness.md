@@ -50,3 +50,4 @@ Survey of one ANU class in 2008 in which 19 students had completed the RTR lab a
 - [Students who completed the Real Time Relativity lab scored significantly higher on externally set relativity exam questions than classmates who did not](rtr-lab-improves-relativity-exam-marks.md) — related
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — related
 - [Learning through RTR was predominantly active and hands-on, equivalent to other laboratory activities](rtr-predominantly-active-hands-on-learning.md) — related
+- [Students in RTP labs report a stronger perceived connection between lab experiment concepts and lecture theory than students in traditional labs](rtp-students-report-lab-lecture-connection.md) — related

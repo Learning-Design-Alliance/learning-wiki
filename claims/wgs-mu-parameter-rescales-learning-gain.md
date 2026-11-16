@@ -51,3 +51,4 @@ Analysis of a small illustrative dataset (n=10) combining pretest scores with si
 - [WGS demonstrates stable inferential behavior despite deviations from normality in both datasets](wgs-robust-nonnormal-data.md) — related
 - [Both WGS and RLG detect the same significant interaction between teaching format and learning disposition in the empirical dataset](wgs-rlg-same-interaction-effect.md) — related
 - [The WGS yields interpretable results with very small sample sizes where Rasch-based approaches are not applicable](wgs-small-sample-advantage.md) — related
+- [Adjusted scores from students with more observed test scores receive substantially larger weights in teacher effect estimation, with five-score students weighted about three times one-score students](incomplete-data-downweighted-in-teacher-effects.md) — related

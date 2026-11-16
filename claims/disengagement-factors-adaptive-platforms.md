@@ -72,3 +72,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — related
 - [Problems encountered in the flipped classroom fell into three themes: motivation, content, and learning](fc-problems-three-themes.md) — related
 - [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — a narrower finding that bears on this claim
+- [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — a narrower finding that bears on this claim

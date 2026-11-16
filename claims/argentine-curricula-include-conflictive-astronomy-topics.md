@@ -47,3 +47,6 @@ The article's descriptive comparison of the Provincia de Buenos Aires EGB-1/2/3 
 ## Related Claims
 - [The review reports that many preservice primary teachers hold alternative conceptions about the day-night cycle, Moon phases and the seasons](preservice-teachers-alternative-conceptions-astronomy-reported.md) — related
 - [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related
+- [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
+- [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
+- [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related

@@ -52,7 +52,8 @@ The review concludes that it is time to take nature seriously as a resource for 
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](../claims/nature-settings-boost-motivation-engagement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use local ancient monuments as outdoor classrooms, chosen after surveying what pupils and teachers do not know](local-monuments-as-outdoor-classrooms-strategy.md)
 
 ## Examples
 -

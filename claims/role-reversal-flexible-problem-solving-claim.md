@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-16
 sources:
   - id: liu-yingmin-2023
     resource: "https://doi.org/10.1186/s12909-023-04294-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that performing personalised nursing role-playing for different patients and diseases cultivates flexible problem-solving ability, unlike step-by-step traditional instruction. [→ Liu Yingmin 2023](#liu-yingmin-2023)

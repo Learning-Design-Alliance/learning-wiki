@@ -49,3 +49,4 @@ From the Perfusionists' Attitudes on Perfusion Safety survey (148 respondents, 5
 - [Over half of surveyed perfusionists encountered a bubble problem between the oxygenator and the arterial filter](bubble-problem-oxygenator-arterial-filter.md) — related
 - [Turkish perfusionists report frequent equipment failures and perfusion accidents during practice](perfusionists-report-frequent-equipment-failures.md) — related
 - [Perfusionists unanimously support simulation-based training before real-patient perfusion and post-graduation qualification exams](perfusionist-support-simulation-and-qualification-exams.md) — related
+- [Severe start-up difficulties, in which students did not know what to do, occurred exclusively in the computer simulations, while defective equipment problems occurred far more often in real experiments](planlessness-only-in-simulations-defects-only-in-experiments.md) — related

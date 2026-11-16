@@ -45,7 +45,8 @@ The session placed students in three sequential 25-minute stations simulating ph
 - [The difference on items directly taught in the simulation session was smaller and only marginally significant](../claims/hfs-taught-items-smaller-significant-difference.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Multi-station investigation with a hands-on wavefront-correction engineering challenge](ao-multi-station-correction-challenge.md)
 
 ## Examples
 -

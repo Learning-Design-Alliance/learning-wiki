@@ -59,8 +59,10 @@ Hands-on investigation makes an invisible force observable and testable, which i
 6. Assess with novel objects and a "explain the compass" transfer prompt ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Predict-Observe-Explain](predict-observe-explain.md) — the prediction-observation-explanation cycle is the core structure of each investigation
 - [Learning Cycles](learning-cycles.md) — magnetism investigations fit the explore-then-explain phase of a learning-cycle lesson
+- [Sequence basic field experiments with each Maxwell equation, using the GA master equation as an overview mind map](ga-experiment-sequence-master-equation-mind-map.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — testing objects applies the concept of magnetic attraction to concrete instances

@@ -50,3 +50,4 @@ Qualitative discourse and conversation analysis of the videotaped interactions, 
 - [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related
 - [Dominant behaviour and criticism negatively influence group interaction but can act as triggers for learning](dominance-criticism-negative-interaction-trigger-learning.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

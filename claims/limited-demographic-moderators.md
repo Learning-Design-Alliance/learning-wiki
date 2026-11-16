@@ -74,3 +74,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [No differences in classroom anxiety by gender, ethnicity, or year in school were detected](no-anxiety-differences-demographics.md) — related
 - [The three study groups showed no significant baseline differences in clinical competence or socio-demographic and job characteristics](baseline-equivalence-three-groups.md) — related
 - [The session's effectiveness in knowledge and attitude does not vary by socio-demographic characteristics, though baseline knowledge differs by education, occupation, income and household-head status](effectiveness-uniform-across-socio-demographics.md) — a narrower finding that bears on this claim
+- [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related

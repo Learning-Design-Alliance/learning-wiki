@@ -50,3 +50,4 @@ The review's synthesis of divisions of labor and rules across the corpus (Findin
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md) — related
+- [The legitimacy of academic rules rests in the legitimacy of the issuing authority, not in individual students' judgments of rational justification](rule-legitimacy-rests-with-issuing-authority.md) — related

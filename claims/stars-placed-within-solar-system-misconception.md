@@ -1,0 +1,51 @@
+---
+type: claim
+title: Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers
+description: Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers
+id: stars-placed-within-solar-system-misconception
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-16
+evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
+sources:
+  - id: brown-2011
+    resource: "https://doi.org/10.48550/arXiv.1110.3469"
+    title: "Brown, D. (2011). The Orion constellation as an installation: An innovative three dimensional teaching and learning environment. [doi:10.48550/arXiv.1110.3469](https://doi.org/10.48550/arXiv.1110.3469)"
+    author: Brown, D.
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 1
+---
+
+# Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+
+## Subclaims
+`q1 i?` Educational research finds stars are quite commonly placed within our solar system by students of different ages, and trainee teachers misinterpret parallax and stellar distances. [→ Brown 2011](#brown-2011)
+
+## Evidence
+
+### Brown 2011
+
+Brown, D. (2011). The Orion constellation as an installation: An innovative three dimensional teaching and learning environment. [doi:10.48550/arXiv.1110.3469](https://doi.org/10.48550/arXiv.1110.3469)
+
+`q1 · i?` · `design · r1`
+
+The article reports, citing prior educational research (Trumper; Brown & Neale), that students of different ages commonly place stars within our solar system and that trainee science teachers misinterpret parallax and stellar distances. No new data are collected here.
+
+> "Educational research into how the structure of the solar system is perceived by students of different age has concluded that stars are quite commonly placed within our solar system"
+
+## Discussion
+
+
+## Related Claims
+- [The activity failed to convey the three-dimensional structure of constellations and created a new misunderstanding about the distance over which constellation shapes change](constellation-activity-fails-3d-structure.md) — related
+- [Semi-structured interviews with 110 undergraduates confirmed factual preconceptions about moons, including confusing moons with stars and asteroids and believing moons originate only as captured asteroids](student-moon-preconceptions-interviews.md) — related
+- [A role-play constellation activity dramatically reduced the misconception that the Pole Star is the brightest star in the sky](constellation-activity-reduces-pole-star-brightness-misconception.md) — a narrower finding that bears on this claim

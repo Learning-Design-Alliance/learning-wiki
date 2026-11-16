@@ -75,3 +75,4 @@ The review reports a study comparing outdoor forest schooling one day a week wit
 - [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
 - Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related
+- [Outdoor learning furthers deeper learning and demonstrates the practicality of taught skills, per the Rickinson et al. review](outdoor-classroom-deeper-learning.md) — related

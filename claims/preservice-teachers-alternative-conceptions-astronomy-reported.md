@@ -49,3 +49,4 @@ Narrative review attributing this to Parker y Heywood (1998): of 41 prospective 
 - [Argentine primary and secondary minimum-content curricula include the astronomy topics most associated with alternative conceptions](argentine-curricula-include-conflictive-astronomy-topics.md) — related
 - [Para el ciclo día-noche el modelo más frecuente coincide con el científico aceptado, aunque algunas alumnas apelaron a un modelo geocéntrico](ciclo-dia-noche-modelo-cientifico-frecuente.md) — related
 - [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related
+- [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — a narrower finding that bears on this claim

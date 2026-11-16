@@ -50,3 +50,6 @@ Meeting report summarizes Alkaher and Dolan's interviews with CURE students at a
 - [Only CURE students showed progress in views of science as creative and process based](cure-only-gains-creative-process-views-nature-of-science.md) — related
 - [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related
 - [Students in traditional laboratories access knowledge almost solely from authority, while reformed Scientific Community Labs foster sense-making framing](traditional-labs-authority-versus-scl-sense-making.md) — related
+- [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related
+- [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
+- [Students who learn about scientists who got wrong answers come to see scientific answers as elusive rather than found in the back of a book](wrong-answer-scientists-teach-answers-are-elusive.md) — related

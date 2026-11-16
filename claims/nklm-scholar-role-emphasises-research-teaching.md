@@ -51,3 +51,4 @@ Qualitative text analysis comparing the NKLM Scholar role with 13 international 
 - [Teaching and educating competencies are described in much greater extent in the NKLM than in comparable international frameworks](nklm-teaching-competencies-more-extensive.md) — possibly the same claim (merge candidate)
 - [A systematic search identified 13 national outcome frameworks, seven of which contain an explicit Scholar role](systematic-search-13-outcome-frameworks.md) — related
 - [The NKLM describes lifelong learning more concretely and less abstractly than international frameworks](nklm-lifelong-learning-more-concrete.md) — related
+- [Particles and Nuclei strongly emphasises physical concepts while giving applications little and highly selective attention, exemplified by a one-third-page reactors digression](particles-and-nuclei-emphasises-physical-concepts.md) — related

@@ -44,7 +44,8 @@ A homework intervention in which students complete a five-column glossary form: 
 - [Submission](submission.md)
 
 ## Examples
--
+
+- [Include a fully solved test case before the graded case in computational homework to support debugging and build confidence](../strategies/test-case-before-grading-case-homework.md)
 
 ## Key Sources
 - David Wenhao Huang, Hans Aagard, Heidi Diefes-Dux. (2004). Impact of Cognitive-based Instructional Intervention on Learning Motivation: The Implementation of Student-made Glossary in a Programming-oriented Engineering Problem-solving Course and Its Impact on Learning Motivation. https://eric.ed.gov/?id=ED485015

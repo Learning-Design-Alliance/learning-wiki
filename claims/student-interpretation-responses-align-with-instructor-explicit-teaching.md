@@ -1,0 +1,55 @@
+---
+type: claim
+title: Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor
+description: Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor
+id: student-interpretation-responses-align-with-instructor-explicit-teaching
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-16
+evidence_strength: moderate
+newest_evidence: 2010
+sources:
+  - id: baily-2010
+    resource: "https://doi.org/10.48550/arXiv.1108.5226"
+    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)"
+    author: "Baily, C., & Finkelstein, N. D."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Students taught a Realist/Statistical interpretation were most likely to prefer a Realist interpretation of the double-slit experiment, while students taught a Matter-Wave interpretation overwhelmingly preferred a Quantum (wave-packet) description. [→ Baily 2010](#baily-2010)
+
+## Evidence
+
+### Baily 2010
+
+Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)
+
+`q2 · i?` · `associational · r1`
+
+Post-instruction survey data from four modern physics courses (~100 students each) with different instructional approaches to quantum interpretation. Students' essay responses on double-slit interpretation reflected the specific perspective their instructor promoted, being "the most likely to prefer a Realist interpretation of the double-slit experiment" in the Realist/Statistical course.
+
+> "Student responses from this course in both contexts could be considered in alignment with Instructor A’s explicit learning goals: they were the most likely to prefer a Realist interpretation of the double-slit experiment"
+
+## Discussion
+
+
+## Related Claims
+- [De-emphasizing interpretation leads to more varied student responses, with some preferring realist interpretations](de-emphasizing-interpretation-yields-varied-student-responses.md) — related
+- [Instructor interpretive stance influences student survey responses, but students often do not generalize interpretive frameworks across contexts](instructor-stance-shapes-student-interpretive-responses.md) — related
+- [Students taught delocalized wave descriptions in one context do not generalize to contexts where interpretation is not addressed](matter-wave-students-fail-to-generalize-to-atomic-context.md) — related
+- [Students are more likely to maintain realist perspectives in topic areas where instructors are less explicit about interpretation](students-retain-realist-perspectives-where-instructors-less-explicit.md) — related
+- [Adding general discussion of interpretive themes late in the course does not shift students away from realist stances on atomic electrons](late-interpretive-discussion-insufficient-to-shift-realist-stance.md) — related
+- [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
+- [Introductory modern physics students invoke concepts and beliefs paralleling expert physicists when arguing for favored interpretations of quantum mechanics](student-interpretive-stances-parallel-expert-physicists.md) — related
+- [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related

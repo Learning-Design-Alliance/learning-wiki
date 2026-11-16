@@ -54,3 +54,4 @@ Cohort trend analysis of Chicago Public Schools administrative data tracking all
 - The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [Administration and academic changes were a contributory factor in a roughly 10% pass-rate increase and roughly 13% progression-rate increase between 2006-07 and 2008-09](early-contact-linked-ten-percent-pass-rate-thirteen-percent-progression-gain.md) — related

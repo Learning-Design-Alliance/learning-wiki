@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-16
 sources:
   - id: daniell-difrancesca-2025
     resource: "https://doi.org/10.1007/s11251-025-09741-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the 2x8 mixed ANOVA on Kahoot performance, the group-by-time interaction and between-group effect were non-significant, while time affected scores for all students. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

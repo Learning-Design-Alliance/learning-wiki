@@ -48,3 +48,4 @@ Debate-article argument (type e) drawing on the author's cited studies. The arti
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them](llm-distractor-likelihood-moderately-tracks-student-choices.md) — related
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](llm-math-distractors-more-valid-than-plausible.md) — related
+- [MCQ format is unsatisfactory for diagnosis because fixed options combine concepts and permit erroneous inferences](mcq-unsatisfactory-for-diagnosis.md) — related

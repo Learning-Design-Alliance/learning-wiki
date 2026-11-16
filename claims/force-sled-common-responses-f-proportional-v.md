@@ -49,3 +49,4 @@ Comparison of Table IV response mappings for the Force Sled cluster with Thornto
 - [Direction-of-motion model classifies more students than F ∝ v on Reversing Direction questions](direction-of-motion-model-reversing-cluster.md) — related
 - [False positives arise when Reversing Direction and Newton III questions are scored individually](fmce-false-positives-triplet-scoring.md) — related
 - [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
+- [A majority of M&I students (71%) and half of traditional students (50%) incorrectly asserted a net force in the direction of the elevator's motion](net-force-in-direction-of-motion-error.md) — related

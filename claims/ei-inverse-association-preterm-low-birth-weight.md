@@ -54,3 +54,4 @@ Subgroup analyses within the matched LSED cohort for preterm and low-birth-weigh
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related
 - [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md) — related
 - [Preterm children show deficits in all mathematics subskills, with the higher-order skill of applied problems most associated with preterm birth](preterm-mathematics-subskill-deficits.md) — related
+- [Adjusted scores from students with more observed test scores receive substantially larger weights in teacher effect estimation, with five-score students weighted about three times one-score students](incomplete-data-downweighted-in-teacher-effects.md) — related

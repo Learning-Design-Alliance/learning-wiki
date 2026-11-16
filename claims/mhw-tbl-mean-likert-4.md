@@ -61,3 +61,4 @@ Descriptive statistical analysis of the pilot's 5-point Likert questionnaire (1 
 - [Team-based learning and simulation receive the highest mean preference ratings among preclinical instructional methods](tbl-simulation-highest-rated-preclinical-methods.md) — related
 - [Students rated physician-taught simulation more favorably than peer-taught simulation across attitude measures](peer-taught-simulation-lower-satisfaction.md) — related
 - [Students responded favorably to collaborative testing, reporting high involvement, reduced stress, and interest in future group-testing classes](positive-student-perceptions-collaborative-testing.md) — related
+- [Learners rated the circuit-measuring cooperative system positively on a five-point Likert questionnaire](likert-questionnaire-positive-circuit-measuring-system.md) — related

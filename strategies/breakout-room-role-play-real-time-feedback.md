@@ -50,6 +50,7 @@ During synchronous sessions, students rotate through roles (e.g., counselor, pat
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
 - [Standardized 360° feedback sequence: self-reflection, peer feedback, SP feedback, then trainer synopsis](standardized-360-feedback-sequence-strategy.md)
 - [Have students learn physical examination skills in groups with peer observation, near-peer teachers, and simulated or real patients with feedback](group-peer-practice-pe-skills.md)
+- [Use scenario-based role-play to prepare interns for communicating with mentors](mentor-communication-scenario-role-play.md)
 
 ## Examples
 -

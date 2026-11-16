@@ -78,6 +78,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](../strategies/schedule-dissonance-before-lecture-with-clickers.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](../strategies/concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Use statistical-mode and induce-mode interactive questioning, especially for large classes, rather than passive or simple vote modes](../strategies/statistical-induce-interactive-modes.md)
+- [Teach single-quanta experiments by presenting actual data from original sources with clicker-question discussion, omitting extraneous technical details.](../strategies/single-quanta-original-data-clicker-discussion-strategy.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

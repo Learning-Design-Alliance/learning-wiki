@@ -42,7 +42,8 @@ The article recommends that "attaching some form of credit to formative assessme
 - [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](../claims/grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 
 ## Examples
 -

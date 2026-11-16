@@ -68,3 +68,4 @@ Questionnaire item on weekly time devoted to intercultural self-improvement (Tab
 - [Students explained their national-origin racial classifications as derived from media depictions rather than direct knowledge](media-derived-nationality-stereotypes.md) — related
 - [Age is a central network node: older participants read more and watch more TV, younger participants use social networks and study more](age-central-node-free-time-activities.md) — related
 - [Chinese primary school EFL teachers report being not well prepared for intercultural foreign language teaching](primary-efl-teachers-not-well-prepared-iflt.md) — related
+- [Students' main information source about radioactivity is mass media and the internet (73%), with only 14% citing school, which the author reads as the educational system failing as an information source](media-outperforms-school-nuclear-information.md) — related

@@ -47,3 +47,4 @@ The authors' argument in the Conclusion, citing Bell's advocacy of the construct
 ## Related Claims
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
+- [A metric-first approach to special relativity lets students accomplish much using a single map-frame rather than dual frames](metric-first-single-map-frame.md) — related

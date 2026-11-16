@@ -48,3 +48,5 @@ Análisis de respuestas de la prueba piloto a las preguntas 3 y 5. Muchas alumna
 - [Para el ciclo día-noche el modelo más frecuente coincide con el científico aceptado, aunque algunas alumnas apelaron a un modelo geocéntrico](ciclo-dia-noche-modelo-cientifico-frecuente.md) — related
 - [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related
 - [Respuestas muy variadas sobre definiciones astronómicas corrientes y terminología cotidiana](terminologia-cotidiana-respuestas-variadas.md) — related
+- [Algunos futuros docentes explican las estaciones usando el clima como causa, confundiendo causa y efecto (causalidad singular)](causalidad-singular-clima-estaciones.md) — possibly the same claim (merge candidate)
+- [Entre los futuros docentes de primaria, la teoría del alejamiento (cercanía o lejanía del Sol) es la explicación más frecuente para las estaciones del año](teoria-alejamiento-estaciones-futuros-docentes.md) — related

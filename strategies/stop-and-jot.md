@@ -85,6 +85,7 @@ Stop and Jot converts passive listening into intermittent [Active Learning](../p
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening jots often serve this function before new content
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
 - [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
+- [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
 
 ## Examples
 - **Elementary literacy blocks** — teachers place a stop box in guided-reading notes; students jot a prediction or inference at chapter breaks, then discuss with a partner (Jot-Pair-Share).

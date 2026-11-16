@@ -81,3 +81,4 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

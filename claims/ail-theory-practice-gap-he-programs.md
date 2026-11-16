@@ -52,3 +52,4 @@ Authors' interpretation from the Discussion, drawing on the curriculum mapping a
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [AI literacy comprises three key components: understanding AI capabilities, utilizing AI for problem solving, and applying AI in sociocultural contexts](ai-literacy-three-components.md) — related
+- [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — a narrower finding that bears on this claim

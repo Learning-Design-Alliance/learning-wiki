@@ -48,3 +48,4 @@ Thematic analysis of think-aloud interviews found participants drew on intervent
 - [Readers with little research experience based final messages almost entirely on authors' conclusions and drew conclusions unsupported by the review](abstract-only-reading-produces-unsupported-conclusions.md) — related
 - [Healthcare decision makers unfamiliar with diagnostic test accuracy research find Cochrane DTARs largely inaccessible and misinterpret them](dtar-inaccessible-unfamiliar-readers.md) — a broader claim this one bears on
 - [Poor layout and presentation hindered understanding and motivation even for readers with good DTAR knowledge](dtar-layout-presentation-hinders-all-readers.md) — related
+- [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](mixing-atlas-cms-institutes-videoconference-confusion.md) — related

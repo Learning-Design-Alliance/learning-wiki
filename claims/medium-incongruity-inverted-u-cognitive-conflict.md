@@ -57,3 +57,4 @@ Theoretical proposal in the Motivational processes section, displayed in Fig. 3 
 - [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
 - [Information seeking follows a cost–benefit analysis of resolving curiosity](curiosity-cost-benefit-information-seeking.md) — related
 - [Specific and diversive curiosity are labels on a continuum of information generality within one knowledge-gap-driven process, not categorically distinct types](specific-diversive-curiosity-continuum.md) — related
+- [The cognitive conflict over the Earth's immobility leads students to construct a first formulation of the principle of conservation of motion](cognitive-conflict-leads-to-conservation-principle.md) — a narrower finding that bears on this claim

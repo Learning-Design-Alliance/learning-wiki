@@ -40,7 +40,9 @@ Virtual Field Trips are physically active lessons combining curriculum content w
 - 
 
 ## Related Designs
+
 - [Vfts Flexible Cross Curricular Tool](../claims/vfts-flexible-cross-curricular-tool.md)
+- [E-learning environment with virtual tours of Gardom's Edge for FE/HE teaching and school virtual field trips](gardoms-edge-elearning-virtual-tour.md)
 
 ## Examples
 -

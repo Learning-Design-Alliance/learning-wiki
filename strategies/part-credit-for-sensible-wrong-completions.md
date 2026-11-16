@@ -39,6 +39,7 @@ The article suggests two methods of handling accuracy in scoring: give no credit
 ## Related Strategies
 
 - [Score sentence tests by summing each correctly translated sentence's scale value rather than raw number correct](scale-value-scoring-latin-sentences.md)
+- [Colour-coded partial-credit scoring that keeps points in jeopardy during collaboration](two-colour-partial-credit-scoring-strategy.md)
 
 ## Examples
 -

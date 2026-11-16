@@ -41,7 +41,8 @@ The article recommends supporting secondary-school explanation of thermodynamics
 - [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](../claims/granular-matter-model-replaced-by-md.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use a piston-in-tube heating exercise with an experimentally verifiable oscillatory solution in thermodynamics courses and laboratories](piston-in-tube-time-dependent-exercise-strategy.md)
 
 ## Examples
 -

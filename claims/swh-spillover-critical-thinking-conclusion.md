@@ -49,3 +49,4 @@ Authors' interpretive conclusion (type e) from the Conclusions section, not an i
 - [The SWH implementation showed no effect on Science scores](swh-no-effect-science-scores.md) — related
 - [ELL students gained an additional advantage under SWH, while interaction terms for other demographic groups were not significantly different from 0](swh-ell-interaction-advantage.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — a broader claim this one bears on
+- [The authors conclude that reasoning ability, as measured by the CTSR, can be affected by classroom practice](ctsr-affected-by-classroom-practice.md) — a narrower finding that bears on this claim

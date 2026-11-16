@@ -48,3 +48,4 @@ MANCOVA on post-test Inquiry Learning Skill Perception scores from a quasi-exper
 - [Adding concept cartoons to problem based learning produced no additional effect on inquiry learning skill perceptions](concept-cartoons-no-additional-inquiry-perception-effect.md) — related
 - [Neither PBL nor PBL with concept cartoons significantly changed students' levels of relating knowledge with daily life](pbl-no-effect-knowledge-daily-life-relation.md) — related
 - [Groups differed at pre-test on relating knowledge with daily life but not on inquiry learning skill perceptions](pretest-rkdl-difference-ilsp-equivalence.md) — related
+- [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) — related

@@ -144,9 +144,11 @@ This pattern is scoped to units in which a task can make a concept or principle 
 - [Direct Instruction](direct-instruction.md) — teach-first alternative for procedures, domain-general skills and young learners
 
 ## Examples
+
 - Science learners exploring environmental data because they need it to explain a local problem.
 - Engineering learners investigating a principle so they can apply it in a design challenge.
 - Business learners constructing concepts through inquiry and then using them in a decision scenario.
+- [CCD modeling activity sequence: airplane-model starter, blueprinting, model building, presentations, synthesis](../designs/ccd-modeling-activity-sequence.md)
 
 ## Key Sources
 - Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M)

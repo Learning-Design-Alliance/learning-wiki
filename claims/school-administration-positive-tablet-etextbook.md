@@ -49,3 +49,4 @@ Open interview with the school principal and principal assistant after the semes
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — reports the opposite
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related
 - [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — related
+- [Secondary-school students in an optional physics class learned to use Edaq530 with ease and were motivated to devise their own experiments](edaq530-student-class-creativity.md) — a narrower finding that bears on this claim

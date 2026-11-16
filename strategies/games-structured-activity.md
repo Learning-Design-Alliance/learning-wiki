@@ -64,6 +64,7 @@ Games can raise engagement and time-on-task, but meta-analytic evidence shows th
 - [Case-Based Learning](../strategies/case-based-learning.md) — an alternative experiential anchor with more explicit structure and less intrinsic feedback
 - [Gradual introduction of board-game-based learning to support inexperienced teachers](gradual-board-game-introduction-teachers.md)
 - [Use repeated computer-based map-game play as an engaging practice routine for social studies achievement](repeated-computer-game-practice-for-social-studies.md)
+- [Use a familiar-object starter activity to introduce modeling trade-offs before demanding content](familiar-object-starter-modeling-tradeoffs.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured follow-on that consolidates what play introduced

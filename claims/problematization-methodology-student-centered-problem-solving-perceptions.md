@@ -54,3 +54,4 @@ Qualitative thematic category 2 from final focus groups; another participant sai
 - [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
 - [Undergraduate dental students perceive that PBL strengthens communication and presentation skills needed for clinical practice](pbl-strengthens-communication-presentation-skills.md) — related
 - [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related
+- [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — related

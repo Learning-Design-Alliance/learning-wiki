@@ -52,3 +52,4 @@ Observational comparison of upper-division GPA (intro-physics grades removed) fo
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [Tutorial-cohort students earn marginally but not significantly higher upper-division course grades than non-Tutorial peers](tutorial-cohort-upper-division-grades.md) — related
+- [Grades in the calculus-based physics course correlate 0.75 with upper-division Physics GPA, with slightly higher grades in 25X](phys-25x-upper-division-correlation-075.md) — related

@@ -49,3 +49,5 @@ The article's discussion, citing a prior meta-analysis, addresses staff and stud
 - [Elimination testing with adapted scoring reduces guessing (non-doubt answering) compared with negative marking](eta-adapted-scoring-reduces-guessing.md) — related
 - [A majority of answer options chosen in long-menu questions were not offered as distractors in the corresponding Type A questions](long-menu-chosen-options-outside-type-a-distractors.md) — related
 - [Computer-based delivery makes longer MCQ option lists feasible without impairing examinee performance](computer-delivery-feasible-long-option-lists.md) — related
+- [MCQ format is unsatisfactory for diagnosis because fixed options combine concepts and permit erroneous inferences](mcq-unsatisfactory-for-diagnosis.md) — related
+- [A diagnostic test of seven randomly chosen True/False questions per concept category makes random guessing across a category less than one per cent likely](seven-tf-questions-per-category-guessing-below-one-percent.md) — related

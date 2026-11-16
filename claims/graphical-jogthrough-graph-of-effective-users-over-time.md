@@ -47,3 +47,4 @@ Definitional statement of the method’s output as described in the article: eva
 ## Related Claims
 - [Graphical Jogthrough applied to educational software offers quantitative and qualitative data for a rough estimation of the novice–becoming–expert pace](graphical-jogthrough-estimates-novice-expert-pace.md) — related
 - [Task progression graphs show difficult Narrative Manager events raise the distance-to-goal curve while assistive events such as hiding materials produce flat zones that cost user time](event-effects-on-task-progression.md) — related
+- [The CMS User Support operates a self-sustained cycle in which expert users teach new users, who become experts and improve the instruction materials](cms-self-sustained-teaching-cycle.md) — related

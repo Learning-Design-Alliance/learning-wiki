@@ -75,3 +75,4 @@ Observer records and usage logs during the school computer-lab testing sessions.
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
 - [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related
 - [Underperforming students rated role play highly useful and preferred open-book tests over closed-book tests in remediation feedback](students-rated-role-play-open-book-tests-useful-remediation.md) — related
+- [Students were fully engaged and having fun during the robot exercise, which the authors attribute to the robot being a non-standard teaching tool](robot-exercise-engagement-fun-attributed-to-nonstandard-tool.md) — related

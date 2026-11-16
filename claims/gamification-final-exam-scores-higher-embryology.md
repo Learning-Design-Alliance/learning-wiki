@@ -52,3 +52,4 @@ Learning-level comparison in the quasi-experiment: independent-samples t-test of
 - [Adding gamification to an in-person radiology rotation produces significantly higher radiographic-interpretation knowledge scores than the in-person rotation alone in fifth-year medical students](gamification-raises-radiographic-interpretation-knowledge.md) — related
 - [Gamification's exam advantage extended across most percentiles but not the highest, with gender-differentiated lowest and highest scores](gamification-percentile-gender-performance-differences.md) — related
 - [Block cohort exam scores were higher than traditional cohort scores (69.49 vs. 65.32 on a hundred-mark system)](block-cohort-higher-exam-scores.md) — related
+- [Introducing a play-based pedagogy with atypical experiments was associated with a peak in all course-evaluation criteria for the P17 fluid mechanics cohort](atypical-experiments-p17-evaluation-peak.md) — related

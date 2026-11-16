@@ -49,3 +49,4 @@ Classroom comparison study in the authors' reformed modern physics course, repor
 - [The most common error on the photoelectric prediction exam question is misapplication of Ohm's law, made by 42% of students answering at least one part incorrectly](ohms-law-misapplication-photoelectric-error.md) — related
 - [Approximately 85% of students using the curriculum correctly predict the results of changes to photoelectric-effect experimental conditions](photoelectric-curriculum-85-percent-prediction-mastery.md) — a narrower finding that bears on this claim
 - [Interactive simulations with associated homework increased students' explicit discussion and multiple-model use, but not Schrödinger-model use](simulations-increase-explicit-model-discussion.md) — related
+- [Students apply physics equations without the implicit physical conditions experts supply, as in the photoelectric effect equation](photoelectric-equation-hidden-condition-errors.md) — related

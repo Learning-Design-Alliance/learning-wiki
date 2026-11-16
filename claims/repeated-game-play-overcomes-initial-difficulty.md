@@ -48,3 +48,4 @@ Authors' observational report from the game-based session, not a tested result. 
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [No consistent learning effect of repeated TrackFX gameplay was found across children, though 37% showed positive performance slopes and improvement reached an asymptote after six sessions](no-consistent-trackfx-practice-effect.md) — reports the opposite
 - [Repeated play of computer-based geography games over nine trials significantly improves percent correct, distance error, and completion time for seventh-graders](repeated-map-game-play-improves-accuracy-error-and-speed.md) — a broader claim this one bears on
+- [Some student groups settled early on answers and ignored disconfirming evidence, such as attributing image effects to thickness rather than curvature](groups-ignored-disconfirming-evidence.md) — related

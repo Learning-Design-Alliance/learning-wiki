@@ -95,3 +95,5 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related
 - [Female bachelor's thesis students in pedagogy at one Norwegian university show systematically higher cumulative grade distributions than male students over a decade (N = 924)](female-higher-cumulative-grades-pedagogy-bachelor-thesis.md) — related
 - [Female gender, CAMS college, program type and earlier graduation year each predicted cumulative GPA alongside admission scores](gender-college-program-year-predict-gpa.md) — related
+- [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — a narrower finding that bears on this claim
+- [A 50 percent or greater chance of graduate-school-level success in Physics or Mathematics requires SAT-M well above 700](sat-m-above-700-fifty-percent-success-chance.md) — related

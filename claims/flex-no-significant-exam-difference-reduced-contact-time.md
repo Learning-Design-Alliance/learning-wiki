@@ -48,3 +48,4 @@ Post-test-only comparison of 2014 final exam scores in the IBA course: 140 admin
 - [The deviation of BIT students' exam results from BA means did not change significantly between conventional (2012/13) and FLEX (2014) formats](bit-deviation-stable-across-formats.md) — related
 - [An equivalence test showed FLEX and conventional students' final exam results were statistically equivalent despite halved classroom time](flex-equivalence-test-exam-results.md) — possibly the same claim (merge candidate)
 - [No significant post-test attitude difference was found between the e-learning-taught group and the conventionally taught group when both were pre-tested](elearning-vs-conventional-posttest-no-difference.md) — related
+- [Total ASTR122 scores were uniform across four terms, with means of 56.5, 54.1, 56.7 and 56.3 and standard deviations of 12](astronomy-score-stability-across-four-terms.md) — related

@@ -59,3 +59,4 @@ Secondary qualitative finding from the gateway math study of faculty and student
 - [Real-world translation was the most frequently endorsed strength, with 92% of users saying content and examples are translatable to daily clinical work](real-world-translation-top-strength.md) — related
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](cbl-constrained-by-resource-limited-context.md) — related
 - [Instructors' assessment philosophies centered on promoting non-technical discipline-independent skills, providing authentic learning experiences, and emphasizing individualized assessment](instructor-philosophies-ntdis-authentic-individualized.md) — related
+- [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related

@@ -69,3 +69,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](baseline-pretest-predicts-game-performance-better-than-cmt.md) — related
 - [Lawson scores correlate weakly with FCI and BEMA scores, while FCI and BEMA scores correlate strongly (r = 0.70 in the Chinese class)](lawson-content-score-correlations-small-fci-bema-large.md) — related
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — related
+- [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — related

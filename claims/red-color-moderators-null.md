@@ -51,3 +51,4 @@ Meta-regression moderator analyses in the random-effects model: none of the test
 - [The pooled effect of viewing red color on cognitive test performance is small (Δ = -0.13)](red-color-pooled-effect-small.md)
 - [After correcting for publication bias, no evidential value remains for an effect of red color on intellectual performance](red-color-publication-bias-no-evidential-value.md)
 - [Reasoning test performance was significantly lower in the red condition (Δ = -0.34), but the omnibus test across cognitive measures was not significant](red-color-reasoning-tests-effect.md)
+- [A presentation change — rendering the randomized exponent on the interaction constant in black rather than WebAssign's default red — reduced exponent-confusion errors from 30.5% to 9.1% between assignment versions.](exponent-confusion-reduced-by-text-color-change.md) — related

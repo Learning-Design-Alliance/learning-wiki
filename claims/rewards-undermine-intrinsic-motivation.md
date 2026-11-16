@@ -241,3 +241,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Students become peer teachers for intrinsic and extrinsic reasons, with time, logistics and lack of confidence as common barriers](peer-teacher-motivators-and-barriers.md) — related
 - [The article reports that prior literature suggests that optimal rehabilitation game design includes rewards, optimal challenges, feedback, choices, clear instructions, and socialization](optimal-rehab-game-design-engagement-features.md) — related
 - [Rules, rewards, and a points system fostered preschool children's respect for the rights and feelings of others during the TPSR program](rules-rewards-foster-preschool-respect.md) — reports the opposite
+- [Typical engineering assessment practices reward regurgitation and speed and designate conceptual reasoning as peripheral \"extra credit,\" in Michael's experience](engineering-assessment-rewards-regurgitation.md) — related

@@ -46,3 +46,4 @@ Comparison of IDEA long-form adjusted scores between Fall 2006 (37 of 88 respond
 
 ## Related Claims
 - [Student course evaluations decreased in the first iteration of the compressed course and then increased substantially in the second iteration, slightly surpassing pre-reform ratings](evaluations-dipped-then-rebounded-second-iteration.md) — related
+- [Administration and academic changes were a contributory factor in a roughly 10% pass-rate increase and roughly 13% progression-rate increase between 2006-07 and 2008-09](early-contact-linked-ten-percent-pass-rate-thirteen-percent-progression-gain.md) — related

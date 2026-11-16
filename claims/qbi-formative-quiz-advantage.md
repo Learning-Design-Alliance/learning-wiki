@@ -53,3 +53,4 @@ ANCOVA on weekly formative quiz scores for three intact class sections (N = 90),
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
 - [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related
 - [The open-access online RUSH course significantly improved formative quiz knowledge scores from a median of 60.0 to 86.7 (p < 0.001, effect size −0.949)](rush-mooc-knowledge-gain.md) — a narrower finding that bears on this claim
+- [The Buddy Quiz was deployed twice weekly-scale in two Physics First sections without curving grades](buddy-quiz-deployment-two-physics-first-sections.md) — related

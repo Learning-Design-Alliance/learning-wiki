@@ -3,12 +3,13 @@ type: claim
 title: Experts categorise problems by solution principles while novices categorise by surface features
 description: Experts categorise problems by solution principles while novices categorise by surface features
 id: experts-categorise-by-solution-novices-by-surface
+aliases: [novice-surface-expert-principle-categorization]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
-newest_evidence: 1998
+newest_evidence: 2007
 sources:
   - id: marcus-1998
     resource: "https://hdl.handle.net/1959.4/70247"
@@ -18,16 +19,37 @@ sources:
     i: "?"
     kind: associational
     rigour: 1
+  - id: gerace-2007
+    resource: "https://doi.org/10.48550/arXiv.0708.2496"
+    title: "Gerace, W. J. (2007). Contributions from Cognitive Research to Mathematics and Science Education. In D. Grayson (Ed.), Proceedings of the Workshop on Research in Science and Mathematics Education, Pietermaritzburg, South Africa. Originally published 1992. [doi:10.48550/arXiv.0708.2496](https://doi.org/10.48550/arXiv.0708.2496)"
+    author: Gerace, W. J.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
+  - id: gerace-2007-2
+    resource: "https://doi.org/10.48550/arXiv.0708.2496"
+    title: "Gerace, W. J. (2007). Contributions from Cognitive Research to Mathematics and Science Education. In D. Grayson (Ed.), Proceedings of the Workshop on Research in Science and Mathematics Education, Pietermaritzburg, South Africa. Originally published 1992. [doi:10.48550/arXiv.0708.2496](https://doi.org/10.48550/arXiv.0708.2496)"
+    author: Gerace, W. J.
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Experts categorise problems by solution principles while novices categorise by surface features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies (3 entries) · 2 associational `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` In physics problem-sorting, novices grouped problems by surface features or common objects, whereas experts categorised them by the physics principles needed to solve them. [→ Marcus 1998](#marcus-1998)
+
+`q2 i?` Novices classify problems by superficial aspects such as inclined planes or pendulums, whereas experts classify by the physics principles needed for solution. [→ Gerace 2007](#gerace-2007)
+
+`q2 i?` Experts' principle-based sorting is interpreted as evidence of an organized knowledge store lacking in novices. [→ Gerace 2007 (2)](#gerace-2007-2)
 
 ## Evidence
 
@@ -41,13 +63,41 @@ The thesis reports, citing Chi, Feltovich, and Glaser (1981), a study in which e
 
 > "Novices tended to group problems together according to surface features or common objects included in the problem description."
 
+### Gerace 2007
+
+Gerace, W. J. (2007). Contributions from Cognitive Research to Mathematics and Science Education. In D. Grayson (Ed.), Proceedings of the Workshop on Research in Science and Mathematics Education, Pietermaritzburg, South Africa. Originally published 1992. [doi:10.48550/arXiv.0708.2496](https://doi.org/10.48550/arXiv.0708.2496)
+
+`q2 · i?` · `associational · r?`
+
+Categorization study in which subjects sorted elementary physics problems by similarity of solutions without solving them. The article reports novices "classify problems by the superficial aspects of the problem"; no effect size is printed.
+
+> "Results indicate that novices tend to classify problems by the superficial aspects of the problem. For example, they might place all problems involving an inclined plane together and all the problems involving a pendulum together, etc."
+
+### Gerace 2007 (2)
+
+Gerace, W. J. (2007). Contributions from Cognitive Research to Mathematics and Science Education. In D. Grayson (Ed.), Proceedings of the Workshop on Research in Science and Mathematics Education, Pietermaritzburg, South Africa. Originally published 1992. [doi:10.48550/arXiv.0708.2496](https://doi.org/10.48550/arXiv.0708.2496)
+
+`q2 · i?` · `theoretical · r2`
+
+Same sorting study: the article reports that experts "tend to sort the problems by the physics principles that could be employed to solve the problem", interpreted as hierarchical organization of expert knowledge.
+
+> "Experts, on the other hand, tend to sort the problems by the physics principles that could be employed to solve the problem."
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — a broader claim this one bears on
 - [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related
 - [Experts work forwards from givens while novices work backwards via means-ends analysis](experts-work-forwards-novices-means-ends.md) — related
+- [Novices' categorization tendency shifted toward categorizing problems by principle rather than surface feature from pre-test to post-test after brief exposure to computer-constrained conceptual analysis, in one uncontrolled pre-post study](computer-constrained-conceptual-analysis-shifts-categorization.md) — a narrower finding that bears on this claim
+- [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](structure-emphasizing-cover-stories-categorization.md) — related
+- [Expert and novice card sorters are not distinguishable by the number of categories they create](expert-novice-category-number-ks-null.md) — related
+- [Expert and novice card sorters are not distinguishable by macroscopic graph measures: 3-cycles, maximum clique size, diameter, and average path length](macroscopic-graph-measures-no-expert-novice-difference.md) — related
+- [The best-fitting Cognitive Categorization Model has a multiple-categorization probability that decreases with the number of categories, matching observed 'stacker' and 'spreader' sorter behaviors](ccm-multiple-categorization-probability-decreases-with-categories.md) — related

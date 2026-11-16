@@ -41,6 +41,10 @@ In this inquiry pattern, learners first explore phenomena during Starters and wr
 ### Claims
 - [Circuit Design Inquiry Accomplished Learning Goals](../claims/circuit-design-inquiry-accomplished-learning-goals.md) [+W]
 
+## Related Designs
+
+- [CCD modeling activity sequence: airplane-model starter, blueprinting, model building, presentations, synthesis](ccd-modeling-activity-sequence.md)
+
 ## Related Patterns
 - 
 

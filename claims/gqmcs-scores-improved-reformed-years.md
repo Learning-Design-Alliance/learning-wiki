@@ -47,3 +47,5 @@ Essay-style 24-question GQMCS given as an extra-credit pre-final each year of th
 ## Related Claims
 - [Modern textbooks covering all four periods of quantum mechanics improved students' ability to develop quantum mechanics skills in an overall context](modern-texts-improve-overall-skills.md) — related
 - [Graduate quantum mechanics students score substantially higher on the QMCS than students after a traditional modern physics course](qmcs-graduate-vs-modern-physics-scores.md) — related
+- [QMCS posttest scores rise with course level, with significant gains in modern physics and zero gains in graduate courses](qmcs-posttest-scores-increase-with-level.md) — related
+- [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related

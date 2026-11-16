@@ -67,3 +67,4 @@ Combined pre-post analysis for the same 67 Monmouth students across three prompt
 - [Wagner marketing incubator participants outscored non-participants on end-of-semester critical thinking prompts by 16.95%, significant at the 11% two-tailed level](marketing-incubator-participants-endscore-advantage.md) — related
 - [Students scored better on earlier prompts than later prompts within the same survey session](prompt-order-advantage-earlier-prompts.md) — related
 - [Wagner students' overall pre-to-post critical thinking prompt gain of 9.8% was not statistically significant](wagner-prepost-gain-not-significant.md) — related
+- [AMSC students improved their knowledge-survey scores by an average of 80% from pre-test to post-test](amsc-pre-post-knowledge-gain-80-percent.md) — related

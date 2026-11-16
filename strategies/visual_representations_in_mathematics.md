@@ -66,6 +66,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
 - [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
 - [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
+- [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
 
 ## Examples
 - **Singapore Math / Math in Focus** — strip (bar) models are the central representation for word problems across grades K–8; students draw bars to represent known and unknown quantities before writing equations.

@@ -56,3 +56,4 @@ Post-hoc analysis of audio recordings of Style 5 sessions (N=47; post-test 31% k
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
 - [A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning](stat1170-ai-enabled-elements-complement-reasoning.md) — related
+- [Teaching only Bλ and its Wien peak in introductory courses leaves students confused when they later encounter Bν](teaching-only-b-lambda-causes-later-confusion.md) — related

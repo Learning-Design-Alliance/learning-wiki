@@ -1,0 +1,71 @@
+---
+type: claim
+title: Physics faculty lack consensus on what topics should be taught in modern physics
+description: Physics faculty lack consensus on what topics should be taught in modern physics
+id: no-faculty-consensus-modern-physics-topics
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-16
+evidence_strength: moderate
+newest_evidence: 2010
+sources:
+  - id: mckagan-2010
+    resource: "https://doi.org/10.48550/arXiv.1007.2015"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 3
+  - id: mckagan-2010-2
+    resource: "https://doi.org/10.48550/arXiv.1007.2015"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 3
+---
+
+# Physics faculty lack consensus on what topics should be taught in modern physics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · design `r3` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q1 i?` Interviews with 8 faculty members found no consensus about what should be taught in modern physics; only wave function and probability was named by more than half. [→ McKagan 2010](#mckagan-2010)
+`q1 i?` Measurement was controversial and was excluded from QMCS Version 2.0 as a primary learning goal. [→ McKagan 2010 (2)](#mckagan-2010-2)
+
+## Evidence
+
+### McKagan 2010
+
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+
+`q1 · i?` · `design · r3`
+
+Qualitative interview study of 8 faculty members (7 physics, 1 chemistry) asked to list the three most important concepts for modern physics. Overlapping responses were grouped into nine themes; only "wave function and probability (5)" was given by more than half.
+
+> "However, the most important result of our faculty interviews is that there is not a faculty consensus about what should be taught in modern physics."
+
+### McKagan 2010 (2)
+
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+
+`q1 · i?` · `design · r3`
+
+Some faculty listed measurement as among the most important concepts while several said it should not be taught; no modern physics textbook the authors reviewed included any discussion of measurement. There are no Version 2.0 questions with measurement as a primary learning goal.
+
+> "Because we wanted the QMCS to focus on topics that are universally taught, this result, along with the results discussed below from our review of textbooks and syllabi, led us to exclude this topic from later versions of the QMCS."
+
+## Discussion
+
+
+## Related Claims
+- [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
+- [Introductory modern physics students invoke concepts and beliefs paralleling expert physicists when arguing for favored interpretations of quantum mechanics](student-interpretive-stances-parallel-expert-physicists.md) — related
+- [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
+- [Some students spontaneously hold a mixed wave-particle (pilot-wave-like) ontology without awareness of formal pilot-wave interpretations](spontaneous-pilot-wave-mixed-ontology-students.md) — related
+- [Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor](student-interpretation-responses-align-with-instructor-explicit-teaching.md) — related

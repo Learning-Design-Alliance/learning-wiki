@@ -47,7 +47,8 @@ The article's intervention embedded a short reflection phase after every teachin
 - [Students initially preferred group reflection over individual reflection, but the preference faded over time](../claims/student-preference-group-reflection-faded-over-time.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use brief student-driven meta-moments before each inquiry phase to prompt reflection on how to perform that phase](meta-moments-before-inquiry-phases.md)
 
 ## Examples
 -

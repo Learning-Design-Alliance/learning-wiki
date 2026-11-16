@@ -52,3 +52,4 @@ Cross-institutional comparison of post-instruction BEMA scores for 2537 students
 - [Contingency-table analysis shows significant association of post-test BEMA category scores with curriculum treatment in every category, with no such association on the pre-test](posttest-category-association-significant.md) — related
 - [At Georgia Tech, M&I students outperform traditional students on nearly all BEMA items, with magnetostatics alone accounting for 55% of the overall performance difference](mi-item-analysis-magnetostatics-dominates.md) — related
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
+- [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related

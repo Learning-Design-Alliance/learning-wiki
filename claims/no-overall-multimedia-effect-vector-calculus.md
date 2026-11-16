@@ -54,3 +54,6 @@ Between-subject experiment (N = 16 without graphs, N = 20 with graphs), 36 engin
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
 - [Watching a multimedia presentation increases the probability of answering mid-term test questions correctly](multimedia-presentation-increases-probability-correct-answers.md) — reports the opposite
 - [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related
+- [Calculus-based students at RIT and UMaine answered far more often correctly than algebra-based students, with no significant representational differences in response patterns](calculus-based-higher-vector-addition-accuracy-uniform-methods.md) — related
+- [Conventional Gibbs vector calculus hinders students' intuitive understanding of physics because vectors do not integrate with basic algebraic operations](gibbs-vectors-limit-student-intuition.md) — related
+- [A GA-based presentation of electromagnetism is more accessible to students because it requires neither vector calculus nor tensor index notation](ga-electromagnetism-accessible-presentation.md) — related

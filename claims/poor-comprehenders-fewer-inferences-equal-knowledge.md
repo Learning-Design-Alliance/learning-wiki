@@ -56,3 +56,4 @@ Experiment with 13 skilled and 13 less skilled 7- to 8-year-old comprehenders ma
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](knowledge-compensates-textbase-not-inference.md) — related
+- [Second law decline at RB stems from failure to infer acceleration when it is not explicitly given, suggesting second law and acceleration develop in tandem](second-law-acceleration-entangled.md) — related

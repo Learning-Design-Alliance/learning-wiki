@@ -51,3 +51,4 @@ Descriptive comparison of program standards in the Program Standards subsection 
 - Per-child reimbursement rates vary by program in California, with regional rates differing up to 50% despite programs serving similar children — related
 - [Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly](ccdbg-head-start-quality-standard-differences.md) — related
 - [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — related
+- [Small-group research projects with high staff-to-student ratios were among the most successful aspects of the COSMOS astronomy cluster](small-group-research-projects-successful-cosmos-cluster.md) — related

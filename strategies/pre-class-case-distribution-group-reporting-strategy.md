@@ -53,6 +53,7 @@ An implementable recipe the authors describe for FC+CBL: send classic cases to s
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Online-only flipped-classroom surgical curriculum combining video preparation, pre-tutorial exam, and supervised online tutorial](online-only-flipped-surgical-curriculum-strategy.md)
 - [Design blended preceptor education by combining web-based modules with face-to-face case-based learning and planning logistics in the initial design phase](blend-wcp-case-based-preceptor-training-strategy.md)
+- [Organise computational modelling classes as small-team exploratory workshops with PDF activities, embedded video guidance and an online platform](modellus-workshop-class-organization-strategy.md)
 
 ## Examples
 -

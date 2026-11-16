@@ -50,3 +50,4 @@ Secondary analysis addressing the potential bias that three of five small groups
 - [Mean scores on gas exchange questions were lower than on non–gas exchange questions in both years, reflecting the challenge of the material](gas-exchange-questions-lower-scores-both-years.md) — related
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
+- [Group workbench activities raise specific facilitation challenges around participation and assumptions](workbench-group-facilitation-challenges.md) — related

@@ -64,6 +64,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - [Self-Explanation](../elements/self-explanation.md) — the mechanism by which learners extract the concept–procedure link
 - [Comparing Cases](../elements/comparing-cases.md) — contrast supports abstraction of the concept underlying different procedures
 - [Use properly designed quantitative problems to reveal and reinforce students' conceptual understanding](quantitative-problems-reveal-conceptual-understanding.md)
+- [Use the SHM derivation to integrate conceptual and mathematical reasoning in the introductory course](shm-derivation-integrates-conceptual-math-reasoning.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — bridge unfamiliar procedures to familiar conceptual structures

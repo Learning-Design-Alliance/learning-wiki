@@ -46,3 +46,4 @@ Interpretation of the blocking-factor analysis: Calc 1 could have the largest bl
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related
 - [CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)](cs-curricular-complexity-inversely-related-women-representation.md) — related
 - [The editorial argues that advanced, technical study of a subject may be worse than useless for the high school teacher of that subject.](advanced-subject-study-may-harm-high-school-teaching.md) — related
+- [Calculus 3 demand is attributed to a larger step up in mathematical maturity than the first-year sequence requires](calculus-3-demand-step-up-maturity.md) — related

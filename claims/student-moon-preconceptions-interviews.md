@@ -46,4 +46,4 @@ Development-phase qualitative analysis of prior-to-instruction semi-structured o
 
 
 ## Related Claims
--
+- [Students commonly misplace stars within the solar system and misinterpret parallax and stellar distances, including trainee science teachers](stars-placed-within-solar-system-misconception.md) — related

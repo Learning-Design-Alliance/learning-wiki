@@ -52,6 +52,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Teacher intervention in peer grouping and timely feedback to keep peer-assisted learning objective](teacher-intervention-peer-grouping-timely-feedback.md)
 - [Keep tutorial group membership consistent across rotations to enable continuous group development](consistent-tutorial-group-composition-strategy.md)
 - [Compose heterogeneous PBL groups by the 'right mix' of academic ability and match facilitator expertise to group needs](right-mix-group-composition-strategy.md)
+- [Assign facilitators to fixed teams with periodic check-ins rather than rotating between groups](fixed-facilitator-assignment-checkins.md)
 
 ## Examples
 -

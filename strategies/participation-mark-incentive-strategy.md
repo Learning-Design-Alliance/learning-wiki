@@ -44,7 +44,8 @@ The instructors incentivized timely quiz participation by awarding course credit
 - [Reviewing early-term Quizzical questions in the weeks before the final is associated with higher scores on the cumulative portion of the final exam](../claims/early-topic-review-cumulative-final.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Offer extra-credit incentives to encourage full effort on ungraded pre- and post-tests](extra-credit-incentive-concept-tests.md)
 
 ## Examples
 -

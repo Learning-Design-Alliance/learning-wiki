@@ -42,6 +42,7 @@ Beyond using the finished pendulum in experiments, the authors recommend having 
 
 - [Equip every student with a hands-on pendulum by building apparatus from low-cost surplus computer mice](low-cost-mouse-pendulum-per-student-equipment-strategy.md)
 - [Use a computer-controlled pendulum as a teaching tool spanning simple harmonic motion to chaos](computer-controlled-pendulum-teaching-strategy.md)
+- [Involve students in all steps of building the installation](students-build-installation-together.md)
 
 ## Examples
 -

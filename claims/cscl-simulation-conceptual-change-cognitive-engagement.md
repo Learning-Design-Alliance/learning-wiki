@@ -78,3 +78,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
 - [Co-learning with peers in TBL helps students identify knowledge gaps and practise establishing consensus](co-learning-peers-knowledge-gaps-consensus.md) — related
+- [The cognitive conflict over the Earth's immobility leads students to construct a first formulation of the principle of conservation of motion](cognitive-conflict-leads-to-conservation-principle.md) — a narrower finding that bears on this claim

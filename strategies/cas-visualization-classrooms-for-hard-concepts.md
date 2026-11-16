@@ -49,6 +49,7 @@ The authors recommend using technology to concretize mathematical concepts that 
 - [Prepare GSP activities beyond geometry and train teachers in dynamic geometry pedagogy](gsp-teacher-training-and-extension-strategy.md)
 - [Visual Representations in Mathematics](visual_representations_in_mathematics.md)
 - [Prepare conceptual change texts enriched with metaconceptual activities for mathematics and science topics containing abstract concepts](prepare-metaconceptual-cct-abstract-topics.md)
+- [Use computer simulations and software visualizations extensively to build students' visualization of quantum mechanics concepts](computer-simulations-visualize-quantum-concepts.md)
 
 ## Examples
 -

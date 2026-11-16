@@ -75,3 +75,5 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — possibly the same claim (merge candidate)
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — a narrower finding that bears on this claim
 - [Lawson scores correlate weakly with FCI and BEMA scores, while FCI and BEMA scores correlate strongly (r = 0.70 in the Chinese class)](lawson-content-score-correlations-small-fci-bema-large.md) — related
+- [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — related
+- [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related

@@ -50,6 +50,7 @@ The study's dataset is built from publication records of 22 workshop organizers 
 
 - [Research Map Visualization](../strategies/educational_research_map_visualization.md)
 - [Use transformer-based topic modeling (BERTopic) to map thematic structure and evolution of an emerging research field](../strategies/use-bertopic-map-emerging-field-themes.md)
+- [Bibliometric mapping of top research groups in Physics and Mathematics in Southeast Europe](../strategies/seenet-mtp-bibliometric-excellence-mapping-strategy.md)
 
 ## Key Sources
 - Risha, Z. & Roschelle, J. (2026, July). A bibliographic analysis of digital learning platforms as research infrastructure. Digital Promise. https://doi.org/10.51388/20.500.12265/305

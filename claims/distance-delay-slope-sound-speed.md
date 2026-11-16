@@ -48,3 +48,4 @@ Results section describing the measurement procedure shown in Fig. 3: distance i
 - [Measurement](../learner-variables/measurement.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
+- [Students overwhelmingly expect the stopwatch method to be more accurate, but the low-tech height method is actually the best of the three techniques](students-misjudge-height-method-accuracy.md) — related

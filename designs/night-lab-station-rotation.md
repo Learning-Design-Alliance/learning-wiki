@@ -44,7 +44,8 @@ A laboratory structure in which a large non-major class is divided into sections
 - [Clear Weather Correlated With Section Achievement](../claims/clear-weather-correlated-with-section-achievement.md) [~M]
 
 ## Related Designs
-- 
+
+- [Remote observing sessions giving students the experience of working astronomers](remote-observing-students-as-scientists.md)
 
 ## Examples
 -

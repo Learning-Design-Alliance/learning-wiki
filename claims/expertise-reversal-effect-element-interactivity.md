@@ -81,3 +81,4 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — related
 - [Cognitive load eliminated instruction-induced reversal of specific PIT in prior cited work, suggesting reversal instruction use is resource-dependent](cognitive-load-eliminates-reversal-pit-cited.md) — related
 - [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — a narrower finding that bears on this claim
+- [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](expert-chunking-realistic-circuits.md) — a narrower finding that bears on this claim

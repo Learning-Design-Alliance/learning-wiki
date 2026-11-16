@@ -60,9 +60,11 @@ Narrative and situational context give learners a structure for organizing new i
 6. Assess with a *different* event or scenario to check that the concept transferred beyond the original context ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — current events work best when learners first retrieve what they already know about the topic
 - [Acting-Role-Play](acting-role-play.md) — the embodied extension of character-based framing
 - [Case-Based Learning](case-based-learning.md) — the broader family; current events and fictional characters are two ways of sourcing the case
+- [Use current-events interest (e.g., a nuclear accident) and general-interest seminars to motivate students to engage with nuclear physics topics](current-events-seminar-motivation-strategy.md)
 
 ## Examples
 - **The Jasper Woodbury Problem Solving series** (Vanderbilt) — video-based fictional adventures ("Rescue at Boone's Meadow") that anchor complex mathematics problem-solving in a narrative; the canonical anchored-instruction curriculum. See [Anchored Instruction](../patterns/anchored-instruction.md).

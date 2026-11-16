@@ -54,3 +54,4 @@ Authors' interpretation of case-study observations in Sec. 7.2, where some parti
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.](supplynet-higher-learning-support-than-baseline.md) — related
 - [Longitudinal studies suggest reciprocal associations between some SECs and student engagement over time](reciprocal-sec-engagement-longitudinal.md) — related
+- [The CMS User Support operates a self-sustained cycle in which expert users teach new users, who become experts and improve the instruction materials](cms-self-sustained-teaching-cycle.md) — related

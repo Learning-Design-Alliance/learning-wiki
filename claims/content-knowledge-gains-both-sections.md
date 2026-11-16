@@ -53,3 +53,4 @@ Mixed-design ANOVA in the two-section quasi-experiment (SCALE-UP n = 34; Traditi
 - [Individual and group effort did not differ between students in the SCALE-UP–type and Traditional classrooms](effort-comparable-across-classroom-types.md) — related
 - [Students in both sections believed SCALE-UP infrastructure would enhance their performance even though measured performance did not differ](students-prefer-scale-up-perceptions.md) — related
 - [Self-efficacy increased significantly over the semester in both sections, with no significant difference between cooperative and individual treatments.](self-efficacy-increases-both-sections-no-peer-effect.md) — related
+- [Post-semester self-efficacy, scientist identity, and career commitment rose significantly in both inquiry and pre-inquiry semesters](post-semester-gains-self-efficacy-identity-commitment.md) — related

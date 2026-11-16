@@ -55,3 +55,5 @@ Manual three-step BCH multinomial logistic regression of latent class membership
 - [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related
 - [No binary gender performance gaps were observed in introductory biology across community college, inclusive, and selective institution contexts](no-gender-gaps-across-institution-types.md) — related
 - [Few students report groupmates limiting their participation, and lower biology competency, not gender or race/ethnicity, predicts such reports](low-exclusion-reports-competency-predicts.md) — a narrower finding that bears on this claim
+- [Gender, ethnicity, and introductory course type do not improve prediction of centrality in the PLC network](gender-ethnicity-not-predictors-of-plc-centrality.md) — related
+- [Participation in the PLC learning community is equitably distributed across gender and ethnicity](plc-participation-equitably-distributed.md) — related

@@ -54,3 +54,4 @@ Instruction-tuning experiments across Llama-3.1-8B-Instruct, Phi-4-4B-Mini, and 
 - [Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction](example-problems-degrade-llm-teaching.md) — related
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
 - [Tutor models trained on ten misconceptions simultaneously learn each misconception while overall correct accuracy remains stable or improves (93% to 98%)](tutor-model-multi-misconception-no-accuracy-tradeoff.md) — related
+- [Neither overgeneralization nor increased cognitive load explanations account for the observed U-shaped declines in Newtonian reasoning](overgeneralization-load-explanations-rejected.md) — related

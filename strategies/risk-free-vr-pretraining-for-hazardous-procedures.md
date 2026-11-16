@@ -52,6 +52,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Begin neurointerventional training with simulator sessions before patient contact](simulator-first-neurointerventional-onboarding.md)
 - [Use VR simulation as a supplement to, not a replacement for, traditional audiology training](vr-as-supplement-to-traditional-audiology-training.md)
 - [Combine immersive VR simulation with existing traditional teaching resources for venipuncture training](combine-vr-with-traditional-venipuncture-teaching.md)
+- [Move instrument practice onto the Internet with 3D simulation and group discussion](online-3d-instrument-practice-strategy.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ Decile analysis (N = 1981) of children whose age-7 achievement was within 0.5 SD
 - [GPAΔ at age 7 correlates negatively with subsequent achievement slopes, with students regressing on average 38.4% toward genomically predicted levels by age 16](gpad-regression-toward-genomic-prediction-one-third.md) — possibly the same claim (merge candidate)
 - [Domain-specific GPAΔ shows similar regression-to-prediction patterns, with the correlation significantly lower for English than for mathematics](domain-specific-gpad-english-lower-than-mathematics.md) — related
 - [Decile extremes differ by more than 1.2 SD (GPS) and 1.5 SD (SES) in age-16 achievement, but individual distributions overlap substantially](decile-extremes-differences-with-overlap.md) — related
+- [Overachievers (low SAT, high upper GPA) are disproportionately female (64%) and underachievers disproportionately male (79%)](overachievers-female-underachievers-male.md) — related

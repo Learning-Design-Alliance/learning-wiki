@@ -43,7 +43,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (10 for, 12 mixed, 2 against) · 31 studies (12 causal, 6 theoretical, 4 review, 3 quant-synthesis, 3 qualitative, 2 design, 1 associational), `q1`–`q4` · 6 of 31 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 33 studies (12 causal, 6 theoretical, 4 review, 4 qualitative, 3 quant-synthesis, 3 design, 1 associational), `q1`–`q4` · 6 of 33 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Claims read against the model above (2026-10-19) that are relevant but do not ch
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
 - [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [~W]
 - [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
+- [One student (Pat) solved the Two Balls Problem with a shortcut that blended symbolic equations with conceptual reasoning about physical processes, without calculating final velocities](../claims/pat-blended-shortcut-two-balls.md) [+W] — attached 2026-11-16 from Kuo et al. (2013), which proposed "Treat opportunistic blending of conceptual and formal mathematical reasoning as part of problem-solving expertise and a feasible instructional target".
+- [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](../claims/modellus-multiple-representations-interpretation.md) [+W] — attached 2026-11-16 from Rui Gomes Neves et al. (2010), which proposed "Design computational modelling activities around cognitive conflicts, multiple representations, and analytic–numerical interplay"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

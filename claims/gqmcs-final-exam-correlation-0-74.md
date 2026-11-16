@@ -46,3 +46,4 @@ Correlational analysis across the three course years shown in Fig. 3, with a pri
 
 ## Related Claims
 - [Final exam performance in the graduate course shows no significant correlation with undergraduate-level QMCS conceptual scores](final-exam-uncorrelated-qmcs.md) — reports the opposite
+- [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](qmcs-graduate-courses-no-gains-no-correlation.md) — reports the opposite

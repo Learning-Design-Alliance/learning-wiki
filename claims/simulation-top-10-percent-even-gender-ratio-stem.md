@@ -72,3 +72,4 @@ Simulation study inferring relative distributions of girls' and boys' grades fro
 - [Greater gender similarity in STEM grade variability arises because girls' grades are more variable in STEM than non-STEM, while boys' variability does not differ by subject](girls-more-variable-in-stem-boys-unchanged.md) — related
 - [Greater male variability is insufficient to explain male over-representation in STEM, given the small gender gaps in STEM grades](variability-insufficient-to-explain-stem-underrepresentation.md) — related
 - [In standardised test scores of 15-year-olds, gender differences in variance are consistent across STEM and non-STEM subjects, unlike in grades](test-score-variance-gap-consistent-across-subjects.md) — related
+- [The SAT-M 600 threshold implies demographic ratios among successful Physics and Mathematics students will be highly skewed](sat-m-threshold-demographic-implications.md) — reports the opposite

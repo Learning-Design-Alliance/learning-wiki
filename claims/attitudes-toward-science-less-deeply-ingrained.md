@@ -48,3 +48,4 @@ This is the author's interpretation in the conclusions section, offered as a pos
 - [Several attitudes toward science improved in a general education astronomy course, with normalized gains of about 50% on the top items](astronomy-course-attitude-gains-50-percent.md) — related
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related
+- [Discussing Riccioli encouraged physics students and opened skeptical non-science-major astronomy students up to science](riccioli-discussion-student-reactions.md) — related

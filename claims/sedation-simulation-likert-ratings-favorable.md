@@ -59,3 +59,4 @@ Voluntary post-session evaluation by 53 of 58 participants at three institutions
 - [Residents rate the prognosis curriculum highly acceptable and relevant (mean 4.5 on a 5-point scale)](prognosis-curriculum-high-acceptability-ratings.md) — related
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
 - [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related
+- [Six post-16 work experience students rated their placement positively on a Likert scale, judging it an ideal introduction to the university learning environment](work-experience-student-likert-evaluation.md) — related

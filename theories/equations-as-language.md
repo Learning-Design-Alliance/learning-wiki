@@ -17,7 +17,7 @@ sources:
 # Equations as Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 qualitative, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 5 studies (3 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 Physics instruction often treats an equation as fully understood once a student can derive or correctly manipulate it. This theory argues that deriving an equation and comprehending it are separate achievements — analogous to the difference between decoding text and reading it with comprehension. Adapting a reading-comprehension framework from literacy research, the theory identifies three levels of understanding a physics equation:
@@ -46,6 +46,10 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~W]
 - [The RCR index is distinct from reading comprehension level: good comprehenders do not necessarily show high RCR](../claims/rcr-index-distinct-from-comprehension.md) [~W]
 - [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](../claims/outer-inner-minus-conflation-context-dependent.md) [+W] — attached 2026-11-10 from Kate Hayes et al. (2009), which proposed "Outer minus and inner minus: two distinct meanings of a negative sign in scalar physics equations".
+- [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](../claims/novices-reason-from-mathematical-grammar.md) [+M] — attached 2026-11-16 from Edward F. Redish et al. (2009), which proposed "Encyclopedic meaning: understanding equations (like words) relies on a web of ancillary knowledge rather than terse definitions"; tests this page's relationship.
+- [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](../claims/pat-alex-encyclopedic-contrast.md) [+W] — attached 2026-11-16 from Edward F. Redish et al. (2009), which proposed "Encyclopedic meaning: understanding equations (like words) relies on a web of ancillary knowledge rather than terse definitions".
+- [Five interview students made the most common Tortoise-and-Hare symbolic error by using the Tortoise's velocity symbol as if it were the Hare's final velocity, some treating symbol associations as dynamic](../claims/variable-confusion-tortoise-hare-error.md) [+W] — attached 2026-11-16 from Eugene T. Torigoe (2012), which proposed "Symbol states and symbol properties framework for how symbols encode meaning in physics problem solving".
+- [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](../claims/plugging-in-numbers-cues-symbol-meaning.md) [+W] — attached 2026-11-16 from Eugene T. Torigoe (2012), which proposed "Symbol states and symbol properties framework for how symbols encode meaning in physics problem solving".
 
 ## Related Theories
 - (none yet linked)

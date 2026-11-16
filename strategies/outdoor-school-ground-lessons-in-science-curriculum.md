@@ -49,6 +49,8 @@ The article recommends that science teachers use interesting and meaningful outd
 
 - [Interaction with Natural Environment](interaction_with_natural_environment.md)
 - [Incorporating Physical Activity Into Classroom Learning](incorporating_physical_activity_into_classroom_learning.md)
+- [Scale up simple school-based experiments to realistic monument dimensions, turning the outdoor classroom into a mathematics laboratory](scale-up-experiments-monument-mathematics-laboratory.md)
+- [Use local ancient monuments as outdoor classrooms, chosen after surveying what pupils and teachers do not know](local-monuments-as-outdoor-classrooms-strategy.md)
 
 ## Examples
 -

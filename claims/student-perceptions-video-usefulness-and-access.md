@@ -67,3 +67,4 @@ Self-report and website hit data in the pilot trial: 87 total hits on the video 
 - [Medical students randomized to access a diabetes history-taking video were more often rated globally competent than students without video access](dmh-video-access-improves-global-competence-osce.md) — related
 - [Trainees reported high satisfaction with the module, with all respondents agreeing the training was excellent and 91% finding the content relevant to practice](wbl-module-satisfaction-neonatal-cus.md) — related
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
+- [The games and sketches increased online visibility, with growing downloads, views and webpage visits during 2011](gw-games-growing-online-engagement-2011.md) — related

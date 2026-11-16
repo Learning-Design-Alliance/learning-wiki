@@ -51,3 +51,4 @@ Study 5: a beta version of AIDA tested with 18 students in January 2025 under an
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
 - [Parental attitudes transformed from scepticism to high trust over the three cycles, with parents of low performers developing high confidence by Cycle 3](tprs-mtss-parental-trust-transformation.md) — related
+- [Over 250 feedback forms from the school campaign informed improvements to the tools and use cases](over-250-feedback-forms-informed-tools.md) — related

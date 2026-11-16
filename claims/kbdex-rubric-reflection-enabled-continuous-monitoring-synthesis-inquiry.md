@@ -56,3 +56,4 @@ Analysis of PSTs’ responses on metacognitive prompt sheets during two rounds o
 - [Students' use of metacognitive actions to direct group work increased over time when using the Knowledge Catalyser tools](metacognitive-actions-increase-over-time-knowledge-catalyser.md) — related
 - [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — a broader claim this one bears on
 - [Practitioner inquiry fostered learning about how to learn from practice](practitioner-inquiry-learning-to-learn.md) — related
+- [The Lens Inquiry activity was successful in emphasizing communication skills and giving students opportunities to engage in the process of science](lens-inquiry-built-communication-skills.md) — related

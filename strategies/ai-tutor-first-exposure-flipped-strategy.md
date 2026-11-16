@@ -47,6 +47,7 @@ The article recommends deploying AI tutoring as students' first substantial enga
 - [Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited](chatbot-out-of-class-instant-support.md)
 - [Use varied in-class group-work techniques (structured/unstructured discussion, circle of voices, fishbowl) to implement flipped learning](group-work-techniques-flipped-inclass-strategy.md)
 - [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
+- [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
 
 ## Examples
 -

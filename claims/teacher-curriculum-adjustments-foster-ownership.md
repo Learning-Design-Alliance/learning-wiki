@@ -48,3 +48,4 @@ Findings from the thematic analysis of teacher interviews in the case study, des
 ## Related Claims
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
 - [Preschool teachers with no coding background shifted from initial CS-related resistance to voluntary ownership of coding instruction after brief PD and curriculum implementation](teachers-shifted-resistance-to-ownership.md) — related
+- [The activity shifted pupils' justifications for why constellation stories change toward cultural change rather than star locations](constellation-activity-shifts-cultural-justification-q6.md) — related

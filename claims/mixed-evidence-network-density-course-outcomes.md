@@ -69,3 +69,4 @@ The review reports reviewed authors' own interpretation that "density is not the
 - [SNA, particularly when combined with content analysis, can provide a detailed understanding of interactions between network members, supporting optimisation of course design, learner-group composition and dropout identification](sna-combined-content-analysis-understanding-interactions.md) — related
 - [Classroom help networks that are theoretically most beneficial for achievement are highly uncommon in practice](beneficial-help-networks-highly-uncommon.md) — a narrower finding that bears on this claim
 - [Density, proportion of isolates, and segmentation of classroom help networks show no significant association with academic achievement](density-isolates-segmentation-null-achievement.md) — related
+- [Social network analysis holds promise for describing student learning communities and informing departmental support decisions](sna-promising-for-learning-communities.md) — related

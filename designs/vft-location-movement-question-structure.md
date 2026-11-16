@@ -40,7 +40,9 @@ The demonstrated VFTs follow a reusable lesson-level pattern: pupils virtually t
 - 
 
 ## Related Designs
+
 - [Physically Active Vft Google Tour Builder](physically-active-vft-google-tour-builder.md)
+- [E-learning environment with virtual tours of Gardom's Edge for FE/HE teaching and school virtual field trips](gardoms-edge-elearning-virtual-tour.md)
 
 ## Examples
 -

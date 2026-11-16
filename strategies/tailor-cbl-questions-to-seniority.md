@@ -50,6 +50,7 @@ The module's thirty questions are organized so facilitators can adapt the sessio
 
 - [Administer the participation style scale before organizing online discussion environments to tailor facilitation to learner styles](assess-participation-styles-before-designing-discussions.md)
 - [Adaptive systems should scaffold strategic disengagement as a reflective metacognitive choice rather than penalize it](scaffold-strategic-disengagement.md)
+- [De-emphasize Wien's displacement law in introductory classes and tailor Planck-curve presentation to the audience](de-emphasize-wien-law-introductory-classes.md)
 
 ## Examples
 -

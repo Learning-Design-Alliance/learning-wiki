@@ -52,6 +52,7 @@ Based on the trial findings of equivalent diagnostic outcomes, higher digital us
 - [Blended Learning](blended_learning.md)
 - [Integrate interactive e-learning modules into dental curricula while combining them with practical demonstrations](integrate-elearning-with-practical-demonstrations.md)
 - [Combine digital assessment systems with traditional teaching methods rather than replacing them](combine-digital-and-traditional-dental-teaching.md)
+- [Deploy the diagnostic module as a supplement to any instruction strategy, from traditional to highly interactive](diagnostic-module-as-instruction-supplement.md)
 
 ## Examples
 -

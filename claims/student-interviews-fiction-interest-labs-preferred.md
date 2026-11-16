@@ -56,3 +56,4 @@ Same interview data set: despite reported interest gains from videos, most stude
 - [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](students-positive-but-neutral-on-replacing-hands-on.md) — related
 - [Participants judged hands-on workshops, especially the operative porcine laboratory, the most educational and memorable course formats](porcine-lab-hands-on-workshops-most-educational.md) — related
 - [Students held neutral or slightly positive perceptions of e-learning effectiveness, rating the clinical videos most helpful for learning clinical performance](neutral-slightly-positive-perceptions-e-learning.md) — related
+- [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related

@@ -72,8 +72,10 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 6. **Apply.** Pose a transfer problem (design a better lunchbox insulator) requiring application of the principle to a new context.
 
 ## Related Strategies
+
 - Predict-Observe-Explain — the canonical structure for misconception-targeting demonstrations of this kind
 - Insulation design challenges — the engineering-application counterpart that follows a heat transfer investigation
+- [Use spreadsheet-based processing of level-crossing data from simple experiments (picket fence, heat conduction, spring oscillations) to demonstrate core physics concepts](edaq530-sample-experiment-strategies.md)
 
 ## Examples
 - **FOSS Science (Full Option Science System)** — the *Energy* module includes structured investigations of heat transfer between materials with guided data collection ([https://www.fossweb.com](https://www.fossweb.com))

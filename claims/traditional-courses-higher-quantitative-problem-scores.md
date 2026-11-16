@@ -51,3 +51,4 @@ The article reports this second-hand, citing studies by Hoellwarth et al., Lea, 
 - [CPS-taught high school physics classes scored higher on problem solving measures than traditionally taught classes, significantly at school C](cps-problem-solving-advantage-high-school.md) — reports the opposite
 - [CPS classes scored higher on conceptual questions than traditional classes, significantly at schools A and B](cps-conceptual-questions-advantage.md) — reports the opposite
 - [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) — reports the opposite
+- [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — reports the opposite

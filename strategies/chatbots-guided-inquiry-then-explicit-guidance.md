@@ -40,6 +40,7 @@ Based on the finding that combination-preferring students showed nominally more 
 
 - [Chatbot support should reinforce that learning ability develops through effort, strategy use, feedback, and reflection](chatbot-support-reinforces-effort-and-strategy.md)
 - [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](eeg-triggered-socratic-fallback-hybrid-tutoring.md)
+- [Use Learning Assistants to give student groups timely feedback and to surface where students are stuck](la-timely-feedback-and-instructor-communication-strategy.md)
 
 ## Examples
 -

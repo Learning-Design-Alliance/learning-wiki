@@ -58,6 +58,7 @@ The article's VRS session recipe combines collaborative drills with structured r
 - [Combine pre-learning, lectures, skill stations and simulated multi-disciplinary scenarios with structured debriefing for trauma team training](ttrrt-session-structure-strategy.md)
 - [Run history-taking sessions with individual reflection, group discussion, and Pendleton-rule peer feedback supported by instructor probing questions](rp-feedback-history-taking-session-recipe.md)
 - [Include debriefing sessions run by qualified facilitators in team training to stimulate reflective learning](debriefing-qualified-facilitators-team-training-strategy.md)
+- [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
 
 ## Examples
 -

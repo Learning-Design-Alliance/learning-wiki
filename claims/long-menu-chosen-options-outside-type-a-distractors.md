@@ -50,3 +50,4 @@ Descriptive analysis of the distractors chosen in the long-menu format during th
 - [Broad clinical scenarios cannot be limited to a small number of options, and longer option lists are perceived as more authentic to clinical practice](clinical-authenticity-long-option-lists.md) — related
 - [Computer-based delivery makes longer MCQ option lists feasible without impairing examinee performance](computer-delivery-feasible-long-option-lists.md) — related
 - [Fear that reducing MCQ options increases correct answers by guessing is unfounded, because examinees engage in educated rather than blind guessing](mcq-option-reduction-guessing-concern-unfounded.md) — related
+- [MCQ format is unsatisfactory for diagnosis because fixed options combine concepts and permit erroneous inferences](mcq-unsatisfactory-for-diagnosis.md) — related

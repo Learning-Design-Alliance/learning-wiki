@@ -66,3 +66,5 @@ Health sciences faculty students (n = 911) in the same survey: printed books 28.
 ## Related Claims
 - [EBM-trained students use PubMed/Medline, Medscape and the Cochrane Library significantly more, while use of Google, Google Scholar and Wikipedia does not differ](ebm-training-increases-database-use.md) — related
 - [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related
+- [Students with some prior database use hold perceptions of reputable science resources closer to those of professional scientists than novices do](experienced-students-perceptions-closer-to-scientists.md) — related
+- [For students with some prior database use, changes in future resource use (books and Google) were only of marginal statistical significance](group-b-marginal-changes-resource-use.md) — related

@@ -71,3 +71,4 @@ The review's own interpretive caution in the discussion: more AI-enabled iterati
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — reports the opposite
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion](costume-design-supports-robot-structure-learning.md) — related
+- [A robot-as-alien-creature exercise met its goal of getting students to build hypotheses from hands-on evidence, even though no group found the correct controller](robot-exercise-hypothesis-goal-met-no-group-solved.md) — related

@@ -48,3 +48,4 @@ Single-clip analysis (Figure 1) of a group during a tutorial on Work & Energy, c
 - [Nearly all chaining (the most advanced mechanistic reasoning) occurs during the discussion frame in physics tutorials](chaining-occurs-during-discussion-frame-tutorials.md) — related
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from framing the activity as completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
+- [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related

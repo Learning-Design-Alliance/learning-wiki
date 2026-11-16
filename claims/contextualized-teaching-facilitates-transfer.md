@@ -183,3 +183,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — a narrower finding that bears on this claim
 - [Students regarded the primary care VP as an authentic intermediate learning activity between theory and clinical practice with immediate feedback](vp-intermediate-learning-activity-authenticity.md) — a narrower finding that bears on this claim
 - [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related
+- [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related

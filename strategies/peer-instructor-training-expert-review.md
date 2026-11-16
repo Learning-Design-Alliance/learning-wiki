@@ -45,7 +45,8 @@ Before the SLPTS, the seven peer instructors attended a training session one wee
 - [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](../claims/peer-led-low-intimidation-environment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use expert-led Tours and student Tour creation with facilitation as a strategy for astronomy teaching](wwt-tour-creation-teaching-strategy.md)
 
 ## Examples
 -

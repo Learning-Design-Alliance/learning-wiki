@@ -50,3 +50,4 @@ GT pre-test comparison (N=1319 traditional, N=321 M&I, Figure 4a) with average p
 - [Contingency-table analysis shows significant association of post-test BEMA category scores with curriculum treatment in every category, with no such association on the pre-test](posttest-category-association-significant.md) — a broader claim this one bears on
 - [Normalized gains on the BEMA are significantly greater for M&I students than traditional students at all four institutions](mi-curriculum-greater-normalized-gains.md) — related
 - [Topical time-on-task alone is insufficient to account for the BEMA performance differences between curricula](time-on-task-insufficient-explanation.md) — related
+- [FCI performance differences between traditional and M&I curricula persist after accounting for pre-instruction FCI scores, GPA, and SAT scores.](fci-differences-persist-after-controls.md) — related

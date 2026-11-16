@@ -55,3 +55,4 @@ Multi-level logistic regression (Table 7) on transition counts between AOIs; the
 - [System support was only marginally present in teachers' accounts, and most teachers who raised it felt they did not receive proper support.](online-teaching-system-support-lacking.md) — related
 - [Graph type reliably accounts for variation in assessment performance, within each test and combined](graph-type-accounts-for-performance-variance.md) — related
 - [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related
+- [Calculus-based students at RIT and UMaine answered far more often correctly than algebra-based students, with no significant representational differences in response patterns](calculus-based-higher-vector-addition-accuracy-uniform-methods.md) — related

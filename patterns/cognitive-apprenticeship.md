@@ -38,7 +38,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (15 for, 15 mixed, 3 against) · 31 studies (12 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (16 for, 15 mixed, 3 against) · 32 studies (12 causal, 5 quant-synthesis, 4 review, 4 qualitative, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 4 of 32 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](../claims/network-of-intuitive-ideas-stabilizes-thinking.md) [~W]
+- [Experts' intuitive steps in derivations are cultural norms learned as one becomes a physicist](../claims/intuitive-recognitions-are-cultural-norms.md) [+W] — attached 2026-11-16 from Edward F. Redish (2010), which proposed "Teach the hidden curriculum explicitly by attending to students' intuition and its cognitive and socio-cultural development".
 
 ## Illustrative design instance and observation record
 

@@ -52,6 +52,7 @@ The article recommends designing curriculum and extra-curricular activities that
 
 - [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
 - [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
+- [Use role play in science teaching to develop empathy and problem-solving while conveying global citizenship](role-play-astronomy-global-citizenship-strategy.md)
 
 ## Examples
 -

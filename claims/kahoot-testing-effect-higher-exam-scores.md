@@ -57,3 +57,4 @@ Pilot quasi-experimental action research study with 49 undergraduate psychology 
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
 - [Gamified group achieved significantly better final-exam performance than the control group](gamification-better-final-exam-performance-university-pe.md) — related
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
+- [Introducing clickers raised attendance from 40% to 85% and evaluations by 30% but produced no significant difference in exam and quiz scores](clickers-raise-attendance-not-scores-astronomy.md) — reports the opposite

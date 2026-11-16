@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 191 claims (99 for, 77 mixed, 15 against) · 161 studies (80 causal, 24 review, 16 associational, 15 quant-synthesis, 13 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 161 report an effect size · 190 claims rest on one study
+> **Evidence** · 192 claims (100 for, 77 mixed, 15 against) · 162 studies (80 causal, 24 review, 16 associational, 15 quant-synthesis, 14 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 162 report an effect size · 191 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -226,6 +226,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [The immediate IVR advantage held across all three question types, with the largest gaps in spatial location and labeling of brain areas](../claims/ivr-advantage-across-question-types.md) [+W] — attached 2026-11-06 from García‐Robles P et al. (2025), which proposed "Meta Quest 2 headset with Sharecare YOU VR brain module as an IVR neuroanatomy learning tool"; tests this page's relationship.
 - [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](../claims/ar-obgy-3d-understanding-clinical-thinking-perceptions.md) [+W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures"; tests this page's relationship.
 - [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](../claims/ar-obgy-satisfaction-no-difference.md) [~W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures".
+- [Public high-school students used the free CAS Maxima to build small routines, such as a unit-conversion routine, and created, answered and tested questions; the authors again report a successful experience](../claims/high-school-maxima-routines-introductory-physics.md) [+W] — attached 2026-11-16 from Danilo T. Alves (2011), which proposed "Syntax-free interactive graphical interfaces connected to a computer algebra system".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

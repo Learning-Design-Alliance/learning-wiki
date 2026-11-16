@@ -55,3 +55,4 @@ Independent samples t-tests on post-test scores of a true-experimental pretest-p
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
 - [Case-study-based teaching in 6th-grade social studies produces higher post-test environmental attitudes than existing-curriculum teaching](case-study-teaching-higher-environmental-attitudes.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
+- [Outdoor learning furthers deeper learning and demonstrates the practicality of taught skills, per the Rickinson et al. review](outdoor-classroom-deeper-learning.md) — a broader claim this one bears on

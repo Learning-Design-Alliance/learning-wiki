@@ -40,7 +40,8 @@ Coaches supported teachers through mini demonstrations and modeling of Coursemoj
 - building pedagogical fluency with AI tools
 
 ## Related Strategies
-- 
+
+- [Use expert-led Tours and student Tour creation with facilitation as a strategy for astronomy teaching](wwt-tour-creation-teaching-strategy.md)
 
 ## Examples
 -

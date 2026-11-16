@@ -61,3 +61,4 @@ Thematic analysis of student interviews on group-based learning; participants de
 - [Flexibility, openmindedness and cultural empathy show no relationship with effectiveness, stress or pro-active communication in the Barnga simulation](flexibility-openmindedness-empathy-null-barnga.md) — related
 - [Students reported gaining non-technical skills (active listening, communication, empathy, trust-building) from simulated GBV video consultations](gbv-simulation-non-technical-skills.md) — related
 - [Core concepts such as active listening and respect emerge after the lecture curriculum but decrease in prominence after the clinical skills curriculum](active-listening-respect-not-instilled.md) — related
+- [The author argues empathy, in Rosenberg's sense, is a useful approach to the conflict at the heart of nuclear physics education](empathy-approach-to-nuclear-education-conflict.md) — related

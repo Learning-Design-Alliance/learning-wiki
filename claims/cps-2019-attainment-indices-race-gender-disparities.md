@@ -68,3 +68,4 @@ Table 1 takeaway from this descriptive report, disaggregating the DBDAI, BDAI, a
 - [The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020](cps-2021-pai-27-percent.md) — related
 - [Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent](cps-attainment-gaps-black-latino-young-men.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
+- [The Akamai Internship Program maintains an 83% retention rate across 144 participants from underrepresented groups](akamai-program-retention-diversity.md) — related

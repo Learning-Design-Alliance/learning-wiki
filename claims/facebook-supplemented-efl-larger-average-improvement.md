@@ -51,3 +51,4 @@ Quasi-experimental comparison of two English 101 sections (Control n=30, Experim
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — a broader claim this one bears on
 - [The 70-80% ability subset was the only out-of-trend result, with a sudden improvement spike in the Facebook group and uniformly positive course ratings](seventy-eighty-subset-anomaly-spike.md) — a narrower finding that bears on this claim
+- [In Physics II, gains are lower overall, but students taking any Physics Suite component more than doubled their gain over the traditional-format-only group](physics2-any-suite-component-doubled-gain.md) — related

@@ -65,6 +65,7 @@ Error tolerance changes what learners do with failure: instead of concealing or 
 - [Growth Mindset Framing](growth-mindset-framing.md) — the belief system that underwrites treating ability as improvable through error and effort
 - [Avoid comforting cues that divert children's attention away from their mistakes](avoid-comforting-cues-diverting-attention-mistakes.md)
 - [Design computational learning environments to treat seeming mistakes as expansion possibilities and surface material contributions](value-mistakes-and-material-contributors-design.md)
+- [Focus computational-modeling instruction on debugging practice, including qualitative analysis, not only correcting procedural mistakes](teach-debugging-and-qualitative-habits-of-mind.md)
 
 ## Examples
 - **My Favorite Mistake routine** — a common warm-up in [Number Talks](https://www.mathsolutions.com/number-talks/) classrooms: the teacher presents a student's (anonymous) incorrect solution and the class analyzes where the reasoning went wrong before correcting it.

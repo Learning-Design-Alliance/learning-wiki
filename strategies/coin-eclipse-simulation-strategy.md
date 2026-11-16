@@ -42,7 +42,8 @@ The strategy is to displace a small white-light source behind a coin glued to gl
 
 
 ## Related Strategies
-- 
+
+- [Use everyday objects in demonstrations and investigations so lens phenomena connect to students' daily lives](everyday-objects-in-inquiry-demos.md)
 
 ## Examples
 -
