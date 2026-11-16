@@ -17,7 +17,7 @@ sources:
 # Use the Victorian subdivision-of-light and cable-leakage problems as classroom examples, homework assignments, or independent-study reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 unmarked) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends bringing two historical electricity problems into instruction: retracing Preece's subdivision-of-light analysis and Heaviside's leakage-point calculation. It states they are "simple and clear applications of textbook physics to concrete situations" and can be "discussed in a proﬁtable way in the classroom or assigned as independent study to the more interested student". Only Ohm's law, the Joule effect and simple algebra are needed.
@@ -38,11 +38,8 @@ The article recommends bringing two historical electricity problems into instruc
 
 ## Claims
 
-- [Parallel light and microwave measurements show both intensities decrease inversely proportional to the square of the distance from the source](../claims/inverse-square-light-and-microwaves.md) [+W]
 
 ## Related Strategies
-- [Preece Subdivision Analysis Partially Correct](../claims/preece-subdivision-analysis-partially-correct.md)
-- [Blavier Method Leakage Point Solution](../claims/blavier-method-leakage-point-solution.md)
 
 ## Examples
 -

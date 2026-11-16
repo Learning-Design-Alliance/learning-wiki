@@ -13,15 +13,15 @@ newest_evidence: 2009
 sources:
   - id: c-savage-2009
     resource: "https://doi.org/10.48550/arXiv.0910.5776"
-    title: "C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. https://arxiv.org/abs/0910.5776"
+    title: "C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)"
     author: C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson
     q: 2
     i: "?"
     kind: causal
     rigour: 2
   - id: dominic-mcgrath-2009
-    resource: "https://arxiv.org/abs/0911.0226"
-    title: "Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. https://arxiv.org/abs/0911.0226"
+    resource: "https://doi.org/10.48550/arXiv.0910.5776"
+    title: "Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)"
     author: Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 # Concept-test scores rose significantly from pre-test to post-test on time dilation and the relativity of simultaneity after the RTR lab, in one single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -45,7 +45,7 @@ sources:
 
 ### C. Savage 2009
 
-C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. https://arxiv.org/abs/0910.5776 [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
+C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
 
 `q2 · i?` · `causal · r2`
 
@@ -55,7 +55,7 @@ Pre/post concept-test design around the RTR lab, part of the authors' extensive 
 
 ### Dominic McGrath 2009
 
-Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. https://arxiv.org/abs/0911.0226 [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
+Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
 
 `q2 · i?` · `design · r3`
 

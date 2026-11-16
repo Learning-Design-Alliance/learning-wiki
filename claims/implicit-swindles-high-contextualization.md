@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: bisesi-2008
     resource: "https://doi.org/10.48550/arXiv.0808.3695"
-    title: "Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://arxiv.org/abs/0808.3695"
+    title: "Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)"
     author: "Bisesi, E. & Michelini, M."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Bisesi 2008
 
-Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://arxiv.org/abs/0808.3695 [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)
+Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)
 
 `q2 · i?` · `design · r2`
 

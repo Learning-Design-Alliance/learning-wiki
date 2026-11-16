@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: l-d-carr-and-s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0806.2628"
-    title: "L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. https://arxiv.org/abs/0806.2628"
+    title: "L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)"
     author: L. D. Carr and S. B. McKagan
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### L. D. Carr and S. B. McKagan 2008
 
-L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. https://arxiv.org/abs/0806.2628 [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)
+L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)
 
 `q2 · i?` · `design · r3`
 

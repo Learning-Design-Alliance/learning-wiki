@@ -17,7 +17,7 @@ sources:
 # Combine spectral analysis of musical instrument sounds with the free fall Doppler experiment to introduce non-science majors to spectra intuitively
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Before the Doppler measurement, students analyze sounds from musical instruments so they first grasp the relation between sound, harmonics and the frequency spectrum. The article states it combines "the spectral analysis of sounds from musical instru ments with the free fall Doppler experiment" so students gain a good grasp of these relations. The authors argue that because students know pitch from everyday life, the Doppler shift of a peak frequency is not a difficult concept, and sound experiments serve as an excellent intuitive introduction to spectral methods.
@@ -39,8 +39,6 @@ Before the Doppler measurement, students analyze sounds from musical instruments
 
 ## Claims
 
-- [For accelerating sources, the velocity error Δv can be decreased only in proportion to √a, not by arbitrarily lengthening the measurement time](../claims/doppler-error-scales-sqrt-acceleration.md) [+W]
-- [An analytic criterion fsT² < c²a/C0² (C0 = 3.073490) determines when an accelerating source produces an unambiguous Doppler-shifted spectral peak](../claims/accelerating-source-peak-criterion.md) [+W]
 
 ## Related Strategies
 

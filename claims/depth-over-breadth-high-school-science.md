@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: borne-2009
     resource: "https://doi.org/10.48550/arXiv.0909.3895"
-    title: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. https://arxiv.org/abs/0909.3895"
+    title: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)"
     author: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Borne 2009
 
-Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. https://arxiv.org/abs/0909.3895 [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)
+Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)
 
 `q2 · i?` · `theoretical · r2`
 

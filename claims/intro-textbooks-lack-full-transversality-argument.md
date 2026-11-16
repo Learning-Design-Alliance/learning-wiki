@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: lior-m-burko-2008
     resource: "https://doi.org/10.48550/arXiv.0808.2993"
-    title: "Lior M. Burko. (2008). Transversality of Electromagnetic Waves in the Calculus-Based Introductory Physics Course. https://arxiv.org/abs/0808.2993"
+    title: "Lior M. Burko. (2008). Transversality of Electromagnetic Waves in the Calculus-Based Introductory Physics Course. [doi:10.48550/arXiv.0808.2993](https://doi.org/10.48550/arXiv.0808.2993)"
     author: Lior M. Burko
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Lior M. Burko 2008
 
-Lior M. Burko. (2008). Transversality of Electromagnetic Waves in the Calculus-Based Introductory Physics Course. https://arxiv.org/abs/0808.2993 [doi:10.48550/arXiv.0808.2993](https://doi.org/10.48550/arXiv.0808.2993)
+Lior M. Burko. (2008). Transversality of Electromagnetic Waves in the Calculus-Based Introductory Physics Course. [doi:10.48550/arXiv.0808.2993](https://doi.org/10.48550/arXiv.0808.2993)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -45,7 +45,4 @@ The author's survey of calculus-based introductory physics textbooks found that 
 
 
 ## Related Claims
-- [The integral-Maxwell derivation shows E and B fields in a plane wave are in phase with magnitudes related by E = cB, without assuming harmonic fields](e-equals-cb-without-harmonic-assumption.md) — related
 - [Surveyed textbooks present transversality treatments falling into three categories, and none include physical arguments for transversality](textbook-transversality-three-categories.md) — possibly the same claim (merge candidate)
-- [The absence of monopole electromagnetic radiation provides a second physical argument that the E field cannot have a longitudinal component](no-monopole-radiation-argument.md) — related
-- [Polarization experiments provide a physical argument for transversality: a longitudinal E component would prevent crossed polaroids from producing total darkness](polarization-argument-transversality.md) — related

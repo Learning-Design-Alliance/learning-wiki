@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2008
-recheck_by: 2011
 sources:
   - id: l-d-carr-and-s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0806.2628"
-    title: "L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. https://arxiv.org/abs/0806.2628"
+    title: "L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)"
     author: L. D. Carr and S. B. McKagan
     q: 2
     i: 3
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · `i3` large
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Performance on the GQMCS was a very good indicator of performance on the final, with a Pearson correlation coefficient of 0.74 (r = 0.74). [→ L. D. Carr and S. B. McKagan 2008](#l-d-carr-and-s-b-mckagan-2008)
@@ -34,7 +33,7 @@ sources:
 
 ### L. D. Carr and S. B. McKagan 2008
 
-L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. https://arxiv.org/abs/0806.2628 [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)
+L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.48550/arXiv.0806.2628](https://doi.org/10.48550/arXiv.0806.2628)
 
 `q2 · i3` · `design · r3`
 

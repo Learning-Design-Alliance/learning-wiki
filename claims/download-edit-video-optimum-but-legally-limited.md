@@ -9,19 +9,18 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-source_checked: 2026-11-10
 sources:
   - id: micolich-2008
     resource: "https://doi.org/10.48550/arXiv.0808.3441"
-    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441"
+    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)"
     author: Micolich, A.
     q: 1
     i: "?"
     kind: theoretical
     rigour: 2
   - id: micolich-2008-2
-    resource: "https://arxiv.org/abs/0808.3441"
-    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441"
+    resource: "https://doi.org/10.48550/arXiv.0808.3441"
+    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)"
     author: Micolich, A.
     q: 1
     i: "?"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 2008 · checked against its sources 2026-11-10 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A downloaded local file guarantees playback without the stutters and download breaks of streaming video, permits cropping to the bare minimum and coupling of sections, optimal display size, and use in theatres without internet. [→ Micolich 2008](#micolich-2008)
@@ -43,7 +42,7 @@ sources:
 
 ### Micolich 2008
 
-Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441 [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
+Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -53,7 +52,7 @@ In 'Downloading and editing the video', the author lists the advantages of a loc
 
 ### Micolich 2008 (2)
 
-Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441 [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
+Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
 
 `q1 · i?` · `theoretical · r2`
 

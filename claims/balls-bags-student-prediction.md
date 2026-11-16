@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: jan-tobochnik-and-harvey-gould-2007
     resource: "https://doi.org/10.48550/arXiv.0712.3488"
-    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488"
+    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)"
     author: Jan Tobochnik and Harvey Gould
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Jan Tobochnik and Harvey Gould 2007
 
-Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488 [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
+Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
 
 `q1 · i?` · `design · r1`
 

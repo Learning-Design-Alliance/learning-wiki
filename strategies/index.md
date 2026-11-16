@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**13885 entries** · 0 stable · 13885 in review · 0 drafts
+**13884 entries** · 0 stable · 13884 in review · 0 drafts
 
 ---
 
@@ -13763,7 +13763,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Venn Diagrams](venn_diagrams.md) - Venn diagrams are visual organizers that emphasize comparisons and contrasts between two or more items or concepts.
 * [Verbal Feedback on Writing](verbal_feedback_on_writing.md) - Verbal feedback replaces or supplements written margin comments with recorded spoken commentary that students listen to, then use to revise their work.
 * [Verbal Repetition](verbal_repetition.md) - Learners repeat, restate, or rehearse information aloud to strengthen retention and make their understanding observable.
-* [Verify BIOS parallel-port mode and note the LPT base address before replicating the interfacing project](verify-bios-parallel-port-mode-strategy.md) - Before building the circuit, replicators are advised to check the computer's parallel-port configuration.
 * [Verify ChatGPT outputs against reliable resources and do not rely on it solely for high-stakes exam study](verify-chatgpt-outputs-high-stakes-exams.md) - The review recommends that although ChatGPT versions showed potential in answering licensing examination questions, learners and professionals should not depend on them alone for test preparation.
 * [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md) - Before using videotapes or other audiovisual aids in science, the teacher should ensure each pupil has the necessary prerequisite knowledge, using questioning, advance organizers, prediction prompts, or resource persons.
 * [Video Based Instruction](video-based-instruction.md) - Using video as the primary medium for delivering instructional content, typically combining narration with visual demonstration.

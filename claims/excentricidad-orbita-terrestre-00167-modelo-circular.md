@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: alejandro-gangui-2009
-    resource: "https://cms.iafe.uba.ar/gangui"
-    title: "Alejandro Gangui. (2009). El movimiento de los cielos: Una propuesta pedagógica para docentes de la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui"
+    resource: "https://doi.org/10.48550/arXiv.0903.1387"
+    title: "Alejandro Gangui. (2009). El movimiento de los cielos: Una propuesta pedagógica para docentes de la escuela secundaria. Ciencia Hoy. [doi:10.48550/arXiv.0903.1387](https://doi.org/10.48550/arXiv.0903.1387)"
     author: Alejandro Gangui
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Alejandro Gangui 2009
 
-Alejandro Gangui. (2009). El movimiento de los cielos: Una propuesta pedagógica para docentes de la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui
+Alejandro Gangui. (2009). El movimiento de los cielos: Una propuesta pedagógica para docentes de la escuela secundaria. Ciencia Hoy. [doi:10.48550/arXiv.0903.1387](https://doi.org/10.48550/arXiv.0903.1387)
 
 `q1 · i?` · `design · r?`
 

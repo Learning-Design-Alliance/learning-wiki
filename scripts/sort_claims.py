@@ -18,13 +18,18 @@ KT is inaccurate. That sort drove a removal that was reverted the same day. So t
                      elsewhere could not use
   research-practice  about how research is done (coder agreement, model fit of a questionnaire,
                      bibliometric counts) with no bearing on a design
+  out-of-scope       not about learning or teaching at all: the subject matter itself (a physics
+                     result, a mathematical derivation), an apparatus or demonstration described only
+                     for how it works, or history of science (maintainer, 2026-11-16, after half of
+                     the first arXiv batch was physics written "for teaching")
 
 Two models from different families read each claim; a category is settled only where they agree.
-Everything is kept; only settled research-practice and context-local claims are candidates for the
-maintainer to remove.
+Settled research-practice and out-of-scope claims are removed by remove_research_practice.py in
+every batch; settled context-local claims are candidates for the maintainer to remove.
 
     python3 scripts/sort_claims.py --uncited            # claims no concept page cites
     python3 scripts/sort_claims.py --all               # every claim not yet sorted
+    python3 scripts/sort_claims.py --claims <slug> ...  # sort these again, even if already sorted
     python3 scripts/sort_claims.py --summary
 """
 import argparse
@@ -42,7 +47,8 @@ import okf_lib  # noqa: E402
 
 OUT = WIKI_ROOT / "eval" / "claim-sort" / "sort.ndjson"
 MODELS = ("z-ai/glm-5.3-flash", "openai/gpt-5.6-luna")
-CATEGORIES = ("design-choice", "component", "context-general", "context-local", "research-practice")
+CATEGORIES = ("design-choice", "component", "context-general", "context-local", "research-practice",
+              "out-of-scope")
 PROMPT = """A learning-design wiki keeps an empirical claim when a design decision could change because of it.
 Sort this claim into exactly one category.
 
@@ -62,8 +68,14 @@ Claim: {title}
   could not use.
 - research-practice: about how research is done (coder agreement, a questionnaire's factor structure,
   bibliometric counts, study quality) with no bearing on any design.
+- out-of-scope: not about learning or teaching at all. The claim states a fact of the subject matter
+  itself (a physics result, a mathematical property, how a phenomenon behaves), how an apparatus,
+  demonstration or software tool works or how precise it is, or a point of history, and says nothing
+  about learners, teachers, instruction or courses. Being written for teachers or "for the classroom"
+  does not make a claim about learning. Any claim about what learners know, do, think or achieve, or
+  about how something is taught, is not out-of-scope.
 For component, name the component in two to four words.
-Reply with JSON only: {{"category": "<one of the five>", "component": "<name or null>"}}"""
+Reply with JSON only: {{"category": "<one of the six>", "component": "<name or null>"}}"""
 
 
 def uncited_claims() -> list:
@@ -86,12 +98,12 @@ def ask(model: str, slug: str, key: str) -> dict:
             "cost_usd": gen.cost_usd or 0}
 
 
-def run(slugs: list, workers: int) -> None:
+def run(slugs: list, workers: int, again: bool = False) -> None:
     key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     done = {json.loads(l)["claim"] for l in OUT.read_text(encoding="utf-8").splitlines() if l.strip()} \
         if OUT.exists() else set()
-    todo = [s for s in slugs if s not in done]
+    todo = [s for s in slugs if again or s not in done]   # a later record supersedes an earlier one
     print(f"{len(slugs)} claim(s), {len(todo)} to sort", flush=True)
 
     def one(slug):
@@ -119,7 +131,8 @@ def run(slugs: list, workers: int) -> None:
 
 def summary() -> None:
     recs = [json.loads(l) for l in OUT.read_text(encoding="utf-8").splitlines() if l.strip()]
-    live = [r for r in recs if (WIKI_ROOT / "claims" / f"{r['claim']}.md").exists()]
+    last = {r["claim"]: r for r in recs}   # a re-sort supersedes the earlier record
+    live = [r for r in last.values() if (WIKI_ROOT / "claims" / f"{r['claim']}.md").exists()]
     print(f"{len(live)} sorted claim(s) on disk")
     for cat, n in collections.Counter(r["category"] or "disputed" for r in live).most_common():
         print(f"  {cat:18} {n}")
@@ -132,10 +145,13 @@ def main() -> None:
     g.add_argument("--uncited", action="store_true", help="claims no page outside claims/ cites")
     g.add_argument("--all", action="store_true", help="every claim not yet sorted")
     g.add_argument("--summary", action="store_true")
+    g.add_argument("--claims", nargs="+", metavar="SLUG", help="sort these claims, again if already sorted")
     ap.add_argument("--workers", type=int, default=16)
     args = ap.parse_args()
     if args.summary:
         summary()
+    elif args.claims:
+        run(args.claims, args.workers, again=True)
     elif args.all:
         run(sorted(p.stem for p in (WIKI_ROOT / "claims").glob("*.md") if p.stem != "index"), args.workers)
     else:

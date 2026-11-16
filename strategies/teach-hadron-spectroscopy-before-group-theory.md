@@ -17,7 +17,7 @@ sources:
 # Introduce hadronic spectroscopy to students by counting Pauli-principle-allowed spin states before any group theory
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A teaching strategy in which students first enumerate three-quark flavour-spin states under the Pauli principle — three identical, two identical, or three different flavours — and only afterwards meet the relation to SU(N) representation dimensions. The paper frames this for introductory courses: "Hadronic spectroscopy can be introduced to students and devel- oped rather far without requiring SU(N) ﬂavour symmetry," and says the material fits "fairly elementary quantum mechanics courses, as in e lementary par- ticle courses."
@@ -42,9 +42,6 @@ A teaching strategy in which students first enumerate three-quark flavour-spin s
 
 ## Claims
 
-- [Colour-magnetic spin-spin interaction reproduces light-baryon mass splittings with fitted effective masses](../claims/colormagnetic-mass-formula-light-baryons.md) [+W]
-- [Flavour-changing weak decays force baryon wavefunctions to satisfy the generalized Pauli principle of complete permutation symmetry](../claims/generalized-pauli-principle-flavour-changing.md) [+W]
-- [P-wave excited baryon states counted under the Pauli principle give 70 states matching the SU(6) 70-plet](../claims/pwave-70-states-pauli-counting.md) [+W]
 
 ## Related Strategies
 - 

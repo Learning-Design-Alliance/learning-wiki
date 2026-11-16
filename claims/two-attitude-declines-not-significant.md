@@ -12,7 +12,7 @@ newest_evidence: 2010
 sources:
   - id: david-wittman-2010
     resource: "https://doi.org/10.48550/arXiv.0902.3321"
-    title: "David Wittman. (2010). Shaping Attitudes Toward Science in an Introductory Astronomy Class. https://arxiv.org/abs/0902.3321"
+    title: "David Wittman. (2010). Shaping Attitudes Toward Science in an Introductory Astronomy Class. [doi:10.48550/arXiv.0902.3321](https://doi.org/10.48550/arXiv.0902.3321)"
     author: David Wittman
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### David Wittman 2010
 
-David Wittman. (2010). Shaping Attitudes Toward Science in an Introductory Astronomy Class. https://arxiv.org/abs/0902.3321 [doi:10.48550/arXiv.0902.3321](https://doi.org/10.48550/arXiv.0902.3321)
+David Wittman. (2010). Shaping Attitudes Toward Science in an Introductory Astronomy Class. [doi:10.48550/arXiv.0902.3321](https://doi.org/10.48550/arXiv.0902.3321)
 
 `q2 · i?` · `design · r2`
 

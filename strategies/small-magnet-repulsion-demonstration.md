@@ -17,7 +17,7 @@ sources:
 # Hands-on small-magnet demonstration in which the factor-two difference is experienced as a roughly 20 per cent difference in repulsion distance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A classroom demonstration using small magnets on notepad paper: two configurations whose interaction terms differ by a factor of two balance friction at distances related by the fourth root of 2, i.e. 1.1892, "which makes the diﬀerence about 20 per cent (18.92 per cent)". With the paper's magnets the friction take-over distance is about 2 cm, so the difference is easily seen by finger manipulation of the repelling magnets.
@@ -39,8 +39,6 @@ A classroom demonstration using small magnets on notepad paper: two configuratio
 
 ## Claims
 
-- [Decomposing the dipoles into parallel and perpendicular components rewrites the interaction energy so that the factor-of-two difference between attractive configurations becomes explicit](../claims/dipole-decomposition-factor-two-attraction.md) [+W]
-- [The magic angle condition follows directly from the rewritten formula as tanθ = √2, giving 54.74 degrees](../claims/magic-angle-from-rewritten-formula.md) [+W]
 - [The authors judge the rewritten formula suitable for presentation to even younger students and useful for explanations in molecular dynamics applications](../claims/rewritten-form-suitable-for-younger-students.md) [+W]
 
 ## Related Strategies

@@ -17,7 +17,7 @@ sources:
 # Have students run existing simulations, modify parameters, and explain the results rather than always writing programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In the summary the authors present options for how instructors can use simulations in their courses: students can write programs using templates, or 'Another strategy is to have students run existing programs and modify some of the parameters and explain the results.' This strategy lowers the programming burden while keeping the focus on understanding the model's behavior, consistent with the article's claim that discussing an algorithm's results can suffice without students writing a program.
@@ -40,7 +40,6 @@ In the summary the authors present options for how instructors can use simulatio
 
 - [Many students incorrectly predict that the first of two bags will on average keep more balls during a random swapping process, and sketching predictions before a simulation is recommended](../claims/balls-bags-student-prediction.md) [+W]
 - [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](../claims/granular-matter-model-replaced-by-md.md) [+W]
-- [Simulation of the partition function for a 32x32 Ising lattice shows ln Z changes little at low temperatures, increases rapidly near the phase transition, and increases slowly at higher temperatures](../claims/partition-function-simulation-ising.md) [+W]
 
 ## Related Strategies
 - 

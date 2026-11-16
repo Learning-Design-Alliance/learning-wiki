@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2007
-recheck_by: 2010
 sources:
   - id: rachel-e-scherr-2007
     resource: "https://doi.org/10.48550/arXiv.0712.0581"
-    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/"
+    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)"
     author: Rachel E. Scherr
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a Newton's third law tutorial episode, Alan's gestures became smaller and less well defined across successive videos, and Jasmin's 'same force' gesture shifted from two-handed to one-handed, consistent with ideas becoming more familiar. [→ Rachel E. Scherr 2007](#rachel-e-scherr-2007)
@@ -34,7 +33,7 @@ sources:
 
 ### Rachel E. Scherr 2007
 
-Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/ [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
+Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
 
 `q2 · i?` · `qualitative · r2`
 

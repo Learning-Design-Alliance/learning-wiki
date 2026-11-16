@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: ladislav-kocbach-and-suhail-lubbad-2009
     resource: "https://doi.org/10.48550/arXiv.0908.1548"
-    title: "Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. https://arxiv.org/abs/0908.1548"
+    title: "Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.48550/arXiv.0908.1548](https://doi.org/10.48550/arXiv.0908.1548)"
     author: Ladislav Kocbach and Suhail Lubbad
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Ladislav Kocbach and Suhail Lubbad 2009
 
-Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. https://arxiv.org/abs/0908.1548 [doi:10.48550/arXiv.0908.1548](https://doi.org/10.48550/arXiv.0908.1548)
+Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.48550/arXiv.0908.1548](https://doi.org/10.48550/arXiv.0908.1548)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -48,5 +48,3 @@ Authors' stated opinion (type e) in the introduction, offered without empirical 
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Decomposing the dipoles into parallel and perpendicular components rewrites the interaction energy so that the factor-of-two difference between attractive configurations becomes explicit](dipole-decomposition-factor-two-attraction.md) — related
-- [The magic angle condition follows directly from the rewritten formula as tanθ = √2, giving 54.74 degrees](magic-angle-from-rewritten-formula.md) — related

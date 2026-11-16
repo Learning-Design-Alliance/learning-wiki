@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: mathieu-bouville-2008
     resource: "https://doi.org/10.48550/arXiv.0803.4235"
-    title: "Mathieu Bouville. (2008). Exam fairness. https://arxiv.org/abs/0803.4235"
+    title: "Mathieu Bouville. (2008). Exam fairness. [doi:10.48550/arXiv.0803.4235](https://doi.org/10.48550/arXiv.0803.4235)"
     author: Mathieu Bouville
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Mathieu Bouville 2008
 
-Mathieu Bouville. (2008). Exam fairness. https://arxiv.org/abs/0803.4235 [doi:10.48550/arXiv.0803.4235](https://doi.org/10.48550/arXiv.0803.4235)
+Mathieu Bouville. (2008). Exam fairness. [doi:10.48550/arXiv.0803.4235](https://doi.org/10.48550/arXiv.0803.4235)
 
 `q1 · i?` · `theoretical · r2`
 

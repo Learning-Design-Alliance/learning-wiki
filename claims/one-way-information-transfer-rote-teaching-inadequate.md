@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: stanisław-d-głażek-2008
     resource: "https://doi.org/10.48550/arXiv.0804.4796"
-    title: "Stanisław D. Głażek. (2008). Heuristic model of teaching. https://arxiv.org/abs/0804.4796"
+    title: "Stanisław D. Głażek. (2008). Heuristic model of teaching. [doi:10.48550/arXiv.0804.4796](https://doi.org/10.48550/arXiv.0804.4796)"
     author: Stanisław D. Głażek
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Stanisław D. Głażek 2008
 
-Stanisław D. Głażek. (2008). Heuristic model of teaching. https://arxiv.org/abs/0804.4796 [doi:10.48550/arXiv.0804.4796](https://doi.org/10.48550/arXiv.0804.4796)
+Stanisław D. Głażek. (2008). Heuristic model of teaching. [doi:10.48550/arXiv.0804.4796](https://doi.org/10.48550/arXiv.0804.4796)
 
 `q1 · i?` · `theoretical · r2`
 

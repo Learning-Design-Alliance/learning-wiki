@@ -13,7 +13,7 @@ recheck_by: 2010
 sources:
   - id: r-w-robinett-2007
     resource: "https://doi.org/10.48550/arXiv.0712.2358"
-    title: "R. W. Robinett. (2007). Using Physics to Learn Mathematica©R to Do Physics: From Homework Problems to Research Examples. arXiv preprint. https://arxiv.org/abs/0712.2358"
+    title: "R. W. Robinett. (2007). Using Physics to Learn Mathematica©R to Do Physics: From Homework Problems to Research Examples. arXiv preprint. [doi:10.48550/arXiv.0712.2358](https://doi.org/10.48550/arXiv.0712.2358)"
     author: R. W. Robinett
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### R. W. Robinett 2007
 
-R. W. Robinett. (2007). Using Physics to Learn Mathematica©R to Do Physics: From Homework Problems to Research Examples. arXiv preprint. https://arxiv.org/abs/0712.2358 [doi:10.48550/arXiv.0712.2358](https://doi.org/10.48550/arXiv.0712.2358)
+R. W. Robinett. (2007). Using Physics to Learn Mathematica©R to Do Physics: From Homework Problems to Research Examples. arXiv preprint. [doi:10.48550/arXiv.0712.2358](https://doi.org/10.48550/arXiv.0712.2358)
 
 `q2 · i?` · `design · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Apply mechanical and optical safety measures: slow sliding steps, sun-behind route planning, and rubber padding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Because acrylic mirrors are costly and scratch easily and no transparent covering preserves image quality, the article's only options against accidents are procedural: watch for floor unevenness, 'advirtiendo a las personas para andar despacio, deslizando los piés', monitor restless participants such as children, glue a foam rubber layer under the mirror, and plan the route so the sun stays behind the person, testing the route hourly.
@@ -38,7 +38,6 @@ Because acrylic mirrors are costly and scratch easily and no transparent coverin
 
 ## Claims
 
-- [More than nine hundred people have experienced the horizontal-mirror phenomenon without any accident occurring](../claims/nine-hundred-participants-no-accident.md) [+W]
 
 ## Related Strategies
 

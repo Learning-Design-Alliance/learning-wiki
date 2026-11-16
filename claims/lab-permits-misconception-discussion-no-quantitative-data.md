@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: andrew-ferstl-and-nathan-moore-2007
     resource: "https://doi.org/10.48550/arXiv.0803.4142"
-    title: "Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. http://groups.physics.umn.edu/physed/Research/PSL/pslintro.html"
+    title: "Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)"
     author: Andrew Ferstl and Nathan Moore
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Andrew Ferstl and Nathan Moore 2007
 
-Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. http://groups.physics.umn.edu/physed/Research/PSL/pslintro.html [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)
+Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)
 
 `q1 · i?` · `design · r2`
 
@@ -45,6 +45,4 @@ This is the authors' concluding interpretation of their implementation experienc
 
 
 ## Related Claims
-- [Ignoring the 2D vector nature of momentum changes the prediction by a factor of cos(theta), visible only at significant inclines](2d-vector-momentum-misconception-cosine-factor.md) — related
-- [Ignoring thermal energy conversion in the inelastic collision yields a prediction that visibly contradicts data](inelastic-collision-energy-misconception-overestimates-speed.md) — related
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related

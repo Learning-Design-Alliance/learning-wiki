@@ -17,7 +17,7 @@ sources:
 # Run the mirror walk in a covered space with an exit to an open area, with objects hung overhead to cross
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends setting up the activity in a covered space with an opening to the outdoors: indoors the ceiling appears far below where the floor is expected, producing strong surprise and instability, while outdoors with clouds the observer seems to walk over them. Objects hung from the ceiling at head height appear in front of people so they can pass through their images; the author 'Hemos puesto espadas falsas para aumentar el dramatismo'.
@@ -38,7 +38,6 @@ The article recommends setting up the activity in a covered space with an openin
 
 ## Claims
 
-- [More than nine hundred people have experienced the horizontal-mirror phenomenon without any accident occurring](../claims/nine-hundred-participants-no-accident.md) [+W]
 
 ## Related Strategies
 

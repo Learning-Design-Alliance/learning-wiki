@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: silagadze-2007
     resource: "https://doi.org/10.48550/arXiv.0708.0929"
-    title: "Silagadze, Z. K. (2007). Relativity without tears. https://arxiv.org/abs/0708.0929"
+    title: "Silagadze, Z. K. (2007). Relativity without tears. [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)"
     author: Silagadze, Z. K.
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Silagadze 2007
 
-Silagadze, Z. K. (2007). Relativity without tears. https://arxiv.org/abs/0708.0929 [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)
+Silagadze, Z. K. (2007). Relativity without tears. [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,8 +45,5 @@ Analytical argument in the introduction: the author contends the one-postulate r
 
 
 ## Related Claims
-- [Time dilation and length contraction can be derived directly from the postulates without the Lorentz transformation, using the relativity principle to handle both effects simultaneously](direct-derivation-time-dilation-length-contraction.md) — related
-- [In the one-postulate derivation, the sign of the invariant K selects the geometry: K = 0 gives Galilean, K > 0 gives Lorentz transformations, and K < 0 is discarded for lack of causal structure](k-sign-selects-galilean-or-lorentz.md) — related
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](textbooks-fail-postulate-attribution.md) — a broader claim this one bears on
-- [The principle of relativity enters Lorentz-transformation derivations through two distinct steps: round-trip identity and equivalence of v and −v](relativity-principle-two-steps.md) — a narrower finding that bears on this claim
-- [The postulate of the constancy of the speed of light alone yields only invariance of the null interval, not full covariance](constancy-postulate-alone-null-invariance-only.md) — related
+- The principle of relativity enters Lorentz-transformation derivations through two distinct steps: round-trip identity and equivalence of v and −v — a narrower finding that bears on this claim

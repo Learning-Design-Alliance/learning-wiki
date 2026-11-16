@@ -17,7 +17,7 @@ sources:
 # Use the simple duality example of geometric algebra to introduce learners to the idea of duality without large mathematical obstacles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes exploiting the mathematically simple and clear example of dual associations available in geometric algebra to make the idea of duality accessible to learners without larger mathematical obstacles. Because the eight basic elements pair into each other by simple multiplication with the trivector, learners can be introduced to a principle that, according to Smolin and Atiyah, is a major driving force in theoretical physics, using an entry-level mathematical operation.
@@ -42,7 +42,6 @@ The article proposes exploiting the mathematically simple and clear example of d
 
 ## Claims
 
-- [In geometric algebra the eight basic elements are pairwise interconvertible by a simple duality transformation using the basic trivector](../claims/duality-transformation-geometric-algebra-basis.md) [+W]
 
 ## Related Strategies
 - 

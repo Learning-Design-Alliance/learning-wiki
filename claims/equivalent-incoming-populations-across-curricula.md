@@ -9,10 +9,11 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: kohlmyer-2009
     resource: "https://doi.org/10.48550/arXiv.0906.0022"
-    title: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. https://arxiv.org/abs/0906.0022"
+    title: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.48550/arXiv.0906.0022](https://doi.org/10.48550/arXiv.0906.0022)"
     author: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F."
     q: 3
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` At GT, pre-test BEMA distributions and incoming GPA showed no significant difference between curricula; at NCSU, participants' GPA, SAT scores, and prior math and physics grades showed no significant differences. [→ Kohlmyer 2009](#kohlmyer-2009)
@@ -33,7 +34,7 @@ sources:
 
 ### Kohlmyer 2009
 
-Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. https://arxiv.org/abs/0906.0022 [doi:10.48550/arXiv.0906.0022](https://doi.org/10.48550/arXiv.0906.0022)
+Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.48550/arXiv.0906.0022](https://doi.org/10.48550/arXiv.0906.0022)
 
 `q3 · i?` · `causal · r2`
 

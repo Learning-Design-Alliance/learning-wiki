@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: thomas-j-bing-and-edward-f-redish-2007
     resource: "https://doi.org/10.48550/arXiv.0712.1187"
-    title: "Thomas J. Bing and Edward F. Redish. (2007). Symbolic Manipulators Affect Mathematical Mindsets. https://arxiv.org/abs/0712.1187"
+    title: "Thomas J. Bing and Edward F. Redish. (2007). Symbolic Manipulators Affect Mathematical Mindsets. [doi:10.48550/arXiv.0712.1187](https://doi.org/10.48550/arXiv.0712.1187)"
     author: Thomas J. Bing and Edward F. Redish
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Thomas J. Bing and Edward F. Redish 2007
 
-Thomas J. Bing and Edward F. Redish. (2007). Symbolic Manipulators Affect Mathematical Mindsets. https://arxiv.org/abs/0712.1187 [doi:10.48550/arXiv.0712.1187](https://doi.org/10.48550/arXiv.0712.1187)
+Thomas J. Bing and Edward F. Redish. (2007). Symbolic Manipulators Affect Mathematical Mindsets. [doi:10.48550/arXiv.0712.1187](https://doi.org/10.48550/arXiv.0712.1187)
 
 `q1 · i?` · `qualitative · r2`
 

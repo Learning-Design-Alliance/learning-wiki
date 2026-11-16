@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: brian-c-thomas-2007
     resource: "https://doi.org/10.48550/arXiv.0710.2631"
-    title: "Brian C. Thomas. (2007). An In-Class Discussion Activity on the Nature of Science and Intelligent Design. Evolution: Education and Outreach. https://www.ksde.org/Default.aspx?tabid=144"
+    title: "Brian C. Thomas. (2007). An In-Class Discussion Activity on the Nature of Science and Intelligent Design. Evolution: Education and Outreach. [doi:10.48550/arXiv.0710.2631](https://doi.org/10.48550/arXiv.0710.2631)"
     author: Brian C. Thomas
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Brian C. Thomas 2007
 
-Brian C. Thomas. (2007). An In-Class Discussion Activity on the Nature of Science and Intelligent Design. Evolution: Education and Outreach. https://www.ksde.org/Default.aspx?tabid=144 [doi:10.48550/arXiv.0710.2631](https://doi.org/10.48550/arXiv.0710.2631)
+Brian C. Thomas. (2007). An In-Class Discussion Activity on the Nature of Science and Intelligent Design. Evolution: Education and Outreach. [doi:10.48550/arXiv.0710.2631](https://doi.org/10.48550/arXiv.0710.2631)
 
 `q2 · i?` · `design · r2`
 

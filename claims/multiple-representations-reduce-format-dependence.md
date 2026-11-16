@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: john-belcher-and-carolann-koleci-2007
     resource: "https://doi.org/10.48550/arXiv.0802.4034"
-    title: "John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. http://web.mit.edu/viz/soft/visualizations/DLIC/DLIC.htm"
+    title: "John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)"
     author: John Belcher and Carolann Koleci
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### John Belcher and Carolann Koleci 2007
 
-John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. http://web.mit.edu/viz/soft/visualizations/DLIC/DLIC.htm [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)
+John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)
 
 `q2 · i?` · `design · r1`
 

@@ -17,7 +17,7 @@ sources:
 # Use a 3-phase half-wave rectification demonstration to make the 120-degree phase separation visually concrete
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends a rectifier demonstration as an application experiment: "this output give s visual idea and helps in easier understanding that each phase in a 3-phase s upply is separated by 120 o". Students build a circuit of three diodes and a load resistance connected to the simulated supply and observe the output waveform.
@@ -39,7 +39,6 @@ The article recommends a rectifier demonstration as an application experiment: "
 
 ## Claims
 
-- [The simulated circuit produces three phases with measured phase difference near 120 degrees and equal peak voltages](../claims/circuit-measured-phase-difference-112-degrees.md) [+W]
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](../claims/manipulatives-require-connection-to-concept.md) [+W]
 
 ## Related Strategies

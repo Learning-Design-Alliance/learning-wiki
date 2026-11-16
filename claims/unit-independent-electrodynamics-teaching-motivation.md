@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: c-vrejoiu-2008
     resource: "https://doi.org/10.48550/arXiv.0812.0794"
-    title: "C. Vrejoiu. (2008). On the formulation of Electrodynamics in a form independent of units. arXiv preprint. https://arxiv.org/abs/0812.0794"
+    title: "C. Vrejoiu. (2008). On the formulation of Electrodynamics in a form independent of units. arXiv preprint. [doi:10.48550/arXiv.0812.0794](https://doi.org/10.48550/arXiv.0812.0794)"
     author: C. Vrejoiu
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### C. Vrejoiu 2008
 
-C. Vrejoiu. (2008). On the formulation of Electrodynamics in a form independent of units. arXiv preprint. https://arxiv.org/abs/0812.0794 [doi:10.48550/arXiv.0812.0794](https://doi.org/10.48550/arXiv.0812.0794)
+C. Vrejoiu. (2008). On the formulation of Electrodynamics in a form independent of units. arXiv preprint. [doi:10.48550/arXiv.0812.0794](https://doi.org/10.48550/arXiv.0812.0794)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,5 +45,3 @@ Theoretical/pedagogical argument in the introduction of this note, not an empiri
 
 
 ## Related Claims
-- [Setting c0 = 1 everywhere reduces the unit-independent notation to SI, giving students the freedom to work only in SI](c0-equals-one-recovers-si-notation.md) — related
-- [Even quantum electrodynamics can be formulated in a notation independent of units](qed-unit-independent-formulation.md) — related

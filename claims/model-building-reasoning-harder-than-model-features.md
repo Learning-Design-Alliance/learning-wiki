@@ -9,10 +9,11 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: s-b-mckagan-2007
     resource: "https://doi.org/10.48550/arXiv.0707.1541"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. https://arxiv.org/abs/0707.1541"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.48550/arXiv.0707.1541](https://doi.org/10.48550/arXiv.0707.1541)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Most students could describe the models but had trouble giving satisfactory reasoning for why each model surpassed the previous one, often confusing observations with inferences. [→ S. B. McKagan 2007](#s-b-mckagan-2007)
@@ -33,7 +34,7 @@ sources:
 
 ### S. B. McKagan 2007
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. https://arxiv.org/abs/0707.1541 [doi:10.48550/arXiv.0707.1541](https://doi.org/10.48550/arXiv.0707.1541)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.48550/arXiv.0707.1541](https://doi.org/10.48550/arXiv.0707.1541)
 
 `q1 · i?` · `design · r3`
 

@@ -17,7 +17,7 @@ sources:
 # Give each student a physical garlic bulb and about 20 minutes to measure it and work the planting problems, then pool measurements on a class whiteboard
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy has each student receive a bulb of garlic and work quantitative planting questions (seed needed, area to cultivate, cost savings) directly on the physical object. The article reports that "we gave each student in the class a bulb of garlic" costing about $8.00 for twenty bulbs, and gave them "about 20 minutes to study the bulb and work on these problems." Students then massed bulbs, broke them into cloves, classified plantable cloves, and wrote their individual measurements on the class whiteboard to form a shared dataset. The pooled data then feeds histogram and confidence-interval discussion.
@@ -43,9 +43,7 @@ This strategy has each student receive a bulb of garlic and work quantitative pl
 ## Claims
 
 - [An assessment question asking students to predict the next bulb's clove count pushed students beyond using the class average toward specifying a range](../claims/garlic-assessment-prediction-range-reasoning.md) [+W]
-- [Class measurement of 15 garlic bulbs yielded an average of 15.5 plantable cloves per bulb, with 91% of bulb mass usable as seed](../claims/garlic-class-dataset-clove-measurements.md) [+W]
 - [A garlic-gardening problem was used in a preparatory chemistry class as a far-transfer task targeting proportional and probabilistic reasoning](../claims/garlic-far-transfer-proportional-probabilistic-reasoning.md) [+W]
-- [A class histogram of plantable cloves per bulb supported probabilistic predictions, with 14-17 cloves accounting for 80% of outcomes](../claims/garlic-histogram-confidence-interval-reasoning.md) [+W]
 
 ## Related Strategies
 

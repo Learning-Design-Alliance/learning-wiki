@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: kate-hayes-and-michael-c-wittmann-2009
     resource: "https://doi.org/10.48550/arXiv.0901.4912"
-    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). https://arxiv.org/abs/0901.4912"
+    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)"
     author: Kate Hayes and Michael C. Wittmann
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kate Hayes and Michael C. Wittmann 2009
 
-Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). https://arxiv.org/abs/0901.4912 [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)
+Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)
 
 `q1 · i?` · `qualitative · r2`
 

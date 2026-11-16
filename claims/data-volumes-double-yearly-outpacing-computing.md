@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
-recheck_by: 2014
 sources:
   - id: borne-2009
     resource: "https://doi.org/10.48550/arXiv.0909.3895"
-    title: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. https://arxiv.org/abs/0909.3895"
+    title: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)"
     author: "Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J."
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Data volumes in the natural sciences double every year (a factor of 1,000 in ten years), faster than computing power (doubling every 18 months) or I/O bandwidth (10% per year), so the ability to access, analyze, assimilate, and assemble knowledge falls further behind. [→ Borne 2009](#borne-2009)
@@ -34,7 +33,7 @@ sources:
 
 ### Borne 2009
 
-Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. https://arxiv.org/abs/0909.3895 [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)
+Borne, K. D., Jacoby, S., Carney, K., Connolly, A., Eastman, T., Raddick, M. J., Tyson, J. A., & Wallin, J. (2009). The Revolution in Astronomy Education: Data Science for the Masses. Astro2010 Decadal Survey State of the Profession Position Paper. [doi:10.48550/arXiv.0909.3895](https://doi.org/10.48550/arXiv.0909.3895)
 
 `q2 · i?` · `theoretical · r2`
 

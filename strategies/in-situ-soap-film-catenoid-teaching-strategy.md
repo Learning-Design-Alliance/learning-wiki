@@ -17,7 +17,7 @@ sources:
 # Use in-situ soap-film catenoid observation as an educational physics experiment combining theory and experimentation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend having physics students create catenoids between two rings with soap film and observe them in situ while varying ring separation, so students can observe local extrema phenomena directly. They stress that "in-situ observation of soap film catenoids is an appropriate physics experiment that combines theory and experimentation", letting students study differential geometry, minimal surfaces and dynamical mechanics together.
@@ -42,9 +42,6 @@ The authors recommend having physics students create catenoids between two rings
 
 ## Claims
 
-- [A catenoid between two coaxial rings can only form below a critical separation ratio hc ≃ 1.33R](../claims/catenoid-critical-separation-1-33r.md) [+W]
-- [In a soap-film experiment the stable catenoid persists past the predicted transition point h0 and does not jump to two disks, existing as a local minimum up to the critical separation](../claims/soap-film-catenoid-persists-past-h0-local-minimum.md) [+W]
-- [Just before the critical ring separation hc, the soap film momentarily forms the unstable catenoid before collapsing into two disks](../claims/unstable-catenoid-observed-before-critical-separation.md) [+W]
 
 ## Related Strategies
 - 

@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: john-belcher-and-carolann-koleci-2007
     resource: "https://doi.org/10.48550/arXiv.0802.4034"
-    title: "John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. http://web.mit.edu/viz/soft/visualizations/DLIC/DLIC.htm"
+    title: "John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)"
     author: John Belcher and Carolann Koleci
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### John Belcher and Carolann Koleci 2007
 
-John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. http://web.mit.edu/viz/soft/visualizations/DLIC/DLIC.htm [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)
+John Belcher and Carolann Koleci. (2007). Using Animated Textures to Visualize Electromagnetic Fields and Energy Flow. [doi:10.48550/arXiv.0802.4034](https://doi.org/10.48550/arXiv.0802.4034)
 
 `q1 · i?` · `design · r1`
 
@@ -45,6 +45,5 @@ The authors' conceptual argument in the introduction and Section V, not an empir
 
 
 ## Related Claims
-- [Texture-based LIC representation shows field structure at near-display resolution, avoiding the spatial-resolution limits of field lines and icon grids](lic-spatial-resolution-advantage-over-field-lines.md) — related
 - [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — a broader claim this one bears on
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — a broader claim this one bears on

@@ -12,8 +12,8 @@ newest_evidence: 2008
 recheck_by: 2013
 sources:
   - id: alejandro-gangui-2008
-    resource: "https://iafe.uba.ar"
-    title: "Alejandro Gangui, María C. Iglesias, Cynthia P. Quinteros. (2008). DIAGNOSTICO SITUACIONAL DE LOS DOCENTES DE PRIMARIA EN FORMACIÓN SOBRE ALGUNOS FENOMENOS ASTRONÓMICOS. https://iafe.uba.ar"
+    resource: "https://doi.org/10.48550/arXiv.0809.0013"
+    title: "Alejandro Gangui, María C. Iglesias, Cynthia P. Quinteros. (2008). DIAGNOSTICO SITUACIONAL DE LOS DOCENTES DE PRIMARIA EN FORMACIÓN SOBRE ALGUNOS FENOMENOS ASTRONÓMICOS. [doi:10.48550/arXiv.0809.0013](https://doi.org/10.48550/arXiv.0809.0013)"
     author: Alejandro Gangui, María C. Iglesias, Cynthia P. Quinteros
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Alejandro Gangui 2008
 
-Alejandro Gangui, María C. Iglesias, Cynthia P. Quinteros. (2008). DIAGNOSTICO SITUACIONAL DE LOS DOCENTES DE PRIMARIA EN FORMACIÓN SOBRE ALGUNOS FENOMENOS ASTRONÓMICOS. https://iafe.uba.ar
+Alejandro Gangui, María C. Iglesias, Cynthia P. Quinteros. (2008). DIAGNOSTICO SITUACIONAL DE LOS DOCENTES DE PRIMARIA EN FORMACIÓN SOBRE ALGUNOS FENOMENOS ASTRONÓMICOS. [doi:10.48550/arXiv.0809.0013](https://doi.org/10.48550/arXiv.0809.0013)
 
 `q2 · i?` · `associational · r?`
 

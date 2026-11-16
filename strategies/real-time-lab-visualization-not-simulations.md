@@ -17,7 +17,7 @@ sources:
 # Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends presenting abstract curriculum material through real-time experiments in laboratory sessions, where students become active participants of the learning process. The author stresses that "all this is real-time visualization but not computer-based animations, simulations or interactive multimedia design cases". The strategy pairs each invisible microwave phenomenon with its visible light counterpart and embeds motivating questions and investigations of practical devices.
@@ -39,9 +39,6 @@ The article recommends presenting abstract curriculum material through real-time
 
 ## Claims
 
-- [A Michelson interferometer adapted for microwaves determines microwave wavelength using the same equation as for visible laser light](../claims/interferometer-wavelength-light-and-microwaves.md) [+W]
-- [Parallel light and microwave measurements show both intensities decrease inversely proportional to the square of the distance from the source](../claims/inverse-square-light-and-microwaves.md) [+W]
-- [Comparing polarization data shows that the intensity of polarized light as well as polarized microwaves follows Malus's law](../claims/malus-law-light-and-microwaves.md) [+W]
 - [Analyzing the same phenomenon through two different measurement methods leads students to realize different spectral ranges require different equipment and measurement precision](../claims/two-methods-different-equipment-precision.md) [+W]
 
 ## Related Strategies

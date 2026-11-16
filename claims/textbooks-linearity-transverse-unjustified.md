@@ -12,15 +12,15 @@ newest_evidence: 2007
 sources:
   - id: alfred-ziegler-2007
     resource: "https://doi.org/10.48550/arXiv.0708.0988"
-    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988"
+    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)"
     author: Alfred Ziegler
     q: 2
     i: "?"
     kind: theoretical
     rigour: 3
   - id: alfred-ziegler-2007-2
-    resource: "https://arxiv.org/abs/0708.0988"
-    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988"
+    resource: "https://doi.org/10.48550/arXiv.0708.0988"
+    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)"
     author: Alfred Ziegler
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Alfred Ziegler 2007
 
-Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988 [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
+Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -52,7 +52,7 @@ Section VII.A survey finding across the reviewed textbooks; the article notes th
 
 ### Alfred Ziegler 2007 (2)
 
-Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988 [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
+Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
 
 `q2 · i?` · `review · r2`
 
@@ -65,5 +65,4 @@ Section VII.B survey finding on the invariance of the transverse coordinates in 
 
 ## Related Claims
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](textbooks-fail-postulate-attribution.md) — related
-- [The principle of relativity enters Lorentz-transformation derivations through two distinct steps: round-trip identity and equivalence of v and −v](relativity-principle-two-steps.md) — related
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related

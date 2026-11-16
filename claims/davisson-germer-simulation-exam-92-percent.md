@@ -12,15 +12,15 @@ newest_evidence: 2008
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. https://arxiv.org/abs/0709.4503"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: s-b-mckagan-2008-2
-    resource: "https://arxiv.org/abs/0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. https://arxiv.org/abs/0709.4503"
+    resource: "https://doi.org/10.48550/arXiv.0709.4503"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. https://arxiv.org/abs/0709.4503 [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
 
 `q2 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ Reading-quiz study in a modern physics course for physics majors (N=59, all stud
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. https://arxiv.org/abs/0709.4503 [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
 
 `q2 · i?` · `design · r3`
 

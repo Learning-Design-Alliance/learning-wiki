@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: robert-gm-hausmann-2008
     resource: "https://doi.org/10.48550/arXiv.0806.0599"
-    title: "Robert G.M. Hausmann, Brett van de Sande, Carla van de Sande, and Kurt VanLehn. (2008). Productive Dialog During Collaborative Problem Solving. https://arxiv.org/abs/0806.0599"
+    title: "Robert G.M. Hausmann, Brett van de Sande, Carla van de Sande, and Kurt VanLehn. (2008). Productive Dialog During Collaborative Problem Solving. [doi:10.48550/arXiv.0806.0599](https://doi.org/10.48550/arXiv.0806.0599)"
     author: Robert G.M. Hausmann, Brett van de Sande, Carla van de Sande, and Kurt VanLehn
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Robert G.M. Hausmann 2008
 
-Robert G.M. Hausmann, Brett van de Sande, Carla van de Sande, and Kurt VanLehn. (2008). Productive Dialog During Collaborative Problem Solving. https://arxiv.org/abs/0806.0599 [doi:10.48550/arXiv.0806.0599](https://doi.org/10.48550/arXiv.0806.0599)
+Robert G.M. Hausmann, Brett van de Sande, Carla van de Sande, and Kurt VanLehn. (2008). Productive Dialog During Collaborative Problem Solving. [doi:10.48550/arXiv.0806.0599](https://doi.org/10.48550/arXiv.0806.0599)
 
 `q1 · i?` · `causal · r2`
 

@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: kenichiro-aoki-2009
     resource: "https://doi.org/10.48550/arXiv.0911.3819"
-    title: "Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. https://arxiv.org/abs/0911.3819"
+    title: "Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)"
     author: Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kenichiro Aoki 2009
 
-Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. https://arxiv.org/abs/0911.3819 [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)
+Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)
 
 `q2 · i?` · `design · r2`
 

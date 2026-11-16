@@ -9,10 +9,11 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: djafar-k-mynbaev-2008
     resource: "https://doi.org/10.48550/arXiv.0807.1950"
-    title: "Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. https://arxiv.org/abs/0807.1950"
+    title: "Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)"
     author: Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark
     q: 1
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Students do not correlate engineering and science subjects closely and do not always transfer physics and mathematics knowledge to engineering-technology classes, causing them to get lost when topics require that background. [→ Djafar K. Mynbaev 2008](#djafar-k-mynbaev-2008)
@@ -33,7 +34,7 @@ sources:
 
 ### Djafar K. Mynbaev 2008
 
-Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. https://arxiv.org/abs/0807.1950 [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)
+Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)
 
 `q1 · i?` · `design · r1`
 

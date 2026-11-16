@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: steven-j-pollock-and-noah-d-finkelstein-2008
     resource: "https://doi.org/10.48550/arXiv.0805.0277"
-    title: "Steven J. Pollock and Noah D. Finkelstein. (2008). Sustaining Educational Reforms in Introductory Physics. Physical Review: Special Topics in Physics Education Research. https://journals.aps.org/prper/"
+    title: "Steven J. Pollock and Noah D. Finkelstein. (2008). Sustaining Educational Reforms in Introductory Physics. Physical Review: Special Topics in Physics Education Research. [doi:10.48550/arXiv.0805.0277](https://doi.org/10.48550/arXiv.0805.0277)"
     author: Steven J. Pollock and Noah D. Finkelstein
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Steven J. Pollock and Noah D. Finkelstein 2008
 
-Steven J. Pollock and Noah D. Finkelstein. (2008). Sustaining Educational Reforms in Introductory Physics. Physical Review: Special Topics in Physics Education Research. https://journals.aps.org/prper/ [doi:10.48550/arXiv.0805.0277](https://doi.org/10.48550/arXiv.0805.0277)
+Steven J. Pollock and Noah D. Finkelstein. (2008). Sustaining Educational Reforms in Introductory Physics. Physical Review: Special Topics in Physics Education Research. [doi:10.48550/arXiv.0805.0277](https://doi.org/10.48550/arXiv.0805.0277)
 
 `q3 · i?` · `associational · r1`
 

@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: silagadze-2007
     resource: "https://doi.org/10.48550/arXiv.0708.0929"
-    title: "Silagadze, Z. K. (2007). Relativity without tears. https://arxiv.org/abs/0708.0929"
+    title: "Silagadze, Z. K. (2007). Relativity without tears. [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)"
     author: Silagadze, Z. K.
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Silagadze 2007
 
-Silagadze, Z. K. (2007). Relativity without tears. https://arxiv.org/abs/0708.0929 [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)
+Silagadze, Z. K. (2007). Relativity without tears. [doi:10.48550/arXiv.0708.0929](https://doi.org/10.48550/arXiv.0708.0929)
 
 `q1 · i?` · `theoretical · r3`
 

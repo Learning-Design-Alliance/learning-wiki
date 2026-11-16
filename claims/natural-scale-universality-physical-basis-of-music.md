@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: tsuyoshi-hondou-2007
     resource: "https://doi.org/10.48550/arXiv.0708.3527"
-    title: "Tsuyoshi HONDOU, Masayuki YOSHIZAWA, and Shozo SUTO. (2007). Science-based comparative culture: A new theme of experiment for freshmen in Tohoku University. https://arxiv.org/abs/0708.3527"
+    title: "Tsuyoshi HONDOU, Masayuki YOSHIZAWA, and Shozo SUTO. (2007). Science-based comparative culture: A new theme of experiment for freshmen in Tohoku University. [doi:10.48550/arXiv.0708.3527](https://doi.org/10.48550/arXiv.0708.3527)"
     author: Tsuyoshi HONDOU, Masayuki YOSHIZAWA, and Shozo SUTO
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Tsuyoshi HONDOU 2007
 
-Tsuyoshi HONDOU, Masayuki YOSHIZAWA, and Shozo SUTO. (2007). Science-based comparative culture: A new theme of experiment for freshmen in Tohoku University. https://arxiv.org/abs/0708.3527 [doi:10.48550/arXiv.0708.3527](https://doi.org/10.48550/arXiv.0708.3527)
+Tsuyoshi HONDOU, Masayuki YOSHIZAWA, and Shozo SUTO. (2007). Science-based comparative culture: A new theme of experiment for freshmen in Tohoku University. [doi:10.48550/arXiv.0708.3527](https://doi.org/10.48550/arXiv.0708.3527)
 
 `q1 · i?` · `design · r1`
 

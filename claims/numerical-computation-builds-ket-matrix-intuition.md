@@ -12,15 +12,15 @@ newest_evidence: 2007
 sources:
   - id: r-garcia-2007
     resource: "https://doi.org/10.48550/arXiv.0704.1622"
-    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622"
+    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)"
     author: R. Garcia, A. Zozulya, and J. Stickney
     q: 1
     i: "?"
     kind: design
     rigour: 1
   - id: r-garcia-2007-2
-    resource: "https://arxiv.org/abs/0704.1622"
-    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622"
+    resource: "https://doi.org/10.48550/arXiv.0704.1622"
+    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)"
     author: R. Garcia, A. Zozulya, and J. Stickney
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### R. Garcia 2007
 
-R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622 [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
+R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
 
 `q1 · i?` · `design · r1`
 
@@ -52,7 +52,7 @@ The authors' motivational argument, not a measured outcome: computer representat
 
 ### R. Garcia 2007 (2)
 
-R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622 [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
+R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
 
 `q1 · i?` · `design · r1`
 

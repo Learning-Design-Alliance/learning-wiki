@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2007
-recheck_by: 2010
 sources:
   - id: charu-saxena-2007
     resource: "https://doi.org/10.48550/arXiv.0706.1295"
-    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295"
+    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)"
     author: "Charu Saxena, Rini Kaur & P.Arun"
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Practice beyond about 30 minutes did not keep improving reaction time: only four of ten students improved on the fourth recording, and three of those four performed worse than on their second attempt. [→ Charu Saxena 2007](#charu-saxena-2007)
@@ -35,7 +34,7 @@ sources:
 
 ### Charu Saxena 2007
 
-Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295 [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
+Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
 
 `q2 · i?` · `associational · r1`
 

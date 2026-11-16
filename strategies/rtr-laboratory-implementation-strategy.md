@@ -17,7 +17,7 @@ sources:
 # Embed a relativity simulation in laboratory sessions with pre-work, collaborative exploration and assessed visual log books
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes an implementable laboratory package: students prepare beforehand with textbook and online materials and preliminary questions checked by tutors, then work in pairs in three-hour sessions exploring the simulation, connecting observations to theory, and designing a time-dilation verification experiment. Students keep an assessed visual log book, and tutors provide guidance throughout. The authors report the package was robust enough to yield positive responses at both institutions under different staff teams.

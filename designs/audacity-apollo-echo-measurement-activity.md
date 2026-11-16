@@ -17,7 +17,7 @@ sources:
 # Audacity-based echo-delay measurement activity on NASA Apollo recordings
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An open research activity in which students analyze NASA-recorded Apollo radio conversations to measure the time of flight of Earth-Moon radio signals. Using Audacity, "the time windows of single syllables and of their echoes can be clearly identiﬁed and isolated", allowing precise delay measurement. The activity ran with 10 groups of two or three students aged 14-19, first with chronometers and then with audio software, and the mp3 files were taken from NASA's web site.
@@ -42,7 +42,6 @@ An open research activity in which students analyze NASA-recorded Apollo radio c
 
 ### Claims
 - [Students Earth Moon Distance From Apollo Echo Delays](../claims/students-earth-moon-distance-from-apollo-echo-delays.md) [+M]
-- [Echo Measurements Track Orbital Eccentricity Decrease](../claims/echo-measurements-track-orbital-eccentricity-decrease.md) [+M]
 
 ## Related Designs
 - 

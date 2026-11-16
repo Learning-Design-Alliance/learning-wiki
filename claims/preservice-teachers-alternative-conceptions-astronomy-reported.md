@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2006
-recheck_by: 2011
+newest_evidence: 2008
+recheck_by: 2013
 sources:
-  - id: maría-iglesias-2006
-    resource: "https://abc.gov.ar"
-    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar"
+  - id: maría-iglesias-2008
+    resource: "https://doi.org/10.48550/arXiv.0807.0418"
+    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)"
     author: María Iglesias, Cynthia Quinteros y Alejandro Gangui
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` The review reports that in an English study 23 of 41 prospective teachers answered adequately on the day/night cycle, and that in US studies few preservice teachers showed scientific understanding of Moon phases or the seasons. [→ María Iglesias 2006](#maria-iglesias-2006)
+`q2 i?` The review reports that in an English study 23 of 41 prospective teachers answered adequately on the day/night cycle, and that in US studies few preservice teachers showed scientific understanding of Moon phases or the seasons. [→ María Iglesias 2008](#maria-iglesias-2008)
 
 ## Evidence
 
-### María Iglesias 2006
+### María Iglesias 2008
 
-María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar
+María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)
 
 `q2 · i?` · `review · r?`
 

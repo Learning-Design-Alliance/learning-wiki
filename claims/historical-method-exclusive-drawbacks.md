@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: bruno-preziosi-and-erasmo-recami-2007
     resource: "https://doi.org/10.48550/arXiv.0709.0941"
-    title: "Bruno Preziosi and Erasmo Recami. (2007). Ettore Majorana's Inaugural Lecture on Theoretical Physics (Neaples, Italy; Jan.13, 1938) with comments by the editors. arXiv preprint. https://arxiv.org/abs/0709.0941"
+    title: "Bruno Preziosi and Erasmo Recami. (2007). Ettore Majorana's Inaugural Lecture on Theoretical Physics (Neaples, Italy; Jan.13, 1938) with comments by the editors. arXiv preprint. [doi:10.48550/arXiv.0709.0941](https://doi.org/10.48550/arXiv.0709.0941)"
     author: Bruno Preziosi and Erasmo Recami
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Bruno Preziosi and Erasmo Recami 2007
 
-Bruno Preziosi and Erasmo Recami. (2007). Ettore Majorana's Inaugural Lecture on Theoretical Physics (Neaples, Italy; Jan.13, 1938) with comments by the editors. arXiv preprint. https://arxiv.org/abs/0709.0941 [doi:10.48550/arXiv.0709.0941](https://doi.org/10.48550/arXiv.0709.0941)
+Bruno Preziosi and Erasmo Recami. (2007). Ettore Majorana's Inaugural Lecture on Theoretical Physics (Neaples, Italy; Jan.13, 1938) with comments by the editors. arXiv preprint. [doi:10.48550/arXiv.0709.0941](https://doi.org/10.48550/arXiv.0709.0941)
 
 `q1 · i?` · `theoretical · r2`
 

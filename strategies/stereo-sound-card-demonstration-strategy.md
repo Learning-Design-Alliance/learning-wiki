@@ -17,7 +17,7 @@ sources:
 # Use a stereo sound card pulse-delay experiment as a quick classroom demonstration or full laboratory determination of sound speed
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends deploying the two-microphone stereo sound card setup either as a demonstration providing a quick measurement of the speed of sound in air, or as a full laboratory determination. The concept is simple enough for students about 13-14 years old, and the experiment is fast: at an Open Day "every group of students passing through the experiment was able to complete, in a couple of minutes, several measurements."
@@ -40,9 +40,6 @@ The article recommends deploying the two-microphone stereo sound card setup eith
 ## Claims
 
 - [Plotting microphone distance versus time delay yields the speed of sound as the slope, reinforcing the time-of-flight concept](../claims/distance-delay-slope-sound-speed.md) [+W]
-- [The stereo sound card method measures the time of travel of a sound pulse between microphones with 1% precision](../claims/sound-card-time-delay-1-percent-precision.md) [+W]
-- [The same apparatus gives reasonable estimates of the speed of sound in solids, though short delays limit precision](../claims/sound-speed-in-solids-same-apparatus.md) [+W]
-- [A sound card has a time resolution of a fraction of a millisecond, comparable to that of photogate timers](../claims/sound-card-timer-accuracy-comparable-photogate.md) [+W]
 - [The sound-card measurement activity was easy to perform with large student groups and engaging for students](../claims/sound-card-activity-feasible-large-groups.md) [+W]
 
 ## Related Strategies

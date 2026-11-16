@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: primoˇz-peterlin-2009
     resource: "https://doi.org/10.48550/arXiv.0911.4570"
-    title: "Primoˇz Peterlin. (2009). Using R for data analysis and graphing in an introductory physics laboratory. https://arxiv.org/abs/0911.4570"
+    title: "Primoˇz Peterlin. (2009). Using R for data analysis and graphing in an introductory physics laboratory. [doi:10.48550/arXiv.0911.4570](https://doi.org/10.48550/arXiv.0911.4570)"
     author: Primoˇz Peterlin
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Primoˇz Peterlin 2009
 
-Primoˇz Peterlin. (2009). Using R for data analysis and graphing in an introductory physics laboratory. https://arxiv.org/abs/0911.4570 [doi:10.48550/arXiv.0911.4570](https://doi.org/10.48550/arXiv.0911.4570)
+Primoˇz Peterlin. (2009). Using R for data analysis and graphing in an introductory physics laboratory. [doi:10.48550/arXiv.0911.4570](https://doi.org/10.48550/arXiv.0911.4570)
 
 `q1 · i?` · `design · r1`
 

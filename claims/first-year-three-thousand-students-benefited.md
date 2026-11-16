@@ -13,7 +13,7 @@ recheck_by: 2011
 sources:
   - id: djafar-k-mynbaev-2008
     resource: "https://doi.org/10.48550/arXiv.0807.1950"
-    title: "Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. https://arxiv.org/abs/0807.1950"
+    title: "Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)"
     author: Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Djafar K. Mynbaev 2008
 
-Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. https://arxiv.org/abs/0807.1950 [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)
+Djafar K. Mynbaev, Candido Cabo, Roman Ya. Kezerashvili, Janet Liou-Mark. (2008). Support of Study on Engineering Technology from Physics and Mathematics. [doi:10.48550/arXiv.0807.1950](https://doi.org/10.48550/arXiv.0807.1950)
 
 `q1 · i?` · `design · r1`
 

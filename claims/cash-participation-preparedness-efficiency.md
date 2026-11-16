@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: daniel-p-snowman-2007
     resource: "https://doi.org/10.48550/arXiv.0711.4568"
-    title: "Daniel P. Snowman. (2007). Quantifying Student Effort and Class Involvement in the Introductory Higher Education Science Classroom. arXiv. https://arxiv.org/abs/0711.4568"
+    title: "Daniel P. Snowman. (2007). Quantifying Student Effort and Class Involvement in the Introductory Higher Education Science Classroom. arXiv. [doi:10.48550/arXiv.0711.4568](https://doi.org/10.48550/arXiv.0711.4568)"
     author: Daniel P. Snowman
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Daniel P. Snowman 2007
 
-Daniel P. Snowman. (2007). Quantifying Student Effort and Class Involvement in the Introductory Higher Education Science Classroom. arXiv. https://arxiv.org/abs/0711.4568 [doi:10.48550/arXiv.0711.4568](https://doi.org/10.48550/arXiv.0711.4568)
+Daniel P. Snowman. (2007). Quantifying Student Effort and Class Involvement in the Introductory Higher Education Science Classroom. arXiv. [doi:10.48550/arXiv.0711.4568](https://doi.org/10.48550/arXiv.0711.4568)
 
 `q1 · i?` · `design · r2`
 

@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: dexin-lu-2007
     resource: "https://doi.org/10.48550/arXiv.0801.2042"
-    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. https://arxiv.org/abs/0801.2042"
+    title: "Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)"
     author: Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Dexin Lu 2007
 
-Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. https://arxiv.org/abs/0801.2042 [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
+Dexin Lu, Dong Ruan, Wang Xu, Nianle Wu, Minwen Xiao, Yu An. (2007). An Experiment of Research-Oriented Teaching/Learning. [doi:10.48550/arXiv.0801.2042](https://doi.org/10.48550/arXiv.0801.2042)
 
 `q1 · i?` · `design · r1`
 

@@ -12,15 +12,15 @@ newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-2007
     resource: "https://doi.org/10.48550/arXiv.0712.0581"
-    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/"
+    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)"
     author: Rachel E. Scherr
     q: 2
     i: "?"
     kind: review
     rigour: 2
   - id: rachel-e-scherr-2007-2
-    resource: "https://journals.aps.org/prper/"
-    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/"
+    resource: "https://doi.org/10.48550/arXiv.0712.0581"
+    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)"
     author: Rachel E. Scherr
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Rachel E. Scherr 2007
 
-Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/ [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
+Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
 
 `q2 · i?` · `review · r2`
 
@@ -52,7 +52,7 @@ The review attributes this to Goldin-Meadow and colleagues' experiment on explai
 
 ### Rachel E. Scherr 2007 (2)
 
-Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. https://journals.aps.org/prper/ [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
+Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
 
 `q1 · i?` · `review · r3`
 

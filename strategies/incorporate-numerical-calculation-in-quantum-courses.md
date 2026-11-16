@@ -17,7 +17,7 @@ sources:
 # Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends adding a computational component to introductory quantum courses, following educators and textbook authors who have stressed this approach. The stated motive is that computer representation makes kets concretely column vectors, bras row vectors, and operators matrices, counteracting novice errors like conflating Ψ(x) with |Ψ⟩. A further stated benefit is that students feel "empowered to solve real problems that may not have simple, analytic solutions". The article operationalizes this with six MATLAB exercises tied to Griffiths' text.
@@ -41,10 +41,7 @@ The article recommends adding a computational component to introductory quantum 
 ## Claims
 
 - [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](../claims/computational-aspect-empowers-quantum-students.md) [+W]
-- [Simulated double-well superposition shows probability density oscillating between wells at the predicted period](../claims/double-well-oscillation-matches-predicted-period.md) [+W]
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](../claims/numerical-computation-builds-ket-matrix-intuition.md) [+W]
-- [Numerically computed harmonic-oscillator energies match the analytic formula within rounding error](../claims/numerical-harmonic-oscillator-energies-match-analytic.md) [+W]
-- [Numerical and analytic reflection probabilities agree except near ⟨E⟩/Uo ≈ 1, where the simulation shows a noticeable discrepancy](../claims/reflection-probability-discrepancy-near-threshold.md) [+W]
 
 ## Related Strategies
 

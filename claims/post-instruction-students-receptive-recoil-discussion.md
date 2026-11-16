@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2010
+newest_evidence: 2007
 sources:
-  - id: tarek-a-elsayed-2010
-    resource: "https://arxiv.org/abs/1008.2997"
-    title: "Tarek A. Elsayed. (2010). Interpreting Recoil For Undergraduate Students. https://arxiv.org/abs/1008.2997"
+  - id: tarek-a-elsayed-2007
+    resource: "https://doi.org/10.48550/arXiv.0710.2155"
+    title: "Tarek A. Elsayed. (2007). Interpreting Recoil For Undergraduate Students. [doi:10.48550/arXiv.0710.2155](https://doi.org/10.48550/arXiv.0710.2155)"
     author: Tarek A. Elsayed
     q: 1
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` After the concept of recoil was introduced to 18 students using the paper's approach, almost all said they learned something new and benefited from the discussion. [→ Tarek A. Elsayed 2010](#tarek-a-elsayed-2010)
+`q1 i?` After the concept of recoil was introduced to 18 students using the paper's approach, almost all said they learned something new and benefited from the discussion. [→ Tarek A. Elsayed 2007](#tarek-a-elsayed-2007)
 
 ## Evidence
 
-### Tarek A. Elsayed 2010
+### Tarek A. Elsayed 2007
 
-Tarek A. Elsayed. (2010). Interpreting Recoil For Undergraduate Students. https://arxiv.org/abs/1008.2997
+Tarek A. Elsayed. (2007). Interpreting Recoil For Undergraduate Students. [doi:10.48550/arXiv.0710.2155](https://doi.org/10.48550/arXiv.0710.2155)
 
 `q1 · i?` · `design · r2`
 

@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: d-j-miller-2009
     resource: "https://doi.org/10.48550/arXiv.0907.0902"
-    title: "D. J. Miller. (2009). A constructive approach to the special theory of relativity. https://arxiv.org/abs/0907.0902"
+    title: "D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.48550/arXiv.0907.0902](https://doi.org/10.48550/arXiv.0907.0902)"
     author: D. J. Miller
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### D. J. Miller 2009
 
-D. J. Miller. (2009). A constructive approach to the special theory of relativity. https://arxiv.org/abs/0907.0902 [doi:10.48550/arXiv.0907.0902](https://doi.org/10.48550/arXiv.0907.0902)
+D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.48550/arXiv.0907.0902](https://doi.org/10.48550/arXiv.0907.0902)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -47,4 +47,3 @@ The authors' argument in the Conclusion, citing Bell's advocacy of the construct
 ## Related Claims
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
-- [The Dewan-Beran thought experiment applied to the charge model shows that the fractional length change of an object transferred between frames is agreed on by all inertial observers](dewan-beran-length-change-observer-independent.md) — related

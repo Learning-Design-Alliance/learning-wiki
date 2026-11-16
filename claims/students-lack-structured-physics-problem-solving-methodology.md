@@ -13,7 +13,7 @@ recheck_by: 2014
 sources:
   - id: sergio-rojas-2009
     resource: "https://doi.org/10.48550/arXiv.0902.1151"
-    title: "Sergio Rojas. (2009). On the teaching and learning of physics: A Criticism and a Systemic Approach. https://arxiv.org/abs/0902.1151"
+    title: "Sergio Rojas. (2009). On the teaching and learning of physics: A Criticism and a Systemic Approach. [doi:10.48550/arXiv.0902.1151](https://doi.org/10.48550/arXiv.0902.1151)"
     author: Sergio Rojas
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Sergio Rojas 2009
 
-Sergio Rojas. (2009). On the teaching and learning of physics: A Criticism and a Systemic Approach. https://arxiv.org/abs/0902.1151 [doi:10.48550/arXiv.0902.1151](https://doi.org/10.48550/arXiv.0902.1151)
+Sergio Rojas. (2009). On the teaching and learning of physics: A Criticism and a Systemic Approach. [doi:10.48550/arXiv.0902.1151](https://doi.org/10.48550/arXiv.0902.1151)
 
 `q2 · i?` · `theoretical · r2`
 

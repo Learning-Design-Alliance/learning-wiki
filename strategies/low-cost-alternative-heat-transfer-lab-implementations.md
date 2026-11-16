@@ -17,7 +17,7 @@ sources:
 # Low-cost alternative implementations of the simulation-versus-data lab without a blacksmith shop
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers variations for campuses without a forge: an instructor could use "somthing a simple as an electric toaster oven or a “Weber” style charcoal grill" as the heat source, and quenching could be simulated by dipping stock in ice water or liquid nitrogen. In lieu of an IR thermometer, "a simple bar magnet can be used as a cheap temperature probe" by locating where magnetism goes away at the ~770°C transition, or students can record color distributions across a heated bar with digital cameras and compare them with blacksmithing forging color scales.
@@ -41,7 +41,6 @@ The article offers variations for campuses without a forge: an instructor could 
 ## Claims
 
 - [In the blacksmithing heat-transfer lab, the pre-trip simulation consistently overpredicted rod temperatures, and adding a radiation transfer scheme improved the fit to student-collected forge data](../claims/simulation-overprediction-radiation-scheme-improves-fit.md) [+W]
-- [Variations in the thermal coupling constant kappa could not account for the discrepancy between the forge measurements and the original simulation](../claims/kappa-variations-cannot-explain-simulation-data-discrepancy.md) [~W]
 
 ## Related Strategies
 - 

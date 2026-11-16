@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: takehiro-azuma-and-keiichi-nagao-2008
     resource: "https://doi.org/10.48550/arXiv.0803.3167"
-    title: "Takehiro Azuma and Keiichi Nagao. (2008). An inquiry into the reproduction of physics-phobic children by physics-phobic teachers. https://arxiv.org/abs/0803.3167"
+    title: "Takehiro Azuma and Keiichi Nagao. (2008). An inquiry into the reproduction of physics-phobic children by physics-phobic teachers. [doi:10.48550/arXiv.0803.3167](https://doi.org/10.48550/arXiv.0803.3167)"
     author: Takehiro Azuma and Keiichi Nagao
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Takehiro Azuma and Keiichi Nagao 2008
 
-Takehiro Azuma and Keiichi Nagao. (2008). An inquiry into the reproduction of physics-phobic children by physics-phobic teachers. https://arxiv.org/abs/0803.3167 [doi:10.48550/arXiv.0803.3167](https://doi.org/10.48550/arXiv.0803.3167)
+Takehiro Azuma and Keiichi Nagao. (2008). An inquiry into the reproduction of physics-phobic children by physics-phobic teachers. [doi:10.48550/arXiv.0803.3167](https://doi.org/10.48550/arXiv.0803.3167)
 
 `q2 · i?` · `associational · r1`
 

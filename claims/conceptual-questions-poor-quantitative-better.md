@@ -13,7 +13,7 @@ recheck_by: 2012
 sources:
   - id: roman-ya-kezerashvili-2007
     resource: "https://doi.org/10.48550/arXiv.0711.0452"
-    title: "Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. https://arxiv.org/abs/0711.0452"
+    title: "Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)"
     author: Roman Ya. Kezerashvili
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Roman Ya. Kezerashvili 2007
 
-Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. https://arxiv.org/abs/0711.0452 [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)
+Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)
 
 `q2 · i?` · `design · r1`
 

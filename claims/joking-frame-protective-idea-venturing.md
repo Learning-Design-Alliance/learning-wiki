@@ -12,15 +12,15 @@ newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-and-david-hammer-2007
     resource: "https://doi.org/10.48550/arXiv.0712.0211"
-    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211"
+    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)"
     author: Rachel E. Scherr and David Hammer
     q: 1
     i: "?"
     kind: qualitative
     rigour: 3
   - id: rachel-e-scherr-and-david-hammer-2007-2
-    resource: "https://arxiv.org/abs/0712.0211"
-    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211"
+    resource: "https://doi.org/10.48550/arXiv.0712.0211"
+    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)"
     author: Rachel E. Scherr and David Hammer
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Rachel E. Scherr and David Hammer 2007
 
-Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211 [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
+Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
 
 `q1 · i?` · `qualitative · r3`
 
@@ -52,7 +52,7 @@ Behavioral-cluster definitions from the tutorial video corpus: the yellow cluste
 
 ### Rachel E. Scherr and David Hammer 2007 (2)
 
-Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211 [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
+Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
 
 `q1 · i?` · `qualitative · r3`
 
@@ -64,7 +64,6 @@ Episode analysis of group B on electrostatics: Chris's half-joking account that 
 
 
 ## Related Claims
-- [Four landmark framings span about 90% of episodes, but under half codes cleanly in minute-long pure chunks](framing-coding-coverage-and-hybrids.md) — related
 - [Observed epistemological framings extend over durations from ten seconds to ten minutes](framing-durations-ten-seconds-to-ten-minutes.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — possibly the same claim (merge candidate)
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — a broader claim this one bears on

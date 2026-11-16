@@ -13,7 +13,7 @@ recheck_by: 2012
 sources:
   - id: r-garcia-2007
     resource: "https://doi.org/10.48550/arXiv.0704.1622"
-    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622"
+    title: "R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)"
     author: R. Garcia, A. Zozulya, and J. Stickney
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### R. Garcia 2007
 
-R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. https://arxiv.org/abs/0704.1622 [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
+R. Garcia, A. Zozulya, and J. Stickney. (2007). MATLAB codes for teaching quantum physics: Part 1. [doi:10.48550/arXiv.0704.1622](https://doi.org/10.48550/arXiv.0704.1622)
 
 `q2 · i?` · `design · r1`
 

@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2007
+newest_evidence: 2009
 sources:
-  - id: g-s-djordjevica-and-d-pavlovic-babic-2007
-    resource: "https://www.pmf.ni.ac.yu/f_odeljenje"
-    title: "G. S. Djordjevica and D. Pavlovic-Babic. (2007). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. https://www.pmf.ni.ac.yu/f_odeljenje"
+  - id: g-s-djordjevica-and-d-pavlovic-babic-2009
+    resource: "https://doi.org/10.48550/arXiv.0912.1042"
+    title: "G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.48550/arXiv.0912.1042](https://doi.org/10.48550/arXiv.0912.1042)"
     author: G. S. Djordjevica and D. Pavlovic-Babic
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the 1st grade comparison, almost all gifted 'physicists' pupils (80%) scored in the highest PISA proficiency levels, against 8% of the Serbia grammar-school sample and 0.3% of the Serbia whole sample. [→ G. S. Djordjevica and D. Pavlovic-Babic 2007](#g-s-djordjevica-and-d-pavlovic-babic-2007)
+`q2 i?` In the 1st grade comparison, almost all gifted 'physicists' pupils (80%) scored in the highest PISA proficiency levels, against 8% of the Serbia grammar-school sample and 0.3% of the Serbia whole sample. [→ G. S. Djordjevica and D. Pavlovic-Babic 2009](#g-s-djordjevica-and-d-pavlovic-babic-2009)
 
 ## Evidence
 
-### G. S. Djordjevica and D. Pavlovic-Babic 2007
+### G. S. Djordjevica and D. Pavlovic-Babic 2009
 
-G. S. Djordjevica and D. Pavlovic-Babic. (2007). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. https://www.pmf.ni.ac.yu/f_odeljenje
+G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.48550/arXiv.0912.1042](https://doi.org/10.48550/arXiv.0912.1042)
 
 `q2 · i?` · `design · r2`
 

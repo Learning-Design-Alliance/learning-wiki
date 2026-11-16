@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
-recheck_by: 2012
 sources:
   - id: nathan-moore-2009
     resource: "https://doi.org/10.48550/arXiv.0904.3960"
-    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960"
+    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)"
     author: Nathan Moore, Nicole Schoolmeesters
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: tool and model accuracy changes quickly
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A modified simulation adding an approximate radiation transfer scheme fit the 15-second forge data well. [→ Nathan Moore 2009](#nathan-moore-2009)
@@ -34,7 +33,7 @@ sources:
 
 ### Nathan Moore 2009
 
-Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960 [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
+Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
 
 `q2 · i?` · `design · r2`
 
@@ -46,6 +45,4 @@ Student revision of the model after the field trip, decreasing Pcoals by 25% per
 
 
 ## Related Claims
-- [Variations in the thermal coupling constant kappa could not account for the discrepancy between the forge measurements and the original simulation](kappa-variations-cannot-explain-simulation-data-discrepancy.md) — related
 - [The authors argue that agreement between student-taken data and a student-written simulation is more persuasive evidence for introductory students than agreement with theoretical quantities or book facts](student-taken-data-more-persuasive-than-theoretical-checks.md) — related
-- [Gas energy converges on average to the expected value set by the heating/cooling wall temperature, with visible thermal fluctuations](gas-energy-converges-to-expected-with-fluctuations.md) — related

@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: josé-j-lunazzi-2009
     resource: "https://doi.org/10.48550/arXiv.0909.5259"
-    title: "José J. Lunazzi. (2009). \"LA NUBE\": LA MANERA MÁS EMOCIONANTE DE EXPERIMENTAR ESPEJOS PLANOS. Caderno Brasileiro de Ensino de Física V26 N2. https://arxiv.org/abs/0909.5259"
+    title: "José J. Lunazzi. (2009). \"LA NUBE\": LA MANERA MÁS EMOCIONANTE DE EXPERIMENTAR ESPEJOS PLANOS. Caderno Brasileiro de Ensino de Física V26 N2. [doi:10.48550/arXiv.0909.5259](https://doi.org/10.48550/arXiv.0909.5259)"
     author: José J. Lunazzi
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### José J. Lunazzi 2009
 
-José J. Lunazzi. (2009). "LA NUBE": LA MANERA MÁS EMOCIONANTE DE EXPERIMENTAR ESPEJOS PLANOS. Caderno Brasileiro de Ensino de Física V26 N2. https://arxiv.org/abs/0909.5259 [doi:10.48550/arXiv.0909.5259](https://doi.org/10.48550/arXiv.0909.5259)
+José J. Lunazzi. (2009). "LA NUBE": LA MANERA MÁS EMOCIONANTE DE EXPERIMENTAR ESPEJOS PLANOS. Caderno Brasileiro de Ensino de Física V26 N2. [doi:10.48550/arXiv.0909.5259](https://doi.org/10.48550/arXiv.0909.5259)
 
 `q1 · i?` · `design · r1`
 
@@ -45,5 +45,4 @@ Historical-argumentative section (§II): the author reviews archaeological liter
 
 
 ## Related Claims
-- [A CD-DVD double-diffraction pair forms an inverted virtual image of an object in white light, with about 1% of the light usable](double-diffraction-cd-dvd-imaging.md) — related
 - [Extensive Chinese logographic literacy training is associated with higher visuospatial short-term storage that does not generalize to phonological storage](chinese-training-visuospatial-storage-domain-specific.md) — related

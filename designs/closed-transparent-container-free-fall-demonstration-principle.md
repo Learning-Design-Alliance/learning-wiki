@@ -17,7 +17,7 @@ sources:
 # Demonstrate independence of free fall from body properties without a vacuum by dropping a closed transparent container holding a feather and a stone
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The principle is to enclose the contrasting bodies (feather and stone) in a closed, transparent bottle so external air cannot act on them, then drop the system. The article presents this as "one of the simplest experiments in mechanics" and states that because no vacuum is needed, "this version can be repeated by teachers and students alike" in schools or universities. It reinforces the crumpled-paper demonstration using different materials.
@@ -38,7 +38,6 @@ The principle is to enclose the contrasting bodies (feather and stone) in a clos
 - understanding that free fall is independent of mass, shape and chemical composition in the absence of air resistance
 
 ### Claims
-- [Feather Stone Closed Container Free Fall Demonstration](../claims/feather-stone-closed-container-free-fall-demonstration.md) [+M]
 
 ## Related Designs
 - 

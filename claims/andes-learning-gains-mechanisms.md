@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: d-sánchez-guzmán-2009
     resource: "https://doi.org/10.48550/arXiv.0905.4085"
-    title: "D. Sánchez-Guzmán, César Mora, R. García-Salcedo. (2009). Intelligent Agents: A Physics Education Opportunity in Latin-America. Lat. Am. J. Phys. Educ. Vol. 3, No. 2. https://arxiv.org/abs/0905.4085"
+    title: "D. Sánchez-Guzmán, César Mora, R. García-Salcedo. (2009). Intelligent Agents: A Physics Education Opportunity in Latin-America. Lat. Am. J. Phys. Educ. Vol. 3, No. 2. [doi:10.48550/arXiv.0905.4085](https://doi.org/10.48550/arXiv.0905.4085)"
     author: D. Sánchez-Guzmán, César Mora, R. García-Salcedo
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### D. Sánchez-Guzmán 2009
 
-D. Sánchez-Guzmán, César Mora, R. García-Salcedo. (2009). Intelligent Agents: A Physics Education Opportunity in Latin-America. Lat. Am. J. Phys. Educ. Vol. 3, No. 2. https://arxiv.org/abs/0905.4085 [doi:10.48550/arXiv.0905.4085](https://doi.org/10.48550/arXiv.0905.4085)
+D. Sánchez-Guzmán, César Mora, R. García-Salcedo. (2009). Intelligent Agents: A Physics Education Opportunity in Latin-America. Lat. Am. J. Phys. Educ. Vol. 3, No. 2. [doi:10.48550/arXiv.0905.4085](https://doi.org/10.48550/arXiv.0905.4085)
 
 `q2 · i?` · `review · r1`
 

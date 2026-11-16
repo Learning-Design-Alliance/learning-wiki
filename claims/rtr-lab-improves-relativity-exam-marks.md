@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: c-savage-2009
     resource: "https://doi.org/10.48550/arXiv.0910.5776"
-    title: "C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. https://arxiv.org/abs/0910.5776"
+    title: "C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)"
     author: C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### C. Savage 2009
 
-C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. https://arxiv.org/abs/0910.5776 [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
+C. Savage, D. McGrath, T. McIntyre, M. Wegener, M. Williamson. (2009). Teaching Physics Using Virtual Reality. [doi:10.48550/arXiv.0910.5776](https://doi.org/10.48550/arXiv.0910.5776)
 
 `q3 · i?` · `causal · r2`
 

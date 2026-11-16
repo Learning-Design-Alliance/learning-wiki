@@ -17,7 +17,7 @@ sources:
 # Montage de speckle sur banc optique avec webcam Toucam Pro 2 sans objectif
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Élément matériel permettant de réaliser et enregistrer des figures de speckle à faible coût sur un banc d'optique : laser He-Ne, verre dépoli, diaphragme calibré et webcam dont l'objectif est retiré. L'article précise : "nous avons utilisé une webcam Toucam Pro 2  munie du capteur Sony ICX098BQ. Ce capteur est constitué de 659 x 494 pixels" avec "le pas de notre capteur est de 5,6 µm". Le dépoli est translaté par une vis micrométrique et les images sont traitées par un programme Labview ou par le logiciel gratuit Iris. Le retrait de l'objectif permet d'enregistrer les seuls speckles objectifs. Les images servent à mesurer la taille des speckles et à calculer des TF de superpositions.
@@ -39,8 +39,6 @@ sources:
 - ancrer les interférences à 2 et N ondes et la diffraction par les réseaux
 
 ### Claims
-- [Speckle Grain Size Proportional L Over D](../claims/speckle-grain-size-proportional-l-over-d.md) [+M]
-- [Two Wave Fringes From Shifted Speckle Superposition](../claims/two-wave-fringes-from-shifted-speckle-superposition.md) [+M]
 
 ## Related Designs
 - 

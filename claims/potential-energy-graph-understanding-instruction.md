@@ -12,15 +12,15 @@ newest_evidence: 2008
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 2
     i: "?"
     kind: causal
     rigour: 1
   - id: s-b-mckagan-2008-2
-    resource: "https://arxiv.org/abs/0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194"
+    resource: "https://doi.org/10.48550/arXiv.0802.3194"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194 [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
 
 `q2 · i?` · `causal · r1`
 
@@ -53,7 +53,7 @@ Observations, online student questions, and tutorial responses in the transforme
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194 [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
 
 `q1 · i?` · `causal · r1`
 

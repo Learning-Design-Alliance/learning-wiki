@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: andrew-ferstl-and-nathan-moore-2007
     resource: "https://doi.org/10.48550/arXiv.0803.4142"
-    title: "Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. http://groups.physics.umn.edu/physed/Research/PSL/pslintro.html"
+    title: "Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)"
     author: Andrew Ferstl and Nathan Moore
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Andrew Ferstl and Nathan Moore 2007
 
-Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. http://groups.physics.umn.edu/physed/Research/PSL/pslintro.html [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)
+Andrew Ferstl and Nathan Moore. (2007). Measuring the 2D Vector Aspect of Momentum Using Only One Dimension. [doi:10.48550/arXiv.0803.4142](https://doi.org/10.48550/arXiv.0803.4142)
 
 `q1 · i?` · `design · r2`
 

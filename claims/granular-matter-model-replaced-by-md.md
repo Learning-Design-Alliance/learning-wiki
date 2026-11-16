@@ -12,15 +12,15 @@ newest_evidence: 2007
 sources:
   - id: jan-tobochnik-and-harvey-gould-2007
     resource: "https://doi.org/10.48550/arXiv.0712.3488"
-    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488"
+    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)"
     author: Jan Tobochnik and Harvey Gould
     q: 1
     i: "?"
     kind: design
     rigour: 1
   - id: jan-tobochnik-and-harvey-gould-2007-2
-    resource: "https://arxiv.org/abs/0712.3488"
-    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488"
+    resource: "https://doi.org/10.48550/arXiv.0712.3488"
+    title: "Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)"
     author: Jan Tobochnik and Harvey Gould
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Jan Tobochnik and Harvey Gould 2007
 
-Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488 [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
+Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
 
 `q1 · i?` · `design · r1`
 
@@ -52,7 +52,7 @@ The authors state, based on interviews by one of them with students who took sta
 
 ### Jan Tobochnik and Harvey Gould 2007 (2)
 
-Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. https://arxiv.org/abs/0712.3488 [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
+Jan Tobochnik and Harvey Gould. (2007). Teaching statistical physics by thinking about models and algorithms. arXiv:0712.3488. [doi:10.48550/arXiv.0712.3488](https://doi.org/10.48550/arXiv.0712.3488)
 
 `q1 · i?` · `design · r1`
 
@@ -65,4 +65,3 @@ The authors report their own teaching experience over several weeks of molecular
 
 ## Related Claims
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
-- [Pressing the gas with a piston increases molecular speeds and gas energy; releasing produces the inverse effect](piston-pressing-increases-gas-energy.md) — related

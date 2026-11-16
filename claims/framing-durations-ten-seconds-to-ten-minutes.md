@@ -8,11 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2007
+newest_evidence: 2009
+recheck_by: 2014
 sources:
-  - id: bing-2007
-    resource: "https://www.compadre.org/PER/"
-    title: "Bing, T. J., & Redish, E. F. (2007). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. https://www.compadre.org/PER/"
+  - id: bing-2009
+    resource: "https://doi.org/10.1103/physrevstper.5.020108"
+    title: "Bing, T. J., & Redish, E. F. (2009). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. [doi:10.1103/physrevstper.5.020108](https://doi.org/10.1103/physrevstper.5.020108)"
     author: "Bing, T. J., & Redish, E. F."
     q: 2
     i: "?"
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Epistemological framings observed in the data set ranged in duration from ten seconds to ten minutes, reflecting the dynamic, continually updated nature of framing. [→ Bing 2007](#bing-2007)
+`q2 i?` Epistemological framings observed in the data set ranged in duration from ten seconds to ten minutes, reflecting the dynamic, continually updated nature of framing. [→ Bing 2009](#bing-2009)
 
 ## Evidence
 
-### Bing 2007
+### Bing 2009
 
-Bing, T. J., & Redish, E. F. (2007). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. https://www.compadre.org/PER/
+Bing, T. J., & Redish, E. F. (2009). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. [doi:10.1103/physrevstper.5.020108](https://doi.org/10.1103/physrevstper.5.020108)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -46,5 +47,4 @@ Observational report from the video data set (Section IV.E): new information fro
 
 ## Related Claims
 - [Epistemological frames of novice-leaning physics students can be sticky, trapping them for many minutes](sticky-epistemological-frames-novice-students.md) — related
-- [Four landmark framings span about 90% of episodes, but under half codes cleanly in minute-long pure chunks](framing-coding-coverage-and-hybrids.md) — related
 - [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — related

@@ -17,7 +17,7 @@ sources:
 # Teach superfluidity via Feynman's Bose-statistics argument and student estimation exercises rather than standard BEC remarks, as a self-contained one-to-two-lesson account
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes replacing the textbook treatment — which mentions BEC in an ideal Bose gas and then asserts 4He becomes superfluid — with a sequence starting from Feynman's explanation of superfluidity based on Bose statistics, followed by exercises in which students derive the transition temperature and energy gap from conservation laws and macroscopic quantities. The authors state "This paper represents a self-contained account of superfluidity, which can be covered in one or two lessons in class", and argue the calculations give students confidence that their introductory physics suffices to estimate something as complex as the superfluid transition temperature.
@@ -44,10 +44,6 @@ The article proposes replacing the textbook treatment — which mentions BEC in 
 
 ## Claims
 
-- [In liquid 4He only about 7% of atoms form a condensate while essentially 100% flow without friction below 1 K, showing superfluidity and BEC are distinct phenomena](../claims/bec-superfluidity-distinct-phenomena.md) [+W]
-- [Combining the three approximations (transition-temperature relation, roton energy, roton momentum) still gives Tλ = 2.17 ± 0.02 K in very good agreement with experiment](../claims/combined-macroscopic-estimate-transition-temperature.md) [+W]
-- [Student exercises combining equipartition with the roton minimum slope yield a transition temperature estimate of 2.162 ± 0.012 K, in good agreement with the actual 2.17 K](../claims/equipartition-roton-slope-transition-temperature-estimate.md) [+W]
-- [The relation Eroton = mc²/π estimates the roton energy gap as 0.744 meV from the speed of sound, matching the neutron-scattering value of 0.743 meV](../claims/roton-energy-from-speed-of-sound-estimate.md) [+W]
 
 ## Related Strategies
 - 

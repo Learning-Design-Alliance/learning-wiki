@@ -17,7 +17,7 @@ sources:
 # Use the dog-and-rabbit chase problem in introductory mechanics to exercise physical kinematics concepts with minimal mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends presenting the classic chase problem in a way that "emphasizes the use of con-cepts of elementary kinematics", so it "can be used i n introduc-tory mechanics course". The approach underlines reference frames, vector equations, and decomposition of velocity into radial and tangential components, and "requires only minimal mathematical background", suiting students just beginning physics. It is based on teaching experience with first-year physics students at Novosibirsk State University.
@@ -38,11 +38,6 @@ The article recommends presenting the classic chase problem in a way that "empha
 
 ## Claims
 
-- [The chase duration for a dog of speed V pursuing a rabbit of speed u is T = LV/(V^2 - u^2), derived with elementary vector kinematics](../claims/chase-duration-vector-kinematics-derivation.md) [+W]
-- [If the rabbit adjusts its speed to keep the separation constant at L, the required speed is u(t) = V*sqrt(1 - sin^2(phi0) e^(-2Vt/L)) and the dog's trajectory is a tractrix](../claims/constant-distance-chase-tractrix-trajectory.md) [+W]
-- [The dog's trajectory in the rabbit's frame is r = L/sin(phi) * (cot(phi/2))^(V/u), obtained by radial-tangential velocity decomposition](../claims/dog-trajectory-rabbit-frame-polar-form.md) [+W]
-- [For equal dog and rabbit speeds, the distance between them converges to r_min = (L2 + sqrt(L1^2 + L2^2))/2](../claims/equal-speed-chase-limit-distance.md) [+W]
-- [The dog's curve of pursuit in the laboratory frame derived via the rabbit-frame trajectory matches the result previously found in the literature](../claims/lab-frame-curve-of-pursuit-matches-literature.md) [+W]
 
 ## Related Strategies
 - 

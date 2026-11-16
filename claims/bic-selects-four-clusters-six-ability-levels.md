@@ -9,10 +9,11 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: francesco-bartolucci-2009
     resource: "https://doi.org/10.48550/arXiv.0909.4961"
-    title: "Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. https://arxiv.org/abs/0909.4961"
+    title: "Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)"
     author: Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini
     q: 2
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Fitting the multilevel LM Rasch model over grids of latent states, the smallest BIC value corresponds to four cluster typologies (k1 = 4) and six individual ability levels (k2 = 6). [→ Francesco Bartolucci 2009](#francesco-bartolucci-2009)
@@ -33,7 +34,7 @@ sources:
 
 ### Francesco Bartolucci 2009
 
-Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. https://arxiv.org/abs/0909.4961 [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)
+Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)
 
 `q2 · i?` · `associational · r3`
 

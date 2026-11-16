@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: l-b-okun-2008
     resource: "https://doi.org/10.48550/arXiv.0809.2379"
-    title: "L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. https://arxiv.org/abs/0809.2379"
+    title: "L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.48550/arXiv.0809.2379](https://doi.org/10.48550/arXiv.0809.2379)"
     author: L. B. Okun
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### L. B. Okun 2008
 
-L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. https://arxiv.org/abs/0809.2379 [doi:10.48550/arXiv.0809.2379](https://doi.org/10.48550/arXiv.0809.2379)
+L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.48550/arXiv.0809.2379](https://doi.org/10.48550/arXiv.0809.2379)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,6 +45,3 @@ The author's argument in section 5.4: the popular form "E = mc 2" without the su
 
 
 ## Related Claims
-- [At zero momentum the energy of a massive particle equals its mass, e0 = m, which in ordinary units is the true Einstein equation E0 = mc2](rest-energy-equals-mass.md) — related
-- [The mass of a system of particles, M2 = E2 − P2, is conserved but is not additive: M ≠ ∑ mi](system-mass-conserved-not-additive.md) — related
-- [Invariant mass is defined by the Pythagorean relation m2 = e2 − p2, shown as a right triangle with m and p as catheti and e as hypotenuse](pythagorean-mass-relation.md) — related

@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: todd-timberlake-and-javier-e-hasbun-2007
     resource: "https://doi.org/10.48550/arXiv.0708.2498"
-    title: "Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. https://arxiv.org/abs/0708.2498"
+    title: "Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. [doi:10.48550/arXiv.0708.2498](https://doi.org/10.48550/arXiv.0708.2498)"
     author: Todd Timberlake and Javier E. Hasbun
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Todd Timberlake and Javier E. Hasbun 2007
 
-Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. https://arxiv.org/abs/0708.2498 [doi:10.48550/arXiv.0708.2498](https://doi.org/10.48550/arXiv.0708.2498)
+Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. [doi:10.48550/arXiv.0708.2498](https://doi.org/10.48550/arXiv.0708.2498)
 
 `q1 · i?` · `design · r1`
 

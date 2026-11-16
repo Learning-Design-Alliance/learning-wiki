@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: kenichiro-aoki-2009
     resource: "https://doi.org/10.48550/arXiv.0911.3819"
-    title: "Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. https://arxiv.org/abs/0911.3819"
+    title: "Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)"
     author: Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kenichiro Aoki 2009
 
-Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. https://arxiv.org/abs/0911.3819 [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)
+Kenichiro Aoki, Takahisa Mitsui and Yuki Yamamoto. (2009). Direct quantitative measurements of Doppler effects for sound sources with gravitational acceleration. [doi:10.48550/arXiv.0911.3819](https://doi.org/10.48550/arXiv.0911.3819)
 
 `q2 · i?` · `design · r2`
 
@@ -45,6 +45,4 @@ Pendulum Doppler measurement (ℓ = 2.32 ± 0.01 m, R = 48 kHz, N = 2^14) in whi
 
 
 ## Related Claims
-- [Interactive acceleration in the city simulation makes forward houses seem to recede, because stronger aberration shrinks their solid angle](acceleration-apparent-recession-aberration.md) — related
 - [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — related
-- [For accelerating sources, the velocity error Δv can be decreased only in proportion to √a, not by arbitrarily lengthening the measurement time](doppler-error-scales-sqrt-acceleration.md) — related

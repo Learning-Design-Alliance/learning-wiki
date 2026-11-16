@@ -17,7 +17,7 @@ sources:
 # Use an eclipse simulation with a coin and movable lamp to connect diffraction to a familiar astronomical phenomenon
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The strategy is to displace a small white-light source behind a coin glued to glass and mounted on a simple support, photographing the shadow as the source moves, so the sequence simulates the phases of a total solar eclipse. The article explains that "la luna podría funcionar como una lente difractiva, captando la luz del sol y permitiendo que la veamos" even from the centre of the shadow region. This lets students link the Arago spot demonstration with the real observation that the moon's apparent diameter slightly exceeds the sun's during totality.
@@ -40,7 +40,6 @@ The strategy is to displace a small white-light source behind a coin glued to gl
 
 ## Claims
 
-- [A coin illuminated by a small white-light source shows the Arago bright spot at the centre of its shadow, and the setup simulates the phases of a solar eclipse](../claims/coin-white-light-arago-spot-eclipse-simulation.md) [+W]
 
 ## Related Strategies
 - 

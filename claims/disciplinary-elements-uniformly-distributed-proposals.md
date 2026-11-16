@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2008
-recheck_by: 2013
 sources:
   - id: bisesi-2008
     resource: "https://doi.org/10.48550/arXiv.0808.3695"
-    title: "Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://arxiv.org/abs/0808.3695"
+    title: "Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)"
     author: "Bisesi, E. & Michelini, M."
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Disciplinary elements in the 25 prospective teachers' curricular proposals were uniformly distributed between low (33%-50%), intermediate (50%-66%) and high (above 66%) coverage. [→ Bisesi 2008](#bisesi-2008)
@@ -34,7 +33,7 @@ sources:
 
 ### Bisesi 2008
 
-Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. https://arxiv.org/abs/0808.3695 [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)
+Bisesi, E. & Michelini, M. (2008). Planning Curricular Proposals on Sound and Music with Prospective Secondary-School Teachers. [doi:10.48550/arXiv.0808.3695](https://doi.org/10.48550/arXiv.0808.3695)
 
 `q2 · i?` · `qualitative · r2`
 

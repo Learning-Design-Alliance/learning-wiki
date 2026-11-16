@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: moderate
-newest_evidence: 2006
+newest_evidence: 2008
 sources:
-  - id: hausmann-2006
-    resource: "https://www.andes.pitt.edu/"
-    title: "Hausmann, R. G. M., van de Sande, B., & VanLehn, K. (2006). Are Self-explaining and Coached Problem Solving More Effective When Done by Pairs of Students Than Alone? Pittsburgh Science of Learning Center and the Learning Research and Development Center, University of Pittsburgh. https://www.andes.pitt.edu/"
+  - id: hausmann-2008
+    resource: "https://doi.org/10.48550/arXiv.0805.4223"
+    title: "Hausmann, R. G. M., van de Sande, B., & VanLehn, K. (2008). Are Self-explaining and Coached Problem Solving More Effective When Done by Pairs of Students Than Alone? Pittsburgh Science of Learning Center and the Learning Research and Development Center, University of Pittsburgh. [doi:10.48550/arXiv.0805.4223](https://doi.org/10.48550/arXiv.0805.4223)"
     author: "Hausmann, R. G. M., van de Sande, B., & VanLehn, K."
     q: 2
     i: 3
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Dyads demonstrated a shorter average latency between correct entries than individuals, a statistically reliable difference with a large effect size. [→ Hausmann 2006](#hausmann-2006)
+`q2 i3` Dyads demonstrated a shorter average latency between correct entries than individuals, a statistically reliable difference with a large effect size. [→ Hausmann 2008](#hausmann-2008)
 
 ## Evidence
 
-### Hausmann 2006
+### Hausmann 2008
 
-Hausmann, R. G. M., van de Sande, B., & VanLehn, K. (2006). Are Self-explaining and Coached Problem Solving More Effective When Done by Pairs of Students Than Alone? Pittsburgh Science of Learning Center and the Learning Research and Development Center, University of Pittsburgh. https://www.andes.pitt.edu/
+Hausmann, R. G. M., van de Sande, B., & VanLehn, K. (2008). Are Self-explaining and Coached Problem Solving More Effective When Done by Pairs of Students Than Alone? Pittsburgh Science of Learning Center and the Learning Research and Development Center, University of Pittsburgh. [doi:10.48550/arXiv.0805.4223](https://doi.org/10.48550/arXiv.0805.4223)
 
 `q2 · i3` · `causal · r2`
 

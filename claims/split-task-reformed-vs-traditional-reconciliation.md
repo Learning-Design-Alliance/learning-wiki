@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: edward-f-redish-and-david-hammer-2009
     resource: "https://doi.org/10.48550/arXiv.0807.4436"
-    title: "Edward F. Redish and David Hammer. (2009). Reinventing College Physics for Biologists: Explicating an epistemological curriculum. https://www.physics.umd.edu/perg/papers/redish/AAPT2009RedishHammer.pdf"
+    title: "Edward F. Redish and David Hammer. (2009). Reinventing College Physics for Biologists: Explicating an epistemological curriculum. [doi:10.48550/arXiv.0807.4436](https://doi.org/10.48550/arXiv.0807.4436)"
     author: Edward F. Redish and David Hammer
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Edward F. Redish and David Hammer 2009
 
-Edward F. Redish and David Hammer. (2009). Reinventing College Physics for Biologists: Explicating an epistemological curriculum. https://www.physics.umd.edu/perg/papers/redish/AAPT2009RedishHammer.pdf [doi:10.48550/arXiv.0807.4436](https://doi.org/10.48550/arXiv.0807.4436)
+Edward F. Redish and David Hammer. (2009). Reinventing College Physics for Biologists: Explicating an epistemological curriculum. [doi:10.48550/arXiv.0807.4436](https://doi.org/10.48550/arXiv.0807.4436)
 
 `q2 · i?` · `design · r3`
 

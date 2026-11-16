@@ -8,20 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2006
-recheck_by: 2011
+newest_evidence: 2008
+recheck_by: 2013
 sources:
-  - id: maría-iglesias-2006
-    resource: "https://abc.gov.ar"
-    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar"
+  - id: maría-iglesias-2008
+    resource: "https://doi.org/10.48550/arXiv.0807.0418"
+    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)"
     author: María Iglesias, Cynthia Quinteros y Alejandro Gangui
     q: 2
     i: "?"
     kind: review
     rigour: "?"
-  - id: maría-iglesias-2006-2
-    resource: "https://abc.gov.ar"
-    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar"
+  - id: maría-iglesias-2008-2
+    resource: "https://doi.org/10.48550/arXiv.0807.0418"
+    title: "María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)"
     author: María Iglesias, Cynthia Quinteros y Alejandro Gangui
     q: 2
     i: "?"
@@ -33,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` The review reports, citing Driver (1985), that about 20% of 11-12-year-old children said phosphorus would not burn in outer space because gravity is absent there, linking air and gravity conceptions. [→ María Iglesias 2006](#maria-iglesias-2006)
-`q2 i?` The review reports, citing Nussbaum and collaborators, that many primary pupils have not incorporated a spherical planet model and their gravitation idea is consistent with a flat Earth. [→ María Iglesias 2006 (2)](#maria-iglesias-2006-2)
+`q2 i?` The review reports, citing Driver (1985), that about 20% of 11-12-year-old children said phosphorus would not burn in outer space because gravity is absent there, linking air and gravity conceptions. [→ María Iglesias 2008](#maria-iglesias-2008)
+`q2 i?` The review reports, citing Nussbaum and collaborators, that many primary pupils have not incorporated a spherical planet model and their gravitation idea is consistent with a flat Earth. [→ María Iglesias 2008 (2)](#maria-iglesias-2008-2)
 
 ## Evidence
 
-### María Iglesias 2006
+### María Iglesias 2008
 
-María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar
+María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)
 
 `q2 · i?` · `review · r?`
 
@@ -51,9 +51,9 @@ Narrative review attributing this to Driver y colaboradores: children aged 11-12
 
 > "niños de entre 11 y 12 años, ante la pregunta de si un “fósfo ro” ard ería o no en el espaci o exterior, responden en un 20% que no, pues en el espacio lejano hay ausencia de gravedad."
 
-### María Iglesias 2006 (2)
+### María Iglesias 2008 (2)
 
-María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2006). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. https://abc.gov.ar
+María Iglesias, Cynthia Quinteros y Alejandro Gangui. (2008). Astronomía en la escuela: situación actual y perspectivas futuras. CEFIEC-FCEyN-UBA. [doi:10.48550/arXiv.0807.0418](https://doi.org/10.48550/arXiv.0807.0418)
 
 `q2 · i?` · `review · r?`
 

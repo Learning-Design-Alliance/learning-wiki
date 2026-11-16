@@ -12,15 +12,15 @@ newest_evidence: 2009
 sources:
   - id: nathan-moore-2009
     resource: "https://doi.org/10.48550/arXiv.0904.3960"
-    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960"
+    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)"
     author: Nathan Moore, Nicole Schoolmeesters
     q: 1
     i: "?"
     kind: design
     rigour: 2
   - id: nathan-moore-2009-2
-    resource: "https://arxiv.org/abs/0904.3960"
-    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960"
+    resource: "https://doi.org/10.48550/arXiv.0904.3960"
+    title: "Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)"
     author: Nathan Moore, Nicole Schoolmeesters
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Nathan Moore 2009
 
-Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960 [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
+Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
 
 `q1 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ Authors' interpretation from the introduction, based on their experience with in
 
 ### Nathan Moore 2009 (2)
 
-Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. https://arxiv.org/abs/0904.3960 [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
+Nathan Moore, Nicole Schoolmeesters. (2009). Computational Physics and Reality: Looking for Some Overlap at the Blacksmith Shop. [doi:10.48550/arXiv.0904.3960](https://doi.org/10.48550/arXiv.0904.3960)
 
 `q1 · i?` · `design · r2`
 
@@ -64,5 +64,4 @@ Authors' stated rationale in the goal section for having students collect their 
 
 
 ## Related Claims
-- [Gas energy converges on average to the expected value set by the heating/cooling wall temperature, with visible thermal fluctuations](gas-energy-converges-to-expected-with-fluctuations.md) — related
 - [In the blacksmithing heat-transfer lab, the pre-trip simulation consistently overpredicted rod temperatures, and adding a radiation transfer scheme improved the fit to student-collected forge data](simulation-overprediction-radiation-scheme-improves-fit.md) — related

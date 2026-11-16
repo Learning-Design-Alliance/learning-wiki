@@ -12,7 +12,7 @@ newest_evidence: 2006
 sources:
   - id: andy-terrel-and-beth-thacker-2006
     resource: "https://doi.org/10.48550/arXiv.0707.3106"
-    title: "Andy Terrel and Beth Thacker. (2006). A Global View of Cognitive Structure and Implications for Instruction and Assessment. https://arxiv.org/abs/0707.3106"
+    title: "Andy Terrel and Beth Thacker. (2006). A Global View of Cognitive Structure and Implications for Instruction and Assessment. [doi:10.48550/arXiv.0707.3106](https://doi.org/10.48550/arXiv.0707.3106)"
     author: Andy Terrel and Beth Thacker
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Andy Terrel and Beth Thacker 2006
 
-Andy Terrel and Beth Thacker. (2006). A Global View of Cognitive Structure and Implications for Instruction and Assessment. https://arxiv.org/abs/0707.3106 [doi:10.48550/arXiv.0707.3106](https://doi.org/10.48550/arXiv.0707.3106)
+Andy Terrel and Beth Thacker. (2006). A Global View of Cognitive Structure and Implications for Instruction and Assessment. [doi:10.48550/arXiv.0707.3106](https://doi.org/10.48550/arXiv.0707.3106)
 
 `q2 · i?` · `qualitative · r1`
 

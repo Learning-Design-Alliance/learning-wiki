@@ -17,7 +17,7 @@ sources:
 # Use a computer-controlled pendulum as a teaching tool spanning simple harmonic motion to chaos
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The authors recommend deploying the apparatus in physics teaching so that learners can experience the full phenomenological range of pendulum motion. The conclusion states: "The device can serve as a teaching tool at schools and universities to demonstrate all aspects of oscillatory motion ranging from simple harmonic motion to chaotic behaviour." Recorded position data support detailed offline study of the motion, including comparison with computer simulations.
@@ -42,13 +42,6 @@ The authors recommend deploying the apparatus in physics teaching so that learne
 
 ## Claims
 
-- [With piecewise constant friction, the maximal elongation of the non-driven pendulum decreases linearly with each half oscillation](../claims/constant-friction-linear-amplitude-decrease.md) [+W]
-- [The apparatus exhibits deterministic chaos when driven strongly enough to turn over the top, analysed via phase-space plots and a Poincaré map](../claims/driven-pendulum-chaos-poincare-map.md) [+W]
-- [The apparatus realises underdamped, overdamped and critically damped small-elongation motions with linear friction](../claims/pendulum-three-damping-cases-realised.md) [+W]
-- [Measured oscillation period of the frictionless pendulum increases with maximum elongation and matches the elliptic-integral calculation](../claims/period-amplitude-dependence-verified.md) [+W]
-- [Driven-pendulum resonance data follow the linearised theory except near the resonance peak where the small-angle approximation fails](../claims/resonance-amplitude-phase-measured.md) [+W]
-- [The mouse-pendulum apparatus measures both the frequency and the damping coefficient of a physical pendulum, with an exponential decay fit of R² = 0.997](../claims/mouse-pendulum-measures-frequency-and-damping.md) [+W]
-- [The apparatus resolves angular displacement to 0.0324 radians per pixel, a fractional uncertainty of 0.52% per full turn](../claims/mouse-pendulum-resolution-0-point-0324-radians.md) [+W]
 
 ## Related Strategies
 

@@ -14,7 +14,7 @@ generated:
 # Real Time Relativity (RTR)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A free desktop virtual-reality simulation developed by Dominic McGrath and colleagues for exploring visual and conceptual effects of special relativity through interactive user-controlled scenarios.

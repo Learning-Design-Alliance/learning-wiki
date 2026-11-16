@@ -13,7 +13,7 @@ recheck_by: 2014
 sources:
   - id: kate-hayes-and-michael-c-wittmann-2009
     resource: "https://doi.org/10.48550/arXiv.0901.4912"
-    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). https://arxiv.org/abs/0901.4912"
+    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)"
     author: Kate Hayes and Michael C. Wittmann
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Kate Hayes and Michael C. Wittmann 2009
 
-Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). https://arxiv.org/abs/0901.4912 [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)
+Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -46,7 +46,6 @@ Instructor observation during a small-group tutorial in a sophomore mechanics co
 
 
 ## Related Claims
-- [Air resistance can be ignored for a falling full bucket but not an empty one, because the criterion ratio Fa/Fg ≈ ρAh/m must be much smaller than unity](air-resistance-ignorable-when-rho-ah-m-much-less-than-one.md) — related
 - [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](outer-inner-minus-conflation-context-dependent.md) — related
 - [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related
 - [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) — related

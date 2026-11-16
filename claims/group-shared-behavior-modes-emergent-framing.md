@@ -12,7 +12,7 @@ newest_evidence: 2006
 sources:
   - id: conlin-2006
     resource: "https://doi.org/10.1063/1.2820949"
-    title: "Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D. (2006). The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions. Physics Education Research Conference proceedings record. https://www.compadre.org/PER/"
+    title: "Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D. (2006). The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions. Physics Education Research Conference proceedings record. [doi:10.1063/1.2820949](https://doi.org/10.1063/1.2820949)"
     author: "Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Conlin 2006
 
-Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D. (2006). The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions. Physics Education Research Conference proceedings record. https://www.compadre.org/PER/ [doi:10.1063/1.2820949](https://doi.org/10.1063/1.2820949)
+Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D. (2006). The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions. Physics Education Research Conference proceedings record. [doi:10.1063/1.2820949](https://doi.org/10.1063/1.2820949)
 
 `q2 · i?` · `associational · r1`
 

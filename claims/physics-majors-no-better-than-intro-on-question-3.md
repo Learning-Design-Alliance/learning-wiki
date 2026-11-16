@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: sergio-rojas-2007
     resource: "https://doi.org/10.48550/arXiv.0708.0059"
-    title: "Sergio Rojas. (2007). Physical intuition and mathematical reasoning: On the need to enhance physical insight via mathematical skills. arXiv preprint. https://arxiv.org/abs/0708.0059"
+    title: "Sergio Rojas. (2007). Physical intuition and mathematical reasoning: On the need to enhance physical insight via mathematical skills. arXiv preprint. [doi:10.48550/arXiv.0708.0059](https://doi.org/10.48550/arXiv.0708.0059)"
     author: Sergio Rojas
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Sergio Rojas 2007
 
-Sergio Rojas. (2007). Physical intuition and mathematical reasoning: On the need to enhance physical insight via mathematical skills. arXiv preprint. https://arxiv.org/abs/0708.0059 [doi:10.48550/arXiv.0708.0059](https://doi.org/10.48550/arXiv.0708.0059)
+Sergio Rojas. (2007). Physical intuition and mathematical reasoning: On the need to enhance physical insight via mathematical skills. arXiv preprint. [doi:10.48550/arXiv.0708.0059](https://doi.org/10.48550/arXiv.0708.0059)
 
 `q2 · i?` · `theoretical · r2`
 

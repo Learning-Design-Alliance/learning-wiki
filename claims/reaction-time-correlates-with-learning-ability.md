@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: charu-saxena-2007
     resource: "https://doi.org/10.48550/arXiv.0706.1295"
-    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295"
+    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)"
     author: "Charu Saxena, Rini Kaur & P.Arun"
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Charu Saxena 2007
 
-Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295 [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
+Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
 
 `q2 · i?` · `associational · r1`
 

@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: alfred-ziegler-2007
     resource: "https://doi.org/10.48550/arXiv.0708.0988"
-    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988"
+    title: "Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)"
     author: Alfred Ziegler
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Alfred Ziegler 2007
 
-Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. https://arxiv.org/abs/0708.0988 [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
+Alfred Ziegler. (2007). The role of the two postulates of special relativity. arXiv. [doi:10.48550/arXiv.0708.0988](https://doi.org/10.48550/arXiv.0708.0988)
 
 `q2 · i?` · `theoretical · r3`
 

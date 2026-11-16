@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: roman-ya-kezerashvili-2007
     resource: "https://doi.org/10.48550/arXiv.0708.2577"
-    title: "Roman Ya. Kezerashvili, Candido Cabo, Djafar K. Mynbaev. (2007). The Transfer of Knowledge from Physics and Mathematics to Engineering Applications. https://arxiv.org/abs/0708.2577"
+    title: "Roman Ya. Kezerashvili, Candido Cabo, Djafar K. Mynbaev. (2007). The Transfer of Knowledge from Physics and Mathematics to Engineering Applications. [doi:10.48550/arXiv.0708.2577](https://doi.org/10.48550/arXiv.0708.2577)"
     author: Roman Ya. Kezerashvili, Candido Cabo, Djafar K. Mynbaev
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Roman Ya. Kezerashvili 2007
 
-Roman Ya. Kezerashvili, Candido Cabo, Djafar K. Mynbaev. (2007). The Transfer of Knowledge from Physics and Mathematics to Engineering Applications. https://arxiv.org/abs/0708.2577 [doi:10.48550/arXiv.0708.2577](https://doi.org/10.48550/arXiv.0708.2577)
+Roman Ya. Kezerashvili, Candido Cabo, Djafar K. Mynbaev. (2007). The Transfer of Knowledge from Physics and Mathematics to Engineering Applications. [doi:10.48550/arXiv.0708.2577](https://doi.org/10.48550/arXiv.0708.2577)
 
 `q1 · i?` · `design · r1`
 

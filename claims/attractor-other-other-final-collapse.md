@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: katrina-e-black-and-michael-c-wittmann-2008
     resource: "https://doi.org/10.48550/arXiv.0812.3136"
-    title: "Katrina E. Black and Michael C. Wittmann. (2008). Visualizing Changes in Student Responses Using Consistency Plots. https://arxiv.org/abs/0812.3136"
+    title: "Katrina E. Black and Michael C. Wittmann. (2008). Visualizing Changes in Student Responses Using Consistency Plots. [doi:10.48550/arXiv.0812.3136](https://doi.org/10.48550/arXiv.0812.3136)"
     author: Katrina E. Black and Michael C. Wittmann
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Katrina E. Black and Michael C. Wittmann 2008
 
-Katrina E. Black and Michael C. Wittmann. (2008). Visualizing Changes in Student Responses Using Consistency Plots. https://arxiv.org/abs/0812.3136 [doi:10.48550/arXiv.0812.3136](https://doi.org/10.48550/arXiv.0812.3136)
+Katrina E. Black and Michael C. Wittmann. (2008). Visualizing Changes in Student Responses Using Consistency Plots. [doi:10.48550/arXiv.0812.3136](https://doi.org/10.48550/arXiv.0812.3136)
 
 `q2 · i?` · `design · r2`
 

@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: mm-taddei-2009
     resource: "https://doi.org/10.48550/arXiv.0903.4497"
-    title: "M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. https://arxiv.org/abs/0903.4497"
+    title: "M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.48550/arXiv.0903.4497](https://doi.org/10.48550/arXiv.0903.4497)"
     author: M.M. Taddei, T.N.C. Mendes, C. Farina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### M.M. Taddei 2009
 
-M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. https://arxiv.org/abs/0903.4497 [doi:10.48550/arXiv.0903.4497](https://doi.org/10.48550/arXiv.0903.4497)
+M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.48550/arXiv.0903.4497](https://doi.org/10.48550/arXiv.0903.4497)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -45,8 +45,5 @@ Pedagogical expository article identifying a documented pitfall in electrostatic
 
 
 ## Related Claims
-- [For a point charge near a grounded conducting sphere, the electrostatic energy is half the Coulombic energy between the charge and its image q′ = −Rq/a, the same factor 1/2 as in the wall case.](charge-sphere-energy-half-image-coulomb.md) — related
-- [For a point charge near a perfectly conducting wall, the electrostatic energy is half the Coulombic energy between the real charge and its image charge.](charge-wall-energy-half-image-coulomb.md) — related
-- [For a charge near an infinite conducting wedge of aperture angle π/n, the electrostatic energy is half the interaction energy between the real charge and each image charge.](charge-wedge-energy-half-real-image-interaction.md) — related
-- [Theorem: the electrostatic energy of a point charge near any number of neutral or grounded perfect conductors of arbitrary shapes is half the Coulombic energy between the charge and each image charge.](image-method-energy-theorem-arbitrary-conductors.md) — a broader claim this one bears on
-- [For M source charges near arbitrary neutral or grounded perfect conductors, the electrostatic energy is the real-charge interaction energy plus half the sum of the charge-image Coulombic energies.](image-method-energy-theorem-many-source-charges.md) — a broader claim this one bears on
+- Theorem: the electrostatic energy of a point charge near any number of neutral or grounded perfect conductors of arbitrary shapes is half the Coulombic energy between the charge and each image charge. — a broader claim this one bears on
+- For M source charges near arbitrary neutral or grounded perfect conductors, the electrostatic energy is the real-charge interaction energy plus half the sum of the charge-image Coulombic energies. — a broader claim this one bears on

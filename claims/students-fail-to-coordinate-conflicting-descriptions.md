@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: david-t-brookes-and-eugenia-etkina-2007
     resource: "https://doi.org/10.48550/arXiv.0704.1319"
-    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. https://arxiv.org/abs/0704.1319"
+    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)"
     author: David T. Brookes and Eugenia Etkina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### David T. Brookes and Eugenia Etkina 2007
 
-David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. https://arxiv.org/abs/0704.1319 [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)
+David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,7 +45,6 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 
 
 ## Related Claims
-- [Coherent systems of metaphors exist in physicists' quantum-mechanics language and encode an underlying ontology of matter, processes and states](coherent-metaphor-systems-in-physicists-language.md) — related
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — related
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related

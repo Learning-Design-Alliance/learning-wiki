@@ -17,7 +17,7 @@ sources:
 # A single grating-feedback laser diode setup supporting multiple complementary high-resolution spectroscopy experiments for advanced undergraduates
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 This pattern organizes an advanced undergraduate atomic-physics laboratory around one commercial grating-feedback laser diode (Toptica DL100) used successively for Doppler-broadened absorption, saturated absorption, and two-photon spectroscopy of rubidium. As the authors write, "All experiments are performed with the same grating-feedback laser diode, providing an opportunity to compare diﬀerent high resolution spectroscopy methods using a single experimental setup." The two non-linear methods are complementary because single-photon transitions obey Δl = ±1 while two-photon transitions obey Δl = 0,±2, letting students compare methods and encounter selection rules, atomic spectra and the Zeeman effect.
@@ -41,10 +41,6 @@ This pattern organizes an advanced undergraduate atomic-physics laboratory aroun
 - high-resolution spectroscopy techniques
 
 ### Claims
-- [Saturated Absorption Resolves 5P32 Hyperfine](../claims/saturated-absorption-resolves-5p32-hyperfine.md) [+M]
-- [Two Photon Spectroscopy Measures 5D52 Hyperfine](../claims/two-photon-spectroscopy-measures-5d52-hyperfine.md) [+M]
-- [Polarization Flip Illustrates Two Photon Selection Rule](../claims/polarization-flip-illustrates-two-photon-selection-rule.md) [+M]
-- [Zeeman Splitting Two Photon Dm2 Rule](../claims/zeeman-splitting-two-photon-dm2-rule.md) [+M]
 
 ## Related Designs
 - 

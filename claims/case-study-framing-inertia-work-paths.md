@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2007
+newest_evidence: 2009
 sources:
-  - id: bing-2007
-    resource: "https://www.compadre.org/PER/"
-    title: "Bing, T. J., & Redish, E. F. (2007). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. https://www.compadre.org/PER/"
+  - id: bing-2009
+    resource: "https://doi.org/10.1103/physrevstper.5.020108"
+    title: "Bing, T. J., & Redish, E. F. (2009). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. [doi:10.1103/physrevstper.5.020108](https://doi.org/10.1103/physrevstper.5.020108)"
     author: "Bing, T. J., & Redish, E. F."
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a group homework session, one student justified his claim that more work is done along the longer two-part path via goodness-of-fit between math and the physical situation, indicating a physical mapping framing that showed resistance to change. [→ Bing 2007](#bing-2007)
+`q2 i?` In a group homework session, one student justified his claim that more work is done along the longer two-part path via goodness-of-fit between math and the physical situation, indicating a physical mapping framing that showed resistance to change. [→ Bing 2009](#bing-2009)
 
 ## Evidence
 
-### Bing 2007
+### Bing 2009
 
-Bing, T. J., & Redish, E. F. (2007). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. https://www.compadre.org/PER/
+Bing, T. J., & Redish, E. F. (2009). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. [doi:10.1103/physrevstper.5.020108](https://doi.org/10.1103/physrevstper.5.020108)
 
 `q2 · i?` · `qualitative · r2`
 

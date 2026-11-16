@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: u-kraus-2007
     resource: "https://doi.org/10.48550/arXiv.0708.3454"
-    title: "U Kraus. (2007). First-person visualizations of the special and general theory of relativity. The European Journal of Physics (accepted for publication). https://arxiv.org/abs/0708.3454"
+    title: "U Kraus. (2007). First-person visualizations of the special and general theory of relativity. The European Journal of Physics (accepted for publication). [doi:10.48550/arXiv.0708.3454](https://doi.org/10.48550/arXiv.0708.3454)"
     author: U Kraus
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### U Kraus 2007
 
-U Kraus. (2007). First-person visualizations of the special and general theory of relativity. The European Journal of Physics (accepted for publication). https://arxiv.org/abs/0708.3454 [doi:10.48550/arXiv.0708.3454](https://doi.org/10.48550/arXiv.0708.3454)
+U Kraus. (2007). First-person visualizations of the special and general theory of relativity. The European Journal of Physics (accepted for publication). [doi:10.48550/arXiv.0708.3454](https://doi.org/10.48550/arXiv.0708.3454)
 
 `q1 · i?` · `design · r2`
 

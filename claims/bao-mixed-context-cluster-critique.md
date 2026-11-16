@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-recheck_by: 2011
 sources:
   - id: trevor-i-smith-and-michael-c-wittmann-2008
     resource: "https://doi.org/10.48550/arXiv.0711.1838"
-    title: "Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. https://arxiv.org/abs/0711.1838"
+    title: "Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)"
     author: Trevor I. Smith and Michael C. Wittmann
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bao's mixed-context cluster for the FMCE mixes contextual and representational cues, priming data to show mixed model states while obscuring whether mixing arises from contextual, representational, or deeper physical issues. [→ Trevor I. Smith and Michael C. Wittmann 2008](#trevor-i-smith-and-michael-c-wittmann-2008)
@@ -34,7 +33,7 @@ sources:
 
 ### Trevor I. Smith and Michael C. Wittmann 2008
 
-Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. https://arxiv.org/abs/0711.1838 [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)
+Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)
 
 `q2 · i?` · `associational · r?`
 

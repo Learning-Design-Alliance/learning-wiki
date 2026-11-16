@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: kenichiro-aoki-and-takahisa-mitsui-2007
     resource: "https://doi.org/10.48550/arXiv.0705.3996"
-    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. https://arxiv.org/abs/0705.3996"
+    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)"
     author: Kenichiro Aoki and Takahisa Mitsui
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kenichiro Aoki and Takahisa Mitsui 2007
 
-Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. https://arxiv.org/abs/0705.3996 [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)
+Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)
 
 `q2 · i?` · `design · r1`
 
@@ -47,4 +47,3 @@ Authors' interpretive report (type (e)) from employing the experiment with rough
 ## Related Claims
 - [Roughly 600 non-science-major students at Keio University performed the experiment with no problems and satisfactory results](600-students-performed-experiment-successfully.md) — related
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related
-- [The tabletop experiment measures the speed of light to a few percent accuracy at a one-meter path length](tabletop-speed-of-light-few-percent-accuracy.md) — related

@@ -12,16 +12,16 @@ evidence_strength: moderate
 newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-and-david-hammer-2007
-    resource: "https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing"
-    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing"
+    resource: "https://doi.org/10.48550/arXiv.0712.0211"
+    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)"
     author: Rachel E. Scherr and David Hammer
     q: 2
     i: "?"
     kind: qualitative
     rigour: 3
   - id: rachel-e-scherr-and-david-hammer-2007-2
-    resource: "https://arxiv.org/abs/0712.0211"
-    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211"
+    resource: "https://doi.org/10.48550/arXiv.0712.0211"
+    title: "Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)"
     author: Rachel E. Scherr and David Hammer
     q: 1
     i: "?"
@@ -47,7 +47,7 @@ sources:
 
 ### Rachel E. Scherr and David Hammer 2007
 
-Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing
+Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -58,7 +58,7 @@ Qualitative episode analysis of group A working on the Newton's third law tutori
 <!-- merged 2026-11-10 from blue-green-shift-worksheet-to-discussion-framing: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Rachel E. Scherr and David Hammer 2007
 
-Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211
+Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
 
 `q1 · i?`
 
@@ -69,7 +69,7 @@ Qualitative episode analysis of group A on the Newton's third law tutorial: the 
 
 ### Rachel E. Scherr and David Hammer 2007 (2)
 
-Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. https://arxiv.org/abs/0712.0211
+Rachel E. Scherr and David Hammer. (2007). Student Behavior and Epistemological Framing: Examples from Collaborative Active-Learning Activities in Physics. Submitted to Cognition and Instruction. [doi:10.48550/arXiv.0712.0211](https://doi.org/10.48550/arXiv.0712.0211)
 
 `q1 · i?` · `qualitative · r3`
 

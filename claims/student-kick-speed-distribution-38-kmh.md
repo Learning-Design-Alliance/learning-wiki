@@ -13,7 +13,7 @@ recheck_by: 2014
 sources:
   - id: c-e-aguiar-and-m-m-pereira-2009
     resource: "https://doi.org/10.48550/arXiv.0908.1437"
-    title: "C. E. Aguiar and M. M. Pereira. (2009). Using the Sound Card as a Timer. arXiv preprint. https://arxiv.org/abs/0908.1437"
+    title: "C. E. Aguiar and M. M. Pereira. (2009). Using the Sound Card as a Timer. arXiv preprint. [doi:10.48550/arXiv.0908.1437](https://doi.org/10.48550/arXiv.0908.1437)"
     author: C. E. Aguiar and M. M. Pereira
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### C. E. Aguiar and M. M. Pereira 2009
 
-C. E. Aguiar and M. M. Pereira. (2009). Using the Sound Card as a Timer. arXiv preprint. https://arxiv.org/abs/0908.1437 [doi:10.48550/arXiv.0908.1437](https://doi.org/10.48550/arXiv.0908.1437)
+C. E. Aguiar and M. M. Pereira. (2009). Using the Sound Card as a Timer. arXiv preprint. [doi:10.48550/arXiv.0908.1437](https://doi.org/10.48550/arXiv.0908.1437)
 
 `q2 · i?` · `design · r2`
 

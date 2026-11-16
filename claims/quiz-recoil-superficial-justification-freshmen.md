@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: moderate
-newest_evidence: 2010
-recheck_by: 2015
+newest_evidence: 2007
+recheck_by: 2012
 sources:
-  - id: tarek-a-elsayed-2010
-    resource: "https://arxiv.org/abs/1008.2997"
-    title: "Tarek A. Elsayed. (2010). Interpreting Recoil For Undergraduate Students. https://arxiv.org/abs/1008.2997"
+  - id: tarek-a-elsayed-2007
+    resource: "https://doi.org/10.48550/arXiv.0710.2155"
+    title: "Tarek A. Elsayed. (2007). Interpreting Recoil For Undergraduate Students. [doi:10.48550/arXiv.0710.2155](https://doi.org/10.48550/arXiv.0710.2155)"
     author: Tarek A. Elsayed
     q: 2
     i: "?"
@@ -25,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Many freshman students justify recoil merely as an action-reaction pair without real understanding of how the reaction is produced in specific problems. [→ Tarek A. Elsayed 2010](#tarek-a-elsayed-2010)
+`q2 i?` Many freshman students justify recoil merely as an action-reaction pair without real understanding of how the reaction is produced in specific problems. [→ Tarek A. Elsayed 2007](#tarek-a-elsayed-2007)
 
 ## Evidence
 
-### Tarek A. Elsayed 2010
+### Tarek A. Elsayed 2007
 
-Tarek A. Elsayed. (2010). Interpreting Recoil For Undergraduate Students. https://arxiv.org/abs/1008.2997
+Tarek A. Elsayed. (2007). Interpreting Recoil For Undergraduate Students. [doi:10.48550/arXiv.0710.2155](https://doi.org/10.48550/arXiv.0710.2155)
 
 `q2 · i?` · `design · r2`
 

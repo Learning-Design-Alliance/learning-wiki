@@ -9,19 +9,18 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-recheck_by: 2013
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.48550/arXiv.0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
     kind: qualitative
     rigour: 3
   - id: s-b-mckagan-2008-2
-    resource: "https://arxiv.org/abs/0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194"
+    resource: "https://doi.org/10.48550/arXiv.0802.3194"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students gave subtler, different reasons for energy loss in interviews than the literature's two standard reasons (wave function/energy confusion and dissipation). [→ S. B. McKagan 2008](#s-b-mckagan-2008)
@@ -43,7 +42,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194 [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
 
 `q1 · i?` · `qualitative · r3`
 
@@ -53,7 +52,7 @@ Case-study interviews (12 tunneling interviews with six students) plus corrobora
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. https://arxiv.org/abs/0802.3194 [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
 
 `q1 · i?` · `design · r3`
 

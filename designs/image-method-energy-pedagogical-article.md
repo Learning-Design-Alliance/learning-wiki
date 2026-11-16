@@ -17,7 +17,7 @@ sources:
 # Pedagogical article sequence on the image-method energy subtlety: wall, wedge, sphere, then general theorems
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An instructional resource for undergraduate and graduate electrostatics that teaches a common energy-computation pitfall through a deliberate example progression. It starts with the familiar charge-wall case, adds a symmetry treatment of wedges, works the less symmetric charge-sphere case explicitly, and then proves general theorems for arbitrary conductors and multiple source charges. The stated goal is to show that "the electrostatic energy of the syste m is 1 /2 times the Coulombic energy of the interaction between the real charge and e ach image charge of the problem."
@@ -40,8 +40,6 @@ An instructional resource for undergraduate and graduate electrostatics that tea
 
 ### Claims
 - [Image Method Energy Naive Student Mistake](../claims/image-method-energy-naive-student-mistake.md) [+M]
-- [Image Method Energy Theorem Arbitrary Conductors](../claims/image-method-energy-theorem-arbitrary-conductors.md) [+M]
-- [Image Method Energy Theorem Many Source Charges](../claims/image-method-energy-theorem-many-source-charges.md) [+M]
 
 ## Related Designs
 - 

@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: ian-c-jacobi-2008
     resource: "https://doi.org/10.48550/arXiv.0809.3817"
-    title: "Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. https://www.rpi.edu/dept/phys/observatory/labs.html"
+    title: "Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)"
     author: Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Ian C. Jacobi 2008
 
-Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. https://www.rpi.edu/dept/phys/observatory/labs.html [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)
+Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,6 +46,5 @@ Quasi-experimental pretest/posttest comparison of the Fall 2006 (no laboratories
 
 
 ## Related Claims
-- [A coin illuminated by a small white-light source shows the Arago bright spot at the centre of its shadow, and the setup simulates the phases of a solar eclipse](coin-white-light-arago-spot-eclipse-simulation.md) — related
 - [Questions directly addressed by the night laboratories showed a statistically significant overall improvement (4.1 sigma), which drops to a marginal 1.8 sigma when the outlier moon-phase question is excluded](directly-addressed-objectives-improved.md) — related
 - [Introducing the night laboratories produced no improvement on assessment questions the laboratories did not address](unaddressed-questions-no-improvement.md) — related

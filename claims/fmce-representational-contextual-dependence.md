@@ -13,7 +13,7 @@ recheck_by: 2011
 sources:
   - id: trevor-i-smith-and-michael-c-wittmann-2008
     resource: "https://doi.org/10.48550/arXiv.0711.1838"
-    title: "Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. https://arxiv.org/abs/0711.1838"
+    title: "Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)"
     author: Trevor I. Smith and Michael C. Wittmann
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Trevor I. Smith and Michael C. Wittmann 2008
 
-Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. https://arxiv.org/abs/0711.1838 [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)
+Trevor I. Smith and Michael C. Wittmann. (2008). Applying a resources framework to analysis of the Force and Motion Conceptual Evaluation. arXiv preprint. [doi:10.48550/arXiv.0711.1838](https://doi.org/10.48550/arXiv.0711.1838)
 
 `q2 · i?` · `associational · r1`
 

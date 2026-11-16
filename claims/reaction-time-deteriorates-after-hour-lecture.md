@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2007
-source_checked: 2026-11-10
 sources:
   - id: charu-saxena-2007
     resource: "https://doi.org/10.48550/arXiv.0706.1295"
-    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295"
+    title: "Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)"
     author: "Charu Saxena, Rini Kaur & P.Arun"
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2007 · checked against its sources 2026-11-10 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Barring four students, all first-year students showed deterioration in reaction time after an hour of Mathematical Physics class. [→ Charu Saxena 2007](#charu-saxena-2007)
@@ -34,7 +33,7 @@ sources:
 
 ### Charu Saxena 2007
 
-Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. https://arxiv.org/abs/0706.1295 [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
+Charu Saxena, Rini Kaur & P.Arun. (2007). Reaction Time of a Group of Physics Students. [doi:10.48550/arXiv.0706.1295](https://doi.org/10.48550/arXiv.0706.1295)
 
 `q2 · i?` · `causal · r1`
 

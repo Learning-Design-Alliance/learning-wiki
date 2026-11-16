@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: roman-ya-kezerashvili-2007
     resource: "https://doi.org/10.48550/arXiv.0711.0452"
-    title: "Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. https://arxiv.org/abs/0711.0452"
+    title: "Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)"
     author: Roman Ya. Kezerashvili
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Roman Ya. Kezerashvili 2007
 
-Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. https://arxiv.org/abs/0711.0452 [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)
+Roman Ya. Kezerashvili. (2007). Light and Electromagnetic Waves Teaching in Engineering Ed ucation. [doi:10.48550/arXiv.0711.0452](https://doi.org/10.48550/arXiv.0711.0452)
 
 `q2 · i?` · `design · r1`
 
@@ -45,6 +45,4 @@ The author's interpretation of the parallel light/microwave laboratory approach,
 
 
 ## Related Claims
-- [A Michelson interferometer adapted for microwaves determines microwave wavelength using the same equation as for visible laser light](interferometer-wavelength-light-and-microwaves.md) — related
-- [Parallel light and microwave measurements show both intensities decrease inversely proportional to the square of the distance from the source](inverse-square-light-and-microwaves.md) — related
 - [Students' courses of action differed by instrumentation: photogate and tape-timer groups centred on numbers and dots with motion concepts rare, while probeware groups centred on motion concepts](lab-discourse-differs-by-instrumentation.md) — related

@@ -17,7 +17,7 @@ sources:
 # Repeat sunset-timing measurements until reliable data are obtained, and consider a balloon or a bright star such as Sirius as alternatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article advises that timing measurements are vulnerable to disturbances including ocean waves, unusual or variable atmospheric conditions, the absence of a sharp horizon, and poor visibility, so care should be taken to eliminate or minimize these effects, possibly by "repeating the experime nt several times until reliable data are obtained." Where no suitable coastal building exists, it suggests observing from a balloon rising above the ocean, or substituting the setting of "a bright star such as Sirius" for the sunset.
@@ -41,9 +41,6 @@ The article advises that timing measurements are vulnerable to disturbances incl
 
 ## Claims
 
-- [Repeated sunset observations from a succession of heights up a tall building can determine the Earth's radius through a linear plot derived from the sunset-delay formula](../claims/sunset-timing-earth-radius-method.md) [+W]
-- [Calculated sunset delays are generally under a minute between heights 200 m apart and shrink with altitude, so a team of observers at multiple heights is needed](../claims/sunset-delay-shrinks-with-height.md) [+W]
-- [Atmospheric refraction corrections to the sunset-delay formula are almost negligible at latitude 40° but reach about 13% of the main term at latitude 60°, where neglect causes serious error](../claims/refraction-correction-latitude-dependence.md) [~W]
 
 ## Related Strategies
 - 

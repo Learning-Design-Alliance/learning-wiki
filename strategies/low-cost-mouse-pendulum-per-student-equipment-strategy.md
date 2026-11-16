@@ -17,7 +17,7 @@ sources:
 # Equip every student with a hands-on pendulum by building apparatus from low-cost surplus computer mice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A budget strategy for physics laboratory courses: instead of expensive commercial rotary motion sensors that schools cannot provide per student, teachers build pendulum apparatus from ball-type computer mice costing under five US dollars new or nearly nothing used. The authors argue that "the low cost makes it possible for teachers with very limited budgets and those in developing countries to provide each student in the class with a useful piece of lab equipment."
@@ -40,9 +40,6 @@ A budget strategy for physics laboratory courses: instead of expensive commercia
 
 ## Claims
 
-- [The mouse-pendulum apparatus measures both the frequency and the damping coefficient of a physical pendulum, with an exponential decay fit of R² = 0.997](../claims/mouse-pendulum-measures-frequency-and-damping.md) [+W]
-- [The apparatus resolves angular displacement to 0.0324 radians per pixel, a fractional uncertainty of 0.52% per full turn](../claims/mouse-pendulum-resolution-0-point-0324-radians.md) [+W]
-- [The mouse-pendulum design was successfully used in experimental work on synchronization between real and virtual pendula](../claims/mouse-pendulum-synchronization-variation-successful.md) [+W]
 
 ## Related Strategies
 

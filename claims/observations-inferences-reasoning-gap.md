@@ -13,7 +13,7 @@ recheck_by: 2012
 sources:
   - id: s-b-mckagan-2007
     resource: "https://doi.org/10.48550/arXiv.0706.2165"
-    title: "S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman. (2007). A Research-Based Curriculum for Teaching the Photoelectric Effect. https://arxiv.org/abs/0706.2165"
+    title: "S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman. (2007). A Research-Based Curriculum for Teaching the Photoelectric Effect. [doi:10.48550/arXiv.0706.2165](https://doi.org/10.48550/arXiv.0706.2165)"
     author: S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### S. B. McKagan 2007
 
-S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman. (2007). A Research-Based Curriculum for Teaching the Photoelectric Effect. https://arxiv.org/abs/0706.2165 [doi:10.48550/arXiv.0706.2165](https://doi.org/10.48550/arXiv.0706.2165)
+S. B. McKagan, W. Handley, K. K. Perkins, and C. E. Wieman. (2007). A Research-Based Curriculum for Teaching the Photoelectric Effect. [doi:10.48550/arXiv.0706.2165](https://doi.org/10.48550/arXiv.0706.2165)
 
 `q2 · i?` · `design · r3`
 

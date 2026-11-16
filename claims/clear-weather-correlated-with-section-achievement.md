@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-recheck_by: 2011
 sources:
   - id: ian-c-jacobi-2008
     resource: "https://doi.org/10.48550/arXiv.0809.3817"
-    title: "Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. https://www.rpi.edu/dept/phys/observatory/labs.html"
+    title: "Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)"
     author: Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Ian C. Jacobi 2008: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-10)
 
 ## Subclaims
@@ -35,7 +34,7 @@ sources:
 
 ### Ian C. Jacobi 2008
 
-Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. https://www.rpi.edu/dept/phys/observatory/labs.html [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)
+Ian C. Jacobi, Heidi Jo Newberg, Darren Broder, Rose A. Finn, Anthony J. Milano, Lee A. Newberg, Allan T. Weatherwax, and Douglas C. B. Whittet. (2008). Effect of Night Laboratories on Learning Objectives for a Non-Major Astronomy Class. [doi:10.48550/arXiv.0809.3817](https://doi.org/10.48550/arXiv.0809.3817)
 
 `q2 · i?` · `causal · r1`
 

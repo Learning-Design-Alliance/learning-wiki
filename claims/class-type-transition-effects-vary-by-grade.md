@@ -12,7 +12,7 @@ newest_evidence: 2009
 sources:
   - id: francesco-bartolucci-2009
     resource: "https://doi.org/10.48550/arXiv.0909.4961"
-    title: "Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. https://arxiv.org/abs/0909.4961"
+    title: "Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)"
     author: Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Francesco Bartolucci 2009
 
-Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. https://arxiv.org/abs/0909.4961 [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)
+Francesco Bartolucci, Fulvia Pennoni and Giorgio Vittadini. (2009). Assessment of school performance through a multilevel latent Markov Rasch model. [doi:10.48550/arXiv.0909.4961](https://doi.org/10.48550/arXiv.0909.4961)
 
 `q2 · i?` · `associational · r2`
 

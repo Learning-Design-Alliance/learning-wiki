@@ -12,15 +12,15 @@ newest_evidence: 2008
 sources:
   - id: micolich-2008
     resource: "https://doi.org/10.48550/arXiv.0808.3441"
-    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441"
+    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)"
     author: Micolich, A.
     q: 1
     i: "?"
     kind: theoretical
     rigour: 1
   - id: micolich-2008-2
-    resource: "https://arxiv.org/abs/0808.3441"
-    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441"
+    resource: "https://doi.org/10.48550/arXiv.0808.3441"
+    title: "Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)"
     author: Micolich, A.
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Micolich 2008
 
-Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441 [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
+Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
 
 `q1 · i?` · `theoretical · r1`
 
@@ -52,7 +52,7 @@ Author's argument in the section 'Showing the video using a web-interface' about
 
 ### Micolich 2008 (2)
 
-Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. https://arxiv.org/abs/0808.3441 [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
+Micolich, A. (2008). The latent potential of YouTube – Will it become the 21st Century Lecturer's Film Archive? CAL-laborate, 2008. [doi:10.48550/arXiv.0808.3441](https://doi.org/10.48550/arXiv.0808.3441)
 
 `q1 · i?` · `theoretical · r2`
 

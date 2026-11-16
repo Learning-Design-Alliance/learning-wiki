@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**4532 entries** · 0 stable · 4532 in review · 0 drafts
+**4529 entries** · 0 stable · 4529 in review · 0 drafts
 
 ---
 
@@ -2479,7 +2479,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multiple-Choice Discourse Completion Test (MCDCT) for Spanish compliment sequences](multiple-choice-discourse-completion-test-mcdct-for-spanish-compliment-sequences.md) - A ten-item multiple-choice discourse-completion assessment created by Bachelor et al.
 * [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md) - A 15-item questionnaire developed by Ivar Bråten and colleagues to assess undergraduates' self-reported accumulation and cross-text elaboration strategies immediately after reading multiple texts.
 * [Multipurpose Unit Early Classroom Intervention Program (MUECIP)](multipurpose-unit-early-classroom-intervention-program-muecip.md) - MUECIP is a center-based 13-week early childhood intervention programme developed by the researchers to support the cognitive, psychomotor, language, personal-social, and self-care development of 4–5-year-old children at developmental risk.
-* [multleveldesign](multleveldesign.md) - A SAS macro developed by Brenda Jenney et al.
 * [MUSCAT](muscat.md) - MUSCAT is a self-report competency scale developed by Sakakida Chika and colleagues for assessing healthcare professionals’ multidisciplinary child-abuse-prevention competency from pregnancy through primary, secondary, and tertiary prevention.
 * [MUSCAT scale (Multidisciplinary Approach Competency Scale for Prevention of Child Abuse from Pregnancy)](muscat-scale-multidisciplinary-approach-competency-scale-for-prevention-of-child-abuse-fro.md) - A 10-item Japanese and English self-reflection scale developed by Sakakida Chika et al.
 * [MUSCAT two-factor competency framework](muscat-two-factor-competency-framework.md) - A two-factor competency framework developed by Sakakida Chika et al.
@@ -2734,7 +2733,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Open-source data and scripts for R and Mplus for comparing cross-lagged models](open-source-data-and-scripts-for-r-and-mplus-for-comparing-cross-lagged-models.md) - A reusable release of educational research data, technical notes, and analysis scripts for comparing cross-lagged models, provided by Fernando Núñez-Regueiro and colleagues.
 * [Open-source database of SRL constructs and multimodal indicators](open-source-database-of-srl-constructs-and-multimodal-indicators.md) - A Zenodo-hosted database that organizes self-regulated-learning constructs and multimodal indicators from 142 studies for use by SRL researchers and learning-analytics practitioners.
 * [Open-source HUMAn implementation on the Wegas serious game platform](open-source-human-implementation-on-the-wegas-serious-game-platform.md) - An open-source Wegas-based serious-game implementation of the HUMAn model for real-time simulation of multiple-casualty evolution in prehospital major-incident-management training.
-* [Open-source Java DLIC program](open-source-java-dlic-program.md) - A freely available Java implementation of the DLIC algorithm, distributed with documentation and electromagnetism examples for visualizing field structure and energy flow.
 * [Open-source modular AI math tutoring platform](open-source-modular-ai-math-tutoring-platform.md) - An open-source modular platform developed by Jarosław A.
 * [Open-source PyTorch DKT implementation](open-source-pytorch-dkt-implementation.md) - An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings.
 * [Opening the Doors to College](opening-the-doors-to-college.md) - A Chicago Public Schools Department of Postsecondary Education framework specifying grade-level steps and recommendations for students preparing for college.
@@ -3116,7 +3114,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### R {: #letter-r }
 
-* [R language and computing environment](r-language-and-computing-environment.md) - R is a free, open-source programming language and computing environment for data manipulation, statistical computing, and scientific graphing, maintained by the R Core Team and distributed through CRAN.
 * [R-I-Z-A model for evaluating digital competence](r-i-z-a-model-for-evaluating-digital-competence.md) - A competence-assessment framework proposed by Elvia Ilaria Feola, drawing on Trinchero, that evaluates digital competence through resources, interpretation, action, and self-regulation using observable descriptors and rubric levels.
 * [R-package for computational modeling of the auditory periphery (ANI, pitch expectation, rhythmical density)](r-package-for-computational-modeling-of-the-auditory-periphery-ani-pitch-expectation-rhyth.md) - An R package released by Moura et al.
 * [R2C2 feedback and coaching model](r2c2-feedback-and-coaching-model.md) - A structured relationship-building, reaction-and-content exploration, and coaching model for facilitated feedback conversations, developed for use in professional education and performance improvement.

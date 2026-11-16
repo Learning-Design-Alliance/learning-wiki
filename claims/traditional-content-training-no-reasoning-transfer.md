@@ -12,7 +12,7 @@ newest_evidence: 2008
 sources:
   - id: lei-bao-2008
     resource: "https://doi.org/10.48550/arXiv.0807.2061"
-    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. https://arxiv.org/abs/0807.2061"
+    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)"
     author: Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Lei Bao 2008
 
-Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. https://arxiv.org/abs/0807.2061 [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)
+Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)
 
 `q1 · i?` · `associational · r1`
 

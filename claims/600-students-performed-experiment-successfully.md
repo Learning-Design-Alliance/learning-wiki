@@ -12,7 +12,7 @@ newest_evidence: 2007
 sources:
   - id: kenichiro-aoki-and-takahisa-mitsui-2007
     resource: "https://doi.org/10.48550/arXiv.0705.3996"
-    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. https://arxiv.org/abs/0705.3996"
+    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)"
     author: Kenichiro Aoki and Takahisa Mitsui
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kenichiro Aoki and Takahisa Mitsui 2007
 
-Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. https://arxiv.org/abs/0705.3996 [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)
+Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,4 @@ Institutional deployment report from the authors' own student laboratories. The 
 
 ## Related Claims
 - [Students gain direct understanding of the finiteness of the speed of light and of refraction slowing light](finiteness-of-light-understanding-outcome.md) — related
-- [The tabletop experiment measures the speed of light to a few percent accuracy at a one-meter path length](tabletop-speed-of-light-few-percent-accuracy.md) — possibly the same claim (merge candidate)
+- The tabletop experiment measures the speed of light to a few percent accuracy at a one-meter path length — possibly the same claim (merge candidate)
