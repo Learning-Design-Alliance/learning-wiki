@@ -57,3 +57,4 @@ The editorial reports that Holtz et al. describe three prototypical big data met
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — a narrower finding that bears on this claim
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related
+- [Galaxy Zoo demonstrates that large numbers of non-specialist volunteers can perform scientifically valuable galaxy-classification work at scale](galaxy-zoo-citizen-science-scale.md) — related

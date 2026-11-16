@@ -49,3 +49,4 @@ Subjective feedback from the single simulation event: audience comments included
 - [Poor-quality video production increases learners' cognitive load and decreases learning gains](poor-video-quality-increases-cognitive-load.md) — a broader claim this one bears on
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [Students rated video and audio transmission quality, connection stability, case comprehensibility and interaction options consistently good to very good](e-visite-technical-quality-ratings.md) — related
+- [Showing online video live in the lecture via a web interface enables in-class introduction and discussion but carries risks of technical failure, slow streaming, poor visibility, distraction and awkward seeking](web-interface-video-in-lecture-risks.md) — related

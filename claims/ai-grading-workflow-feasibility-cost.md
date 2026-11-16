@@ -77,3 +77,4 @@ Cost accounting in Sect. 3.2 compares the token cost with 16 TAs × 5 h × $44/h
 - [When the secure electronic process worked to its full potential, examination paper transmission took approximately 4 hours with no additional cost, versus 6-8 days and £7.30 in the traditional process](secure-electronic-transmission-faster-cheaper.md) — related
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
+- [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related

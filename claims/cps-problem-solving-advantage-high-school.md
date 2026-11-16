@@ -48,3 +48,4 @@ Quasi-experimental comparison of CPS and traditional (EPS) classes at three high
 ## Related Claims
 - [CPS classes scored higher on conceptual questions than traditional classes, significantly at schools A and B](cps-conceptual-questions-advantage.md) — related
 - [Categorization, finding-errors, and equation-instantiation tests showed no significant differences between CPS and traditional classes](cps-null-categorization-finding-errors-instantiation.md) — related
+- [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite

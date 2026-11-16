@@ -48,3 +48,4 @@ Authors' interpretation drawn from observations and teacher interviews. Teacher 
 ## Related Claims
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — a broader claim this one bears on
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — related
+- [Prospective teachers flexibly adopt interactive and innovative tools and laboratory or musical instruments, yet remain anchored to traditional mathematical and graphical descriptions and give little attention to evaluation instruments](tool-flexibility-traditional-anchoring.md) — related

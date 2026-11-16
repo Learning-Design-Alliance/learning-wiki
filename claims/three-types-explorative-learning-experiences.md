@@ -49,3 +49,4 @@ The review's constant comparative analysis of 37 articles on intentional fosteri
 
 ## Related Claims
 - [In-breadth explorative learning experiences, especially on-site and hands-on activities, invite adolescents to adopt new interests and try out new identity positions](in-breadth-exploration-hands-on-new-identity-positions.md) — a narrower finding that bears on this claim
+- [Students benefit more from depth than breadth in high school science courses, supporting data-intensive deep study of core science content](depth-over-breadth-high-school-science.md) — related

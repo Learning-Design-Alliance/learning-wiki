@@ -50,3 +50,5 @@ Correlational study at the University of Colorado in a reformed calculus-based c
 ## Related Claims
 - [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
+- [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
+- [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related

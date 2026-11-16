@@ -57,3 +57,4 @@ Summary of rule recall across both samples; the author reports students' own tes
 - [College students who recalled any spelling rule averaged 85 per cent on the whole test versus 81 per cent for those who recalled none](rule-recall-small-accuracy-advantage-college.md) — related
 - [Grapho-motor memory is stronger than visual-motor memory: 85.3 per cent of high school subjects showed greater grapho-motor recall, replicating Meyerhardt's college and university findings](grapho-motor-memory-stronger-than-visual-motor.md) — related
 - [Over 25 per cent of college students cannot spell common words, and 50 per cent fail on words such as accommodate and rhythm](college-students-fail-common-word-spelling.md) — related
+- [Fewer than half of the surveyed pre-service science teachers had studied undergraduate-level calculus or linear algebra in class, and almost none felt they had acquired them](undergrad-math-study-low-among-pre-service-teachers.md) — related

@@ -52,3 +52,4 @@ Fully adjusted multiple regression (Table 5) in the 372-child cohort; parental e
 - [Short-term memory (digit span backward) positively predicts reading, spelling and math computation in rural Bangladeshi children](short-term-memory-predicts-achievement-rural-bangladesh.md) — related
 - [Years of schooling is the strongest predictor of reading, spelling and math computation scores in rural Bangladeshi children aged 8–10 years](years-of-schooling-strongest-achievement-predictor-rural-bangladesh.md) — related
 - [Difficult behaviour was negatively associated with reading only, and anthropometry was largely null in adjusted models, with WAZ the sole remaining anthropometric predictor](behaviour-anthropometry-adjusted-associations-rural-bangladesh.md) — related
+- [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — reports the opposite

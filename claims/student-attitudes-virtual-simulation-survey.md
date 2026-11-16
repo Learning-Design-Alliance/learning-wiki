@@ -78,3 +78,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Medical students reported positive satisfaction with the competitive learning experience and most would recommend it](positive-satisfaction-competitive-learning-medical-students.md) — related
 - [Problem-based learning with a virtual patient was the section rated most attractive and interesting by participants](virtual-patient-section-most-attractive.md) — related
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
+- [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — a narrower finding that bears on this claim

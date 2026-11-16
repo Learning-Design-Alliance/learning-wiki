@@ -50,3 +50,4 @@ Unsupervised home experiment with 72 undergraduate students doing continuous men
 ## Related Claims
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on
 - [A 30-minute rest and a full night's sleep each add small further gains in mental multiplication output, with accuracy unchanged](rest-gains-small-mental-multiplication.md) — related
+- [Reaction time does not keep improving with practice beyond initial familiarization, and a 20-25 minute familiarization period stabilizes measurement](reaction-time-practice-effect-plateaus-physics-students.md) — reports the opposite

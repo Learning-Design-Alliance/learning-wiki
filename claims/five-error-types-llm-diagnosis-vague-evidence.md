@@ -88,3 +88,4 @@ Distribution of the five error types across model categories (Table 4, Figure 5)
 - [When GPT-4V answered incorrectly, its explanations frequently contained image misunderstandings, reasoning errors, and hallucinations](gpt4v-poor-explanations-incorrect-answers.md) — related
 - [Expert raters' coded comments cluster into five themes led by poor image generation and interpretation (22%)](pocus-rater-comment-five-themes.md) — related
 - [Four recurring error types were identified across multiple VSA questions and judged usable to inform teaching and learning](four-error-types-vsa-inform-teaching.md) — related
+- [A slight change in coordinate system on the 2007 final caused severe setup errors whose hierarchical coding hid the prevalence of boundary condition errors](coordinate-change-hides-error-prevalence.md) — related

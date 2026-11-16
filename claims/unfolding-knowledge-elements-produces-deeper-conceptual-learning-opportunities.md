@@ -63,3 +63,4 @@ Eight experienced mathematics teachers using the same conceptually-focused volum
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [Available DFA platforms for school mathematics focus nearly exclusively on procedural skills and shallow knowledge rather than deep conceptual learning goals](dfa-platforms-procedural-focus-shallow-knowledge.md) — related
 - [Knowledge of creating opportunities for generative work alone was insufficient to produce generative instruction when lesson questions required only lower-order cognitive skills](generative-work-knowledge-insufficient-without-challenging-questions.md) — related
+- [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 251 claims (161 show a difference, 58 mixed, 32 no difference) · 206 studies (84 associational, 49 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 31 of 206 report an effect size · 249 claims rest on one study
+> **Evidence** · 252 claims (162 show a difference, 58 mixed, 32 no difference) · 207 studies (84 associational, 49 causal, 27 review, 24 quant-synthesis, 11 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 31 of 207 report an effect size · 250 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -283,6 +283,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Students who did not pass the M1 exam were older, more likely female, and had higher mean PMSS scores at both time points, consistent with the risk-group finding](../claims/non-passers-older-female-higher-stress.md) [+M] — learners who differ on it differ in outcomes
 - [Infants received significantly better care than older children after IMCI training, with 1.82 times the odds of recommended treatment](../claims/imci-benin-infants-better-care-than-older-children.md) [+M] — learners who differ on it differ in outcomes
 - [Male and younger TMGs scored significantly higher on the knowledge test, and men scored higher on the physical exam, at follow-up](../claims/demographic-factors-knowledge-physical-exam-scores.md) [+M] — learners who differ on it differ in outcomes
+- [The authors judge the rewritten formula suitable for presentation to even younger students and useful for explanations in molecular dynamics applications](../claims/rewritten-form-suitable-for-younger-students.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

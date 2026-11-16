@@ -55,3 +55,5 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](clasp-bio-freshmen-beat-transfers-udgpa.md) — related
 - [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
 - [Students who took the first quarter of CLASP before general chemistry earned significantly higher chemistry grades in all three quarters of the chemistry sequence](clasp-first-quarter-boosts-chemistry-grades.md) — related
+- [Attitudes toward science may be less deeply ingrained than attitudes toward learning, which prior studies found tend to decline or remain unchanged](attitudes-toward-science-less-deeply-ingrained.md) — related
+- [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related

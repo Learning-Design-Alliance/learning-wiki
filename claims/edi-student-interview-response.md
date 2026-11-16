@@ -49,3 +49,4 @@ Interviews with two students (Zahra and Dian, assumed names) about the learning 
 - [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related
 - [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related
+- [Analysis of published PER work indicates students lack a structured methodology for solving physics problems](students-lack-structured-physics-problem-solving-methodology.md) — related

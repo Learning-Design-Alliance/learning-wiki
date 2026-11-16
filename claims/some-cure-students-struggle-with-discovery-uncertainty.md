@@ -49,3 +49,4 @@ Meeting report summarizes Alkaher and Dolan's interviews with CURE students at a
 - [The LCAS discovery and relevance scale differentiates CURE students from traditional lab students with a medium-large effect](lcas-discovery-relevance-differentiates-cures.md) — related
 - [Only CURE students showed progress in views of science as creative and process based](cure-only-gains-creative-process-views-nature-of-science.md) — related
 - [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related
+- [Students in traditional laboratories access knowledge almost solely from authority, while reformed Scientific Community Labs foster sense-making framing](traditional-labs-authority-versus-scl-sense-making.md) — related

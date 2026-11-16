@@ -50,3 +50,4 @@ Survey ratings of 23 potential CPC activities (Table 2). Respondents rated pract
 - [91% of surveyed EMTs rate e-learning followed by related practical modules as relevant to CPC](elearning-followed-by-practice-rated-relevant.md) — related
 - [Surveyed EMTs rate practical, hands-on CPC activities as more relevant than theoretical/non-practice activities](emts-prefer-practical-hands-on-cpc-activities.md) — related
 - [Pre-hospital practitioners rate practical, hands-on and simulation-based CPC activities as most relevant and passive individual activities as least relevant](practical-activities-preferred-for-cpc.md) — a broader claim this one bears on
+- [Learning through RTR was predominantly active and hands-on, equivalent to other laboratory activities](rtr-predominantly-active-hands-on-learning.md) — related

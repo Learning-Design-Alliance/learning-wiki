@@ -46,3 +46,4 @@ Chi-square analyses of the same crossover study split by question format found s
 
 ## Related Claims
 - [Students who see the class-response bar graph before peer discussion are 30% more likely to switch from a less common to the most common answer than students who do not see it](bar-graph-display-biases-switch-to-most-common-answer.md) — related
+- [Asking students to draw a graph before showing multiple-choice options leads to a significantly higher percentage ultimately answering the clicker question correctly](draw-graph-first-improves-clicker-answers.md) — related

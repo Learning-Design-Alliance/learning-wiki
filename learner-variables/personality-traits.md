@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (113 show a difference, 36 mixed, 23 no difference) · 81 studies (48 associational, 15 review, 11 causal, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 25 of 81 report an effect size · 172 claims rest on one study
+> **Evidence** · 173 claims (113 show a difference, 37 mixed, 23 no difference) · 82 studies (48 associational, 15 review, 11 causal, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 25 of 82 report an effect size · 173 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -207,6 +207,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Extraverted attending physicians receive higher resident-rated overall teaching performance scores](../claims/extraversion-higher-overall-teaching-performance-attendings.md) [+M] — learners who differ on it differ in outcomes
 - [Openness is negatively associated with feedback quality for surgical attending physicians only](../claims/openness-negative-feedback-surgical-only.md) [+M] — learners who differ on it differ in outcomes
 - [Conscientiousness measured by the CI appears to be a stable characteristic not modified by teaching and clinical exposure in years 1–2](../claims/conscientiousness-stable-not-modified-by-teaching.md) [-M] — measured as an outcome of the instruction studied
+- [Exam length cannot be set fairly by treatment or opportunity: a short test penalizes conscientious students and a long exam penalizes fast ones](../claims/exam-length-tradeoff-speed-conscientiousness.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

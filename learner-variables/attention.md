@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (140 show a difference, 46 mixed, 32 no difference) · 163 studies (59 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 163 report an effect size · 212 claims rest on one study
+> **Evidence** · 219 claims (140 show a difference, 47 mixed, 32 no difference) · 164 studies (60 causal, 42 associational, 25 review, 15 quant-synthesis, 10 qualitative, 7 design, 5 theoretical), `q1`–`q4` · 31 of 164 report an effect size · 213 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -256,6 +256,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Mind wandering increases and retention decreases across a 1-hour video lecture](../claims/mind-wandering-increases-across-long-lecture.md) [+W] — measured as an outcome of the instruction studied
 - [Experienced nurses paid substantially more attention to respiration rate in simulated settings than in paper cases, while students maintained a similar level of attention](../claims/experienced-nurses-respiration-rate-simulation-shift.md) [~M] — measured as an outcome of the instruction studied
 - [ONTRAC training improves response inhibition and Stroop interference relative to control, while sustained attention and short-term memory show nonsignificant improvement trends](../claims/ontrac-cognitive-gains-inhibition-stroop.md) [-M] — measured as an outcome of the instruction studied
+- [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](../claims/reaction-time-deteriorates-after-hour-lecture.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

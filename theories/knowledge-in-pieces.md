@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 11 studies (4 associational, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 0 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 12 studies (4 associational, 2 qualitative, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 0 of 12 report an effect size · 10 claims rest on one study
 
 ## Description
 
@@ -42,6 +42,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - Diagnostic assessment: what a learner's wrong answer can and cannot tell a teacher or a system
 
 ## Claims
+
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](../claims/misconceptions-are-knowledge-elements-refined-not-replaced.md) [+W]
 - [Children's apparently inconsistent answers about the earth's shape are largely explained by consistent use of alternative mental models](../claims/childrens-inconsistent-earth-answers-reflect-coherent-mental-models.md) [~W]
 - [Students' algebra mal-rules are used very irregularly, are severely skewed in frequency, and differ in explanatory power from school to school](../claims/algebra-mal-rules-are-unstable-skewed-and-school-specific.md) [+W]
@@ -52,6 +53,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [LLM student simulators exhibit near-zero Selective Flip Score, flipping at similarly high rates under targeted, misaligned, and generic feedback](../claims/llm-simulators-near-zero-sfs-indiscriminate-flipping.md) [~M]
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](../claims/llm-math-distractors-more-valid-than-plausible.md) [~M]
 - [LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them](../claims/llm-distractor-likelihood-moderately-tracks-student-choices.md) [~M]
+- [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](../claims/outer-inner-minus-conflation-context-dependent.md) [+W] — attached 2026-11-10 from Kate Hayes et al. (2009), which proposed "Knowledge-in-pieces/resources framing of inconsistent student use of signs".
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

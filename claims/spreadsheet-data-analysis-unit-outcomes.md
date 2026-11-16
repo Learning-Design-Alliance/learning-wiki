@@ -47,3 +47,4 @@ Detailed analysis of Google Sheets outputs from 14 students in session 3 who vol
 ## Related Claims
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](matched-tools-phase-appropriate-representations.md) — related
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](nico-nor-classroom-science-practices-coverage.md) — related
+- [Spreadsheets are harder to debug than comparable programs and lead less skilled users toward chartjunk](spreadsheet-drawbacks-debugging-chartjunk.md) — related

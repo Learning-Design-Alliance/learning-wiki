@@ -69,6 +69,7 @@ The article recommends embedding the standards into structured professional lear
 - [Reflecting on one's own competency acquisition to support transfer into professional practice](self-reflection-on-competency-acquisition-transfer.md)
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
 - [Provide ongoing, in-depth faculty professional development that targets peer discussion as an essential component of clicker use.](ongoing-pd-for-peer-discussion-clickers.md)
+- [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (13 for, 7 mixed, 3 against) · 16 studies (8 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design), `q1`–`q4` · 4 of 16 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (14 for, 7 mixed, 3 against) · 17 studies (8 causal, 3 quant-synthesis, 3 review, 2 design, 1 qualitative), `q1`–`q4` · 4 of 17 report an effect size · 24 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -46,6 +46,7 @@ Concrete modeling is the element in which physical or tangible representations a
 - [3D-printed models of coronary artery anomalies can be feasibly reconstructed and printed from cardiac CT data with accurate anatomical detail](../claims/3d-printed-coronary-anomaly-models-feasible.md) [+W] — attached 2026-11-09 from Lee Matthew et al. (2019), which proposed "Patient-specific 3D-printed coronary artery anomaly models produced from cardiac CT data".
 - [Both clinicians and researchers found 3D-printed coronary models helpful and complementary to viewing 3D CT scans](../claims/3d-models-complementary-to-ct-scans.md) [+W] — attached 2026-11-09 from Lee Matthew et al. (2019), which proposed "Patient-specific 3D-printed coronary artery anomaly models produced from cardiac CT data"; tests this page's relationship.
 - [The majority of surveyed students (94%) rated plastinated prosections as a useful anatomical training tool but perceived limitations in tactile and emotional experience](../claims/plastinated-prosections-useful-limited-tactile.md) [~W] — attached 2026-11-10 from Papa Veronica (2013), which proposed "Plastination as an anatomy teaching technique preserving biological variance and pathology".
+- [La excentricidad de la órbita terrestre (0,0167) es tan baja que una órbita circular es aceptable para fines didácticos en la maqueta](../claims/excentricidad-orbita-terrestre-00167-modelo-circular.md) [+W] — attached 2026-11-10 from Alejandro Gangui (2009), which proposed "Maqueta de mini sistema solar Sol-Tierra con eje inclinado fijo y Tierra orientable sobre alambre orbital".
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

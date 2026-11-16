@@ -28,6 +28,17 @@ approved batch, whose extraction can still reject it.
     python3 scripts/screen_sources.py --screen pmc-teaching-trials
     python3 scripts/screen_sources.py --record pmc-teaching-trials
     python3 scripts/screen_sources.py --summary
+
+The arXiv universe needed a second, narrower pass (maintainer, 2026-11-16). Its first screen passed
+physics written "for teaching" (a derivation, an apparatus, a history piece) as being about learning,
+and about half the sources of the first arXiv batch were that. --rescope re-asks every member still
+passing with SCOPE_PROMPT, the subject test alone; both models excluding makes it out-of-scope, and a
+split keeps it, as INCLUSION.md's default is to include. Its abstracts cache is rebuilt from DataCite
+(each arXiv paper's own DOI record carries its abstract) when the snapshot is not at hand:
+
+    python3 scripts/screen_sources.py --abstracts arxiv-education-research
+    python3 scripts/screen_sources.py --screen arxiv-education-research --rescope
+    python3 scripts/screen_sources.py --record arxiv-education-research --apply
 """
 import argparse
 import collections
@@ -130,6 +141,28 @@ Abstract: {abstract}
 
 Reply with JSON only: {{"decision": "include" or "exclude", "code": null or one of "opinion-piece",
 "out-of-scope", "no-ingestable-content", "reason": "<one sentence>"}}"""
+
+
+SCOPE_PROMPT = """You are checking one thing about a source for a learning-design wiki: is its subject
+learning or teaching? Judge from the title and abstract only.
+
+Include when the source studies learners, students or teachers (what they know, think, do or achieve, how
+they respond to instruction), evaluates or argues for a way of teaching, a course or curriculum, an
+assessment or an educational technology, or describes a teaching practice with reasons for it.
+
+Exclude it as out-of-scope when its substance is the subject matter, not learning it: a derivation,
+proof, explanation or new treatment of a physics, mathematics or other topic; an apparatus, experiment,
+demonstration, simulation or code described for how it works or what it measures; or history or
+biography. Saying a topic is pedagogical, "for students" or "for the classroom" does not make the source
+about learning. If the abstract reports anything about learners (a test, survey, observation or
+outcome) or develops an argument about how to teach, include it. When in doubt, include.
+
+Title: {title}
+Publication type: {ptype}
+Abstract: {abstract}
+
+Reply with JSON only: {{"decision": "include" or "exclude", "code": null or "out-of-scope",
+"reason": "<one sentence>"}}"""
 
 
 def _get(url, params, tries=5):
@@ -291,11 +324,11 @@ def decided():
     return out
 
 
-def ask(model, m, key):
+def ask(model, m, key, prompt=None):
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
     gen = oc.generate(model, "Reply with one JSON object.",
-                      PROMPT.format(title=m["title"], ptype=m.get("ptype") or "not given",
+                      (prompt or PROMPT).format(title=m["title"], ptype=m.get("ptype") or "not given",
                                     abstract=(m.get("abstract") or "(no abstract available)")[:6000]),
                       key, max_tokens=1500)
     d = extract_json(gen.raw_text) or {}
@@ -307,14 +340,23 @@ def ask(model, m, key):
             "cost_usd": gen.cost_usd or 0}
 
 
-def screen(name, limit, workers):
+def screen(name, limit, workers, rescope=False):
     key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     members = load_members(name)
     ids, dois = settled_ids()
-    # A record with a missing vote (a failed call) is asked again; its new record supersedes it.
-    done = {k for k, r in decided().items() if verdict(r)[0] != "retry"}
-    todo = [m for m in members if (name, m["id"]) not in done
-            and m["id"] not in ids and not (m.get("doi") and m["doi"] in dois)]
+    recs = decided()
+    if rescope:
+        # Every member still passing, once: a member already rescoped is not asked again unless a
+        # vote was missing. Its record supersedes the earlier one (decided() keeps the last).
+        done = {k for k, r in recs.items() if str(r.get("basis", "")).endswith("-scope") and verdict(r)[0] != "retry"}
+        passing = {k for k, r in recs.items() if verdict(r)[0] != "exclude"}
+        todo = [m for m in members if (name, m["id"]) in passing and (name, m["id"]) not in done
+                and m["id"] not in ids and not (m.get("doi") and m["doi"] in dois)]
+    else:
+        # A record with a missing vote (a failed call) is asked again; its new record supersedes it.
+        done = {k for k, r in recs.items() if verdict(r)[0] != "retry"}
+        todo = [m for m in members if (name, m["id"]) not in done
+                and m["id"] not in ids and not (m.get("doi") and m["doi"] in dois)]
     if limit:
         todo = todo[:limit]
     print(f"{name}: {len(members)} members, {len(todo)} to screen", flush=True)
@@ -323,10 +365,11 @@ def screen(name, limit, workers):
         votes = {}
         for model in MODELS:
             try:
-                votes[model] = ask(model, m, key)
+                votes[model] = ask(model, m, key, SCOPE_PROMPT if rescope else None)
             except Exception as e:  # noqa: BLE001 - a failed call is a missing vote, never a decision
                 votes[model] = {"decision": None, "error": f"{type(e).__name__}: {e}"[:200], "cost_usd": 0}
-        return {"universe": name, "id": m["id"], "basis": "abstract" if m.get("abstract") else "title",
+        basis = "abstract" if m.get("abstract") else "title"
+        return {"universe": name, "id": m["id"], "basis": basis + ("-scope" if rescope else ""),
                 "votes": votes, "at": date.today().isoformat()}
 
     cost = 0.0
@@ -351,6 +394,39 @@ def verdict(rec):
         # manifest reason quotes both models' reasons, so the disagreement stays visible.
         return "exclude", votes[0]["code"]
     return "include", None
+
+
+def arxiv_abstracts(name, workers):
+    """Rebuild the abstracts cache of an arXiv universe from DataCite, when the Kaggle snapshot is not at
+    hand: every arXiv paper has a DataCite DOI (10.48550/arXiv.<id>) whose record carries its abstract."""
+    if UNIVERSES[name]["source"] != "arxiv":
+        sys.exit(f"{name} is not an arXiv universe")
+    lines = (SCREEN_DIR / f"{name}.ndjson").read_text(encoding="utf-8").splitlines()
+    members = [json.loads(l) for l in lines[1:] if l.strip()]
+    path = CACHE_DIR / f"{name}-abstracts.ndjson"
+    have = {json.loads(l)["id"] for l in path.read_text(encoding="utf-8").splitlines() if l.strip()} \
+        if path.exists() else set()
+
+    def one(m):
+        aid = m["id"].removeprefix("arxiv-")
+        try:
+            a = (_get(f"https://api.datacite.org/dois/10.48550/arxiv.{aid}", {}).json().get("data") or {}) \
+                .get("attributes") or {}
+        except (requests.RequestException, RuntimeError, ValueError):
+            a = {}   # no record: the member is screened on its title, as any member without an abstract
+        abstract = " ".join(" ".join(d.get("description") or "" for d in a.get("descriptions") or []
+                                     if d.get("descriptionType") == "Abstract").split())
+        return m | {"abstract": abstract, "ptype": "arXiv preprint",
+                    "url": f"https://arxiv.org/abs/{aid}", "fetch_url": f"https://arxiv.org/pdf/{aid}"}
+
+    todo = [m for m in members if m["id"] not in have]
+    print(f"{name}: {len(members)} members, {len(todo)} abstracts to fetch", flush=True)
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(workers) as ex:
+        for i, rec in enumerate(ex.map(one, todo)):
+            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            if i % 500 == 0:
+                print(i, flush=True)
 
 
 def record(name, apply):
@@ -409,7 +485,10 @@ def main():
     g.add_argument("--screen", choices=UNIVERSES)
     g.add_argument("--record", choices=UNIVERSES)
     g.add_argument("--summary", action="store_true")
+    g.add_argument("--abstracts", choices=UNIVERSES, help="rebuild an arXiv universe's abstracts from DataCite")
     ap.add_argument("--limit", type=int, default=0, help="with --screen: screen only this many (a pilot)")
+    ap.add_argument("--rescope", action="store_true",
+                    help="with --screen: re-ask every member still passing, with the subject test alone")
     ap.add_argument("--workers", type=int, default=24)
     ap.add_argument("--apply", action="store_true", help="with --record: write the manifest and the queue")
     ap.add_argument("--snapshot", help="with --build of an arXiv universe: the Kaggle metadata snapshot")
@@ -417,7 +496,9 @@ def main():
     if a.build:
         build(a.build, a.snapshot)
     elif a.screen:
-        screen(a.screen, a.limit, a.workers)
+        screen(a.screen, a.limit, a.workers, a.rescope)
+    elif a.abstracts:
+        arxiv_abstracts(a.abstracts, min(a.workers, 8))
     elif a.record:
         record(a.record, a.apply)
     else:

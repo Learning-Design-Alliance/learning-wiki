@@ -50,3 +50,4 @@ Conceptions of Weather (CoW) questionnaire completed by a total of 25 subjects f
 - [Both groups held largely equipollent, co-existing scientific and IKS-based views of weather before the intervention](equipollent-coexisting-weather-views.md) — reports the opposite
 - [Most learners agreed that using indigenous knowledge to learn geography can help them understand the weather better](learners-endorse-iks-for-weather-understanding.md) — related
 - [Grade 9 learners exposed to the DAIM intervention improved their Meteorological Literacy Test scores far more than control-group learners](daim-intervention-improves-mlt-scores.md) — related
+- [Section achievement in 2007 appeared correlated with the amount of clear observing weather, with the no-clear-night section scoring lowest and the all-clear section highest, though this was not designed into the experiment](clear-weather-correlated-with-section-achievement.md) — related

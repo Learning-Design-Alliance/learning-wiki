@@ -69,6 +69,7 @@ Choice in assessments supports motivation primarily by satisfying the need for a
 - [Adopt project-based learning to reduce continuous-assessment workload and increase time for reflection](pbl-reduce-cet-workload-increase-reflection.md)
 - [Project-based assessment with community exhibition for WRD learning](wrd-project-based-community-exhibition-assessment.md)
 - [Offer students a range of professor-suggested research topics to choose from when selecting their own proves frustrating](professor-suggested-topic-options-strategy.md)
+- [Teach students systematic ways to find their own research paper topics rather than assigning topics](topic-finding-condition-removal-strategy.md)
 
 ## Examples
 - A history course assigns one essay on "causes of social change" but lets students choose among four case periods; all essays are scored on the same argumentation rubric.

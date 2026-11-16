@@ -52,3 +52,4 @@ Error analysis of question 2.2 of the FMAT pre-test with 57 participants. The ar
 - [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related
 - [Two types of equation in school mathematics are easily confused and the confusion can be avoided by suggested means](two-types-of-equation-confusion.md) — related
 - [Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing](thematic-categories-sentence-misinterpretation.md) — related
+- [A slight change in coordinate system on the 2007 final caused severe setup errors whose hierarchical coding hid the prevalence of boundary condition errors](coordinate-change-hides-error-prevalence.md) — related

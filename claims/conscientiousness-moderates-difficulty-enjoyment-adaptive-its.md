@@ -56,3 +56,4 @@ Exploratory moderation analyses in the N = 132 field experiment with conscientio
 - [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related
 - [Adaptivity does not sacrifice enjoyment](bkt-adaptivity-no-enjoyment-cost.md) — related
 - [There is a boundary condition for adaptive difficulty effects: adaptation strength must surpass a threshold to influence motivational outcomes](difficulty-adaptation-strength-threshold-boundary-condition.md) — related
+- [Schools using Carnegie Learning's Cognitive Tutor report improved mathematics performance and increased enjoyment of a previously disliked subject](cognitive-tutor-improved-math-performance.md) — related

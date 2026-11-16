@@ -52,3 +52,4 @@ Group-comparison analysis of the RoBERTa-SVM confusion matrices (Table 6): TPR w
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
 - [The AI achieved perfect precision and specificity (1.0), higher true correct and true incorrect rates than surgeons, and no hallucinations were detected](ai-perfect-precision-specificity-no-hallucinations-vns.md) — related
 - [IC-MD performance is fair regarding age and gender, but native German speakers and applicants with ≥ 6 months healthcare work experience score significantly higher](ic-md-fairness-language-work-experience.md) — related
+- [False positives arise when Reversing Direction and Newton III questions are scored individually](fmce-false-positives-triplet-scoring.md) — related

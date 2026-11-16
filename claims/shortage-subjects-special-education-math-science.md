@@ -53,3 +53,4 @@ Survey results on shortage subject areas and school levels (Figures 2 and 3): sp
 - [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
 - [Three out of four surveyed California districts reported teacher shortages in fall 2016, and most said shortages were worsening](california-districts-teacher-shortages-2016-survey.md) — related
 - [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — a broader claim this one bears on
+- [Most surveyed pre-service teachers aim for teaching positions, especially in science or mathematics](career-preference-teaching-science-math.md) — related

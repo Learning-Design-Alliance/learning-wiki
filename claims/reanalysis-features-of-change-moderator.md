@@ -50,3 +50,4 @@ The article reports, citing Ploetzner et al. (2020), a re-analysis of the Berney
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — a broader claim this one bears on
 - [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related
+- [Animated-texture (DLIC) visualization of electromagnetic fields has three stated pedagogical advantages over static representations](dlic-three-pedagogical-advantages.md) — a narrower finding that bears on this claim

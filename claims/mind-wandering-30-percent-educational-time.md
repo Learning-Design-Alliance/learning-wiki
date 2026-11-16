@@ -60,3 +60,4 @@ The review reports, citing Wong et al. (2022), that mind wandering occupies "app
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
 - [In this course, students used about four active strategies, spent about half of study time actively, and reported distraction during roughly 20% of study time](study-habit-prevalence-intro-biology-course.md) — related
 - [Mind wandering increases and retention decreases across a 1-hour video lecture](mind-wandering-increases-across-long-lecture.md) — related
+- [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](reaction-time-deteriorates-after-hour-lecture.md) — related

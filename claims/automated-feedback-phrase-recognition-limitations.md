@@ -54,3 +54,4 @@ Focus group thematic analysis identified phrase recognition limitations and fals
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — a broader claim this one bears on
 - [Model note feedback was perceived as trustworthy but harder for comparison than automated feedback](model-note-feedback-trustworthy-harder-comparison.md) — related
+- [False positives arise when Reversing Direction and Newton III questions are scored individually](fmce-false-positives-triplet-scoring.md) — related

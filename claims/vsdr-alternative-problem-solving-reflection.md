@@ -48,3 +48,4 @@ Qualitative constant comparative analysis of a discussion-forum excerpt after st
 ## Related Claims
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — related
 - [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
+- [Analysis of published PER work indicates students lack a structured methodology for solving physics problems](students-lack-structured-physics-problem-solving-methodology.md) — related

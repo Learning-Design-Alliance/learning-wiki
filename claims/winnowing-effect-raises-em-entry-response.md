@@ -50,3 +50,4 @@ Observational comparison of entry response in E&M versus Mechanics exit. Mechani
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — related
 - [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
+- [Conflicting lines of reasoning among group members precipitate entry into the discussion frame](conflicting-reasoning-precipitates-discussion-frame.md) — related

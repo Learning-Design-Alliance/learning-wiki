@@ -58,3 +58,5 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Digital literacy means understanding how to use tools while digital fluency means creating something new with them](digital-literacy-versus-digital-fluency-distinction.md) — related
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](revision-hotspots-multi-step-block-heavy-modification.md) — related
+- [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](computation-skills-transfer-across-courses.md) — related
+- [Mathematics in physics fills multiple epistemic roles: physical relation, calculation framework, web of ideas, and packaging of rules](epistemic-complexity-math-in-physics.md) — related

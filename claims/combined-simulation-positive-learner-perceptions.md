@@ -50,3 +50,4 @@ Post-simulation learner experience survey (Table 3) in the pilot: all seven item
 - [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
 - [Medical students rate immersive VR simulation for chest tube insertion training as highly usable (median SUS 82.5 of 100)](immersive-vr-chest-tube-high-usability-sus.md) — related
 - [Expert clinicians rate the VR-based airway training system positively on feasibility, perceived usefulness and ease of use](vr-airway-tam-positive-ratings.md) — related
+- [In the first course offering, students rated overall course quality 6.05/7.00 and instructor quality 6.89/7.00, and all open-ended comments were positive](mathematica-course-high-satisfaction-ratings.md) — related

@@ -57,3 +57,4 @@ Same quasi-experimental pretest-posttest study (N=48, two intact classes); Mann-
 - [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](reflective-learning-higher-conceptual-understanding-gains.md) — related
 - [Reflective learning produces significantly higher mean gains in problem solving than lecture-discussion](reflective-learning-higher-problem-solving-gains.md) — related
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related
+- [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite

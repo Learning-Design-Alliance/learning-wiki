@@ -75,3 +75,4 @@ The review reports, citing Gilbert et al. (2020, Experiment 3), that in memory r
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — a narrower finding that bears on this claim
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
+- [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related

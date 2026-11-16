@@ -62,6 +62,7 @@ Manipulating real equipment grounds abstract concepts in perceptual-motor experi
 - [Case-Based Learning](case-based-learning.md) — labs can be framed as authentic cases where the procedure answers a driving question
 - [Simulation](../elements/simulation.md) — a lower-cost rehearsal path before or alongside physical labs
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
+- [Use computer-based simulated experiments before real-time laboratory experiments](virtual-experiments-before-real-lab.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-based virtual labs used before or in place of physical equipment for circuit-building and chemistry procedures

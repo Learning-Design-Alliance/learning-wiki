@@ -17,7 +17,7 @@ sources:
 # Mechanistic Reasoning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (1 causal, 1 associational, 1 design), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Drawn from philosophy of science (Machamer, Darden & Craver, 2000) and operationalized in science education research (Russ et al., 2008), mechanistic reasoning treats a good scientific explanation as one that answers a "how" question: it identifies lower-level entities, their properties, and the causal chain that links a cause to its effect. This is distinguished from **teleological explanations** (explaining a biological trait by its function or purpose, e.g., "so that the plant can survive") and **circular explanations** (restating the effect as its own cause). In biology especially, teleological and mechanistic reasoning compete, and learners — including young children — can be taught to recognize which type of explanation a question actually calls for.
@@ -39,6 +39,7 @@ Drawn from philosophy of science (Machamer, Darden & Craver, 2000) and operation
 
 - [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](../claims/elementary-students-prefer-mechanistic-explanations.md) [+M]
 - [The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning](../claims/ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md) [-W]
+- [Nearly all chaining (the most advanced mechanistic reasoning) occurs during the discussion frame in physics tutorials](../claims/chaining-occurs-during-discussion-frame-tutorials.md) [+W] — attached 2026-11-10 from Conlin et al. (2006), which proposed "Russ's framework for recognizing mechanistic reasoning as a hierarchy of elements culminating in chaining".
 
 ## Related Theories
 - (none yet linked)

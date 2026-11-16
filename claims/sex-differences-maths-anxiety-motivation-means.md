@@ -74,3 +74,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Gender and age group negatively predict academic achievement, with females and older adolescents at disadvantage in this sample](gender-age-negatively-predict-adolescent-achievement.md) — related
 - [Performance metrics did not differ by sex, self-identified hobbies, or correlate with age, caffeine, or sleep](no-performance-differences-demographics-behaviors.md) — related
 - [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related
+- [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](einsteinmobil-student-interest.md) — related

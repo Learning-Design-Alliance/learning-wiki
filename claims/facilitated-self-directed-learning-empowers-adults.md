@@ -76,3 +76,4 @@ First-person case reflection from the author's adult education classroom experie
 - [Participants enact agency through others by empowering across participant categories: educational staff empower students, while societal partners and students empower each other](agency-empowering-others.md) — related
 - [Lecturers initially experience anxiety and intimidation when teaching in virtual worlds, but develop an enhanced sense of agency over time.](initial-vw-anxiety-then-enhanced-agency.md) — related
 - [Effective online teaching requires viewing learners as active, capable, and independent individuals rather than passive recipients](independent-learners-online-teaching-perspective.md) — related
+- [Numerical exercises empower beginning quantum students to solve real problems without analytic solutions](computational-aspect-empowers-quantum-students.md) — related

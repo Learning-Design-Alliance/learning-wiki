@@ -20,6 +20,7 @@ KERMIT is a knowledge-based intelligent tutoring and problem-solving environment
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Kermit's What-Happens-Next-Machine as a Lagrangian mechanics and programming exercise with FORTRAN simulation code**: The article develops Kermit's What-Happens-Next-Machine as an exercise in which students put up and solve the equations of motion of a mechanical apparatus and integrate them numerically. The Lagrangian couples the seesaw and the box's lid through the rope, with ϕL(ϕS) as a non-holonomous constraint when the rope is straight. The author states it "can, however, provide a challenging exercise for second-year students of physics" and that "numerics will be used making the theoretical problem also a programming exercise". A FORTRAN program and an exercise sheet are attached, and students in Konstanz 2009 built the machine. (U Schröter (2009))
 
 ### Claims
 
@@ -35,3 +36,4 @@ KERMIT is a knowledge-based intelligent tutoring and problem-solving environment
 
 ## Key Sources
 - Pramuditha Suraweera, Antonija Mitrovic. (2004). An Intelligent Tutoring System for Entity Relationship Modelling. International Journal of Artificial Intelligence in Education. https://telearn.hal.science/hal-00197310
+- U Schröter. (2009). Kermit's What-Happens-Next-Machine Reloaded. https://arxiv.org/abs/0903.0110v1

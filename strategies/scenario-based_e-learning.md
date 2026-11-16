@@ -64,6 +64,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 - [Role-Play](acting-role-play.md) — the live, human-mediated counterpart to simulated scenarios
 - [Worked Examples](worked-examples-first.md) — a modeled expert scenario can precede learner-driven scenarios as a fading sequence
 - [Use validated situations as starting points with 3–5 learning objectives per simulation scenario](ssp-based-scenario-design-strategy.md)
+- [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
 
 ## Examples
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/case-method-and-participation/Pages/default.aspx)** — the classroom ancestor of scenario-based e-learning; digital versions (HBX/Live) add interactive decision elements.

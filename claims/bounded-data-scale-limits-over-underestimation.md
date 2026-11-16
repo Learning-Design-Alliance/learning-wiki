@@ -53,3 +53,4 @@ Authors' interpretive discussion (type e) of a statistical explanation for the o
 - [The worst-performing surgical residents self-rate their performance similarly to the best-performing residents despite large objective differences, demonstrating the Dunning-Kruger effect](dk-effect-surgery-residents-laparoscopic-cholecystectomy.md) — related
 - [Self-assessment is often inaccurate: high performers underestimate and lower performers overestimate their performance](self-assessment-inaccuracy-high-low-performers.md) — related
 - [On the knowledge test, the highest performers significantly underestimated their scores while lower performers significantly overestimated theirs](high-performers-underestimate-low-overestimate-knowledge-test.md) — related
+- [Fairness of opportunity necessarily leads to identical grades for everyone, making it inapplicable to examinations](fairness-of-opportunity-identical-grades.md) — related

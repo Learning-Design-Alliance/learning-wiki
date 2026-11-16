@@ -58,9 +58,11 @@ Multiple displays support learning primarily by making collaboration and work-in
 5. Close by consolidating: capture or photograph board content and transfer key artifacts to a shared digital space, since ephemeral board work is lost otherwise.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — group products from pair discussion can be surfaced on side displays for whole-class comparison
 - [Gallery Walk](gallery-walk.md) — multiple writable surfaces are the physical infrastructure that makes a gallery walk possible
 - [Jigsaw](jigsaw.md) — separate displays let expert groups work simultaneously before reconvening
+- [Have groups record data summaries on the board for plenary statistical discussion at critical points](board-data-plenary-discussion-strategy.md)
 
 ## Examples
 - **Writable walls via smart wall paint** (e.g., Ideapaint): elementary classrooms turn walls and tables into dry-erase surfaces so multiple student groups work in parallel and the teacher can see all group reasoning at a glance.

@@ -48,3 +48,4 @@ A thesis presented by Grace E. Bird (Rhode Island State College) in a conference
 - [Lower-order habits persist after being superseded and resist new ways of working, requiring constant effort to overcome](law-of-habit-resistance-to-new-methods.md) — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
 - [Typewriting practice focused on the most frequent letter combinations produced much more rapid improvement than the usual procedure](typewriting-practice-frequent-letter-combinations.md) — related
+- [Teaching relativity by emphasizing continuity with earlier thought, rather than its revolutionary aspects, supports easier teaching and better understanding](teach-relativity-continuity-not-revolution.md) — related

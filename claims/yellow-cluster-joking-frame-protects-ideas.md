@@ -56,3 +56,4 @@ Qualitative episode analysis of group B on the electrostatics tutorial, where ex
 - [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [The authors report that jokes helped learners pay more attention and increased concentration during class](jokes-increase-attention-concentration.md) — related
+- [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — possibly the same claim (merge candidate)

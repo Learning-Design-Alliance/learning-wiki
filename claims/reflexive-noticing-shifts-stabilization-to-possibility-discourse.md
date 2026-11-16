@@ -70,3 +70,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [Epistemic reflexivity requires internal dialogue that references both teaching practices and epistemic cognition as a calibration process](epistemic-reflexivity-calibration-teaching-practices.md) — related
 - [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](consciousness-prominent-in-change-not-habits.md) — related
 - [Agnes shifted to an exotopic position, viewing the problem from outside, which expanded collaboration](exotopic-position-shift-expands-collaboration.md) — related
+- [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](physical-mapping-reframing-resolves-difficulty.md) — related

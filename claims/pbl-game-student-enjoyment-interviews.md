@@ -66,3 +66,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Most students in the course preferred active learning methods over traditional methods and wanted them in other disciplines](students-prefer-active-learning-pharmacy-course.md) — related
 - [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related
 - [Most students expressed positive attitudes toward ILC tasks, integration, and laboratory procedures](ilc-positive-student-perceptions.md) — related
+- [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — related

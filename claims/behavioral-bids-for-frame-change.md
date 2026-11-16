@@ -52,3 +52,5 @@ Qualitative analysis of Kendra's anomalous statements in group A's episodes. The
 - [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](leadership-interactional-group-phenomenon.md) — related
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
+- [Chaining instances cluster near transitions between worksheet and discussion frames](chaining-near-frame-transitions.md) — related
+- [Gestures can reveal the content and source of student physics ideas, including ideas generated before they are articulated verbally](gestures-reveal-content-and-source-of-student-ideas.md) — related

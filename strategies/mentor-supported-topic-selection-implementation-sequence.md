@@ -55,6 +55,7 @@ The article describes a concrete implementation sequence for research topic–dr
 - [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](five-design-principles-collaborative-course-redesign.md)
 - [Structured individual research-project sequence with faculty mentorship and formative feedback](prbl-structured-research-project-sequence.md)
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
+- [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
 
 ## Examples
 -

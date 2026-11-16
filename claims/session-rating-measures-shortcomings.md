@@ -53,3 +53,4 @@ Conceptual critique in the essay's evaluation of the therapy quality method, cit
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — a broader claim this one bears on
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Structured grading rubrics such as OSATS and GEARS are validated to reliably distinguish levels of surgical expertise and remain the standard approach to surgical skill assessment](structured-rubrics-standard-surgical-skill-assessment.md) — reports the opposite
+- [The NRC definition of assessment fairness is unsatisfactory because it lists undefined concepts and assumes independently known competencies](nrc-fairness-definition-unsatisfactory.md) — related

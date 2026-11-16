@@ -54,3 +54,4 @@ The article states this as a mathematical constraint shaping its whole evaluatio
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — a narrower finding that bears on this claim
 - [The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36](xorder-intractable-institutional-scale.md) — related
 - [The study generalizes individual fairness to education by targeting equal principle consistency for all learners without pairwise learner similarity](individual-fairness-generalized-equal-consistency-all-learners.md) — related
+- [Fairness of treatment merely propagates the fairness or unfairness of pre-existing rules and is inapplicable to exam design as a whole](fairness-of-treatment-propagates-rules.md) — related

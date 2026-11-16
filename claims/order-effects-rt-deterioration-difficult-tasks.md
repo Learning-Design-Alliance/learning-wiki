@@ -66,3 +66,4 @@ The same additional linear models in Supplemental Material S8 show that for RT d
 ## Related Claims
 - [The experience of disgust per se does not affect the trajectory of working memory performance in either young or older adults](disgust-per-se-no-working-memory-effect.md) — related
 - [Point values and point order altered item selection and recall: Easy First order produced higher recall, and points increased goal pursuit but appeared to hurt recall](point-values-order-alter-selection-recall.md) — related
+- [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](reaction-time-deteriorates-after-hour-lecture.md) — related

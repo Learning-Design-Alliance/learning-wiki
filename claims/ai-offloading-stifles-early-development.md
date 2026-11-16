@@ -59,3 +59,4 @@ Conceptual analysis of cognitive offloading risks (Section 5.4). The authors arg
 - [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](offloading-associated-with-lower-memory-performance.md) — related
 - [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — related
 - [The authors report interactive testing lowers critical thinking and formal notation while increasing motivation and cognitive development](interactive-testing-lowers-critical-thinking-raises-motivation.md) — related
+- [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related

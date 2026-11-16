@@ -5,6 +5,32 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-16 · physics written for teaching is out of scope; the arXiv universe is rescreened
+
+The first arXiv batch (`j-scrarxiv-1`, 112 sources) held about as many physics papers as learning
+studies: quark flavour symmetry, an infinite plane in general relativity, a dipole formula, a sound-card
+timer, a rubidium spectroscopy experiment, a Majorana lecture. The source screen had passed them, because
+"a way to introduce hadronic spectroscopy to students" reads as being about teaching, and the claim
+sort had no category for a claim that is not about learning at all, so their claims were filed as
+components and kept. The maintainer's answer was to keep only things related to learning.
+
+- `sort_claims.py` gained `out-of-scope` (and `--claims`, to sort named claims again; the last record per
+  claim wins, as `add_currency.py` and the removal already read it). Re-sorting the batch's 438 claims
+  settled 166 as out of scope and 4 as research practice; 56 were disputed and stay. One out-of-scope
+  claim, from Bing & Redish's study of students' epistemic framing, was kept by hand, and the record of
+  that says so (`decided_by` in `eval/claim-sort/sort.ndjson`).
+- `remove_research_practice.py` removes both categories. The batch lost 169 claims (196 links on 97
+  pages) and six non-claim pages two models judged out of scope (`eval/scope/pages.ndjson`: two
+  apparatus write-ups, a SAS macro, a Java field-line program, R, BIOS settings); 13 split votes stayed.
+- `screen_sources.py --rescope` re-asks every source still passing with the subject test alone, and
+  `--abstracts` rebuilds an arXiv universe's abstracts from DataCite (each arXiv paper's own DOI record
+  carries its abstract), since the Kaggle snapshot the universe was built from is not in the container.
+- The batch's 269 remaining claims cite their source by DOI: the arXiv paper's DataCite DOI, verified on
+  title, first author and year, or the published version on Crossref (Conlin 2006, AIP proceedings;
+  Bing & Redish 2009, PRST-PER). Thirty-five citations carried a year the model had written wrong
+  (Weichman 2018 for a 2007 preprint); the manifest names the arXiv paper each claim was read from, and
+  where its title and first author matched, the year was corrected to the record's.
+
 ## 2026-11-09 · `pages` leaves wiki-index.json; the page records are read from the shards
 
 Asked for by the maintainer ("move the readers to the shards"). `wiki-index.json` had reached

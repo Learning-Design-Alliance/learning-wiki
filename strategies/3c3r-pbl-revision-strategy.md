@@ -48,6 +48,7 @@ This strategy is the article's three-phase intervention: gap identification via 
 ## Related Strategies
 
 - [Train faculty and orient students on PBL processes before and during PBL implementation](pbl-faculty-student-training-strategy.md)
+- [Three-phase intervention: diagnose teachers' and pupils' representations with open-ended questionnaires, then co-design didactic materials](three-phase-astronomy-diagnosis-and-materials-strategy.md)
 
 ## Examples
 -

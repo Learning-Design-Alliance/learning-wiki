@@ -65,6 +65,7 @@ Natural views and daylight are associated with better attention, lower stress, a
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — outdoor phenomena make effective anchors for activating what learners already know
 - [Check-ins](../principles/check-ins.md) — brief affective check-ins help monitor whether the outdoor setting is restoring or distracting individual learners
 - [Use natural environments in educational activities as a feasible intervention for reducing children's stress](natural-environments-school-stress-reduction-strategy.md)
+- [Run the mirror walk in a covered space with an exit to an open area, with objects hung overhead to cross](mirror-walk-space-setup-strategy.md)
 
 ## Examples
 - **Forest schools (Scandinavia and UK adaptations)** — regular curriculum delivered in woodland settings; studies report improved concentration and social play, with academic gains depending on how deliberately classroom content is carried outdoors.

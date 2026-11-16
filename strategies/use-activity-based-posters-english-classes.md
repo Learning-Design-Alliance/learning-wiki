@@ -47,6 +47,7 @@ The article recommends that teachers adopt activity-based posters as a classroom
 ## Related Strategies
 
 - [Educational Posters](educational_posters.md)
+- [Use activities and case studies with the nature of science as a recurring theme, rather than a single first-day activity or lecturing about it](nature-of-science-recurring-activities-strategy.md)
 
 ## Examples
 -

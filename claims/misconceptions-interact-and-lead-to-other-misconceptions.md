@@ -53,3 +53,4 @@ Authors' interpretive observation from the study data, presented as part of the 
 - [Traditional instruction was associated with increases in some air pressure misconceptions](misconceptions-can-increase-in-traditional-instruction.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
 - [Conceptual change texts with concept maps produced significantly higher post-test concept scores than traditional teaching for air pressure](conceptual-change-texts-concept-maps-beat-traditional-air-pressure-posttest.md) — related
+- [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related

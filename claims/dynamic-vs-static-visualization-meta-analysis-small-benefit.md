@@ -49,3 +49,4 @@ Meta-analysis of experimental studies of learning from static versus dynamic vis
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — related
+- [Animated-texture (DLIC) visualization of electromagnetic fields has three stated pedagogical advantages over static representations](dlic-three-pedagogical-advantages.md) — a narrower finding that bears on this claim

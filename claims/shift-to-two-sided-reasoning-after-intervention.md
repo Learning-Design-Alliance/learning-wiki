@@ -73,3 +73,4 @@ Case-study and count-based qualitative analysis: five pupils expressed other-sid
 - [Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account](more-other-side-support-reading-other-side-text.md) — related
 - [When the controversy is presented as two videos, students more often defend the expert view, nearly doubling the commercial view](two-videos-boost-expert-view-adoption.md) — related
 - [PBL shifts learners' opinions about topics modestly, and learners with strong pre-existing opinions are less likely to change](pbl-opinion-shifts-limited-by-preexisting-views.md) — related
+- [Students' objections to the word \"natural\" tended to correlate with their later \"fairness\" or \"both sides\" arguments for teaching ID in science class](id-discussion-natural-objections-correlate-fairness.md) — related

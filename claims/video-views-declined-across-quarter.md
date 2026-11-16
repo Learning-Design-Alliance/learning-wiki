@@ -66,3 +66,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Active demonstration of the e-learning platform within the curriculum sharply increased daily activities, peaking on the announcement day (7 July 2019)](active-demonstration-boosts-elp-activity.md) — related
 - [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](link-timing-no-significant-viewing-difference.md) — related
+- [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related

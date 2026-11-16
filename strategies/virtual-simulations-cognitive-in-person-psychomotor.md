@@ -64,6 +64,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Balance virtual simulation training with sufficient hands-on technical skills practice time](balance-virtual-and-skills-training-time.md)
 - [Use blended learning for hands-on fields such as sports, medicine, and nursing where fully distance education is not viable](blended-learning-hands-on-fields-strategy.md)
+- [Use real-time laboratory visualization rather than computer-based animations or simulations for electromagnetic wave concepts](real-time-lab-visualization-not-simulations.md)
 
 ## Examples
 -

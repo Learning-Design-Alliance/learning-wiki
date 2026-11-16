@@ -51,3 +51,4 @@ Authors' observation in the Mathematical thinking skills section, based on class
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
 - [Students developed mobile CT concepts, practices, and perspectives through app development activities](students-developed-mobile-ct-competencies.md) — related
 - [Students successfully transformed mathematical area formulas into computational representations using blockly components](students-transform-area-formulas-blockly.md) — related
+- [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](computation-skills-transfer-across-courses.md) — related

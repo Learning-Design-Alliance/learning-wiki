@@ -47,6 +47,7 @@ The article describes the certification system as a faculty development mechanis
 ## Related Strategies
 
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
+- [Introduce a rigid renewal system of the teaching certificate requiring natural-science exams, with retry opportunities and self-study support](rigid-teaching-certificate-renewal-science-exams.md)
 
 ## Examples
 -

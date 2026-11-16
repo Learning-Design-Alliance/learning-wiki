@@ -48,3 +48,4 @@ Analysis of student responses after the modeling unit (N=77 for fitting tasks). 
 - [Most students correctly observed Euglena's negative phototaxis during live experimentation, though a minority did not](student-phototaxis-observation-rates.md) — related
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — a broader claim this one bears on
 - [A biology cloud lab integrated into a MOOC enabled over 300 remote students to run over 2,300 real experiments with minimal wait time](biology-cloud-lab-mooc-scale-deployment.md) — a broader claim this one bears on
+- [Comparing and contrasting different atomic models is a key curriculum feature for helping students move beyond the Bohr model](comparing-contrasting-models-key-feature.md) — a narrower finding that bears on this claim

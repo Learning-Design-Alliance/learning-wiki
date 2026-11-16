@@ -51,3 +51,4 @@ The article's central thesis, argued from examples of everyday speech, classroom
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a narrower finding that bears on this claim
 - [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related
+- [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related

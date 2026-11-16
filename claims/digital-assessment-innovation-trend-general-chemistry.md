@@ -71,3 +71,4 @@ The review reports, citing the included study by Yik et al. (2021) on a machine 
 - [Participation in paired online laboratory formative assessments is associated with higher summative attainment](formative-lab-participation-higher-summative-attainment.md) — related
 - Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both — related
 - Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented — related
+- [Prospective teachers flexibly adopt interactive and innovative tools and laboratory or musical instruments, yet remain anchored to traditional mathematical and graphical descriptions and give little attention to evaluation instruments](tool-flexibility-traditional-anchoring.md) — related

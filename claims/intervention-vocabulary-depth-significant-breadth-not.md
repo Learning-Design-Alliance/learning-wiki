@@ -69,3 +69,4 @@ In the same quasi-experiment, the researcher-developed breadth measure showed no
 ## Related Claims
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) — related
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](world-of-words-inductive-reasoning-significant.md) — related
+- [Students benefit more from depth than breadth in high school science courses, supporting data-intensive deep study of core science content](depth-over-breadth-high-school-science.md) — related

@@ -48,6 +48,7 @@ Registrars proposed measures to support continuous updating of basic science kno
 ## Related Strategies
 
 - [Align CPD activities, programs, and systems so they function in collaboration to support physician SDL](align-cpd-systems-for-sdl-engagement.md)
+- [Introduce a rigid renewal system of the teaching certificate requiring natural-science exams, with retry opportunities and self-study support](rigid-teaching-certificate-renewal-science-exams.md)
 
 ## Examples
 -

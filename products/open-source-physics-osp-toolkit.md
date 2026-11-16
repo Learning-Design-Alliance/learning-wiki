@@ -27,6 +27,7 @@ A free, open-source physics software toolkit, including Easy Java Simulations an
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models**: Open Source Physics (OSP) focuses on the design of computer models, such as Easy Java Simulations (EJS) and video modeling and analysis (Tracker). The tools are free, run on Windows, MacOSX and Linux with Java Runtime, and carry intellectual property rights that let teachers and students customise models to suit their teaching and learning needs. Students use them to investigate, explore and analyse data which is either real or simulated. (Wee Loo Kang (2013))
+- **Open Source Physics (OSP) library and Easy Java Simulations (EJS) package as resources for physics computation**: Open Source Physics (OSP) is a freely-available numeric library that reduces the time spent creating programs, and Easy Java Simulations (EJS) is an intermediate package that "automates many programming tasks and allows users to focus on the numerical algorithms". The authors use OSP applications, such as one simulating a charged particle in three-dimensional electric and magnetic fields, and plan to share their curricular materials through the BQ-OSP database and the Open Source Physics website. (Todd Timberlake et al. (2007))
 
 ### Claims
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
@@ -42,8 +43,8 @@ A free, open-source physics software toolkit, including Easy Java Simulations an
 
 ## Key Sources
 - Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82
-
 <!-- merged 2026-10-10 from elements/osp-ejs-tracker-toolkit ("Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. https://arxiv.org/abs/0708.2498
 
 # Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models
 

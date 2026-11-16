@@ -72,3 +72,4 @@ Same RQ1.2 coding of area combinations across the 66 interventions, summarised i
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
 - Zimmerman's (2000) model was the most frequently cited SRL model (74%) and Pintrich's (2000) model followed (67.4%), with model choice not affecting the areas promoted — related
 - [The distribution of reflection segments across the five model elements is uneven, with description most frequent (36%) and consequences least frequent (7%)](uneven-distribution-reflection-elements-description-most-frequent.md) — related
+- [Prospective teachers' curricular proposals include disciplinary sound content at widely varying coverage levels, distributed roughly evenly between low (33%-50%), intermediate (50%-66%) and high (above 66%)](disciplinary-elements-uniformly-distributed-proposals.md) — related

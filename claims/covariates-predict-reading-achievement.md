@@ -56,3 +56,4 @@ Multilevel covariance analysis of post-test scores; student-level variance (67%)
 - [Combining elaborated education standards with a teacher improvement program significantly improved student reading achievement compared with a control group, while standards alone did not reach significance at p < .01](standards-plus-teacher-program-improves-achievement.md) — related
 - [Gender moderates SES effects: student SES raises achievement more for female students, while school SES raises achievement more for male students](gender-moderates-ses-effects.md) — related
 - [Pre-test OSCE scores differed by age and gender, but post-test scores did not](pre-test-osce-scores-differed-by-age-gender.md) — reports the opposite
+- [Father's education raises student math ability but contributes less than class type](father-education-effect-inferior-to-class-type.md) — related

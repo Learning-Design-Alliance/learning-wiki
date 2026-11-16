@@ -74,6 +74,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Brief students on the flipped classroom model's intention and value before class to foster self-active study](brief-students-on-fc-intention-before-class.md)
 - [Structure future flipped courses with assessed group-work elements and varied feedback sessions instead of mandating attendance](assessed-groupwork-and-varied-seminar-structure-strategy.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
+- [Six motivations for adding online video to lectures: impractical demonstrations, controlling time, visualisations, question setters, back-up for live demonstrations, and humour and interest](six-motivations-online-video-lectures.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

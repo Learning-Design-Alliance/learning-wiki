@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 251 claims (191 show a difference, 41 mixed, 19 no difference) · 191 studies (103 associational, 37 causal, 29 review, 8 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 9 of 191 report an effect size · 249 claims rest on one study
+> **Evidence** · 252 claims (192 show a difference, 41 mixed, 19 no difference) · 192 studies (103 associational, 37 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 9 of 192 report an effect size · 250 claims rest on one study
 
 ## How to read this page
 
@@ -288,6 +288,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Actual examination performance differed significantly by ethnic background, with white doctors outperforming all other ethnic groups on OSCE performance](../claims/ethnic-differences-actual-performance-osce.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Mean racial group differences on cognitive tests, roughly 1.0 SD for African-Americans and 0.70 SD for Hispanics, explain minority underrepresentation in medical education](../claims/cognitive-test-group-differences-explain-underrepresentation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Underrepresented minority physicians tend to be more likely to serve underserved populations, but the evidence base is underdeveloped](../claims/minority-physicians-serve-underserved-populations.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sustained participation in well-executed out-of-school-time experiences improves academic achievement and social-developmental outcomes, especially for groups underrepresented in science](../claims/ost-participation-improves-outcomes-underrepresented.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

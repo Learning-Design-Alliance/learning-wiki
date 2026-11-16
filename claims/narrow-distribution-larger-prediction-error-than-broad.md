@@ -48,3 +48,4 @@ Follow-up t-tests in Experiment 1's single-channel analysis of 19 participants s
 ## Related Claims
 - [Statistical learning of probabilistic regularities persists under high concurrent cognitive load, with the surprise-by-variance effect preserved in both low- and high-load conditions](statistical-learning-preserved-under-high-cognitive-load.md) — related
 - [No reliable reduction in auditory prediction-error magnitude under high versus low cognitive load, with the load-by-surprise interaction absent in frequentist and Bayesian analyses](no-load-by-surprise-interaction-statistical-learning.md) — related
+- [Consistent national curriculum training produces a narrow, high-peaked FCI score distribution in China while the flexible US system produces a broad distribution from the chance level upward](fci-distribution-shape-reflects-curriculum-training.md) — related

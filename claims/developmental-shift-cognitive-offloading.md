@@ -59,3 +59,4 @@ Narrative review attribution: the article reports a word-pair memory task study 
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
 - [Model support shifts from reward-based learning in early primary school to belief-based opponent tracking from grades 4-5 onward](model-support-shift-reward-to-belief-learning.md) — related
 - [Cognitive offloading — using physical external elements to reduce task cognitive demand — improves performance in perception, memory, mathematical thinking, and spatial reasoning](cognitive-offloading-improves-performance-extended-mind.md) — related
+- [Gesturing facilitates thinking by offloading cognition and providing kinesthetic information that can change predictions](gesturing-facilitates-idea-construction.md) — related

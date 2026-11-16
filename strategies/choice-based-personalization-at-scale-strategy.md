@@ -55,6 +55,7 @@ This strategy personalizes MOOC assignments by having learners choose topics tie
 - [Implement REACT through hands-on and minds-on geography assignments linking content to real-world contexts](react-hands-on-geography-assignments-strategy.md)
 - [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 - [Use evidence-based background readings plus open discussion prompts to surface terminology debates in professional and public autism education](background-evidence-then-forum-discussion-terminology-strategy.md)
+- [Teach students systematic ways to find their own research paper topics rather than assigning topics](topic-finding-condition-removal-strategy.md)
 
 ## Examples
 -

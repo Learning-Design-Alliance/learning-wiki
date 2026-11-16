@@ -50,6 +50,7 @@ Looking ahead, the article recommends "implementing regular qualification review
 - [Institutional policies allocating dedicated teaching time, formal recognition and comprehensive preceptor training to strengthen clinical teaching](preceptor-support-policies-strategy.md)
 - [Renew BLS certification more frequently and tailor emergency training to dental settings](renew-bls-and-tailor-dental-emergency-training.md)
 - [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
+- [Introduce a rigid renewal system of the teaching certificate requiring natural-science exams, with retry opportunities and self-study support](rigid-teaching-certificate-renewal-science-exams.md)
 
 ## Examples
 -

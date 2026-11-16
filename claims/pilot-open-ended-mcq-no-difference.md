@@ -49,3 +49,4 @@ Pilot with second-year medical students randomized to open-ended versus multiple
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](final-exam-multiple-choice-no-significant-difference.md) — related
 - [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](comprehension-task-type-moderates-text-reading-relation.md) — related
+- [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — reports the opposite

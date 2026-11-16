@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Remove the claims both sort models file as research practice (maintainer rule, 2026-10-16).
+"""Remove the claims both sort models file as research practice (maintainer rule, 2026-10-16) or as
+out of scope: not about learning or teaching at all (maintainer, 2026-11-16).
 
 The same removal the check-in did by hand at every triage hold (2026-10-30 to 31: 224, 62 and 53
 claims in three batches), run by the batch itself right after the sort, before the steps that
@@ -23,11 +24,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SORT = ROOT / "eval" / "claim-sort" / "sort.ndjson"
-REASON = "research-practice claim, both sort models agree (maintainer rule 2026-10-16)"
+REMOVED = {"research-practice": "research-practice claim, both sort models agree (maintainer rule 2026-10-16)",
+           "out-of-scope": "not about learning or teaching (physics, apparatus or history), both sort models "
+                           "agree (maintainer rule 2026-11-16)"}
 
 
-def agreed() -> list[str]:
-    """Live claims whose settled category is research-practice (the last record per claim wins)."""
+def agreed(category: str = "research-practice") -> list[str]:
+    """Live claims whose settled category is `category` (the last record per claim wins)."""
     settled = {}
     if SORT.exists():
         for line in SORT.read_text(encoding="utf-8").splitlines():
@@ -35,7 +38,7 @@ def agreed() -> list[str]:
                 r = json.loads(line)
                 settled[r["claim"]] = r.get("category")
     return sorted(c for c, cat in settled.items()
-                  if cat == "research-practice" and (ROOT / "claims" / f"{c}.md").exists())
+                  if cat == category and (ROOT / "claims" / f"{c}.md").exists())
 
 
 def plain_log_links(slugs: set, date: str) -> int:
@@ -60,24 +63,27 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--apply", action="store_true")
     args = ap.parse_args()
-    slugs = agreed()
-    print(f"{len(slugs)} claim(s) both sort models file as research practice")
-    if not slugs or not args.apply:
-        for s in slugs[:20]:
-            print(f"  {s}")
-        return
-    with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False) as f:
-        f.write("".join(f"claims/{s}.md\n" for s in slugs))
-        lst = f.name
-    rc = subprocess.run([sys.executable, str(ROOT / "scripts" / "remove_pages.py"), "--list", lst,
-                         "--reason", REASON, "--log", str(ROOT / "eval" / "removed" / "pages.ndjson"),
-                         "--apply"], cwd=ROOT).returncode
-    Path(lst).unlink(missing_ok=True)
-    if rc:
-        sys.exit(rc)
-    n = plain_log_links(set(slugs), dt.date.today().isoformat())
-    print(f"log.md links made plain: {n}")
-
+    removed = set()
+    for category, reason in REMOVED.items():
+        slugs = agreed(category)
+        print(f"{len(slugs)} claim(s) both sort models file as {category}")
+        if not slugs or not args.apply:
+            for s in slugs[:20]:
+                print(f"  {s}")
+            continue
+        with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False) as f:
+            f.write("".join(f"claims/{s}.md\n" for s in slugs))
+            lst = f.name
+        rc = subprocess.run([sys.executable, str(ROOT / "scripts" / "remove_pages.py"), "--list", lst,
+                             "--reason", reason, "--log", str(ROOT / "eval" / "removed" / "pages.ndjson"),
+                             "--apply"], cwd=ROOT).returncode
+        Path(lst).unlink(missing_ok=True)
+        if rc:
+            sys.exit(rc)
+        removed |= set(slugs)
+    if removed:
+        n = plain_log_links(removed, dt.date.today().isoformat())
+        print(f"log.md links made plain: {n}")
 
 if __name__ == "__main__":
     main()

@@ -50,3 +50,4 @@ Authors' interpretation of the randomized experiment in which the group solving 
 - [Among students not provided with diagrams, self-construction of free-body diagrams strongly and positively correlated with problem-solving performance and prior Mechanics achievement](self-constructed-fbd-correlates-with-performance.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related

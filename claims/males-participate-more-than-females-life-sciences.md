@@ -56,3 +56,4 @@ Classroom observation study of 34 life sciences courses; paired t tests compared
 - [Bias against female classmates was stronger in physical science courses: participants in life science courses selected higher proportions of women in all four nomination categories](course-type-moderates-peer-gender-bias.md) — related
 - [Male students wrote good-quality MCQ in Pathophysiology significantly more frequently than female students](gender-difference-good-mcq-production.md) — related
 - [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related
+- [Cash-Participation raised two-or-more-times participation to about 75% of students versus 8% reported in prior observational work](cash-participation-75-percent-participation.md) — related

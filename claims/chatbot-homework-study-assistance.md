@@ -54,3 +54,4 @@ Narrative synthesis within the systematic review, drawing on cited studies of Ch
 - Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers — related
 - [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — related
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](acawriter-personalized-writing-feedback.md) — related
+- [Andes produces learning gains by making graded homework feasible and by encouraging semantically well-formed problem solving with step-based feedback](andes-learning-gains-mechanisms.md) — related

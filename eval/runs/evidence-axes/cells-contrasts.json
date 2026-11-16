@@ -113514,5 +113514,745 @@
  "simulation\tteacher-made model attached to a simulated patient\tseparate commercial model arm": {
   "label": "teacher-made model attached to a simulated patient vs separate commercial model",
   "treatment_is_a": true
+ },
+ "active-learning\tFall 2007 course with night laboratories\tFall 2006 course without formal laboratories": {
+  "label": "formal night laboratories vs no formal laboratories",
+  "treatment_is_a": true
+ },
+ "active-learning\tModeling-based instruction\ttraditional instruction": {
+  "label": "modeling-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tSocratic and other interactive teaching modifications\ttraditional lecture": {
+  "label": "interactive teaching vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive engagement through discussion, working out answers, and instructor interaction\tpassive traditional lecturing": {
+  "label": "interactive teaching vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tclass histogram construction and discussion\tno comparison condition reported": {
+  "label": "class histogram construction and discussion vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative groups before and during the lab\tworking without cooperative groups": {
+  "label": "cooperative laboratory groups vs non-cooperative laboratory work",
+  "treatment_is_a": true
+ },
+ "active-learning\tdraw the graph before seeing multiple-choice options\tsee multiple-choice options immediately": {
+  "label": "drawing the graph before seeing options vs seeing options immediately",
+  "treatment_is_a": true
+ },
+ "active-learning\tdrawing the graph before seeing multiple-choice options\tseeing the options immediately": {
+  "label": "drawing the graph before seeing options vs seeing options immediately",
+  "treatment_is_a": true
+ },
+ "active-learning\tdyads working in pairs\tindividual students working alone": {
+  "label": "paired work vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\teffective teaching that conveys important insights\tineffective rote memorization": {
+  "label": "effective active teaching vs rote instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\teffective two-way teaching with dialogue and hands-on activity\tineffective one-way rote teaching": {
+  "label": "effective active teaching vs rote instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tfar-transfer garlic problem with student data collection and discussion\ttraditional content-focused instruction": {
+  "label": "novel-context problem solving with data collection and discussion vs traditional content instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tfreshman course with UW Tutorials\tfreshman course without Tutorials": {
+  "label": "UW Tutorials vs no Tutorials",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion or instructor discourse\tinitial individual equation setup": {
+  "label": "group discussion or instructor discourse vs individual equation setup",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion or instructor discourse\tstudents' initial equation before discussion": {
+  "label": "group discussion or instructor discourse vs individual equation setup",
+  "treatment_is_a": true
+ },
+ "active-learning\thonors ninth graders with Modeling-based instruction\thonors ninth graders with traditional instruction": {
+  "label": "modeling-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry, guided discovery, laboratory and interactive-engagement methods\ttraditional lecture and passive instruction": {
+  "label": "inquiry and interactive-engagement instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tjoint explanation by pairs during example study\tself-explanation by individuals during example study": {
+  "label": "joint explanation by pairs vs individual self-explanation",
+  "treatment_is_a": true
+ },
+ "active-learning\tlaboratory experiments, computer-based experiments, and problem-solution activities\tlecture-based instruction and memorization": {
+  "label": "laboratory, computer-based, and problem-solving activities vs lecture and memorization",
+  "treatment_is_a": true
+ },
+ "active-learning\tnighttime laboratory component with hands-on cloudy-night activity\tprior course without formal night laboratories": {
+  "label": "formal night laboratories vs no formal laboratories",
+  "treatment_is_a": true
+ },
+ "active-learning\tpairs collaboratively studying examples\tindividuals studying examples alone": {
+  "label": "paired work vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tpairs of students\tindividual students": {
+  "label": "paired work vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tpairs using coached problem solving\tindividuals using coached problem solving": {
+  "label": "paired coached problem solving vs individual coached problem solving",
+  "treatment_is_a": true
+ },
+ "active-learning\tpairs using combined self-explanation, examples, and coached problem solving\tindividuals using the same instruction": {
+  "label": "paired combined self-explanation, examples, and coached problem solving vs individual use of the same instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed courses with increasing PER-based interactive methods\tyear-one benchmark course": {
+  "label": "reformed interactive instruction vs benchmark instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treformed graduate quantum mechanics instruction\tstudents' baseline understanding of undergraduate quantum mechanics": {
+  "label": "reformed graduate quantum-mechanics instruction vs undergraduate baseline understanding",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group discussion activity about intelligent design and science standards\tno comparison condition stated": {
+  "label": "small-group discussion of intelligent design and science standards vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group discussion activity on the standards’ definition of science\tno comparison condition stated": {
+  "label": "small-group discussion of the definition of science vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tsolving a garlic-gardening problem in a novel context\ttraditional chemistry content or standard curriculum contexts": {
+  "label": "novel-context garlic problem solving vs traditional content instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents working in dyads\tstudents working individually": {
+  "label": "paired work vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents working in pairs\tstudents working individually": {
+  "label": "paired work vs individual work",
+  "treatment_is_a": true
+ },
+ "case-comparison\tComparing equal temperament with the natural musical scale\tThe contrasting musical scale": {
+  "label": "equal temperament vs natural musical scale",
+  "treatment_is_a": true
+ },
+ "case-comparison\tEuler-Cromer algorithm\tEuler algorithm": {
+  "label": "Euler-Cromer algorithm vs Euler algorithm",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing the natural musical scale\tequal temperament": {
+  "label": "equal temperament vs natural musical scale",
+  "treatment_is_a": false
+ },
+ "case-comparison\tcurricula emphasizing comparison and contrast of the Bohr model with later models\tnot specified": {
+  "label": "comparison-and-contrast curriculum vs unspecified curriculum",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcurriculum integrating and contrasting atomic models\tcurriculum with relatively disjointed treatment of models": {
+  "label": "integrated and contrasting atomic-model curriculum vs disjointed atomic-model curriculum",
+  "treatment_is_a": true
+ },
+ "case-comparison\timproved curriculum integrating and contrasting atomic models\toriginal curriculum with less connection between the models": {
+  "label": "integrated and contrasting atomic-model curriculum vs less-connected atomic-model curriculum",
+  "treatment_is_a": true
+ },
+ "case-comparison\tusing acceleration to solve for velocity\tusing velocity to solve for acceleration": {
+  "label": "using acceleration to solve for velocity vs using velocity to solve for acceleration",
+  "treatment_is_a": true
+ },
+ "debriefing\tpredict, collect field data, reflect, and revise the computational model\tinitial computational model before field data": {
+  "label": "iterative model revision vs initial model only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFeynman energy-gap approach with quantitative exercises\tstandard Bose-Einstein-condensation textbook treatment": {
+  "label": "Feynman energy-gap explanation vs standard Bose-Einstein-condensation textbook treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFeynman energy-gap explanation with quantitative exercises\tstandard textbook Bose-Einstein-condensation treatment": {
+  "label": "Feynman energy-gap explanation vs standard Bose-Einstein-condensation textbook treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tFeynman explanation linking Bose statistics and an energy gap to superfluidity\tintroductory textbook treatment centered on Bose-Einstein condensation": {
+  "label": "Feynman energy-gap explanation vs standard Bose-Einstein-condensation textbook treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrush-argument explanation of transverse-coordinate invariance\tpresenting the invariance as obvious": {
+  "label": "Explicit demonstration of transverse-coordinate invariance vs presenting it as obvious",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeep causal explanation of recoil\tno comparison condition reported": {
+  "label": "Deep causal explanation of recoil vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeep causal explanation of recoil using gas pressure, wall forces, and microscopic origins\tdescriptive explanation based on Newton’s third law or conservation of momentum": {
+  "label": "Deep causal explanation of recoil vs descriptive explanation of recoil",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeep causal instruction using gas-container, water-tank, and extinguisher examples\tprior descriptive understanding of recoil": {
+  "label": "Deep causal instruction on recoil vs prior descriptive understanding of recoil",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeep microscopic causal explanation of recoil\tdescriptive explanation using Newton’s third law or momentum conservation": {
+  "label": "Deep causal explanation of recoil vs descriptive explanation of recoil",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tderive E = cB from a current-sheet wavefront using Faraday's law\tassume harmonic fields are in phase": {
+  "label": "Derivation of E = cB from a current-sheet wavefront vs assuming harmonic fields are in phase",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tderive transversality from the integral Maxwell equations\tderive only transverse wave equations without showing that longitudinal fields are disallowed": {
+  "label": "Full derivation of transversality from Maxwell equations vs transverse-wave treatment without showing longitudinal fields are disallowed",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tderive transversality through physical and theoretical arguments\tstate transversality as a fact or postulate": {
+  "label": "Derivation of transversality from physical and theoretical arguments vs stating it as a fact or postulate",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tderiving important concepts from theoretical and physical arguments\tpresenting important concepts as factoids": {
+  "label": "Derivation of important concepts from theoretical and physical arguments vs presenting them as factoids",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdescriptive explanation based on Newton's third law and momentum\tunderstanding that recoil forces arise from specific physical interactions": {
+  "label": "Causal explanation of recoil forces vs descriptive Newton's-third-law or momentum explanation",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tdescriptive explanation based on Newton's third law and momentum\tunderstanding that recoil requires a force acting on the container": {
+  "label": "Causal explanation of recoil forces vs descriptive Newton's-third-law or momentum explanation",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\telementary-kinematics solution\tadvanced-calculus or differential-equation treatment": {
+  "label": "Advanced-calculus or differential-equation treatment vs elementary-kinematics solution",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\texplain the in-phase relation and magnitude relation E = cB using a current-sheet argument\tstate E = cB and phase as additional facts or assume them for harmonic waves": {
+  "label": "Derivation of E = cB and the in-phase relation vs stating or assuming them",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit six-step systemic problem-solving strategy\tstandard formula-based problem-solving strategy": {
+  "label": "Explicit systemic problem-solving strategy vs standard formula-based problem-solving strategy",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfull physical and Maxwell-equation argument for transversality\tpostulating transversality or showing only consistency with Maxwell equations": {
+  "label": "Full physical and Maxwell-equation derivation of transversality vs postulation or consistency-only treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfull theoretical derivation of transversality\tpostulation or consistency-only textbook treatment": {
+  "label": "Full theoretical derivation of transversality vs postulation or consistency-only treatment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgeometric derivation that separates the roles of the two postulates\tstandard textbook derivations that do not clearly separate the postulates": {
+  "label": "Geometric derivation separating the roles of two postulates vs standard derivation without clear separation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction connecting a square well graph to a real physical context\tinstruction without the added contextual modeling": {
+  "label": "Contextual modeling of a square-well graph vs square-well instruction without added context",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction on building a square well from superimposed Coulomb potentials of atoms in a wire\tinstruction before this addition": {
+  "label": "Building a square well from superimposed Coulomb potentials vs instruction before this addition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tresearch-based photoelectric-effect curriculum\ttraditional instruction": {
+  "label": "Research-based photoelectric-effect curriculum vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching detailed balance as sufficient for stationarity\ttreating detailed balance as necessary for stationarity": {
+  "label": "Detailed balance as sufficient for stationarity vs detailed balance as necessary for stationarity",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbooks explaining the reasons for the ansatz x′ = γ(x − vt)\ttextbooks that present the ansatz without explaining its reasons": {
+  "label": "Explaining the reasons for the ansatz x′ = γ(x − vt) vs presenting the ansatz without explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbooks explicitly justify linearity\ttextbooks do not justify linearity": {
+  "label": "Explicit justification of linearity vs presenting linearity without justification",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbooks that derive or justify linearity from homogeneity or Newton’s first law\ttextbooks that present linearity without justification": {
+  "label": "Derivation or justification of linearity vs presenting linearity without justification",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttextbooks that explicitly demonstrate invariance of transverse coordinates, often with a brush argument\ttextbooks that present transverse-coordinate invariance as obvious": {
+  "label": "Explicit demonstration of transverse-coordinate invariance vs presenting it as obvious",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional physics instruction\tpre-instruction baseline": {
+  "label": "Traditional physics instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttransformed curriculum explicitly addressing tunneling models and difficulties\ttraditional instruction": {
+  "label": "Transformed curriculum addressing tunneling models and difficulties vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttransformed curriculum explicitly addressing tunneling models and difficulties\ttraditional modern-physics instruction": {
+  "label": "Transformed curriculum addressing tunneling models and difficulties vs traditional modern-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttransformed curriculum explicitly addressing wave-function, energy, and physical-system models\ttraditional modern-physics instruction": {
+  "label": "Transformed curriculum addressing wave-function, energy, and physical-system models vs traditional modern-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttransformed curriculum with explicit emphasis on energy conservation\ttraditional instruction": {
+  "label": "Transformed curriculum emphasizing energy conservation vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttransformed curriculum with explicit model-building and interactive engagement\ttraditional presentation of tunneling": {
+  "label": "Transformed curriculum with explicit model-building and interactive engagement vs traditional presentation of tunneling",
+  "treatment_is_a": true
+ },
+ "media-design\tHollow cubes sliding over a marked plane with footprints\tIsolated cubes": {
+  "label": "motion-trace cues vs isolated objects",
+  "treatment_is_a": true
+ },
+ "media-design\tan environment using more representations\tan environment using fewer representations": {
+  "label": "more representations vs fewer representations",
+  "treatment_is_a": true
+ },
+ "media-design\tcircular-orbit model\telliptical-orbit model reflecting reality": {
+  "label": "elliptical (realistic) orbits vs circular (idealized) orbits",
+  "treatment_is_a": false
+ },
+ "media-design\teveryday objects and scenes\tstellar or less familiar objects and scenes": {
+  "label": "familiar everyday objects and scenes vs unfamiliar stellar objects and scenes",
+  "treatment_is_a": true
+ },
+ "media-design\tfirst-person visualizations\tstandard teaching approaches": {
+  "label": "first-person visualizations vs standard teaching approaches",
+  "treatment_is_a": true
+ },
+ "media-design\tfirst-person visualizations of relativistic effects\tstandard approaches to special and general relativity": {
+  "label": "first-person visualizations of relativistic effects vs standard approaches",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical representation of force and motion\tdescriptive-language representation of force and motion": {
+  "label": "graphical representations vs descriptive-language representations",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visualization using pictures\tusual mathematical explanation": {
+  "label": "pictorial graphical visualizations vs mathematical explanations",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphical visualization using pictures and diagrams\tusual mathematical-equation explanations": {
+  "label": "pictures and diagrams vs mathematical equations",
+  "treatment_is_a": true
+ },
+ "media-design\timpressive and correct visualizations\twrong or mistaken pictures and concepts": {
+  "label": "correct visualizations vs incorrect visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tline integral convolution texture\tdiscrete field-line representation": {
+  "label": "continuous texture representations vs discrete field-line representations",
+  "treatment_is_a": true
+ },
+ "media-design\tpictures and simple mathematics to visualize teleportation\tusual mathematical equations": {
+  "label": "pictorial explanations with simple mathematics vs usual mathematical equations",
+  "treatment_is_a": true
+ },
+ "media-design\tpictures-based explanation using graphical diagrams\tusual mathematical-equation explanations": {
+  "label": "graphical-diagram explanations vs mathematical-equation explanations",
+  "treatment_is_a": true
+ },
+ "media-design\tquestions involving reversal of direction\tquestions involving motion in a single direction": {
+  "label": "reversal-of-direction questions vs single-direction questions",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations of magnetic fields and eddy currents\tabstract mathematical treatment without the visualizations": {
+  "label": "visualized magnetic fields and eddy currents vs abstract mathematics without visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations of magnetic fields and eddy currents\tabstract mathematics without visualizations": {
+  "label": "visualized magnetic fields and eddy currents vs abstract mathematics without visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations with explanatory sketches and animations\tvisualizations without detailed explanatory material": {
+  "label": "visualizations with explanatory sketches and animations vs visualizations without detailed explanatory material",
+  "treatment_is_a": true
+ },
+ "practice-amount\t45 minutes of practice, fourth recording\t30 minutes of practice, third recording": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tabout two months of daily study\tshorter training period": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater reaction-time attempts after practice\tfirst reaction-time attempt": {
+  "label": "practiced vs unpracticed",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore rotational-inertia computations\tlimited exposure to such computations": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated attempts after practice\tfirst attempt": {
+  "label": "practiced vs unpracticed",
+  "treatment_is_a": true
+ },
+ "problem-first\tfar-transfer garlic problem\ttraditional chemistry content": {
+  "label": "problem-first vs traditional content",
+  "treatment_is_a": true
+ },
+ "problem-first\tgarlic far-transfer problem using proportional and probabilistic reasoning\tnot reported": {
+  "label": "problem-first vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "problem-first\tpre-lab prediction before the lab\tlab without pre-lab prediction": {
+  "label": "pre-lab prediction vs no pre-lab prediction",
+  "treatment_is_a": true
+ },
+ "problem-first\tpre-lab prediction before the laboratory\tno pre-lab prediction": {
+  "label": "pre-lab prediction vs no pre-lab prediction",
+  "treatment_is_a": true
+ },
+ "problem-first\tpre-lab prediction followed by cooperative laboratory investigation\tnot stated": {
+  "label": "pre-lab prediction with cooperative investigation vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "prompts\texam question followed by a prompt requiring use of the Schrödinger model\texam question without that second prompt": {
+  "label": "prompted vs unprompted",
+  "treatment_is_a": true
+ },
+ "prompts\tfinal-exam question including a second part requiring the Schrödinger model\tfinal-exam question without the second part": {
+  "label": "prompted vs unprompted",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted to give a reasonable range and rationale\tpredicted using the class average": {
+  "label": "reasonable-range-and-rationale prompt vs class-average prediction",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation\tclasses without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation\tsections without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation classes\tintroductory classes in Fritschner's observational study": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation classroom currency and opportunities\tFritschner benchmark classes without the program": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation classroom currency and participation rewards\tclasses without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation classroom currency and participation rewards\tsections without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation classroom currency and participation rewards\tusual classroom participation without Cash-Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation opportunities and cash rewards\tintroductory classes in Fritschner's observational study": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation program\tclasses without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation program\tclassroom practice before or without the program": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation program\tusual classroom participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tCash-Participation sections\tsections without Cash Participation": {
+  "label": "Cash participation rewards vs no cash participation rewards",
+  "treatment_is_a": true
+ },
+ "self-explanation\tdialogic prompts eliciting Robert’s explanations and derivations\tunspecified comparison without dialogic elicitation": {
+  "label": "prompted self-explanation vs no prompted self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tjoint explanation by dyads\tindividual self-explanation": {
+  "label": "joint explanation vs individual self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tjoint explanation by dyads\treliance on Andes bottom-out hints": {
+  "label": "joint explanation vs bottom-out hints",
+  "treatment_is_a": true
+ },
+ "self-explanation\tjoint explanation by dyads\trequesting a bottom-out hint from Andes": {
+  "label": "joint explanation vs bottom-out hints",
+  "treatment_is_a": true
+ },
+ "self-explanation\tjoint explanation by dyads\tself-explanation by individuals": {
+  "label": "joint explanation vs individual self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\twritten questions requiring students to explain their reasoning\tmultiple-choice questionnaires": {
+  "label": "written self-explanation questions vs multiple-choice questions",
+  "treatment_is_a": true
+ },
+ "simulation\tBrownian-motion simulation with two heavy particles in gas\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tLagrangian analysis with numerical simulation\telementary force, torque, or energy analysis": {
+  "label": "simulation-based analysis vs conventional analysis",
+  "treatment_is_a": true
+ },
+ "simulation\tMATLAB simulation of double-well oscillation\tanalytic period prediction": {
+  "label": "simulation vs analytic prediction",
+  "treatment_is_a": true
+ },
+ "simulation\tQSim quantum-mechanics laboratory\tpre-laboratory confidence": {
+  "label": "simulation laboratory vs pre-laboratory confidence assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tRTR lab\tno RTR lab": {
+  "label": "Real Time Relativity lab vs no Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tRTR laboratory activity\tpre-laboratory concept test": {
+  "label": "Real Time Relativity lab vs pre-laboratory concept test",
+  "treatment_is_a": true
+ },
+ "simulation\tRTR laboratory activity\tpre-laboratory confidence": {
+  "label": "Real Time Relativity lab vs pre-laboratory confidence assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity lab\tno Real Time Relativity lab": {
+  "label": "Real Time Relativity lab vs no Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity lab\tpre-lab assessment": {
+  "label": "Real Time Relativity lab vs pre-laboratory assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity lab\tpre-lab test": {
+  "label": "Real Time Relativity lab vs pre-laboratory assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity laboratory\tno Real Time Relativity laboratory": {
+  "label": "Real Time Relativity lab vs no Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity laboratory\tpre-laboratory concept test": {
+  "label": "Real Time Relativity lab vs pre-laboratory concept test",
+  "treatment_is_a": true
+ },
+ "simulation\tReal Time Relativity virtual-reality laboratory activity\tpre-laboratory concept test": {
+  "label": "virtual-reality laboratory activity vs pre-laboratory concept test",
+  "treatment_is_a": true
+ },
+ "simulation\tRutherford Scattering and Models of the Hydrogen Atom simulations plus detailed homework\tpre-Sp07 curriculum without the simulations": {
+  "label": "simulation-based curriculum vs curriculum without simulations",
+  "treatment_is_a": true
+ },
+ "simulation\tStudents who completed the RTR experiment\tStudents who had not been assigned to undertake the RTR activities": {
+  "label": "completed Real Time Relativity experiment vs not assigned to the experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tVelocity distribution at 500 K\tVelocity distribution at 50 K": {
+  "label": "higher vs lower temperature",
+  "treatment_is_a": true
+ },
+ "simulation\taccelerating in the interactive high-speed observer simulation\tslowing down in the same simulation": {
+  "label": "accelerating vs slowing down",
+  "treatment_is_a": true
+ },
+ "simulation\tcollisions after equal-speed initialization\tinitial equal-speed state before collisions": {
+  "label": "post-collision state vs pre-collision state",
+  "treatment_is_a": true
+ },
+ "simulation\tcompleted RTR lab\tnot completed RTR lab": {
+  "label": "completed Real Time Relativity lab vs not completed Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tcompleted Real Time Relativity laboratory\thad not completed the laboratory": {
+  "label": "completed Real Time Relativity lab vs not completed Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tcompleted the Real Time Relativity experiment\tdid not complete the Real Time Relativity experiment": {
+  "label": "completed Real Time Relativity experiment vs not completed Real Time Relativity experiment",
+  "treatment_is_a": true
+ },
+ "simulation\tcompleted the Real Time Relativity lab\thad not completed the lab": {
+  "label": "completed Real Time Relativity lab vs not completed Real Time Relativity lab",
+  "treatment_is_a": true
+ },
+ "simulation\tconsidering molecular dynamics in various contexts\tstudents' granular matter model": {
+  "label": "molecular-dynamics model vs granular-matter model",
+  "treatment_is_a": true
+ },
+ "simulation\tdecreasing Pcoals by 25% per inch in the middle portion\tabruptly stopping heat input beyond the four inches immersed in the forge": {
+  "label": "gradual vs abrupt heat-input reduction",
+  "treatment_is_a": true
+ },
+ "simulation\tfirst-person relativistic visualizations and simulations\tstandard approaches and mistaken pictures": {
+  "label": "first-person relativistic visualization vs standard approach",
+  "treatment_is_a": true
+ },
+ "simulation\tgas interacting with a wall set to a different temperature\texpected equilibrium energy corresponding to the wall temperature": {
+  "label": "dynamic gas-wall interaction vs equilibrium prediction",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive lecture using the Davisson Germer simulation plus simulation-based homework\tother course section or condition, not described": {
+  "label": "simulation-based instruction vs other instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tmodel including an approximate radiation-transfer scheme\tmodel without the radiation-transfer scheme": {
+  "label": "model with radiation-transfer scheme vs model without radiation-transfer scheme",
+  "treatment_is_a": true
+ },
+ "simulation\tmodel including the radiation scheme\toriginal model without the radiation scheme": {
+  "label": "model with radiation-transfer scheme vs model without radiation-transfer scheme",
+  "treatment_is_a": true
+ },
+ "simulation\tmolecular-dynamics activities over several weeks\tstudents’ granular-matter mental model of gases and liquids": {
+  "label": "molecular-dynamics model vs granular-matter model",
+  "treatment_is_a": true
+ },
+ "simulation\tmolecular-dynamics models with energy-conserving interactions\tstudents’ granular-matter model of gases and liquids": {
+  "label": "molecular-dynamics model with energy-conserving interactions vs granular-matter model",
+  "treatment_is_a": true
+ },
+ "simulation\tnumerical simulation using the first-example parameters\tnone reported": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpiston pressing and reducing volume\tpiston increasing volume": {
+  "label": "compression vs expansion",
+  "treatment_is_a": true
+ },
+ "simulation\treduced heat-flux parameter, Pcoals = 155 kW/m2\toriginal heat-flux parameter, Pcoals approximately 207 kW/m2": {
+  "label": "lower vs higher heat-flux parameter",
+  "treatment_is_a": true
+ },
+ "simulation\treformed course using Photoelectric Effect simulation\ttraditional course": {
+  "label": "simulation-enhanced course vs traditional course",
+  "treatment_is_a": true
+ },
+ "simulation\treformed course using Photoelectric Effect simulation\ttraditional course supplemented by a research-based computer tutorial": {
+  "label": "simulation-enhanced course vs traditional course with research-based tutorial",
+  "treatment_is_a": true
+ },
+ "simulation\tshow a ball-swapping simulation after students sketch the number of balls over time\tnot stated": {
+  "label": "simulation after learner prediction or sketch vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tshowing a ball-swapping simulation after students sketch a prediction\tstudents’ initial intuitive prediction without simulation-based discussion": {
+  "label": "simulation-based discussion after prediction vs initial intuitive prediction",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation assuming mμc² = 100 MeV\tsimulation assuming mμc² = 90 MeV": {
+  "label": "higher vs lower muon rest-energy parameter",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation numérique Microstripes d’un utilisateur de téléphonie mobile à 900 MHz\tnon indiqué": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tthird numerical simulation with the sandbag initially on a horizontal seesaw\tintended chain reaction in which the balloon is freed and switches on the radio": {
+  "label": "simulated scenario vs intended physical chain reaction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15-minute narrated video podcast\t15-minute live lecture": {
+  "label": "narrated video podcast vs live lecture",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15-minute video podcast with narrated slides\t15-minute live lecture using the same slides and script": {
+  "label": "narrated video podcast vs live lecture",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2-hour online oncogenetics e-learning CPD module\t2-hour break without the module": {
+  "label": "online e-learning module vs no module",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2-month delirium e-learning program\tpretest/baseline": {
+  "label": "e-learning program vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2010 access to unit guides, self-directed learning modules, and practical pre-readings\t2009 access to the same resources": {
+  "label": "more technology-supported learning resources vs fewer technology-supported learning resources",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2010 lecture-slide access\t2009 lecture-slide access": {
+  "label": "lecture-slide access vs earlier-cohort lecture-slide access",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2010 practical video access\t2009 practical video access": {
+  "label": "practical-video access vs earlier-cohort practical-video access",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2012–2013 cohort with increased e-module availability\t2011–2012 cohort with fewer e-modules": {
+  "label": "more e-module availability vs fewer e-modules",
+  "treatment_is_a": true
+ },
+ "technology-tool\t4-week structured Nintendo Wii training\tno video-game training": {
+  "label": "video-game training vs no video-game training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t6-month prior MVW-CPR pre-training with avatars\t18-month prior MVW-CPR pre-training with avatars": {
+  "label": "6-month prior MVW-CPR pre-training vs 18-month prior MVW-CPR pre-training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t6-month prior MVW-CPR pre-training with avatars\tmatched control with no MVW pre-training": {
+  "label": "MVW-CPR pre-training vs no MVW-CPR pre-training",
+  "treatment_is_a": true
+ },
+ "technology-tool\t7-week computer-based stress management training\twait-list control": {
+  "label": "computer-based stress-management training vs wait-list control",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8-session facilitated online group parenting course\tpre-intervention baseline": {
+  "label": "facilitated online group parenting course vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted surgical coaching\tself-learning": {
+  "label": "AI-assisted surgical coaching vs self-learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted surgical coaching with AI-enhanced feedback\tself-learning using surgical datasets or textbooks": {
+  "label": "AI-assisted surgical coaching with AI feedback vs self-learning from surgical datasets or textbooks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted surgical coaching with SurgSmart feedback\tself-learning using datasets or textbooks": {
+  "label": "AI-assisted surgical coaching with SurgSmart feedback vs self-learning from datasets or textbooks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted surgical coaching with feedback\tself-learning using datasets or textbooks": {
+  "label": "AI-assisted surgical coaching with feedback vs self-learning from datasets or textbooks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted teaching preparation and classroom performance using DeepSeek and related tools\tno comparison condition": {
+  "label": "AI-assisted teaching preparation and classroom performance vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted training followed by post-test\tpre-test before training": {
+  "label": "AI-assisted training vs pretest",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted training with Second Opinion®\tconventional radiology training without AI": {
+  "label": "AI-assisted training with Second Opinion vs conventional training without AI",
+  "treatment_is_a": true
+ },
+ "test-format\tfinal-exam essay requiring reasoning\tQMCS multiple-choice administration": {
+  "label": "Essay/free-response vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\tfinal-exam multiple choice after in-class review\tQMCS administration before review": {
+  "label": "Final exam vs quiz",
+  "treatment_is_a": true
+ },
+ "worked-examples\tinstructional exercises estimating the superfluid transition temperature and excitation gap\ttextbook discussion that mentions BEC without quantitative derivation": {
+  "label": "quantitative exercises vs textbook discussion",
+  "treatment_is_a": true
  }
 }

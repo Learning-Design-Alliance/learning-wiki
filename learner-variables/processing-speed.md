@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (55 show a difference, 30 mixed, 15 no difference) · 70 studies (32 causal, 24 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 70 report an effect size · 100 claims rest on one study
+> **Evidence** · 103 claims (57 show a difference, 31 mixed, 15 no difference) · 71 studies (32 causal, 25 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 71 report an effect size · 103 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -136,6 +136,9 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Reaction times and gender are the only independent predictors of academic performance, explaining 11% of variance](../claims/rt-and-gender-independent-predictors-academic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Children implicitly learn a finger movement sequence, with reaction times improving for repeated sequences but not random ones](../claims/children-implicit-finger-sequence-learning-srtt.md) [~M] — measured as an outcome of the instruction studied
 - [The typing intervention did not improve performance on the serial reaction time tapping task](../claims/typing-intervention-no-tapping-task-effect.md) [-M] — measured as an outcome of the instruction studied
+- [Class mean reaction time correlates strongly with students' ability to comprehend, learn on their own, analyze and solve problems](../claims/reaction-time-correlates-with-learning-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Reaction time deteriorates after an hour of a stressful, difficult lecture in Mathematical Physics](../claims/reaction-time-deteriorates-after-hour-lecture.md) [~M] — measured as an outcome of the instruction studied
+- [Third-year physics/electronics students show lower mean reaction time and narrower deviation from the mean than first- and second-year students](../claims/third-year-students-faster-reaction-time-narrower-deviation.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

@@ -54,3 +54,4 @@ Chi-square association analysis (with Yates' correction) in the prospective pilo
 - [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](conscientiousness-independent-positive-factor-gpa.md) — a broader claim this one bears on
 - [Low extraversion is associated with higher odds of a better National Residency Exam score among Romanian medical graduates](low-extraversion-associated-with-higher-residency-exam-odds.md) — related
 - [Among Romanian medical graduates, students with low openness scores have higher odds of a better National Residency Exam score than students with higher openness](low-openness-associated-with-higher-residency-exam-odds.md) — related
+- [Exam length cannot be set fairly by treatment or opportunity: a short test penalizes conscientious students and a long exam penalizes fast ones](exam-length-tradeoff-speed-conscientiousness.md) — related

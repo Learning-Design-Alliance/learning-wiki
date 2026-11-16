@@ -52,3 +52,4 @@ Qualitative analysis of semi-structured interviews and in-between activity quest
 - [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](organized-knowledge-enhances-functional-intelligence.md) — a broader claim this one bears on
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — related
+- [Analysis of published PER work indicates students lack a structured methodology for solving physics problems](students-lack-structured-physics-problem-solving-methodology.md) — related

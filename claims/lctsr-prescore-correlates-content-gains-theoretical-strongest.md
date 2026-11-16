@@ -67,3 +67,5 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](baseline-pretest-predicts-game-performance-better-than-cmt.md) — related
+- [Lawson scores correlate weakly with FCI and BEMA scores, while FCI and BEMA scores correlate strongly (r = 0.70 in the Chinese class)](lawson-content-score-correlations-small-fci-bema-large.md) — related
+- [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — related

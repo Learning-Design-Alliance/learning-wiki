@@ -58,9 +58,11 @@ The routine addresses the central failure mode of example-based learning: learne
 5. **You Try** — Students solve a structurally similar problem independently ([Practice](../elements/practice.md)); check before assigning further problems
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — the broader strategy this routine structures into a repeatable classroom sequence
 - [Think-Aloud Modeling](think-aloud-modeling.md) — complements the routine by making expert reasoning audible before or during the Read step
 - [Comparing Cases](../elements/comparing-cases.md) — variant where pairs compare two worked examples to discriminate solution methods
+- [Instruct pairs to jointly explain problem-solving steps while working with a step-based intelligent tutoring system](joint-explanation-with-its-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the You Try step; the routine fails without it

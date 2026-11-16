@@ -58,3 +58,4 @@ Theoretical argument advanced in the review's problem statement: because instruc
 - [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](multi-representational-learning-integration-failure.md) — related
 - [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md) — related
+- [Physics education research consensus: learning with more representations makes students less affected by the representational format of problem statements](multiple-representations-reduce-format-dependence.md) — related

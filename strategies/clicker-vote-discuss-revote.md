@@ -47,6 +47,7 @@ A simple, effective talking strategy for even very large classes: ask students t
 - [Peer Instruction](peer-instruction.md)
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
 - [Use two-stage (group) exams and Calibrated Peer Review to make talking, writing, and collaboration manageable in large courses](two-stage-exams-and-calibrated-peer-review.md)
+- [Use statistical-mode and induce-mode interactive questioning, especially for large classes, rather than passive or simple vote modes](statistical-induce-interactive-modes.md)
 
 ## Examples
 -

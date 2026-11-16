@@ -49,3 +49,5 @@ Written conceptual questions assessment in the three-school quasi-experiment; sc
 - [CPS-taught high school physics classes scored higher on problem solving measures than traditionally taught classes, significantly at school C](cps-problem-solving-advantage-high-school.md) — related
 - [CPS students performed better on independent district-wide tests administered after the course](cps-district-wide-test-gain.md) — related
 - [Categorization, finding-errors, and equation-instantiation tests showed no significant differences between CPS and traditional classes](cps-null-categorization-finding-errors-instantiation.md) — related
+- [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
+- [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite
