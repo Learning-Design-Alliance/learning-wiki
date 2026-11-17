@@ -2292,6 +2292,12 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   removed</strong> where both models agree (maintainer, 2026-10-16: "we don't need research methods studies that
   don't directly impact design decisions"); a disputed sort stays. Local, dated context still goes to the
   maintainer as removal candidates. <code>scripts/remove_pages.py</code> does a removal.</li>
+<li><strong>Only things related to learning are kept</strong> (maintainer, 2026-11-16, after half the first arXiv batch was
+  physics written "for teaching": derivations, apparatus, history). The claim sort has an <code>out-of-scope</code>
+  category, and <code>remove_research_practice.py</code> removes those claims where both models agree, in every
+  batch. A claim about what learners know, do or achieve, or about how something is taught, is never
+  out of scope; being written for a classroom does not bring a physics result in. The arXiv universe was
+  rescreened on the subject alone (<code>screen_sources.py --rescope</code>); a split vote keeps a source.</li>
 <li><strong>Claims about a learner characteristic link into its <code>learner-variables/</code> page and back</strong>
   (<code>scripts/link_learner_variables.py</code>, <code>--new</code> in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,
