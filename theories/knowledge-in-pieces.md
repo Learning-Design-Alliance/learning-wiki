@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 12 studies (4 associational, 2 qualitative, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 0 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 13 studies (4 associational, 3 qualitative, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 0 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 
@@ -54,6 +54,8 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](../claims/llm-math-distractors-more-valid-than-plausible.md) [~M]
 - [LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them](../claims/llm-distractor-likelihood-moderately-tracks-student-choices.md) [~M]
 - [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](../claims/outer-inner-minus-conflation-context-dependent.md) [+W] — attached 2026-11-10 from Kate Hayes et al. (2009), which proposed "Knowledge-in-pieces/resources framing of inconsistent student use of signs".
+- [An interviewed student justified answering that the ATP bond breaking releases energy by appealing to the larger biological context of the hydrolysis reaction, not the raw misconception that bond breaking releases energy](../claims/gregor-justifies-atp-answer-via-larger-biological-context.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
+- [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](../claims/wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

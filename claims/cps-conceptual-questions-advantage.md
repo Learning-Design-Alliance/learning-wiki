@@ -51,3 +51,4 @@ Written conceptual questions assessment in the three-school quasi-experiment; sc
 - [Categorization, finding-errors, and equation-instantiation tests showed no significant differences between CPS and traditional classes](cps-null-categorization-finding-errors-instantiation.md) — related
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — reports the opposite
+- [Explicit teaching of problem-solving practices in a cooperative group format helped students perform better on qualitative exam questions than traditionally-taught students](cooperative-group-problem-solving-qualitative-exam-gains.md) — related

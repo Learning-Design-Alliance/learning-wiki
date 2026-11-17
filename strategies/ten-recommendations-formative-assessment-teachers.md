@@ -45,6 +45,7 @@ The chapter closes with "ten recommendations for teachers about how to effective
 
 - [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 - [Formative Feedback](formative-feedback.md)
+- [Close each chapter with a data-based Wrapping It Up activity and a graded Mission Report for assessment and feedback](wrapping-it-up-mission-report-strategy.md)
 
 ## Examples
 -

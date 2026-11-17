@@ -43,6 +43,8 @@ Before the Doppler measurement, students analyze sounds from musical instruments
 ## Related Strategies
 
 - [Music & Dance](music-dance.md)
+- [Have students sample sounds from their own instruments, voices, and resonant objects and analyze them spectrally in Audacity](student-sampled-sound-harmonic-analysis-strategy.md)
+- [Introduce constant acceleration by saying velocity increases by a fixed amount each second (e.g. 10 m/s per second in free fall) instead of stating a constant acceleration of 10 m/s²](velocity-increases-each-second-free-fall-strategy.md)
 
 ## Examples
 -

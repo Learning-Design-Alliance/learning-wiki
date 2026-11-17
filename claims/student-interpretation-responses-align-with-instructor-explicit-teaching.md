@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: baily-2010
-    resource: "https://doi.org/10.48550/arXiv.1108.5226"
-    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)"
+    resource: "https://doi.org/10.1063/1.3515251"
+    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)"
     author: "Baily, C., & Finkelstein, N. D."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Baily 2010
 
-Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)
+Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)
 
 `q2 · i?` · `associational · r1`
 
@@ -53,3 +53,6 @@ Post-instruction survey data from four modern physics courses (~100 students eac
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Introductory modern physics students invoke concepts and beliefs paralleling expert physicists when arguing for favored interpretations of quantum mechanics](student-interpretive-stances-parallel-expert-physicists.md) — related
 - [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
+- [Students taught by an instructor explicit about a matter-wave interpretation are far more likely to prefer the quantum description of the double-slit experiment, while students in a more agnostic course prefer realist or agnostic stances](explicit-interpretation-instruction-shifts-double-slit-preferences.md) — possibly the same claim (merge candidate)
+- [Students' quantum versus realist interpretations of double-slit diffraction differ strongly between a reformed course explicitly teaching a quantum perspective and a traditional lecture course.](explicit-quantum-perspective-instruction-shifts-student-interpretations.md) — a narrower finding that bears on this claim
+- [Across eight course offerings, instructional approach was associated with distinct student perspective distributions: matter-wave courses produced overwhelming quantum preferences and agnostic courses more evenly split responses](multi-semester-instructional-approach-perspective-patterns.md) — related

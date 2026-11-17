@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (72 show a difference, 28 mixed, 22 no difference) · 84 studies (30 associational, 26 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 15 of 84 report an effect size · 121 claims rest on one study
+> **Evidence** · 123 claims (73 show a difference, 28 mixed, 22 no difference) · 85 studies (30 associational, 26 causal, 11 review, 7 quant-synthesis, 5 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 15 of 85 report an effect size · 122 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -152,6 +152,7 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [+M] — an instructional effect differs with it
 - [Higher English proficiency was associated with more confident and successful interaction in paired tasks](../claims/proficiency-positively-related-to-interaction.md) [+M] — learners who differ on it differ in outcomes
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](../claims/cooperative-writing-benefits-all-proficiency-levels.md) [+M] — an instructional effect differs with it
+- [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](../claims/fci-gain-modulated-by-language-proficiency.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

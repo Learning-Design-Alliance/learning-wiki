@@ -12,16 +12,16 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: stephanik-2011
-    resource: "https://doi.org/10.48550/arXiv.1109.2074"
-    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)"
+    resource: "https://doi.org/10.1063/1.3680071"
+    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)"
     author: Stephanik, B. M., and Shaffer, P. S.
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: stephanik-2011-2
-    resource: "https://doi.org/10.48550/arXiv.1109.2074"
-    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)"
+    resource: "https://doi.org/10.1063/1.3680071"
+    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)"
     author: Stephanik, B. M., and Shaffer, P. S.
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Stephanik 2011
 
-Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)
+Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -53,7 +53,7 @@ Written and interview questions included diagrams in which "the potential energy
 
 ### Stephanik 2011 (2)
 
-Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)
+Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)
 
 `q2 · i?` · `associational · r1`
 

@@ -58,4 +58,4 @@ The article recommends using the diagnostic module alongside any teaching approa
 -
 
 ## Key Sources
-- Mittal, A. K. (2011). Developing a diagnostic e-module for testing conceptual understanding of Symmetry and Gauss's Law. https://arxiv.org/abs/1106.0441
+- Mittal, A. K. (2011). Developing a diagnostic e-module for testing conceptual understanding of Symmetry and Gauss's Law. https://arxiv.org/abs/1106.0441. [doi:10.48550/arxiv.1106.0441](https://doi.org/10.48550/arxiv.1106.0441)

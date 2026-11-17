@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: d-m-harrington-2010
     resource: "https://doi.org/10.48550/arXiv.1009.4463"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In small-group workbench activities, the authors report that facilitation must address a dominant participant, a disengaged learner, or assertive learners not questioning their assumptions. [→ D. M. Harrington 2010](#d-m-harrington-2010)

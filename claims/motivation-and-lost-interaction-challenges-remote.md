@@ -111,3 +111,5 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Instructors give feedback most often in learning groups during course sessions (71%) and almost never via learning platforms (89% never)](feedback-situations-learning-groups-dominant.md) — related
 - [Fifty-five percent of instructors desire further training, collaboration or information on feedback](majority-desire-feedback-training.md) — related
 - [Teacher interaction before face-to-face meetings was valued (mean 3.6–3.9 of 5), but inconsistent teacher replies frustrated some students](teacher-online-interaction-valued-inconsistent-replies.md) — related
+- [The interactive mirror experiment (42%) and the holograms (38%) were what most motivated students, ahead of other experiments (20%) and stereoscopic images (18%)](holographic-exhibit-most-motivating-elements.md) — related
+- [Mentors and mentees in remote STEM mentoring perceived different sets of challenges: mentees time management and logistics, mentors STEM content delivery and social challenges](remote-mentoring-divergent-challenges-by-role.md) — related

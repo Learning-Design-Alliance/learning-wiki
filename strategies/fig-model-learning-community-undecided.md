@@ -52,6 +52,7 @@ The article describes implementing the learning community intervention in its mo
 ## Related Strategies
 
 - [Strengthen future FYS/LC evaluations with propensity score analysis, engagement and satisfaction measures, and multi-cohort follow-up](future-fys-lc-evaluation-recommendations.md)
+- [Run a pre-matriculation summer bridge program with an open-ended inquiry curriculum to build community before freshman year](summer-bridge-open-ended-inquiry-community-strategy.md)
 
 ## Examples
 -

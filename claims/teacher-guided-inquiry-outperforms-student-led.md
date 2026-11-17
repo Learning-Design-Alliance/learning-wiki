@@ -140,3 +140,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Guidance improves K–12 students' learning outcomes across inquiry-based practices and STEM domains, but high levels of guidance can harm students with high knowledge or abilities](guidance-improves-k12-inquiry-outcomes-inverted-u.md) — related
 - [Effectiveness of inquiry-based curricula in K–12 is higher when learners receive more guidance and when learners are older, but meta-analytic findings are mixed and underwhelming](inquiry-k12-effectiveness-higher-with-guidance-and-age.md) — a broader claim this one bears on
 - [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related
+- [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related

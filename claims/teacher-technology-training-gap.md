@@ -58,3 +58,4 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [Teachers face substantial obstacles implementing thematic and character education curricula, with many reporting unreadiness](teacher-obstacles-thematic-character-implementation.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
+- [The article argues that using Ejs as a pedagogical tool faces steep learning-curve and school-culture impediments](ejs-pedagogical-tool-impediments.md) — related

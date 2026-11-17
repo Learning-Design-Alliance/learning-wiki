@@ -141,3 +141,10 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Teachers judged the Quarked! programs valuable from both a curriculum and affective perspective](teachers-judge-quarked-programs-valuable.md) — related
 - [Over 90% of elementary and middle school students rated the Quarked! hands-on program 3 or higher out of 5, with more than half giving the top rating](quarked-hands-on-program-high-engagement-ratings.md) — related
 - [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related
+- [Students reported that the computer models enabled self-directed inquiry learning at a suitable pace](ejs-simulations-enable-self-directed-inquiry.md) — related
+- [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
+- [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
+- [Focus group students attributed the value of the EJS model to visualizing the 1st Law and questioned its connection to real-life situations](fgd-simulation-visualization-first-law-not-real-life.md) — related
+- [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
+- [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — related
+- [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related

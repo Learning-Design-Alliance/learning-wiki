@@ -52,6 +52,8 @@ The activity runs as timed segments: a 25-minute introduction with slideshow, a 
 - [Structuring Lessons](structuring_lessons.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
 - [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
+- [Organize laboratory meetings as short introduction followed by inquiry in which students explore qualitatively, guess, and immediately test hypotheses](inquiry-guess-test-laboratory-cycle.md)
+- [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](modeling-prompt-stages-polarization-lab.md)
 
 ## Examples
 -

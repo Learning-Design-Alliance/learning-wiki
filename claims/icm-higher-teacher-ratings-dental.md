@@ -49,3 +49,4 @@ FLIPPY teacher subscale comparison between ICM and FT groups; both groups were t
 - [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](icm-active-participation-mixed-outside-class.md) — related
 - [ICM students rated collaborative learning significantly higher than frontal-teaching students, with large effects](icm-higher-collaborative-learning-ratings.md) — related
 - [The intervention significantly increases educators' encouragement of student questions and reduces dictation of notes](ct-workshop-improves-facilitation-items.md) — a narrower finding that bears on this claim
+- [In an early inverted classroom study, female students rated the method more positively than male students (attributed to Lage et al., 2000)](icm-gender-acceptance-differences.md) — related

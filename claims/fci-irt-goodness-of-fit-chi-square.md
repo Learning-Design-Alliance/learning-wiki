@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2013
 sources:
   - id: jing-wang-and-lei-bao-2010
-    resource: "https://doi.org/10.48550/arXiv.1007.5473"
-    title: "Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.48550/arXiv.1007.5473](https://doi.org/10.48550/arXiv.1007.5473)"
+    resource: "https://doi.org/10.1119/1.3443565"
+    title: "Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.1119/1.3443565](https://doi.org/10.1119/1.3443565)"
     author: Jing Wang and Lei Bao
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Jing Wang and Lei Bao 2010
 
-Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.48550/arXiv.1007.5473](https://doi.org/10.48550/arXiv.1007.5473)
+Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.1119/1.3443565](https://doi.org/10.1119/1.3443565)
 
 `q2 · i?` · `associational · r2`
 

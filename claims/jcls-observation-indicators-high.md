@@ -50,3 +50,4 @@ Observation of the 22 valid experimental-group learners using indicators for eng
 - [Second graders learning multiplication with the JCLS rated experiential learning significantly higher than peers learning with a traditional blackboard](jcls-higher-experiential-learning-than-blackboard.md) — related
 - [Children perceived the JCLS as highly useful and easy to use, with PU and PEOU means near the scale maximum](jcls-high-perceived-usefulness-ease-of-use.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Chladni-figure activities made resonance directly observable for students in the sound learning path](chladni-figures-resonance-observability.md) — related

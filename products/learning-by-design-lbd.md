@@ -29,4 +29,4 @@ A project- and design-based middle-school science curriculum developed by the Le
 -
 
 ## Key Sources
-- Camp, P. J. (2010). U-shaped Development of Newtonian Concepts: Implications for Pedagogical Design and Research Practice. Spelman College. https://spelman.edu
+- Camp, P. J. (2010). U-shaped Development of Newtonian Concepts: Implications for Pedagogical Design and Research Practice. Spelman College. https://spelman.edu. [doi:10.48550/arxiv.1007.1647](https://doi.org/10.48550/arxiv.1007.1647)

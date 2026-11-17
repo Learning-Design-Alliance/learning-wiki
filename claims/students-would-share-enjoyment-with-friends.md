@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 recheck_by: 2014
 sources:
   - id: a-bean-2011
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` When asked what they would tell friends about the class, over half the students referred to how much they enjoyed it and 46% referred to some specific element of the program content. [→ A. Bean 2011](#a-bean-2011)

@@ -53,3 +53,4 @@ Quantitative comparison (RQ1) of DBSCAN-based consensus clustering outputs again
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related
+- [Requiring each discipline's contribution from the first assignment improved team cohesion and later collaboration](discipline-interaction-improved-team-cohesion.md) — related

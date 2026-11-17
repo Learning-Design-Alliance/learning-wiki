@@ -53,3 +53,4 @@ Narrative review attribution in the individual-differences section. The article 
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related
 - [Goddard's book argues that intelligence level is the determining factor in human efficiency, with other traits treated as subsidiary](goddard-intelligence-determining-factor-efficiency.md) — related
+- [Non-intelligent E-learning systems applying one style to all learners are argued to reduce efficiency because learners differ](one-style-fits-all-reduces-efficiency-claim.md) — related

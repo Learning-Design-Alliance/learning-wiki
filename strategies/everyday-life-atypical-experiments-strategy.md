@@ -51,4 +51,4 @@ A concrete activity recipe used with the P17 cohort: students are asked to "draw
 -
 
 ## Key Sources
-- Absi, R., Nalpas, C., Dufour, F., Huet, D., Bennacer, R., Absi, T. (2011). Teaching Fluid Mechanics for Undergraduate Students in Applied Industrial Biology: from Theory to Atypical Experiments. International Journal of Engineering Education Vol. 27, No. 3, pp. 550-558. http://www.ebi-edu.com/english/index.htm
+- Absi, R., Nalpas, C., Dufour, F., Huet, D., Bennacer, R., Absi, T. (2011). Teaching Fluid Mechanics for Undergraduate Students in Applied Industrial Biology: from Theory to Atypical Experiments. International Journal of Engineering Education Vol. 27, No. 3, pp. 550-558. http://www.ebi-edu.com/english/index.htm. [doi:10.48550/arxiv.1106.0656](https://doi.org/10.48550/arxiv.1106.0656)

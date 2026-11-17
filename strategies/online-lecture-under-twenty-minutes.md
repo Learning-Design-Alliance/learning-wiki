@@ -60,6 +60,7 @@ The article synthesizes FL literature recommendations that online lectures shoul
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
 - [Structure online medical classes under one governing authority, with a pre-announced timetable, short topic-focused sessions, and sufficient doubt-clearing time](structured-short-scheduled-online-medical-classes.md)
 - [Keep guideline e-learning concise and integrate text with images and videos](concise-multimedia-guideline-e-learning-strategy.md)
+- [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 
 ## Examples
 -

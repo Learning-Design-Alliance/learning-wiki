@@ -53,3 +53,4 @@ The review's synthesis of 50 peer-reviewed empirical studies on graphing in K-12
 - [Theoretical difficulties during graphing most commonly involve connecting graphs to STEM concepts and interpreting data](theoretical-difficulties-concept-connection-interpretation.md) — related
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related
 - [Manual graphing practice based on experimental data outperformed provision of computer-constructed graphs in one comparison study](manual-graphing-outperformed-computer-constructed-graphs.md) — a narrower finding that bears on this claim
+- [Continued practice with graphing and proportional-relationship activities improves students' weak math skills over the semester](math-practice-graphing-improves-over-semester.md) — a narrower finding that bears on this claim

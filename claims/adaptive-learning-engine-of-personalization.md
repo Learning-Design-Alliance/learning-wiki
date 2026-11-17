@@ -58,3 +58,4 @@ The review's synthesis of the 13 adaptive-learning studies, many adopting a thre
 - [A tutoring system can adjust its behaviour in response to a dynamically modelled motivational state, though some motivational rules are not appreciated by learners](more-system-adjusted-behavior-to-motivational-state.md) — a narrower finding that bears on this claim
 - Explicit algorithmic approaches were identified in 13 of the 33 reviewed studies — related
 - [Self-adaptive game design with multiple difficulty levels is positively associated with intervention effectiveness](self-adaptation-supports-effectiveness.md) — a narrower finding that bears on this claim
+- [The proposed system adapts content, presentation method and learner level dynamically during training based on learner feedback](dynamic-adaptation-during-training-feedback.md) — a narrower finding that bears on this claim

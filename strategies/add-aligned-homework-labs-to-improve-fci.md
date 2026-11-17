@@ -54,4 +54,4 @@ The article reports that the authors made small modifications to the M&I curricu
 -
 
 ## Key Sources
-- Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. https://arxiv.org/abs/1106.1055
+- Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. https://arxiv.org/abs/1106.1055. [doi:10.48550/arxiv.1106.1055](https://doi.org/10.48550/arxiv.1106.1055)

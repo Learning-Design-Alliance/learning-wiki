@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: kohlmyer-2009
-    resource: "https://doi.org/10.48550/arXiv.0906.0022"
-    title: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.48550/arXiv.0906.0022](https://doi.org/10.48550/arXiv.0906.0022)"
+    resource: "https://doi.org/10.1103/physrevstper.5.020105"
+    title: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.1103/physrevstper.5.020105](https://doi.org/10.1103/physrevstper.5.020105)"
     author: "Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F."
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kohlmyer 2009
 
-Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.48550/arXiv.0906.0022](https://doi.org/10.48550/arXiv.0906.0022)
+Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding, L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009). A Tale of Two Curricula: The performance of two thousand students in introductory electromagnetism. arXiv. [doi:10.1103/physrevstper.5.020105](https://doi.org/10.1103/physrevstper.5.020105)
 
 `q1 · i?` · `causal · r2`
 

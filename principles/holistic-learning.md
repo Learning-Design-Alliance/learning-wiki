@@ -151,6 +151,7 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 
 - [Develop detailed and comprehensive VR modules that include all steps of construction processes](../strategies/detailed-comprehensive-vr-modules.md)
 - [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
+- [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](../strategies/staged-submission-with-analytical-debug-cases.md)
 
 ### Illustrative
 

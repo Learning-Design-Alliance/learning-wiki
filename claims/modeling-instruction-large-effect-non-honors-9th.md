@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2008
 sources:
   - id: michael-j-obrien-and-john-r-thompson-2008
-    resource: "https://doi.org/10.48550/arXiv.0901.4692"
-    title: "Michael J. O'Brien and John R. Thompson. (2008). Effectiveness of Ninth-Grade Physics in Maine: Conceptual Understanding. The Physics Teacher. [doi:10.48550/arXiv.0901.4692](https://doi.org/10.48550/arXiv.0901.4692)"
+    resource: "https://doi.org/10.1119/1.3098211"
+    title: "Michael J. O'Brien and John R. Thompson. (2008). Effectiveness of Ninth-Grade Physics in Maine: Conceptual Understanding. The Physics Teacher. [doi:10.1119/1.3098211](https://doi.org/10.1119/1.3098211)"
     author: "Michael J. O'Brien and John R. Thompson"
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Michael J. O'Brien and John R. Thompson 2008
 
-Michael J. O'Brien and John R. Thompson. (2008). Effectiveness of Ninth-Grade Physics in Maine: Conceptual Understanding. The Physics Teacher. [doi:10.48550/arXiv.0901.4692](https://doi.org/10.48550/arXiv.0901.4692)
+Michael J. O'Brien and John R. Thompson. (2008). Effectiveness of Ninth-Grade Physics in Maine: Conceptual Understanding. The Physics Teacher. [doi:10.1119/1.3098211](https://doi.org/10.1119/1.3098211)
 
 `q2 · i?` · `causal · r1`
 

@@ -68,3 +68,4 @@ Case study analysis of nine rural SIG schools using spring 2012 site visits and 
 - [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](strategic-staffing-insufficient-rural-districts.md) — related
 - [Interventions located in one or up to three geographical areas showed higher primary ITT and FSM effect sizes than interventions spread across more areas](eef-geographical-spread-moderates-effect-sizes.md) — related
 - [Internet access quality was a common material-access challenge, especially for rural mentees relying on cellular data](internet-quality-barrier-rural-mentees.md) — related
+- [Course improvement needs differ by school location: development time is most desired overall, smaller classes in suburban schools, and lab equipment in rural schools](improvement-needs-differ-by-location.md) — related

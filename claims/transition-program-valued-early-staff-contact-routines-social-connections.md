@@ -51,3 +51,4 @@ Parent interview responses in the study of the three-week transition program. Fa
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
 - [Meeting peers from other districts and instructors' academic credibility were the most valued features of the fellowship programme](peer-meetings-instructor-credibility-most-valued-features.md) — related
+- [Longitudinal interviews and surveys indicate Compass students felt supported academically and personally and stayed socially connected](compass-survey-community-support.md) — related

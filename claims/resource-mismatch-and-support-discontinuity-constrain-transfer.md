@@ -180,3 +180,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Students identified the palliative care course competencies, supportive qualified nurses and supportive family caregivers as facilitators of learning transfer](palliative-transfer-facilitators.md) — related
 - [Teachers identify lack of teaching time within a packed curriculum as the main barrier to delivering physically active VFTs](teachers-time-barrier-active-vfts.md) — related
 - [Time, perceived value and lack of incentives are key challenges to faculty evaluating the intrinsic roles](time-value-incentive-challenges.md) — related
+- [Polled MICA members who discontinued VW use most often cited lack of time, with avatar stigma and user-experience quality as additional factors](academic-non-uptake-of-vws-reasons.md) — a narrower finding that bears on this claim
+- [Undergraduates new to research lack jargon comprehension, knowledge of research practices, and familiarity with the technical literature, and limited mentor interaction time constrains immersion](undergraduate-research-readiness-barriers.md) — related

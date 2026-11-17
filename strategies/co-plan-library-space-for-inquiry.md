@@ -48,6 +48,7 @@ Based on the teacher–librarian misalignment on Use of Space and Time, the auth
 - [Guided Inquiry: immersing students in information seeking as a way of learning](guided-inquiry-information-seeking-learning.md)
 - [Creating a Classroom Library](creating_a_classroom_library.md)
 - [Leverage school-based librarians to create and deliver K-6 CS/CT lessons when classroom integration slows](librarian-created-k6-cs-ct-lessons.md)
+- [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](co-design-guided-inquiry-lesson-package-teachers.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Qualitative findings from participants' learning-log reflections on the CAPT sys
 
 ## Related Claims
 - [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](self-access-group-highest-self-monitoring.md) — related
+- [Students respond positively to GBC overall, complaining only that they lack immediate access to their numerical score](gbc-positive-student-response.md) — related

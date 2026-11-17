@@ -52,3 +52,4 @@ Thematic analysis of interviews with 12 first-year medical students in a non-cad
 - [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
 - [Students rate hologram-based AR anatomy learning positively, with high willingness to use it again for theoretical and practical learning](positive-user-experience-and-willingness-to-reuse-ar.md) — related
 - [Students subjectively evaluated the CLOSE checklist and the e-learning very positively](close-elearning-positive-subjective-evaluation.md) — related
+- [The interactive mirror experiment (42%) and the holograms (38%) were what most motivated students, ahead of other experiments (20%) and stereoscopic images (18%)](holographic-exhibit-most-motivating-elements.md) — related

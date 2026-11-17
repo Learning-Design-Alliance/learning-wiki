@@ -51,9 +51,10 @@ The article recommends that efforts to integrate physics and mathematics into bi
 
 - [Evaluate integrated physics-biology curricula with assessments of cross-domain energy integration](assess-cross-domain-energy-integration-in-curriculum-evaluation.md)
 - [Design interdisciplinary exam and homework questions that ask students to use physics and mathematics for biological ends, such as explaining organismal structure, function, and diversity](biology-authentic-question-design-strategy.md)
+- [Negotiate interdisciplinary problems jointly, seeking both physical validity and biological authenticity, and make modeling assumptions explicit.](negotiated-problem-design-physical-validity-biological-authenticity.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. https://www.compadre.org/PER/
+- Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. https://www.compadre.org/PER/. [doi:10.48550/arxiv.1009.1049](https://doi.org/10.48550/arxiv.1009.1049)

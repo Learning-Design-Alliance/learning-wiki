@@ -182,3 +182,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [The Ringelmann effect describes declining average contribution as group size increases, with large groups of five or more often dividing work into subtasks and reducing motivation and collaboration.](ringelmann-effect-group-size-contribution-declines.md) — related
 - [Interdependent cooperative-learning modules did not raise weekly quiz achievement once between-classroom variance was controlled](interdependent-cooperative-learning-no-quiz-gain.md) — related
 - [Within intervention classrooms, students were more collaboratively engaged during the interdependent phase 2 than phase 1](phase2-interdependence-raises-engagement.md) — a narrower finding that bears on this claim
+- [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related

@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: de-hosson-2011
-    resource: "https://doi.org/10.48550/arXiv.1009.0729"
-    title: "de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.48550/arXiv.1009.0729](https://doi.org/10.48550/arXiv.1009.0729)"
+    resource: "https://doi.org/10.5565/rev/ec/v29n1.429"
+    title: "de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.5565/rev/ec/v29n1.429](https://doi.org/10.5565/rev/ec/v29n1.429)"
     author: de Hosson, Cécile
     q: 1
     i: "?"
     kind: design
     rigour: "?"
   - id: de-hosson-2011-2
-    resource: "https://doi.org/10.48550/arXiv.1009.0729"
-    title: "de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.48550/arXiv.1009.0729](https://doi.org/10.48550/arXiv.1009.0729)"
+    resource: "https://doi.org/10.5565/rev/ec/v29n1.429"
+    title: "de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.5565/rev/ec/v29n1.429](https://doi.org/10.5565/rev/ec/v29n1.429)"
     author: de Hosson, Cécile
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### de Hosson 2011
 
-de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.48550/arXiv.1009.0729](https://doi.org/10.48550/arXiv.1009.0729)
+de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.5565/rev/ec/v29n1.429](https://doi.org/10.5565/rev/ec/v29n1.429)
 
 `q1 · i?` · `design · r?`
 
@@ -52,7 +52,7 @@ Post-sequence interview excerpt (student Brahim) reported in the a posteriori ev
 
 ### de Hosson 2011 (2)
 
-de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.48550/arXiv.1009.0729](https://doi.org/10.48550/arXiv.1009.0729)
+de Hosson, Cécile. (2011). Una controversia histórica al servicio de una situación de aprendizaje: una reconstrucción didáctica basada en Diálogo sobre los Dos máximos sistemas del mundo de Galileo. Enseñanza de las Ciencias, 29(1), 115-126. [doi:10.5565/rev/ec/v29n1.429](https://doi.org/10.5565/rev/ec/v29n1.429)
 
 `q1 · i?` · `design · r?`
 

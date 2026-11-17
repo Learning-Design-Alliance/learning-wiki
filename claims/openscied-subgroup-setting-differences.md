@@ -51,3 +51,4 @@ Setting comparison averaging across all 22 challenges in the survey. The report 
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
 - [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related
 - [ITS effects are lower in studies including rural schools than urban or suburban settings](its-lower-effects-rural-schools.md) — related
+- [Technology use in high school physics classrooms is similar across rural, suburban and urban schools and increases with teacher experience and engagement indices](technology-use-similar-across-school-types.md) — related

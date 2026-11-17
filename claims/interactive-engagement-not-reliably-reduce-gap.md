@@ -1,0 +1,55 @@
+---
+type: claim
+title: Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it
+description: Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it
+id: interactive-engagement-not-reliably-reduce-gap
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-17
+evidence_strength: mixed
+newest_evidence: 2013
+sources:
+  - id: madsen-2013
+    resource: "https://doi.org/10.1103/PhysRevSTPER.9.020121"
+    title: "Madsen, McKagan, and Sayre (2013). Gender gap on concept inventories in physics: What is consistent, what is inconsistent, and what factors influence the gap? Physical Review Special Topics - Physics Education Research 9, 020121. https://doi.org/10.1103/PhysRevSTPER.9.020121"
+    author: Madsen, McKagan, and Sayre
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
+---
+
+# Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Courses taught using interactive engagement techniques exhibit both increases and decreases in the gender gap from pre- to posttest; the high-profile Lorenzo et al. finding of gap elimination was not replicated. [→ Madsen 2013](#madsen-2013)
+
+## Evidence
+
+### Madsen 2013
+
+Madsen, McKagan, and Sayre (2013). Gender gap on concept inventories in physics: What is consistent, what is inconsistent, and what factors influence the gap? Physical Review Special Topics - Physics Education Research 9, 020121. https://doi.org/10.1103/PhysRevSTPER.9.020121
+
+`q2 · i?` · `review · r3`
+
+The review recounts the failed replications: Pollock et al. found 'no statistically significant differences between pre- and posttest gender gaps based on level of interactivity', Modeling Instruction produced a larger gap, and Pollock's fully interactive course showed a gap increase on the BEMA but not the CSEM.
+
+> "In one high-profile study by Lorenzo et al. [15] at Harvard University, as the level of interactive engagement increased, the gender gap on the FCI decreased on the posttest. In the fully interactive class, the FCI posttest gender gap was no longer statistically significant."
+
+## Discussion
+
+
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+
+## Related Claims
+- [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](background-preparation-accounts-substantial-portion-gap.md) — related
+- [E&M concept inventories show smaller and more variable gender gaps, averaging 3.7% on pretest and 8.5% on posttest, sometimes zero or favoring women](em-inventory-gender-gaps-smaller-variable.md) — related
+- [Men and women both showed significant CAT gains with no difference in gains between the two groups](no-gender-difference-cat-gains.md) — related
+- [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related

@@ -48,3 +48,4 @@ Questionnaire item 3 on career preference printed a table of counts (elementary 
 ## Related Claims
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related
+- [Physics teachers are rarely trained to teach the Higgs boson despite student demand](teachers-rarely-trained-higgs-particle-physics.md) — related

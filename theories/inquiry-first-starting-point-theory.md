@@ -54,6 +54,7 @@ The report's organizing theory is that teaching, like a journey, must be planned
 - [Asset Based Teaching](../strategies/asset-based_teaching.md)
 - [Relating Math to Student Strengths](../strategies/connect_math_to_student_strengths.md)
 - [Reflecting on Student Strengths and Challenges](../strategies/reflecting_on_student_strengths_and_challenges.md)
+- [Start a literature-review course by having students find all existing reviews on the topic to expose the gap and teach search tools](../strategies/find-all-existing-reviews-starting-strategy.md)
 
 ## Key Sources
 - Frogner, Ellen A. (1969). Using the Language Inquiry as a Teaching Device. Illinois State-Wide Curriculum Study Center in the Preparation of Secondary English Teachers (ISCPET). https://eric.ed.gov/?id=ED034768

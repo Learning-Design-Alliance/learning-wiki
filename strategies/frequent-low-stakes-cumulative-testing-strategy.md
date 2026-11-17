@@ -61,6 +61,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
 - [Implement retrieval practice as frequent low- or no-stakes quizzes with feedback, framed as learning opportunities](low-stakes-retrieval-practice-implementation.md)
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
+- [Rebalance assessment toward mixed formats and reduce workload density to diversify students' reasoning structure](shift-to-half-mc-half-oe-exams.md)
 
 ## Examples
 -

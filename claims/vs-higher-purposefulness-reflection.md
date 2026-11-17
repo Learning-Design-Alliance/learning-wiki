@@ -56,3 +56,4 @@ Paired comparison of questionnaire purposefulness scores from the 34-student cor
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
+- [Simulation and activity optimization sessions with 17 student volunteers informed substantial revisions to the resources](quantum-curriculum-student-observation-evaluation.md) — related

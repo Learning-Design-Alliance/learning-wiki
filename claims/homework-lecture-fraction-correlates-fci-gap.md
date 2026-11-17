@@ -11,16 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: caballero-2011
-    resource: "https://doi.org/10.48550/arXiv.1106.1055"
-    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)"
+    resource: "https://doi.org/10.1119/1.3703517"
+    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)"
     author: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A."
     q: 2
     i: "?"
     kind: causal
     rigour: 2
   - id: caballero-2011-2
-    resource: "https://doi.org/10.48550/arXiv.1106.1055"
-    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)"
+    resource: "https://doi.org/10.1119/1.3703517"
+    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)"
     author: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A."
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Caballero 2011
 
-Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)
+Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)
 
 `q2 · i?` · `causal · r2`
 
@@ -52,7 +52,7 @@ Content analysis of 575 traditional and 756 M&I homework questions categorized b
 
 ### Caballero 2011 (2)
 
-Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)
+Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)
 
 `q2 · i?` · `associational · r2`
 

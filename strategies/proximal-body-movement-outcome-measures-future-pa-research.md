@@ -47,6 +47,7 @@ The article recommends that future intervention studies broaden their outcome me
 - [Future research programme for digital movement-based learning in early childhood](future-research-digital-movement-learning-early-childhood.md)
 - [Evaluate satisfaction with the learning experience separately from satisfaction with the learning outcome](evaluate-experience-and-outcome-satisfaction-separately.md)
 - [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
+- [Plan ICM evaluations with multiple proximal outcome criteria, multiple data sources and time points, capture of unintended effects, moderators and process data](icm-evaluation-planning-strategy.md)
 
 ## Examples
 -

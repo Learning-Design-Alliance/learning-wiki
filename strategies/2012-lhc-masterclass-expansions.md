@@ -44,7 +44,8 @@ For the 2012 masterclasses the article keeps LHC data as the main thrust and pla
 - [U.S. masterclass students were generally satisfied in 2011, with some improvement in overall satisfaction over 2010 despite the change from LEP to LHC exercises](../claims/masterclass-student-satisfaction-improved-2010-2011.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Represent Higgs decay modes as four-card lepton combinations in the card game](higgs-decay-four-card-combination-strategy.md)
 
 ## Examples
 -

@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2009
 sources:
   - id: s-j-pollock-2009
-    resource: "https://doi.org/10.48550/arXiv.0907.5597"
-    title: "S. J. Pollock. (2009). A Longitudinal Study of Student Conceptual Understanding in Electricity and Magnetism. Physics Education Research Conference proceedings. [doi:10.48550/arXiv.0907.5597](https://doi.org/10.48550/arXiv.0907.5597)"
+    resource: "https://doi.org/10.1103/physrevstper.5.020110"
+    title: "S. J. Pollock. (2009). A Longitudinal Study of Student Conceptual Understanding in Electricity and Magnetism. Physics Education Research Conference proceedings. [doi:10.1103/physrevstper.5.020110](https://doi.org/10.1103/physrevstper.5.020110)"
     author: S. J. Pollock
     q: 3
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### S. J. Pollock 2009
 
-S. J. Pollock. (2009). A Longitudinal Study of Student Conceptual Understanding in Electricity and Magnetism. Physics Education Research Conference proceedings. [doi:10.48550/arXiv.0907.5597](https://doi.org/10.48550/arXiv.0907.5597)
+S. J. Pollock. (2009). A Longitudinal Study of Student Conceptual Understanding in Electricity and Magnetism. Physics Education Research Conference proceedings. [doi:10.1103/physrevstper.5.020110](https://doi.org/10.1103/physrevstper.5.020110)
 
 `q3 · i?` · `causal · r1`
 

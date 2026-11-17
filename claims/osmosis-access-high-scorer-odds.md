@@ -48,3 +48,4 @@ Logistic regression analysis of the quasi-experimental cohort data. The abstract
 - [Podiatric medical students with Osmosis access showed no statistically significant difference in final exam scores compared to a prior cohort without access](osmosis-access-no-significant-final-exam-difference.md) — reports the opposite
 - [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
+- [Treatment-group students were almost twice as likely as control students to earn a B- or better on the final exam](treatment-nearly-twice-likely-b-or-better.md) — related

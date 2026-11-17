@@ -42,6 +42,7 @@ The digest recommends grouping pupils during science experiments and demonstrati
 - [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
+- [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 
 ## Examples
 -

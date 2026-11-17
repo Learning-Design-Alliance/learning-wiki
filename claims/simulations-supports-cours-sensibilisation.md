@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2007
 sources:
   - id: françois-demontoux-2007
-    resource: "https://doi.org/10.48550/arXiv.0711.1102"
-    title: "François Demontoux, Rafael Hidalgo Muñoz. (2007). Approche pédagogique sur l'innocuité des technologies de réseaux sans fil. CETSIS'2007, Bordeaux. [doi:10.48550/arXiv.0711.1102](https://doi.org/10.48550/arXiv.0711.1102)"
+    resource: "https://doi.org/10.1051/j3ea:2008018"
+    title: "François Demontoux, Rafael Hidalgo Muñoz. (2007). Approche pédagogique sur l'innocuité des technologies de réseaux sans fil. CETSIS'2007, Bordeaux. [doi:10.1051/j3ea:2008018](https://doi.org/10.1051/j3ea:2008018)"
     author: François Demontoux, Rafael Hidalgo Muñoz
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### François Demontoux 2007
 
-François Demontoux, Rafael Hidalgo Muñoz. (2007). Approche pédagogique sur l'innocuité des technologies de réseaux sans fil. CETSIS'2007, Bordeaux. [doi:10.48550/arXiv.0711.1102](https://doi.org/10.48550/arXiv.0711.1102)
+François Demontoux, Rafael Hidalgo Muñoz. (2007). Approche pédagogique sur l'innocuité des technologies de réseaux sans fil. CETSIS'2007, Bordeaux. [doi:10.1051/j3ea:2008018](https://doi.org/10.1051/j3ea:2008018)
 
 `q1 · i?` · `design · r?`
 

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2008
 sources:
   - id: l-b-okun-2008
-    resource: "https://doi.org/10.48550/arXiv.0809.2379"
-    title: "L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.48550/arXiv.0809.2379](https://doi.org/10.48550/arXiv.0809.2379)"
+    resource: "https://doi.org/10.1142/9789812814128_0030"
+    title: "L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.1142/9789812814128_0030](https://doi.org/10.1142/9789812814128_0030)"
     author: L. B. Okun
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### L. B. Okun 2008
 
-L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.48550/arXiv.0809.2379](https://doi.org/10.48550/arXiv.0809.2379)
+L. B. Okun. (2008). The theory of relativity and the Pythagorean theorem. [doi:10.1142/9789812814128_0030](https://doi.org/10.1142/9789812814128_0030)
 
 `q1 · i?` · `theoretical · r2`
 

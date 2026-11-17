@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2008
 sources:
   - id: s-b-mckagan-2008
-    resource: "https://doi.org/10.48550/arXiv.0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
+    resource: "https://doi.org/10.1103/physrevstper.4.020103"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.1103/physrevstper.4.020103](https://doi.org/10.1103/physrevstper.4.020103)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
     kind: qualitative
     rigour: 3
   - id: s-b-mckagan-2008-2
-    resource: "https://doi.org/10.48550/arXiv.0802.3194"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)"
+    resource: "https://doi.org/10.1103/physrevstper.4.020103"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.1103/physrevstper.4.020103](https://doi.org/10.1103/physrevstper.4.020103)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.1103/physrevstper.4.020103](https://doi.org/10.1103/physrevstper.4.020103)
 
 `q1 · i?` · `qualitative · r3`
 
@@ -52,7 +52,7 @@ Case-study interviews (12 tunneling interviews with six students) plus corrobora
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.48550/arXiv.0802.3194](https://doi.org/10.48550/arXiv.0802.3194)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2008). A Deeper Look at Student Learning of Quantum Mechanics: the Case of Tunneling. [doi:10.1103/physrevstper.4.020103](https://doi.org/10.1103/physrevstper.4.020103)
 
 `q1 · i?` · `design · r3`
 

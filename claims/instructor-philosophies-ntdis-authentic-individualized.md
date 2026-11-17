@@ -67,3 +67,4 @@ Under the individualized assessment theme, instructors described tailoring conve
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [There was misalignment between instructors' assessment goals and students' experiences, which the authors report exacerbated students' stress and reduced their motivation](instructor-student-misalignment-exacerbates-stress.md) — related
+- [Faculty did not emphasize content-specific goals but valued deep physics knowledge and expert-like habits of mind during experiments](faculty-value-expert-like-habits-not-content-goals.md) — a narrower finding that bears on this claim

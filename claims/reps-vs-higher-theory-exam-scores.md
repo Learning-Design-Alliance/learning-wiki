@@ -77,3 +77,4 @@ Baseline check on the same randomized sample: after both groups attended the sam
 - [Dental students taught with virtual patients significantly outperform small-group teaching peers on a theoretical test immediately after the intervention](vp-outperform-sgt-immediate-theoretical-test.md) — related
 - [Theoretical knowledge test scores did not differ significantly among the three training groups](theoretical-knowledge-no-group-differences.md) — reports the opposite
 - [A virtual-world pediatric dentistry simulation used as a supplement to lectures produced significantly higher knowledge scores than lectures alone](vp-simulation-knowledge-gain-pediatric-dentistry.md) — related
+- [Students taught with the interactive P&E method achieved higher didactic test scores than students taught traditionally](2010-posttest-means-experimental-vs-control.md) — related

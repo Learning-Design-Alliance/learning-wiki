@@ -52,3 +52,4 @@ Study 1 monolingual baseline experiments translating both training and test data
 - [Monolingual English BERT shows only a slight advantage over multilingual BERT for English content scoring](monolingual-bert-slight-advantage-over-mbert.md) — related
 - [Higher-scored learner answers tend to be longer, and crowdsourced answers tend to be shorter than original classroom data](higher-scored-answers-tend-longer.md) — related
 - [Part of the crosslingual performance drop is attributable to differences between learner populations and datasets, not only language](dataset-population-differences-drive-scoring-drop.md) — related
+- [Integrating machine translation such as the Google Translate API allows an ITS to support multiple languages, removing the requirement that learners know the system's language](multilingual-its-machine-translation-integration.md) — related

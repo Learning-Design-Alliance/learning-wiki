@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: jeffrey-m-hawkins-2009
     resource: "https://doi.org/10.1063/1.3266704"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students A, B and C used head-to-tail on all 10 questions, students D and E used the components method on all questions, and students F and G used bisector and general-direction-type methods respectively. [→ Jeffrey M. Hawkins 2009](#jeffrey-m-hawkins-2009)

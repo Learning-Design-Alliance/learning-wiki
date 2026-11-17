@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: michael-courtney-2011
     resource: "https://doi.org/10.48550/arXiv.1102.1893"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author attributes high Calculus 3 tutoring demand to the course representing a significant step up in mathematical maturity relative to the three-credit-hour first-year Calculus sequence. [→ Michael Courtney 2011](#michael-courtney-2011)

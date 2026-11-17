@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: soumya-d-mohanty-and-sergio-cantu-2011
-    resource: "https://doi.org/10.48550/arXiv.1107.5298"
-    title: "Soumya D. Mohanty and Sergio Cantu. (2011). Teaching introductory undergraduate Physics using commercial video games. [doi:10.48550/arXiv.1107.5298](https://doi.org/10.48550/arXiv.1107.5298)"
+    resource: "https://doi.org/10.1088/0031-9120/46/5/009"
+    title: "Soumya D. Mohanty and Sergio Cantu. (2011). Teaching introductory undergraduate Physics using commercial video games. [doi:10.1088/0031-9120/46/5/009](https://doi.org/10.1088/0031-9120/46/5/009)"
     author: Soumya D. Mohanty and Sergio Cantu
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Soumya D. Mohanty and Sergio Cantu 2011
 
-Soumya D. Mohanty and Sergio Cantu. (2011). Teaching introductory undergraduate Physics using commercial video games. [doi:10.48550/arXiv.1107.5298](https://doi.org/10.48550/arXiv.1107.5298)
+Soumya D. Mohanty and Sergio Cantu. (2011). Teaching introductory undergraduate Physics using commercial video games. [doi:10.1088/0031-9120/46/5/009](https://doi.org/10.1088/0031-9120/46/5/009)
 
 `q1 · i?` · `design · r2`
 

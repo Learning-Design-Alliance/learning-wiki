@@ -47,3 +47,4 @@ Content analysis of weekly reflective essays and modality reflections for eviden
 ## Related Claims
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — related
 - [Affectively, the quasi-synchronous Discord modality showed the most positive and least negative sentiment profile of the three modalities](quasi-synchronous-discord-most-positive-affect.md) — related
+- [Moving the activity to an online forum with task-based prompts produced no student-to-student interaction and an assessment-centered discussion](online-forum-implementation-no-interaction-assessment-centered.md) — related

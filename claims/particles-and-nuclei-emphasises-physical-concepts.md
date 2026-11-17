@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: a-alan-cottey-2011
-    resource: "https://doi.org/10.48550/arXiv.1102.1839"
-    title: "A. Alan Cottey. (2011). The wisdom of sages: nuclear physics education, knowledge-inquiry, and wisdom-inquiry. [doi:10.48550/arXiv.1102.1839](https://doi.org/10.48550/arXiv.1102.1839)"
+    resource: "https://doi.org/10.2304/pfie.2012.10.5.587"
+    title: "A. Alan Cottey. (2011). The wisdom of sages: nuclear physics education, knowledge-inquiry, and wisdom-inquiry. [doi:10.2304/pfie.2012.10.5.587](https://doi.org/10.2304/pfie.2012.10.5.587)"
     author: A. Alan Cottey
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### A. Alan Cottey 2011
 
-A. Alan Cottey. (2011). The wisdom of sages: nuclear physics education, knowledge-inquiry, and wisdom-inquiry. [doi:10.48550/arXiv.1102.1839](https://doi.org/10.48550/arXiv.1102.1839)
+A. Alan Cottey. (2011). The wisdom of sages: nuclear physics education, knowledge-inquiry, and wisdom-inquiry. [doi:10.2304/pfie.2012.10.5.587](https://doi.org/10.2304/pfie.2012.10.5.587)
 
 `q1 · i?` · `qualitative · r2`
 

@@ -9,19 +9,18 @@ generated:
   at: 2026-11-10
 evidence_strength: moderate
 newest_evidence: 2009
-source_checked: 2026-11-16
 sources:
   - id: luca-girlanda-2009
-    resource: "https://doi.org/10.48550/arXiv.0903.3367"
-    title: "Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.48550/arXiv.0903.3367](https://doi.org/10.48550/arXiv.0903.3367)"
+    resource: "https://doi.org/10.1119/1.3098261"
+    title: "Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.1119/1.3098261](https://doi.org/10.1119/1.3098261)"
     author: Luca Girlanda
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: luca-girlanda-2009-2
-    resource: "https://doi.org/10.48550/arXiv.0903.3367"
-    title: "Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.48550/arXiv.0903.3367](https://doi.org/10.48550/arXiv.0903.3367)"
+    resource: "https://doi.org/10.1119/1.3098261"
+    title: "Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.1119/1.3098261](https://doi.org/10.1119/1.3098261)"
     author: Luca Girlanda
     q: 2
     i: "?"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2009 · checked against its sources 2026-11-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students measuring echo delays with audio-editing software obtained dEM = (3.93±0.01)·10^8 m, a three-digit-accuracy determination. [→ Luca Girlanda 2009](#luca-girlanda-2009)
@@ -43,7 +42,7 @@ sources:
 
 ### Luca Girlanda 2009
 
-Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.48550/arXiv.0903.3367](https://doi.org/10.48550/arXiv.0903.3367)
+Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.1119/1.3098261](https://doi.org/10.1119/1.3098261)
 
 `q2 · i?` · `design · r2`
 
@@ -53,7 +52,7 @@ Measurement activity in which 10 student groups analyzed the echo of the word "o
 
 ### Luca Girlanda 2009 (2)
 
-Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.48550/arXiv.0903.3367](https://doi.org/10.48550/arXiv.0903.3367)
+Luca Girlanda. (2009). Echoes from the Moon. arXiv preprint. [doi:10.1119/1.3098261](https://doi.org/10.1119/1.3098261)
 
 `q2 · i?` · `design · r2`
 

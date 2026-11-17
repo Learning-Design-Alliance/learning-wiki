@@ -54,3 +54,4 @@ Authors' interpretation of episode data: a group in the worksheet frame shifted 
 - [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — related
 - [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related
+- [Japanese pre-service teachers took to physics Tutorials immediately without the resistance observed among US students, plausibly by reactivating elementary-school groupwork frames](japan-tutorials-immediate-acceptance.md) — related

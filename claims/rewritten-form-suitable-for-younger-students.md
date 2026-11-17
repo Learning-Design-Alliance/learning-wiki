@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: ladislav-kocbach-and-suhail-lubbad-2009
-    resource: "https://doi.org/10.48550/arXiv.0908.1548"
-    title: "Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.48550/arXiv.0908.1548](https://doi.org/10.48550/arXiv.0908.1548)"
+    resource: "https://doi.org/10.1088/0031-9120/45/4/003"
+    title: "Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.1088/0031-9120/45/4/003](https://doi.org/10.1088/0031-9120/45/4/003)"
     author: Ladislav Kocbach and Suhail Lubbad
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Ladislav Kocbach and Suhail Lubbad 2009
 
-Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.48550/arXiv.0908.1548](https://doi.org/10.48550/arXiv.0908.1548)
+Ladislav Kocbach and Suhail Lubbad. (2009). Geometrical simplification of the dipole-dipole interaction formula. [doi:10.1088/0031-9120/45/4/003](https://doi.org/10.1088/0031-9120/45/4/003)
 
 `q1 · i?` · `theoretical · r2`
 

@@ -49,4 +49,4 @@ The article designs and implements a Web-based cooperative learning system for o
 -
 
 ## Key Sources
-- Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. https://www.ijcsi.org
+- Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. https://www.ijcsi.org. [doi:10.48550/arxiv.1002.1181](https://doi.org/10.48550/arxiv.1002.1181)

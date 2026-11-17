@@ -12,8 +12,8 @@ newest_evidence: 2012
 recheck_by: 2017
 sources:
   - id: caballero-2012
-    resource: "https://doi.org/10.48550/arXiv.1107.5216"
-    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)"
+    resource: "https://doi.org/10.1103/physrevstper.8.020106"
+    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)"
     author: Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Caballero 2012
 
-Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)
+Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)
 
 `q2 · i?` · `design · r2`
 
@@ -50,3 +50,4 @@ Frequency analysis of the Second Law (SL) codes among erroneous student programs
 - [Erroneous student programs cluster into six dominant error patterns, with force-calculation errors accounting for most failures](six-error-clusters-force-calculation-dominant.md) — related
 - [Cluster analysis of student error patterns concentrates most erroneous programs into seven of thirty clusters](error-pattern-clusters-seven-dominate.md) — related
 - [Second law decline at RB stems from failure to infer acceleration when it is not explicitly given, suggesting second law and acceleration develop in tandem](second-law-acceleration-entangled.md) — related
+- [Think-aloud interviews show students with correct models describe velocity updates via force and iteration, while a student with incorrect physics shows an acquired-through-motion conception](think-aloud-interviews-force-motion-loop-links.md) — related

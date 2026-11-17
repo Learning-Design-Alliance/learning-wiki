@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: chad-orzel-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.4944"
-    title: "Chad Orzel, Gary Reich, and Jonathan Marr (2011). Investigating Systematic Uncertainty and Experimental Design with Projectile Launchers. Originally published 2009. [doi:10.48550/arXiv.1108.4944](https://doi.org/10.48550/arXiv.1108.4944)"
+    resource: "https://doi.org/10.1119/1.4767489"
+    title: "Chad Orzel, Gary Reich, and Jonathan Marr (2011). Investigating Systematic Uncertainty and Experimental Design with Projectile Launchers. Originally published 2009. [doi:10.1119/1.4767489](https://doi.org/10.1119/1.4767489)"
     author: Chad Orzel, Gary Reich, and Jonathan Marr
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Chad Orzel 2011
 
-Chad Orzel, Gary Reich, and Jonathan Marr (2011). Investigating Systematic Uncertainty and Experimental Design with Projectile Launchers. Originally published 2009. [doi:10.48550/arXiv.1108.4944](https://doi.org/10.48550/arXiv.1108.4944)
+Chad Orzel, Gary Reich, and Jonathan Marr (2011). Investigating Systematic Uncertainty and Experimental Design with Projectile Launchers. Originally published 2009. [doi:10.1119/1.4767489](https://doi.org/10.1119/1.4767489)
 
 `q2 · i?` · `design · r2`
 

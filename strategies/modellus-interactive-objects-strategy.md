@@ -51,6 +51,7 @@ A concrete implementation recipe from the article: let students create vectors i
 
 - [Use an in-game spear as a controllable velocity-vector representation](glight-spear-velocity-vector-activity.md)
 - [Pause real-time field simulations to render static LIC images connecting dynamic and standard representations](pause-simulation-static-lic-strategy.md)
+- [Anchor a revision lesson on one physical event examined at fixed time instants through group-assigned representations](single-event-group-assigned-representations-strategy.md)
 
 ## Examples
 -

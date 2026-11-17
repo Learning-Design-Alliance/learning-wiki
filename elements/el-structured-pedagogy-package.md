@@ -52,6 +52,7 @@ The brief describes structured pedagogy as "a coordinated approach to improving 
 
 - [Deliver in-service teacher professional development that is closely linked to the books and lesson plans in use and supported by frequent classroom observation, through existing ministry structures](../strategies/itpd-linked-materials-frequent-observation.md)
 - [Combine teacher training, real-time data feedback, supervision, materials and lesson plans into one remedial literacy package](../strategies/multi-component-literacy-treatment-package.md)
+- [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](../strategies/co-design-guided-inquiry-lesson-package-teachers.md)
 
 ## Key Sources
 - Foundational Learning. (2023). World Bank. https://www.worldbank.org/en/topic/education/brief/foundational-learning

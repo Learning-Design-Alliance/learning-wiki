@@ -57,3 +57,4 @@ Temporal analysis plotting mean scores of the significant traits (Table 2) over 
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
 - [Task progression graphs show difficult Narrative Manager events raise the distance-to-goal curve while assistive events such as hiding materials produce flat zones that cost user time](event-effects-on-task-progression.md)
 - [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related
+- [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related

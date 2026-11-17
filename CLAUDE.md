@@ -254,6 +254,15 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   batch. A claim about what learners know, do or achieve, or about how something is taught, is never
   out of scope; being written for a classroom does not bring a physics result in. The arXiv universe was
   rescreened on the subject alone (`screen_sources.py --rescope`); a split vote keeps a source.
+- **An arXiv preprint and its published version are one study** (maintainer, 2026-11-16). At every arXiv
+  hold, `scripts/sweep/dedupe_preprints.py --apply` records each unread preprint whose published version
+  is already in the wiki (by the snapshot's published DOI, or by title against every non-arXiv source)
+  as `already-covered`, and lists the read ones for `judge_claim_merges.py --pairs`.
+  `scripts/sweep/arxiv_dois.py --label <batch> --apply` gives each arXiv-read evidence entry its DOI,
+  entry by entry, preferring the published version's (Crossref, title and first author aligned, year
+  within one) over the preprint's DataCite DOI, so one study carries one DOI wherever it is cited;
+  `--upgrade` moves entries already citing a preprint DOI. A cited year that is not the paper's is
+  corrected to the record's, and an earlier one is kept as "Originally published YYYY".
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,

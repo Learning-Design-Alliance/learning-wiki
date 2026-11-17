@@ -55,6 +55,7 @@ The article's implementation model pairs a 2-week summer training session with o
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
+- [Distribute educational kits with in-service teacher training through local institutions](kit-distribution-with-in-service-training.md)
 
 ## Examples
 -

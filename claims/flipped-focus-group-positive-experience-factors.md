@@ -51,3 +51,4 @@ Qualitative thematic analysis of one 40-minute focus group with all 11 students,
 - [Interns in the flipped classroom group report high acceptance of online pre-class videos and offline interactive sessions](fc-questionnaire-high-acceptance-interns.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Students exposed to the flipped classroom reported largely positive perceptions, with 84% finding pre-class materials helpful and 76% reporting improved understanding](student-perceptions-flipped-classroom-gondar.md) — related
+- [The instructor reports spectacular learning outcomes in student confidence on the topic, attributed to extensive in-class and online discussion and boosted by journal acceptance](student-confidence-gain-from-publication-course.md) — related

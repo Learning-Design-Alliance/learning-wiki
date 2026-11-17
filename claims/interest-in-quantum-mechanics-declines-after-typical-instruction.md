@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `causal · r1`
 
@@ -48,3 +48,4 @@ Comparative survey analysis of pre- and post-instruction student responses acros
 ## Related Claims
 - [In the transformed ENG-INT course, 98% of students reported interest in quantum physics after instruction, and no student gave a negative response.](eng-int-nearly-unanimous-post-instruction-interest.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related

@@ -110,6 +110,7 @@ SBG aligns grading with [Assessment for Learning](../principles/assessment-for-l
 - Ungrading — a more radical variant that removes grades entirely while retaining mastery feedback structures
 - Retake/reassessment policies — the operational mechanism that makes grades reflect eventual rather than initial mastery
 - [District actions to improve electronic grading system use: clarify formative/summative guidance, build mastery-based best-practice communities, and update grading standards with professional development](cps-grading-guidance-improvement-strategies.md)
+- [Support students as whole people through non-traditional homework, grade-interpretation discussions, and rubric-based self-reflection](whole-person-support-homework-and-reflection-strategy.md)
 
 ## Examples
 - **High school physics SBG conversion** — A widely cited implementation replaced percentage grades with standards scores (e.g., "Graphs motion — 3/4"); D/F rates declined, but A rates also declined, showing grade redistribution rather than uniform inflation.

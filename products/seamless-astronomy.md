@@ -30,4 +30,4 @@ A Harvard-Smithsonian Center for Astrophysics programme that promotes interopera
 - [WorldWide Telescope Ambassadors Program (WWTA)](worldwide-telescope-ambassadors-program-wwta.md)
 
 ## Key Sources
-- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285
+- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285. [doi:10.48550/arxiv.1201.1285](https://doi.org/10.48550/arxiv.1201.1285)

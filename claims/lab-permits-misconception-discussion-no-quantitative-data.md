@@ -46,3 +46,4 @@ This is the authors' concluding interpretation of their implementation experienc
 
 ## Related Claims
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
+- [The author argues field energy is undesirable in K-12 science education because there is no easily observable evidence for it, students can do almost nothing with it quantitatively, and the Framework's statements about it are scientifically inconsistent.](field-energy-undesirable-k12-reasons.md) — related

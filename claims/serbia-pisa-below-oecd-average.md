@@ -12,8 +12,8 @@ newest_evidence: 2009
 recheck_by: 2014
 sources:
   - id: g-s-djordjevica-and-d-pavlovic-babic-2009
-    resource: "https://doi.org/10.48550/arXiv.0912.1042"
-    title: "G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.48550/arXiv.0912.1042](https://doi.org/10.48550/arXiv.0912.1042)"
+    resource: "https://doi.org/10.1063/1.3322362"
+    title: "G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.1063/1.3322362](https://doi.org/10.1063/1.3322362)"
     author: G. S. Djordjevica and D. Pavlovic-Babic
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### G. S. Djordjevica and D. Pavlovic-Babic 2009
 
-G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.48550/arXiv.0912.1042](https://doi.org/10.48550/arXiv.0912.1042)
+G. S. Djordjevica and D. Pavlovic-Babic. (2009). High School Class for Gifted Pupils in Physics and Sciences and Pupils' Skills Measured by Standard and Pisa Test. [doi:10.1063/1.3322362](https://doi.org/10.1063/1.3322362)
 
 `q2 · i?` · `associational · r1`
 

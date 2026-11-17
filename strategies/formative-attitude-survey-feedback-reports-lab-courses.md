@@ -39,6 +39,7 @@ The article recommends administering E-CLASS as a formative assessment tool: all
 ## Related Strategies
 
 - [Assess curricular transformation with an array of instruments covering both performance and student perception](multiple-assessments-performance-and-perception-strategy.md)
+- [Use a four-quadrant attitudes survey to give instructors actionable evidence for lab course transformation](four-quadrant-survey-for-lab-transformation-feedback.md)
 
 ## Examples
 -

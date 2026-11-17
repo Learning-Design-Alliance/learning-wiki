@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2015
 sources:
   - id: baily-2010
-    resource: "https://doi.org/10.48550/arXiv.1108.5226"
-    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)"
+    resource: "https://doi.org/10.1063/1.3515251"
+    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)"
     author: "Baily, C., & Finkelstein, N. D."
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2010
 
-Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)
+Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -51,3 +51,4 @@ Interview study with nineteen students. Most students said they were unfamiliar 
 - [Introductory modern physics students invoke concepts and beliefs paralleling expert physicists when arguing for favored interpretations of quantum mechanics](student-interpretive-stances-parallel-expert-physicists.md) — a broader claim this one bears on
 - [Incoming engineering students across three courses agreed at nearly identical rates (~45%) that quantum probabilistic nature reflects measurement limitations, while physics majors were significantly more favorable before instruction.](incoming-realist-agreement-engineering-versus-physics-majors.md) — related
 - [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related
+- [Instruction in classical physics significantly decreases student agreement that the same experiment can yield two different correct results, consistent with reinforcement of a deterministic perspective.](classical-physics-instruction-reinforces-deterministic-perspective.md) — related

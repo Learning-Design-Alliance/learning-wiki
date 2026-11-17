@@ -36,7 +36,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (24 for, 10 mixed, 1 against) · 32 studies (8 qualitative, 7 review, 6 causal, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 36 claims (25 for, 10 mixed, 1 against) · 33 studies (9 qualitative, 7 review, 6 causal, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 33 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Re-read 2026-10-19 against the model above. The community-specific claims listed
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract). A design argument about training, not about communities.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract). One-to-one tutoring studies; bears on coaching newcomers responsively (step 4) by transport.
 - [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](../claims/moderator-participation-encouragement-techniques.md) [+W] — attached 2026-11-05 from Stone Alicia et al. (2026), which proposed "Invest in competency-based moderator training emphasizing empathetic communication and collaborative techniques to structure effective virtual communities of practice".
+- [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](../claims/teacher-participation-leadership-increased.md) [+W] — attached 2026-11-17 from Ben Van Dusen et al. (2011), which proposed "Design professional development as communities where change emerges from teachers' own contexts rather than delivering external expertise".
 
 ## Objective and learner-valued goal
 

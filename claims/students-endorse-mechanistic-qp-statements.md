@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 recheck_by: 2015
 sources:
   - id: bayram-akarsu-2010
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most students supported the false Newtonian statement that gas molecules' positions and velocities allow exact prediction of future behavior, and the statement that nobody can know an electron's position accurately because it is small and fast. [→ Bayram Akarsu 2010](#bayram-akarsu-2010)
@@ -54,3 +55,4 @@ Descriptive analysis of the 86-student questionnaire responses. The author state
 - [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related
 - [Students taught delocalized wave descriptions in one context do not generalize to contexts where interpretation is not addressed](matter-wave-students-fail-to-generalize-to-atomic-context.md) — a broader claim this one bears on
 - [Incoming engineering students across three courses agreed at nearly identical rates (~45%) that quantum probabilistic nature reflects measurement limitations, while physics majors were significantly more favorable before instruction.](incoming-realist-agreement-engineering-versus-physics-majors.md) — related
+- [Few students recognize that classical uncertainty in a Plinko game is a false analogy for quantum uncertainty, with course-dependent reasoning about the two systems.](plinko-false-analogy-rarely-recognized.md) — related

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: benjamin-w-dreyfus-2011
-    resource: "https://doi.org/10.48550/arXiv.1106.5801"
-    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)"
+    resource: "https://doi.org/10.1063/1.3680024"
+    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)"
     author: Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Benjamin W. Dreyfus 2011
 
-Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)
+Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)
 
 `q1 · i?` · `qualitative · r2`
 

@@ -57,3 +57,4 @@ Descriptive quartile comparison from the Joint Problem Solving scale summary, wh
 - [Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust](teacher-parent-trust-bottom-quartile-low.md) — related
 - [Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence](survey-field-rating-correlation-coherence.md) — related
 - [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related
+- [School-based updating courses succeeded only where school management support was strong, while courses lacking support were unsatisfactory](management-support-decides-updating-course-success.md) — related

@@ -51,3 +51,4 @@ Impressions-survey self-ratings (0 totally lost to 4 highly confident) were comp
 - [Scores on two functional-knowledge final exam questions were significantly higher after the story, but a multipart ATP question showed no significant change](functional-knowledge-exam-questions-mixed.md) — related
 - [Overall cumulative final exam scores showed no significant difference before versus after implementing the story](final-exam-overall-no-significant-difference.md) — related
 - [Students' self-perceived scientific literacy competency increases during the flipped classroom semester, but confidence in interpreting graphical results does not](self-perceived-sl-competency-increases.md) — related
+- [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — related

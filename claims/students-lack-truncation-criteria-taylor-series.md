@@ -50,3 +50,5 @@ Clinical interviews with five students, several weeks after the Year 2 tutorial 
 - [Students may interpret and apply a given Taylor series yet be unable to generate an appropriate expansion in a novel context](interpret-given-taylor-series-but-cannot-generate-novel.md) — related
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
+- [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](superficial-reflection-on-derived-expressions.md) — related
+- [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — related

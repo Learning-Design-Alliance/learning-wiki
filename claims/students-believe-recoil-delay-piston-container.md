@@ -48,3 +48,4 @@ Reported from the same quiz of freshman students at King Fahd University of Petr
 ## Related Claims
 - [A quiz of more than 120 freshman students reveals many justify recoil only as 'an action and a reaction' without understanding how the reaction is produced](quiz-recoil-superficial-justification-freshmen.md) — related
 - [Approximately 40% of students incorrectly answer that a large box enclosing a recoiling gas container would itself recoil](students-box-recoil-misconception-40-percent.md) — related
+- [Most Institution X students incorrectly believed the divergence of the steady-state current density was non-zero inside a current-carrying wire](x-students-nonzero-divergence-j-misconception.md) — related

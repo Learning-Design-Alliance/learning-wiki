@@ -51,6 +51,7 @@ The authors recommend introducing Long-menu questions within a mixed-format exam
 - [Use long-menu questions in the final years of the curriculum, within key-feature problems, to assess clinical reasoning and patient management skills](long-menu-key-feature-final-years-strategy.md)
 - [Use problem-solving free-text tasks to test competency-based learning objectives, with e-based long-menu examinations to make evaluation feasible](e-based-long-menu-exams-conditional-knowledge.md)
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
+- [Rebalance assessment toward mixed formats and reduce workload density to diversify students' reasoning structure](shift-to-half-mc-half-oe-exams.md)
 
 ## Examples
 -

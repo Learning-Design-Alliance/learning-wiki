@@ -50,3 +50,4 @@ Whole-exam comparison across test (n=73) and control (n=76) sections. Scores wer
 - [The spirometry-based active learning lab produced the largest performance gain on questions about the hallmarks of restrictive and obstructive respiratory diseases](spirometry-lab-improves-respiratory-disease-performance.md) — related
 - [A spirometry-based active learning lab improved community college students' performance on respiratory volumes questions relative to control sections](spirometry-lab-improves-respiratory-volumes-performance.md) — related
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
+- [Students improve significantly on shared pre- and post-test lab exam items](significant-lab-skill-gains-inquiry-physics.md) — related

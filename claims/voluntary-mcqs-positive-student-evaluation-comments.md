@@ -49,3 +49,4 @@ Descriptive report from students' routine end-of-semester lecture-course evaluat
 - [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — related
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [The examination advantage of the multiple-choice group varied across semesters, with no significant difference in the 2014 summer term](mcq-effect-varied-by-semester-null-2014-summer.md) — related
+- [Engineering students struggle with end-of-semester exam load, attributed by lecturers to a lack of semester-accompanying learning and of systematic preparation of and follow-up on courses](student-preparation-deficits-prerequisite-for-icm.md) — related

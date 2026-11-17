@@ -44,6 +44,7 @@ This strategy keeps researchers present and useful throughout data collection: v
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
 - [Pair movement-based analysis with temporal analysis and discuss camera intrusiveness when collecting detailed data](temporal-analysis-and-ethics-in-movement-capture.md)
 - [Collect anonymous user questionnaires at exhibitions and schools to evaluate the games' educational effectiveness](outreach-game-feedback-questionnaires-strategy.md)
+- [Researchers should run school outreach in their specialty and share adaptable lesson materials](researcher-outreach-with-shared-materials.md)
 
 ## Examples
 -

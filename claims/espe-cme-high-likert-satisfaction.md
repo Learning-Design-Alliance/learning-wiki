@@ -81,3 +81,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Incorporating learner feedback into curricular revision was associated with increased learner satisfaction with the instructive value of an online curriculum, from 3.8 to 4.1 on a 5-point scale](feedback-revision-increases-instructive-value-rating.md) — related
 - [Medical students highly view blueprinted feedback reports, rating feedback as valuable](high-viewing-rates-blueprinted-feedback.md) — related
 - [Students rated near-peer lectures and small-group seminars highly on relevance, delivery and tutor knowledge](near-peer-lecture-seminar-feedback-ratings.md) — related
+- [Students rated the exhibit's activities highly, with the initial lecture lowest at 78% of scores between 8 and 10](holographic-exhibit-quality-ratings-8-to-10.md) — a narrower finding that bears on this claim

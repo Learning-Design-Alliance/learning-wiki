@@ -48,6 +48,8 @@ The authors use computation in two main ways: live demonstrations of computer so
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 - [Incorporate numerical calculation into introductory quantum courses to counteract abstraction-driven misconceptions](incorporate-numerical-calculation-in-quantum-courses.md)
 - [Undergraduate project assignment investigating exact calculation of numbers beyond floating point precision in Fortran](arbitrary-precision-undergraduate-project-assignment.md)
+- [Real-time lecture demonstrations deriving theoretical predictions and testing them numerically with modifiable code](real-time-lecture-simulation-demonstrations.md)
+- [Provide scaffolded code and live coding exercises, and integrate computation into every assignment and modeling cycle](scaffolded-code-live-coding-strategy.md)
 
 ## Examples
 -

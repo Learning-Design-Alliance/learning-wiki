@@ -93,3 +93,4 @@ Second episode analysis of the same group on an epistemological worksheet questi
 - [In a shadows-and-light tutorial episode, evidence supports the individual, not the group, as the unit of cognitive analysis](individual-unit-shadows-light-episode.md) — related
 - [Journeyman physics students can shift their epistemological framings quickly yet in a controlled manner during problem solving](journeymen-quick-controlled-epistemological-frame-shifts.md) — related
 - [In a Newton's Third Law tutorial episode, clustering, persistence, resistance, and transition evidence supports the group as the unit of cognition](group-unit-newtons-third-law-episode.md) — related
+- [In a ticker-tape Tutorial, students' confidently wrong answer about segment timing is an epistemological framing error, corrected when later questions shift the context](ticker-tape-framing-error-not-misconception.md) — a narrower finding that bears on this claim

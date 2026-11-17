@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: isar-mostafanezhad-2010
     resource: "https://doi.org/10.48550/arXiv.1009.4469"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Primary process and content goals of the CCD modeling activity were met according to formative assessment and post-activity evaluation forms. [→ Isar Mostafanezhad 2010](#isar-mostafanezhad-2010)

@@ -83,6 +83,7 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 **[WebQuests](https://webquest.org)** — Structured online inquiry tasks that curate sources and provide role-based question templates, exemplifying guided inquiry for novices.
 
 **[iGEM](https://igem.org)** — International Genetically Engineered Machine competition: student teams formulate research questions and conduct original laboratory investigations, an open-inquiry format for advanced learners.
+- [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](../strategies/modeling-prompt-stages-polarization-lab.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

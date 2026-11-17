@@ -64,3 +64,5 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
 - [Lawson scores correlate weakly with FCI and BEMA scores, while FCI and BEMA scores correlate strongly (r = 0.70 in the Chinese class)](lawson-content-score-correlations-small-fci-bema-large.md) — related
+- [CCMI post-test scores correlate strongly (r = 0.71) with z-scored course exam averages at CU Boulder](ccmi-criterion-validity-exam-correlation.md) — related
+- [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related

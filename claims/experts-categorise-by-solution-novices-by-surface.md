@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 associational `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -101,3 +101,4 @@ Same sorting study: the article reports that experts "tend to sort the problems 
 - [Expert and novice card sorters are not distinguishable by the number of categories they create](expert-novice-category-number-ks-null.md) — related
 - [Expert and novice card sorters are not distinguishable by macroscopic graph measures: 3-cycles, maximum clique size, diameter, and average path length](macroscopic-graph-measures-no-expert-novice-difference.md) — related
 - [The best-fitting Cognitive Categorization Model has a multiple-categorization probability that decreases with the number of categories, matching observed 'stacker' and 'spreader' sorter behaviors](ccm-multiple-categorization-probability-decreases-with-categories.md) — related
+- [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on

@@ -50,3 +50,4 @@ Chi-square tests across the 10 FCI questions in the 34-participant think-aloud s
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — a broader claim this one bears on
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
+- [Illustrative FCI items on falling and thrown objects show item gender gaps that persist after instruction](persistent-item-gender-gaps-fci-items-2-13-23.md) — related

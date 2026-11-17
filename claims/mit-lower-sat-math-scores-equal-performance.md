@@ -71,3 +71,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related
 - [A failure to find a negative correlation between standardized test scores and subsequent success is evidence that the test has predictive validity](absent-negative-correlation-evidence-of-test-validity.md) — related
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
+- [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](qgre-cutoff-700-diversity-filter.md) — related

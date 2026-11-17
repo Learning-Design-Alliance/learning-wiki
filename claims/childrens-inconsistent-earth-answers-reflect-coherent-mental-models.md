@@ -57,3 +57,4 @@ The study is the standard citation for the view that children's misconceptions a
 - [The review reports that primary-school children commonly lack a spherical-Earth gravity model and associate gravity with the presence of air](children-gravity-air-alternative-conceptions-reported.md) — related
 - [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related
 - [A particle mental model of sound propagation is stable, coherent and widely applicable at all educational levels](sound-particle-mental-model.md) — a narrower finding that bears on this claim
+- [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) — a narrower finding that bears on this claim

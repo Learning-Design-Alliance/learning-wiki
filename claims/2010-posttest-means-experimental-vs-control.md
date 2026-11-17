@@ -3,6 +3,7 @@ type: claim
 title: "In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)"
 description: "In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)"
 id: 2010-posttest-means-experimental-vs-control
+aliases: [pe-method-higher-didactic-test-scores]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: causal
     rigour: 1
+  - id: krišťák-2013
+    resource: "https://arxiv.org/abs/1302.2863"
+    title: "Krišťák, Ľ., Němec, M., Danihelová, Z. (2013). Interactive Methods of Teaching Physics at Technical Universities. Technical University in Zvolen. https://arxiv.org/abs/1302.2863"
+    author: Krišťák, Ľ., Němec, M., Danihelová, Z.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` The experimental group's mean posttest success (57.72%) exceeded the control group's (44.41%) in 2010. [→ Krišťák 2014](#kristak-2014)
+
+`q2 i?` First-year students taught with the interactive P&E method scored higher on a 30-question didactic test (mean 57.72%) than students taught traditionally (mean 44.41%). [→ Krišťák 2013](#kristak-2013)
 
 ## Evidence
 
@@ -41,7 +53,18 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 
 > "control group: N=70, Mean = 44.41%, Stand. Dev. = 22.73%, Max = 82%, Min = 2%, experimental group: N =70, Mean = 57.72%, Stand. Dev. 22.03%, Max = 94%, Min = 1%"
 
+### Krišťák 2013
+
+Krišťák, Ľ., Němec, M., Danihelová, Z. (2013). Interactive Methods of Teaching Physics at Technical Universities. Technical University in Zvolen. https://arxiv.org/abs/1302.2863
+
+`q2 · i?` · `causal · r2`
+
+Pedagogical experiment at the Technical University in Zvolen (2009/10) with four control and four experimental groups of 70 students each, randomly divided. The test-successfulness histogram (Fig. 1) reports the experimental group mean of "Mean = 57.72 %" versus the control group mean of 44.41 %; no effect size is printed.
+
+> "control group: N=70, Mean = 44.41 %, Stand. Dev. = 22.73 %, Max = 82 %, Min = 2 %, experimental group: N =70, Mean = 57.72 %, Stand. Dev. 22.03 %, Max = 94 %, Min = 1%"
+
 ## Discussion
+
 
 
 ## Related Claims
@@ -57,3 +80,9 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 - [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](pbl-post-test-means-exceed-control.md) — related
 - [Cooperative learning benefits higher-achieving students more on competency tests](cooperative-learning-benefits-higher-achievers.md) — related
 - [Hand hygiene passing rate measured by bacterial colony count was significantly higher in the intervention group (95.0%) than the control group (57.5%) at posttest](mixed-media-intervention-improved-hand-hygiene-passing.md) — related
+- [The P&E method outperformed traditional teaching at all four researched knowledge levels: remembering, understanding, specific transfer and nonspecific transfer](pe-method-four-knowledge-levels.md) — possibly the same claim (merge candidate)
+- [Fourth-year dental undergraduates taught with the REPs-VS platform scored significantly higher on the post-intervention theory examination than peers taught traditionally, from a comparable baseline](reps-vs-higher-theory-exam-scores.md) — related
+- [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](deepseek-pbl-higher-theory-scores-glaucoma.md) — related
+- [First graders taught Arabic literacy with the systemic approach scored higher on a reading achievement test than traditionally taught peers](systemic-approach-improves-first-grade-reading-achievement.md) — related
+- [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — related
+- [A meta-analysis of 76 CLE research studies found students taught with CLE models 1-3 in Thai and English achieved at much higher percentages than traditionally taught students, with printed effect sizes from d = 0.60 to d = 8.55](cle-meta-analysis-large-effects-thai-english.md) — related

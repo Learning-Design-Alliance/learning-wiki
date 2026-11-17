@@ -54,3 +54,4 @@ Experiment using published SAT II materials (biology, chemistry, U.S. and world 
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](testing-yields-transfer-versus-reexposure-control-d-040.md) — related
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
+- [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related

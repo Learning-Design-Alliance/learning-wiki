@@ -58,3 +58,4 @@ Protocol analysis of think-aloud protocols from both experts and novices; operat
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [Langer found four stances of meaning-making operate across literary and nonliterary reading regardless of text type](langer-four-stances-across-text-types.md) — related
 - [Literary appreciation is hardly attainable as a by-product of formal language-training instruction](appreciation-not-byproduct-of-formal-instruction.md) — related
+- [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on

@@ -74,3 +74,4 @@ Effect-size analysis of the exam performance ratios from the two classes, comput
 - [The libre teacher observed a 60% improvement in the results of the experimental class compared with the control class and past performance](team-teaching-60-percent-improvement-libre-teacher.md) — related
 - [CPS sections improved at a higher rate across lecture exams than the control group, with a third-exam exception](cps-higher-lecture-exam-improvement.md) — related
 - [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — related
+- [Students taught with the interactive P&E method achieved higher didactic test scores than students taught traditionally](2010-posttest-means-experimental-vs-control.md) — related

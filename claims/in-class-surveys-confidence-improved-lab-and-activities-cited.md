@@ -49,3 +49,5 @@ Biweekly in-class surveys, based on established design principles for self-confi
 - [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](mistakes-feedback-build-confidence-sle.md) — related
 - [Post-instruction interviews confirmed students read the blog more than they commented, citing time constraints, and reported interest rose most when material applied to aviation](interviews-read-more-than-commented-aviation-relevance.md) — related
 - [In the prior blog-free semester, Real World Connection percent favorable declined significantly by 10% while Problem Solving Confidence increased significantly](fall-2010-class-relevance-decline-confidence-increase.md) — related
+- [Laboratories and demonstrations are the most frequently used engagement techniques in high school physics across all location categories](labs-demos-most-frequent-engagement.md) — related
+- [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — related

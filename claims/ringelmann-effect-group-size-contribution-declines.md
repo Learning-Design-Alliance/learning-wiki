@@ -49,3 +49,4 @@ An essay, not a study: its group-size section cites prior research (Kravitz and 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — a broader claim this one bears on
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](collaborative-peer-teaching-pamphlet-strategies.md) — related
+- [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related

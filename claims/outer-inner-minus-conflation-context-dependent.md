@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2009
-source_checked: 2026-11-16
 sources:
   - id: kate-hayes-and-michael-c-wittmann-2009
-    resource: "https://doi.org/10.48550/arXiv.0901.4912"
-    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)"
+    resource: "https://doi.org/10.1119/1.3361994"
+    title: "Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.1119/1.3361994](https://doi.org/10.1119/1.3361994)"
     author: Kate Hayes and Michael C. Wittmann
     q: 1
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2009 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` One student's conflation of outer minus and inner minus was context dependent but predictable, appearing when the variable in question was used to solve for something else. [→ Kate Hayes and Michael C. Wittmann 2009](#kate-hayes-and-michael-c-wittmann-2009)
@@ -35,7 +34,7 @@ sources:
 
 ### Kate Hayes and Michael C. Wittmann 2009
 
-Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.48550/arXiv.0901.4912](https://doi.org/10.48550/arXiv.0901.4912)
+Kate Hayes and Michael C. Wittmann. (2009). The role of sign in students' modeling of scalar equations. The Physics Teacher (accepted for publication, Fall 2009). [doi:10.1119/1.3361994](https://doi.org/10.1119/1.3361994)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -49,3 +48,4 @@ Case-study analysis of an approximately 15-minute unstructured interview with on
 ## Related Claims
 - [Many students in a sophomore mechanics class incorrectly insert a minus sign in front of the ma term when setting up a scalar net-force equation.](students-incorrect-minus-sign-ma-term-scalar-equation.md) — related
 - [Three interview students eliminated a known quantity from two symbolic equations, leaving one equation with two unknowns; such known/unknown confusion was not observed on numeric versions](known-unknown-confusion-symbolic-only.md) — related
+- [A student avoided negative energy by taking absolute values, confusing zero-point translation with absolute value, a move that does not preserve conservation of energy](student-absolute-value-confusion-negative-energy.md) — related

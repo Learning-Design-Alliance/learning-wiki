@@ -54,3 +54,5 @@ Comparison of Quizzical participation between male and female students across bo
 - [Within the brainstorming-taught experimental group, female students significantly outperformed male students on the English grammar post-test](brainstorming-grammar-achievement-gender-females-outperform.md) — reports the opposite
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — related
+- [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite
+- [The RCI shows a gender bias absent from the same course's homework, exam, and ATAR measures](rci-gender-bias-not-in-other-assessment.md) — related

@@ -55,3 +55,4 @@ Summary comparison of Principal Instructional Leadership ratings across systemwi
 - [Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools](principal-leadership-regard-quartile-contrast.md) — related
 - About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
 - [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related
+- [School-based updating courses succeeded only where school management support was strong, while courses lacking support were unsatisfactory](management-support-decides-updating-course-success.md) — related

@@ -52,3 +52,4 @@ Theoretical argument in the General Discussion, citing Rock & Gutman (1981) and 
 - [Latent inhibition in adults occurs even when the CS is preexposed under severe conditions of inattention](latent-inhibition-under-inattention-preexposure.md)
 - [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
 - [Nonreinforced preexposure of a to-be-conditioned stimulus produces a strong latent inhibition effect in adult humans](latent-inhibition-adult-humans-instrumental-conditioning.md) — a narrower finding that bears on this claim
+- [Selective attention produces inattentional blindness: people counting basketball passes miss dramatic events in the video](inattentional-blindness-selective-attention.md) — related

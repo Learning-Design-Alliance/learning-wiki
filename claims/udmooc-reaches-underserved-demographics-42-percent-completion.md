@@ -52,3 +52,4 @@ Descriptive demographic analysis of 27,265 active UDMOOC participants and 4894 D
 - [The probability of achieving a high DKAS target score (45–50) rises for all education and exposure groups after the UDMOOC](udmooc-raises-probability-of-target-score-all-groups.md) — related
 - [Regional provider Edraak attracts younger learners, more females, and learners with lower education levels than global MOOC providers](edraak-attracts-younger-more-female-lower-education-learners.md) — related
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — related
+- [YWYL MOOC students are predominantly male, young, educated in STEM, and from developed countries, with most reporting little programming experience](ywyl-mooc-student-background-demographics.md) — related

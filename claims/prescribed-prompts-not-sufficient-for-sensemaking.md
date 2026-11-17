@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: martinuk-2010
     resource: "https://doi.org/10.48550/arXiv.1111.5400"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most problem-solving segments fall well short of the estimated upper limit of Conceptual Discussion, suggesting the prompts are not effective in promoting sensemaking. [→ Martinuk 2010](#martinuk-2010)

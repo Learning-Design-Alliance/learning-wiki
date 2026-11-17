@@ -73,3 +73,4 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
 - [Reliability of classroom means for most instructional variables falls below the .70 threshold](classroom-mean-reliability-below-threshold.md) — related
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
+- [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related

@@ -54,4 +54,4 @@ A 45-minute outreach activity at the Nottingham Trent University observatory in 
 -
 
 ## Key Sources
-- Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. http://www.ntu.ac.uk/cels/outreach/Optical_observatory/Projects/index.html
+- Brown, D. and Neale, N. (2009). A Global Citizen of the Skies. http://www.ntu.ac.uk/cels/outreach/Optical_observatory/Projects/index.html. [doi:10.48550/arxiv.1009.5289](https://doi.org/10.48550/arxiv.1009.5289)

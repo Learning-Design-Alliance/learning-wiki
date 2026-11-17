@@ -49,3 +49,5 @@ The article's argument that E-CLASS measures something instructors care about, c
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
 - The framework was developed from a literature review, a 21-expert summit, and 23 leader interviews — related
 - [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](context-clarification-validation-interviews.md) — related
+- [E-CLASS results show reading journal articles and posing own questions rank low in students' perceived grade importance, prompting metacognitive plans](eclass-low-rank-for-journal-reading-and-own-questions.md) — related
+- [Students' non-expert beliefs about error analysis persist despite high grade importance and regular practice](grade-incentive-and-practice-do-not-fix-error-analysis-beliefs.md) — related

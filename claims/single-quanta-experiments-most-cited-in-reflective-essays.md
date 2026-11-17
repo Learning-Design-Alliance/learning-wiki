@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `design · r2`
 

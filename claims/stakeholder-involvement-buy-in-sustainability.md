@@ -52,3 +52,4 @@ Authors' interpretation in the discussion, not a tested result: the programme "w
 - [Grounding curriculum development in conceptual frameworks and a systematic process (Kern) enabled scholarly dissemination of a pediatrics curriculum beyond the authors' institution](kern-framework-scholarly-dissemination-pediatrics-curriculum.md) — related
 - [Demonstrated clinician performance and client outcomes from the pilot and subsequent cohorts led to recurring state legislative funding for statewide dissemination of evidence-based treatments](outcomes-evidence-led-legislative-funding.md) — related
 - [An experienced bottom-up manager with communication and structuring skills improved acceptance and early successes in curriculum mapping](bottom-up-manager-acceptance.md) — related
+- [Lack of teacher involvement in the initial design negatively affected the learning process, in the authors' interpretation](teacher-codesign-absence-hindered-path.md) — related

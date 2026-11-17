@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 recheck_by: 2015
 sources:
   - id: bayram-akarsu-2010
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Four of five interviewed faculty members supported the idea that the abstract nature of quantum physics makes it more difficult and less understandable for students. [→ Bayram Akarsu 2010](#bayram-akarsu-2010)

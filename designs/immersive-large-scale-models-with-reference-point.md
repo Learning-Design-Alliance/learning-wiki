@@ -49,4 +49,4 @@ The article argues that existing table-top and small classroom models of Orion a
 -
 
 ## Key Sources
-- Brown, D. (2011). The Orion constellation as an installation: An innovative three dimensional teaching and learning environment. https://www.iau.org/public/constellations/
+- Brown, D. (2011). The Orion constellation as an installation: An innovative three dimensional teaching and learning environment. https://www.iau.org/public/constellations/. [doi:10.48550/arxiv.1110.3469](https://doi.org/10.48550/arxiv.1110.3469)

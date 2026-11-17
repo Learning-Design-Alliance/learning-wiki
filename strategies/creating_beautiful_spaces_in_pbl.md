@@ -63,6 +63,7 @@ Displaying authentic student work functions as a persistent, public form of [ass
 - Exhibitions of learning — the event-based counterpart; beautiful spaces make every day an implicit exhibition
 - School-wide culture routines — displays are the environmental layer of the same culture work
 - [Involve students in all steps of building the installation](students-build-installation-together.md)
+- [End-of-semester public poster session (NanoDay) to advertise student work and build conference-style confidence](nanoday-poster-presentation-strategy.md)
 
 ## Examples
 - **[Expeditionary Learning / EL Education](https://eleducation.org)** schools treat "beautiful work" as a core design principle, with hallway galleries of polished student products and revision documentation across their network schools.

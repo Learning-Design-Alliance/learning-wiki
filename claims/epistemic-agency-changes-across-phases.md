@@ -52,3 +52,4 @@ ONA by-phase analysis of three teams' prototyping discourse. "In Phase 1 (red hu
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
 - [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md) — related
+- [Requiring each discipline's contribution from the first assignment improved team cohesion and later collaboration](discipline-interaction-improved-team-cohesion.md) — related

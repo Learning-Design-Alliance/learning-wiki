@@ -53,6 +53,7 @@ When students spontaneously invoke an everyday experience or example during a wh
 
 - (none yet linked)
 - [Have students discover individual resistances rather than giving them from the outset](discover-resistances-inquiry-strategy.md)
+- [Seed discussions with simpler related questions when small groups are missing a critical idea](seeding-discussions-related-questions-strategy.md)
 
 ## Examples
 - A 9th-grade genetics unit in a Norwegian classroom in which a student's reference to a soccer player's hair loss (Wayne Rooney) was used to explore heredity versus environment, with the teacher inviting peers to respond to and extend the reasoning rather than supplying an immediate answer.

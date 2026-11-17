@@ -71,3 +71,4 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [First-year osteopathy students report strongly positive perceptions of 3D-printed anatomy models' usefulness for review, viva preparation, independent learning, motivation, and viva performance, with only note-reduction rated neutrally](3dp-bones-survey-positive-perceptions-block-mode.md) — related
 - [The tactile, kinesthetic nature and take-home availability of 3D-printed bones increased students' engagement with class activities and unit content](3dp-bones-tactile-engagement-behavioral-theme.md) — related
 - [Participants give positive feedback on AR visual and audio perception and on gesture and voice interaction](positive-usability-feedback-perception-interaction.md) — related
+- [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related

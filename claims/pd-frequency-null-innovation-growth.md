@@ -50,3 +50,4 @@ School-level longitudinal analysis of the 1997 and 1999 Consortium surveys exami
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
 - Longer League membership significantly predicted leaders' reported increases in capacity to innovate — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
+- [In-service teachers with permanent positions were very difficult to involve actively in professional development, while young teachers without permanent positions were more open to innovation](in-service-permanent-teachers-hard-to-involve.md) — related

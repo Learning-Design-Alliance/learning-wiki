@@ -56,3 +56,4 @@ Self-report satisfaction data from the same 39 residents, collected with a valid
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — related
 - [Residents unanimously rated the module's embedded self-assessment checkpoint questions as helpful for reinforcing learning](embedded-checkpoint-questions-rated-helpful.md) — related
+- [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — related

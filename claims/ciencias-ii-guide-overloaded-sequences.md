@@ -51,3 +51,4 @@ Analysis of Table V of the SEP Ciencias II work guide: Block 1 lists 5 expected 
 - The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle — related
 - Students receive very little climate change instruction, typically only 1 or 2 hours per year — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [An interdisciplinary physics-mathematics modelling laboratory engaged teachers deeply but retained only 4 of about 10 participants, and few of its paths were tested in class](modelling-laboratory-high-stimulation-low-retention.md) — related

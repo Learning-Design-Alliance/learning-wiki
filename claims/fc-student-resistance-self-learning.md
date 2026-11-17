@@ -49,3 +49,4 @@ An author interpretation drawn from the focus-group interviews with 18 students.
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — reports the opposite

@@ -47,6 +47,7 @@ To cure teachers' physics-phobia, the authors propose increasing the natural-sci
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
 - [Assessment-driven learning: use certification preparation to prompt preceptors' self-directed review, reflection, and pedagogical skill improvement](assessment-driven-learning-certification-strategy.md)
 - [Support basic science knowledge renewal through CPD workshops, webinars and clinically relevant, easily accessible online resources](cpd-and-online-resources-for-basic-science-renewal.md)
+- [Targeted in-service support programs for non-specialist science teachers, prioritising physics and building on teachers' existing degrees](targeted-in-service-support-non-specialist-teachers.md)
 
 ## Examples
 -

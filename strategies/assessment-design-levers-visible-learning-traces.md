@@ -49,6 +49,7 @@ The article recommends concrete levers: staged submissions (proposal, outline, a
 - [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 - [Use generative AI as an educator content-creation tool for student critique, supported by explicit guidelines and training](genai-content-creation-for-critique-with-guidelines-and-training.md)
 - [Use AI tools to support assessment, feedback and monitoring of learner progress](ai-supported-assessment-and-feedback-strategies.md)
+- [Establish and use rubrics for lab notebooks, oral talks, written papers, and final projects](rubrics-for-lab-reports-talks-and-projects.md)
 
 ## Examples
 -

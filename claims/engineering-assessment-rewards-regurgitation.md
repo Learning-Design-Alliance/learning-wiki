@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: brian-a-danielak-2010
-    resource: "https://doi.org/10.48550/arXiv.1003.4655"
-    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)"
+    resource: "https://doi.org/10.1109/fie.2010.5673158"
+    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)"
     author: Brian A. Danielak, Ayush Gupta, Andrew Elby
     q: 2
     i: "?"
     kind: qualitative
     rigour: 3
   - id: brian-a-danielak-2010-2
-    resource: "https://doi.org/10.48550/arXiv.1003.4655"
-    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)"
+    resource: "https://doi.org/10.1109/fie.2010.5673158"
+    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)"
     author: Brian A. Danielak, Ayush Gupta, Andrew Elby
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Brian A. Danielak 2010
 
-Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)
+Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -52,7 +52,7 @@ In the March 17, 2010 interview Michael states the engineering education system 
 
 ### Brian A. Danielak 2010 (2)
 
-Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)
+Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)
 
 `q2 · i?` · `qualitative · r3`
 

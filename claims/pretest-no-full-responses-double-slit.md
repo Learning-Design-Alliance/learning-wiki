@@ -68,3 +68,4 @@ Pretest response distribution reported in the Findings section. The article prin
 - [After instruction, about 38% of constructivist-taught students versus 10% of traditionally taught students gave full scientific responses about double-slit interference](constructivist-teaching-full-response-double-slit-posttest.md) — related
 - [After teaching, 90% of experimental and 80% of control students gave scientifically acceptable answers about double-slit interference](posttest-acceptable-answers-both-groups.md) — related
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
+- [Triple-slit simulation tasks made students reconsider the interference conditions because the two-slit minimization condition fails for three slits](triple-slit-minimization-condition-fails.md) — related

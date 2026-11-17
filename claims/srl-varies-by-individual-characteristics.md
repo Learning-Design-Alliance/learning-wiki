@@ -78,3 +78,4 @@ Same penalized regression models. "SRL skills were substantially higher dup to 0
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
 - [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related
 - [Attendance rates vary substantially with observable characteristics: older, previously trained women with larger households attend more; married women and those farther from the venue attend less](attendance-correlates-probit-kenya.md) — a narrower finding that bears on this claim
+- [Students who completed the first two YWYL labs reported on the initial survey planning to spend more time (9 or more hours) on the course than students who did not](lab-completers-planned-more-weekly-hours.md) — related

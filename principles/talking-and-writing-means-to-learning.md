@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (42 for, 13 mixed) · 42 studies (16 causal, 9 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 42 report an effect size · 51 claims rest on one study
+> **Evidence** · 57 claims (44 for, 13 mixed) · 43 studies (16 causal, 9 review, 6 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,8 @@ Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue 
 - [Mobile voice-based WhatsApp chat use produces greater speaking proficiency gains than traditional instruction alone in B1 ESL learners](../claims/whatsapp-voice-chat-improves-speaking-proficiency.md) [+W] — attached 2026-11-03 from Andújar-vaca et al. (2017), which proposed "Mobile voice chat gives learners ubiquitous opportunities to negotiate meaning and evaluate their own performance through authentic interaction"; tests this page's relationship.
 - [Writing-containing active-learning treatments (writing-only and discussion+writing) yield higher exam essay performance than discussion-only treatment](../claims/writing-treatments-higher-exam-essay-than-discussion-only.md) [+W] — attached 2026-11-10 from Linton et al. (2014), which proposed "Include individual student writing as part of cooperative group–based active-learning exercises whenever possible"; tests this page's relationship.
 - [No significant difference between writing-only and discussion+writing treatments on in-class activity writing](../claims/no-wo-dw-difference-in-class-writing.md) [~W] — attached 2026-11-10 from Linton et al. (2014), which proposed "Include individual student writing as part of cooperative group–based active-learning exercises whenever possible"; tests this page's relationship.
+- [In first-grade ELL classrooms, discussions grounded in shared, tangible phenomena foster spontaneous and substantial student contributions to scientific reasoning](../claims/shared-tangible-phenomena-foster-ell-discourse-contributions.md) [+W] — attached 2026-11-17 from Suarez et al. (2012), which proposed "Design learning environments that integrate language acquisition with physical science through evidence-based reasoning rather than separating them".
+- [Participating in phenomenon-based discussion appears to bolster ELL students' confidence to contribute despite limited English vocabulary](../claims/phenomenon-discussion-bolsters-ell-confidence.md) [+W] — attached 2026-11-17 from Suarez et al. (2012), which proposed "Design learning environments that integrate language acquisition with physical science through evidence-based reasoning rather than separating them".
 
 ## Objective and learner-valued goal
 

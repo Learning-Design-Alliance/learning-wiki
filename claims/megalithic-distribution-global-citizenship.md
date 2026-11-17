@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: daniel-brown-and-lina-canas-2010
-    resource: "https://doi.org/10.48550/arXiv.1011.5186"
-    title: "Daniel Brown and Lina Canas. (2010). Archaeo-Astronomy in Society: Supporting Citizenship in Schools Across Europe. [doi:10.48550/arXiv.1011.5186](https://doi.org/10.48550/arXiv.1011.5186)"
+    resource: "https://doi.org/10.18848/1836-6236/cgp/v02i03/51271"
+    title: "Daniel Brown and Lina Canas. (2010). Archaeo-Astronomy in Society: Supporting Citizenship in Schools Across Europe. [doi:10.18848/1836-6236/cgp/v02i03/51271](https://doi.org/10.18848/1836-6236/cgp/v02i03/51271)"
     author: Daniel Brown and Lina Canas
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Daniel Brown and Lina Canas 2010
 
-Daniel Brown and Lina Canas. (2010). Archaeo-Astronomy in Society: Supporting Citizenship in Schools Across Europe. [doi:10.48550/arXiv.1011.5186](https://doi.org/10.48550/arXiv.1011.5186)
+Daniel Brown and Lina Canas. (2010). Archaeo-Astronomy in Society: Supporting Citizenship in Schools Across Europe. [doi:10.18848/1836-6236/cgp/v02i03/51271](https://doi.org/10.18848/1836-6236/cgp/v02i03/51271)
 
 `q1 · i?` · `theoretical · r1`
 

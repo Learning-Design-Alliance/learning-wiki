@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-17
 sources:
   - id: karavi-2022
     resource: "https://doi.org/10.29333/ejmste/12173"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Pinto's (2019) study as reviewed, two teaching assistants with the same agenda differed in meta-level learning opportunities: one emphasized that every word counts in mathematics, the other highlighted how experienced students do mathematics, while their preparation communication occurred only at the object level. [→ Karavi 2022](#karavi-2022)

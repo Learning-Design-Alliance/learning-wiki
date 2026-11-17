@@ -74,6 +74,8 @@ Action research operationalizes formative evaluation at the level of one's own t
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 - [Three-session action cycle process for cross-institutional workforce planning](action-cycle-cross-institutional-planning.md)
 - [Support OLSit implementation through school-university action research collaboration](school-university-collaboration-action-research-olsit.md)
+- [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](co-design-guided-inquiry-lesson-package-teachers.md)
+- [Science Education Initiative model of iterative course transformation](sei-course-transformation-model-em-ii.md)
 
 ## Examples
 - **Lesson Study in Japanese elementary mathematics** (e.g., through [Mills College Lesson Study Group](https://www.lessonresearch.net)) — teams cycle through co-planning, observation, and revision of a single research lesson.

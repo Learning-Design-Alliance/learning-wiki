@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (64 show a difference, 15 mixed, 10 no difference) · 57 studies (28 causal, 17 associational, 5 quant-synthesis, 4 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 57 report an effect size · 86 claims rest on one study
+> **Evidence** · 90 claims (65 show a difference, 15 mixed, 10 no difference) · 58 studies (28 causal, 17 associational, 5 quant-synthesis, 5 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 58 report an effect size · 87 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -126,6 +126,7 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Passing rates rose from pre-test to post-test on calculation items such as sensitivity, specificity, absolute risk reduction and number needed to treat, in one uncontrolled pre-post study](../claims/calculation-items-largest-ebp-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Searching and appraisal skills show only modest gains compared with calculation skills after the course](../claims/modest-search-appraisal-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Students solved analytic and computational homework problems with similar success rates (84.6% vs 85.8%)](../claims/analytic-vs-computational-homework-equal-success.md) [-M] — measured as an outcome of the instruction studied
+- [Sandwiching computational tasks between analytical work in homework problems raised computational task completion from 25-40% to 80-90% of students](../claims/sandwiching-computational-tasks-raises-completion.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

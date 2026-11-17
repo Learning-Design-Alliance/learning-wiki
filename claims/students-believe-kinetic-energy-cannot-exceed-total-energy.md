@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: stephanik-2011
-    resource: "https://doi.org/10.48550/arXiv.1109.2074"
-    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)"
+    resource: "https://doi.org/10.1063/1.3680071"
+    title: "Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)"
     author: Stephanik, B. M., and Shaffer, P. S.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Stephanik 2011
 
-Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.48550/arXiv.1109.2074](https://doi.org/10.48550/arXiv.1109.2074)
+Stephanik, B. M., and Shaffer, P. S. (2011). Examining student ability to interpret and use potential energy diagrams for classical systems. [doi:10.1063/1.3680071](https://doi.org/10.1063/1.3680071)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -50,3 +50,4 @@ During individual interviews on question 3, in which a particle is released from
 - [Students tend to associate a particle's motion with only the total energy and misapply conservation of energy when comparing potential energy diagrams](students-associate-motion-with-total-energy-only.md) — related
 - [Many introductory students believe potential energy diagrams represent motion only in the positive x-direction](students-associate-ped-with-single-direction-motion.md) — related
 - [Many students believe potential energy cannot be negative](students-believe-potential-energy-cannot-be-negative.md) — related
+- [A student avoided negative energy by taking absolute values, confusing zero-point translation with absolute value, a move that does not preserve conservation of energy](student-absolute-value-confusion-negative-energy.md) — related

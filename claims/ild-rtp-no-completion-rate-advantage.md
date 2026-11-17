@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: costas-efthimiou-2011
-    resource: "https://doi.org/10.48550/arXiv.1103.3729"
-    title: "Costas Efthimiou, Dan Maronde, Tim McGreevy, Enrique del Barco, Stefanie McCole. (2011). Implementing Elements of The Physics Suite at a Large Metropolitan Research University. [doi:10.48550/arXiv.1103.3729](https://doi.org/10.48550/arXiv.1103.3729)"
+    resource: "https://doi.org/10.1088/0031-9120/46/4/008"
+    title: "Costas Efthimiou, Dan Maronde, Tim McGreevy, Enrique del Barco, Stefanie McCole. (2011). Implementing Elements of The Physics Suite at a Large Metropolitan Research University. [doi:10.1088/0031-9120/46/4/008](https://doi.org/10.1088/0031-9120/46/4/008)"
     author: Costas Efthimiou, Dan Maronde, Tim McGreevy, Enrique del Barco, Stefanie McCole
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Costas Efthimiou 2011
 
-Costas Efthimiou, Dan Maronde, Tim McGreevy, Enrique del Barco, Stefanie McCole. (2011). Implementing Elements of The Physics Suite at a Large Metropolitan Research University. [doi:10.48550/arXiv.1103.3729](https://doi.org/10.48550/arXiv.1103.3729)
+Costas Efthimiou, Dan Maronde, Tim McGreevy, Enrique del Barco, Stefanie McCole. (2011). Implementing Elements of The Physics Suite at a Large Metropolitan Research University. [doi:10.1088/0031-9120/46/4/008](https://doi.org/10.1088/0031-9120/46/4/008)
 
 `q2 · i?` · `causal · r1`
 

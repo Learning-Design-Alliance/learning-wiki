@@ -54,3 +54,4 @@ Pilot implementation of study period 1 in an online graduate-level course: a web
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
 - [Most students were satisfied with the gas exchange program and a higher percentage rated it extremely useful compared with didactic lectures](student-ratings-gas-exchange-program-useful.md) — related
 - [Most online ligation students were first-time learners, and 73% reported high satisfaction with the online practice](first-time-learners-high-satisfaction-online-ligation.md) — related
+- [Weekly surveys found 83% of students thought Mathematica and LabVIEW activities were very helpful but only 65% enjoyed them due to short time](weekly-survey-83-percent-helpful-65-percent-enjoyed.md) — related

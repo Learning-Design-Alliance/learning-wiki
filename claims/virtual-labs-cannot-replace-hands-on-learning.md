@@ -53,3 +53,4 @@ The review reports, from a Chinese study of first-year medical students in an ex
 - [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](students-support-vr-supplement-not-replacement.md) — related
 - [Despite generational familiarity with technology, students uniformly requested more familiarization with VR hardware and free exploration before managing a virtual patient](students-requested-vr-hardware-familiarization.md) — related
 - [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related
+- [Students favour video-recorded experiments as a supplementary tool for pre-lab preparation rather than as a replacement for the real exercise](video-favoured-for-prelab-preparation-not-replacement.md) — related

@@ -336,3 +336,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Confronting learners with ill-structured, non-routine tasks and self-directed discovery is a key task/training characteristic for adaptive expertise](ill-structured-tasks-discovery-adaptive-expertise.md) — reports the opposite
 - [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](minimal-guidance-low-simulator-usage.md) — related
 - [Student-focused didactic architectures were used less frequently on average than teacher-focused architectures](student-focused-architectures-less-used.md) — related
+- [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related

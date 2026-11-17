@@ -55,3 +55,4 @@ tSSNA analysis of TDC over time for three teams during 30-minute prototyping ses
 - [Collaborative writing develops through distinct phases, is non-linear and non-cumulative, with sharing of opinions emerging in the last phase](collaborative-writing-phases-nonlinear-opinion-sharing-last.md)
 - [First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams](ar-gen1-strong-within-team-weak-between-team-collaboration.md) — related
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md) — related
+- [Requiring each discipline's contribution from the first assignment improved team cohesion and later collaboration](discipline-interaction-improved-team-cohesion.md) — related

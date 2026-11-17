@@ -11,16 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2008
 sources:
   - id: lei-bao-2008
-    resource: "https://doi.org/10.48550/arXiv.0807.2061"
-    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)"
+    resource: "https://doi.org/10.1119/1.2976334"
+    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)"
     author: Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo
     q: 2
     i: "?"
     kind: associational
     rigour: 1
   - id: lei-bao-2008-2
-    resource: "https://doi.org/10.48550/arXiv.0807.2061"
-    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)"
+    resource: "https://doi.org/10.1119/1.2976334"
+    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)"
     author: Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo
     q: 2
     i: "?"
@@ -41,7 +41,7 @@ sources:
 
 ### Lei Bao 2008
 
-Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)
+Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)
 
 `q2 · i?` · `associational · r1`
 
@@ -51,7 +51,7 @@ Descriptive analysis of the FCI score distributions plotted in Figure 1 for comb
 
 ### Lei Bao 2008 (2)
 
-Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)
+Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)
 
 `q2 · i?` · `associational · r1`
 

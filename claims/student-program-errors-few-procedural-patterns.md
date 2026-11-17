@@ -88,3 +88,4 @@ Newton's-second-law (SL) error coding (Table 10) found four patterns populated b
 - [Cluster analysis of student error patterns concentrates most erroneous programs into seven of thirty clusters](error-pattern-clusters-seven-dominate.md) — related
 - [Updating momentum with Newton's second law was rarely the fatal difficulty: 69.7% of students with erroneous programs wrote the second law update correctly.](newton-second-law-update-rarely-the-error.md) — related
 - [Erroneous student programs cluster into six dominant error patterns, with force-calculation errors accounting for most failures](six-error-clusters-force-calculation-dominant.md) — related
+- [Integrating numerical computation into Modeling Instruction provides coherence among models, links representations, and extends the curriculum to real-world problems](numerical-computation-modeling-instruction-benefits.md) — related

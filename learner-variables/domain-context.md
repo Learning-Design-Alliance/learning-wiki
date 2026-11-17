@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (88 show a difference, 28 mixed, 10 no difference) · 111 studies (27 causal, 24 qualitative, 20 review, 17 design, 11 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 111 report an effect size · 122 claims rest on one study
+> **Evidence** · 127 claims (88 show a difference, 29 mixed, 10 no difference) · 112 studies (27 causal, 25 qualitative, 20 review, 17 design, 11 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 15 of 112 report an effect size · 123 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -167,6 +167,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [In the prior blog-free semester, Real World Connection percent favorable declined significantly by 10% while Problem Solving Confidence increased significantly](../claims/fall-2010-class-relevance-decline-confidence-increase.md) [-M] — measured as an outcome of the instruction studied
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](../claims/student-epistemology-shifts-interdisciplinary-biology.md) [+M] — measured as an outcome of the instruction studied
 - [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](../claims/special-program-gains-not-real-world.md) [~W] — an instructional effect differs with it
+- [Interdisciplinary course reform benefits when problems are selected for biological authenticity, meaning solving the physics problem yields deeper understanding of why a biological system behaves as it does.](../claims/biological-authenticity-criterion-interdisciplinary-problems.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

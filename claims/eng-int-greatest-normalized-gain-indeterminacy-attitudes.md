@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `causal · r1`
 
@@ -53,3 +53,5 @@ Normalized-gain comparison across the four courses (Fig. 4), using favorable gai
 - [Almost all interviewed students express distaste for deterministic ideas in quantum physics despite realist preferences](students-distaste-determinism-quantum-physics.md) — related
 - [Most every interviewed student rejected deterministic ideas in quantum physics, invoking inherent probabilistic behavior or the Uncertainty Principle](students-reject-determinism-uncertainty-principle-tool.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
+- [Instruction in classical physics significantly decreases student agreement that the same experiment can yield two different correct results, consistent with reinforcement of a deterministic perspective.](classical-physics-instruction-reinforces-deterministic-perspective.md) — related
+- [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related

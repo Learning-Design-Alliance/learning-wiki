@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2015
 sources:
   - id: charles-baily-and-noah-d-finkelstein-2010
-    resource: "https://doi.org/10.48550/arXiv.1108.5800"
-    title: "Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.48550/arXiv.1108.5800](https://doi.org/10.48550/arXiv.1108.5800)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020113"
+    title: "Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.1103/physrevstper.6.020113](https://doi.org/10.1103/physrevstper.6.020113)"
     author: Charles Baily and Noah D. Finkelstein
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Charles Baily and Noah D. Finkelstein 2010
 
-Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.48550/arXiv.1108.5800](https://doi.org/10.48550/arXiv.1108.5800)
+Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.1103/physrevstper.6.020113](https://doi.org/10.1103/physrevstper.6.020113)
 
 `q2 · i?` · `qualitative · r2`
 

@@ -67,3 +67,4 @@ Error analysis of the polytomy relatedness question about rabbits, moles, and ra
 - [Evolutionary sequence instruction was ineffective: nearly half of students incorrectly included autapomorphies as evidence for a relationship](evolutionary-sequence-autapomorphy-error.md) — related
 - [Business-as-usual students who completed the phylogenetics laboratory gained only on some tree-thinking skills, with no increase on polytomy, inference, or subsets of the ToL](lab-only-gains-restricted-to-few-skills.md) — related
 - [A research-based tree-thinking curriculum produced significantly larger pretest-to-posttest gains than business-as-usual instruction in introductory biology](tree-thinking-curriculum-larger-gains-than-business-as-usual.md) — related
+- [Undergraduate students often acquire data-analysis skills alone during the final experimental thesis, and theory-track students may never develop this competence](data-analysis-skills-left-to-final-thesis.md) — related

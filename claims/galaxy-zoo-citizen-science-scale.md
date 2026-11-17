@@ -46,3 +46,4 @@ The paper reports the Galaxy Zoo project's participation and output: more than 1
 
 ## Related Claims
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — related
+- [The Supernova! toolkit for amateur astronomy clubs reached over 138,000 attendees, including large numbers of women/girls and minorities](supernova-toolkit-reach-138000.md) — related

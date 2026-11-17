@@ -78,3 +78,4 @@ Wilcoxon signed rank test on the control group's (N total 13) pre- and post-test
 - [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim
 - [All three groups showed significant within-group improvement in disaster nursing competency regardless of instruction type](within-group-competency-improvement-all-groups.md) — related
+- [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related

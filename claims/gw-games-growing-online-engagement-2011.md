@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2012
 sources:
   - id: l-carbone-2012
-    resource: "https://doi.org/10.48550/arXiv.1111.3899"
-    title: "L. Carbone, C. Bond, D. Brown, F. Brückner, K. Grover, D. Lodhia, C.M.F. Mingarelli, P. Fulda, R.J.E. Smith, R. Unwin, A. Vecchio, M. Wang, L. Whalley and A. Freise. (2012). Computer-games for gravitational wave science outreach: Black Hole Pong and Space Time Quest. [doi:10.48550/arXiv.1111.3899](https://doi.org/10.48550/arXiv.1111.3899)"
+    resource: "https://doi.org/10.1088/1742-6596/363/1/012057"
+    title: "L. Carbone, C. Bond, D. Brown, F. Brückner, K. Grover, D. Lodhia, C.M.F. Mingarelli, P. Fulda, R.J.E. Smith, R. Unwin, A. Vecchio, M. Wang, L. Whalley and A. Freise. (2012). Computer-games for gravitational wave science outreach: Black Hole Pong and Space Time Quest. [doi:10.1088/1742-6596/363/1/012057](https://doi.org/10.1088/1742-6596/363/1/012057)"
     author: L. Carbone, C. Bond, D. Brown, F. Brückner, K. Grover, D. Lodhia, C.M.F. Mingarelli, P. Fulda, R.J.E. Smith, R. Unwin, A. Vecchio, M. Wang, L. Whalley and A. Freise
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### L. Carbone 2012
 
-L. Carbone, C. Bond, D. Brown, F. Brückner, K. Grover, D. Lodhia, C.M.F. Mingarelli, P. Fulda, R.J.E. Smith, R. Unwin, A. Vecchio, M. Wang, L. Whalley and A. Freise. (2012). Computer-games for gravitational wave science outreach: Black Hole Pong and Space Time Quest. [doi:10.48550/arXiv.1111.3899](https://doi.org/10.48550/arXiv.1111.3899)
+L. Carbone, C. Bond, D. Brown, F. Brückner, K. Grover, D. Lodhia, C.M.F. Mingarelli, P. Fulda, R.J.E. Smith, R. Unwin, A. Vecchio, M. Wang, L. Whalley and A. Freise. (2012). Computer-games for gravitational wave science outreach: Black Hole Pong and Space Time Quest. [doi:10.1088/1742-6596/363/1/012057](https://doi.org/10.1088/1742-6596/363/1/012057)
 
 `q2 · i?` · `design · r2`
 

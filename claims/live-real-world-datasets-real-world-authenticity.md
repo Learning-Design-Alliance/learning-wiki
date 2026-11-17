@@ -51,3 +51,4 @@ Thematic analysis of interview segments coded under the real-world authenticity 
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a broader claim this one bears on
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — a broader claim this one bears on
+- [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related

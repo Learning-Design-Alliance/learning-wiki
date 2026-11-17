@@ -56,3 +56,4 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
 - [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — possibly the same claim (merge candidate)
+- [Students reported that the simulations improved visualization of invisible or unobservable gravitational concepts](ejs-simulations-improve-visualization-invisible-concepts.md) — related

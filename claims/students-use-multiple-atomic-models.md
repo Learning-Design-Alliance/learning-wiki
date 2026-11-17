@@ -12,8 +12,8 @@ newest_evidence: 2007
 recheck_by: 2012
 sources:
   - id: s-b-mckagan-2007
-    resource: "https://doi.org/10.48550/arXiv.0707.1541"
-    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.48550/arXiv.0707.1541](https://doi.org/10.48550/arXiv.0707.1541)"
+    resource: "https://doi.org/10.1103/physrevstper.4.010103"
+    title: "S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.1103/physrevstper.4.010103](https://doi.org/10.1103/physrevstper.4.010103)"
     author: S. B. McKagan, K. K. Perkins, and C. E. Wieman
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### S. B. McKagan 2007
 
-S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.48550/arXiv.0707.1541](https://doi.org/10.48550/arXiv.0707.1541)
+S. B. McKagan, K. K. Perkins, and C. E. Wieman. (2007). Why we should teach the Bohr model and how to teach it effectively. [doi:10.1103/physrevstper.4.010103](https://doi.org/10.1103/physrevstper.4.010103)
 
 `q2 · i?` · `design · r3`
 

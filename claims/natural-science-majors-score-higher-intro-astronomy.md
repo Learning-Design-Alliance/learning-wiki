@@ -56,3 +56,4 @@ Comparative analysis of ASTR122 total scores by major category across the four-t
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Active learning improved mean course performance by 9% (g = 0.48) across five physics and astronomy courses in a MENA university](active-learning-mena-mean-gain-g048.md) — related
 - [ASTR122 total scores correlate with combined SAT score (R=0.49) and with overall college GPA (Pearson r = 0.65)](astronomy-course-score-correlates-sat-and-gpa.md) — related
+- [LCQ achievements differ statistically between students of natural sciences or technology and students of social sciences or humanities](lcq-field-of-study-difference.md) — related

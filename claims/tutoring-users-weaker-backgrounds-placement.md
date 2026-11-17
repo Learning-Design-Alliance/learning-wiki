@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: michael-courtney-2011
     resource: "https://doi.org/10.48550/arXiv.1102.1893"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Calculus 1 cadets who visited the tutoring center before the first FSE averaged 52.1%±2.9% on the Algebra portion of the placement exam, versus 60.1%±0.6% for the whole Calculus 1 cohort. [→ Michael Courtney 2011](#michael-courtney-2011)
@@ -49,3 +50,5 @@ Descriptive comparison of placement-exam Algebra scores in the Outcomes section:
 - [Demand at the Evening Tutoring Center was dominated by Calculus 1, followed closely by Calculus 3, with over 2500 cadets served in the first semester](tutoring-demand-calculus-1-and-3.md) — related
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
+- [Course-wide first-attempt pass rates on the Calculus 1 Algebra Fundamental Skills Exam rose from 53% to 63% after EI Videos were introduced, though the article attributes possible influence to other factors](ei-videos-fse-pass-rate-increase.md) — related
+- [Evening EI services are used disproportionately by groups traditionally underrepresented in STEM and by cadets with below-average academic backgrounds](evening-ei-disproportionate-usage-weaker-backgrounds.md) — related

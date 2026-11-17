@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `causal · r1`
 
@@ -51,3 +51,4 @@ Pre-instruction survey comparison of agreement with the statement that quantum p
 - [Almost all interviewed students express distaste for deterministic ideas in quantum physics despite realist preferences](students-distaste-determinism-quantum-physics.md) — related
 - [ENG-INT was the only one of four compared courses where a significant majority of students ended the semester disagreeing that an unobserved atomic electron exists at a definite position.](eng-int-only-course-majority-disagree-localized-electrons.md) — related
 - [Many students in quantum physics courses endorse mechanistic (Newtonian) statements about electrons and atomic structure that quantum theory contradicts](students-endorse-mechanistic-qp-statements.md) — related
+- [Instruction in classical physics significantly decreases student agreement that the same experiment can yield two different correct results, consistent with reinforcement of a deterministic perspective.](classical-physics-instruction-reinforces-deterministic-perspective.md) — related

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2007
 sources:
   - id: david-t-brookes-and-eugenia-etkina-2007
-    resource: "https://doi.org/10.48550/arXiv.0704.1319"
-    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)"
+    resource: "https://doi.org/10.1103/physrevstper.3.010105"
+    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.1103/physrevstper.3.010105](https://doi.org/10.1103/physrevstper.3.010105)"
     author: David T. Brookes and Eugenia Etkina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### David T. Brookes and Eugenia Etkina 2007
 
-David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)
+David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.1103/physrevstper.3.010105](https://doi.org/10.1103/physrevstper.3.010105)
 
 `q2 · i?` · `qualitative · r2`
 

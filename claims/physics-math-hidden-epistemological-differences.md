@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2015
 sources:
   - id: edward-f-redish-2010
-    resource: "https://doi.org/10.48550/arXiv.1008.0578"
-    title: "Edward F. Redish. (2010). Introducing students to the culture of physics: Explicating elements of the hidden curriculum. PERC 2010. [doi:10.48550/arXiv.1008.0578](https://doi.org/10.48550/arXiv.1008.0578)"
+    resource: "https://doi.org/10.1063/1.3515245"
+    title: "Edward F. Redish. (2010). Introducing students to the culture of physics: Explicating elements of the hidden curriculum. PERC 2010. [doi:10.1063/1.3515245](https://doi.org/10.1063/1.3515245)"
     author: Edward F. Redish
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Edward F. Redish 2010
 
-Edward F. Redish. (2010). Introducing students to the culture of physics: Explicating elements of the hidden curriculum. PERC 2010. [doi:10.48550/arXiv.1008.0578](https://doi.org/10.48550/arXiv.1008.0578)
+Edward F. Redish. (2010). Introducing students to the culture of physics: Explicating elements of the hidden curriculum. PERC 2010. [doi:10.1063/1.3515245](https://doi.org/10.1063/1.3515245)
 
 `q1 · i?` · `theoretical · r2`
 

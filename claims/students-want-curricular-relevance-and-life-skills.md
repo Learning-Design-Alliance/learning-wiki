@@ -90,3 +90,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Students want peer-teacher training to include evidence-based educational theory and contextualized practical teaching experience with feedback](desired-training-content-theory-practice-feedback.md) — related
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
+- [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — a narrower finding that bears on this claim

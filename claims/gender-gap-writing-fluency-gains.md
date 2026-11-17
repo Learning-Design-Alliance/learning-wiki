@@ -59,3 +59,4 @@ Cross-study observation reported in the discussion of Study 2 results. The autho
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
 - [Male students reported higher perceived skill improvements and more favorable domain scores than female students across all journal club domains](journal-club-gender-differences-self-reported.md) — reports the opposite
 - [Male and female students reported no significant differences in perceptions of either teaching module on the course questionnaire](no-gender-difference-questionnaire-perceptions.md) — related
+- [Male students showed statistically significant better achievements on the liquid crystal questionnaire than female students](lcq-gender-difference-prior-knowledge.md) — related

@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `causal · r1`
 
@@ -49,3 +49,4 @@ Post-instruction survey in the transformed ENG-INT course (response rate ~90% of
 - [Student interest in quantum mechanics typically declines after instruction in modern physics, with negative responses increasing significantly (p < 0.001).](interest-in-quantum-mechanics-declines-after-typical-instruction.md) — related
 - [The reformed modern physics course using simulations extensively showed high conceptual learning gains and no negative belief shift, in contrast to low gains and large negative belief shift in comparable unreformed courses](reformed-course-gains-beliefs.md) — related
 - [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related
+- [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related

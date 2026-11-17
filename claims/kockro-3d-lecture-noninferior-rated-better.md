@@ -109,3 +109,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Computer-based 3D anatomy tools show conflicting effectiveness: several studies found significantly higher scores with 3D models, but other studies found traditional methods equal or better](computer-based-3d-anatomy-tools-mixed-effectiveness.md) — related
 - [3D reconstructed images improved PGY1 surgical residents' imaging-reasoning accuracy versus 2D CT in a randomized controlled trial](3d-images-improve-pgy1-imaging-reasoning.md) — related
 - [Residents across all training years showed high acceptance of 3D training and supported its early introduction in residency](high-acceptance-of-3d-training-residents.md) — related
+- [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related

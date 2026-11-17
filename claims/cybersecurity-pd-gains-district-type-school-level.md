@@ -50,3 +50,4 @@ Wilcoxon signed-rank subgroup analyses by district type and school level in the 
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
 - [Knowledge gains were concentrated in module 2 and the awareness dimension: ask and action knowledge remained unchanged after the PD](cybersecurity-pd-gains-module-aaa-dimension.md) — related
 - [Help-seeking's within-school effect on literacy varies by school location: positive in urban and suburban schools, negative in rural schools](help-seeking-literacy-varies-by-location.md) — related
+- [Technology use in high school physics classrooms is similar across rural, suburban and urban schools and increases with teacher experience and engagement indices](technology-use-similar-across-school-types.md) — related

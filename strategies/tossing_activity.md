@@ -62,8 +62,10 @@ Movement-based activities can improve engagement and retention when the physical
 6. Debrief: have learners state what they retrieved and why, consolidating the action into verbal knowledge
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the broader family of dramatizing content through physical action
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a quick toss round can serve as a warm-up retrieval of prerequisite facts
+- [Anchor a revision lesson on one physical event examined at fixed time instants through group-assigned representations](single-event-group-assigned-representations-strategy.md)
 
 ## Examples
 - **Bean-bag number toss (elementary math):** hoops labeled with sums; learners toss a bean bag onto the correct answer, then justify the choice aloud — retrieval plus verbal consolidation

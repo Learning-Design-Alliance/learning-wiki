@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: kao-2010
-    resource: "https://doi.org/10.48550/arXiv.1002.1181"
-    title: "Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. [doi:10.48550/arXiv.1002.1181](https://doi.org/10.48550/arXiv.1002.1181)"
+    resource: "https://doi.org/10.1109/digitel.2010.14"
+    title: "Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. [doi:10.1109/digitel.2010.14](https://doi.org/10.1109/digitel.2010.14)"
     author: "Kao, F.-C., Wang, S.-R. & Huang, T.-H."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kao 2010
 
-Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. [doi:10.48550/arXiv.1002.1181](https://doi.org/10.48550/arXiv.1002.1181)
+Kao, F.-C., Wang, S.-R. & Huang, T.-H. (2010). The Design of Circuit-Measuring Collaborative Learning System with Embedded Broker. IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 1, No. 3. [doi:10.1109/digitel.2010.14](https://doi.org/10.1109/digitel.2010.14)
 
 `q2 · i?` · `design · r2`
 

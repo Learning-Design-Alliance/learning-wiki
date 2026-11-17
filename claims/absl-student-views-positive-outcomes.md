@@ -93,3 +93,4 @@ Interview question on effects on success in social studies; permanent learning w
 - [The reviewed studies conclude that the quantum learning model increases academic achievement, ensures meaningful learning, and increases permanence in learning.](qlm-positive-effect-academic-achievement.md) — related
 - [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
+- [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related

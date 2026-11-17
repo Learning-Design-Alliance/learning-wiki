@@ -39,6 +39,7 @@ The AIASA president's address calls on AIAA members to serve as club leaders in 
 ## Related Strategies
 
 - [Student-led after-school club creation and student senate structures to expand student voice and engagement](student-led-clubs-and-senate-voice-strategy.md)
+- [After-school clubs and library-based Astro 4 Girls workshops to reach under-represented students in STEM](after-school-clubs-astro4girls-underrepresented.md)
 
 ## Examples
 -

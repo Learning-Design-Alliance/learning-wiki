@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: charles-baily-and-noah-d-finkelstein-2010
-    resource: "https://doi.org/10.48550/arXiv.1108.5800"
-    title: "Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.48550/arXiv.1108.5800](https://doi.org/10.48550/arXiv.1108.5800)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020113"
+    title: "Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.1103/physrevstper.6.020113](https://doi.org/10.1103/physrevstper.6.020113)"
     author: Charles Baily and Noah D. Finkelstein
     q: 2
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### Charles Baily and Noah D. Finkelstein 2010
 
-Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.48550/arXiv.1108.5800](https://doi.org/10.48550/arXiv.1108.5800)
+Charles Baily and Noah D. Finkelstein. (2010). Refined Characterization of Student Perspectives on Quantum Physics. [doi:10.1103/physrevstper.6.020113](https://doi.org/10.1103/physrevstper.6.020113)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -55,3 +55,7 @@ Aggregate analysis of end-of-term online survey responses across four courses wi
 - [Adding general discussion of interpretive themes late in the course does not shift students away from realist stances on atomic electrons](late-interpretive-discussion-insufficient-to-shift-realist-stance.md) — related
 - [Many students in quantum physics courses endorse mechanistic (Newtonian) statements about electrons and atomic structure that quantum theory contradicts](students-endorse-mechanistic-qp-statements.md) — related
 - [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
+- [Students taught by an instructor explicit about a matter-wave interpretation are far more likely to prefer the quantum description of the double-slit experiment, while students in a more agnostic course prefer realist or agnostic stances](explicit-interpretation-instruction-shifts-double-slit-preferences.md) — related
+- [Students' quantum versus realist interpretations of double-slit diffraction differ strongly between a reformed course explicitly teaching a quantum perspective and a traditional lecture course.](explicit-quantum-perspective-instruction-shifts-student-interpretations.md) — related
+- [Across eight course offerings, instructional approach was associated with distinct student perspective distributions: matter-wave courses produced overwhelming quantum preferences and agnostic courses more evenly split responses](multi-semester-instructional-approach-perspective-patterns.md) — possibly the same claim (merge candidate)
+- [Explicit delocalization instruction in the double-slit and square-well contexts did not transfer to student beliefs about electrons in atoms, where both courses remained majority realist](no-transfer-of-delocalization-instruction-to-atomic-electrons.md) — a narrower finding that bears on this claim

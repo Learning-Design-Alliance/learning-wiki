@@ -49,3 +49,4 @@ Discourse analysis of the six coded episodes found the low Error-Checking rate "
 - [Sensemaking-intended prompts 1, 2, and 6 yielded only about 6% Conceptual Discussion time versus a 38% benchmark](sensemaking-prompts-low-conceptual-discussion.md) — related
 - [Prescribed problem-solving prompts are not, in general, effective at promoting sensemaking during group problem solving](prescribed-prompts-not-sufficient-for-sensemaking.md) — a broader claim this one bears on
 - [A well-functioning group spent an estimated 38% of its time in Conceptual Discussion while working on a quantitative context-rich problem](conceptual-discussion-benchmark-38-percent.md) — related
+- [Explicit teaching of problem-solving practices in a cooperative group format helped students perform better on qualitative exam questions than traditionally-taught students](cooperative-group-problem-solving-qualitative-exam-gains.md) — related

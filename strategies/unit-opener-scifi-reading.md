@@ -49,6 +49,7 @@ This strategy recommends placing science-fiction reading at the beginning of eac
 - [Use science-fiction books to make science lessons more enjoyable and to build a general reading habit](scifi-enjoyment-reading-habit.md)
 - [Previewing](previewing.md)
 - [Videos (Pre-Reading)](videos-pre-reading.md)
+- [Introduce new science topics in students' own language through fictional dialogues that address common misconceptions](student-language-warmup-dialogues-strategy.md)
 
 ## Examples
 -

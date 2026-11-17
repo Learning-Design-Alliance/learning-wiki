@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: d-j-miller-2009
-    resource: "https://doi.org/10.48550/arXiv.0907.0902"
-    title: "D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.48550/arXiv.0907.0902](https://doi.org/10.48550/arXiv.0907.0902)"
+    resource: "https://doi.org/10.1119/1.3298908"
+    title: "D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.1119/1.3298908](https://doi.org/10.1119/1.3298908)"
     author: D. J. Miller
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### D. J. Miller 2009
 
-D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.48550/arXiv.0907.0902](https://doi.org/10.48550/arXiv.0907.0902)
+D. J. Miller. (2009). A constructive approach to the special theory of relativity. [doi:10.1119/1.3298908](https://doi.org/10.1119/1.3298908)
 
 `q1 · i?` · `theoretical · r2`
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: a-bean-2011
     resource: "https://doi.org/10.48550/arXiv.1109.2919"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Video interviews and questionnaires demonstrate that children as young as 7 can grasp the idea of small things they cannot directly see and that special equipment is needed to observe them. [→ A. Bean 2011](#a-bean-2011)

@@ -48,3 +48,4 @@ Content analysis of Family Interview Form responses about the program's implemen
 - [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
+- [Secondary schools are where many students lose interest in science](secondary-schools-lose-science-interest.md) — related

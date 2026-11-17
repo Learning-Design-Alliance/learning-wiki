@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2007
 sources:
   - id: david-t-brookes-and-eugenia-etkina-2007
-    resource: "https://doi.org/10.48550/arXiv.0704.1319"
-    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)"
+    resource: "https://doi.org/10.1103/physrevstper.3.010105"
+    title: "David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.1103/physrevstper.3.010105](https://doi.org/10.1103/physrevstper.3.010105)"
     author: David T. Brookes and Eugenia Etkina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### David T. Brookes and Eugenia Etkina 2007
 
-David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.48550/arXiv.0704.1319](https://doi.org/10.48550/arXiv.0704.1319)
+David T. Brookes and Eugenia Etkina. (2007). Using conceptual metaphor and functional grammar to explore how language used in physics affects student learning. arXiv preprint. [doi:10.1103/physrevstper.3.010105](https://doi.org/10.1103/physrevstper.3.010105)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -56,3 +56,4 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Students tend to associate a particle's motion with only the total energy and misapply conservation of energy when comparing potential energy diagrams](students-associate-motion-with-total-energy-only.md) — related
 - [Many introductory students believe potential energy diagrams represent motion only in the positive x-direction](students-associate-ped-with-single-direction-motion.md) — a narrower finding that bears on this claim
 - [Students tend to treat potential energy vs. position graphs as position vs. time graphs, reading velocity from the slope](students-treat-ped-as-position-time-graph.md) — a narrower finding that bears on this claim
+- [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — a narrower finding that bears on this claim

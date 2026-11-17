@@ -88,6 +88,8 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Implement large-scale team training through local ownership with ongoing central support and multi-level backing](national-local-ownership-team-training-implementation.md)
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 - [Train-the-trainer workshops to disseminate the program to residency programs](train-the-trainer-workshops-medical-physics-residency.md)
+- [Support faculty adoption and retention of RBIS through direct in-course help from a trained discipline-based science education specialist during initial implementation](direct-specialist-support-during-rbis-implementation.md)
+- [Distribute educational kits with in-service teacher training through local institutions](kit-distribution-with-in-service-training.md)
 
 ## Examples
 -

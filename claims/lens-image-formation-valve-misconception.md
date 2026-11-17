@@ -48,3 +48,4 @@ Optics questions 6a-c on image formation by a converging lens, answered by 941 s
 ## Related Claims
 - [58% of students answered a conceptual converging-lens exam question correctly, close to the lab-final average](58-percent-correct-lens-exam-question.md) — related
 - [Prospective science teachers in both groups held conceptual misunderstandings about sound, electricity, magnetism, light and optics](prospective-teachers-physics-misconceptions-five-topics.md) — related
+- [Only 9% of surveyed students reported sufficient prior knowledge of the image-formation topics covered by the exhibit](holographic-exhibit-low-prior-knowledge-9-percent.md) — related

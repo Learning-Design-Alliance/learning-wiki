@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2015
 sources:
   - id: alejandro-gangui-2010
-    resource: "https://doi.org/10.48550/arXiv.1006.0179"
-    title: "Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.48550/arXiv.1006.0179](https://doi.org/10.48550/arXiv.1006.0179)"
+    resource: "https://doi.org/10.1017/s1743921311003164"
+    title: "Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.1017/s1743921311003164](https://doi.org/10.1017/s1743921311003164)"
     author: "Alejandro Gangui, María Iglesias & Cynthia Quinteros"
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Alejandro Gangui 2010
 
-Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.48550/arXiv.1006.0179](https://doi.org/10.48550/arXiv.1006.0179)
+Alejandro Gangui, María Iglesias & Cynthia Quinteros. (2010). Some remarks on a current study involving preservice elementary teachers and some basic astronomical phenomena. Proceedings IAU Symposium No. 260. [doi:10.1017/s1743921311003164](https://doi.org/10.1017/s1743921311003164)
 
 `q2 · i?` · `associational · r1`
 

@@ -72,3 +72,4 @@ Bivariate scatterplot analysis shown in Fig 1 found no significant correlations 
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
 - [GRE Verbal is the only GRE subtest to predict graduate GPA after controlling for other admissions variables](gre-verbal-weakly-predicts-graduate-gpa.md) — reports the opposite
 - [Underrepresented minority status predicted lower grades and lower probability of Ph.D. completion but higher likelihood of obtaining grants or fellowships](urm-status-mixed-graduate-outcomes.md) — related
+- [US News graduate-program rankings give student selectivity, including mean GRE scores, a total weight of 18%, exceeding several productivity measures](us-news-selectivity-weighting-gre.md) — related

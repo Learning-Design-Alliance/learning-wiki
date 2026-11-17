@@ -52,3 +52,6 @@ Validation study for the E-CLASS survey described in the design and validation s
 - [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](context-clarification-validation-interviews.md) — related
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md)
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](eclass-low-response-rates-half-of-classes.md)
+- [E-CLASS results show reading journal articles and posing own questions rank low in students' perceived grade importance, prompting metacognitive plans](eclass-low-rank-for-journal-reading-and-own-questions.md) — related
+- [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
+- [Student interviews motivated changing single belief statements to personal/expert pairs to resolve ambiguity](student-interviews-drove-personal-expert-pair-format.md) — related

@@ -50,4 +50,4 @@ A diagnostic e-module that divides Symmetry and Gauss's Law into concept categor
 -
 
 ## Key Sources
-- Mittal, A. K. (2011). Developing a diagnostic e-module for testing conceptual understanding of Symmetry and Gauss's Law.
+- Mittal, A. K. (2011). Developing a diagnostic e-module for testing conceptual understanding of Symmetry and Gauss's Law. [doi:10.48550/arxiv.1106.0441](https://doi.org/10.48550/arxiv.1106.0441)

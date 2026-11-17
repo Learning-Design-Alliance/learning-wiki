@@ -53,6 +53,7 @@ To serve more cadets with limited manpower, the author recommends compiling a ve
 - [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](compile-native-video-lessons-peer-pairs-strategy.md)
 - [Encourage trainees to prioritise journal-hosted proctology videos over freely available YouTube videos](prioritise-journal-videos-for-self-directed-proctology-learning.md)
 - [Rich Library: Multimodal](rich_library-multimodal.md)
+- [Aim supplementary video pedagogy at the lowest quartile of students, with slower pacing and more detailed intermediate steps than classroom instruction](ei-video-pedagogy-aimed-lowest-quartile.md)
 
 ## Examples
 -

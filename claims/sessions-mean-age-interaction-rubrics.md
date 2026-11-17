@@ -57,3 +57,4 @@ Posteriori secondary meta-regression on standardized mean differences for academ
 - [Attitude effects of innovative teaching decrease with student grade level](attitude-effects-decrease-with-grade-level.md) — related
 - [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related
 - [Age differed significantly between the teaching groups but was unrelated to learning and retention outcomes](age-group-difference-unrelated-to-outcomes.md) — related
+- [The author reports that a community-generated rubric seemed to produce larger performance changes than an externally imposed rubric with similar specifications](community-generated-rubric-larger-changes.md) — related

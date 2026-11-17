@@ -83,3 +83,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Special physics class students rate teacher-student relationships statistically significantly higher than students in other classes, and report more research, project and experimental opportunities](teacher-student-relationship-perceptions-special-class.md) — related
+- [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related

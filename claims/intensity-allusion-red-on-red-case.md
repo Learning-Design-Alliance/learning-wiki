@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: viennot-l-de-hosson-c-2011
-    resource: "https://doi.org/10.48550/arXiv.1109.3792"
-    title: "Viennot L. & de Hosson C. (2011). Beyond a dichotomic approach to concepts: the case of colour phenomena. Communication presented at the ESERA 2011 conference. [doi:10.48550/arXiv.1109.3792](https://doi.org/10.48550/arXiv.1109.3792)"
+    resource: "https://doi.org/10.1080/09500693.2012.679034"
+    title: "Viennot L. & de Hosson C. (2011). Beyond a dichotomic approach to concepts: the case of colour phenomena. Communication presented at the ESERA 2011 conference. [doi:10.1080/09500693.2012.679034](https://doi.org/10.1080/09500693.2012.679034)"
     author: "Viennot L. & de Hosson C."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Viennot L. & de Hosson C 2011
 
-Viennot L. & de Hosson C. (2011). Beyond a dichotomic approach to concepts: the case of colour phenomena. Communication presented at the ESERA 2011 conference. [doi:10.48550/arXiv.1109.3792](https://doi.org/10.48550/arXiv.1109.3792)
+Viennot L. & de Hosson C. (2011). Beyond a dichotomic approach to concepts: the case of colour phenomena. Communication presented at the ESERA 2011 conference. [doi:10.1080/09500693.2012.679034](https://doi.org/10.1080/09500693.2012.679034)
 
 `q2 · i?` · `qualitative · r2`
 

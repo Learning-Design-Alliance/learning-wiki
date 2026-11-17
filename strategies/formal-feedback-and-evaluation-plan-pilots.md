@@ -43,6 +43,7 @@ The report recommends that districts treat student and teacher feedback as a for
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
 - [Evaluate training effectiveness regularly with pre- and post-training assessments to measure impact on knowledge and skills](pre-post-training-assessment-pi-competency.md)
+- [Plan ICM evaluations with multiple proximal outcome criteria, multiple data sources and time points, capture of unintended effects, moderators and process data](icm-evaluation-planning-strategy.md)
 
 ## Examples
 -

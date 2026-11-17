@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (64 show a difference, 13 mixed, 13 no difference) · 70 studies (23 associational, 16 causal, 9 review, 9 qualitative, 5 design, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 11 of 70 report an effect size · 88 claims rest on one study
+> **Evidence** · 91 claims (65 show a difference, 13 mixed, 13 no difference) · 71 studies (23 associational, 16 causal, 9 review, 9 qualitative, 6 design, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 11 of 71 report an effect size · 89 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -124,6 +124,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [IT skills influence students' acquisition of m-learning technology, with basic and mobile skills significant but advanced IT skills not](../claims/it-skills-influence-mlearning-acquisition-survey.md) [~M] — learners who differ on it differ in outcomes
 - [Sophisticated mobile proficiency mediates the effect of perceived usability and usefulness on intention to accept m-learning](../claims/mobile-proficiency-mediates-usability-usefulness-on-acceptance.md) [+M] — learners who differ on it differ in outcomes
 - [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](../claims/computation-skills-transfer-across-courses.md) [+W] — measured as an outcome of the instruction studied
+- [Students found debugging difficult and spent too much time relearning programming skills when computational exposure was spaced too far apart](../claims/debugging-and-spacing-challenges-computational-integration.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

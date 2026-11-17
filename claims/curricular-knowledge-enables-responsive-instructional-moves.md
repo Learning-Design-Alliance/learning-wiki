@@ -64,3 +64,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
 - [Fixed degree structures struggle to keep pace with evolving knowledge, leading to program proliferation with marginal differentiation](fixed-degrees-struggle-with-evolving-knowledge.md) — related
 - [Course feedback was consistently positive, and instructors made small iterative adjustments in response to each cohort's feedback](srss-course-feedback-iterative-adjustment.md) — related
+- [Teachers with the most interactive and engaging classrooms most commonly address weak preparation through embedded review, individual instruction and adjusting the curriculum](embedded-review-top-practice-interactive-classrooms.md) — related

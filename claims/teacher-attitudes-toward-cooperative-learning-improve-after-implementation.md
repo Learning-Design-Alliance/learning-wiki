@@ -50,3 +50,4 @@ Semi-structured interviews with the two experimental-group teachers before and a
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Most students in the CL class held positive attitudes toward cooperative learning, including perceived listening gains](cl-questionnaire-positive-attitudes.md) — related
 - [Students' attitudes toward listening shifted from negative before the treatment to positive after cooperative materials adaptation](attitude-shift-toward-listening-after-adaptation.md) — related
+- [In interviews, most CWP students initially reacted negatively to workshop sessions but reported improved feelings after about a month of experience](cwp-initial-attitudes-negative-then-improved.md) — a narrower finding that bears on this claim

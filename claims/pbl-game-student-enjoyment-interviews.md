@@ -67,3 +67,5 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related
 - [Most students expressed positive attitudes toward ILC tasks, integration, and laboratory procedures](ilc-positive-student-perceptions.md) — related
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — related
+- [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
+- [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related

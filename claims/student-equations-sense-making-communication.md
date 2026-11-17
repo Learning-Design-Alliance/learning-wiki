@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: watkins-2010
-    resource: "https://doi.org/10.48550/arXiv.1009.1049"
-    title: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.48550/arXiv.1009.1049](https://doi.org/10.48550/arXiv.1009.1049)"
+    resource: "https://doi.org/10.1063/1.3515237"
+    title: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.1063/1.3515237](https://doi.org/10.1063/1.3515237)"
     author: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J."
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Watkins 2010
 
-Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.48550/arXiv.1009.1049](https://doi.org/10.48550/arXiv.1009.1049)
+Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.1063/1.3515237](https://doi.org/10.1063/1.3515237)
 
 `q1 · i?` · `qualitative · r1`
 
@@ -52,3 +52,4 @@ Interview evidence from May, a student in Org Bio, contrasting with Ashlyn's res
 - [Student expectations about learning biology can be dynamic and shift within a single course in response to specific activities](student-expectations-dynamic-shift.md) — related
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
+- [Designing a physics course for life-science majors shifted content selection away from mathematically derivable canonical topics and toward phenomenologically introduced topics such as diffusion.](physics-content-selection-for-life-sciences.md) — related

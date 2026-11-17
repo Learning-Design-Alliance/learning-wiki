@@ -51,4 +51,4 @@ The article recommends treating the choice between individual and group/unit-of-
 -
 
 ## Key Sources
-- Conlin, L., Gupta, A., & Hammer, D. (2009). Where to find the mind: Identifying the scale of cognitive dynamics. https://scholar.google.com/scholar?q=Where+to+find+the+mind+Identifying+the+scale+of+cognitive+dynamics
+- Conlin, L., Gupta, A., & Hammer, D. (2009). Where to find the mind: Identifying the scale of cognitive dynamics. https://scholar.google.com/scholar?q=Where+to+find+the+mind+Identifying+the+scale+of+cognitive+dynamics. [doi:10.48550/arxiv.1003.0491](https://doi.org/10.48550/arxiv.1003.0491)

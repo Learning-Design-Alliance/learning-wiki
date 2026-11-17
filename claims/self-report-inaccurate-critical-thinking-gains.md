@@ -53,3 +53,4 @@ Comparison of SALG Likert survey pre/post deltas with CAT results across the thr
 - [Most first-semester medical students misjudge their oral anatomy exam performance: 35.5% overestimate, 46.0% underestimate, and only 18.5% assess themselves accurately](self-assessment-accuracy-distribution-first-semester.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
 - [Students reported strong gains in modeling content, modeling process skills, and cooperative skills on a retrospective SALG survey (N = 89).](salg-strong-gains-modeling-content-process-cooperative.md) — related
+- [Students assessed that they made great gains in understanding real scientific research and real world issues](salg-great-gains-real-world-research.md) — related

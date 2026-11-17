@@ -51,6 +51,7 @@ The article recommends deploying ChatGPT 4.0 as learning assistance for nursing 
 
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Deploy healthcare LLMs as augmentative tools under human oversight rather than autonomous decision-makers](llm-augmentative-tools-human-oversight.md)
+- [Learning analytics with rapid feedback loops at many levels to build lifelong-learning qualities](learning-analytics-rapid-feedback-loops.md)
 
 ## Examples
 -

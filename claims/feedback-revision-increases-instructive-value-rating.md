@@ -48,3 +48,4 @@ Quasi-experimental before-and-after comparison of module ratings on the Johns Ho
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Revising PBL problems and delivery with the 3C3R model significantly improved perceived PBL quality, with mean QAQ scores rising from 2.7 to 4.0 on a five-point scale](pbl-3c3r-revision-qaq-improvement.md) — related
 - [Knowledge gains (posttest minus pretest) increased from 17.0% to 20.2% after learner feedback was incorporated into curricular revision](feedback-revision-increases-knowledge-gains.md) — related
+- [Sections of introductory physics with higher average perceived value of homework complete nearly 20% more homework per 0.5-point Likert increase](perceived-homework-value-completion-correlation.md) — related

@@ -11,16 +11,16 @@ evidence_strength: mixed
 newest_evidence: 2010
 sources:
   - id: mckagan-2010
-    resource: "https://doi.org/10.48550/arXiv.1007.2015"
-    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020121"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)"
     author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
     q: 2
     i: "?"
     kind: design
     rigour: 3
   - id: mckagan-2010-2
-    resource: "https://doi.org/10.48550/arXiv.1007.2015"
-    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020121"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)"
     author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### McKagan 2010
 
-McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)
 
 `q2 · i?` · `design · r3`
 
@@ -52,7 +52,7 @@ Comparison of posttest scores in Fig. 2 between traditional (solid bars) and ref
 
 ### McKagan 2010 (2)
 
-McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)
 
 `q2 · i?` · `design · r3`
 

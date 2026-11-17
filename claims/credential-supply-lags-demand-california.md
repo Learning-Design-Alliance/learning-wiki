@@ -67,3 +67,4 @@ Analysis of CTC credential data and California Department of Education hire esti
 - [The share of new math and science teachers entering on substandard credentials doubled from about 20% to 40% between 2011–12 and 2015–16 while fully credentialed entrants dropped from 3,200 to 2,200](math-science-prepared-pipeline-shrinking.md) — related
 - [The GSTG supported over 28,600 aspiring educators in its first 5 years, reaching 45% of California's new teacher candidates in 2023–24](gstg-supported-28600-aspiring-educators.md) — related
 - [Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1](special-education-underprepared-majority-new-teachers.md) — related
+- [Enrolments in an annual advanced course for qualified teachers fell from 17 to 3 participants across four academic years](advanced-course-enrolments-declined-2004-2008.md) — related

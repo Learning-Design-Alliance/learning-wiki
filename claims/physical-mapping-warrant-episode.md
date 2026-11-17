@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-source_checked: 2026-11-16
 sources:
   - id: thomas-j-bing-and-edward-f-redish-2008
-    resource: "https://doi.org/10.48550/arXiv.0808.1887"
-    title: "Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.48550/arXiv.0808.1887](https://doi.org/10.48550/arXiv.0808.1887)"
+    resource: "https://doi.org/10.1063/1.3021276"
+    title: "Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.1063/1.3021276](https://doi.org/10.1063/1.3021276)"
     author: Thomas J. Bing and Edward F. Redish
     q: 1
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the episode, S1 claimed more work is done along the longer two-part path, offering the path's greater length as data, and the authors read his warrant as evidence he is framing his math use as Physical Mapping. [→ Thomas J. Bing and Edward F. Redish 2008](#thomas-j-bing-and-edward-f-redish-2008)
@@ -34,7 +33,7 @@ sources:
 
 ### Thomas J. Bing and Edward F. Redish 2008
 
-Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.48550/arXiv.0808.1887](https://doi.org/10.48550/arXiv.0808.1887)
+Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.1063/1.3021276](https://doi.org/10.1063/1.3021276)
 
 `q1 · i?` · `qualitative · r2`
 

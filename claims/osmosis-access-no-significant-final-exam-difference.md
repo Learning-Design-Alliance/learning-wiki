@@ -53,3 +53,4 @@ A posttest-only nonequivalent-group quasi-experiment comparing two consecutive s
 - [Treatment-group students rated Osmosis above the textbook for information retention, concept learning, and test-score improvement](osmosis-rated-above-textbook-perceptions.md) — related
 - [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related
 - [Videos were the most preferred Osmosis feature among treatment-group students](osmosis-videos-most-preferred-feature.md) — related
+- [Most students transferred the marble game modeling process to derive a novel osmosis model under final exam conditions](osmosis-final-exam-transfer-marble-game.md) — related

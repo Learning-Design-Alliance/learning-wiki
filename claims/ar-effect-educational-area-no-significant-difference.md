@@ -46,3 +46,4 @@ Subgroup moderator analysis within the meta-analysis comparing effect sizes acro
 
 ## Related Claims
 - [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related
+- [LCQ achievements differ statistically between students of natural sciences or technology and students of social sciences or humanities](lcq-field-of-study-difference.md) — related

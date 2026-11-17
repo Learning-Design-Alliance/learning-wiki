@@ -47,3 +47,4 @@ Authors' contextual assertion in the introduction, offered without data: e-learn
 ## Related Claims
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
+- [The article claims ICT-based physics teaching offers multimedia visualization, virtual laboratories, individualized learning paths, and networked communication as advantages over paper-based means](ict-advantages-physics-teaching-kazakhstan.md) — related

@@ -53,3 +53,4 @@ Authors' interpretation of student feedback from the intervention group, reporte
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
 - [Students perceive that CBL helped retention and retrieval of information (item mean 4.3/5)](cbl-perceived-retention-retrieval-gain.md) — related
 - [Absence of pedagogical encounters with teachers and patients prevented students from placing presentation content in a larger context and hindered deeper learning](absence-of-pedagogical-encounters-hindered-deep-learning.md) — related
+- [In an A-level mechanics revision lesson using multiple representations, the majority of the 25 surveyed students agreed the lesson deepened their understanding and recommended the strategy](mr-mechanics-revision-lesson-positive-feedback.md) — related

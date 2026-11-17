@@ -45,6 +45,7 @@ The article recommends that physics teachers move away from expository, teacher-
 
 - [Promote transfer through varied examples, over-learning, generalization, similarity and common components](five-strategies-promoting-transfer.md)
 - [Shift physics teaching from lecture methods to activity-based problem-solving models](shift-from-lecture-to-activity-based-physics-teaching.md)
+- [Six development directions for methodical physics teaching, including computer-based problem solving and computer simulation training](physics-methodical-development-directions-kazakhstan.md)
 
 ## Examples
 -

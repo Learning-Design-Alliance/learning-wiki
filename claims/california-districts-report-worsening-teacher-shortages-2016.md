@@ -51,3 +51,4 @@ Survey of 211 districts in the CSBA Delegate Assembly (response rate over 84%), 
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — a narrower finding that bears on this claim
+- [Enrolments in an annual advanced course for qualified teachers fell from 17 to 3 participants across four academic years](advanced-course-enrolments-declined-2004-2008.md) — related

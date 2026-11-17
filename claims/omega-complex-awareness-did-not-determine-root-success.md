@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2007
 sources:
   - id: ayush-gupta-2007
-    resource: "https://doi.org/10.48550/arXiv.0803.0012"
-    title: "Ayush Gupta, Edward F. Redish, and David Hammer. (2007). Coordination of Mathematics and Physical Resources by Physics Graduate Students. 2007 PERC, AIP Conference Proceedings, Volume 951. [doi:10.48550/arXiv.0803.0012](https://doi.org/10.48550/arXiv.0803.0012)"
+    resource: "https://doi.org/10.1063/1.2820906"
+    title: "Ayush Gupta, Edward F. Redish, and David Hammer. (2007). Coordination of Mathematics and Physical Resources by Physics Graduate Students. 2007 PERC, AIP Conference Proceedings, Volume 951. [doi:10.1063/1.2820906](https://doi.org/10.1063/1.2820906)"
     author: Ayush Gupta, Edward F. Redish, and David Hammer
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Ayush Gupta 2007
 
-Ayush Gupta, Edward F. Redish, and David Hammer. (2007). Coordination of Mathematics and Physical Resources by Physics Graduate Students. 2007 PERC, AIP Conference Proceedings, Volume 951. [doi:10.48550/arXiv.0803.0012](https://doi.org/10.48550/arXiv.0803.0012)
+Ayush Gupta, Edward F. Redish, and David Hammer. (2007). Coordination of Mathematics and Physical Resources by Physics Graduate Students. 2007 PERC, AIP Conference Proceedings, Volume 951. [doi:10.1063/1.2820906](https://doi.org/10.1063/1.2820906)
 
 `q2 · i?` · `qualitative · r2`
 

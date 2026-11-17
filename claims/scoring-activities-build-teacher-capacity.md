@@ -49,3 +49,4 @@ The report offers this as an authors' argument for the educative value of human-
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](plcs-hold-promise-for-capacity-building.md) — related
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related
+- [The article claims methodical preparation should build teachers' abilities to set educational goals, analyze teaching kits, and design lesson models](methodical-preparation-teacher-abilities-goals-kits-lessons.md) — related

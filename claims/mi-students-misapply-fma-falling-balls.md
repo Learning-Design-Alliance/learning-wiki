@@ -54,3 +54,4 @@ Transcript coding of the falling balls problem in the think-aloud study; the for
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
 - [The relative fraction of homework and lecture topics devoted to FCI force and motion concepts correlates with observed FCI performance differences between curricula.](homework-lecture-fraction-correlates-fci-gap.md) — related
 - [Many students in a sophomore mechanics class incorrectly insert a minus sign in front of the ma term when setting up a scalar net-force equation.](students-incorrect-minus-sign-ma-term-scalar-equation.md) — related
+- [Illustrative FCI items on falling and thrown objects show item gender gaps that persist after instruction](persistent-item-gender-gaps-fci-items-2-13-23.md) — related

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: mm-taddei-2009
-    resource: "https://doi.org/10.48550/arXiv.0903.4497"
-    title: "M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.48550/arXiv.0903.4497](https://doi.org/10.48550/arXiv.0903.4497)"
+    resource: "https://doi.org/10.1088/0143-0807/30/5/005"
+    title: "M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.1088/0143-0807/30/5/005](https://doi.org/10.1088/0143-0807/30/5/005)"
     author: M.M. Taddei, T.N.C. Mendes, C. Farina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### M.M. Taddei 2009
 
-M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.48550/arXiv.0903.4497](https://doi.org/10.48550/arXiv.0903.4497)
+M.M. Taddei, T.N.C. Mendes, C. Farina. (2009). Subtleties on energy calculations in the image method. [doi:10.1088/0143-0807/30/5/005](https://doi.org/10.1088/0143-0807/30/5/005)
 
 `q2 · i?` · `theoretical · r3`
 

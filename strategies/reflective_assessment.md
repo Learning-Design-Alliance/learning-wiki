@@ -60,9 +60,11 @@ Reflective assessment works because self-monitoring and self-evaluation are them
 6. Periodically have students write a meta-reflection on their strategies across tasks, feeding forward into goal-setting for the next unit
 
 ## Related Strategies
+
 - [Activating_prior_knowledge](activating-prior-knowledge.md) — baseline diagnostics give reflective comparison a starting point
 - [Action_planning](../strategies/action_planning.md) — the natural follow-on from reflection: converting identified gaps into concrete next steps
 - [Activities_for_student_self-reflection](../strategies/activities_for_student_self-reflection.md) — the reflection routines that populate reflective assessment cycles
+- [Establish and use rubrics for lab notebooks, oral talks, written papers, and final projects](rubrics-for-lab-reports-talks-and-projects.md)
 
 ## Examples
 - **[Exam wrappers](exam-wrappers.md)** (e.g., used widely in physics and calculus courses per the Carl Wieman Science Education Initiative, https://www.cwsei.ubc.ca) — short post-exam worksheets asking students to categorize their errors and name a strategy change before the next exam
