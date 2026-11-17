@@ -70,3 +70,4 @@ Descriptive comparison of entrance versus exit survey responses on perceived lim
 - [Term high achievers' attitudes toward group work also improved over the SGL term, with a significantly larger positive shift in peer support than all students](high-achievers-attitudes-shifted-peer-support.md) — related
 - [Students in small-group learning sections earned higher final exam class averages than students in individual work-based sections of a fourth-year university biology course](sgl-higher-final-exam-averages-biology.md) — related
 - [Self-reported student attitudes toward group work showed significant positive shifts over one SGL term in one single-group pre-post study, on three of four SAGE subscores, including a large drop in frustration](sgl-improved-student-attitudes-sage.md) — related
+- [Open-ended responses show the simulator awakens interest and motivates learning](simulator-awakens-interest-motivates.md) — related

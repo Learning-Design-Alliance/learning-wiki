@@ -53,3 +53,4 @@ t-test restricted to general biology students because too few AP students learne
 - [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](expansive-framing-boosts-transfer-of-knowing-facts.md) — related
 - [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md) — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — a broader claim this one bears on

@@ -76,3 +76,4 @@ The review reports Asher et al. (2023) as a large-scale RCT of a utility-value i
 - [Students' propensity to consent to learning analytics and their institutional trust differ for underrepresented minorities](consent-and-trust-differ-for-underrepresented-minorities.md) — related
 - [Final grade, but not commitment to active learning, varies by race/ethnicity in this course](race-ethnicity-grade-difference-active-learning.md) — related
 - [White students earned higher final course grades than underrepresented minority students in this course](racial-grade-gap-active-learning-course.md) — related
+- [Students who took at least one concepts-first course were 1.7 ± 0.3 times more likely to graduate with a STEM major (2.7 ± 1.3 for underrepresented minorities), while active learning alone conferred no such benefit](concepts-first-stem-graduation-retention.md) — related

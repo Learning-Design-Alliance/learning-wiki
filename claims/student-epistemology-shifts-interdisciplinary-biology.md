@@ -83,3 +83,4 @@ Qualitative case analysis of one videotaped interview with a sophomore ecology m
 - [Four perceived differences between physics and biology (systems, system behavior, measurements, role of mathematics) are reconcilable through modeling](perceived-disciplinary-differences-modeling.md) — related
 - [Recruiting a student's relationship with biology into physics tasks engaged her in physics reasoning and increased her liking of physics](leveraging-biology-identity-engages-physics.md) — a narrower finding that bears on this claim
 - [A student's outgoing epistemological stance toward physics expanded toward seeing physics knowledge as meaningful and consequential for biology and chemistry](outgoing-epistemological-stance-expansion.md) — related
+- [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related

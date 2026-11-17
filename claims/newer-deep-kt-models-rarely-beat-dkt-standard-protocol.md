@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-17
 recheck_by: 2025
 sources:
   - id: liu-et-al-2022
@@ -26,7 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=7 datasets, 10 models
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
+> **Currency** · newest study 2022 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 Knowledge tracing predicts whether a learner will answer the next question correctly from their history, and adaptive systems use it to decide what a learner has mastered. This claim concerns how far published accuracy gains for deep learning knowledge-tracing models hold up when every model is run on the same data splits and preprocessing; it does not test any model's effect on learning.
 
@@ -55,3 +56,4 @@ The benchmark compares models from the deep learning family only; it does not in
 
 ## Related Claims
 - [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — qualifies it
+- [Simple IRT-based models do as well or significantly better than DKT across all three evaluated datasets on online response prediction](irt-models-match-or-beat-dkt-online-prediction.md) — related

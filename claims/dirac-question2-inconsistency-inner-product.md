@@ -52,3 +52,4 @@ Multiple-choice performance on question 2, which investigated difficulties with 
 - [Only 31% of graduate students correctly answered the identity operator and continuous-observable probability question](dirac-question3-identity-operator-low-performance.md) — related
 - [Graduate students recall Ehrenfest's theorem as a memorized fact but many do not understand how it is derived mathematically](ehrenfest-theorem-recalled-by-rote-not-understood.md) — related
 - [Upper-level students struggle to write position and momentum eigenstate inner products without Dirac notation, often confusing the Kronecker delta with the Dirac delta function](eigenstate-inner-product-delta-confusion.md) — related
+- [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related

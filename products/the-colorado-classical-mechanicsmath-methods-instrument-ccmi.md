@@ -29,3 +29,4 @@ The CCMI is a nine-question open-ended assessment developed by CU Boulder resear
 
 ## Key Sources
 - Marcos D. Caballero and Steven J. Pollock. (2013). Assessing Student Learning in Middle-Division Classical Mechanics/Math Methods. https://arxiv.org/abs/1306.2905
+- Marcos D. Caballero, Leanne Doughty, Anna M. Turnbull, Rachel E. Pepper, and Steven J. Pollock. (2016). Assessing Learning Outcomes in Middle-Division Classical Mechanics: The Colorado Classical Mechanics/Math Methods Instrument. https://arxiv.org/abs/1606.03291

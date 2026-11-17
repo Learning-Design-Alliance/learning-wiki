@@ -24,6 +24,8 @@ sources:
     author: Seth DeVore, Alexandre Gauthier, Jeremy Levy, and Chandralekha Singh
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Students commonly believe amplitude modulation affects both output channels equally and is unaffected by the low-pass filter, and nearly all students struggle when multiple frequencies are present in the input.
@@ -52,7 +54,7 @@ Interview-based identification of difficulties with amplitude-modulated input si
 
 Seth DeVore, Alexandre Gauthier, Jeremy Levy, and Chandralekha Singh. (2015). Improving Students' Understanding of Lock-In Amplifiers. [doi:10.1119/1.4934957](https://doi.org/10.1119/1.4934957)
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 The same interview study reports, as a final difficulty category, cases with multiple frequencies present in the input signal, described as an aspect with which practically all students had difficulty.
 

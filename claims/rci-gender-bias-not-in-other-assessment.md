@@ -51,3 +51,4 @@ Gender comparison in the ANU Physics 2 class (18 females, 45 males on the post-t
 - [Module benefit held for both male and female students, with no treatment × gender interaction](module-benefit-gender-uniform.md) — related
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — a broader claim this one bears on
 - [Instruction produced statistically significant normalized gains on the RCI in an introductory relativity class](rci-significant-normalized-gain.md) — related
+- [A significant post-test gender difference favoring males also appears in the honors calculus-based introductory physics course](mcs-posttest-gender-difference-honors.md) — related

@@ -57,3 +57,4 @@ The review's synthesis of higher-order thinking outcomes covers seven studies. E
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — a broader claim this one bears on
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related
 - [The POED-based VR approach improved students' problem-solving tendency more than the POEE-based VR approach](poed-vr-improves-problem-solving-tendency.md) — related
+- [Many students enter astronomy degree programs without sufficient skills to solve computational problems in their core classes or contribute immediately to research](astronomy-students-enter-lacking-computational-skills.md) — related

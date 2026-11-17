@@ -89,3 +89,9 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [A fixed raw or Hake gain corresponds to different proficiency progressions depending on students' initial pre-test score](fixed-gain-different-proficiency-progressions.md) — related
 - [In one uncontrolled pretest-posttest study, a second-year university course had an average normalized gain of 0.20 from pretest to posttest after gamified quantum mechanics gameplay sessions](gamified-quantum-course-average-gain-0-20.md) — a narrower finding that bears on this claim
 - [LA-supported students averaged an effect size of 0.845, scoring 0.845 standard deviations higher on post-tests than pre-tests](lasso-grand-mean-effect-size-0-845.md) — related
+- [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — related
+- [Students show a statistically significant pre-to-post gain on the FCI as a whole, with a low normalised gain of 0.20](fci-significant-prepost-gain-low-normalised-gain.md) — related
+- [The FMCE discriminates more sharply than the FCI between interactive engagement and traditional instruction in this dataset](fmce-more-discriminating-ie-vs-trad.md) — related
+- [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — possibly the same claim (merge candidate)
+- [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related
+- [Student-designed tutorials produced high normalized learning gains (Hake gain 0.8) in tutored introductory physics students](student-tutorials-hake-gain-0-8.md) — related

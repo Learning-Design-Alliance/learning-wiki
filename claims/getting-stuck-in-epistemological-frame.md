@@ -53,3 +53,4 @@ Recap of three previously reported observational examples: novices using recursi
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
 - [Observed epistemological framings extend over durations from ten seconds to ten minutes](framing-durations-ten-seconds-to-ten-minutes.md) — related
 - [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — related
+- [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related

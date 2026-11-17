@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (157 show a difference, 36 mixed, 27 no difference) · 151 studies (74 causal, 25 review, 19 associational, 12 design, 8 quant-synthesis, 7 theoretical, 6 qualitative), `q1`–`q3` · 30 of 151 report an effect size · 218 claims rest on one study
+> **Evidence** · 221 claims (158 show a difference, 36 mixed, 27 no difference) · 152 studies (74 causal, 25 review, 19 associational, 12 design, 8 quant-synthesis, 8 theoretical, 6 qualitative), `q1`–`q3` · 30 of 152 report an effect size · 219 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -261,6 +261,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Overall critical thinking scores did not significantly change from pre-test to post-test in either group](../claims/integrated-training-no-critical-thinking-gain.md) [-M] — measured as an outcome of the instruction studied
 - [Classroom alignment between learning objective and assessment Bloom levels does not explain students' higher-order cognitive skill gains](../claims/alignment-no-effect-on-critical-thinking-gains.md) [-M] — measured as an outcome of the instruction studied
 - [The CCD modeling activity met its primary content and process goals as evaluated by formative assessment and post-activity evaluation forms](../claims/ccd-modeling-activity-goals-met.md) [+W] — measured as an outcome of the instruction studied
+- [Computational skills and critical thinking are among the most transferable job skills an astronomy education provides](../claims/computational-skills-transferable-job-skills-astronomy.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

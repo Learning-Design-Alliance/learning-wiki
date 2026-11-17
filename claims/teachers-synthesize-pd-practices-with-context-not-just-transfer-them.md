@@ -60,3 +60,4 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
 - [Teachers implemented interactive instruction principles more faithfully than strategic or linguistic/metalinguistic principles in their first year of SIWI professional development](siwi-fidelity-interactive-first.md) — related
 - [A two-day professional development training prepared in-service physics teachers to implement PBL with real-life wave problems](two-day-pbl-teacher-training-waves.md) — related
+- [K-12 teacher PD evidence supports a causal link between teachers experiencing instructional strategies in workshops and later shifting their own instruction, but no comparable evidence exists in higher education PD](simulating-strategies-causal-link-teacher-pd.md) — related

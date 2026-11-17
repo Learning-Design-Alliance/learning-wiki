@@ -31,3 +31,4 @@ A suite of ScienceAtHome citizen-science research games and simulation tools in 
 
 ## Key Sources
 - Andreas Lieberoth, Mads Kock Pedersen, Andreea Catalina Marin, Tilo Planke, Jacob Friis Sherson. (2014). Getting Humans to do Quantum Optimization - User Acquisition, Engagement and Early Results from the Citizen Cyberscience Game Quantum Moves. Human Computation. https://doi.org/10.15346/hc.v1i2.11
+- Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2014). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. https://scienceathome.org/index.php/about.html

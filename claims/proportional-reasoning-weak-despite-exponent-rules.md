@@ -47,3 +47,4 @@ First-week diagnostic math quiz and class discussion reported in the Challenges 
 ## Related Claims
 - [Final-year medical students answer only about half of basic medical-statistics questions correctly, little above the 25% chance level](students-half-correct-quick-risk-test-pretest.md) — related
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
+- [Students' ADK in high school physics centers on using correct procedure to produce correct answers rather than conceptual understanding](student-adk-procedure-over-conceptual-understanding.md) — related

@@ -67,3 +67,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
 - [Making human movements tends to be more beneficial for learning than observing them (review's synthesis)](making-movements-more-beneficial-than-observing.md) — related
 - [Student-produced physics videos reveal learning difficulties that formal assessments such as tests and questionnaires do not expose](videos-reveal-difficulties-hidden-from-tests.md) — related
+- [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related

@@ -51,3 +51,4 @@ Interview theme on productivity perception: P2 found returning to manual researc
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
+- [The magnitude of acceleration is difficult to gauge visually while speed is readily perceived, but the human body senses acceleration directly, giving learners a felt intuition for its magnitude and direction](acceleration-hard-to-see-easy-to-feel.md) — related

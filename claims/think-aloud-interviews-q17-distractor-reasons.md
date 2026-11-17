@@ -70,3 +70,6 @@ Interview evidence from MC-Q17: a student choosing between superposition options
 - [Students overgeneralize nonzero probability in the classically forbidden region and reject a valid finite-square-well wave function](qm-finite-square-well-overgeneralization.md) — related
 - [Upper-level students show inconsistent reasoning about the position-space wave function across consecutive questions](qm-inconsistent-reasoning-position-representation.md) — related
 - [Approximately one-third of students from seven universities incorrectly evolve a non-stationary superposition state with a single overall phase factor e^{-iEt/ħ}](qm-overall-phase-factor-time-evolution-difficulty.md) — related
+- [In-class concept tests resolved many student difficulties distinguishing stationary states from eigenstates of operators corresponding to other observables](concept-tests-resolve-stationary-state-difficulties.md) — related
+- [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related
+- [Students often draw wave function diagrams from memory or memorized procedures without a qualitative feel for the physics](wave-function-sketches-drawn-from-memory.md) — related

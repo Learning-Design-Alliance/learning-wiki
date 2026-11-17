@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-17
 recheck_by: 2020
 sources:
   - id: emily-marshman-and-chandralekha-singh-2015
@@ -17,13 +18,15 @@ sources:
     author: Emily Marshman and Chandralekha Singh
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Upper-level students recognize and recall translations of a generic state vector between Dirac notation and position/momentum representations far better than they can generate them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` After traditional instruction, 89% of upper-level students correctly recognized that the position-representation wave function is Ψ(x)=⟨x|Ψ⟩, but only 52% could generate the wave function in position representation from |Ψ⟩. [→ Emily Marshman and Chandralekha Singh 2015](#emily-marshman-and-chandralekha-singh-2015)
@@ -34,7 +37,7 @@ sources:
 
 Emily Marshman and Chandralekha Singh. (2015). Student difficulties with quantum states while translating state vectors in Dirac notation to wave functions in position and momentum representations. [doi:10.1119/perc.2015.pr.048](https://doi.org/10.1119/perc.2015.pr.048)
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Upper-level students at four U.S. universities answered a multiple-choice survey after traditional instruction (N = 184), on which 89% recognized the position-representation wave function. A separate open-ended question, given to 46 students after traditional instruction, asked them to generate it, and "Only 52% provided the correct response."
 
@@ -51,3 +54,5 @@ Upper-level students at four U.S. universities answered a multiple-choice survey
 - [Students perform far better on measurement-probability questions in Dirac notation than in the position representation, and Dirac notation statements can scaffold position-representation reasoning](dirac-notation-scaffolds-measurement-probability-reasoning.md) — related
 - [85% of graduate students correctly identified position and momentum space wavefunctions in Dirac notation on question 1](dirac-question1-85-percent-correct.md) — related
 - [Only 41% answered the quantum measurement probability question correctly, with difficulty translating probability densities between representations](dirac-question5-measurement-probability-difficulty.md) — related
+- [Advanced undergraduate and graduate students frequently confuse vectors and directions in 3D physical space with state vectors and operators in Hilbert space](confounding-physical-space-hilbert-space-qm.md) — related
+- [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related

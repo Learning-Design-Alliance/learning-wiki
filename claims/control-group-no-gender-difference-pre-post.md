@@ -50,3 +50,4 @@ Chi-square analyses of Kolb inventory data from 21 control-group students (11 fe
 ## Related Claims
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — related
 - [Post-test learning styles of the experimental group showed no significant difference by gender](layered-curriculum-posttest-no-gender-difference-experimental.md) — related
+- [Learning styles showed no effect on post-test scores or on pleasure self-assessment across either learning material](learning-styles-no-effect-scores-or-pleasure.md) — related

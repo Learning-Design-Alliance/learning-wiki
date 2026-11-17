@@ -49,3 +49,4 @@ Qualitative phase: five senior emergency specialists with over 10 years of exper
 - [AHP weighting placed skill highest (0.405) among first-level dimensions, with implicit competencies (self-concept, trait, motivation) jointly carrying 53% of total weight](ahp-weights-skill-highest-implicit-53-percent.md) — related
 - [VR-based dialogue simulations revealed implicit learning outcomes such as courage, emotional resilience, and the ability to give and receive feedback](vr-simulation-implicit-hidden-learning-outcomes.md) — related
 - [The Delphi consensus process converged on a competency model of 8 primary indicators and 60 secondary indicators with assigned weights for each indicator.](cv-competency-model-8-primary-60-secondary-indicators.md) — related
+- [Expert interviews revealed two competencies absent from an initial course-syllabus-derived model: Running and Testing](interviews-revealed-running-and-testing-competencies.md) — related

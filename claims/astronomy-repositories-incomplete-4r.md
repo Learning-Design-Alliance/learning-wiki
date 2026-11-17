@@ -46,3 +46,4 @@ Descriptive comparison of five astronomy education repositories collated in Tabl
 
 ## Related Claims
 - [Early external feedback on astroEDU was positive, but pedagogical impact remains unmeasured](astroedu-early-feedback-positive-impact-unmeasured.md) — related
+- [There is a paucity of quality Open Education Resource material for astronomy despite OER being a leading education trend](paucity-quality-oer-astronomy.md) — related

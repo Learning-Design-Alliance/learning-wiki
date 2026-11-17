@@ -17,12 +17,14 @@ sources:
     author: Christine Lindstrøm, Vinesh Rajpaul, Morten Brendehaug, and Megan C. Engel
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-service teachers' explaining-task scores are remarkably similar to those of South African undergraduates, suggesting cross-cultural consistency in understanding astronomical objects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Christine Lindstrøm, Vinesh Rajpaul, Morten Brendehaug, and Megan C. Engel. (2016). Perspectives on astronomy: probing Norwegian pre-service teachers and middle school students. [doi:10.1119/perc.2015.pr.044](https://doi.org/10.1119/perc.2015.pr.044)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Comparison of pre-service teachers' explaining-task component scores (for each astronomical object) with the South African undergraduate sample of Rajpaul et al. The article reports the scores were remarkably similar and that "This suggests the possibility of consistency in students’ understanding of certain astronomical objects".
 

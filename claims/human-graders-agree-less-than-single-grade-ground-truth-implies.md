@@ -80,3 +80,7 @@ Agreement between human raters computed from public deposits with no model invol
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
 - [Peer assessment systems can generate explanatory feedback for students by having graders assess multiple labeled aspects of an answer, not just an overall grade.](peer-assessment-multi-label-feedback.md) — related
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
+- [An untrained grader using the CCMI grading rubric scores student responses reliably](ccmi-untrained-grader-reliability.md) — related
+- [Experts distinguished a strong student submission from a weak one, confirming the rubric separates quality levels](experts-distinguished-strong-weak-submission.md) — related
+- [Peer evaluations of student teaching were reliable and consistent with instructor and TA evaluations, but self-evaluations were not reliable](peer-evaluations-reliable-self-evaluations-not.md) — related
+- [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — related

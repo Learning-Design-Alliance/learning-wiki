@@ -79,3 +79,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) — related
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — reports the opposite
+- [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related

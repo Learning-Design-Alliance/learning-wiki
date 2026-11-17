@@ -52,3 +52,4 @@ Operational item analysis of Spanish Math items administered during 2024–2025 
 - Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — reports the opposite
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
+- [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related

@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (24 for, 29 mixed, 7 against) · 35 studies (21 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 35 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (25 for, 29 mixed, 7 against) · 36 studies (21 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 13 of 36 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -202,6 +202,7 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](../claims/pf-beats-al-midterm-biology.md) [+M] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading"; tests this page's relationship.
 - [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](../claims/inventive-production-strongest-predictor-pf-learning.md) [+W] — attached 2026-10-26 from Manu Kapur et al. (2023), which proposed "Facilitate learning environments that give space to inventive production, since generating more solution methods promotes learning regardless of prior achievement".
 - [Learning strategy made no difference in routine expertise on familiar head CT cases](../claims/no-difference-routine-expertise-emt.md) [~M] — attached 2026-11-07 from Aliaga L et al. (2024), which proposed "Use error management training — guiding learners to make errors before instruction — to develop adaptive expertise with cognitive skills"; tests this page's relationship.
+- [Introducing Physics Invention Tasks into a large-enrollment calculus-based mechanics course coincided with an improvement in FCI normalized gain in a historical comparison](../claims/pit-introduction-improved-fci-normalized-gain.md) [+W] — attached 2026-11-17 from Suzanne White Brahmia et al. (2017), which proposed "Inventing with Contrasting Cases: students invent an invariant quantity under imposed constraints before formal instruction".
 
 ## Objective and learner-valued goal
 

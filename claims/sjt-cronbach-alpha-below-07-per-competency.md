@@ -55,3 +55,4 @@ Generalization-inference analysis of the pilot SJT (N=303). Alphas per competenc
 - [Internal consistency is acceptable for diagnostic accuracy and efficiency but low for information sharing skills](low-internal-consistency-information-sharing.md) — related
 - [The article argues SJTs offer more efficient implementation and evaluation than simulated conversations and can complement, but not replace, them](sjt-more-efficient-than-simulated-conversations.md) — related
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
+- [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related

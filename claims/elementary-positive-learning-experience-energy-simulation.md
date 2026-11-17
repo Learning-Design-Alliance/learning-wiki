@@ -47,3 +47,4 @@ Student perception survey (5-point Likert) in the implementation stage of the pi
 ## Related Claims
 - [Elementary teachers review the remixed energy simulation positively, with all six agreeing the added features are useful](six-teachers-positive-review-remixed-energy-simulation.md) — related
 - [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related
+- [Students perceive the Energy Skate Park simulator as easy to use](energy-skate-park-high-perceived-usability.md) — related

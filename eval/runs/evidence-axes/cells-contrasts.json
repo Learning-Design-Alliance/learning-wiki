@@ -117942,5 +117942,1433 @@
  "test-format\ttest with separated item characteristic curves\ttest with overlapping item characteristic curves": {
   "label": "separated item characteristic curves vs overlapping item characteristic curves",
   "treatment_is_a": true
+ },
+ "active-learning\tConversations focused on specific teaching problems and connected to general principles\tConversations without that focus and connection": {
+  "label": "Problem-focused, principle-connected conversations vs unfocused, disconnected conversations",
+  "treatment_is_a": true
+ },
+ "active-learning\tMach-Zehnder interferometer QuILT with guided simulation\ttraditional instruction before the QuILT": {
+  "label": "QuILT with guided simulation vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMach-Zehnder interferometer QuILT with simulation and guided predictions\ttraditional instruction before the QuILT": {
+  "label": "QuILT with guided simulation and predictions vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Reflection recitations with peer discussion and TA/UTA coaching\ttraditional recitations with TA problem solving and homework questions": {
+  "label": "Peer-reflection recitations with coached peer discussion vs traditional recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Reflection recitations with peer discussion and TA/UTA guidance\tTraditional recitations with TA problem solving and questions": {
+  "label": "Peer-reflection recitations with coached peer discussion vs traditional recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tQuILT and peer-instruction concept tests\ttraditional lectures and weekly homework": {
+  "label": "QuILTs with peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tQuILTs and peer-instruction concept tests\ttraditional lectures and weekly homework": {
+  "label": "QuILTs with peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tUncertainty Principle QuILT\tpre-test after traditional instruction": {
+  "label": "Uncertainty-Principle QuILT vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcalculus-based mechanics course with peer discussion and MasteringPhysics\tpretest before the course": {
+  "label": "Active-learning course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests and QuILTs\tclasses without research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests and Quantum Interactive Learning Tutorials\tclasses without research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests and Quantum Interactive Learning Tutorials\tno research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests and Quantum Interactive Learning Tutorials\tundergraduate classes without research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests and Quantum Interactive Learning Tutorials\tusual instruction without the research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs usual instruction without those tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests plus measurement QuILT\ttraditional lectures and weekly homework": {
+  "label": "Concept tests plus measurement QuILT vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests used as a peer-instruction tool\ttraditional lectures and weekly homework": {
+  "label": "Peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests with peer instruction\ttraditional lectures and homework": {
+  "label": "Peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept tests with peer instruction\ttraditional lectures and weekly homework": {
+  "label": "Peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\teffective small-group work\tworking alone": {
+  "label": "Small-group work vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tgreater active engagement in professional development\tless active engagement": {
+  "label": "Higher vs lower active engagement in professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class concept tests with peer discussion\ttraditional lectures and weekly homework": {
+  "label": "In-class peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement\tlower active engagement or passive instruction": {
+  "label": "Higher active engagement vs lower active engagement or passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement\tlower active engagement or passive lecture": {
+  "label": "Higher active engagement vs lower active engagement or passive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement in professional development\tlower active engagement": {
+  "label": "Higher vs lower active engagement in teacher professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement in teacher professional development\tlower active engagement": {
+  "label": "Higher vs lower active engagement in teacher professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement in undergraduate STEM instruction\tlower active engagement or passive instruction": {
+  "label": "Higher active engagement in undergraduate STEM instruction vs lower engagement or passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement within teacher professional development\tlower active engagement": {
+  "label": "Higher vs lower active engagement in teacher professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement within teacher professional development\tlower active engagement within professional development": {
+  "label": "Higher vs lower active engagement in teacher professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tincreased active engagement within teacher professional development\tlower active engagement within teacher professional development": {
+  "label": "Higher vs lower active engagement in teacher professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividual work after group discussion\tgroup work": {
+  "label": "Individual work after group discussion vs group work alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividual work followed by group work (IG)\tgroup work followed by individual work (GI)": {
+  "label": "Individual work followed by group work vs group work followed by individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement\tteaching by telling": {
+  "label": "Interactive engagement vs teaching by telling",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement and student construction of understanding\tteaching by telling": {
+  "label": "Interactive engagement with student construction of understanding vs teaching by telling",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement instruction\ttraditional lecture instruction": {
+  "label": "Interactive-engagement instruction vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlectures with peer-instruction concept tests\ttraditional lectures without concept tests": {
+  "label": "Lectures with peer-instruction concept tests vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "active-learning\tpair discussion after individual responses\tindividual responses alone": {
+  "label": "Pair discussion after individual responses vs individual responses alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration before delayed individual testing\ttwo individual test administrations without group intervention": {
+  "label": "Peer collaboration before delayed individual testing vs individual testing without group intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration in pairs\tindividual work without peer collaboration": {
+  "label": "Peer collaboration in pairs vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer collaboration in pairs before later individual testing\tindividual testing twice without group intervention": {
+  "label": "Peer collaboration before later individual testing vs individual testing without group intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion in pairs\tindividual responses before peer discussion": {
+  "label": "Peer discussion after individual responses vs individual responses alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion when both individuals were initially correct\tindividual correctness before discussion": {
+  "label": "Peer discussion after initially correct individual responses vs individual correctness without discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer group response after individual incorrect responses\trandom-guessing baseline": {
+  "label": "Peer-group response after individual errors vs random guessing",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer reflection recitations\ttraditional recitations with weekly quizzes": {
+  "label": "Peer-reflection recitations vs traditional recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer reflection with TA/UTA coaching\ttraditional recitation with TA problem solving and questions": {
+  "label": "Peer-reflection recitations with coaching vs traditional recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer reflection with coached peer discussion\ttraditional TA-led recitation": {
+  "label": "Peer reflection with coached peer discussion vs traditional TA-led recitation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer reflection with coached small-group discussion\ttraditional TA-led recitation": {
+  "label": "Peer reflection with coached small-group discussion vs traditional TA-led recitation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer reflection with peers and TA/UTA guidance\ttraditional recitation with TA homework help and quiz": {
+  "label": "Peer reflection with peer and TA/UTA guidance vs traditional recitation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-instruction concept tests\ttraditional lectures and weekly homework": {
+  "label": "Peer-instruction concept tests vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-instruction concept tests integrated with lectures\ttraditional lectures and weekly homework": {
+  "label": "Peer-instruction concept tests integrated with lectures vs traditional lectures and homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-reflection recitations with TA/UTA modeling and feedback\ttraditional recitations with homework solutions and quizzes": {
+  "label": "Peer-reflection recitations with coaching and feedback vs traditional recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based concept tests and Quantum Interactive Learning Tutorials\tclasses without the research-based learning tools": {
+  "label": "Research-based concept tests and QuILTs vs no research-based learning tools",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based tutorial with small-group work\tpre-test performance after traditional instruction": {
+  "label": "Research-based tutorial with small-group work vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based tutorials with small-group discussion\ttraditional instruction before the tutorial": {
+  "label": "Research-based tutorial with small-group discussion vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tresearch-based tutorials with small-group work\tpre-test performance after traditional instruction": {
+  "label": "Research-based tutorial with small-group work vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsharing and critiquing peer computational models\tteacher-led popular-choice criteria for good models": {
+  "label": "Sharing and critiquing peer computational models vs teacher-led model criteria",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group peer work\tworking alone": {
+  "label": "Small-group peer work vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group peer work\tworking alone without peer interaction": {
+  "label": "Small-group peer work vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents working in small groups\tstudents working alone": {
+  "label": "Small-group work vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents working in small groups with peer interaction\tstudents working on their own": {
+  "label": "Small-group work with peer interaction vs working alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher conversations focused on specific teaching problems connected to general principles\tconversations without these specific-to-general connections": {
+  "label": "Problem-focused, principle-connected conversations vs unfocused, disconnected conversations",
+  "treatment_is_a": true
+ },
+ "active-learning\ttime-development QuILT with guided questions and simulations\ttraditional instruction before the QuILT": {
+  "label": "Time-development QuILT with guided questions and simulations vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tuncertainty-principle QuILT with simulations and guided activities\ttraditional instruction before the QuILT": {
+  "label": "Uncertainty-Principle QuILT with simulations and guided activities vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tunguided pair collaboration before delayed individual testing\tindividual testing twice without group intervention": {
+  "label": "Pair collaboration before delayed individual testing vs individual testing without group intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tunguided peer collaboration in pairs\tindividual testing without group intervention": {
+  "label": "Peer collaboration in pairs vs individual testing without group intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tweekly class discussions and training on giving peer feedback\tbefore or without such training": {
+  "label": "Discussion and peer-feedback training vs no such training",
+  "treatment_is_a": true
+ },
+ "active-learning\tworked in pairs using peer collaboration\ttook the CSEM individually twice with no group intervention": {
+  "label": "Pair peer collaboration before individual testing vs individual testing without group intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking through the five research-based tutorials\tno tutorial, otherwise same type of courses": {
+  "label": "Research-based tutorials vs no tutorial",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking with peers on CSEM questions\tworking alone on the same task": {
+  "label": "Peer collaboration on CSEM questions vs working alone",
+  "treatment_is_a": true
+ },
+ "case-comparison\tProblem (2): pool ball with nonzero initial linear speed\tProblem (1): dropped spinning wheel with nonzero initial angular speed": {
+  "label": "linear-motion problem vs rotational-motion problem",
+  "treatment_is_a": true
+ },
+ "case-comparison\tSSD solution with explication\tSSE solution without explication": {
+  "label": "explicated solution vs non-explicated solution",
+  "treatment_is_a": true
+ },
+ "case-comparison\tSSE student solution\tSSD student solution": {
+  "label": "SSE student solution vs SSD student solution",
+  "treatment_is_a": true
+ },
+ "case-comparison\tSolution 2's reasoning presented beside the equations\tSolution 3's reasoning presented in a complete overview at the beginning": {
+  "label": "stepwise/alongside reasoning vs upfront overview reasoning",
+  "treatment_is_a": true
+ },
+ "case-comparison\tSolution 3's separate overview of the solution plan\tSolution 2's presentation of the plan as the solution progresses": {
+  "label": "separate upfront solution-plan overview vs progressive plan presentation",
+  "treatment_is_a": true
+ },
+ "case-comparison\tUA model problem\tCV model problem": {
+  "label": "uniform-acceleration model vs constant-velocity model",
+  "treatment_is_a": true
+ },
+ "case-comparison\tfamiliar completely inelastic collision\tunfamiliar rotational rolling problem": {
+  "label": "familiar problem vs unfamiliar problem",
+  "treatment_is_a": true
+ },
+ "case-comparison\thigher-quality submission B\tlower-quality submission A": {
+  "label": "higher-quality submission vs lower-quality submission",
+  "treatment_is_a": false
+ },
+ "case-comparison\trevisiting the runners problem with a uniform-acceleration model\tearlier treatment with a constant-velocity model": {
+  "label": "uniform-acceleration model vs constant-velocity model",
+  "treatment_is_a": true
+ },
+ "case-comparison\tsolution including a final-result check\tsolutions without a final-result check": {
+  "label": "final-result check vs no final-result check",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttwo spin-one particle product-space task\ttwo spin-one-half particle product-space task": {
+  "label": "spin-one particle task vs spin-one-half particle task",
+  "treatment_is_a": true
+ },
+ "debriefing\tclass critique and replay of measurement video\tinitial measurement procedure followed without critical review": {
+  "label": "class critique and video replay vs no critical review",
+  "treatment_is_a": true
+ },
+ "debriefing\tclass critique and replay of measurement video\tinitial measurement without post-activity critique": {
+  "label": "class critique and video replay vs no post-activity critique",
+  "treatment_is_a": true
+ },
+ "debriefing\tguided peer reflection with TA and UTA feedback\ttraditional recitations with homework solutions and quizzes": {
+  "label": "guided peer reflection with TA/UTA feedback vs traditional recitations with solutions and quizzes",
+  "treatment_is_a": true
+ },
+ "debriefing\tguided peer reflection with TA/UTA modeling and feedback\ttraditional recitations with TA solution demonstrations and quizzes": {
+  "label": "guided peer reflection with TA/UTA modeling and feedback vs traditional recitations with solution demonstrations and quizzes",
+  "treatment_is_a": true
+ },
+ "debriefing\titerative sharing and critique of motion videos\tinitial action-perspective videos": {
+  "label": "iterative sharing and critique of motion videos vs initial action-perspective videos",
+  "treatment_is_a": true
+ },
+ "debriefing\titerative sharing, critique, and revision of motion videos\tfirst action-perspective videos": {
+  "label": "iterative sharing, critique, and revision of motion videos vs first action-perspective videos",
+  "treatment_is_a": true
+ },
+ "debriefing\tpeer reflection with TA/UTA modeling and feedback\ttraditional recitations with homework problem solutions and quizzes": {
+  "label": "peer reflection with TA/UTA modeling and feedback vs traditional recitations with problem solutions and quizzes",
+  "treatment_is_a": true
+ },
+ "debriefing\tvideo replay and class critique of measurement\tmeasurement procedure followed without critical review": {
+  "label": "video replay and class critique vs no critical review",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tAnswer the Arnold force problem before the table friction problem\tAnswer only the table friction problem": {
+  "label": "force-balance example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tanswering the force-balance problem before the friction problem\tanswering only the friction problem": {
+  "label": "force-balance example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tanswering the tension problem before the friction problem\tanswering only the friction problem": {
+  "label": "tension example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tboth Batman/boat and rain/cart isomorphic questions given back to back\tonly the rain/cart conceptual question given": {
+  "label": "paired quantitative/conceptual isomorphic problems vs conceptual problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tboth quantitative and conceptual isomorphic questions given back to back\tonly the corresponding conceptual question given": {
+  "label": "paired quantitative/conceptual isomorphic problems vs conceptual problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tboth quantitative and conceptual isomorphic questions given back to back\tonly the corresponding quantitative question given": {
+  "label": "paired quantitative/conceptual isomorphic problems vs quantitative problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tfriction and non-friction isomorphic problems given back to back\tfriction problem given without its isomorphic non-friction pair": {
+  "label": "paired friction/non-friction isomorphic problems vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tfriction problem preceded by a solved tension problem\tfriction problem presented alone": {
+  "label": "tension example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tfriction problem preceded by the tension problem\tfriction problem presented alone": {
+  "label": "tension example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tquantitative and conceptual questions given back to back\tconceptual question given alone": {
+  "label": "paired quantitative/conceptual problems vs conceptual problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tquantitative and conceptual questions given back to back\tquantitative question given alone": {
+  "label": "paired quantitative/conceptual problems vs quantitative problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tquestions (7) and (8) given together\tquestion (8) given alone": {
+  "label": "questions 7 and 8 together vs question 8 alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsolved tension problem followed by friction problem\tfriction problem alone": {
+  "label": "tension example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsolving the rough-ramp problem with friction\tsolving the frictionless-ramp problem": {
+  "label": "friction-included ramp problem vs frictionless ramp problem",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\ttension problem followed by friction problem\tfriction problem alone": {
+  "label": "tension example before friction problem vs friction problem alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2014 three-week action physics instruction\tpre-instruction": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2015 action physics instruction with increased emphasis on quantum concepts\tpre-instruction": {
+  "label": "quantum-emphasis action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t2015 instruction with increased emphasis on quantum concepts\t2014 instruction": {
+  "label": "increased quantum emphasis vs standard action-physics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit instruction to use conservation principles, including CME twice\tPutty problem solved without scaffolding": {
+  "label": "explicit conservation-principle instruction/scaffolding vs unscaffolded putty-problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicitly instruct students to use conservation of mechanical energy twice, along with conservation of momentum\tSolve the putty problem without scaffolding": {
+  "label": "explicit conservation-principle instruction/scaffolding vs unscaffolded putty-problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taction physics instruction\tpre-instruction": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taction-physics instruction\tbefore instruction": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\taction-physics instruction\tpre-instruction conceptual framework": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tattention drawn to identical free-body diagrams\tno such explicit attention": {
+  "label": "explicit attention to identical free-body diagrams vs no explicit attention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbeing told the product space is four-dimensional\tinitial response before the prompt": {
+  "label": "explicit information that the product space is four-dimensional vs initial response before prompting",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit guidance to apply conservation of mechanical energy twice and conservation of momentum\tsolve the putty problem without scaffolding": {
+  "label": "explicit conservation-principle instruction/scaffolding vs unscaffolded putty-problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction about troubleshooting strategies\trelying on troubleshooting arising naturally during lab activities": {
+  "label": "explicit troubleshooting instruction vs troubleshooting arising naturally",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction to make an analogy\tproblem pair without explicit analogy instruction": {
+  "label": "explicit analogy instruction vs no explicit analogy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly learn from the solved snowboard problem before solving the putty problem\tsolve the putty problem without scaffolding": {
+  "label": "worked-example instruction before problem solving vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal graduate-advisor instruction in maintaining lab notebooks\tlittle or no graduate-advisor instruction": {
+  "label": "formal graduate-advisor instruction in lab-notebook maintenance vs little or no advisor instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal graduate-school instruction in maintaining a lab notebook\tinformal hands-on practice and trial and error": {
+  "label": "formal lab-notebook instruction/training vs informal hands-on practice and trial and error",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal instruction or training\tinformal hands-on practice and trial and error": {
+  "label": "formal instruction or training vs informal hands-on practice and trial and error",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinformal hands-on practice and trial and error\tformal instruction in maintaining lab notebooks": {
+  "label": "formal lab-notebook instruction/training vs informal hands-on practice and trial and error",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinformal hands-on practice and trial and error\tformal instruction or training": {
+  "label": "formal instruction or training vs informal hands-on practice and trial and error",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinstruction on many-paths quantum mechanics\tpre-instruction single-path model": {
+  "label": "many-paths quantum-mechanics instruction vs pre-instruction single-path model",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlab activities explicitly designed to develop troubleshooting\tlab activities in which troubleshooting arises naturally or implicitly": {
+  "label": "explicitly designed troubleshooting instruction vs troubleshooting arising naturally or implicitly",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnon-introductory undergraduate lab course notebook training\tauthentic research-oriented notebook training": {
+  "label": "non-introductory undergraduate lab-course notebook training vs authentic research-oriented notebook training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction assessment\tpre-instruction assessment": {
+  "label": "post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction test\tpre-instruction test": {
+  "label": "post-instruction assessment vs pre-instruction assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprompted to draw a diagram\tno diagram support or drawing instruction": {
+  "label": "prompt to draw a diagram vs no diagram support or drawing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprompted to draw a diagram (PO)\tno diagram or drawing instruction (NS)": {
+  "label": "prompt to draw a diagram vs no diagram support or drawing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprovided with an instructor-drawn diagram (DO)\tno diagram or drawing instruction (NS)": {
+  "label": "instructor-provided diagram vs no diagram support or drawing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstudy the solved problem with explicit hints to use conservation of momentum and mechanical energy, including mechanical energy twice\tsolve the quiz problem independently": {
+  "label": "worked-example instruction with explicit conservation hints vs independent problem solving",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-week action-physics instruction\tpre-instruction": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree-week action-physics instruction module\tbefore instruction": {
+  "label": "action-physics instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture-only instruction\tpre-test before college instruction": {
+  "label": "traditional lecture-only instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tPAR peer feedback followed by revision\tinitial solution before peer feedback": {
+  "label": "peer feedback followed by revision vs initial solution before peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tadvisor or colleague feedback on lab records\tlittle to no advisor feedback": {
+  "label": "advisor or colleague feedback on lab records vs little to no advisor feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tadvisor review and feedback on lab records\tlittle or no advisor review or feedback": {
+  "label": "advisor or colleague feedback on lab records vs little to no advisor feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback from instructors or research supervisors\tno useful feedback or little to no advisor feedback": {
+  "label": "instructor or research-supervisor feedback vs little to no useful feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfinal retest after access to midterm solutions and written feedback\tinitial midterm attempt before that feedback": {
+  "label": "retest after access to solutions and written feedback vs initial attempt before feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer feedback followed by revision\tinitial solution before peer feedback": {
+  "label": "peer feedback followed by revision vs initial solution before peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer feedback on the solution graphs\tinitial solution before peer feedback": {
+  "label": "peer feedback followed by revision vs initial solution before peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tundergraduate lab-course notebook experience with feedback or useful instruction\tno useful instruction or feedback": {
+  "label": "feedback or useful instruction vs no useful instruction or feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer feedback requesting clearer reasoning\tinitial solution before peer feedback": {
+  "label": "peer feedback vs no peer feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t2008 lectures with research-based concept tests and peer instruction\ttraditional QM lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t2009 lectures with refined research-based concept tests and peer instruction\ttraditional QM lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\t2010 lectures with further-refined research-based concept tests and peer instruction\ttraditional QM lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tPeer instruction with research-based QM concept tests\tTraditional QM lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tQM lectures with research-based concept tests and peer instruction\ttraditional QM lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfinal attempt after midterm solutions and feedback were available\tinitial midterm attempt before those solutions and feedback": {
+  "label": "feedback before reassessment vs no feedback before reassessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tgrading that encourages effective problem-solving approaches\tcorrectness-focused grading": {
+  "label": "problem-solving-process-focused grading vs correctness-focused grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlectures with concept tests in 2008\ttraditional lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlectures with concept tests in 2009\ttraditional lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlectures with concept tests in 2010\ttraditional lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlectures with peer-instruction concept tests\ttraditional lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tlectures with research-based concept tests as peer-instruction tools\ttraditional lectures without concept tests": {
+  "label": "concept tests with peer instruction vs traditional lectures without concept tests",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsecond student teaching performance after feedback\tfirst student teaching performance": {
+  "label": "feedback before reassessment vs no feedback before reassessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\twell-defined learning goals with commensurate assessment\tvague goals and non-commensurate assessment": {
+  "label": "aligned learning goals and assessment vs vague or misaligned goals and assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tDiffGame\tno comparison reported": {
+  "label": "gamified vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "gamification\tDiffGame practice, measured by the last three answers\tinitial performance, measured by the first three answers": {
+  "label": "later gamified practice vs earlier gamified practice",
+  "treatment_is_a": true
+ },
+ "gamification\tDiffGame progression from first three to last three exercises\tinitial three exercises": {
+  "label": "later gamified exercises vs initial gamified exercises",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tLarmor precession QuILT with guided questions and simulations\ttraditional instruction before the QuILT": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tLarmor-precession QuILT with guided questions\tpre-test after traditional instruction": {
+  "label": "guided discovery vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tLarmor-precession QuILT with guided questions and simulation-based prediction and observation\tpre-test after traditional instruction, before the QuILT": {
+  "label": "guided discovery vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tLarmor-precession QuILT with guided questions and simulations\tpre-QuILT responses after traditional instruction": {
+  "label": "guided discovery vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tLarmor-precession QuILT with guided questions and simulations\ttraditional instruction before the QuILT": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tPost-QuILT performance\tfinal-exam performance more than two months later": {
+  "label": "immediate vs delayed assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tSGE QuILT guided inquiry\tnot stated": {
+  "label": "guided discovery vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tSGE QuILT guided-inquiry intervention\tpre-test before the QuILT": {
+  "label": "guided discovery vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tlearning through the QuILT followed by course instruction\tposttest performance immediately after the QuILT": {
+  "label": "delayed vs immediate assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmeasurement QuILT\tconcept tests only": {
+  "label": "guided discovery QuILT vs concept tests only",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmeasurement QuILT with prediction, simulation, and guidance\tconcept tests with peer instruction": {
+  "label": "guided discovery QuILT vs peer-instruction concept tests",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmeasurement QuILT with predictions, simulations, and guidance\ttraditional lectures and weekly homework": {
+  "label": "guided discovery vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tresearch-based QuILT using guided inquiry\tpre-test performance before the QuILT": {
+  "label": "guided discovery vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\ttutorial instruction\ttraditional lecture-only instruction": {
+  "label": "guided discovery tutorial vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "media-design\tUse perturbation width to convey planet mass\tUse perturbation height to convey planet mass": {
+  "label": "perturbation width vs perturbation height",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram-only: instructor-provided basic diagram\tprompt-only: explicit instruction to draw a diagram": {
+  "label": "instructor-provided diagram vs prompt to draw a diagram",
+  "treatment_is_a": true
+ },
+ "media-design\thigher positive pleasure self-assessment among infographic users\tlower positive pleasure self-assessment among infographic users": {
+  "label": "higher vs lower positive pleasure self-assessment",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographics\tgraphics+text": {
+  "label": "infographics vs graphics+text",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographics for visual learners\tgraphics+text for visual learners": {
+  "label": "infographics vs graphics+text",
+  "treatment_is_a": true
+ },
+ "media-design\tlaboratory videos\tlecture-oriented videos": {
+  "label": "laboratory videos vs lecture-oriented videos",
+  "treatment_is_a": true
+ },
+ "media-design\tlearning material: infographic or graphics+text\tpretest before viewing learning material": {
+  "label": "learning material vs pretest before learning material",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial representation of the possible wavefunction\twritten representation of the possible wavefunction": {
+  "label": "pictorial representation vs written representation",
+  "treatment_is_a": true
+ },
+ "media-design\tquestion focused on intersection of penumbras\tquestion focused on bulbs or slit": {
+  "label": "intersection of penumbras vs bulbs or slit",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond student-teaching performance after the first round and feedback\tfirst student-teaching performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tAttempt the friction quiz before receiving the solved tension problem, then retake it\tSolve the friction quiz without scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tAttempt the putty problem first, then study the solved snowboard problem and redo the quiz problem\tSolve the putty problem without scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tAttempt the tire-swing problem, study the solved roller-coaster analogy, then retry the tire-swing problem\tSolve the tire-swing problem without a solved example": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tattempt the putty problem before studying the solved example\tsolve the putty problem without scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tattempt the tire-swing problem, then study a solved roller-coaster problem and retry the tire-swing problem\tsolve the tire-swing problem alone as a traditional quiz, with no scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tsolve the putty problem before studying the solved snowboard problem and redoing it\tsolve the putty problem without scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tsolve the putty problem first, then study the solved snowboard problem and redo it\tsolve the putty problem without scaffolding": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tsolve the quiz problem first, then study the solved problem and redo the quiz problem\tsolve the putty quiz problem independently": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "problem-first\tsolve the quiz problem first, then study the solved problem and redo the quiz problem\tsolve the quiz problem independently": {
+  "label": "problem-first with worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "prompts\tbeing explicitly asked to reconsider the response\tinitial response without recognizing the omission": {
+  "label": "prompted reconsideration vs no prompted reconsideration",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit free-body-diagram questions added before the paired magnitude questions\tno corresponding free-body-diagram questions": {
+  "label": "free-body-diagram questions vs no free-body-diagram questions",
+  "treatment_is_a": true
+ },
+ "prompts\texplicitly asked to reconsider initial responses\tinitial responses before reconsideration": {
+  "label": "prompted reconsideration vs no prompted reconsideration",
+  "treatment_is_a": true
+ },
+ "prompts\texplicitly prompted to draw a diagram\tno diagram or instruction regarding diagrams": {
+  "label": "prompted diagram drawing vs no diagram prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tguided reflection focused on meaningful aspects of practice to change or maintain\tinsufficiently structured or unsupported reflection": {
+  "label": "guided meaningful reflection vs unsupported reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tinterviewer explicitly encouraged conversion of the conceptual question into a quantitative problem\tconceptual question without that explicit encouragement": {
+  "label": "prompted quantitative conversion vs no quantitative-conversion prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tteacher conversations focused on specific teaching problems and connected to general teaching and learning principles\tconversations without those focuses or connections": {
+  "label": "focused principle-connected teacher conversations vs unfocused or unconnected conversations",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tExplicit incentive to diagnose and correct midterm mistakes for up to 50% of lost points\tNo grade incentive to diagnose and correct mistakes; solutions were provided": {
+  "label": "Incentive to diagnose and correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texplicit incentive to diagnose and correct midterm mistakes for up to 50% of lost points\tno grade incentive to diagnose and correct midterm mistakes": {
+  "label": "Incentive to diagnose and correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentive to correct midterm mistakes\tno incentive to correct midterm mistakes": {
+  "label": "Incentive to correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentive to diagnose and correct midterm mistakes\tno grade incentive to diagnose and correct mistakes": {
+  "label": "Incentive to diagnose and correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentive to diagnose and correct midterm mistakes\tsame students before correction opportunity": {
+  "label": "Incentive to diagnose and correct mistakes vs no correction opportunity",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tmidterm mistake-correction incentive\tno incentive to correct mistakes": {
+  "label": "Incentive to correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tup to 50% of lost points for correcting midterm mistakes\tno grade incentive to correct mistakes": {
+  "label": "Incentive to correct mistakes vs no incentive",
+  "treatment_is_a": true
+ },
+ "scaffolding\tAlgebra-based intervention group 2: solve the friction problem first with prediction and consistency-check prompts, then study the solved tension problem and redo the problem\tSolve the friction problem independently without scaffolding": {
+  "label": "Scaffolded problem solving vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCalculus-based intervention group 1: study a solved analogical tension problem, then solve the tension and friction problems\tCalculus-based comparison group: solve the friction problem independently": {
+  "label": "Analogy-based worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCalculus-based intervention group 2: solve the friction problem first with prediction and consistency-check prompts, then study the solved tension problem and redo the problem\tSolve the friction problem independently without scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCalculus-based intervention group 2: solve the target problem and related prediction/consistency questions first, then study the solved analogical problem and redo the target\tCalculus-based comparison group: solve the friction problem independently": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCalculus-based intervention group 3: study the solved analogical problem, solve the target, and explain the meaning of the static-friction inequality\tCalculus-based comparison group: solve the friction problem independently": {
+  "label": "Explanation-enhanced analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCalculus-based intervention group 3: study the solved tension problem, solve the friction problem, and explain the inequality f_s ≤ μ_s F_N\tSolve the friction problem independently without scaffolding": {
+  "label": "Explanation-enhanced analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGroup B: TA solution outline and problem-solving rubric\tControl group A: discussion of the quiz solution with the TA, without prompting to self-diagnose": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGroup C: detailed worked-out example\tControl group A: discussion of the quiz solution with the TA, without prompting to self-diagnose": {
+  "label": "Worked example vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tGroup D: final answer, with access to notes and textbooks\tControl group A: discussion of the quiz solution with the TA, without prompting to self-diagnose": {
+  "label": "Minimal guidance vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: solve first with steeper-incline prediction and consistency-check prompts, then receive a solved tension example and retry\tsolve the friction problem independently with no scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: solve the friction problem first, make qualitative and quantitative predictions, check consistency, then receive a solved tension problem and retry\tSolve the friction problem independently with no scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: students first attempted the friction problem, then received a solved analogous tension problem and tried again\tNo scaffolding; students solved the friction problem independently": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: study a solved isomorphic problem, then identify similarities before solving\tsolve the quiz problem alone without scaffolding": {
+  "label": "Study-then-solve analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: study a solved roller-coaster problem, reproduce it, then solve the tire-swing problem\tSolve only the tire-swing problem without scaffolding": {
+  "label": "Worked-example analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: study solved problem, identify similarities, then solve\tsolve quiz problem alone": {
+  "label": "Study-then-solve analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 1: study the analogical worked solution first, then solve the analogical and target problems\tIntervention 3: study the analogical worked solution while explaining the static-friction inequality, then solve the target problem": {
+  "label": "Analogy scaffolding without explanation vs explanation-enhanced analogy scaffolding",
+  "treatment_is_a": false
+ },
+ "scaffolding\tIntervention 2: attempt the quiz problem first, study a solved isomorphic problem, then redo the quiz problem\tsolve the quiz problem alone without scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: prediction and calculation about friction on a steeper incline before using the analogical tension problem\tNot stated": {
+  "label": "Prediction-and-calculation prompts vs not stated",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: receive the solved tension problem and friction problem together, compare their similarity, and explain the static-friction inequality\tSolve the friction problem independently with no scaffolding": {
+  "label": "Analogy-plus-principle-explanation scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: solve first, study solved problem, then redo quiz problem\tsolve quiz problem alone": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: solve the friction problem first with prediction and consistency prompts, then learn from the tension solution and redo it\tIntervention 1: learn from the tension solution first, then solve the tension and friction problems": {
+  "label": "Attempt-then-study-and-retry vs study-then-solve",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: solve the friction problem first with prediction and consistency-check prompts, then study the solved tension analogy and redo the problem\tSolve the friction problem independently with no scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: solve the target problem first with prediction and consistency prompts, then study the analogical solution and solve again\tIntervention 1: study the analogical worked solution first, then solve the analogical and target problems": {
+  "label": "Attempt-then-study-and-retry vs study-then-solve",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: solve the target problem first with prediction and consistency prompts, then study the analogical solution and solve again\tIntervention 3: study the analogical worked solution while explaining the static-friction inequality, then solve the target problem": {
+  "label": "Attempt-then-study-and-retry vs explanation-enhanced study-then-solve",
+  "treatment_is_a": false
+ },
+ "scaffolding\tIntervention 2: solve the tire-swing problem, study a solved roller-coaster problem, then solve the tire-swing problem again\tSolve only the tire-swing problem without scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 2: students received the solved analogous tension problem together with the friction problem and prompts about the static-friction inequality\tNo scaffolding; students solved the friction problem independently": {
+  "label": "Analogy-plus-principle-explanation scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 3: learn from the tension solution, solve the friction problem, and explain the inequality in static friction\tIntervention 1: learn from the tension solution first, then solve the tension and friction problems": {
+  "label": "Explanation-enhanced analogy scaffolding vs basic analogy scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 3: receive explicit principles and additional centripetal-force dialogue hints while studying the solved problem\tsolve the quiz problem alone without scaffolding": {
+  "label": "Explicit-principles and dialogue-hints scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 3: solved isomorphic problem, explicit principles, and centripetal-force dialogue\tQuiz problem alone without scaffolding": {
+  "label": "Explicit-principles and dialogue-hints scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention 3: solved problem plus hints about momentum, energy, and using energy twice\tsolve quiz problem alone": {
+  "label": "Explicit-principles and strategy-hints scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tIntervention group 1: study a solved tension problem, then solve the tension and friction problems while identifying similarities\tSolve the friction problem independently without scaffolding": {
+  "label": "Study-then-solve analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tLarmor-precession QuILT with guided questions, simulations, and scaffolding\tpre-test after traditional instruction": {
+  "label": "Guided interactive inquiry course vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tReceive the solved roller-coaster problem as analogy scaffolding\tSolve the tire-swing problem without scaffolding": {
+  "label": "Analogy-based worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolding supports that directly address the alternative conception, including contemplation of related issues or solving the target before studying the analogical solution\tNo scaffolding: solve the friction problem independently": {
+  "label": "Alternative-conception-focused scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tSolve the target first, consider related issues, then study the solved tension analogy and retry\tSolve the friction problem without scaffolding": {
+  "label": "Attempt-then-study-and-retry scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tStudy the solved tension analogy first, then solve the friction target\tSolve the friction problem without scaffolding": {
+  "label": "Study-then-solve analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tStudy the solved tension analogy, explain the static-friction inequality, then solve the target\tSolve the friction problem without scaffolding": {
+  "label": "Explanation-enhanced analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tStudy the solved tension problem, then solve the tension and friction problems\tSolve the friction problem independently without scaffolding": {
+  "label": "Study-then-solve analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tanswering free-body-diagram questions before the force calculations\tanswering the force calculations without the free-body-diagram questions": {
+  "label": "Free-body-diagram prompts before calculations vs calculations without diagram prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicitly identify the principles and cue using conservation of mechanical energy twice\tsolve the putty problem without scaffolding": {
+  "label": "Explicit principle identification and strategy cues vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstruction building gradually on students’ initial knowledge\tinstruction not accounting for initial knowledge": {
+  "label": "Instruction adapted to initial knowledge vs instruction not accounting for initial knowledge",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructional encouragement to explore ViMAP commands and redesign models for communication\tnormative evaluation based primarily on matching graphs to speed data": {
+  "label": "Exploratory model redesign encouragement vs normative graph-matching evaluation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinteractive video tutorial with guided subproblems and videos\tattempting the problem without tutorial help": {
+  "label": "Interactive guided tutorial vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintervention 3\tintervention 1 in the algebra-based course": {
+  "label": "Explanation-enhanced scaffolding vs basic scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintervention groups 1–3 with worked example and/or guidance\tputty problem without scaffolding": {
+  "label": "Worked-example or guidance scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintervention groups receiving solved example and/or analogical guidance\tcomparison group solving the putty problem without scaffolding": {
+  "label": "Worked-example or analogy scaffolding vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tisomorphic solved problem with scaffolding\tquiz problem alone without scaffolding": {
+  "label": "Analogy-based worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlater projects in a scaffolded sequence\tinitial project": {
+  "label": "Later scaffolded projects vs initial project",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlearn from the solved snowboard problem, then solve the putty problem\tsolve the putty problem independently": {
+  "label": "Analogy-based worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tminimal guidance: notes and textbooks\tother self-diagnosis scaffolds": {
+  "label": "Minimal guidance vs self-diagnosis scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tminimal scaffolding with notes and textbooks (group D)\tother scaffolding groups": {
+  "label": "Minimal guidance vs other scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tminimal scaffolding: notes and textbooks (group D)\toutline/rubric, worked example, or other scaffolding groups": {
+  "label": "Minimal guidance vs other scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tnotes and textbook only (group D)\tdetailed worked-out example (group C)": {
+  "label": "Worked example vs minimal guidance",
+  "treatment_is_a": false
+ },
+ "scaffolding\tnotes and textbook only (group D)\toutline plus rubric (group B)": {
+  "label": "Self-diagnosis outline and rubric vs minimal guidance",
+  "treatment_is_a": false
+ },
+ "scaffolding\toutline and diagnosis rubric\tcontrol": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric\tworked example or minimal guidance": {
+  "label": "Self-diagnosis outline and rubric vs worked example or minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric (Group B')\tcontrol group A": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric (Group B)\tcontrol group A": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric (groups B and B')\tworked example or minimal guidance (groups C and D)": {
+  "label": "Self-diagnosis outline and rubric vs worked example or minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric for self-diagnosis\tcontrol instruction": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric for self-diagnosis\tother scaffolding or minimal guidance": {
+  "label": "Self-diagnosis outline and rubric vs other scaffolding or minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline and diagnosis rubric for self-diagnosis (group B)\tcontrol group A": {
+  "label": "Self-diagnosis outline and rubric vs control instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline of correct solution plus self-diagnosis rubric\tminimal guidance using notes and textbooks": {
+  "label": "Self-diagnosis outline and rubric vs minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline of correct solution plus self-diagnosis rubric\tworked-out example": {
+  "label": "Self-diagnosis outline and rubric vs worked example",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline plus self-diagnosis rubric\tminimal guidance": {
+  "label": "Self-diagnosis outline and rubric vs minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline plus self-diagnosis rubric\tworked-out example": {
+  "label": "Self-diagnosis outline and rubric vs worked example",
+  "treatment_is_a": true
+ },
+ "scaffolding\toutline/rubric, worked example, or minimal-guidance self-diagnosis\tother self-diagnosis scaffolds": {
+  "label": "Outline, worked example, or minimal-guidance self-diagnosis vs other self-diagnosis scaffolds",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpost-test after completing the QuILT\tmatched final-exam questions more than two months later": {
+  "label": "Immediate post-course assessment vs delayed matched assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsolved isomorphic problem with additional analogy scaffolding\tquiz problem solved without a solved isomorphic problem or scaffolding": {
+  "label": "Analogy-enhanced worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsolved roller-coaster problem provided as scaffolding\ttire-swing problem solved without scaffolding": {
+  "label": "Analogy-based worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstructured project-based computational physics course\tstudent practice before or without the course": {
+  "label": "Structured project-based course vs practice without the course",
+  "treatment_is_a": true
+ },
+ "scaffolding\tstudy the solved problem with hints to use conservation of momentum and mechanical energy, including energy twice\tsolve the putty quiz problem independently": {
+  "label": "Explicit strategy-cued worked example vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttextbook and notes only (group D)\tcomplete solution (group C)": {
+  "label": "Worked example vs minimal guidance",
+  "treatment_is_a": false
+ },
+ "scaffolding\tthree analogical-problem scaffolding interventions\tsolve the friction problem without scaffolding": {
+  "label": "Analogy-based scaffolding interventions vs unscaffolded problem solving",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworked-example self-diagnosis\tminimal-guidance self-diagnosis": {
+  "label": "Worked-example self-diagnosis vs minimal-guidance self-diagnosis",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworked-out example\tminimal guidance": {
+  "label": "Worked example vs minimal guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworked-out example (Group C)\tminimal guidance with notes and textbooks (Group D)": {
+  "label": "Worked example vs minimal guidance",
+  "treatment_is_a": true
+ },
+ "simulation\tEnergy Skate Park simulation with semi-guided exploration\tno comparison reported": {
+  "label": "simulation-based instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tLarmor-precession QuILT with guided questions, simulations, and scaffolding\tpost-test immediately after the QuILT": {
+  "label": "simulation-based QuILT vs immediate post-test",
+  "treatment_is_a": true
+ },
+ "simulation\tLarmor-precession QuILT with guided questions, simulations, and scaffolding\tpre-test after traditional instruction": {
+  "label": "simulation-based QuILT vs pre-test after traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET Energy Skate Park with interactive exploration and experimentation\tno comparison condition reported": {
+  "label": "simulation-based instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET Energy Skate Park with semi-guided exploration\tno comparison condition reported": {
+  "label": "simulation-based instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tPhET Energy Skate Park with semi-guided exploratory activities\tno comparison condition reported": {
+  "label": "simulation-based instruction vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tQuILT using prediction-and-observation simulations\tpre-test before working on the QuILT": {
+  "label": "simulation-based QuILT vs pre-test before the QuILT",
+  "treatment_is_a": true
+ },
+ "simulation\tTrick simulation showing the penumbra intersection as illuminated\tNatural setting or correct simulation showing the intersection as shadowed": {
+  "label": "trick simulation vs natural or correct representation",
+  "treatment_is_a": true
+ },
+ "simulation\tguided Mach-Zehnder QuILT with Huber simulation\tpre-test after traditional instruction, before the QuILT": {
+  "label": "simulation-based QuILT vs pre-test after traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\ttrick simulation showing the penumbra intersection as illuminated\tnatural or correct representation showing the intersection as shadowed": {
+  "label": "trick simulation vs natural or correct representation",
+  "treatment_is_a": true
+ },
+ "simulation\ttrick simulation showing the penumbra intersection as illuminated\tnatural or correct simulation showing the intersection as shadowed": {
+  "label": "trick simulation vs natural or correct representation",
+  "treatment_is_a": true
+ },
+ "simulation\ttrick simulation showing the penumbra intersection as illuminated\tnatural-setting representation showing the intersection as shadowed": {
+  "label": "trick simulation vs natural or correct representation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15 minutes reading the APWG public education initiative website\tpre-test before training": {
+  "label": "technology-tool use vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t1:1 iPad environment\ttraditional learning without 1:1 iPads": {
+  "label": "1:1 iPad learning vs traditional learning without 1:1 iPads",
+  "treatment_is_a": true
+ },
+ "technology-tool\t1:1 iPad learning environment\ttraditional non-tablet learning": {
+  "label": "1:1 iPad learning vs traditional non-tablet learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2012 class using KBDeX for discourse analysis\t2010 class without tool-assisted discourse analysis": {
+  "label": "tool-assisted discourse analysis vs no tool-assisted discourse analysis",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2012 class with discourse-analysis tools\t2010 class without tool analysis": {
+  "label": "tool-assisted discourse analysis vs no tool-assisted discourse analysis",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2012 course with KBDeX-assisted discourse analysis\tbefore taking the course": {
+  "label": "KBDeX-assisted discourse analysis vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2012 course with KBDeX-supported discourse analysis\t2010 course without tool-assisted discourse analysis": {
+  "label": "tool-assisted discourse analysis vs no tool-assisted discourse analysis",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2013 mobile tutor-web with timeout and variable taper up to 30\t2012 tutor-web with fixed taper of length 8 and no timeout": {
+  "label": "variable-taper tutor-web with timeout vs fixed-taper tutor-web without timeout",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2013 mobile tutor-web with variable taper and timeout\t2012 old system with fixed taper of length 8 and no timeout": {
+  "label": "variable-taper tutor-web with timeout vs fixed-taper tutor-web without timeout",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2014 course with StudentResearcher\t2013 course without StudentResearcher": {
+  "label": "StudentResearcher vs no StudentResearcher",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2014 course with StudentResearcher and lecture re-addressing of change-of-basis calculations\t2013 course without StudentResearcher": {
+  "label": "StudentResearcher-supported course vs course without StudentResearcher",
+  "treatment_is_a": true
+ },
+ "technology-tool\t6-to-10-week Tracker performance task\tpre-task baseline": {
+  "label": "Tracker performance task vs pre-task baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t@AstroAlAire Twitter outreach\tno comparison stated": {
+  "label": "Twitter outreach vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tprerecorded lecture or annotated dataset": {
+  "label": "AI-based web application vs prerecorded lecture or annotated dataset",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tpretraining": {
+  "label": "AI-based web application vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web-application training\tlecture and annotated-dataset training": {
+  "label": "AI-based web-application training vs lecture and annotated-dataset training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven GPT-4 virtual-patient e-learning for endodontic diagnosis\tself-perceived skills before training": {
+  "label": "AI-driven virtual-patient e-learning vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven personalized learning platforms\tnot stated": {
+  "label": "AI-driven personalized learning platforms vs no comparison stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven teaching paradigm\ttraditional teaching": {
+  "label": "AI-driven teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven virtual patient e-learning tool\tpre-training baseline": {
+  "label": "AI-driven virtual-patient e-learning vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven virtual patient e-learning tool\tself-perceived baseline before training": {
+  "label": "AI-driven virtual-patient e-learning vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven virtual patient simulation\tactor-based simulation": {
+  "label": "AI-driven virtual-patient simulation vs actor-based simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven virtual patient simulation\tactor-based simulation timetable": {
+  "label": "AI-driven virtual-patient simulation vs actor-based simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven virtual patient simulator\tactor-based simulation": {
+  "label": "AI-driven virtual-patient simulator vs actor-based simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven voice-recognition virtual patient simulation\tpreintervention": {
+  "label": "AI-driven voice-recognition virtual-patient simulation vs preintervention baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven voice-recognition virtual patient simulator\tactor-based consultation skills simulation": {
+  "label": "AI-driven voice-recognition virtual-patient simulation vs actor-based consultation-skills simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-empowered scenario-based simulation teaching\ttraditional teaching": {
+  "label": "AI-empowered scenario-based simulation vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-empowered scenario-based simulation teaching\ttraditional teaching mode": {
+  "label": "AI-empowered scenario-based simulation vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalized teaching model\tconventional teaching": {
+  "label": "AI-enabled personalized teaching vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalized teaching model with AI-standardized patient training\tconventional teaching": {
+  "label": "AI-enabled personalized teaching with AI-standardized-patient training vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "test-format\tconstructed-response tasks\tselected-response tasks": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": true
+ },
+ "test-format\tdichotomous multiple-choice scoring\trubric-graded free-response": {
+  "label": "dichotomous multiple-choice scoring vs rubric-graded free-response scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tfree-response capacitance question\tmultiple-choice capacitance question": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": true
+ },
+ "test-format\tfree-response inductance question\tmultiple-choice inductance question": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": true
+ },
+ "test-format\tfree-response questions\tmultiple-choice questions": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice questions\tfree-response questions": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": false
+ },
+ "test-format\tmultiple-choice resistance question\tfree-response resistance question": {
+  "label": "constructed-response vs selected-response",
+  "treatment_is_a": false
+ },
+ "test-format\tmultiple-response test version\tfree-response test version": {
+  "label": "multiple-response vs free-response",
+  "treatment_is_a": true
+ },
+ "test-format\tweighted multiple-choice questions\tdichotomous multiple-choice questions": {
+  "label": "weighted vs dichotomous multiple-choice scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tweighted multiple-choice scoring\tdichotomous multiple-choice scoring": {
+  "label": "weighted vs dichotomous multiple-choice scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tweighted multiple-choice scoring\trubric-graded free-response": {
+  "label": "weighted multiple-choice scoring vs rubric-graded free-response scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tweighted simulated multiple-choice scoring\tdichotomous simulated multiple-choice scoring": {
+  "label": "weighted vs dichotomous simulated multiple-choice scoring",
+  "treatment_is_a": true
+ },
+ "worked-examples\tIntervention 1: study a solved isomorphic problem, then identify similarities and use them to solve the quiz problem\tSolve only the quiz problem without a solved example or scaffolding": {
+  "label": "worked example vs problem solving without a worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tIntervention 2: attempt the quiz problem, study a solved isomorphic problem, then redo the quiz problem with similarity prompts\tSolve only the quiz problem without a solved example or scaffolding": {
+  "label": "worked example with attempt-and-redo vs problem solving without a worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tSolve the putty problem, then study the solved snowboard example and redo the problem\tInitial putty-problem solution before studying the solved example": {
+  "label": "re-solving after a worked example vs initial solving before the worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tStudy a solved roller-coaster problem, then reproduce it before solving the analogy problem\tSolve the tire-swing problem without a solved example": {
+  "label": "worked example with reproduction vs problem solving without a worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tStudy and reproduce the solved snowboard problem\tSolve the structurally different three-step putty problem": {
+  "label": "reproducing a worked example vs solving an analogous problem",
+  "treatment_is_a": true
+ },
+ "worked-examples\tStudy the solved snowboard problem for 10 minutes, reproduce it, then solve the putty problem\tSolve the putty problem without scaffolding": {
+  "label": "worked example followed by target-problem solving vs problem solving without scaffolding",
+  "treatment_is_a": true
+ },
+ "worked-examples\tcalculus-based students' second attempt after learning from a solved isomorphic problem\tfirst-year physics graduate students solving the problem without a solved problem": {
+  "label": "learning from a worked example before a second attempt vs solving without a worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tfinal attempt after access to midterm solutions and written feedback\tmidterm attempt before access to solutions and feedback": {
+  "label": "access to worked solutions and feedback vs no access before the comparison attempt",
+  "treatment_is_a": true
+ },
+ "worked-examples\tlearn from the solved snowboard problem before solving the putty problem\tsolve the putty problem without scaffolding": {
+  "label": "worked example before target-problem solving vs problem solving without scaffolding",
+  "treatment_is_a": true
+ },
+ "worked-examples\tlearn from the solved snowboard problem before solving the quiz problem\tsolve the putty quiz problem independently": {
+  "label": "worked example before target-problem solving vs independent problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tlearned from a solved isomorphic problem after an initial attempt\tinitial attempt before receiving the solved problem": {
+  "label": "re-solving after a worked example vs initial solving before the worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\tre-solve after browsing the solved roller coaster solution\tinitial tire swing solution before browsing": {
+  "label": "re-solving after browsing a worked solution vs initial solving before browsing",
+  "treatment_is_a": true
+ },
+ "worked-examples\tread the solved snowboard problem before redoing the putty problem\tsolve the putty problem before reading the solved example": {
+  "label": "worked example before re-solving vs initial problem solving before the worked example",
+  "treatment_is_a": true
+ },
+ "worked-examples\treproduce the solved snowboard problem\tsolve the analogous putty quiz problem": {
+  "label": "reproducing a worked example vs solving an analogous problem",
+  "treatment_is_a": true
+ },
+ "worked-examples\treproducing the browsed solved roller-coaster problem\tsolving the new tire-swing problem": {
+  "label": "reproducing a worked example vs solving a new analogous problem",
+  "treatment_is_a": true
+ },
+ "worked-examples\tsolve the three-step isomorphic quiz problem after browsing the two-step worked solution\treproduce the two-step snowboard problem after browsing its solution": {
+  "label": "reproducing a worked example vs solving an analogous problem",
+  "treatment_is_a": false
+ },
+ "worked-examples\tstudy a solved roller-coaster problem, reproduce it, then solve the tire-swing problem\tsolve the tire-swing problem alone as a traditional quiz, with no scaffolding": {
+  "label": "worked example with reproduction vs problem solving without scaffolding",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudy a solved snowboard problem before solving the putty problem\tsolve the putty problem without scaffolding": {
+  "label": "worked example before target-problem solving vs problem solving without scaffolding",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying the solved tension problem\tsolving the friction target problem": {
+  "label": "studying a worked example vs solving the target problem",
+  "treatment_is_a": true
+ },
+ "worked-examples\ttextbook-style worked solution\trelevant textbook section": {
+  "label": "worked solution vs relevant textbook exposition",
+  "treatment_is_a": true
  }
 }

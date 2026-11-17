@@ -52,3 +52,4 @@ Results from Q3 of the questionnaire on simple astronomical concepts: the study 
 - [Argentine primary and secondary minimum-content curricula include the astronomy topics most associated with alternative conceptions](argentine-curricula-include-conflictive-astronomy-topics.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related
+- [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related

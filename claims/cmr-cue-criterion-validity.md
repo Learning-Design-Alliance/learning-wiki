@@ -51,3 +51,4 @@ Criterion-validity analysis of the split-class comparison using standardized (z-
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [CMR CUE scores correlate highly with aggregate exam scores (r = 0.71) and final course scores (r = 0.64) at CU, establishing criterion validity for that population](cmr-cue-criterion-validity-exam-course-correlations.md) — possibly the same claim (merge candidate)
+- [Weighted simulated multiple-choice scores correlate more highly with rubric-graded free-response performance than dichotomous simulated scores](weighted-mc-correlation-higher-than-dichotomous.md) — related

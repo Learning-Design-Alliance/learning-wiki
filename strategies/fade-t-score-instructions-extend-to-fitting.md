@@ -48,6 +48,7 @@ The article recommends that with the t'-score framework introduced early, "these
 ## Related Strategies
 
 - [Routines](routines.md)
+- [Use explicit formative-assessment interventions to help advanced physics students develop learning and self-monitoring habits of mind](explicit-formative-assessment-advanced-courses.md)
 
 ## Examples
 -

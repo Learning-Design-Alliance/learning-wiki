@@ -50,3 +50,4 @@ Guanhua initially represented interactions with multiple charges sequentially bu
 - [Students' reasoning about electric fields is variable and context-sensitive rather than fixed](student-reasoning-variability-context-sensitive.md) — a broader claim this one bears on
 - [Students express that electric interactions are stronger when charges are closer and that charges have a range of effect](electric-interaction-strength-varies-with-distance.md) — related
 - [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related
+- [Students have difficulty with the principle of superposition, failing to distinguish the field due to individual charges from the net electric field](superposition-principle-difficulty.md) — related

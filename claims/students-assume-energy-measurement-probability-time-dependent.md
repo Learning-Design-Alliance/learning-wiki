@@ -51,3 +51,4 @@ In the N = 210 survey, on questions 2 and 4 concerning energy measurement at t >
 - [Students answer analogous measurement-probability questions consistently but mostly incorrectly](students-consistent-but-incorrect-analogous-quantum-questions.md) — related
 - [QMAT data reveal widespread student difficulties relating the Hamiltonian to time evolution of quantum states](qmat-hamiltonian-time-evolution-difficulties.md) — related
 - [Students incorrectly assume the probability density for measuring position is time-independent, and this error is context-dependent](students-assume-position-probability-density-time-independent.md) — related
+- [Upper-level students hold specific difficulties with commutators, stationary states, and eigenstates of non-energy operators in Larmor precession contexts](student-difficulties-time-dependence-expectation-values.md) — related

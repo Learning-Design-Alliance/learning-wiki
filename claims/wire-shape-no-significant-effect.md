@@ -16,12 +16,14 @@ sources:
     author: Mary Bridget Kustusch
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Shape of the current-carrying wire has no significant effect on correctness or response time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mary Bridget Kustusch. (2015). Assessing the impact of representational and contextual problem features on student use of right-hand rules. [doi:10.1103/physrevphyseducres.12.010102](https://doi.org/10.1103/physrevphyseducres.12.010102)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Likelihood ratio chi-squared test (N = 160) and ANOVA F test on magnetic field and magnetic force problems with a current-carrying wire found "no signiﬁcant diﬀerence in cor- rectness (p = 0.33) or response time (p = 0.27)", consistent with the hypothesis that shape affects the type of RHR used but not accuracy.
 

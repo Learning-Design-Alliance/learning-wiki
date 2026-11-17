@@ -55,3 +55,4 @@ Case study in which four ninth-graders thought aloud while answering the questio
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
 - [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — related
 - [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](think-aloud-interviews-q17-distractor-reasons.md) — related
+- [Think-aloud interviews show students sometimes deliberately chose surface or moderate categories like friction despite knowing the relevant physics principle](students-deliberate-moderate-categories.md) — related

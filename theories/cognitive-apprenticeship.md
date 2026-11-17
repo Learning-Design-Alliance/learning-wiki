@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (7 for, 4 mixed, 2 against) · 10 studies (5 causal, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (9 for, 4 mixed, 2 against) · 11 studies (6 causal, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 0 of 11 report an effect size · 15 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
@@ -32,6 +32,8 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Adding modeling videos and prompts during video analysis does not improve posttest or follow-up professional vision outcomes beyond the basic VLE](../claims/modeling-videos-prompts-no-additional-vision-gains.md) [-W] — attached 2026-10-28 from Janeczko et al. (2026), which proposed "Cognitive apprenticeship approach as a didactic framework for designing digital support tools in video-based learning"; tests this page's relationship.
 - [Lab findings on reflection may not transfer to authentic classroom environments](../claims/lab-class-transfer-caution-reflection-quizzing.md) [~W]
 - [Metacognitive time-outs attending to process occur multiple times in experienced teachers' classrooms but almost never with inexperienced teachers](../claims/metacognitive-time-outs-experienced-teachers.md) [+W] — attached 2026-11-10 from Winston Kalman A et al. (2013), which proposed "Theory of remediation: cognitive apprenticeship within a small community of inquiry requiring expert teachers in multiple roles".
+- [Level of scaffolding significantly affects introductory physics students' physics self-diagnosis performance, with outline-plus-rubric support yielding the highest diagnosis grades](../claims/scaffolding-level-affects-physics-self-diagnosis.md) [+W] — attached 2026-11-17 from E. Cohen et al. (2008), which proposed "Cognitive apprenticeship framing of scaffolded self-diagnosis tasks"; tests this page's relationship.
+- [Rubric scaffolding specifically improves diagnosis of presentation mistakes: the outline-plus-rubric group outperformed both other groups, which did not differ from each other](../claims/rubric-improves-presentation-self-diagnosis.md) [+W] — attached 2026-11-17 from E. Cohen et al. (2008), which proposed "Cognitive apprenticeship framing of scaffolded self-diagnosis tasks".
 
 ## Related Theories
 

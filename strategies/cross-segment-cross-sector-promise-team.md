@@ -45,6 +45,7 @@ The Guidebook directs teams to identify internal partners (leadership, faculty, 
 - [Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements](promise-evaluation-data-sharing-framework.md)
 - [Integrate layered student support services across the transitions from middle and high school, into college, and through college](promise-student-support-services-transitions.md)
 - [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
+- [Support a long-term community engagement program whose form best matches the partner institution, such as guest speaker programs, outreach seminar courses, internships, or joint events](long-term-engagement-program-forms.md)
 
 ## Examples
 -

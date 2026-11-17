@@ -49,3 +49,4 @@ Clinical-interview case study of Devon, an undergraduate engineering major, inte
 - [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](pat-alex-encyclopedic-contrast.md) — related
 - [One interviewed student responded negatively to equations in biology, viewing biology as tangible and perceivable and treating equations as material to memorize for exams](student-negative-epistemology-biology-tangible.md) — related
 - [Jim's epistemological stance treated mathematical reasoning as far more trustworthy than everyday reasoning, and he did not see equations as expressing meaning tractably connected to common sense](math-more-trustworthy-than-common-sense-stance.md) — related
+- [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related

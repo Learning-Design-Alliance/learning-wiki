@@ -75,3 +75,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [The BDF/PCC instrument showed high internal consistency, with Cronbach's α of 0.98 for the full scale](bdf-pcc-cronbach-alpha-0-98.md) — related
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
 - [Standard psychometric criteria and single-construct assumptions are inappropriate for formative assessments like the CLASS](psychometric-single-construct-criteria-inappropriate-for-fasi.md) — a narrower finding that bears on this claim
+- [The ACI's KR-20 fell below the desired range, indicating the concepts tested are highly independent, so the inventory does not meet the internal validity criterion for measuring a single construct](aci-kr20-below-range-single-construct.md) — related

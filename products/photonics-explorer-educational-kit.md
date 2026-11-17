@@ -21,6 +21,7 @@ A free educational kit developed for European secondary-school science teachers 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Photonics Explorer educational kit on light, optics and photonics**: The Photonics Explorer is an educational kit distributed free-of-charge to European secondary-school science teachers. It combines "a class-set of components for hands-on experiments together with an inquiry-based didactic framework", developed so the two parts complement each other and the teacher can concentrate on pedagogy rather than technical equipment. Components include aluminium mirrors, colour filter sets, LED modules, plastic lenses, polarisers, polymer optical fibre, eyesafe lasers, diffraction gratings, slit foils and diffractive optical elements. (Robert Fischer (2011))
+- **Support teachers with ready-made materials to improve science education**: Citing the Rocard Report 2007, the article argues that "the best way of improving science education is to support teachers". Teachers often default to traditional 'chalk and talk' not from opposition to modern didactics but because curricula, reform implementation, student social needs and teacher shortages leave little time for advanced methods. The Photonics Explorer acts on this by providing free, up-to-date material and a didactic framework designed to save preparation time. (Robert Fischer (2011))
 
 ### Claims
 

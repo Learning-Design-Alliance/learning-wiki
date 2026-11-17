@@ -47,4 +47,4 @@ The CSI pedagogy, developed in the WiMVT project at School of Science and Techno
 -
 
 ## Key Sources
-- Kwan, L., & Wee, L. K. (2015). A Case Study of Open Source Physics (OSP) Learning Community (LC). National Institute of Education, Singapore. http://weelookang.blogspot.sg/p/physics-applets-virtual-lab.html
+- Kwan, L., & Wee, L. K. (2015). A Case Study of Open Source Physics (OSP) Learning Community (LC). National Institute of Education, Singapore. http://weelookang.blogspot.sg/p/physics-applets-virtual-lab.html. [doi:10.48550/arxiv.1508.05197](https://doi.org/10.48550/arxiv.1508.05197)

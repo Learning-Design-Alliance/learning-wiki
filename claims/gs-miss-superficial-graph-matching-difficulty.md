@@ -67,3 +67,4 @@ Think-aloud interviews with six graduate students not from the class: on questio
 ## Related Claims
 - [Graduate students identified superficial verbal-description matching in straight-line graphs but not in more complex graphs, and their lowest PCK scores were on complex-graph questions 8 and 9](superficial-matching-complex-graphs-rarely-identified.md) — possibly the same claim (merge candidate)
 - [Graduate students identified moderate introductory difficulties better than major ones on the TUG-K](major-difficulties-identified-worse-than-moderate.md) — related
+- [Some AAPS responses are counter-intuitive and require careful interpretation: graduate students can match introductory students superficially, and faculty can appear less favorable due to automaticity](aaps-counterintuitive-responses-careful-interpretation.md) — related

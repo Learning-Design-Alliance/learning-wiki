@@ -66,3 +66,7 @@ Cluster-level analysis of the worksheet data: for problem description and evalua
 ## Related Claims
 - [Physics TAs more often graded the minimally reasoned solution SSE higher than the elaborated solution SSD, and average grades did not change significantly from semester start to end in one group measured before and after one semester of teaching experience and TA professional development](ta-grading-practices-unchanged-after-pd.md) — related
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
+- [The authors propose that TAs' belief-practice gap arises because research-recommended solution features conflict with values of engagement, standards, time, and grading](ta-belief-practice-gap-competing-values.md) — a broader claim this one bears on
+- [Many more TAs mentioned problem-description and explication features than graded on them](tas-mention-explication-features-more-than-grade-on-them.md) — related
+- [TAs notice few of the example-solution features that the literature identifies as supportive of expert-like problem solving](tas-notice-few-research-recommended-solution-features.md) — related
+- [The solution-checking feature (F14) is underrated or ignored by most TAs: only 4 noticed it and none performed an answer check in their own solutions](tas-underrate-solution-checking-feature.md) — related

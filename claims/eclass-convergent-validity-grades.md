@@ -16,6 +16,8 @@ sources:
     author: Bethany R. Wilcox and H. J. Lewandowski
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bethany-r-wilcox-and-h-j-lewandowski-2015-2
     resource: "https://doi.org/10.1103/physrevphyseducres.12.010123"
     title: "Bethany R. Wilcox and H. J. Lewandowski. (2015). Students' epistemologies about experimental physics: Validating the Colorado Learning Attitudes about Science Survey for Experimental Physics. arXiv:1512.06869. [doi:10.1103/physrevphyseducres.12.010123](https://doi.org/10.1103/physrevphyseducres.12.010123)"
@@ -42,7 +44,7 @@ sources:
 
 Bethany R. Wilcox and H. J. Lewandowski. (2015). Students' epistemologies about experimental physics: Validating the Colorado Learning Attitudes about Science Survey for Experimental Physics. arXiv:1512.06869. [doi:10.1103/physrevphyseducres.12.010123](https://doi.org/10.1103/physrevphyseducres.12.010123)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Convergent validity analysis using post-instruction E-CLASS scores and letter grades from two semesters of CU's four core laboratory courses; the overall correlation r = 0.04 is "neither practically or statistically significant" (p = 0.2).
 

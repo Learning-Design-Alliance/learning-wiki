@@ -28,6 +28,7 @@ A PhET Interactive Simulations physics simulation that lets learners explore con
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Energy Skate Park: Basics simulation**: Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middle school student learning of energy concepts, available at the PhET website. The authors write: "The sim is sequenced through the use of three tabs, Introduction, Friction and Track Playground, shown in Figure 3." Each tab supports specific learning goals (conservation of energy, energy-speed-position relationships, mass effects, friction effects), with pedagogically appropriate simplifications such as friction fixed at zero in the Introduction tab, faded in later tabs. (Podolefsky et al. (2013))
 - **Energy Skate Park (redesigned PhET simulation with pre-set tracks)**: Energy Skate Park is a PhET interactive simulation for learning energy conservation that the article presents as a worked example of implicit scaffolding. Students can originally build custom tracks of any shape, which could lead to tracks that do not illuminate key learning goals; "The sim was redesigned to use pre-set tracks that focus students on key energy ideas," with added cues, representations, and feedback. Critically, "Track building, which can support student ownership, is retained in another part of the sim." (Noah S. Podolefsky (2013))
+- **PhET Energy Skate Park interactive simulator**: A free interactive computer simulation from the PhET project (University of Colorado) in which a skater slides on designable tracks. Students can change the skater's mass, add friction, design tracks, and place the track on Earth, the Moon, Jupiter or Space, and "visualizar los grafos de los diferentes tipos de energía y su relación con la posición y el tiempo en forma dinámica". It can be downloaded and used without an Internet connection. (Martínez P. (2008))
 
 ### Claims
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
@@ -42,6 +43,7 @@ A PhET Interactive Simulations physics simulation that lets learners explore con
 - Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. http://phet.colorado.edu/en/simulation/energy-skate-park-basics. [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 <!-- merged 2026-10-10 from elements/energy-skate-park-basics-sim ("Energy Skate Park: Basics simulation"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Noah S. Podolefsky. (2013). Intentional Design for Empowerment. https://arxiv.org/abs/1306.6544
+- Martínez P., J. E. (2008). PhET: Percepciones y contribución del uso de simulaciones en el aprendizaje de los conceptos de energía para un curso de física general de la enseñanza técnica. https://phet.colorado.edu/new/index.php
 
 # Energy Skate Park: Basics simulation
 

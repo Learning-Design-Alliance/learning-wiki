@@ -56,3 +56,4 @@ Interview findings from California district leaders in fall 2020. Leaders estima
 - [California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning](calsaas-excludes-turnover-retention.md) — related
 - [Young researchers show higher risk for burnout, and extreme workload is normalised in academic success narratives](young-researchers-burnout-extreme-workload.md) — related
 - [The Covid-19 pandemic increased the design workload of university teachers as they migrated teaching online](pandemic-increased-design-workload-online-migration.md) — related
+- [Students willing to invest the necessary time and effort reported in a post-class survey that they learned a great deal, while heavy workload remained a retention risk for novices](intro-data-science-survey-learning-workload-risk.md) — related

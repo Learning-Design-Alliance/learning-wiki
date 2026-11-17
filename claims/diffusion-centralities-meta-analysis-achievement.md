@@ -66,3 +66,4 @@ Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling
 - [Information-relay centralities and eigenvector centrality are positively correlated with final, clinical and MCQ performance](information-relay-eigenvector-centrality-correlate-performance.md) — a narrower finding that bears on this claim
 - [SNA parameters predict final grade, with early (midterm) participation more predictive than whole-course data](sna-parameters-predict-grade-early-participation-more-predictive.md) — a narrower finding that bears on this claim
 - [Higher degree, indegree and closeness centrality at the end of a first-semester mechanics Modeling Instruction course correlate with persistence in any second-semester physics](centrality-degree-closeness-persistence-physics.md) — related
+- [A triple of first- and second-semester courses (FP1, FP2, AG) forms the central hub of the course-correlation network](central-courses-fp1-fp2-ag-mst-hubs.md) — related

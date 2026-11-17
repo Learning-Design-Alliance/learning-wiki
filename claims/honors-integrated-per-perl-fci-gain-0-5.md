@@ -54,3 +54,4 @@ Pre/post FCI assessment of small honors/majors sections of the calculus-based co
 - [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
+- [Student difficulties on the test are not strongly dependent on student population or calculus background, except for honors and active-engagement classes](difficulty-independent-of-calculus-background.md) — related

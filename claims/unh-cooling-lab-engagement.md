@@ -47,3 +47,4 @@ Videotaped observation of one student group in the authors' UNH cooling lab, whi
 ## Related Claims
 - [Jim's epistemological stance treated mathematical reasoning as far more trustworthy than everyday reasoning, and he did not see equations as expressing meaning tractably connected to common sense](math-more-trustworthy-than-common-sense-stance.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — related

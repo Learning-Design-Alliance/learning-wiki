@@ -51,3 +51,4 @@ Document analysis of a published problem and solution from a popular calculus-ba
 - [Commonly recommended physics textbooks do not use a consistent, clear problem-solving methodology in worked examples](textbooks-lack-consistent-problem-solving-methodology.md) — related
 - [Judy's epistemological view of a real/ideal gulf was context-dependent: present when discussing conceptual problems, absent during equation-based problem-solving](context-dependent-real-ideal-gulf-view.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
+- [A disconnect exists in ADK between physicists and physics students even in reform-based, epistemologically-aware classrooms](adk-disconnect-physicists-physics-students.md) — related

@@ -88,3 +88,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related
 - [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
+- [Voluntary outreach provision faces three obstacles: time and personnel pressure, lack of time for innovation, and vulnerability when effort is not mission-centric](voluntary-outreach-three-obstacles.md) — related

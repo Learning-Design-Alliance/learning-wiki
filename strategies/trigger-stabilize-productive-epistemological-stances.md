@@ -51,6 +51,7 @@ Because epistemological stances are nuanced and context-sensitive, the authors r
 
 - [Design instructional environments that trigger favorable epistemological stances rather than confronting and replacing mis-epistemologies](trigger-favorable-epistemological-stances-environments.md)
 - [Set students up for affectively positive experiences with conceptual reasoning rather than only confronting problematic epistemological beliefs](affectively-positive-experiences-for-epistemological-change.md)
+- [Instructors nudge students into more productive frames to resolve framing-based impasses](instructor-nudge-frame-transitions.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 recheck_by: 2019
 sources:
   - id: e-f-redish-2014
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Disciplinary differences in how biology and physics faculty structure introductory knowledge (realistic detail vs. mathematical toy models) create conflicts when designing a physics class for biologists. [→ E. F. Redish 2014](#e-f-redish-2014)
@@ -50,3 +51,4 @@ The authors' finding from extensive biologists-physicists-chemists discussions a
 - [One interviewed student responded negatively to equations in biology, viewing biology as tangible and perceivable and treating equations as material to memorize for exams](student-negative-epistemology-biology-tangible.md) — a narrower finding that bears on this claim
 - [About half of the analyzed questions used mathematics and physics for biologically authentic sense-making of organisms, a use differing from typical physics-course uses of the same tools](biologically-authentic-sense-making-prevalent.md) — related
 - [Students in a reformed biology course report that math and physics are not necessary for understanding biology, and this expectation shapes their participation in physics-based activities and exam approaches](biology-students-math-physics-unnecessary-expectation.md) — related
+- [Physics instructors and biology students have different go-to epistemological resources, creating instructional conflict](instructor-student-epistemological-stance-mismatch.md) — related

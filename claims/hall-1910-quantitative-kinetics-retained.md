@@ -46,3 +46,4 @@ Review report of survey outcomes on course content: the reviewer states that hop
 
 ## Related Claims
 - [Secondary-school physics teachers show general agreement but little enthusiasm for greater prominence of lecture-demonstrations](hall-1910-lecture-demonstrations-little-enthusiasm.md) — related
+- [Even veteran physics professors frequently omit centripetal acceleration, incorrectly asserting the acceleration of a simple pendulum is zero at the lowest point of its trajectory](professors-omit-centripetal-acceleration-pendulum.md) — related

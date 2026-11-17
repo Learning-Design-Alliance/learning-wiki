@@ -52,3 +52,4 @@ Descriptive ranking analysis of survey responses from 4th-year undergrads and re
 - [Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply](minority-act-on-ethical-concerns-job-applications.md) — related
 - [Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications](syllabus-coverage-matches-concern-variation.md) — related
 - [Senior medical students actively match and calibrate perceptions of specialty characteristics with their current personal needs and expected future needs](students-calibrate-specialty-perceptions-to-needs.md) — related
+- [Computational skills and critical thinking are among the most transferable job skills an astronomy education provides](computational-skills-transferable-job-skills-astronomy.md) — related

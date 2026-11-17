@@ -87,3 +87,4 @@ The review reports, citing Fang et al. (RankWithTA), that calibration with "just
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
 - [Reputation-based weighting raises correlation with instructor grades and corrects consistent over- or under-markers, but depends on historical data and raises equity concerns](reputation-weighting-accuracy-and-equity-tradeoffs.md) — related
 - [Consensus-based reviewer weighting reduces peer-grading errors and tolerates bias in noisy environments](consensus-weighting-improves-peer-grading-accuracy.md) — related
+- [Peer evaluations of student teaching were reliable and consistent with instructor and TA evaluations, but self-evaluations were not reliable](peer-evaluations-reliable-self-evaluations-not.md) — related

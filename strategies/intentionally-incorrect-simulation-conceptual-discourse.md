@@ -39,6 +39,7 @@ The article uses deliberately incorrect orbital representations as a discourse p
 ## Related Strategies
 
 - [Comparative visualization of a permanent geostationary satellite to interpret non-geostationary orbits](comparative-geostationary-reference-satellite-strategy.md)
+- [Use a trick simulation showing an incorrect phenomenon to prompt unsure learners to reconsider their shadow reasoning](trick-simulation-to-provoke-reconsideration-strategy.md)
 
 ## Examples
 -

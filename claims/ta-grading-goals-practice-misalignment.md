@@ -51,3 +51,7 @@ Analysis linking stated grading purposes to actual grades assigned to the contra
 - [The preference for the minimal-reasoning solution over the detailed-reasoning solution softened but persisted in the homework context](tas-homework-grading-gap-softened.md) — related
 - [After teaching experience and PD, many TAs changed their reasons for assigning grades, particularly their perception of what counts as adequate evidence of student thinking](ta-grading-reasons-evidence-perception-shift.md) — related
 - [Physics TAs state that grading serves as a learning opportunity for the student and feedback for the instructor, and these stated purposes are stable across a semester](ta-stated-grading-purposes-learning-feedback.md) — related
+- [TAs' expressed goals for example solutions differ between general and concrete instructional contexts](ta-example-solution-goals-seven-categories.md) — related
+- [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
+- [Many more TAs mentioned problem-description and explication features than graded on them](tas-mention-explication-features-more-than-grade-on-them.md) — related
+- [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related

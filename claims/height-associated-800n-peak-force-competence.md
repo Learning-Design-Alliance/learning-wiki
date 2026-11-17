@@ -49,3 +49,4 @@ Multivariable logistic regression of competence in 149 chiropractic students; th
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
 - [Male chiropractic students report higher confidence in performing SMT force–time characteristics than female students, especially at higher target forces](male-students-higher-smt-confidence.md) — related
 - [Students modulate 200N and 400N impulse forces close to target but have difficulty accurately modulating 800N forces](performance-difficulty-800n-target-force.md) — related
+- [Peak height also increases with lens mass, but only when the separation-to-Einstein-angle ratio u is held equal, so the curriculum uses width alone to convey mass](peak-height-mass-caveat-width-only-design.md) — related

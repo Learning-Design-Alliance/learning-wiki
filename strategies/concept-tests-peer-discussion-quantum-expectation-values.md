@@ -52,6 +52,7 @@ The authors are developing reflective problems that complement quantitative prob
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
 - [Use research-based learning tools on Dirac notation, including the guided-inquiry QuILT, reflective problems, and peer concept tests](dirac-notation-research-based-learning-tools-strategy.md)
 - [Integrate qualitative problem tasks into lectures and seminars alongside quantitative tasks](qualitative-problem-tasks-integration-strategy.md)
+- [Sensitize instructors to students' likely conceptual difficulties when teaching first-year graduate quantum mechanics](sensitize-instructors-quantum-conceptual-difficulties.md)
 
 ## Examples
 -

@@ -112,3 +112,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

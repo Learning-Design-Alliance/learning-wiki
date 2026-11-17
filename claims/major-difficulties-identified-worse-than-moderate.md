@@ -25,12 +25,14 @@ sources:
     author: Alexandru Maries and Chandralekha Singh
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Graduate students identified moderate introductory difficulties better than major ones on the TUG-K
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -55,7 +57,7 @@ Comparison of normalized graduate-student PCK scores across the eight questions 
 
 Alexandru Maries and Chandralekha Singh. (2014). Performance of Graduate Students at Identifying Introductory Physics Students’ Difficulties Related to Kinematics Graphs. 2014 PERC Proceedings. https://doi.org/10.1119/perc.2014.pr.039
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results comparison using a researcher-agreed heuristic in which a "major" difficulty was an incorrect choice selected by more than 1/3 of introductory students and a "moderate" one by between 1/5 and 1/3. Table 2 prints major at 48% and moderate at 61%; only these percentages are printed, so no effect size.
 

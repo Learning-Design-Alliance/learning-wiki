@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (65 show a difference, 13 mixed, 13 no difference) · 71 studies (23 associational, 16 causal, 9 review, 9 qualitative, 6 design, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 11 of 71 report an effect size · 89 claims rest on one study
+> **Evidence** · 92 claims (66 show a difference, 13 mixed, 13 no difference) · 72 studies (23 associational, 16 causal, 9 review, 9 qualitative, 6 design, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 11 of 72 report an effect size · 90 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -125,6 +125,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Sophisticated mobile proficiency mediates the effect of perceived usability and usefulness on intention to accept m-learning](../claims/mobile-proficiency-mediates-usability-usefulness-on-acceptance.md) [+M] — learners who differ on it differ in outcomes
 - [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](../claims/computation-skills-transfer-across-courses.md) [+W] — measured as an outcome of the instruction studied
 - [Students found debugging difficult and spent too much time relearning programming skills when computational exposure was spaced too far apart](../claims/debugging-and-spacing-challenges-computational-integration.md) [+W] — measured as an outcome of the instruction studied
+- [Computational skills and critical thinking are among the most transferable job skills an astronomy education provides](../claims/computational-skills-transferable-job-skills-astronomy.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

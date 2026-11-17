@@ -46,6 +46,7 @@ During lecture the instructor poses multiple-choice and True-False questions eve
 - [Classroom Response Systems](classroom-response-systems.md)
 - [Peer Instruction](peer-instruction.md)
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
+- [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](sequenced-context-varied-concept-tests-strategy.md)
 
 ## Examples
 -

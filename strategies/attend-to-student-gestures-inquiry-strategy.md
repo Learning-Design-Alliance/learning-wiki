@@ -49,6 +49,7 @@ The article recommends that instructors notice students' spontaneous gestures an
 ## Related Strategies
 
 - [Gestures](gestures.md)
+- [Use kinesthetic explorations and body-intuition prompts to help students develop intuition for acceleration](kinesthetic-explorations-acceleration-intuition.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ Based on the case-study findings, the authors recommend that future work develop
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding](four-design-insights-gai-chatbots-srl.md)
+- [Use explicit formative-assessment interventions to help advanced physics students develop learning and self-monitoring habits of mind](explicit-formative-assessment-advanced-courses.md)
 
 ## Examples
 -

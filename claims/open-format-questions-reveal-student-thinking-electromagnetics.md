@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: frank-v-kowalski-and-susan-e-kowalski-2014
     resource: "https://doi.org/10.1109/tale.2014.7062618"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Graphical open-format responses from sixty students immediately exposed method choice, inability to express the infinitesimal charge, ignored dot products, and missing symmetry arguments after Gauss's law instruction. [→ Frank V. Kowalski and Susan E. Kowalski 2014](#frank-v-kowalski-and-susan-e-kowalski-2014)

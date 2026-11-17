@@ -54,3 +54,4 @@ Performance on question 4 probing understanding of operators, particularly in th
 - [Only 41% answered the quantum measurement probability question correctly, with difficulty translating probability densities between representations](dirac-question5-measurement-probability-difficulty.md) — related
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — a broader claim this one bears on
 - [Graduate students recall Ehrenfest's theorem as a memorized fact but many do not understand how it is derived mathematically](ehrenfest-theorem-recalled-by-rote-not-understood.md) — related
+- [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related

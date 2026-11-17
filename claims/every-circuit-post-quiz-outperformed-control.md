@@ -51,3 +51,4 @@ Quasi-experiment in an all-female high school physics class of approximately 17 
 - [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
 - [Initial physics ability differed between the two experimental groups before treatment](initial-ability-difference-between-groups.md) — related
+- [Eight ADHD elementary students who built battery circuits and a quiz board for a science fair demonstrated solid knowledge of energy storage and transformation when explaining to the public](adhd-students-science-fair-solid-energy-knowledge.md) — related

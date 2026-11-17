@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (12 for, 13 mixed) · 32 studies (16 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 18 claims rest on one study
+> **Evidence** · 29 claims (15 for, 14 mixed) · 35 studies (19 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 6 of 35 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](../claims/analogical-instruction-higher-electric-concept-achievement.md) [+W] — attached 2026-11-02 from Gokhan Ugur et al. (2012), which proposed "Use analogical instruction systematically in science classrooms to enhance understanding and eliminate misconceptions".
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](../claims/analogies-small-groups-no-significant-difference-surgery.md) [~M] — attached 2026-11-03 from José Luis Jiménez Corona (2012), which proposed "Analogies as a methodology promote the transfer of knowledge in clinical subjects taught in the basic sciences cycle."; tests this page's relationship.
 - [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](../claims/analogy-group-radically-different-curve-performance.md) [+W] — attached 2026-11-03 from José Luis Jiménez Corona (2012), which proposed "Analogies as a methodology promote the transfer of knowledge in clinical subjects taught in the basic sciences cycle.".
+- [Scaffolding supports for analogical problem solving help calculus-based introductory physics students solve a static friction problem correctly](../claims/analogical-scaffolding-improves-friction-problem-solving.md) [+W] — attached 2026-11-17 from Shih-Yin Lin et al. (2008), which proposed "Analogical problem solving between an isomorphic solved problem and a misconception-triggering problem with scaffolding supports"; tests this page's relationship.
+- [Learning from a solved isomorphic problem with scaffolding significantly improves introductory students' quiz-problem scores in the algebra-based course (all three interventions) and for the struggle-first intervention in the calculus-based course](../claims/isomorphic-solved-problem-scaffolding-improves-quiz-scores.md) [+W] — attached 2026-11-17 from Lin et al. (2011), which proposed "Scaffolding for analogical transfer should match students' abilities and keep them actively engaged in reasoning"; tests this page's relationship.
+- [Scaffolding with a solved analogical problem raises quiz scores over no scaffolding in intervention 2 in both courses and intervention 1 in the algebra-based course, but not intervention 1 in the calculus-based course](../claims/analogical-scaffolding-raises-quiz-scores-most-groups.md) [~W] — attached 2026-11-17 from Lin et al. (2008), which proposed "When teaching analogical transfer, require students to first attempt the quiz problem before studying the solved analog, and ask them to reproduce and explain the solved problem"; tests this page's relationship.
+- [In intervention 2, average normalized gains from pre-test to post-test were 79% (calculus-based) and 52% (algebra-based) among students who re-solved the quiz problem after studying the solved analog, in a single-group pre-post comparison](../claims/intervention2-normalized-gains-79-52.md) [+W] — attached 2026-11-17 from Lin et al. (2008), which proposed "When teaching analogical transfer, require students to first attempt the quiz problem before studying the solved analog, and ask them to reproduce and explain the solved problem"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -163,6 +167,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - [A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness](../designs/twelve-activity-model-remoteness-abstractness.md)
 - [Hybrid productive failure with analogical comparison: schema abstraction through comparing contrasting models](../designs/hybrid-pf-analogical-comparison-schema-abstraction.md)
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](../strategies/twa-step-by-step-analogy-teaching-strategy.md)
+- [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](../strategies/post-activity-discussion-static-friction-strategy.md)
 
 ### Illustrative
 

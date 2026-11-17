@@ -16,12 +16,14 @@ sources:
     author: L. A. N´ u˜ nez and H. Rago
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Audiences in Venezuela, Colombia, Ecuador, Peru, Bolivia and Chile retweet and favourite @AstroAlAire more frequently
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 L. A. N´ u˜ nez and H. Rago (2015). Astronom´ıa al Aire: Media Convergence in Astronomy & Astrophysics. [doi:10.48550/arXiv.1510.07147](https://doi.org/10.48550/arXiv.1510.07147)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' interpretation of their Twitter analytics and Figure 2: audiences in the six named Andean countries "retweet and favourite more frequently @AstroAlAire", which the authors read as significant impact through the Andes. No statistical test or effect size is printed.
 

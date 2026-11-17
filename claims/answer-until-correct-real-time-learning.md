@@ -48,3 +48,4 @@ The article attributes this assertion to the card designers (Epstein et al. cita
 - [Learning through feedback, especially when corrective, significantly boosts learning efficiency](corrective-feedback-boosts-learning-efficiency.md) — a broader claim this one bears on
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [Introductory accounting students who completed a group-based IF-AT scratch-off card review scored significantly higher on midterm objective exams than students in lecture-review control sections](if-at-scratch-off-review-improves-midterm-scores.md) — related
+- [An incorrect solution that yields an apparently correct answer can prevent students from learning from their mistakes](plausible-wrong-answer-blocks-mistake-learning.md) — related

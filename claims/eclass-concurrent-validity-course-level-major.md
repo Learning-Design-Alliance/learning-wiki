@@ -51,3 +51,4 @@ Comparison of FY (N = 2433) and BFY (N = 1158) subgroups from the matched datase
 - [Favorable responses to the 'I don’t enjoy doing physics experiments' item are evenly split among high-performing first-year students but decline with grade in the BFY labs](q7-enjoyment-item-grade-pattern.md) — related
 - [Favorable responses to the confirmatory-purpose E-CLASS item fluctuate little with grade in the first-year lab but show a downward trend in the BFY labs](q16-favorable-responses-grade-trend.md) — related
 - [Post-instruction E-CLASS scores show a small but statistically significant decline from pre-instruction scores in matched data](eclass-pre-post-shift-small.md) — related
+- [The E-CLASS gender gap is smaller in beyond-first-year than first-year courses — decreasing from a moderate to a small effect size — while remaining statistically significant, and BFY students of both genders score higher](eclass-gender-gap-smaller-bfy-than-fy.md) — related

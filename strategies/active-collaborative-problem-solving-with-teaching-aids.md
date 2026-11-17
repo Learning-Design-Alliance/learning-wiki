@@ -48,6 +48,7 @@ The article recommends that teachers replace teacher-centred presentation with a
 - [Shift physics teaching from lecture methods to activity-based problem-solving models](shift-from-lecture-to-activity-based-physics-teaching.md)
 - [Use finger-based manipulative methods with active student involvement to teach multiplication facts to deaf learners](finger-manipulatives-active-involvement-multiplication-deaf.md)
 - [Implement active learning strategies such as case studies, group discussions, and virtual collaborative projects to enhance engagement in virtual courses](active-learning-strategies-virtual-engagement-strategy.md)
+- [Explicitly teach problem-solving heuristics (visualizing, checking conservation principles, examining limiting cases) to help students build and employ physical intuition](explicitly-teach-problem-solving-heuristics-strategy.md)
 
 ## Examples
 -

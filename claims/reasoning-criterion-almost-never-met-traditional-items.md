@@ -47,3 +47,6 @@ Authors' observation from item review during 3D-LAP criteria development: tradit
 ## Related Claims
 - [A traditional selected-response physics item gives no explicit evidence of how a student arrived at an answer, according to the authors' 3D-LAP analysis](traditional-item-lacks-reasoning-evidence.md) — a narrower finding that bears on this claim
 - [The revised three-question cluster is claimed to be more capable of assessing engagement with a scientific practice, crosscutting concept, and core idea than the traditional item](revised-cluster-more-capable-three-dimensional-assessment.md) — related
+- [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](3d-lap-distinguishes-exams.md) — related
+- [Physics A exams award many points to core-idea tasks even though few tasks elicit practices or crosscutting concepts](physics-core-ideas-prevalent-in-canonical-exams.md) — related
+- [Selected-response tasks meeting 3D-LAP criteria do not provide strong evidence of three-dimensional learning](selected-response-weak-evidence-3d.md) — related

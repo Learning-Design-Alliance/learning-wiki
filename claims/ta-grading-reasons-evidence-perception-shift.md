@@ -16,6 +16,8 @@ sources:
     author: "Henderson, C., Marshman, E., Maries, A., Yerushalmi, E., & Singh, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: henderson-2014-2
     resource: "https://doi.org/10.1119/perc.2014.pr.024"
     title: "Henderson, C., Marshman, E., Maries, A., Yerushalmi, E., & Singh, C. (2014). Instructional Goals and Grading Practices of Graduate Students after One Semester of Teaching Experience. [doi:10.1119/perc.2014.pr.024](https://doi.org/10.1119/perc.2014.pr.024)"
@@ -42,7 +44,7 @@ sources:
 
 Henderson, C., Marshman, E., Maries, A., Yerushalmi, E., & Singh, C. (2014). Instructional Goals and Grading Practices of Graduate Students after One Semester of Teaching Experience. [doi:10.1119/perc.2014.pr.024](https://doi.org/10.1119/perc.2014.pr.024)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Bottom-up coding of TAs' written reasons for the grade assigned to SSE, before and after teaching experience and PD; 'Initially, 7/43 (16%) penalize the lack of evidence in SSE, while finally 6/18 (33%) do so.'
 
@@ -66,3 +68,5 @@ Subgroup analysis of the 10 TAs who provided reasons; for the four scoring SSE>S
 - [Physics TAs more often graded the minimally reasoned solution SSE higher than the elaborated solution SSD, and average grades did not change significantly from semester start to end in one group measured before and after one semester of teaching experience and TA professional development](ta-grading-practices-unchanged-after-pd.md) — related
 - [TAs' quiz-versus-homework grading differences may stem from their consideration of evidence of thought processes, quiz time limitations, or a preference for brief, condensed solutions](ta-grading-reasons-evidence-time-aesthetics.md) — related
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
+- [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — reports the opposite
+- [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related

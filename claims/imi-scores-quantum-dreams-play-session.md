@@ -67,3 +67,4 @@ Validation-item correlations in the same survey correlation matrix. The game "wa
 - [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [Physics interest was strongly correlated with interest/enjoyment, value/usefulness, autonomy, and performance-approach orientation](physics-interest-intrinsic-motivation-correlations.md) — related
 - [Autonomy was very highly correlated with the proportion of correct physics descriptions, r = .61](autonomy-correct-physics-descriptions-correlation.md) — related
+- [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related

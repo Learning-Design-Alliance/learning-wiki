@@ -48,3 +48,4 @@ Transcript analysis of the same six-student group episode: suggestions included 
 - [Mathematica lowers the effort barrier to calculational approaches, making it easier for students to get stuck in a calculation mindset](mathematica-lowers-calculation-barrier.md) — a broader claim this one bears on
 - [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](physical-mapping-reframing-resolves-difficulty.md) — related
 - [A call to compute and compare numerical results reframed the discussion as Calculation, which the partner immediately accepted](calculation-reframe-successful-negotiation.md) — related
+- [Coordinating multiple frames helps students monitor calculations and find errors, while staying only in algorithmic math makes checking solutions difficult](coordinating-frames-aids-error-monitoring.md) — related

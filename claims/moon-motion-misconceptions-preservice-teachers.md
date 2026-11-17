@@ -56,3 +56,4 @@ Results from Q6–Q8 on the Moon's movements and the three-body system: "nearly 
 - [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related
 - [Students frequently explain lunar phases as the Earth's shadow falling on the Moon (the eclipse theory)](eclipse-theory-alternative-conception.md) — related
 - [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related
+- [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related

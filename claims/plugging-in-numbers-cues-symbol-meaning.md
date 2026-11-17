@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 qualitative `r2` · `q2`
-> **Currency** · newest study 2015 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

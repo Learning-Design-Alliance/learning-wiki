@@ -59,3 +59,4 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
 - [Chemistry students are significantly less willing to work with women in their groups compared with men; biology shows no such gender bias](chemistry-gender-bias-willingness.md) — related
 - [Girls and boys differ substantially in A-level subject choices (e.g. biology 63% girls vs 37% boys; physics 23% girls vs 77% boys) but not much in A-level results](sex-differences-in-subject-choice-not-achievement.md) — possibly the same claim (merge candidate)
+- [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — related

@@ -49,3 +49,4 @@ Semi-structured think-aloud interviews with fifteen undergraduates and graduate 
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
 - [Students overgeneralize classical optics of light beams to single photons, treating a single photon incident on a polarizer as partly transmitted and partly absorbed](single-photon-polarizer-classical-overgeneralization.md) — related
 - [Some interviewed students incorrectly claimed a single photon is absorbed by a polarizer only when its polarization is orthogonal to the polarizer axis](single-photon-polarizer-probabilistic-difficulty.md) — related
+- [Advanced undergraduate and graduate students frequently confuse vectors and directions in 3D physical space with state vectors and operators in Hilbert space](confounding-physical-space-hilbert-space-qm.md) — related

@@ -60,3 +60,4 @@ Inter-rater agreement analysis of the 2024 calibration phase, in which ten evalu
 - [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related
 - [Teachers' scores for identical LLM-generated clinical cases differed significantly, with a tiered distribution linked to teaching experience](inter-rater-discrepancies-llm-case-scoring.md) — related
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — reports the opposite

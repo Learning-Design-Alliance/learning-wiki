@@ -121,3 +121,4 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](self-affirmation-no-black-white-gap-reduction.md) — reports the opposite
 - [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related
 - [Students facing stereotype threat show larger cortisol and blood pressure increases in evaluative situations, and values-affirmation exercises can counteract stereotype threat effects for months or years](stereotype-threat-cortisol-values-affirmation.md) — related
+- [Values affirmation substantially reduced the male-female performance and learning difference in college introductory physics (Miyake et al.)](values-affirmation-reduced-gender-gap-introductory-physics.md) — related

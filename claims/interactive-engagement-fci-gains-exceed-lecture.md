@@ -49,3 +49,4 @@ Comparison of class-averaged FCI posttest scores and normalized gains across the
 - [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a broader claim this one bears on
 - [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — a broader claim this one bears on

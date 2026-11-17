@@ -53,3 +53,4 @@ Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing 
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
 - [Expansive framing increased transfer-after-exposure of facts (d = .94)](expansive-framing-boosts-transfer-after-exposure-facts.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — a broader claim this one bears on

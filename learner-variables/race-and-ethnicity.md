@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (193 show a difference, 41 mixed, 19 no difference) · 193 studies (104 associational, 37 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 9 of 193 report an effect size · 251 claims rest on one study
+> **Evidence** · 256 claims (194 show a difference, 43 mixed, 19 no difference) · 194 studies (104 associational, 38 causal, 29 review, 9 theoretical, 7 qualitative, 5 design, 2 quant-synthesis), `q1`–`q4` · 10 of 194 report an effect size · 254 claims rest on one study
 
 ## How to read this page
 
@@ -290,6 +290,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Underrepresented minority physicians tend to be more likely to serve underserved populations, but the evidence base is underdeveloped](../claims/minority-physicians-serve-underserved-populations.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sustained participation in well-executed out-of-school-time experiences improves academic achievement and social-developmental outcomes, especially for groups underrepresented in science](../claims/ost-participation-improves-outcomes-underrepresented.md) [+M] — an instructional effect differs by group
 - [Pre-MAP recruits a higher percentage of underrepresented minorities and an equal percentage of women compared to the incoming UW class (2005-2011)](../claims/premap-recruits-higher-urm-percentage.md) [+M] — the gap was measured as an outcome of the instruction studied
+- [Concepts-first organization transfers: AL&CF students earned higher z-grades in their next physics course (9B), an effect significant for the whole class but not for female or underrepresented minority subgroups](../claims/concepts-first-transfer-to-next-course.md) [~M] — an instructional effect differs by group
+- [Grade gaps for underrepresented minority students vanish only in the concepts-first course: ZGradeGap is −0.08 ± 0.24 for AL&CF versus −0.88 ± 0.22 (ALOnly) and −0.60 ± 0.14 (NoAL)](../claims/concepts-first-eliminates-minority-grade-gap.md) [~W] — an instructional effect differs by group
+- [Students who took at least one concepts-first course were 1.7 ± 0.3 times more likely to graduate with a STEM major (2.7 ± 1.3 for underrepresented minorities), while active learning alone conferred no such benefit](../claims/concepts-first-stem-graduation-retention.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

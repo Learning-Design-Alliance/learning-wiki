@@ -55,3 +55,4 @@ Registrar final course grades for 31 classes (1949 students), ACT-adjusted via t
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — related
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](participation-gaps-vary-by-classroom.md) — related
 - [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related
+- [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related

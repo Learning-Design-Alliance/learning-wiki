@@ -16,12 +16,14 @@ sources:
     author: Ben Van Dusen, Laurie Langdon, and Valerie Otero
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # LA-supported students averaged an effect size of 0.845, scoring 0.845 standard deviations higher on post-tests than pre-tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ben Van Dusen, Laurie Langdon, and Valerie Otero. (2015). Learning Assistant Supported Student Outcomes (LASSO) study initial findings. [doi:10.1119/perc.2015.pr.081](https://doi.org/10.1119/perc.2015.pr.081)
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Pilot-semester observational analysis using hierarchical linear models on 3,315 cleaned pre-post concept inventory pairs from 17 courses in 13 institutions. The unconditional model's grand mean effect size was "0.845", i.e. Cohen's d of 0.845 on average pre-to-post gain.
 

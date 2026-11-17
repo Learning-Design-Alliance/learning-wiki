@@ -49,3 +49,4 @@ Parameter sensitivity analysis varying λP in {10, 30, 50, 70} with ws = 20, and
 - [LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines](lt-mkt-outperforms-kt-baselines-four-datasets.md) — related
 - [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related
 - [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
+- [A windowed percent-correct analysis shows an optimal window length only in the Knewton dataset, indicating nontrivial temporal structure there](windowed-analysis-temporal-structure.md) — related

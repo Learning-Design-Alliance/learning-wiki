@@ -51,3 +51,4 @@ Multiple-choice question 1 on the general time-dependence equation administered 
 - [On the operator question, 54% answered correctly but 41% treated statements (1) and (2) inconsistently despite answering question 1 correctly](dirac-question4-operator-inconsistency.md) — related
 - [Only 41% answered the quantum measurement probability question correctly, with difficulty translating probability densities between representations](dirac-question5-measurement-probability-difficulty.md) — related
 - [Only 51% answered the inner product/Fourier transform question correctly, with responses inconsistent with their correct answers to the preceding question](dirac-question2-inconsistency-inner-product.md) — related
+- [Most graduate students fail to compute the expectation value of energy, and many who answer the probability question correctly do not exploit it](expectation-value-calculation-difficulty.md) — related

@@ -68,3 +68,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
 - [The scenario-based assessment showed high inter-rater reliability between the two interviewer raters (weighted kappa 0.88)](scenario-assessment-inter-rater-reliability-kappa-088.md) — related
 - [Students consider open-ended assignment grading fair but many find open-ended questions hard to answer](open-ended-assignments-fair-but-challenging.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

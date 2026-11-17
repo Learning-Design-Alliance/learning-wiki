@@ -16,12 +16,14 @@ sources:
     author: Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students with the lowest pretest scores showed the largest gains, with binned gains decreasing from 0.33 (0–3 correct) to 0.18 (4–6) to 0.05 (7–9)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ole Eggers Bjaelde, Mads Kock Pedersen, Jacob Sherson. (2014). Gamification of Quantum Mechanics Teaching. E-Learn 2014 - New Orleans, LA, United States, October 27-30, 2014. [doi:10.48550/arXiv.1506.08128](https://doi.org/10.48550/arXiv.1506.08128)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Binned analysis of the pretest/posttest data from the same 64-student gamified intervention. The printed binned gains are 0.33, 0.18 and 0.05; a check of individual answers showed low scorers "answered the same questions correctly in the pretest and posttest", suggesting they learned new content rather than guessing randomly.
 

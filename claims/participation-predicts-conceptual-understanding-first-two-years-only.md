@@ -50,3 +50,4 @@ Linear and Bayesian regressions predicting performance on the two end-of-semeste
 - [The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)](ps-i-preparatory-exercises-increase-pass-rates-linear-algebra.md) — related
 - [During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences](linear-algebra-performance-above-overall-first-year-trend.md) — related
 - [Measured amount of self-testing significantly predicts final course score alongside prior knowledge in each semester](measured-self-testing-predicts-course-score.md) — related
+- [Proficiency at solving end-of-chapter exercises does not promote proficiency at solving conceptual problems](exercise-proficiency-does-not-promote-conceptual-problem-solving.md) — reports the opposite

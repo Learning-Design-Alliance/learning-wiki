@@ -47,7 +47,8 @@ The article recommends that education researchers examine whether their reforms 
 - [In a regression of post-course CLASS scores, only pre-course attitudes significantly predict post-course attitudes; gender, ethnicity, and their interaction are not significant](../claims/umi-regression-only-precourse-predicts-post-attitudes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Consider sources of within-group variance when comparing performance between groups of students](consider-within-group-variance-in-gap-analyses.md)
 
 ## Examples
 -

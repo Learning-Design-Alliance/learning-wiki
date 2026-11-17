@@ -69,6 +69,7 @@ Collaboration improves achievement when it is genuinely cooperative — positive
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 - [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 - [Use near-peer teaching groups of about four trainee-teachers sharing the teaching task](shared-near-peer-teaching-group-of-four.md)
+- [Support unfacilitated peer collaboration with a time constraint, a small reward, and an incentive for individual accountability.](peer-collaboration-time-reward-accountability.md)
 
 ## Examples
 - **Jigsaw classroom** (Aronson) — students become "experts" in one segment and teach it to their home group; the original design specifically used interdependence to reduce intergroup bias ([jigsaw.org](https://www.jigsaw.org)).

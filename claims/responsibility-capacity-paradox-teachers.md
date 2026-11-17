@@ -51,3 +51,4 @@ Reflexive thematic analysis of four initial teacher workshops (n = 10) identifie
 - [Technology integration expanded academics' workload, producing identity tension and emotional labour](technology-integration-expands-academic-workload-identity-tension.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
+- [Students willing to invest the necessary time and effort reported in a post-class survey that they learned a great deal, while heavy workload remained a retention risk for novices](intro-data-science-survey-learning-workload-risk.md) — related

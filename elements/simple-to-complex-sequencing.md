@@ -101,6 +101,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Use a graded in-VR onboarding tutorial starting from a single basic action before task instruction](../strategies/graded-vr-onboarding-tutorial-strategy.md)
 - [Sequence case questions from simple to complex, emphasizing molecular-mechanism questions](../strategies/simple-to-mechanistic-question-sequencing.md)
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](../strategies/staged-submission-with-analytical-debug-cases.md)
+- [Hide information in early representations to reduce cognitive load before introducing more complex ones](../strategies/black-box-hiding-reduce-cognitive-load-sequencing.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

@@ -54,3 +54,4 @@ Internal consistency analysis using Cronbach's alpha on 271 student responses. T
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](abbreviated-ctt-reliability-primary-school.md) — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
+- [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related

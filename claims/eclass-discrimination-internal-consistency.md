@@ -90,3 +90,4 @@ Cronbach's alpha for the matched dataset; the article argues alpha is a conserva
 - [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related
 - [The MC CUE shows acceptable internal consistency and discriminatory power comparable to the FR version](mc-cue-reliability-alpha-ferguson.md) — related
 - [Post-instruction E-CLASS scores show a small but statistically significant decline from pre-instruction scores in matched data](eclass-pre-post-shift-small.md) — related
+- [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related

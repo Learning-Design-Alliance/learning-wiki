@@ -73,3 +73,4 @@ Log analysis shown in Fig. 2c and d compares activity hits per activity between 
 - [The blended Moodle-plus-field-trip intervention shows a large effect size (Cohen's d = 1.38) on herbal plant identification](moodle-field-trip-cohens-d-1-38.md) — related
 - [Health professional students' use of an online learning repository peaks at times of increased academic need such as examinations](repository-usage-peaks-exam-periods.md) — related
 - [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related
+- [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related

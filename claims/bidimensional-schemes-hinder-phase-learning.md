@@ -66,3 +66,4 @@ The authors argue, citing Karaseur (2012), that common locational phrases about 
 ## Related Claims
 - [Documented student difficulties included moon-phase diagrams, Kepler's second law triangle areas, parallax math, and celestial-sphere visualization](astronomy-student-difficulty-areas-documented.md) — related
 - [Students frequently explain lunar phases as the Earth's shadow falling on the Moon (the eclipse theory)](eclipse-theory-alternative-conception.md) — related
+- [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related

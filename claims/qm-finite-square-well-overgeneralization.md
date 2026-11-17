@@ -51,3 +51,4 @@ Question about a possible wave function for a one-dimensional finite square well
 
 ## Related Claims
 - [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](think-aloud-interviews-q17-distractor-reasons.md) — related
+- [Advanced students in quantum mechanics courses show widespread difficulties sketching bound and scattering state wave functions for a finite square well](advanced-students-wave-function-sketch-difficulties.md) — a broader claim this one bears on

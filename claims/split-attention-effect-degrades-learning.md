@@ -207,3 +207,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — a narrower finding that bears on this claim
 - [Two-dimensional molecular dynamics simulations with fixed-wall boundary conditions are preferable for many educational purposes](two-dimensional-md-preferred-education.md) — related
+- [TAs prefer reasoning presented beside equations (solution 2) for justifying principles, but slightly prefer a complete upfront overview (solution 3), worrying students may skip a long opening text](ta-preferences-reasoning-presentation-placement.md) — related

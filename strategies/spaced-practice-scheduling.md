@@ -107,6 +107,7 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 - [Implement the Leitner system to skew flashcard exposure toward unknown diagnoses](leitner-system-spaced-repetition-strategy.md)
 - [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
+- [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source flashcard system implementing expanding spaced repetition with per-item scheduling; widely used in medical education.

@@ -59,10 +59,12 @@ Multi-step procedures impose a sequencing problem on working memory: learners mu
 6. Follow with independent [Practice](../elements/practice.md) and feedback targeted at step sequence and transition errors
 
 ## Related Strategies
+
 - Worked Examples — the static, problem-solving analogue: a completed solution models the sequence on paper
 - Part-Task Practice — isolates and drills sub-skills before whole-procedure integration
 - Cognitive Apprenticeship — positions modeling as the first phase of a modeling–coaching–fading cycle
 - Direct Instruction — embeds modeling within a scripted demonstrate–guide–independent-practice sequence
+- [Provide explicit guidance and sustained practice on decomposing multi-step problems and connecting sub-problems when using solved examples for analogical reasoning](explicit-guidance-decompose-connect-subproblems.md)
 
 ## Examples
 - **Writing instruction:** the teacher models composing a persuasive paragraph on the board, thinking aloud through planning, drafting, and revising — the core "modelled writing" move in [Explicit Teaching](../patterns/direct-instruction.md)

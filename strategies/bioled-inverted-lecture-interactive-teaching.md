@@ -54,4 +54,4 @@ Because all necessary content cannot be covered in a one-hour lecture and data a
 -
 
 ## Key Sources
-- Gray, C., Price, C. W., Lee, C. T., Dewald, A. H., Cline, M. A., McAnany, C. E., Columbus, L., & Mura, C. (2014). Known Structure, Unknown Function: An Inquiry-based Undergraduate Biochemistry Lab Course. Biochemistry and Molecular Biology Education (BAMBEd). https://arxiv.org/abs/1507.08262
+- Gray, C., Price, C. W., Lee, C. T., Dewald, A. H., Cline, M. A., McAnany, C. E., Columbus, L., & Mura, C. (2014). Known Structure, Unknown Function: An Inquiry-based Undergraduate Biochemistry Lab Course. Biochemistry and Molecular Biology Education (BAMBEd). https://arxiv.org/abs/1507.08262. [doi:10.48550/arxiv.1507.08262](https://doi.org/10.48550/arxiv.1507.08262)

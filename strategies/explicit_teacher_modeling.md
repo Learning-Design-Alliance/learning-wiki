@@ -68,6 +68,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
 - [Implement anticipatory reading guides through a phased release: teacher modeling, collaborative creation, then independent guide construction.](phased-anticipatory-guide-implementation.md)
+- [Provide explicit guidance and sustained practice on decomposing multi-step problems and connecting sub-problems when using solved examples for analogical reasoning](explicit-guidance-decompose-connect-subproblems.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component

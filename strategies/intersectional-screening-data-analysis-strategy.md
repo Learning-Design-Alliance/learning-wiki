@@ -52,6 +52,7 @@ The article recommends that educators and policymakers analyze screening data at
 - [Combine published assessment tools with government data and/or teacher reports to more effectively identify students in need of additional support](combine-assessments-government-data-teacher-reports.md)
 - [Use major examination outcomes to assess how schools support doctors from different backgrounds, and pursue multi-specialty, intersectional DA research](use-exam-outcomes-to-assess-institutional-support-and-multispecialty-da-research.md)
 - [Disaggregate student outcome data by demographic variables when evaluating educational interventions](disaggregate-outcomes-by-demographics-strategy.md)
+- [Consider sources of within-group variance when comparing performance between groups of students](consider-within-group-variance-in-gap-analyses.md)
 
 ## Examples
 -

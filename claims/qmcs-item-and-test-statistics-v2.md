@@ -90,3 +90,5 @@ Whole-test discrimination statistic for the QMCS: "Ferguson’s delta for the QM
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
 - [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — related
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
+- [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related
+- [Most QMS items have difficulty below 0.5 and item discrimination (PBD) from about 0.2 to 0.6](qms-item-difficulty-discrimination-statistics.md) — related

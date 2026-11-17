@@ -51,3 +51,4 @@ Phenomenological qualitative phase: thematic analysis of semi-structured Zoom in
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
 - [Medical games are used mainly as complementary devices reinforcing traditional teaching rather than replacing it](games-complementary-not-replacement.md) — related
+- [Visualization functions as a planning and implementation tool, not only for assessing program output](visualization-planning-and-implementation-tool.md) — related

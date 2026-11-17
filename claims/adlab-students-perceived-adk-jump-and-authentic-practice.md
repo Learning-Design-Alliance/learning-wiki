@@ -57,3 +57,4 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [The VCL's open infrastructure leaves all variables to students' experimental design](vcl-open-infrastructure-student-design.md) — related
 - [Experiencing authentic research shifts the perceived threshold from doing research to doing independent research](authentic-research-shifts-threshold-to-independent-research.md) — related
 - [In AdLab observations, a centrally-positioned student's positive affect toward physics became spontaneous and unsolicited](spontaneous-positive-affect-central-membership.md) — related
+- [Undergraduate lab courses did not adequately prepare most physics graduate students to use lab notebooks for research documentation](undergrad-lab-courses-inadequate-notebook-training.md) — related

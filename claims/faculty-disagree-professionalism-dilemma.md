@@ -46,3 +46,4 @@ The review reports a study in which 30 faculty attendings responded to a standar
 
 ## Related Claims
 - [Faculty disagreement about learners' professionalism persists even when the rationale behind students' behaviour is made explicit](disagreement-persists-explicit-rationale.md) — a narrower finding that bears on this claim
+- [Scoring categorizations was highly challenging for faculty evaluators, with substantial disagreement between evaluators on the same categories](categorization-scoring-challenging-evaluator-disagreement.md) — related

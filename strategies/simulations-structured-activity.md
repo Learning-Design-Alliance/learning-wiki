@@ -75,6 +75,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
 - [Use computer simulation as a foundational prerequisite before scenario-based ACLS simulation](computer-simulation-as-foundational-prerequisite.md)
+- [Three-phase semi-guided exploration design for teaching energy with a simulator](three-phase-semi-guided-simulator-design.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured engagement phase inside the simulation

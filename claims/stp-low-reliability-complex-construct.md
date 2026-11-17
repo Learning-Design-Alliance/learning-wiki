@@ -92,3 +92,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related
 - [Post-training inter-reader reliability of PD-L1 high versus low/negative classification was moderately reliable at all three cut-offs (Fleiss' Kappa 0.581, 0.556, 0.535)](fleiss-kappa-moderate-all-cut-offs.md) — related
 - [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

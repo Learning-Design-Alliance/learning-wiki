@@ -49,3 +49,4 @@ Think-aloud interviews several weeks after the essay: six students chosen, five 
 - [Updating momentum with Newton's second law was rarely the fatal difficulty: 69.7% of students with erroneous programs wrote the second law update correctly.](newton-second-law-update-rarely-the-error.md) — related
 - [Erroneous student programs cluster into six dominant error patterns, with force-calculation errors accounting for most failures](six-error-clusters-force-calculation-dominant.md) — related
 - [Students who displayed Force-casual and Iterative views were more likely to be successful on the proctored programming assignment](force-casual-iterative-views-proctored-success.md) — related
+- [Model analysis of the explore all paths concept showed instruction was ineffective in shifting students from the incorrect single path model towards the correct model](model-analysis-explore-all-paths-ineffective.md) — related

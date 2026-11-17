@@ -49,3 +49,4 @@ Authors' interpretation in Sect. 1.5 (Prior work), comparing this structured che
 - [In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span](clt-instructional-design-raises-retention-transfer-thermodynamics.md) — related
 - [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Weekly training discussions of sample student work improved student success and feedback quality in prior calculus studies of PAR](sample-work-training-improved-calculus-outcomes.md) — related

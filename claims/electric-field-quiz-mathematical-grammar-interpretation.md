@@ -49,3 +49,4 @@ Quiz in the authors' second-semester algebra-based physics class, after the inst
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — possibly the same claim (merge candidate)
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — related
+- [Introductory physics students misinterpret field equations by treating them as pure algebra, ignoring that the force depends on the test charge](students-treat-physics-equations-as-pure-math.md) — possibly the same claim (merge candidate)

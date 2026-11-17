@@ -71,3 +71,4 @@ From the same faculty interview analysis, the article reports that only three of
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — possibly the same claim (merge candidate)
 - [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related
 - [Teachers reported the game's intuitive, tangible approach to quantum physics encouraged weaker students to participate more actively](eqm-tangible-approach-weaker-students.md) — related
+- [A differentiating group of courses (QP, MA2, MA3, PL) contributes significantly to score variance and separates students](differentiating-courses-qp-ma2-ma3-pl.md) — related

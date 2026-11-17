@@ -16,12 +16,14 @@ sources:
     author: "Arachchilage, N. A. G., Love, S., & Maple, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # After game training, all participants based legitimacy judgements on the URL, whereas pre-test participants used incorrect strategies such as judging professional design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Arachchilage, N. A. G., Love, S., & Maple, C. (2013). Can a Mobile Game Teach Computer Users to Thwart Phishing Attacks. International Journal for Infonomics (IJI), Volume 6, Issues 3/4. [doi:10.20533/iji.1742.4712.2013.0083](https://doi.org/10.20533/iji.1742.4712.2013.0083)
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Think-aloud qualitative findings from the user study: participants made very few attempts to look at the address bar in the pre-test, and the article notes checking professional design is not useful since many phishing websites are exact replicas of legitimate websites. No effect size is printed.
 

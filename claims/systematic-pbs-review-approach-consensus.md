@@ -47,3 +47,4 @@ Consensus results from a modified nominal group technique with eight academic he
 ## Related Claims
 - [Only a minority of PBS morphologies and diagnoses were judged beyond graduating-fellow competency, with acute leukemia and TMA warranting explicit curricular emphasis](pbs-curricular-emphasis-leukemia-tma.md) — related
 - [Focus group discussion time concentrated on specific diagnoses, cell lineage, and morphology, with platelet disorders receiving minimal attention](pbs-discussion-time-distribution.md) — related
+- [Students measuring magnification on their home-built microscope obtain incorrect magnifications when the CMOS camera is misplaced or the wrong tube lens is used, and the trial-and-error correction process promotes tinkering.](microscope-magnification-calibration-errors.md) — related

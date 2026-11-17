@@ -69,3 +69,4 @@ As a formative alternative, the review describes schools setting attendance goal
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
 - Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
+- [Students learn what they are tested on, so physics instruction needs well-defined, measurable learning goals and assessment tools commensurate with those goals](well-defined-learning-goals-physics-assessment.md) — related

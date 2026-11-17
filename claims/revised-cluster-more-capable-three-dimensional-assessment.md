@@ -48,3 +48,5 @@ Case study: the authors' own claim, based on the criteria-based analysis in Tabl
 ## Related Claims
 - [Traditional assessment items almost never meet the scientific-practice criteria requiring evidence of student reasoning](reasoning-criterion-almost-never-met-traditional-items.md) — related
 - [The scientific practice Analyzing and Using Data became the most widespread practice in IBO items and approximately tripled among theory items from the 1990s to 2017](ibo-analyzing-data-practice-tripled.md) — related
+- [The 3D-LAP distinguishes exams with potential to elicit three-dimensional learning from those that do not](3d-lap-distinguishes-exams.md) — related
+- [Selected-response tasks meeting 3D-LAP criteria do not provide strong evidence of three-dimensional learning](selected-response-weak-evidence-3d.md) — related

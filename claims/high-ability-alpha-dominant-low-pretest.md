@@ -69,3 +69,5 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [A meta-analysis of FCI and FMCE data found no correlation of institutional SAT scores, pre-test scores, or institution type with normalized gains, though pre-test scores correlate with institution type.](normalized-gains-institution-type-independent.md) — related
 - [Pretest scores correlate positively with learning pace, but posttest scores show no such correlation, indicating slower students catch up when given more time and content](pretest-posttest-pace-correlation-equalization.md) — related
 - [IRT fairly well predicts observed gains and losses on the FCI as functions of pre-test score](irt-predicts-fci-gains-losses.md) — related
+- [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — related
+- [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — related

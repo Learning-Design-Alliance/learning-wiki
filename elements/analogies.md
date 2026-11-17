@@ -66,9 +66,11 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - [Reigeluth's Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
+
 - Explaining electrical current through the analogy of water moving through pipes
 - Comparing a thesis statement to a roadmap that previews where the argument is headed
 - Introducing computer memory through a desk-workspace analogy to distinguish short-term and long-term storage
+- [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](../strategies/post-activity-discussion-static-friction-strategy.md)
 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155-170. [https://doi.org/10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)

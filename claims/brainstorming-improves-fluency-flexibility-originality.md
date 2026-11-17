@@ -55,3 +55,4 @@ Independent-samples T tests on the three creative-thinking subskills in the same
 - [Sharing individually generated ideas during the group phase (cognitive group awareness) increases the originality of collaboratively generated ideas](cognitive-group-awareness-raises-group-phase-originality.md) — related
 - [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
 - [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

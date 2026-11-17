@@ -74,3 +74,4 @@ Same manual failure analysis on DSReal: models can often replicate the intended 
 - [Fine-tuning VLMs on synthetic data from TURTLEAI-Datagen improves performance on TURTLEAI, raising symbolic success rates by over 10% over base counterparts](fine-tuning-synthetic-data-improves-turtleai.md) — related
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [Generative AI excels at processing digital text but struggles with interpreting text from images](genai-visual-comprehension-gap-images.md) — related
+- [Students shifted from canonical representations toward invented, visually communicative models of acceleration, using co-variation of turtle variables such as pen-width with step-size](invented-communicative-models-covariation.md) — related

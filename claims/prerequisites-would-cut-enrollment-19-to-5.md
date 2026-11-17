@@ -47,3 +47,4 @@ Descriptive enrollment analysis from the class composition table in a single cou
 ## Related Claims
 - [A multivariate data analysis course with no prerequisites is viable, with students holding a background course performing comparably or better on exams except one anomalous midterm for the linear-algebra-only group](no-prerequisite-multivariate-course-viable.md) — related
 - [On midterm 2, students with only linear algebra and no introductory statistics scored about 10 percentage points lower at the median than classmates](midterm2-linear-algebra-only-group-lower.md) — related
+- [A no-prerequisite, broad-survey introductory data science course attracted fifty students from many non-computing disciplines in its first semester-long offering](no-prerequisite-broad-survey-data-science-course-enrollment.md) — related

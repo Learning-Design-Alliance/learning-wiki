@@ -55,3 +55,4 @@ Questionnaire study of the 13 training-group students plus faculty using 10 Like
 - [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related
 - [Participants rate real-time objective feedback as highly useful and easy to use during CPR manikin training](participants-rate-real-time-feedback-highly-useful.md) — related
 - [Questionnaire ranking with 248 participants using a five-level Likert item and a mean-points formula identifies ease of use and user-friendly interface as top MCL requirements](likert-questionnaire-ranks-mcl-basic-requirements.md) — related
+- [Students perceive the Energy Skate Park simulator as easy to use](energy-skate-park-high-perceived-usability.md) — related

@@ -50,3 +50,5 @@ Inter-rater reliability check of the CCMI differential-equation question grading
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [An untrained grader using the CCMI grading rubric scores student responses reliably](ccmi-untrained-grader-reliability.md) — related
+- [Raters using the rubric agree on at least 80% of grading decisions, with consistent reliability across about 200 students](rubric-inter-rater-reliability-above-80-percent.md) — a narrower finding that bears on this claim

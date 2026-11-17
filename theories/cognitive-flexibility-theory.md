@@ -112,9 +112,11 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - [Flexible hypertext-based online course design with hierarchical navigation and multiple representations](../designs/flexible-hypertext-course-design-pattern.md)
 
 ## Examples
+
 - Legal reasoning sequences where the same doctrine is interpreted across multiple precedents.
 - Medical instruction comparing cases with overlapping symptoms but different underlying causes.
 - Policy analysis that revisits one concept through different stakeholder and context lenses.
+- [Design concept test sequences that vary representation and difficulty level](../strategies/concept-test-sequence-design-strategy.md)
 
 ## Impact
 - Helps learners avoid overly rigid simplifications in complex domains.

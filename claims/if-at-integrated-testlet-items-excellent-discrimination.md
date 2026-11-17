@@ -60,3 +60,4 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related
 - [Constructed-response questions discriminate slightly better between stronger and weaker students than integrated testlets](cr-more-discriminating-than-it.md) — related
 - [Integrated testlet and constructed-response scores correlate more closely with each other than ITs correlate among themselves, suggesting the formats measure the same construct](it-cr-measure-same-construct.md) — related
+- [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related

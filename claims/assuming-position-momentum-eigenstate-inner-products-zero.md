@@ -50,3 +50,5 @@ Open-ended question with 46 upper-level undergraduates after instruction in rele
 - [Graduate students substantially outperform undergraduates on recall of eigenstate representations but nearly half cannot generate them, revealing a recall-generate dichotomy](graduate-recall-generate-dichotomy.md) — related
 - [Upper-level students recognize and recall translations of a generic state vector between Dirac notation and position/momentum representations far better than they can generate them](recognize-recall-easier-than-generate-generic-state.md) — related
 - [Students commonly confuse a state with an operator when translating between Dirac notation and position or momentum representations](confusing-state-with-operator-dirac-translation.md) — related
+- [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related
+- [Undergraduate quantum mechanics students inappropriately transfer classical mechanics concepts into quantum mechanics contexts](inappropriate-classical-transfer-quantum-mechanics.md) — related

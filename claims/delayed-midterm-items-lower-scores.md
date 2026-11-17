@@ -49,3 +49,4 @@ Repeated measures ANOVA on shared midterm items the cumulative section encounter
 - [In a course with frequent assessment, cumulative versus non-cumulative midterm format has no effect on final exam performance in introductory biology](cumulative-midterms-no-final-exam-effect-frequent-testing.md) — related
 - [Midterm format and cognitive level interact on the retention exam: non-cumulative students retain more on high-order questions](retention-cognitive-level-interaction.md) — reports the opposite
 - [Midterm format has no overall effect on retention exam scores five months after the course](midterm-format-no-overall-retention-effect.md) — reports the opposite
+- [Learning gains from the Larmor precession QuILT are retained on matched final-exam questions more than two months later](quilt-larmor-gains-retained-final-exam.md) — related

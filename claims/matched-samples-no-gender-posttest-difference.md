@@ -50,3 +50,4 @@ The review reports Blue and Heller's matched-samples study in an introductory un
 - [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related
 - [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related
 - [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
+- [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — reports the opposite

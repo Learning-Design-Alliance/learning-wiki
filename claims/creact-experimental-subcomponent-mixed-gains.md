@@ -49,3 +49,4 @@ Dependent samples t-tests on the experimental group's TTCT subcomponent pre- and
 - [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](creact-between-group-subcomponents-significant.md) — related
 - [Experimental group's total creativity rose significantly from pre-test to post-test after CREACT practice](creact-experimental-prepost-total-gain.md) — a broader claim this one bears on
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

@@ -59,3 +59,4 @@ Burgos et al. is an onto-semiotic analysis of the definite-integral concept and 
 - [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — related
 - [The author attributes students' multivariable-calculus errors to weak grasp of the function definition, domain and codomain, rather than only to conception level](function-definition-gaps-explain-multivariable-errors.md) — related
 - [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — a narrower finding that bears on this claim
+- [Students' ADK in high school physics centers on using correct procedure to produce correct answers rather than conceptual understanding](student-adk-procedure-over-conceptual-understanding.md) — a narrower finding that bears on this claim

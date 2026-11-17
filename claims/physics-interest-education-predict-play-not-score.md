@@ -24,6 +24,8 @@ sources:
     author: Andreas Lieberoth, Mads Kock Pedersen, Andreea Catalina Marin, Tilo Planke, Jacob Friis Sherson
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # High physics interest and low (0-3 years) additional physics education predict more play activity, but neither predicts tutorial scores
@@ -52,7 +54,7 @@ One-way ANOVAs on play counts per active day by physics interest, gender, and ph
 
 Andreas Lieberoth, Mads Kock Pedersen, Andreea Catalina Marin, Tilo Planke, Jacob Friis Sherson. (2014). Getting Humans to do Quantum Optimization - User Acquisition, Engagement and Early Results from the Citizen Cyberscience Game Quantum Moves. Human Computation. https://doi.org/10.15346/hc.v1i2.11
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 One-way ANOVA on average tutorial-level scores found no significant effect of physics interest (F(2,671)=0.76, p=0.469) or education (F(2,671)=0.99, p=0.370). The article concludes the game framing speaks to people with a notable casual interest in physics, but not a too professional background.
 

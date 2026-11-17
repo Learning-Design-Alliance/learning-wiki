@@ -70,3 +70,4 @@ The review reports, citing Cheung et al. (2015a) and van Lieshout et al. (2016b)
 - [A large Swedish register-based study found treatment with ADHD medication significantly reduces the risk for criminality in adults with ADHD](adhd-medication-reduces-criminality-risk-adults.md)
 - [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md)
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — related
+- [The article reports that DSM-5 criteria (released on 2013) led to an increase in the estimated ADHD prevalence rate in US children and teenagers from 7.38% to 10.84%](adhd-prevalence-dsm-iv-dsm-5-estimates.md) — related

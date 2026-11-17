@@ -45,6 +45,7 @@ The brief recommends that schools and districts deliberately align benchmark sel
 - [Provide more intensive literacy interventions and supports for at-risk students in later grades](more-intensive-literacy-supports-later-grades.md)
 - [Screen multilingual students in multiple languages where possible, choosing screener languages informed by students' instructional contexts and home language use](multilingual-screening-informed-by-instructional-context.md)
 - [Teachers should use the identified moderators as criteria when selecting CALL applications and predicting student performance](use-moderators-to-select-call-applications.md)
+- [Choose assessments by matching instrument topic coverage, level, and format to your course content and goals](choose-rbai-matched-to-course-content.md)
 
 ## Examples
 -

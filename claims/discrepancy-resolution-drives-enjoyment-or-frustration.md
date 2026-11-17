@@ -73,3 +73,4 @@ Same Model 2 analysis of 275 preservice teachers: the confidence-enjoyment link 
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [Intra-individual effects of high-confidence errors, discrepancy resolution, and emotions on exploration did not vary significantly between persons](no-inter-individual-variation-in-emotional-mechanisms.md) — related
 - [Without explicit prompting, students do not resolve discrepancies between model and measurement even when aware of them](students-do-not-resolve-discrepancies-unprompted.md) — related
+- [Concept tests prompted active peer discussion in which students eager to resolve discrepancies between their answers and the correct view](concept-tests-spur-active-peer-discussion.md) — related

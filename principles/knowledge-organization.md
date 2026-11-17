@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (20 for, 13 mixed) · 37 studies (12 causal, 8 review, 6 quant-synthesis, 4 theoretical, 3 associational, 3 design, 1 qualitative), `q1`–`q4` · 8 of 37 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (21 for, 14 mixed) · 38 studies (12 causal, 8 review, 6 quant-synthesis, 4 associational, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 38 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,8 @@ Do not rank these by effect label: physics students on hierarchies, pooled conce
 - [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+W]
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
 - [Textbook derivations typically fail to indicate which parts of the Lorentz derivation rest on which postulate](../claims/textbooks-fail-postulate-attribution.md) [+W] — attached 2026-11-10 from Alfred Ziegler (2007), which proposed "When teaching the Lorentz transformation, make explicit which derivation steps rest on which postulate and which on additional assumptions".
+- [Physics faculty members' categorizations of quantum mechanics problems were rated higher overall than those of undergraduate students by faculty evaluators](../claims/faculty-qm-categorizations-rated-higher-than-students.md) [+W] — attached 2026-11-17 from Shih-Yin Lin et al. (2016), which proposed "Use problem categorization tasks in quantum mechanics courses as a tool for understanding the patterns students see when contemplating how to solve problems".
+- [Categorizing upper-level quantum mechanics problems mainly involves identifying concepts and procedures, whereas introductory physics categorization involves identifying fundamental principles](../claims/qm-categorization-concepts-procedures-not-principles.md) [~W] — attached 2026-11-17 from Shih-Yin Lin et al. (2016), which proposed "Use problem categorization tasks in quantum mechanics courses as a tool for understanding the patterns students see when contemplating how to solve problems".
 
 ## Objective and learner-valued goal
 

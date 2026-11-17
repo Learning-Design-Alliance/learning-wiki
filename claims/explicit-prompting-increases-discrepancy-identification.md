@@ -16,12 +16,14 @@ sources:
     author: H. J. Lewandowski and Noah Finkelstein
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Explicit prompting in lab guides increases the likelihood that students identify discrepancies between measurement and model in a voltage-divider experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 H. J. Lewandowski and Noah Finkelstein. (2015). Redesigning a junior-level electronics course to support engagement in scientific practices. [doi:10.1119/perc.2015.pr.043](https://doi.org/10.1119/perc.2015.pr.043)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experimental comparison of two cohorts (traditional N = 47, transformed N = 44) taught one year apart by the same instructor, coding student write-ups of the week-2 voltage-divider lab. Table I reports "Identiﬁed discrepancy" 83% traditional vs 100% transformed, "p < 0.01 by measure of binomial sampling."
 

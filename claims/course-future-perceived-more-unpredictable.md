@@ -50,3 +50,4 @@ Self-reported change quoted from student Nora in the phenomenographic interview 
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related
+- [Students reported changed perceptions of creativity after the course, viewing it as multifaceted, learnable and requiring practice](ind8108-students-perception-of-creativity-changed.md) — related

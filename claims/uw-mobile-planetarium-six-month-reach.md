@@ -48,3 +48,4 @@ Project team's report of the mobile planetarium's first six months of operation:
 ## Related Claims
 - [Before the mobile project, no Seattle Public High School reserved UW planetarium shows even though the program served on average 1,000 students a year and every SPHS lay within 10 miles of the planetarium](sphs-planetarium-reservation-gap.md) — related
 - [Students create planetarium tours that show well in the dome provided they avoid projecting text, which is hard to read in the mobile planetarium](student-wwt-tours-avoid-text.md) — related
+- [The UM-D, HFC and FAAC partnership delivers large-scale annual K-12 and public astronomy outreach, with of order a thousand schoolchildren per year at the planetarium](umd-hfc-faac-outreach-partnership-impact.md) — related

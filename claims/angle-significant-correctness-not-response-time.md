@@ -16,12 +16,14 @@ sources:
     author: Mary Bridget Kustusch
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Angle between vectors significantly impacts correctness but not response time on non-physics forward reasoning problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mary Bridget Kustusch. (2015). Assessing the impact of representational and contextual problem features on student use of right-hand rules. [doi:10.1103/physrevphyseducres.12.010102](https://doi.org/10.1103/physrevphyseducres.12.010102)
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 ANOVA F test and likelihood ratio chi-squared test on N = 723 working forward non-physics problems in the xy-plane found a significant correctness difference (p = 0.041) but no response time difference (p = 0.14). The subset was among the easiest with "overall level of correctness for this subset was above 90%".
 

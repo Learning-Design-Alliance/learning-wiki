@@ -54,3 +54,4 @@ Qualitative analysis of contributions in negotiation and group spaces during the
 - [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — a broader claim this one bears on
 - [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related
 - [Metalanguage in the episodic interview worked as a tool to re-contextualise and re-signify meanings at a later moment](metalanguage-recontextualises-meanings-episodic-interview.md) — related
+- [Effective small-group work in physics produces co-construction of knowledge: students can figure out answers together that they would not figure out alone](peer-co-construction-of-knowledge-physics.md) — related

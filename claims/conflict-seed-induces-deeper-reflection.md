@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-17
 sources:
   - id: rajan-kadel-2026
     resource: "https://doi.org/10.48550/arxiv.2609.03413"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners' engagement in critical reflection depends on whether they perceive conflict or agreement with a machine learning-based clinical decision support system's output, and conflict seeds induced deeper reflection than confirmation seeds. [→ Rajan Kadel 2026](#rajan-kadel-2026)

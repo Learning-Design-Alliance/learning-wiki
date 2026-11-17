@@ -47,3 +47,4 @@ Pearson correlation in the 55-subject randomized mannequin simulation between me
 ## Related Claims
 - [Rescuers achieving a 90-degree arm angle relative to the mannequin's chest achieved significantly greater mean compression depth than those compressing at less than 90 degrees](ninety-degree-arm-angle-greater-compression-depth.md) — related
 - [Rescuer weight category and male gender are each strongly, positively correlated with chest compression depth](rescuer-weight-gender-correlated-compression-depth.md) — related
+- [Peak height also increases with lens mass, but only when the separation-to-Einstein-angle ratio u is held equal, so the curriculum uses width alone to convey mass](peak-height-mass-caveat-width-only-design.md) — related

@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (34 for, 19 mixed, 3 against) · 61 studies (34 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 61 report an effect size · 45 claims rest on one study
+> **Evidence** · 57 claims (35 for, 19 mixed, 3 against) · 62 studies (35 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 62 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](../claims/mind-mapping-improves-critical-thinking-disposition-nursing.md) [~W] — attached 2026-11-08 from Wu Hang-Zhou; Wu Qiu-Ting (2020), which proposed "Use mind mapping training in clinical nursing education to cultivate critical thinking disposition".
 - [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](../claims/partial-diagram-intervention-worse-quiz-performance.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint"; tests this page's relationship.
 - [Students prompted to draw a diagram were more likely to draw productive diagrams than the diagram-only and no-support groups](../claims/prompt-increases-productive-diagrams.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint".
+- [Prompting students to draw a diagram makes them statistically more likely to draw expert-like diagrams than giving no instruction, while providing a pre-drawn diagram leaves many students using an unmodified basic diagram](../claims/prompting-diagrams-expert-like-diagram-use.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2010), which proposed "Prompt students to draw their own diagrams rather than providing a basic diagram, and build this prompting into quiz and midterm problems"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

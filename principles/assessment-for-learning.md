@@ -31,7 +31,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (17 for, 13 mixed, 2 against) · 38 studies (13 causal, 8 quant-synthesis, 5 review, 5 theoretical, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 38 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (18 for, 13 mixed, 2 against) · 39 studies (14 causal, 8 quant-synthesis, 5 review, 5 theoretical, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 9 of 39 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +99,7 @@ Claims read against the model on 2026-10-15 and found not to bear on its relatio
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](../claims/immediate-adaptive-test-results-enable-differentiation.md) [+W] — read 2026-10-15: an author's assertion with no reported data (Freeman 2014, q1); it restates the teacher-side loop modelled on the formative assessment page and tests nothing here.
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](../claims/rubric-instruction-improves-efl-writing-performance.md) [+W] — attached 2026-11-01 from Turgut et al. (2015), which proposed "Share and teach assessment criteria with students rather than keeping grading criteria private"; tests this page's relationship.
 - [Students largely rejected peer marks contributing to grades but accepted a small near-peer contribution](../claims/students-reject-peer-grades-accept-small-np-contribution.md) [+W] — attached 2026-11-09 from Fitzgerald K (2018), which proposed "Frame peer and near-peer assessment as an additional feedback source rather than a graded component".
+- [Students given explicit grade incentives to correct midterm exam mistakes significantly outperform comparison students on identical problems repeated on the final exam](../claims/grade-incentives-to-correct-mistakes-improve-final-exam-performance.md) [+M] — attached 2026-11-17 from Benjamin R. Brown et al. (2016), which proposed "Instructors should give students explicit grade incentives to correct their exam mistakes as a formative assessment tool"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

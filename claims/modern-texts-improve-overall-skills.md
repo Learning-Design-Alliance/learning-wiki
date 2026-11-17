@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-10
 evidence_strength: weak
-newest_evidence: 2008
+newest_evidence: 2009
 sources:
-  - id: l-d-carr-and-s-b-mckagan-2008
+  - id: l-d-carr-and-s-b-mckagan-2009
     resource: "https://doi.org/10.1119/1.3079689"
-    title: "L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.1119/1.3079689](https://doi.org/10.1119/1.3079689)"
+    title: "L. D. Carr and S. B. McKagan. (2009). Graduate quantum mechanics reform. *American Journal of Physics, 77*(4), 308–319. Originally released as a preprint 2008. [doi:10.1119/1.3079689](https://doi.org/10.1119/1.3079689)"
     author: L. D. Carr and S. B. McKagan
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Assessment tools showed that modern texts such as Le Bellac and Gottfried and Yan improved students' ability to develop important skills in quantum mechanics in an overall context, rather than as a grab-bag of methods. [→ L. D. Carr and S. B. McKagan 2008](#l-d-carr-and-s-b-mckagan-2008)
+`q2 i?` Assessment tools showed that modern texts such as Le Bellac and Gottfried and Yan improved students' ability to develop important skills in quantum mechanics in an overall context, rather than as a grab-bag of methods. [→ L. D. Carr and S. B. McKagan 2009](#l-d-carr-and-s-b-mckagan-2009)
 
 ## Evidence
 
-### L. D. Carr and S. B. McKagan 2008
+### L. D. Carr and S. B. McKagan 2009
 
-L. D. Carr and S. B. McKagan. (2008). Graduate quantum mechanics reform. [doi:10.1119/1.3079689](https://doi.org/10.1119/1.3079689)
+L. D. Carr and S. B. McKagan. (2009). Graduate quantum mechanics reform. *American Journal of Physics, 77*(4), 308–319. Originally released as a preprint 2008. [doi:10.1119/1.3079689](https://doi.org/10.1119/1.3079689)
 
 `q2 · i?` · `design · r3`
 

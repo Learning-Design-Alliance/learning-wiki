@@ -17,7 +17,7 @@ sources:
 # Use tableaux-based theorem provers to generate counter-model feedback on incorrect logic exercise submissions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors propose replacing the resolution theorem prover with a tableaux-based prover so that, when a submission is not logically equivalent to the model answer, the tableau procedure's counter model can be shown to the student. They illustrate with the ProofTools prover: for a typical incorrect solution to "Joe does not have a lawyer," the counter model shows a lawyer the student is not a customer of plus another lawyer Joe retained, information they say "should help a struggling student discover the error that had been made."

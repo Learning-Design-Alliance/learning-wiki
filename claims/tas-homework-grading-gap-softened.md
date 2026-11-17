@@ -51,3 +51,4 @@ Homework-context grades from the same worksheet study of 43 TAs: '58% of TAs (N=
 - [TAs' quiz-versus-homework grading differences may stem from their consideration of evidence of thought processes, quiz time limitations, or a preference for brief, condensed solutions](ta-grading-reasons-evidence-time-aesthetics.md) — related
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
+- [In the homework context the SSE–SSD gap softened and average scores were comparable](tas-quiz-hw-grading-gap-softened-hw-nonsignificant.md) — possibly the same claim (merge candidate)

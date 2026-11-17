@@ -54,3 +54,4 @@ Qualitative free-text analysis of comments from the 66 questionnaire respondents
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
 - [Most students judge live lectures better than video podcasts for learning and retaining new information](students-prefer-lecture-for-retention.md) — related
 - [Video-player control puts the power to repeat in the hand of the individual student, suiting individual needs](mooc-repetition-power-shifts-to-student.md) — possibly the same claim (merge candidate)
+- [Within videos, students concentrated access and pauses on concrete, assignment-required content (actions, formulas, problem-solving techniques) and engaged less with conceptual or epistemological sections](students-focus-on-concrete-assignment-content-in-videos.md) — related

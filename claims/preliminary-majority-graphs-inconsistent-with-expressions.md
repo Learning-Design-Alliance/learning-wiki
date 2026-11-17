@@ -52,3 +52,4 @@ The authors' previous preliminary research in a different introductory calculus-
 - [Group 1 students outperformed Group 2 students on the electric-field expression in regions r<a and b<r<c](plot-each-region-first-boosted-expressions-versus-evaluation-intervention.md) — related
 - [Students asked to plot each region first were more likely to draw graphs consistent with their mathematical expressions in all regions](plot-each-region-first-improved-graph-consistency.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — a broader claim this one bears on
+- [Introductory physics students misinterpret field equations by treating them as pure algebra, ignoring that the force depends on the test charge](students-treat-physics-equations-as-pure-math.md) — related

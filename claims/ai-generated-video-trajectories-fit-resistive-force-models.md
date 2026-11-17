@@ -49,3 +49,4 @@ Numerical fitting results reported in the Results and discussion section for thr
 - [The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces](ai-video-constant-friction-recovers-plausible-mu.md) — a narrower finding that bears on this claim
 - [The quadratic-drag AI video yields a fitted drag coefficient (CD ≈ 3.18) within the literature range reported for skydivers](ai-video-quadratic-drag-recovers-plausible-drag-coefficient.md) — a narrower finding that bears on this claim
 - [The linear-drag AI video yields a fitted glycerin viscosity (≈ 0.234 Pa·s) consistent with an aqueous glycerin solution of about 85% by weight](ai-video-linear-drag-recovers-plausible-viscosity.md) — a narrower finding that bears on this claim
+- [Students recover light-source spectra via FTS that agree with manufacturer specifications](student-fts-spectra-match-manufacturer-specs.md) — related

@@ -48,3 +48,4 @@ Cross-check of gain against three evaluation-survey questions in the 64-student 
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Participants across ages reported VENOMventure as fun and helpful for learning, and nearly all observed groups completed the game.](venomventure-fun-learning-perceptions.md) — related
 - [Students with the top grade in Mechanics and Thermodynamics showed a high gain (0.28), and students reporting much better understanding trended above average (0.24, not significant)](high-prior-graders-high-gain-gamified.md) — related
+- [Students at all performance tiers demonstrate a large learning gain (average 0.65) after playing DiffGame](diffgame-117-student-average-gain.md) — related

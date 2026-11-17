@@ -47,3 +47,4 @@ In-class trial of the Superposition states and mixed states simulation as a home
 ## Related Claims
 - [Superposition Mixed States Pretest Posttest Gains](superposition-mixed-states-pretest-posttest-gains.md)
 - [Revising the simulation to display each input particle's state helped students distinguish mixed states from superposition states](iterative-revision-mixed-state-display.md) — related
+- [Distinguishing a superposition (|↑⟩z+|↓⟩z)/√2 from an equal mixture of |↑⟩z and |↓⟩z is difficult for most interviewed students](sge-superposition-mixture-difficulty.md) — related

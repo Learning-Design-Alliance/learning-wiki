@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (15 for, 14 mixed) · 33 studies (12 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 33 report an effect size · 23 claims rest on one study
+> **Evidence** · 30 claims (16 for, 14 mixed) · 34 studies (13 causal, 5 quant-synthesis, 5 review, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 9 of 34 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -102,6 +102,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Number of peer-instructed seminars attended is positively associated with end-of-course exam scores, even when corrected for previous academic achievement](../claims/seminar-attendance-associated-exam-scores.md) [+W] — attached 2026-11-09 from Bouwmeester Rianne A. M. et al. (2016), which proposed "Peer-instructed seminar pattern: individual homework preparation, buzz-group consensus discussion, plenary presentation and wiki summarization"; tests this page's relationship.
 - [Students who see the class-response bar graph before peer discussion are 30% more likely to switch from a less common to the most common answer than students who do not see it](../claims/bar-graph-display-biases-switch-to-most-common-answer.md) [~M] — attached 2026-11-10 from Perez Kathryn E. et al. (2010), which proposed "Show the class-response bar graph during clicker peer instruction judiciously, and withhold it before discussion when the goal is content-based peer discussion".
 - [The biasing effect of seeing the bar graph is stronger for two-choice (true/false) questions (38%) than for four-choice multiple-choice questions (28%)](../claims/bar-graph-bias-stronger-true-false-than-multiple-choice.md) [~M] — attached 2026-11-10 from Perez Kathryn E. et al. (2010), which proposed "Show the class-response bar graph during clicker peer instruction judiciously, and withhold it before discussion when the goal is content-based peer discussion".
+- [Concept tests prompted active peer discussion in which students eager to resolve discrepancies between their answers and the correct view](../claims/concept-tests-spur-active-peer-discussion.md) [+W] — attached 2026-11-17 from Chandralekha Singh et al. (2010), which proposed "Award credit for concept-test participation even when students select incorrect answers".
 
 ## Illustrative design instance and observation record
 

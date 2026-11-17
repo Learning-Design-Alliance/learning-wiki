@@ -51,3 +51,4 @@ Internal-consistency analysis of the pooled CCMI post-test data at CU. The artic
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [Mean CCMI post-test score across three pooled semesters was 52.9%, with a wide score range and some students outperforming first-year graduate students](ccmi-pooled-mean-score-distribution.md) — related
+- [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related

@@ -69,3 +69,4 @@ Enrollment and usage counts from Table I: of 571 Phys 140 and 531 Phys 240 enrol
 - [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — related
 - [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
 - [PeerWise activity spikes before examinations and students report using it to reinforce knowledge close to exams](peerwise-activity-spikes-before-exams.md) — related
+- [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
