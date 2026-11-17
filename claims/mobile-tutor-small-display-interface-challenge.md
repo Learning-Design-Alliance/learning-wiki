@@ -49,3 +49,4 @@ Authors' interface analysis in the interface subsection, drawing on Andes, Algeb
 
 ## Related Claims
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
+- [Students create planetarium tours that show well in the dome provided they avoid projecting text, which is hard to read in the mobile planetarium](student-wwt-tours-avoid-text.md) — related

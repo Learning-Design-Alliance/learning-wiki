@@ -50,3 +50,4 @@ Survey item on knowledge sources among the 60 students who reported having suffi
 - [Third-year nursing students rate their dental trauma knowledge higher than first-year students (p = 0.011)](third-year-students-rate-dental-trauma-knowledge-higher.md) — related
 - [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
 - [Third-year nursing students most strongly support tetanus vaccination after dental trauma (65.2%, p = 0.01)](third-year-students-most-support-tetanus-vaccination.md) — related
+- [TV, specialized press, internet and astronomy museums are the most used channels for seeking astronomy information, with internet dominant among students](astronomy-information-sources-tv-internet.md) — related

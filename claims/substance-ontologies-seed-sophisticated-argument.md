@@ -50,3 +50,4 @@ Close qualitative analysis of a videotaped small-group discussion among teachers
 - [Lynn's substance-based reasoning mapped gravity onto force per unit mass, the correct definition of gravitational field](substance-gravity-mapped-to-gravitational-field.md) — related
 - [Interventions that prematurely curb learners' linguistic or conceptual use of incorrect ontologies might be detrimental to learners' progress](premature-ontology-correction-may-be-detrimental.md) — a broader claim this one bears on
 - [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
+- [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](clicker-equal-pulls-framing-error.md) — related

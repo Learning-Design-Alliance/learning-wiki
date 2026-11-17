@@ -44,6 +44,8 @@ The authors' forward-looking recommendations for improving the reformed course: 
 - [Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit](future-extensions-interferometer-and-bayesian-unit.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
+- [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
+- [Design interdisciplinary physics courses (e.g., physics for biology and chemistry majors) around applications of physics to the partner discipline without compromising standards](interdisciplinary-applied-physics-courses-strategy.md)
 
 ## Examples
 -

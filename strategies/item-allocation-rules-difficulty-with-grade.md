@@ -46,6 +46,7 @@ The article proposes implementing four item allocation rules within the system: 
 ## Related Strategies
 
 - [Sequence practice items with an ML algorithm that prioritizes questions by predicted recall probability rather than fixing the rate of study](ml-item-selection-strategy.md)
+- [Grade-dependent item allocation that shifts quiz question difficulty upward as student grades rise](grade-dependent-item-allocation-scheme.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ An 18-week quasi-experimental study comparing a class of 40 PSTs using a "knowle
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — a broader claim this one bears on
 - [Most experimental-group students (61%) showed evidence of reflection in their portfolio writing](portfolio-reflection-61-percent-experimental.md) — related
+- [Tool-assisted discourse analysis students rated ideal group work at a significantly higher level of collaborative knowledge-building understanding than students who reflected without the tool](kbdex-analysis-higher-rubkb-group-work-understanding.md) — related

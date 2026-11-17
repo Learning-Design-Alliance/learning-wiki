@@ -55,3 +55,4 @@ Two individual case profiles (Figures 9 and 10) presented to illustrate variatio
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
 - [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — related
+- [Teachers at a December 2013 regional symposium raised wide-ranging concerns about implementing the NGSS, including intensive professional development needs, time management, differentiation, and assessment fit](teacher-concerns-ngss-implementation-symposium.md) — related

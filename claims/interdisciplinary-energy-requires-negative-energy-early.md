@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: benjamin-w-dreyfus-2013
     resource: "https://doi.org/10.1119/perc.2013.pr.020"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because most energy relevant in biological systems is chemical energy, and bound atoms have negative energy relative to unbound atoms with a non-arbitrary zero point, negative energy must be accessible from the beginning of the energy unit. [→ Benjamin W. Dreyfus 2013](#benjamin-w-dreyfus-2013)
@@ -49,3 +50,5 @@ Theoretical argument from the paper's Interdisciplinarity section about the NEXU
 - [For some students the vertical location metaphor makes thinking of bond potential energy as negative more intuitive than positive](location-metaphor-negative-bond-energy-intuitive.md) — related
 - [Students perceive how each scientific discipline bounds the system of interest, and this perception shapes how they justify cross-disciplinary reasoning about ATP and bond energy](disciplinary-system-bounding-shapes-student-justifications.md) — related
 - [On an ATP quiz question, 79% of an introductory physics class for biology majors selected the answer that breaking the bond releases energy, broadly comparable to Galley's physical chemistry class](atp-quiz-79-percent-choose-bond-breaking-releases-energy.md) — related
+- [Life-science students enter IPLS courses with salient ideas about energy grounded in chemical bonds and ATP from their biology and chemistry coursework.](ipls-students-incoming-atp-bond-energy-ideas.md) — related
+- [NEXUS/Physics replaces traditional physics content with chemical energy, entropy and Gibbs free energy, and random vs. coherent motion, while eliminating topics such as projectile motion and universal gravitation.](nexus-physics-content-restructuring.md) — a broader claim this one bears on

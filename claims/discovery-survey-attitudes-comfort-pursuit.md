@@ -52,3 +52,5 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [Students responded positively to the transiting-planet inquiry activity, with 90% writing positive post-activity survey responses](transiting-planets-inquiry-90-percent-positive-feedback.md) — related
+- [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
+- [Pilot IPLS students shifted toward perceiving the reformed physics labs as valuable for their future careers](nexus-physics-labs-career-perception-shift.md) — related

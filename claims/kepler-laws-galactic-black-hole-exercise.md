@@ -46,3 +46,4 @@ Described classroom exercise using a stack of 16 years of ESO VLT images of the 
 
 ## Related Claims
 - [Exoplanet transit exercise uses 20 Spitzer images of HD 189733b for students to measure light curves and derive planet size and distance](spitzer-transit-exoplanet-exercise.md) — related
+- [EJS data-analysis tools support students fitting trends such as T squared proportional to R cubed](ejs-kepler-data-analysis-trend-fitting.md) — related

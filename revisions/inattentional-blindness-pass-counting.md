@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/inattentional-blindness-pass-counting.md
+---
+
+# Revision history: [claims/inattentional-blindness-pass-counting](../claims/inattentional-blindness-selective-attention.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1308.3911 (Oersted Lecture 2013: How should we think about how our students think?) via eval_harness.py + ingest_extractions.py

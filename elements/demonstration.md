@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 13 studies (10 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 14 studies (10 causal, 2 review, 1 design, 1 theoretical), `q2`–`q3` · 0 of 14 report an effect size · 15 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -77,6 +77,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - [Procedural video and live demonstration produce equivalent blind-assessed Adam's Clasp fabrication scores in fourth-year dental students](../claims/procedural-video-equivalent-live-demonstration-adams-clasp.md) [~W] — attached 2026-11-09 from Alqahtani ND et al. (2015), which proposed "Twelve-minute procedural video for teaching Adam's Clasp fabrication".
 - [Students taught by procedural video rated the clarity of the teaching method's steps higher than live-demonstration students](../claims/video-group-rated-steps-clearer-than-live-demonstration.md) [+W] — attached 2026-11-09 from Alqahtani ND et al. (2015), which proposed "Twelve-minute procedural video for teaching Adam's Clasp fabrication".
 - [Medical trainee interns given continued video iPod access to catheterization videos maintain skill competency over 3 months, while control-group competency declines](../claims/video-ipod-access-maintains-catheterization-competency.md) [+W] — attached 2026-11-10 from Hansen M et al. (2011), which proposed "Video iPod delivery of faculty-prepared male and female urinary catheterization videos".
+- [Student grades and course satisfaction were higher in the 2013 demonstration-rich course than in the conventionally taught 2011 course](../claims/demonstration-rich-course-grade-improvement-2013.md) [+W] — attached 2026-11-17 from Muhammad Sabieh Anwar (2013), which proposed "A set of nearly a dozen robust in-class physics demonstrations performed during formal lecture time"; tests this page's relationship.
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

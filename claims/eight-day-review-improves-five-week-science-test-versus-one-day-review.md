@@ -59,3 +59,4 @@ This evidence supports considering a longer gap when planning delayed recall and
 - [Chen et al. (2018): spaced practice superiority was associated with increased availability of working memory resources](chen-2018-spaced-superiority-associated-with-wm-recovery.md) — related
 - [Retention after 3–5 weeks does not differ between short-interval and long-interval proficiency-based simulator training schedules](interval-length-no-difference-retention-test-time.md) — related
 - [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related
+- [Shortening workshops from a week to two days increased attendance and retention, and 80-90% of attendees report they were glad they attended](two-day-workshops-retention-satisfaction.md) — related

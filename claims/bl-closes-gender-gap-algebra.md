@@ -51,3 +51,4 @@ Authors' interpretation (type e) of the non-significant interaction and the Tabl
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — related
 - [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — possibly the same claim (merge candidate)
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
+- [High school Algebra I students using InkSurvey with regular feedback gained more on standards-based assessments than non-exposed peers, with female students showing much greater gains](inksurvey-algebra-i-gains-females.md) — related

@@ -51,3 +51,4 @@ Results from Q3 of the questionnaire on simple astronomical concepts: the study 
 - [The review reports that many preservice primary teachers hold alternative conceptions about the day-night cycle, Moon phases and the seasons](preservice-teachers-alternative-conceptions-astronomy-reported.md) — a broader claim this one bears on
 - [Argentine primary and secondary minimum-content curricula include the astronomy topics most associated with alternative conceptions](argentine-curricula-include-conflictive-astronomy-topics.md) — related
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
+- [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related

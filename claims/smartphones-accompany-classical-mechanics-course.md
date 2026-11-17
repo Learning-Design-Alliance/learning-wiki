@@ -47,3 +47,4 @@ Design analysis by the authors, not a controlled study. They report systematical
 ## Related Claims
 - [Using students' daily-life smartphones shows them that physics concepts are necessary to control smartphone operations](smartphones-connect-physics-concepts-to-daily-life.md) — related
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — related
+- [Second Life scripts can represent physical quantities in real time and set initial position, velocity, and mass, satisfying key teaching-oriented simulator criteria](sl-real-time-representation-and-initial-parameters-feasible.md) — related

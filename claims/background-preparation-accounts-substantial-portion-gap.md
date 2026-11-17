@@ -52,3 +52,4 @@ Kost et al.'s regression models on FMCE and BEMA posttest scores used predictive
 - [E&M concept inventories show smaller and more variable gender gaps, averaging 3.7% on pretest and 8.5% on posttest, sometimes zero or favoring women](em-inventory-gender-gaps-smaller-variable.md) — related
 - [In regression models, prior attainment and background explained most variation, with treatment adding little beyond pupil prior characteristics](future-foundations-regression-treatment-small.md) — related
 - [YWYL MOOC pretest FMCE scores average 39.9% with a bimodal distribution, including a top quintile unlike the typical introductory physics population](ywyl-pretest-fmce-bimodal-distribution.md) — related
+- [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related

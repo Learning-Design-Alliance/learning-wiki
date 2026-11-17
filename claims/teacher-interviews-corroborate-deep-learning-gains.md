@@ -62,3 +62,4 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
 - [Students' questionnaire responses attribute listening improvement to the demands of interpreting tasks, corroborating the quantitative gains](student-questionnaires-corroborate-listening-gains.md) — related
 - [Rubric-graded PowerPoint team presentations in all three biology courses showed learning gains in knowledge integration and synthesis](mbcl-presentations-show-deep-learning-gains.md) — related
+- [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related

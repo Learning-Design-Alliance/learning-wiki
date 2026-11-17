@@ -51,4 +51,4 @@ At the end of each chapter, the curriculum closes with "a longer summary 'Wrappi
 -
 
 ## Key Sources
-- McLin, K. M., Cominsky, L. R., Metevier, A. J., Coble, K., Bailey, J. M. (2013). Using the Big Ideas in Cosmology to Teach College Students. 4th Fermi Symposium, Monterey, CA. https://arxiv.org/abs/1303.1768
+- McLin, K. M., Cominsky, L. R., Metevier, A. J., Coble, K., Bailey, J. M. (2013). Using the Big Ideas in Cosmology to Teach College Students. 4th Fermi Symposium, Monterey, CA. https://arxiv.org/abs/1303.1768. [doi:10.48550/arxiv.1303.1768](https://doi.org/10.48550/arxiv.1303.1768)

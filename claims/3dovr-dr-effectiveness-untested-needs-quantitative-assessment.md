@@ -50,3 +50,4 @@ Authors' stated limitation and recommendation in the Discussion: the RCT collect
 - [All 22 user-experience questionnaire items showed significantly higher ratings for the 3D object-based VR group than the 360° video group](3dovr-dr-all-22-items-significantly-higher.md) — related
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [Some difficulties-rubric claims, such as those in the sign category, cannot yet be verified from written work alone and require more data and targeted interviews](difficulties-rubric-claims-need-targeted-interviews.md) — related

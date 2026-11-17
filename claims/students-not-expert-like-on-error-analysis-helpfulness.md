@@ -46,3 +46,4 @@ End-of-semester Spring 2012 survey administration in three CU physics lab course
 
 ## Related Claims
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — a broader claim this one bears on
+- [Students and experts sharply disagree on whether the main goal of communicating results is a correctly formatted report](students-experts-disagree-report-formatting-goal.md) — related

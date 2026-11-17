@@ -51,6 +51,7 @@ The authors recommend that teacher training address prospective elementary teach
 
 - [Progressive astronomy didactic sequence on precession of the equinoxes for upper secondary teachers](precesion-equinoccios-didactic-sequence.md)
 - [Three-phase intervention: diagnose teachers' and pupils' representations with open-ended questionnaires, then co-design didactic materials](three-phase-astronomy-diagnosis-and-materials-strategy.md)
+- [Avoid jargon and redefine common terms like planet and star in astronomy outreach, aiming at understanding rather than fact lists](avoid-jargon-redefine-terms-astronomy-outreach.md)
 
 ## Examples
 -

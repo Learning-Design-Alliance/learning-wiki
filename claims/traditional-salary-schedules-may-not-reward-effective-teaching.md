@@ -56,3 +56,4 @@ This is the report's stated rationale for performance-based compensation, presen
 - [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related
 - [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
 - [A wage bonus incentive raised hand compositors' output by sixty-seven per cent](wage-bonus-compositor-output-increase.md) — related
+- [Texas school salary structures offer minimal incentives for teachers to pursue higher education in physics](texas-teacher-salary-limits-higher-education-incentives.md) — a narrower finding that bears on this claim

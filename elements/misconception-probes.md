@@ -94,6 +94,7 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](../strategies/schedule-dissonance-before-lecture-with-clickers.md)
 - [Analyse incorrect answers to key feature questions to identify and remediate specific misconceptions in clinical reasoning teaching](../strategies/error-analysis-key-feature-responses-strategy.md)
 - [Triangulate curriculum impact with multiple instruments plus longitudinal tracking](../strategies/assessment-triangulation-longitudinal-tracking-strategy.md)
+- [Use the misconceptions found in graph pre-tests to create multiple choice assessment questions for position, velocity and acceleration](../strategies/misconception-based-multiple-choice-questions.md)
 
 ## Key Sources
 - Hestenes, D., Wells, M., & Swackhamer, G. (1992). Force Concept Inventory. *The Physics Teacher, 30*(3), 141–158. [doi:10.1119/1.2343497](https://doi.org/10.1119/1.2343497)

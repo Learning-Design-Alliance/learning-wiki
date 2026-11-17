@@ -83,3 +83,4 @@ Case study of one group of four students in an introductory physics tutorial, ba
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
 - [Early introduction of a scientific video appeared to constrain students' representations, which they applied without adjusting for new contexts](early-scientific-video-constrained-representations.md) — related
 - [Student groups settled on a tool-use strategy early in the course and kept it for the whole year](groups-fixed-strategy-early-and-stuck.md) — related
+- [In a ticker-tape tutorial, students first confidently answered that shorter tape segments take less time to generate, then corrected themselves minutes later after a context shift](ticker-tape-framing-error-not-misconception.md) — related

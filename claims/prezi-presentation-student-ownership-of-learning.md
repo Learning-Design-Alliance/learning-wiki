@@ -50,3 +50,4 @@ Semi-structured interviews with 14 third-year medical students (8 interviews, in
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Technical obstacles with the Prezi presentation hindered rather than supported some students' learning](prezi-technical-obstacles-hindered-learning.md) — reports the opposite
+- [Students spontaneously set their own challenges and take ownership when exploring PhET simulations](students-self-challenges-phet-sims-ownership.md) — related

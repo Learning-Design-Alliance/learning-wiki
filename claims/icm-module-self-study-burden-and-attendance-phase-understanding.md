@@ -48,3 +48,4 @@ Descriptive questionnaire results from the 55 participating students. The author
 ## Related Claims
 - [Sciences-oriented students reported significantly higher estimated understanding of the sorting strategy, while humanities-oriented students overestimated their understanding after the seeing phases until doing phases corrected it](estimated-understanding-group-differences-doing-phases.md) — related
 - [Merely delaying instruction until after problem solving does not improve conceptual understanding when no additional measures trigger knowledge-gap awareness or deep-feature discovery](delaying-instruction-alone-no-conceptual-gain.md) — related
+- [Most students reported the per-module application day examining published articles was beneficial, while a minority did not find it helpful](application-day-beneficial-majority.md) — related

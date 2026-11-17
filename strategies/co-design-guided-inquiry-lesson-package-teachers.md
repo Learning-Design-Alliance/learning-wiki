@@ -49,4 +49,4 @@ For the classroom deployment phase, the authors plan to "work closely with the t
 -
 
 ## Key Sources
-- Lye, S. Y., Wee, L. K., & Ong, Y. C. (2012). Open Source Energy Simulation for Elementary School. Proceedings of the 20th International Conference on Computers in Education. https://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2383.msg8955
+- Lye, S. Y., Wee, L. K., & Ong, Y. C. (2012). Open Source Energy Simulation for Elementary School. Proceedings of the 20th International Conference on Computers in Education. https://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2383.msg8955. [doi:10.58459/icce.2012.590](https://doi.org/10.58459/icce.2012.590)

@@ -69,3 +69,4 @@ Focus-group finding on the second objective, ability to defend, from learners' o
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
+- [After the project, students understood that the risk of radiation essentially depends on its amount and kind](radiation-risk-understanding-amount-dependence.md) — related

@@ -46,6 +46,7 @@ The authors recommend experiential training to counter professionals' insensitiv
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
 - [Introduce targeted communication skills training early in clinical training rather than waiting until the internship phase](introduce-communication-training-at-entry-level-clinical.md)
+- [Avoid jargon and redefine common terms like planet and star in astronomy outreach, aiming at understanding rather than fact lists](avoid-jargon-redefine-terms-astronomy-outreach.md)
 
 ## Examples
 -

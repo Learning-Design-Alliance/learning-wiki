@@ -65,3 +65,4 @@ Report on porting the visualization scripts into OpenSim worlds, initially Intel
 
 ## Related Claims
 - [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related
+- [Second Life scripts can represent physical quantities in real time and set initial position, velocity, and mass, satisfying key teaching-oriented simulator criteria](sl-real-time-representation-and-initial-parameters-feasible.md) — related

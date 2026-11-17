@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: gupta-2010
     resource: "https://doi.org/10.48550/arXiv.1003.0461"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the interviewer asked about the sign of g, Jim immediately reconciled the mathematics with common sense and his stance shifted toward expecting formalism to mesh with experience, though not necessarily permanently. [→ Gupta 2010](#gupta-2010)
@@ -53,3 +54,6 @@ Fine-grained analysis of the interview episode: a single conceptual cue about th
 - [A student's persistent problem-solving impasse can be stabilized by an epistemological stance rather than by a conceptual or skill deficit](impasse-stabilized-by-epistemological-stance.md) — related
 - [A student's use of sign conventions can vary across problems, ruling out a robust downward-equals-negative conception](sign-convention-varies-across-problems.md) — related
 - [An affectively positive experience of informal conceptual reasoning temporarily reversed Judy's stance that conceptual reasoning is useless](positive-affect-reversed-conceptual-reasoning-stance.md) — related
+- [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](epistemological-stance-shifts-with-contextual-cues.md) — possibly the same claim (merge candidate)
+- [An engineering student's failure at mathematical sense-making during problem solving stemmed in part from his epistemological views rather than from knowledge or skill deficits](epistemology-not-deficit-explains-stuck-problem-solving.md) — related
+- [Skill and knowledge deficits played no role in Jim's difficulty: he had adequate pressure concepts, fluid manipulation skills, no fixed down-is-negative misconception, and willingness to change his mind](skill-knowledge-deficits-ruled-out-case-study.md) — related

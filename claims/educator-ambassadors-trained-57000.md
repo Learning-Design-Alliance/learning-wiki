@@ -67,3 +67,4 @@ External evaluation by WestEd compiling more than 1500 responses from 140 worksh
 ## Related Claims
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](small-writing-groups-attendance-confidence-growth.md) — related
+- [The Astrophysics Educator Ambassador program directly engaged over 63,500 teachers and students in workshops since 2001, with WestEd evaluation data showing presentations improved each year](ea-program-63500-engaged-improving-evaluations.md) — related

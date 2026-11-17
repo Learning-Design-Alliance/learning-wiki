@@ -49,3 +49,4 @@ Observation findings from the theme-set course reported in the challenges sectio
 - [In theme-set courses, L2 students outperform native-speaking peers on unit surveys, reversing the control-group gap](theme-sets-reverse-l2-native-comprehension-gap.md) — related
 - [Multimodal theme-sets increase the proportion of students earning exceptional final portfolio ratings](theme-sets-increase-exceptional-portfolio-ratings.md) — related
 - [Multimodal theme-sets foster more balanced, multicultural small-group and whole-class discussion](theme-sets-foster-balanced-multicultural-discussion.md) — related
+- [Students who skip planning and observing logs often cannot construct their lunar mosaic](note-taking-and-planning-required-for-mosaic.md) — related

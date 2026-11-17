@@ -84,3 +84,6 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Interactive-engagement sections showed significantly higher FCI posttest averages than the standard lecture section](interactive-engagement-fci-gains-exceed-lecture.md) — related
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
 - [The P&E method outperformed traditional teaching at all four researched knowledge levels: remembering, understanding, specific transfer and nonspecific transfer](pe-method-four-knowledge-levels.md) — related
+- [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
+- [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [Involving introductory-course students in research activities with small assistantships and conference travel recruited new physics majors at a stated 10-20 percent success rate over eight years](research-involvement-recruits-physics-majors.md) — related

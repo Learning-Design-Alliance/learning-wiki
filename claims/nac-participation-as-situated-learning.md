@@ -48,3 +48,4 @@ Thematic result from the post-NAC survey of 886 respondents. The authors interpr
 - [Candidates desired immediate formative feedback during the MMI and found it hard to gauge their own performance](candidates-desire-formative-feedback-mmi.md) — related
 - [Candidates perceived the National Assessment Centre selection process as fair and informative, but wanted more preparation information](nac-candidates-fair-but-want-more-prep-info.md) — related
 - [Candidates lacking Australian general practice experience reported difficulty answering MMI questions they perceived as GP-focused](lack-of-gp-experience-hinders-mmi-answers.md) — related
+- [Two-thirds of surveyed students appreciated that the data analysis exercises gave them insight into actual research](data-analysis-exercises-insight-actual-research.md) — related

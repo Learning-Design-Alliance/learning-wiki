@@ -53,4 +53,4 @@ The authors propose four novel curricular applications of Astrobites to suppleme
 -
 
 ## Key Sources
-- Sanders, N. E., Kohler, S., Newton, E., & the Astrobites collaboration. (2012). Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom. https://arxiv.org/abs/1208.4791
+- Sanders, N. E., Kohler, S., Newton, E., & the Astrobites collaboration. (2012). Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom. https://arxiv.org/abs/1208.4791. [doi:10.3847/aer2012030](https://doi.org/10.3847/aer2012030)

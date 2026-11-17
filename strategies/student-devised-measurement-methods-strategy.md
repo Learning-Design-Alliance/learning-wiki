@@ -44,6 +44,7 @@ In the echo activity, "the students were given freedom to devise the more approp
 ## Related Strategies
 
 - [Use free open-source software (Audacity, Stellarium) that students can install at home for data analysis and ephemeris comparison](open-source-software-home-installation-strategy.md)
+- [Teach a priori analysis by estimating the uncertainty of students' own course grades](teach-apa-via-course-grade-uncertainty.md)
 
 ## Examples
 -

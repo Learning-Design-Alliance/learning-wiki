@@ -47,3 +47,4 @@ Randomized comparison of two sections of a 16-wk introductory microbiology cours
 ## Related Claims
 - [Hybrid-section students who used both audio and visual components of the online lecture reported higher midterm grades than those who used only the visual component](audio-use-associated-higher-midterm-grades.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [A flipped redesigned introductory physics class achieved higher final exam scores than a traditional lecture-based class, with no midterm difference](flipped-class-outperforms-traditional-final-exam.md) — related

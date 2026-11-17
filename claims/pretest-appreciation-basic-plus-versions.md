@@ -67,3 +67,4 @@ Qualitative and quantitative pretest of the plus version with six participants p
 - [A consumer panel of target-group members supplied beliefs, barriers and recruitment input used to tailor intervention content](consumer-panel-informed-intervention-content.md) — related
 - [Survey respondents rated the initiative to create a national ML framework 7.6/10 (SD 1.37) but the content of version 0.2 lower at 6.8/10 (SD 1.42)](dml-v02-survey-appreciation-content-ratings.md) — related
 - [Efficacy of both versions versus generic nutrition information will be tested in a registered three-group randomized controlled trial with four measurements](three-group-rct-nutrition-tailoring-protocol.md) — related
+- [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related

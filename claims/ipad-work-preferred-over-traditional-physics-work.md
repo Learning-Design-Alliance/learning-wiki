@@ -68,3 +68,4 @@ Observational finding from the same qualitative study: after iPad implementation
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — reports the opposite
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [iPad use appeared to raise the social status of the physics class and the school, though supporting data were limited](ipads-appeared-to-raise-physics-class-social-status.md) — related
+- [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related

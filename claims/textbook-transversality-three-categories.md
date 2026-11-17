@@ -66,3 +66,4 @@ The survey also found that no surveyed textbook gives physical arguments for tra
 ## Related Claims
 - [Surveyed calculus-based introductory textbooks do not include a full theoretical argument that electromagnetic waves must be transverse](intro-textbooks-lack-full-transversality-argument.md) — possibly the same claim (merge candidate)
 - [None of the reviewed textbooks use the geometric approach, and nearly all order the derivation relativity-principle-first](textbooks-order-relativity-first-no-geometry.md) — related
+- [None of the evaluated textbooks discusses the oscillatory temporal behaviour of the measured quantities or the need to assume plane sound waves inside the tube](textbooks-omit-oscillation-and-plane-wave-assumption.md) — related

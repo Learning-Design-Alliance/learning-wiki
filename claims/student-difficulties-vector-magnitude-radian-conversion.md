@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: rui-gomes-neves-2010
     resource: "https://doi.org/10.1007/978-94-007-0910-2_33"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students had difficulty distinguishing a vector, like velocity or acceleration, from its magnitude, and were initially unable to create vectors with the right magnitude and direction or to place the degree-to-radian conversion factor correctly. [→ Rui Gomes Neves 2010](#rui-gomes-neves-2010)
@@ -50,3 +51,4 @@ Observation of student teams during the uniform circular motion modelling activi
 - [Computational modelling activities with Modellus identified and resolved student difficulties with key physical and mathematical concepts during class](modellus-activities-identify-resolve-student-difficulties.md) — a broader claim this one bears on
 - [Real-time correspondence between Modellus animations and model mathematics helped students resolve cognitive conflicts and difficulties in key concepts](modellus-real-time-correspondence-resolved-difficulties.md) — a broader claim this one bears on
 - [Students reacted positively to the Modellus workshops and preferred team work with guidance, and Modellus enabled students to act as authors of models](modellus-workshops-positive-student-reactions.md) — related
+- [Students generally have difficulty distinguishing the concepts of velocity and acceleration](students-difficulty-velocity-acceleration-discrimination.md) — related

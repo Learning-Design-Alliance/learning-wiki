@@ -47,3 +47,4 @@ The review summarizes Toops' book: measuring the human product of vocational sch
 
 ## Related Claims
 - [Army mental tests demonstrated their value in selecting men for officers' training schools and other service lines requiring special ability](army-mental-tests-selection-value.md) — related
+- [A well-tested introductory physics laboratory path adapted to a vocational school produced learning not comparable to that in other upper secondary schools](vocational-school-physics-lab-pilot-unsatisfactory-results.md) — related

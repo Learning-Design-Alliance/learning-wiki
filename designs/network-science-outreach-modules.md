@@ -51,4 +51,4 @@ The authors designed seven interactive modules for 30–45 minute outreach sessi
 -
 
 ## Key Sources
-- Harrington, H. A., Beguerisse Díaz, M., Rombach, M. P., Keating, L. M., & Porter, M. A. (2013). Teach Network Science to Teenagers. arXiv. https://arxiv.org/abs/1302.6567
+- Harrington, H. A., Beguerisse Díaz, M., Rombach, M. P., Keating, L. M., & Porter, M. A. (2013). Teach Network Science to Teenagers. arXiv. https://arxiv.org/abs/1302.6567. [doi:10.48550/arxiv.1302.6567](https://doi.org/10.48550/arxiv.1302.6567)

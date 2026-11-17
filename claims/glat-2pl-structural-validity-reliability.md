@@ -79,3 +79,4 @@ The article reports the final 2PL model's fit (M2 = 225.325, RMSEA 0.031, SRMSR 
 - [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related
 - [The SE-12 is a unidimensional, reliable, and partially valid instrument for assessing clinicians' communication self-efficacy](se-12-reliable-partially-valid-instrument.md) — related
 - [A three-subject Rasch scale model (biology, physics, chemistry) retained its properties in a validation sample better than a unidimensional scale, despite high factor correlations](three-subject-rasch-scales-better-validation.md) — related
+- [The two-parameter logistic IRT model fit best only for the hypotheses-concerning-means bank; the one-parameter model sufficed for the other three banks](irt-model-fit-varies-by-item-bank.md) — related

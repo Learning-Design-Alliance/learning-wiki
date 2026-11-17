@@ -69,3 +69,4 @@ The same Kruskal-Wallis analysis applied to the 22 comparison students from the 
 ## Related Claims
 - [Experimental students significantly outperformed comparison students on the algebra assessment in 4th and 5th grade, but not in 3rd grade](ea-experimental-outperformed-comparison-grades-4-5.md) — related
 - [Third graders found assessment items involving inequalities and graphs most challenging, with items T13A and T13B the only items on which 3rd graders scored zero points](ea-third-graders-inequalities-graphs-hardest.md) — related
+- [Third and fourth graders participated productively in an engineering design process centered on user-centered design and collaboration](claim-elementary-students-engineering-participation.md) — related

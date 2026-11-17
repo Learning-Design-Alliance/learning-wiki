@@ -51,6 +51,7 @@ The article offers concrete classroom experiments built on Edaq530's level-cross
 - [Heat Transfer Investigations](heat_transfer_investigations.md)
 - [Use the SHM derivation to integrate conceptual and mathematical reasoning in the introductory course](shm-derivation-integrates-conceptual-math-reasoning.md)
 - [Use a piston-in-tube heating exercise with an experimentally verifiable oscillatory solution in thermodynamics courses and laboratories](piston-in-tube-time-dependent-exercise-strategy.md)
+- [Teach the spring–mass experiment as a harmonic oscillator first, then develop it towards a parametric oscillator](harmonic-then-parametric-teaching-sequence.md)
 
 ## Examples
 -

@@ -67,6 +67,7 @@ Book talks convert private reading into a social, communicative act, leveraging 
 - [Model-then-present cycle: teacher models the presentation strategy, students orally present passages with peer discussion, then complete exercises](presentation-strategy-instructional-cycle.md)
 - [Include illustrated comic books in self-directed reading schemes](comic-books-self-directed-reading.md)
 - [Use short reading passages from supplementary books as springboards for integrated skills practice (retelling, summarizing, role play)](supplementary-passages-integrated-skills-practice.md)
+- [Make student oral presentations of laboratory results the central activity](student-oral-talks-central-activity-strategy.md)
 
 ## Examples
 - **Penny Kittle's Book Love framework** (https://pennykittle.net) — uses daily student book talks to build volume reading in secondary classrooms; students track pages read and recommend books to peers.

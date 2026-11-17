@@ -54,3 +54,4 @@ Conclusion drawn in the report's Conclusion and Discussion section from the full
 - [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](map-growth-scale-stable-2020-norms.md) — possibly the same claim (merge candidate)
 - [Robust Z procedure flagged between 4.2% and 6.9% of MAP Growth items as unstable across subjects](robust-z-flagged-items-percentage.md) — possibly the same claim (merge candidate)
 - [Students encountered substantial numbers of items with changed parameter estimates, averaging 11–38% of test length by subject](drifted-items-encountered-per-test.md) — related
+- [Simulated guessing and copying rapidly degrade item difficulty estimates beyond about one-third occurrence, while discrimination and ability estimates remain robust past two-thirds, with no graceful degradation](guessing-copying-robustness-difficulty-vs-discrimination.md) — related

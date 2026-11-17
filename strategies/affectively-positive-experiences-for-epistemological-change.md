@@ -58,6 +58,7 @@ The article recommends that, for students like Judy, fostering epistemological c
 ## Related Strategies
 
 - [Design instructional environments that trigger favorable epistemological stances rather than confronting and replacing mis-epistemologies](trigger-favorable-epistemological-stances-environments.md)
+- [Create instructional environments that trigger and stabilize the productive aspects of students' existing epistemological views rather than confronting and replacing problematic beliefs](trigger-stabilize-productive-epistemological-stances.md)
 
 ## Examples
 -

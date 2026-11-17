@@ -48,3 +48,4 @@ Contingency analysis of module usage (submission of practice problems) across th
 - [Opportunity gaps in prior chemistry coursework are present among introductory biology students, with historically underserved students reporting less high school chemistry](opportunity-gaps-chemistry-coursework-intro-biology.md) — related
 - [Opportunity gaps in incoming chemistry content knowledge are present: prequiz scores varied widely and were predicted by coursework, PEER/first-generation status, and gender](prequiz-opportunity-gaps-chemistry-knowledge.md) — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
+- [One month of programming training proved insufficient for some biology students, prompting a non-credit introductory programming module.](programming-premodule-for-biology-students.md) — related

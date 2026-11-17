@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 343 claims (213 show a difference, 58 mixed, 72 no difference) · 239 studies (97 causal, 55 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 53 of 239 report an effect size · 334 claims rest on one study
+> **Evidence** · 344 claims (214 show a difference, 58 mixed, 72 no difference) · 240 studies (97 causal, 56 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 5 design), `q1`–`q4` · 53 of 240 report an effect size · 335 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -394,6 +394,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [The 3-week intervention produced gains in visual perception of letters, writing, and reading fluency, with a two-fold increase in reading speed in first graders](../claims/targeted-training-doubles-reading-fluency-first-graders.md) [+M] — measured as an outcome of the instruction studied
 - [This study demonstrates, for the first time, a longitudinal link between sign-based abilities and word reading in DHH signing children learning to read](../claims/first-longitudinal-link-sign-abilities-word-reading-dhh.md) [+M] — learners who differ on it differ in outcomes
 - [Diagnostic accuracy varied by case, lowest for the HIV case with English as a second language and highest for the diabetes case with both contextual factors](../claims/case-contextual-factor-accuracy-variation.md) [~M] — learners who differ on it differ in outcomes
+- [Overall TOEFL score shows very low correlation with FCI performance, but reading ability correlates an order of magnitude more strongly](../claims/toefl-reading-ability-fci-correlation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

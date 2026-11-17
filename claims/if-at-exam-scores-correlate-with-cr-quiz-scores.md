@@ -50,3 +50,4 @@ Correlational validity check comparing cumulative IF-AT exam scores against five
 - [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related
 - [IRAT scores correlate low-to-moderately and significantly with pharmacy calculations lecture assessment scores](irat-low-moderate-correlation-lecture-assessments.md) — related
 - [Student quiz performance appears correlated with final examination scores in the upgraded dental programme](quiz-performance-correlates-final-exams-dental.md) — related
+- [Integrated testlet and constructed-response scores correlate more closely with each other than ITs correlate among themselves, suggesting the formats measure the same construct](it-cr-measure-same-construct.md) — related

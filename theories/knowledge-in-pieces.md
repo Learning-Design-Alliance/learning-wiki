@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 13 studies (4 associational, 3 qualitative, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 0 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 14 studies (4 associational, 3 qualitative, 2 design, 2 theoretical, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 
@@ -56,6 +56,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [A student conflated a written minus sign with a quantity taking negative values, and this conflation appears when the variable is used to solve for something else.](../claims/outer-inner-minus-conflation-context-dependent.md) [+W] — attached 2026-11-10 from Kate Hayes et al. (2009), which proposed "Knowledge-in-pieces/resources framing of inconsistent student use of signs".
 - [An interviewed student justified answering that the ATP bond breaking releases energy by appealing to the larger biological context of the hydrolysis reaction, not the raw misconception that bond breaking releases energy](../claims/gregor-justifies-atp-answer-via-larger-biological-context.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](../claims/wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
+- [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](../claims/clicker-equal-pulls-framing-error.md) [+W] — attached 2026-11-17 from Edward F. Redish (2013), which proposed "The Resources Framework: a two-level phenomenological account of physics learning built on psychological foothold principles".
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking
@@ -68,6 +69,7 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [Misconception Probes](../elements/misconception-probes.md) — the diagnostic element whose reading depends on which view is taken: a probe answer is a sample of context-cued thinking, not necessarily a stable belief
 - [Conceptual Change](../strategies/conceptual-change.md) — the elicit-confront-resolve strategy built on the coherent-model view
 - [Design instructional environments that trigger favorable epistemological stances rather than confronting and replacing mis-epistemologies](../strategies/trigger-favorable-epistemological-stances-environments.md)
+- [Create instructional environments that trigger and stabilize the productive aspects of students' existing epistemological views rather than confronting and replacing problematic beliefs](../strategies/trigger-stabilize-productive-epistemological-stances.md)
 
 ## Key Sources
 - diSessa, A. A. (1993). Toward an epistemology of physics. *Cognition and Instruction, 10*(2–3), 105–225. [doi:10.1080/07370008.1985.9649008](https://doi.org/10.1080/07370008.1985.9649008)

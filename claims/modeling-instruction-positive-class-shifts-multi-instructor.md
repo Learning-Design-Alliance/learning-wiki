@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: eric-brewe-2013
     resource: "https://doi.org/10.1103/physrevstper.9.020116"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across nine Modeling Instruction sections taught by six instructors, aggregated student attitudes improved significantly from pre- to post-course, with Cohen's d = 0.45 (95% CI 0.26–0.64). [→ Eric Brewe 2013](#eric-brewe-2013)

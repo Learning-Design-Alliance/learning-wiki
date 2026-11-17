@@ -349,3 +349,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Conditionalized on initial retrieval success, testing beats restudy at 24 hours, but a second test adds no reliable benefit](testing-effect-conditional-on-retrieval-success.md) — a narrower finding that bears on this claim
 - [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — a narrower finding that bears on this claim
 - [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — related
+- [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related

@@ -46,6 +46,7 @@ The authors recommend web-based learning as a supplemental format for practical 
 ## Related Strategies
 
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
+- [Use an open on-line drill system as a supplement to in-class teaching, for remote learning, and as remedial material for students lacking prerequisites](open-drill-system-supplement-remedial-remote.md)
 
 ## Examples
 -

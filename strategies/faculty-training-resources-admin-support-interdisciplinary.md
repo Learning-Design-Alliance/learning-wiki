@@ -47,6 +47,7 @@ A three-part implementation strategy for universities adopting the cultivation m
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Invest in ongoing educator professional development and an assessment community of practice for POG success](pog-ongoing-pd-community-of-practice.md)
+- [Interdisciplinary task-design guidelines: respect disciplinary differences in language, identify cross-disciplinary reasoning similarities, and engage students in seeking coherence across apparently contradictory disciplinary ideas](interdisciplinary-task-design-guidelines-strategy.md)
 
 ## Examples
 -

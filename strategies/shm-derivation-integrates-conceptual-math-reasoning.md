@@ -51,6 +51,7 @@ A concrete teaching recipe: after deriving the SHM solution via the chain rule a
 - [Use spreadsheet-based processing of level-crossing data from simple experiments (picket fence, heat conduction, spring oscillations) to demonstrate core physics concepts](edaq530-sample-experiment-strategies.md)
 - [Connecting Concepts to Procedures](connecting_concepts_to_procedures.md)
 - [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
+- [Teach the spring–mass experiment as a harmonic oscillator first, then develop it towards a parametric oscillator](harmonic-then-parametric-teaching-sequence.md)
 
 ## Examples
 -

@@ -20,6 +20,7 @@ A science-education framework originating in the National Academies' Framework f
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Three-dimensional learning (3DL) as the framework for university-level faculty discussions**: The article adopts three dimensional learning, at the core of the Next Generation Science Standards, as the framework for faculty discussions, bringing it to the university level. The three dimensions are scientific practices ("Knowledge of how science achieves its ends"), crosscutting concepts ("Concepts that bridge disciplinary boundaries"), and disciplinary core ideas ("Concepts that are essential to the study of a discipline"). A key point is that no dimension should be taught in isolation; all three should be blended into lectures, homework, in-class activities, and exams. (James T. Laverty et al. (2014))
 
 ### Claims
 - [3D and active instructional segments show a statistically significant association with a small-to-medium effect size, driven by their co-occurrence](../claims/3d-active-segment-association-phi-0285.md) [+M]
@@ -29,3 +30,4 @@ A science-education framework originating in the National Academies' Framework f
 
 ## Key Sources
 - Cooper M. M., Caballero M. D., Carmel J. H., Duffy E. M., Ebert-May D., Fata-Hartley C. L., Herrington D. G., Laverty J. T., Nelson P. C., Posey L. A., Stoltzfus J. R., Stowe R. L., Sweeder R. D., Tessmer S., Underwood S. M. (2024). Beyond active learning: Using 3-Dimensional learning to create scientifically authentic, student-centered classrooms. PLoS One. https://doi.org/10.1371/journal.pone.0295887
+- James T. Laverty, Stuart H. Tessmer, Melanie M. Cooper, and Marcos D. Caballero. (2014). Engaging Physics Faculty in Course Transformation. https://arxiv.org/abs/1407.3260

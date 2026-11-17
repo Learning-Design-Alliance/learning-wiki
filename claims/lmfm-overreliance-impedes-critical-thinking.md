@@ -77,3 +77,4 @@ Perspective article (the authors' overview of opportunities and challenges, not 
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — reports the opposite
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
+- [The article argues, citing Chomsky and Schmidt, that schooling can function to disempower students and diminish broad critical thinking](schooling-can-disempower-critical-thinking.md) — related

@@ -48,3 +48,4 @@ In the focus groups, participants with program-dedicated advisors described tail
 - [Many community college students lack individual access to a counselor to discuss placement results, and students in dedicated programs report greater counseling satisfaction](counseling-access-limited-dedicated-programs-better.md) — related
 - First-year seminars populated by major or advisor show higher retention than unconnected seminars — related
 - [Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance](gear-up-advisor-caseload-limited-effectiveness.md) — related
+- [Student attitudes toward advising differ by GPA and academic tenure: higher-GPA students were more negative about advising yet more focused on requirements and the advisor's reasoning](gpa-and-tenure-differences-in-advising-attitudes.md) — related

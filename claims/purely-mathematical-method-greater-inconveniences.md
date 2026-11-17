@@ -49,3 +49,4 @@ Majorana's notes argue the mathematical method, which presents the formalism fro
 - [Majorana judges that the exclusively historical method of presenting quantum mechanics has very serious drawbacks](historical-method-exclusive-drawbacks.md) — related
 - [Majorana recommends starting the study of quantum mechanics with an ample and clear exposition of the essential mathematical tools before deriving the theory from experiment](majorana-math-tools-first-quantum-teaching.md) — related
 - [Quaternions are historically significant for physics and mathematically accessible, supporting their didactic value, yet are largely ignored in current university physics textbooks](quaternions-significance-versus-textbook-neglect.md) — related
+- [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-17
 sources:
   - id: lei-bao-2008
     resource: "https://doi.org/10.1119/1.2976334"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret their cross-country comparison as showing that traditional content teaching and learning often do not transfer to general reasoning ability. [→ Lei Bao 2008](#lei-bao-2008)

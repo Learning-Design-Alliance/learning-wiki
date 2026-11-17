@@ -45,6 +45,7 @@ In the redesigned unit, discussion groups of about 10 students met weekly; each 
 - [Literature Circles](literature-circles.md)
 - [Book Clubs](book_clubs.md)
 - [Empowering Students as Leaders](empowering_students_as_leaders.md)
+- [Weekly journal club with student-led critical analysis of bioinformatics research articles](weekly-journal-club-critical-analysis.md)
 
 ## Examples
 -

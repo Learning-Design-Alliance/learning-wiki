@@ -48,3 +48,4 @@ Results description of the Human Reproduction commentary comparisons: the profil
 - [Modified film commentaries were consistently superior to the original commentary although differences were not statistically significant at a high level of confidence](modified-commentaries-consistently-superior-not-significant.md) — related
 - [The report projects that pre-production profile analysis could have increased Human Reproduction learning by 31 percent](profile-analysis-projection-31-percent.md) — related
 - [The profile-shortened version of a film commentary produced learning equal to the longer script writers' and full versions](profile-shortened-commentary-equal-learning.md) — related
+- [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related

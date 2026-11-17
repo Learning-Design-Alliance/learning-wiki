@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (43 show a difference, 15 mixed, 18 no difference) · 47 studies (24 causal, 9 associational, 6 review, 3 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 47 report an effect size · 75 claims rest on one study
+> **Evidence** · 77 claims (43 show a difference, 15 mixed, 19 no difference) · 48 studies (24 causal, 9 associational, 6 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 48 report an effect size · 76 claims rest on one study
 
 ## Bottom line
 
@@ -114,6 +114,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Diverging is the most common learning style among nursing students, and critical thinking does not differ across style groups](../claims/diverging-dominant-style-ct-similar-across-styles.md) [-W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Learning style is significantly related to academic achievement, with accommodating-style students earning the highest GPA](../claims/learning-style-related-academic-achievement-nursing.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Combining spaced education with face-to-face lectures levels learning-style-related differences in examination results](../claims/spaced-education-levels-learning-style-exam-correlations.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Learning gains from InkSurvey-based formative assessment were achieved by students of all learning styles, not only visual or kinesthetic learners](../claims/inksurvey-gains-across-learning-styles.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

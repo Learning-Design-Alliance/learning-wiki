@@ -74,3 +74,4 @@ Traditional methods predominated in the same survey: "78% (64/83) of the respond
 - [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — related
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
 - [More than 30% of fifth-year dental students forgot basic cavity preparation procedures despite prior classroom assessment and clinical training](students-forget-basic-cavity-preparation.md) — related
+- [Students rarely prepared an experimental situation for their videos (22%) although an experiment was shown in 64% of them](experiments-shown-but-rarely-prepared.md) — related

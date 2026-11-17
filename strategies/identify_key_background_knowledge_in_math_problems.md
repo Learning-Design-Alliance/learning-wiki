@@ -55,8 +55,10 @@ Math word problems are reading comprehension tasks before they are mathematics t
 5. Teach the problem, monitoring comprehension of the scenario separately from the mathematics.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general strategy this applies to math word problems
 - [Accessible Syntax](accessible_syntax.md) — complementary language-side support for math problem text
+- [Use a task-based pre-assessment questionnaire to stream learners by prior experience](pre-assessment-task-questionnaire-streaming.md)
 
 ## Examples
 - A problem about a fishing pole on sale: before solving, the class discusses *What is "percent off"? What is a sale? What does "regularly priced" mean?* — then solves.

@@ -81,3 +81,4 @@ The review reports, from one university chemistry study in its evidence table, t
 - [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — a narrower finding that bears on this claim
 - [ChatGPT-4's incorrect MRCP Part 1 answers showed no significant difference between factual recall and complex reasoning question types](mrcp-error-types-factual-recall-vs-reasoning-null.md) — a narrower finding that bears on this claim
 - [Longer question text impaired GPT-3.5's performance but not GPT-4's, and both versions performed worse on difficult questions](question-length-and-difficulty-effects.md) — a narrower finding that bears on this claim
+- [On a Scottish chemistry exam given to 22,000 sixteen-year-olds, student success dropped dramatically once question information-plus-processing load exceeded six pieces](johnstone-exam-working-memory-dropoff.md) — related

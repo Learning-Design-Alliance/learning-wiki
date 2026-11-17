@@ -110,3 +110,5 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Adherence checklist shows substantial inter-rater agreement (weighted Kappa 0.67, 81.2% agreement)](adherence-checklist-substantial-agreement.md) — related
 - [The weighted IO-access checklist showed substantial overall inter-rater reliability (Randolph's free-marginal multi-rater kappa 0.71)](io-checklist-reliable-kappa-071.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
+- [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — related

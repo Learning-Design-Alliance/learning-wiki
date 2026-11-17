@@ -44,4 +44,4 @@ The final part of the second year was dedicated to "considering energy transfer 
 -
 
 ## Key Sources
-- Montalbano, V., & Di Renzone, S. (2012). An empirical study on a learning path on wave physics focused on energy. Department of Physics, University of Siena. https://arxiv.org/abs/1212.2174
+- Montalbano, V., & Di Renzone, S. (2012). An empirical study on a learning path on wave physics focused on energy. Department of Physics, University of Siena. https://arxiv.org/abs/1212.2174. [doi:10.48550/arxiv.1212.2174](https://doi.org/10.48550/arxiv.1212.2174)

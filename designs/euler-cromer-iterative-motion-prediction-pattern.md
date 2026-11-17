@@ -48,4 +48,4 @@ The article teaches a four-step algorithm applied locally in space and time: com
 -
 
 ## Key Sources
-- Caballero, M.D.; Burk, J.B.; Aiken, J.M.; Thoms, B.D.; Douglas, S.S.; Scanlon, E.M.; Schatz, M.F. (2012). Integrating Numerical Computation into the Modeling Instruction Curriculum. http://www.vpython.org/
+- Caballero, M.D.; Burk, J.B.; Aiken, J.M.; Thoms, B.D.; Douglas, S.S.; Scanlon, E.M.; Schatz, M.F. (2012). Integrating Numerical Computation into the Modeling Instruction Curriculum. http://www.vpython.org/. [doi:10.48550/arxiv.1207.0844](https://doi.org/10.48550/arxiv.1207.0844)

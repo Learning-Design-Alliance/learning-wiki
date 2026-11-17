@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: kate-hayes-and-michael-c-wittmann-2009
     resource: "https://doi.org/10.1119/1.3361994"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` One student's conflation of outer minus and inner minus was context dependent but predictable, appearing when the variable in question was used to solve for something else. [→ Kate Hayes and Michael C. Wittmann 2009](#kate-hayes-and-michael-c-wittmann-2009)

@@ -31,4 +31,4 @@ VPython is an open-source programming environment that enables learners to const
 
 ## Key Sources
 - Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. https://arxiv.org/abs/1107.5216. [doi:10.48550/arxiv.1107.5216](https://doi.org/10.48550/arxiv.1107.5216)
-- Caballero, M.D.; Burk, J.B.; Aiken, J.M.; Thoms, B.D.; Douglas, S.S.; Scanlon, E.M.; Schatz, M.F. (2012). Integrating Numerical Computation into the Modeling Instruction Curriculum. http://www.vpython.org/
+- Caballero, M.D.; Burk, J.B.; Aiken, J.M.; Thoms, B.D.; Douglas, S.S.; Scanlon, E.M.; Schatz, M.F. (2012). Integrating Numerical Computation into the Modeling Instruction Curriculum. http://www.vpython.org/. [doi:10.48550/arxiv.1207.0844](https://doi.org/10.48550/arxiv.1207.0844)

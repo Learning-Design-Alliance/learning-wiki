@@ -1,0 +1,1 @@
+{"id": "arxiv-1312.1788:element:kpu-mk-ii-webcam-ccd-camera", "outcome": "design", "why": "This is a course-specific implementation built around a modified retail webcam for non-major astronomy students, not a reusable instructional element.", "model": "openai/gpt-5.6-luna", "cost_usd": 0.02158931, "at": "2026-11-17", "page": "designs/kpu-mk-ii-webcam-ccd-camera.md"}

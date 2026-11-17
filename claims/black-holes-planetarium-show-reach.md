@@ -46,3 +46,4 @@ Distribution figures for the planetarium show Black Holes: The Other Side of Inf
 
 ## Related Claims
 - [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](educational-tv-equipment-display-conclusions.md) — related
+- [Swift informal outreach reached mass audiences: the Black Holes planetarium show played in over 30 venues, the PBS Nova episode was initially viewed by over 10 million people, and the Supernova! toolkit reached over 138,000 attendees through 1,284 events](swift-informal-outreach-mass-reach.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,4 @@ Paired-samples t-tests within the experimental group (n = 39) comparing mid-seme
 - [All six technology-acceptance subscales correlated positively with intention to use, with the strongest correlation between perceived playfulness and intention to use (r = 0.76)](ta-subscales-correlate-intention.md) — related
 - [Blended GC-plus-traditional teaching produced non-inferior learning satisfaction and academic achievement compared with traditional teaching, with no significant between-group differences in progress](blended-gc-non-inferior-outcomes.md) — related
 - [The experimental group scored significantly higher than the control group only on the mid-semester procedure-and-interaction satisfaction subscale](midterm-procedure-interaction-advantage.md) — related
+- [Student endorsement of the open-ended experimental-design emphasis rose from 64% to 86% over the year](open-ended-protocol-design-benefit-rose-64-to-86.md) — related

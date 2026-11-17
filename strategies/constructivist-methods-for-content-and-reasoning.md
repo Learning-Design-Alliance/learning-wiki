@@ -44,7 +44,8 @@ Because traditional content training alone did not improve general reasoning, th
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](../claims/traditional-content-training-no-reasoning-transfer.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Emphasize scientific and engineering practices — modeling and conducting experiments — so students understand and apply core science content rather than memorize it](ngss-practices-modeling-experiments-emphasis.md)
 
 ## Examples
 -

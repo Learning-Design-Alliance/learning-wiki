@@ -54,3 +54,4 @@ Preclass/postclass 20-question test analysis within individual N100 classes usin
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related
 - [The cross-section question showed the highest gain for both groups, with the simulation group's gain (60%) double the paper group's (30%)](cross-section-concept-visual-gain-60-vs-30.md) — related
 - [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related
+- [Graded pre-class flip-JiTT warm-up assignments achieved an 83.1% participation rate among 69 E&M students](flip-jitt-83-percent-participation.md) — related

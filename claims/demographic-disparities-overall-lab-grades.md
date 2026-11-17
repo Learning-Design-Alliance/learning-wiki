@@ -78,3 +78,4 @@ The same overall-lab-grade models showed URM students scoring "3.17 points less"
 - [Undergraduate women earned slightly but significantly higher course grades than men in both life and physical science STEM courses](women-higher-course-grades-stem-courses.md) — reports the opposite
 - [Women were marginally about 1.5 times more likely than men to earn a top grade (A or A+), failing to support the variability hypothesis](women-more-likely-top-grades-stem.md) — related
 - [Active learning eliminates the performance gap between URM and non-URM students in course grades and knowledge-assessment gains](active-learning-closes-urm-performance-gap.md) — related
+- [Early student interaction networks segregate significantly by lab class and to a lesser degree by gender, but not by end-of-course grade](segregation-by-lab-class-gender-not-grade.md) — related

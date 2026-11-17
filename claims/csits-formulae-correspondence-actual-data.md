@@ -47,3 +47,4 @@ Preliminary empirical check (type b) reported in the Conclusions section of this
 ## Related Claims
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](otis-1922-true-score-sd-formula.md) — related
 - [For two tests of the same trait with unequal reliabilities, the line of true correspondence is y = (σY/σX)√(rYY/rXX)·x, measured from the respective means](otis-1922-relation-line-with-reliabilities.md) — related
+- [Statistical independence of repeated measurements does not hold for course grades, invalidating a posteriori error estimates](statistical-independence-violated-for-grades.md) — related

@@ -54,3 +54,4 @@ Authors' interpretation of the pattern-type results (KS, KM, KD means reflected 
 - [High cognitive activities were positively associated with essay quality but not with concept maps](high-cognition-essay-not-concept-maps.md) — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
+- [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related

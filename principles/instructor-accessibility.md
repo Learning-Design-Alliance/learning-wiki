@@ -165,6 +165,7 @@ Use of help, satisfaction with the instructor, help received before a deadline, 
 - [Maintain presence for students](../strategies/maintain_presence_for_students.md) — predictable availability for brief informal talks.
 - [Help seeking](../strategies/help-seeking.md) — the learner's side: recognising a need, forming a request, getting help.
 - [Add tutor interaction channels (virtual forum and optional in-person sessions) and strengthen statistical explanations in online critical appraisal courses](../strategies/tutor-forum-and-statistics-support-strategy.md)
+- [Design warm-up problems with a capped attempt policy and office-hour overlap to keep students engaged without penalty](../strategies/warmup-attempt-cap-office-hours-strategy.md)
 
 ## Key Sources
 - Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. *Higher Education Studies, 3*(1), 29-38. [https://doi.org/10.5539/hes.v3n1p29](https://doi.org/10.5539/hes.v3n1p29)

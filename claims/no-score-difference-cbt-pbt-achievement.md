@@ -46,3 +46,4 @@ Posttest-only experimental study: 97 pre-service ELT teachers randomly assigned 
 
 ## Related Claims
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
+- [Item-level score differences between MC and FR CUE versions are significant for 4 of 16 items, with the MC version easier on only two](mc-cue-item-difficulty-four-of-sixteen.md) — related

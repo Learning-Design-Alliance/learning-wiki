@@ -60,3 +60,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
 - [Exam revision improved didactic alignment and the exam showed high internal consistency (Cronbach's alpha 0.84)](icu-exam-alignment-alpha-084.md) — related
 - [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
+- [A mixed-format exam combining constructed-response and integrated-testlet questions achieves satisfactory internal-consistency reliability](mixed-format-exam-reliability-alpha-079.md) — related

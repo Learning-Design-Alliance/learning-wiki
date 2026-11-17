@@ -47,3 +47,4 @@ Results reporting from two experiments in which undergraduate computer science s
 ## Related Claims
 - [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related
 - [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related
+- [The summer school's design satisfies all the conditions for cooperative learning](pigelleto-cooperative-learning-conditions-satisfied.md) — related

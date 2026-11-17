@@ -51,3 +51,4 @@ Sub-theme 'VP potential' from the thematic analysis. One student noted "you can 
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [The authors argue early simulation-based basic-skills training may mitigate hazardous trial-and-error learning on patients](early-skills-training-patient-safety-argument.md) — related
 - [UK medical graduates are generally unprepared for safe and legal prescribing, clinical reasoning and early management of emergency conditions](uk-graduates-unprepared-prescribing-reasoning-emergencies.md) — related
+- [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — reports the opposite

@@ -47,3 +47,4 @@ Descriptive statement from the article's abstract about the tool's outputs: simu
 
 ## Related Claims
 - [The simulator computes Bachelor-degree-level rates: graduation rate and an efficiency rate measured as credits of the curriculum with respect to credits really taken](simulator-computes-degree-level-graduation-and-efficiency-rates.md) — related
+- [Monte Carlo simulation applications favour statistics learning, especially among students who struggle with more classical methods (as reported by Weir et al., 2002)](monte-carlo-simulations-favour-statistics-learning.md) — related

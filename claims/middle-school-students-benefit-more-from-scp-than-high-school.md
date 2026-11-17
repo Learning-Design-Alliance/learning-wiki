@@ -47,3 +47,4 @@ Grade-level subgroup analysis of the same 150-student quasi-experiment. The arti
 ## Related Claims
 - [Science-contextualized drill practices produce higher gains in computational fluency than traditional context-free drill practices for middle and high school students](scp-higher-computational-fluency-gains-than-traditional-drill.md) — a broader claim this one bears on
 - [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
+- [Students in Iceland and Kenya report high satisfaction and motivation with on-line drilling, and want it combined with regular marked homework](student-satisfaction-on-line-drills-motivation.md) — related

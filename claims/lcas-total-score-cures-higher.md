@@ -52,3 +52,4 @@ Full-instrument known-groups comparison (n = 115: 60 CURE, 55 traditional) with 
 - [Only CURE students showed progress in views of science as creative and process based](cure-only-gains-creative-process-views-nature-of-science.md) — related
 - [CURE students report stronger project ownership than students in traditional lab courses or research internships](cure-project-ownership-stronger-than-lab-internship.md) — related
 - [Students report similar lab-skill confidence gains from CURE/ALLURE and traditional laboratory courses](similar-lab-skill-confidence-gains-cure-traditional-lab.md) — related
+- [Students appeared to adopt instructors' rating-scale norms, nearly ceasing to give \"excellent\" ratings after Lab 2](students-adopt-instructor-rating-norms.md) — related

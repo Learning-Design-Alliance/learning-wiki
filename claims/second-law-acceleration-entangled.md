@@ -72,3 +72,4 @@ Cross-cluster comparison of decline timing between acceleration and second law c
 - [Updating momentum with Newton's second law was rarely the fatal difficulty: 69.7% of students with erroneous programs wrote the second law update correctly.](newton-second-law-update-rarely-the-error.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Third-law performance drops to zero at the rubber band car quiz but response patterns show regression to an intermediate state, not a return to pretest reasoning](third-law-drop-intermediate-state.md) — related
+- [Students generally have difficulty distinguishing the concepts of velocity and acceleration](students-difficulty-velocity-acceleration-discrimination.md) — related

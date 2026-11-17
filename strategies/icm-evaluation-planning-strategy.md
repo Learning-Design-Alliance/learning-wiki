@@ -48,4 +48,4 @@ The chapter recommends that evaluation start from a target state defined in adva
 -
 
 ## Key Sources
-- Braun, I., Metzger, G., Ritter, S., Vasko, M., & Voss, H.-P. (2012). Inverted Classroom an der Hochschule Karlsruhe - ein nicht quantisierter Flip. In J. Handke & A. Sperl (Hrsg.), Das Inverted Classroom Model: Begleitband zur ersten deutschen ICM-Konferenz. Oldenbourg Verlag. http://www.e-learning.tu-darmstadt.de/openlearnware/lehrmaterial_in_olw/fachforumelearning/fachforum_2012.de.jsp
+- Braun, I., Metzger, G., Ritter, S., Vasko, M., & Voss, H.-P. (2012). Inverted Classroom an der Hochschule Karlsruhe - ein nicht quantisierter Flip. In J. Handke & A. Sperl (Hrsg.), Das Inverted Classroom Model: Begleitband zur ersten deutschen ICM-Konferenz. Oldenbourg Verlag. http://www.e-learning.tu-darmstadt.de/openlearnware/lehrmaterial_in_olw/fachforumelearning/fachforum_2012.de.jsp. [doi:10.48550/arxiv.1209.4451](https://doi.org/10.48550/arxiv.1209.4451)

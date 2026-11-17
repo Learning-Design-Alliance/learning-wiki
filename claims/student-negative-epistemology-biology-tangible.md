@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: watkins-2010
     resource: "https://doi.org/10.1063/1.3515237"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Ashlyn reported disliking thinking of biology in terms of numbers and variables, associating such representations with physics and calculus, and planned to memorize equations for the exam. [→ Watkins 2010](#watkins-2010)
@@ -54,3 +55,5 @@ Interview evidence from one student, Ashlyn, conducted after the diffusion-equat
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — a broader claim this one bears on
 - [In a reformed introductory biology course, students report expecting knowledge to consist of facts given by authority, and this expectation shapes their exam and study strategies](biology-students-authority-facts-expectation.md) — related
 - [Students in a reformed biology course report that math and physics are not necessary for understanding biology, and this expectation shapes their participation in physics-based activities and exam approaches](biology-students-math-physics-unnecessary-expectation.md) — a broader claim this one bears on
+- [Biology students' resistance to using mathematics in biology is context-dependent, improving when they perceive the activity as doing work for them](biology-students-math-attitudes-context-dependent.md) — possibly the same claim (merge candidate)
+- [Biology and physics faculty tend to hold dramatically different epistemological views of introductory knowledge, with biology favoring realistic systems and physics favoring idealized toy models.](physics-biology-epistemological-style-differences.md) — a broader claim this one bears on

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: loo-kang-wee-2012
     resource: "https://doi.org/10.48550/arXiv.1211.1118"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author presents remixing open source simulations as a form of self-directed professional learning that deepens physics teachers' teaching practice, learning through Web 2 online collaborative means with reputable physicists. [→ Loo Kang WEE 2012](#loo-kang-wee-2012)

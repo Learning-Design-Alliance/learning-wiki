@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (33 for, 19 mixed, 2 against) · 60 studies (16 causal, 10 review, 10 associational, 8 theoretical, 6 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 60 report an effect size · 48 claims rest on one study
+> **Evidence** · 57 claims (35 for, 20 mixed, 2 against) · 63 studies (17 causal, 11 associational, 10 review, 8 theoretical, 7 design, 5 quant-synthesis, 5 qualitative), `q1`–`q4` · 5 of 63 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,9 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [Adopting diversified formative assessment significantly improved grade discrimination among BOPPPS-PBL cohorts, unlike the subjective pre-reform daily-performance evaluation](../claims/diversified-formative-assessment-improved-grade-discrimination.md) [+W] — attached 2026-11-07 from Feng Xinrui et al. (2024), which proposed "Diversified formative-plus-summative assessment system weighting assignments, experimental operations and a final exam".
 - [The OSATS-based chest tube insertion scale shows moderate-to-good intermethod reliability between 'direct' on-site and 'indirect' video ratings](../claims/cti-osats-scale-intermethod-reliability.md) [+W] — attached 2026-11-09 from Ober J et al. (2018), which proposed "Average 'direct' and 'indirect' rater scores to obtain the most accurate assessment result".
 - [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the searching domain (r = 0.13, p = 0.4)](../claims/poor-correlation-self-perceived-objective-ebm-searching.md) [~W] — attached 2026-11-10 from Lai Nai Ming (2011), which proposed "Self-perceived competence should not be used as a stand-alone tool to evaluate undergraduate EBM competence"; tests this page's relationship.
+- [University teachers surveyed in India largely support using the four-tool assessment strategy for larger student numbers, except the identical experimental test](../claims/university-teachers-support-four-tool-lab-assessment-strategy.md) [~W] — attached 2026-11-17 from Rajesh B. Khaparde (2009), which proposed "Four-tool laboratory assessment pattern with relative weightings set by course level and objectives".
+- [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](../claims/high-percentage-ci-answers-free-response.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2011), which proposed "Use free-response assessments requiring shown work and explained reasoning alongside conceptual inventories to evaluate introductory instruction".
+- [In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)](../claims/correct-choice-incorrect-explanation-common-in-fr-formats.md) [+W] — attached 2026-11-17 from Beth Thacker et al. (2012), which proposed "Include free-response questions requiring shown work and explained reasoning in courses dominated by MC assessment, because FR yields information on thinking processes MC cannot provide".
 
 ## Objective and learner-valued goal
 

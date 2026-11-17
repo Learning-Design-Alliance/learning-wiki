@@ -56,3 +56,4 @@ Pearson's chi-square test on the N = 2254 subsample with degree/apprenticeship c
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Role choice showed a gender bias: 62% of male students but only 40% of female students chose the doctor's role](gender-bias-in-role-choice.md) — related
+- [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related

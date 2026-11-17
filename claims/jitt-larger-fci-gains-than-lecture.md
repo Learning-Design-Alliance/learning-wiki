@@ -70,3 +70,5 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
 - [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related
+- [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
+- [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related

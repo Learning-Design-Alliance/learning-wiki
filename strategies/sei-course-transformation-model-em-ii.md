@@ -47,6 +47,7 @@ The article applies the Science Education Initiative model, an iterative process
 ## Related Strategies
 
 - [Action Research](action-research.md)
+- [Implementation practices for in-class tutorials in upper-division courses: sell students on group work, distribute worksheets just prior to use, and include challenge problems](upper-division-tutorial-implementation-practices.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Authors' design observation from the implementation, not a tested comparison: th
 - [The constraint-based tutoring paradigm is feasible only for domains in which the solution itself is rich in information, whereas model tracing has no such restriction](constraint-based-tutoring-requires-information-rich-solutions.md) — related
 - [Two characteristics of the problem domain are key in distinguishing which tutoring paradigm is appropriate for a given domain](two-domain-characteristics-distinguish-tutoring-paradigms.md) — related
 - [Building a model-tracing tutor requires greater development effort than building a constraint-based tutor for the same domain](model-tracing-tutor-greater-development-effort.md) — reports the opposite
+- [The Wolfram language is presented as supporting multiple programming paradigms so learners can pick the paradigm that suits their thinking](multi-paradigm-language-suits-learner-thinking.md) — related

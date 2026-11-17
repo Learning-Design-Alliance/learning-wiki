@@ -70,3 +70,4 @@ MD postcourse survey (N=116) item on perceived score-usage relationship; descrip
 - [Most students (84%) endorse continuing the BPM Essentials module in future curricula, with PA students rating it more favorably](student-endorsement-bpm-module.md) — related
 - [The majority of students perceived vodcasts as improving understanding of lecture material both as preview and revision tools.](positive-student-perceptions-of-vodcasts-preview-and-revision.md) — related
 - [Engaged students report positive perceptions of Smartwork quizzes, with about 78% believing the quizzes helped them perform better in class tests](student-feedback-smartwork-quizzes-positive.md) — related
+- [Most students reported the per-module application day examining published articles was beneficial, while a minority did not find it helpful](application-day-beneficial-majority.md) — related

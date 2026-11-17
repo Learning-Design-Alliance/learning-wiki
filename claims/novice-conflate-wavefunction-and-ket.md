@@ -47,3 +47,4 @@ The authors report, from their teaching experience at WPI, this common student e
 
 ## Related Claims
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — related
+- [Central quantum concepts are teachable with high-school mathematics on a single qubit](qubit-concepts-high-school-mathematics.md) — related

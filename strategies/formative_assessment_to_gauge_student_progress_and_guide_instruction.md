@@ -71,6 +71,7 @@ Formative assessment is among the most consistently supported instructional prac
 - [Teachers read student journals and give regular individual feedback on them](teacher-feedback-on-science-journals.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 - [Support tutorless PBL with ongoing formative assessment and daily feedback](formative-assessment-support-tutorless-pbl.md)
+- [Weekly guided reflections on lifelong learning skills with individualized instructive and affective feedback](guided-reflections-individualized-feedback-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

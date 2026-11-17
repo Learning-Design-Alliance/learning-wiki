@@ -46,3 +46,4 @@ Monte Carlo simulation of the two-level random model (Fig. 3), run with the prin
 
 ## Related Claims
 - [Most FCI questions in the Bogotá sample were answered without any mental model, i.e. at random](fci-bogota-53-percent-random-answers.md) — related
+- [Monte Carlo simulation applications favour statistics learning, especially among students who struggle with more classical methods (as reported by Weir et al., 2002)](monte-carlo-simulations-favour-statistics-learning.md) — related

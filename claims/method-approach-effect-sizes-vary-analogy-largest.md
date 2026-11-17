@@ -58,3 +58,4 @@ Narrative summary of Table 2 effect sizes for individual method and approach stu
 - [Individual study effect sizes vary, with four studies showing statistically insignificant effects and eighteen significant ones](per-study-effect-sizes-vary-four-insignificant.md) — related
 - [Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects](vet-e-learning-effect-size-distribution.md) — a broader claim this one bears on
 - [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) — related
+- [Using analogies to teach general relativity entails a considerable risk of misconception formation](gr-analogies-misconception-risk.md) — related

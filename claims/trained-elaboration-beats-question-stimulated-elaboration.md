@@ -52,3 +52,4 @@ In the training study, some seventh graders were trained in elaborative processi
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
 - [No treatment effects transferred to independent reading: treatment groups performed no better than controls on the transfer passage](no-transfer-to-independent-reading.md) — related
+- [First-grade teachers transferred active learning into school training and other sciences](first-grade-teachers-transfer-active-learning.md) — related

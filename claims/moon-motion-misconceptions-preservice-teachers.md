@@ -53,3 +53,4 @@ Results from Q6–Q8 on the Moon's movements and the three-body system: "nearly 
 - [Experimental students gained on lunar periodicity LPCI domains while only the control group gained on the phase/Sun-Earth-Moon positions domain](lpci-domain-gains-differ-by-curriculum-group.md) — related
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
 - [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related
+- [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related

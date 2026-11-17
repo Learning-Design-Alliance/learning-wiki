@@ -63,9 +63,11 @@ Critique operationalizes [Assessment for Learning](../principles/assessment-for-
 6. Optionally, revised work returns to a later crit, closing the iteration loop
 
 ## Related Strategies
+
 - [Peer Review / Peer Feedback](../elements/peer-feedback.md) — critique's generalization beyond studio settings; same feedback-quality constraints apply
 - [Case-Based Learning](case-based-learning.md) — analyzing peers' varied works in a crit has the same comparison structure as comparing cases
 - [Portfolios](portfolios.md) — the revision artifacts critique produces are natural portfolio evidence
+- [Peer assessment of student research presentations to teach assessment criteria](peer-assessment-research-presentations.md)
 
 ## Examples
 - **Rhode Island School of Design** — the semester-long studio crit is the core assessment structure of its studio curriculum; RISD's [Teaching & Learning in Art + Design resources](https://tla.risd.edu) publish crit facilitation guidance

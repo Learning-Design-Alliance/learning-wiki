@@ -46,7 +46,8 @@ The article recommends, by demonstration, that teachers study themselves as lear
 - [Uncriticalness on hard novel tasks appears as many wrong answers relative to omissions and as eagerness to learn answers from authority rather than one's own checks](../claims/uncriticalness-wrong-answers-versus-omissions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Have students derive material-property estimates themselves and check them against empirical values](students-derive-estimates-check-empirical-values.md)
 
 ## Examples
 -

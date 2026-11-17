@@ -49,3 +49,4 @@ Classroom observations from the follow-on study. The article contrasts Teacher D
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](vcl-removes-physicality-raises-cognition.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related
 - [Meta events of familiarising with the environment, getting organised and sorting out problems provide participants with constant opportunities for learning in virtual worlds](tila-meta-events-opportunities-for-learning.md) — related
+- [The guided problem-solving laboratory approach yielded better learning and overall results than the traditional cookbook method, according to the author's own evaluation](guided-problem-solving-better-results-than-traditional.md) — related

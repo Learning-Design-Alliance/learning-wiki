@@ -83,3 +83,4 @@ Critical-thinking theme: participants wanted AI to challenge them to ask better 
 - [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](students-obstacles-critical-thinking-number-theory.md) — related
 - [Teachers perceived the Task-First Approach as providing an authentic assessment opportunity revealing student knowledge without scaffolding](task-first-authentic-assessment.md) — related
 - [Problem-based presentation axes such as Cry for help and My worst experience promote interaction, prior-knowledge recall and creative problem solving](problem-based-presentation-axes-promote-interaction.md) — related
+- [A case-study student solved an estimation problem by breaking it into smaller sub-problems and combining the pieces](ava-breaks-estimation-into-sub-problems.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 468 claims (232 for, 208 mixed, 28 against) · 350 studies (111 associational, 84 design, 61 causal, 48 review, 28 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 350 report an effect size · 461 claims rest on one study
+> **Evidence** · 469 claims (233 for, 208 mixed, 28 against) · 351 studies (111 associational, 85 design, 61 causal, 48 review, 28 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 351 report an effect size · 462 claims rest on one study
 
 ## Conditional relationship
 
@@ -312,6 +312,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Four-option items averaged 1.18 non-functioning distractors, and removing one markedly improved discrimination and model fit for item 45](../claims/non-functioning-distractors-average-1-18.md) [+W] — attached 2026-11-10 from Zoanetti N et al. (2013), which proposed "Decide the number of multiple-choice response options at the item level, on psychometric and educational grounds, rather than by a uniform policy"; tests this page's relationship.
 - [Total UKCAT score correlates significantly but weakly with first-year medical school performance](../claims/ukcat-total-weakly-correlates-with-outcome.md) [+W] — attached 2026-11-10 from McManus I C et al. (2013), which proposed "Use the full range of existing educational attainment measures when making medical selection decisions"; tests this page's relationship.
 - [The CUE superposition-question rubric carries a potential bias toward traditional subject order and emphasis, obscuring differences between approaches](../claims/cue-rubric-bias-traditional-order.md) [+W] — attached 2026-11-17 from Justyna P. Zwolak et al. (2017), which proposed "Assessment rubrics intended for cross-institution comparison should be re-examined so they do not presuppose the originating institution's terminology and subject order".
+- [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](../claims/think-aloud-interviews-q17-distractor-reasons.md) [+W] — attached 2026-11-17 from Homeyra Sadaghiani et al. (2013), which proposed "Iterate assessment items using item analysis and student interviews, revising or removing distractors that are unpopular or produce undesirable difficulty".
 
 ## Objective and learner-valued goal
 

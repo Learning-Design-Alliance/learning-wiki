@@ -51,3 +51,4 @@ McCullough and Meltzer's rewording study and DIF analyses by Dietz et al. and Po
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
+- [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related

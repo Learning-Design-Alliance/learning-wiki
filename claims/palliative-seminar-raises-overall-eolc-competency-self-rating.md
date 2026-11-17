@@ -50,3 +50,4 @@ Before-after comparison within the KWBW vocational training programme: 219 atten
 - [Among intervention-group trainees, self-reported intention to achieve the additional palliative care qualification fell significantly from pre-test to post-test after the seminar](fewer-trainees-sought-additional-palliative-qualification-after-seminar.md) — related
 - [About 70% of attendees evaluated the two-day seminar as helpful or very helpful for their practical work and 22.9% attributed new competencies to it](seminar-rated-helpful-by-most-attendees.md) — related
 - [Participants reported intending to provide better, more communicative end-of-life care and to avoid poor communication after training](teolc-practice-intention-themes.md) — related
+- [Shortening workshops from a week to two days increased attendance and retention, and 80-90% of attendees report they were glad they attended](two-day-workshops-retention-satisfaction.md) — related

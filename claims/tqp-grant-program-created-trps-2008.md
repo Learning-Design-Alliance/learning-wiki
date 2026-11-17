@@ -54,3 +54,4 @@ Background statement printed in the article's introduction: "In 2008, Congress c
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
 - [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
+- [Teacher certification program entry requirements do not attract high-achieving physics students into teaching careers](certification-requirements-deter-strong-physics-students.md) — related

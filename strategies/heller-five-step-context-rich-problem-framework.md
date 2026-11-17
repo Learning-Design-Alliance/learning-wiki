@@ -51,4 +51,4 @@ Heller and colleagues formalized problem-solving tasks into "a coherent framewor
 -
 
 ## Key Sources
-- Hoskinson, A.-M., M. D. Caballero, and J. K. Knight. (2013). How can we improve problem solving in undergraduate biology? Applying lessons from 30 years of physics education research. Cell Biology Education – Life Sciences Education. https://arxiv.org/abs/1209.0745
+- Hoskinson, A.-M., M. D. Caballero, and J. K. Knight. (2013). How can we improve problem solving in undergraduate biology? Applying lessons from 30 years of physics education research. Cell Biology Education – Life Sciences Education. https://arxiv.org/abs/1209.0745. [doi:10.1187/cbe.12-09-0149](https://doi.org/10.1187/cbe.12-09-0149)

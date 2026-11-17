@@ -57,3 +57,4 @@ Paired t test on procedure durations recorded from video performances of the sam
 - [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — a narrower finding that bears on this claim
 - [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
 - [After MR simulator training, operation time decreased from 4.08 ± 1.96 min to 2.07 ± 0.92 min (p = 0.0001).](mr-training-reduced-operation-time.md) — related
+- [First-time students took about 9 minutes to complete iCARE, and completion time dropped to 3–5 minutes with repeated weekly use](icare-completion-time-drops-with-reuse.md) — a narrower finding that bears on this claim

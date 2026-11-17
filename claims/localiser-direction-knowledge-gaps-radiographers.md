@@ -70,3 +70,4 @@ Likert-scale item (Figure 2) on whether localiser radiograph direction influence
 - [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — related
 - [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
 - [CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample](no-significant-demographic-associations-ct-knowledge-score.md) — related
+- [After the project, students understood that the risk of radiation essentially depends on its amount and kind](radiation-risk-understanding-amount-dependence.md) — related

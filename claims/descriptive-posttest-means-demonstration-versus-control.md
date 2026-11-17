@@ -58,3 +58,4 @@ Descriptive statistics (Table 2) from the same experiment: demonstration group M
 - [Students taught agricultural science with the demonstration method achieved significantly higher post-test scores than students taught with the conventional lecture method](demonstration-method-higher-achievement-than-lecture.md) — possibly the same claim (merge candidate)
 - [The demonstration method produced a larger mean gain in achievement scores than the conventional lecture method](demonstration-method-larger-mean-gain.md) — related
 - [No significant between-group differences in overall post-test echocardiography performance after digital-human versus traditional teaching](no-between-group-posttest-differences-echo.md) — related
+- [Student grades and course satisfaction were higher in the 2013 demonstration-rich course than in the conventionally taught 2011 course](demonstration-rich-course-grade-improvement-2013.md) — related

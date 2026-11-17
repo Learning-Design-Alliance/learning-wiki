@@ -39,6 +39,7 @@ The paper recommends steering the activity toward students' own sound sources: s
 ## Related Strategies
 
 - [Combine spectral analysis of musical instrument sounds with the free fall Doppler experiment to introduce non-science majors to spectra intuitively](music-spectra-before-doppler-strategy.md)
+- [Use gifs, animations and two simple experiments to make pressure and air-displacement profiles of tube harmonics visible](gifs-animations-two-experiments-standing-waves-strategy.md)
 
 ## Examples
 -

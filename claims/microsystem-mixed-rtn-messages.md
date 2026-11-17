@@ -50,3 +50,4 @@ Survey frequency analysis of actor–message pairs in the microsystem (n = 255).
 - [Most biology graduate students hold synergistic perceptions of the research–teaching nexus](biology-grad-students-synergistic-rtn-perceptions.md) — related
 - [Disciplinary and academic cultures send mixed messages, valuing researcher recognition over teaching respect](macrosystem-mixed-culture-messages.md) — related
 - [Graduate students with hybrid researcher-teacher identities hold more synergistic RTN perceptions than those with researcher identities](hybrid-identity-more-synergistic-rtn.md) — related
+- [Faculty and graduate students differ in perceptions of how students learn electronics: faculty report advisors more, students report Internet, technicians, and documentation more](faculty-student-learning-resource-perception-differences.md) — related

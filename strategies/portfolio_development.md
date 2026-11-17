@@ -86,6 +86,7 @@ Portfolio development converts assessment artifacts into objects of metacognitiv
 - [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 - [Implement comprehensive portfolios as learner charts within programmatic assessment, documenting progress longitudinally to service both learning and assessment](comprehensive-portfolio-learner-chart-programmatic-assessment.md)
+- [Weekly guided reflections on lifelong learning skills with individualized instructive and affective feedback](guided-reflections-individualized-feedback-strategy.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the written or spoken rationale that turns selection into learning

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: christopher-m-graney-2011
     resource: "https://doi.org/10.1119/1.3670077"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students' focus on the answer can exclude useful practices, make lab problems feel like personal failure, and, beyond class, support the dismissal of science because answers change. [→ Christopher M. Graney 2011](#christopher-m-graney-2011)

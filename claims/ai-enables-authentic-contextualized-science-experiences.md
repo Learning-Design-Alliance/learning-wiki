@@ -79,3 +79,4 @@ RQ3 theme on bridging virtual and real-world practice. Repeated virtual practice
 - [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](vet-simulator-instruction-volume-training-not-high-stakes.md) — related
 - [AIED techniques did not come to encompass fully integrated practical learning environments as hoped in 1998](aied-integration-expectation-unfulfilled.md) — related
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
+- [Direct and interactive visualization of complex invisible phenomena is reported effective for learning in pilot qualitative experiences](direct-interactive-visualization-effective-pilot.md) — related

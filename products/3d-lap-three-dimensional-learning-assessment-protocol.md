@@ -21,6 +21,7 @@ A protocol developed by Cooper and colleagues for evaluating the potential of ed
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **3D-LAP: Three-Dimensional Learning Assessment Protocol for exam items**: The 3D-LAP is a protocol for evaluating assessment tasks. It "allows us to determine whether an assessment task has the potential to elicit a 3D response from students". The authors previously used it to code over 4,000 examination questions from midterm and final exams in introductory courses to evaluate change in 3D assessment over time, and report it is a useful tool for characterizing the extent of transformation focused on student use of knowledge in the context of Core Ideas. Its limitation, stated by the authors, is that it measures only the potential of an item, not whether students actually engage in 3DL. (Cooper M. M. et al. (2024))
+- **Three Dimensional Learning Assessment Protocol (3D-LAP) for analyzing assessment items**: The 3D-LAP is a parallel instrument under development to determine whether assessment items contain scientific practices, crosscutting concepts, and disciplinary core ideas. It analyzes exams, homework, and clicker questions collected from each section of every introductory course, with collection planned to continue for several years. The article notes that "The coding structure for this tool is being ﬁnalized." (James T. Laverty et al. (2014))
 
 ### Claims
 
@@ -29,3 +30,4 @@ A protocol developed by Cooper and colleagues for evaluating the potential of ed
 
 ## Key Sources
 - Cooper M. M., Caballero M. D., Carmel J. H., Duffy E. M., Ebert-May D., Fata-Hartley C. L., Herrington D. G., Laverty J. T., Nelson P. C., Posey L. A., Stoltzfus J. R., Stowe R. L., Sweeder R. D., Tessmer S., Underwood S. M. (2024). Beyond active learning: Using 3-Dimensional learning to create scientifically authentic, student-centered classrooms. PLoS One. https://doi.org/10.1371/journal.pone.0295887
+- James T. Laverty, Stuart H. Tessmer, Melanie M. Cooper, and Marcos D. Caballero. (2014). Engaging Physics Faculty in Course Transformation. https://arxiv.org/abs/1407.3260

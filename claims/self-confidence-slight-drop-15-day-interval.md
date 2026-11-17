@@ -50,3 +50,4 @@ Wilcoxon signed-rank comparison of self-confidence between T2 and T3 in the sing
 - [Graduate intensive care nursing students' self-confidence and self-efficacy scores rose from pre-test to post-test after repeated high-fidelity simulation modules, in a single-group pre-post study](repeated-hfs-self-confidence-self-efficacy-gains.md) — related
 - [Newly graduated registered nurses' self-assessed overall competence fluctuates over the first 5 months, dipping after 15 days and rising by 3 and 5 months](ngrn-competence-fluctuates-first-5-months.md) — related
 - [Reward positivity showed no forgetting-curve lapse after ~30 days despite a lapse in behavioral accuracy, indicating retained ability to internally evaluate responses](reward-positivity-no-forgetting-curve-30-days.md) — related
+- [Intensive week-long courses cause learning to drop off significantly by the last two days](week-long-courses-learning-dropoff.md) — related

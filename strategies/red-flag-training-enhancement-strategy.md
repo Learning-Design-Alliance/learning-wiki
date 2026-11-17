@@ -41,6 +41,7 @@ The authors' forward-looking recommendations for improving the digital training:
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 - [Tailor e-learning by pre-scoring knowledge of red flags and spinal pathologies and offering additional content before continuing](tailored-e-learning-red-flags-pre-scoring.md)
 - [Develop a suitable mix of presence and digital formats for continuing medical education seminar programs.](mix-presence-and-digital-formats-cme.md)
+- [For computer-based physics exercises with broadly distributed abilities, keep the task level as baseline, add flexibility, and retain a text-based completion option](vispa-course-iteration-recommendations.md)
 
 ## Examples
 -

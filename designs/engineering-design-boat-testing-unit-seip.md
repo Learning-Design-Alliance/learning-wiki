@@ -47,4 +47,4 @@ An instructional unit developed by the teacher Krysta and the first author, part
 -
 
 ## Key Sources
-- Suarez, E. and Otero, V. (2012). Physics as a Mechanism for Including ELLs in Classroom Discourse. http://bit.ly/11T0YwG
+- Suarez, E. and Otero, V. (2012). Physics as a Mechanism for Including ELLs in Classroom Discourse. http://bit.ly/11T0YwG. [doi:10.48550/arxiv.1307.3613](https://doi.org/10.48550/arxiv.1307.3613)

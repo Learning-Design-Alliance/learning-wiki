@@ -46,6 +46,7 @@ The article describes a teaching strategy in which trained Ambassadors facilitat
 
 - [Train peer instructors in advance with expert faculty oversight and written facilitator guides before deploying student-led skills teaching](peer-instructor-training-expert-review.md)
 - [Use micro-modeling, demonstrations, and peer-to-peer classroom tours to remove technical and pedagogical barriers during AI tool adoption](micro-modeling-peer-tours-remove-barriers.md)
+- [Classroom demonstration script for WWT tour creation, contrasting numerical narration with interesting facts](wwt-tour-demonstration-script.md)
 
 ## Examples
 -

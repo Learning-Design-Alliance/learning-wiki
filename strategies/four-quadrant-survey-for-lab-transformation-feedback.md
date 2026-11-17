@@ -39,6 +39,7 @@ The article recommends using E-CLASS as a common evaluation tool for lab course 
 ## Related Strategies
 
 - [Use pre/post attitude surveys with detailed instructor feedback reports as formative assessment for lab course transformation](formative-attitude-survey-feedback-reports-lab-courses.md)
+- [Sorted, statement-by-statement instructor reports as formative assessment for lab courses](e-class-sorted-instructor-report-formative-assessment.md)
 
 ## Examples
 -

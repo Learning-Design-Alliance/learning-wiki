@@ -50,3 +50,4 @@ Behavioral retrieval test of 31 analyzed second-year undergraduates (19 biology,
 - [Successful encoding of schema-related information recruits the mPFC whereas successful encoding of schema-unrelated information recruits the medial temporal lobe](schema-by-memory-mpfc-mtl-interaction.md) — related
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
 - [New information fitting an existing schema is consolidated into neocortex more rapidly](schema-based-prior-knowledge-rapid-consolidation.md) — related
+- [ENEM 2009 percent correct is lower on Physics items requiring specific disciplinary knowledge](enem-2009-disciplinary-knowledge-items-lower-correct.md) — related

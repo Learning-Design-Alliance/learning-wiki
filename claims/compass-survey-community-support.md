@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: nathaniel-roth-2013
     resource: "https://doi.org/10.48550/arXiv.1211.4893"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interviews and surveys of the 2010 summer program cohort during their first and second years, 12 students spoke about community, friendship, or meeting people as important, 6 spoke about academic or scientific support, 13 reported seeing each other at least weekly, 8 studied together, and 9 lived with another Compass student. [→ Nathaniel Roth 2013](#nathaniel-roth-2013)

@@ -67,6 +67,7 @@ One-on-one interaction allows instruction to be calibrated precisely to the indi
 - [Weekly need-based e-mentoring messages via LINE combined with weekly in-class self-evaluations](line-e-mentoring-with-in-class-self-evaluation.md)
 - [Schedule structured feedback review sessions with academics to support dialogic engagement with computer-based assessment feedback](structured-feedback-review-sessions.md)
 - [Combine course-specific group walk-in sessions with individually scheduled tutoring hours](walk-in-plus-scheduled-tutoring-mix.md)
+- [Design warm-up problems with a capped attempt policy and office-hour overlap to keep students engaged without penalty](warmup-attempt-cap-office-hours-strategy.md)
 
 ## Examples
 - **Required early-semester interviews** in large introductory STEM courses: each student signs up for a 5–10 minute individual meeting in the first three weeks; instructors report sharply increased voluntary attendance and better name recognition afterward.

@@ -52,3 +52,4 @@ Learning Policy Institute analysis of federal Title II data on Texas teacher pre
 - [Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers](university-prepared-teachers-higher-student-learning-gains.md) — related
 - [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
 - [Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000](teacher-prep-enrollment-decline-35-percent.md) — related
+- [Federal STEM teacher projects such as 100K-10, PhysTEC and Uteach have shown considerable success in increasing physics teacher enrollment](stem-teacher-projects-increase-enrollment.md) — related

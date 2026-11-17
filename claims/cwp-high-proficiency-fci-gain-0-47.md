@@ -49,3 +49,4 @@ Pre/post FCI comparison across semesters of traditional instruction and the Spri
 - [CWP cut course DFW rates from 50% to 24% and substantially improved problem-solving skill regardless of language ability](cwp-dfw-cut-50-to-24.md) — related
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — a broader claim this one bears on
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [Overall TOEFL score shows very low correlation with FCI performance, but reading ability correlates an order of magnitude more strongly](toefl-reading-ability-fci-correlation.md) — related

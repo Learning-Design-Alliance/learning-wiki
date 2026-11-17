@@ -54,4 +54,4 @@ The authors recommend that students work problems with a deeper emphasis on iden
 -
 
 ## Key Sources
-- Caballero, M. D., Wilcox, B. R., Pollock, S. J., & Pepper, R. E. (2012). ACER: A Framework on the Use of Mathematics in Upper-division Physics. arXiv preprint. https://arxiv.org/abs/1207.0987
+- Caballero, M. D., Wilcox, B. R., Pollock, S. J., & Pepper, R. E. (2012). ACER: A Framework on the Use of Mathematics in Upper-division Physics. arXiv preprint. https://arxiv.org/abs/1207.0987. [doi:10.1063/1.4789659](https://doi.org/10.1063/1.4789659)

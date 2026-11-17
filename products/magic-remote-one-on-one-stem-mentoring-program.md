@@ -28,4 +28,4 @@ MAGIC is a nonprofit programme that matches girls interested in STEM with women 
 -
 
 ## Key Sources
-- Khare, R., Sahai, E., Pramanick, I. (2013). Remote Mentoring Young Females in STEM through MAGIC. http://getmagic.org/
+- Khare, R., Sahai, E., Pramanick, I. (2013). Remote Mentoring Young Females in STEM through MAGIC. http://getmagic.org/. [doi:10.48550/arxiv.1304.7547](https://doi.org/10.48550/arxiv.1304.7547)

@@ -51,3 +51,4 @@ The author's interpretive survey of 44 openly accessible papers referencing conn
 - A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement — a narrower finding that bears on this claim
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — reports the opposite
 - Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment — a narrower finding that bears on this claim
+- [Student reception of the iOLM module was neutral: 40% would take another iOLM, and only 15% evaluated the learning outcome as positive](student-reception-iolm-neutral.md) — related

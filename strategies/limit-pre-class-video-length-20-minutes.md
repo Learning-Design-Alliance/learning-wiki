@@ -54,6 +54,7 @@ The article reports that pre-class videos "cannot be too long and should be rest
 - [Invest in high-quality prescripted vodcasts and consider combining vodcasts with live teaching (e.g., flipped classroom)](high-quality-vodcasts-flipped-combination.md)
 - [Divide pre-recorded lecture videos into concise recordings of at most 15 minutes to increase viewing and retention](short-pre-recorded-lecture-videos-max-15-min.md)
 - [Use flipped classroom pre-class materials to offset PBL's preparation burden and small-group PBL discussion to add structure to flipped classrooms](flip-pbl-complementary-design-strategy.md)
+- [Future work: design UI for practical subjects and set e-learning lesson duration from the e-learning environment rather than conventional class lengths](uidel-future-work-practical-subjects-duration.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: c-e-aguiar-and-m-m-pereira-2009
     resource: "https://doi.org/10.1119/1.3527753"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report the measurement was quite easy to perform even with relatively large groups, and that students found the activity enjoyable. [→ C. E. Aguiar and M. M. Pereira 2009](#c-e-aguiar-and-m-m-pereira-2009)

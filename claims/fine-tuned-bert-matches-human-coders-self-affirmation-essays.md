@@ -80,3 +80,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — a broader claim this one bears on
 - [Both LLMs showed high interrater reliability on orthopedic MCQs (ChatGPT κ=0.81; DeepSeek κ=0.78)](llm-interrater-reliability-orthopedic-mcqs-kappa.md) — related
 - [An AI algorithm shows almost perfect agreement with expert evaluators in pass/fail assessment of peg transfer laparoscopic simulation videos](ai-almost-perfect-agreement-peg-transfer-assessment.md) — a narrower finding that bears on this claim
+- [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related

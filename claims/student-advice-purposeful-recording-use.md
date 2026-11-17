@@ -49,3 +49,4 @@ Final survey item on advice to new students (Table 10) among the 281 respondents
 - [Most medical students use recorded lectures weekly, mainly to make up missed lectures, review content, and develop notes](weekly-recording-use-for-review-and-notes.md) — reports the opposite
 - [Healthcare professionals worldwide use the free surgical video-lecture channel mainly for continuing medical education, specific questions, and exam preparation](surgical-video-lectures-online-user-motivations.md) — related
 - [Students mildly prefer live lectures over video lectures for exam preparation](students-prefer-live-lectures-mildly.md) — related
+- [Students reported lecture recordings more valuable for conceptual material than for sections that are just maths and facts](lecture-audio-conceptual-material-value.md) — related

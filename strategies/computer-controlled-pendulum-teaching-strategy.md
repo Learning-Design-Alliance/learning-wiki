@@ -48,6 +48,7 @@ The authors recommend deploying the apparatus in physics teaching so that learne
 - Computer Controlled Pendulum Apparatus
 - [Use apparatus construction itself as a classroom exercise for discussing practical experimental considerations](build-apparatus-as-classroom-exercise-strategy.md)
 - [Equip every student with a hands-on pendulum by building apparatus from low-cost surplus computer mice](low-cost-mouse-pendulum-per-student-equipment-strategy.md)
+- [Open apparatus design plus a harmonic-then-parametric teaching sequence for the spring-mass laboratory](open-apparatus-harmonic-to-parametric-sequence-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,5 @@ The article's abstract states this three-part diagnosis of traditional managemen
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
 - [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](belonging-theory-practice-gap.md) — related
 - [The simulation-versus-real closed-loop communication gap suggests a Hawthorne effect, and real-life CLC may differ from textbook CLC](hawthorne-effect-clc-simulation-gap.md) — related
+- [The article argues that most K-12 education still operates on a 17th-century Comenian model of 'printing minds' for passing on static knowledge](comenian-printing-minds-model-persists.md) — related
+- [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — related

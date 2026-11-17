@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-17
 sources:
   - id: posner-mareike-g-2023
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10340524/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the initial redesign, students were hesitant with the interactive student-led approach, showing poorer attendance at these sessions compared with traditional lecture delivery (−5%). [→ Posner Mareike G. 2023](#posner-mareike-g-2023)

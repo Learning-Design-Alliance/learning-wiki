@@ -70,3 +70,4 @@ The editorial reports that in the Eberle et al. study "a group awareness interve
 - [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md) — related
 - [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — related
 - [The Cockcroft Institute offered 243 contact-hours of lectures over three years and currently enrolls 46 PhD students](cockcroft-243-contact-hours-46-phd-students.md) — related
+- [Il confronto fra laureati di aree disciplinari differenti si è rivelato utile per l'acquisizione di competenze relazionali](confronto-discipline-competenze-relazionali.md) — related

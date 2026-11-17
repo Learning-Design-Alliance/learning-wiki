@@ -50,6 +50,7 @@ The article describes a systematic faculty development program with four key ele
 - [Train faculty and orient students on PBL processes before and during PBL implementation](pbl-faculty-student-training-strategy.md)
 - [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
 - [Scale regional in-service PBL training by field-testing the curriculum with future tutors, then certifying them as regional tutors](field-test-then-regional-tutor-scaling-strategy.md)
+- [Facilitation lessons for sustaining faculty engagement in course transformation](faculty-engagement-facilitation-lessons.md)
 
 ## Examples
 -

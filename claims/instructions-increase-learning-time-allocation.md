@@ -62,3 +62,4 @@ Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus
 - [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related
 - [Use of the tool correlates positively but inconsistently with gains in metacognitive awareness](tool-use-correlates-with-metacognitive-gains.md) — related
 - [Students suggested improvements to place-based teaching including visiting more places, applying it in other courses, and increasing allocated time](student-suggestions-place-based-improvement.md) — related
+- [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related

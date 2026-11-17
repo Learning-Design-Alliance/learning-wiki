@@ -86,3 +86,6 @@ Item analysis of FCI results from twenty-two traditional and six M&I sections at
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
 - [Lowest-tertile students in the ideas-first section had 4.2 times higher odds of a large FCI gain than lecture-section students](larger-fci-gain-odds-treatment-vs-lecture.md) — related
+- [Interactive sections significantly outperformed traditional sections on the four FCI Newton's Third Law questions (Cohen's D = 0.583), while the entire-FCI normalized gain difference was not statistically significant](ils-fci-newtons-third-law-gain-french-mechanics.md) — reports the opposite
+- [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related

@@ -39,6 +39,7 @@ Drawing on dozens of pilots across six states, CTQ's Jennifer Barnett reports th
 ## Related Strategies
 
 - [Use Five Key Questions to stress-test proposed micro-credential competencies before drafting](five-key-questions-micro-credential-development.md)
+- [Consult practitioner community archives and plan timeline, staffing and pilot classrooms before building a DIY planetarium](planetarium-builder-community-archives.md)
 
 ## Examples
 -

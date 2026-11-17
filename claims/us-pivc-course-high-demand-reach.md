@@ -48,3 +48,4 @@ Reach evaluation within the RE-AIM structure: booking and attendance records acr
 ## Related Claims
 - [Final-year medical students achieve a 98% pass rate on an objective US-PIVC competency assessment after a structured simulation course, with 84% completing all procedural aspects in full.](us-pivc-course-98-percent-objective-pass-rate.md) — related
 - [The gamified class attended more sessions and arrived late less often than the control class (78% vs 65% average attendance)](gamification-higher-attendance-programming-course.md) — related
+- [The RUBi bioinformatics MSc is regularly over-subscribed, with 65 applications for 7 places in 2012.](rubi-msc-oversubscribed-demand.md) — related

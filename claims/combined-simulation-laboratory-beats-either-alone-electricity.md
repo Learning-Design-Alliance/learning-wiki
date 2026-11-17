@@ -76,3 +76,4 @@ Quasi-experimental study of 66 seventh-graders randomly assigned to three groups
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) — related
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — related
 - [An a posteriori video analysis found the worksheet instructor used significantly more analogies, but a causal link between analogy use and students' Real-World Connections attitudes could not be confirmed](analogy-use-associated-real-world-connections.md) — related
+- [Model RC circuit and lipid bilayer show no difference in electrical response, validating the RC-equivalence teaching goal](bilayer-equivalent-to-rc-circuit.md) — related

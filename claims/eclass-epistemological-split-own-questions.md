@@ -52,3 +52,5 @@ Results from a typical introductory calculus-based lab course at a large public 
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md)
 - [Faculty-signaled classroom climate relates to engagement: courses where instructors treat no question as too elementary and own responsibility for student success show more engaged students](faculty-climate-signals-engage-students.md) — related
 - [65% of codable WoW forum posts display an evaluative epistemology, contrasting with Kuhn's finding that only 15% of interviewed Americans held one](wow-forum-evaluative-epistemology-65-percent.md) — related
+- [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — possibly the same claim (merge candidate)
+- [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related

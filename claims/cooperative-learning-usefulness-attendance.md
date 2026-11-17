@@ -74,3 +74,4 @@ Attendance counts reported for Contemporary Biology after implementing graded co
 - [In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry](jigsaw-vs-tau-null-semester-e3a.md) — related
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related
 - [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related
+- [Graded pre-class flip-JiTT warm-up assignments achieved an 83.1% participation rate among 69 E&M students](flip-jitt-83-percent-participation.md) — related

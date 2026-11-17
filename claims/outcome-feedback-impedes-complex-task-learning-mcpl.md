@@ -55,3 +55,4 @@ Narrative review attribution: the authors report, citing multiple MCPL-paradigm 
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - The feedback research field may already be experiencing a paradigm shift that five further steps could solidify — related
 - [Peer feedback effectiveness may be compromised when task complexity exceeds a threshold, as observed for simple interrupted suturing](peer-feedback-task-complexity-threshold.md) — a narrower finding that bears on this claim
+- [The Wolfram language is presented as supporting multiple programming paradigms so learners can pick the paradigm that suits their thinking](multi-paradigm-language-suits-learner-thinking.md) — related

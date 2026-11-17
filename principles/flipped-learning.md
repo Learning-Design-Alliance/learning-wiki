@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 192 claims (116 for, 71 mixed, 5 against) · 124 studies (74 causal, 19 quant-synthesis, 13 review, 8 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 124 report an effect size · 184 claims rest on one study
+> **Evidence** · 195 claims (118 for, 72 mixed, 5 against) · 126 studies (75 causal, 19 quant-synthesis, 13 review, 9 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 126 report an effect size · 187 claims rest on one study
 
 ## Conditional relationship
 
@@ -233,6 +233,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Student sense of community of inquiry in flipped classrooms increases significantly in teaching, social, and cognitive presence](../claims/flipped-classroom-coi-all-three-presences-increase.md) [+W] — attached 2026-11-09 from Lee Young Hwan (2018), which proposed "Flipped classroom pattern: pre-class assignments plus in-class quizzes and structured academic debate".
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](../claims/link-timing-no-significant-viewing-difference.md) [~W] — attached 2026-11-09 from Rose E et al. (2018), which proposed "Distribute flipped-classroom preparatory materials at least three days before the in-class session".
 - [Learning gains in flipped classrooms are most likely attributable to active learning rather than the order of instructor facilitation](../claims/active-learning-not-flipping-drives-gains.md) [~W] — attached 2026-11-10 from Jensen Jamie L. et al. (2015), which proposed "Test flipped-classroom effectiveness against an active-learning control, not a lecture control"; tests this page's relationship.
+- [Graded pre-class flip-JiTT warm-up assignments achieved an 83.1% participation rate among 69 E&M students](../claims/flip-jitt-83-percent-participation.md) [+W] — attached 2026-11-17 from Nathaniel Lasry et al. (2012), which proposed "Flip-JiTT: a six-step pre-class warm-up sequence that extends Just-in-Time-Teaching into a flipped classroom".
+- [Students whose final exam scores declined relative to the midterm in the 1/2-lecture class preferred face-to-face lecture over group problem solving](../claims/declining-students-prefer-lecture.md) [~W] — attached 2026-11-17 from Heeseung Zoe et al. (2014), which proposed "Retain an appropriate proportion of face-to-face lecture in flipped classrooms rather than eliminating it entirely".
+- [A flipped redesigned introductory physics class achieved higher final exam scores than a traditional lecture-based class, with no midterm difference](../claims/flipped-class-outperforms-traditional-final-exam.md) [+W] — attached 2026-11-17 from Heeseung Zoe et al. (2014), which proposed "Three-part flipped course format: pre-class self-study materials, in-class summary lecture with group problem solving, post-class homework and recitation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

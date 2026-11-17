@@ -185,10 +185,12 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Collaborative Learning](collaborative-learning.md) — the general joint-work policy; co-writing a shared text belongs there
 
 ## Examples
+
 - Graduate seminar proposal reviews using a shared rubric.
 - Design teams critiquing prototypes before final presentation.
 - Writing classes using peer comments to guide draft revision.
 - [Calibrated Peer Review](../strategies/calibrated_peer_review.md) — learners rate calibration samples of known quality before reviewing peers' work and receiving reviews of their own.
+- [Peer assessment of student research presentations to teach assessment criteria](../strategies/peer-assessment-research-presentations.md)
 
 ## Key Sources
 - Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276. [https://doi.org/10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)

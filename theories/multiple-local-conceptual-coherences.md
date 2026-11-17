@@ -16,7 +16,7 @@ sources:
 # Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework holds that student understanding and behavior are variable yet exhibit stabilities local to moments and settings. The author introduces the term to "capture the notion that understanding and behavior are often quite variable, while still exhibiting stabilities that are local to moments and settings." Rather than treating change as the central problem, the framework explains locally coherent patterns of thinking through mechanisms that stabilize them, drawing on both knowledge-based (cuing and reliability of intuitive knowledge pieces) and participation-based (interactional behaviors, material affordances) accounts. It is applied to a case of college physics students' reasoning about tickertape representations of motion.
@@ -36,7 +36,8 @@ The framework holds that student understanding and behavior are variable yet exh
 - conceptual understanding of motion representations
 
 ### Claims
-- 
+
+- [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](../claims/epistemological-stance-shifts-with-contextual-cues.md) [+W] — attached 2026-11-17 from Gupta et al. (2011), which proposed "Epistemological variability: epistemologies as context-dependent local coherences of epistemological resources rather than globally robust beliefs".
 
 ## Related Theories
 

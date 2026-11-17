@@ -49,8 +49,10 @@ Studying interdisciplinary teams constructing a shared problem statement, Arthar
 - [Procedural resources and resource graphs: extending the resources framework to model epistemic actions in mathematical problem solving](procedural-resources-resource-graphs-integration.md)
 
 ## Examples
+
 - [Epistemic Games: Shared-Understanding Moves](../elements/epistemic-games-shared-understanding-moves.md) — the five named moves operationalized as a teachable/scaffoldable instructional element
 - [Epistemic Cognition](../principles/epistemic-cognition.md) — epistemic games' "knowledge validation" move is a team-level, interactional analogue to an individual learner's epistemic criteria for evaluating claims
+- [Structure estimation problem instruction around the six e-e-game moves of problematize through evaluation](../strategies/e-e-game-moves-instruction-strategy.md)
 
 ## Key Sources
 - Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. *Journal of the Learning Sciences, 33*(2), 405-442. [https://doi.org/10.1080/10508406.2024.2341390](https://doi.org/10.1080/10508406.2024.2341390)

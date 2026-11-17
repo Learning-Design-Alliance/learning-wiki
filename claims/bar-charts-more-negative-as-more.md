@@ -48,3 +48,5 @@ Interview data from the NEXUS/Physics course on a task similar to Phillip's. The
 - [For some students the vertical location metaphor makes thinking of bond potential energy as negative more intuitive than positive](location-metaphor-negative-bond-energy-intuitive.md) — reports the opposite
 - [A student avoided negative energy by taking absolute values, confusing zero-point translation with absolute value, a move that does not preserve conservation of energy](student-absolute-value-confusion-negative-energy.md) — related
 - [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — related
+- [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — related
+- [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — related

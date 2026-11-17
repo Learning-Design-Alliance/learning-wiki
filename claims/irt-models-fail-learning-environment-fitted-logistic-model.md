@@ -47,3 +47,4 @@ Statistical model fitting to tutor-web drill data shows the two-parameter Rasch 
 
 ## Related Claims
 - [Model-data fit evaluation in IRT is claimed to be crucial for both linear and adaptive tests because item response model goodness-of-fit is relevant to any test purpose](irt-model-fit-crucial-any-test-purpose.md) — a broader claim this one bears on
+- [IRT analysis showed the tutor-web item banks contained more easy than difficult questions](tutor-web-item-banks-skewed-easy.md) — related

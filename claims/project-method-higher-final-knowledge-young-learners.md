@@ -48,3 +48,4 @@ Experiment with parallel groups: three experimental and three control fourth-gra
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
 - [Project-method learners significantly outperformed control learners on the final test's reproduction-level questions](project-method-reproduction-level-final-test.md) — a narrower finding that bears on this claim
 - [Project-method learners significantly outperformed control learners on the final test's understanding-level questions](project-method-understanding-level-final-test.md) — a narrower finding that bears on this claim
+- [Interviewed students named the project's freedom as its exclusive feature and reported enhanced schedule-planning and communication skills](student-freedom-exclusive-project-feature.md) — related

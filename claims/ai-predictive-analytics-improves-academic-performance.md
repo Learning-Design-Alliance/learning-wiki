@@ -93,3 +93,4 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 - [Medical leads valued the ePortfolio as a way to systematically record and track students' progress and identify students needing remediation](eportfolio-tracked-student-progress-remediation.md) — related
 - [Perceived usefulness of early warning scoring systems employed during the training increased slightly post-course](early-warning-score-usefulness-increase.md) — related
 - [Rapid attendance data allowed early contact of absent students, described as vital for improving retention and progression](early-contact-of-absent-students-vital-for-retention.md) — related
+- [Early in the semester, first-attempt homework data yields the highest ability-estimate agreement found in the study (cosine similarity 0.72), supporting an early-warning system for learners-at-risk](early-semester-first-attempt-highest-agreement.md) — a narrower finding that bears on this claim

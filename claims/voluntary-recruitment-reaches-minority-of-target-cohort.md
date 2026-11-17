@@ -67,3 +67,4 @@ Recruitment analysis of the Spring 2015 lecture enrollment (550 students; 267 in
 ## Related Claims
 - [Focal students in a graduate student–led supplemental course improved relative to non-enrolled peers between exam 1 and exam 2, with no additional relative gains on subsequent exams](supplemental-course-focal-students-improve-exam1-to-exam2.md) — related
 - [Quality of outlines and concept maps rose on seven of nine metrics in Fall, while outline scores rose and concept map scores did not change in Spring, in single-group pre-post studies with no comparison groups](outline-concept-map-quality-gains-semester-dependent.md) — related
+- [Pre-MAP recruits a higher percentage of underrepresented minorities and an equal percentage of women compared to the incoming UW class (2005-2011)](premap-recruits-higher-urm-percentage.md) — related

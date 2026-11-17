@@ -52,3 +52,4 @@ Survey finding from the report's section on district responses: "9 out of 12" di
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
 - [Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs](few-sig-schools-staffing-strategies-ell-teacher-capacity.md) — related
+- [Federal STEM teacher projects such as 100K-10, PhysTEC and Uteach have shown considerable success in increasing physics teacher enrollment](stem-teacher-projects-increase-enrollment.md) — related

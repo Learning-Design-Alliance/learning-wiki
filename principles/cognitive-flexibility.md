@@ -43,7 +43,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 33 studies (12 causal, 6 theoretical, 4 review, 4 qualitative, 3 quant-synthesis, 3 design, 1 associational), `q1`–`q4` · 6 of 33 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 34 studies (12 causal, 6 theoretical, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 associational), `q1`–`q4` · 6 of 34 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ Claims read against the model above (2026-10-19) that are relevant but do not ch
 - [Perspective taking increases the creativity of dyadic interactions](../claims/perspective-taking-increases-dyad-creativity.md) [+W]
 - [One student (Pat) solved the Two Balls Problem with a shortcut that blended symbolic equations with conceptual reasoning about physical processes, without calculating final velocities](../claims/pat-blended-shortcut-two-balls.md) [+W] — attached 2026-11-16 from Kuo et al. (2013), which proposed "Treat opportunistic blending of conceptual and formal mathematical reasoning as part of problem-solving expertise and a feasible instructional target".
 - [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](../claims/modellus-multiple-representations-interpretation.md) [+W] — attached 2026-11-16 from Rui Gomes Neves et al. (2010), which proposed "Design computational modelling activities around cognitive conflicts, multiple representations, and analytic–numerical interplay"; tests this page's relationship.
+- [Coherence among graph, agent, and object perspectives enabled a student to computationally distinguish moving forward at constant speed from speeding up](../claims/perspective-coherence-speed-distance-time-coordination.md) [+W] — attached 2026-11-17 from Farris et al. (2014), which proposed "Use the agent perspective productively in agent-based modeling, but design for its negotiation with other perspectives".
+- [A student's shift from an extrinsic to an intrinsic, agent-based interpretation of a distance-time graph followed negotiation with his partner and facilitator prompting](../claims/extrinsic-to-intrinsic-graph-perspective-shift.md) [+W] — attached 2026-11-17 from Farris et al. (2014), which proposed "Use the agent perspective productively in agent-based modeling, but design for its negotiation with other perspectives".
 
 ## Objective and learner-valued goal
 

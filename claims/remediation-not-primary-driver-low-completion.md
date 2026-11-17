@@ -53,3 +53,4 @@ The article's headline conclusion, drawn from the SAILS and co-requisite analyse
 - [Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points](sails-boosted-college-level-math-enrollment-30-points.md) — related
 - [Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit](algebra-enrollment-effect-increased-credit-raised-failure.md) — related
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related
+- [Pre-MAP students placing into lower-level math courses complete STEM degrees at higher rates than their UW counterparts](premap-lower-math-placement-higher-stem-completion.md) — related

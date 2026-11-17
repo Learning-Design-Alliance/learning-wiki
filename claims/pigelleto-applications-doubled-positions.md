@@ -50,3 +50,4 @@ Conclusions section reporting program demand: applications "increased up to doub
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [A full-immersion summer school with a teacher stage was the authors' most successful orientation activity, benefiting young teachers' laboratory practice](summer-school-teacher-stage-effective-informal-training.md) — related
+- [The summer school shows growth indicators: school network, participation and applications increased](pigelleto-growth-indicators.md) — a broader claim this one bears on

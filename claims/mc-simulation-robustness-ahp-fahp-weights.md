@@ -71,3 +71,4 @@ Deterministic sensitivity analysis under ±10% to ±30% weight variation (Table 
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — related
 - [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — related
+- [Monte Carlo simulation applications favour statistics learning, especially among students who struggle with more classical methods (as reported by Weir et al., 2002)](monte-carlo-simulations-favour-statistics-learning.md) — related

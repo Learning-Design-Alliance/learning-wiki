@@ -50,3 +50,4 @@ Authors' interpretation in the Discussion of their pre-post study results, in wh
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — related
 - [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — a broader claim this one bears on
 - [Trainees' self-rated confidence in performing obstetric ultrasound examinations rose significantly from pre-test to post-test after the simulation course, in one uncontrolled pre-post study](obstetric-sim-confidence-gain.md) — related
+- [Pre/post survey shows significant knowledge gain after the bilayer lab session](bilayer-lab-significant-knowledge-gain.md) — related

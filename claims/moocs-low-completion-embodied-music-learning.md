@@ -73,3 +73,4 @@ A narrative discussion article with no systematic review method. In its discussi
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim
 - [Healthcare MOOCs reach massive, multinational audiences but suffer very high dropout rates, several exceeding 90%](mooc-healthcare-massive-audience-high-dropout.md) — a narrower finding that bears on this claim
 - [Learners typically prefer shorter lecture formats, but one study found no significant difference in knowledge acquisition and retention between 20-minute and 50-minute lectures](shorter-lectures-preferred-no-knowledge-difference.md) — related
+- [Software Carpentry's online MOOC-style offerings failed, with only 5-10% of starters finishing and most finishers already knowing the material](software-carpentry-mooc-low-completion.md) — a narrower finding that bears on this claim

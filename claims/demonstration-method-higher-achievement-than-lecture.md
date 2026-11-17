@@ -52,3 +52,4 @@ Quasi-experimental pre-test post-test control group study of 480 SSII students i
 - [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related
 - [Demonstration method was more effective than lecture method in learning economics concepts among secondary school students in Borno State](demonstration-more-effective-than-lecture-economics-borno.md) — related
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
+- [Student grades and course satisfaction were higher in the 2013 demonstration-rich course than in the conventionally taught 2011 course](demonstration-rich-course-grade-improvement-2013.md) — related

@@ -50,3 +50,4 @@ Descriptive and interaction analyses of first-cohort CCSPP schools found that sc
 - [Benefits of CCSPP community schools were largest for Black students, English learners, and socioeconomically disadvantaged students](ccspp-largest-benefits-underserved-students.md) — related
 - [CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning](ccspp-math-gains-0-point-06-sd.md) — related
 - [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related
+- [Learning gains were highest on the three simulations with the greatest class attendance, a pattern the authors attribute to non-random attendance rather than learning style](attendance-associated-with-gains-in-coupled-model.md) — related

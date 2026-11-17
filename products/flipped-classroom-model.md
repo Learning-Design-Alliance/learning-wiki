@@ -13,7 +13,7 @@ generated:
 # Flipped classroom model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A student-centered instructional framework that moves initial content exposure outside class and uses facilitated in-class time for collaborative application and higher-order learning.
@@ -28,6 +28,7 @@ A student-centered instructional framework that moves initial content exposure o
 ### Claims
 - [Nursing students taught with the flipped classroom model improved more in overall self-directed learning readiness than students taught with the conventional teaching method (p=0.030)](../claims/fcm-greater-sdlr-gain-than-ctm.md) [+M]
 - [Subscale SDLR differences between FCM and CTM groups were not statistically significant, with self-control the one subscale where the CTM group was at best](../claims/fcm-subscale-differences-nonsignificant-self-control.md) [~M]
+- [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](../claims/lectures-useful-when-students-prepared.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -36,4 +37,5 @@ A student-centered instructional framework that moves initial content exposure o
 - Chikeme Paulina Chigwara, Ihudiebube-Splendor Chikaodili Ndidiamaka, Ogbonnaya Ngozi Phoebe, Mbadugha Chisom Joy, Elodi Laurentia Onyinye. (2024). Flipped classroom model versus conventional teaching method: effects on nursing students’ self-directed learning readiness in a research methodology course. Pan African Medical Journal. https://doi.org/10.11604/pamj.2024.47.70.38359
 - Tolks D, Schäfer C, Raupach T, Kruse L, Sarikas A, Gerhardt-Szép S, Kllauer G, Lemos M, Fischer MR, Eichner B, Sostmann K, Hege I. (2016). An Introduction to the Inverted/Flipped Classroom Model in Education and Advanced Training in Medicine and in the Healthcare Professions. GMS Journal for Medical Education. http://www.egms.de/en/journals/zma/2016-33/zma001045.shtml
 - Galway Lindsay P, Corbett Kitty K, Takaro Timothy K, Tairyan Kate, Frank Erica. (2014). A novel integration of online and flipped classroom instructional models in public health higher education. BMC Medical Education. https://doi.org/10.1186/1472-6920-14-181
-- Braun, I., Metzger, G., Ritter, S., Vasko, M., & Voss, H.-P. (2012). Inverted Classroom an der Hochschule Karlsruhe - ein nicht quantisierter Flip. In J. Handke & A. Sperl (Hrsg.), Das Inverted Classroom Model: Begleitband zur ersten deutschen ICM-Konferenz. Oldenbourg Verlag. http://www.e-learning.tu-darmstadt.de/openlearnware/lehrmaterial_in_olw/fachforumelearning/fachforum_2012.de.jsp
+- Braun, I., Metzger, G., Ritter, S., Vasko, M., & Voss, H.-P. (2012). Inverted Classroom an der Hochschule Karlsruhe - ein nicht quantisierter Flip. In J. Handke & A. Sperl (Hrsg.), Das Inverted Classroom Model: Begleitband zur ersten deutschen ICM-Konferenz. Oldenbourg Verlag. http://www.e-learning.tu-darmstadt.de/openlearnware/lehrmaterial_in_olw/fachforumelearning/fachforum_2012.de.jsp. [doi:10.48550/arxiv.1209.4451](https://doi.org/10.48550/arxiv.1209.4451)
+- Nathaniel Lasry, Michael Dugdale & Elizabeth Charles. (2012). Just in Time to Flip Your Classroom. https://www.flippedlearning.org

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 recheck_by: 2015
 sources:
   - id: alejandro-gangui-2010
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A questionnaire administered to preservice elementary teachers in Buenos Aires shows that some non-scientific conceptions are part of their scientific background. [→ Alejandro Gangui 2010](#alejandro-gangui-2010)
@@ -53,3 +54,4 @@ First analysis of a twelve-question astronomy questionnaire given to preservice 
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — a narrower finding that bears on this claim
 - [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related
 - [General-education astronomy students hold widespread misconceptions about the size, structure and age of the Universe before instruction](ge-students-cosmology-misconceptions-scale-age.md) — related
+- [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — a narrower finding that bears on this claim

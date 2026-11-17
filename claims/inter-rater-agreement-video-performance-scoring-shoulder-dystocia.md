@@ -58,3 +58,4 @@ Reliability analysis of blinded dual-rater scoring in the 17-case video review, 
 - [Inter-rater reliability between novice and expert TEAM raters is moderate (ICC = 0.66), with consistent identification of best- and worst-performing teams in 75% of cases](novice-expert-icc-moderate-agreement.md) — related
 - [Blinded evaluators showed significant inter-rater correlation on the Task Specific Evaluation but not on the Global Evaluation of Mastoidectomy](inter-rater-reliability-task-specific-significant-global-not.md) — a narrower finding that bears on this claim
 - [Overconfidence was not observed in this cohort, though the questionnaire for it showed poor reliability](overconfidence-not-observed-poor-reliability.md) — related
+- [Technical quality of student physics videos correlates with the exactness of the physics discussed](technical-quality-correlates-with-physics-correctness.md) — related

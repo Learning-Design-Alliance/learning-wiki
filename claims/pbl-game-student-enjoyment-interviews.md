@@ -69,3 +69,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Most students who completed the RTR lab found it interesting and wanted more simulations in their studies](rtr-student-attitudes-interest.md) — related
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
+- [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related

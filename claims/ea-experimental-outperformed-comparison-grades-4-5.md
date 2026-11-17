@@ -89,3 +89,4 @@ Mann-Whitney U-test comparing 22 experimental 5th graders with 24 comparison stu
 - [Experimental early algebra students' assessment scores rose significantly from 3rd to 4th grade but not from 4th to 5th grade, while comparison students' scores did not change significantly across grades](ea-scores-rose-grade3-to-4-not-4-to-5.md) — related
 - [Third graders found assessment items involving inequalities and graphs most challenging, with items T13A and T13B the only items on which 3rd graders scored zero points](ea-third-graders-inequalities-graphs-hardest.md) — related
 - [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — related
+- [Third and fourth graders participated productively in an engineering design process centered on user-centered design and collaboration](claim-elementary-students-engineering-participation.md) — related

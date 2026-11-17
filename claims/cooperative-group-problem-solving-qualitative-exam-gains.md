@@ -51,3 +51,4 @@ The review reports, citing Foster (2000), that students taught with context-rich
 - [Students in traditional-instruction courses scored higher on quantitative problems than students in courses emphasizing conceptual learning](traditional-courses-higher-quantitative-problem-scores.md) — related
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [CPS classes scored higher on conceptual questions than traditional classes, significantly at schools A and B](cps-conceptual-questions-advantage.md) — related
+- [Emphasizing scientific modeling as a shared practice helps students achieve an integrated understanding across physics and biology](modeling-shared-practice-bridges-physics-biology.md) — related

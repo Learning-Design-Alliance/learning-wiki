@@ -47,3 +47,5 @@ CURrENT Q4 results (transforming a curl equation to integral form via Stokes' th
 
 ## Related Claims
 - [CU SP12 E&M II students scored significantly higher than Institution X students on CURrENT Q3, Q4, and total score](cu-sp12-higher-current-scores-q3-q4-total.md) — related
+- [Upper-division electrodynamics students show recurring difficulties with Maxwell equations, conservation-law interpretation, boundary conditions, complex exponentials, and plane-wave vectors](advanced-em-student-difficulties-themes.md) — related
+- [Learning outcomes measured by the CURrENT assessment differed between SP12 and FA12, but the data are tentative pending validation](current-assessment-tentative-semester-differences.md) — related

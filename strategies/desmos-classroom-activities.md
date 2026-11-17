@@ -58,9 +58,11 @@ The strategy's core mechanism is making student thinking collectively visible: b
 5. Consolidate: connect the activity's informal language to formal notation, and follow with independent [practice](../elements/practice.md) or an [assessment](../elements/assessment.md) screen to check transfer.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the pause-and-discuss moments within an activity enact the same structure
 - [Peer Instruction](peer-instruction.md) — dashboard-revealed response distributions serve the same function as clicker votes
 - [Worked Examples](worked-examples-first.md) — some Desmos screens present annotated solutions before student attempts
+- [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
 
 ## Examples
 - **[Polygraph: Parabolas](https://teacher.desmos.com/polygraph)** — a paired guessing game where students ask questions to identify a graph, forcing precise vocabulary use; the teacher dashboard reveals which vocabulary gaps block progress.

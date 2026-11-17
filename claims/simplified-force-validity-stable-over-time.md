@@ -48,3 +48,4 @@ Numerical pattern shown in Fig. 1: coefficients from MLMs run separately for par
 ## Related Claims
 - [Simplified force model (expectancy × valence, no instrumentality) predicts grades and adds incremental validity beyond cognitive ability](simplified-force-model-predicts-grades-incremental-validity.md) — related
 - [Valence and the simplified force model also predict current study effort](valence-simplified-force-predict-effort.md) — related
+- [Specific items show stable, interpretable associations with course outcomes across years, e.g. a basic quotient-of-powers item and an advanced piecewise-function item](per-item-worked-examples-stable-across-years.md) — related

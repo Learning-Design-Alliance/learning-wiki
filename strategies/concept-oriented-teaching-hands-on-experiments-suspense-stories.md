@@ -57,6 +57,7 @@ The article recommends that, since misconceptions are seemingly founded on false
 - [Elicit student misconceptions, create situations that challenge them, and emphasize conceptual frameworks rather than isolated facts](elicit-and-challenge-misconceptions-strategy.md)
 - [Confront students directly with their alternative conceptions using student-centred, hands-on experiences or concept cartoons in real-world contexts](confront-alternative-conceptions-hands-on-concept-cartoons.md)
 - [Use historic experiments on movement, repeated hands-on by students, to induce conceptual change](historic-experiments-hands-on-concept-change.md)
+- [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
 
 ## Examples
 -

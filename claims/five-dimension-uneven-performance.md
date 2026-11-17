@@ -51,3 +51,4 @@ Descriptive bar-graph analysis (Figure 6) of studio art production scores mapped
 - [LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies](dimension-specific-scoring-reasoning-strongest-terminology-weakest.md) — related
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Distractor quality is the weakest automated dimension, with the lowest success rate (79.9%) and highest failure rate (15.6%)](code-gen-distractor-quality-weakest-dimension.md) — related
+- [No class performed well on the graph-interpretation and data-analysis problem; this was the one problem where inquiry-based students did not do as well](graph-interpretation-weak-across-all-classes.md) — related

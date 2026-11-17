@@ -53,6 +53,7 @@ This strategy operationalizes disciplinary authenticity in course materials: rat
 - [Interdisciplinary Activities](interdisciplinary_activities.md)
 - [Integrating physics and mathematics into biology courses requires cross-disciplinary collaboration and attention to student epistemologies](cross-disciplinary-collaboration-biology-physics-integration.md)
 - [Interdisciplinary physics-mathematics modeling workshop for teachers designing interdisciplinary learning paths](interdisciplinary-modeling-teacher-workshop.md)
+- [Use interdisciplinary problem-solving tasks that apply physical energy models to biological scenarios](interdisciplinary-energy-tasks-biological-scenarios.md)
 
 ## Examples
 -

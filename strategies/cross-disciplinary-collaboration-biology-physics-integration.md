@@ -52,6 +52,8 @@ The article recommends that efforts to integrate physics and mathematics into bi
 - [Evaluate integrated physics-biology curricula with assessments of cross-domain energy integration](assess-cross-domain-energy-integration-in-curriculum-evaluation.md)
 - [Design interdisciplinary exam and homework questions that ask students to use physics and mathematics for biological ends, such as explaining organismal structure, function, and diversity](biology-authentic-question-design-strategy.md)
 - [Negotiate interdisciplinary problems jointly, seeking both physical validity and biological authenticity, and make modeling assumptions explicit.](negotiated-problem-design-physical-validity-biological-authenticity.md)
+- [Use interdisciplinary problem-solving tasks that apply physical energy models to biological scenarios](interdisciplinary-energy-tasks-biological-scenarios.md)
+- [Interdisciplinary task-design guidelines: respect disciplinary differences in language, identify cross-disciplinary reasoning similarities, and engage students in seeking coherence across apparently contradictory disciplinary ideas](interdisciplinary-task-design-guidelines-strategy.md)
 
 ## Examples
 -

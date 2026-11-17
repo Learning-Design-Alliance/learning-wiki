@@ -58,3 +58,5 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
 - [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related
 - [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related
+- [Constructed-response questions discriminate slightly better between stronger and weaker students than integrated testlets](cr-more-discriminating-than-it.md) — related
+- [Integrated testlet and constructed-response scores correlate more closely with each other than ITs correlate among themselves, suggesting the formats measure the same construct](it-cr-measure-same-construct.md) — related

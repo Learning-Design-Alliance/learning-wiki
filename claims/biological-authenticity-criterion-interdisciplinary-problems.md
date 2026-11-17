@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors define and adopt biological authenticity as a selection criterion: a physics problem in a biological context is valuable when solving it gives students a deeper understanding of the biological system's behavior. [→ Edward F. Redish and Todd J. Cooke 2012](#edward-f-redish-and-todd-j-cooke-2012)

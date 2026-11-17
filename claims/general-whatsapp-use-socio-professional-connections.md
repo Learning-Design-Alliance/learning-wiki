@@ -58,3 +58,4 @@ Correlational analysis across both conditions of the survey study. The article r
 - [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related
 - [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — related
 - [WhatsApp use during clinical placements was positively associated with professional identity and placement satisfaction but negatively associated with feelings of professional isolation](whatsapp-placement-correlates.md) — a narrower finding that bears on this claim
+- [Students transferred course knowledge to later coursework, theses, internships, graduate programs, and jobs, including continued use of R/Rcmdr](knowledge-transfer-beyond-course.md) — related

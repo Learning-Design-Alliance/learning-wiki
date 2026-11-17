@@ -10,6 +10,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: caballero-2012
     resource: "https://doi.org/10.1103/physrevstper.8.020106"
@@ -41,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`–`q3`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 
@@ -98,3 +99,4 @@ Proctored final-lab evaluation in a large introductory mechanics course, deliver
 - [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related
 - [Final project performance was on par with homework and exam grades, with students strongest on physics, model, and working code and weakest on evaluating outcomes and synthesis](final-project-rubric-performance-pattern.md) — related
 - [Roughly a third of 9th-grade Modeling Instruction students successfully complete an unaided VPython computational model of a baseball in motion](third-of-ninth-graders-succeed-vpython-proctored-model.md) — related
+- [Involving introductory-course students in research activities with small assistantships and conference travel recruited new physics majors at a stated 10-20 percent success rate over eight years](research-involvement-recruits-physics-majors.md) — related

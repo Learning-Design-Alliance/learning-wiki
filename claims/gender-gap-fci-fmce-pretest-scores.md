@@ -1,0 +1,91 @@
+---
+type: claim
+title: "Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap."
+description: "Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap."
+id: gender-gap-fci-fmce-pretest-scores
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-17
+evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
+sources:
+  - id: madsen-2016
+    resource: "https://doi.org/10.1119/1.5011826"
+    title: "Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)"
+    author: Madsen, McKagan, and Sayre
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: madsen-2016-2
+    resource: "https://doi.org/10.1119/1.5011826"
+    title: "Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)"
+    author: Madsen, McKagan, and Sayre
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: madsen-2016-3
+    resource: "https://doi.org/10.1119/1.5011826"
+    title: "Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)"
+    author: Madsen, McKagan, and Sayre
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
+---
+
+# Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
+
+## Subclaims
+`q2 i?` Across nine studies of FCI and FMCE scores, men's average pretest scores were always higher than women's, and men's posttest scores and normalized gains were higher in most cases. [→ Madsen 2016](#madsen-2016)
+`q2 i?` Of 30 factors investigated, no single factor was sufficient to explain the gender gap, which the authors attribute to many small systematic biases combined. [→ Madsen 2016 (2)](#madsen-2016-2)
+`q2 i?` Gender gaps on the BEMA and CSEM are usually much smaller and sometimes zero or favor women. [→ Madsen 2016 (3)](#madsen-2016-3)
+
+## Evidence
+
+### Madsen 2016
+
+Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)
+
+`q2 · i?` · `review · r2`
+
+The authors' analysis of 9 studies of FCI and FMCE scores found "men’s average pretest scores are always higher than women’s", with posttest and normalized-gain differences higher for men in most cases.
+
+> "we found that men’s average pretest scores are always higher than women’s, and in most cases men’s posttest scores and normalized gains are higher as well."
+
+### Madsen 2016 (2)
+
+Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)
+
+`q2 · i?` · `review · r2`
+
+In the same analysis of 30 candidate factors, the authors found factors contributing to male-female response differences but each smaller than the overall gap, "suggesting that the gender gap is most likely due to the combination of many small factors".
+
+> "We also investigated 30 factors that might explain this gender gap, and found that no single factor is sufficient to explain the gap."
+
+### Madsen 2016 (3)
+
+Madsen, McKagan, and Sayre. (2016). Best Practices for Administering Concept Inventories. American Association of Physics Teachers, College Park, MD. [doi:10.1119/1.5011826](https://doi.org/10.1119/1.5011826)
+
+`q2 · i?` · `review · r1`
+
+The same analysis reports the gender pattern is instrument-dependent: on the BEMA and CSEM the gap is "usually much smaller" and sometimes zero or favoring women, a scope limit on the FCI/FMCE finding.
+
+> "There is sometimes a similar gender gap on the BEMA and CSEM, but it is usually much smaller and sometimes is zero or favors women."
+
+## Discussion
+
+
+## Related Claims
+- [Mechanics concept inventory pretest gender gaps always favor men, ranging from 8.2% to 18.7% with a weighted average of 13.0%](mechanics-pretest-gender-gap-weighted-average.md) — a narrower finding that bears on this claim
+- [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related
+- [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related
+- [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
+- [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](background-preparation-accounts-substantial-portion-gap.md) — related

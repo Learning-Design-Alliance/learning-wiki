@@ -54,4 +54,4 @@ In the sewing context, the anthropomorphic condition presented "a video of a hum
 -
 
 ## Key Sources
-- Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. https://arxiv.org/abs/1208.3323
+- Murano, P. & Sethi, T. (2011). Anthropomorphic User Interface Feedback in a Sewing Context and Affordances. International Journal of Advanced Computer Science and Applications, Vol. 2, No. 4. https://arxiv.org/abs/1208.3323. [doi:10.48550/arxiv.1208.3323](https://doi.org/10.48550/arxiv.1208.3323)

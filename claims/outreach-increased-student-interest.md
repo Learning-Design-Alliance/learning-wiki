@@ -48,3 +48,4 @@ Authors' informal evaluation (Section V) drawing on discussions and survey forms
 - [Interactivity is the strongest predictor of module success in network-science outreach sessions for teenagers](interactivity-predicts-outreach-module-success.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
 - [Teenagers learn key network-science material quickly, requiring impromptu extension activities in outreach sessions](students-learn-network-material-quickly.md) — related
+- [Adapted network-science outreach activities for Spanish teenagers succeeded in transmitting basic network-science concepts, with student poll responses all A or B](outreach-network-science-transmitted-concepts.md) — related

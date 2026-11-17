@@ -1,0 +1,52 @@
+---
+type: claim
+title: In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)
+description: In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)
+id: correct-choice-incorrect-explanation-common-in-fr-formats
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-17
+evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
+sources:
+  - id: beth-thacker-2012
+    resource: "https://doi.org/10.48550/arXiv.1312.6004"
+    title: "Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2012). The Effect of Problem Format on Students' Responses. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)"
+    author: Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+
+## Subclaims
+`q2 i?` For the calculus-based course on Problem A, the percentage of students choosing correctly but explaining incorrectly (CI) ranged from about 25–60% in part (a) and around 60–70% in part (b) in FR formats. [→ Beth Thacker 2012](#beth-thacker-2012)
+
+## Evidence
+
+### Beth Thacker 2012
+
+Beth Thacker, Ganesh Chapagain, David Pattillo, Keith West. (2012). The Effect of Problem Format on Students' Responses. [doi:10.48550/arXiv.1312.6004](https://doi.org/10.48550/arXiv.1312.6004)
+
+`q2 · i?` · `causal · r2`
+
+Results section, Problem A numerical analysis for the calculus-based course across six administered formats. The article reports the CI percentage ranges verbatim: "about 25 – 60% in part (a)" and "around 60 – 70% in part (b)". No effect size or significance test is printed.
+
+> "The most striking feature, however, in the FR formats is the number of students who can choose the correct answer, but not correctly explain their reasoning or show their calculations (CI). This ranges from about 25 – 60% in part (a) and is around 60 – 70% in part (b)."
+
+## Discussion
+
+
+## Related Claims
+- [Algebra-based students show the same pattern: a significant drop in completely correct answers and high CI percentages in FR format](algebra-based-similar-ci-pattern.md) — possibly the same claim (merge candidate)
+- [CI responses decreased dramatically when the quiz used a Ranking Task problem requiring explicit ranking, and the straight-calculation version also showed no significant percentage of CI answers](explicit-ranking-task-reduces-ci-responses.md) — related
+- [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — a broader claim this one bears on
+- [Students perceive show-your-work and short-answer formats as giving instructors the most information about their understanding (95%), though they find them harder than MC](students-perceive-written-formats-most-informative.md) — related

@@ -51,3 +51,4 @@ Sub-analysis of the same 222-student, five-semester FCI pretest/post-test compar
 - [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related
 - [Students from the reformed mechanics class showed both higher accuracy and greater intuitive reconciliation of Newton's third law answers than traditionally taught peers](split-task-reformed-vs-traditional-reconciliation.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
+- [Interactive sections significantly outperformed traditional sections on the four FCI Newton's Third Law questions (Cohen's D = 0.583), while the entire-FCI normalized gain difference was not statistically significant](ils-fci-newtons-third-law-gain-french-mechanics.md) — related

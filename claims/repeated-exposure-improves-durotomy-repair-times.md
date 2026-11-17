@@ -62,3 +62,4 @@ Paired t tests compared first versus last attempt times within groups. "For firs
 - [iVR training immediately preceded successful real-operative SCFE revision by a PGY-5 trainee, the first reported direct patient care after iVR](ivr-to-or-immediate-skill-transfer-case.md) — related
 - [All participants improve on a second attempt, with students showing greater improvement on the simplest task](labot-second-attempt-improvement-learning-curve.md) — related
 - [Task time did not decrease after TaTME training, unlike in earlier conventional laparoscopic training studies](no-task-time-reduction-tatme-training.md) — reports the opposite
+- [First-time students took about 9 minutes to complete iCARE, and completion time dropped to 3–5 minutes with repeated weekly use](icare-completion-time-drops-with-reuse.md) — a narrower finding that bears on this claim

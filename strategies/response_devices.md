@@ -65,6 +65,7 @@ Response devices convert passive audiences into active respondents and give inst
 - [Formative Assessment](formative-assessment-cycles.md) — response devices are one instrument for enacting it
 - [Combine anonymous clicker questions with small-group discussion of conceptual questions](cps-anonymity-group-discussion-strategy.md)
 - [Use an anonymous audience response system to activate students who hesitate to answer questions publicly](anonymous-ars-activate-hesitant-students.md)
+- [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each question is a retrieval practice opportunity

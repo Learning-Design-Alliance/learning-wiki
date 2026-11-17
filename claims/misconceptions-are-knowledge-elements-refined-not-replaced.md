@@ -55,3 +55,4 @@ The contrasting position is that children's ideas form coherent mental models co
 - [The idea of discreteness is a fundamental presupposition that constrains students' understanding of the density of rational numbers](discreteness-presupposition-constrains-density-understanding.md) — related
 - [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related
 - [A particle mental model of sound propagation is stable, coherent and widely applicable at all educational levels](sound-particle-mental-model.md) — a narrower finding that bears on this claim
+- [The replacement requirement of elicit-confront-resolve is problematic for interdisciplinary conflicts in which neither conflicting idea is more correct than the other](ecr-replacement-problematic-interdisciplinary.md) — a narrower finding that bears on this claim
