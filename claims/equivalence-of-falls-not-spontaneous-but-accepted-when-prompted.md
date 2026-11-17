@@ -71,3 +71,4 @@ A posteriori analysis of the recorded debate. When the teacher explicitly asked 
 - [Nearly all students correctly predict a stone dropped from a tower falls at its base, and only one student spontaneously reasons about the Earth's rotation](tower-drop-predicted-at-base.md) — related
 - [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related
 - [When told increase is correct, most students (65%) supply valuable reasoning to justify it, including formal and informal reasoning, though only 8% spontaneously endorse it](students-justify-increase-when-given-correct.md) — a narrower finding that bears on this claim
+- [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related

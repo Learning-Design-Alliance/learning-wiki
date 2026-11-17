@@ -54,3 +54,4 @@ Analysis of FCI normalized gains plotted against IELTS overall score (Fig. 4, bo
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
 - [Overall TOEFL score shows very low correlation with FCI performance, but reading ability correlates an order of magnitude more strongly](toefl-reading-ability-fci-correlation.md) — related
+- [A fixed raw or Hake gain corresponds to different proficiency progressions depending on students' initial pre-test score](fixed-gain-different-proficiency-progressions.md) — related

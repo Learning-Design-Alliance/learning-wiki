@@ -49,3 +49,5 @@ Secondary analysis within the same split-class CMR/FR comparison (N=45 CMR): res
 - [CMR CUE scores show criterion validity comparable to the FR version](cmr-cue-criterion-validity.md) — related
 - [CMR and FR versions of the CUE yield the same average score under a nuanced grading rubric](cmr-fr-cue-equal-average-scores.md) — related
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
+- [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
+- [On CMR CUE Q5, 42% of students selected Gauss's Law, and most of those (89%) selected reasoning elements indicating they misapplied Gauss's law by ignoring the cavity's asymmetry](students-misapply-gausss-law-off-center-cavity-q5.md) — related

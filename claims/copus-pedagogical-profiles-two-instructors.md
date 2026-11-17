@@ -50,3 +50,4 @@ COPUS analysis of nine video-recorded class periods per instructor, coded by two
 - [Using clickers alone does not significantly change the percentage of class time spent on instructor lecturing or student listening.](clickers-alone-no-lecture-time-change.md) — related
 - [Campus-wide clicker use falls into three predominant modes: Peer Discussion, Individual Thinking, and Alternative Collaboration.](three-modes-of-clicker-use.md) — related
 - [Groups differ in how they frame tutorials: one group favored discussion while another favored worksheet completion](groups-vary-in-tutorial-framing.md) — related
+- [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related

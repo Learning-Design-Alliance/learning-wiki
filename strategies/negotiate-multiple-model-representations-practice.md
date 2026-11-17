@@ -48,7 +48,8 @@ The article recommends that instructors align models with their representations 
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](../claims/verbal-protocol-representation-reference-frequencies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Give students multiple opportunities to recognize, recall, and generate translations between representations using research-based learning tools](multiple-opportunities-generate-translation-representations.md)
 
 ## Examples
 -

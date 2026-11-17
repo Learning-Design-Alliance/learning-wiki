@@ -51,6 +51,7 @@ The article recommends having a human operate the demonstration during public ev
 - [Exhibition Of Learning](exhibition-of-learning.md)
 - [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
+- [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
 
 ## Examples
 -

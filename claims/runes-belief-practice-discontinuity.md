@@ -49,3 +49,4 @@ Survey of the Runes Department: 31 of 34 faculty responded (91% response rate). 
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Senior faculty influence, limited institutional technology support, variable trainee competence, and time constraints are perceived barriers to adopting preferred teaching styles](barriers-to-teaching-style-change.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
+- [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — a broader claim this one bears on

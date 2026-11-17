@@ -49,3 +49,4 @@ In-class trials of the Interferometer Experiments simulation in 50-minute worksh
 - [Different colors in the two superposition components led five of nine students to interpret Visualization IV as two half-energy photons](distinct-colors-suggest-half-energy-photons.md) — related
 - [Revising the simulation to display each input particle's state helped students distinguish mixed states from superposition states](iterative-revision-mixed-state-display.md) — related
 - [Among four revised photon depictions, Visualization III most often suggested productive ideas about superposition and was chosen least often for incorrect statements](visualization-iii-most-productive-superposition-interviews.md) — related
+- [Students hold the incorrect model that BS1 splits a photon into two half-energy photons, and this difficulty was reduced after the QuILT (39% to 17% on Q2)](mzi-quilt-photon-splitting-difficulty-reduced.md) — related

@@ -51,3 +51,4 @@ Quasi-experimental within-subject DiD analysis of 635 students in grades 5-8 com
 - [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
 - [Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)](human-ai-tutoring-skill-proficiency-gap-widens.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
+- [Principal strata proportions: more than 61% never-applicants, more than 32% always-applicants, less than 6.5% compliant-applicants](principal-strata-proportions-italian-grants.md) — related

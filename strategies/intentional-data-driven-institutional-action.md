@@ -42,6 +42,7 @@ The brief argues that closing gaps "takes deliberate action from institutions," 
 - [Universities can support CPS graduate retention through deliberate support strategies such as scholarships, test-free admission, billing and hold policy changes, and tutoring](deliberate-university-support-strategies-cps-graduates.md)
 - [Ohio State's three-pronged approach: early college pipeline, continuous on-campus support, and national best-practice hub](ohio-state-three-pronged-black-student-support.md)
 - [Foster a culture of success with mandatory orientation, gateway-course registration, and full-credit loads](culture-of-success-sdsu-practices.md)
+- [Plan institutional interventions to reduce the out-of-course rate in first-cycle programmes](reduce-out-of-course-rate-interventions.md)
 
 ## Examples
 -

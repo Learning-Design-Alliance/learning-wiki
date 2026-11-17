@@ -53,6 +53,7 @@ The authors advocate that networks researchers (and scientists generally) engage
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 - [Adapt and reuse existing outreach material, tailoring session length and topic selection to the audience](adapt-reuse-outreach-material-tailored.md)
 - [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
+- [Design outreach experiments to be easily repeatable so teachers can incorporate them into their own lessons, and keep teachers central to the activities](repeatable-experiments-teachers-central-outreach.md)
 
 ## Examples
 -

@@ -93,3 +93,4 @@ The commentary reports, citing Pouta et al. in the Special Issue, a mobile eye t
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
 - [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related
 - [The expert leader established eye contact with team members more frequently during direct orders](fpa-expert-eye-contact-during-direct-orders.md) — related
+- [Graduate students' inconsistent reasoning on quantum formalism mirrors Siegler's finding that children in an intermediate expertise state apply control of variables correctly on some tasks but not others](intermediate-expertise-inconsistency-analogy-siegler.md) — related

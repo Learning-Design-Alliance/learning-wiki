@@ -67,3 +67,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](social-robotic-vp-technical-and-user-related-limitations.md) — a narrower finding that bears on this claim
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
 - [Internet connectivity and electricity problems were the most frequently reported technical barrier, affecting 82% of first-time online learners](connectivity-electricity-top-barrier-82-percent.md) — related
+- [Many teachers encounter difficulties adapting or creating OSP simulations, citing lack of programming skills and time](osp-adoption-barriers-programming-time.md) — related

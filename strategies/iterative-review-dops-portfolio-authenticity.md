@@ -51,6 +51,7 @@ A strategy for work-based and portfolio assessment in which trainers demonstrate
 - [Portfolios](portfolios.md)
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Iteratively improve pre-session homework by adding explanations of thesaurus structure and revising assessments based on demonstrated student difficulties](iterative-improvement-pre-session-materials.md)
+- [Use technology platforms such as Blogger as self-directed portfolio systems for personalized performance tasks](blogger-self-directed-portfolio-system.md)
 
 ## Examples
 -

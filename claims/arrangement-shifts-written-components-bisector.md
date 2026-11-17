@@ -56,3 +56,4 @@ Analysis of written explanations from the same UMaine algebra-based administrati
 - [A question combining a head-to-head arrangement with a grid prompted two students to discuss vector components and consider changing methods](head-to-head-plus-grid-cue-prompts-components-reasoning.md) — related
 - [The only student who changed methods switched from bisector to head-to-tail and attributed the switch to recall of the classroom-taught method](student-h-switched-methods-citing-classroom-method.md) — related
 - [Students tend to choose one vector addition solution method and apply it across different representations of the question](students-stick-to-one-vector-addition-method-across-representations.md) — related
+- [Parallel transport features (Tails and Separation) have little impact on cross product problems unlike vector addition and subtraction](parallel-transport-little-impact-cross-products.md) — related

@@ -70,6 +70,7 @@ Metacognitive awareness — knowledge of one's own thinking — is trainable, an
 - [Action planning](action_planning.md) — the planning-phase output of a reflective journal
 - [Check-ins](../principles/check-ins.md) — brief, frequent monitoring moments that complement longer reflective entries
 - [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
+- [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 
 ## Examples
 - **[Exam wrappers](exam-wrappers.md)** (Carnegie Mellon Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — post-exam forms asking what students predicted, how they studied, and what they will change next time

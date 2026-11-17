@@ -48,3 +48,4 @@ Google Analytics maintenance measure from February 24 to June 22, 2022, counting
 - [All three Malaysian universities adopted RLOs across medicine, nursing, pharmacy, and biomedical science curricula](all-three-universities-adopted-rlos.md) — related
 - [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related
 - [Open-access RLOs reached 7622 users from 48 countries, with 89.4% of users from Malaysia](rlos-reach-7622-users-48-countries.md) — related
+- [The project blogsite was visited more than 2500 times from 32 countries in its first seven months](blog-2500-visits-32-countries-seven-months.md) — related

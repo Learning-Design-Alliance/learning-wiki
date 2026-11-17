@@ -49,3 +49,4 @@ Self-reported teaching practices measured with Section 3 of the TPI and compared
 - [Expert active-learning instructors notice planning for topic-specific student difficulties significantly more often than novices](experts-notice-topic-specific-difficulties.md) — related
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
 - [Expert active-learning instructors notice how instructors hold students accountable significantly more often than novices do](experts-notice-student-accountability-more.md) — related
+- [Novices A and B continued using evidence-based techniques when later teaching course 1 individually](novices-retained-rbis-teaching-individually.md) — related

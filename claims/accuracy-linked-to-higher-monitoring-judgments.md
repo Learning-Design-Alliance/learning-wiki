@@ -51,3 +51,4 @@ Independent-samples t-tests comparing monitoring judgments of accurate vs. inacc
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
 - [Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems](math-self-efficacy-predicts-monitoring-judgments.md) — related
+- [Students answering quantitative questions incorrectly are often confident: 44% report being confident or very confident in wrong answers](confident-when-answering-incorrectly.md) — related

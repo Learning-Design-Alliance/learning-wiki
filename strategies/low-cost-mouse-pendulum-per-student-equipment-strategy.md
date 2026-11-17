@@ -45,6 +45,7 @@ A budget strategy for physics laboratory courses: instead of expensive commercia
 
 - [Use apparatus construction itself as a classroom exercise for discussing practical experimental considerations](build-apparatus-as-classroom-exercise-strategy.md)
 - [Use a computer-controlled pendulum as a teaching tool spanning simple harmonic motion to chaos](computer-controlled-pendulum-teaching-strategy.md)
+- [Wooden-dowel physical model for making the shower front plane tangible](wooden-dowel-shower-front-model-strategy.md)
 
 ## Examples
 -

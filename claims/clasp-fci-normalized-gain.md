@@ -74,3 +74,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
+- [Students with the top grade in Mechanics and Thermodynamics showed a high gain (0.28), and students reporting much better understanding trended above average (0.24, not significant)](high-prior-graders-high-gain-gamified.md) — related

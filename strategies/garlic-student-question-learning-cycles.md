@@ -47,6 +47,7 @@ Beyond the core problem, the article recommends letting student questions extend
 ## Related Strategies
 
 - [Give each student a physical garlic bulb and about 20 minutes to measure it and work the planting problems, then pool measurements on a class whiteboard](garlic-bulb-hands-on-measurement-strategy.md)
+- [Prediction-experiment-comparison (PEC) cycle built cooperatively with simulation software and the interactive whiteboard](pec-prediction-experiment-comparison-cycle.md)
 
 ## Examples
 -

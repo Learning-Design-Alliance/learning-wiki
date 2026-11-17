@@ -58,3 +58,4 @@ The study is the standard citation for the view that children's misconceptions a
 - [Students can hold contradictory patterns of association simultaneously when no motivation, logic, or experimental evidence forces a choice](contradictory-patterns-held-simultaneously.md) — related
 - [A particle mental model of sound propagation is stable, coherent and widely applicable at all educational levels](sound-particle-mental-model.md) — a narrower finding that bears on this claim
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) — a narrower finding that bears on this claim
+- [Large fractions of middle school students hold incorrect views about sizes and distances in the universe both before and after instruction](niaq-size-distance-misconceptions.md) — related

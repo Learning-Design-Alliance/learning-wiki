@@ -46,6 +46,7 @@ The article recommends creating professional development opportunities for in-se
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Strengthen all facets of teachers' SRL knowledge through sustained, theory-informed professional development](sustained-pd-for-all-tk-srl-facets.md)
 - [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
+- [Distribute stimulating teaching and learning tasks coupled with real equipment through professional development workshops for teachers](stimulating-tasks-with-real-equipment-distribution.md)
 
 ## Examples
 -

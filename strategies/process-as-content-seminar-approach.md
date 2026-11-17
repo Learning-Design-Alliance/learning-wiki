@@ -40,6 +40,7 @@ In a group context such as a seminar, the report recommends a process approach i
 
 - [Socratic Seminar](socratic-seminar.md)
 - [Book Clubs / Literature Circles](book-clubs-literature-circles.md)
+- [Use technology platforms such as Blogger as self-directed portfolio systems for personalized performance tasks](blogger-self-directed-portfolio-system.md)
 
 ## Examples
 -

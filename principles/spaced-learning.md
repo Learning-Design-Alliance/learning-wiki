@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 101 claims (56 for, 42 mixed, 3 against) · 72 studies (42 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 72 report an effect size · 93 claims rest on one study
+> **Evidence** · 103 claims (57 for, 43 mixed, 3 against) · 73 studies (43 causal, 14 review, 9 quant-synthesis, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 17 of 73 report an effect size · 95 claims rest on one study
 
 ## Description
 
@@ -194,6 +194,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Sustained simulation-based shoulder dystocia team training is associated with a significant decrease in brachial plexus injury at birth, from 73% to 17% of complicated deliveries](../claims/probe-training-brachial-plexus-injury-decrease.md) [+W] — attached 2026-11-09 from Dahlberg Johanna et al. (2018), which proposed "Sustain mandatory simulation training on a fixed recurring schedule integrated into clinical working time to maintain rare-event emergency preparedness".
 - [Repeated and reinforced oral health education produced significantly larger and more sustained gains in oral health knowledge than one-time OHE](../claims/rr-ohe-sustained-knowledge-gains.md) [+W] — attached 2026-11-09 from Haleem Abdul et al. (2016), which proposed "Repetition and reinforcement are essential for sustained effects of school-based health education regardless of who delivers it"; tests this page's relationship.
 - [Repeated and reinforced OHE produced sustained improvements in oral health behavior and oral hygiene status across all educator strategies](../claims/rr-ohe-behavior-hygiene-gains.md) [+W] — attached 2026-11-09 from Haleem Abdul et al. (2016), which proposed "Repetition and reinforcement are essential for sustained effects of school-based health education regardless of who delivers it"; tests this page's relationship.
+- [Students in the end-of-lecture assignment group scored higher on midterm, final and overall grades than the weekly assignment group in second-year linear algebra](../claims/eol-assignments-higher-marks-than-weekly.md) [+W] — attached 2026-11-17 from Janelle Resch (2015), which proposed "Structure frequent, low-stakes review assignments after each lecture so students review material within the forgetting window and build steady study habits"; tests this page's relationship.
+- [Most surveyed EoL-assignment students reported the frequent assignments helped them keep up, learn, and prepare, with reported gains in confidence and reduced anxiety](../claims/eol-assignments-student-feedback-confidence-anxiety.md) [~W] — attached 2026-11-17 from Janelle Resch (2015), which proposed "Structure frequent, low-stakes review assignments after each lecture so students review material within the forgetting window and build steady study habits".
 
 ## Source verification and open tests
 

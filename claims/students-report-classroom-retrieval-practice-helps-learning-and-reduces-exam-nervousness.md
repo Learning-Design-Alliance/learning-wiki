@@ -91,3 +91,4 @@ The commentary reports survey data attributed to Agarwal et al. (2014), presente
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](afl-positive-student-attitudes-esp.md) — related
 - [Culture-based activities reduce student anxiety and stress](culture-activities-reduce-anxiety.md) — related
 - [Students reported positive experience with the tutor-web: 92% said they learned from it, but 82% preferred a mixture of tutor-web and written homework](tutor-web-student-survey-positive-mixed-preference.md) — related
+- [Most surveyed EoL-assignment students reported the frequent assignments helped them keep up, learn, and prepare, with reported gains in confidence and reduced anxiety](eol-assignments-student-feedback-confidence-anxiety.md) — related

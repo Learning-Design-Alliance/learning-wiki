@@ -51,6 +51,7 @@ When students dismiss a productive question, an instructor can rephrase it with 
 
 - [Scaffolded Questioning](scaffolded-questioning.md)
 - [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
+- [Instructors can revoice student questions with hedging and take tentative ideas seriously to encourage sensemaking](revoice-with-hedging-take-ideas-seriously.md)
 
 ## Examples
 -

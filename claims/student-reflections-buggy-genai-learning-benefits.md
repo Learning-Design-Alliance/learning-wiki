@@ -64,3 +64,4 @@ Likert-scale responses (Q2) from the post-tasks reflection questionnaire adminis
 - [Students most frequently reported that prompt-based tasks were Easier/Simpler/Faster and supported analyzing and solving problems, in thematic analysis of 200 reflections](themes-prompting-easier-problem-solving.md) — related
 - [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
 - [Participants with prior coding and AI experience benefited more from AI-featured computational activities than those with limited experience](prior-experience-moderates-ai-scaffolding-benefit.md) — related
+- [Computational practices (planning, modeling, programming, debugging, analysis, and visualization) are valued for modern science work but often lacking from the undergraduate experience](computational-practices-lacking-undergraduate-physics.md) — related

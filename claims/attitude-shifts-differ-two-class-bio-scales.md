@@ -49,3 +49,4 @@ MANCOVA of CLASS-Bio pre/post percent-favorable shifts in the matched two-sectio
 - [Students in both a graphic-organizer/worksheet section and a clicker-case-study section of introductory biology showed significant conceptual learning gains, with no significant between-section difference](similar-learning-gains-graphic-organizers-versus-clicker-cases.md) — related
 - [No between-section differences in motivation were observed across all five BMQ factors after controlling for conceptual understanding](no-motivation-differences-bmq-active-learning.md) — related
 - [Personal Interest and Real World Connection categories shift differently across courses in response to instruction](personal-interest-and-real-world-shift-differently-by-course.md) — related
+- [Support and coaching from a science education specialist appears important for developing novices' attitudes toward in-class activities](ses-support-important-novice-attitudes.md) — related

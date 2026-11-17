@@ -52,3 +52,4 @@ Case study of seven groups of three fourth-grade secondary students using a grap
 - [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
 - [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](functional-conceptual-workspace-spaces.md) — related
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related
+- [Collaborative negotiation about whether and when to move between modeling phases lies beyond the scope of the EMF](phase-navigation-negotiation-beyond-emf.md) — related

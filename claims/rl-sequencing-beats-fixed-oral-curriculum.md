@@ -58,3 +58,4 @@ Controlled eight-week training experiment comparing RL-optimized sequencing agai
 - [A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)](rl-adaptive-system-grade-engagement-gains.md) — related
 - [Adaptive navigation support is less directive and more cooperative than traditional curriculum sequencing](adaptive-navigation-support-less-directive-than-sequencing.md) — related
 - [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](reinforcement-learning-micro-adaptation-gains.md) — related
+- [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — a narrower finding that bears on this claim

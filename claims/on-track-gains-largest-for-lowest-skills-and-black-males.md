@@ -60,3 +60,4 @@ Subgroup analysis in Table 1 of 2005 versus 2013 on-track rates by EXPLORE categ
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Freshman OnTrack improvements were largest in the lowest-performing schools, with bottom-quartile schools gaining 33 percentage points](ontrack-gains-largest-in-lowest-performing-schools.md) — related
+- [Students with the lowest pretest scores showed the largest gains, with binned gains decreasing from 0.33 (0–3 correct) to 0.18 (4–6) to 0.05 (7–9)](lowest-pretest-scorers-largest-gains.md) — related

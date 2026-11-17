@@ -56,3 +56,4 @@ Cross-sectional survey of 95 Finnish nurse managers after the EQ intervention wi
 - [Nurse managers rate the Ethics Quarter as highly feasible for learning nursing management ethics](ethics-quarter-high-feasibility.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
+- [The mobile game prototype received a high subjective usability rating on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related

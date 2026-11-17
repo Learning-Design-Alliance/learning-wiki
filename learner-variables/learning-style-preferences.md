@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (43 show a difference, 15 mixed, 19 no difference) · 48 studies (24 causal, 9 associational, 6 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 48 report an effect size · 76 claims rest on one study
+> **Evidence** · 79 claims (44 show a difference, 16 mixed, 19 no difference) · 49 studies (24 causal, 9 associational, 7 review, 4 design, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 49 report an effect size · 78 claims rest on one study
 
 ## Bottom line
 
@@ -115,6 +115,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Learning style is significantly related to academic achievement, with accommodating-style students earning the highest GPA](../claims/learning-style-related-academic-achievement-nursing.md) [+W] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Combining spaced education with face-to-face lectures levels learning-style-related differences in examination results](../claims/spaced-education-levels-learning-style-exam-correlations.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Learning gains from InkSurvey-based formative assessment were achieved by students of all learning styles, not only visual or kinesthetic learners](../claims/inksurvey-gains-across-learning-styles.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Learning style/teaching style congruency is related to academic performance and to student evaluations of the course and instructor, and S–N preference discrepancy appears to contribute to student dissatisfaction](../claims/mbti-congruency-performance-evaluations.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
+- [No single MBTI preference combination is best: each learning style has strengths and weaknesses, challenging the reduction of learning potential to a single dimension such as intelligence](../claims/no-best-learning-style-combination.md) [~W] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

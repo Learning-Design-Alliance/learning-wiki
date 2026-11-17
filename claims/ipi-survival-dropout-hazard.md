@@ -69,3 +69,4 @@ Same survival models: as students watched a greater proportion of the video lect
 - [In-video dropouts and low engagers show significantly lower Information Processing Index values than non-dropouts and high engagers in the same video lecture](ipi-lower-for-dropouts-and-low-engagers.md) — related
 - [Average IPI differs significantly across student partitions: high versus low engagers, in-video dropouts versus non-dropouts, course dropouts versus non-dropouts, and Active versus Viewers](ipi-varies-across-student-partitions.md) — related
 - [Students' video watching profile summarized from clickstream predicts in-video dropout](behavioral-vectors-predict-in-video-dropout.md) — related
+- [Longer MOOC videos have higher in-video dropout rates](longer-video-higher-in-video-dropout.md) — related

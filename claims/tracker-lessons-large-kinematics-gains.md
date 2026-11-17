@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: loo-kang-wee-2015
     resource: "https://doi.org/10.1088/0031-9120/50/4/436"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After two Tracker computer laboratory lessons infused into three weeks of traditional lessons, students' pre-posttest gains corresponded to Cohen's d = 0.79 (large effect) and normalized gain <g>total = 0.42 (medium gain), above the traditional non-interactive baseline of 0.23. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)

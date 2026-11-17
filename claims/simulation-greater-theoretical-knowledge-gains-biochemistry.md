@@ -49,3 +49,4 @@ A quasi-experimental between-group comparison of 404 first-semester medical stud
 - [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — related
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
 - [Simulation-based teaching produces higher communication skill scores than traditional practical instruction](simulation-higher-communication-scores.md) — related
+- [The inquiry- and research-based BioLEd curriculum yields improved student performance and confidence as assessed by multiple metrics](bioled-improves-performance-confidence.md) — related

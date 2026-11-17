@@ -53,3 +53,4 @@ Thematic analysis of student quotes across settings; students described peer lea
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Facilitators invest significant effort in creating a safe learning environment, viewing stress and tension as hindrances to learning](facilitators-create-safe-learning-space.md) — related
+- [Students expressed positive anonymous opinions about the tournament as a less stressful, cooperative form of assessment](students-positive-opinions-tournament-assessment.md) — related

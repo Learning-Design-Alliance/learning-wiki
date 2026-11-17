@@ -60,3 +60,4 @@ Descriptive report of community activity in the article: the community "has remi
 - [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — a broader claim this one bears on
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Teachers reported improved mathematical and graphical understanding of motion and judged video modeling suitable for active and deep learning](teachers-report-improved-understanding-video-modeling.md) — related
+- [The Singapore OSP learning community comprises about 23 core members, of whom around 11 are very active](osp-singapore-community-size-23-members.md) — related

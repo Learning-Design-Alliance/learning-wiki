@@ -46,6 +46,7 @@ The article recommends that physics instruction avoid presenting already complet
 - [Pictures & Visuals](pictures-visuals.md)
 - [Visualizations and Mind Maps](visualizations_and_mind_maps.md)
 - [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](success-cues-labelling-hybrid-documentation.md)
+- [Three-step construction of lens ray diagrams from bundles of elemental images, with focal points redefined in terms of elemental images](elemental-image-ray-diagram-construction.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Based on their pilot experience, the authors recommend that instructors adopting
 
 - [Intervene early in the semester to address students' misperception that the cognitive effort of active learning signals poor learning](early-semester-active-learning-misperception-intervention.md)
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
+- [Use low-cost Arduino hardware for do-it-yourself homework experiments, online curricula, and emerging-country physics labs](arduino-diy-homework-and-mooc-experiments-strategy.md)
 
 ## Examples
 -

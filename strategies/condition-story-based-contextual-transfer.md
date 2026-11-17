@@ -48,6 +48,7 @@ The authors recommend going beyond implicit transfer: "explicitly condition stud
 - [Maximize Transfer and Generalization](maximize_transfer_and_generalization.md)
 - [Teaching For Transfer](teaching-for-transfer.md)
 - [Real World Math Applications](real-world_math_applications.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 -

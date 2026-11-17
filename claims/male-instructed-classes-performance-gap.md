@@ -54,3 +54,4 @@ Registrar final course grades for 31 classes (1949 students), ACT-adjusted via t
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — related
 - [Participation gender gaps vary substantially from class to class, with females less likely to participate in 11 classes and more likely in one](participation-gaps-vary-by-classroom.md) — related
+- [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related

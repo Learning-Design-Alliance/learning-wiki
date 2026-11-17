@@ -54,3 +54,4 @@ A large-scale longitudinal observational analysis of multi-year panel data from 
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
 - [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — reports the opposite
+- [The authors report a strong correlation between proper use of the platform and obtained results](arco-proper-use-correlated-with-results.md) — related

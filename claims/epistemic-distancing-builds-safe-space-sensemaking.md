@@ -53,3 +53,6 @@ Close qualitative discourse analysis of videotaped first discussions of three tu
 - [Four distinct, reliably codable behavioral clusters appear in collaborative tutorial video data](four-behavioral-clusters-tutorial-video.md) — related
 - [Students valued individual presentations in the tutorial as a good idea but mostly declined to give them because preparation was too time-consuming](individual-presentations-valued-but-skipped-time-cost.md) — related
 - [The yellow joking frame appears less stable than the other clusters and lets students venture ideas with reduced risk](joking-frame-protective-idea-venturing.md) — a narrower finding that bears on this claim
+- [The instructor's introduction of epistemic distancing helped the group switch from a dismissive approach to deep inquiry](distancing-switches-group-to-inquiry.md) — a narrower finding that bears on this claim
+- [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — a narrower finding that bears on this claim
+- [An instructor's hedged, eye-level rephrasing of a student question opened space for a dismissive tutorial group to offer tentative ideas](hedged-rephrasing-opens-discussion-space.md) — a narrower finding that bears on this claim

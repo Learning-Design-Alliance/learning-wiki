@@ -51,6 +51,7 @@ The article recommends easing beginners' difficulties in physics by discussing G
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Emphasize concepts, hands-on experiments and emotion-raising stories in science teaching to ease conceptual change](concept-oriented-teaching-hands-on-experiments-suspense-stories.md)
 - [Incorporating Physical Activity Into Classroom Learning](incorporating_physical_activity_into_classroom_learning.md)
+- [Include aspects of the history of physics when teaching the force concept](history-of-physics-force-teaching-strategy.md)
 
 ## Examples
 -

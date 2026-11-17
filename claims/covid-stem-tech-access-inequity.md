@@ -109,3 +109,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Only one included study described technology-based teaching in a rural or remote clinical education setting, leaving rural implications unclear](rural-gap-one-study-tech-stroke-teaching.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
 - [LIC-LMIC participants had substantially less access to prior ultrasound training than HIC-UMIC participants (37.5% vs 62.1% course attendance, p = 0.002)](ultrasound-training-access-gap-income.md) — related
+- [Radio broadcasts have tremendous penetration among general publics without access to the internet in Latin America and other developing regions](radio-penetration-reaches-audiences-without-internet.md) — related

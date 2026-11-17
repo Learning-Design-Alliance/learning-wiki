@@ -44,7 +44,8 @@ The article recommends integrating qualitative (problem) tasks into Physics teac
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](../claims/conceptual-questions-poor-quantitative-better.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
 
 ## Examples
 -

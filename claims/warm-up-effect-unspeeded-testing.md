@@ -69,3 +69,4 @@ Comparison of median response times for items #13, #27, #15, and #16 across posi
 - [Log response time is practically uncorrelated with students' estimated ability on this unspeeded low-stakes test](log-rt-uncorrelated-with-ability-low-stakes.md) — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on
 - [Boys respond significantly faster than girls on the unspeeded low-stakes test, but the difference does not affect achievement](boys-faster-than-girls-unspeeded-test.md) — related
+- [Self-reported effort on the low-stakes QuaRCS is strongly correlated with median time to completion](effort-correlates-with-completion-time.md) — related

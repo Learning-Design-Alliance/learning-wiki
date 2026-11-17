@@ -71,3 +71,4 @@ Argument from the section on instincts: the foundation of education is the equip
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — a narrower finding that bears on this claim
+- [A positive novice-expert relationship may be a necessary condition for positive paired-teaching outcomes](positive-relationship-necessary-paired-teaching.md) — a narrower finding that bears on this claim

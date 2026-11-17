@@ -31,7 +31,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 12 claims (11 for, 1 mixed) · 9 studies (6 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 10 studies (7 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 10 report an effect size · 11 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.

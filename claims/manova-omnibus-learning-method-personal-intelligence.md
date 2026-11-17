@@ -54,3 +54,4 @@ One-way MANOVA on 206 students from three senior high schools, one factor (learn
 - [Students taught with the PBLCS model developed higher interpersonal intelligence than students taught with traditional learning strategies](pblcs-improves-interpersonal-intelligence.md) — a narrower finding that bears on this claim
 - [Students taught with the PBLCS model developed higher intrapersonal intelligence than students taught with traditional learning strategies](pblcs-improves-intrapersonal-intelligence.md) — a narrower finding that bears on this claim
 - [Interpersonal intelligence development was higher in regular schools while intrapersonal development was higher in top schools](school-level-personal-intelligence-development-differences.md) — related
+- [Polytechnic students' self-perceived intelligence strengths lie in Interpersonal, Visual-Spatial and Verbal-Linguistic intelligences](polytechnic-students-strengths-interpersonal-visual-verbal.md) — related

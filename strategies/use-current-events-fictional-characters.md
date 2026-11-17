@@ -65,6 +65,7 @@ Narrative and situational context give learners a structure for organizing new i
 - [Acting-Role-Play](acting-role-play.md) — the embodied extension of character-based framing
 - [Case-Based Learning](case-based-learning.md) — the broader family; current events and fictional characters are two ways of sourcing the case
 - [Use current-events interest (e.g., a nuclear accident) and general-interest seminars to motivate students to engage with nuclear physics topics](current-events-seminar-motivation-strategy.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 - **The Jasper Woodbury Problem Solving series** (Vanderbilt) — video-based fictional adventures ("Rescue at Boone's Meadow") that anchor complex mathematics problem-solving in a narrative; the canonical anchored-instruction curriculum. See [Anchored Instruction](../patterns/anchored-instruction.md).

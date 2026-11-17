@@ -80,9 +80,11 @@ Narrative provides low-stakes psychological distance: learners can analyze a fic
 6. Provide feedback on the quality of perspective-taking (evidence cited for another's viewpoint, emotional accuracy), not on whether learners reached a "correct" interpretation.
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — embodiment of perspectives is the most immersive variant of this strategy
 - [Case-Based Discussion](../strategies/case-based-discussion.md) — the current-events variant is essentially a social case discussion
 - [Check-In Activities](../strategies/check-in-activities.md) — builds the introspective vocabulary this strategy depends on
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum using historical events and primary accounts to teach perspective-taking and ethical reasoning in secondary classrooms.

@@ -48,3 +48,4 @@ Narrative review of Johnson et al.'s study of students' procedural learning of e
 - [Concreteness fading studies in mathematics show mixed transfer results, with some studies favoring fading and others favoring generic symbols or reversed sequences](math-concreteness-fading-mixed-transfer-results.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [The multi-view approach proceeds from concrete images to abstract rays and may help students adapt their preconceptions toward scientific concepts](concrete-images-to-abstract-rays-bridges-preconceptions.md) — reports the opposite

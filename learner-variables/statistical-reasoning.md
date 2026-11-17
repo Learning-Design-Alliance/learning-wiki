@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (36 show a difference, 11 mixed, 2 no difference) · 31 studies (16 causal, 5 design, 3 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q3` · 3 of 31 report an effect size · 49 claims rest on one study
+> **Evidence** · 50 claims (36 show a difference, 12 mixed, 2 no difference) · 32 studies (17 causal, 5 design, 3 review, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q3` · 3 of 32 report an effect size · 50 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -88,6 +88,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](../claims/tracker-q1-6-positive-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Physics education worldwide lacks a deep course in probability and randomness, which the author argues causes misunderstandings of quantum theory](../claims/physics-curricula-lack-deep-probability-course.md) [+W] — learners who differ on it differ in outcomes
 - [Students overgeneralize nonzero probability in the classically forbidden region and reject a valid finite-square-well wave function](../claims/qm-finite-square-well-overgeneralization.md) [+M] — learners who differ on it differ in outcomes
+- [Comparison-cycle instruction raised the sophistication of students' written reasoning about data, with the group gap becoming most dramatic when the model was inadequate, though the sophomore-lab difference was not statistically significant](../claims/comparison-cycles-reflection-sophistication.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

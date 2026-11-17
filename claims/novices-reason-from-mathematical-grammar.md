@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: edward-f-redish-and-ayush-gupta-2009
     resource: "https://doi.org/10.48550/arXiv.1002.0472"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a quiz after extensive instruction, more than half of nearly 200 students answered that replacing a test charge q with -3q changes the electric field, reasoning from E = F/q as algebraic grammar rather than physical meaning. [→ Edward F. Redish and Ayush Gupta 2009](#edward-f-redish-and-ayush-gupta-2009)
@@ -60,3 +61,5 @@ Anecdotal classroom report from a second-semester algebra-based physics class qu
 - [In an electric-field quiz, more than half of nearly 200 algebra-based physics students answered as if E = F/q were pure mathematical grammar, giving –E/3 despite having been taught the field is independent of the test charge](electric-field-quiz-mathematical-grammar-interpretation.md) — possibly the same claim (merge candidate)
 - [In a modified photoelectric-effect problem, nearly a quarter of a calculus-based engineering physics class answered that electrons would be knocked out after a wavelength change that reduced photon energy, applying the photoelectric equation without its physical condition of use](photoelectric-equation-applied-without-physics-constraint.md) — a narrower finding that bears on this claim
 - [Upper-division physics undergraduates commonly construct novel equations to model physical situations through intuitive understanding rather than formal derivation, as modeled by Sherin's symbolic forms](symbolic-forms-intuitive-equation-construction.md) — related
+- [A majority of introductory physics students drew electric-field graphs inconsistent with their own mathematical expressions in all regions in preliminary research](preliminary-majority-graphs-inconsistent-with-expressions.md) — a narrower finding that bears on this claim
+- [The presence of even a single symbolic variable presents a significant obstacle to engineering students' algebraic reasoning, and symbolizing of proportional verbal statements shows no improvement after one semester of mechanics](single-variable-symbolizing-obstacle-introductory-physics.md) — related

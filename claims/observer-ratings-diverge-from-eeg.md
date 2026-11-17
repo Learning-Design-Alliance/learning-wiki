@@ -48,3 +48,4 @@ Video-based behavioral coding of inattentive intervals by five trained coders (I
 ## Related Claims
 - [Student attention, indexed by occipital alpha power, is lower during teacher-initiated activities (lecture, video) than student-initiated activities (group work, independent work) in a college classroom](alpha-power-lower-teacher-initiated-than-student-initiated.md) — related
 - [No difference in alpha power between student-driven group work and independent work](no-alpha-difference-group-vs-independent-work.md) — related
+- [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — related

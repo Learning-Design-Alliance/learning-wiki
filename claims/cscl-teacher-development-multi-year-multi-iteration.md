@@ -53,3 +53,4 @@ The editorial asserts, based on accumulated CSCL research evidence it attributes
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
 - [A co-designed adaptive learning technology can be developed and implemented in pedagogical practice with a high school over one year](codesigned-alt-implemented-in-school-practice.md) — related
+- [Systemic adoption of research-based teaching requires second-order change and is unlikely to occur naturally](second-order-change-required-systemic-teaching.md) — related

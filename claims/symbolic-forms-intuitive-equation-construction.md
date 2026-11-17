@@ -49,3 +49,4 @@ The essay reports, citing Sherin (2001), that "upper-division physics undergradu
 - [Pat's explanation of the velocity equation evidenced the Base + Change symbolic form, connecting the whole equation to an intuitive conceptual schema](pat-base-change-symbolic-form.md) — related
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
+- [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related

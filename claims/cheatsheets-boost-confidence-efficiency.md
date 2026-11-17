@@ -51,3 +51,4 @@ Self-reported perceived impact on time management across both exams. Only "a sma
 - [Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam](self-created-cheatsheets-longer-midterm-prep-time-only.md) — related
 - [Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation](trust-efficiency-versus-personalization-choice-rationales.md) — related
 - [More than 90% of participants perceived the RFM as helpful, confidence-boosting and valuable for future training](participants-perceive-rfm-helpful-for-training.md) — related
+- [Students rejected the proposed exam cheatsheet in an icampus survey, with 61% and 55% voting against it in the two General Physics 2 courses.](students-rejected-cheatsheet-proposal.md) — related

@@ -50,3 +50,4 @@ Qualitative case study of an interview in which a student in Intermediate Mathem
 - [A student reframing toward physical mapping — checking how the mathematics fits the physical system — resolved the group's difficulty](physical-mapping-reframing-resolves-difficulty.md) — related
 - [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related
 - [Citing a recalled theorem as justification signals an Invoking Authority framing of mathematics use](invoking-authority-framing-warrant.md) — related
+- [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — related

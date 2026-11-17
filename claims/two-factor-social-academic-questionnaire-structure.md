@@ -47,3 +47,4 @@ Principal Component Analysis with Varimax rotation on the 57-item questionnaire 
 
 ## Related Claims
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
+- [Principal component analysis finds the E-CLASS does not exhibit strong factors, consistent with its design targeting many distinct learning goals](eclass-pca-no-strong-factors.md) — related

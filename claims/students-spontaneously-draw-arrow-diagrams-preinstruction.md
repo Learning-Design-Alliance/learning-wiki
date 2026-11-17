@@ -47,3 +47,4 @@ Qualitative analysis of 92 students' comic strip worksheets found that arrow dia
 ## Related Claims
 - [Multimedia initial instruction, but not multimedia feedback, increases students' spontaneous diagram generation across learning phases](multimedia-instruction-increases-spontaneous-drawings.md) — related
 - [Students express that opposite charges attract and like charges repel across multiple activity sections](opposite-attract-like-repel-student-idea.md) — related
+- [Pictorial representations of molecular energy states (arcs and arrows) help students produce more scientifically coherent explanations after instruction](arcs-arrows-pictorial-energy-state-representations.md) — related

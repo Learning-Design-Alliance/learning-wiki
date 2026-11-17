@@ -64,6 +64,7 @@ Fictional narrative engages the same social-cognitive machinery used to understa
 - [Acting/Role-Play](acting-role-play.md) — embodiment of the character deepens the perspective-taking this strategy initiates
 - [Case-based discussion](case-based-discussion.md) — the non-fictional counterpart, using real cases instead of invented characters
 - [Moral dilemma discussion with structured steps](moral-dilemma-discussion-steps.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — uses literary characters (e.g., in *To Kill a Mockingbird*) alongside historical case studies to teach students about prejudice, bystander behavior, and civic responsibility.

@@ -46,7 +46,8 @@ The article administered two voluntary online quizzes of cadaveric images with t
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](../claims/student-satisfaction-anatomical-image-repository.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Influence student study habits by assigning tasks sequentially arranged in time before exams](assign-tasks-sequentially-arranged-in-time.md)
 
 ## Examples
 -

@@ -45,3 +45,5 @@ Qualitative analysis of class discussions about the TtR conducted during the 15-
 ## Related Claims
 - [Professors identified implementation challenges (rushing, unmonitored use) but found no evidence that the TtR reinforced incorrect information](ttr-professor-themes-no-incorrect-reinforcement.md) — related
 - [Students recalled a high percentage (87-88% on average) of concepts reinforced with the TtR strategy on unannounced midterm and final examinations](ttr-high-retention-87-88-percent.md) — related
+- [Many General Physics 2 students enjoyed in-class group activities, but a large share were indifferent, leading the instructor to conclude the activity organization still needed improvement.](mixed-student-attitudes-toward-group-activities.md) — related
+- [42% of students with research experience wished they had started their URE earlier, and only 38% began conducting research within their first year](ure-early-start-preference-and-first-year-participation.md) — related

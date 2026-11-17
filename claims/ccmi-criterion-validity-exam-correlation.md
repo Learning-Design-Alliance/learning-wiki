@@ -49,3 +49,4 @@ Criterion validity analysis at CU comparing CCMI post-test scores to exam perfor
 - [Mean CCMI post-test score across three pooled semesters was 52.9%, with a wide score range and some students outperforming first-year graduate students](ccmi-pooled-mean-score-distribution.md) — related
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [MC CUE scores correlate strongly with course exam scores and total course score](mc-cue-criterion-validity-exam-correlation.md) — related
+- [CMR CUE scores correlate highly with aggregate exam scores (r = 0.71) and final course scores (r = 0.64) at CU, establishing criterion validity for that population](cmr-cue-criterion-validity-exam-course-correlations.md) — related

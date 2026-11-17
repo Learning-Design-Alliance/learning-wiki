@@ -50,3 +50,4 @@ Post-hoc ANOVA using condition (control, redesigned) and item type (forward, bac
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related
 - [The redesigned tutor's advantage was driven by post-test items requiring square-root application, not by items that did not](gains-driven-by-square-root-items.md) — a narrower finding that bears on this claim
 - [Students using the redesigned tutor achieved significantly higher post-test scores than control students, controlling for pre-test scores](redesigned-tutor-significant-posttest-gains.md) — related
+- [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related

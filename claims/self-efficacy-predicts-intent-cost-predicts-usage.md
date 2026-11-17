@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-17
 sources:
   - id: lisi-wang-2023
     resource: "https://doi.org/10.1037/edu0000813"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-efficacy of procedural metacognitive knowledge was positively associated with intended use of the strategy, whereas perceived cost was negatively associated with reported use. [→ Lisi Wang 2023](#lisi-wang-2023)
@@ -47,3 +48,4 @@ SEM analysis (lavaan) on the 270 participants with complete measures at both tim
 ## Related Claims
 - [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](teacher-self-efficacy-predicts-srl-promotion.md) — related
 - [Pre-service teachers' assessment quality is negatively related to self-efficacy and perceived costs of engaging with scientific evidence](evidence-engagement-costs-negatively-related-assessment-quality.md) — related
+- [Threat perception, safeguard effectiveness, self-efficacy, perceived severity and perceived susceptibility positively impact threat avoidance behaviour, whereas safeguard cost negatively impacts it](framework-elements-impact-avoidance-behaviour.md) — related

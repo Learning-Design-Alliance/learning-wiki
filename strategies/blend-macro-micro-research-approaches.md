@@ -49,4 +49,4 @@ The authors propose that future research in upper-division physics education com
 -
 
 ## Key Sources
-- Caballero, M. D., Wilcox, B. R., Pollock, S. J., & Doughty, L. (2015). Unpacking Students' Use of Mathematics in Upper-division Physics: Where do we go from here? arXiv. https://arxiv.org/abs/1409.7660
+- Caballero, M. D., Wilcox, B. R., Pollock, S. J., & Doughty, L. (2015). Unpacking Students' Use of Mathematics in Upper-division Physics: Where do we go from here? arXiv. https://arxiv.org/abs/1409.7660. [doi:10.1088/0143-0807/36/6/065004](https://doi.org/10.1088/0143-0807/36/6/065004)

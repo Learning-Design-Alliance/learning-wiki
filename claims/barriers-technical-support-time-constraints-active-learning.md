@@ -53,3 +53,4 @@ Survey item on reasons for not adopting active learning, compared by gender and 
 - [Effort-intensive active learning formats (gallery walk, gamification) are used by very few Middle Eastern healthcare faculty, while low-preparation discussion dominates](low-preparation-discussion-dominates-effortful-formats-rare.md) — related
 - [Reported barriers to simulation-based education implementation are lack of time, lack of teacher training, and cost of equipment and/or space](sbe-implementation-barriers-time-training-cost.md) — related
 - [Difficulty accessing technology and internet connection issues are barriers to completing MOOCs, especially in developing countries](mooc-technology-access-barrier.md) — related
+- [Open-project students more often cited lack of time, while requests for better equipment were similar across both lab formats](open-project-students-cite-lack-of-time.md) — related

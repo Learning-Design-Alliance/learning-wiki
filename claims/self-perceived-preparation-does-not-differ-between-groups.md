@@ -71,3 +71,4 @@ Perceived preparation for the written and oral parts of M1 rose from t5 to t8 eq
 - [Friendly Feedback raises medical students' self-efficacy during the dissection course compared with weekly testing](friendly-feedback-raises-self-efficacy.md) — related
 - [The stress-management intervention (IVSM) reduced perceived stress relative to control mainly in the second (summer) semester, not in the first](stress-management-intervention-effects-limited-to-summer-semester.md) — related
 - [Teaching staff judge the performance and preparation of treatment and control students in the practical course as equal despite measured learning differences](staff-judgment-null-despite-learning-gain.md) — related
+- [Across most problems analyzed over the semester, no significant differences appeared between intervention groups, and diagram interventions never improved performance](no-group-differences-majority-of-problems.md) — related

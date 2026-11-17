@@ -54,3 +54,4 @@ Theoretical conceptual analysis of existing and possible concreteness fading imp
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](ar-concretization-explanation-natural-sciences.md) — related
+- [The multi-view approach proceeds from concrete images to abstract rays and may help students adapt their preconceptions toward scientific concepts](concrete-images-to-abstract-rays-bridges-preconceptions.md) — related

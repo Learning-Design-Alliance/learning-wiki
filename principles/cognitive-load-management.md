@@ -212,6 +212,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Refine program materials based on teacher process evaluation to reduce preparation burden and content density](../strategies/process-evaluation-driven-material-refinement.md)
 - [Minimise extraneous cognitive load in student MCQ-writing by assigning topics and modelling scenario-based questions without introducing Bloom's taxonomy](../strategies/assign-topics-model-scenario-mcq-strategy.md)
 - [Start with simple video analyses and a hands-on primer activity to reduce cognitive load before the performance task](../strategies/simple-videos-primer-activity-cognitive-load-strategy.md)
+- [Introduce visual fitting earlier in the physics course through mechanics with linear, proportional relationships](../strategies/early-fitting-via-mechanics-linear-laws-strategy.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

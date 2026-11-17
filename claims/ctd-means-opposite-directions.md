@@ -66,3 +66,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — possibly the same claim (merge candidate)
 - [Complications and length of stay fell in the active group and rose in the control group after the intervention, but none of the clinical outcome changes reached statistical significance](clinical-outcomes-trended-better-not-significant.md) — related
+- [SO \"a\" attainment trends differ by assessment type: direct assessment rose marginally while student perception rose sharply over three years](so-a-attainment-trend-by-assessment-type.md) — related

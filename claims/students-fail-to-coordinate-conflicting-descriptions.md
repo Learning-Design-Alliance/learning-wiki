@@ -61,3 +61,4 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — a narrower finding that bears on this claim
 - [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — a narrower finding that bears on this claim
 - [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related

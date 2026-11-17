@@ -48,3 +48,4 @@ Descriptive frequency-percentage analysis of pre-test open-ended SUSSI responses
 ## Related Claims
 - [After PBHNOS training, experimental-group participants' open-ended SUSSI responses shifted mainly into Transitional and Informed Views, while control-group responses remained in Naïve and Transitional categories](open-ended-views-shift-tv-iv.md) — related
 - [After the story-structured lesson, students' prevention ideas shifted from law enforcement and punishment toward consent and limiting alcohol](story-lesson-shifted-prevention-attitudes-toward-consent-alcohol.md) — related
+- [Pre-service teachers show a marked drop in pedagogical responses and a shift toward authoritative responses from pre- to post-instruction](niaq-preservice-pedagogical-drop.md) — related

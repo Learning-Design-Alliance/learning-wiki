@@ -53,3 +53,4 @@ Criterion-validity analysis in the E&M 1 course, correlating CUE scores with two
 - [The MC CUE shows acceptable internal consistency and discriminatory power comparable to the FR version](mc-cue-reliability-alpha-ferguson.md) — related
 - [CMR CUE scores show criterion validity comparable to the FR version](cmr-cue-criterion-validity.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
+- [CMR CUE scores correlate highly with aggregate exam scores (r = 0.71) and final course scores (r = 0.64) at CU, establishing criterion validity for that population](cmr-cue-criterion-validity-exam-course-correlations.md) — related

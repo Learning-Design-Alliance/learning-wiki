@@ -65,3 +65,4 @@ Same end-of-semester survey reported in the students' reflections section. The a
 
 ## Related Claims
 - [Weekly surveys found 83% of students thought Mathematica and LabVIEW activities were very helpful but only 65% enjoyed them due to short time](weekly-survey-83-percent-helpful-65-percent-enjoyed.md) — related
+- [Students most commonly chose a new perspective on physics and seeing links between areas of physics as what they enjoyed most](action-physics-enjoyment-new-perspective-and-links.md) — related

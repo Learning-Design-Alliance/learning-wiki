@@ -49,3 +49,4 @@ Test-group evaluation on 95 students: a base logistic regression on 40 binary fe
 - [Prediction accuracy improves in three of four signatures but not for the risers signature](prediction-improves-three-signatures-not-risers.md) — related
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related
 - [Each signature has a unique set of features correlating with success in medical school](signature-specific-success-predictors.md) — related
+- [A multivariate model adding final grade to betweenness fits persistence in Modeling Instruction significantly better than grade alone](multivariate-betweenness-grade-model.md) — a narrower finding that bears on this claim

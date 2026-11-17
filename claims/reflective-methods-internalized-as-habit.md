@@ -58,3 +58,4 @@ Theoretical exposition of Dewey's account of internalization, presented in the p
 - [Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought](edwards-learning-habit-formation-thesis.md) — related
 - [Reflective portfolios cause student and teacher dissatisfaction because forced, fixed-format reflection offers little perceived gain and little learner direction](reflective-portfolio-dissatisfaction-forced-reflection.md) — related
 - [Academic dishonesty builds a propensity for dishonesty into student character because actions form habits and habits form character](cheating-builds-dishonest-character-propensity.md) — related
+- [Habits are the missing link between intentional decision-making and actual teaching practice](habits-missing-link-intention-to-practice.md) — related

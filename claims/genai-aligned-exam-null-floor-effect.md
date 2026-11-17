@@ -71,3 +71,5 @@ Final-exam aligned item in the same crossover design, where group roles had reve
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — reports the opposite
 - [A 20-item multiple-choice check confirmed participants were almost completely unfamiliar with the target phrasal verbs before treatment](prior-knowledge-check-phrasal-verbs-unfamiliar.md) — related
 - [Mean scores on the seven final-exam problems ranged from 0.96 to 8.04 out of 15, with problem 5 performing worst](calculus-iii-final-problem-mean-scores.md) — related
+- [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — related
+- [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related

@@ -53,3 +53,4 @@ Post-ACER delta function study in 3rd year electrostatics, using exam work coord
 - [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on
 - [Students persistently believe the delta function is unitless, undermining interpretation of the unitful constant in charge densities](students-believe-delta-function-is-unitless.md) — related
 - [Students make characteristic errors integrating 3D and non-Cartesian delta functions despite recognizing that the delta function picks out a value](students-err-integrating-3d-non-cartesian-delta-functions.md) — related
+- [Students commonly err when constructing complex field expressions, especially evaluating the dot product k·r under oblique incidence](construction-errors-complex-field-expressions.md) — a narrower finding that bears on this claim

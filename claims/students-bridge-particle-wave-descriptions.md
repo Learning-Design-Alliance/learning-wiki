@@ -52,3 +52,5 @@ Interview analysis: Student I alternated between saying the electron and the pro
 - [Students taught delocalized wave descriptions in one context do not generalize to contexts where interpretation is not addressed](matter-wave-students-fail-to-generalize-to-atomic-context.md) — related
 - [Student responses to a double-slit interpretation essay question generally aligned with the type of instruction they received](instruction-aligns-double-slit-essay-responses.md) — related
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
+- [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related

@@ -70,3 +70,4 @@ Technical-level item from the same evaluation: median 4 with IQR 0 on the six-po
 - [Participants found the true/false quizzes relatively easy but the detailed descriptions difficult because they contained many technical words, and sentences were too long](ebm-elearning-quizzes-easy-explanations-technical-words-difficult.md) — related
 - [Most learners found the lesson duration 'just right', supporting microlearning as an appropriate educational strategy](lesson-duration-just-right-supports-microlearning.md) — related
 - [Extracurricular fluorescence modules left students enthusiastic but were experienced as difficult to follow](fluorescence-module-engaging-but-difficult.md) — related
+- [Most PHYS 170 students judge the course's mathematics and calculus level appropriate for their ability](phys170-math-level-judged-appropriate.md) — related

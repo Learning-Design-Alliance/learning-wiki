@@ -53,4 +53,4 @@ Because students found the conceptual portions of the essays hardest, the author
 -
 
 ## Key Sources
-- Dcruz, N. L. (2014). Essays on Eclipses, Transits and Occultations as Teaching Tools in the Introductory Astronomy College Course. Revista Latino-Americana de Educação em Astronomia - RELEA, n. 17, p. 39-66. https://arxiv.org/abs/1408.0836
+- Dcruz, N. L. (2014). Essays on Eclipses, Transits and Occultations as Teaching Tools in the Introductory Astronomy College Course. Revista Latino-Americana de Educação em Astronomia - RELEA, n. 17, p. 39-66. https://arxiv.org/abs/1408.0836. [doi:10.37156/relea/2014.17.039](https://doi.org/10.37156/relea/2014.17.039)

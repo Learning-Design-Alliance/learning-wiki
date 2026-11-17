@@ -3,7 +3,7 @@ type: claim
 title: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 description: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 id: peer-assessment-gains-persist-to-final-exam
-aliases: [peer-assessment-final-exam-gain]
+aliases: [peer-assessment-final-exam-gain, peer-assessment-benefits-persist-to-final-exam]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,12 +17,20 @@ sources:
     i: 0
     kind: causal
     rigour: 2
+  - id: dennis-l-sun-2014
+    resource: "https://doi.org/10.1371/journal.pone.0143177"
+    title: "Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)"
+    author: Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 3
 ---
 
 # A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,6 +38,8 @@ sources:
 `q3 i0` Students who participated in peer assessment also did better on the corresponding final exam questions (d = .122), suggesting the benefit persists over time. [→ Sun DL 2015](#sun-dl-2015)
 
 `q3 i0` Students participating in peer assessment scored better on corresponding final exam questions, d = .122, indicating the benefits persist. [→ Sun Dennis L. 2015](#sun-dl-2015)
+
+`q3 i0` Students who peer assessed in a unit also scored higher on the corresponding final exam questions, indicating longer-term benefit. [→ Dennis L. Sun 2014](#dennis-l-sun-2014)
 
 ## Evidence
 
@@ -54,6 +64,16 @@ Long-term measure from the same matched randomized crossover experiment, with 32
 
 > "Students participating in peer assessment also did better on the corresponding questions on the final exam (d = .122, t(319) = 3.03, p = .001), which suggests that the benefits of peer assessment persist over time."
 -->
+
+### Dennis L. Sun 2014
+
+Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)
+
+`q3 · i0` · `causal · r3`
+
+Longer-term outcome from the same randomized crossover trial, measured on the comprehensive final exam graded by blinded instructors. The article reports "d = .12, t(319) = 3.03, p = .001".
+
+> "These students also did better on the corresponding questions on the final exam (d = .12, t(319) = 3.03, p = .001), suggesting that the benefits of peer assessment persist over time."
 
 ## Discussion
 

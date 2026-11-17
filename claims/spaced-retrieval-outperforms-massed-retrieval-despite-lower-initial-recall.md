@@ -115,3 +115,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
+- [Consistent success at recalling physics solutions did not occur until after at least one unsuccessful spaced recall session, with improvement that was not monotonic](spaced-recall-success-after-unsuccessful-session.md) — related

@@ -49,6 +49,7 @@ Each computational assignment contained a test case: "an initial problem was pos
 - [Worked Examples Types](worked_examples_types.md)
 - [Provide scaffolded code and live coding exercises, and integrate computation into every assignment and modeling cycle](scaffolded-code-live-coding-strategy.md)
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](staged-submission-with-analytical-debug-cases.md)
+- [Provide ready-made integrated conceptual and quantitative problems as homework in graduate core courses](strategy-integrated-conceptual-quantitative-problems.md)
 
 ## Examples
 -

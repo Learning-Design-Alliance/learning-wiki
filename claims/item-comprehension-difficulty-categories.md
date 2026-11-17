@@ -72,3 +72,4 @@ Same cognitive interview analysis; the abstract-terminology pattern is illustrat
 - [Ambiguous technological terminology and unexplained abbreviations in the QVP required refinement for consistent interpretation](ambiguous-terminology-abbreviations-qvp-refinement.md) — related
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
 - [Constructing the HPV ontology from VIS documents posed challenges including class creation, inclusion decisions, and ambiguous medical terminology](viso-hpv-authoring-challenges-ambiguity.md) — a narrower finding that bears on this claim
+- [Students interpret an unfamiliar ratio more successfully in a familiar paint context than in an abstract electric-charge doorknob context](quantification-context-abstraction-paint-doorknob.md) — related

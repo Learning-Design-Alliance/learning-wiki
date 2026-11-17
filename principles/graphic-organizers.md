@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (32 for, 19 mixed, 3 against) · 60 studies (33 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 60 report an effect size · 43 claims rest on one study
+> **Evidence** · 56 claims (34 for, 19 mixed, 3 against) · 61 studies (34 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 61 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Concept mapping supports retention of science knowledge over five days](../claims/concept-mapping-supports-retention-delayed-posttest.md) [+W] — attached 2026-11-03 from Berry et al. (2014), which proposed "Pair concept mapping with informational interactive read-alouds to strengthen science and literacy learning"; tests this page's relationship.
 - [Concept maps are structurally and semantically more similar to an expert solution than written texts](../claims/concept-maps-more-similar-to-expert-than-written-texts.md) [+W] — attached 2026-11-03 from Ifenthaler (2010), which proposed "Use concept mapping rather than written text when the goal is structural alignment with expert knowledge".
 - [Overall critical thinking disposition of clinical nursing students rose from neutral to positive inclination after mind mapping training, in one uncontrolled pre-post study](../claims/mind-mapping-improves-critical-thinking-disposition-nursing.md) [~W] — attached 2026-11-08 from Wu Hang-Zhou; Wu Qiu-Ting (2020), which proposed "Use mind mapping training in clinical nursing education to cultivate critical thinking disposition".
+- [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](../claims/partial-diagram-intervention-worse-quiz-performance.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint"; tests this page's relationship.
+- [Students prompted to draw a diagram were more likely to draw productive diagrams than the diagram-only and no-support groups](../claims/prompt-increases-productive-diagrams.md) [+W] — attached 2026-11-17 from Alexandru Maries et al. (2013), which proposed "Prompt students to draw their own diagrams rather than providing a partial diagram as a hint".
 
 ## Objective and learner-valued goal
 

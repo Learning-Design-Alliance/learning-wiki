@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: eugene-t-torigoe-2012
     resource: "https://doi.org/10.48550/arXiv.1112.3229"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among students with correct solutions, 86% of numeric versus 50% of symbolic solutions began by finding an unknown in terms of known quantities. [→ Eugene T. Torigoe 2012](#eugene-t-torigoe-2012)
@@ -73,3 +74,5 @@ Same written-work analysis: 15% of symbolic solutions started with a = F/m, repl
 - [Introductory physics students score significantly higher on numeric versions of physics problems than on analogous symbolic versions](numeric-problems-score-higher-than-symbolic.md) — related
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
 - [Calculus-based students at RIT and UMaine answered far more often correctly than algebra-based students, with no significant representational differences in response patterns](calculus-based-higher-vector-addition-accuracy-uniform-methods.md) — related
+- [The article argues that symbolic problems are hard because students activate resources and cues appropriate for numeric problem solving, such as treating every equation as a general model and the remaining non-numeric symbol as the unknown](inappropriate-resource-activation-symbolic-errors.md) — related
+- [In the interview study, it was common for students unable to solve a symbolic problem to find their earlier mistakes and easily reach the correct answer when given the numeric version immediately afterward](symbolic-failure-numeric-success-interviews.md) — related

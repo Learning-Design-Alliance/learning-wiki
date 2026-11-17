@@ -56,4 +56,4 @@ The middle-out approach guides departments through five inter-related components
 -
 
 ## Key Sources
-- Reinholz, D. L., Corbo, J. C., Dancy, M. H., Finkelstein, N., & Deetz, S. (2014). Towards a Model of Systemic Change in University STEM Education. https://scholar.google.com/scholar?q=Towards+a+Model+of+Systemic+Change+in+University+STEM+Education
+- Reinholz, D. L., Corbo, J. C., Dancy, M. H., Finkelstein, N., & Deetz, S. (2014). Towards a Model of Systemic Change in University STEM Education. https://scholar.google.com/scholar?q=Towards+a+Model+of+Systemic+Change+in+University+STEM+Education. [doi:10.2307/j.ctv2x00vcx.13](https://doi.org/10.2307/j.ctv2x00vcx.13)

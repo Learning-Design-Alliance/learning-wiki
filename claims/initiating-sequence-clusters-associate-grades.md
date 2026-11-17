@@ -51,3 +51,4 @@ Multilevel regression (RQ4) predicting final grades from students' frequencies o
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related
 - [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](explicit-regulation-infrequent-challenge-responsive.md) — related
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related
+- [Humor and epistemic or affective distancing facilitate rather than derail group discussion](distancing-moves-facilitate-discussion.md) — related

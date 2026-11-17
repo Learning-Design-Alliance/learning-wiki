@@ -50,3 +50,4 @@ Quasi-randomized within-course comparison in nine biology lab courses (roughly 9
 - [Self-reported confidence in understanding the tested paper does not differ between open- and closed-note conditions](open-note-confidence-no-difference.md) — related
 - [No student characteristic moderates the open- versus closed-note performance difference, including research experience, prior module exposure, GPA, course grade, and gender](open-note-effect-no-moderators.md) — related
 - [Students expect open-note testing to confer an exam advantage, and expectations differ by the condition students are assigned to](students-expect-open-note-advantage.md) — related
+- [E-CLASS scores are stable under the null condition of no laboratory enrollment, supporting test-retest reliability](eclass-test-retest-reliability.md) — related

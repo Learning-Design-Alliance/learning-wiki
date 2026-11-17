@@ -64,6 +64,7 @@ Reflection supports learning only when it is specific and process-focused. Gener
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 - [Use GBA data to identify perfunctory game moments and redesign them as reflective practices embedded in game-flow](gba-data-informs-reflective-redesign.md)
 - [Revise reflection prompts to explicitly require action plans and support revisiting past reflections](revise-reflection-prompts-action-plans.md)
+- [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 
 ## Examples
 - **Problem-solving debriefs in mathematics:** after a CGI-style problem session, the teacher asks students to explain how they monitored their own solution path and what they would change — the reflection phase of [Cognitively Guided Instruction](../principles/responsive-teaching.md).

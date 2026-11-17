@@ -48,3 +48,4 @@ Pre-course SKA question answered by 73 students and post-course three-option que
 - [The proportion of students endorsing astrology's usefulness decreased after the course, with 89% post-course holding that astrology lacks evidential support](astrology-endorsement-decreased-after-astronomy-course.md) — related
 - [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding produced a medium-effect improvement in pre-service teachers' conceptual understanding of electromagnetism and waves and optics](scaffolding-medium-effect-conceptual-understanding.md) — related
+- [College students commonly misconstrue radio images of the Milky Way as depictions of sound rather than light](radio-image-sound-misconception.md) — related

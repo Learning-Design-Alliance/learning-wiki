@@ -49,3 +49,4 @@ Subgroup analysis of the same pre/post Berlin questionnaire study: the 30 studen
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement](assistments-quartile-q2-most-effective.md) — related
+- [Students with the lowest pretest scores showed the largest gains, with binned gains decreasing from 0.33 (0–3 correct) to 0.18 (4–6) to 0.05 (7–9)](lowest-pretest-scorers-largest-gains.md) — related

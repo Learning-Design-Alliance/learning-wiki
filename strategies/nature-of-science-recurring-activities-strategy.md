@@ -45,6 +45,7 @@ The article recommends shaping science attitudes through classroom activities an
 ## Related Strategies
 
 - [Use activity-based posters in English classes to support achievement, retention and positive attitudes](use-activity-based-posters-english-classes.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 -

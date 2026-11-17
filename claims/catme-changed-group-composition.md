@@ -49,3 +49,4 @@ Manipulation check comparing group structures (Table 2) across formation strateg
 - [In the fall semester course, group formation strategy (maximally heterogeneous vs. random) had no detectable effect on students' lab report grades](fall-lab-report-grade-null-group-formation.md) — related
 - [A recent study showed no difference in undergraduate biology lab performance between maximally heterogeneous groups and randomly assigned groups.](no-difference-heterogeneous-vs-random-biology-lab.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — a broader claim this one bears on
+- [Section A more than halved its number of detected communities over the semester, indicating fewer students working in isolation](section-a-community-count-halved.md) — related

@@ -48,3 +48,4 @@ EEG planned contrast from the classroom study. "no differences were observed bet
 - [Student attention, indexed by occipital alpha power, is lower during teacher-initiated activities (lecture, video) than student-initiated activities (group work, independent work) in a college classroom](alpha-power-lower-teacher-initiated-than-student-initiated.md) — related
 - [Time-related changes in attention within activities occurred only during independent work, not across the other activities](time-effect-only-independent-work.md) — related
 - [Observer ratings diverged from neural measures: behavioral ratings showed no teacher-initiated versus student-initiated difference and rated group work as more inattentive than independent work](observer-ratings-diverge-from-eeg.md) — related
+- [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — related

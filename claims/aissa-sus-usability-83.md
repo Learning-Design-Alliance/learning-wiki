@@ -62,3 +62,4 @@ Quantitative usability assessment in the UAM pilot: the SUS was administered to 
 - [The developed web-based PFA program passed expert and user usability evaluations before trial deployment](web-pfa-program-usability-evaluation.md) — related
 - [The scale is quickly completed, averaging 4 min, which the authors report as good acceptability](gp-depression-scale-acceptability-4-min-completion.md) — related
 - [Despite high overall usability, only 46% of surveyed students reported they would frequently use the Learning Moment website](sus-frequent-use-only-46-percent.md) — related
+- [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related

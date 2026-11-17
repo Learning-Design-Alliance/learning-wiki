@@ -21,6 +21,7 @@ A University of Copenhagen computer-based educational program that uses cartoons
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **‘The Vicious Worm’ computer-based Taenia solium educational program**: A freely downloadable computer-based educational program developed at the University of Copenhagen that "uses cartoons, videos and quizzes to provide comprehensive information about T. solium in a fun and interactive way, set within an illustrated sub‐Saharan African context." It has Village, Town and City sections of varying complexity for different audiences, and was delivered in this study via its introductory and village sections using a generator-powered laptop and projector in an empty classroom. (Hobbs Emma C. et al (2018))
+- **Story-based game mechanics mapping threat-avoidance constructs onto game costs and feedback**: The game's story and mechanism translate each framework construct into a game element: the phisher-with-fake-worms storyline develops threat perception; eating real worms and rejecting fake ones within time and life limits develops perceived severity and susceptibility; requesting help from the teacher fish, which reduces the score by 100 seconds, addresses safeguard effectiveness and the cost of the safeguard; and encountering these situations across the game addresses self-efficacy. Storytelling techniques are used to grab attention and focus on interesting aspects of reality, with the story based on a small fish and its teacher in a big pond. (Nalin Asanka Gamagedara Arachchilage (2015))
 
 ### Claims
 - [QS2 individual scores rose from 62% pre to 82% post, with an average of 4.0 questions improving per student](../claims/vicious-worm-qs2-individual-improvement.md) [+M]
@@ -31,3 +32,4 @@ A University of Copenhagen computer-based educational program that uses cartoons
 
 ## Key Sources
 - Hobbs Emma C. et al. (2018). Preliminary assessment of the computer‐based Taenia solium educational program ‘The Vicious Worm’ on knowledge uptake in primary school students in rural areas in eastern Zambia. Tropical Medicine & International Health. https://doi.org/10.1111/tmi.13029
+- Nalin Asanka Gamagedara Arachchilage. (2015). User-Centred Security Education: A Game Design to Thwart Phishing Attacks. https://arxiv.org/abs/1511.03459

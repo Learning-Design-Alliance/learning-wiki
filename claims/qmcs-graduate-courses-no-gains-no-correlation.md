@@ -58,3 +58,4 @@ Reporting of QMCS results from graduate quantum courses, summarized in the artic
 - [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
 - [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
 - [Zero gain on QMCS questions about the uncertainty principle and the wavelength-potential relationship in modern physics courses](qmcs-zero-gain-uncertainty-principle-wavelength-potential.md) — related
+- [Lock-in experience level shows little correlation with pretest scores among graduate students](lockin-experience-weakly-correlates-pretest.md) — related

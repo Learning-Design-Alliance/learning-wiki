@@ -70,3 +70,4 @@ Illustrative failure analysis of network topology interpretation (Figure 1c), de
 - [Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies](adaptive-g-ukt-learned-topology-interpretable.md) — related
 - [The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence](grounded-multimodal-diagram-questions.md) — related
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — a narrower finding that bears on this claim
+- [Students found diagrams much easier to remember than equations, but omitted non-salient diagram features such as bar widths encoding relative magnitude](diagrams-easier-to-recall-than-equations.md) — related

@@ -52,3 +52,4 @@ Analysis of co-regulation activities across early, middle and later phases in th
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
 - [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](iwb-adaptive-decision-making-medical-emergency.md) — related
+- [Humor and epistemic or affective distancing facilitate rather than derail group discussion](distancing-moves-facilitate-discussion.md) — related

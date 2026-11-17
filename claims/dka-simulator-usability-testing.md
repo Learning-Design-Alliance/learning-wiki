@@ -51,3 +51,4 @@ Heuristic evaluation of the simulator prototype by a human factors engineer usin
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [Expert reviewers attributed OLabX usability weaknesses to standard ease-of-use provisions rather than core OLabX functionality](olabx-weaknesses-ease-of-use-not-core.md) — related
+- [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related

@@ -49,3 +49,4 @@ Online experiment with 100 Prolific participants answering 120 general informati
 - [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — related
 - [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related
 - [In simulations, resolution metrics become strongly positively related to knowledge once guessing is possible, even when true resolution is constant](simulation-guessing-biases-resolution-metrics.md) — related
+- [Student interpretation of the non-standard ratio 0.04: 43% correct on free-response at WWU, 74% on the forced-choice version at Rutgers](toy-car-nonstandard-ratio-interpretation.md) — related

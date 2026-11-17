@@ -45,6 +45,7 @@ During lecture the instructor poses multiple-choice and True-False questions eve
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
 - [Classroom Response Systems](classroom-response-systems.md)
 - [Peer Instruction](peer-instruction.md)
+- [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](concept-tests-peer-discussion-quantum-expectation-values.md)
 
 ## Examples
 -

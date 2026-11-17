@@ -50,3 +50,4 @@ Test-retest validation study: 102 residents completed the questionnaire and 39 w
 - [Medical residents in clinical specialties scored higher on the PEACE-Q Br than residents in surgical or mixed specialties](clinical-specialty-residents-higher-peace-q-scores.md) — related
 - [Greater recent palliative care patient contact and confidence in prescribing morphine were associated with higher PEACE-Q Br performance in specific domains](palliative-care-exposure-associated-higher-knowledge.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related

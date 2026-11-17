@@ -23,7 +23,7 @@ sources:
 # InkSurvey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.
@@ -38,6 +38,7 @@ InkSurvey is free, web-based software developed for educators that collects keye
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](../claims/anonymity-mitigates-evaluation-apprehension.md) [+W]
 - [Every student present submitted at least one question response for each simulation, without external incentives](../claims/full-participation-question-submission.md) [+W]
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](../claims/students-more-curious-than-lecture-appears.md) [+W]
+- [Open-format formative assessment questions reveal student misconceptions and gaps in calculus fluency in an undergraduate electromagnetics course](../claims/open-format-questions-reveal-student-thinking-electromagnetics.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -50,6 +51,7 @@ InkSurvey is free, web-based software developed for educators that collects keye
 - F.V. Kowalski and S.E. Kowalski. (2013). The Effect of Student Learning Styles on the Learning Gains Achieved When Interactive Simulations Are Coupled with Real-Time Formative Assessment via Pen-Enabled Mobile Technology. https://arxiv.org/abs/1308.1714
 - F.V. Kowalski, Gus Greivel, Todd Ruskell, Tracy Q. Gardner, S.E. Kowalski, Thomas J. Colling, J.V. Gutierrez Cuba, and Enrique Palou. (2013). USING INKSURVEY WITH PEN-ENABLED MOBILE DEVICES FOR REAL-TIME FORMATIVE ASSESSMENT I. APPLICATIONS IN DIVERSE EDUCATIONAL ENVIRONMENTS. arXiv. https://arxiv.org/abs/1308.3727
 - F.V. Kowalski, Gus Greivel, Todd Ruskell, Tracy Q. Gardner, S.E. Kowalski, Thomas J. Colling, J.V. Gutierrez Cuba, and Enrique Palou. (2013). Using InkSurvey with Pen-Enabled Mobile Devices for Real-Time Formative Assessment II. Indications of Effectiveness in Diverse Educational Environments. https://arxiv.org/abs/1308.3729
+- Frank V. Kowalski and Susan E. Kowalski. (2014). Embedded Formative Assessment in the Undergraduate Engineering Classroom.
 
 # InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming
 

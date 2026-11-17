@@ -50,3 +50,4 @@ Summary of Part I of the discourse analysis of the three groups' first discussio
 - [A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect](ta-epistemic-distancing-intervention-silver-group.md) — related
 - [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](groups-vary-first-sensemaking-timing.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
+- [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — a narrower finding that bears on this claim

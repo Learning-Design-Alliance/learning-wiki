@@ -67,3 +67,4 @@ Repeated-measures study of N = 360 lower-secondary students in chemistry lessons
 - [Self-reported understanding of climate change correlates only weakly with measured climate science knowledge](weak-correlation-self-reported-measured-climate-knowledge.md) — related
 - [Perceived visualisation, understanding and self-assessment ratings of 3D IMs were strongly positively inter-correlated, while preference for physical models correlated weakly negatively](spearman-correlations-3d-im-likert-items.md) — related
 - [Collaborative VPs sessions show no significant change in situational interest across time points, and interest was higher than in lecture and independent VPs sessions at 10, 30 and 40 minutes but not at 20](collaborative-vps-si-stable-higher.md) — related
+- [Students rated action physics between relativity and electromagnetism in difficulty, interest and motivation](action-physics-rated-between-relativity-electromagnetism.md) — related

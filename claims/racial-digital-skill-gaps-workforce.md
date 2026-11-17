@@ -54,3 +54,4 @@ The report attributes these figures to a 2020 National Skills Coalition study, a
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
 - Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles — related
 - [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — related
+- [The math-physics-computing connection is scarce in the workforce: knowledge of the physics, mathematics, and numerical mathematics behind simulation programs is rare in job candidates](math-physics-computing-connection-scarce-expertise.md) — related

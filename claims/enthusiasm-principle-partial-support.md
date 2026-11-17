@@ -47,3 +47,4 @@ Experiment 1 API ratings showed significant activity effects on facilitating lea
 ## Related Claims
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related
 - [Learners report paying more attention during learning with a positive instructor than with a negative instructor.](positive-instructors-attention-video.md) — related
+- [Attitudinal pre- and post-studies in the author's courses suggest greater student enthusiasm for the case-study approach than for traditional lecture](case-study-greater-enthusiasm-than-lecture.md) — related

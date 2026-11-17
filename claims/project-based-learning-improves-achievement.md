@@ -92,3 +92,4 @@ Meta-analysis comparing project-based learning against traditional, teacher-led 
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [Success in PBL requires students to set goals, monitor, reflect, and sustain motivation across the whole project, yet many students do not do these processes naturally](pbl-success-requires-srl-processes-not-natural.md) — related
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — related
+- [Student feedback on the open-ended term projects raised concerns about time demands and scope](student-feedback-am-course-scope-concerns.md) — a narrower finding that bears on this claim

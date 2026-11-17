@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: benjamin-m-zwickl-2014
     resource: "https://doi.org/10.48550/arXiv.1410.0881"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Each of three analyzed students spent a significant fraction of think-aloud activity time using and modeling the measurement tools, and coded activity spanned construction, interpretation of data, comparison, and revision rather than only making measurements. [→ Benjamin M. Zwickl 2014](#benjamin-m-zwickl-2014)
@@ -71,3 +72,5 @@ Qualitative transcript excerpts from the think-aloud activity "span four diﬀer
 - [Preliminary observation: in a short lab activity students spent about twice as much time on measurement tools as on the physical system, and students who did not articulate model simplifications struggled to connect to limitations](preliminary-measurement-tool-time-twice-physical-system.md) — related
 - [The framework reliably captures and differentiates students' model-based reasoning in think-aloud lab interviews](framework-captures-and-differentiates-student-reasoning.md) — a broader claim this one bears on
 - [An explicit emphasis on modeling gives labs a natural way to integrate systematic-error analysis through model assumptions, idealizations, and refinement](modeling-integrates-systematic-error-analysis.md) — related
+- [Students in the transformed course show preliminary evidence of internalizing modeling practices in later weeks without explicit prompts](preliminary-internalization-later-weeks.md) — related
+- [Students engage in model-based reasoning throughout the troubleshooting process, with EMF phases interacting within a troubleshooting cycle](students-model-based-reasoning-throughout-troubleshooting.md) — related

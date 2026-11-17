@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: charles-baily-2015
     resource: "https://doi.org/10.1103/physrevstper.11.020124"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-instruction interest distributions differ significantly across courses, and virtually every INT-1 student agreed quantum mechanics is interesting. [→ Charles Baily 2015](#charles-baily-2015)

@@ -48,3 +48,4 @@ Attitude question in the paired pre/post questionnaires (Table 4) asked how impo
 - [After the A-SPIRE session, medical students' familiarity with and perceived importance of precision science communication significantly improved (P < 0.05)](a-spire-improves-understanding-precision-science-communication.md) — reports the opposite
 - [Communication and interprofessional skills showed the smallest self-efficacy improvements after SBE, possibly due to a ceiling effect](sbe-smallest-gains-communication-interprofessional-skills.md) — related
 - [Most medical students rate team competencies as very important for future practice and report high interest in interprofessionalism](students-rate-team-competencies-important-high-interest.md) — related
+- [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related

@@ -62,3 +62,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [The 140-item competency-based formative progress test shows very high internal consistency (Cronbach's α = 0.954)](competency-progress-test-high-reliability.md) — related
 - [A mixed-format exam combining constructed-response and integrated-testlet questions achieves satisfactory internal-consistency reliability](mixed-format-exam-reliability-alpha-079.md) — related
 - [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
+- [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related

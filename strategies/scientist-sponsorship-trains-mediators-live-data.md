@@ -46,6 +46,7 @@ The article recommends generalizing a sponsorship situation in which a working s
 - [Five recommendations for scientists venturing into science communication with teachers](five-recommendations-scientists-scicomm.md)
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 - [Researchers should run school outreach in their specialty and share adaptable lesson materials](researcher-outreach-with-shared-materials.md)
+- [Teach the philosophy of science through the dark matter problem and galaxy rotation curves in mechanics courses](dark-matter-philosophy-of-science-case-study.md)
 
 ## Examples
 -

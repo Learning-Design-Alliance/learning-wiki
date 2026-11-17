@@ -52,3 +52,4 @@ Qualitative template analysis of questionnaire comments and six semi-structured 
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
+- [Graduate students found the task of thinking from an introductory student's point of view challenging, but reported it made them more aware of introductory students' patterns of reasoning](pck-task-raised-gs-awareness-reasoning.md) — related

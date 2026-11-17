@@ -52,3 +52,4 @@ Instructor-administered course assessment on file for all 86 randomized students
 - [A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice](exam-playbook-strategic-resource-use-raises-statistics-grades.md) — related
 - [Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect](genai-aligned-exam-null-floor-effect.md) — reports the opposite
 - [Within individuals, adopting the Exam Playbook tracks better subsequent exam performance and dropping it tracks worse](exam-playbook-adopt-drop-intraindividual.md) — related
+- [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related

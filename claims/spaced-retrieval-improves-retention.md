@@ -165,3 +165,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
 - [Passive exposure such as rereading is ineffective for creating memories, while retrieval practice and deliberate practice of skills support learning; frequent active homework can increase biology performance](active-homework-retrieval-practice-effectiveness.md) — related
 - Expanding retrieval practice intervals yield significantly greater recall than steady intervals, and retrieval practice doubles performance over no-retrieval controls — reports the opposite
+- [Consistent success at recalling physics solutions did not occur until after at least one unsuccessful spaced recall session, with improvement that was not monotonic](spaced-recall-success-after-unsuccessful-session.md) — related

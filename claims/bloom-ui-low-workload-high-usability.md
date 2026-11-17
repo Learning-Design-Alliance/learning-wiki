@@ -74,3 +74,4 @@ Usability study (RQ3) with N=50 Prolific participants who used the UI for 10 min
 - [The scale is quickly completed, averaging 4 min, which the authors report as good acceptability](gp-depression-scale-acceptability-4-min-completion.md) — related
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
 - [Perceived overall workload of the HoloLens-based hip arthroplasty simulation session is low](low-overall-workload-hololens-orthopaedic-simulation.md) — related
+- [The mobile game prototype received a high subjective usability score on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related

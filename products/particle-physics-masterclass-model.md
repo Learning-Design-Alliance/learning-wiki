@@ -20,6 +20,7 @@ A CERN- and Fermilab-associated outreach programme in which high school students
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **International Masterclasses**: International Masterclasses are all-day events in which students analyze event displays from LHC data and build statistical results including mass histograms, experiencing being "particle physicists for a day." The paper states that in International Masterclasses "students have the opportunity to analyze event displays from LHC data and use these to build statistical results, including mass histograms." Participants who have done this would likely find a discovery mass plot accessible. (Kenneth Cecire (2015))
 
 ### Claims
 - [U.S. masterclass students were generally satisfied in 2011, with some improvement in overall satisfaction over 2010 despite the change from LEP to LHC exercises](../claims/masterclass-student-satisfaction-improved-2010-2011.md) [+M]
@@ -32,3 +33,4 @@ A CERN- and Fermilab-associated outreach programme in which high school students
 
 ## Key Sources
 - K. Cecire (2011). Particle Physics Masterclasses. Proceedings of the DPF-2011 Conference, Providence, RI. https://quarknet.fnal.gov
+- Kenneth Cecire. (2015). Discovery and the QuarkNet Data Portfolio. DPF 2015, The Meeting of the American Physical Society Division of Particles and Fields. https://quarknet.i2u2.org/data-portfolio

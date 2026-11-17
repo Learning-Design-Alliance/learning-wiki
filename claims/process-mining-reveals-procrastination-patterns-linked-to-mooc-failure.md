@@ -69,3 +69,4 @@ Analysis of distribution functions for extra-session procrastination (Figs. 9 an
 - [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related
 - [Students failing the Pass check phase are excluded from ranking and their peer evaluations removed](pass-check-exclusion-rule.md) — related
 - [Most students failed the robotic rope passing task, and rope passing failure predicted ball placement failure](rope-passing-task-high-failure-rate.md) — a narrower finding that bears on this claim
+- [99% of users drop out within 7 active days; all players staying beyond 7 days were voluntarily recruited at public events, and demographics do not predict hero status](heroes-voluntary-recruitment-demographics-null.md) — related

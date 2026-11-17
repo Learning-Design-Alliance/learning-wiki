@@ -66,3 +66,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Overall assessment of the SPs is very good, with a median of 1 and mean of 1.47](sp-overall-assessment-very-good.md) — related
 - [Students reported very high satisfaction with the standardised patient interactions, valuing realism, SP feedback and debrief sessions](sp-workshop-high-satisfaction.md) — related
 - [Nursing students rated the virtual patient simulation positively on system quality, information quality, satisfaction, and net benefit](e-rapids-positive-learner-ratings.md) — related
+- [Students rated the multiple-choice tests significantly more rewarding than the simulations, while judging the platform overall rewarding](multiple-choice-rated-over-simulations.md) — related

@@ -51,3 +51,4 @@ Pre-post survey of confidence in making perioperative care decisions on a 10-poi
 - [Novice trainees' confidence in laparoscopic skill rose from pre-test to post-test within Group A after training with AEDS real-time feedback](aeds-feedback-increases-novice-confidence.md) — related
 - [Self-rated operator confidence in managing distal coronary perforation and stent loss rose from before to immediately after structured simulation-based learning, in one uncontrolled pre-post study](sbl-improves-operator-confidence-pci-complications.md) — related
 - [Post-course self-reported competency and confidence in managing emergency situations increased after HASU simulation training](hasu-simulation-confidence-increase.md) — related
+- [Pre/post survey assessment of the MS CIS IT Project Management program was followed by curriculum changes including a new Agile Software Development course](pm-pre-post-survey-curriculum-changes.md) — related

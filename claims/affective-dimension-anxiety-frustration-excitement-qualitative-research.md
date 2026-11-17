@@ -57,3 +57,4 @@ Affective-dimension findings from the meta-data-analysis of 25 published article
 - [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](reporting-method-shapes-affective-network-structure.md) — related
 - [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](decreasing-emotions-linked-better-learning-gains.md) — related
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
+- [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Same pre-instruction open-ended questionnaire study; a further result on student
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
 - [Preservice teachers largely lack correct explanations for astronomical elements of everyday language, such as shooting stars and the lucero (Venus)](daily-language-astronomy-questions-results.md) — related
 - [The proportion of students endorsing astrology's usefulness decreased after the course, with 89% post-course holding that astrology lacks evidential support](astrology-endorsement-decreased-after-astronomy-course.md) — related
+- [Large fractions of middle school students hold incorrect views about sizes and distances in the universe both before and after instruction](niaq-size-distance-misconceptions.md) — related

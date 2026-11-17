@@ -56,3 +56,4 @@ Thematic analysis of an optional electronic survey with two open-ended questions
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
 - [Students requested more open-ended inquiry activities and more diverse simulation options](students-requested-open-ended-inquiry-and-options.md) — related
+- [Students most commonly chose a new perspective on physics and seeing links between areas of physics as what they enjoyed most](action-physics-enjoyment-new-perspective-and-links.md) — related

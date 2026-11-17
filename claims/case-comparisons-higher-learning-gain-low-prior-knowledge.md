@@ -67,3 +67,4 @@ The article cites Alfieri et al.'s (2013) meta-analysis reporting d = 0.60, 95% 
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — a broader claim this one bears on
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [The article reports, citing Dinan and Frydrychowski (1995), that case studies combined with team learning yielded greater material coverage and higher national exam grades than traditional lecture in organic chemistry](case-study-team-learning-exam-grades-organic-chemistry.md) — related

@@ -53,3 +53,4 @@ Within-group t-tests by gender (Laban: 8 female, 6 male; Traditional: 6 female, 
 - [Team learning achievement also favors the Laban group overall and in Sections I–III](laban-team-achievement-advantage.md) — related
 - [Both groups reached 'very good' average achievement levels, with Laban group means of 4.37–4.57 per section](both-groups-very-good-levels.md) — related
 - [Female students' good grades improved significantly in both software years versus the control year, while male students' year-wise comparison showed no significance](female-year-wise-gains-significant-males-not.md) — related
+- [Female players significantly outperform male players on tutorial scores even though males play more games per day](females-outperform-males-tutorial-scores.md) — related

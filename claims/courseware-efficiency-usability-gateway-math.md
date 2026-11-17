@@ -58,3 +58,4 @@ Primary qualitative finding from the study of faculty and student experiences in
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](idsa-lms-integration-usability-tradeoff.md) — related
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
 - [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related
+- [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related

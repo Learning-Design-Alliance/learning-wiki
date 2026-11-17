@@ -54,3 +54,6 @@ The article's authorial assertion about the OSP approach in Singapore practice, 
 - [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
 - [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related
 - [Front-loaded, isolated ICT courses in teacher education are criticised as ineffective for building broader digital capabilities](isolated-ict-courses-ineffective-critique.md) — related
+- [Many teachers encounter difficulties adapting or creating OSP simulations, citing lack of programming skills and time](osp-adoption-barriers-programming-time.md) — related
+- [The Singapore OSP learning community comprises about 23 core members, of whom around 11 are very active](osp-singapore-community-size-23-members.md) — related
+- [Teachers in the Singapore OSP community appropriate Open Source Physics resources in three ways: create, adapt, and use](osp-teachers-create-adapt-use.md) — a narrower finding that bears on this claim

@@ -92,3 +92,4 @@ Observation from the same participation data: "The lowest E-CLASS response rates
 - Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result — related
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md)
 - [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
+- [Low response rates over-represent higher-performing students, a selection effect for interpreting E-CLASS results](eclass-selection-effect-low-response.md) — related

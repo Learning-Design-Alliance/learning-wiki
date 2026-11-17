@@ -61,3 +61,4 @@ Phase 1 focus groups and survey with CCC students surfaced concrete edtech quali
 - [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](xr-effort-expectancy-user-friendly-systems.md) — a narrower finding that bears on this claim
 - [Written feedback from dissatisfied AI chatbot users split roughly equally between technical and pedagogical critiques](ai-chatbot-critiques-technical-and-pedagogical.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — related
+- [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related

@@ -49,6 +49,7 @@ The chapter recommends continuous evaluation of AI competencies to track student
 - [Use iterative draft review, real-time demonstration, DOPs and regular check-ins to keep portfolio and practical assessment robust against GenAI](iterative-review-dops-portfolio-authenticity.md)
 - [Extend competency-based progress testing to higher-level formats (key feature, situational judgement, OSCE) and richer feedback, with continued student involvement](competency-progress-test-future-formats-strategy.md)
 - [Use supplementary workshops, learning portfolios and formative testing to promote engagement with clinical skills SDL](workshops-portfolios-formative-testing-promote-sdl.md)
+- [Use technology platforms such as Blogger as self-directed portfolio systems for personalized performance tasks](blogger-self-directed-portfolio-system.md)
 
 ## Examples
 -

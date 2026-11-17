@@ -66,3 +66,4 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — related
 - [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
 - [The most valued motivational item was autonomy or freedom of choice of the skills to acquire (M = 8.33)](maes-autonomy-choice-main-motivational-stimulus.md) — related
+- [Students reported above-average interest/enjoyment after playing Quantum Dreams, but did not perceive it as feeling like other good games](imi-scores-quantum-dreams-play-session.md) — related

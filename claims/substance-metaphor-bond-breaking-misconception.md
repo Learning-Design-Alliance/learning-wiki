@@ -57,3 +57,4 @@ Classroom and interview data from the NEXUS/Physics course. Anita said she used 
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — reports the opposite
 - [Misconceptions acquired in one science area interfere negatively with learning in another area, motivating interdisciplinary treatment of transversal concepts](misconceptions-one-area-hinder-learning-another.md) — related
 - [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — a broader claim this one bears on
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related

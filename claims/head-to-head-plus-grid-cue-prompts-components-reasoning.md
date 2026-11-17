@@ -51,3 +51,4 @@ Interview observation across students on Question 8. Student F discussed only ho
 - [Students using the components method persisted with it even when the question did not provide a grid](components-method-persists-without-grid.md) — related
 - [Students tend to choose one vector addition solution method and apply it across different representations of the question](students-stick-to-one-vector-addition-method-across-representations.md) — a broader claim this one bears on
 - [The only student who changed methods switched from bisector to head-to-tail and attributed the switch to recall of the classroom-taught method](student-h-switched-methods-citing-classroom-method.md) — reports the opposite
+- [Freshman engineering students strongly favor difference strategies over ratio strategies when judging squareness and vector direction, with only 17% choosing the ratio-based answer on the squareness item](difference-strategy-favored-over-ratio-strategy.md) — related

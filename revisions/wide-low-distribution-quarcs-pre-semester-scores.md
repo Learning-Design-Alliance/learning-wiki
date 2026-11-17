@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/wide-low-distribution-quarcs-pre-semester-scores.md
+---
+
+# Revision history: [claims/wide-low-distribution-quarcs-pre-semester-scores](../claims/wide-low-distribution-quarcs-pre-semester-scores.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1507.03997 (The Quantitative Reasoning for College Science (QuaRCS) Assessment, 1: Development and Validation) via eval_harness.py + ingest_extractions.py

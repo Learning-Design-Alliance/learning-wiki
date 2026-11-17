@@ -54,3 +54,4 @@ Theoretical argument in the brief about U.S. inclusion efforts for students iden
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related
+- [The article reports that an aesthetic, multimodal computing experience was inclusive for two initially disinterested students, inviting them into a domain of practice for which they initially had no interest and enabling full participation](aesthetic-computing-experience-inclusive-for-disinterested.md) — related

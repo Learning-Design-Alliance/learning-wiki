@@ -50,3 +50,4 @@ Blinded panel assessment of ChatGPT 4.0 output across three sessions (~30 min to
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in discriminative index in a real dental exam](chatgpt-educator-mcq-no-discrimination-difference.md) — related
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — possibly the same claim (merge candidate)
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — related
+- [Free-response piloting of QuaRCS questions generated distractors from common misconceptions and led to rejection or revision of problematic items](free-response-piloting-vets-quarcs-items.md) — related

@@ -50,3 +50,4 @@ Frequency distribution of post-test scores (Table 2) for the 207-student mastery
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
 - [Figure 1 shows an upward intercept shift in post-implementation proficiency for City Connects students relative to comparison students](city-connects-rd-intercept-shift-figure1.md) — related
 - [Overall knowledge test score distribution shifted upward after the A-SPIRE session (U = 995.00, P < 0.05), though the median score remained unchanged](a-spire-knowledge-test-distribution-upward-shift.md) — related
+- [In the EoL group, overall grade was shifted upward relative to assignment average, and low-completion high-grade outliers were less frequent than in the weekly group](eol-decoupling-assignment-average-overall-grade.md) — related

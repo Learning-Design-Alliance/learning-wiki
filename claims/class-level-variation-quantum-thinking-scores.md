@@ -50,3 +50,4 @@ Descriptive comparison across the five professors' classes from the questionnair
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
 - [Few students recognize that classical uncertainty in a Plinko game is a false analogy for quantum uncertainty, with course-dependent reasoning about the two systems.](plinko-false-analogy-rarely-recognized.md) — related
 - [QMCA score patterns across five quantum concept areas are strikingly similar across 10 institutions, with greatest variation in measurement](qmca-cross-institution-consistent-patterns.md) — related
+- [Students' effect sizes increase by 0.154 for every term a faculty member has previously taught the course with LAs, a statistically significant difference](lasso-faculty-la-experience-effect.md) — related

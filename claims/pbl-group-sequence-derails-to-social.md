@@ -56,3 +56,4 @@ Sequence mining and distribution plots of group-level interactions (RQ1) showed 
 - Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Co-constructions of loaded moments can result in specific long-term relationship- and bond-development](loaded-moment-outcomes-shape-long-term-relationship-development.md) — related
 - [Dense networks with similar others and strong bonds foster perceived learning in online networks.](dense-networks-foster-perceived-learning.md) — related
+- [Humor and epistemic or affective distancing facilitate rather than derail group discussion](distancing-moves-facilitate-discussion.md) — related

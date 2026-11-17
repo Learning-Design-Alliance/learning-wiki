@@ -46,4 +46,4 @@ The article proposes classifying the use of open source simulation into three st
 -
 
 ## Key Sources
-- Lye, S. Y., Wee, L. K., Kwek, Y. C., Abas, S., & Tay, L. Y. (2014). Design, customization and implementation of energy simulation with 5E model in elementary classroom. Educational Technology & Society, 17(3), 121-137. http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2383.0
+- Lye, S. Y., Wee, L. K., Kwek, Y. C., Abas, S., & Tay, L. Y. (2014). Design, customization and implementation of energy simulation with 5E model in elementary classroom. Educational Technology & Society, 17(3), 121-137. http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2383.0. [doi:10.48550/arxiv.1408.7040](https://doi.org/10.48550/arxiv.1408.7040)

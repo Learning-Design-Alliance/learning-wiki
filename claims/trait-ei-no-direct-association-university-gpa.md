@@ -83,3 +83,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Self-regulation is positively associated with academic self-efficacy in adolescents](self-regulation-positively-associated-academic-self-efficacy.md) — related
 - [Gender, country, intellect, and conscientiousness predict GPA, with intrinsic motivation ceasing to predict once personality traits are added](hierarchical-regression-gpa-predictors-pe-students.md) — related
 - [Student GPA did not predict the value students placed on the group activity](gpa-did-not-predict-activity-value.md) — related
+- [Self-perceived multiple intelligences correlate positively with polytechnic students' CGPA, with correlations the authors describe as significant, positive, moderate or weak](all-mi-types-correlate-with-achievement.md) — related

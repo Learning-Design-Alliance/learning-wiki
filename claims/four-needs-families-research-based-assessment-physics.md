@@ -51,3 +51,4 @@ Phenomenographic interview study with 10 physics faculty and 14 department heads
 - [Faculty role (department head versus faculty member) shapes assessment perceptions more than school size, with department heads dominating broader-context discussions.](role-and-institution-size-shape-assessment-perceptions.md) — related
 - [Faculty want to norm assessment results by comparing to other schools and interacting with faculty and experts from other institutions.](faculty-want-assessment-comparison-and-community.md) — a narrower finding that bears on this claim
 - [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related
+- [Half of faculty would make no change to their most recent mentoring experience and want departmental funding, skill-building, and networking support rather than interference in mentoring](faculty-mentoring-autonomy-constraint.md) — related

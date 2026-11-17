@@ -50,3 +50,4 @@ Qualitative microanalysis of one think-aloud interview with a 6th-grade student,
 - [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — a broader claim this one bears on
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [A student used slider extremes to make qualitative comparisons of skater mass effects](slider-extremes-support-qualitative-comparisons.md) — related
+- [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related

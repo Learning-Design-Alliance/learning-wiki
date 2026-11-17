@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 688 claims (367 show a difference, 161 mixed, 160 no difference) · 484 studies (252 associational, 170 causal, 20 review, 18 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 484 report an effect size · 680 claims rest on one study
+> **Evidence** · 694 claims (372 show a difference, 162 mixed, 160 no difference) · 487 studies (254 associational, 170 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 69 of 487 report an effect size · 686 claims rest on one study
 
 ## How to read this page
 
@@ -727,6 +727,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Students at three UK universities show a statistically significant pre-instruction gender gap on the FCI, with males outperforming females](../claims/pre-instruction-fci-gender-gap-three-uk-universities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The FCI gender gap persists after instruction at all three UK universities but is reduced, remaining statistically significant](../claims/fci-gender-gap-persists-reduced-after-instruction.md) [~M] — an instructional effect differs by group
 - [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](../claims/gender-gap-gre-timed-tests.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Among five tested factors, only discussing the underrepresentation of women positively correlated with high-school girls' interest in physical science careers](../claims/discussing-underrepresentation-boosts-girls-interest.md) [+M] — an instructional effect differs by group
+- [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](../claims/fci-consistent-gender-gaps-docktor-heller.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female players significantly outperform male players on tutorial scores even though males play more games per day](../claims/females-outperform-males-tutorial-scores.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students' average effect sizes in LA-supported courses were statistically significantly different from, and higher than, female students'](../claims/lasso-gender-effect-size-gap.md) [+M] — an instructional effect differs by group
+- [Reformed pedagogies and a values-affirmation exercise reduced or eliminated gender gaps in some studies, with replication failures reported](../claims/reformed-pedagogy-gender-gap-reduction-mixed-replication.md) [~M] — an instructional effect differs by group
+- [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](../claims/rfci-context-change-narrowed-gap-via-men.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

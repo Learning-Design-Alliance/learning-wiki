@@ -51,3 +51,4 @@ Guessing-parameter results from the fitted item characteristic curves in the FCI
 - [FCI raw score and IRT-derived proficiency have an approximately linear relationship with R2 equal to 0.994](fci-raw-score-linear-with-irt-proficiency.md) — related
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
 - [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related
+- [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related

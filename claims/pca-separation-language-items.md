@@ -48,3 +48,4 @@ Principal component analysis of the same 15 abilities in the 17,848 verbal parti
 - [Parent-reported language comprehension abilities in autistic individuals cluster into three distinct mechanisms: Command, Modifier, and Syntactic](three-receptive-language-comprehension-clusters-autism.md) — related
 - [Hierarchical clustering of 15 language comprehension abilities in verbal individuals with language deficits yields three distinct ability clusters: command, modifier, and syntactic](three-language-comprehension-mechanism-clusters.md) — related
 - [Joint clustering of receptive and expressive items yields six distinct clusters, supporting independent receptive and expressive dimensions](six-clusters-joint-receptive-expressive.md) — related
+- [Principal component analysis finds the E-CLASS does not exhibit strong factors, consistent with its design targeting many distinct learning goals](eclass-pca-no-strong-factors.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: loo-kang-wee-2012
     resource: "https://doi.org/10.48550/arXiv.1206.6489"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q1`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students guided to propose a dynamic particle model with a non-zero x-direction force, and to compare it with the real video data, are compelled to rethink their assumption of a non-zero horizontal force. [→ Loo Kang WEE 2012](#loo-kang-wee-2012)

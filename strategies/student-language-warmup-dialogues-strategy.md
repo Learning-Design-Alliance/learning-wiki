@@ -45,6 +45,7 @@ The curriculum opens each section with fictional dialogues between archetypal st
 - [Accessing Students’ Background Knowledge](accessing_students_background_knowledge.md)
 - [Begin each science unit with science-fiction reading to draw attention to the subject](unit-opener-scifi-reading.md)
 - [Close each chapter with a data-based Wrapping It Up activity and a graded Mission Report for assessment and feedback](wrapping-it-up-mission-report-strategy.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Examples
 -

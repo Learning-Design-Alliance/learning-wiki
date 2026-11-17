@@ -51,3 +51,4 @@ Retrospective observational analysis of platform scoring data and university cou
 - [Patterns of Full Code use were similar across students of different academic performance](full-code-use-patterns-similar-across-performance.md) — related
 - [Voluntary use of the Full Code platform was highly feasible, with 590 of 1452 enrolled students (40.6%) participating](full-code-voluntary-use-feasible-590-students.md) — related
 - [Clinical reasoning performance in the FPE is positively but weakly correlated with average academic performance](fpe-weakly-correlated-with-academic-performance.md) — related
+- [The authors report a strong correlation between proper use of the platform and obtained results](arco-proper-use-correlated-with-results.md) — related

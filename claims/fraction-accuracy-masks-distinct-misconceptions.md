@@ -49,3 +49,4 @@ Theoretical argument in the editorial, drawing on cited fraction-comparison rese
 - [Participants committed more errors on common-numerator prime items than on denominator-numerator control prime items](common-numerator-prime-higher-error-rate.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
 - [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](fsi-gains-common-numerator-whole-number-bias-items.md) — related
+- [Probability ranking, consistent with novice fraction-comparison strategies such as numerator-denominator differences, is the most common incorrect justification students give for probability ratio answers](probability-ranking-common-incorrect-justification.md) — related

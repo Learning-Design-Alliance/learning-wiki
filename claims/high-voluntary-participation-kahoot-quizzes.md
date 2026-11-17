@@ -50,3 +50,4 @@ Observational participation outcome from the 2018 quasi-experimental cohort. The
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
 - [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related
 - [Team-based Kahoot® quizzes yield significantly higher quiz scores than individual play in histology teaching sessions](team-based-kahoot-quiz-scores-higher-than-individual.md) — related
+- [Voluntary use of StudentResearcher was retained well as the exam approached, with weekly badge counts dropping only 30% from week one to the last week](studentresearcher-badge-retention-high.md) — related

@@ -50,3 +50,4 @@ The LSCI was administered pre- and post-instruction; class-averaged normalized g
 - [When the textbook was optional, exam scores of students who purchased it did not differ statistically from those who did not](astro101-purchasers-nonpurchasers-exam-no-difference.md) — related
 - [Students using the ICB inquiry textbook achieved significantly higher Biology Concept Inventory gains than peers using a traditional textbook, in all six topic categories](icb-textbook-bci-gains-all-categories.md) — reports the opposite
 - [The optional-textbook class's Star Properties Concept Inventory normalized gain exceeded that of a national sample of Astro 101 classes](spci-gain-optional-textbook-exceeds-national-sample.md) — related
+- [The participant group began the course with pre-instruction LSCI scores equivalent to both non-participating classmates and national Astro 101 averages](participant-group-representative-pre-instruction.md) — related

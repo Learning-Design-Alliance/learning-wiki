@@ -48,4 +48,4 @@ The Bradford Robotic Telescope project provides professional development for a t
 -
 
 ## Key Sources
-- Fitzgerald, M.T., Hollow, R., Rebull, L.M., Danaia, L. and McKinnon, D.H. (2014). A Review of High School Level Astronomy Student Research Projects over the last two decades. Publications of the Astronomical Society of Australia. https://arxiv.org/abs/1407.6586
+- Fitzgerald, M.T., Hollow, R., Rebull, L.M., Danaia, L. and McKinnon, D.H. (2014). A Review of High School Level Astronomy Student Research Projects over the last two decades. Publications of the Astronomical Society of Australia. https://arxiv.org/abs/1407.6586. [doi:10.1017/pasa.2014.30](https://doi.org/10.1017/pasa.2014.30)

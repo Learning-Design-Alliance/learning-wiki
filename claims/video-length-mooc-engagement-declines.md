@@ -62,3 +62,4 @@ The essay reports, citing Guo et al. (2014), an observational analysis of video-
 - [Students split evenly on optimal podcast length: 49% found 3 minutes optimal while an equal proportion preferred 5 minutes](podcast-length-split-three-versus-five-minutes.md) — related
 - [Student engagement with MOOC videos drops sharply as video length increases beyond 6 minutes](video-length-median-engagement-declines.md) — possibly the same claim (merge candidate)
 - [edX content experiments can randomly assign equal-sized participant groups to different course components, as in a three-version motivational video experiment](edx-three-version-motivational-video-experiment.md) — related
+- [Forum involvement declines sharply as a MOOC progresses, and instructor participation does not reduce the decline rate](forum-posts-decline-as-course-progresses.md) — related

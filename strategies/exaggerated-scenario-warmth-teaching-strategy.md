@@ -45,4 +45,4 @@ This strategy has learners relate an original dissipative scenario to an exagger
 -
 
 ## Key Sources
-- Daane, A. R., McKagan, S. B., Vokos, S., & Scherr, R. E. (2014). Energy conservation in dissipative processes: Teacher expectations and strategies associated with imperceptible thermal energy. https://arxiv.org/abs/1410.0379
+- Daane, A. R., McKagan, S. B., Vokos, S., & Scherr, R. E. (2014). Energy conservation in dissipative processes: Teacher expectations and strategies associated with imperceptible thermal energy. https://arxiv.org/abs/1410.0379. [doi:10.1103/physrevstper.11.010109](https://doi.org/10.1103/physrevstper.11.010109)

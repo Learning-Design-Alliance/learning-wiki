@@ -10,6 +10,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: ben-van-dusen-and-valerie-otero-2012
     resource: "https://doi.org/10.48550/arXiv.1209.1369"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
-> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

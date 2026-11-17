@@ -48,3 +48,4 @@ Author's practitioner report (type e) of roughly ten years of use of the Partici
 - [PBL instruction produces a larger shift toward physics expert-like attitude than traditional instruction among secondary students](pbl-greater-expert-like-attitude-shift-than-traditional.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
 - [Students report positive attitudes towards studying physics in the blended web-based environment](web-based-learning-positive-attitudes-toward-physics.md) — related
+- [Repeatedly instructed and graded comparison cycles in an introductory physics lab led over half of students to keep proposing or making changes to their experimental methods even after instructions were removed](comparison-cycles-sustained-method-changes.md) — related

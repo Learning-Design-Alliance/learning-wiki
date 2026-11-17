@@ -75,3 +75,5 @@ Interview data from 19 modern physics students. Student G described the electron
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related
+- [Students spontaneously engage in metacognition, explicitly tagging when their reasoning switches between quantum and classical explanations](spontaneous-metacognitive-tagging-classical-quantum.md) — related

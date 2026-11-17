@@ -54,3 +54,5 @@ Teacher report on eBook implementation during in-school use. Several teachers im
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
+- [Polytechnic lecturers found the CIDOS e-learning system not user friendly, too complex and difficult to use](cidos-elearning-not-user-friendly-lecturers.md) — related
+- [The authors report that a user-friendly nano-visualization program can acquaint high-school students with nanotechnology](nano-visualization-acquaints-high-school-students.md) — related

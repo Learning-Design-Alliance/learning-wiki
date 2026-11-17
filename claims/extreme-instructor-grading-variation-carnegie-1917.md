@@ -69,3 +69,4 @@ Continuation of the Plate III instructor-level analysis of assigned grades. The 
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [Circulating a report urging uniform grade distribution produced little or no change in instructors' grading practices](grading-report-little-effect-on-practice.md) — related
 - [Academic subjects were graded to a markedly higher standard than shop subjects, with far larger shares of grades below passing](academic-vs-shop-grading-standards.md) — related
+- [The institution-wide, uncoordinated physics contact hour drew extremely low attendance (below 1 percent), while the instructor's own weekly study hour drew 15 to 20 percent of his students.](uncoordinated-contact-hour-low-attendance.md) — related

@@ -48,3 +48,4 @@ Item-level analysis of the split-class comparison, plotted per-item in Fig. 4. T
 - [CMR format captures most but not all FR reasoning: about 74% of FR responses matched CMR reasoning elements](cmr-captures-three-quarters-of-fr-reasoning.md) — related
 - [Item-level score differences between MC and FR CUE versions are significant for 4 of 16 items, with the MC version easier on only two](mc-cue-item-difficulty-four-of-sixteen.md) — related
 - [Item difficulty was slightly higher (easier) for 3-option items on the ITE-CCM only, while item discrimination was similar between formats on both exams](three-option-item-difficulty-discrimination-similar.md) — related
+- [All CMR CUE items fall within an acceptable difficulty range (30–75%) and show statistically significant item-test correlations (0.28–0.55), supporting item discrimination](cmr-cue-item-difficulty-and-discrimination-acceptable.md) — related

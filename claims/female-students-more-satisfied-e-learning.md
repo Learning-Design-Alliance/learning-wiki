@@ -60,3 +60,4 @@ A t-test on global satisfaction ratings from 1,185 students on 27 e-learning cou
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
 - [Male students and students from rural areas give lower evaluations of and are less satisfied with ongoing online education than female and urban students](gender-area-gaps-online-education-perceptions.md) — related
 - [Nurses rate e-learning as more valuable for their working situation than classroom teaching despite similar content](e-learning-higher-specific-work-value-rating.md) — related
+- [Male students' average effect sizes in LA-supported courses were statistically significantly different from, and higher than, female students'](lasso-gender-effect-size-gap.md) — related

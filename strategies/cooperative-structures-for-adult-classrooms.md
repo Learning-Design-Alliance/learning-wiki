@@ -52,6 +52,7 @@ The handbook catalogs the most commonly used cooperative learning structures and
 - [Cooperative Learning Activities](cooperative-learning.md)
 - [Pair JAS with student-centered models and strategies](jas-with-student-centered-models.md)
 - [Use structured Cooperative Learning activities — Think-Pair-Share, Numbered Heads Together, Jigsaw, and Circle the Sage — to maximize learner interaction](cl-activity-structures-strategy.md)
+- [Implement cooperative learning through four named practices and a balance of group and individual grades](bioled-cooperative-learning-practices.md)
 
 ## Examples
 -

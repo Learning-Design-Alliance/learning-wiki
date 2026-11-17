@@ -42,7 +42,8 @@ The article's multi-faceted data collection strategy combined public distributio
 - [The participant pool spans many health care professions, led by nurses (31.3%) and including nonclinical personnel](../claims/professionally-diverse-completer-sample.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Distribute stimulating teaching and learning tasks coupled with real equipment through professional development workshops for teachers](stimulating-tasks-with-real-equipment-distribution.md)
 
 ## Examples
 -

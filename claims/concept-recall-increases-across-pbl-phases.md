@@ -49,3 +49,4 @@ Descriptive results from the concept recall tests administered to 223 students a
 - [No significant effects of tutor subject-matter expertise or cognitive congruence were found on concept recall at any PBL phase](no-significant-expertise-cognitive-congruence-effect-learning-phases.md) — related
 - [A special-issue study proposed and tested a model of how collaborative group work and independent self-study interact and build on each other across PBL phases](pbl-cumulative-learning-phase-model-study.md) — related
 - [A special-issue study applied a microanalytical approach to determine which tutor-related behaviors most affect students' knowledge construction and when during PBL](tutor-behaviors-knowledge-construction-microanalytic-study.md) — related
+- [SO \"a\" attainment trends differ by assessment type: direct assessment rose marginally while student perception rose sharply over three years](so-a-attainment-trend-by-assessment-type.md) — related

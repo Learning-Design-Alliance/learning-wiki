@@ -84,3 +84,4 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
 - [Students videotaped in a UNH cooling lab showed intense engagement and negotiation of meaning while connecting equation parameters to physical quantities](unh-cooling-lab-engagement.md) — related
 - [An inquiry-based dialogue lecture helps undergraduate students understand the rationale behind the use of differential equations in physics.](inquiry-dialogue-lecture-differential-equations-rationale.md) — related
+- [Instructors judged the open projects a good introduction to experimentation but noted students under-analyzed their data and mentoring difficulty](instructors-report-upsides-and-mentoring-difficulty.md) — related

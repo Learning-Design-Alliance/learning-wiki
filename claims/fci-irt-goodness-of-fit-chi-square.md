@@ -50,3 +50,4 @@ Goodness-of-fit analysis of the three-parameter item response model fitted to FC
 - [FCI pre- and post-test data from introductory mechanics students are reasonably treated as unidimensional, with the first eigenvalue about 5 times larger than the rest](fci-unidimensionality-eigenvalue-analysis.md) — related
 - [Within the FCI-metric, questions 1 and 6 are the easiest and 25 and 26 the hardest, while questions 5, 13 and 18 discriminate best and question 29's item characteristic curve is almost flat](fci-item-difficulty-and-discrimination-extremes.md) — related
 - [FCI raw score and IRT-derived proficiency have an approximately linear relationship with R2 equal to 0.994](fci-raw-score-linear-with-irt-proficiency.md) — related
+- [Tests whose item characteristic curves are well separated show very low answer change, with a maximum of 0.25/N for N separated questions](separated-item-curves-minimize-answer-change.md) — related

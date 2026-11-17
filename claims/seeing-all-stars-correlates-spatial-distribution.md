@@ -50,3 +50,4 @@ PCA loadings (Figure 7b) show sA227 loads most strongly on the third factor with
 - [The misconception that galaxies are randomly distributed is the hardest galaxy misconception for college students to dispel](galaxy-random-distribution-hardest-misconception.md) — related
 - [The logical order for teaching galaxy topics differs between adults and children/adolescents](galaxy-teaching-order-age-dependent.md) — related
 - [The misconception that the Milky Way is the only galaxy is the easiest galaxy item to dispel](milky-way-only-galaxy-easiest-item.md) — related
+- [Students misattribute foreground stars in an Andromeda photograph to the Andromeda galaxy rather than the Milky Way](foreground-stars-attribution-misconception.md) — related

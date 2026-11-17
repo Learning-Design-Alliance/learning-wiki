@@ -61,3 +61,4 @@ Interview theme on managing instructional delivery, illustrated by individual pa
 - [Pre-prepared flipped course material enabled uninterrupted online delivery of the dental materials course during the COVID-19 pandemic](fc-material-enabled-covid-online-delivery.md) — related
 - [Breakout groups developed unique, differing teaching plans rather than converging on one approach](breakout-groups-developed-unique-teaching-plans.md) — related
 - [Synchronous online discussions led by Makerere University were the central learning technique and enabled peer-to-peer learning across three countries](synchronous-online-discussions-central-peer-learning.md) — related
+- [Having group representatives present their answers in front of the class embarrassed students and backfired, and the strategy was immediately abandoned.](group-representative-presentations-backfired.md) — related

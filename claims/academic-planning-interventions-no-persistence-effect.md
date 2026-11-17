@@ -49,3 +49,4 @@ Null persistence outcome from the same RCT, measured in 2015 administrative data
 - [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md) — related
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related
 - [TRIAD's pre-K and follow-through effects show no persistent impact on the full sample in children's fourth-grade year](triad-no-persistent-full-sample-impact-fourth-grade.md) — related
+- [E-CLASS scores are stable under the null condition of no laboratory enrollment, supporting test-retest reliability](eclass-test-retest-reliability.md) — related

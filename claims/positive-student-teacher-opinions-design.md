@@ -75,3 +75,4 @@ Material Evaluation Form responses from two teachers. "Both of the teachers who 
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
 - [First results of the revised instruction sheet suggest at least half of students showed better understanding of the experimental procedure and of their measurements](revised-sheet-first-findings-half-better-understanding.md) — related
+- [Students expressed positive anonymous opinions about the tournament as a less stressful, cooperative form of assessment](students-positive-opinions-tournament-assessment.md) — related

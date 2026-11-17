@@ -47,6 +47,7 @@ Tracker is a free video analysis and modeling tool built on the Open Source Phys
 - Loo Kang Wee, Tze Kwang Leong. (2014). Performance Task using Video Analysis and Modelling to promote K12 eight practices of science. GIREP-MPTL 2014 International Conference, Paper 294. https://iwant2study.org/lookangejss/indexTRZdl.php
 - Loo Kang WEE, Kim Kia TAN, Tze Kwang LEONG, & Ching TAN. (2015). Using Tracker to understand 'toss up' and free fall motion: a case study. Physics Education, 50(4), 436-442. http://iopscience.iop.org/0031-9120/50/4/436/
 - Loo Kang Wee, Tze Kwang Leong. (2014). Video Analysis and Modeling Performance Task to promote becoming like scientists in classrooms. American Journal of Educational Research. http://pubs.sciepub.com/education/3/2/13/index.html
+- Lucia Lupo, Aurelio Agliolo Gallitto. (2015). Tirocinio Formativo Attivo: il Laboratorio Pedagogico Didattico TIC della Classe A049 nell'Ateneo di Palermo. https://www.geogebra.org
 
 # Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework
 

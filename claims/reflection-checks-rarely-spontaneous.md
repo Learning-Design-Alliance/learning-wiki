@@ -68,3 +68,5 @@ Second interview set (five students) explicitly targeting Reflection with a thre
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](superficial-reflection-on-derived-expressions.md) — related
 - [Upper-division students rarely spontaneously reflect on their delta-function solutions, such as checking total charge in a region](students-rarely-reflect-spontaneously-on-delta-function-solutions.md) — related
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — possibly the same claim (merge candidate)
+- [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — possibly the same claim (merge candidate)
+- [Students check units more readily than limiting behavior when reflecting on reflection and transmission coefficients](students-struggle-checking-unphysical-limits.md) — reports the opposite

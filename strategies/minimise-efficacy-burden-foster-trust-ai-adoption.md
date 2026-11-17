@@ -48,6 +48,7 @@ The article recommends that universities, policymakers and Big Tech support succ
 ## Related Strategies
 
 - [Minimize platform complexity and build instructor self-efficacy through training to support e-learning adoption](minimize-complexity-and-build-self-efficacy-training.md)
+- [Design security education programs to build threat perceptions, safeguard effectiveness beliefs, lower safeguard costs and self-efficacy](security-education-threat-perception-self-efficacy-strategy.md)
 
 ## Examples
 -

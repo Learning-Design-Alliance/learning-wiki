@@ -51,3 +51,5 @@ The authors combine the written Taylor series pretest data with Year 1 teaching 
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — a narrower finding that bears on this claim
 - [A computer-based statistical approach to entropy teaching succeeds with students at both introductory and upper-division levels](computer-statistical-entropy-approach-student-success.md) — related
+- [A student who could reproduce the textbook derivation of the Boltzmann factor verbatim could not connect it to reservoir multiplicity, showing recitation without physical understanding](derivation-recitation-without-physical-understanding.md) — related
+- [Video data show students gain appreciation for the origin of the Boltzmann factor while participating in the tutorial](tutorial-video-appreciation-of-origin.md) — related

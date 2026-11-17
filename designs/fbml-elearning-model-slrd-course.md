@@ -51,4 +51,4 @@ The researchers designed an e-learning model using Facebook Markup Language (FBM
 -
 
 ## Key Sources
-- Amasha, M., & Alkhalaf, S. (2014). The Effect of Using Facebook Markup Language (FBML) for Designing an E-Learning Model in Higher Education. International Journal of Research in Computer Science, 4(5), 1-9. https://eric.ed.gov/?id=EJ1075068
+- Amasha, M., & Alkhalaf, S. (2014). The Effect of Using Facebook Markup Language (FBML) for Designing an E-Learning Model in Higher Education. International Journal of Research in Computer Science, 4(5), 1-9. https://eric.ed.gov/?id=EJ1075068. [doi:10.48550/arxiv.1501.05576](https://doi.org/10.48550/arxiv.1501.05576)

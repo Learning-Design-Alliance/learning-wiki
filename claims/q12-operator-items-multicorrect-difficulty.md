@@ -70,3 +70,4 @@ Item-analysis finding from the first MC implementation: on multi-correct items, 
 - [Converting open-ended QMAT Q6 to MC items yielded one item at ideal difficulty (~50% correct) and one overly challenging item, guiding revision choices](q6-mc-conversion-item-difficulty-q16-q17.md) — related
 - [Upper-level students show inconsistent reasoning about the position-space wave function across consecutive questions](qm-inconsistent-reasoning-position-representation.md) — related
 - [QMAT data reveal widespread student difficulties relating the Hamiltonian to time evolution of quantum states](qmat-hamiltonian-time-evolution-difficulties.md) — related
+- [Graduate students recall Ehrenfest's theorem as a memorized fact but many do not understand how it is derived mathematically](ehrenfest-theorem-recalled-by-rote-not-understood.md) — related

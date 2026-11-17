@@ -48,3 +48,4 @@ Face-to-face quota survey of 667 members of the Belgian public plus paper questi
 ## Related Claims
 - [Belgian respondents know more basic astronomy than they think: average true/false scores near 7/10 despite a median self-rated level of 3/10](astronomy-knowledge-exceeds-self-assessment.md) — related
 - [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related
+- [Pre-service teachers' opinions of how interesting and important physics and astronomy are, and how much is left to discover, rise non-significantly from a high baseline](niaq-opinion-gains-not-significant.md) — related

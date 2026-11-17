@@ -51,3 +51,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [Student realist perspectives on quantum mechanics are nuanced, with some students distinguishing intuition from perceived correct answers](student-realist-perspectives-nuanced-intuition-versus-authority.md) — related
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — related
 - [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related
+- [Teachers reported the game's intuitive, tangible approach to quantum physics encouraged weaker students to participate more actively](eqm-tangible-approach-weaker-students.md) — related

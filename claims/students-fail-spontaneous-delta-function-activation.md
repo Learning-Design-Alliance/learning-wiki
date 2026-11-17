@@ -77,3 +77,4 @@ Think-aloud interviews with students who had completed E&M 1 one to two semester
 - [Students persistently believe the delta function is unitless, undermining interpretation of the unitful constant in charge densities](students-believe-delta-function-is-unitless.md) — related
 - [Interview students show a strong association between delta functions and point charges when constructing expressions for extended charge distributions](delta-functions-strong-point-charge-association-construction.md) — related
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — related
+- [Students consistently activate SoV resources on canonical Cartesian electrostatics exam prompts](cartesian-sov-activation-canonical-prompts.md) — related

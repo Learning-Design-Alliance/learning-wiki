@@ -53,4 +53,4 @@ Die Strategie kombiniert drei Ansätze zu einem flexiblen Blended-Learning-Veran
 -
 
 ## Key Sources
-- Braun, I. (2014). Herausforderung Peer Instruction – Bemühungen um einen doppelten Konzeptwandel in der Lehre. Hochschule Karlsruhe. https://arxiv.org/abs/1504.01583
+- Braun, I. (2014). Herausforderung Peer Instruction – Bemühungen um einen doppelten Konzeptwandel in der Lehre. Hochschule Karlsruhe. https://arxiv.org/abs/1504.01583. [doi:10.48550/arxiv.1504.01583](https://doi.org/10.48550/arxiv.1504.01583)

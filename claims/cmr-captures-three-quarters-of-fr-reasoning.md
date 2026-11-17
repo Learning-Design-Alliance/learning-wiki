@@ -50,3 +50,5 @@ Qualitative coding of FR responses to the seven Method/Reasoning questions (Q1�
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [Item difficulty differs significantly on 3 of 16 items, all easier on the CMR version](cmr-item-difficulty-three-items-easier.md) — related
 - [Students perceive show-your-work and short-answer formats as giving instructors the most information about their understanding (95%), though they find them harder than MC](students-perceive-written-formats-most-informative.md) — related
+- [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
+- [On CMR CUE Q5, 42% of students selected Gauss's Law, and most of those (89%) selected reasoning elements indicating they misapplied Gauss's law by ignoring the cavity's asymmetry](students-misapply-gausss-law-off-center-cavity-q5.md) — related

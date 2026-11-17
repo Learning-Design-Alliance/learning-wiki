@@ -49,3 +49,4 @@ Authors' interpretation in the Limitations and outlook section noting that opt-i
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related
 - [Students strongly identified with the role of the veterinarian as an educator after the placement](anatomy-ems-vet-as-teacher-identity.md) — related
+- [The outreach course attracted disproportionately few top-grade students: only about 3% of the top 10% students took the elective, and some student productions treated the physics superficially](outreach-course-top-students-underrepresented.md) — related

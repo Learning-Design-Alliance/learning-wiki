@@ -42,6 +42,7 @@ The article distills its focus-group experience into three general strategies fo
 - [Design CBR courses with progressive checkpoints, small-group tutoring, community-based learning, and e-portfolio documentation](pbl-course-design-checkpoints-community-eportfolio-strategy.md)
 - [Redesign AI-era physics courses around an unaided written examination with mock exams, prepared tutorial discussion, and research-shaped tasks as bonus work with scaffolding](kt1-next-course-redesign-strategy.md)
 - [Implementation practices for in-class tutorials in upper-division courses: sell students on group work, distribute worksheets just prior to use, and include challenge problems](upper-division-tutorial-implementation-practices.md)
+- [Vary physical contexts and practice reflection skills when teaching boundary conditions](vary-contexts-and-practice-reflection-for-bcs.md)
 
 ## Examples
 -

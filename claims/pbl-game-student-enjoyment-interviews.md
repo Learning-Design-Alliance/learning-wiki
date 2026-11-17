@@ -70,3 +70,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
 - [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related
+- [Undergraduate students in a project-based outreach course rated the course very positively, averaging 4.5(0.6) on a 1–5 appreciation scale, and 96% said they would not have preferred another elective](outreach-course-high-student-appreciation.md) — related

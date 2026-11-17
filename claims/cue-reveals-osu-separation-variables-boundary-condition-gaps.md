@@ -74,3 +74,5 @@ Per-question comparison from the Figure 2 analysis of CUE results at OSU versus 
 - [OSU students scored on average 36.5±2.4% on the CUE post-test, lower than the 47.8±1.9% reported at CU](osu-cue-post-test-mean-lower-than-cu.md) — related
 - [OSU students scored lower on the CUE post-test than CU students (36.6% vs 47.8%) but showed similar normalized learning gains (~33%) in PER-based courses](osu-cue-posttest-lower-scores-similar-gains.md) — related
 - [Exposure to separation of variables in quantum-mechanics contexts did not transfer to E&M problem solving at OSU](separation-variables-no-transfer-to-em.md) — related
+- [Students frequently select wrong boundary-condition equations or field components and drop exponential terms when setting up boundary equations](component-selection-and-amplitude-sum-errors.md) — related
+- [Almost two-thirds of spherical SoV exam solutions included correct expressions for all explicit and implicit boundary conditions](spherical-sov-boundary-condition-expressions.md) — related

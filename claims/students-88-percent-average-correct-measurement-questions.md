@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: wee-2014
     resource: "https://doi.org/10.1088/0031-9120/49/5/493"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After lessons using the EJS vernier caliper and micrometer models with real instruments, 70 students averaged 88% correct on seven multiple-choice questions on a Google Site. [→ Wee 2014](#wee-2014)

@@ -48,6 +48,7 @@ The article recommends that physics departments add a dedicated mathematical phy
 - [Reform a graduate course syllabus by adding modern content (postulates, density matrices, entanglement) while cutting dated standard topics](graduate-qm-syllabus-reform-strategy.md)
 - [Offer basic-skills mathematics enrichment to students below SAT-M 600 before college-level mathematically intensive coursework](math-enrichment-below-sat-m-600-strategy.md)
 - [Offer a STEM-specific pre-college preparation course emphasizing mathematics and effective learning habits, and expose female high-school students to extra-curricular advanced mathematics](stem-specific-preparation-course-strategy.md)
+- [Make mathematization an explicit part of the introductory physics curriculum rather than relying on prerequisite algebra courses](explicit-mathematization-in-introductory-physics-curriculum.md)
 
 ## Examples
 -

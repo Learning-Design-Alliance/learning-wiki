@@ -77,3 +77,4 @@ Exploratory subgroup analysis in Study 1 at the seven-day retention test; female
 - [No overall gender differences in examination performance, with one exception at T1 for Rater 1](no-gender-difference-facial-examination-osce.md) — related
 - [Female students significantly outperform male students on practical skills at 4 months and on communication ratings regardless of group](gender-differences-osce-scores.md) — reports the opposite
 - [Female raters scored residents significantly lower than male raters on the ICAR (6.12 vs 6.82), the only significant rater-characteristic main effect](rater-gender-effect-icar-scores.md) — related
+- [Female players significantly outperform male players on tutorial scores even though males play more games per day](females-outperform-males-tutorial-scores.md) — related

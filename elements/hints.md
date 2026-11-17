@@ -104,6 +104,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - A tutoring system offers a first hint that points to the next subgoal, then a later hint that shows the relevant formula.
 - A writing teacher gives a prompt about evidence quality instead of rewriting the paragraph for the student.
 - [Provide subgoal hints alongside step hints in proof construction](../strategies/subgoal-hints-in-proof-tutoring.md)
+- [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](../strategies/light-then-heavy-scaffolded-hints.md)
 
 ## Key Sources
 - Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. *Educational Psychology Review, 19*(3), 239-264. [https://doi.org/10.1007/s10648-007-9049-0](https://doi.org/10.1007/s10648-007-9049-0)

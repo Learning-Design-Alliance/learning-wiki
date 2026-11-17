@@ -57,3 +57,4 @@ Literature-based analysis in the online personalized learning systems section id
 - [Barriers to blended learning uptake include educator unfamiliarity, material-creation effort and costs, and concerns about student completion](blended-learning-uptake-barriers-educators-costs-completion.md) — related
 - [Use of the wiki was less widespread than other tools, largely because students found it difficult to use](wiki-use-less-widespread-difficult-to-use.md) — related
 - [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
+- [Many teachers encounter difficulties adapting or creating OSP simulations, citing lack of programming skills and time](osp-adoption-barriers-programming-time.md) — related
