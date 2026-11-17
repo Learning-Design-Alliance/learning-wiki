@@ -46,3 +46,4 @@ Interview data from the initial study with Irish science teachers. One teacher e
 
 ## Related Claims
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — related
+- [Standard instructor evaluation procedures reward dutiful rather than quality teaching and discourage faculty from working on standards and recruitment](evaluation-procedures-discourage-quality-teaching.md) — related

@@ -53,3 +53,4 @@ Case study of a four-student homework group videotaped while solving a French an
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — related
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related
 - [Physicists and mathematicians tend to interpret the same symbolic function differently, as shown by the coordinate-transformation 'shibboleth' problem](corinnes-shibboleth-physicist-mathematician-contrast.md) — related
+- [Disorder and chaos metaphors do productive work for students in making sense of diffusion and osmosis](disorder-metaphor-productive-diffusion-osmosis.md) — related

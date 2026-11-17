@@ -69,3 +69,4 @@ Summary of the interview study's DOI-stage placements: 84% of the sample conveye
 - [Graduate students who sought out nonmandatory teaching or training experiences progressed further toward EBT adoption](seeking-teaching-opportunities-linked-ebt-adoption.md) — related
 - [Participation in mandatory TA training showed no indication of a positive impact on EBT adoption](mandatory-ta-training-not-linked-ebt-adoption.md) — related
 - [Most graduate students receive mandatory TA training, but few receive substantial training in instructional strategies](mandatory-ta-training-lacks-instructional-strategies.md) — related
+- [Most in-training teachers had prior teaching experience but very few had experience teaching in a physics laboratory](prior-teaching-experience-without-physics-lab-experience.md) — a narrower finding that bears on this claim

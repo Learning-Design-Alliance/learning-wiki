@@ -58,3 +58,4 @@ Authors' diagnostic discussion (type e): five items assess science and reading c
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](irt-identifies-most-difficult-ultrasound-items.md) — related
 - [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related
+- [ENEM Physics items concentrate on competency 6 and some items map to more than one skill, conflicting with IRT unidimensionality](enem-items-competency-6-multiskill-unidimensionality.md) — related

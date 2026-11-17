@@ -60,3 +60,4 @@ AHP weight calculation in YAAHP 12.11 using pairwise comparisons on the 1–9 Sa
 - [Survey respondents rated all Delphi skills as important, with analytical skills rated most important and measurement skills least](all-delphi-skills-rated-important-analytical-highest.md) — related
 - [Good Clinical Care was the highest-rated competency domain for all groups, while Research Methods was the least important across all three professional groups](good-clinical-care-highest-research-methods-least.md) — related
 - [Pharmaceutical care and pharmaceutical public health competencies receive higher relevance weightings than research-related competencies](research-competencies-lowest-relevance-weighting.md) — related
+- [Advisors ranked meeting requirements as the top course-recommendation priority but rated case-based analogy least important, and most would rarely or never use the system](advisors-prioritize-requirements-distrust-automated-system.md) — related

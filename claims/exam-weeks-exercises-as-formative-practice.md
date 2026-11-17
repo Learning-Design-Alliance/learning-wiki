@@ -58,3 +58,4 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [Website analytics showed module traffic spiking in the 1-3 days before examinations and around laboratory sessions](analytics-traffic-spikes-exams-labs.md) — related
 - [Module usage declined over the semester, and the four modules without review quizzes had markedly low usage](module-usage-decline-no-quiz-modules.md) — related
 - [Students and faculty prefer multiple smaller exams over one final exam, and students wish for more self-guided study time](students-faculty-prefer-frequent-smaller-exams.md) — related
+- [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related

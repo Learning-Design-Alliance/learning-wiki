@@ -52,3 +52,4 @@ Frequency analysis of training timelines across described interventions. The rev
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [RaT curricular timing and duration vary widely, with single early-intern-year interventions of 4–8 hours most common and longitudinal curricula spanning full training](rat-curriculum-timing-duration-variation.md) — related
 - [Where ID training exists in European psychiatry programs, its format and duration vary widely, from hours of lectures to a 3-year subspecialty](id-training-format-duration-variation-europe.md) — related
+- [Intensive week-long courses cause learning to drop off significantly by the last two days](week-long-courses-learning-dropoff.md) — related

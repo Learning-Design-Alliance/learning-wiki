@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: g-s-djordjevica-and-d-pavlovic-babic-2009
     resource: "https://doi.org/10.1063/1.3322362"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 1st grade comparison, almost all gifted 'physicists' pupils (80%) scored in the highest PISA proficiency levels, against 8% of the Serbia grammar-school sample and 0.3% of the Serbia whole sample. [→ G. S. Djordjevica and D. Pavlovic-Babic 2009](#g-s-djordjevica-and-d-pavlovic-babic-2009)

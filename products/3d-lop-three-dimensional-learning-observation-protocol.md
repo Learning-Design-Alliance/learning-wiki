@@ -21,6 +21,7 @@ A classroom-video observation protocol developed by Cooper and colleagues for co
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **3D-LOP: Three-Dimensional Learning Observation Protocol for coding classroom video**: The 3D-LOP is a classroom observation protocol used to code video recordings of instruction. Like COPUS or RTOP it characterizes instructional methods, but "it also allows the user to characterize what is being taught as well as the way that it is taught". It codes each topic segment for alignment with the three dimensions and for whether instruction is instructor- or student-centered, producing timelines that show teaching activities and 3D segments. In this study, two disciplinary experts coded each of 417 segments from 82 class sessions, with a third coder added when inter-rater reliability fell below 70%. (Cooper M. M. et al. (2024))
+- **Three Dimensional Learning Observation Protocol (3D-LOP) for analyzing classroom instruction**: The 3D-LOP is an observation protocol under development to measure changes in classroom instruction resulting from the change process. It examines both the how (employed pedagogy) and the what (inclusion of 3DL) of instruction. The protocol is being applied to roughly 30 hours of recordings of introductory physics sections, each section recorded three times during the semester over the past year, and "We are in the process of validating the protocol." (James T. Laverty et al. (2014))
 
 ### Claims
 - [Segment distribution: 229 of 417 segments are neither active nor 3D; 95 are active but not 3D; 58 are both; 35 are 3D but not active](../claims/segment-distribution-417-video-segments.md) [+M]
@@ -31,3 +32,4 @@ A classroom-video observation protocol developed by Cooper and colleagues for co
 
 ## Key Sources
 - Cooper M. M., Caballero M. D., Carmel J. H., Duffy E. M., Ebert-May D., Fata-Hartley C. L., Herrington D. G., Laverty J. T., Nelson P. C., Posey L. A., Stoltzfus J. R., Stowe R. L., Sweeder R. D., Tessmer S., Underwood S. M. (2024). Beyond active learning: Using 3-Dimensional learning to create scientifically authentic, student-centered classrooms. PLoS One. https://doi.org/10.1371/journal.pone.0295887
+- James T. Laverty, Stuart H. Tessmer, Melanie M. Cooper, and Marcos D. Caballero. (2014). Engaging Physics Faculty in Course Transformation. https://arxiv.org/abs/1407.3260

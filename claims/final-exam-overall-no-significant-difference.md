@@ -51,3 +51,4 @@ Comparison of unscaled cumulative final exam scores between pre-story years (201
 - [Student self-reported negative-emotion responses about metabolism decreased and positive responses increased from week 4 to week 16 in a course using an illustrated story, in one uncontrolled pre-post study](storytelling-improved-metabolism-attitudes.md) — related
 - [Students perceived their understanding of metabolism as significantly improved over the semester](storytelling-improved-perceived-understanding.md) — related
 - [A compressed 6.5-week integrated anatomy course maintained final course grades and was associated with higher USMLE Step 1 anatomy sub-scores relative to the prior 16-week course](compressed-anatomy-course-maintained-outcomes.md) — related
+- [CUE diagnostic scores showed no evidence that the story-writing activity adversely affected student learning relative to comparable courses](cue-scores-no-learning-harm.md) — related

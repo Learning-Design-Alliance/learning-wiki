@@ -183,3 +183,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Interdependent cooperative-learning modules did not raise weekly quiz achievement once between-classroom variance was controlled](interdependent-cooperative-learning-no-quiz-gain.md) — related
 - [Within intervention classrooms, students were more collaboratively engaged during the interdependent phase 2 than phase 1](phase2-interdependence-raises-engagement.md) — a narrower finding that bears on this claim
 - [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related
+- [Distributing control of one computational agent across two sensors and two students fostered positive interdependence among elementary dyads](claim-distributed-control-positive-interdependence.md) — related

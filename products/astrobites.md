@@ -27,4 +27,4 @@ Astrobites is a not-for-profit website run by graduate students in astrophysical
 -
 
 ## Key Sources
-- Sanders, N. E., Kohler, S., Newton, E., & the Astrobites collaboration. (2012). Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom. http://astrobites.com
+- Sanders, N. E., Kohler, S., Newton, E., & the Astrobites collaboration. (2012). Preparing Undergraduates for Research Careers: Using Astrobites in the Classroom. http://astrobites.com. [doi:10.3847/aer2012030](https://doi.org/10.3847/aer2012030)

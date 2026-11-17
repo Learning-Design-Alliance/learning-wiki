@@ -69,3 +69,4 @@ End-of-semester survey using a 5-point Likert scale (1 = strongly disagree to 5 
 - [Student feedback on the EYE-ECG2 video was largely positive or neutral, with 74% of intervention students responding](student-feedback-mostly-positive-neutral.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Medical laboratory science students recorded performing histology techniques and reviewing the video with expert feedback achieved significantly higher summative practical examination scores and final grades than control students receiving peer feedback](video-feedback-higher-practical-scores-final-grades.md) — related
+- [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related

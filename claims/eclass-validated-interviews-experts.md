@@ -55,3 +55,5 @@ Validation study for the E-CLASS survey described in the design and validation s
 - [E-CLASS results show reading journal articles and posing own questions rank low in students' perceived grade importance, prompting metacognitive plans](eclass-low-rank-for-journal-reading-and-own-questions.md) — related
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
 - [Student interviews motivated changing single belief statements to personal/expert pairs to resolve ambiguity](student-interviews-drove-personal-expert-pair-format.md) — related
+- [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — related
+- [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related

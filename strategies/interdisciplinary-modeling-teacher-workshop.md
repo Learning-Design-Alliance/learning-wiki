@@ -48,6 +48,7 @@ After the Department of Mathematical Sciences launched its plan in 2009, a works
 ## Related Strategies
 
 - [Design interdisciplinary exam and homework questions that ask students to use physics and mathematics for biological ends, such as explaining organismal structure, function, and diversity](biology-authentic-question-design-strategy.md)
+- [In-service updating course for the teacher team to co-design the interdisciplinary path](teacher-team-updating-course-path-design.md)
 
 ## Examples
 -

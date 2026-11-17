@@ -79,3 +79,4 @@ Within the same perception survey, descriptive results show a minority neutralit
 - [Students mildly prefer live lectures over video lectures for exam preparation](students-prefer-live-lectures-mildly.md) — related
 - [Most surveyed medical students preferred pre-class online videos with in-class case discussion over traditional lecture](students-prefer-flipped-video-case-format.md) — related
 - [Focus groups identified interaction, small class size, active in-class activities, and pre-class online engagement as factors in positive learning experiences, with students unsure the model would work in larger classes](flipped-focus-group-positive-experience-factors.md) — related
+- [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](lectures-useful-when-students-prepared.md) — related

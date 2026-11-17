@@ -47,3 +47,5 @@ Participation reporting for the Supernova! toolkit developed with Suzaku, Swift,
 
 ## Related Claims
 - [Galaxy Zoo demonstrates that large numbers of non-specialist volunteers can perform scientifically valuable galaxy-classification work at scale](galaxy-zoo-citizen-science-scale.md) — related
+- [Swift-supported after-school programs brought STEM activities and tutoring to under-represented, primarily Hispanic students in partnership with local schools and community organizations](swift-after-school-underrepresented-stem.md) — related
+- [Swift informal outreach reached mass audiences: the Black Holes planetarium show played in over 30 venues, the PBS Nova episode was initially viewed by over 10 million people, and the Supernova! toolkit reached over 138,000 attendees through 1,284 events](swift-informal-outreach-mass-reach.md) — possibly the same claim (merge candidate)

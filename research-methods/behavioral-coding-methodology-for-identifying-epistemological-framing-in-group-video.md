@@ -12,7 +12,7 @@ generated:
 # Behavioral coding methodology for identifying epistemological framing in group video
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (3 qualitative, 1 associational), `q1`–`q2` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 5 studies (3 qualitative, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 A real-time observational coding protocol in which coders watch video of small groups without a transcript and note the exact time of changes in vocal register, affect, grammar, gesture production, and body language. Clusters are labeled with meaning-neutral labels (colors), at least two researchers code independently, and whole groups can be coded reliably because "peers typically share the same behavioral cluster." The method achieved 90% inter-rater reliability before discussion, to five seconds' accuracy.
@@ -24,6 +24,7 @@ A real-time observational coding protocol in which coders watch video of small g
 - **Track students' warrants in mathematical arguments as a window to their epistemic framing**: The paper's recommendation is to identify students' epistemic framing through the warrants of their mathematical arguments, the often unspoken bridges between data and claim. The authors "suggest: look for the (sometimes implicit) warrants they use in their mathematical arguments," because warrants are "a powerful, concise piece of evidence" of the nature students currently attribute to the math in play. (Thomas J. Bing et al. (2008))
 - **Epistemological framing coding scheme splitting Discussion into Procedural and Conceptual frames, with sensemaking operationalized as Conceptual Discussion**: The article uses epistemological framing, "a person’s implicit expectations about knowledge and learning in their current activity and context," shared by members of a collaborative group. It modifies Scherr and Hammer's scheme in two ways: coding from audio alone matched video-plus-audio coding more than 80% of the time, and the Discussion frame was split into Procedural Discussion ("figuring out what to do") and Conceptual Discussion ("figuring out what is happening" in the physics). Sensemaking is operationalized as engaging in Conceptual Discussion. (Martinuk et al. (2010))
 - **Behavior modes as indicators of epistemological framing in collaborative tutorials**: This framework holds that students' observable behaviors cluster into locally stable modes—green (discussion), blue (worksheet), yellow (socializing), red (receptive to TA)—separated by sharp transitions, and that these modes indicate how students frame the activity, i.e., their sense of "what is going on here". The article adopts Scherr's methodology, coding modes holistically from posture, gesture, vocal register, and visual focus, and uses the modes to analyze when mechanistic reasoning occurs. (Conlin et al. (2006))
+- **Four identifiable epistemological framings that lead students astray: one-step thinking, p-priming, rote reasoning, and disciplinary siloing**: The lecture enumerates four observable epistemological framings that recur in classroom video data: "One-step thinking", "P-priming", "Rote reasoning", and "Disciplinary siloing". Each is a characteristic answer to the student's implicit question about what kind of knowledge and effort the task requires, and each is sometimes perfectly appropriate but leads students into trouble in some situations. The pattern gives instructors a vocabulary for diagnosing errors as framing mismatches rather than knowledge deficits. (Edward F. Redish (2013))
 
 ### Claims
 - [Four distinct, reliably codable behavioral clusters appear in collaborative tutorial video data](../claims/four-behavioral-clusters-tutorial-video.md) [+M]
@@ -33,6 +34,7 @@ A real-time observational coding protocol in which coders watch video of small g
 - [A call to compute and compare numerical results reframed the discussion as Calculation, which the partner immediately accepted](../claims/calculation-reframe-successful-negotiation.md) [+W]
 - [Prescribed problem-solving prompts are not, in general, effective at promoting sensemaking during group problem solving](../claims/prescribed-prompts-not-sufficient-for-sensemaking.md) [+M]
 - [Members of a tutorial group occupy shared behavior modes, indicating an emergent group-level framing](../claims/group-shared-behavior-modes-emergent-framing.md) [+M]
+- [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](../claims/clicker-equal-pulls-framing-error.md) [+M]
 
 ## Related Research Methods
 -
@@ -43,3 +45,4 @@ A real-time observational coding protocol in which coders watch video of small g
 - Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. https://www.compadre.org/PER/
 - Martinuk, M. and Ives, J. (2010). Do Prescribed Prompts Prime Sensemaking During Group Problem Solving? Physics Education Research conference proceedings style manuscript, University of British Columbia. [doi:10.48550/arxiv.1111.5400](https://doi.org/10.48550/arxiv.1111.5400)
 - Conlin, L. D., Gupta, A., Scherr, R. E., & Hammer, D. (2006). The Dynamics of Students' Behaviors and Reasoning during Collaborative Physics Tutorial Sessions. Physics Education Research Conference proceedings record. https://www.compadre.org/PER/. [doi:10.1063/1.2820949](https://doi.org/10.1063/1.2820949)
+- Edward F. Redish. (2013). Oersted Lecture 2013: How should we think about how our students think? http://www.physics.umd.edu/perg/abp/TPProbs/Problems/E/E67.htm

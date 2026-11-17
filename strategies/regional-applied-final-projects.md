@@ -46,4 +46,4 @@ The proposed approval method replaces generic assessment with "trabajos finales 
 -
 
 ## Key Sources
-- Cionco, Rodolfo G. (2013). Fundamentals of Atmospheric Physics for Engineering. https://arxiv.org/abs/1208.3765
+- Cionco, Rodolfo G. (2013). Fundamentals of Atmospheric Physics for Engineering. https://arxiv.org/abs/1208.3765. [doi:10.48550/arxiv.1208.3765](https://doi.org/10.48550/arxiv.1208.3765)

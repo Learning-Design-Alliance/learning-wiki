@@ -46,9 +46,10 @@ The authors recommend that updating courses are almost the only way to reach in-
 ## Related Strategies
 
 - [Future dissemination of START should secure management buy-in, ensure practitioners and supervisors are available, and consider alternative delivery modes](start-future-dissemination-requirements-strategy.md)
+- [In-service updating course for the teacher team to co-design the interdisciplinary path](teacher-team-updating-course-path-design.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Montalbano, V., Benedetti, R., Mariotti, E., Mariotti, M. A., & Porri, A. (2012). Attempts of Transforming Teacher Practice Through Professional Development. https://arxiv.org/abs/1212.1042
+- Montalbano, V., Benedetti, R., Mariotti, E., Mariotti, M. A., & Porri, A. (2012). Attempts of Transforming Teacher Practice Through Professional Development. https://arxiv.org/abs/1212.1042. [doi:10.48550/arxiv.1212.1042](https://doi.org/10.48550/arxiv.1212.1042)

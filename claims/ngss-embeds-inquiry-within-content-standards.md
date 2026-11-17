@@ -1,0 +1,52 @@
+---
+type: claim
+title: The NGSS embeds inquiry within its content standards rather than supplying separate explicit inquiry standards as the Tennessee standards did
+description: The NGSS embeds inquiry within its content standards rather than supplying separate explicit inquiry standards as the Tennessee standards did
+id: ngss-embeds-inquiry-within-content-standards
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-17
+evidence_strength: weak
+newest_evidence: 2014
+sources:
+  - id: larry-l-bowman-2014
+    resource: "https://doi.org/10.48550/arXiv.1401.5681"
+    title: "Larry L Bowman, Jr. and Aimee L Govett. (2014). Becoming the Change: A Critical Evaluation of the Changing Face of Life Science, as Reflected in the NGSS. Submitted to The Science Educator. [doi:10.48550/arXiv.1401.5681](https://doi.org/10.48550/arXiv.1401.5681)"
+    author: Larry L Bowman, Jr. and Aimee L Govett
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: 2
+---
+
+# The NGSS embeds inquiry within its content standards rather than supplying separate explicit inquiry standards as the Tennessee standards did
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q1 i?` The authors argue that although the NGSS lists no separate inquiry standards, analysis shows more inquiry embedded in the standards than the TNCSSE explicitly stated, citing HS-LS1-3, HS-LS3-2, and HS-LS4-2. [→ Larry L Bowman 2014](#larry-l-bowman-2014)
+
+## Evidence
+
+### Larry L Bowman 2014
+
+Larry L Bowman, Jr. and Aimee L Govett. (2014). Becoming the Change: A Critical Evaluation of the Changing Face of Life Science, as Reflected in the NGSS. Submitted to The Science Educator. [doi:10.48550/arXiv.1401.5681](https://doi.org/10.48550/arXiv.1401.5681)
+
+`q1 · i?` · `theoretical · r2`
+
+Interpretive analysis of the NGSS life-science standards: the authors argue inquiry is "embedded in the standards" rather than listed separately, citing HS-LS1-3, HS-LS3-2, and HS-LS4-2 as examples coupling inquiry instruction with content instruction.
+
+> "However, after analyzing the NGSS extensively, one finds that there is mo re inquiry embedded in the standards than was previously explicitly stated by the TNCSSE."
+
+## Discussion
+
+
+## Related Claims
+- [The NGSS excludes the Tennessee standard on comparing prokaryotic and eukaryotic organelles, reflecting a shift to molecular three-domain classification of life](ngss-excludes-prokaryote-eukaryote-organelle-standard.md) — related
+- [Relocating abstract science standards such as cell division from middle grades to high school aligns curriculum with students' developmental readiness, because middle grade learning of abstract material is limited to memorization](ngss-relocates-abstract-standards-to-high-school-cognitive-readiness.md) — related
+- [The NGSS adds ecology, evolution, and biodiversity standards on group behavior, climate-change simulation modeling, and four-factor evidence-based evolution explanations, while dropping the evolutionary basis of classification](ngss-adds-ecology-evolution-biodiversity-standards.md) — related
+- [Concrete physical science topics on minerals and on elements, compounds, and mixtures move into the NGSS fifth-grade DCIs, reflecting the view that early adolescent minds learn best through concrete examples](concrete-science-topics-relocated-to-fifth-grade.md) — related
+- [The NGSS middle grades additions introduce Earth and space science standards on geologic history, natural hazards, and uneven resource distribution, and physical science standards on synthetic materials and thermal energy](ngss-middle-grades-additions-geologic-history-hazards-thermal-energy.md) — related

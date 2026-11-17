@@ -55,3 +55,4 @@ Single-group pretest–posttest pilot with all 60 newly recruited nurses analyse
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
 - [After the PBL improvement intervention, student post-PBL formative assessment scores improved significantly, with an overall Cohen's d of -0.54](pbl-intervention-formative-assessment-gains.md) — related
 - [Undergraduate MSUS course participants' self-rated ultrasound competency rose significantly from course start to end within the course group during a blended-learning course](msus-course-self-perceived-competency-gain.md) — related
+- [Students' preference for collaborative learning increased significantly after the tool-assisted course, while preference for general learning did not change significantly](collaborative-learning-preference-increased-kbdex-course.md) — related

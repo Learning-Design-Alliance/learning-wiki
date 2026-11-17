@@ -47,3 +47,5 @@ Synthesis of utilization reporting across the included literature (Table 2), wit
 ## Related Claims
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - [Listening to all podcast episodes once is associated with higher exam scores than listening to only some episodes](complete-once-podcast-listening-higher-exam-scores.md) — related
+- [Students' initial viewing behavior of the lecture video differed from their subsequent viewing behavior, consistent with downloading the starter script at the second interaction point](initial-vs-subsequent-viewing-differ.md) — related
+- [Podcast feeds were downloaded on numerous occasions but unique subscribers were indeterminate, with suspected single subscribers in three courses](podcast-feed-subscription-indeterminate.md) — a narrower finding that bears on this claim

@@ -45,4 +45,4 @@ The authors used the Model of Educational Reconstruction (citing Duit, Komorek, 
 -
 
 ## Key Sources
-- Montalbano, V., & Di Renzone, S. (2012). An empirical study on a learning path on wave physics focused on energy. Department of Physics, University of Siena.
+- Montalbano, V., & Di Renzone, S. (2012). An empirical study on a learning path on wave physics focused on energy. Department of Physics, University of Siena. [doi:10.48550/arxiv.1212.2174](https://doi.org/10.48550/arxiv.1212.2174)

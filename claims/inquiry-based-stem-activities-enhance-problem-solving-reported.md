@@ -58,3 +58,4 @@ The review reports this result, citing Karamustafaoğlu and Pektaş (2023); the 
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — reports the opposite
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Marker-based AR supports students' spatial ability, practical skills and conceptual understanding, while location-based AR mainly supports inquiry-based science activities](marker-vs-location-ar-science-support.md) — related
+- [The author reports the approach supports development of procedural and conceptual understanding, problem-solving abilities, higher-level cognitive abilities, and affective outcomes](guided-problem-solving-developmental-outcomes.md) — related

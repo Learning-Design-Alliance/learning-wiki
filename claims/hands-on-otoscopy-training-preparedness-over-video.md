@@ -48,3 +48,4 @@ End-of-clerkship survey of 115 students comparing the three randomized intervent
 - [No significant difference in number of basic or pneumatic otoscopic exams performed by medical students based on training method (task trainer, video, or peer practice)](otoscopy-training-method-no-difference-exam-counts.md) — related
 - [Despite improved comfort after training, most students used pneumatic otoscopy in less than 10% of their ear exams](pneumatic-otoscopy-used-under-ten-percent-of-exams.md) — related
 - [Training in pneumatic otoscopy increased student comfort and likelihood of performing the skill, but barriers exist to using it in clinical practice](otoscopy-training-increases-comfort-not-clinical-use.md) — related
+- [Students rarely prepared an experimental situation for their videos (22%) although an experiment was shown in 64% of them](experiments-shown-but-rarely-prepared.md) — related

@@ -50,3 +50,4 @@ Further investigation of the nature of incorrect analyses in the evaluation data
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
 - [Teachers and pupils identified weaknesses in the LRS: no showing of working, mis-programmed answers, and small handsets](lrs-implementation-weaknesses.md) — related
+- [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — related

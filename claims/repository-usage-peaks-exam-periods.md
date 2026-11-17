@@ -50,3 +50,4 @@ Server-log audit of repository usage plotted against the clinical timetable for 
 - [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — related
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [Students preferred the online repository to other sources of learning material primarily because of its efficiency of access](students-prefer-repository-for-efficiency.md) — related
+- [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related

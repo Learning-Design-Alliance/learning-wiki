@@ -50,3 +50,4 @@ Score decomposition of the IF-AT final exam: the mean was 67% but "without parti
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Within the ICB course, students in the bottom quartile of online textbook use scored significantly lower on course exams than top-quartile users](icb-textbook-use-dosage-exam-correlation.md) — related
+- [Partial credit in integrated testlets is granted in a discriminating manner, with top-half students converting more available partial credit than bottom-half students](it-partial-credit-discriminating.md) — related

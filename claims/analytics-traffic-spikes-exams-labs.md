@@ -70,3 +70,5 @@ Observational analytics finding reported in the Results text and Figure 3, indic
 - [Most surveyed PA/DPT and MD students reported using the modules 1-2 hours per week, both with the donor and as a stand-alone study tool](module-usage-survey-hours-and-contexts.md) — related
 - [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related
 - [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — a narrower finding that bears on this claim
+- [Most students reported the per-module application day examining published articles was beneficial, while a minority did not find it helpful](application-day-beneficial-majority.md) — related
+- [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related

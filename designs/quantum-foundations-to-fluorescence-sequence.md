@@ -48,4 +48,4 @@ The module builds fluorescence understanding stepwise: 'to understand how fluore
 -
 
 ## Key Sources
-- Schultheiss, N. G. and Kool, T. W. (2012). Fluorescence for high school students. https://www.hisparc.nl/docent.student/lesmateriaal/routenetpad/
+- Schultheiss, N. G. and Kool, T. W. (2012). Fluorescence for high school students. https://www.hisparc.nl/docent.student/lesmateriaal/routenetpad/. [doi:10.48550/arxiv.1207.5456](https://doi.org/10.48550/arxiv.1207.5456)

@@ -50,3 +50,4 @@ Comparison of two small groups on the same 45 concrete test examples: three tuto
 - [Inductively trained observers carried their learned fallacy patterns over to new material, deciding correctly on every one of 47 additional untabulated test examples](inductive-patterns-transfer-new-material.md) — related
 - [The tutored and class-taught groups showed no meaningful difference in time taken per test example](no-time-difference-fallacy-detection.md) — related
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
+- [Students in Iceland and Kenya report high satisfaction and motivation with on-line drilling, and want it combined with regular marked homework](student-satisfaction-on-line-drills-motivation.md) — related

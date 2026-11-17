@@ -37,7 +37,8 @@ The committee prescribes a sequence for candidates studying privately for the ps
 - Mastery of psychology content for certification examinations
 
 ## Related Strategies
-- 
+
+- [Begin spectral assignment by scanning the whole spectrum for repeating patterns, then apply empirical relations and iterate in a bootstrap fashion](scan-for-repeating-patterns-bootstrap-assignment.md)
 
 ## Examples
 -

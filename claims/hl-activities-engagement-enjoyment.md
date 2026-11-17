@@ -51,3 +51,4 @@ Observation data across 15 HL sessions (30–60 min) used sustained and growing 
 - [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
 - [Students and teachers perceive increased physical activity inside and outside the classroom and reduced screen time, but observed no changes in children's physical fitness](pal-perceived-pa-gains-no-fitness-change.md) — related
+- [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related

@@ -115602,5 +115602,649 @@
  "test-format\topen-ended computational final project\thomework and exams": {
   "label": "open-ended computational project vs homework and exams",
   "treatment_is_a": true
+ },
+ "active-learning\tDidactic laboratories linking disciplinary methods, prior theory and development of teaching pathways\tTheoretical disciplinary and didactic instruction without the laboratory reworking": {
+  "label": "integrated didactic laboratory vs theory-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-informed laboratories and PER-informed lecture instruction\tother laboratory and lecture teaching combinations in large sections": {
+  "label": "PER-informed laboratory and lecture instruction vs other instruction combinations",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-informed laboratories and student-centered labs and recitations\ttraditional laboratories and no recitations": {
+  "label": "PER-informed, student-centered laboratories and recitations vs traditional laboratories without recitations",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-informed laboratories and student-centered labs and recitations with PER-informed lecture\tPER-informed laboratories and student-centered labs and recitations without PER-informed lecture": {
+  "label": "PER-informed lecture instruction added to student-centered laboratory instruction vs no PER-informed lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-informed laboratories and student-centered labs/recitations with PER-informed lecture materials\tPER-informed laboratories and student-centered labs/recitations without PER-informed lecture materials": {
+  "label": "PER-informed lecture materials added to student-centered laboratory instruction vs no PER-informed lecture materials",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-informed labs plus recitations\ttraditional labs": {
+  "label": "active laboratories plus recitations vs traditional laboratories",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive, inquiry-based laboratory activities\tno comparison condition reported": {
+  "label": "active inquiry-based laboratory activities vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning laboratory path\tlectures": {
+  "label": "active-learning laboratory path vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tapplication-day discussions\tstudents reporting that application days were not helpful": {
+  "label": "application-day discussions vs application days perceived as unhelpful",
+  "treatment_is_a": true
+ },
+ "active-learning\tboard-based mathematical steps with student involvement\twell-prepared PowerPoint presentations or lecture notes": {
+  "label": "student-involved board-based instruction vs prepared PowerPoint or lecture notes",
+  "treatment_is_a": true
+ },
+ "active-learning\tclicker questions\tpure lecturing": {
+  "label": "clicker questions vs pure lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative work among peers from different qualification classes\tnot stated": {
+  "label": "cooperative peer work across qualification classes vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup PCK task\tindividual PCK task": {
+  "label": "group task vs individual task",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion\tindividual task": {
+  "label": "group discussion vs individual task",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion in groups of two or three\tindividual completion": {
+  "label": "group discussion vs individual completion",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion of student difficulties\tindividual identification of difficulties": {
+  "label": "group discussion of difficulties vs individual identification of difficulties",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on laboratory active learning\tother lectures": {
+  "label": "hands-on active-learning laboratory vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on laboratory session\tpre-session baseline": {
+  "label": "hands-on laboratory session vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on laboratory session\tpre-session survey": {
+  "label": "hands-on laboratory session vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on physics laboratory activities\tother lectures without active learning": {
+  "label": "hands-on active-learning physics laboratory vs non-active lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on physics laboratory and active-learning activities\tother lectures without active learning": {
+  "label": "hands-on active-learning physics laboratory vs non-active lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on planar lipid bilayer laboratory session\tpre-session baseline": {
+  "label": "hands-on laboratory session vs pre-session baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thigher classroom interactivity\tlower classroom interactivity": {
+  "label": "higher classroom interactivity vs lower classroom interactivity",
+  "treatment_is_a": true
+ },
+ "active-learning\thigher interactivity (medium or high)\tlow interactivity": {
+  "label": "medium-or-high interactivity vs low interactivity",
+  "treatment_is_a": true
+ },
+ "active-learning\thighly interactive E&M class\tnon-interactive E&M class": {
+  "label": "highly interactive instruction vs non-interactive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class tutorials\tclicker questions": {
+  "label": "in-class tutorials vs clicker questions",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class tutorials\tpure lecturing": {
+  "label": "in-class tutorials vs pure lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividual faculty efforts involving board work and student engagement\twell-prepared PowerPoint presentations or lecture notes": {
+  "label": "student-engaged board-based instruction vs prepared PowerPoint or lecture notes",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based course\tlarge lecture sections taught with PER-informed laboratories, recitations and lectures": {
+  "label": "inquiry-based course vs large PER-informed lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory course\tlarge calculus-based and algebra-based lecture classes": {
+  "label": "inquiry-based laboratory course vs large lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based laboratory course\tlarge calculus-based and algebra-based lecture courses": {
+  "label": "inquiry-based laboratory course vs large lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\tintegrated PER lecture and PER-informed laboratory\tother calculus-based honors/majors sections": {
+  "label": "integrated PER-informed lecture and laboratory vs other course sections",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive instruction using TPS and tutorials\ttraditional lecture and recitation instruction": {
+  "label": "interactive Think-Pair-Share and tutorial instruction vs traditional lecture and recitation",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive instruction with TPS and peer interaction\ttraditional instruction": {
+  "label": "interactive Think-Pair-Share with peer interaction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive sections using Think-Pair-Share and tutorials\ttraditional non-interactive sections": {
+  "label": "interactive Think-Pair-Share and tutorial sections vs traditional non-interactive sections",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive university workshop\tlecture-format high-school session": {
+  "label": "interactive workshop vs lecture-format session",
+  "treatment_is_a": true
+ },
+ "active-learning\tlaboratory calorimetry activities\tother lectures without active learning": {
+  "label": "active laboratory activities vs non-active lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmeasurement laboratory activities with uncertainty guidance\tother lectures without active learning": {
+  "label": "active measurement laboratory activities vs non-active lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tmeasurement laboratory activities with worksheets\tother lectures without active learning": {
+  "label": "active measurement laboratory activities vs non-active lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tone hour of lecture plus a tutorial in recitation\tthree hours of lecture plus traditional recitation": {
+  "label": "tutorial-supported reduced lecture vs lecture-heavy traditional recitation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer assessment of project presentations\tassessment without peer participation": {
+  "label": "peer assessment vs assessment without peer participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tqualitative inquiry with observation, cognitive conflict, and graph revision\tinitial graph prediction before the exploratory activities": {
+  "label": "iterative qualitative inquiry with graph revision vs initial prediction only",
+  "treatment_is_a": true
+ },
+ "active-learning\tredesigned flipped class\ttraditional lecture class": {
+  "label": "flipped class vs traditional lecture class",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall inquiry-based laboratory-based algebra course\tlarge lecture sections using RT labs and PERL instruction": {
+  "label": "small inquiry-based laboratory course vs large PER-informed lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group inquiry-based laboratories\tauthority-provided solution": {
+  "label": "small-group inquiry-based laboratory vs authority-provided solution",
+  "treatment_is_a": true
+ },
+ "active-learning\tsomewhat interactive E&M class\tnon-interactive E&M class": {
+  "label": "higher classroom interactivity vs non-interactive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents create and present WWT astronomy tours\tlecturer-led planetarium shows": {
+  "label": "student-created and presented tours vs lecturer-led presentations",
+  "treatment_is_a": true
+ },
+ "active-learning\tthe pilot's active-learning laboratory path\tlearning in other types of upper secondary schools or lower secondary school": {
+  "label": "active-learning laboratory path vs conventional school instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\ttutorial-rich SP12 course\tFA12 course using only a subset of tutorials and concept tests": {
+  "label": "tutorial-rich course vs course with fewer tutorials and concept tests",
+  "treatment_is_a": true
+ },
+ "active-learning\tweekly journal-club presentation and critical group discussion\tinitial journal-club performance before practice": {
+  "label": "journal-club presentation and critical group discussion practice vs initial performance before practice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t5 min of open play with a simulation\tno open play time": {
+  "label": "open play with a simulation vs no open play time",
+  "treatment_is_a": true
+ },
+ "autonomy-support\t5 minutes of open play with a simulation\tno open play time": {
+  "label": "open play with a simulation vs no open play time",
+  "treatment_is_a": true
+ },
+ "autonomy-support\trealistic, student-directed research project\tusual science classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent research project involving radiation and cloud-chamber development\tstudents' pre-project ideas about radiation": {
+  "label": "student-directed research project vs pre-project ideas about radiation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent research project on cloud chambers and radiation\tstudents' prior views before the project": {
+  "label": "student-directed research project vs pre-project ideas about radiation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-controlled realistic research project\tusual science lectures": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-controlled research project\tusual science lectures": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-controlled research project with conference participation\tusual science lectures": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed cloud-chamber research project\tusual science lectures/classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed realistic research project\tusual science lectures/classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed research project with collaboration and conference presentations\tusual science lectures/classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed research project with freedom to choose and make decisions\tusual science lectures": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed research project with freedom to make decisions\tusual science lectures/classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-directed research project with responsibility for planning\tusual science lectures/classes": {
+  "label": "student-directed research project vs usual science classes",
+  "treatment_is_a": true
+ },
+ "case-comparison\tPart II/downwards motion\tPart I, free fall from rest": {
+  "label": "downward motion vs free fall from rest",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcapstone essay juxtaposing ATP-hydrolysis and bond-potential arguments\tresponses not discussing both bond-forming and bond-breaking processes": {
+  "label": "juxtaposing bond-hydrolysis and bond-potential arguments vs not discussing both bond-forming and bond-breaking processes",
+  "treatment_is_a": true
+ },
+ "case-comparison\tformed lipid bilayer\tmodel RC circuit": {
+  "label": "formed lipid bilayer vs model RC circuit",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tK12 education transmitting authoritative truths\tempowering education supporting critical thinking": {
+  "label": "Teacher-directed instruction vs critical pedagogy",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmodeling, conducting experiments, and applying content to everyday problems\tlearning content knowledge alone": {
+  "label": "Applied/active learning vs content-only learning",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividualized instructor feedback normalizing struggle as part of learning\tstudent’s earlier pre-feedback view of struggle as evidence of weakness": {
+  "label": "individualized instructor feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFood Chemistry courses redesigned with InkSurvey and other research-based pedagogy\tperformance in the same courses four years before the revisions": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFood Chemistry courses redesigned with frequent InkSurvey formative assessment\tperformance in the same courses four years before the revisions": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey formative assessment\tlecture without InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey formative assessment during the Calculus III lesson\tsimilar consideration in a Calculus III section without InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey formative assessment to reveal and repair a misconception\tlecture coverage without InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey formative assessment with immediate class discussion\tinitial InkSurvey question before discussion": {
+  "label": "immediate feedback or discussion vs delayed feedback or discussion",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey real-time formative assessment\tsimilar lecture without InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tInkSurvey with regular and repeated feedback\tstudents not exposed to InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tafter-school programs revised using formative-evaluation findings\tearlier after-school program approach": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcourses redesigned with frequent InkSurvey formative assessment\tsame courses four years before the revisions": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative assessment with Tablet PCs and InkSurvey\tthe same courses before the instructional revisions": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tinstructor-guided simulation exploration with InkSurvey questioning\tunguided student exploration of simulations": {
+  "label": "guided or scaffolded formative assessment vs unguided formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tinteractive simulations coupled with real-time formative assessment\tpre-test performance before the coupled model": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tinteractive simulations guided by InkSurvey questions and instructor feedback\tstudents exploring the simulations without guided formative assessment": {
+  "label": "guided or scaffolded formative assessment vs unguided formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\treal-time open-format InkSurvey questioning and instructor scaffolding\tstudents' initial responses before scaffolding": {
+  "label": "guided or scaffolded formative assessment vs unguided formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tredesigned courses with frequent InkSurvey formative assessment and other research-based pedagogy\tperformance in the same courses four years before the revisions": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular and repeated InkSurvey feedback\tstudents not exposed to InkSurvey": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular and repeated InkSurvey feedback\tstudents not exposed to the InkSurvey intervention": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular individual and whole-group feedback using InkSurvey\tstudents not exposed to the InkSurvey intervention": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent video production as formative assessment\tformal assessments such as tests and questionnaires": {
+  "label": "video-based formative assessment vs formal tests or questionnaires",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent-produced physics videos with teacher analysis and whole-class discussion\tformal tests and questionnaires": {
+  "label": "video-based formative assessment vs formal tests or questionnaires",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent-produced video assessment\tno comparison reported": {
+  "label": "student-produced video assessment vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent-produced videos used as formative assessment\tformal tests and questionnaires": {
+  "label": "video-based formative assessment vs formal tests or questionnaires",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudent-produced videos used for formative assessment\tformal assessments such as tests and questionnaires": {
+  "label": "video-based formative assessment vs formal tests or questionnaires",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tInkSurvey-guided exploration of simulations with scaffolded questions\tstudents’ unguided exploration of the simulations": {
+  "label": "guided exploration vs unguided exploration",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided problem-solving approach\ttraditional cookbook method": {
+  "label": "guided problem solving vs cookbook instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided qualitative inquiry with predictions, observations, and graph revision\tstudents’ initial predictions and graphs": {
+  "label": "guided inquiry with prediction-observation-revision vs prediction and graphing only",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tqualitative inquiry after exploration and cognitive conflict\tinitial prediction before the inquiry activities": {
+  "label": "exploration and cognitive conflict before inquiry vs prediction before inquiry",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsimulation exploration guided by InkSurvey scaffolded questions\tunguided student exploration of simulations": {
+  "label": "guided exploration vs unguided exploration",
+  "treatment_is_a": true
+ },
+ "interleaving\trandomly chosen Problem Roulette problems\trepeated or directed study using old problem sets and practice exams": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\t200-data-point scatterplots\t100-data-point reference scatterplots": {
+  "label": "more data points vs fewer data points",
+  "treatment_is_a": true
+ },
+ "media-design\t35-point scatterplots (Lower n)\t100-point reference scatterplots": {
+  "label": "more data points vs fewer data points",
+  "treatment_is_a": false
+ },
+ "media-design\tavoid projecting text in student-created planetarium tours\tprojecting text": {
+  "label": "no projected text vs projected text",
+  "treatment_is_a": true
+ },
+ "media-design\tbest-fit line added\t100-point reference scatterplot": {
+  "label": "best-fit line added vs no added line",
+  "treatment_is_a": true
+ },
+ "media-design\tbest-fit line added\treference scatterplot": {
+  "label": "best-fit line added vs no added line",
+  "treatment_is_a": true
+ },
+ "media-design\timage size\timage resolution/detail": {
+  "label": "image size vs image resolution/detail",
+  "treatment_is_a": true
+ },
+ "media-design\tlowess curve added\t100-point reference scatterplot": {
+  "label": "lowess curve added vs no added curve",
+  "treatment_is_a": true
+ },
+ "media-design\tquestion-and-answer label\tfun fact label": {
+  "label": "question-and-answer label vs fun fact label",
+  "treatment_is_a": true
+ },
+ "media-design\tquestion-and-answer label format\tfun fact label format": {
+  "label": "question-and-answer label vs fun fact label",
+  "treatment_is_a": true
+ },
+ "media-design\tseeing and hearing together\treading": {
+  "label": "seeing and hearing together vs reading",
+  "treatment_is_a": true
+ },
+ "practice-amount\tLab 4 evaluations of videos receiving a good instructor rating\tLab 1 evaluations of videos receiving a good instructor rating": {
+  "label": "later laboratory practice/evaluation vs initial laboratory practice/evaluation",
+  "treatment_is_a": true
+ },
+ "practice-amount\tencountered the same problem on later occasions\tfirst encounter with the problem": {
+  "label": "repeated problem encounter vs first problem encounter",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater laboratory peer evaluations after repeated practice and calibration\tLab 1 peer evaluations": {
+  "label": "later laboratory practice/evaluation vs initial laboratory practice/evaluation",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR use: 50 or more problems\tfewer than 50 problems": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR users\tnon-regular or light PR users within beginning-of-term GPA groups": {
+  "label": "regular practice use vs non-regular or light practice use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR users\trandomly drawn cohorts of the same size from the 518 graded students": {
+  "label": "regular practice use vs randomly sampled student cohort",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR users who worked at least 50 problems\tall other students": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR users working at least 50 problems\tremainder of the class": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular PR users, adjusted using beginning-of-term GPA\tnon-regular PR users within GPA groups": {
+  "label": "regular practice use vs non-regular practice use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette use (50 or more problems)\tremaining students": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette use (50 or more problems), compared within beginning-of-term GPA bins\tlight or non-use within the same GPA bins": {
+  "label": "regular practice use vs light or non-use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette users\tcomplement": {
+  "label": "regular practice use vs non-regular practice use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette users, 50 or more problems\tremaining students": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette users, adjusted for beginning-of-term GPA\tnon-regular or non-users, adjusted for beginning-of-term GPA": {
+  "label": "regular practice use vs non-regular or non-use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tregular Problem Roulette users, adjusted within beginning-of-term GPA bins\tnon-regular or non-users, adjusted within beginning-of-term GPA bins": {
+  "label": "regular practice use vs non-regular or non-use",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond survey attempt\tfirst survey attempt": {
+  "label": "second attempt vs first attempt",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond survey attempt after feedback\tfirst survey attempt": {
+  "label": "second attempt after feedback vs first attempt",
+  "treatment_is_a": true
+ },
+ "practice-amount\tworked 50 or more Problem Roulette problems\tcomplement who worked fewer than 50": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "practice-amount\tworked 50 or more Problem Roulette problems\tworked fewer than 50 or none": {
+  "label": "50 or more problems vs fewer than 50 problems",
+  "treatment_is_a": true
+ },
+ "prompts\tguided weekly reflection rubric prompts\tno comparison condition reported": {
+  "label": "guided prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tRT/PERL after Fall 2010 with post-test credit\tRT/PERL before Fall 2010 without post-test credit": {
+  "label": "post-test credit vs no post-test credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tRT/TL after Fall 2010 with post-test credit\tRT/TL before Fall 2010 without post-test credit": {
+  "label": "post-test credit vs no post-test credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcourses offered a tablet-computer prize for best tagger\tcourses with no prize": {
+  "label": "prize for best tagger vs no prize",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcourses offering a tablet-computer prize for the best tagger\tcourses without a prize": {
+  "label": "prize for best tagger vs no prize",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgraded flip-JiTT warm-ups\tuncompleted or possible assignments": {
+  "label": "graded warm-ups vs ungraded or optional assignments",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tquestions incorporated into final exam\tno incentive": {
+  "label": "final-exam questions as incentive vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tscholarships, financial aid, or assistantships\tno financial sharing or support": {
+  "label": "financial support vs no financial support",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tsmall number of participation points\tno incentive": {
+  "label": "participation points vs no incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttablet prize for best tagger\tno prize": {
+  "label": "prize for best tagger vs no prize",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\ttablet prize offered for the best tagger\tno prize offered": {
+  "label": "prize for best tagger vs no prize",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadd a basic programming module before the full programming module\tfull programming training without the preceding basic module": {
+  "label": "preparatory-module scaffolding vs no preparatory module",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfacilitator and instructor prompts about distance and displacement\tstudents' interpretation and modeling before the prompts": {
+  "label": "prompts before interpretation/modeling vs prompts after interpretation/modeling",
+  "treatment_is_a": true
+ },
+ "simulation\tMonte Carlo simulation applications\tmore classical methods": {
+  "label": "simulation vs classical methods",
+  "treatment_is_a": true
+ },
+ "simulation\tmulti-session simulated-experiment programme\tnot stated": {
+  "label": "multi-session simulation vs not stated",
+  "treatment_is_a": true
+ },
+ "test-format\tFR Calculate version\tother Problem B versions": {
+  "label": "FR Calculate version vs other Problem B versions",
+  "treatment_is_a": true
+ },
+ "test-format\tIT-CR score correlations\tIT-IT score correlations": {
+  "label": "IT-CR score correlations vs IT-IT score correlations",
+  "treatment_is_a": true
+ },
+ "test-format\tMC and true/false formats\twritten-explanation formats": {
+  "label": "free-response or written-explanation vs multiple-choice or true/false",
+  "treatment_is_a": false
+ },
+ "test-format\tconstructed-response questions\tintegrated testlet questions": {
+  "label": "constructed-response questions vs integrated testlet questions",
+  "treatment_is_a": true
+ },
+ "test-format\tconstructed-response questions\tintegrated testlets": {
+  "label": "constructed-response questions vs integrated testlet questions",
+  "treatment_is_a": true
+ },
+ "test-format\texplicit-ranking problem\timplicit-ranking problem": {
+  "label": "explicit-ranking problem vs implicit-ranking problem",
+  "treatment_is_a": true
+ },
+ "test-format\tfree-response format\tmultiple-choice format": {
+  "label": "free-response or written-explanation vs multiple-choice or true/false",
+  "treatment_is_a": true
+ },
+ "test-format\tintegrated testlet partial-credit scoring\tconstructed-response partial-credit scoring": {
+  "label": "integrated-testlet partial-credit scoring vs constructed-response partial-credit scoring",
+  "treatment_is_a": true
+ },
+ "test-format\tintegrated testlet questions\tconstructed-response questions": {
+  "label": "constructed-response questions vs integrated testlet questions",
+  "treatment_is_a": true
+ },
+ "test-format\tmixed-format final exam with three CR and three IT questions\tthe other mixed-format final exam version": {
+  "label": "mixed-format final exam with three constructed-response and three integrated-testlet questions vs other mixed-format final exam version",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice CUE\tfree-response CUE": {
+  "label": "multiple-choice CUE vs free-response CUE",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice CUE with partial-credit reasoning selections\tfree-response CUE": {
+  "label": "multiple-choice CUE with partial-credit reasoning selections vs free-response CUE",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-correct MC items\tsingle-correct MC items": {
+  "label": "multiple-correct multiple-choice items vs single-correct multiple-choice items",
+  "treatment_is_a": true
+ },
+ "test-format\tqualitative interviews and capstone essay responses\tmultiple-choice quiz responses": {
+  "label": "qualitative interviews and capstone essay responses vs multiple-choice quiz responses",
+  "treatment_is_a": true
+ },
+ "test-format\tretaining distractor option (f)\tremoving option (f) in later test versions": {
+  "label": "retaining distractor option (f) vs removing distractor option (f)",
+  "treatment_is_a": true
+ },
+ "test-format\ttotal IT scores\ttotal CR scores": {
+  "label": "constructed-response scores vs integrated-testlet scores",
+  "treatment_is_a": false
+ },
+ "test-format\twritten-explanation formats\tMC and true/false formats": {
+  "label": "free-response or written-explanation vs multiple-choice or true/false",
+  "treatment_is_a": true
  }
 }

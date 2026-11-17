@@ -56,3 +56,4 @@ Anecdotal classroom report from a second-semester algebra-based physics class qu
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](plugging-in-numbers-cues-symbol-meaning.md) — related
 - [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related
 - [Teaching only Bλ and its Wien peak in introductory courses leaves students confused when they later encounter Bν](teaching-only-b-lambda-causes-later-confusion.md) — a narrower finding that bears on this claim
+- [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — a narrower finding that bears on this claim

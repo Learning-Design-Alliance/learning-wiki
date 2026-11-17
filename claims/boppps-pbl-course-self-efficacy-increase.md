@@ -61,3 +61,4 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Total SDL ability scores increased after a pediatric nursing course taught with Tronclass combined with team-based learning](tronclass-tbl-increased-sdl-ability-pre-post.md) — related
 - [PBL produced no significant group effect or change over time in general self-efficacy (GSES)](pbl-no-self-efficacy-effect.md) — related
 - [Knowledge item scores rose slightly and statistically significantly from pre-test to post-test after VPS in one single-group pre-post study, with the median unchanged](vps-small-knowledge-score-increase.md) — related
+- [Students' preference for collaborative learning increased significantly after the tool-assisted course, while preference for general learning did not change significantly](collaborative-learning-preference-increased-kbdex-course.md) — related

@@ -89,3 +89,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Perceived relevance and difficulty of pre-class materials predicted pre-test scores, while preparedness did not](material-perceptions-predict-pretest.md) — related
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
 - [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related
+- [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](lectures-useful-when-students-prepared.md) — related

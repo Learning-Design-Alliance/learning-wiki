@@ -51,3 +51,4 @@ Error-category analysis of incorrect responses to the first exam question across
 - [A curriculum combining interactive lectures and homework using the PhET Photoelectric Effect simulation produced much greater learning than traditional or tutorial-supplemented instruction](phet-photoelectric-curriculum-exam-gains.md) — related
 - [Approximately 85% of students using the curriculum correctly predict the results of changes to photoelectric-effect experimental conditions](photoelectric-curriculum-85-percent-prediction-mastery.md) — related
 - [Students apply physics equations without the implicit physical conditions experts supply, as in the photoelectric effect equation](photoelectric-equation-hidden-condition-errors.md) — related
+- [Students routinely record gramicidin A unitary currents showing ohmic behavior and a Nernst-predicted reversal potential shift](gramicidin-unitary-currents-ohmic-reversal-shift.md) — related

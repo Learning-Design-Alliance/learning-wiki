@@ -47,3 +47,4 @@ Correlational analysis within the 18-student control group: 13 of 18 students cr
 ## Related Claims
 - [Including free-body diagrams in mechanics problem statements significantly impeded first-year physics students' problem-solving performance](fbds-in-problem-statements-impede-problem-solving.md) — related
 - [Self-constructed representations can be easier for students to use effectively than externally provided representations](self-constructed-beats-provided-representations.md) — related
+- [A student who guessed on an exam problem she could solve used free-body diagrams successfully once prompted, then earned straight A's — her error was epistemological framing, not missing knowledge](case-student-reframing-straight-as.md) — related

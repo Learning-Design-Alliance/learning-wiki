@@ -54,6 +54,7 @@ To serve more cadets with limited manpower, the author recommends compiling a ve
 - [Encourage trainees to prioritise journal-hosted proctology videos over freely available YouTube videos](prioritise-journal-videos-for-self-directed-proctology-learning.md)
 - [Rich Library: Multimodal](rich_library-multimodal.md)
 - [Aim supplementary video pedagogy at the lowest quartile of students, with slower pacing and more detailed intermediate steps than classroom instruction](ei-video-pedagogy-aimed-lowest-quartile.md)
+- [Use an open on-line drill system as a supplement to in-class teaching, for remote learning, and as remedial material for students lacking prerequisites](open-drill-system-supplement-remedial-remote.md)
 
 ## Examples
 -

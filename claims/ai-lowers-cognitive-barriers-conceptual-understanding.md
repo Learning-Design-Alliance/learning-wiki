@@ -52,3 +52,4 @@ Qualitative thematic analysis of interviews and open-ended questionnaires with f
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related
 - Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory — related
+- [Transforming quantum-mechanics concepts into concrete computer representations is proposed as a route to deeper understanding than abstract representations allow](computer-representations-deeper-quantum-understanding.md) — related

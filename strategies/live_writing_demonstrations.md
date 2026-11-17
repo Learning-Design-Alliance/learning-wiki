@@ -58,9 +58,11 @@ Live writing demonstrations are a form of modeling with expert [Articulation](..
 5. Debrief the moves demonstrated, then have learners immediately apply them to their own drafts with the demonstration available as a reference.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the general narration method live writing applies to composition
 - [Use Worked Examples](worked-examples-first.md) — the static, pre-prepared counterpart; live demonstration adds visible revision and learner input
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — individualized follow-on that reinforces demonstrated moves
+- [Teach by live coding instead of slides](live-coding-strategy.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — verbalizing decisions is what makes the demonstration teach

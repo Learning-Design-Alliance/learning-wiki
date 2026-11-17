@@ -51,9 +51,11 @@ The authors advocate that networks researchers (and scientists generally) engage
 
 - [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
 - [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
+- [Adapt and reuse existing outreach material, tailoring session length and topic selection to the audience](adapt-reuse-outreach-material-tailored.md)
+- [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Harrington, H. A., Beguerisse Díaz, M., Rombach, M. P., Keating, L. M., & Porter, M. A. (2013). Teach Network Science to Teenagers. arXiv. https://arxiv.org/abs/1302.6567
+- Harrington, H. A., Beguerisse Díaz, M., Rombach, M. P., Keating, L. M., & Porter, M. A. (2013). Teach Network Science to Teenagers. arXiv. https://arxiv.org/abs/1302.6567. [doi:10.48550/arxiv.1302.6567](https://doi.org/10.48550/arxiv.1302.6567)

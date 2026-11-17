@@ -49,3 +49,4 @@ Independent-samples t-test for hypothesis 3 comparing control and experimental g
 - [Second Life and face-to-face role-play produce no significant difference in ESP linguistic performance for tourism students](sl-vs-ftf-no-language-difference.md) — related
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — a broader claim this one bears on
+- [Despite restrictions and differences from traditional simulators, Second Life shows itself as a viable and flexible platform for microworlds and simulations](sl-viable-flexible-platform-microworlds.md) — related

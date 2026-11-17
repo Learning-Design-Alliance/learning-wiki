@@ -57,3 +57,4 @@ Students recruited from one Precalculus course at a US university (a convenience
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Learner control over video playback (pause and rewind) allows students to manage the intrinsic cognitive load of a task](video-playback-control-manages-intrinsic-load.md) — reports the opposite
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
+- [A single student's watching trajectory showed seeking and pausing mid-video to find values needed for the assignment, with only 46.8 s spent on the conceptual interaction-point questions](single-student-trajectory-value-seeking.md) — related

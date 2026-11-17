@@ -28,4 +28,4 @@ SalsaJ is a free, open-source ImageJ-based astronomy image-analysis platform dev
 -
 
 ## Key Sources
-- Doran, R., Melchior, A.-L., Boudier, T., Delva, P., Ferlet, R., de Almeida, M.L.T., Barbosa, D., Gomez, E., Pennypacker, C., Roche, P. & Roberts, S. (2012). Astrophysics datamining in the classroom: Exploring real data with new software tools and robotic telescopes. https://arxiv.org/abs/1202.2764
+- Doran, R., Melchior, A.-L., Boudier, T., Delva, P., Ferlet, R., de Almeida, M.L.T., Barbosa, D., Gomez, E., Pennypacker, C., Roche, P. & Roberts, S. (2012). Astrophysics datamining in the classroom: Exploring real data with new software tools and robotic telescopes. https://arxiv.org/abs/1202.2764. [doi:10.48550/arxiv.1202.2764](https://doi.org/10.48550/arxiv.1202.2764)

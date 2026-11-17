@@ -48,3 +48,4 @@ Comparison across four semesters of clicker responses (Fig. 3): in spring semest
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
 - [Students who see the class-response bar graph before peer discussion are 30% more likely to switch from a less common to the most common answer than students who do not see it](bar-graph-display-biases-switch-to-most-common-answer.md) — related
 - [The biasing effect of seeing the bar graph is stronger for two-choice (true/false) questions (38%) than for four-choice multiple-choice questions (28%)](bar-graph-bias-stronger-true-false-than-multiple-choice.md) — related
+- [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](clicker-equal-pulls-framing-error.md) — related

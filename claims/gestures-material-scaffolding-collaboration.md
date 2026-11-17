@@ -62,3 +62,4 @@ The review attributes, citing Goldin-Meadow and colleagues and Roth's review, th
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
 - [Chan et al. found physical-controller VR examination has higher ease of use and lower cognitive load than hand-tracking gestures](physical-controller-vr-higher-ease-of-use-lower-cognitive-load.md) — related
 - [AR technologies may facilitate physics learning by providing complementary visualizations, optimizing cognitive load, allowing haptic learning, reducing task completion time and promoting collaborative inquiry](ar-facilitates-physics-learning-five-mechanisms.md) — related
+- [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — a narrower finding that bears on this claim

@@ -59,3 +59,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related
 - [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — a narrower finding that bears on this claim
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim
+- [Software Carpentry's online MOOC-style offerings failed, with only 5-10% of starters finishing and most finishers already knowing the material](software-carpentry-mooc-low-completion.md) — a narrower finding that bears on this claim

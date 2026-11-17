@@ -49,3 +49,4 @@ Authors' reflective evaluation across their outreach events (Section IV), based 
 - [Outreach participants reported increased interest in networks and mathematics, per surveys and discussions](outreach-increased-student-interest.md) — related
 - [A friendship-paradox module failed in practice because its verification calculations were tedious and it did not scale up](friendship-paradox-module-failed.md) — related
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
+- [Adapted network-science outreach activities for Spanish teenagers succeeded in transmitting basic network-science concepts, with student poll responses all A or B](outreach-network-science-transmitted-concepts.md) — related

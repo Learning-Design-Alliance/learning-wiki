@@ -47,6 +47,7 @@ The authors describe a teacher-led professional development process begun in 200
 
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Remix workflow: build on expert source code through analyze-then-modify stages](ejs-remix-existing-source-code-strategy.md)
+- [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ The introduction argues that immersion in scientific discourse through seminars 
 ## Related Claims
 - [Astrobites' daily readership includes an estimated >150 undergraduate students in physical-science fields, most of whom aspire to research careers](astrobites-undergraduate-readership-estimate.md) — a narrower finding that bears on this claim
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Aligning electronics course content with the frequency distribution of real research electronics work can better prepare undergraduates for research careers](align-course-to-real-usage-distribution.md) — related

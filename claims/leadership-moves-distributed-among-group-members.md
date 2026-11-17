@@ -74,3 +74,4 @@ Coding of 22 groups in a multi-touch classroom study. The article reports "1,377
 - [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
 - [Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account](distributed-metacognition-analysis-application.md) — related
 - [Congress speakers advocate distributing lessons in early secondary years and concentrating them in higher lycee classes](levy-wogue-distribution-early-concentration-later.md) — related
+- [Distributing control of one computational agent across two sensors and two students fostered positive interdependence among elementary dyads](claim-distributed-control-positive-interdependence.md) — related

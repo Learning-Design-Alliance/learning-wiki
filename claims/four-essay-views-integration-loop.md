@@ -47,3 +47,4 @@ Essay question completed by 29 of 32 students after the proctored assignment; st
 
 ## Related Claims
 - [Think-aloud interviews show students with correct models describe velocity updates via force and iteration, while a student with incorrect physics shows an acquired-through-motion conception](think-aloud-interviews-force-motion-loop-links.md) — related
+- [Students who displayed Force-casual and Iterative views were more likely to be successful on the proctored programming assignment](force-casual-iterative-views-proctored-success.md) — related

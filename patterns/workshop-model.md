@@ -16,7 +16,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (12 for, 5 mixed) · 33 studies (10 quant-synthesis, 9 causal, 7 review, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 10 of 33 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 34 studies (10 quant-synthesis, 9 causal, 7 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 10 of 34 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -121,6 +121,7 @@ Claims this page cited before the 2026-10-15 rewrite that are not used as core e
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — two reviews and one experiment on grouping information in immediate memory (its table counts 4 distinct studies). The earlier page used it for "a predictable routine reduces extraneous load"; the claim is about chunking material, not about classroom routines, so it bears on this pattern only by analogy.
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](../claims/students-want-teachers-supporting-as-learners.md) [+W] — one research brief's summary of student surveys and interviews in Chicago schools; associational. It bears on how learners read conferring and clear mini-lessons (as care), not on what they learn from them.
 - [Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers](../claims/writing-workshop-improves-basic-writing-skills-prospective-teachers.md) [+W] — attached 2026-11-03 from Ashraf Atta M. S. Salem (2013), which proposed "Introduce the writing workshop approach in faculties of education for teaching writing"; tests this page's relationship.
+- [Small workshop groups were manageable but would have worked better with more presenters per group](../claims/more-presenters-per-group-better.md) [~W] — attached 2026-11-17 from Angel Sánchez et al. (2014), which proposed "Talk-plus-interactive-workshop format for outreach to teenagers".
 
 ## Illustrative design instance and observation record
 

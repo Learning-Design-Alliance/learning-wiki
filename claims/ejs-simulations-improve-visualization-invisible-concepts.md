@@ -48,3 +48,4 @@ Qualitative survey excerpts and informal interviews from the pilot classroom les
 - [Students reported that the 3D simulation improved their visualization and understanding of satellite motion](ejs-3d-simulation-improved-student-visualization.md) — related
 - [Focus group students attributed the value of the EJS model to visualizing the 1st Law and questioned its connection to real-life situations](fgd-simulation-visualization-first-law-not-real-life.md) — related
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
+- [Direct and interactive visualization of complex invisible phenomena is reported effective for learning in pilot qualitative experiences](direct-interactive-visualization-effective-pilot.md) — a broader claim this one bears on

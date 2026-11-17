@@ -51,6 +51,7 @@ The authors' recommended practice is to design physics problems for biology stud
 ## Related Strategies
 
 - [Integrating physics and mathematics into biology courses requires cross-disciplinary collaboration and attention to student epistemologies](cross-disciplinary-collaboration-biology-physics-integration.md)
+- [Co-design interdisciplinary problems with biologists, negotiating realism, modeling, and multiple representations, and explicitly naming what biology is simplified away](negotiated-interdisciplinary-problems.md)
 
 ## Examples
 -

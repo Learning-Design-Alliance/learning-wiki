@@ -48,3 +48,4 @@ Independent-samples t-test for hypothesis 2 (cultural awareness and diversity un
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](sl-higher-multicultural-acceptance.md) — related
 - [Second Life and face-to-face role-play produce no significant difference in ESP linguistic performance for tourism students](sl-vs-ftf-no-language-difference.md) — related
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](sl-interaction-turn-patterns.md) — related
+- [Despite restrictions and differences from traditional simulators, Second Life shows itself as a viable and flexible platform for microworlds and simulations](sl-viable-flexible-platform-microworlds.md) — related

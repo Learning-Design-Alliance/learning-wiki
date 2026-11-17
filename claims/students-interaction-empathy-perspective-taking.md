@@ -104,3 +104,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Students reported the empathy project improved their understanding of empathy and empathic communication skills](pbl-empathy-student-reflections.md) — a narrower finding that bears on this claim
 - [Self-directed learners benefited most from the experiential training, and learners managed competing clinical and research priorities](self-directed-learning-and-competing-priorities.md) — related
 - [Home-based online group rehabilitation provides an environment for learning from professionals and peers and forms a supportive social group among participants](online-group-peer-learning-social-copd.md) — related
+- [Interviewed students named the project's freedom as its exclusive feature and reported enhanced schedule-planning and communication skills](student-freedom-exclusive-project-feature.md) — related

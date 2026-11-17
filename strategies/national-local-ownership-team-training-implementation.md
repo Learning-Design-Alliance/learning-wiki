@@ -47,6 +47,7 @@ The article distils lessons for large-scale implementation of team training. It 
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implementation strategies for establishing a centralized tutor training program: central coordination, stakeholder inclusion, and evaluation of attained skills](centralized-tutor-training-implementation-strategies.md)
+- [Facilitation lessons for sustaining faculty engagement in course transformation](faculty-engagement-facilitation-lessons.md)
 
 ## Examples
 -

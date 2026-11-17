@@ -79,3 +79,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Trainees valued VP cases for safe practice without consequences, cognitive interactivity, repetitive practice, and learning customized to their actions](vp-case-valued-safe-practice-interactivity-customization.md) — related
 - [Virtual patients provide a safe environment that allows learners to make and learn from errors without threatening patient safety](vp-safe-environment-for-error-learning.md) — related
 - [Participants experienced the virtual patient as supporting learner-centered education, with emotional engagement (eustress) and divided reactions to game-like elements](vp-mooc-learner-centered-eustress-game.md) — related
+- [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — reports the opposite

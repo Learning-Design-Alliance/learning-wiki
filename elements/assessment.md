@@ -111,9 +111,11 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md)
 
 ## Examples
+
 - A rubric-scored project submission
 - A short diagnostic quiz used to regroup learners
 - A reflection prompt used to surface misconceptions before revision
+- [Peer assessment of student research presentations to teach assessment criteria](../strategies/peer-assessment-research-presentations.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

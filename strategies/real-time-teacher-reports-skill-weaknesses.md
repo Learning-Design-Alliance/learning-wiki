@@ -49,6 +49,7 @@ Wayang's teacher tools reify the tutor's assessment through a graphical interfac
 - Wayang Outpost Mathspring System
 - [Formative Assessment to Gauge Student Progress and Guide Instruction](formative_assessment_to_gauge_student_progress_and_guide_instruction.md)
 - [Guided Math](guided-math.md)
+- [Replace board-work by a few selected students with device-based submission of all students' problem solutions for whole-class real-time feedback](whole-class-digital-ink-solution-submission-strategy.md)
 
 ## Examples
 -

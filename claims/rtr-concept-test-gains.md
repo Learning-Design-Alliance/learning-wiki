@@ -74,3 +74,4 @@ Pre/post concept-based multi-choice tests with randomly assigned question sets g
 - [Students who completed the RTR lab were less likely to regard special relativity as abstract than students who had not done the lab](rtr-reduces-perceived-abstractness.md) — related
 - [Learning through RTR was predominantly active and hands-on, equivalent to other laboratory activities](rtr-predominantly-active-hands-on-learning.md) — related
 - [An asymmetry misconception in time dilation was present pre-instruction and reduced after instruction](time-dilation-asymmetry-misconception.md) — related
+- [Pre/post survey shows significant knowledge gain after the bilayer lab session](bilayer-lab-significant-knowledge-gain.md) — related

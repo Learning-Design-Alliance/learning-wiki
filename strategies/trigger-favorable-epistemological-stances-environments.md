@@ -50,6 +50,7 @@ The article's instructional implication is that instructors need not confront an
 ## Related Strategies
 
 - [Set students up for affectively positive experiences with conceptual reasoning rather than only confronting problematic epistemological beliefs](affectively-positive-experiences-for-epistemological-change.md)
+- [Create instructional environments that trigger and stabilize the productive aspects of students' existing epistemological views rather than confronting and replacing problematic beliefs](trigger-stabilize-productive-epistemological-stances.md)
 
 ## Examples
 -

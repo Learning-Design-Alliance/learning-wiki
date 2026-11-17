@@ -52,3 +52,4 @@ Authors' observation in the Mathematical thinking skills section, based on class
 - [Students developed mobile CT concepts, practices, and perspectives through app development activities](students-developed-mobile-ct-competencies.md) — related
 - [Students successfully transformed mathematical area formulas into computational representations using blockly components](students-transform-area-formulas-blockly.md) — related
 - [Computational skills learned in classical mechanics transfer to other physics and mathematics courses, per the authors' experience](computation-skills-transfer-across-courses.md) — related
+- [Transforming quantum-mechanics concepts into concrete computer representations is proposed as a route to deeper understanding than abstract representations allow](computer-representations-deeper-quantum-understanding.md) — related

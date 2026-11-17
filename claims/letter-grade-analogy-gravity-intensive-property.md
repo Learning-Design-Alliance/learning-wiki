@@ -48,3 +48,4 @@ Analysis of the Episode 1 transcript: Daniel's analogy of students each carrying
 - [Teachers' language reflected a substance-based, agentive ontology of gravity, treating gravity as an active noun participant capable of pulling](gravity-agent-metaphor-teacher-talk.md) — related
 - [Lynn's substance-based reasoning mapped gravity onto force per unit mass, the correct definition of gravitational field](substance-gravity-mapped-to-gravitational-field.md) — related
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — a broader claim this one bears on
+- [A structured blend of ontologies, not mere combination, supports productive reasoning: Peter's group succeeded where the metaphors complemented each other](structured-blend-enables-productive-reasoning.md) — related

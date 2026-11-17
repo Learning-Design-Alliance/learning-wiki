@@ -68,3 +68,5 @@ Group-level characterization of response profiles against nine previously measur
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](bettys-brain-strategy-detection-activity-sequences.md) — related
 - [Most FCI questions in the Bogotá sample were answered without any mental model, i.e. at random](fci-bogota-53-percent-random-answers.md) — related
+- [Analysis of an FCI cannonball question shows the physically correct answer is not among the options, and answering it involves epistemic framing as much as conceptual understanding](fci-cannonball-question-epistemic-framing.md) — related
+- [On six FCI force-identification questions, student answers cluster on a pair of dominant answers containing the correct choice and a superset wrong choice](polarising-choices-force-identification.md) — related

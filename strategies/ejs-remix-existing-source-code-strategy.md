@@ -47,6 +47,7 @@ The paper offers a concrete recipe for educator remixing: obtain a community-sha
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Teacher-led networked learning: remixing peer-reviewed Open Source Physics templates and contributing models back to digital libraries](osp-networked-teacher-remixing-strategy.md)
+- [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 
 ## Examples
 -

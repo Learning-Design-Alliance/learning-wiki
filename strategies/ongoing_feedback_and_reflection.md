@@ -95,6 +95,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - [Goal-Setting Conferences](goal-setting-conferences.md) — the recurring conversation format, with the learner leading
 - [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Peer assessment of student research presentations to teach assessment criteria](peer-assessment-research-presentations.md)
 
 ## Examples
 

@@ -54,3 +54,4 @@ Multivariable logistic regression in the same cross-sectional survey (N=252); ed
 - [Among acute care nurses in three Addis Ababa tertiary hospitals, 131 (52%) had good knowledge and 121 (48%) had poor knowledge regarding the care of ACS](nurses-acs-knowledge-suboptimal-addis-ababa.md) — related
 - [Only 112 (44.4%) of acute care nurses had good practice regarding care of patients with ACS, while 140 (55.6%) had poor practice](nurses-acs-practice-suboptimal-addis-ababa.md) — related
 - [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related
+- [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — related

@@ -48,3 +48,4 @@ Self-assessment questionnaire data compared with instructor ratings on the first
 ## Related Claims
 - [Both training groups improve across all LMA outcomes between their first and fourth patient](lma-improvement-first-to-fourth-patient.md) — related
 - [Supervisors tend to underrate high-performing students and overrate lower-performing students at end-of-term assessment](supervisors-underrate-high-performers-overrate-low-performers.md) — related
+- [Student-instructor agreement gains were concentrated at the middle of the rating scale, with the largest gain on items instructors rated \"good\" and low agreement on \"poor\" and \"fair\"](agreement-gain-largest-in-good-rating.md) — related

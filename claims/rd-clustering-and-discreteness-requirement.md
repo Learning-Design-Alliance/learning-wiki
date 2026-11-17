@@ -52,3 +52,4 @@ The panel's reporting requirement for discrete forcing variables states that if 
 - Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff — related
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
+- [Statistical independence of repeated measurements does not hold for course grades, invalidating a posteriori error estimates](statistical-independence-violated-for-grades.md) — related

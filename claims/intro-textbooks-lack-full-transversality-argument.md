@@ -46,3 +46,4 @@ The author's survey of calculus-based introductory physics textbooks found that 
 
 ## Related Claims
 - [Surveyed textbooks present transversality treatments falling into three categories, and none include physical arguments for transversality](textbook-transversality-three-categories.md) — possibly the same claim (merge candidate)
+- [None of the evaluated textbooks discusses the oscillatory temporal behaviour of the measured quantities or the need to assume plane sound waves inside the tube](textbooks-omit-oscillation-and-plane-wave-assumption.md) — related

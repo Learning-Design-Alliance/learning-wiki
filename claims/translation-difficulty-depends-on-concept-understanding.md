@@ -70,3 +70,4 @@ Analysis of normalized gains by source representation mode in electromagnetism (
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related
 - [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
 - [In interviews, students understood real-and-imaginary wave-function representations but the phase-color representation caused significant problems for most students](wave-function-representation-phase-color-problems.md) — related
+- [Some students who fail to write a differential equation can still represent the force descriptions mathematically, indicating difficulty moving from force to differential equation](difficulty-moving-from-force-to-differential-equation.md) — a narrower finding that bears on this claim

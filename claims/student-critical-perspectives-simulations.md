@@ -51,3 +51,4 @@ Content analysis of the same 208 reflections; the critical theme included catego
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Students considered real patients' feedback useful but less beneficial than supervisor or trained-actor feedback](real-patient-feedback-vs-supervisor-feedback.md) — related
+- [Computer simulations are usually not very effective in classroom practice because students may perceive them as artificial](simulations-not-effective-classroom.md) — related

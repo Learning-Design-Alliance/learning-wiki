@@ -66,3 +66,4 @@ Pre-test solution analysis: students randomly selected one of the given masses a
 
 ## Related Claims
 - [Problem-solving instruction reduced the percentage of students showing each stoichiometric difficulty far more than conventional lecture instruction](problem-solving-instruction-reduces-stoichiometry-difficulties.md) — related
+- [On a Scottish chemistry exam given to 22,000 sixteen-year-olds, student success dropped dramatically once question information-plus-processing load exceeded six pieces](johnstone-exam-working-memory-dropoff.md) — related

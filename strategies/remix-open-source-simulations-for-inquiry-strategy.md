@@ -53,6 +53,7 @@ A concrete workflow for teacher designers: start from an existing simulation in 
 - [Hands-on workshop sequence: study an existing model, modify it, then self-direct a personal customization project](ejs-hands-on-model-modification-workshop-strategy.md)
 - [Remix workflow: build on expert source code through analyze-then-modify stages](ejs-remix-existing-source-code-strategy.md)
 - [Teacher-led networked learning: remixing peer-reviewed Open Source Physics templates and contributing models back to digital libraries](osp-networked-teacher-remixing-strategy.md)
+- [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 
 ## Examples
 -

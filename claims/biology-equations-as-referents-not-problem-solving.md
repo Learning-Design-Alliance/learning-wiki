@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: watkins-2010
     resource: "https://doi.org/10.1063/1.3515237"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Org Bio instructor used the diffusion equation as a referent, prompting students to check variable changes against intuition and knowledge of biological systems, and equations were revisited during discussions of form, function, and evolution. [→ Watkins 2010](#watkins-2010)
@@ -58,3 +59,5 @@ Qualitative field notes from classroom observations of more than half the semest
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
 - [Traditional answer-oriented problem solving imposes severe cognitive load, predisposing students to means–ends analysis at the expense of pattern noticing](traditional-problems-cognitive-load-means-ends.md) — related
 - [Interdisciplinary course reform benefits when problems are selected for biological authenticity, meaning solving the physics problem yields deeper understanding of why a biological system behaves as it does.](biological-authenticity-criterion-interdisciplinary-problems.md) — related
+- [Biology students' resistance to using mathematics in biology is context-dependent, improving when they perceive the activity as doing work for them](biology-students-math-attitudes-context-dependent.md) — related
+- [Biology and physics faculty tend to hold dramatically different epistemological views of introductory knowledge, with biology favoring realistic systems and physics favoring idealized toy models.](physics-biology-epistemological-style-differences.md) — related

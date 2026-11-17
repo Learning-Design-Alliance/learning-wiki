@@ -87,3 +87,4 @@ A semester-long intervention in a physics course using the same active learning 
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — a broader claim this one bears on
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
 - [Interview-type radio presentation compared with monologue for attitude change](monologue-versus-interview-attitude-change.md) — related
+- [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related

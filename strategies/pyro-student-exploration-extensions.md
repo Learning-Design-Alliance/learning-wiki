@@ -48,4 +48,4 @@ Each solver section closes with a set of open exercises the article frames as th
 -
 
 ## Key Sources
-- Zingale, M. (2014). pyro: A teaching code for computational astrophysical hydrodynamics. https://arxiv.org/abs/1306.6883
+- Zingale, M. (2014). pyro: A teaching code for computational astrophysical hydrodynamics. https://arxiv.org/abs/1306.6883. [doi:10.1016/j.ascom.2014.07.003](https://doi.org/10.1016/j.ascom.2014.07.003)

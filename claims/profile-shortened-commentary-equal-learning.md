@@ -48,3 +48,4 @@ Controlled experiment with companies of men hearing shortened Human Reproduction
 - [Modified film commentaries were consistently superior to the original commentary although differences were not statistically significant at a high level of confidence](modified-commentaries-consistently-superior-not-significant.md) — related
 - [Profile-based shortening removed more sentences and more presentation time than script writers' cuts](profile-cut-more-than-writers-cuts.md) — related
 - [The report projects that pre-production profile analysis could have increased Human Reproduction learning by 31 percent](profile-analysis-projection-31-percent.md) — related
+- [The first part of the outreach talk was too long for the youngest students, and a shortened version worked better](shortened-lecture-worked-better-youngest.md) — related

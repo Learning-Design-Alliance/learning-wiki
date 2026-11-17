@@ -50,3 +50,4 @@ Categorical moderator analysis (Table 6) testing whether each of ten analytical 
 - [Class size showed no significant relationship with TPR effect sizes in meta-regression](tpr-class-size-null-meta-regression.md) — related
 - [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related
 - [Teaching the written form of words significantly moderates TPR effects: studies teaching written forms averaged ES=1.777 versus 0.770 for those that did not](tpr-written-form-moderator-significant.md) — related
+- [Students in an advanced physics topic show a wide spread of learning paces, with mean 0.25 and standard deviation 0.12 on the iOLM pace measure](wide-spread-learning-pace-advanced-physics.md) — related

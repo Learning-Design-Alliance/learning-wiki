@@ -53,3 +53,4 @@ Model-data fit evaluation preceding the DIF analyses, reported in Table 2. Histo
 - [Statistically significant DIF appears in 20%, 15%, and 11% of items on anatomy, histology, and physiology preclinical exams respectively](dif-prevalence-three-preclinical-courses.md) — related
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
+- [The two-parameter logistic IRT model fit best only for the hypotheses-concerning-means bank; the one-parameter model sufficed for the other three banks](irt-model-fit-varies-by-item-bank.md) — related

@@ -158,7 +158,15 @@ def main():
     for l in (WIKI_ROOT / "eval/screening/arxiv-education-research.ndjson").read_text(encoding="utf-8").splitlines()[1:]:
         m = json.loads(l)
         snap[m["id"]] = (m.get("doi") or "").lower() or None
-    pages = a.pages or sorted({p for r in sources.values() for p in r.get("pages") or [] if p.startswith("claims/")})
+    pages = a.pages
+    if not pages:
+        # the pages the batch's sources wrote, and the older claims it changed in the working tree: a
+        # claim merge folds an arXiv entry into an existing page the manifest does not list
+        import subprocess
+        changed = subprocess.run(["git", "diff", "--name-only", "--", "claims"], cwd=WIKI_ROOT,
+                                 capture_output=True, text=True).stdout.split()
+        pages = sorted({p for r in sources.values() for p in r.get("pages") or [] if p.startswith("claims/")}
+                       | {p for p in changed if p.endswith(".md") and not p.endswith("index.md")})
     log = LOG.open("a", encoding="utf-8") if a.apply else None
     done = changed = 0
     for page in pages:

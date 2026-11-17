@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: mixed
 newest_evidence: 2008
+source_checked: 2026-11-17
 sources:
   - id: s-b-mckagan-2008
     resource: "https://doi.org/10.1119/1.2885199"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reformed course for engineering majors showed high learning gains on the Quantum Mechanics Conceptual Survey and a lack of shift in beliefs about physics on the Colorado Learning Attitudes about Science Survey. [→ S. B. McKagan 2008](#s-b-mckagan-2008)

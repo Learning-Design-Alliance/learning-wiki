@@ -239,6 +239,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 - [Use STAD-style individual progress scores with translated group scores as grade incentives in cooperative learning](../strategies/individual-progress-score-group-incentive-strategy.md)
 - [Implement active learning techniques including peer collaboration, presentations, debates, and online discussion forums in writing and research instruction](../strategies/active-learning-techniques-writing-research-strategy.md)
+- [Make student oral presentations of laboratory results the central activity](../strategies/student-oral-talks-central-activity-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

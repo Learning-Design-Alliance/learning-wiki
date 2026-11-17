@@ -27,4 +27,4 @@ ACER is an analytical framework designed to guide and structure investigations o
 -
 
 ## Key Sources
-- Wilcox, B. R., Caballero, M. D., Rehn, D. A., & Pollock, S. J. (2013). ACER: An Analytic Framework for Students' Use of Mathematics in Upper-Division Physics. https://arxiv.org/abs/1307.0791
+- Wilcox, B. R., Caballero, M. D., Rehn, D. A., & Pollock, S. J. (2013). ACER: An Analytic Framework for Students' Use of Mathematics in Upper-Division Physics. https://arxiv.org/abs/1307.0791. [doi:10.1103/physrevstper.9.020119](https://doi.org/10.1103/physrevstper.9.020119)

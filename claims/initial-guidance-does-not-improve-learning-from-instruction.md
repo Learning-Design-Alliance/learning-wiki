@@ -84,3 +84,4 @@ An independent replication with three conditions (unguided problem solving, guid
 - [Differences between the facilitated complex problem solving and lecture-practice conditions did not reach significance on post-test outcomes](fcps-lp-difference-not-significant.md) — related
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related
 - [5E-based guidance materials produced significantly better post-test conceptual understanding of \"What is the Earth's Crust Composed of?\" than the existing textbook, with no pre-test difference between groups](5e-guidance-materials-improve-earth-crust-conceptual-understanding.md) — related
+- [Although the three learning approaches form a hierarchy of abstraction, there is no clear hierarchy in learning outcome as measured by success](abstraction-hierarchy-no-outcome-hierarchy.md) — related

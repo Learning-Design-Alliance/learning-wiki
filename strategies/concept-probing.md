@@ -58,10 +58,12 @@ Concept probing operationalizes the principle that new learning is constructed f
 6. Re-probe after instruction with an isomorphic item to verify that conceptual change occurred, not just surface agreement.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the broader family; concept probing is the diagnostic, misconception-targeted variant
 - [Peer Instruction](peer-instruction.md) — a structured protocol built around probing questions and peer debate
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lighter-weight written probe format
 - [Wait Time](wait-time.md) — increasing post-question silence improves the depth of probe responses
+- [Use a task-based pre-assessment questionnaire to stream learners by prior experience](pre-assessment-task-questionnaire-streaming.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — Hestenes, Wells, & Swackhamer's (1992) diagnostic instrument whose distractors encode common Newtonian misconceptions; widely used to probe and re-probe mechanics understanding in physics courses. [https://www.physport.org/assessments/assessment.cfm?A=FCI](https://www.physport.org/assessments/assessment.cfm?A=FCI)

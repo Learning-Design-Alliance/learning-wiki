@@ -53,3 +53,4 @@ Results-section interpretation of the main benchmark comparison, contrasting the
 - [Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran. reaching 0.136 permutation importance versus 0.084 for Sem. in the Both (Role) setting](episode-features-predictive-importance-beyond-semantics.md) — related
 - [Combined assessment-centered and student-centered features yield the best classifier performance](combined-features-best-classifier-performance.md) — related
 - [DeepSeek demonstrated strengths in Chinese semantic processing, accurate translation of technical terminology, and structured logical reasoning.](deepseek-strengths-chinese-semantic-processing.md) — related
+- [A case-study student solved an estimation problem by breaking it into smaller sub-problems and combining the pieces](ava-breaks-estimation-into-sub-problems.md) — related

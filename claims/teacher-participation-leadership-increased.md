@@ -67,3 +67,6 @@ Video coding of forty-two hours of meetings, with primary agenda items weighted 
 - [Challenging statements among teachers and researchers increased over four-fold during the middle period of the program](challenging-statements-fourfold-increase.md) — related
 - [Teachers co-constructed their own shared definition of inquiry in a teacher-driven 1.5-hour conversation with minimal researcher facilitation](teacher-coconstructed-inquiry-definition.md) — related
 - [Concentrated recruitment and limiting the forums to a small number helped the community appear active, and the authors would in retrospect have used a single forum](concentrated-membership-few-forums-appear-active.md) — related
+- [Meeting agenda setting shifted from researchers providing all agenda items to teachers providing the majority](streamline-teacher-agenda-setting-shift.md) — a narrower finding that bears on this claim
+- [In the Streamline to Mastery community, teachers' share of group email traffic increased over the program year](streamline-teacher-email-participation-increased.md) — possibly the same claim (merge candidate)
+- [Teachers in the Streamline community increasingly initiated new email conversation threads over time](streamline-teacher-email-thread-initiation.md) — possibly the same claim (merge candidate)

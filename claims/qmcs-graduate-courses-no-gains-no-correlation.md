@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: mckagan-2010
     resource: "https://doi.org/10.1103/physrevstper.6.020121"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In graduate quantum courses there is no difference between pretest and posttest QMCS scores, even for students who score low on the pretest. [→ McKagan 2010](#mckagan-2010)

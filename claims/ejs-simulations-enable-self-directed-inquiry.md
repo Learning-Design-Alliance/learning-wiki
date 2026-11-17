@@ -49,3 +49,4 @@ Qualitative survey excerpt from the pilot lessons under the theme Enable Self di
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related
+- [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](pilot-investigative-learning-gravity-models.md) — related

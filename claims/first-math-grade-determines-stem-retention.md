@@ -47,3 +47,4 @@ Observational analysis of UMBC student records reported in the Intervention sect
 ## Related Claims
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Final level of mathematics training was strongly dependent on 9th-grade course enrollment: early tracking into advanced math dramatically raised Calculus completion](9th-grade-placement-strongly-determines-final-math-level.md) — related
+- [A student's likelihood of graduating in a STEM field is strongly affected by math placement and grade in the first math class, with Pre-MAP students showing higher STEM graduation fractions at similar grades](math-placement-grade-predict-stem-graduation.md) — related

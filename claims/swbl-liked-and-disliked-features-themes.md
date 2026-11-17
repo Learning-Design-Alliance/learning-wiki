@@ -52,3 +52,4 @@ Content analysis of two open-ended questions in the satisfaction survey. Facilit
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
 - [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
 - [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — related
+- [Too-small image size was the most frequent dislike in open-ended online responses, followed by resolution and colour complaints](image-size-and-resolution-top-mobile-dislikes.md) — related

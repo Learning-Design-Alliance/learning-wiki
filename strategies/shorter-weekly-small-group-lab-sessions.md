@@ -48,7 +48,8 @@ Based on the logistical obstacles encountered in the first implementation, the a
 - [Introducing the night laboratories produced no improvement on assessment questions the laboratories did not address](../claims/unaddressed-questions-no-improvement.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Dilute laboratory work across more sessions, plan each step, and avoid dead times when running labs with low-motivation vocational students](dilute-lab-work-plan-steps-avoid-dead-times-strategy.md)
 
 ## Examples
 -

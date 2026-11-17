@@ -9,6 +9,7 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-11-17
 sources:
   - id: charu-saxena-2007
     resource: "https://doi.org/10.1088/0031-9120/43/3/010"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Barring four students, all first-year students showed deterioration in reaction time after an hour of Mathematical Physics class. [→ Charu Saxena 2007](#charu-saxena-2007)

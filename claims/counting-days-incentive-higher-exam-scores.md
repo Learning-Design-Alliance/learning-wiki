@@ -69,3 +69,4 @@ The same within-class experiment reports that "these differences are statistical
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
 - [Spacing potential — days in advance studying began and days studied per week — was not a significant predictor of performance on immediate or delayed tests](spacing-potential-not-predictive-biology-exams.md) — related
+- [Small participation-point incentives raise post-test completion rates without raising scores, while high-stakes incentives raise both but are discouraged.](participation-points-incentive-concept-inventory-posttests.md) — related

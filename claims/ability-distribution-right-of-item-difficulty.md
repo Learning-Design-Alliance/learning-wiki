@@ -47,3 +47,4 @@ Numerical model results shown in Fig. 5 indicate the ability distribution lies f
 ## Related Claims
 - [When item difficulty and simulee ability ranges align (minimum -10, maximum 8), Pychometrik recovery is accurate, with correlations above 0.99 across all three sample sizes; recovery degrades above the simulee ability maximum of 7.94](pychometrik-accurate-recovery-when-ranges-align.md) — related
 - [All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students](mid-ability-students-hardest-to-predict.md) — related
+- [IRT analysis showed the tutor-web item banks contained more easy than difficult questions](tutor-web-item-banks-skewed-easy.md) — related

@@ -49,3 +49,4 @@ The article reports, citing Hang, Rukzio and Greaves (2008), preliminary studies
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
 - [Ash and Jaspen studied the effects of viewing angle, screen distance, and room illumination on learning with a rear-projection daylight screen](viewing-conditions-rear-projection-study.md) — related
+- [Students create planetarium tours that show well in the dome provided they avoid projecting text, which is hard to read in the mobile planetarium](student-wwt-tours-avoid-text.md) — related

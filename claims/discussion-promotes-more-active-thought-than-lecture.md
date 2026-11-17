@@ -164,3 +164,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Most Extensive-section students report positive attitudes toward the active-learning pedagogies and judge the preparation workload worthwhile](extensive-section-positive-pedagogy-attitudes.md) — related
 - [Limiting each EWAPS presentation to about three minutes followed by a twelve-minute discussion reduced the lecture-centred approach and promoted dialogue and critical reflection](short-presentation-long-discussion-cme-format.md) — related
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — related
+- [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related

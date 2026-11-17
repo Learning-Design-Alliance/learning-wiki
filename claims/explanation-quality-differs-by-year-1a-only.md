@@ -70,3 +70,4 @@ Chi-squared test on explanation-category distributions for Physics 1B 2010 (N=17
 - [Over 95% of student-authored questions included an explanation, mostly of good or excellent quality](student-explanations-majority-good-or-excellent.md) — related
 - [The two textbook series differ significantly in the distribution of intelligences across learning objectives](elt-textbook-series-differ-bloom-mi-grid.md) — related
 - [Student satisfaction with the seminar dropped from Fall 2010 to Fall 2011 for reasons the authors report as unclear](satisfaction-dropped-fall-2011.md) — related
+- [In the 2011 cohort, 35% of student videos had correct physics, 47% presented ideas clearly, 75% connected proposal to product and 87% had a logical sequence](video-content-quality-distribution-2011-cohort.md) — related

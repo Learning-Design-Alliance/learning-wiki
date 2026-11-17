@@ -51,3 +51,4 @@ Descriptive subgroup comparisons in the cross-sectional survey of 160 dental stu
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
 - [Male participants scored higher on clinical preparedness in Spain while women scored higher on attitudes in both cohorts](here-gender-preparedness-attitudes.md) — related
 - [Female dental students performed significantly better than male students in all three cohort groups](female-dental-students-outperformed-males-all-groups.md) — reports the opposite
+- [Knowledge scores differ by religious faith among Belgian students, with Muslim students scoring lowest](astronomy-score-faith-differences.md) — reports the opposite

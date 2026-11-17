@@ -45,6 +45,7 @@ USC's approach centers on systematically identifying students at risk of not gra
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](ninth-grade-on-track-data-strategy.md)
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
 - [VCU University College first-year model](../designs/vcu-university-college-first-year-model.md) — proactive advising in another case from the same series
+- [Appointment-based one-to-one tuition open to all level 1 physics and astronomy students](appointment-one-to-one-tuition-level1-physics.md)
 
 ## Examples
 -

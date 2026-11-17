@@ -20,7 +20,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (18 for, 46 mixed, 13 against) · 64 studies (19 associational, 15 theoretical, 9 causal, 8 review, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 5 of 64 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (18 for, 47 mixed, 13 against) · 65 studies (19 associational, 15 theoretical, 9 causal, 8 review, 7 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 5 of 65 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Read against the model on 2026-10-15 and again on 2026-10-19; these bear on it o
 - [Embedding a summative component in online formative assessment doubled improvement scores (19% vs 38.5%, p < 0.0001)](../claims/summative-component-doubles-improvement-scores.md) [+W] — attached 2026-11-10 from Palmer Edward (2014), which proposed "Couple formative assessment to a summative component to drive student engagement with online learning material"; tests this page's relationship.
 - [Usage of the online cases rose sharply when a summative component was added, even for purely optional cases](../claims/summative-component-increases-optional-case-usage.md) [+W] — attached 2026-11-10 from Palmer Edward (2014), which proposed "Couple formative assessment to a summative component to drive student engagement with online learning material"; tests this page's relationship.
 - [Summative examinations increase the odds of correctly identifying at least three of five ECG diagnoses about five-fold compared with formative examinations](../claims/summative-assessment-increases-ecg-diagnosis-odds.md) [+W] — attached 2026-11-10 from Raupach Tobias et al. (2013), which proposed "Match summative examinations closely to desired learning outcomes and prioritize resources toward high-quality summative assessment".
+- [ENEM Physics items concentrate on competency 6 and some items map to more than one skill, conflicting with IRT unidimensionality](../claims/enem-items-competency-6-multiskill-unidimensionality.md) [~W] — attached 2026-11-17 from Wanderley P. Gonçalves Jr et al. (2013), which proposed "Align the assessment Reference Matrix with the secondary curriculum so the exam supports rather than distorts teaching".
 
 ## Objective and learner-valued goal
 

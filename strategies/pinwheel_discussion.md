@@ -61,9 +61,11 @@ The format combines two evidence-backed mechanisms: structured peer discussion a
 6. Rotate new speakers into the center and continue; close with a whole-class debrief on the strongest arguments heard ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Socratic Seminar](socratic-seminar.md) — a related structured-discussion format; pinwheel adds assigned perspectives and team accountability
 - [Debate](debate.md) — pinwheel borrows adversarial structure but replaces win/loss with collaborative sense-making
 - [Jigsaw](jigsaw.md) — shares the expert-group preparation phase and interdependence structure
+- [Make student oral presentations of laboratory results the central activity](student-oral-talks-central-activity-strategy.md)
 
 ## Related Elements
 - [Expert Groups](../elements/expert-groups.md) — the preparation phase that makes speakers credible

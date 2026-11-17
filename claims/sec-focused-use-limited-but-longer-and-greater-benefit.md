@@ -49,3 +49,4 @@ Log data and reflection contents from the field trial show "SEC-focused use was 
 - [13 of 15 students stopped using the app halfway through placement as their attitude shifted from learning to working](app-usage-faded-learning-to-working-attitude-shift.md) — related
 - [Structural engagement with the reflection app made students more aware of their learning process, helped them identify learning opportunities, and gave them a sense of growth](reflection-app-awareness-learning-opportunities-growth.md) — related
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](weekly-reflections-barely-used-goals-daily-dominant.md) — related
+- [First-year students' weekly reflections focused most on organization, collaboration, and persistence](reflections-focus-organization-collaboration-persistence.md) — related

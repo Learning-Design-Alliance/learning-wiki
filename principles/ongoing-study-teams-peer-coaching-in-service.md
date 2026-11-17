@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (40 for, 17 mixed, 4 against) · 41 studies (10 causal, 10 design, 9 review, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 41 report an effect size · 59 claims rest on one study
+> **Evidence** · 62 claims (41 for, 17 mixed, 4 against) · 42 studies (10 causal, 10 design, 9 review, 5 associational, 5 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 42 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,7 @@ Read against the model on 2026-10-19. Of the 25 claims that had gathered here in
 - [Teachers in lesson study supported by a fractions resource kit made significant pre-to-post gains on three of four facets of fractions knowledge where control-group teachers made none, though no between-group test is reported](../claims/resource-kit-lesson-study-improves-teacher-fraction-knowledge-facets.md) [+W] — attached 2026-11-02 from Catherine Lewis et al. (2014), which proposed "Assemble resource kits providing mathematical and logistical support for each lesson study phase so local teams can conduct lesson study without outside facilitators"; tests this page's relationship.
 - [Peer support strategies yield participant benefits including reduced isolation, improved teaching behaviours, and unexpected learning for observers, but student learning outcomes are rarely reported](../claims/peer-support-participant-benefits-student-outcomes-rare.md) [+W] — attached 2026-11-08 from Campbell N et al. (2019), which proposed "Prefer a collaborative peer support model with trusted peer contributors over outside experts".
 - [Weekly instructor planning meetings appear important to implementing Modeling Instruction in ways that produce positive attitude shifts](../claims/weekly-planning-meetings-modeling-instruction-implementation.md) [+W] — attached 2026-11-17 from Eric Brewe et al. (2013), which proposed "Support curriculum reform implementation with weekly instructor planning meetings".
+- [Meeting agenda setting shifted from researchers providing all agenda items to teachers providing the majority](../claims/streamline-teacher-agenda-setting-shift.md) [+W] — attached 2026-11-17 from Ben Van Dusen et al. (2009), which proposed "Create communities in which teacher change might happen rather than trying to make teachers change".
 
 ## Objective and learner-valued goal
 

@@ -74,6 +74,7 @@ Rubrics and checklists improve performance primarily by clarifying expectations 
 - [Align taught discussion strategies with learning tasks and provide timely individual feedback on strategy and label use](align-discussion-strategies-with-tasks-and-feedback.md)
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
 - [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
+- [Weekly guided reflections on lifelong learning skills with individualized instructive and affective feedback](guided-reflections-individualized-feedback-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling rubric application on sample work

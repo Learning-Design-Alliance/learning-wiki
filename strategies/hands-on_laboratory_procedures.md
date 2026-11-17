@@ -63,6 +63,7 @@ Manipulating real equipment grounds abstract concepts in perceptual-motor experi
 - [Simulation](../elements/simulation.md) — a lower-cost rehearsal path before or alongside physical labs
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
 - [Use computer-based simulated experiments before real-time laboratory experiments](virtual-experiments-before-real-lab.md)
+- [Couple real published laboratory experiments with simulated-experiments and graphical postprocessing](couple-real-lab-with-simulated-experiments.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-based virtual labs used before or in place of physical equipment for circuit-building and chemistry procedures

@@ -42,6 +42,7 @@ This strategy organizes sample size planning around the four evidence-building p
 - [Refine a solution based on lessons learned during implementation](refine-solution-from-implementation-lessons.md)
 - [Conduct a small pilot study to assess early evidence of success before full validation](small-pilot-study-for-early-evidence-of-success.md)
 - [Measure usability, usefulness, and utilization during development and early implementation](measure-3us-during-development-and-early-implementation.md)
+- [Consult practitioner community archives and plan timeline, staffing and pilot classrooms before building a DIY planetarium](planetarium-builder-community-archives.md)
 
 ## Examples
 -

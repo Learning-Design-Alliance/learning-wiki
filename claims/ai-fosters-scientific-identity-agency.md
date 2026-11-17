@@ -56,3 +56,4 @@ RQ1 theme on transformation of learner identity and agency, drawn from teacher a
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — related
 - [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](learning-by-creation-increases-ownership-awareness.md) — related
+- [Qualitative report analysis showed tool-assisted students described knowledge-building concepts such as Knowledge Creation, Passive to Active, and Meta Learning, whereas students without the tool described basic collaborative features](report-coding-shift-toward-knowledge-building-categories.md) — related

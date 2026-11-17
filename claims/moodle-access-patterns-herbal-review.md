@@ -72,3 +72,4 @@ Log analysis shown in Fig. 2c and d compares activity hits per activity between 
 - [Blending Moodle e-learning review with a field trip improves herbal plant identification scores for both plant groups in a quasi-experiment with 49 Chinese medicine students](moodle-review-improves-herbal-identification-quasi-experiment.md) — related
 - [The blended Moodle-plus-field-trip intervention shows a large effect size (Cohen's d = 1.38) on herbal plant identification](moodle-field-trip-cohens-d-1-38.md) — related
 - [Health professional students' use of an online learning repository peaks at times of increased academic need such as examinations](repository-usage-peaks-exam-periods.md) — related
+- [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related

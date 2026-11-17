@@ -52,3 +52,4 @@ The article's central thesis, argued from examples of everyday speech, classroom
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a narrower finding that bears on this claim
 - [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related
 - [Students overextend and misapply metaphorical systems in physicists' language, and some QM difficulties can be explained as difficulties with language](students-overextend-physics-metaphors.md) — related
+- [Disorder and chaos metaphors do productive work for students in making sense of diffusion and osmosis](disorder-metaphor-productive-diffusion-osmosis.md) — a narrower finding that bears on this claim

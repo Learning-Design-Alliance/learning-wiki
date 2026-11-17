@@ -71,3 +71,4 @@ One-year longitudinal SoCQ study of the concerns of Kansas elementary teachers w
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](ai-integration-self-task-impact-trajectory.md) — a narrower finding that bears on this claim
 - [Students varied in the speed of their developmental progressions but all reached the highest phase](varied-progression-speed-area-reasoning.md) — related
+- [Teachers at a December 2013 regional symposium raised wide-ranging concerns about implementing the NGSS, including intensive professional development needs, time management, differentiation, and assessment fit](teacher-concerns-ngss-implementation-symposium.md) — related

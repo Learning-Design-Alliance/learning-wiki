@@ -46,4 +46,4 @@ The proposed course distributes its minimum content across four chapters (introd
 -
 
 ## Key Sources
-- Cionco, Rodolfo G. (2013). Fundamentals of Atmospheric Physics for Engineering. https://frsn.utn.edu.ar
+- Cionco, Rodolfo G. (2013). Fundamentals of Atmospheric Physics for Engineering. https://frsn.utn.edu.ar. [doi:10.48550/arxiv.1208.3765](https://doi.org/10.48550/arxiv.1208.3765)

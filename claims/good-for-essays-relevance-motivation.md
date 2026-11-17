@@ -72,3 +72,5 @@ Student rating survey of the Good For assignments in N100. The article reports o
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
 - [IL-enrolled biology students showed higher academic engagement than biology-only students in attendance, extra-credit submission, and exam-prep attendance](il-biology-engagement-higher.md) — related
+- [Graded pre-class flip-JiTT warm-up assignments achieved an 83.1% participation rate among 69 E&M students](flip-jitt-83-percent-participation.md) — related
+- [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related

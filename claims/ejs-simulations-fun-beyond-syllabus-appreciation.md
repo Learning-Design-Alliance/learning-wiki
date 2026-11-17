@@ -52,3 +52,4 @@ Qualitative survey excerpts under the themes Learning with computer models can b
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
+- [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](pilot-investigative-learning-gravity-models.md) — related

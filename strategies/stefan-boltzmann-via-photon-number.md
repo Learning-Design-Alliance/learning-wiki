@@ -44,6 +44,7 @@ The article recommends extending the photon-based presentation to the Stefan-Bol
 
 - [De-emphasize Wien's displacement law in introductory classes and tailor Planck-curve presentation to the audience](de-emphasize-wien-law-introductory-classes.md)
 - [Replace Wien's displacement law with the average photon energy in introductory blackbody instruction](teach-average-photon-energy-instead-of-wien-law.md)
+- [Teach photon statistics through methods of increasing refinement folding light and detector characteristics](progressive-refinement-photon-statistics-instruction.md)
 
 ## Examples
 -

@@ -48,6 +48,9 @@ The interactive event runs a fixed sequence: introduction to OSP, sharing of lea
 - [Remix existing open source simulation models into inquiry learning environments matched to the local syllabus](remix-open-source-simulations-for-inquiry-strategy.md)
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 - [Run standardized 60-minute simulation workshops in small groups of 5 with a fixed sequence of introduction, demonstration, supervised practice, and feedback](standardized-small-group-simulation-workshop-sequence.md)
+- [Do-it-yourself black hole workshop: build and compare sector models to introduce curved space descriptively](diy-black-hole-sector-model-workshop.md)
+- [Open apparatus design plus a harmonic-then-parametric teaching sequence for the spring-mass laboratory](open-apparatus-harmonic-to-parametric-sequence-strategy.md)
+- [Teacher professional development through customizing Open Source Physics simulation templates](teacher-pd-customizing-osp-simulations.md)
 
 ## Examples
 -

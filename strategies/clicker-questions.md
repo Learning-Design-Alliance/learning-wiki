@@ -70,6 +70,7 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 - [Use a vote–discuss–revote sequence with classroom response systems so students reach more accurate understanding through peer discussion alone](clicker-vote-discuss-revote.md)
 - [Use Cash-Participation in small classes of twenty-four or fewer as a more personal alternative to clicker systems](cash-participation-small-class-strategy.md)
 - [Use concept tests with peer instruction: poll challenging multiple-choice questions, then have students discuss and repoll](concept-tests-peer-instruction-improve-conceptual-understanding.md)
+- [Recast multiple-choice clicker questions as open-format questions requiring written justification to expose faulty reasoning behind correct answers](recast-clicker-questions-open-format-strategy.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

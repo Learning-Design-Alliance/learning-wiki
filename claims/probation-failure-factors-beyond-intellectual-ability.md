@@ -49,3 +49,4 @@ Meeting report of Whipple's study applying intelligence tests to probation stude
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
 - [High school principals most frequently cited social distractions and fraternity life among environmental causes of their graduates' college failure](principals-cite-social-fraternity-distractions.md) — related
 - [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md) — related
+- [Assessment records indicated some level 1 physics failures stemmed from non-submission of continuous assessment rather than intellectual capability, often because students were unaware deadlines existed.](continuous-assessment-nonsubmission-deadline-unawareness.md) — a narrower finding that bears on this claim

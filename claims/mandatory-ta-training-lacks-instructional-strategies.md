@@ -67,3 +67,4 @@ From the same interview analysis of mandatory TA training experiences. The artic
 ## Related Claims
 - [Most biology graduate students know about and value EBT, but only 37.5% have implemented EBT strategies](grad-students-aware-value-ebt-few-implement.md) — related
 - [Participation in mandatory TA training showed no indication of a positive impact on EBT adoption](mandatory-ta-training-not-linked-ebt-adoption.md) — related
+- [Most in-training teachers had prior teaching experience but very few had experience teaching in a physics laboratory](prior-teaching-experience-without-physics-lab-experience.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Controlled experiments on paper-based and computer-based lessons on brakes, pump
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [A conversational, first-person script style increases engagement and attention compared with a formal presentation style](conversational-script-style-engagement.md) — possibly the same claim (merge candidate)
+- [Students learning in an informal communication style act better than those who do not, and polite wording increases learning](informal-style-politeness-increase-learning.md) — related

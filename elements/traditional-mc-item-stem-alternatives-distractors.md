@@ -49,6 +49,8 @@ The article defines the traditional multiple-choice test item as consisting 'of 
 
 - [Multiple-Choice Quizzing with Plausible Alternatives and Feedback](../strategies/multiple-choice-quizzing-with-plausible-alternatives-and-feedback.md)
 - [Use detailed, structured prompts specifying question type, case details, distractors, explanation, source, and difficulty level](../strategies/structured-nine-component-mcq-prompt.md)
+- [Build multiple-choice distractors and reasoning elements from a database of authentic student free-response answers](../strategies/build-mc-distractors-from-student-response-database.md)
+- [Build multiple-choice distractors by categorizing students' open-ended written responses into groups of similar ideas](../strategies/student-response-distractor-construction-strategy.md)
 
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120

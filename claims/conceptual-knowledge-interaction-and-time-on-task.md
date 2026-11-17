@@ -49,3 +49,4 @@ Three-way ANOVA on log-file time-on-task (dyad-level for collaborative pairs) sh
 - [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related
 - [Students instructed to learn in dyads spend more time on task during the self-study phase than students in the other groups](dyadic-instruction-increases-time-on-task.md) — reports the opposite
+- [Students with substantial programming experience tended to work individually and spend less time on the exercises, while less experienced students tended to work in teams](programming-experience-individual-versus-team-work.md) — reports the opposite

@@ -79,3 +79,4 @@ Reflexive thematic analysis of non-user open-ended comments (Fig. 5): "Usability
 - [The AI chatbot received excellent usability ratings for scenario accuracy and feedback quality, but scoring speed and understanding of traditional Korean medicine terminology fell below the satisfaction benchmark](chatbot-usability-strengths-feedback-weaknesses-tkm-speed.md) — related
 - [Both end-user groups considered the proof-of-concept easy to use](proof-of-concept-ease-of-use.md) — related
 - [Healthcare professionals rated the e-learning resource as useful, easy to use and relevant to practice, and about one-third reported applying it in clinical practice at 4 weeks](elearning-usefulness-usability-ratings.md) — related
+- [Too-small image size was the most frequent dislike in open-ended online responses, followed by resolution and colour complaints](image-size-and-resolution-top-mobile-dislikes.md) — related

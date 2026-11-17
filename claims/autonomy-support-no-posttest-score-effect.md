@@ -49,3 +49,4 @@ Two-factor repeated-measures ANOVA on pre-test and post-test scores (eight singl
 - [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](autonomy-support-boosts-conceptual-knowledge-biology.md) — reports the opposite
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](teacher-style-no-effect-rote-learning.md) — related
 - [Teacher autonomy support, compared with a controlling style, increases students' autonomy need satisfaction, autonomous motivation and positive academic emotions and lowers negative emotions in a simulated one-to-one teaching session](autonomy-support-raises-motivation-and-positive-emotions.md) — related
+- [The authors report that the multi-session simulated-experiment programme achieved student motivation and increased academic performance](simulated-experiment-motivation-performance-author-report.md) — related

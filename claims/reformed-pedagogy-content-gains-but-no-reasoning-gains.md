@@ -71,3 +71,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
 - [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
 - [TUG-K results after traditionally taught physics I showed a practically binomial distribution with probability of the order of 1/5, indicating low effectiveness of traditional instruction](traditional-instruction-binomial-1-5-ineffective.md) — related
+- [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related

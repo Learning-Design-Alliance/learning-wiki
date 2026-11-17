@@ -47,4 +47,4 @@ From their retrospective analysis the authors draw lessons for organizations est
 -
 
 ## Key Sources
-- Khare, R., Sahai, E., Pramanick, I. (2013). Remote Mentoring Young Females in STEM through MAGIC. https://arxiv.org/abs/1304.7547
+- Khare, R., Sahai, E., Pramanick, I. (2013). Remote Mentoring Young Females in STEM through MAGIC. https://arxiv.org/abs/1304.7547. [doi:10.48550/arxiv.1304.7547](https://doi.org/10.48550/arxiv.1304.7547)

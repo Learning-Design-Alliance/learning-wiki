@@ -48,3 +48,4 @@ Descriptive comparison of Table 2 achievement gaps, computed before the course (
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Ethnic, gender and socio-environmental group differences in higher education assessment are pervasive but small in practical terms](he-assessment-group-differences-pervasive-but-small.md) — related
+- [Early student interaction networks segregate significantly by lab class and to a lesser degree by gender, but not by end-of-course grade](segregation-by-lab-class-gender-not-grade.md) — related

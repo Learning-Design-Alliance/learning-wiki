@@ -44,7 +44,8 @@ Integrated testlets are context-dependent item sets in which, per the article, "
 - 
 
 ## Examples
--
+
+- [Convert constructed-response problems into concept-equivalent integrated testlets by deconstructing solution elements and selecting key steps as MC items](../strategies/cr-to-it-conversion-strategy.md)
 
 ## Key Sources
 - Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365. [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)

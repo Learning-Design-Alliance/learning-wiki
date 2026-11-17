@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-17
 recheck_by: 2016
 sources:
   - id: marcos-d-caballero-2011
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` More than 80% of students with erroneous code fell into six error clusters, and the largest cluster was stuck on the test case with a force-calculation error. [→ Marcos D. Caballero 2011](#marcos-d-caballero-2011)

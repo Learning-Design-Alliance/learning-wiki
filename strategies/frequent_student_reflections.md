@@ -63,6 +63,7 @@ Frequent reflection builds the self-monitoring component of self-regulated learn
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — one-on-one conversations that deepen written reflections
 - [Exam Wrappers](exam-wrappers.md) — post-assessment reflection on study strategies
 - [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
+- [Use iCARE regularly as a formative assessment and epistemic training tool in inquiry-based teaching](icare-regular-formative-epistemic-training-strategy.md)
 
 ## Examples
 - **[Exam wrappers](exam-wrappers.md)** (widely used in postsecondary STEM, e.g., Carnegie Mellon's Eberly Center materials): after each exam, students answer a short form about how they studied and what they will change; instructors review aggregated responses to adjust teaching.

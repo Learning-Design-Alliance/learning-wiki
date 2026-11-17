@@ -49,6 +49,7 @@ Drawing on a decade of disseminating retrieval practice research, the author off
 
 - [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 - [Bridge scientist-educator divides by clarifying visions of participation and identifying scalable practices](clarify-visions-and-scalable-practices-stsp-design.md)
+- [Pair a science culture venue with an active research programme so mediators are trained directly on live research data](scientist-sponsorship-trains-mediators-live-data.md)
 
 ## Examples
 -

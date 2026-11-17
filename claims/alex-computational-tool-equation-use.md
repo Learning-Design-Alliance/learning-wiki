@@ -53,3 +53,4 @@ Qualitative case study of Alex's think-aloud and written solution to the Two Bal
 - [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](pat-alex-encyclopedic-contrast.md) — possibly the same claim (merge candidate)
 - [Five of eleven other interviewed students showed evidence of either a symbolic forms-based explanation of the velocity equation or a blended-processing shortcut on the Two Balls Problem](five-of-eleven-students-blended-processing.md) — related
 - [M&I students almost never mentioned momentum when reasoning about the elevator problem, despite the curriculum's emphasis on the momentum principle](mi-students-absent-momentum-principle.md) — related
+- [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — related

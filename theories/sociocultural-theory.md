@@ -19,7 +19,7 @@ sources:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (38 for, 10 mixed, 1 against) · 56 studies (15 causal, 11 review, 11 qualitative, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 5 of 56 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (39 for, 10 mixed, 1 against) · 57 studies (15 causal, 12 qualitative, 11 review, 7 quant-synthesis, 7 associational, 5 theoretical), `q1`–`q4` · 5 of 57 report an effect size · 44 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills ([Polly et al., 2018](https://edtechbooks.org/lidtfoundations/sociocultural_perspectives_of_learning)).
@@ -130,6 +130,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Creating a community context with mediational tools toward a genuine purpose for writing is more effective than fixing individual writing attitudes](../claims/community-context-writing-attitudes.md) [+W]
 - [L1 post-reading group discussions lead to greater mention of reading comprehension strategies and constituent elements in L2 written recalls than L2 discussion or no discussion](../claims/l1-discussion-greater-strategy-recall.md) [+W] — attached 2026-11-03 from Turnbull et al. (2017), which proposed "Languaging within sociocultural theory as a framework for L1 group discussion and L2 reading comprehension"; tests this page's relationship.
 - [Classroom composition may influence preschool learning, with opportunities to learn from peers with advanced skills suggested as beneficial](../claims/preschool-peer-composition-advanced-skills.md) [+W]
+- [In a case study, two students' computational thinking and physics understanding co-developed through negotiating and cohering multiple perspectives during collaborative agent-based modeling](../claims/collaborative-agent-based-modeling-perspectival-shifts-case.md) [+W] — attached 2026-11-17 from Farris et al. (2014), which proposed "Perspectival understanding framework: collaborative computational thinking develops through coherence among multiple points of view".
 
 ## The evidence by question
 - *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]

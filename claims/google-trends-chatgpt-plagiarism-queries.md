@@ -53,3 +53,4 @@ Descriptive analysis of Google Trends data, reported in the discussion and Figur
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related
+- [Constant algorithm changes to Google Trends and Google Correlate prevent replication of results, and search-behaviour correlations carry causation and sampling caveats](google-correlate-replicability-caveats.md) — related

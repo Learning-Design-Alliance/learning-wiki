@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: carl-wieman-2013
     resource: "https://doi.org/10.1103/physrevstper.9.023102"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 70 UBC faculty who adopted RBIS with CWSEI support, only one subsequently stopped using them, versus a reported 33% stopping rate for physics faculty generally. [→ Carl Wieman 2013](#carl-wieman-2013)

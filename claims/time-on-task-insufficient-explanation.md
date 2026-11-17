@@ -53,3 +53,4 @@ The authors' comparison of percentage of total GT lecture hours devoted to each 
 - [M&I students perform roughly one letter grade higher on the BEMA than traditional students with the same final course grade](mi-one-letter-grade-bema-advantage.md) — related
 - [The relative fraction of homework and lecture topics devoted to FCI force and motion concepts correlates with observed FCI performance differences between curricula.](homework-lecture-fraction-correlates-fci-gap.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
+- [The article reports, citing Redish, Saul, and Steinberg, that adding lecture hours on a tested topic did not improve FCI performance, while a tutorial-based section performed better.](extra-lecture-time-not-improving-fci-tutorial-better.md) — related

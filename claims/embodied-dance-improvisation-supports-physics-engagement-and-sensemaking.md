@@ -66,3 +66,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
 - [Making human movements tends to be more beneficial for learning than observing them (review's synthesis)](making-movements-more-beneficial-than-observing.md) — related
+- [Student-produced physics videos reveal learning difficulties that formal assessments such as tests and questionnaires do not expose](videos-reveal-difficulties-hidden-from-tests.md) — related

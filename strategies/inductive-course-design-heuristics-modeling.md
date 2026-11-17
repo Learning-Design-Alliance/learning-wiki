@@ -53,7 +53,8 @@ The article offers curriculum heuristics developed iteratively over four semeste
 - [After learning, the experimental group's happiness decreased and frustration and boredom increased significantly, while the control group's emotions did not change significantly.](../claims/post-learning-emotion-declines-after-funny-video-induction.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
 
 ## Examples
 -

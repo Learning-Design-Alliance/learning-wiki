@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (38 for, 24 mixed) · 68 studies (23 causal, 14 review, 13 quant-synthesis, 6 associational, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 19 of 68 report an effect size · 49 claims rest on one study
+> **Evidence** · 63 claims (39 for, 24 mixed) · 69 studies (23 causal, 14 review, 13 quant-synthesis, 6 associational, 6 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 19 of 69 report an effect size · 50 claims rest on one study
 
 ## Description
 
@@ -151,6 +151,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Course grades show no significant difference between cohorts taught with and without the Socrative mobile application](../claims/no-grade-difference-socrative-cohorts.md) [~M] — attached 2026-11-08 from Kim Kyong-Jee (2019), which proposed "Integrate mobile classroom applications to support formative assessment and anonymous whole-class interaction in competency-based courses"; tests this page's relationship.
 - [Students who complete a topic-relevant open-book online formative assessment before a practical course score higher on course-script knowledge at the beginning and end of the course](../claims/relevant-fa-improves-course-script-knowledge.md) [+M] — attached 2026-11-09 from Minder Stefan P. et al. (2018), which proposed "Introduce open-book online formative assessments as formalized preparation for practical courses"; tests this page's relationship.
 - [Students reported that assigning certainty ratings to MCQ answers made them aware of what they know and do not know and assisted in identifying knowledge gaps](../claims/crmcq-student-survey-awareness-gaps.md) [+W] — attached 2026-11-09 from Luetsch Karen (2016), which proposed "Combine formative pre- and post-module certainty-rated MCQ tests with automated feedback and sign-posting to learning resources so learners self-regulate and focus their study".
+- [Student-produced physics videos reveal learning difficulties that formal assessments such as tests and questionnaires do not expose](../claims/videos-reveal-difficulties-hidden-from-tests.md) [+W] — attached 2026-11-17 from Eduardo Gama (2013), which proposed "Use student video production as a formative assessment tool in high school physics".
 
 ## Source verification and open tests
 

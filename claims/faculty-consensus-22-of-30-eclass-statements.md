@@ -49,3 +49,6 @@ Expert-validation step in which six faculty completed the survey to establish th
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
 - [Many students at all levels personally disagree or are neutral that error analysis helps them understand results, unlike expert physicists](students-not-expert-like-on-error-analysis-helpfulness.md) — a narrower finding that bears on this claim
 - [Faculty consensus produced four categories of learning goals for the advanced lab: modeling, design, communication, and technical lab skills](four-learning-goal-categories-modeling-design-communication-technical.md) — related
+- [Student views on the purpose of experiments are internally contradictory across similar statements](contradictory-student-views-experiment-purpose.md) — related
+- [Students and experts sharply disagree on whether the main goal of communicating results is a correctly formatted report](students-experts-disagree-report-formatting-goal.md) — related
+- [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related

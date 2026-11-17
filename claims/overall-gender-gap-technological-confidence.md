@@ -113,3 +113,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male students report more confidence in clinical situations than female students, with no gender difference in demonstrated knowledge](gender-confidence-knowledge-gap.md) — related
 - [Male students report higher self-efficacy than female students despite similar simulator performance](gender-self-efficacy-gap-simulator.md) — related
 - [GRAS-DK score differed slightly by gender and by highest-taxonomy-level elective, but not by age, study progression, or extracurricular activity](gras-dk-background-variable-correlates.md) — related
+- [Male students show higher interest in astronomy than female students, but no gender difference appears in the public sample](astronomy-interest-gender-gap-students-only.md) — related

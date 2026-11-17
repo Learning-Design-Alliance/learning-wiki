@@ -20,6 +20,7 @@ A one-session resilience-training workshop developed by NIEHS and SAMHSA for pro
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Build disaster workers' coping resources in advance of trauma exposure rather than only intervening after a crisis**: The article argues that prior disaster mental health interventions (CISM, Psychological First Aid) target mitigation of symptoms after a crisis, whereas resilience programs should build coping resources before exposure. The DWRT "encourages participants to think about ways to make themselves and their organizations more resilient to stress in advance of a crisis." The trial's trauma-exposed subgroup results support this timing: symptom increases appeared only in waitlist participants who later experienced trauma, not in trained participants. (Mahaffey Brittain L. et al. (2020))
 
 ### Claims
 - [Disaster workers randomly assigned to the DWRT workshop report significantly greater increases in overall healthy lifestyle behaviors over 3 months than waitlist controls](../claims/dwrt-increases-healthy-lifestyle-behaviors.md) [+M]

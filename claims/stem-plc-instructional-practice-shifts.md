@@ -70,3 +70,4 @@ Knowledge synthesis finding under positive changes in STEM teachers' instruction
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related
 - [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](teacher-educators-foreground-engagement-tlas.md) — related
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — related
+- [Novice teachers shift from foregrounding moral and instrumental value toward highlighting intellectual value of student ideas](la-shift-toward-intellectual-valuing.md) — related

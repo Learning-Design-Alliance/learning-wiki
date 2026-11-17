@@ -69,3 +69,4 @@ Domain-level analysis combining Q1 and Q2 on the ProKT posttest; the t-test foun
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related
 - [The understanding (C2) cognitive domain showed the smallest but still favorable gain favoring PhET, with experimental N-gain 0.49 versus control 0.31](phet-cognitive-domain-c2-gain.md) — related
+- [The author reports the approach supports development of procedural and conceptual understanding, problem-solving abilities, higher-level cognitive abilities, and affective outcomes](guided-problem-solving-developmental-outcomes.md) — related

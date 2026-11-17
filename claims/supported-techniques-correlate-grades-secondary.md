@@ -55,3 +55,4 @@ Correlational analysis of survey scales against school-provided average grades i
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
+- [First-grade teachers transferred active learning into school training and other sciences](first-grade-teachers-transfer-active-learning.md) — related

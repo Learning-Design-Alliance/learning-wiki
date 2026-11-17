@@ -57,3 +57,4 @@ Same multivariable regression (n = 88 complete cases). Because lower scores mean
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — reports the opposite
 - [Nurses with a master's degree had almost four times higher odds of good practice regarding ACS care than nurses with a bachelor degree (AOR=4.258)](masters-degree-associated-good-acs-practice.md) — reports the opposite
 - [Holding a BSc degree or above was associated with over four times higher odds of neonatal resuscitation skill retention](bsc-degree-associated-nr-skill-retention.md) — related
+- [Advanced degree holders are retained at nearly a 20% higher rate than participants with Bachelor's degrees or lower, and males show higher retention than females](802x-retention-education-and-gender-gaps.md) — reports the opposite

@@ -48,3 +48,4 @@ Logistic regression comparison of the 33-item criterion-correlated scale against
 ## Related Claims
 - [Summary scales built from the HAM-Nat item pool predict qualification for the first medical exam after two years in first-year medical students](hamnat-summary-scales-predict-success-two-years.md) — related
 - [Selecting the top 25% of applicants by HAM-Nat-BPC is expected to raise the two-year success rate from 70.1% to about 83.1%](hamnat-selection-gain-success-rate.md) — related
+- [Most individual precalculus items correlate positively with course performance: about 91% of item odds ratios exceed 1 in 2010](majority-items-positive-odds-ratios.md) — related

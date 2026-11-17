@@ -62,3 +62,4 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — related
 - [Participants with prior coding and AI experience benefited more from AI-featured computational activities than those with limited experience](prior-experience-moderates-ai-scaffolding-benefit.md) — related
 - [Pilot students began shifting from output-oriented toward mechanism-based explanations](pilot-shift-toward-mechanism-based-explanations.md) — related
+- [Some difficulties-rubric claims, such as those in the sign category, cannot yet be verified from written work alone and require more data and targeted interviews](difficulties-rubric-claims-need-targeted-interviews.md) — related

@@ -65,6 +65,7 @@ The strategy works because the audience and purpose are genuinely authentic — 
 - [Peer feedback protocols](../strategies/action-oriented-feedback.md) — structures the audience response that makes presentations formative rather than performative
 - [Structure poster presentations around the claim-evidence-reasoning formulation to build communication skills](claim-evidence-reasoning-poster-presentations.md)
 - [Student presentations plus instructor-peer-reviewed term papers to build technical writing, reviewing skills, and academic-honesty awareness](student-presentation-peer-reviewed-term-paper-strategy.md)
+- [Make student oral presentations of laboratory results the central activity](student-oral-talks-central-activity-strategy.md)
 
 ## Examples
 - **First-week seminar practice**: a college first-year seminar opens with instructor-modeled "All About Me" talks, then student talks in groups of four, with each listener submitting one connection card used later to form project teams.

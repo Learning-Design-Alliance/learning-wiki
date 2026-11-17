@@ -80,3 +80,6 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Experts' intuitive steps in derivations are cultural norms learned as one becomes a physicist](intuitive-recognitions-are-cultural-norms.md) — related
 - [Table-top VSRT interferometer labs give undergraduates hands-on, intuitive understanding of aperture synthesis without Fourier-transform mathematics](vsrt-labs-intuitive-aperture-synthesis-undergraduates.md) — related
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
+- [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — related
+- [Open play time with an interactive simulation supports the teacher in leading student-centered, inquiry-based classroom discourse](open-play-sim-time-supports-inquiry.md) — related
+- [Students videotaped in a UNH cooling lab showed intense engagement and negotiation of meaning while connecting equation parameters to physical quantities](unh-cooling-lab-engagement.md) — related

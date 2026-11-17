@@ -68,3 +68,4 @@ Authors' interpretation of the PSI results: because high PSI scores indicate per
 - [The PBL and traditional groups were equivalent on CCTDI and PSI at pre-test](pbl-study-pretest-equivalence.md) — related
 - [Pre-service teachers’ perceptions of problem-solving ability are generally at a middle level](preservice-teachers-middle-psi-levels.md) — related
 - [Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control](ps-instruction-improved-psi-perceptions.md) — related
+- [The guided problem-solving laboratory approach yielded better learning and overall results than the traditional cookbook method, according to the author's own evaluation](guided-problem-solving-better-results-than-traditional.md) — related

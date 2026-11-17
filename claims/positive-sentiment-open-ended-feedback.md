@@ -70,3 +70,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Most students responded positively to video recording and feedback: 66% of open-ended survey comments were positive, and three quarters agreed the video provided an authentic picture of their skills (M = 4.0, SD = 1.47)](positive-student-perceptions-video-feedback.md) — related
 - [Sentiment analysis of open-ended SALG responses showed positive sentiments more abundant than negative in all years, with a higher positive proportion in the latter two years](ibis-sentiment-positive-trigrams-increased.md) — related
 - [Residents' unprompted comments about the rapid feedback intervention were almost entirely positive (11 of 12)](resident-comments-on-rapid-feedback-mostly-positive.md) — related
+- [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related

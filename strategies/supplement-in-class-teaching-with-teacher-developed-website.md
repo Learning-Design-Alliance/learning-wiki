@@ -47,7 +47,8 @@ The article recommends supplementing face-to-face physics teaching with a dedica
 - [Students accessed the website extensively outside school hours, with use spanning up to 20 hours per day](../claims/website-access-extends-beyond-school-hours.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use an open on-line drill system as a supplement to in-class teaching, for remote learning, and as remedial material for students lacking prerequisites](open-drill-system-supplement-remedial-remote.md)
 
 ## Examples
 -

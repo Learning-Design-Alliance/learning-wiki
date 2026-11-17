@@ -49,6 +49,7 @@ From the evaluation, the article distils effective course design incorporating P
 
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 - [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
+- [Design advanced-physics tutorial activities that focus on concepts, scaffold problem difficulty, and allow generous completion time](advanced-tutorial-design-guidelines.md)
 
 ## Examples
 -

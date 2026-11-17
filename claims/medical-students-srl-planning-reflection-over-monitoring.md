@@ -49,3 +49,4 @@ Focused-coding content analysis of semi-structured interviews with 26 first- and
 - [Students who self-perceive as high achieving report monitoring-phase SRL strategies more often than low- and middle-achieving peers](high-achievers-use-more-monitoring-strategies.md) — related
 - [Interviewed experimental-group students reported using self-regulated learning strategies across forethought, performance and self-reflection phases in their independent studies](jigsaw-iv-students-report-srl-phases.md) — related
 - [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) — related
+- [First-year students' weekly reflections focused most on organization, collaboration, and persistence](reflections-focus-organization-collaboration-persistence.md) — related
