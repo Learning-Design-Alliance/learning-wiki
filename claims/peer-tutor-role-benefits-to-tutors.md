@@ -65,3 +65,4 @@ Synthesis of tutor-side outcomes from the main-findings section of the review; t
 - [Response competency is a multidimensional construct combining technical skills with psychological resilience, collaboration, leadership, communication, and professional identity](response-competency-multidimensional-construct.md) — related
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
 - [The authors report that PAL with online lectures increases student autonomy and empowerment, with student tutors highly motivated to continue teaching](pal-online-lectures-increase-student-autonomy.md) — a narrower finding that bears on this claim
+- [Open-project students more often cited teamwork and work organization, but less often cited autonomy, as personal impact](open-project-teamwork-cited-autonomy-underacknowledged.md) — related

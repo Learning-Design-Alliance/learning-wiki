@@ -50,3 +50,4 @@ Analysis relating individual students' total raw scores to IRT proficiency estim
 - [FCI pre- and post-test data from introductory mechanics students are reasonably treated as unidimensional, with the first eigenvalue about 5 times larger than the rest](fci-unidimensionality-eigenvalue-analysis.md) — related
 - [All 30 FCI items fit the three-parameter item response model acceptably, with chi-square goodness-of-fit statistics below 1](fci-irt-goodness-of-fit-chi-square.md) — related
 - [Item response theory shows student academic ability explains raw-score correlations between conceptually unrelated questions](irt-explains-ability-driven-correlations.md) — related
+- [Measured on the IRT proficiency scale, learning decreases as pre-test score increases in the Lasry et al. FCI data](proficiency-learning-decreases-with-pretest-score.md) — related

@@ -179,6 +179,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](../strategies/student-autonomy-default-access-edtech-supports.md)
 - [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](../strategies/optional-choice-based-fonf-activities.md)
 - [For computer-based physics exercises with broadly distributed abilities, keep the task level as baseline, add flexibility, and retain a text-based completion option](../strategies/vispa-course-iteration-recommendations.md)
+- [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](../strategies/accommodate-every-preference-diversify-strategies.md)
 
 ### Illustrative
 

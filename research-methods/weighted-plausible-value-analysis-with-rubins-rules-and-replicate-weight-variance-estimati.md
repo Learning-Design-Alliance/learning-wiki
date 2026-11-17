@@ -32,4 +32,4 @@ The article recommends that secondary analysts of PVs weight student observation
 
 ## Key Sources
 - Dumas, D., Goecke, B., Kagan, S., & Weiss, S. (2026). Zooming Out On Education: Making Valid Psychological Inferences From Large-Scale Assessment Data. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10110-7
-- Grilli, L., Pennoni, F., Rampichini, C., and Romeo, I. (2015). Exploiting TIMSS and PIRLS combined data: multivariate multilevel modelling of student achievement. https://arxiv.org/abs/1409.2642
+- Grilli, L., Pennoni, F., Rampichini, C., and Romeo, I. (2015). Exploiting TIMSS and PIRLS combined data: multivariate multilevel modelling of student achievement. https://arxiv.org/abs/1409.2642. [doi:10.1214/16-aoas988](https://doi.org/10.1214/16-aoas988)

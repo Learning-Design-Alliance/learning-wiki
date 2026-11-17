@@ -71,3 +71,4 @@ Alpha-if-item-deleted sensitivity analysis identified a specific problematic Gen
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — a broader claim this one bears on
 - [Participants scored significantly lower on human-edited GenAI-assisted MCQs than on educator-crafted MCQs, indicating GenAI-assisted items were not easier](genai-mcq-lower-total-scores.md) — related
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
+- [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related

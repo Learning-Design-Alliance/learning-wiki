@@ -50,3 +50,4 @@ Reported in the abstract and conclusions for the E&M response curve: after the w
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — a broader claim this one bears on
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect](winnowing-effect-raises-em-entry-response.md) — related
+- [Correctness of field vectors decreases by about 20% and direction errors more than double from the electric field quiz to the magnetic field quiz](correctness-drop-direction-errors-double-magnetic.md) — related

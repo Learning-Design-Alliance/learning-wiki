@@ -350,3 +350,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Repeated retrieval enhances long-term retention more than repeated study, with multiple tests better than one (review-reported laboratory studies with undergraduates)](repeated-retrieval-beats-restudy-long-term.md) — a narrower finding that bears on this claim
 - [Testing improved transfer of knowledge to new domains relative to restudy (review-reported)](testing-promotes-transfer-across-domains.md) — related
 - [High- and low-achieving students differ in initial-attempt success but make similar use of later tries, suggesting self-regulation plays a minor role](high-low-achievers-similar-later-try-use.md) — related
+- [Consistent success at recalling physics solutions did not occur until after at least one unsuccessful spaced recall session, with improvement that was not monotonic](spaced-recall-success-after-unsuccessful-session.md) — related

@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (27 for, 44 mixed, 6 against) · 52 studies (17 associational, 15 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 52 report an effect size · 76 claims rest on one study
+> **Evidence** · 78 claims (28 for, 44 mixed, 6 against) · 53 studies (18 associational, 15 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 53 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](../claims/qgre-cutoff-700-diversity-filter.md) [+W] — attached 2026-11-17 from Casey W. Miller (2013), which proposed "Never use GRE cutoff scores as the sole criterion for denying admission, per ETS guidance and federal case law"; tests this page's relationship.
 - [The proposed method identifies unfair items with positive item-total correlations that the traditional method misses, supported by expert judgments](../claims/method-finds-unfair-items-positive-correlation.md) [+W] — attached 2026-11-17 from Bakman (2007), which proposed "Remove identified unfair items and recalculate scores after the exam to make results trustier and to gain instructional feedback".
 - [Deleting identified unfair items brings fair-item points closer to the ideal line, halving the sum of positive distances](../claims/unfair-item-deletion-halves-positive-distances.md) [+W] — attached 2026-11-17 from Bakman (2007), which proposed "Remove identified unfair items and recalculate scores after the exam to make results trustier and to gain instructional feedback".
+- [A 60th-percentile PGRE cutoff would have eliminated 43.6% of prize fellows overall and 60.4% of female fellows](../claims/pgre-cutoff-eliminates-fellows-disproportionately-women.md) [+W] — attached 2026-11-17 from Emily M. Levesque et al. (2015), which proposed "Do not use hard PGRE percentile cutoffs to eliminate or negatively weight astronomy graduate applications"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

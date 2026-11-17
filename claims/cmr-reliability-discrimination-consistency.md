@@ -50,3 +50,8 @@ Classical Test Theory reliability analysis of the split-class samples. Item-test
 - [The MC CUE shows acceptable internal consistency and discriminatory power comparable to the FR version](mc-cue-reliability-alpha-ferguson.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on
 - [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — related
+- [CMR CUE scores correlate highly with aggregate exam scores (r = 0.71) and final course scores (r = 0.64) at CU, establishing criterion validity for that population](cmr-cue-criterion-validity-exam-course-correlations.md) — related
+- [The CMR CUE shows acceptable whole-test discrimination (Ferguson's Delta = 0.99) and internal consistency (Cronbach's α = 0.82)](cmr-cue-ferguson-delta-and-cronbach-alpha.md) — related
+- [All CMR CUE items fall within an acceptable difficulty range (30–75%) and show statistically significant item-test correlations (0.28–0.55), supporting item discrimination](cmr-cue-item-difficulty-and-discrimination-acceptable.md) — related
+- [The majority of student responses to coupled CMR CUE subparts are internally consistent even when incorrect, supporting the validity of the multiple-response format](cmr-cue-responses-internally-consistent-even-when-incorrect.md) — related
+- [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related

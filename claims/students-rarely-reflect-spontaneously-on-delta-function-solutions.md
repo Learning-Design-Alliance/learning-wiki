@@ -50,3 +50,4 @@ Analysis of exam solutions for spontaneous verification of the charge in a regio
 - [Many junior-level students fail to spontaneously activate the delta function as the appropriate tool when not explicitly prompted](students-fail-spontaneous-delta-function-activation.md) — related
 - [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — a broader claim this one bears on
 - [Students rarely spontaneously check units or limiting behavior to verify their potential solutions](students-do-not-spontaneously-reflect.md) — related
+- [Students rarely spontaneously reflect on their SoV solutions in either Cartesian or spherical geometries](spontaneous-reflection-rare-sov-solutions.md) — related

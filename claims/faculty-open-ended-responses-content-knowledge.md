@@ -48,3 +48,4 @@ Classification of open-ended survey responses (n = 188 faculty) into categories 
 ## Related Claims
 - [Individual TOSLS skill categories improve significantly during a flipped classroom semester, with gains from 12.1% to 22.0%, while creating graphs and quantitative problem-solving gains do not reach significance](flipped-classroom-tosls-category-gains.md) — related
 - [Faculty report teaching scientific literacy skills at higher rates than they assess them, with skill 8 (basic statistics) least taught (44.9%) and least assessed (40.1%)](faculty-teach-more-than-assess-literacy-skills.md) — related
+- [Astronomy and Mathematics educators rank a common set of five quantitative skills as most important for science literacy and educated citizenship](educators-rank-five-skills-most-important-science-literacy.md) — reports the opposite

@@ -68,3 +68,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related
 - [The authors attribute the competition group's advantage to stimulated motivation, peer guidance, and task-reporting debriefing rather than to additional equipment or instructor time](competition-mechanism-peer-evaluation-mechanism-account.md) — related
 - [Reflection logs indicate students in the integrative curriculum engaged in self-directed inquiry, richer peer and instructor interaction, and enthusiasm for simulation scenarios](reflection-logs-show-engagement-and-collaborative-inquiry.md) — related
+- [Attitudinal pre- and post-studies in the author's courses suggest greater student enthusiasm for the case-study approach than for traditional lecture](case-study-greater-enthusiasm-than-lecture.md) — related

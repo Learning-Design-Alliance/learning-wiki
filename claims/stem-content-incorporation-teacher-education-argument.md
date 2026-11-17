@@ -53,3 +53,4 @@ Theoretical argument in the Discussion, citing Darling-Hammond (2006) that subje
 - [Preservice agricultural teachers were efficacious in personal mathematics and personal teaching efficacy but only moderately efficacious in mathematics teaching efficacy throughout the course](preservice-ag-teachers-math-efficacy-profile.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal mathematics efficacy in a teaching methods course](mtis-no-effect-personal-mathematics-efficacy.md) — related
+- [Case-study teaching can include quantitative reasoning and is not limited to qualitative learning in quantitative science courses](case-study-supports-quantitative-reasoning.md) — related

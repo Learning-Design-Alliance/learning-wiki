@@ -68,3 +68,4 @@ Item-test correlation analysis using Pearson correlation of each question with t
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related
+- [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related

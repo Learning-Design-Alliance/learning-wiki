@@ -54,6 +54,7 @@ The article's design pairs a 30-min traditional course with a 30-min simulator-b
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Alternate short instructions with guided gameplay sessions replacing lectures in a university physics course](alternating-instruction-gameplay-sessions.md)
 
 ## Examples
 -

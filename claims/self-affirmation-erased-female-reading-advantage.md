@@ -49,3 +49,4 @@ Multilevel ITT analysis of reading scores; the Female x Self-Affirmation interac
 - [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
+- [Reformed pedagogies and a values-affirmation exercise reduced or eliminated gender gaps in some studies, with replication failures reported](reformed-pedagogy-gender-gap-reduction-mixed-replication.md) — related

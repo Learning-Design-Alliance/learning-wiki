@@ -66,3 +66,4 @@ The review reports, citing Oluwarotimi Abayomi et al. (2013a), a comparison of m
 ## Related Claims
 - [Classic African board games function as learning spaces where multidomain learning occurs](classic-african-board-games-learning-spaces.md) — a broader claim this one bears on
 - [Songo gameplay develops computational thinking, including the culturally informed practice the review names songoputation](songo-computational-thinking-songoputation.md) — related
+- [Preliminary analysis suggests human players outperform computer algorithms in many problem spaces, with a large fraction of players beating the computer](human-optimization-superior-to-algorithms-preliminary.md) — related

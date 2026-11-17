@@ -53,4 +53,4 @@ The authors introduced a CUE midtest — a subset of 12 post-test questions chos
 -
 
 ## Key Sources
-- Zwolak, J. P. and Manogue, C. A. (2015). Assessing student reasoning in upper-division electricity and magnetism at Oregon State University. https://arxiv.org/abs/1501.06171
+- Zwolak, J. P. and Manogue, C. A. (2015). Assessing student reasoning in upper-division electricity and magnetism at Oregon State University. https://arxiv.org/abs/1501.06171. [doi:10.1103/physrevstper.11.020125](https://doi.org/10.1103/physrevstper.11.020125)

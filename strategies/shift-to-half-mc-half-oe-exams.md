@@ -50,6 +50,7 @@ The article recommends rebalancing exam design: "Shift the way exams are held: f
 
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
 - [Introduce Long-menu questions as part of a mix of item formats to assess clinical reasoning more realistically](mix-item-formats-including-long-menu.md)
+- [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](accommodate-every-preference-diversify-strategies.md)
 
 ## Examples
 -

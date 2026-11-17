@@ -71,3 +71,4 @@ Conditional direct effects in the same bootstrapped model rose with EI level (B 
 - [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](pwb-ase-ei-predict-cgpa-preservice-teachers.md) — related
 - [Emotional intelligence negatively predicts academic self-efficacy among Ghanaian pre-service teachers, contrary to prior literature](ei-negatively-predicts-ase-preservice.md) — related
 - [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
+- [Self-perceived multiple intelligences correlate positively with polytechnic students' CGPA, with correlations the authors describe as significant, positive, moderate or weak](all-mi-types-correlate-with-achievement.md) — related

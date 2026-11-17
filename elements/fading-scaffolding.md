@@ -51,6 +51,7 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 
 - Hints become shorter or less explicit over repeated practice attempts.
 - [Use structured hints graduated from implicit to explicit during DA mediation](../strategies/structured-hints-da-mediation-strategy.md)
+- [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](../strategies/light-then-heavy-scaffolded-hints.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2017). *Ten steps to complex learning* (3rd ed.). Routledge.

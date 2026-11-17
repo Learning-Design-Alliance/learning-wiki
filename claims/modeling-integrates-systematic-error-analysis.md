@@ -47,3 +47,4 @@ Theoretical argument from the paper's section on the modeling framework: systema
 ## Related Claims
 - [Preliminary observation: in a short lab activity students spent about twice as much time on measurement tools as on the physical system, and students who did not articulate model simplifications struggled to connect to limitations](preliminary-measurement-tool-time-twice-physical-system.md) — related
 - [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](students-meaningfully-model-measurement-tools.md) — related
+- [Students in the transformed course show preliminary evidence of internalizing modeling practices in later weeks without explicit prompts](preliminary-internalization-later-weeks.md) — a narrower finding that bears on this claim

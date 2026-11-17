@@ -51,3 +51,4 @@ Descriptive synthesis of the 38 pooled studies' Hedges' g values. The article re
 - [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [Mechanics concept inventory pretest gender gaps always favor men, ranging from 8.2% to 18.7% with a weighted average of 13.0%](mechanics-pretest-gender-gap-weighted-average.md) — related
+- [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related

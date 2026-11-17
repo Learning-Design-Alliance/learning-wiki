@@ -49,3 +49,4 @@ Qualitative grading outcome (fail/pass/merit/outstanding) from the same cluster-
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](fc-higher-pass-rate-dental-pharmacology.md) — related
 - [Flipped classroom exam grade distribution shifted rightward, with more students achieving higher grades overall](fc-grade-distribution-rightward-shift.md) — related
 - [Pass rates and grade distributions in the general biology course itself are not significantly different between flipped and non-flipped sections](pass-rates-not-different-flipped.md) — reports the opposite
+- [Post-Lecture-Tutorial distribution shows fewer students at the low end of the score distribution than the post-lecture distribution](post-lt-distribution-shift-low-end.md) — related

@@ -75,6 +75,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Embed immediate, visually aligned cues in programming instruction systems to guide learners' strategic attention](embed-real-time-visual-cues-programming-systems.md)
 - [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
 - [Use structured hints graduated from implicit to explicit during DA mediation](structured-hints-da-mediation-strategy.md)
+- [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](light-then-heavy-scaffolded-hints.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

@@ -85,6 +85,7 @@ Reflection journals operationalize the self-regulation cycle of forethought, per
 - **Exit Tickets** — a shorter, single-lesson form of written reflection; journals aggregate what exit tickets sample
 - **Muddiest Point** — a targeted reflective prompt that can serve as a journal entry
 - [Teachers introduce portfolios in language classes so students regularly self-assess and become aware of their learning process](introduce-portfolios-for-learner-self-assessment-awareness.md)
+- [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 
 ## Examples
 - **Zimmerman's self-regulation training studies** — students keep records of study strategies and outcomes, then set process goals for the next cycle; this journaling component is central to the intervention [Zimmerman, B. J. (2002)](https://doi.org/10.1207/s15430421tip4102_2)

@@ -74,3 +74,4 @@ In an extended experiment with a postgraduate Multimedia Interface Design class,
 - [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](massa-mayer-no-meshing-support.md) — related
 - [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](study-preferences-exist-but-insufficient.md) — related
 - [In a non-adaptive e-learning system, students whose learning mode matches the presentation mode achieve higher test scores than mismatched students](matched-learning-mode-higher-scores-non-aes.md) — related
+- [An experiment on teaching presentation mode (sensing vs intuitive) and engineering students' learning styles in problem-solving courses is reported as evidence that the intuitive/sensing dimension separates abstract from practical learners](rosati-presentation-mode-learning-styles.md) — related

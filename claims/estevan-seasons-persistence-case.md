@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: conlin-2015
     resource: "https://doi.org/10.48550/arXiv.1502.04421"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Estevan persisted through conceptual and interactional frustration until reaching a satisfying reconciliation and a mostly accurate model of how the seasons work. [→ Conlin 2015](#conlin-2015)

@@ -74,3 +74,4 @@ SCEF numerical ratings on a four-point scale (SA, GA, GD, SD) introduced in acad
 - [Students report high satisfaction with all three course formats, particularly the blended learning approach](high-satisfaction-blended-local-anaesthesia-course.md) — related
 - [The 6D-approach flipped teaching with mentored journal clubs received approximately 89% student satisfaction in the MBPG course](6d-approach-high-student-satisfaction.md) — related
 - [All students appreciated the inverted classroom approach because it freed seminar time for interactive, practice-based learning](inverted-classroom-appreciated-interactive-time.md) — related
+- [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related

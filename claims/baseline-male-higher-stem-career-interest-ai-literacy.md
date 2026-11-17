@@ -59,3 +59,4 @@ Baseline OLS regression on pre-workshop survey data from Npre = 199 Australian s
 - [Males were more than 2.5 times as likely as females to make a STEM career choice in the TEDS sample](male-female-stem-choice-disparity-teds.md) — related
 - [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related
 - [Male students outperform female students across all four competence domains in self-rated emergency response competence](sex-difference-competence-males-higher.md) — related
+- [Among five tested factors, only discussing the underrepresentation of women positively correlated with high-school girls' interest in physical science careers](discussing-underrepresentation-boosts-girls-interest.md) — related

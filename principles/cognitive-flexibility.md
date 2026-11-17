@@ -43,7 +43,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 34 studies (12 causal, 6 theoretical, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 associational), `q1`–`q4` · 6 of 34 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 35 studies (12 causal, 6 qualitative, 6 theoretical, 4 review, 3 quant-synthesis, 3 design, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Claims read against the model above (2026-10-19) that are relevant but do not ch
 - [Modelling with Modellus helped students distinguish and correctly interpret multiple representations such as trajectories versus coordinate graphs](../claims/modellus-multiple-representations-interpretation.md) [+W] — attached 2026-11-16 from Rui Gomes Neves et al. (2010), which proposed "Design computational modelling activities around cognitive conflicts, multiple representations, and analytic–numerical interplay"; tests this page's relationship.
 - [Coherence among graph, agent, and object perspectives enabled a student to computationally distinguish moving forward at constant speed from speeding up](../claims/perspective-coherence-speed-distance-time-coordination.md) [+W] — attached 2026-11-17 from Farris et al. (2014), which proposed "Use the agent perspective productively in agent-based modeling, but design for its negotiation with other perspectives".
 - [A student's shift from an extrinsic to an intrinsic, agent-based interpretation of a distance-time graph followed negotiation with his partner and facilitator prompting](../claims/extrinsic-to-intrinsic-graph-perspective-shift.md) [+W] — attached 2026-11-17 from Farris et al. (2014), which proposed "Use the agent perspective productively in agent-based modeling, but design for its negotiation with other perspectives".
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](../claims/ontological-flexibility-multiple-stances-piab.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2015), which proposed "Treat students' ontological flexibility as an intellectual resource on which quantum mechanics instruction can draw and build".
 
 ## Objective and learner-valued goal
 

@@ -151,6 +151,7 @@ Assisted success during practice, unaided immediate performance, delayed retenti
 - **Guided reading or decoding practice**: Learners rehearse a specific reading move with immediate cueing and correction.
 - **Software practice with hints**: A digital system provides step-level prompts that fade as accuracy improves.
 - [Scaffolded guidance fading in VR surgical rehearsal: visible ideal-target guidance for the first five evaluated attempts, then deactivated](../strategies/vr-guidance-fading-attempts.md)
+- [Sequence lightly scaffolded hints before heavily scaffolded hints so scaffolding fades](../strategies/light-then-heavy-scaffolded-hints.md)
 
 ## Key Sources
 - National Research Council. (2012). *Improving adult literacy instruction: Supporting learning and motivation*. National Academies Press. [https://doi.org/10.17226/13468](https://doi.org/10.17226/13468)

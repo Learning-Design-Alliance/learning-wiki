@@ -42,6 +42,7 @@ The article schedules instruction so that guided teaching dominates early and in
 - [Independent Practice](independent_practice.md)
 - [Ongoing Feedback and Reflection](ongoing_feedback_and_reflection.md)
 - [Intermediate exams that require students to explain their own code to counter blind use of AI tools](intermediate-exams-explain-own-code-ai-tools.md)
+- [Milestone structure for team innovation projects with early team formation and provisional patent filing](am-project-milestone-structure.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The article recommends that government bodies and the National Mathematical Cent
 - [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
 - [Employ educational games in primary science teaching and train teachers to design them](employ-educational-games-primary-science-strategy.md)
+- [Distribute stimulating teaching and learning tasks coupled with real equipment through professional development workshops for teachers](stimulating-tasks-with-real-equipment-distribution.md)
 
 ## Examples
 -

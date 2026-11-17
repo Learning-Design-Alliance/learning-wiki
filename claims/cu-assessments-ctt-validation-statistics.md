@@ -52,3 +52,5 @@ Summary of CTT validation statistics for CU's assessments (excluding QMAT): "Ove
 - [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
 - [MC CUE scores correlate strongly with course exam scores and total course score](mc-cue-criterion-validity-exam-correlation.md) — related
+- [The CMR CUE shows acceptable whole-test discrimination (Ferguson's Delta = 0.99) and internal consistency (Cronbach's α = 0.82)](cmr-cue-ferguson-delta-and-cronbach-alpha.md) — a narrower finding that bears on this claim
+- [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related

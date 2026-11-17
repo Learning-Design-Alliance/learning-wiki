@@ -49,3 +49,4 @@ Aggregate analysis of anonymous Likert-scale course evaluations administered aft
 - [Academic performance in the interdisciplinary biophysics course is unrelated to declared major](biophysics-course-performance-unrelated-to-major.md) — related
 - [Course final scores correlate strongly with students' sessional grade point average (R2 = 0.647)](biophysics-course-scores-correlate-with-sessional-gpa.md) — related
 - [Course evaluation scores for the biophysics general education course were slightly higher than the departmental mean for general education courses](physics-of-life-evaluations-slightly-above-department-mean.md) — related
+- [Students in the interdisciplinary Introduction to Data Science course reported high satisfaction with the course, its interdisciplinary nature, and the co-teaching model.](ids-course-survey-high-satisfaction-coteaching.md) — related

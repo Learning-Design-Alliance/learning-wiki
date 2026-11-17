@@ -52,3 +52,4 @@ Spearman rank correlation analysis of IMSD graduates who received undergraduate 
 - [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — related
 - [Undergraduate GPA is a stronger predictor of graduate outcomes than GRE scores](undergrad-gpa-stronger-predictor-than-gre.md) — related
 - [US News graduate-program rankings give student selectivity, including mean GRE scores, a total weight of 18%, exceeding several productivity measures](us-news-selectivity-weighting-gre.md) — related
+- [PGRE score shows no statistically significant correlation with first-author papers published during or exiting graduate school among prize fellows](pgre-no-correlation-graduate-publications.md) — related

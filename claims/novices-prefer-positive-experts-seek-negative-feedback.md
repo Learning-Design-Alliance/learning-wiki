@@ -52,3 +52,4 @@ The essay reports, citing Finkelstein and Fishbach (2012), that "Novices general
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
 - [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related
 - [The association between expertise and the valence of noticing and of alternatives holds after controlling for subject, grade level, minority status, and gender](expertise-valence-association-robust-to-controls.md) — related
+- [What novice instructors learn from paired teaching likely depends on their previous teaching experience](prior-experience-shapes-paired-teaching-learning.md) — related

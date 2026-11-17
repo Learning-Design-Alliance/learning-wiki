@@ -48,3 +48,4 @@ The article is a designed lecture, not an empirical study; it reports no outcome
 - [Asking students to express physical ideas in a functional programming language deepens their understanding of basic physics](haskell-programming-deepens-physics-understanding.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Upper-division physics undergraduates commonly construct novel equations to model physical situations through intuitive understanding rather than formal derivation, as modeled by Sherin's symbolic forms](symbolic-forms-intuitive-equation-construction.md) — related
+- [Introductory physics students can engage in genuine theoretical inquiry by deriving empirical gas laws from a simple particle model of gases](intro-physics-theoretical-inquiry-gas-laws.md) — related

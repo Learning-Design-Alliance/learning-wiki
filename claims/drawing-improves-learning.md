@@ -76,3 +76,4 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — a broader claim this one bears on
 - [Generating drawings is effective for university students but largely ineffective for elementary-school children unless instructional support is extremely high](drawing-ineffective-elementary.md) — related
 - [Misalignment between learning-strategy modality and test modality can mask or distort the detected benefits of drawing](modality-alignment-moderates-drawing-benefits.md) — related
+- [Pictorial representations of molecular energy states (arcs and arrows) help students produce more scientifically coherent explanations after instruction](arcs-arrows-pictorial-energy-state-representations.md) — a narrower finding that bears on this claim

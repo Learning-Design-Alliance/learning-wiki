@@ -68,3 +68,4 @@ Experiment 5, first two presentations: the presentation  pair type interaction f
 - [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related
 - [Test experience alleviates the foresight bias more effectively than study experience](test-experience-beats-study-experience-for-debiasing.md) — related
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related
+- [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related

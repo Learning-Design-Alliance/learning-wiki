@@ -19,7 +19,7 @@ sources:
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (2 design), `q2` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 3 studies (2 design, 1 associational), `q2` · 3 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
@@ -30,11 +30,14 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 - **E-CLASS question categories as theme groups rather than correlated psychometric subscales**: E-CLASS organizes its 30 main concepts into categories such as Affect, Argumentation, Confidence, Experimental design, Statistical uncertainty, Systematic error, Troubleshooting, and Physics community, with upper-division lab learning goals marked in italics. The authors state these "are not categories in the sense of some earlier surveys where we expect a high degree of correlation among statements within a category, but are groups of questions surrounding a common theme." Statements within a category can represent distinct practices a course may emphasize to varying degrees. (Benjamin M. Zwickl et al. (2012))
 - **Four-quadrant assessment structure: attitudes, expert views, grade importance, and practice frequency**: E-CLASS evaluates students in four aspects of their experience with experimental physics around each core statement: personal attitudes and beliefs, views of what experts would think, perceived importance for earning a good grade, and frequency of engaging in the practice. The first two quadrants are assessed pre and post semester, while the course-related quadrants are "assessed only at the end of the semester because they depend on students' experience in the class." This structure lets instructors see how course structure and grading influence attitudes. (Benjamin M. Zwickl et al. (2012))
 - **E-CLASS: the Colorado Learning Attitudes about Science Survey for Experimental Physics**: E-CLASS is an online pre/post epistemology and expectations survey for undergraduate physics laboratory courses, adapted from the CLASS survey through iterative student interviews. It presents 30 pairs of personal and professional epistemology statements, 23 of which add a third expectations question, since "the E-CLASS assesses a third dimension of laboratory instruction, students' reﬂections on their course's expectations for earning a good grade." Content validity was established with 23 expert responses, and it reports class-level results to instructors as formative assessment. (Benjamin M. Zwickl et al. (2014))
+- **E-CLASS: the Colorado Learning Attitudes about Science Survey for Experimental Physics**: E-CLASS is a "30 item, Likert-style survey designed to measure students’ epistemologies and expectations about experimental physics," with each item answered from the student's own perspective and as students predict an experimental physicist would respond. It is administered online pre and post each semester and includes a filtering question to eliminate responses from students who did not read the questions. (Bethany R. Wilcox et al. (2015))
+- **E-CLASS automated centralized administration and reporting system**: An automated online system for centrally administering the E-CLASS. Instructors complete a Course Information Survey whose answers 'generate unique pre- and post-survey links for each course'; surveys are hosted on Qualtrics and Python-based automation activates and deactivates links by date. Report software exports a static HTML report per course, and 'the automated system has reduced the administrative requirements to checking the system periodically'. (Bethany R. Wilcox et al. (2016))
 
 ### Claims
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](../claims/eclass-low-response-rates-half-of-classes.md) [-W]
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](../claims/eclass-validated-interviews-experts.md) [+W]
 - [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](../claims/upper-division-more-expert-like-e-class-responses.md) [+M]
+- [Overall E-CLASS score shows no statistically significant correlation with final course grade across all lab courses (r = 0.05)](../claims/overall-grade-eclass-correlation-null.md) [~W]
 
 ## Related Products and Programmes
 
@@ -45,6 +48,8 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 <!-- merged 2026-10-10 from elements/eclass-experimental-physics-survey ("E-CLASS survey for assessing student views of experiments in physics lab courses"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Benjamin M. Zwickl, Noah Finkelstein and H. J. Lewandowski. (2012). Development and Validation of the Colorado Learning Attitudes about Science Survey for Experimental Physics. https://arxiv.org/abs/1207.2418
 - Benjamin M. Zwickl, Takako Hirokawa, Noah Finkelstein, and H. J. Lewandowski. (2014). An epistemology and expectations survey about experimental physics: Development and initial results. https://arxiv.org/abs/1310.1055v2
+- Bethany R. Wilcox and H. J. Lewandowski. (2015). Correlating students’ beliefs about experimental physics with lab course success. https://arxiv.org/abs/1507.03933
+- Bethany R. Wilcox, Benjamin M. Zwickl, Robert D. Hobbs, John M. Aiken, Nathan M. Welch, and H. J. Lewandowski (2016). An alternative model for administration and analysis of research-based assessments. https://arxiv.org/abs/1601.07896
 
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 

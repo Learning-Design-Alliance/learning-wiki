@@ -61,3 +61,4 @@ Non-equivalent pretest-posttest control quasi-experiment with 118 SSII students 
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
 - [Students taught agricultural science with the demonstration method achieved significantly higher post-test scores than students taught with the conventional lecture method](demonstration-method-higher-achievement-than-lecture.md) — related
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
+- [The article reports, citing Dinan and Frydrychowski (1995), that case studies combined with team learning yielded greater material coverage and higher national exam grades than traditional lecture in organic chemistry](case-study-team-learning-exam-grades-organic-chemistry.md) — related

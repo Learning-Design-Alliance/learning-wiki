@@ -53,6 +53,7 @@ The handbook sets out five basic elements, attributed to cooperative learning re
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](../strategies/cooperative-structures-for-adult-classrooms.md)
 - [Personal and group evaluation forms for cooperative learning participation](../elements/personal-group-evaluation-forms-cooperative-learning.md)
 - [Design CSCL assignments with individual accountability and positive interdependence](../strategies/cscl-individual-accountability-positive-interdependence.md)
+- [Implement cooperative learning through four named practices and a balance of group and individual grades](../strategies/bioled-cooperative-learning-practices.md)
 
 ## Key Sources
 - You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492

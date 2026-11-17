@@ -52,3 +52,4 @@ Quasi-experimental 3x3 factorial study of 210 fifth-grade students in Ambon-Indo
 - [Kinesthetic learners have higher emotional intelligence than auditory learners (8.35% higher) and read learners (6.11% higher)](kinesthetic-higher-emotional-intelligence-than-auditory-read.md) — a narrower finding that bears on this claim
 - [The interaction between learning model and learning style on emotional intelligence is not significant](model-by-learning-style-interaction-not-significant.md) — related
 - [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](kinesthetic-learners-worse-off-experiment-class.md) — related
+- [No single MBTI preference combination is best: each learning style has strengths and weaknesses, challenging the reduction of learning potential to a single dimension such as intelligence](no-best-learning-style-combination.md) — related

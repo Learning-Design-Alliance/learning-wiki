@@ -40,6 +40,7 @@ The author offers a set of simple questioning perspectives as starting points fo
 
 - [Exploit marginalized difference through mimetic and disruptive readings (Irigaray's mime, Bell's philosophical clitoris) rather than expressing conflict as illness](exploit-marginalized-difference-against-somatic-response.md)
 - [Calm and Honest Reflection](calm_and_honest_reflection.md)
+- [Use TA grading conflicts as starting points for professional development discussions that elicit and help TAs resolve conflicting ideas](pd-elicit-ta-grading-ideas-reflection.md)
 
 ## Examples
 -

@@ -62,8 +62,10 @@ Reflection prompts convert experience into articulated knowledge; unstructured "
 6. **Close the loop.** Ask learners to revisit earlier entries periodically and write about what changed, converting reflection into revised action.
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of reflection practices; journaling is its most sustained written form
 - [Check-Ins](../principles/check-ins.md) — brief oral or written counterparts that serve the same monitoring function at higher frequency and lower depth
+- [Use weekly reflections aligned to ownership hallmarks as formative data alongside a validated survey](weekly-hallmark-aligned-reflections-strategy.md)
 
 ## Examples
 - **Connor-Greene's dialogue journals** — In a biology course at Clemson, students wrote weekly journal entries connecting course content to their own observations; the instructor responded in writing, and journaling was associated with improved exam performance and more positive attitudes toward biology.

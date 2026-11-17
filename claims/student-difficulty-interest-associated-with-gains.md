@@ -49,3 +49,4 @@ Results of the CINS-abbr linear regression model using student posttest survey r
 - [In a random sample of introductory college biology courses, the weekly frequency of active-learning exercises is not associated with student learning gains on natural selection](active-learning-frequency-no-association-typical-instructors.md) — related
 - [Instructor practices targeting student misconceptions about natural selection are positively associated with learning gains on the CINS-abbr](misconception-targeting-associated-with-gains.md) — related
 - [Instructors found the heat map better aligned with sections they believed students found interesting (4.4) than difficult (3.6)](heat-map-alignment-interesting-vs-difficult.md) — related
+- [Students rated action physics between relativity and electromagnetism in difficulty, interest and motivation](action-physics-rated-between-relativity-electromagnetism.md) — related

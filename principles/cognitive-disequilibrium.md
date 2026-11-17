@@ -151,6 +151,7 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 - [Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language](../strategies/multimedia-interaction-online-discussion-intervention-package.md)
 - [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](../strategies/build-on-anthropomorphic-explanations-as-bridges.md)
 - [Seven-text climate change reading task with conflicting source documents](../designs/seven-text-climate-change-reading-task.md)
+- [Use TA grading conflicts as starting points for professional development discussions that elicit and help TAs resolve conflicting ideas](../strategies/pd-elicit-ta-grading-ideas-reflection.md)
 
 ### Illustrative
 

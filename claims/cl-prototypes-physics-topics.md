@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: marcos-a-m-souza-and-josé-r-r-duarte-2015
     resource: "https://doi.org/10.1088/0031-9120/50/4/482"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students who developed the prototypes worked on electricity and electronics topics, with emphasis on building electrical circuits. [→ Marcos A. M. Souza and José R. R. Duarte 2015](#marcos-a-m-souza-and-jose-r-r-duarte-2015)

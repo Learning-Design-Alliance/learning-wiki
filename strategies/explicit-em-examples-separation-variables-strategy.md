@@ -45,6 +45,7 @@ The authors recommend giving students more opportunities to see separation of va
 ## Related Strategies
 
 - [Maximize Transfer and Generalization](maximize_transfer_and_generalization.md)
+- [Vary physical contexts and practice reflection skills when teaching boundary conditions](vary-contexts-and-practice-reflection-for-bcs.md)
 
 ## Examples
 -

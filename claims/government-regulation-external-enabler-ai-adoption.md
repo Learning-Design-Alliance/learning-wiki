@@ -55,3 +55,4 @@ SEM result from the 300-staff survey covering the environmental dimension of the
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
 - [AI ethics principles alone do not enforce regulation, per the article's review of implementation evidence](ethics-principles-alone-insufficient.md) — related
 - [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related
+- [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — related

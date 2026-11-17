@@ -57,3 +57,4 @@ Random effects meta-analysis of 38 PER studies reporting mean FCI scores by gend
 - [Male students outperform female students on practically all individual FCI items, before and after instruction](males-outperform-on-almost-all-fci-items.md) — related
 - [Mechanics concept inventory pretest gender gaps always favor men, ranging from 8.2% to 18.7% with a weighted average of 13.0%](mechanics-pretest-gender-gap-weighted-average.md) — related
 - [Students at three UK universities show a statistically significant pre-instruction gender gap on the FCI, with males outperforming females](pre-instruction-fci-gender-gap-three-uk-universities.md) — a narrower finding that bears on this claim
+- [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related

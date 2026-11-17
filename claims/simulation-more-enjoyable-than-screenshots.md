@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: kohnle-2014
     resource: "https://doi.org/10.1119/1.4913786"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a comparative classroom study of the same entanglement activity, students working with the actual simulation reported higher enjoyment than students working with printed screenshots of the simulation. [→ Kohnle 2014](#kohnle-2014)

@@ -57,3 +57,4 @@ Sensitivity analysis excluding 24 laboratory-based effect sizes from Meta-Analys
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Intervention effects on empathy were larger on objective measures than on self-report measures](objective-measures-larger-empathy-effects.md) — related
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — related
+- [E-CLASS scores correlate weakly with final course grade overall, with a significant but still weak correlation in beyond-first-year labs](eclass-convergent-validity-grades.md) — related

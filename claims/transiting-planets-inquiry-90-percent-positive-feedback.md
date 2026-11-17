@@ -53,3 +53,4 @@ Instructor-reported evaluation of the Fall 2009 Hartnell Astro 1L implementation
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Exoplanet transit exercise uses 20 Spitzer images of HD 189733b for students to measure light curves and derive planet size and distance](spitzer-transit-exoplanet-exercise.md) — related
+- [Students respond positively to the Astroparticle Masterclass, especially to hands-on work with real experimental data](masterclass-positive-student-feedback-auger.md) — related

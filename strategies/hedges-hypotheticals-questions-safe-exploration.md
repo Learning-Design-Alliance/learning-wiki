@@ -40,6 +40,7 @@ The editorial describes how learners working on new ideas can use tentative phra
 ## Related Strategies
 
 - [Design for disagreement: provide a safe space for members to question community practices](design-for-disagreement-safe-space.md)
+- [Instructors can revoice student questions with hedging and take tentative ideas seriously to encourage sensemaking](revoice-with-hedging-take-ideas-seriously.md)
 
 ## Examples
 -

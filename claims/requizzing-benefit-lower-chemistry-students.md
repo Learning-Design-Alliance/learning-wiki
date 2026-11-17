@@ -68,3 +68,4 @@ Model-based illustration from the same final-exam regression: a "student who sco
 - [Preparation-by-re-quizzing interactions do not significantly improve the posttest model](no-posttest-preparation-interaction.md) — related
 - [Students who were more successful in General Chemistry I were more likely to participate in delayed re-quizzing](prior-chem-success-predicts-requizzing.md) — related
 - [Re-quizzing benefits differ by question type: significant for closed-response items regardless of preparation, and for free-response items mainly among lower prior performers](question-type-moderation-requizzing.md) — related
+- [Initially high-performing students performed very well on the repeated final exam problems regardless of the intervention](high-performers-unaffected-by-correction-incentive.md) — related

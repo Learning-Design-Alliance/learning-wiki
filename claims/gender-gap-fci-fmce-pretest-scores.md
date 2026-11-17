@@ -89,3 +89,6 @@ The same analysis reports the gender pattern is instrument-dependent: on the BEM
 - [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related
 - [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
 - [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](background-preparation-accounts-substantial-portion-gap.md) — related
+- [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
+- [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
+- [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](rfci-context-change-narrowed-gap-via-men.md) — related

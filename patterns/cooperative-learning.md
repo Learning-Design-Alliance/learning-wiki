@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 96 claims (61 for, 34 mixed, 1 against) · 79 studies (40 causal, 19 quant-synthesis, 7 review, 6 design, 4 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 23 of 79 report an effect size · 88 claims rest on one study
+> **Evidence** · 97 claims (62 for, 34 mixed, 1 against) · 80 studies (41 causal, 19 quant-synthesis, 7 review, 6 design, 4 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 23 of 80 report an effect size · 89 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students taught with the TGT cooperative learning model achieve higher physics learning outcomes overall than students taught with conventional learning models](../claims/tgt-higher-physics-outcomes-than-conventional.md) [+W] — attached 2026-11-03 from Nadrah et al. (2017), which proposed "Teams Games Tournament five-stage structure"; tests this page's relationship.
 - [Students taught with the Numbered Heads Together model show greater improvement in mathematical creative thinking ability than students taught with conventional learning](../claims/nht-improves-mathematical-creative-thinking.md) [+W] — attached 2026-11-03 from Lince (2016), which proposed "Numbered Heads Together cooperative learning structure with numbered group members and random caller".
 - [NHT learning yields a higher normalized gain in mathematical creative thinking ability than conventional learning](../claims/nht-higher-normalized-gain-than-conventional.md) [+W] — attached 2026-11-03 from Lince (2016), which proposed "Use NHT cooperative learning as an alternative model to enhance mathematical creative thinking ability"; tests this page's relationship.
+- [Students expressed positive anonymous opinions about the tournament as a less stressful, cooperative form of assessment](../claims/students-positive-opinions-tournament-assessment.md) [+W] — attached 2026-11-17 from Daniel Dziob et al. (2015), which proposed "Use a class tournament as summative assessment to merge assessment of, for, and as learning".
 
 ## Illustrative design instance and observation record
 

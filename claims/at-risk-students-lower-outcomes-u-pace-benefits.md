@@ -67,3 +67,4 @@ The authors report in the Discussion that "at-risk U-Pace students performed bet
 - [U-Pace instruction produced greater academic success in final course grades of A or B than face-to-face instruction](u-pace-greater-final-grades-ab-than-face-to-face.md) — a broader claim this one bears on
 - [Final grades of A or B did not differ between U-Pace and either single-component condition (concept mastery or amplified assistance)](u-pace-grades-no-difference-single-components.md) — related
 - [Neither concept mastery alone nor amplified assistance alone produced greater learning than face-to-face instruction](single-components-no-learning-advantage-over-face-to-face.md) — related
+- [The participant group outperformed the comparison group on final exams by 6–8% and achieved more A and B course grades](participant-group-outperformed-comparison-group.md) — related

@@ -46,6 +46,7 @@ The report recommends that state policymakers design aid systems to prioritize n
 
 - [Consolidate non-Pell federal aid into a new state education grant tied to five state policy commitments and student responsibility requirements](state-education-grant-debt-free-guarantee.md)
 - [Supplement grant aid with academic or social supports, favor need-based over merit-only allocation, and avoid front-loading aid](grant-aid-policy-strategy-supports-need-based.md)
+- [Use application-status information to sharpen grant eligibility policy: lower the threshold rather than raise grant amounts, and explain eligibility rules to discourage ineligible applications](application-status-grant-policy-strategy.md)
 
 ## Examples
 -

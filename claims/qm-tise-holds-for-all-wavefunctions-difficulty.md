@@ -48,3 +48,6 @@ Multi-university study reviewed (Ref. [24]) using written surveys and interviews
 ## Related Claims
 - [Approximately one-third of students from seven universities incorrectly evolve a non-stationary superposition state with a single overall phase factor e^{-iEt/ħ}](qm-overall-phase-factor-time-evolution-difficulty.md) — related
 - [Student responses in upper-level quantum mechanics are context-dependent: a difficulty shown by 5–10% of students in one context likely appears in a higher percentage in another context](qm-context-dependence-of-reasoning-difficulties.md) — a broader claim this one bears on
+- [48% of graduate students incorrectly claimed Ĥψ=Eψ is the most fundamental equation of QM and resisted verifying it explicitly for superposition states](schrodinger-equation-overgeneralization-graduates.md) — related
+- [Many graduate students incorrectly describe a stationary state as an eigenstate of any operator corresponding to an observable rather than an eigenstate of the Hamiltonian](stationary-state-misconception-eigenstate-of-any-operator.md) — related
+- [Graduate students often ignore whether the initial state is an eigenstate of the Hamiltonian when reasoning about time dependence of spin expectation values](students-ignore-stationary-state-condition-spin-expectation-values.md) — related

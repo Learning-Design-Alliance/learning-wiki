@@ -69,3 +69,4 @@ Same case study's engagement outcome: "Engagement metrics, including task comple
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [EEG-driven adaptive video review sequences improve recall and learning gains](eeg-adaptive-video-review-improves-recall.md) — a narrower finding that bears on this claim

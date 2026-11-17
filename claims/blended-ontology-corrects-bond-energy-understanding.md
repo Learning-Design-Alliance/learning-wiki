@@ -54,3 +54,4 @@ Class statement and follow-up interview with one student (pseudonym Anita) refle
 - [A structured blend of ontologies, not mere combination, supports productive reasoning: Peter's group succeeded where the metaphors complemented each other](structured-blend-enables-productive-reasoning.md) — a broader claim this one bears on
 - [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — a broader claim this one bears on
 - [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — related
+- [Students exhibit ontological flexibility, shifting among multiple stances toward the particle in a box: quantum particle, classical particle, and a blend of classical and quantum properties](ontological-flexibility-multiple-stances-piab.md) — related

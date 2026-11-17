@@ -54,3 +54,4 @@ Coded strategy analysis of pretest and posttest responses to the climate-change 
 - Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — related
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — related
 - [Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them](surface-validation-works-substantive-validation-fails.md) — related
+- [After game training, all participants based legitimacy judgements on the URL, whereas pre-test participants used incorrect strategies such as judging professional design](url-inspection-strategy-shift-after-game.md) — related

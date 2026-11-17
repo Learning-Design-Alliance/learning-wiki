@@ -50,3 +50,4 @@ Interview finding from the grounded theory study of 21 faculty; Participant 18 s
 - [Faculty perceived education as marginalized in HTP policy and evaluation frameworks, which lack educational indicators](htp-policy-marginalization-of-education.md) — related
 - [Faculty acknowledged supportive structural changes under the HTP, including improved educational equipment and budgets, but perceived these resources as underused](htp-supportive-structural-changes-underused-resources.md) — related
 - [Faculty and students report declining senior-faculty engagement in clinical teaching, with educational duties delegated to residents without ensuring learner competence.](reduced-faculty-mentoring-engagement-iran.md) — related
+- [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — related

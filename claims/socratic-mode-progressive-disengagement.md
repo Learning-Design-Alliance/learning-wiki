@@ -51,3 +51,4 @@ Behavioral and neurophysiological analysis of the Socratic condition during the 
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases](unrestricted-mode-answer-retrieval-copy-paste.md) — related
 - [Treatment dyads exchanged more words per message and spent more time on chat than control dyads](clair-dyads-higher-chat-activity.md) — related
+- [Voluntary use of StudentResearcher was retained well as the exam approached, with weekly badge counts dropping only 30% from week one to the last week](studentresearcher-badge-retention-high.md) — related

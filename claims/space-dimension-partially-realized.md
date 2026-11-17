@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-17
 sources:
   - id: popov-vitaliy-2024
     resource: "https://doi.org/10.1080/07853890.2024.2424450"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` While web-based virtual simulations increased accessibility and flexibility, most simulation training still depends on dedicated centers with specialized equipment rather than being ubiquitously available anywhere. [→ Popov Vitaliy 2024](#popov-vitaliy-2024)

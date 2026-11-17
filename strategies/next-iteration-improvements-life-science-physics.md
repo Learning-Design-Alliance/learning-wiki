@@ -46,6 +46,7 @@ The authors' forward-looking recommendations for improving the reformed course: 
 - [Instructors facing low FCI scores in a reformed curriculum may add homework problems and lab activities more aligned with the assessment's scope.](add-aligned-homework-labs-to-improve-fci.md)
 - [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
 - [Design interdisciplinary physics courses (e.g., physics for biology and chemistry majors) around applications of physics to the partner discipline without compromising standards](interdisciplinary-applied-physics-courses-strategy.md)
+- [Three-part course transformation combining enhanced preparation, in-class analysis, and project accountability](three-part-electronics-course-transformation.md)
 
 ## Examples
 -

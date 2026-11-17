@@ -48,4 +48,4 @@ The article's future-work section lays out concrete next steps for strengthening
 -
 
 ## Key Sources
-- Russo, P., Heenatigala, T., Gomez, E., & Strubbe, L. (2015). Peer-review Platform for Astronomy Education Activities. eLearning Papers, n.º 40. https://www.openeducationeuropa.eu/en/elearning_papers
+- Russo, P., Heenatigala, T., Gomez, E., & Strubbe, L. (2015). Peer-review Platform for Astronomy Education Activities. eLearning Papers, n.º 40. https://www.openeducationeuropa.eu/en/elearning_papers. [doi:10.48550/arxiv.1501.07116](https://doi.org/10.48550/arxiv.1501.07116)

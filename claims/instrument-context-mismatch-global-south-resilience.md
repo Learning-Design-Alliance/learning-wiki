@@ -51,3 +51,4 @@ The review's RQ4 synthesis reports that "only five (22.7%) reported cultural ada
 - The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — related
 - [There is a lack of standardized, culturally adapted, psychometrically robust assessment tools tailored to postgraduate mental health nursing](lack-standardized-culturally-adapted-postgraduate-mhn-tools.md) — related
 - [Both dominant PBL discourses perpetuate neo-colonialist views and practices in health professions education](pbl-discourses-perpetuate-neocolonialism.md) — related
+- [Pre-service teachers' explaining-task scores are remarkably similar to those of South African undergraduates, suggesting cross-cultural consistency in understanding astronomical objects](niaq-cross-cultural-explaining-similarity.md) — related

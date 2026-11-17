@@ -50,3 +50,4 @@ Classroom administration of isomorphic vector addition questions to the UMaine a
 - [Interviewed students split across head-to-tail, components, bisector, and general direction methods, with head-to-tail and components users each applying their method to all ten questions](interview-students-distributed-across-four-vector-methods.md) — related
 - [The only student who changed methods switched from bisector to head-to-tail and attributed the switch to recall of the classroom-taught method](student-h-switched-methods-citing-classroom-method.md) — related
 - [Students tend to choose one vector addition solution method and apply it across different representations of the question](students-stick-to-one-vector-addition-method-across-representations.md) — related
+- [Parallel transport features (Tails and Separation) have little impact on cross product problems unlike vector addition and subtraction](parallel-transport-little-impact-cross-products.md) — related

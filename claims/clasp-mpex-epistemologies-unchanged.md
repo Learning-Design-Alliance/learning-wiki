@@ -59,3 +59,4 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 - [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
 - [Pre-post survey results show students enter introductory science classes with epistemological expectations about two-thirds in accord with their instructor's, and leave with expectations unchanged or deteriorated](mpex-pre-post-expectations-deteriorate.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
+- [A collaborative expert-role learning design in Class 3 strengthened students' perceived physics learning compared with Class 1 and 2](eqm-expert-roles-improved-perceived-learning.md) — related

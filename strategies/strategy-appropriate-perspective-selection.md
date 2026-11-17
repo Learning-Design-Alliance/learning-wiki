@@ -51,7 +51,8 @@ The authors propose an instructional objective "for students to use the appropri
 - [Many students in quantum physics courses endorse mechanistic (Newtonian) statements about electrons and atomic structure that quantum theory contradicts](../claims/students-endorse-mechanistic-qp-statements.md) [-M]
 
 ## Related Strategies
-- 
+
+- [Scaffold students toward meta-reasoning about when classical intuitions apply to quantum systems, building on what some students do spontaneously](scaffold-meta-reasoning-classical-quantum-boundary.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ Because the final cart speed is proportional to the square root of the release p
 ## Related Strategies
 
 - [Multi-length time-of-flight procedure: measure delay versus distance and fit a straight line](vary-distance-fit-line-procedure.md)
+- [Introduce visual fitting earlier in the physics course through mechanics with linear, proportional relationships](early-fitting-via-mechanics-linear-laws-strategy.md)
 
 ## Examples
 -

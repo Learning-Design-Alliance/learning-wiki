@@ -50,3 +50,4 @@ Meeting report of Thorndike's paper on the psychology of the equation, distingui
 - [A gradient-matching algorithm decomposes almost any composite student equation into primitive physics equations](shapiro-equation-decomposition-algorithm.md) — related
 - [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
+- [Supplemental methods such as physically rotating the paper can mitigate errors associated with certain problem features](supplemental-rotation-mitigates-errors.md) — related

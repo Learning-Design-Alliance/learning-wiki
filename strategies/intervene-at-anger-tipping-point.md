@@ -45,6 +45,7 @@ The article recommends that educators treat anger as a signal to monitor rather 
 ## Related Strategies
 
 - [Class Discussion Norms](class-discussion-norms.md)
+- [Instructors decide whether to intervene in tense small-group moments by weighing whether the escape hatch reopens or squelches discussion](instructor-facilitation-of-escape-hatch-moments.md)
 
 ## Examples
 -

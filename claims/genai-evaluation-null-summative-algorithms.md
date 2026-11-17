@@ -73,3 +73,5 @@ Final exam (maximum 113) comparison in the same crossover study; the article als
 - [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](no-performance-gains-personalized-feedback.md) — related
 - [The informal letter-writing assignment significantly improved scores on a midterm exam containing both multiple-choice and essay components](letter-writing-improves-mc-essay-midterm.md) — related
 - [Structured note-taking and MCQ creation as post-seminar homework produced no statistically significant difference in first-year physiotherapy students' summative exam performance](nt-vs-mcq-no-exam-performance-difference.md) — related
+- [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — possibly the same claim (merge candidate)
+- [The three comparison and intervention groups performed about the same on the final exam, with no statistical difference between them](no-final-exam-difference-between-groups.md) — related

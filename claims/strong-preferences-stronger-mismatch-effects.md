@@ -54,3 +54,4 @@ Theoretical foundation section attributing this finding to Kinshuk and Graf (200
 - [A technique helped students identify their own cognitive learning styles and adjust to mismatched courses](learning-style-identification-mismatched-course-adjustment.md) — related
 - [The match advantage appears in both adaptive and non-adaptive online course versions](match-advantage-both-adaptive-and-non-adaptive.md) — related
 - [In a non-adaptive e-learning system, students whose learning mode matches the presentation mode achieve higher test scores than mismatched students](matched-learning-mode-higher-scores-non-aes.md) — related
+- [No single MBTI preference combination is best: each learning style has strengths and weaknesses, challenging the reduction of learning potential to a single dimension such as intelligence](no-best-learning-style-combination.md) — related

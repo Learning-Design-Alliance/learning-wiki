@@ -50,3 +50,4 @@ The thesis reports, citing Larkin, McDermott, Simon, and Simon (1980) and Simon 
 ## Related Claims
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
+- [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — related

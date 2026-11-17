@@ -69,3 +69,4 @@ Narrative review reporting second-hand findings on student interest and course c
 - [Teacher-student interpersonal factors bias medical students' SET scores, with lenient or high-affinity teachers receiving higher ratings and strictly managed teachers receiving lower ratings](teacher-student-interaction-set-bias-medical.md) — related
 - [Common teacher qualities recur across culture, occupation and learning stage, including feedback, enthusiasm, approachability and clear explanations](cross-context-common-teacher-qualities.md) — related
 - [Enthusiasm for mathematics as a subject matter predicts teachers' self-reports but not students' ratings of instructional behaviour](subject-matter-enthusiasm-self-report-only.md) — related
+- [Attitudinal pre- and post-studies in the author's courses suggest greater student enthusiasm for the case-study approach than for traditional lecture](case-study-greater-enthusiasm-than-lecture.md) — related

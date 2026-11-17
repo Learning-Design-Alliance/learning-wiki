@@ -51,3 +51,4 @@ Log-file analysis of 70 8th and 9th grade students who played Newton's Playgroun
 - [Gender, gaming frequency, and physics knowledge were not significant predictors of persistence](null-student-predictors-persistence.md) — related
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
 - [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md)
+- [High physics interest and low (0-3 years) additional physics education predict more play activity, but neither predicts tutorial scores](physics-interest-education-predict-play-not-score.md) — related

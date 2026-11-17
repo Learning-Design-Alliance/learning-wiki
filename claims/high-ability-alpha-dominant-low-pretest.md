@@ -68,3 +68,4 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related
 - [A meta-analysis of FCI and FMCE data found no correlation of institutional SAT scores, pre-test scores, or institution type with normalized gains, though pre-test scores correlate with institution type.](normalized-gains-institution-type-independent.md) — related
 - [Pretest scores correlate positively with learning pace, but posttest scores show no such correlation, indicating slower students catch up when given more time and content](pretest-posttest-pace-correlation-equalization.md) — related
+- [IRT fairly well predicts observed gains and losses on the FCI as functions of pre-test score](irt-predicts-fci-gains-losses.md) — related

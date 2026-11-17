@@ -53,3 +53,4 @@ Item-level analysis of cognitive interview findings across the 40 ITEM questions
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
 - [Simulation education experts raised feasibility concerns about question load and learner case experience, leading to modification of the metacognition questions](expert-interviews-protocol-modification.md) — related
 - [Think-aloud student interviews led to wording and spacing changes on CURrENT questions](think-aloud-interviews-improved-current-question-wording.md) — related
+- [Free-response piloting of QuaRCS questions generated distractors from common misconceptions and led to rejection or revision of problematic items](free-response-piloting-vets-quarcs-items.md) — related

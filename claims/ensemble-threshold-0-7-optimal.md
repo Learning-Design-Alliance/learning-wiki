@@ -47,3 +47,4 @@ Numerical result from Figure 4 plotting ensemble accuracy across threshold value
 
 ## Related Claims
 - [The ensemble learner attains the highest classification accuracy and AUC for predicting a non-repeatable grade (C or better)](ensemble-highest-classification-nonrepeatable-grade.md) — reports the opposite
+- [Mutual information optimization yields predictability thresholds for each centrality measure, verified significant by chi-square test](centrality-thresholds-mutual-information.md) — related

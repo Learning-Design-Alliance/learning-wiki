@@ -53,3 +53,4 @@ ANCOVA on perceived difficulty (extraneous cognitive load) with prior knowledge 
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
 - [The goal difficulty intervention significantly decreased students' perceived goal difficulty relative to control](goal-difficulty-intervention-lowered-perceived-difficulty.md) — related
 - [Case-level perceived difficulty decreases with case number, and no fetal head position differences emerge within either technique](learning-effect-and-no-position-differences.md) — related
+- [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](partial-diagram-intervention-worse-quiz-performance.md) — related

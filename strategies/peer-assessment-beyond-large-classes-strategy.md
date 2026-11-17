@@ -17,7 +17,7 @@ sources:
 # Use peer assessment beyond large classes and MOOCs, even in smaller settings where it is not strictly needed
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 Because peer assessment both saves instructor time and produces measurable achievement gains above the effect of receiving feedback, the authors recommend it "should not be limited to MOOCs and large classes where it is the only option". Implement it with an LMS-based tool that anonymously distributes student responses to peer graders, with students scoring and commenting on peers' homework while receiving feedback from three peers.

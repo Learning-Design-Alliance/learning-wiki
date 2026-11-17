@@ -53,3 +53,4 @@ In this experimental study, 20 adolescents and 30 adults completed a negative pr
 - [Monolinguals but not bilinguals show residual inhibition of phonological competitors on negative-priming probes](monolinguals-not-bilinguals-residual-competitor-inhibition.md) — related
 - [Equal accuracy on fraction comparison items can mask fundamentally different misconceptions](fraction-accuracy-masks-distinct-misconceptions.md) — related
 - [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](fsi-gains-common-numerator-whole-number-bias-items.md) — related
+- [Probability ranking, consistent with novice fraction-comparison strategies such as numerator-denominator differences, is the most common incorrect justification students give for probability ratio answers](probability-ranking-common-incorrect-justification.md) — related

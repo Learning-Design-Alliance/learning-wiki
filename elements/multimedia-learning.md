@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (44 for, 20 mixed) · 58 studies (35 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 15 of 58 report an effect size · 59 claims rest on one study
+> **Evidence** · 65 claims (45 for, 20 mixed) · 59 studies (35 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 15 of 59 report an effect size · 60 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -100,6 +100,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Animation-enriched VP yields superior procedural quality compared with static-media VP, while video instruction does not differ from either](../claims/animation-enriched-vp-procedural-quality-pbls.md) [~M] — attached 2026-11-09 from Lehmann Ronny et al. (2019), which proposed "Animation-enriched virtual patients for pediatric basic life support self-instruction (CAMPUS-based VP with interactive questions and video clips)"; tests this page's relationship.
 - [Interns learning blood cell morphology with an interactive multimedia eBook achieved significantly better post-test scores than interns learning with a traditional PowerPoint atlas](../claims/ime-ebook-better-posttest-than-powerpoint.md) [+W] — attached 2026-11-09 from Hsiao Chih-Cheng et al. (2016), which proposed "SimMAGIC interactive multimedia eBook atlas of blood cell morphology"; tests this page's relationship.
 - [Interns using the interactive multimedia eBook reported more positive attitudes, enjoyment, perceived skill support, intuitiveness and confidence than PowerPoint users](../claims/ime-ebook-more-positive-attitudes-than-powerpoint.md) [+W] — attached 2026-11-09 from Hsiao Chih-Cheng et al. (2016), which proposed "SimMAGIC interactive multimedia eBook atlas of blood cell morphology".
+- [Interactive gravity simulations with student-proposed models helped fifteen grade 11 students understand that a mass creates the gravitational field and potential, which paper representations had not made clear](../claims/gravity-simulation-shows-mass-creates-field-grade11.md) [+W] — attached 2026-11-17 from Loo Kang Wee (2020), which proposed "Epub3 electronic book-chapter prototypes on Simple Harmonic Motion and Gravity for the Singapore-Cambridge A-level"; tests this page's relationship.
 
 ## The evidence by question
 

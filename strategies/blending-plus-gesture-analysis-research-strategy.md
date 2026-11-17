@@ -58,4 +58,4 @@ The article recommends conceptual blending, combined with gesture analysis, as m
 -
 
 ## Key Sources
-- Dreyfus, B. W., Gupta, A., and Redish, E. F. (2014). Applying Conceptual Blending to Model Coordinated Use of Multiple Ontological Metaphors. Department of Physics, University of Maryland. https://arxiv.org/abs/1412.1693
+- Dreyfus, B. W., Gupta, A., and Redish, E. F. (2014). Applying Conceptual Blending to Model Coordinated Use of Multiple Ontological Metaphors. Department of Physics, University of Maryland. https://arxiv.org/abs/1412.1693. [doi:10.1080/09500693.2015.1025306](https://doi.org/10.1080/09500693.2015.1025306)

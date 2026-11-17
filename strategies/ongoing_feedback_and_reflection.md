@@ -96,6 +96,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
 - [Peer assessment of student research presentations to teach assessment criteria](peer-assessment-research-presentations.md)
+- [Fade explicit comparison-cycle support across the course (instructions first, then marks, then instructor support)](fading-comparison-cycle-support-strategy.md)
 
 ## Examples
 

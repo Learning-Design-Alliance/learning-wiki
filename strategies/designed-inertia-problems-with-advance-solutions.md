@@ -46,6 +46,7 @@ The article proposes carefully designing three rotational-inertia problems invol
 ## Related Strategies
 
 - [Textbooks should include more solved illustrative examples for rotational inertia, center of mass, and field computations](more-solved-textbook-examples-math-computations.md)
+- [Spaced recall of representationaly rich worked solutions as an in-class activity emphasizing expert practice](spaced-recall-worked-solutions-activity.md)
 
 ## Examples
 -

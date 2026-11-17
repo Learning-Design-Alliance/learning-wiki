@@ -86,3 +86,4 @@ Observation records from 51 Phase 1 groups during gameplay; "All but two of the 
 - [Playing VENOMventure produced significant pre-to-post gains on a five-item tree-annotation knowledge quiz among 446 family participants at informal science sites.](venomventure-prepost-quiz-gains.md) — related
 - [Knowledge quiz scores increased from pre to post within every age group, with a large effect in the 9–13 target group.](venomventure-learning-all-age-groups.md) — related
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
+- [Students who reported playing the game was fun to a large extent had a significantly lower gain (0.13) than the average student (0.20)](high-fun-students-lower-gain.md) — related

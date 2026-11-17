@@ -50,3 +50,4 @@ Spring 2001 videotaping of students in traditional protocol-based laboratories, 
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
 - [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) — related
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
+- [The 2014 AAPT goals for undergraduate physics lab curriculum are skills-focused and removed conceptual learning as an outcome, relative to the 1998 goals](aapt-2014-lab-goals-skills-focused.md) — related

@@ -49,3 +49,4 @@ Narrative review assertion about cognitive architectures in educational psycholo
 - [MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values](mllm-fine-grained-quantitative-misestimation-scivis.md) — related
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Cognitive leap is the most prevalent deviation pattern of LLM-generated questions, and fine-grained prompting amplifies upward shifts while suppressing cognitive regression](cogleap-dominant-fgp-suppresses-regression.md) — related
+- [The wavefunction viewer reproduces the widely accepted degenerate HOMO and LUMO wavefunction distributions for benzene](benzene-homo-lumo-wavefunction-reproduction.md) — a narrower finding that bears on this claim

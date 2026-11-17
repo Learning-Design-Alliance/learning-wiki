@@ -51,3 +51,4 @@ Anecdotal observation by the study's observers, with no systematic data captured
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Instructor interaction types during small group time vary widely, from explaining to student-shared dialogue](small-group-interaction-type-variation.md) — related
+- [Simulations reportedly generated more student discussions on the foundations of quantum mechanics than the previous year, an anecdotal observation](simulations-sparked-foundations-discussions.md) — related

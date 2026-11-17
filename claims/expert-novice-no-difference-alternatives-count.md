@@ -55,3 +55,4 @@ T-test on the same 37-teacher sample found no significant group difference in al
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — related
 - [Expert and novice card sorters are not distinguishable by the number of categories they create](expert-novice-category-number-ks-null.md) — related
 - [Expert and novice card sorters are not distinguishable by macroscopic graph measures: 3-cycles, maximum clique size, diameter, and average path length](macroscopic-graph-measures-no-expert-novice-difference.md) — related
+- [What novice instructors learn from paired teaching likely depends on their previous teaching experience](prior-experience-shapes-paired-teaching-learning.md) — related

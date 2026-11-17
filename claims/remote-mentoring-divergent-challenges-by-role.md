@@ -49,3 +49,4 @@ Qualitative coding of narrative data from 23 pairs identified themes reported in
 - [Internet access quality was a common material-access challenge, especially for rural mentees relying on cellular data](internet-quality-barrier-rural-mentees.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Skype and Google Hangout were the most popular communication tools for remote mentor-mentee pairs, used by 39% and 21% of pairs respectively](skype-hangout-popular-remote-mentoring-tools.md) — related
+- [Instructors judged the open projects a good introduction to experimentation but noted students under-analyzed their data and mentoring difficulty](instructors-report-upsides-and-mentoring-difficulty.md) — related

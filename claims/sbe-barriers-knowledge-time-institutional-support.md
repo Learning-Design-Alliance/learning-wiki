@@ -72,3 +72,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
 - [Deans cite limited resources, especially faculty expertise, as the major barrier to teaching more evolution, with foundational and patient-care benefits cited as benefits](barriers-benefits-evolution-education-qualitative.md) — related
+- [Open-project students more often cited lack of time, while requests for better equipment were similar across both lab formats](open-project-students-cite-lack-of-time.md) — related

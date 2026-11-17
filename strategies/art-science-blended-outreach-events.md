@@ -43,6 +43,7 @@ The LSC plans exhibits and performances pairing art with gravitational-wave scie
 - [Exhibition Of Learning](exhibition-of-learning.md)
 - [Exhibition](exhibition.md)
 - [Four-step art–science collaboration process: scientist briefing, facility visit with concept pitches, mentored production with online feedback, and final screening critique](four-step-art-science-animation-process.md)
+- [Recruit citizen science contributors through in-world events targeting genuinely interested amateurs rather than relying on online media or forced participation](in-world-event-recruitment-amateurs-strategy.md)
 
 ## Examples
 -

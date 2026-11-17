@@ -54,3 +54,4 @@ Instrument-development report: the CAT's content validity was established with a
 - [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related
 - [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](facial-nerve-test-kr20-reliability.md) — related
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — related
+- [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related

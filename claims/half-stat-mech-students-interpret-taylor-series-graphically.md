@@ -52,3 +52,4 @@ Written Taylor series pretest administered before the Boltzmann Factor tutorial 
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Upper-division physics students often fail to activate approximation methods under implicit cueing, while explicit cueing reliably triggers them](implicit-cueing-taylor-approximation-activation.md) — related
 - [A computer-based statistical approach to entropy teaching succeeds with students at both introductory and upper-division levels](computer-statistical-entropy-approach-student-success.md) — related
+- [On the finite-reservoirs homework question, only 12 of 25 students answered all parts correctly, and some students who identified the Carnot engine still failed to use ΔSuni = 0](frq-finite-reservoirs-carnot-disconnect.md) — related

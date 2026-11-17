@@ -66,3 +66,4 @@ SUS questionnaire completed by the eight HL-group students after tutorials. The 
 - [The e-learning course achieves above-average perceived usability (mean SUS 80.8) among health, fitness and lifestyle professionals](sci-pa-elearning-course-above-average-usability.md) — related
 - [Learning Moment achieved high perceived usability, with a mean System Usability Scale score of 80.9 among medical and physician assistant students](lm-mean-sus-score-80-9.md) — related
 - [The TV-based home telehealth technology was easy to learn and use, with a mean System Usability Scale score of 94.4](high-usability-tv-based-rehab-technology.md) — related
+- [The mobile game prototype received a high subjective usability rating on the System Usability Scale](mobile-game-high-sus-usability-score.md) — related

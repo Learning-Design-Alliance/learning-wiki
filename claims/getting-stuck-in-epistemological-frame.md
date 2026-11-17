@@ -52,3 +52,4 @@ Recap of three previously reported observational examples: novices using recursi
 - [A journeyman student can nest Calculation, Physical Mapping, and Invoking Authority framings within an overarching framing that values coherence among lines of reasoning](overarching-coherency-valuing-framing.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
 - [Observed epistemological framings extend over durations from ten seconds to ten minutes](framing-durations-ten-seconds-to-ten-minutes.md) — related
+- [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — related

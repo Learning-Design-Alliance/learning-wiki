@@ -89,3 +89,4 @@ Whole-test discrimination statistic for the QMCS: "Ferguson’s delta for the QM
 - [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
 - [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — related
+- [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related

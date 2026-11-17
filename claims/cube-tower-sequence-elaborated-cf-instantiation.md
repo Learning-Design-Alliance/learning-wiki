@@ -54,3 +54,4 @@ One-on-one constructivist teaching experiments with two preservice middle school
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [The multi-view approach proceeds from concrete images to abstract rays and may help students adapt their preconceptions toward scientific concepts](concrete-images-to-abstract-rays-bridges-preconceptions.md) — related

@@ -48,4 +48,4 @@ A framework distinguishing two ways of structuring analogical instruction: a Cas
 -
 
 ## Key Sources
-- Kuo, E., & Wieman, C. E. (2015). Seeking instructional specificity: an example from analogical instruction. https://arxiv.org/abs/1604.01239
+- Kuo, E., & Wieman, C. E. (2015). Seeking instructional specificity: an example from analogical instruction. https://arxiv.org/abs/1604.01239. [doi:10.1103/physrevstper.11.020133](https://doi.org/10.1103/physrevstper.11.020133)

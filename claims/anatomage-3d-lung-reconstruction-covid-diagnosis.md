@@ -66,3 +66,4 @@ The same cited study compared 3D reconstructions of RT-PCR-positive patients bef
 
 ## Related Claims
 - [Anatomage images showed higher similarity with histopathology than CT and MRI for detecting extranodal extension in head and neck cancer](anatomage-extranodal-extension-histopathology-similarity.md) — related
+- [Desktop scanning labs led students to conclude present-day desktop scanners are inadequate for accurate quantitative metrology of AM parts](desktop-scanners-inadequate-am-metrology.md) — related

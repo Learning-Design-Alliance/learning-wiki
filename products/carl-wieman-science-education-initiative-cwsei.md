@@ -33,4 +33,4 @@ A University of British Columbia grant and departmental-support programme that f
 
 ## Key Sources
 - Carl Wieman, Louis Deslauriers, Brett Gilley. (2013). Use of research-based instructional strategies: how to avoid faculty quitting. https://cwsei.ubc.ca
-- Reinholz, D. L., Corbo, J. C., Dancy, M. H., Finkelstein, N., & Deetz, S. (2014). Towards a Model of Systemic Change in University STEM Education. https://scholar.google.com/scholar?q=Towards+a+Model+of+Systemic+Change+in+University+STEM+Education
+- Reinholz, D. L., Corbo, J. C., Dancy, M. H., Finkelstein, N., & Deetz, S. (2014). Towards a Model of Systemic Change in University STEM Education. https://scholar.google.com/scholar?q=Towards+a+Model+of+Systemic+Change+in+University+STEM+Education. [doi:10.2307/j.ctv2x00vcx.13](https://doi.org/10.2307/j.ctv2x00vcx.13)

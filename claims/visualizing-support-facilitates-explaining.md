@@ -99,3 +99,4 @@ Narrative review attributing this to Fiorella and Kuhlmann (2020): college stude
 - [Argument diagramming tools increase relevant citations and opposing evidence in college writing, with domain-specific diagrams adding citation validity](argument-diagramming-increases-citations-opposing-evidence.md) — a narrower finding that bears on this claim
 - [Test items based on diagrams did not produce significantly higher scores than purely verbal items](diagram-items-not-significantly-higher-than-verbal-items.md) — related
 - [Drawing 2D circuit diagrams before crafting served as a crucial visualization step that surfaced misconceptions and enabled early facilitator feedback](circuit-diagram-visualization-step.md) — related
+- [Students given a partial diagram (empty tube) scored significantly worse on the standing-wave quiz than students prompted to draw a diagram or given no support](partial-diagram-intervention-worse-quiz-performance.md) — reports the opposite

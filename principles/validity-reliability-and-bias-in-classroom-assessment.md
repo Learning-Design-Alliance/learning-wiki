@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 471 claims (235 for, 208 mixed, 28 against) · 353 studies (112 associational, 85 design, 61 causal, 48 review, 29 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 353 report an effect size · 464 claims rest on one study
+> **Evidence** · 473 claims (237 for, 208 mixed, 28 against) · 354 studies (112 associational, 85 design, 61 causal, 48 review, 30 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 354 report an effect size · 466 claims rest on one study
 
 ## Conditional relationship
 
@@ -315,6 +315,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Think-aloud interviews revealed that students dismissed the ground-state distractor for its low energy and shape rather than because it is a stationary eigenstate, and that students drew on classical wave analogies](../claims/think-aloud-interviews-q17-distractor-reasons.md) [+W] — attached 2026-11-17 from Homeyra Sadaghiani et al. (2013), which proposed "Iterate assessment items using item analysis and student interviews, revising or removing distractors that are unpopular or produce undesirable difficulty".
 - [A fairness criterion on the weight and number of Participation Grades keeps their volatility from affecting the reliability of the final laboratory grade (analytical derivation)](../claims/performance-grade-fairness-criterion.md) [+W] — attached 2026-11-17 from G.L. Lippi (2015), which proposed "Give the Participation Grade in broad, semi-quantitative categories (e.g. Excellent, Good, Acceptable, Insufficient) to divert attention from detailed grades and allow renormalization across Instructors"; tests this page's relationship.
 - [Adding a copying trait to IRT improves the predictive power of first-attempt homework ability relative to exam-derived ability](../claims/copying-trait-improves-homework-ability-prediction.md) [+W] — attached 2026-11-17 from Emre Gönülateş et al. (2015), which proposed "Treat first-attempt success on open-ended online homework as a potentially deceptive measure of ability, and avoid penalizing multiple attempts".
+- [A fixed raw or Hake gain corresponds to different proficiency progressions depending on students' initial pre-test score](../claims/fixed-gain-different-proficiency-progressions.md) [+W] — attached 2026-11-17 from Jean-François Parmentier et al. (2015), which proposed "Design conceptual tests with well-separated item characteristic curves and interpret progression on the proficiency scale rather than via gains"; tests this page's relationship.
+- [Even when no learning occurs, FCI gains rise with pre-test score up to one and losses fall from one to zero](../claims/no-learning-gains-losses-fci.md) [+W] — attached 2026-11-17 from Jean-François Parmentier et al. (2015), which proposed "Design conceptual tests with well-separated item characteristic curves and interpret progression on the proficiency scale rather than via gains"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

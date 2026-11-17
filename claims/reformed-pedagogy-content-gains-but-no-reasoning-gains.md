@@ -73,3 +73,4 @@ Table II reports average normalized gains for students in the authors' courses o
 - [TUG-K results after traditionally taught physics I showed a practically binomial distribution with probability of the order of 1/5, indicating low effectiveness of traditional instruction](traditional-instruction-binomial-1-5-ineffective.md) — related
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [After the AST1000F course, students' free associations with 'astronomy' shifted toward more technical concepts taught in the course](free-association-shift-toward-technical-astronomy-concepts.md) — related
+- [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related

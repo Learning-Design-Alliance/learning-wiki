@@ -47,3 +47,4 @@ The article reports, citing A. H. Johnstone's Brasted Lecture, an exam on the mo
 ## Related Claims
 - [High school chemistry students show six recurring difficulties when solving stoichiometric problems, with identifying the limiting reagent the most common (88%)](six-stoichiometry-difficulties-limiting-reagent-most-common.md) — related
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
+- [In the standardized General Physics exams, questions based on textbook sample problems produced very high average scores, while questions requiring thinking beyond memorization caused overall performance to drop dramatically.](memorization-versus-creative-exam-performance.md) — related

@@ -52,3 +52,4 @@ Quasi-experimental comparison of three sections (n=39 web-facilitated, n=24 hybr
 - [Hybrid students significantly outperformed online students on weekly assignments](hybrid-outperform-weekly-assignments.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
 - [Hybrid-section students earned significantly fewer extra-credit points, and attendance correlated with total points across the cohort](engagement-measures-extra-credit-attendance.md) — related
+- [The participant group outperformed the comparison group on final exams by 6–8% and achieved more A and B course grades](participant-group-outperformed-comparison-group.md) — related

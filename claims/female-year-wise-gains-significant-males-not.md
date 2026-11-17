@@ -71,3 +71,4 @@ The same year-wise analysis for the second software year shows female students s
 - [Female dental students performed significantly better than male students in all three cohort groups](female-dental-students-outperformed-males-all-groups.md) — related
 - [The between-group comparison of the three yearly cohorts revealed no statistical significance, despite a gradual increase in students scoring good grades](no-significant-between-group-difference-gradual-increase.md) — related
 - [Dental students taught with software-facilitated teaching achieved good final-examination grades more often than students who did not receive it](software-facilitated-teaching-better-final-grades-dental-morphology.md) — a broader claim this one bears on
+- [Male students' average effect sizes in LA-supported courses were statistically significantly different from, and higher than, female students'](lasso-gender-effect-size-gap.md) — related

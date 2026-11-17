@@ -47,3 +47,4 @@ Evaluation-of-the-exercise themes from the focus groups. One resident called the
 ## Related Claims
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [96% of first-year students endorsed including action physics in Physics 2 the following year](survey-96-percent-endorse-action-physics-inclusion.md) — related

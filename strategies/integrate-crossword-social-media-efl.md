@@ -51,6 +51,7 @@ The article recommends integrating edu-gaming and social media into English teac
 - [Use social media affordances to scaffold problem finding and solution generation in problem-centered learning](social-media-affordances-scaffold-problem-solving.md)
 - [Embed puzzles and challenges in simulations for continued engagement and self-assessment](embed-puzzles-and-challenges-in-sims.md)
 - [Train teachers to create educational games with iPad applications through school workshops and an application-specific teacher manual](teacher-training-ipad-game-workshops.md)
+- [Adding quiz and crossword-puzzle activities to reduce monotony in the masterclass day](astroparticle-quiz-crossword-variety-strategy.md)
 
 ## Examples
 -

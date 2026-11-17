@@ -75,3 +75,4 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related
 - [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](prior-knowledge-predicts-benefit-construction-based-learning.md) — related
 - [In a case study, two students' computational thinking and physics understanding co-developed through negotiating and cohering multiple perspectives during collaborative agent-based modeling](collaborative-agent-based-modeling-perspectival-shifts-case.md) — related
+- [Think-aloud interviews suggest students drawing productive diagrams were engaged in conceptual sense-making and made fewer mistakes when they used their diagrams](interviews-diagram-sense-making.md) — related

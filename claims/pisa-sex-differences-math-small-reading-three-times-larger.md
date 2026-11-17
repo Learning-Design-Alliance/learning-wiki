@@ -121,3 +121,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [The gender gap in grade mean and variability has not changed significantly over the last eight decades](grade-gender-gap-stable-over-80-years.md) — related
 - [Simulations of the meta-analytic estimates indicate the top 10% of a STEM class contains roughly equal numbers of girls and boys, with more girls in non-STEM](simulation-top-10-percent-even-gender-ratio-stem.md) — related
 - [Secondary school girls and boys show no significant difference in mathematics performance on timed mental mathematics tests](no-gender-difference-secondary-maths-performance.md) — reports the opposite
+- [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related

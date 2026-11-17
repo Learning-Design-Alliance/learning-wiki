@@ -57,3 +57,4 @@ Interaction analysis of 90 minutes of synced video and screen-capture recordings
 - [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) — related
 - [Simulation functions as a site where professional knowledge is produced, negotiated, and reshaped, not merely a tool for skill rehearsal](simulation-site-professional-knowledge-transformation.md) — related
 - [Collecting with Myartspace prompted collaborative and competitive negotiation among students about what to collect](collecting-prompts-negotiation-and-competition.md) — related
+- [Collaborative negotiation about whether and when to move between modeling phases lies beyond the scope of the EMF](phase-navigation-negotiation-beyond-emf.md) — related

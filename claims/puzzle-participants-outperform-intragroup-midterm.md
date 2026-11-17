@@ -49,3 +49,4 @@ Intra-group comparisons within intervention groups controlled for instructional 
 - [Puzzle intervention groups achieve significantly higher midterm exam accuracy than control groups](puzzle-higher-midterm-accuracy-than-controls.md) — related
 - [Puzzle intervention groups achieve significantly higher quiz accuracy than control groups in antibiotic pharmacology](puzzle-higher-quiz-accuracy-than-controls.md) — related
 - [Puzzle participants outperform intra-group controls on final exam accuracy in two of three intervention groups](puzzle-participants-outperform-intragroup-final.md) — related
+- [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — related

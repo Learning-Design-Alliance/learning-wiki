@@ -54,3 +54,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [All 30 FCI items fit the three-parameter item response model acceptably, with chi-square goodness-of-fit statistics below 1](fci-irt-goodness-of-fit-chi-square.md) — related
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
 - [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related
+- [In a test-retest situation with no learning, nearly 18% of FCI answers change at a true score of 50% because item characteristic curves overlap](fci-answer-change-test-retest.md) — related

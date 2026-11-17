@@ -48,3 +48,4 @@ Learning-context theme from the 9-month semi-structured interviews (n = 11). Par
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [Psychiatric nurses report that safety training overemphasizes theory, uses outdated monotonous formats, and lacks experience-sharing opportunities](nurse-demands-safety-training-reform.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Students find the introductory theory portion of the masterclass difficult and prefer practical experiments](masterclass-theory-intro-found-difficult.md) — related

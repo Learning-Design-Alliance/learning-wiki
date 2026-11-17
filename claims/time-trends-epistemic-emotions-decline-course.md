@@ -79,3 +79,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Students receiving feedback report greater concentration and anxiety, while control students report more enjoyment](feedback-concentration-anxiety-tradeoff.md) — related
 - [Group work with manipulatives transforms mathematical problem solving into a social activity, decreasing student anxiety and increasing engagement](manipulative-group-work-reduces-anxiety-increases-engagement.md) — related
 - [Learner disengagement is widespread in developed countries' school systems](learner-disengagement-developed-countries-survey-data.md) — related
+- [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — related

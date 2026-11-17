@@ -67,3 +67,4 @@ Same cross-sectional study's context finding: problem-solving context mattered, 
 - [Relational reasoning appears malleable and trainable, but may stabilize in adulthood without relevant experience](relational-reasoning-malleable-and-trainable.md) — related
 - [Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8](feedback-features-tailored-by-age.md) — related
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
+- [Students interpret an unfamiliar ratio more successfully in a familiar paint context than in an abstract electric-charge doorknob context](quantification-context-abstraction-paint-doorknob.md) — related

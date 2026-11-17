@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 36 claims (25 for, 9 mixed, 2 against) · 15 studies (9 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 36 claims rest on one study
+> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 16 studies (9 causal, 3 quant-synthesis, 2 review, 1 design, 1 theoretical), `q1`–`q3` · 3 of 16 report an effect size · 37 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -81,6 +81,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Students taught using multiple intelligences scored 89% on the language test versus 44% for the traditional memorization group](../claims/mi-instruction-higher-language-test-scores.md) [+W] — attached 2026-11-03 from Magda Madkour et al. (2016), which proposed "A model for integrating multiple intelligences for teaching English at higher education".
 - [Identifying students' multiple intelligences profiles increased motivation from 28% to 91% in a quasi-experimental EFL study](../claims/mi-profile-awareness-boosts-motivation-elt.md) [+W] — attached 2026-11-03 from Magda Madkour et al. (2016), which proposed "A model for integrating multiple intelligences for teaching English at higher education".
 - [Advanced-level English proficiency rose from 27% to 71% after multiple intelligences instruction](../claims/mi-instruction-advanced-proficiency-rise.md) [+W]
+- [Polytechnic students' self-perceived intelligence strengths lie in Interpersonal, Visual-Spatial and Verbal-Linguistic intelligences](../claims/polytechnic-students-strengths-interpersonal-visual-verbal.md) [+W] — attached 2026-11-17 from Sazilah Salam et al. (2012), which proposed "Gardner's Multiple Intelligences theory as the framework for designing polytechnic teaching tools".
 
 ## Related Theories
 

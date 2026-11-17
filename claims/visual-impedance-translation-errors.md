@@ -46,3 +46,4 @@ The review reports this as educational data mining by Barker-Plummer et al. (201
 
 ## Related Claims
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
+- [Use of an automated grading system for first-order logic translation exercises was associated with marginally significantly higher aggregate scores on knowledge representation final-examination questions](automated-grading-system-higher-aggregate-exam-scores.md) — related

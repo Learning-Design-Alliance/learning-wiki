@@ -51,3 +51,4 @@ The report reviews two types of policy instruments used to promote intellectuall
 - [Meier and Stefaniak highlight educators' professional development and organizational support as policy-level needs for online learning](professional-development-organizational-support-policy.md) — related
 - [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related
 - [Participants reported the TTPGE increased their awareness and knowledge of gifted students' characteristics, needs, and curriculum implementation](ttpge-awareness-and-knowledge-gains.md) — related
+- [Dissemination and policy change efforts fail in isolation because they omit beliefs, culture, and incentives](dissemination-policy-efforts-fail-in-isolation.md) — a narrower finding that bears on this claim

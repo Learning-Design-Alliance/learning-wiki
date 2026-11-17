@@ -59,9 +59,11 @@ Measurement grounds abstract concepts in observable quantities, and graphing ext
 6. Provide [Feedback](../elements/feedback.md) focused on interpretation and graph-choice reasoning, not just correctness of plotted points [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies
+
 - [Predict-Observe-Explain](../strategies/predict-observe-explain.md) — measurement and graphing supply the "observe" phase with quantitative evidence
 - [Data-Driven Inquiry](../strategies/data-driven-inquiry.md) — broader cycle in which measurement is one stage
 - [Peer Instruction](../strategies/peer-instruction.md) — graph interpretation questions work well as discussion prompts
+- [Body-motion graph construction with a real-time position sensor as an introductory activity for position and velocity concepts](go-motion-walk-graph-position-velocity.md)
 
 ## Examples
 - **[Vernier Graphical Analysis](https://www.vernier.com/product/graphical-analysis/)** — students measure motion, temperature, or pH with sensors and watch the graph draw itself in real time, then annotate and interpret

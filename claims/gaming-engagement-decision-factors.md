@@ -71,3 +71,4 @@ From the same interview subset: "Almost universally (84%), participants reported
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md)
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md)
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
+- [Participating in real scientific research was the primary motivating factor for Class 1 students playing the educational Quantum Moves game](eqm-real-research-primary-motivation-class1.md) — a narrower finding that bears on this claim

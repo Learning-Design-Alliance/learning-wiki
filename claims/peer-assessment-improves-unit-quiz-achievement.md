@@ -3,14 +3,13 @@ type: claim
 title: Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
 description: Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
 id: peer-assessment-improves-unit-quiz-achievement
-aliases: [peer-assessment-quiz-gain]
+aliases: [peer-assessment-quiz-gain, peer-assessment-improves-unit-quiz-performance]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-09
 sources:
   - id: sun-dl-2015
     title: Sun DL 2015
@@ -18,19 +17,29 @@ sources:
     i: 0
     kind: causal
     rigour: 2
+  - id: dennis-l-sun-2014
+    resource: "https://doi.org/10.1371/journal.pone.0143177"
+    title: "Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)"
+    author: Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 3
 ---
 
 # Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2015 · checked against its sources 2026-11-09 (automated, 1 of 1 entry) · not reviewed by a person
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
 `q3 i0` Students who participated in peer assessment during a unit scored significantly higher on that unit's quiz than students who did not (d = .115). [→ Sun DL 2015](#sun-dl-2015)
 
 `q3 i0` Students assigned to peer assessment during a unit scored significantly better on that unit's quiz than students in the control condition, d = .115. [→ Sun Dennis L. 2015](#sun-dl-2015)
+
+`q3 i0` Students assigned to peer assessment during a unit scored significantly higher on that unit's quiz than when assigned to control. [→ Dennis L. Sun 2014](#dennis-l-sun-2014)
 
 ## Evidence
 
@@ -55,6 +64,16 @@ Randomized crossover experiment in a college introductory statistics class; 299 
 
 > "The students who participated in peer assessment during a given unit performed significantly better on the unit quizzes (Cohen's d = .115, t(298) = 2.92, p = .002), as compared with students who did not."
 -->
+
+### Dennis L. Sun 2014
+
+Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)
+
+`q3 · i0` · `causal · r3`
+
+Crossover RCT in a large introductory statistics class using within-student comparisons across four units with instructor graders blinded to treatment. The result is a statistically significant short-term effect, "Cohen's d = .115, t(298) = 2.92, p = .002".
+
+> "Students who participated in peer assessment during a given unit performed significantly better on the unit quizzes (Cohen's d = .115, t(298) = 2.92, p = .002) than students who did not."
 
 ## Discussion
 

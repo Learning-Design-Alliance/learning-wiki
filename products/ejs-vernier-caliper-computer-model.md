@@ -29,4 +29,4 @@ An Easy Java Simulation model that lets secondary physics students practise read
 -
 
 ## Key Sources
-- Wee, Loo Kang, & Ning, Hwee Tiang. (2014). Vernier caliper and micrometer computer models using Easy Java Simulation and its pedagogical design features—ideas for augmenting learning with real instruments. Physics Education, 49(5), 493. https://iwant2study.org/ospsg/index.php/interactive-resources/physics/01-measurements/5-vernier-caliper
+- Wee, Loo Kang, & Ning, Hwee Tiang. (2014). Vernier caliper and micrometer computer models using Easy Java Simulation and its pedagogical design features—ideas for augmenting learning with real instruments. Physics Education, 49(5), 493. https://iwant2study.org/ospsg/index.php/interactive-resources/physics/01-measurements/5-vernier-caliper. [doi:10.1088/0031-9120/49/5/493](https://doi.org/10.1088/0031-9120/49/5/493)

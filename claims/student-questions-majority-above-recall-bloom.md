@@ -61,3 +61,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [Exam cognitive level, question type, and content coverage were similar across control and reading-quiz terms, ruling out reduced exam rigor](exam-rigor-similar-across-quiz-and-control-terms.md) — related
 - [Medical students can write cognitively challenging MCQs: 74% of student-generated pathology MCQs required application or analysis](student-mcqs-majority-application-analysis.md) — related
 - [Instructor review of student-authored MCQs retained most of them in a repository whose questions spanned diverse taxonomic levels of knowledge](student-mcq-repository-quality.md) — related
+- [Student answer categories for the model-definition question map onto levels and themes previously reported in the literature, such as Grosslight et al.'s Level 1 and models-as-exact-replicas](model-conception-categories-map-to-literature.md) — related

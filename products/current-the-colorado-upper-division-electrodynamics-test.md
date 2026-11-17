@@ -35,4 +35,4 @@ An open-response, six-question assessment developed by Charles Baily and colleag
 
 ## Key Sources
 - Charles Baily, Michael Dubson and Steven J. Pollock. (2012). Research-Based Course Materials and Assessments for Upper-Division Electrodynamics (E&M II). http://per.colorado.edu/Electrodynamics
-- Ryan, Q. X., Astolfi, C., Baily, C., & Pollock, S. J. (2014). Validation of a Conceptual Assessment Tool in E&M II. 2014 Physics Education Research Conference Proceedings. http://www.physport.org/recommendations/entry.cfm?id=AAPT-2014
+- Ryan, Q. X., Astolfi, C., Baily, C., & Pollock, S. J. (2014). Validation of a Conceptual Assessment Tool in E&M II. 2014 Physics Education Research Conference Proceedings. http://www.physport.org/recommendations/entry.cfm?id=AAPT-2014. [doi:10.1119/perc.2014.pr.054](https://doi.org/10.1119/perc.2014.pr.054)

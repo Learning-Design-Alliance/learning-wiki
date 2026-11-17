@@ -68,6 +68,7 @@ Offering multiple representations and modes of expression broadens access and gi
 - [Offer developmental writing students the feedback type that suits teacher needs, student learning style, and the assignment](match-feedback-type-to-teacher-and-student.md)
 - [Use general teaching techniques and materials that cover the needs of learners with diverse learning preferences](general-techniques-diverse-learning-preferences.md)
 - [Categorize digital medical courses as knowledge-, skill-, or problem-based and match each to its delivery format](three-digital-course-types-delivery-matching.md)
+- [Accommodate every MBTI preference in a course so students are exposed to non-preferred styles and diversify their learning strategies](accommodate-every-preference-diversify-strategies.md)
 
 ## Examples
 - A statistics tutor lets a learner who struggles with formulas first solve a real-world estimation problem hands-on, then maps the solution back onto the formal notation — the practical route becomes the bridge to the theoretical one.

@@ -47,3 +47,4 @@ Cross-sectional survey (Bashir & Kaur 2017, N = 400, Kashmir, grade 9) using the
 ## Related Claims
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — related
 - [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related
+- [Hands-on science workshops with underprivileged school children were generally successful, with students keen to participate and motivated to learn more afterwards](science-is-fun-workshops-successful-engagement.md) — related

@@ -55,3 +55,4 @@ This is evidence about a component an adaptive tutor could rely on, a student-mo
 ## Related Claims
 
 - [Equal accuracy on fraction comparison items can mask fundamentally different misconceptions](fraction-accuracy-masks-distinct-misconceptions.md) — related
+- [Probability ranking, consistent with novice fraction-comparison strategies such as numerator-denominator differences, is the most common incorrect justification students give for probability ratio answers](probability-ranking-common-incorrect-justification.md) — related

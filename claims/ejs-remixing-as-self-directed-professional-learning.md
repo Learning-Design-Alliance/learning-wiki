@@ -51,3 +51,4 @@ In the conclusion, the author frames joining the Open Source Physics and EJS com
 - [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — related
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
 - [Elementary teachers review the remixed energy simulation positively, with all six agreeing the added features are useful](six-teachers-positive-review-remixed-energy-simulation.md) — related
+- [Teachers in the Singapore OSP community appropriate Open Source Physics resources in three ways: create, adapt, and use](osp-teachers-create-adapt-use.md) — related

@@ -60,9 +60,11 @@ Unaddressed abusive language signals tacit acceptance, degrades psychological sa
 6. **Track patterns.** Monitor recurrence; repeated incidents indicate the norms need re-teaching or that structural supports (counseling, administration) are required.
 
 ## Related Strategies
+
 - [Establishing Classroom Norms](establishing_classroom_norms.md) — the prerequisite; intervention works only when norms are explicit and shared
 - [Restorative Practices](restorative-practices.md) — the follow-up framework that turns incidents into repair rather than punishment
 - [Bystander Intervention Training](bystander_intervention_training.md) — extends the strategy from teacher-only to community-owned enforcement
+- [Instructors decide whether to intervene in tense small-group moments by weighing whether the escape hatch reopens or squelches discussion](instructor-facilitation-of-escape-hatch-moments.md)
 
 ## Examples
 - **Teaching Tolerance / Learning for Justice** ([learningforjustice.org](https://www.learningforjustice.org)) publishes "Speak Up at School" protocols giving teachers scripted responses to biased language, distinguishing interrupt–question–educate–echo moves.

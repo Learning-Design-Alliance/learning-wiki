@@ -51,3 +51,4 @@ Results section, Problem 1 part (c), where students chose the correct answer but
 - [For the Q12-derived operator items, most students identified a false statement but few selected all correct reasoning options, and multi-correct items showed undesirable difficulty](q12-operator-items-multicorrect-difficulty.md) — related
 - [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
+- [On the operator question, 54% answered correctly but 41% treated statements (1) and (2) inconsistently despite answering question 1 correctly](dirac-question4-operator-inconsistency.md) — a narrower finding that bears on this claim

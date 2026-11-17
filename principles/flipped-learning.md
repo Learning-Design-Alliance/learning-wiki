@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 195 claims (118 for, 72 mixed, 5 against) · 126 studies (75 causal, 19 quant-synthesis, 13 review, 9 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 126 report an effect size · 187 claims rest on one study
+> **Evidence** · 196 claims (119 for, 72 mixed, 5 against) · 127 studies (75 causal, 19 quant-synthesis, 13 review, 10 design, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 37 of 127 report an effect size · 188 claims rest on one study
 
 ## Conditional relationship
 
@@ -236,6 +236,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Graded pre-class flip-JiTT warm-up assignments achieved an 83.1% participation rate among 69 E&M students](../claims/flip-jitt-83-percent-participation.md) [+W] — attached 2026-11-17 from Nathaniel Lasry et al. (2012), which proposed "Flip-JiTT: a six-step pre-class warm-up sequence that extends Just-in-Time-Teaching into a flipped classroom".
 - [Students whose final exam scores declined relative to the midterm in the 1/2-lecture class preferred face-to-face lecture over group problem solving](../claims/declining-students-prefer-lecture.md) [~W] — attached 2026-11-17 from Heeseung Zoe et al. (2014), which proposed "Retain an appropriate proportion of face-to-face lecture in flipped classrooms rather than eliminating it entirely".
 - [A flipped redesigned introductory physics class achieved higher final exam scores than a traditional lecture-based class, with no midterm difference](../claims/flipped-class-outperforms-traditional-final-exam.md) [+W] — attached 2026-11-17 from Heeseung Zoe et al. (2014), which proposed "Three-part flipped course format: pre-class self-study materials, in-class summary lecture with group problem solving, post-class homework and recitation"; tests this page's relationship.
+- [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](../claims/direct-lesson-vs-flipped-engagement-contrast.md) [+W] — attached 2026-11-17 from Vera Montalbano (2015), which proposed "Use a flipped classroom in pre-service teacher education so teachers experience the methodology directly while producing ready-to-use multimedia materials"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ Post-test conceptual questions on four electric and five magnetic field situatio
 ## Related Claims
 - [Only 18% of students correctly answered an in-class concept test on the divergence of the field of a point charge despite recent instruction on Gauss' law in differential form](concept-test-point-charge-divergence-18-percent.md) — related
 - [Upper-division electrodynamics students show recurring difficulties with Maxwell equations, conservation-law interpretation, boundary conditions, complex exponentials, and plane-wave vectors](advanced-em-student-difficulties-themes.md) — related
+- [Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire](students-fail-activate-bcs-wire-context.md) — related

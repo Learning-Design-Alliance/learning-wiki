@@ -48,3 +48,4 @@ Interpretation of a student's answer to situation d) (Figure 13b), where a carel
 - [Students commonly hold the everyday-experience-based misconception that electrostatic interaction stops when charged objects are placed at greater distance](greater-distance-no-interaction-misconception.md) — related
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
+- [Students' graphical responses to a follow-up question often ignored the result they had just derived minutes earlier](followup-question-ignored-derived-result.md) — related

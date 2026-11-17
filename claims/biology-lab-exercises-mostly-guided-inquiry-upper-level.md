@@ -48,3 +48,4 @@ Systematic review of 142 published inquiry-based laboratory exercise papers (200
 ## Related Claims
 - [Student preference for inquiry-based versus scripted laboratory exercises varies by exercise, with one exercise showing greater preference for scripted versions](scripted-lab-preference-exception-one-exercise.md) — related
 - [Effect sizes for inquiry-based biology labs appear greatest in introductory courses and course-based research experiences, with the largest gains in disciplinary content knowledge](inquiry-lab-effect-sizes-greatest-introductory-research.md) — related
+- [The inquiry- and research-based BioLEd curriculum yields improved student performance and confidence as assessed by multiple metrics](bioled-improves-performance-confidence.md) — related

@@ -46,3 +46,4 @@ The article summarizes the companion randomized trial (Part 1): the community ar
 
 ## Related Claims
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
+- [Forum reputation system increases speed and volume of responses but does not improve grades, retention, or sense of community](reputation-system-responses-not-grades.md) — related

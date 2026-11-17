@@ -47,3 +47,5 @@ Instructor report from a large lecture-based Honors Calculus III course of 87 fi
 ## Related Claims
 - [In a large calculus lecture, using InkSurvey to reveal and repair a misconception left 1 of 87 students making the mistake on a later exam versus 12 of 103 in a comparable section without InkSurvey](inksurvey-triple-integral-misconception-repair.md) — related
 - [Real-time formative assessment on simulations revealed a common misconception that students did not notice Kirchhoff's law holds at each instant of time](inksurvey-reveals-kirchhoff-misconception.md) — a broader claim this one bears on
+- [Instructor response to student input is the linchpin of the formative assessment cycle, yet is often not documented or consistently performed](instructor-response-linchpin-formative-assessment.md) — related
+- [Open-format formative assessment questions reveal student misconceptions and gaps in calculus fluency in an undergraduate electromagnetics course](open-format-questions-reveal-student-thinking-electromagnetics.md) — related

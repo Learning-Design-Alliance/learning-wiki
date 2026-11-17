@@ -49,3 +49,4 @@ Service evaluation comparing student course evaluation form (SCEF) comments befo
 - [Flipped classroom in dental materials science yields student satisfaction but no significant knowledge advantage over traditional lectures](flipped-classroom-dental-materials-satisfaction-no-knowledge-difference.md) — related
 - [After introducing flipped classroom seminars, students showed higher activity, engagement and attendance and evaluated the seminars as very good learning activities](flipped-seminars-higher-engagement-dental.md) — related
 - [Pre-prepared flipped course material enabled uninterrupted online delivery of the dental materials course during the COVID-19 pandemic](fc-material-enabled-covid-online-delivery.md) — related
+- [A previous direct-lesson introduction of Audacity produced weak engagement and no materials, while the flipped-classroom format produced engagement and educational materials](direct-lesson-vs-flipped-engagement-contrast.md) — related

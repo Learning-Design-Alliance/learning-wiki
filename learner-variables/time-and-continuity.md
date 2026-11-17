@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (169 show a difference, 60 mixed, 30 no difference) · 225 studies (107 causal, 56 associational, 24 review, 15 quant-synthesis, 10 qualitative, 10 design, 3 theoretical), `q1`–`q4` · 42 of 225 report an effect size · 255 claims rest on one study
+> **Evidence** · 260 claims (169 show a difference, 60 mixed, 31 no difference) · 226 studies (107 causal, 56 associational, 24 review, 15 quant-synthesis, 11 design, 10 qualitative, 3 theoretical), `q1`–`q4` · 42 of 226 report an effect size · 256 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -316,6 +316,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Time spent on mechanics instruction did not significantly affect normalized gains, suggesting instructional method matters more than amount of traditional instruction](../claims/instruction-weeks-not-significant-method-matters.md) [-M] — learners who differ on it differ in outcomes
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](../claims/explaining-may-not-promote-active-sense-making.md) [~W] — measured as an outcome of the instruction studied
 - [Learning gains were highest on the three simulations with the greatest class attendance, a pattern the authors attribute to non-random attendance rather than learning style](../claims/attendance-associated-with-gains-in-coupled-model.md) [+M] — learners who differ on it differ in outcomes
+- [Classical analyses of PSCI field testing found no significant difference due to instruction, time since the course was taken, or demographics, indicating one population](../claims/no-significant-split-instruction-demographics-psci.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

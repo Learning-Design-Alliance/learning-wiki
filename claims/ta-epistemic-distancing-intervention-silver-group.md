@@ -68,3 +68,7 @@ Post-intervention discussion transcript shows the group ran a second trial and k
 - [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](groups-vary-first-sensemaking-timing.md) — related
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
 - [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
+- [The instructor's introduction of epistemic distancing helped the group switch from a dismissive approach to deep inquiry](distancing-switches-group-to-inquiry.md) — possibly the same claim (merge candidate)
+- [Excessive epistemic distancing led one tutorial group to avoid discussing its ideas in its first tutorial discussion](excessive-distancing-avoids-discussion.md) — related
+- [After the instructor left, the group sustained mechanistic sensemaking discussion of the graph discrepancy on its own](group-sustains-sensemaking-after-instructor-leaves.md) — a narrower finding that bears on this claim
+- [An instructor's hedged, eye-level rephrasing of a student question opened space for a dismissive tutorial group to offer tentative ideas](hedged-rephrasing-opens-discussion-space.md) — possibly the same claim (merge candidate)

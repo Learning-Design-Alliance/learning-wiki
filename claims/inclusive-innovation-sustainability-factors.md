@@ -84,3 +84,4 @@ Thematic analysis of semi-structured interviews and focus groups conducted in sp
 - [Sustained PAL implementation depends on whole-school buy-in, senior leadership support and is shaped by external policy and parent factors](whole-school-leadership-external-factors-pal.md) — related
 - [Qualitative interviews identified team buy-in, colleagues' existing skills, policy drivers and free resources as facilitators of START implementation](start-implementation-facilitators-qualitative-themes.md) — related
 - [Staff identify team support, evidence of benefits, structural embedding with an internal coordinator, and parent communication as requirements for sustained PA implementation](pa-implementation-requirements-team-coordinator.md) — a narrower finding that bears on this claim
+- [Systemic adoption of research-based teaching requires second-order change and is unlikely to occur naturally](second-order-change-required-systemic-teaching.md) — related

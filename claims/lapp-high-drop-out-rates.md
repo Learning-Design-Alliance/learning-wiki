@@ -48,3 +48,4 @@ Of 420 recruited participants (288 group A, 132 group B), only 169 completed the
 - [E-learning interventions for dementia caregivers show mixed outcomes, including high drop-out rates and a reduced sense of competence in one trial](e-learning-caregiver-mixed-outcomes-dropout.md) — related
 - [Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years](stopping-out-early-warning-non-completion.md) — related
 - [Remote asynchronous feedback through Lapp produces no significant differences in competency levels compared with in-person synchronous feedback](lapp-remote-asynchronous-feedback-no-competency-difference.md) — related
+- [Tutorial drop-off concentrates in the first six levels, with the 7th tutorial level showing a significantly lower completion ratio](seventh-tutorial-level-completion-barrier.md) — related

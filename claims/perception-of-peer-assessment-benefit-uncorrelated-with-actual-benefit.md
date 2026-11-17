@@ -3,7 +3,7 @@ type: claim
 title: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 description: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 id: perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit
-aliases: [perception-benefit-zero-correlation]
+aliases: [perception-benefit-zero-correlation, perceived-benefit-uncorrelated-with-actual-benefit]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,12 +17,20 @@ sources:
     i: 0
     kind: causal
     rigour: 3
+  - id: dennis-l-sun-2014
+    resource: "https://doi.org/10.1371/journal.pone.0143177"
+    title: "Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)"
+    author: Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 3
 ---
 
 # Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,6 +38,8 @@ sources:
 `q3 i0` The correlation between a student's perceived benefit of peer assessment and their estimated actual benefit was virtually zero (r = .01). [→ Sun DL 2015](#sun-dl-2015)
 
 `q3 i0` Students' perceived benefit of peer assessment was virtually uncorrelated with their estimated actual benefit, r = .01, p = .94. [→ Sun Dennis L. 2015](#sun-dl-2015)
+
+`q3 i0` There was virtually zero correlation between students' perception of peer assessment's benefit and their estimated benefit. [→ Dennis L. Sun 2014](#dennis-l-sun-2014)
 
 ## Evidence
 
@@ -54,6 +64,16 @@ Survey within the crossover experiment asking students to rate peer assessment's
 
 > "there was virtually zero correlation (r = .01, p = .94) between a student's perception of the benefit and the estimated benefit. This lends credence to our concern that surveys may not be the best measure of student learning."
 -->
+
+### Dennis L. Sun 2014
+
+Dennis L. Sun, Naftali Harris, Guenther Walther, and Michael Baiocchi. (2014). Peer assessment enhances student learning. [doi:10.1371/journal.pone.0143177](https://doi.org/10.1371/journal.pone.0143177)
+
+`q3 · i0` · `causal · r3`
+
+Survey and log-analysis component of the RCT: students rated perceived benefit on a 1-5 scale, which the authors correlate with estimated individual benefit. The article reports "virtually zero correlation ( r = .01, p = .94)" despite clearly positive overall benefit.
+
+> "Although the median student reported ﬁnding peer assessment only “somewhat helpful,” there was virtually zero correlation ( r = .01, p = .94) between a student’s perception of the beneﬁt and the estimated beneﬁt."
 
 ## Discussion
 

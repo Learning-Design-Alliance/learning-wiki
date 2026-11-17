@@ -70,3 +70,4 @@ Lawson Test (24 items) summary statistics from Table 4: U1 mean 18.3 (76.3%) and
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Traditional physics content training, even at a conceptually and computationally demanding level, does not by itself improve students' general scientific reasoning ability](traditional-content-training-no-reasoning-transfer.md) — a broader claim this one bears on
 - [Student scientific reasoning gains on the CTSR remained the same when classes moved from two faculty instructors to one faculty instructor plus a Learning Assistant](la-model-maintains-ctsr-gains.md) — related
+- [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related

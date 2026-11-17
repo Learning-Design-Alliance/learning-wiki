@@ -73,3 +73,4 @@ The review reports, citing Fraser and McLaughlin (2018), a survey study of medic
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
 - [Individual anxiety items decrease after simulation, but not all significantly in both sessions](anxiety-item-level-changes-mixed.md) — related
 - [Tutors maintain consistently high positive affect and low negative affect during teaching](tutors-high-positive-affect-low-negative-affect.md) — related
+- [Students' affective responses to project struggles and successes are complex, making POS emotive scale responses difficult to interpret](complex-affect-complicates-emotive-scales.md) — related

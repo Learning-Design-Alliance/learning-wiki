@@ -57,3 +57,4 @@ Quasi-experimental comparison in E&M 1 at CU: half of the class (25 students) to
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
 - [OSU students scored dramatically higher on multiple-choice than free-response CUE versions for some questions, with a 7-fold increase on the dipole-moment question](cue-fr-mc-score-discrepancies-osu.md) — related
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
+- [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related

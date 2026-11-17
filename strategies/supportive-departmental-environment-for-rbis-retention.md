@@ -48,6 +48,7 @@ Beyond individual specialist support, the article identifies a departmental envi
 ## Related Strategies
 
 - [Support faculty adoption and retention of RBIS through direct in-course help from a trained discipline-based science education specialist during initial implementation](direct-specialist-support-during-rbis-implementation.md)
+- [Speculative recommendations for units adopting paired teaching to disseminate RBIS](paired-teaching-implementation-recommendations.md)
 
 ## Examples
 -

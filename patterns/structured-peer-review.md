@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (33 for, 23 mixed) · 64 studies (22 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 64 report an effect size · 42 claims rest on one study
+> **Evidence** · 56 claims (33 for, 23 mixed) · 65 studies (23 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 15 of 65 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 

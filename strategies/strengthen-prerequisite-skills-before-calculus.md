@@ -44,6 +44,7 @@ The article recommends building strong foundations in prerequisite skills, stati
 
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Offer a sophomore-year mathematical physics course preparing students for the mathematics of quantum physics](sophomore-math-physics-prerequisite-for-qp.md)
+- [Make mathematization an explicit part of the introductory physics curriculum rather than relying on prerequisite algebra courses](explicit-mathematization-in-introductory-physics-curriculum.md)
 
 ## Examples
 -

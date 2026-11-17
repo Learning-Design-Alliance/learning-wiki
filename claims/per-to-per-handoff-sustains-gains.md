@@ -49,3 +49,4 @@ Observational comparison of BEMA pre/post matched scores for two semesters of th
 - [Upper-division students who had freshman Tutorials score about 15 points higher on the BEMA than comparable upper-division students without Tutorials](freshman-tutorials-persist-upper-division-bema.md) — related
 - [Conceptual gains from the reformed freshman course fade only slightly (~5%) over the roughly 3.6 semesters before upper-division E&M](small-bema-fade-freshman-to-junior.md) — related
 - [The Tutorial-versus-non-Tutorial BEMA difference persists across all six topical question clusters, with no significant within-cluster change from freshman to upper-division](bema-subtopic-clusters-persist.md) — related
+- [Students' effect sizes increase by 0.154 for every term a faculty member has previously taught the course with LAs, a statistically significant difference](lasso-faculty-la-experience-effect.md) — related

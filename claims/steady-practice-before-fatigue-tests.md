@@ -57,3 +57,4 @@ The correlations show only that the class's rank order had settled after five pr
 - [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related
 - [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
 - [Settling on final age-range or universal test scales is premature while competing test systems correlate over 90 per cent](premature-universal-test-scales-high-correlations.md) — related
+- [Test fatigue does not affect item difficulty among students who devote effort, but students who quit midway show order effects](fatigue-no-effect-effortful-students-order-effects-quitters.md) — related

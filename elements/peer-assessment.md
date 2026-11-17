@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (11 for, 11 mixed, 1 against) · 21 studies (8 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (11 for, 11 mixed, 1 against) · 22 studies (9 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 19 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.

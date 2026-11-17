@@ -63,6 +63,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 - [Act It Out](../strategies/act_it_out.md) — the embodied performance variant of the same perspective-taking mechanism
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-reading work on characters' social worlds improves the quality of perspective models
 - [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
+- [Use fiction-based cases — short stories with correct or deliberately mixed science, dialogues, and novel-versus-movie comparisons — to teach physics and astronomy content](fiction-based-case-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — supplies the shared text

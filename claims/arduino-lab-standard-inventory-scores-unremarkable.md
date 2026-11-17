@@ -54,3 +54,5 @@ The authors' report on their two pilot implementations (Spring 2011 and Spring 2
 - [A physics course focused on epistemological learning can attain strong conceptual gains comparable to active-engagement reforms](epistemological-focus-preserves-conceptual-gains.md) — related
 - [Awarding small amounts of credit for post-test performance coincided with a significant pre/post-Fall-2010 difference in RT/TL FCI gains but not RT/PERL gains](credit-incentive-affected-rt-tl-but-not-rt-perl-gains.md) — related
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
+- [The 2014 AAPT goals for undergraduate physics lab curriculum are skills-focused and removed conceptual learning as an outcome, relative to the 1998 goals](aapt-2014-lab-goals-skills-focused.md) — related
+- [Experimental and control cohorts were statistically equivalent on conceptual physics diagnostics (FCI, MBT, BEMA) at entry and across the course](comparison-cycles-diagnostics-equivalent.md) — related

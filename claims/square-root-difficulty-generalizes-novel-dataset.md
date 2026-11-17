@@ -49,3 +49,4 @@ Exploratory log analysis of the Motivation for Learning HS Geometry 2012 dataset
 - [The redesigned tutor's advantage was driven by post-test items requiring square-root application, not by items that did not](gains-driven-by-square-root-items.md) — related
 - [A hypothesis-driven KC model splitting forward/backward only for circle and square area items predicts student performance best on the novel dataset](sqrt-skill-cir-sq-distinct-best-fit.md) — related
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related
+- [Backward reasoning problems are significantly more difficult than forward reasoning problems on cross product direction questions](backward-reasoning-harder-than-forward-cross-product.md) — possibly the same claim (merge candidate)

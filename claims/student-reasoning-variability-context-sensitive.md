@@ -50,3 +50,4 @@ Case study analysis showed Xinmiao's representation of multi-charge interaction 
 - [Students connect magnetic field line knowledge to reason about electric field lines](magnetic-to-electric-field-line-transfer.md) — a narrower finding that bears on this claim
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
 - [Guanhua developed his understanding of superposition of electric forces during the interview, showing forces act simultaneously](superposition-understanding-developed-in-interview.md) — a narrower finding that bears on this claim
+- [Correctness of field vectors decreases by about 20% and direction errors more than double from the electric field quiz to the magnetic field quiz](correctness-drop-direction-errors-double-magnetic.md) — related

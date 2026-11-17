@@ -49,6 +49,7 @@ The article applies the Science Education Initiative model, an iterative process
 - [Action Research](action-research.md)
 - [Implementation practices for in-class tutorials in upper-division courses: sell students on group work, distribute worksheets just prior to use, and include challenge problems](upper-division-tutorial-implementation-practices.md)
 - [Use validated conceptual diagnostics alongside traditional exams to assess upper-division course transformation](use-validated-conceptual-diagnostics-upper-division.md)
+- [Use the EMF to inform explicit instruction and assessment of troubleshooting skills in laboratory courses](emf-informs-troubleshooting-instruction-and-assessment.md)
 
 ## Examples
 -

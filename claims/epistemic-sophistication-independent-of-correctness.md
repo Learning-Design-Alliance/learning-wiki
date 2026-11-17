@@ -53,3 +53,4 @@ Methodological rationale in the study section explains case selection from the v
 - [Case study: a student's physical-mapping framing of the work integral resisted change during group argument](case-study-framing-inertia-work-paths.md) — related
 - [A student's persistent problem-solving impasse can be stabilized by an epistemological stance rather than by a conceptual or skill deficit](impasse-stabilized-by-epistemological-stance.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
+- [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — a narrower finding that bears on this claim

@@ -55,7 +55,8 @@ The authors developed a modern physics curriculum whose aims are to "make the ph
 - [Most students hold mixed rather than consistent quantum or realist perspectives on measurement and uncertainty across multiple contexts.](../claims/mixed-quantum-realist-perspectives-majority.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Scaffold students toward meta-reasoning about when classical intuitions apply to quantum systems, building on what some students do spontaneously](scaffold-meta-reasoning-classical-quantum-boundary.md)
 
 ## Examples
 -

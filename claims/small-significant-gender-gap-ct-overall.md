@@ -72,3 +72,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [The flipped format alleviates the gender disparity in exam scores: female students underperform males in the standard class but do not differ significantly on two of three exams in the flipped class](flipped-format-alleviates-gender-disparity-exam-scores.md) — a narrower finding that bears on this claim
 - [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite
 - [The RCI shows a gender bias absent from the same course's homework, exam, and ATAR measures](rci-gender-bias-not-in-other-assessment.md) — a narrower finding that bears on this claim
+- [Female players significantly outperform male players on tutorial scores even though males play more games per day](females-outperform-males-tutorial-scores.md) — reports the opposite

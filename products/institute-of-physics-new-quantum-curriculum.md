@@ -34,4 +34,4 @@ The Institute of Physics New Quantum Curriculum is a freely available online int
 
 ## Key Sources
 - Kohnle A, Bozhinova I, Browne D, Everitt M, Fomins A, Kok P, Kulaitis G, Prokopas M, Raine D and Swinbank E. (2013). A new introductory quantum mechanics curriculum. https://quantumphysics.iop.org
-- Kohnle, A., Baily, C., Campbell, A., Korolkova, N., and Paetkau, M. J. (2014). Enhancing student learning of two-level quantum systems with interactive simulations. https://www.st-andrews.ac.uk/physics/quvis
+- Kohnle, A., Baily, C., Campbell, A., Korolkova, N., and Paetkau, M. J. (2014). Enhancing student learning of two-level quantum systems with interactive simulations. https://www.st-andrews.ac.uk/physics/quvis. [doi:10.1119/1.4913786](https://doi.org/10.1119/1.4913786)

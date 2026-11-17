@@ -62,3 +62,4 @@ Random-effects meta-analytic correlations (corrected for reliability, robust var
 - [Correlations among T2 variables support the hypothesized ability-motivation-behavior sequence, with SDL ability positively correlated with autonomous motivation and motivation with physical activity.](t2-correlations-support-ability-motivation-behavior-sequence.md) — related
 - [Overplacing oneself above peers correlates with lower intrinsic motivation and identified regulation and higher amotivation](overplacement-negative-correlation-motivation.md) — related
 - [Situational specificity of regulation types increases along the motivational continuum from external to intrinsic regulation](specificity-increases-along-motivational-continuum.md) — related
+- [Autonomy was very highly correlated with the proportion of correct physics descriptions, r = .61](autonomy-correct-physics-descriptions-correlation.md) — related

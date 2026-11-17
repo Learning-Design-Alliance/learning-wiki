@@ -71,3 +71,5 @@ Authors' interpretation of the contrast between midterm and CURrENT performance:
 - [Most Institution X students incorrectly believed the divergence of the steady-state current density was non-zero inside a current-carrying wire](x-students-nonzero-divergence-j-misconception.md) — related
 - [The most common and persistent student error is automatically associating positive divergence with locations where field lines or vectors spread apart, persisting despite explicit instruction](spreading-field-lines-associated-with-nonzero-divergence.md) — related
 - [Second-year students calculate divergence and curl at roughly 60% correctness across coordinate systems when minor errors are allowed](students-calculate-div-curl-60-percent.md) — related
+- [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
+- [Approximately 15% of students on each quiz placed at least one field arrow at a source rather than the observation location](source-placement-fifteen-percent-quizzes.md) — related

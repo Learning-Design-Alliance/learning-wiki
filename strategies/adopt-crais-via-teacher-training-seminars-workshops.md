@@ -49,6 +49,7 @@ The article recommends that mathematics teaching move away from abstract-only in
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
 - [Provide in-service training equipping mathematics teachers with game- and poem-based teaching skills](in-service-training-games-poems-math-teachers.md)
 - [Sponsor teachers to attend workshops and seminars on the effective use of the demonstration teaching method](teacher-workshops-on-demonstration-method.md)
+- [Distribute stimulating teaching and learning tasks coupled with real equipment through professional development workshops for teachers](stimulating-tasks-with-real-equipment-distribution.md)
 
 ## Examples
 -

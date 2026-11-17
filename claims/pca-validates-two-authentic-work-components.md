@@ -48,3 +48,4 @@ Psychometric validation study of the Authentic Online Work Rubric using lesson-l
 ## Related Claims
 - [Item response theory yields lesson-level standardized coefficients for both rubric subscales](irt-lesson-level-authenticity-coefficients.md) — related
 - [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
+- [Principal component analysis finds the E-CLASS does not exhibit strong factors, consistent with its design targeting many distinct learning goals](eclass-pca-no-strong-factors.md) — related
