@@ -57,6 +57,7 @@ In its Linking Evidence to Action section, the review recommends that clinical e
 - [Regularly evaluate mentoring practices with a dual-purpose questionnaire and feed results into mentor training and organisational revision](regular-mentoring-evaluation-feeds-faculty-development.md)
 - [Supplement QStream programs with other implementation techniques such as audit and feedback to sustain behaviour change](supplement-qstream-with-audit-and-feedback.md)
 - [Use a multifaceted long-duration training package combining classroom, mentorship, on-the-job support, leadership and audit for up-skilling non-physician clinicians](multifaceted-long-duration-npc-upskilling-strategy.md)
+- [Establish remote STEM mentoring for girls by matching tailored pairs, choosing proven communication tools, and educating both sides on role-specific challenges](remote-mentoring-implementation-lessons.md)
 
 ## Examples
 -

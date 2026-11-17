@@ -12,16 +12,16 @@ evidence_strength: weak
 newest_evidence: 2012
 sources:
   - id: marcos-d-caballero-2011
-    resource: "https://doi.org/10.48550/arXiv.1112.5069"
-    title: "Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.48550/arXiv.1112.5069](https://doi.org/10.48550/arXiv.1112.5069)"
+    resource: "https://doi.org/10.1063/1.3679982"
+    title: "Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.1063/1.3679982](https://doi.org/10.1063/1.3679982)"
     author: Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz
     q: 3
     i: "?"
     kind: design
     rigour: 2
   - id: caballero-2012
-    resource: "https://doi.org/10.48550/arXiv.1107.5216"
-    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)"
+    resource: "https://doi.org/10.1103/physrevstper.8.020106"
+    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)"
     author: Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A.
     q: 2
     i: "?"
@@ -45,7 +45,7 @@ sources:
 
 ### Marcos D. Caballero 2011
 
-Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.48550/arXiv.1112.5069](https://doi.org/10.48550/arXiv.1112.5069)
+Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.1063/1.3679982](https://doi.org/10.1063/1.3679982)
 
 `q3 · i?` · `design · r2`
 
@@ -55,7 +55,7 @@ Weekly online homework completion rates compared for analytic versus computation
 
 ### Caballero 2012
 
-Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)
+Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)
 
 `q2 · i?` · `design · r2`
 
@@ -76,3 +76,5 @@ Comparison of weekly computational homework scores against analytic homework sco
 - [After a semester of computational homework, about 60% of introductory mechanics students successfully modeled a novel central force problem in a proctored individual evaluation](computational-evaluation-majority-success-intro-mechanics.md) — related
 - [After computational homework, many introductory mechanics students could model a new physical situation they had no prior experience with](computational-homework-novel-situation-modeling.md) — related
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related
+- [Sandwiching computational tasks between analytical work in homework problems raised computational task completion from 25-40% to 80-90% of students](sandwiching-computational-tasks-raises-completion.md) — related
+- [Roughly a third of 9th-grade Modeling Instruction students successfully complete an unaided VPython computational model of a baseball in motion](third-of-ninth-graders-succeed-vpython-proctored-model.md) — related

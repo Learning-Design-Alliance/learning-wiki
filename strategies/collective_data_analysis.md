@@ -70,6 +70,7 @@ Collective analysis converts interpretation from a private expert task into a [c
 - [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 - [Build coherent programmatic research efforts through collaborative theme identification](collaborative-programmatic-research-efforts.md)
 - [Involve teachers in action research and collaborative inquiry with higher-education academics to improve science teaching](teacher-action-research-collaborative-inquiry-strategy.md)
+- [Co-design the guided inquiry lesson package with the classroom teacher and collect multiple data sources](co-design-guided-inquiry-lesson-package-teachers.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the vehicle for surfacing and negotiating competing interpretations

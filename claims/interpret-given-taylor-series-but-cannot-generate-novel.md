@@ -49,3 +49,4 @@ The authors combine the written Taylor series pretest data with Year 1 teaching 
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Clinically interviewed students recognize the Taylor series as a relevant physics tool but lack criteria for when to use it and how many terms to keep](students-lack-truncation-criteria-taylor-series.md) — related
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
+- [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — a narrower finding that bears on this claim

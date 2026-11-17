@@ -48,3 +48,4 @@ Phase 2 quasi-experiment: all nine classes received weekly TIPS homework for sev
 - [Teacher outreach on top of interactive homework produces a large increase in parent–teacher bidirectional communication among 8th grade parents](teacher-outreach-increases-bidirectional-communication.md) — related
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — related
 - [LA-based personalized feedback increased the proportion of students attempting practice problems during the intervention phase compared to generic messages](la-personalized-feedback-increased-practice-attempt-proportion.md) — related
+- [In-class quizzes taken directly from homework problems produced about 15% greater homework completion than conceptually related open-journal quizzes](homework-based-quizzes-15-percent-greater-completion.md) — related

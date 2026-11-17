@@ -49,3 +49,4 @@ Kruskal-Wallis test on survey data (χ2(3) = 17.95, p < 0.001) across desired ca
 - [Most biology graduate students hold synergistic perceptions of the research–teaching nexus](biology-grad-students-synergistic-rtn-perceptions.md) — related
 - [Graduate students with hybrid researcher-teacher identities hold more synergistic RTN perceptions than those with researcher identities](hybrid-identity-more-synergistic-rtn.md) — related
 - [No significant difference in RTN perceptions between master's and doctoral students](no-degree-type-rtn-difference.md) — related
+- [Astrobites' daily readership includes an estimated >150 undergraduate students in physical-science fields, most of whom aspire to research careers](astrobites-undergraduate-readership-estimate.md) — related

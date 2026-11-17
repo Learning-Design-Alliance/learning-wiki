@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (56 for, 34 mixed, 10 against) · 101 studies (40 causal, 20 quant-synthesis, 12 review, 11 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 26 of 101 report an effect size · 86 claims rest on one study
+> **Evidence** · 101 claims (57 for, 34 mixed, 10 against) · 102 studies (40 causal, 20 quant-synthesis, 12 review, 11 theoretical, 8 design, 7 qualitative, 4 associational), `q1`–`q4` · 26 of 102 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+W] — attached 2026-11-03 from Dejonckheere et al. (2016), which proposed "Three-phase structure for inquiry-based preschool science activities".
 - [In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions](../claims/sequential-inquiry-reduces-magnetic-pole-misconceptions.md) [+W] — attached 2026-11-03 from Okulu et al. (2018), which proposed "Support inquiry with dialogues and discussions among students during the activity, since an activity is just a tool that serves for the inquiries and experiences of the students."; tests this page's relationship.
 - [Students given minimal guidance engaged in discovery learning minimally, with low overall simulator usage](../claims/minimal-guidance-low-simulator-usage.md) [+W] — attached 2026-11-09 from Xu J et al. (2018), which proposed "Discovery learning with simulators requires some form of guidance to ensure adequate engagement".
+- [Students observed suspended, jamming cornstarch crystals in oobleck, illustrating its non-Newtonian origins](../claims/microscopy-oobleck-suspended-crystals.md) [+W] — attached 2026-11-17 from D. R. Dounas-Frazer et al. (2012), which proposed "Three-phase pattern: develop a model, test the model, investigate deviations from the model".
 
 ## Objective and learner-valued goal
 

@@ -54,4 +54,4 @@ A reformed version of the third course in Maryland's introductory biology sequen
 -
 
 ## Key Sources
-- Hall, K. L., Watkins, J. E., Coffey, J. E., Cooke, T. J., & Redish, E. F. (2011). Examining the Impact of Student Expectations on Undergraduate Biology Education Reform. AERA 2011. http://umdberg.pbworks.com/w/page/8039417/FrontPage
+- Hall, K. L., Watkins, J. E., Coffey, J. E., Cooke, T. J., & Redish, E. F. (2011). Examining the Impact of Student Expectations on Undergraduate Biology Education Reform. AERA 2011. http://umdberg.pbworks.com/w/page/8039417/FrontPage. [doi:10.48550/arxiv.1105.6349](https://doi.org/10.48550/arxiv.1105.6349)

@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2008
 sources:
   - id: s-b-mckagan-2008
-    resource: "https://doi.org/10.48550/arXiv.0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
+    resource: "https://doi.org/10.1119/1.2885199"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: s-b-mckagan-2008-2
-    resource: "https://doi.org/10.48550/arXiv.0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
+    resource: "https://doi.org/10.1119/1.2885199"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)
 
 `q2 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ End-of-term perception survey in the reformed modern physics course with N = 173
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)
 
 `q2 · i?` · `design · r3`
 
@@ -67,3 +67,4 @@ Comment analysis from the same end-of-term survey: 35% of respondents (N = 61) v
 - [Participants rated the NoTSUS course and full immersion simulation highly, with a mean Likert score of 4.5 out of 5 across survey parameters](notsus-course-positive-educational-value.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
+- [A large majority of students in both transformed semesters rated the course aspects as useful or very useful for their learning](transformed-em-ii-student-approval.md) — related

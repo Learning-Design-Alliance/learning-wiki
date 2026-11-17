@@ -11,16 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: mckagan-2010
-    resource: "https://doi.org/10.48550/arXiv.1007.2015"
-    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020121"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)"
     author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
     q: 1
     i: "?"
     kind: design
     rigour: 3
   - id: mckagan-2010-2
-    resource: "https://doi.org/10.48550/arXiv.1007.2015"
-    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)"
+    resource: "https://doi.org/10.1103/physrevstper.6.020121"
+    title: "McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)"
     author: "McKagan, S. B., Perkins, K. K., & Wieman, C. E."
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### McKagan 2010
 
-McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)
 
 `q1 · i?` · `design · r3`
 
@@ -52,7 +52,7 @@ Qualitative interview study of 8 faculty members (7 physics, 1 chemistry) asked 
 
 ### McKagan 2010 (2)
 
-McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.48550/arXiv.1007.2015](https://doi.org/10.48550/arXiv.1007.2015)
+McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. [doi:10.1103/physrevstper.6.020121](https://doi.org/10.1103/physrevstper.6.020121)
 
 `q1 · i?` · `design · r3`
 
@@ -69,3 +69,5 @@ Some faculty listed measurement as among the most important concepts while sever
 - [In end-of-term reflective essays, the topics students most frequently cited as having influenced their perspectives on quantum physics were the single-quanta experiments with light and matter.](single-quanta-experiments-most-cited-in-reflective-essays.md) — related
 - [Some students spontaneously hold a mixed wave-particle (pilot-wave-like) ontology without awareness of formal pilot-wave interpretations](spontaneous-pilot-wave-mixed-ontology-students.md) — related
 - [Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor](student-interpretation-responses-align-with-instructor-explicit-teaching.md) — related
+- [Faculty did not emphasize content-specific goals but valued deep physics knowledge and expert-like habits of mind during experiments](faculty-value-expert-like-habits-not-content-goals.md) — related
+- [Faculty consensus produced four categories of learning goals for the advanced lab: modeling, design, communication, and technical lab skills](four-learning-goal-categories-modeling-design-communication-technical.md) — related

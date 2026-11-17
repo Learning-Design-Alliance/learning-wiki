@@ -49,3 +49,4 @@ Video-based skills scores and operative times plotted per session for the 3 resi
 - [In one repeated-training study, operation scores rose and operation times fell across 8 sessions on 3D-printed LRYGB models, with residents approaching intermediate-level performance and learning curves plateauing after 4–5 sessions](learning-curve-plateau-4-5-sessions-3d-lrygb.md) — related
 - [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related
 - [Learning curves across repeated training sessions show no constant trend among participants](learning-curves-repeated-training-no-constant-trend.md) — related
+- [Performance curves across 10 consecutive test applications were generally flat, with scores improving slightly then decaying and oscillating between sessions](flat-performance-curves-ten-applications.md) — related

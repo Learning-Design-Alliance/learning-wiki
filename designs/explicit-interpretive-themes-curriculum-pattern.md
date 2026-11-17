@@ -58,4 +58,4 @@ A course-level design pattern for introductory modern physics in which questions
 -
 
 ## Key Sources
-- Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. https://www.compadre.org/PER/
+- Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. https://www.compadre.org/PER/. [doi:10.48550/arxiv.1108.5225](https://doi.org/10.48550/arxiv.1108.5225)

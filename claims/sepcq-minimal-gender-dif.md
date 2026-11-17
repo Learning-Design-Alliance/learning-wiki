@@ -49,3 +49,4 @@ DIF analysis with women (N = 358) as reference group and men (N = 90) as focal g
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
 - [Differential item functioning appeared for home language (item 16) and teaching subject (items 2 and 3), but differential test functioning showed no overall group benefit](ctck-dif-dtf-results.md) — related
 - [The vast majority of ACORNS items showed no differential item functioning by gender; only the Prosimian and Penguin items showed KC performance differences](dif-limited-to-prosimian-penguin-items.md) — related
+- [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related

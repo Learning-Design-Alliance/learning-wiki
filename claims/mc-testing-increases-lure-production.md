@@ -80,3 +80,4 @@ In the SAT II experiment, lure production on the final cued recall test rose fro
 - [Semantic integration of memorized words induces false memory: false-alarm rates are higher to semantically related lure probes than to unseen new probes](semantic-integration-false-memory-lure-probes.md) — related
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
+- [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related

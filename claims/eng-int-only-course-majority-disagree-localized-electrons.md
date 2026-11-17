@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2011
 sources:
   - id: baily-2011
-    resource: "https://doi.org/10.48550/arXiv.1108.5225"
-    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)"
+    resource: "https://doi.org/10.1063/1.3680005"
+    title: "Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)"
     author: Baily, C. and Finkelstein, N. D.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2011
 
-Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.48550/arXiv.1108.5225](https://doi.org/10.48550/arXiv.1108.5225)
+Baily, C. and Finkelstein, N. D. (2011). Interpretive Themes in Quantum Physics: Curriculum Development and Outcomes. [doi:10.1063/1.3680005](https://doi.org/10.1063/1.3680005)
 
 `q2 · i?` · `causal · r1`
 
@@ -53,3 +53,4 @@ Post-instruction survey comparison across four large-lecture modern physics cour
 - [Adding general discussion of interpretive themes late in the course does not shift students away from realist stances on atomic electrons](late-interpretive-discussion-insufficient-to-shift-realist-stance.md) — related
 - [Many students in quantum physics courses endorse mechanistic (Newtonian) statements about electrons and atomic structure that quantum theory contradicts](students-endorse-mechanistic-qp-statements.md) — related
 - [Incoming engineering students across three courses agreed at nearly identical rates (~45%) that quantum probabilistic nature reflects measurement limitations, while physics majors were significantly more favorable before instruction.](incoming-realist-agreement-engineering-versus-physics-majors.md) — related
+- [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related

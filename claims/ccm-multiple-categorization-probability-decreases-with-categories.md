@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2012
 sources:
   - id: steven-f-wolf-2012
-    resource: "https://doi.org/10.48550/arXiv.1201.6601"
-    title: "Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.48550/arXiv.1201.6601](https://doi.org/10.48550/arXiv.1201.6601)"
+    resource: "https://doi.org/10.1103/physrevstper.8.010124"
+    title: "Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.1103/physrevstper.8.010124](https://doi.org/10.1103/physrevstper.8.010124)"
     author: Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer
     q: 1
     i: "?"
     kind: associational
     rigour: 1
   - id: steven-f-wolf-2012-2
-    resource: "https://doi.org/10.48550/arXiv.1201.6601"
-    title: "Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.48550/arXiv.1201.6601](https://doi.org/10.48550/arXiv.1201.6601)"
+    resource: "https://doi.org/10.1103/physrevstper.8.010124"
+    title: "Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.1103/physrevstper.8.010124](https://doi.org/10.1103/physrevstper.8.010124)"
     author: Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer
     q: 1
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Steven F. Wolf 2012
 
-Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.48550/arXiv.1201.6601](https://doi.org/10.48550/arXiv.1201.6601)
+Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.1103/physrevstper.8.010124](https://doi.org/10.1103/physrevstper.8.010124)
 
 `q1 · i?` · `associational · r1`
 
@@ -52,7 +52,7 @@ Model-fitting result from the authors' CCM simulations: among three variants of 
 
 ### Steven F. Wolf 2012 (2)
 
-Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.48550/arXiv.1201.6601](https://doi.org/10.48550/arXiv.1201.6601)
+Steven F. Wolf, Daniel P. Dougherty, and Gerd Kortemeyer. (2012). An empirical approach to interpreting card-sorting data. [doi:10.1103/physrevstper.8.010124](https://doi.org/10.1103/physrevstper.8.010124)
 
 `q1 · i?` · `associational · r1`
 

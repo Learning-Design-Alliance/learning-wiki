@@ -48,3 +48,4 @@ Descriptive comparison across the five professors' classes from the questionnair
 ## Related Claims
 - [About 69% of junior/senior students in introductory quantum physics courses demonstrate an adequate level of quantum thinking on a 29-item questionnaire](quantum-thinking-69-percent-college-survey.md) — related
 - [Physics faculty attribute student difficulty in quantum physics chiefly to its abstract, non-intuitive nature and, for some, to heavy mathematical demands](faculty-attribute-qp-difficulty-abstractness-math.md) — related
+- [Few students recognize that classical uncertainty in a Plinko game is a false analogy for quantum uncertainty, with course-dependent reasoning about the two systems.](plinko-false-analogy-rarely-recognized.md) — related

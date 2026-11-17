@@ -177,3 +177,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Manipulative materials foster pupils' love for reading more than visual materials, despite pupils being predominantly visual learners.](manipulative-materials-foster-reading-love.md) — related
 - [Teachers perceive that combining movement with academic content consolidates learning, particularly for practice-friendly concepts such as multiplication tables](pal-movement-academic-consolidates-learning-perceived.md) — related
 - [A student checked his algebraic results against physical expectations and explicitly connected coordinate system, equation, and physical situation.](student-checks-math-against-physical-intuition.md) — related
+- [Explicit, separately numbered comparison questions in activities increased students' detailed engagement with connections between mathematical and simulation representations](explicit-comparison-questions-link-representations.md) — related

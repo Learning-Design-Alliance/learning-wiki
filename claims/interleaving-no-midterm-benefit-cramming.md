@@ -54,3 +54,4 @@ Analysis of two midterm exams in the same experiment, completed in individual an
 - [Interleaving disproportionately benefited students with below-average or up-to-0.96-SD-above-average midterm scores, though ceiling effects may contribute](interleaving-disproportionately-benefits-lower-midterm-scores.md) — related
 - [On the midterm, interleaving significantly reduced the gap between URM and non-URM students relative to blocked homework](interleaving-reduces-urm-gap-midterm.md) — related
 - [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](interleaving-final-exam-main-effect.md) — related
+- [The negative homework benefit for lower-aptitude students is cumulative: it appears on the third midterm and the cumulative final exam but not on the first two midterms](cumulative-negative-homework-benefit-lower-aptitude.md) — related

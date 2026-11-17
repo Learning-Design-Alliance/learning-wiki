@@ -45,4 +45,4 @@ Analysis of survey Table 3 time-use data from 71 respondents. The authors report
 
 
 ## Related Claims
--
+- [The author hypothesizes that changing from open-ended conversational prompts to task-based assignment prompts caused students to frame the activity as homework rather than conversation](framing-hypothesis-prompt-change-homework-frame.md) — related

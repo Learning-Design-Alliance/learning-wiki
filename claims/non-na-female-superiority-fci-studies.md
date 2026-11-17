@@ -51,3 +51,5 @@ Descriptive observation from the forest plot of 38 pooled studies. The article i
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — reports the opposite
 - [Study location (NA vs non-NA) significantly moderates the FCI gender gap, with wider gaps in NA-based studies](study-location-moderates-fci-gender-gap.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
+- [Male students outperform female students on practically all individual FCI items, before and after instruction](males-outperform-on-almost-all-fci-items.md) — related
+- [Students at three UK universities show a statistically significant pre-instruction gender gap on the FCI, with males outperforming females](pre-instruction-fci-gender-gap-three-uk-universities.md) — reports the opposite

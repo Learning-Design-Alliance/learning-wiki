@@ -51,3 +51,4 @@ Pre/post SAAB summary statements from five 2-yr campuses (n = 73), analyzed by W
 - [Community college CREATE students made small significant reductions in illogical justifications on the Critical Thinking Test, with no gains in logical statements](cc-create-ctt-illogical-justification-gains.md) — related
 - [Nonmajors in community college CREATE courses made larger self-rated gains than majors on SAAB and SALG measures](cc-create-nonmajors-gains-exceed-majors.md) — related
 - [SALG scores rose from pre-test to post-test across all categories among students in first-time community college CREATE courses, with the largest changes in understanding and skills, in one group with no comparison group](cc-create-salg-self-rated-gains.md) — related
+- [Students assessed that they made great gains in understanding real scientific research and real world issues](salg-great-gains-real-world-research.md) — related

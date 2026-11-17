@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: jessica-watkins-2010
     resource: "https://doi.org/10.48550/arXiv.1109.4983"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative coding of 75 exam, homework, and worksheet questions from two semesters of the course yielded four categories of mathematics and physics use, each conveying different messages about how biology students should use these tools. [→ Jessica Watkins 2010](#jessica-watkins-2010)
@@ -53,3 +54,4 @@ Qualitative analysis of course materials from two semesters of the reformed Orga
 - [A typical IPLS exam problem can be physically authentic yet not biologically authentic, because it does not require using physics tools for biological ends](physically-authentic-not-biologically-authentic.md) — related
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
+- [Interdisciplinary course reform benefits when problems are selected for biological authenticity, meaning solving the physics problem yields deeper understanding of why a biological system behaves as it does.](biological-authenticity-criterion-interdisciplinary-problems.md) — related

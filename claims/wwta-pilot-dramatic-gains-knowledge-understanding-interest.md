@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: goodman-2012
     resource: "https://doi.org/10.48550/arXiv.1201.1285"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` WWTA had dramatic effects across the board, increasing knowledge, understanding, and interest in science, and even increasing student interest in using real, physical, telescopes. [→ Goodman 2012](#goodman-2012)
@@ -52,3 +53,4 @@ Quasi-experimental pilot with two groups of ~75 sixth-grade students: a treatmen
 - [Problem based learning, with or without concept cartoons, raises sixth graders' inquiry learning skill perceptions more than the standard science programme](pbl-raises-inquiry-skill-perceptions-middle-school.md) — related
 - [The MobiLAP intervention significantly increased ninth-graders' attitudes and perceptions of self as citizen scientists (Ideas about Citizen Science subscale)](mobilap-increased-citizen-science-identity.md) — related
 - [After the LA-supported class experience, four students were interested in declaring a middle school science specialty, and LAs' role modeling helped recruit the next LA cohort](la-experience-supports-stem-teaching-recruitment.md) — related
+- [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related

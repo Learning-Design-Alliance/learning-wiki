@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: benjamin-w-dreyfus-2011
-    resource: "https://doi.org/10.48550/arXiv.1106.5801"
-    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)"
+    resource: "https://doi.org/10.1063/1.3680024"
+    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)"
     author: Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Benjamin W. Dreyfus 2011
 
-Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)
+Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -51,3 +51,4 @@ In the interview data, when explaining how energy is stored in ATP the student i
 - [Students may not spontaneously integrate energy concepts across physics and biology under ordinary instruction, even with reasonably sophisticated conceptual understanding](energy-integration-not-spontaneous-under-ordinary-instruction.md) — a broader claim this one bears on
 - [Students' epistemologies about math-physics-biology connections can shift through biologically authentic instruction, though many introductory biology students initially see no connection](student-epistemology-shifts-interdisciplinary-biology.md) — related
 - [A student who calls microscopic and macroscopic energy incommensurable nonetheless explains microscopic-to-macroscopic energy conversion in non-biological physics contexts](context-dependent-micro-macro-energy-conversion.md) — related
+- [Students perceive how each scientific discipline bounds the system of interest, and this perception shapes how they justify cross-disciplinary reasoning about ATP and bond energy](disciplinary-system-bounding-shapes-student-justifications.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: marcos-daniel-caballero-2011
     resource: "https://doi.org/10.48550/arXiv.1112.5593"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Marcos Daniel Caballero 2011 (2): no comparison group (read from the study by two models, 2026-11-16)
 
 ## Subclaims
@@ -72,3 +73,4 @@ A final proctored lab assignment (Table 6) used a "partially constructed program
 - [In a large introductory mechanics course, the majority of students (60.4%) successfully completed a proctored computational modeling evaluation on a novel central force problem after a semester of computational homework.](computational-evaluation-majority-success-intro-mechanics.md) — a narrower finding that bears on this claim
 - [Students solved analytic and computational homework problems with similar success rates (84.6% vs 85.8%)](analytic-vs-computational-homework-equal-success.md) — related
 - [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related
+- [Roughly a third of 9th-grade Modeling Instruction students successfully complete an unaided VPython computational model of a baseball in motion](third-of-ninth-graders-succeed-vpython-proctored-model.md) — related

@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (55 for, 30 mixed, 5 against) · 51 studies (31 causal, 12 quant-synthesis, 4 design, 3 review, 1 associational), `q1`–`q4` · 16 of 51 report an effect size · 89 claims rest on one study
+> **Evidence** · 90 claims (55 for, 30 mixed, 5 against) · 52 studies (32 causal, 12 quant-synthesis, 4 design, 3 review, 1 associational), `q1`–`q4` · 16 of 52 report an effect size · 88 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.

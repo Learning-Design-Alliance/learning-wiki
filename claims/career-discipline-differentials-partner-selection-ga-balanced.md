@@ -69,3 +69,4 @@ The editorial reports that in the Eberle et al. study "a group awareness interve
 - [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md) — related
 - [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md) — related
 - [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — related
+- [The Cockcroft Institute offered 243 contact-hours of lectures over three years and currently enrolls 46 PhD students](cockcroft-243-contact-hours-46-phd-students.md) — related

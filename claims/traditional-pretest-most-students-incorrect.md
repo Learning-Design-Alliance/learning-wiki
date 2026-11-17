@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: hawkins-2011
-    resource: "https://doi.org/10.48550/arXiv.1107.1825"
-    title: "Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M. (2011). Probing Student Understanding With Alternative Questioning Strategies. Originally published 2006. [doi:10.48550/arXiv.1107.1825](https://doi.org/10.48550/arXiv.1107.1825)"
+    resource: "https://doi.org/10.1063/1.3680031"
+    title: "Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M. (2011). Probing Student Understanding With Alternative Questioning Strategies. Originally published 2006. [doi:10.1063/1.3680031](https://doi.org/10.1063/1.3680031)"
     author: "Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M."
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Hawkins 2011
 
-Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M. (2011). Probing Student Understanding With Alternative Questioning Strategies. Originally published 2006. [doi:10.48550/arXiv.1107.1825](https://doi.org/10.48550/arXiv.1107.1825)
+Hawkins, J. M., Frank, B. W., Thompson, J. R., Wittmann, M. C., & Wemyss, T. M. (2011). Probing Student Understanding With Alternative Questioning Strategies. Originally published 2006. [doi:10.1063/1.3680031](https://doi.org/10.1063/1.3680031)
 
 `q2 · i?` · `design · r2`
 

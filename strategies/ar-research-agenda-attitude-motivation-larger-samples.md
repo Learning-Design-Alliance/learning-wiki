@@ -47,7 +47,8 @@ The article recommends extending AR effectiveness research beyond academic achie
 - [Sampling size is not an effective moderator of AR effects, with large samples (50+) at 0.647 and small samples (1-49) at 0.262](../claims/ar-effect-sample-size-not-effective.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Investigate class size and articulate epistemological features when studying attitudinal shifts](future-work-class-size-epistemological-articulation.md)
 
 ## Examples
 -

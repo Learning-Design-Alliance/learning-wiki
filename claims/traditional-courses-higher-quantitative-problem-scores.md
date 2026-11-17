@@ -52,3 +52,4 @@ The article reports this second-hand, citing studies by Hoellwarth et al., Lea, 
 - [CPS classes scored higher on conceptual questions than traditional classes, significantly at schools A and B](cps-conceptual-questions-advantage.md) — reports the opposite
 - [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) — reports the opposite
 - [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — reports the opposite
+- [Explicit teaching of problem-solving practices in a cooperative group format helped students perform better on qualitative exam questions than traditionally-taught students](cooperative-group-problem-solving-qualitative-exam-gains.md) — related

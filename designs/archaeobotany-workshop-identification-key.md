@@ -48,4 +48,4 @@ The workshop had students reconstruct changing landscapes during the transition 
 -
 
 ## Key Sources
-- Brown, D., Neale, N. & Francis, R. (2011). Peak into the Past: An Archaeo-Astronomy Summer School. School Science Review. http://medenschool.pbworks.com
+- Brown, D., Neale, N. & Francis, R. (2011). Peak into the Past: An Archaeo-Astronomy Summer School. School Science Review. http://medenschool.pbworks.com. [doi:10.48550/arxiv.1009.5515](https://doi.org/10.48550/arxiv.1009.5515)

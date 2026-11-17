@@ -59,3 +59,4 @@ This is the authors' interpretation section on validation benefits, not a tested
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](simulation-advantage-immediate-not-sustained.md) — related
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
+- [Iterative validation of ViMAP models against a real-world ramp scenario teaches students initial conditions and model refinement](vimap-phase2-model-validation-initial-conditions.md) — a narrower finding that bears on this claim

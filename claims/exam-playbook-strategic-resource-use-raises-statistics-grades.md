@@ -74,3 +74,4 @@ Dosage analysis within the same two RCTs comparing students who completed both p
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — related
 - [Exam Playbook benefits relate to dosage and to earlier use before exams](exam-playbook-dosage-timing-benefits.md) — related
 - [Self-administered Exam Playbook use predicts higher exam scores in real-world college classes (d = 0.18)](exam-playbook-use-exam-performance.md) — related
+- [Treatment-group students were almost twice as likely as control students to earn a B- or better on the final exam](treatment-nearly-twice-likely-b-or-better.md) — related

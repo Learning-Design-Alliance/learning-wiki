@@ -46,3 +46,4 @@ Student revision of the model after the field trip, decreasing Pcoals by 25% per
 
 ## Related Claims
 - [The authors argue that agreement between student-taken data and a student-written simulation is more persuasive evidence for introductory students than agreement with theoretical quantities or book facts](student-taken-data-more-persuasive-than-theoretical-checks.md) — related
+- [Most students connected heating time, heat transfer, temperature variation and state changes to the ebulliometer's working, but few linked the mixture boiling-point data to the device's non-linear scale](ebulliometer-path-partial-conceptual-gains.md) — related

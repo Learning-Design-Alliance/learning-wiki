@@ -44,7 +44,8 @@ Drawing on a Career Readiness Paper from ACTE (source URL printed on the slide),
 - [Four-type taxonomy of college- and career-readiness interventions with ESSA-tier evidence](four-types-college-career-readiness-interventions-taxonomy.md)
 
 ## Examples
--
+
+- [Student presentations plus instructor-peer-reviewed term papers to build technical writing, reviewing skills, and academic-honesty awareness](../strategies/student-presentation-peer-reviewed-term-paper-strategy.md)
 
 ## Key Sources
 - April Williamson. (2024). Challenge-Based Learning for Global Competence and Employability. Digital Promise, ISTELive Global Collaboration Playground. https://www.acteonline.org/wp-content/uploads/2022/05/Career_Readiness_Paper_COLOR.pdf

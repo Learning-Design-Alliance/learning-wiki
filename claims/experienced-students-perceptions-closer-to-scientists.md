@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2009
 sources:
   - id: casey-w-miller-2009
-    resource: "https://doi.org/10.48550/arXiv.1003.0931"
-    title: "Casey W. Miller, Michelle D. Chabot, and Troy C. Messina. (2009). A student's guide to searching the literature using online databases. Am. J. Phys., 77(12), 1112-1117. [doi:10.48550/arXiv.1003.0931](https://doi.org/10.48550/arXiv.1003.0931)"
+    resource: "https://doi.org/10.1119/1.3213525"
+    title: "Casey W. Miller, Michelle D. Chabot, and Troy C. Messina. (2009). A student's guide to searching the literature using online databases. Am. J. Phys., 77(12), 1112-1117. [doi:10.1119/1.3213525](https://doi.org/10.1119/1.3213525)"
     author: Casey W. Miller, Michelle D. Chabot, and Troy C. Messina
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Casey W. Miller 2009
 
-Casey W. Miller, Michelle D. Chabot, and Troy C. Messina. (2009). A student's guide to searching the literature using online databases. Am. J. Phys., 77(12), 1112-1117. [doi:10.48550/arXiv.1003.0931](https://doi.org/10.48550/arXiv.1003.0931)
+Casey W. Miller, Michelle D. Chabot, and Troy C. Messina. (2009). A student's guide to searching the literature using online databases. Am. J. Phys., 77(12), 1112-1117. [doi:10.1119/1.3213525](https://doi.org/10.1119/1.3213525)
 
 `q2 · i?` · `design · r2`
 

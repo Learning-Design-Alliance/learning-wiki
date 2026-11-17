@@ -56,4 +56,4 @@ The article recommends exploiting nearby, lesser-known ancient monuments rather 
 -
 
 ## Key Sources
-- Brown, D., Neale, N. & Francis, R. (2011). Peak into the Past: An Archaeo-Astronomy Summer School. School Science Review. https://arxiv.org/abs/1009.5515
+- Brown, D., Neale, N. & Francis, R. (2011). Peak into the Past: An Archaeo-Astronomy Summer School. School Science Review. https://arxiv.org/abs/1009.5515. [doi:10.48550/arxiv.1009.5515](https://doi.org/10.48550/arxiv.1009.5515)

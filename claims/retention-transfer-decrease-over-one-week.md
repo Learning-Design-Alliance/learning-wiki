@@ -54,3 +54,4 @@ Repeated-measures ANCOVA on retention scores in the modality analysis of the exp
 - [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
 - [Working memory capacity did not influence the size of the modality or redundancy effects on study time or knowledge gain, despite children with dyslexia having weaker working memory](working-memory-no-relation-modality-redundancy-effects.md) — related
+- [Knowledge gains from the liquid crystals module faded between the immediate post-test and an exam four weeks later](lc-knowledge-gains-fade-by-delayed-test.md) — a narrower finding that bears on this claim

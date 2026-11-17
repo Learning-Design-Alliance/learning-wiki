@@ -52,4 +52,4 @@ The Lens Inquiry is a three-hour inquiry activity on converging lenses and teles
 -
 
 ## Key Sources
-- Putnam, N. M., Cheng, J. Y., McGrath, E. J., Lai, D. K., & Moth, P. (2010). Lens Inquiry: An Astronomy Lab for Non-science Majors at Hartnell Community College. ASP Conference Series. https://arxiv.org/abs/1010.3266
+- Putnam, N. M., Cheng, J. Y., McGrath, E. J., Lai, D. K., & Moth, P. (2010). Lens Inquiry: An Astronomy Lab for Non-science Majors at Hartnell Community College. ASP Conference Series. https://arxiv.org/abs/1010.3266. [doi:10.48550/arxiv.1010.3266](https://doi.org/10.48550/arxiv.1010.3266)

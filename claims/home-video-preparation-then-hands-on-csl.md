@@ -51,3 +51,4 @@ Structured, hidden observational study of 159 students actively using CSL learni
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related
 - [The authors argue that instructional videos are a contribution to animal welfare by reducing the use of live animals in undergraduate veterinary education](instructional-videos-animal-welfare-contribution.md) — related
+- [In the first inverted Higher Mathematics session, most students had watched all videos beforehand and could reproduce key points from them](icm-pilot-most-students-watched-videos.md) — related

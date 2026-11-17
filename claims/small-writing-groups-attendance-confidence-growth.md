@@ -47,3 +47,4 @@ Focus group with Student Ambassadors who led the Small Writing Groups plus other
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — related
 - [Students' journal entries and observed behaviour suggested increased writing self-confidence and interest](journal-excerpts-confidence-interest.md) — related
+- [The Educator Ambassador program has directly trained tens of thousands of teachers and students across North America](educator-ambassadors-trained-57000.md) — related

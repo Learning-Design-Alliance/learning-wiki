@@ -47,3 +47,4 @@ Test evaluation (§4.1) of before/after quizzes in a 13-student S1/S2 course, sc
 ## Related Claims
 - [Time per task was clearly lower for simulations than for real experiments in voltage-source and resistor circuits, but this time advantage did not appear for capacitor circuits](simulation-time-savings-resistor-not-capacitor-circuits.md) — related
 - [Students completed more trials with the simulation program than with real experiments for battery-and-resistor circuits](more-simulation-trials-than-real-experiments.md) — related
+- [Class-set experiment kits enable small-group hands-on experimentation in ordinary science classes](class-set-kits-enable-small-group-hands-on-experiments.md) — related

@@ -67,3 +67,4 @@ Follow-up observation after discussion with the students: the second set of grap
 
 ## Related Claims
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Students in the wave-physics learning path were adept with devices and simple measurements but showed difficulty handling open-ended experimental situations and home tasks](open-situations-difficulty-wave-lab-students.md) — a broader claim this one bears on

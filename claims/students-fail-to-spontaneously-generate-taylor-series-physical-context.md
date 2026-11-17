@@ -50,3 +50,4 @@ Teaching interviews with four students in Year 1, in which students completed po
 - [Clinically interviewed students recognize the Taylor series as a relevant physics tool but lack criteria for when to use it and how many terms to keep](students-lack-truncation-criteria-taylor-series.md) — related
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [About half of upper-division statistical mechanics students can correctly interpret the terms of a truncated Taylor series from a graph before instruction](half-stat-mech-students-interpret-taylor-series-graphically.md) — related
+- [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — related

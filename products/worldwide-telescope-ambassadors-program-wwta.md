@@ -31,4 +31,4 @@ A Harvard–Microsoft collaboration programme that recruits and trains astrophys
 - [WorldWide Telescope](worldwide-telescope.md)
 
 ## Key Sources
-- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285
+- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285. [doi:10.48550/arxiv.1201.1285](https://doi.org/10.48550/arxiv.1201.1285)

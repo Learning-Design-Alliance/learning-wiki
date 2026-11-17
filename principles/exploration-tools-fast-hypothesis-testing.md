@@ -23,7 +23,7 @@ sources:
 # Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 10 mixed) · 17 studies (5 design, 4 causal, 3 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (14 for, 10 mixed) · 18 studies (6 design, 4 causal, 3 review, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 18 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Learners, tools and outcomes differ across these claims (undergraduate physics c
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis from the discovery meta-analysis. It bears on the age row (adolescents most harmed by unassisted discovery), but it is about discovery generally, not tool-based exploration; not yet worked into the rows.
 - [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](../claims/computer-based-ibl-inquiry-skills-gains.md) [+W] — attached 2026-10-18 from Hasan Ozgur Kapici (2025), which proposed "Pair inquiry-based learning with technology-enabled scaffolding tools, since teacher guidance alone reaches students less individually".
 - [Manual graph production is time-consuming, error-prone, and does not significantly contribute to understanding the studied problem](../claims/manual-graphing-time-consuming-error-prone.md) [+W] — attached 2026-11-10 from Primoˇz Peterlin (2009), which proposed "When the purpose of a graph is data analysis rather than learning to plot, spend the time on discussing the graph's meaning instead of manual plotting".
+- [Adding a fast-forward data-collection control to the hidden variable simulation resolved student complaints about the speed of data collection](../claims/fast-forward-control-speeds-data-collection-quantum-simulations.md) [+W] — attached 2026-11-17 from Antje Kohnle et al. (2013), which proposed "Give simulation learners controls to collect data at a rapid pace so they can make meaningful comparisons between experimental and theoretical quantities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

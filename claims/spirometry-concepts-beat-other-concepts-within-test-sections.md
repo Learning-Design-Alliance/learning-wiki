@@ -51,3 +51,4 @@ Within-section analysis comparing test-section performance on spirometry concept
 - [The active learning lab did not significantly improve performance on the volume-pressure-airflow relationship concept](spirometry-lab-no-significant-gain-volume-pressure.md) — a narrower finding that bears on this claim
 - [Flipped classroom did not alter overall student performance on midterm tests or exam grades](fc-no-overall-performance-change.md) — related
 - [More than 85% of students demonstrated mastery on the midterm question assessing mathematical modeling content knowledge in each semester.](midterm-content-mastery-85-percent.md) — related
+- [Students improve significantly on shared pre- and post-test lab exam items](significant-lab-skill-gains-inquiry-physics.md) — related

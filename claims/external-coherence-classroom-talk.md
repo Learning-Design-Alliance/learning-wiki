@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: brian-a-danielak-2010
-    resource: "https://doi.org/10.48550/arXiv.1003.4655"
-    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)"
+    resource: "https://doi.org/10.1109/fie.2010.5673158"
+    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)"
     author: Brian A. Danielak, Ayush Gupta, Andrew Elby
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Brian A. Danielak 2010
 
-Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)
+Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -53,3 +53,4 @@ In one discussion section, while analyzing a mesh circuit problem, Michael reaso
 - [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related
 - [A high-performing engineering student who prioritizes sense-making experiences himself as a marginalized \"fringe\" member of his program because of his epistemological stance](sense-maker-fringe-identity-case.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related

@@ -69,6 +69,7 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 - [Assign pre-session e-learning video viewing before hands-on procedural skills practice](pre-session-elearning-video-before-procedural-practice.md)
 - [Run the distance wet lab as a five-week course with weekly interactive lectures and two recorded, graded assignments per week sequenced across phacoemulsification steps](five-week-sequential-distance-phaco-wet-lab-course.md)
 - [Use flipped classroom with pre-reading multimedia materials and in-class team-based article appraisal practice for EBN training](flipped-classroom-multimedia-prereading-team-appraisal.md)
+- [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 
 ## Examples
 - Engineering courses using screencasts to demonstrate CAD software techniques, then dedicating lab sessions to instructor-supervised modeling tasks.

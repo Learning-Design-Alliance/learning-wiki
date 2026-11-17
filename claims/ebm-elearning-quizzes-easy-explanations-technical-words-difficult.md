@@ -55,3 +55,4 @@ Focus group interview category on efficacy: although "the figures and illustrati
 - [Participants largely agreed the lesson's words were clearly readable and audible, while gesture imitation was rated somewhat lower](rle-content-clear-gestures-lower.md) — related
 - [In an in-intervention explanation task, a majority of students (87.7%) conveyed at least partial understanding of valency after being introduced to the metaconcept](valency-explanation-task-majority-partial-understanding.md) — related
 - [Use of the wiki was less widespread than other tools, largely because students found it difficult to use](wiki-use-less-widespread-difficult-to-use.md) — related
+- [Extracurricular fluorescence modules left students enthusiastic but were experienced as difficult to follow](fluorescence-module-engaging-but-difficult.md) — related

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: watkins-2010
-    resource: "https://doi.org/10.48550/arXiv.1009.1049"
-    title: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.48550/arXiv.1009.1049](https://doi.org/10.48550/arXiv.1009.1049)"
+    resource: "https://doi.org/10.1063/1.3515237"
+    title: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.1063/1.3515237](https://doi.org/10.1063/1.3515237)"
     author: "Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J."
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Watkins 2010
 
-Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.48550/arXiv.1009.1049](https://doi.org/10.48550/arXiv.1009.1049)
+Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. [doi:10.1063/1.3515237](https://doi.org/10.1063/1.3515237)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -57,3 +57,4 @@ Qualitative field notes from classroom observations of more than half the semest
 - [Student expectations about learning biology can be dynamic and shift within a single course in response to specific activities](student-expectations-dynamic-shift.md) — related
 - [Some students hold robust expectations about learning biology that impede the implementation of even well-orchestrated reforms](sticky-expectations-impede-reform.md) — related
 - [Traditional answer-oriented problem solving imposes severe cognitive load, predisposing students to means–ends analysis at the expense of pattern noticing](traditional-problems-cognitive-load-means-ends.md) — related
+- [Interdisciplinary course reform benefits when problems are selected for biological authenticity, meaning solving the physics problem yields deeper understanding of why a biological system behaves as it does.](biological-authenticity-criterion-interdisciplinary-problems.md) — related

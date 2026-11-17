@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: brown-2009
     resource: "https://doi.org/10.48550/arXiv.1009.5289"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The activity failed to demonstrate that constellations result from the three-dimensional structure of stars, and appeared to create the misunderstanding that America is the typical distance over which a geometric change in constellation shape can be seen. [→ Brown 2009](#brown-2009)

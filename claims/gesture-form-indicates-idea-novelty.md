@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-2007
-    resource: "https://doi.org/10.48550/arXiv.0712.0581"
-    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)"
+    resource: "https://doi.org/10.1103/physrevstper.4.010101"
+    title: "Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.1103/physrevstper.4.010101](https://doi.org/10.1103/physrevstper.4.010101)"
     author: Rachel E. Scherr
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Rachel E. Scherr 2007
 
-Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.48550/arXiv.0712.0581](https://doi.org/10.48550/arXiv.0712.0581)
+Rachel E. Scherr. (2007). Gesture analysis for physics education researchers. Accepted to Physical Review Special Topics – Physics Education Research, May 2007. [doi:10.1103/physrevstper.4.010101](https://doi.org/10.1103/physrevstper.4.010101)
 
 `q2 · i?` · `qualitative · r2`
 

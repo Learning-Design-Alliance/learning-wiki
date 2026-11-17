@@ -51,3 +51,4 @@ Qualitative thematic analysis of in-depth semi-structured interviews with the tw
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - [Positive changes in resistance behaviors were not permanent after the experimental process ended](resistance-changes-not-permanent.md) — reports the opposite
 - [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related
+- [In interviews, most CWP students initially reacted negatively to workshop sessions but reported improved feelings after about a month of experience](cwp-initial-attitudes-negative-then-improved.md) — a narrower finding that bears on this claim

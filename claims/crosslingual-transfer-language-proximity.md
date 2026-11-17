@@ -51,3 +51,4 @@ Experimental Study 2, crosslingual scoring experiments comparing logistic regres
 - [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](mt-normalizes-learner-errors-scoring.md) — related
 - [M-BERT with machine translation is the best crosslingual method, outperforming logistic regression with MT and M-BERT zero-shot](mbert-with-mt-best-crosslingual-method.md) — related
 - [Monolingual English BERT shows only a slight advantage over multilingual BERT for English content scoring](monolingual-bert-slight-advantage-over-mbert.md) — related
+- [Integrating machine translation such as the Google Translate API allows an ITS to support multiple languages, removing the requirement that learners know the system's language](multilingual-its-machine-translation-integration.md) — related

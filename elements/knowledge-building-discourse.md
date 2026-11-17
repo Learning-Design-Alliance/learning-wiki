@@ -95,6 +95,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - **Paideia Seminar** (National Paideia Center) — scripted seminar cycles pairing reading with structured dialogue.
 - [Support learners in climbing the social and epistemic ladders together](../strategies/climbing-social-and-epistemic-ladders-together.md)
 - [Use information-exchange prompts in online PD discussion forums to elicit transactive discourse](../strategies/information-exchange-prompts-strategy-online-pd.md)
+- [Seed discussions with simpler related questions when small groups are missing a critical idea](../strategies/seeding-discussions-related-questions-strategy.md)
 
 ## Key Sources
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)

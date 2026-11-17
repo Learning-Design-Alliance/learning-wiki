@@ -59,3 +59,4 @@ Finding from the report's analyses of school-level supports, using three-level h
 - [Despite the shift toward indirect and integrated leadership perspectives, the principal retains a central role as the leader of leaders in the PIL knowledge base](principal-remains-leader-of-leaders.md) — related
 - [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related
 - [Both performance groups felt peer assessment motivated their learning and mutual professional development](peer-assessment-motivates-mutual-learning.md) — related
+- [In-service teachers with permanent positions were very difficult to involve actively in professional development, while young teachers without permanent positions were more open to innovation](in-service-permanent-teachers-hard-to-involve.md) — related

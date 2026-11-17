@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (32 for, 24 mixed, 1 against) · 51 studies (22 causal, 11 theoretical, 10 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 6 of 51 report an effect size · 53 claims rest on one study
+> **Evidence** · 62 claims (36 for, 25 mixed, 1 against) · 53 studies (24 causal, 11 theoretical, 10 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 7 of 53 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,11 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [In DL-first trainees, mean intubation time in the second series (VL) was significantly shorter than in the first series (DL), while VL-first trainees showed no significant difference between series](../claims/dl-first-second-series-intubation-time-shorter.md) [+W] — attached 2026-11-08 from Gu Minglu MM et al. (2019), which proposed "Teach endotracheal intubation with direct laryngoscopy before video laryngoscopy"; tests this page's relationship.
 - [Simple-before-complex training order yields better grammar learning than complex-before-simple order, driven by the simple rule](../claims/simple-first-training-order-better-grammar-learning.md) [+W] — attached 2026-11-09 from Antoniou Mark et al. (2016), which proposed "Sequence nonnative grammar training from simple to complex rules before testing"; tests this page's relationship.
 - [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](../claims/conventional-relativity-introduction-damages-conceptual-hierarchy.md) [+W] — attached 2026-11-16 from Gürel et al. (2011), which proposed "Incorporate the Lorentzian route, but complete the historical route with Einstein's reinterpretation rather than stopping at Bell's dynamical pedagogy"; tests this page's relationship.
+- [Ideas-first course organization raised final exam scores relative to an identical section that interleaved ideas and calculations](../claims/ideas-first-sequencing-final-exam-advantage.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
+- [Ideas-first section outperformed combined control sections on final-exam problems 5-8 with higher than 99.9% confidence](../claims/treatment-beats-combined-controls-problems-5-8.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
+- [Lowest-tertile students in the ideas-first section had 4.2 times higher odds of a large FCI gain than lecture-section students](../claims/larger-fci-gain-odds-treatment-vs-lecture.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
+- [Final-exam benefit of ideas-first sequencing was concentrated above the lowest FCI pretest tertile](../claims/treatment-effect-absent-lowest-fci-tertile.md) [~W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Sequence qualitative thinking on core ideas first, then move to computationally complicated problems later in the term"; tests this page's relationship.
+- [Introducing physics ideas largely qualitatively for the first six weeks before four weeks of computationally complicated practice raised final-exam scores over a control section organized topic-by-topic](../claims/qualitative-first-organization-higher-final-exam-scores.md) [+W] — attached 2026-11-17 from D. J. Webb (2012), which proposed "Have students spend time on qualitative understanding of problems well before undertaking computationally complicated quantitative problems"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -239,6 +244,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Sequence novice educators' challenges in increasing complexity: individual patient education first, then group education, then individual counseling and follow-ups](../strategies/graduated-complexity-educator-development-sequence.md)
 - [Sequenced extracurricular laboratory path: Shive machine, sound with oscilloscope, acoustic interference, then resonance](../strategies/sequenced-waves-laboratory-path-strategy.md)
 - [Two-part lesson: Lorentzian derivation of the transformations first, then Einstein's kinematic reinterpretation](../strategies/two-part-lorentzian-then-einstein-lesson.md)
+- [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](../strategies/staged-submission-with-analytical-debug-cases.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

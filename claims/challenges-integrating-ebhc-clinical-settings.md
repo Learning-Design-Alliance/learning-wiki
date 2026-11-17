@@ -51,3 +51,4 @@ Findings section of the interview study: curricula were full with disciplines gu
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Successful implementation of clinically integrated EBHC teaching and learning takes much time and full integration into all clinical rotations is often not achieved](clinically-integrated-ebhc-implementation-takes-much-time.md) — related
 - [Critical success factors for implementing clinically integrated EBHC teaching are pragmatism, patience and a critical mass of the right teachers](critical-success-factors-ebhc-implementation.md) — related
+- [The most common student misconception of the big bang is an explosion of pre-existing matter into empty space](big-bang-explosion-into-empty-space-misconception.md) — related

@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: c-elia-a-de-sousa-2011
-    resource: "https://doi.org/10.48550/arXiv.1110.6022"
-    title: "C´ elia A. de Sousa. (2011). The Atwood's machine as a tool to introduce variable mass systems. [doi:10.48550/arXiv.1110.6022](https://doi.org/10.48550/arXiv.1110.6022)"
+    resource: "https://doi.org/10.1088/0031-9120/47/2/169"
+    title: "C´ elia A. de Sousa. (2011). The Atwood's machine as a tool to introduce variable mass systems. [doi:10.1088/0031-9120/47/2/169](https://doi.org/10.1088/0031-9120/47/2/169)"
     author: C´ elia A. de Sousa
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### C´ elia A. de Sousa 2011
 
-C´ elia A. de Sousa. (2011). The Atwood's machine as a tool to introduce variable mass systems. [doi:10.48550/arXiv.1110.6022](https://doi.org/10.48550/arXiv.1110.6022)
+C´ elia A. de Sousa. (2011). The Atwood's machine as a tool to introduce variable mass systems. [doi:10.1088/0031-9120/47/2/169](https://doi.org/10.1088/0031-9120/47/2/169)
 
 `q1 · i?` · `design · r1`
 

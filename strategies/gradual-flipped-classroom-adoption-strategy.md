@@ -55,6 +55,7 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Phased implementation strategy for adopting design-thinking flipped classrooms: pilot small, train teachers, provide demonstrations and feedback](phased-dt-flipped-adoption-strategy.md)
 - [Implementation recommendations: a full-time dedicated lead, progressive deployment starting from a single course level, and free open-source tools commonly used in the discipline](educe-implementation-recommendations-strategy.md)
 - [Assign empirically tested animation-based learning modules as out-of-class preparation to free class time for active learning](assign-animation-modules-as-preclass-preparation.md)
+- [Sustain computational instruction with flipped homework while replacing the faculty-intensive final project with peer review or student videos](sustaining-computational-instruction-strategy.md)
 
 ## Examples
 -

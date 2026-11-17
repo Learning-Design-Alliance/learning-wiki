@@ -53,3 +53,4 @@ Motivation and buy-in theme from the workshop's thematic analysis. Teachers repo
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
 - [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](frustration-epistemic-motivates-external-impairs.md) — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
+- [Learner disengagement is widespread in developed countries' school systems](learner-disengagement-developed-countries-survey-data.md) — related

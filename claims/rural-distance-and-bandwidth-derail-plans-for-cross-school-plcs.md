@@ -57,3 +57,4 @@ Case documentation from the Journeys Project: distance between Amargosa and othe
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on
 - [Local teams learn more than geographically distributed teams, but dispersed teams can communicate as effectively as co-located teams given sufficient time to develop group relationships](distributed-teams-communication-effectiveness.md) — related
 - [Low bandwidth and lack of seamless internet connectivity constrained health trainees' use of e-learning opportunities in Ghana](low-bandwidth-poor-connectivity-constrain-e-learning-ghana-trainees.md) — related
+- [A travelling road-show format reached more schools than hosting events at the university](road-show-format-more-effective.md) — related

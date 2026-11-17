@@ -74,3 +74,4 @@ Chi-square and confidence-interval evaluation of fitted power-function exponents
 - [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — a broader claim this one bears on
 - [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](antisaccade-curvilinear-inverse-trajectory.md) — a broader claim this one bears on
 - [CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)](cogevolution-learning-curve-power-law-fit.md) — related
+- [Quantitative fisheries science projects had the highest early success rate, with four of seven As in the first semester](fisheries-projects-high-success-rate.md) — related

@@ -69,3 +69,5 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Substantial content-knowledge gains are achievable for non-science majors in courses built on research-verified, active-engagement curricula](active-engagement-content-gains-non-majors.md) — possibly the same claim (merge candidate)
 - [Explicit instruction in scientific reasoning appears to produce larger reasoning gains, though observations are preliminary](explicit-reasoning-instruction-larger-gains-preliminary.md) — related
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
+- [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
+- [TUG-K results after traditionally taught physics I showed a practically binomial distribution with probability of the order of 1/5, indicating low effectiveness of traditional instruction](traditional-instruction-binomial-1-5-ineffective.md) — related

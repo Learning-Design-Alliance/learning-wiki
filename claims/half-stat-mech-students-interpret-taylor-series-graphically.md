@@ -50,3 +50,4 @@ Written Taylor series pretest administered before the Boltzmann Factor tutorial 
 - [Students may interpret and apply a given Taylor series yet be unable to generate an appropriate expansion in a novel context](interpret-given-taylor-series-but-cannot-generate-novel.md) — related
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
+- [Upper-division physics students often fail to activate approximation methods under implicit cueing, while explicit cueing reliably triggers them](implicit-cueing-taylor-approximation-activation.md) — related

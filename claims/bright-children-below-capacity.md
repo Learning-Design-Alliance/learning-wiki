@@ -55,3 +55,4 @@ This is the authors' interpretive claim in the introduction, offered without dat
 - [School surveys with the scale found clear-cut group differences between sections, schools, and institutional children](cross-out-scale-survey-group-differences.md) — related
 - [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related
 - [In a Detroit age-grade survey, retardation peaked at the fifth grade and fell to a minimum at the eighth, with retardation greatest among negroes and Italians and acceleration greatest among United States whites, Scotch, and Russians](detroit-age-grade-retardation-grade-pattern.md) — related
+- [Non-intelligent E-learning systems applying one style to all learners are argued to reduce efficiency because learners differ](one-style-fits-all-reduces-efficiency-claim.md) — related

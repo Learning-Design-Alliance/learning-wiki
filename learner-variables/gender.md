@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 678 claims (362 show a difference, 156 mixed, 160 no difference) · 481 studies (250 associational, 170 causal, 20 review, 17 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 481 report an effect size · 670 claims rest on one study
+> **Evidence** · 688 claims (367 show a difference, 161 mixed, 160 no difference) · 484 studies (252 associational, 170 causal, 20 review, 18 quant-synthesis, 12 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 69 of 484 report an effect size · 680 claims rest on one study
 
 ## How to read this page
 
@@ -717,6 +717,16 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The gender gap is absent in courses with free-response exams and for biochemistry majors, suggesting the bias is artificial](../claims/free-response-exams-no-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The PHY 431 gender gap widened over a decade, reaching 0.5 grade points by 2009 as enrollment grew from about 300 to more than 525 students](../claims/phy431-growing-gender-gap-class-size.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students achieved higher observed communication scores than male students in both years](../claims/female-students-higher-communication-ratings.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](../claims/qgre-cutoff-700-diversity-filter.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Background and preparation variables account for a substantial portion of the FMCE and BEMA posttest gender gap (70% and 62%) but do not fully explain it](../claims/background-preparation-accounts-substantial-portion-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Based on an analysis of 26 published articles comparing 30 potential factors, no single factor is sufficient to explain the gender gap](../claims/no-single-factor-explains-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [E&M concept inventories show smaller and more variable gender gaps, averaging 3.7% on pretest and 8.5% on posttest, sometimes zero or favoring women](../claims/em-inventory-gender-gaps-smaller-variable.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Illustrative FCI items on falling and thrown objects show item gender gaps that persist after instruction](../claims/persistent-item-gender-gaps-fci-items-2-13-23.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](../claims/interactive-engagement-not-reliably-reduce-gap.md) [~M] — an instructional effect differs by group
+- [Mechanics concept inventory pretest gender gaps always favor men, ranging from 8.2% to 18.7% with a weighted average of 13.0%](../claims/mechanics-pretest-gender-gap-weighted-average.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Students at three UK universities show a statistically significant pre-instruction gender gap on the FCI, with males outperforming females](../claims/pre-instruction-fci-gender-gap-three-uk-universities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The FCI gender gap persists after instruction at all three UK universities but is reduced, remaining statistically significant](../claims/fci-gender-gap-persists-reduced-after-instruction.md) [~M] — an instructional effect differs by group
+- [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](../claims/gender-gap-gre-timed-tests.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

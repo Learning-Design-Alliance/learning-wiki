@@ -69,6 +69,7 @@ The program's professional development model combines an initial workshop with o
 - [Train teachers through workshops to design their own task-relevant active math lessons rather than handing out a fixed manual](teacher-workshops-design-active-math-lessons.md)
 - [Pair short group trainings with monthly onsite coaching visits to change instructional practice](short-training-monthly-coaching-strategy.md)
 - [Train classroom teachers via an initial in-service workshop with ongoing individual feedback and annual boosters](teacher-in-service-training-active-lessons-strategy.md)
+- [Distribute educational kits with in-service teacher training through local institutions](kit-distribution-with-in-service-training.md)
 
 ## Examples
 -

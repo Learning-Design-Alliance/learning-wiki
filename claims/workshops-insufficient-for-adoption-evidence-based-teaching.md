@@ -48,3 +48,4 @@ The essay reports, citing Henderson and Dancy (2009), a national survey of new p
 - [Evidence favoring student-centered pedagogy has not translated into widespread faculty adoption, and neither data provision nor workshops has proven sufficient](pedagogical-change-data-workshops-insufficient.md) — a broader claim this one bears on
 - [Graduate students who sought out nonmandatory teaching or training experiences progressed further toward EBT adoption](seeking-teaching-opportunities-linked-ebt-adoption.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
+- [With CWSEI support, only 1 of 70 UBC science faculty RBIS adopters subsequently quit using the strategies, far below the one-third quitting rate found for US physics faculty](cwsei-one-of-seventy-adopters-quit-rbis.md) — related

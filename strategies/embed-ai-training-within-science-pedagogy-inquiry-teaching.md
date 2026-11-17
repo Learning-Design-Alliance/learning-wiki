@@ -59,6 +59,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Teacher educators should model inquiry-based instruction and provide in-service training on argumentation development](teacher-educators-model-inquiry-and-train-argumentation.md)
 - [Support teachers with in-service training and positive self-efficacy for implementing 5E inquiry activities](teacher-training-and-self-efficacy-for-5e-inquiry.md)
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
+- [Integrate real-data analysis tools into an inquiry-based online learning platform to support reflective inquiry teaching](integrate-real-data-tools-into-inquiry-platform.md)
 
 ## Examples
 -

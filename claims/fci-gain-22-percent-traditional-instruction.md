@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: rui-gomes-neves-2010
-    resource: "https://doi.org/10.48550/arXiv.1006.4655"
-    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)"
+    resource: "https://doi.org/10.1007/978-94-007-0910-2_33"
+    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)"
     author: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro"
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Rui Gomes Neves 2010
 
-Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)
+Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)
 
 `q2 · i?` · `design · r2`
 
@@ -54,3 +54,4 @@ Pre- and post-instruction FCI tests (not counting for the final grade) taken by 
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
 - [Students in the IBIS curriculum showed significant pre-to-post concept gains each year, with normalized learning gains of 19–75% for concepts and 30–50% for skills](ibis-normalized-learning-gains-19-75-concepts.md) — related
+- [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related

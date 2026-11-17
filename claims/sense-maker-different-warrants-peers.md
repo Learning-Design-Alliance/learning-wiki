@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2010
 sources:
   - id: brian-a-danielak-2010
-    resource: "https://doi.org/10.48550/arXiv.1003.4655"
-    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)"
+    resource: "https://doi.org/10.1109/fie.2010.5673158"
+    title: "Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)"
     author: Brian A. Danielak, Ayush Gupta, Andrew Elby
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Brian A. Danielak 2010
 
-Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.48550/arXiv.1003.4655](https://doi.org/10.48550/arXiv.1003.4655)
+Brian A. Danielak, Ayush Gupta, Andrew Elby. (2010). The Marginalized Identities of Sense-makers: Reframing Engineering Student Retention. 40th ASEE/IEEE Frontiers in Education Conference. [doi:10.1109/fie.2010.5673158](https://doi.org/10.1109/fie.2010.5673158)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -51,3 +51,4 @@ Video analysis of a Basic Circuits discussion section shows Adam accepting that 
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — related
 - [Case study: a student's physical-mapping framing of the work integral resisted change during group argument](case-study-framing-inertia-work-paths.md) — related
 - [A student committed to sense-making learns to compartmentalize deep learning as a \"hobby\" to protect his GPA within the existing system](sense-making-compartmentalized-as-hobby.md) — related
+- [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related

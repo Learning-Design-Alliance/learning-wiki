@@ -67,3 +67,4 @@ Group-level characterization of response profiles against nine previously measur
 - [Students using more coherent physics conceptions showed greater lOFC-V5/MT+ activity, while less coherent reasoners showed greater primary visual and salience network activity](conceptual-coherence-brain-network-differences.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](bettys-brain-strategy-detection-activity-sequences.md) — related
+- [Most FCI questions in the Bogotá sample were answered without any mental model, i.e. at random](fci-bogota-53-percent-random-answers.md) — related

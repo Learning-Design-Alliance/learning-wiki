@@ -58,3 +58,4 @@ The review reports, citing McNeill, Fine, et al. (2023), an online survey with f
 - [Teachers in the study context commonly fail to activate students' prior knowledge despite stating it in lesson notes](teachers-fail-to-activate-prior-knowledge.md) — related
 - [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related
 - [Teachers' most frequent needs were understanding students' cognitive deficits, further instruction in the emergence theory-based curriculum, and opportunities to plan lessons together](teacher-needs-themes-qualitative.md) — related
+- [Teachers with the most interactive and engaging classrooms most commonly address weak preparation through embedded review, individual instruction and adjusting the curriculum](embedded-review-top-practice-interactive-classrooms.md) — related

@@ -46,6 +46,7 @@ The article recommends, as the rationale for its LX design, using immersive VR s
 ## Related Strategies
 
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Use videos of physics experiments for prediction-then-check activities, group data analysis, and demonstration of phenomena hard to show live](physics-video-prediction-group-analysis-strategy.md)
 
 ## Examples
 -

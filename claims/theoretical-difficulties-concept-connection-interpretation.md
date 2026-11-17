@@ -49,3 +49,4 @@ In the review's results on theoretical difficulties, the authors report that "Co
 - [Graphing instruction in K-12 STEM education is beneficial for student learning, improving both graph construction and graph interpretation skills](graphing-instruction-improves-construction-and-interpretation.md) — related
 - [Students experience difficulties during graphing both during graph construction and during the interpretation and usage of data](students-face-construction-and-interpretation-difficulties.md) — a broader claim this one bears on
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related
+- [Continued practice with graphing and proportional-relationship activities improves students' weak math skills over the semester](math-practice-graphing-improves-over-semester.md) — related

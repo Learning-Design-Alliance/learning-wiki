@@ -47,6 +47,8 @@ Each computational assignment contained a test case: "an initial problem was pos
 - [Teach computation via guided lab-built programs that students independently alter to solve modified homework problems, checked against a provided test case before a graded case.](lab-built-program-modification-homework-strategy.md)
 - [Focus computational-modeling instruction on debugging practice, including qualitative analysis, not only correcting procedural mistakes](teach-debugging-and-qualitative-habits-of-mind.md)
 - [Worked Examples Types](worked_examples_types.md)
+- [Provide scaffolded code and live coding exercises, and integrate computation into every assignment and modeling cycle](scaffolded-code-live-coding-strategy.md)
+- [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](staged-submission-with-analytical-debug-cases.md)
 
 ## Examples
 -

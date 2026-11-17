@@ -48,3 +48,4 @@ A Mann-Whitney U test (P < 0.05) comparing the two conditions found a significan
 - [Both structured and unstructured condition trainees improved significantly in task performance from the transfer session to the retention session one week later.](cbt-performance-improves-transfer-to-retention.md) — related
 - [Trainees in the unstructured condition who adopted a top-down navigation style viewed fewer modules than those adopting a bottom-up style.](top-down-style-fewer-modules-viewed.md) — related
 - [Some trainees in the unstructured condition repeated significantly more training and practice modules than trainees in the structured condition.](unstructured-condition-more-module-repetition.md) — related
+- [Most students begin exploring simulation controls from top to bottom, justifying placing single-fire controls above fast-forward controls](top-to-bottom-control-exploration-ordering.md) — related

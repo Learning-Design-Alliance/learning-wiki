@@ -54,3 +54,4 @@ Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitu
 - [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related
 - [Student attitudes toward exams, grading, and feedback were more favorable under the formative format](formative-format-favorable-attitudes.md) — related
 - [Students in one Physics First section predominantly reported liking Buddy Quizzes more than regular quizzes](buddy-quiz-student-feedback-predominantly-positive.md) — related
+- [Students reacted largely very favorably to classroom physics instruction conducted across continents in Second Life](sl-cross-continent-classroom-instruction-favorable.md) — related

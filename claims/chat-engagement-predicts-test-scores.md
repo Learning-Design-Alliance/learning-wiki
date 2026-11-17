@@ -65,3 +65,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [In low-performing online participants, self-organization, commuting time, and preference for intensive reviewing predict examination scores](low-performers-online-predictors.md) — related
 - [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related
 - [Class participation significantly moderates the knowledge-score change from mid-test to post-test in flipped classroom learning](class-participation-moderates-flipped-gain.md) — related
+- [Student engagement predicts lab exam performance after controlling for pre-test scores](engagement-correlates-lab-learning.md) — related

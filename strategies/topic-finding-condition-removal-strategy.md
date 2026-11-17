@@ -47,6 +47,7 @@ For the course paper program, the authors did not offer topics to students; inst
 - [Implement choice-based personalization at scale by letting learners focus assignments on their own locale or background](choice-based-personalization-at-scale-strategy.md)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Varying Levels of Choice in Assessments](varying_levels_of_choice_in_assessments.md)
+- [Start a literature-review course by having students find all existing reviews on the topic to expose the gap and teach search tools](find-all-existing-reviews-starting-strategy.md)
 
 ## Examples
 -

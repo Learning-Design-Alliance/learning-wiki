@@ -49,3 +49,4 @@ Gross D, Pietri ES, Anderson G, Moyano-Camihort K, Graham MJ. (2015). Increased 
 - [Quizzical participation showed no gender difference even though males outperformed females on course exams in both cohorts](no-gender-difference-quizzical-participation.md) — related
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — a broader claim this one bears on
 - [Flipped-format students score significantly higher on exams than standard-format students, by an average of 11.6% across three exams in an upper-division physical chemistry course](flipped-format-exam-scores-improve-upper-division.md) — related
+- [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite

@@ -49,3 +49,4 @@ Qualitative findings from the 2011 advisor interviews show the intervention conc
 - [Financial and informational barriers dominate students' summers and can force them to reopen college decisions](financial-informational-barriers-reopen-college-decisions.md) — related
 - [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](students-unknow-questions-until-too-late.md) — related
 - [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
+- [Longitudinal interviews and surveys indicate Compass students felt supported academically and personally and stayed socially connected](compass-survey-community-support.md) — related

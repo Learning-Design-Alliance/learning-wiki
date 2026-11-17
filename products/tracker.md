@@ -19,23 +19,25 @@ sources:
 # Tracker
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Tracker is a free video analysis and modeling tool built on the Open Source Physics Java framework and distributed through the Open Source Physics project.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Tracker video analysis and modeling tool**: Tracker is a free, downloadable "video analysis and modeling tool built on the Open Source Physics (OSP) Java framework". Students use it to track a projectile's trajectory manually or automatically, fit linear and parabolic curves to position-time data, and build dynamic particle models juxtaposed against the real video. The article uses it in GCE Advanced Level and Ordinary Level projectile motion lessons and for teacher professional development with e-learning. (Loo Kang WEE et al. (2015))
 
 ### Claims
+- [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](../claims/tracker-video-analysis-infers-kinematics-values.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
-
 <!-- merged 2026-10-10 from elements/tracker-video-analysis-modeling-tool ("Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Loo Kang WEE, Charles CHEW, Giam Hwee GOH, Samuel TAN, Tat Leong LEE. (2015). Using Tracker as a Pedagogical Tool for Understanding Projectile Motion. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/01-kinematics/174-projectile-motion
 
 # Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework
 

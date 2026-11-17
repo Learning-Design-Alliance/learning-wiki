@@ -76,3 +76,4 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
 - [Rated topic familiarity is only modestly related to technical passage comprehensibility](topic-familiarity-modest-comprehension-relation.md) — related
 - [Familiarity with the article topic correlates positively with bias against credibility of framed evidence](familiarity-correlates-credibility-bias.md) — related
+- [Only 9% of surveyed students reported sufficient prior knowledge of the image-formation topics covered by the exhibit](holographic-exhibit-low-prior-knowledge-9-percent.md) — related

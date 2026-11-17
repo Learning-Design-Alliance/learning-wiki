@@ -55,3 +55,4 @@ Narrative background synthesis of parent-perception studies cited in the protoco
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
 - [Conflated program rationales can place competing and unrealistic expectations on scholarship students](competing-rationales-burden-students.md) — related
 - [Rate limiters restrict individual learning trajectories and educators can mediate them](rate-limiters-restrict-learning-trajectories.md) — related
+- [Polled MICA members who discontinued VW use most often cited lack of time, with avatar stigma and user-experience quality as additional factors](academic-non-uptake-of-vws-reasons.md) — related

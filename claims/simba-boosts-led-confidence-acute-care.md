@@ -72,3 +72,4 @@ Headline results as printed in the abstract of the same study: "Confidence incre
 - [LEDs found the SIMBA programme highly acceptable and predominantly preferred it over traditional lecture-based learning](simba-high-acceptability-leds.md) — related
 - [Both VR simulation-based training and instructor-led instruction were followed by significant short-term increases in pharmacy interns' self-perceived spill-management outcomes](vr-and-instructor-led-increase-self-perceived-spill-outcomes.md) — related
 - [SIMBA participation was followed by self-reported improvements across all six ACGME competencies, largest in patient management and patient care](simba-improves-acgme-competencies.md) — related
+- [The instructor reports spectacular learning outcomes in student confidence on the topic, attributed to extensive in-class and online discussion and boosted by journal acceptance](student-confidence-gain-from-publication-course.md) — related

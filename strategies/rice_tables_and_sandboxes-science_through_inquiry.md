@@ -64,6 +64,7 @@ Sensory materials make abstract physical concepts directly manipulable, which su
 - [Predict-Observe-Explain](predict-observe-explain.md) — the prediction cycle in its older-student form
 - [Guide and time generative learning activities to overcome barriers to sense-making](guide-and-time-glas-strategy.md)
 - [Show science experiments through the computer when experiment materials cannot be supplied](show-experiments-through-computer-no-materials.md)
+- [Eight open student exploration activities investigating freezing of water with varied containers, covers, hardness, stirring and freezers](mpemba-student-exploration-activities.md)
 
 ## Examples
 - **Tools of the Mind preschool curriculum** — uses structured dramatic and sensory play with intentional teacher framing, consistent with the guided-play evidence base.

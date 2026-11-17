@@ -49,3 +49,4 @@ Table IV reports average times and penalties for 41 men and 59 women: easy lists
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
 - [The reported difficulty values are based on scholastically advanced adults, and whether the proportions would hold for less mature subjects remains an open question.](completion-test-values-adult-scope-limit.md) — related
+- [Women are outscored by men on every section of the GRE general test, and with other factors equal women score lower on high-pressure timed tests](gender-gap-gre-timed-tests.md) — related

@@ -64,6 +64,7 @@ The strategy connects to belonging research: visible evidence that one's contrib
 - [Provide phase-specific teaching practices and environment features that foster student responsibility for learning in each phase of PBL](phase-specific-srl-fostering-practices-in-pbl.md)
 - [Interventions targeting both brilliance beliefs and belonging concerns to foster educational equity](counter-brilliance-beliefs-foster-belonging-interventions.md)
 - [Involve students in all steps of building the installation](students-build-installation-together.md)
+- [End-of-semester public poster session (NanoDay) to advertise student work and build conference-style confidence](nanoday-poster-presentation-strategy.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** schools build "crew" culture around public exhibitions of expedition products — museum-style displays of student work open to families and community — as a core design feature ([https://eleducation.org](https://eleducation.org)).

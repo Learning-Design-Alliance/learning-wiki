@@ -49,3 +49,4 @@ Kruskal–Wallis comparison of understanding-level task scores (tasks 2, 3, 5, 8
 - [Experimental-group pupils outperformed control-group pupils at the memorization level of the Niemierko taxonomy](hypertext-text-memorization-level-advantage.md) — related
 - [The largest experimental–control difference appeared at the specific transfer level](hypertext-text-specific-transfer-advantage.md) — related
 - [Experimental-group pupils outperformed control-group pupils at the non-specific transfer level](hypertext-text-non-specific-transfer-advantage.md) — related
+- [The P&E method outperformed traditional teaching at all four researched knowledge levels: remembering, understanding, specific transfer and nonspecific transfer](pe-method-four-knowledge-levels.md) — related

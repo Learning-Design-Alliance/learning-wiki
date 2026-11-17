@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/educator-ambassador-master-teacher-model.md
+---
+
+# Revision history: [strategies/educator-ambassador-master-teacher-model](../strategies/educator-ambassador-master-teacher-model.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1303.0042 (Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Telescope) via eval_harness.py + ingest_extractions.py

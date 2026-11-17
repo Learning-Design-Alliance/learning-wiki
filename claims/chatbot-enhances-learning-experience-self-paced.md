@@ -72,3 +72,4 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Students perceived advantages of e-learning for quality of educational life, including flexibility, economic savings, time savings and improved didactic continuity through recorded content](elearning-advantages-flexibility-savings-didactic-continuity.md) — related
 - [Prior e-learning platforms in the reviewed literature were reported as difficult to learn and non-flexible, motivating a Nigeria-specific system](blackboard-reported-non-flexible-hard-to-learn.md) — related
 - [Secondary-school students in an optional physics class learned to use Edaq530 with ease and were motivated to devise their own experiments](edaq530-student-class-creativity.md) — related
+- [Students reported that the computer models enabled self-directed inquiry learning at a suitable pace](ejs-simulations-enable-self-directed-inquiry.md) — related

@@ -9,11 +9,10 @@ generated:
   at: 2026-11-10
 evidence_strength: weak
 newest_evidence: 2008
-source_checked: 2026-11-16
 sources:
   - id: lei-bao-2008
-    resource: "https://doi.org/10.48550/arXiv.0807.2061"
-    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)"
+    resource: "https://doi.org/10.1119/1.2976334"
+    title: "Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)"
     author: Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo
     q: 1
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret their cross-country comparison as showing that traditional content teaching and learning often do not transfer to general reasoning ability. [→ Lei Bao 2008](#lei-bao-2008)
@@ -34,7 +33,7 @@ sources:
 
 ### Lei Bao 2008
 
-Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.48550/arXiv.0807.2061](https://doi.org/10.48550/arXiv.0807.2061)
+Lei Bao, Kai Fang, Tianfang Cai, Jing Wang, Lijia Yang, Lili Cui, Jing Han, Lin Ding, and Ying Luo. (2008). Learning of Content Knowledge and Development of Scientific Reasoning Ability: A Cross Culture Comparison. [doi:10.1119/1.2976334](https://doi.org/10.1119/1.2976334)
 
 `q1 · i?` · `associational · r1`
 

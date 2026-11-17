@@ -79,3 +79,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related
 - [Co-learning with peers in TBL helps students identify knowledge gaps and practise establishing consensus](co-learning-peers-knowledge-gaps-consensus.md) — related
 - [The cognitive conflict over the Earth's immobility leads students to construct a first formulation of the principle of conservation of motion](cognitive-conflict-leads-to-conservation-principle.md) — a narrower finding that bears on this claim
+- [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — related

@@ -47,3 +47,4 @@ Subgroup analysis of pooled matched CAT scores by gender (Figure 1B). Both group
 ## Related Claims
 - [TD engagement closes the course-planning and teaching-methods self-efficacy gap between women and men early-career scholars as engagement increases](td-engagement-gender-gap-closing.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
+- [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related

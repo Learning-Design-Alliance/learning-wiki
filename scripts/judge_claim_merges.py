@@ -20,6 +20,9 @@ into whatever survived.
     python3 scripts/judge_claim_merges.py --judge            # decisions to eval/claim-merges/decisions.ndjson
     python3 scripts/judge_claim_merges.py --apply            # merge the pairs both models agreed on
     python3 scripts/judge_claim_merges.py --judge --titles   # also judge find_title_duplicates.py's claim pairs
+    python3 scripts/judge_claim_merges.py --judge --pairs F  # judge the pairs in F, a JSON list of [a, b]
+                                                             # (sweep/dedupe_preprints.py: a preprint's
+                                                             # claims against its published version's)
 """
 import argparse
 import collections
@@ -98,13 +101,14 @@ def ask(model: str, prompt: str, key: str) -> dict:
     return {"same": d.get("same") is True, "why": d.get("why"), "cost_usd": gen.cost_usd or 0}
 
 
-def judge(workers: int, titles: bool = False) -> None:
+def judge(workers: int, titles: bool = False, given: list | None = None) -> None:
     key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     rev = json.loads((WIKI_ROOT / "reverse-index.json").read_text(encoding="utf-8"))["edges"].get("claims", {})
     inbound = {s: sum(len(v) for v in by.values()) for s, by in rev.items()}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     done = {tuple(sorted((d["keep"], d["fold"]))) for d in decisions()}
-    todo = [p for p in pairs(titles) if p not in done and all((WIKI_ROOT / "claims" / f"{s}.md").exists() for s in p)]
+    candidates = sorted({tuple(sorted(p)) for p in given}) if given is not None else pairs(titles)
+    todo = [p for p in candidates if p not in done and all((WIKI_ROOT / "claims" / f"{s}.md").exists() for s in p)]
     print(f"{len(todo)} pair(s) to judge", flush=True)
 
     def one(pair):
@@ -177,9 +181,11 @@ def main() -> None:
     ap.add_argument("--summary", action="store_true")
     ap.add_argument("--workers", type=int, default=12)
     ap.add_argument("--titles", action="store_true", help="also judge title near-duplicate pairs")
+    ap.add_argument("--pairs", help="judge only the claim pairs in this JSON file, a list of [a, b] slugs")
     args = ap.parse_args()
     if args.judge:
-        judge(args.workers, args.titles)
+        given = json.loads(Path(args.pairs).read_text(encoding="utf-8")) if args.pairs else None
+        judge(args.workers, args.titles, given)
     if args.summary:
         summary()
     if args.apply:

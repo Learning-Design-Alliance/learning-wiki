@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (47 for, 39 mixed, 4 against) · 84 studies (28 causal, 20 review, 13 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 84 report an effect size · 83 claims rest on one study
+> **Evidence** · 91 claims (48 for, 39 mixed, 4 against) · 85 studies (28 causal, 20 review, 14 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 85 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones](../claims/knowledge-tracing-model-choice-depends-on-dataset.md) [~M] — added 2026-11-05 from Gervet et al. (2020): bears on the diagnostic step (which learner model to trust for a given amount and shape of data); prediction accuracy only, no learner outcome; not yet read against the model above.
 - [Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets](../claims/expert-kc-models-add-little-to-performance-prediction.md) [~M] — added 2026-11-05 from Gervet et al. (2020); prediction accuracy only; not yet read against the model above.
 - [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — added 2026-11-05 from Liu et al. (2022): bears on the row on vendor-reported accuracy (check the evaluation protocol, not only the AUC); prediction accuracy only, no learner outcome; not yet read against the model above.
+- [The proposed system adapts content, presentation method and learner level dynamically during training based on learner feedback](../claims/dynamic-adaptation-during-training-feedback.md) [+W] — attached 2026-11-17 from Hossein Movafegh Ghadirli et al. (2012), which proposed "Adapt lesson sequence, speed and presentation style to the learner's aptitude, characteristics and mood, as an expert tutor does".
 
 ## Objective and learner-valued goal
 

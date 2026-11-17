@@ -54,3 +54,4 @@ National undergraduate survey (n = 1,008) listing six potential non-technology c
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
 - [Obligation to attend at a fixed time and place produced higher commitment to face-to-face courses](fixed-time-place-commitment-face-to-face.md) — related
+- [The interactive mirror experiment (42%) and the holograms (38%) were what most motivated students, ahead of other experiments (20%) and stereoscopic images (18%)](holographic-exhibit-most-motivating-elements.md) — related

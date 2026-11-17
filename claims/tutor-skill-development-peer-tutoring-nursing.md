@@ -74,3 +74,4 @@ Tutor interview data in the communication skills subtheme; tutors reported impro
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Staff and students reported that PBL developed critical thinking, academic writing, communication and problem-solving skills, including IUHPE competencies](pbl-develops-critical-thinking-communication-iuhpe-competencies.md) — related
+- [Peer review in the course served a dual role: improving writing and acting as a method for learning and understanding the material](peer-review-dual-role-writing-and-understanding.md) — related

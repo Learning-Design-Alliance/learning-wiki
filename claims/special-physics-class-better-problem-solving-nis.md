@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: gs-djordjevic-2011
     resource: "https://doi.org/10.48550/arXiv.1110.5072"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In October 2005 and May 2006 tests, Nis special physics class pupils showed significantly better physics abilities, particularly in solving problems, than the Nis mathematicians and standard classes. [→ G.S. Djordjevic 2011](#gs-djordjevic-2011)

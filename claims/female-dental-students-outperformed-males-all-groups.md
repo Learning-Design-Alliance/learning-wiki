@@ -54,3 +54,4 @@ Chi-square comparison of grades by gender within each of the three yearly cohort
 - [ECG quiz scores and final ECG examination scores do not differ between female and male medical students](no-gender-difference-ecg-quiz-final-scores.md) — related
 - [Female students' good grades improved significantly in both software years versus the control year, while male students' year-wise comparison showed no significance](female-year-wise-gains-significant-males-not.md) — related
 - [The between-group comparison of the three yearly cohorts revealed no statistical significance, despite a gradual increase in students scoring good grades](no-significant-between-group-difference-gradual-increase.md) — related
+- [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — reports the opposite

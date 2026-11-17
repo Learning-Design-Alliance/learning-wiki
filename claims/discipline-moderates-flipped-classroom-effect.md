@@ -71,3 +71,4 @@ Meta-regression with discipline, preparation testing, social activity, group equ
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](seitla-nonsignificant-approaches.md) — reports the opposite
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](social-activity-no-moderating-effect-flipped.md) — related
 - Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
+- [LCQ achievements differ statistically between students of natural sciences or technology and students of social sciences or humanities](lcq-field-of-study-difference.md) — related

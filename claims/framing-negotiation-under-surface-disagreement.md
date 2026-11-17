@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2008
 sources:
   - id: thomas-j-bing-and-edward-f-redish-2008
-    resource: "https://doi.org/10.48550/arXiv.0808.1887"
-    title: "Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.48550/arXiv.0808.1887](https://doi.org/10.48550/arXiv.0808.1887)"
+    resource: "https://doi.org/10.1063/1.3021276"
+    title: "Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.1063/1.3021276](https://doi.org/10.1063/1.3021276)"
     author: Thomas J. Bing and Edward F. Redish
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Thomas J. Bing and Edward F. Redish 2008
 
-Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.48550/arXiv.0808.1887](https://doi.org/10.48550/arXiv.0808.1887)
+Thomas J. Bing and Edward F. Redish. (2008). Using Warrants As a Window to Epistemic Framing. PERC 2008. [doi:10.1063/1.3021276](https://doi.org/10.1063/1.3021276)
 
 `q1 · i?` · `qualitative · r2`
 

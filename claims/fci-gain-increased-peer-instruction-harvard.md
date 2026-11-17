@@ -79,3 +79,8 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](per-active-strategies-strengthen-problem-solving.md) — a broader claim this one bears on
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
+- [Explicit teaching of problem-solving practices in a cooperative group format helped students perform better on qualitative exam questions than traditionally-taught students](cooperative-group-problem-solving-qualitative-exam-gains.md) — related
+- [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
+- [Interactive-engagement sections showed significantly higher FCI posttest averages than the standard lecture section](interactive-engagement-fci-gains-exceed-lecture.md) — related
+- [Interactive engagement teaching methods show both increases and decreases in the gender gap from pre- to posttest, so they do not reliably reduce it](interactive-engagement-not-reliably-reduce-gap.md) — related
+- [The P&E method outperformed traditional teaching at all four researched knowledge levels: remembering, understanding, specific transfer and nonspecific transfer](pe-method-four-knowledge-levels.md) — related

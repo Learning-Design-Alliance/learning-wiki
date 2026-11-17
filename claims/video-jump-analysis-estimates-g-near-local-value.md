@@ -54,3 +54,5 @@ Numerical analysis of videotaped vertical jump data shown in figure 2, with velo
 - [The constant-friction AI video yields a fitted friction coefficient (µ ≈ 0.169) consistent with literature values for wood on smooth or waxed surfaces](ai-video-constant-friction-recovers-plausible-mu.md)
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](video-modeling-suits-active-deep-learning.md) — a broader claim this one bears on
 - [Students measuring a freely falling Doppler source obtain the gravitational acceleration g within 10% accuracy from a linear fit of Doppler-shifted frequencies](free-fall-doppler-g-within-10-percent.md) — related
+- [Teachers reported improved mathematical and graphical understanding of motion and judged video modeling suitable for active and deep learning](teachers-report-improved-understanding-video-modeling.md) — related
+- [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — a broader claim this one bears on

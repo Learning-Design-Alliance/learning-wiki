@@ -51,4 +51,4 @@ This strategy prescribes when and how to give the QMCS in a modern physics cours
 -
 
 ## Key Sources
-- McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. https://arxiv.org/abs/1007.2015
+- McKagan, S. B., Perkins, K. K., & Wieman, C. E. (2010). The Design and Validation of the Quantum Mechanics Conceptual Survey. https://arxiv.org/abs/1007.2015. [doi:10.48550/arxiv.1007.2015](https://doi.org/10.48550/arxiv.1007.2015)

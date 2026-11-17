@@ -54,6 +54,7 @@ In the TPSR leadership program, responsibilities in planning and executing the p
 
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Reciprocal Teaching](reciprocal_teaching.md)
+- [Senior students coach junior students and take on school responsibilities to free teacher time](senior-students-coach-juniors-strategy.md)
 
 ## Examples
 -

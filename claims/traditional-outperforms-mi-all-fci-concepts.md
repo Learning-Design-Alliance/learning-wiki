@@ -12,8 +12,8 @@ evidence_strength: strong
 newest_evidence: 2011
 sources:
   - id: caballero-2011
-    resource: "https://doi.org/10.48550/arXiv.1106.1055"
-    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)"
+    resource: "https://doi.org/10.1119/1.3703517"
+    title: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)"
     author: "Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A."
     q: 3
     i: "?"
@@ -46,7 +46,7 @@ sources:
 
 ### Caballero 2011
 
-Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.48550/arXiv.1106.1055](https://doi.org/10.48550/arXiv.1106.1055)
+Caballero, M. D., Greco, E. F., Murray, E. R., Schatz, M. F., Bujak, K. R., Marr, M. J., Catrambone, R., & Kohlmyer, M. A. (2011). Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study. arXiv. [doi:10.1119/1.3703517](https://doi.org/10.1119/1.3703517)
 
 `q3 · i?` · `causal · r2`
 
@@ -84,3 +84,5 @@ Item analysis of FCI results from twenty-two traditional and six M&I sections at
 - [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — reports the opposite
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
+- [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](ejs-pbi-no-significant-newtons-third-law-gain.md) — related
+- [Lowest-tertile students in the ideas-first section had 4.2 times higher odds of a large FCI gain than lecture-section students](larger-fci-gain-odds-treatment-vs-lecture.md) — related

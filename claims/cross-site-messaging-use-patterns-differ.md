@@ -50,3 +50,4 @@ Findings from the questionnaire survey and verbal data analysis of message diari
 - [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md) — related
 - [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md) — related
 - [Treatment dyads exchanged more words per message and spent more time on chat than control dyads](clair-dyads-higher-chat-activity.md) — related
+- [In interviews, American students appeared more confident, used fewer words, and stayed more focused on the task than Romanian students](interview-confidence-fewer-words-us-students.md) — related

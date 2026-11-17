@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: christopher-m-graney-2011
-    resource: "https://doi.org/10.48550/arXiv.1107.3483"
-    title: "Christopher M. Graney. (2011). Teaching Galileo? Get to Know Riccioli! What a Forgotten Italian Astronomer Can Teach Students About How Science Works. [doi:10.48550/arXiv.1107.3483](https://doi.org/10.48550/arXiv.1107.3483)"
+    resource: "https://doi.org/10.1119/1.3670077"
+    title: "Christopher M. Graney. (2011). Teaching Galileo? Get to Know Riccioli! What a Forgotten Italian Astronomer Can Teach Students About How Science Works. [doi:10.1119/1.3670077](https://doi.org/10.1119/1.3670077)"
     author: Christopher M. Graney
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Christopher M. Graney 2011
 
-Christopher M. Graney. (2011). Teaching Galileo? Get to Know Riccioli! What a Forgotten Italian Astronomer Can Teach Students About How Science Works. [doi:10.48550/arXiv.1107.3483](https://doi.org/10.48550/arXiv.1107.3483)
+Christopher M. Graney. (2011). Teaching Galileo? Get to Know Riccioli! What a Forgotten Italian Astronomer Can Teach Students About How Science Works. [doi:10.1119/1.3670077](https://doi.org/10.1119/1.3670077)
 
 `q1 · i?` · `design · r1`
 

@@ -46,7 +46,9 @@ The authors modified a previously tried flipped radiology course based on studen
 - [Students responded positively to the flipped classroom's problem-solving, short-lecture, and medical-image-reading components](../claims/flipped-classroom-component-perceptions.md) [+W]
 
 ## Related Strategies
+
 - [Flipped Classroom](flipped-classroom.md)
+- [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
 
 ## Examples
 -

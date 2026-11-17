@@ -49,3 +49,4 @@ Workshop-test marking subsection (§3.4.2). Individual scores and per-question a
 - [Students in college physics courses perform poorly on conceptual questions while sometimes solving difficult multiple-step quantitative problems better](conceptual-questions-poor-quantitative-better.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
 - [Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary](ai-helper-usability-obstacles.md) — related
+- [GBC gives instructors a quantitative report of common student errors, revealing class-wide misconceptions beyond per-problem averages](gbc-quantitative-error-report.md) — related

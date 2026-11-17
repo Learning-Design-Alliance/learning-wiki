@@ -250,3 +250,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [General teaching strategies show an effect size of ES = 0.60, with modeling, questioning, and demonstrations as successful components](general-teaching-strategies-effect-size.md) — related
 - [Prior knowledge predicts how much students benefit from active-learning practices requiring self-constructed understanding; students with little prior knowledge often struggle](prior-knowledge-predicts-benefit-construction-based-learning.md) — related
 - [A new form of self-explanation was observed in which students compare their own solution to the expert's example solution](comparative-self-explanation-new-form.md) — related
+- [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](explaining-may-not-promote-active-sense-making.md) — related

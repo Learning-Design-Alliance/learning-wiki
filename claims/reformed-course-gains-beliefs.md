@@ -9,19 +9,18 @@ generated:
   at: 2026-11-10
 evidence_strength: mixed
 newest_evidence: 2008
-source_checked: 2026-11-16
 sources:
   - id: s-b-mckagan-2008
-    resource: "https://doi.org/10.48550/arXiv.0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
+    resource: "https://doi.org/10.1119/1.2885199"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
     kind: design
     rigour: 3
   - id: s-b-mckagan-2008-2
-    resource: "https://doi.org/10.48550/arXiv.0709.4503"
-    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)"
+    resource: "https://doi.org/10.1119/1.2885199"
+    title: "S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)"
     author: S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman
     q: 2
     i: "?"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
-> **Currency** · newest study 2008 · checked against its sources 2026-11-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reformed course for engineering majors showed high learning gains on the Quantum Mechanics Conceptual Survey and a lack of shift in beliefs about physics on the Colorado Learning Attitudes about Science Survey. [→ S. B. McKagan 2008](#s-b-mckagan-2008)
@@ -43,7 +42,7 @@ sources:
 
 ### S. B. McKagan 2008
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)
 
 `q2 · i?` · `design · r3`
 
@@ -53,7 +52,7 @@ Whole-course observational comparison in the reformed large-lecture modern physi
 
 ### S. B. McKagan 2008 (2)
 
-S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.48550/arXiv.0709.4503](https://doi.org/10.48550/arXiv.0709.4503)
+S. B. McKagan, K. K. Perkins, M. Dubson, C. Malley, S. Reid, R. LeMaster, and C. E. Wieman. (2008). Developing and Researching PhET simulations for Teaching Quantum Mechanics. arXiv preprint. [doi:10.1119/1.2885199](https://doi.org/10.1119/1.2885199)
 
 `q2 · i?` · `design · r3`
 
@@ -81,3 +80,4 @@ Comparison courses reported in the same section: the pre-reform engineering cour
 - [QMCS posttest scores rise with course level, with significant gains in modern physics and zero gains in graduate courses](qmcs-posttest-scores-increase-with-level.md) — related
 - [Reformed modern physics courses score higher than traditional ones on the QMCS, but average differences are small](qmcs-reformed-vs-traditional-small-differences.md) — related
 - [By normalized favorable gain on the indeterminacy statement, ENG-INT showed the greatest positive impact among engineering courses, comparable with the physics majors course.](eng-int-greatest-normalized-gain-indeterminacy-attitudes.md) — related
+- [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](modern-physics-instruction-shifts-quantum-reasoning.md) — related

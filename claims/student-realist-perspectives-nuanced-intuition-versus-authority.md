@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2015
 sources:
   - id: baily-2010
-    resource: "https://doi.org/10.48550/arXiv.1108.5226"
-    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)"
+    resource: "https://doi.org/10.1063/1.3515251"
+    title: "Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)"
     author: "Baily, C., & Finkelstein, N. D."
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Baily 2010
 
-Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.48550/arXiv.1108.5226](https://doi.org/10.48550/arXiv.1108.5226)
+Baily, C., & Finkelstein, N. D. (2010). Interpretation in Quantum Physics as Hidden Curriculum. AIP Conference Proceedings. [doi:10.1063/1.3515251](https://doi.org/10.1063/1.3515251)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -50,3 +50,5 @@ Post-instruction interview study with nineteen students from modern physics cour
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — a broader claim this one bears on
 - [Almost all interviewed students express distaste for deterministic ideas in quantum physics despite realist preferences](students-distaste-determinism-quantum-physics.md) — related
 - [Most every interviewed student rejected deterministic ideas in quantum physics, invoking inherent probabilistic behavior or the Uncertainty Principle](students-reject-determinism-uncertainty-principle-tool.md) — related
+- [Teachers' tendency to seek coherence between their intuitions and known correct answers was a key epistemological resource enabling their progress](coherence-seeking-epistemological-resource.md) — related
+- [Most students hold mixed rather than consistent quantum or realist perspectives on measurement and uncertainty across multiple contexts.](mixed-quantum-realist-perspectives-majority.md) — related

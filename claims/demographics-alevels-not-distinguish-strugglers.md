@@ -48,3 +48,4 @@ Descriptive comparison in the Results section (Table 2) of the retrospective cas
 - [Health care professionals did not differ significantly from other respondents in gender, age, or course completion](hcp-demographics-no-significant-differences.md) — related
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [Students who completed the first two YWYL labs reported on the initial survey planning to spend more time (9 or more hours) on the course than students who did not](lab-completers-planned-more-weekly-hours.md) — related

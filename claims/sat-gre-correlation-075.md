@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2013
 sources:
   - id: stephen-dh-hsu-2010
-    resource: "https://doi.org/10.48550/arXiv.1004.2731"
-    title: "Stephen D.H. Hsu, James Schombert. (2010). Data Mining the University: College GPA Predictions from SAT Scores. arXiv preprint. [doi:10.48550/arXiv.1004.2731](https://doi.org/10.48550/arXiv.1004.2731)"
+    resource: "https://doi.org/10.2139/ssrn.1589792"
+    title: "Stephen D.H. Hsu, James Schombert. (2010). Data Mining the University: College GPA Predictions from SAT Scores. arXiv preprint. [doi:10.2139/ssrn.1589792](https://doi.org/10.2139/ssrn.1589792)"
     author: Stephen D.H. Hsu, James Schombert
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Stephen D.H. Hsu 2010
 
-Stephen D.H. Hsu, James Schombert. (2010). Data Mining the University: College GPA Predictions from SAT Scores. arXiv preprint. [doi:10.48550/arXiv.1004.2731](https://doi.org/10.48550/arXiv.1004.2731)
+Stephen D.H. Hsu, James Schombert. (2010). Data Mining the University: College GPA Predictions from SAT Scores. arXiv preprint. [doi:10.2139/ssrn.1589792](https://doi.org/10.2139/ssrn.1589792)
 
 `q2 · i?` · `associational · r2`
 

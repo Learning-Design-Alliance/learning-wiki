@@ -52,3 +52,4 @@ An authorial assertion in the section on teacher images, presented without cited
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Teachers perceived Quest as overly prescriptive, with too much material for a 50–60 minute lesson and insufficient writing opportunities, but valued its texts and co-operative learning](quest-teacher-perceptions-barriers-and-positives.md) — related
+- [The article claims methodical preparation should build teachers' abilities to set educational goals, analyze teaching kits, and design lesson models](methodical-preparation-teacher-abilities-goals-kits-lessons.md) — related

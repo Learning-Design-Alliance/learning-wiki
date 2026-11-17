@@ -55,3 +55,4 @@ Thematic analysis of an optional electronic survey with two open-ended questions
 - [Qualitative analysis identified four categories of student response: course feedback methodology, understanding and improving the medical procedure, intervention improvements, and self-awareness](affinity-diagramming-four-categories-process-feedback.md) — related
 - [Qualitatively, students report learning the patient's perspective and valuing practical content such as the 15-15 Rule and glucagon practice](qualitative-patient-perspective-practical-content.md) — related
 - [Thematic analysis of open-ended responses identifies communication, leadership and teamwork as the most valued learning outcomes, especially in IP courses](simulation-debrief-themes-communication-leadership-teamwork.md) — related
+- [Students requested more open-ended inquiry activities and more diverse simulation options](students-requested-open-ended-inquiry-and-options.md) — related

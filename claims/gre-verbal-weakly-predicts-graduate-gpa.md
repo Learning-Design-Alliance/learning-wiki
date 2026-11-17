@@ -50,3 +50,5 @@ Standardized linear regressions on 492 students predicting Graduate GPA (Table 4
 - [GRE scores do not predict research productivity (presentations, first-author publications, grants/fellowships) or program progress measures](gre-no-predict-research-productivity.md) — reports the opposite
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [GRE scores and undergraduate GPA showed weak, non-significant associations with first-semester Ph.D. GPA among UR trainees](gre-weak-non-significant-predictor-first-semester-gpa.md) — related
+- [QGRE correlates only weakly with graduate GPA in the author's program, where undergraduate GPA is a better predictor of graduate GPA and correlates with all three GRE sections](qgre-weak-predictor-ugpa-better.md) — related
+- [US News graduate-program rankings give student selectivity, including mean GRE scores, a total weight of 18%, exceeding several productivity measures](us-news-selectivity-weighting-gre.md) — related

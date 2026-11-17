@@ -51,3 +51,4 @@ Topic-level analysis of exam scores across all participants. The article also re
 - [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
 - [Knowledge of drug interactions and contraindications remained poor (<50%) under both programmes](poor-interactions-contraindications-knowledge.md) — related
 - [European final‐year medical students show an overall lack of essential prescribing knowledge, averaging 69.6% on knowledge questions with a low of 50.0% on interactions and contraindications](european-final-year-students-lack-prescribing-knowledge.md) — related
+- [Final project performance was on par with homework and exam grades, with students strongest on physics, model, and working code and weakest on evaluating outcomes and synthesis](final-project-rubric-performance-pattern.md) — related

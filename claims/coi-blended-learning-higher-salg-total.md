@@ -50,3 +50,4 @@ Two-group quasi-experimental trial: independent samples t test of total SALG sco
 - [CoI-based blended learning did not significantly improve overall SPD management knowledge scores compared with face-to-face teaching](coi-blended-learning-no-knowledge-total-gain.md) — related
 - [CoI-based blended learning improved nursing students' total practical ability score for managing sudden patient deterioration more than face-to-face teaching](coi-blended-learning-practical-ability-total.md) — related
 - [CoI-based blended learning improved skill performance and management efficiency subscores of practical ability more than face-to-face teaching](coi-blended-learning-skill-performance-efficiency.md) — related
+- [SALG module helpfulness ratings were bimodal, with Modules 1-4 rated higher than the later modules](module-ratings-bimodal-development-state.md) — related

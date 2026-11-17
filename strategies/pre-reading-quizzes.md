@@ -64,6 +64,7 @@ Pre-reading quizzes exploit the pretesting effect: attempting to retrieve an ans
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 - [Program announced, graded fill-in-the-blank quizzes with immediate in-class answer-key review](announced-graded-quiz-answer-key-review-strategy.md)
 - [Use ungraded pre-class quizzes to unlock module content and focus learning, paired with graded post-quizzes with feedback](pre-quiz-unlocks-module-post-quiz-feedback.md)
+- [Assign pre-class draft answers with attempt credit to ensure preparation for in-class problem solving](attempt-credit-flipped-classroom-preparation.md)
 
 ## Examples
 - **Intro psychology course**: instructor posts a 5-question ungraded Canvas quiz on memory concepts before students read the textbook chapter; the same concepts appear on the unit exam with higher accuracy than un-pretested concepts.

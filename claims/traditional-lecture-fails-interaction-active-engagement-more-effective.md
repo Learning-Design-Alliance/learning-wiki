@@ -50,3 +50,4 @@ Theoretical argument in the physics module section, citing educational research 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a narrower finding that bears on this claim
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
+- [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — a narrower finding that bears on this claim

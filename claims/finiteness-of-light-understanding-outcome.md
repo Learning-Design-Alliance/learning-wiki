@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2007
 sources:
   - id: kenichiro-aoki-and-takahisa-mitsui-2007
-    resource: "https://doi.org/10.48550/arXiv.0705.3996"
-    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)"
+    resource: "https://doi.org/10.1119/1.2919743"
+    title: "Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.1119/1.2919743](https://doi.org/10.1119/1.2919743)"
     author: Kenichiro Aoki and Takahisa Mitsui
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Kenichiro Aoki and Takahisa Mitsui 2007
 
-Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.48550/arXiv.0705.3996](https://doi.org/10.48550/arXiv.0705.3996)
+Kenichiro Aoki and Takahisa Mitsui. (2007). A small tabletop experiment for a direct measurement of the speed of light. arXiv preprint. [doi:10.1119/1.2919743](https://doi.org/10.1119/1.2919743)
 
 `q2 · i?` · `design · r1`
 

@@ -51,4 +51,4 @@ In UBC's Physics 100, a six-step strategy (Interpret the Problem; Identify Relev
 -
 
 ## Key Sources
-- Martinuk, M. and Ives, J. (2010). Do Prescribed Prompts Prime Sensemaking During Group Problem Solving? Physics Education Research conference proceedings style manuscript, University of British Columbia.
+- Martinuk, M. and Ives, J. (2010). Do Prescribed Prompts Prime Sensemaking During Group Problem Solving? Physics Education Research conference proceedings style manuscript, University of British Columbia. [doi:10.48550/arxiv.1111.5400](https://doi.org/10.48550/arxiv.1111.5400)

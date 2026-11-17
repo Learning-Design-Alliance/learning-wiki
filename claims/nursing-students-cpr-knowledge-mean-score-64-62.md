@@ -50,3 +50,4 @@ Cross-sectional questionnaire survey of randomly selected probationer nursing st
 - [Twelfth-class nursing students scored significantly better than eleventh-class students on both the importance-of-CPR and the indications/methods/effectiveness sections](twelfth-class-cpr-scores-better-than-eleventh.md) — related
 - [Hospital staff's average correct answers on ERC guideline knowledge rose from 62.3% to 93.7% after a 2-hour BLS-D informative meeting, in one single-group pre-post study](blsd-informative-meeting-knowledge-gain.md) — related
 - [Nurses' poststroke depression knowledge scores rose significantly from 62.5 to 86.07 out of 100 after the education program](psd-nurse-knowledge-score-increase.md) — related
+- [The proposed evaluation scheme assigns knowledge-level scores to questions and classifies learners into printed score-band categories of knowledge level](score-band-knowledge-level-categories-proposal.md) — related

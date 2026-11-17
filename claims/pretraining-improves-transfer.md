@@ -119,3 +119,4 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [More response pretraining trials produce better performance in the task situation](more-response-pretraining-trials-better-transfer.md) — a narrower finding that bears on this claim
 - [Response pretraining on reaction keys in the absence of the task stimuli improves later performance on the actual training task](response-pretraining-absent-stimuli-transfer-eckstrand.md) — related
 - [Twenty of 36 reviewed articles tested or recommended Mayer's multimedia learning principles, which the review treats as the foundation of the content domain](mayer-principles-foundation-content-domain-postgraduate-me.md) — related
+- [The proposed system's content model treats concepts as the smallest indivisible parts of a topic that are transferred to the knowledge base for relocation](concept-as-smallest-indivisible-knowledge-unit.md) — related

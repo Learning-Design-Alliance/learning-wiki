@@ -46,3 +46,4 @@ Unstructured 15-minute interviews with ten active students from each group at th
 
 ## Related Claims
 - [Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible](language-entails-conceptually-different-world.md) — related
+- [Integrating machine translation such as the Google Translate API allows an ITS to support multiple languages, removing the requirement that learners know the system's language](multilingual-its-machine-translation-integration.md) — related

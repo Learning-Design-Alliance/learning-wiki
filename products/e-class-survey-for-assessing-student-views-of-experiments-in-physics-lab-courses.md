@@ -26,6 +26,9 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **E-CLASS survey for experimental physics attitudes and practices**: The Colorado Learning Attitudes about Science Survey for Experimental Physics (E-CLASS) assesses changes in students' attitudes about scientific laboratory practices before and after a lab course. It contains "23 core statements that are evaluated in all 4 quadrants" plus seven affect, confidence, and purpose-of-labs statements, with "60 Likert scale items on the pre-test and 106 Likert scale items in the post-test." Most students take 10-15 minutes to complete the end-of-semester survey, and it is designed to give researchers insight and instructors actionable evidence. (Benjamin M. Zwickl et al. (2012))
+- **E-CLASS question categories as theme groups rather than correlated psychometric subscales**: E-CLASS organizes its 30 main concepts into categories such as Affect, Argumentation, Confidence, Experimental design, Statistical uncertainty, Systematic error, Troubleshooting, and Physics community, with upper-division lab learning goals marked in italics. The authors state these "are not categories in the sense of some earlier surveys where we expect a high degree of correlation among statements within a category, but are groups of questions surrounding a common theme." Statements within a category can represent distinct practices a course may emphasize to varying degrees. (Benjamin M. Zwickl et al. (2012))
+- **Four-quadrant assessment structure: attitudes, expert views, grade importance, and practice frequency**: E-CLASS evaluates students in four aspects of their experience with experimental physics around each core statement: personal attitudes and beliefs, views of what experts would think, perceived importance for earning a good grade, and frequency of engaging in the practice. The first two quadrants are assessed pre and post semester, while the course-related quadrants are "assessed only at the end of the semester because they depend on students' experience in the class." This structure lets instructors see how course structure and grading influence attitudes. (Benjamin M. Zwickl et al. (2012))
 
 ### Claims
 
@@ -38,8 +41,8 @@ E-CLASS is a pre/post survey assessment developed by physics education researche
 
 ## Key Sources
 - Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760. [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
-
 <!-- merged 2026-10-10 from elements/eclass-experimental-physics-survey ("E-CLASS survey for assessing student views of experiments in physics lab courses"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Benjamin M. Zwickl, Noah Finkelstein and H. J. Lewandowski. (2012). Development and Validation of the Colorado Learning Attitudes about Science Survey for Experimental Physics. https://arxiv.org/abs/1207.2418
 
 # E-CLASS survey for assessing student views of experiments in physics lab courses
 

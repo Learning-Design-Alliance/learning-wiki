@@ -87,6 +87,7 @@ Collaborative writing improves text quality because co-authors must articulate a
 - [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](self-regulated-collaborative-environments-higher-education.md)
 - [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
 - [Use 10-minute pre-task planning, ideally collaborative and with teacher feedback, before L2 argumentative writing tasks](pre-task-planning-with-teacher-feedback-strategy.md)
+- [Involve students in the full publishing process, including journal selection, copyright and plagiarism discussion, contribution definition, and responding to referee feedback](full-publishing-process-student-involvement-strategy.md)
 
 ## Examples
 - **Google Docs–based co-authoring in composition courses**: students draft in a shared document; instructors use version history to assess each member's contribution and comment density, mitigating free-riding.

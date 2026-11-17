@@ -44,6 +44,8 @@ The article proposes a laboratory sequence in which students first explore wave 
 
 - [Progression of three experiments — CPT observation, magnetometry, and atomic clock locking — on one shared apparatus](cpt-three-experiment-progression-strategy.md)
 - [Three Act Tasks](three-act-tasks.md)
+- [Organize laboratory meetings as short introduction followed by inquiry in which students explore qualitatively, guess, and immediately test hypotheses](inquiry-guess-test-laboratory-cycle.md)
+- [Close the learning path with a research task in which students select a natural phenomenon suitable as a renewable energy-transfer source](natural-phenomena-energy-transfer-final-task.md)
 
 ## Examples
 -

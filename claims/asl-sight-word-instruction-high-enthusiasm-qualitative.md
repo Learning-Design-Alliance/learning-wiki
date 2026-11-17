@@ -52,3 +52,4 @@ Qualitative analysis of interns' anecdotal observations and field notes across t
 - [Students' journal entries and observed behaviour suggested increased writing self-confidence and interest](journal-excerpts-confidence-interest.md) — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
+- [Participating in phenomenon-based discussion appears to bolster ELL students' confidence to contribute despite limited English vocabulary](phenomenon-discussion-bolsters-ell-confidence.md) — related

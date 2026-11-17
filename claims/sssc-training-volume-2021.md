@@ -69,3 +69,4 @@ Smartsheet activity records submitted by 9 SSSCs from nine different states docu
 - [SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs](sssc-missions-resources-training-safer-schools.md) — related
 - [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related
 - [Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants](ssscs-housed-in-state-agencies-state-federal-funding.md) — related
+- [The Educator Ambassador program has directly trained tens of thousands of teachers and students across North America](educator-ambassadors-trained-57000.md) — related

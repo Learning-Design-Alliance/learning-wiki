@@ -88,6 +88,7 @@ Exhibitions leverage authentic audiences and purposes to raise the stakes and re
 - [Evaluate public engagement lectures with repeated pre/post/follow-up knowledge surveys of the same audience](repeated-measures-lecture-impact-evaluation.md)
 - [Blend art and science in public exhibits and events to reach unconventional audiences](art-science-blended-outreach-events.md)
 - [Weave repeated low-stakes presentation practice into the course before the culminating research presentation](woven-presentation-practice-before-final-talks.md)
+- [Keep the outreach experiment scientist-operated rather than automated so visitors can ask questions and meet a living experimenter](scientist-operated-outreach-demonstration.md)
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** schools use "passage presentations" and final exhibitions in which students defend their work before panels of staff, family, and community members ([https://eleducation.org](https://eleducation.org))

@@ -51,3 +51,4 @@ Experimental Study 2 comparing three crosslingual methods per target-language bl
 - [Monolingual English BERT shows only a slight advantage over multilingual BERT for English content scoring](monolingual-bert-slight-advantage-over-mbert.md) — related
 - [Machine translation of training and test data does not degrade monolingual content scoring performance and can normalize learner errors](mt-normalizes-learner-errors-scoring.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
+- [Integrating machine translation such as the Google Translate API allows an ITS to support multiple languages, removing the requirement that learners know the system's language](multilingual-its-machine-translation-integration.md) — related

@@ -66,3 +66,4 @@ Authors' interpretation of where the increased preparation time arose after the 
 ## Related Claims
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](headset-added-little-over-360-video.md) — related
+- [Producing one inverted-classroom video in the pilot took roughly one hour of work, plus about 30 minutes per recording session for system setup by the lecturer](icm-video-production-effort.md) — related

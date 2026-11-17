@@ -5,6 +5,27 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-17 · a preprint and its published version are one study
+
+The maintainer, after the first two arXiv batches: arXiv holds preprints of published articles, so the
+sweep must not duplicate them. Two places a duplicate can come from, and what was found in each:
+
+- **Unread preprints whose published version is already in.** Of the arXiv universe's unsettled members,
+  30 matched an ingested non-arXiv source by title (ERIC, PMC, journal lists, the curated hubs) or by the
+  arXiv snapshot's published DOI cited on another source's page. `scripts/sweep/dedupe_preprints.py
+  --apply` recorded 29 of them as `already-covered` (the thirtieth had been read in batch 3 by then).
+- **Preprints already read whose published version is also in**: 15, six from the sweep and the rest
+  from earlier topic searches and curated lists. Their claims were paired with the published version's
+  (83 pairs) and judged with the new `judge_claim_merges.py --pairs`: none was the same finding, so
+  nothing was merged. The overlap is one study written up twice, which a shared DOI makes countable.
+
+So the DOI an arXiv-read entry carries now prefers the published version. `scripts/sweep/arxiv_dois.py`
+does it entry by entry (a page-level pass had put one paper's DOI on another's entry where a page cited
+two): the source from the citation's title against the batch's manifest, then the snapshot's published
+DOI or a Crossref title search, accepted on aligned title, first author and a year within one, and only
+then the preprint's DataCite DOI. Batch 3 took 217 published DOIs and 211 preprint DOIs; `--upgrade`
+moved 317 entries of batches 1 and 2 from the preprint's DOI to the published version's.
+
 ## 2026-11-16 · physics written for teaching is out of scope; the arXiv universe is rescreened
 
 The first arXiv batch (`j-scrarxiv-1`, 112 sources) held about as many physics papers as learning

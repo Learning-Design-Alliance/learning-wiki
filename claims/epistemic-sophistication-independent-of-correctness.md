@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: bing-2011
-    resource: "https://doi.org/10.48550/arXiv.1103.3325"
-    title: "Bing, T. J., & Redish, E. F. (2011). Epistemic Complexity and the Journeyman-Expert Transition. Originally published 2009. [doi:10.48550/arXiv.1103.3325](https://doi.org/10.48550/arXiv.1103.3325)"
+    resource: "https://doi.org/10.1103/physrevstper.8.010105"
+    title: "Bing, T. J., & Redish, E. F. (2011). Epistemic Complexity and the Journeyman-Expert Transition. Originally published 2009. [doi:10.1103/physrevstper.8.010105](https://doi.org/10.1103/physrevstper.8.010105)"
     author: "Bing, T. J., & Redish, E. F."
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Bing 2011
 
-Bing, T. J., & Redish, E. F. (2011). Epistemic Complexity and the Journeyman-Expert Transition. Originally published 2009. [doi:10.48550/arXiv.1103.3325](https://doi.org/10.48550/arXiv.1103.3325)
+Bing, T. J., & Redish, E. F. (2011). Epistemic Complexity and the Journeyman-Expert Transition. Originally published 2009. [doi:10.1103/physrevstper.8.010105](https://doi.org/10.1103/physrevstper.8.010105)
 
 `q2 · i?` · `qualitative · r2`
 

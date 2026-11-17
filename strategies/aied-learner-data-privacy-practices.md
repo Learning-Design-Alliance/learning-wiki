@@ -47,6 +47,7 @@ As AIED systems become commercial lifelong learning companions collecting data o
 - [Involve key stakeholders directly in defining privacy and designing LA systems](stakeholder-involvement-defining-privacy-la.md)
 - [Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning](ethical-safeguards-ai-personalized-learning.md)
 - [Six collective-responsibility strategies for AIED researchers facing commercial misuse](aied-collective-responsibility-strategies.md)
+- [Learning analytics with rapid feedback loops at many levels to build lifelong-learning qualities](learning-analytics-rapid-feedback-loops.md)
 
 ## Examples
 -

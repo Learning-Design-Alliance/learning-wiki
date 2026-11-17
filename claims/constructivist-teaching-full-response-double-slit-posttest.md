@@ -49,3 +49,4 @@ Posttest of the conceptual understanding test in a quasi-experimental pretest-po
 - [After teaching, 90% of experimental and 80% of control students gave scientifically acceptable answers about double-slit interference](posttest-acceptable-answers-both-groups.md) — related
 - [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](interview-path-difference-understanding-difference.md) — related
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
+- [Triple-slit simulation tasks made students reconsider the interference conditions because the two-slit minimization condition fails for three slits](triple-slit-minimization-condition-fails.md) — related

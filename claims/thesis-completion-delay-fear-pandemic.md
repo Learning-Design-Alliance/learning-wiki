@@ -49,3 +49,4 @@ Subgroup of 780 students (31.0% of the sample) who had already defined their fin
 - [Nearly half of Croatian health sciences students feared the lack of practical education during e-learning could not be compensated, and a majority feared permanent consequences for job preparedness](fear-uncompensated-practical-education-loss.md) — related
 - [Among employed Croatian health sciences students, a majority reported that employment sometimes prevented participation in e-learning](employment-interferes-e-learning-participation.md) — related
 - [After experiencing exclusive e-learning, a majority of Croatian health sciences students preferred a future combination of classroom and e-learning over either alone](students-prefer-blended-future.md) — related
+- [Undergraduate students often acquire data-analysis skills alone during the final experimental thesis, and theory-track students may never develop this competence](data-analysis-skills-left-to-final-thesis.md) — related

@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (24 for, 44 mixed, 6 against) · 50 studies (16 associational, 15 causal, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 50 report an effect size · 73 claims rest on one study
+> **Evidence** · 77 claims (27 for, 44 mixed, 6 against) · 52 studies (17 associational, 15 causal, 9 review, 5 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 5 of 52 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,9 @@ Claims found while rewriting, used in the default design or the situation table 
 - [GRE V and GRE Q scores do not predict STEM PhD completion for women](../claims/gre-scores-no-prediction-women-stem-phd.md) [~W] — attached 2026-11-09 from Petersen Sandra L. et al. (2018), which proposed "Reconsider the role of GRE scores in STEM doctoral admissions and develop more inclusive and predictive selection processes"; tests this page's relationship.
 - [Student ethnicity (Asian vs white) had no influence on examiners' OSCE scores for knowledge, communication or overall performance](../claims/no-ethnicity-effect-examiner-scores.md) [~W] — attached 2026-11-09 from Yeates Peter et al. (2017), which proposed "Efforts to address differential attainment of Asian medical students should focus on social, psychological and cultural factors affecting learning and performance rather than on examiner bias"; tests this page's relationship.
 - [Confounders and socio-demographic variables largely explain ethnicity-related disparities in theoretical examinations but not in language, writing and clinical skills examinations](../claims/adjustment-explains-theoretical-not-skills-disparities.md) [~W] — attached 2026-11-09 from Stegers-Jager K. M. et al. (2016), which proposed "Design assessment strategies that create a level playing field for diverse student populations".
+- [A 700 QGRE cutoff would reject nearly three quarters of Hispanic physical-sciences test takers, more for other minority groups, and filter out women at a higher rate than men](../claims/qgre-cutoff-700-diversity-filter.md) [+W] — attached 2026-11-17 from Casey W. Miller (2013), which proposed "Never use GRE cutoff scores as the sole criterion for denying admission, per ETS guidance and federal case law"; tests this page's relationship.
+- [The proposed method identifies unfair items with positive item-total correlations that the traditional method misses, supported by expert judgments](../claims/method-finds-unfair-items-positive-correlation.md) [+W] — attached 2026-11-17 from Bakman (2007), which proposed "Remove identified unfair items and recalculate scores after the exam to make results trustier and to gain instructional feedback".
+- [Deleting identified unfair items brings fair-item points closer to the ideal line, halving the sum of positive distances](../claims/unfair-item-deletion-halves-positive-distances.md) [+W] — attached 2026-11-17 from Bakman (2007), which proposed "Remove identified unfair items and recalculate scores after the exam to make results trustier and to gain instructional feedback".
 
 ## Objective and learner-valued goal
 

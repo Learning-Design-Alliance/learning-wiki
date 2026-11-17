@@ -96,6 +96,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - [Deliver pre-procedure patient education via an anytime-reviewable smartphone multimedia program](smartphone-multimedia-preprocedure-education-strategy.md)
 - [Build online modules from existing lecture slides with narration, animations, and embedded formative review quizzes](reuse-lecture-slides-interactive-modules-strategy.md)
 - [Six motivations for adding online video to lectures: impractical demonstrations, controlling time, visualisations, question setters, back-up for live demonstrations, and humour and interest](six-motivations-online-video-lectures.md)
+- [Use short screencasts plus flipped-classroom homework to deliver computational tool instruction without lecture time](screencasts-flipped-homework-computation-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

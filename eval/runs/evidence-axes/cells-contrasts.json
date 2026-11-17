@@ -114854,5 +114854,753 @@
  "test-format\ttraditional question: select the correct response\tincorrect traditional question: select the incorrect response": {
   "label": "incorrect-traditional question vs traditional question",
   "treatment_is_a": false
+ },
+ "active-learning\tAstrobites-based classroom discussions and peer teaching\tnot stated": {
+  "label": "Astrobites-based discussion and peer teaching vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tCU transformed E&M II curriculum\tInstitution X E&M II course": {
+  "label": "Transformed active-learning curriculum vs external conventional course",
+  "treatment_is_a": true
+ },
+ "active-learning\tCU transformed E&M II curriculum\tInstitution X course using mostly locally created clicker questions and preflights": {
+  "label": "Transformed active-learning curriculum vs external clicker/preflight course",
+  "treatment_is_a": true
+ },
+ "active-learning\tCU transformed active-learning curriculum\tInstitution X course using mostly locally created clicker questions and preflights": {
+  "label": "Transformed active-learning curriculum vs external clicker/preflight course",
+  "treatment_is_a": true
+ },
+ "active-learning\tCWP interactive-engagement instruction\tpre-reform traditional instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCWP interactive-engagement instruction\ttraditional instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCWP pilot interactive-engagement instruction\ttraditional instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCWP workshop instruction\tstudents’ prior classroom experiences": {
+  "label": "Collaborative Workshop Physics vs prior/traditional classroom experience",
+  "treatment_is_a": true
+ },
+ "active-learning\tCollaborative Workshop Physics instruction\tpre-reform instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCollaborative Workshop Physics pilot\tpre-reform traditional instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tGroup Active Engagements in permanent small groups\tconventional lectures": {
+  "label": "Permanent small-group active engagement vs conventional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearner-centered Tracker inquiry and video modeling\tTeacher spoon-feeding and learning from words or authoritative sources": {
+  "label": "Tracker-based inquiry and video modeling vs teacher-directed spoon-feeding",
+  "treatment_is_a": true
+ },
+ "active-learning\tModeling Instruction course\tpre-instruction baseline": {
+  "label": "Modeling Instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tModeling Instruction with active, collaborative modeling activities\tstudents' pre-course baseline": {
+  "label": "Modeling Instruction vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPER-based secondary implementations outside the US\tUS secondary implementations": {
+  "label": "Non-US vs US secondary implementations",
+  "treatment_is_a": true
+ },
+ "active-learning\tPigelleto's Summer School of Physics with active laboratory and cooperative activities\tother activities or not stated": {
+  "label": "Active laboratory and cooperative activities vs other or unspecified activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tTracker inquiry activity with students proposing and testing models\tteacher spoon-feeding": {
+  "label": "Tracker-based inquiry vs teacher-directed spoon-feeding",
+  "treatment_is_a": true
+ },
+ "active-learning\tTracker inquiry and video modeling\tbeing spoon-fed by teachers": {
+  "label": "Tracker-based inquiry and video modeling vs teacher-directed spoon-feeding",
+  "treatment_is_a": true
+ },
+ "active-learning\tTracker video lesson using real-life motion and interactive modeling\tconventional theory- and formula-based learning without the Tracker video lesson": {
+  "label": "Tracker-based video modeling and real-life motion vs conventional theory-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTracker-based inquiry and video modeling\tpassive, teacher-directed or spoon-fed learning": {
+  "label": "Tracker-based inquiry and video modeling vs passive teacher-directed learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive teacher engagement in designing and implementing laboratory learning paths\tless active or non-participatory professional development": {
+  "label": "Active teacher participation in professional development vs passive or non-participatory professional development",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-engagement scientific-practices teaching\ttraditional or passive teaching": {
+  "label": "Active-engagement scientific-practices teaching vs traditional or passive teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tauthentic physics discussion using speech, gestures, and a shared object\tdecontextualized or linguistically complex discussion": {
+  "label": "Authentic, contextualized physics discussion vs decontextualized or linguistically complex discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tcontext-rich problems in cooperative groups with explicit problem-solving instruction\ttraditionally taught students": {
+  "label": "Cooperative, context-rich problem solving with explicit instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\textensive in-class and online discussion of the article\tnot stated": {
+  "label": "Extensive article discussion vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\thybrid Collaborative Workshop Physics instruction\tpre-reform instruction": {
+  "label": "Collaborative Workshop Physics vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tin-class and online discussions during a publishable review-article project\tnot stated": {
+  "label": "Discussion during a publishable review-article project vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tinductive reasoning from shared physical observations\tdiscussion without shared observation and evidence-based induction": {
+  "label": "Inductive reasoning from shared observations and evidence vs discussion without shared observation",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive P&E method with problem tasks, experiments, and analysis\ttraditional lectures and quantitative-task seminars": {
+  "label": "Interactive problem-and-experiment method vs traditional lectures and quantitative seminars",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement teaching\tless interactive or traditional teaching": {
+  "label": "Interactive-engagement teaching vs less interactive or traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive engagement teaching\ttraditional teaching": {
+  "label": "Interactive-engagement teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive teaching methods\tinitial pre-intervention state": {
+  "label": "Interactive teaching methods vs initial pre-intervention state",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive-engagement instruction with qualitative discussion and conceptual focus\tstandard lecture instruction": {
+  "label": "Interactive, qualitative-first conceptual instruction vs standard lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tlater CWP sessions after students adjusted\tinitial CWP sessions": {
+  "label": "Later, adjusted Collaborative Workshop Physics sessions vs initial sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore interactive modules\tless interactive modules": {
+  "label": "More interactive modules vs less interactive modules",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore interactive network-science modules\tless interactive modules": {
+  "label": "More interactive network-science modules vs less interactive modules",
+  "treatment_is_a": true
+ },
+ "active-learning\trelevant and engaging exercises\tlecture alone": {
+  "label": "Relevant and engaging exercises vs lecture alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tsection I's interactive-engagement, qualitative-first organization\tsection IV's standard lecture organization": {
+  "label": "Interactive-engagement, qualitative-first organization vs standard lecture organization",
+  "treatment_is_a": true
+ },
+ "active-learning\tshared tangible physics testing and peer discussion\tusual classroom discourse without the shared test": {
+  "label": "Shared tangible physics testing and peer discussion vs usual classroom discourse",
+  "treatment_is_a": true
+ },
+ "active-learning\tsustained collaborative discourse with challenges and debate\tearly supportive, non-challenging discourse": {
+  "label": "Sustained, challenging collaborative discourse vs early supportive non-challenging discourse",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-driven collaborative discourse and reflection\tearly ambiguous inquiry talk": {
+  "label": "Teacher-guided collaborative discourse and reflection vs ambiguous inquiry talk",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-led professional-community participation\tresearcher-led early participation": {
+  "label": "Teacher-led professional-community participation vs researcher-led early participation",
+  "treatment_is_a": true
+ },
+ "active-learning\ttutorial-based active instruction\tnot stated": {
+  "label": "Tutorial-based active instruction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tvideo modeling with prediction, observation, and explanation\tno explicit comparison condition": {
+  "label": "Video modeling with prediction, observation, and explanation vs no explicit comparison",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended computational project with student-selected topic\tno comparison reported": {
+  "label": "student-selected topic vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers setting meeting agendas\tresearchers setting meeting agendas": {
+  "label": "teacher-set meeting agendas vs researcher-set meeting agendas",
+  "treatment_is_a": true
+ },
+ "case-comparison\tincorrect dynamic model with fx = 10 N\treal projectile-motion data": {
+  "label": "simulated data vs real data",
+  "treatment_is_a": true
+ },
+ "case-comparison\tmicroscopic examination of oobleck\tcorn syrup": {
+  "label": "oobleck vs corn syrup",
+  "treatment_is_a": true
+ },
+ "debriefing\tguided discussion after the changes-of-state laboratory\tnot stated": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tQualitative forces-and-motion ideas emphasized before quantitative applications\tStandard lecture organization, teaching ideas and calculations together": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tQualitative principles first, then algebraically complicated problems\tIdeas and calculations taught together throughout the quarter": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tQualitative principles first, then algebraically complicated problems\tIdeas and calculations taught together throughout the quarter in the other sections": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tformal mathematics problems before context-laden physics problems\tcontext-laden physics problems before formal mathematics problems": {
+  "label": "Formal-mathematics-first sequencing vs context-laden-physics-first sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative force-and-motion ideas before algebraically complicated problems\tideas and calculations taught together in a standard lecture-type class": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative force-and-motion ideas before algebraically complicated problems\tideas and calculations taught together throughout": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative force-and-motion ideas first 6 weeks, complicated applications in final 4 weeks\tideas and calculations taught together throughout 10 weeks": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative force-and-motion ideas first, complicated problems later\tideas and calculations taught together throughout": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative ideas and discussion before computational practice\tideas introduced alongside computational problems topic by topic": {
+  "label": "Qualitative-first sequencing vs topic-by-topic integrated sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative ideas and discussions first, followed by computational practice\tnew ideas introduced alongside computationally complicated problems topic by topic": {
+  "label": "Qualitative-first sequencing vs topic-by-topic integrated sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative ideas and practice first, computational problems later\tideas introduced alongside algebraically complicated problems topic by topic": {
+  "label": "Qualitative-first sequencing vs topic-by-topic integrated sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tqualitative principles first, computationally complicated problems later\tideas and calculations taught together throughout the course": {
+  "label": "Qualitative-first sequencing vs integrated ideas-and-calculations sequencing",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tsecond module after a prior module\tfirst module": {
+  "label": "Later module vs earlier module",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstructor explains during small-group work\tStudents continue working through difficult parts": {
+  "label": "Instructor explanation during group work vs continued student work without explanation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPHYS3A explicit quantum-perspective instruction\tPHYS3B traditional instruction with an agnostic stance": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPHYS3A post-instruction\tPHYS3A pre-instruction": {
+  "label": "Post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPHYS3A quantum-interpretation instruction\tpre-instruction baseline": {
+  "label": "Explicit quantum-interpretation instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPHYS3B less-explicit, agnostic instruction\tpre-instruction baseline": {
+  "label": "Less-explicit, agnostic instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPHYS3B post-instruction\tPHYS3B pre-instruction": {
+  "label": "Post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRealist/Statistical instructional approach\tQuantum and Copenhagen/Agnostic instructional approaches": {
+  "label": "Realist/statistical instructional approach vs quantum/Copenhagen/agnostic approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tafter one semester of modern physics instruction\tbefore modern physics instruction": {
+  "label": "Post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tagnostic, less explicit interpretation instruction\texplicit teaching of a quantum interpretation": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tagnostic, less-explicit instruction\texplicitly taught quantum interpretation": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tepistemologized physics course using research-based instructional methods and explicit epistemological reform\ttraditional algebra-based physics course": {
+  "label": "Explicit epistemological reform with research-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit Taylor-approximation cueing\timplicit approximation cueing": {
+  "label": "Explicit Taylor-approximation cueing vs implicit approximation cueing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit Taylor-expansion cueing\timplicit approximation cueing": {
+  "label": "Explicit Taylor-approximation cueing vs implicit approximation cueing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit cueing to use a Taylor approximation\timplicit cueing in context-laden physics problems": {
+  "label": "Explicit Taylor-approximation cueing vs implicit approximation cueing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction on quantum measurement and uncertainty\tmore agnostic instruction about quantum measurement": {
+  "label": "Explicit instruction on quantum measurement and uncertainty vs agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching of problem-solving practices in cooperative groups\ttraditional teaching": {
+  "label": "Explicit problem-solving-practice instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught delocalized wave-packet interpretation\tless explicit, agnostic approach to interpretation": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught non-classical quantum interpretation\tless explicit, agnostic approach to interpretation": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught quantum interpretation\tagnostic, less-explicit instruction": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught quantum interpretation\tless explicit, agnostic approach": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly teach a quantum interpretation\tless explicit, agnostic approach": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly teaching a delocalized wave-packet interpretation\tless explicit, agnostic treatment of interpretation": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tless-explicit, agnostic instruction in PHYS3B\texplicit teaching of a quantum interpretation in PHYS3A": {
+  "label": "Explicit quantum-interpretation instruction vs agnostic, less-explicit instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tmore explicit promotion of non-classical perspectives\tless explicit, more agnostic treatment": {
+  "label": "More explicit promotion of non-classical perspectives vs less-explicit, agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction RCI\tpre-instruction RCI": {
+  "label": "Post-instruction vs pre-instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-instruction RCI performance\trandom-answering expectation": {
+  "label": "Post-instruction RCI performance vs random-answering expectation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpre-instruction RCI performance\trandom-answering expectation": {
+  "label": "Pre-instruction RCI performance vs random-answering expectation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprompt to use direct integration\tno such prompt": {
+  "label": "Explicit direct-integration cue vs no cue",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional lecture-based instruction with exercises, laboratories and exams\tnot stated": {
+  "label": "Traditional lecture-based instruction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tclose faculty mentoring and regular feedback\tprocrastinating groups with little or no mentoring": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpeer review with critical feedback\tno peer review described": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tregular faculty-mentor feedback\tworking until the deadline without regular feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trepeated peer and instructor review of article sections\tnot stated": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGrading by Category feedback\ttraditional grading techniques": {
+  "label": "category feedback vs traditional grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tadaptive pre-test, concept learning, and post-test\tnot stated": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tanalysis of students’ written examination work to improve teaching\tno comparison condition reported": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tHiggs boson card game\tno game or alternative instruction not stated": {
+  "label": "game-based learning vs non-game instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tHiggs boson card game\tnot stated": {
+  "label": "game-based learning vs non-game instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tData-driven model building with prediction, comparison and explanation\tauthoritative sources of knowledge such as teachers and books": {
+  "label": "Data-driven model building vs authoritative knowledge sources",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tData-driven model construction using values from video analysis\tcompletely trial-and-error model construction": {
+  "label": "Data-driven model construction vs trial-and-error model construction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tData-driven modeling using values obtained from video analysis\tCompletely trial-and-error modeling": {
+  "label": "Data-driven model construction vs trial-and-error model construction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDynamic-particle models tested against real video data\tverbal explanation or untested mental models": {
+  "label": "Empirically tested dynamic-particle modeling vs verbal or untested mental modeling",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tMarble Game modeling instruction and guided practice\tnovel osmosis problem not previously discussed": {
+  "label": "Guided modeling instruction and practice vs unguided novel problem solving",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tMarble Game modules with directed scientific discovery\tno comparison condition reported": {
+  "label": "Directed scientific discovery vs no reported comparison condition",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tcomputer models used through student-centred guided inquiry\tnot stated": {
+  "label": "Student-centred guided inquiry with computer models vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdata-driven iterative model construction\tcompletely trial and error modeling": {
+  "label": "Data-driven model construction vs trial-and-error model construction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdirected scientific discovery with the Marble Game\ttraditional passive lecture-based instruction": {
+  "label": "Guided scientific discovery vs passive lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry with hands-on experiments\ttraditional chalk-and-talk teaching": {
+  "label": "Hands-on guided inquiry vs chalk-and-talk teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry-based teaching\ttraditional presentation or chalk-and-talk teaching": {
+  "label": "Guided inquiry-based teaching vs traditional presentation teaching",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry-based teaching with hands-on experiments\tmere presentation of scientific facts": {
+  "label": "Hands-on guided inquiry vs presentation of scientific facts",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguiding students toward their own discovery through open-ended group problems\tpackaged results and problems with neat answers": {
+  "label": "Open-ended group discovery problems vs packaged results and neat-answer problems",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic video demonstration\tnon-anthropomorphic text and static diagrams": {
+  "label": "video demonstration vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic video demonstration\tstatic diagrams with explanatory text": {
+  "label": "video demonstration vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic video demonstration with spoken instructions\tnon-anthropomorphic static diagrams with identical explanatory text": {
+  "label": "video demonstration vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic video demonstration with spoken instructions\tnon-anthropomorphic static diagrams with the same explanatory text": {
+  "label": "video demonstration vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic video tutorial\tstatic diagrams with identical text": {
+  "label": "video tutorial vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tcustomized energy simulation with added features\tno comparison condition reported": {
+  "label": "not a valid contrast: comparison condition not reported",
+  "treatment_is_a": false
+ },
+ "media-design\thuman video demonstrating sewing stitches\tstatic diagrams with identical explanatory text": {
+  "label": "video demonstration vs static diagrams with explanatory text",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia presentation\tpaper and other technical means": {
+  "label": "multimedia presentation vs paper or other non-multimedia media",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcontinued practice with graphing and proportional-relationship activities\tless practice": {
+  "label": "continued practice vs less/no continued practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcontinued practice with graphs and proportional relationships\tless or no continued practice": {
+  "label": "continued practice vs less/no continued practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater online homework completion\tless online homework completion": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher homework completion\tlower homework completion": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework completed\tless assigned homework completed": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework completed by low aptitude students\tless assigned homework completed by low aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework completed by medium-low aptitude students\tless assigned homework completed by medium-low aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework problems completed by high-aptitude students\tfewer assigned homework problems completed by high-aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework problems completed by low-aptitude students\tfewer assigned homework problems completed by low-aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework problems completed by medium-high-aptitude students\tfewer assigned homework problems completed by medium-high-aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore assigned homework problems completed by medium-low-aptitude students\tfewer assigned homework problems completed by medium-low-aptitude students": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore homework completion\tless homework completion": {
+  "label": "more homework completion vs less homework completion",
+  "treatment_is_a": true
+ },
+ "prompts\tpotential problem without a prior total-charge prompt\tpotential problem preceded by a total-charge prompt": {
+  "label": "prompted total-charge reasoning vs unprompted total-charge reasoning",
+  "treatment_is_a": false
+ },
+ "prompts\tprompted reflection on predictions and known results\treflection without prompting": {
+  "label": "prompted reflection vs unprompted reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted to reflect on solutions\tnot prompted to reflect": {
+  "label": "prompted reflection on solutions vs unprompted reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tseparately numbered comparison questions with explicit explanation prompts\tless explicit comparison questions": {
+  "label": "explicit comparison prompts vs less-explicit comparison prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tseparately numbered prompts for explicit calculation-to-simulation comparisons\toriginal comparison questions": {
+  "label": "explicit calculation-to-simulation comparison prompts vs less-explicit comparison questions",
+  "treatment_is_a": true
+ },
+ "prompts\tseparately numbered questions explicitly asking students to compare calculations with simulation results and explain the graphical or experimental correspondence\toriginal activity with less explicit comparison questions": {
+  "label": "explicit calculation-to-simulation comparison prompts vs less-explicit comparison questions",
+  "treatment_is_a": true
+ },
+ "prompts\tteacher directed attention to the linear v-t graph\tstudent's initial interpretation of velocity decrease": {
+  "label": "teacher-directed attention vs unguided attention",
+  "treatment_is_a": true
+ },
+ "prompts\ttransformed advanced lab course\tpre-transformation course": {
+  "label": "prompt-enhanced course vs pre-transformation course",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tchanged teacher-ranking score rules and proliferation of online courses\tearlier ranking-score rules and fewer online courses": {
+  "label": "revised teacher-ranking rules with more online courses vs earlier ranking rules with fewer online courses",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigher course credit for homework\tlower course credit for homework": {
+  "label": "higher vs lower homework credit",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigher course credit for homework completion\tlower or no course credit for homework completion": {
+  "label": "higher vs lower/no credit for homework completion",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigher percentage of course credit for homework\tlower percentage of course credit for homework": {
+  "label": "higher vs lower percentage of course credit for homework",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tin-class quizzes taken directly from homework problems\tin-class quizzes conceptually related to homework but not taken directly from it": {
+  "label": "quizzes directly repeating homework problems vs conceptually related but different quiz problems",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive instruction matched to the learner's Jackson learning style\tfixed-style e-learning instruction": {
+  "label": "adaptive/personalized scaffolding vs fixed/uniform instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive intelligent mobile tutor\tprevious systems and human expert tutor": {
+  "label": "adaptive intelligent tutoring vs conventional tutoring",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive intelligent tutoring tailored to learner characteristics\tfixed, uniform delivery for all learners": {
+  "label": "adaptive/personalized scaffolding vs fixed/uniform instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tappropriate supports\tspontaneous reconciliation without supports": {
+  "label": "supported reconciliation vs unsupported reconciliation",
+  "treatment_is_a": true
+ },
+ "simulation\t3D geostationary-orbit simulation\t2D textbook diagram and real-life observation": {
+  "label": "3D simulation vs 2D diagram/real-world observation",
+  "treatment_is_a": true
+ },
+ "simulation\tDynamic-particle model tested against real video data\tVerbal explanation or a model retaining a non-zero force in the x direction": {
+  "label": "Data-validated dynamic-particle model vs verbal or non-dynamic model",
+  "treatment_is_a": true
+ },
+ "simulation\tFDTD simulation laboratory\told University of Washington instruction": {
+  "label": "FDTD simulation laboratory vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tFDTD simulation-based laboratory exercise\told University of Washington instructional system": {
+  "label": "FDTD simulation laboratory vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tMarble Game modeling framework and kMC/finite-difference practice\ttraditional instruction focused on previously taught or conventional models": {
+  "label": "Simulation/modeling-based practice vs traditional model-focused instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tMonte Carlo two-level random model\tfield data": {
+  "label": "Monte Carlo simulation/model vs field data",
+  "treatment_is_a": true
+ },
+ "simulation\tNew Quantum Curriculum simulations and accompanying activities\tinitial versions before observation-informed revisions": {
+  "label": "Revised simulation curriculum vs initial simulation curriculum",
+  "treatment_is_a": true
+ },
+ "simulation\tPbI worksheet with customized EJS computer model\ttraditional instruction": {
+  "label": "Customized EJS simulation worksheet vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tPbI worksheet with customized EJS model\ttraditional instruction": {
+  "label": "Customized EJS simulation worksheet vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tkMC algorithm modeling\tFD modeling technique": {
+  "label": "Kinetic Monte Carlo modeling vs finite-difference modeling",
+  "treatment_is_a": true
+ },
+ "simulation\trepeatedly validating the simulated world against the real world\tinitial model without repeated validation": {
+  "label": "Repeated model validation vs initial model without repeated validation",
+  "treatment_is_a": true
+ },
+ "simulation\tsoftware environments and virtual laboratories\tphysical equipment and reagents": {
+  "label": "Virtual laboratory vs physical laboratory",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2011 LHC-data masterclass exercises\t2010 LEP-data masterclass exercises": {
+  "label": "2011 LHC-data masterclass exercises vs 2010 LEP-data masterclass exercises",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D EJS satellite simulation\t2D textbook diagrams": {
+  "label": "3D simulation vs 2D textbook diagrams",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D cooperative instruments with circuit measurement\tno comparison condition stated": {
+  "label": "3D cooperative instruments with circuit measurement vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D gravity-physics simulation\t2D textbook diagram": {
+  "label": "3D simulation vs 2D textbook diagrams",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D virtual instruments with cooperative circuit measurement\tno comparison condition stated": {
+  "label": "3D virtual instruments with cooperative circuit measurement vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based VR headset training\tnot stated": {
+  "label": "AI-based VR headset training vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based clinical skills assessment\ttraditional subjective evaluation": {
+  "label": "AI-based clinical skills assessment vs traditional subjective evaluation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based scenario training\tpre-test": {
+  "label": "AI-based scenario training vs pre-test",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based scenario training\ttraditional training": {
+  "label": "AI-based scenario training vs traditional training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based scenario training\ttraditional training only": {
+  "label": "AI-based scenario training vs traditional training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based sepsis training\thuman-controlled virtual reality simulation": {
+  "label": "AI-based sepsis training vs human-controlled virtual reality simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based training\tpre-test baseline": {
+  "label": "AI-based training vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based training using ChatGPT scenarios\ttraditional training only": {
+  "label": "AI-based training using ChatGPT scenarios vs traditional training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based virtual standardized patients\ttraditional human standardized patients": {
+  "label": "AI-based virtual standardized patients vs traditional human standardized patients",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\talternative training methods": {
+  "label": "AI-based web application vs alternative training methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tannotated dataset": {
+  "label": "AI-based web application vs annotated dataset",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tlecture and annotated-dataset training": {
+  "label": "AI-based web application vs lecture and annotated-dataset training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tpreannotated bitewing dataset": {
+  "label": "AI-based web application vs preannotated bitewing dataset",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tpreannotated dataset": {
+  "label": "AI-based web application vs preannotated dataset",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based web application\tprerecorded lecture": {
+  "label": "AI-based web application vs prerecorded lecture",
+  "treatment_is_a": true
+ },
+ "test-format\tMC-type examination system\tOE-type examination system": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": true
+ },
+ "test-format\textensive practice with MC questions\tpractice with OE questions": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": true
+ },
+ "test-format\textensive practice with multiple-choice questions\textensive practice with open-ended questions": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": true
+ },
+ "test-format\textensive practice with open-ended questions\textensive practice with multiple-choice questions": {
+  "label": "multiple-choice vs open-ended",
+  "treatment_is_a": false
+ },
+ "test-format\topen-ended computational final project\thomework and exams": {
+  "label": "open-ended computational project vs homework and exams",
+  "treatment_is_a": true
  }
 }

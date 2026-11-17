@@ -47,3 +47,4 @@ Authors' retrospective interpretation of their single case study. Recruitment us
 ## Related Claims
 - [Course-level factors increasing MOOC effectiveness include discussion forums, multiple resources and delivery systems, interactivity, and teacher communication and support](mooc-course-level-effectiveness-factors.md) — related
 - [Occasional contests with small prizes were the most effective single tactic at generating forum participation, with prize threads drawing the most replies](contests-small-prizes-most-effective-forum-participation.md) — related
+- [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — related

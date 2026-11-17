@@ -67,3 +67,5 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related
 - [Distributing pre-class video links three days versus two weeks in advance produced no significant difference in viewing rates](link-timing-no-significant-viewing-difference.md) — related
 - [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related
+- [EI Videos were widely utilized among cadets attending evening EI, with 94% of surveyed attendees watching at least one video and most watching ten or fewer](ei-videos-widely-utilized-survey.md) — related
+- [Participation in YWYL attenuates sharply across the first five weeks, with homework participation falling from 15% to 2% and only 2% and 1% completing the first two labs](ywyl-participation-attenuation-labs.md) — related

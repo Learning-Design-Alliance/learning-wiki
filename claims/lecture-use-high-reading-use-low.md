@@ -67,3 +67,4 @@ Supplement 1 reasons for incomplete preparedness; additionally, 85 (36%) unprepa
 - [Perceived relevance and difficulty of pre-class materials predicted pre-test scores, while preparedness did not](material-perceptions-predict-pretest.md) — related
 - [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
+- [In the first inverted Higher Mathematics session, most students had watched all videos beforehand and could reproduce key points from them](icm-pilot-most-students-watched-videos.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 recheck_by: 2016
 sources:
   - id: di-renzone-s-2011
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Despite excellent boundary conditions and motivated, talented students, the laboratory instructors encountered learning problems on fundamental topics related to proper data collection and use. [→ Di Renzone S. 2011](#di-renzone-s-2011)
@@ -50,3 +51,4 @@ Qualitative report from the authors' optional extracurricular laboratory with fe
 - [The Physics Film Project concluded that physics can be taught effectively with the filmed course despite inadequately prepared instructors and ill-equipped laboratories](physics-taught-effectively-with-filmed-course.md) — related
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
 - [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
+- [Students in the wave-physics learning path were adept with devices and simple measurements but showed difficulty handling open-ended experimental situations and home tasks](open-situations-difficulty-wave-lab-students.md) — related

@@ -63,6 +63,7 @@ Prior knowledge is among the strongest predictors of new learning: what students
 - [Activate Background Knowledge](activate_background_knowledge.md) — narrower elicitation techniques
 - [Accessible Syntax](accessible_syntax.md) — complementary language-access strategy for multilingual learners
 - [Combine theoretical background and experience-based teaching strategies to develop relational competence](combine-theoretical-and-experience-based-teaching.md)
+- [Introduce new science topics in students' own language through fictional dialogues that address common misconceptions](student-language-warmup-dialogues-strategy.md)
 
 ## Examples
 - **Steffensen, Joag-Dev, and Anderson (1979)** — readers recalled a passage about a wedding far better when it described a wedding from their own culture, demonstrating how background knowledge drives comprehension even with identical text.

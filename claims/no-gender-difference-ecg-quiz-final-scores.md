@@ -53,3 +53,4 @@ Observational analysis of quiz and OSCE ECG station scores for 1315 medical stud
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
 - [Female dental students performed significantly better than male students in all three cohort groups](female-dental-students-outperformed-males-all-groups.md) — related
 - [Female medical undergraduates performed better than males at the final MBBS examination](females-better-final-mbbs-performance.md) — related
+- [The same student cohorts show no statistically significant gender gap in end-of-course examination performance](no-exam-gender-gap-same-cohorts.md) — a broader claim this one bears on

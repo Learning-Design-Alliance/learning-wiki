@@ -82,6 +82,7 @@ Schema-based instruction works because expert problem solving is driven by recog
 - [Teach learners to recode semantically incongruent representations by comparing strategies and studying the problem's deep structure](deep-structure-recoding-training.md)
 - [Use single-domain text-structure intervention to address comorbid reading and word-problem difficulty](single-domain-intervention-for-comorbid-rc-wps.md)
 - [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
+- [Design practice problems emphasizing identifying small parameters and mapping expansion templates across varied contexts](small-parameters-and-template-mapping-practice-strategy.md)
 
 ## Examples
 - **Jitendra's schema-based instruction program** — a line of intervention studies teaching addition/subtraction and multiplication/division schemas with diagrams to elementary and middle school students, including students with disabilities; consistently improved word-problem accuracy relative to comparison instruction [Xin & Jitendra, 1999](https://doi.org/10.1080/00220679909597622).

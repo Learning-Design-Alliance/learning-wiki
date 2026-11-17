@@ -110,3 +110,4 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [Voluntary practice quizzes plus a true/false summative test alone (step I) produced no measurable knowledge improvement](step-i-quizzes-no-knowledge-improvement.md) — related
 - [Analysis of errors in VSA examinations is possible and affords greater insight into students' knowledge and understanding than SBA analysis](vsa-error-analysis-possible-insight.md) — related
 - [Undesirable answer changes (correct to incorrect, same incorrect answer retained) occurred infrequently, at or below 10% of answers](crmcq-undesirable-changes-infrequent.md) — related
+- [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related

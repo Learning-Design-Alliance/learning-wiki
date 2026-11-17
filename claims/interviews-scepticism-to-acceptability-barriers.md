@@ -71,3 +71,4 @@ Theme two (reflections on training experience): "barriers included technical dif
 - [Physiotherapists valued the comprehensive, self-paced web-based modules but were frustrated by unwieldy platform features](self-paced-modules-valued-platform-frustrations.md) — related
 - [Initially sceptical staff found the online variant an acceptable alternative that did not take significantly more time than classroom teaching](staff-accepted-online-variant-without-extra-time.md) — related
 - [Six of thirty-three practices experienced initial technical difficulties with the STAR online training, with video streaming delays causing frustration](star-online-technical-difficulties-six-of-33-practices.md) — related
+- [In interviews, most CWP students initially reacted negatively to workshop sessions but reported improved feelings after about a month of experience](cwp-initial-attitudes-negative-then-improved.md) — a narrower finding that bears on this claim

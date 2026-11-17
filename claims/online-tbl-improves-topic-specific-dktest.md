@@ -88,3 +88,4 @@ Subgroup analysis of the metabolism TBL arm of the same trial; the topic-matched
 - [No permanent-team benefit in either TBL-topic subgroup; permanent teams tended to perform worse after the cardiovascular TBL](no-permanent-team-benefit-either-topic-subgroup.md) — related
 - [No sex differences in team-composition effects or in the TBL benefit on dkTest scores](no-sex-moderation-team-composition-or-tbl-benefit.md) — related
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
+- [Only 9% of surveyed students reported sufficient prior knowledge of the image-formation topics covered by the exhibit](holographic-exhibit-low-prior-knowledge-9-percent.md) — related

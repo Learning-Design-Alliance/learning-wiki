@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2012
 sources:
   - id: caballero-2012
-    resource: "https://doi.org/10.48550/arXiv.1107.5216"
-    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)"
+    resource: "https://doi.org/10.1103/physrevstper.8.020106"
+    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)"
     author: Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A.
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Caballero 2012
 
-Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)
+Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)
 
 `q2 · i?` · `design · r2`
 

@@ -54,3 +54,4 @@ Preliminary partial correlational analyses in Study 1 (n = 49) compared training
 - [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](implementation-intentions-no-exam-performance-effect.md) — related
 - [Specific active strategies — completing problem sets, self-quizzing, and explaining concepts — were uniquely predictive of biology exam performance, while passive strategies were nonsignificant or negative](specific-active-strategies-uniquely-predictive-biology.md) — related
+- [Student engagement predicts lab exam performance after controlling for pre-test scores](engagement-correlates-lab-learning.md) — related

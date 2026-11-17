@@ -12,24 +12,24 @@ evidence_strength: moderate
 newest_evidence: 2012
 sources:
   - id: caballero-2012
-    resource: "https://doi.org/10.48550/arXiv.1107.5216"
-    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)"
+    resource: "https://doi.org/10.1103/physrevstper.8.020106"
+    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)"
     author: Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A.
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: caballero-2012-2
-    resource: "https://doi.org/10.48550/arXiv.1107.5216"
-    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)"
+    resource: "https://doi.org/10.1103/physrevstper.8.020106"
+    title: "Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)"
     author: Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A.
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: marcos-d-caballero-2011
-    resource: "https://doi.org/10.48550/arXiv.1112.5069"
-    title: "Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.48550/arXiv.1112.5069](https://doi.org/10.48550/arXiv.1112.5069)"
+    resource: "https://doi.org/10.1063/1.3679982"
+    title: "Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.1063/1.3679982](https://doi.org/10.1063/1.3679982)"
     author: Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz
     q: 3
     i: "?"
@@ -54,7 +54,7 @@ sources:
 
 ### Caballero 2012
 
-Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)
+Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)
 
 `q2 · i?` · `design · r2`
 
@@ -64,7 +64,7 @@ Proctored final lab assignment delivered over three semesters to 1357 students i
 
 ### Caballero 2012 (2)
 
-Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.48550/arXiv.1107.5216](https://doi.org/10.48550/arXiv.1107.5216)
+Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. [doi:10.1103/physrevstper.8.020106](https://doi.org/10.1103/physrevstper.8.020106)
 
 `q2 · i?` · `design · r2`
 
@@ -74,7 +74,7 @@ Cross-semester comparison of three slightly modified versions of the proctored a
 
 ### Marcos D. Caballero 2011
 
-Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.48550/arXiv.1112.5069](https://doi.org/10.48550/arXiv.1112.5069)
+Marcos D. Caballero, Matthew A. Kohlmyer and Michael F. Schatz. (2011). Fostering Computational Thinking In Introductory Mechanics. [doi:10.1063/1.3679982](https://doi.org/10.1063/1.3679982)
 
 `q3 · i?` · `design · r2`
 
@@ -96,3 +96,5 @@ Proctored final-lab evaluation in a large introductory mechanics course, deliver
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
 - [Introductory physics students' COMPASS scores became less favorable after instruction across mechanics and electromagnetism courses using computational modeling](compass-scores-less-favorable-post-instruction.md) — related
 - [Prior programming experience did not predict success on the proctored computational evaluation.](prior-programming-experience-no-advantage.md) — related
+- [Final project performance was on par with homework and exam grades, with students strongest on physics, model, and working code and weakest on evaluating outcomes and synthesis](final-project-rubric-performance-pattern.md) — related
+- [Roughly a third of 9th-grade Modeling Instruction students successfully complete an unaided VPython computational model of a baseball in motion](third-of-ninth-graders-succeed-vpython-proctored-model.md) — related

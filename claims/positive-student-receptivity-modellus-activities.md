@@ -11,16 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: rui-gomes-neves-2010
-    resource: "https://doi.org/10.48550/arXiv.1006.4655"
-    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)"
+    resource: "https://doi.org/10.1007/978-94-007-0910-2_33"
+    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)"
     author: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro"
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: rui-gomes-neves-2010-2
-    resource: "https://doi.org/10.48550/arXiv.1006.4655"
-    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)"
+    resource: "https://doi.org/10.1007/978-94-007-0910-2_33"
+    title: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)"
     author: "Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro"
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### Rui Gomes Neves 2010
 
-Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)
+Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)
 
 `q2 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ End-of-semester questionnaire (2009) administered to the general physics student
 
 ### Rui Gomes Neves 2010 (2)
 
-Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.48550/arXiv.1006.4655](https://doi.org/10.48550/arXiv.1006.4655)
+Rui Gomes Neves, Jorge Carvalho Silva & Vítor Duarte Teodoro. (2010). Improving Learning in Science and Mathematics with Exploratory and Interactive Computational Modelling. [doi:10.1007/978-94-007-0910-2_33](https://doi.org/10.1007/978-94-007-0910-2_33)
 
 `q2 · i?` · `design · r2`
 

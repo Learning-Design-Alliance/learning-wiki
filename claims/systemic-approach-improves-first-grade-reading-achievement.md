@@ -49,3 +49,4 @@ Quasi-experiment with all 45 first graders at Mu'tah University Model School ass
 - [Second-grade students taught Arabic with pictorial stories significantly outperformed traditionally taught controls on an achievement test, with a large group effect](pictorial-story-raises-arabic-achievement-second-grade.md) — related
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related
+- [Students taught with the interactive P&E method achieved higher didactic test scores than students taught traditionally](2010-posttest-means-experimental-vs-control.md) — related

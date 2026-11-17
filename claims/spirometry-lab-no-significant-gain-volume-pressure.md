@@ -50,3 +50,4 @@ Midterm exam comparison between test and control sections on volume-pressure-air
 - [Within test sections, students performed significantly better on spirometry concepts than on other midterm concepts when data were pooled across semesters](spirometry-concepts-beat-other-concepts-within-test-sections.md) — a broader claim this one bears on
 - [The spirometry-based active learning lab produced the largest performance gain on questions about the hallmarks of restrictive and obstructive respiratory diseases](spirometry-lab-improves-respiratory-disease-performance.md) — related
 - [A spirometry-based active learning lab improved community college students' performance on respiratory volumes questions relative to control sections](spirometry-lab-improves-respiratory-volumes-performance.md) — related
+- [Students improve significantly on shared pre- and post-test lab exam items](significant-lab-skill-gains-inquiry-physics.md) — related

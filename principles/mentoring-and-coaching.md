@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (50 for, 33 mixed, 7 against) · 69 studies (20 causal, 15 review, 12 associational, 11 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 69 report an effect size · 86 claims rest on one study
+> **Evidence** · 91 claims (51 for, 33 mixed, 7 against) · 70 studies (20 causal, 15 review, 12 associational, 11 qualitative, 5 quant-synthesis, 5 design, 2 theoretical), `q1`–`q4` · 7 of 70 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Just-in-time coaching accelerated competency: success-rate advantages emerged by intubation rounds two and three, then narrowed as controls improved](../claims/jit-coaching-competency-acceleration-rounds.md) [+W] — attached 2026-11-07 from Flynn Stephen G et al. (2024), which proposed "Provide brief expert coaching immediately before a high stakes procedure rather than relying only on intraoperative instruction"; tests this page's relationship.
 - [Access to clinical supervision was identified as necessary for clinicians to build confidence and embed self-management facilitation skills after brief training](../claims/clinical-supervision-embeds-self-management-skills.md) [+W] — attached 2026-11-10 from Dures Emma et al. (2014), which proposed "Design brief self-management skills training as rheumatology-specific, with preparatory materials, practice sessions, boundary discussion, and ongoing clinical supervision".
 - [Assigned mentors can produce superficial mentoring relationships; mentees should instead choose from a list of potential mentors](../claims/assigned-mentors-superficial-relationship.md) [+W] — attached 2026-11-10 from Straus Sharon E et al. (2011), which proposed "Build national research-training capacity by combining structured streams, mentorship grounded in mentorship research, and partnership-based sustainability".
+- [Remote mentoring of young females in STEM was reported to build mentees' skills, confidence, scientific visibility, and career awareness, with a minority reporting discontent](../claims/magic-remote-mentoring-impact-on-mentees.md) [+W] — attached 2026-11-17 from Khare et al. (2013), which proposed "Personalize and scale STEM mentoring for girls through remote one-on-one mentoring rather than face-to-face-only models"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

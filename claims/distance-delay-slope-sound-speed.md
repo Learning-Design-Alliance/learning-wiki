@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2007
 sources:
   - id: carlos-c-carvalho-2007
-    resource: "https://doi.org/10.48550/arXiv.0712.1577"
-    title: "Carlos C. Carvalho, J. M. B. Lopes dos Santos, M. B. Marques. (2007). A time of flight method to measure the speed of sound using a stereo sound card. [doi:10.48550/arXiv.0712.1577](https://doi.org/10.48550/arXiv.0712.1577)"
+    resource: "https://doi.org/10.1119/1.2981293"
+    title: "Carlos C. Carvalho, J. M. B. Lopes dos Santos, M. B. Marques. (2007). A time of flight method to measure the speed of sound using a stereo sound card. [doi:10.1119/1.2981293](https://doi.org/10.1119/1.2981293)"
     author: Carlos C. Carvalho, J. M. B. Lopes dos Santos, M. B. Marques
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Carlos C. Carvalho 2007
 
-Carlos C. Carvalho, J. M. B. Lopes dos Santos, M. B. Marques. (2007). A time of flight method to measure the speed of sound using a stereo sound card. [doi:10.48550/arXiv.0712.1577](https://doi.org/10.48550/arXiv.0712.1577)
+Carlos C. Carvalho, J. M. B. Lopes dos Santos, M. B. Marques. (2007). A time of flight method to measure the speed of sound using a stereo sound card. [doi:10.1119/1.2981293](https://doi.org/10.1119/1.2981293)
 
 `q2 · i?` · `design · r2`
 

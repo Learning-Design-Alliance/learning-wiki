@@ -61,6 +61,7 @@ Publishing for real readers changes both motivation and revision behavior: when 
 - [Action-Oriented Feedback](action-oriented-feedback.md) — structures the audience response so it targets the work, not the writer
 - [Acting-Role-Play](acting-role-play.md) — a related way of making audience and purpose authentic through embodied performance
 - [Solicit and formally review unsolicited scholarly responses when publishing a controversial position](solicit-reviewed-responses-to-controversial-positions.md)
+- [Involve students in the full publishing process, including journal selection, copyright and plagiarism discussion, contribution definition, and responding to referee feedback](full-publishing-process-student-involvement-strategy.md)
 
 ## Examples
 - **[Storybird](https://storybird.com)** — students create and publish illustrated digital books for a community of readers.

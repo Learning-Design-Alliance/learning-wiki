@@ -48,3 +48,4 @@ The review reports the split-persona effect from Baylor and Ebbers (2003): stude
 - [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](expertise-agents-improved-learning.md) — reports the opposite
 - [The Mentor agent had the overall best combined impact on learning and motivation](mentor-agent-best-overall-impact.md) — reports the opposite
 - [Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy](motivational-agents-improved-self-efficacy.md) — related
+- [Peer pressure within project groups was often more motivational than faculty guidance, and allowing group splits rescued motivated members](peer-pressure-group-splits-motivation.md) — related

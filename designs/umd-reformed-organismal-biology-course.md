@@ -55,4 +55,4 @@ An introductory biology course at the University of Maryland reformed to focus o
 -
 
 ## Key Sources
-- Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. https://www.compadre.org/PER/
+- Watkins, J., Hall, K., Redish, E. F., & Cooke, T. J. (2010). Understanding How Students Use Physical Ideas in Introductory Biology Courses. University of Maryland, College Park. https://www.compadre.org/PER/. [doi:10.48550/arxiv.1009.1049](https://doi.org/10.48550/arxiv.1009.1049)

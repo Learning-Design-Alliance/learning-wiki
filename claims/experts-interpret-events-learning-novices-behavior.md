@@ -56,3 +56,4 @@ The article's synthesis of expert-novice research (citing Sabers et al. 1991) re
 - The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation — related
 - [Expert active-learning instructors notice monitoring and responding to student thinking significantly more often than novices](experts-notice-monitoring-student-thinking.md) — a narrower finding that bears on this claim
 - [Novices prefer positive feedback while experts seek out negative feedback](novices-prefer-positive-experts-seek-negative-feedback.md) — related
+- [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](expert-novice-differences-complex-problem-characterization.md) — a broader claim this one bears on

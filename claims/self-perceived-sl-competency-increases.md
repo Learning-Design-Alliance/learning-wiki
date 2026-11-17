@@ -71,3 +71,4 @@ Pre-post survey item on confidence interpreting graphs (P = 0.108 in Table 1); t
 - [Individual TOSLS skill categories improve significantly during a flipped classroom semester, with gains from 12.1% to 22.0%, while creating graphs and quantitative problem-solving gains do not reach significance](flipped-classroom-tosls-category-gains.md) — related
 - [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related
 - [Students perceived their understanding of metabolism as significantly improved over the semester](storytelling-improved-perceived-understanding.md) — related
+- [Continued practice with graphing and proportional-relationship activities improves students' weak math skills over the semester](math-practice-graphing-improves-over-semester.md) — related

@@ -47,3 +47,4 @@ Students were asked whether a large box enclosing the gas container (Fig. 2) wou
 
 ## Related Claims
 - [17% of students think some delay exists between the motion of the piston and container in recoil](students-believe-recoil-delay-piston-container.md) — related
+- [Most Institution X students incorrectly believed the divergence of the steady-state current density was non-zero inside a current-carrying wire](x-students-nonzero-divergence-j-misconception.md) — related

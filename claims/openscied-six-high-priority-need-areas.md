@@ -53,3 +53,4 @@ Survey analysis of 155 practitioners who rated 22 challenges and selected three 
 - [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](openscied-rich-participatory-discussions.md) — related
 - [Needs most readily uncovered in simulation debriefs may represent the highest priority needs](readily-uncovered-needs-highest-priority.md) — related
+- [Teachers with the most interactive and engaging classrooms most commonly address weak preparation through embedded review, individual instruction and adjusting the curriculum](embedded-review-top-practice-interactive-classrooms.md) — related

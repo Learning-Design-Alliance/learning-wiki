@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: nathan-moore-2011
     resource: "https://doi.org/10.48550/arXiv.1110.0772"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Spring 2011, one section of Investigative Science 1 that used Thinking Science lessons weekly gained about 2.2 CTSR points over the semester, roughly double the normal increase for students of this ability and major. [→ Nathan Moore 2011](#nathan-moore-2011)

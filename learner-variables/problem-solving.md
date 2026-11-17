@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (150 show a difference, 20 mixed, 26 no difference) · 160 studies (89 causal, 18 review, 14 associational, 12 quant-synthesis, 11 qualitative, 10 design, 5 theoretical), `q1`–`q4` · 35 of 160 report an effect size · 190 claims rest on one study
+> **Evidence** · 197 claims (151 show a difference, 20 mixed, 26 no difference) · 161 studies (89 causal, 18 review, 14 associational, 12 quant-synthesis, 11 qualitative, 11 design, 5 theoretical), `q1`–`q4` · 35 of 161 report an effect size · 191 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -234,6 +234,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Physics education research shows active teaching and problem-solving methodologies strengthen quantitative problem solving and conceptual understanding](../claims/per-active-strategies-strengthen-problem-solving.md) [+W] — measured as an outcome of the instruction studied
 - [Prescribed problem-solving prompts are not, in general, effective at promoting sensemaking during group problem solving](../claims/prescribed-prompts-not-sufficient-for-sensemaking.md) [-M] — measured as an outcome of the instruction studied
 - [Students solved analytic and computational homework problems with similar success rates (84.6% vs 85.8%)](../claims/analytic-vs-computational-homework-equal-success.md) [-W] — learners who differ on it differ in outcomes
+- [CWP cut course DFW rates from 50% to 24% and substantially improved problem-solving skill regardless of language ability](../claims/cwp-dfw-cut-50-to-24.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

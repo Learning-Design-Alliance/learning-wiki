@@ -50,3 +50,4 @@ Program tracking of Elementary Education majors' specialty declarations during t
 - [Learning Assistants showed no significant increase in CTSR scores, which the authors attribute to ceiling effects from selective recruitment](la-ctsr-no-significant-increase.md) — related
 - [Student scientific reasoning gains on the CTSR remained the same when classes moved from two faculty instructors to one faculty instructor plus a Learning Assistant](la-model-maintains-ctsr-gains.md) — related
 - [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) — related
+- [Authentic research experiences through the Global Telescope Network increased high school interns' interest in science and science careers](gtn-interns-interest-grew.md) — related

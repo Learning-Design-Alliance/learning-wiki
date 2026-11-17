@@ -77,3 +77,6 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [Lawson scores correlate weakly with FCI and BEMA scores, while FCI and BEMA scores correlate strongly (r = 0.70 in the Chinese class)](lawson-content-score-correlations-small-fci-bema-large.md) — related
 - [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — related
 - [Differences in pedagogy and testing incentives cannot explain the FCI performance gap between traditional and M&I curricula.](pedagogy-incentives-cannot-explain-fci-gap.md) — related
+- [In the CWP pilot at KU, FCI normalized gain improved substantially for students with high English proficiency, from 0.16 pre-reform to 0.47](cwp-high-proficiency-fci-gain-0-47.md) — related
+- [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related
+- [Interactive-engagement sections showed significantly higher FCI posttest averages than the standard lecture section](interactive-engagement-fci-gains-exceed-lecture.md) — a narrower finding that bears on this claim

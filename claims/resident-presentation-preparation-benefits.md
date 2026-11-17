@@ -53,3 +53,4 @@ Self-report survey of local presenters and advisors, part of the hospital-intern
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [Integrating asynchronous videos with simulation-based practice was perceived as enabling more focused engagement during supervised sessions, shifting attention from procedural recall to technical execution.](video-simulation-integration-focuses-technical-execution.md) — related
+- [MICA's weekly popular science lectures in Second Life drew typical audiences of about 50-70 avatars](mica-popular-lectures-attendance-50-70-avatars.md) — related

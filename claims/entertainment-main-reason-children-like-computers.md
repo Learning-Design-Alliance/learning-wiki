@@ -53,3 +53,4 @@ Qualitative coding of responses to 'why do you like using computers' into six ca
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
 - [Students' purposes when using technology are primarily related to entertainment and information seeking rather than structured learning tasks.](escuela2-students-entertainment-orientation.md) — related
 - [Participants across ages reported VENOMventure as fun and helpful for learning, and nearly all observed groups completed the game.](venomventure-fun-learning-perceptions.md) — related
+- [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related

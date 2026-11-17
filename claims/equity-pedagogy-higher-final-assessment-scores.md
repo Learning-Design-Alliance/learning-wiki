@@ -68,3 +68,4 @@ Descriptive final-score results from the same two-section comparison: treatment 
 - [Weekly gain scores favored the treatment group throughout the course, rising from the low 40s to the low 60s while control stayed near 30 points](equity-pedagogy-weekly-gain-scores-higher.md) — related
 - [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related
 - [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related
+- [Treatment-group students were almost twice as likely as control students to earn a B- or better on the final exam](treatment-nearly-twice-likely-b-or-better.md) — related

@@ -11,16 +11,16 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: s-malik-and-k-lassila-perini-2011
-    resource: "https://doi.org/10.48550/arXiv.1110.0355"
-    title: "S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.48550/arXiv.1110.0355](https://doi.org/10.48550/arXiv.1110.0355)"
+    resource: "https://doi.org/10.1088/1742-6596/331/8/082006"
+    title: "S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.1088/1742-6596/331/8/082006](https://doi.org/10.1088/1742-6596/331/8/082006)"
     author: S. Malik and K. Lassila-Perini
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: s-malik-and-k-lassila-perini-2011-2
-    resource: "https://doi.org/10.48550/arXiv.1110.0355"
-    title: "S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.48550/arXiv.1110.0355](https://doi.org/10.48550/arXiv.1110.0355)"
+    resource: "https://doi.org/10.1088/1742-6596/331/8/082006"
+    title: "S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.1088/1742-6596/331/8/082006](https://doi.org/10.1088/1742-6596/331/8/082006)"
     author: S. Malik and K. Lassila-Perini
     q: 2
     i: "?"
@@ -42,7 +42,7 @@ sources:
 
 ### S. Malik and K. Lassila-Perini 2011
 
-S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.48550/arXiv.1110.0355](https://doi.org/10.48550/arXiv.1110.0355)
+S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.1088/1742-6596/331/8/082006](https://doi.org/10.1088/1742-6596/331/8/082006)
 
 `q2 · i?` · `design · r2`
 
@@ -52,7 +52,7 @@ A CMS computing project survey of user computing and analysis needs, including U
 
 ### S. Malik and K. Lassila-Perini 2011 (2)
 
-S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.48550/arXiv.1110.0355](https://doi.org/10.48550/arXiv.1110.0355)
+S. Malik and K. Lassila-Perini. (2011). An outlook of the user support model to educate the users community at the CMS Experiment. Proceedings of the DPF-2011 Conference, Providence, RI. [doi:10.1088/1742-6596/331/8/082006](https://doi.org/10.1088/1742-6596/331/8/082006)
 
 `q2 · i?` · `design · r2`
 

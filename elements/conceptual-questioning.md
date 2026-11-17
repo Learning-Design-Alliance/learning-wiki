@@ -19,7 +19,7 @@ sources:
 # Conceptual Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (2 quant-synthesis, 2 qualitative, 1 causal, 1 review, 1 associational, 1 design), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Conceptual questioning poses open, "why" and "what-if" questions that target learners' underlying conceptions rather than recall of facts. The goal is to surface assumptions, create productive cognitive conflict, and prompt learners to explain, justify, and revise their mental models.

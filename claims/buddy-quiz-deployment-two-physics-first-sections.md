@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: ian-m-hoffman-2011
-    resource: "https://doi.org/10.48550/arXiv.1107.3864"
-    title: "Ian M. Hoffman. (2011). The Buddy Quiz: A collaborative assessment and a representation of the scientific enterprise. [doi:10.48550/arXiv.1107.3864](https://doi.org/10.48550/arXiv.1107.3864)"
+    resource: "https://doi.org/10.1088/0031-9120/47/1/52"
+    title: "Ian M. Hoffman. (2011). The Buddy Quiz: A collaborative assessment and a representation of the scientific enterprise. [doi:10.1088/0031-9120/47/1/52](https://doi.org/10.1088/0031-9120/47/1/52)"
     author: Ian M. Hoffman
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Ian M. Hoffman 2011
 
-Ian M. Hoffman. (2011). The Buddy Quiz: A collaborative assessment and a representation of the scientific enterprise. [doi:10.48550/arXiv.1107.3864](https://doi.org/10.48550/arXiv.1107.3864)
+Ian M. Hoffman. (2011). The Buddy Quiz: A collaborative assessment and a representation of the scientific enterprise. [doi:10.1088/0031-9120/47/1/52](https://doi.org/10.1088/0031-9120/47/1/52)
 
 `q2 · i?` · `design · r2`
 

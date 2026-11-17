@@ -50,4 +50,4 @@ In a month-long intensive program, the authors managed mental and physical fatig
 -
 
 ## Key Sources
-- Cooksey, K., Seagroves, S., Porter, J., Raschke, L., Severson, S., & Hinkley, S. (2010). The CfAO's Astronomy Course in COSMOS: Curriculum Design, Rationale, and Application. ASP Conference Series. https://arxiv.org/abs/1011.0752
+- Cooksey, K., Seagroves, S., Porter, J., Raschke, L., Severson, S., & Hinkley, S. (2010). The CfAO's Astronomy Course in COSMOS: Curriculum Design, Rationale, and Application. ASP Conference Series. https://arxiv.org/abs/1011.0752. [doi:10.48550/arxiv.1011.0752](https://doi.org/10.48550/arxiv.1011.0752)

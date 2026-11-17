@@ -50,3 +50,4 @@ Pooled SALG survey from six of seven 2-yr campuses (n = 85 in Figure 3; Table 9 
 - [Nonmajors in community college CREATE courses made larger self-rated gains than majors on SAAB and SALG measures](cc-create-nonmajors-gains-exceed-majors.md) — related
 - [Community college CREATE students showed significant self-rated gains in reading primary literature, understanding research, and maturation of epistemological beliefs, with no change in the knowledge-is-certain category](cc-create-saab-affective-epistemological-gains.md) — related
 - [A majority of community college students in first-time CREATE courses preferred CREATE to other teaching methods they had experienced](cc-create-student-preference-over-lecture.md) — related
+- [Students assessed that they made great gains in understanding real scientific research and real world issues](salg-great-gains-real-world-research.md) — related

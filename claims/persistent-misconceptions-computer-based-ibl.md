@@ -54,3 +54,4 @@ Qualitative content analysis of one-on-one interviews with 30 students (five per
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
 - [Misconceptions about atoms, compounds and mixtures detected at pre-test persisted or re-emerged at post-test in both experimental and control groups](misconceptions-persist-posttest-both-groups.md) — related
 - [The lab permits discussion of several student misconceptions about energy and momentum, though no quantitative learning data exist](lab-permits-misconception-discussion-no-quantitative-data.md) — related
+- [The author argues field energy is undesirable in K-12 science education because there is no easily observable evidence for it, students can do almost nothing with it quantitatively, and the Framework's statements about it are scientifically inconsistent.](field-energy-undesirable-k12-reasons.md) — related

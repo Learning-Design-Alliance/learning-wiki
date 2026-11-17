@@ -53,3 +53,4 @@ Survey item from the 179-student study contrasting two attitudes: support for VR
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
 - [A VR-based OSCE station can be integrated into an established curricular OSCE with 93% of students using the VR technology without issues](vrs-osce-integration-feasible.md) — related
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related
+- [Students favour video-recorded experiments as a supplementary tool for pre-lab preparation rather than as a replacement for the real exercise](video-favoured-for-prelab-preparation-not-replacement.md) — related

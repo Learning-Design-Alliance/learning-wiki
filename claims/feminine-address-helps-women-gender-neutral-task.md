@@ -54,3 +54,4 @@ A supplementary experiment (674 participants, 334 women and 340 men, randomly as
 - [Feminine address lowers agreement that science is for men, but does not change implicit associations](feminine-address-lowers-science-is-for-men.md) — related
 - [The effect of feminine address on women's maths scores is stronger among those who acquired Hebrew early in childhood](hebrew-acquisition-age-moderates-address-effect.md) — related
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related
+- [Rewording FCI questions with feminine and everyday contexts does not change the gender gap, and DIF analyses show no consistent pattern of items favoring men](question-wording-not-a-gap-factor.md) — related

@@ -11,8 +11,8 @@ evidence_strength: weak
 newest_evidence: 2011
 sources:
   - id: jonathan-m-marr-and-francis-p-wilkin-2011
-    resource: "https://doi.org/10.48550/arXiv.1109.3822"
-    title: "Jonathan M. Marr and Francis P. Wilkin. (2011). A better presentation of Planck's radiation law. arXiv preprint. [doi:10.48550/arXiv.1109.3822](https://doi.org/10.48550/arXiv.1109.3822)"
+    resource: "https://doi.org/10.1119/1.3696974"
+    title: "Jonathan M. Marr and Francis P. Wilkin. (2011). A better presentation of Planck's radiation law. arXiv preprint. [doi:10.1119/1.3696974](https://doi.org/10.1119/1.3696974)"
     author: Jonathan M. Marr and Francis P. Wilkin
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Jonathan M. Marr and Francis P. Wilkin 2011
 
-Jonathan M. Marr and Francis P. Wilkin. (2011). A better presentation of Planck's radiation law. arXiv preprint. [doi:10.48550/arXiv.1109.3822](https://doi.org/10.48550/arXiv.1109.3822)
+Jonathan M. Marr and Francis P. Wilkin. (2011). A better presentation of Planck's radiation law. arXiv preprint. [doi:10.1119/1.3696974](https://doi.org/10.1119/1.3696974)
 
 `q1 · i?` · `theoretical · r3`
 

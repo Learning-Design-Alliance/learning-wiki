@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-17
 sources:
   - id: rui-gomes-neves-2010
     resource: "https://doi.org/10.48550/arXiv.1006.4662"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the motion and parametric equations activities, students who were not at ease distinguishing trajectories from coordinate graphs came to recognise that modelling with Modellus was more effective in helping them manipulate, distinguish and correctly interpret these different representations. [→ Rui Gomes Neves 2010](#rui-gomes-neves-2010)
@@ -54,3 +55,4 @@ Reported classroom observation in the section on motion and parametric equations
 - [Students reacted positively to the Modellus workshops and preferred team work with guidance, and Modellus enabled students to act as authors of models](modellus-workshops-positive-student-reactions.md) — a broader claim this one bears on
 - [Computational modelling activities with Modellus identified and resolved student difficulties with key physical and mathematical concepts during class](modellus-activities-identify-resolve-student-difficulties.md) — a broader claim this one bears on
 - [Students reacted positively to the Modellus activities, found Modellus easy to learn and user-friendly, and preferred working in teams, though they felt content load was too heavy and time insufficient](positive-student-receptivity-modellus-activities.md) — related
+- [Prior research over nearly thirty years reports that students have serious difficulties learning constant-acceleration motion, mainly in mathematical operation, graph narration, and reading graphs, areas and slopes](student-difficulties-mua-graphs-mathematics.md) — related

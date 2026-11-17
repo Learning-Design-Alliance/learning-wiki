@@ -47,9 +47,10 @@ Each group made a poster and gave a two-minute presentation in the style of a sc
 - [Use a collaboration script structured by scientific-reasoning phases to prompt sharing, eliciting, and negotiating diagnostic information](collaboration-script-diagnostic-phases.md)
 - [Student Presentations All About Me](student_presentations-all_about_me.md)
 - [Use everyday objects in demonstrations and investigations so lens phenomena connect to students' daily lives](everyday-objects-in-inquiry-demos.md)
+- [End-of-semester public poster session (NanoDay) to advertise student work and build conference-style confidence](nanoday-poster-presentation-strategy.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Putnam, N. M., Cheng, J. Y., McGrath, E. J., Lai, D. K., & Moth, P. (2010). Lens Inquiry: An Astronomy Lab for Non-science Majors at Hartnell Community College. ASP Conference Series. https://arxiv.org/abs/1010.3266
+- Putnam, N. M., Cheng, J. Y., McGrath, E. J., Lai, D. K., & Moth, P. (2010). Lens Inquiry: An Astronomy Lab for Non-science Majors at Hartnell Community College. ASP Conference Series. https://arxiv.org/abs/1010.3266. [doi:10.48550/arxiv.1010.3266](https://doi.org/10.48550/arxiv.1010.3266)

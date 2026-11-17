@@ -47,6 +47,7 @@ The article recommends process- and product-oriented projects that connect class
 - [Use educational discussion and debate to form ecological and moral convictions](discussion-debate-ecological-convictions.md)
 - [Focus on Issues of Justice](focus_on_issues_of_justice.md)
 - [Digital Storytelling](digital_storytelling.md)
+- [Student presentations plus instructor-peer-reviewed term papers to build technical writing, reviewing skills, and academic-honesty awareness](student-presentation-peer-reviewed-term-paper-strategy.md)
 
 ## Examples
 -

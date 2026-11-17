@@ -9,6 +9,7 @@ generated:
   at: 2026-11-16
 evidence_strength: weak
 newest_evidence: 2011
+source_checked: 2026-11-17
 recheck_by: 2016
 sources:
   - id: pilakouta-2011
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In introductory physics labs students are almost never engaged in experiment design and rarely consider how uncertainty varies during an experiment and affects measurement quality. [→ Pilakouta 2011](#pilakouta-2011)
@@ -52,3 +53,4 @@ The author's contextual observation motivating the study: students "rarely care 
 - [More than 80% of non-physics-major students fail to calculate the statistical uncertainty correctly in the gamma-attenuation experiment because they underestimate or ignore background radiation](students-ignore-background-in-uncertainty-calculation.md) — related
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Measuring background and very weak radioactive sources over extended periods creates the need for many measurements and uncertainty evaluation, prompting students to recall their statistics knowledge](weak-source-measurements-motivate-statistics.md) — a narrower finding that bears on this claim
+- [Preliminary observation: in a short lab activity students spent about twice as much time on measurement tools as on the physical system, and students who did not articulate model simplifications struggled to connect to limitations](preliminary-measurement-tool-time-twice-physical-system.md) — related

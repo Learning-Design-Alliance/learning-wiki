@@ -55,4 +55,4 @@ The implementation philosophy held that students learn computation by writing a 
 -
 
 ## Key Sources
-- Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. https://arxiv.org/abs/1107.5216
+- Caballero, M. D., Schatz, M. F., and Kohlmyer, M. A. (2012). Implementing and assessing computational modeling in introductory mechanics. arXiv. https://arxiv.org/abs/1107.5216. [doi:10.48550/arxiv.1107.5216](https://doi.org/10.48550/arxiv.1107.5216)

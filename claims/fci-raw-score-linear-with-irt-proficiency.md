@@ -12,8 +12,8 @@ newest_evidence: 2010
 recheck_by: 2013
 sources:
   - id: jing-wang-and-lei-bao-2010
-    resource: "https://doi.org/10.48550/arXiv.1007.5473"
-    title: "Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.48550/arXiv.1007.5473](https://doi.org/10.48550/arXiv.1007.5473)"
+    resource: "https://doi.org/10.1119/1.3443565"
+    title: "Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.1119/1.3443565](https://doi.org/10.1119/1.3443565)"
     author: Jing Wang and Lei Bao
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Jing Wang and Lei Bao 2010
 
-Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.48550/arXiv.1007.5473](https://doi.org/10.48550/arXiv.1007.5473)
+Jing Wang and Lei Bao. (2010). Analyzing Force Concept Inventory with Item Response Theory. Originally published 2008. [doi:10.1119/1.3443565](https://doi.org/10.1119/1.3443565)
 
 `q2 · i?` · `associational · r2`
 
@@ -49,3 +49,4 @@ Analysis relating individual students' total raw scores to IRT proficiency estim
 - [Estimated guessing chances vary widely across FCI items, with question 16 above 30% and questions 23 and 26 at no more than 5% for low-proficiency students](fci-guessing-parameter-variation-across-items.md) — related
 - [FCI pre- and post-test data from introductory mechanics students are reasonably treated as unidimensional, with the first eigenvalue about 5 times larger than the rest](fci-unidimensionality-eigenvalue-analysis.md) — related
 - [All 30 FCI items fit the three-parameter item response model acceptably, with chi-square goodness-of-fit statistics below 1](fci-irt-goodness-of-fit-chi-square.md) — related
+- [Item response theory shows student academic ability explains raw-score correlations between conceptually unrelated questions](irt-explains-ability-driven-correlations.md) — related

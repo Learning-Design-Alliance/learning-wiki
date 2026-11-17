@@ -42,7 +42,7 @@ WorldWide Telescope is an interactive scientific data-visualization and aggregat
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908
 <!-- merged 2026-10-10 from elements/wwt-module-development-technology ("WorldWide Telescope as a module-development technology requiring the least technical experience"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285
+- Goodman, A., Fay, J., Muench, A., Pepe, A., Udomprasere, P., & Wong, C. (2012). WorldWide Telescope in Research and Education. ASP Conference Series. https://arxiv.org/abs/1201.1285. [doi:10.48550/arxiv.1201.1285](https://doi.org/10.48550/arxiv.1201.1285)
 
 # WorldWide Telescope as a module-development technology requiring the least technical experience
 

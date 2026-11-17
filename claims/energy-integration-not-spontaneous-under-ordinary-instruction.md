@@ -12,8 +12,8 @@ newest_evidence: 2011
 recheck_by: 2016
 sources:
   - id: benjamin-w-dreyfus-2011
-    resource: "https://doi.org/10.48550/arXiv.1106.5801"
-    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)"
+    resource: "https://doi.org/10.1063/1.3680024"
+    title: "Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)"
     author: Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Benjamin W. Dreyfus 2011
 
-Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.48550/arXiv.1106.5801](https://doi.org/10.48550/arXiv.1106.5801)
+Benjamin W. Dreyfus, Edward F. Redish, and Jessica Watkins. (2011). Students' Views of Macroscopic and Microscopic Energy in Physics and Biology. PERC 2011. [doi:10.1063/1.3680024](https://doi.org/10.1063/1.3680024)
 
 `q1 · i?` · `qualitative · r2`
 
@@ -56,3 +56,4 @@ Authors' interpretation of the two-interview case study: Dennis integrated energ
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [A student uses macroscopic physics phenomena (magnets, springs) as productive analogies for microscopic biological energy storage in ATP](macroscopic-analogies-for-microscopic-biological-energy.md) — a narrower finding that bears on this claim
 - [An undergraduate life-science student perceives energy in physics as macroscopic and energy in biology as microscopic, and treats them as distinct](student-perceived-physics-biology-energy-disconnect.md) — a narrower finding that bears on this claim
+- [Given appropriate supports, a substantial portion of the class reconciled the differing disciplinary perspectives on ATP bond energy, even if they might not have done so spontaneously](reconciliation-with-appropriate-supports-capstone.md) — a narrower finding that bears on this claim

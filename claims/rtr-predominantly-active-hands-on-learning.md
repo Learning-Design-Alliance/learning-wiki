@@ -11,8 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2009
 sources:
   - id: dominic-mcgrath-2009
-    resource: "https://doi.org/10.48550/arXiv.0911.0226"
-    title: "Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.48550/arXiv.0911.0226](https://doi.org/10.48550/arXiv.0911.0226)"
+    resource: "https://doi.org/10.1119/1.3431565"
+    title: "Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.1119/1.3431565](https://doi.org/10.1119/1.3431565)"
     author: Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Dominic McGrath 2009
 
-Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.48550/arXiv.0911.0226](https://doi.org/10.48550/arXiv.0911.0226)
+Dominic McGrath, Margaret Wegener, Timothy J. McIntyre, Craig Savage, Michael Williamson. (2009). Student experiences of virtual reality - a case study in learning special relativity. arXiv:0911.0226. [doi:10.1119/1.3431565](https://doi.org/10.1119/1.3431565)
 
 `q2 · i?` · `design · r3`
 

@@ -79,3 +79,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [PBL organizes education around a sequence of separate problems, improving short-run performance but isolating education as a separate space from the world at large.](pbl-separate-problems-isolation.md) — related
 - [Communication about internal events depends on the student judging the teacher as helpful, and cannot be carried out by a predetermined curriculum](internal-event-communication-depends-on-trust.md) — related
 - [The authors report that games enabled self-motivated physics learning to continue outside the classroom](games-enable-self-motivated-out-of-class-learning.md) — related
+- [Students and teachers reported a need to balance student-directed inquiry with teacher-directed instruction when using the simulation](fgd-balance-student-inquiry-teacher-instruction.md) — related

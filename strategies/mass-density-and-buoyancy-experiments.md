@@ -56,8 +56,10 @@ Hands-on experimentation makes abstract, invisible properties like density tangi
 6. Apply the rule to a novel prediction (e.g., an untested object in cooking oil) [Application](../elements/application.md)
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — surfaces the "heavy sinks" misconception the experiment must confront
 - [Predict-Observe-Explain](../strategies/predict-observe-explain.md) — the canonical structure for misconception-confronting physics demonstrations
+- [Eight open student exploration activities investigating freezing of water with varied containers, covers, hardness, stirring and freezers](mpemba-student-exploration-activities.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — novel-object prediction tests whether the density rule transferred

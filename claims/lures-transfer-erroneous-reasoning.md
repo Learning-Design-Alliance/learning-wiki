@@ -52,3 +52,4 @@ In the Bloom-level experiment, selecting a lure (e.g., gravitation) on an applic
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
 - [Persistence of multiple-choice errors is driven by faulty reasoning that integrates the error into knowledge rather than by mere familiarity of lures](lure-persistence-reasoning-not-familiarity.md) — related
 - [Semantic integration of memorized words induces false memory: false-alarm rates are higher to semantically related lure probes than to unseen new probes](semantic-integration-false-memory-lure-probes.md) — related
+- [The article asserts that students practiced on OE questions can pick correct choices from distracters at least as well as MC-trained students, but the converse does not hold](oe-practice-transfers-to-mc-not-reverse.md) — related

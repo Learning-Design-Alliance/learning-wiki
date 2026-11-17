@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 304 claims (174 show a difference, 86 mixed, 44 no difference) · 239 studies (88 causal, 42 associational, 37 review, 25 design, 25 theoretical, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 239 report an effect size · 286 claims rest on one study
+> **Evidence** · 305 claims (175 show a difference, 86 mixed, 44 no difference) · 240 studies (88 causal, 42 associational, 38 review, 25 design, 25 theoretical, 11 quant-synthesis, 11 qualitative), `q1`–`q4` · 38 of 240 report an effect size · 287 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -352,6 +352,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Expert and novice card sorters are not distinguishable by the number of categories they create](../claims/expert-novice-category-number-ks-null.md) [-M] — learners who differ on it differ in outcomes
 - [Experts show superior recall of realistic circuit diagrams, but the advantage diminishes or disappears with randomly arranged elements (chunking)](../claims/expert-chunking-realistic-circuits.md) [~M] — learners who differ on it differ in outcomes
 - [Graduate quantum students show no pretest-posttest difference and no correlation between QMCS scores and final exam scores](../claims/qmcs-graduate-courses-no-gains-no-correlation.md) [-M] — learners who differ on it differ in outcomes
+- [Novice and expert problem solvers differ in how they characterize complex problems and in the skills they employ](../claims/expert-novice-differences-complex-problem-characterization.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

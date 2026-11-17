@@ -44,7 +44,8 @@ The authors recommend that future studies include multiple assessments of proxim
 - [The intervention showed an initial significant effect on the TLC-2 Reasoning subtest that did not survive multiple-comparison correction](../claims/tlc-reasoning-effect-not-retained-after-correction.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Plan ICM evaluations with multiple proximal outcome criteria, multiple data sources and time points, capture of unintended effects, moderators and process data](icm-evaluation-planning-strategy.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — related
 - [CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction](cai-supplement-effective-replacement-not.md) — a narrower finding that bears on this claim
+- [Students favour video-recorded experiments as a supplementary tool for pre-lab preparation rather than as a replacement for the real exercise](video-favoured-for-prelab-preparation-not-replacement.md) — related

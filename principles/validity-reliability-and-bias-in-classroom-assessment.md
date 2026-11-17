@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 467 claims (231 for, 208 mixed, 28 against) · 349 studies (110 associational, 84 design, 61 causal, 48 review, 28 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 349 report an effect size · 460 claims rest on one study
+> **Evidence** · 468 claims (232 for, 208 mixed, 28 against) · 350 studies (111 associational, 84 design, 61 causal, 48 review, 28 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 350 report an effect size · 461 claims rest on one study
 
 ## Conditional relationship
 
@@ -311,6 +311,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Mean item discrimination did not differ significantly between three- and four-option forms, but item-level discrimination re-ordered considerably](../claims/discrimination-unchanged-item-level-reordering.md) [~W] — attached 2026-11-10 from Zoanetti N et al. (2013), which proposed "Decide the number of multiple-choice response options at the item level, on psychometric and educational grounds, rather than by a uniform policy"; tests this page's relationship.
 - [Four-option items averaged 1.18 non-functioning distractors, and removing one markedly improved discrimination and model fit for item 45](../claims/non-functioning-distractors-average-1-18.md) [+W] — attached 2026-11-10 from Zoanetti N et al. (2013), which proposed "Decide the number of multiple-choice response options at the item level, on psychometric and educational grounds, rather than by a uniform policy"; tests this page's relationship.
 - [Total UKCAT score correlates significantly but weakly with first-year medical school performance](../claims/ukcat-total-weakly-correlates-with-outcome.md) [+W] — attached 2026-11-10 from McManus I C et al. (2013), which proposed "Use the full range of existing educational attainment measures when making medical selection decisions"; tests this page's relationship.
+- [The CUE superposition-question rubric carries a potential bias toward traditional subject order and emphasis, obscuring differences between approaches](../claims/cue-rubric-bias-traditional-order.md) [+W] — attached 2026-11-17 from Justyna P. Zwolak et al. (2017), which proposed "Assessment rubrics intended for cross-institution comparison should be re-examined so they do not presuppose the originating institution's terminology and subject order".
 
 ## Objective and learner-valued goal
 
