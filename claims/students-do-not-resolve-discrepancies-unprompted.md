@@ -51,3 +51,4 @@ Authors' interpretation of the coded write-up data from the traditional course (
 - [Students in the transformed course show preliminary evidence of internalizing modeling practices in later weeks without explicit prompts](preliminary-internalization-later-weeks.md) — related
 - [With explicit prompting, students universally engage in the expert-like practice of refining measurement models](universal-engagement-with-prompting.md) — reports the opposite
 - [After high-confidence errors, resolving the discrepancy with additional information produced enjoyment, while failure to resolve it produced frustration](discrepancy-resolution-drives-enjoyment-or-frustration.md) — related
+- [Concept tests prompted active peer discussion in which students eager to resolve discrepancies between their answers and the correct view](concept-tests-spur-active-peer-discussion.md) — related

@@ -68,3 +68,5 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related
 - [In the flipped course, video-lecture access correlates positively with exam scores and with GPA, and higher-GPA students spread viewing more evenly across weeks](video-access-correlates-with-exam-scores-and-gpa.md) — related
 - [More enthusiastic library users completed more problems and shifted their study time toward afternoons before weekly deadlines](geas-enthusiastic-users-study-more.md) — related
+- [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related
+- [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](video-accessing-uncorrelated-with-performance.md) — related

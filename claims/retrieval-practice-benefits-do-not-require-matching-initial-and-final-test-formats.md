@@ -104,3 +104,4 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 - [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — a narrower finding that bears on this claim
 - [Multiple-choice, short-answer, and hybrid retrieval-practice formats all improve delayed-test performance relative to no retrieval (review-reported)](multiple-formats-retrieval-practice-effective.md) — related
 - [Student answers depend on the representational format and context of FMCE questions](fmce-representational-contextual-dependence.md) — related
+- [Performance trends across expertise groups are similar regardless of whether students received multiple-choice or free-response question formats](similar-performance-trends-mc-vs-free-response.md) — related

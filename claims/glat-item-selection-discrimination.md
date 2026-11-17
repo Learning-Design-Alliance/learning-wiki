@@ -72,3 +72,4 @@ The article reports the retained items' difficulty spread and that discriminatio
 - [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related
 - [Discriminative power peaks for questions of moderate difficulty (0.4–0.7) and declines at both extremes in both groups](discrimination-peaks-moderate-difficulty.md) — related
 - [Item discrimination of the Quick Risk Test is adequate overall, with three items below the conventional 0.2 threshold before training](quick-risk-test-item-discrimination-indices.md) — related
+- [The final 25-item test shows good reliability and item discrimination, with post-test item difficulty ranging from 0.2 to 0.8 and point biserial discrimination from 0.21 to 0.48](test-psychometrics-difficulty-discrimination.md) — related

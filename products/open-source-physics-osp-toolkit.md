@@ -51,7 +51,7 @@ A free, open-source physics software toolkit, including Easy Java Simulations an
 <!-- merged 2026-10-10 from elements/osp-ejs-tracker-toolkit ("Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Todd Timberlake and Javier E. Hasbun. (2007). Computation in Classical Mechanics. https://arxiv.org/abs/0708.2498
 - Loo Kang WEE, Sze Yee LYE. (2012). Designing Open Source Computer Models for Physics by Inquiry using Easy Java Simulation. 20th International Conference on Computers in Education (ICCE 2012) Singapore Interactive Event. http://iwant2study.org/easyjava
-- Kwan, L., & Wee, L. K. (2015). A Case Study of Open Source Physics (OSP) Learning Community (LC). National Institute of Education, Singapore. http://weelookang.blogspot.sg/p/physics-applets-virtual-lab.html
+- Kwan, L., & Wee, L. K. (2015). A Case Study of Open Source Physics (OSP) Learning Community (LC). National Institute of Education, Singapore. http://weelookang.blogspot.sg/p/physics-applets-virtual-lab.html. [doi:10.48550/arxiv.1508.05197](https://doi.org/10.48550/arxiv.1508.05197)
 
 # Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models
 

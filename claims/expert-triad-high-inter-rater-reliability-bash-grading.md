@@ -114,3 +114,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — reports the opposite
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

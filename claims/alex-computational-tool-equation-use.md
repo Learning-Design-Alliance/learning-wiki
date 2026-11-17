@@ -55,3 +55,4 @@ Qualitative case study of Alex's think-aloud and written solution to the Two Bal
 - [M&I students almost never mentioned momentum when reasoning about the elevator problem, despite the curriculum's emphasis on the momentum principle](mi-students-absent-momentum-principle.md) — related
 - [During the evaluation move the student could not make sense of her final numerical answer despite earlier sense-making](evaluation-move-sense-making-breakdown.md) — related
 - [In clinical interviews, a student who blended the base+change symbolic form with physical meaning of the velocity equation showed more expert-like reasoning and problem use than a peer who treated the equation as a computational tool](base-change-blending-more-expert-like-reasoning.md) — related
+- [Conceptual math reasoning enables shortcut solutions that reduce written procedures and open more expansive group discussion](conceptual-math-shortcuts-reduce-procedures.md) — related

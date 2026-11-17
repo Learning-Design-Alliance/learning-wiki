@@ -55,3 +55,4 @@ The review reports, citing Watkins and Penuel (2023), self-report surveys from m
 - [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](complex-texts-unit-changed-teacher-beliefs.md) — related
 - [Professional development workshops and instructional support interventions positively impact teachers' performance in standard assessments](pdp-workshops-isi-positive-impact-standard-assessments.md) — related
 - [Mixed-methods mapping showed the workshop mainly impacted capacity while field coaching impacted opportunity and motivation](com-b-causal-pathway-workshop-coaching.md) — related
+- [K-12 teacher PD evidence supports a causal link between teachers experiencing instructional strategies in workshops and later shifting their own instruction, but no comparable evidence exists in higher education PD](simulating-strategies-causal-link-teacher-pd.md) — related

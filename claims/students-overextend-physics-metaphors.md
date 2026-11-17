@@ -55,3 +55,4 @@ Case study of a four-student homework group videotaped while solving a French an
 - [Physicists and mathematicians tend to interpret the same symbolic function differently, as shown by the coordinate-transformation 'shibboleth' problem](corinnes-shibboleth-physicist-mathematician-contrast.md) — related
 - [Disorder and chaos metaphors do productive work for students in making sense of diffusion and osmosis](disorder-metaphor-productive-diffusion-osmosis.md) — related
 - [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related
+- [Students fail to transfer the superposition principle from classical contexts to particle waves and treat stationary states as the only allowed wave functions](superposition-lateral-transfer-difficulty.md) — related

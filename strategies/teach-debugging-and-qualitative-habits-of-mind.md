@@ -52,6 +52,7 @@ The authors recommend that instructional efforts target both procedural errors a
 - [Design teachable ChatGPT sessions with purposeful errors or lower-level models so learners practice error correction](purposeful-errors-lower-level-chatgpt-design.md)
 - [Teach computation via guided lab-built programs that students independently alter to solve modified homework problems, checked against a provided test case before a graded case.](lab-built-program-modification-homework-strategy.md)
 - [Sequence the computational project with an early submittable first part and analytical debug cases so students recover from bugs before later physics-focused parts](staged-submission-with-analytical-debug-cases.md)
+- [Use explicit formative-assessment interventions to help advanced physics students develop learning and self-monitoring habits of mind](explicit-formative-assessment-advanced-courses.md)
 
 ## Examples
 -

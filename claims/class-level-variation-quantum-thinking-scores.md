@@ -51,3 +51,4 @@ Descriptive comparison across the five professors' classes from the questionnair
 - [Few students recognize that classical uncertainty in a Plinko game is a false analogy for quantum uncertainty, with course-dependent reasoning about the two systems.](plinko-false-analogy-rarely-recognized.md) — related
 - [QMCA score patterns across five quantum concept areas are strikingly similar across 10 institutions, with greatest variation in measurement](qmca-cross-institution-consistent-patterns.md) — related
 - [Students' effect sizes increase by 0.154 for every term a faculty member has previously taught the course with LAs, a statistically significant difference](lasso-faculty-la-experience-effect.md) — related
+- [A differentiating group of courses (QP, MA2, MA3, PL) contributes significantly to score variance and separates students](differentiating-courses-qp-ma2-ma3-pl.md) — related

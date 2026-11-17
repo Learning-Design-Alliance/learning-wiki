@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: gray-2014
     resource: "https://doi.org/10.48550/arXiv.1507.08262"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Implementation of the year-long inquiry-based biochemistry lab curriculum improved student performance and confidence across various assessment metrics. [→ Gray 2014](#gray-2014)

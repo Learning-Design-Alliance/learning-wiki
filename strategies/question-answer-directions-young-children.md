@@ -42,6 +42,7 @@ An implementable administration technique for young groups: the examiner gives d
 - [Choral Responding](choral-responding.md)
 - [Give Hints and Clues to Help Students Answer Questions](give_hints_and_clues_to_help_students_answer_questions.md)
 - [Socratic Questioning](socratic_questioning.md)
+- [Question-driven lab report that lets students decide which measurements to perform](question-driven-report-student-liberty-strategy.md)
 
 ## Examples
 -

@@ -17,12 +17,14 @@ sources:
     author: L. A. N´ u˜ nez and H. Rago
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The project blogsite was visited more than 2500 times from 32 countries in its first seven months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 L. A. N´ u˜ nez and H. Rago (2015). Astronom´ıa al Aire: Media Convergence in Astronomy & Astrophysics. [doi:10.48550/arXiv.1510.07147](https://doi.org/10.48550/arXiv.1510.07147)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive website-traffic reporting for the project blog over seven months, presented with a visitor map in Figure 1: the blogsite "has been visited from more than 2500 times, and 32 countries in last seven months". No tests or effect sizes are reported.
 

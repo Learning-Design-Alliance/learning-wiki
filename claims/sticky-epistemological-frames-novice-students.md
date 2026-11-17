@@ -51,3 +51,4 @@ Ethnographic observation from videotaped study sessions across a range of physic
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
 - [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related
 - [Novice and journeyman physics students can get stuck in an epistemological framing that blocks use of knowledge they know well and that would reveal their error](getting-stuck-in-epistemological-frame.md) — a broader claim this one bears on
+- [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — related

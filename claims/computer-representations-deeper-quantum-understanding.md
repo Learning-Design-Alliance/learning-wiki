@@ -50,3 +50,4 @@ Stated pedagogical goal in the preface of a Master's/PhD lecture manual; the aut
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
+- [Lack of mathematical facility hinders conceptual learning in quantum mechanics, and alternative conceptions can induce mathematical errors](math-facility-hinders-quantum-conceptual-learning.md) — related

@@ -60,9 +60,11 @@ Reflection prompts work best when they target processes rather than outcomes: as
 5. **Require application** — the next task should explicitly begin from the prior reflection, closing the loop ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Self-explanation](../elements/self-explanation.md) — the underlying mechanism: articulating reasoning produces the learning benefit
 - [Exit tickets](exit-ticket.md) — a lightweight, routine format for end-of-session reflection
 - [Goal setting](../strategies/goal_setting.md) — reflection is most powerful when paired with explicit goals to reflect against
+- [Evaluate hands-on science projects by having students explain the process they experienced and why it worked the way it did](evaluate-hands-on-projects-by-student-explanation.md)
 
 ## Examples
 - **Portfolio-based programs** (e.g., [High Tech High](https://www.hightechhigh.org) project portfolios) — students write structured reflections on each project revision, then present how their process changed.

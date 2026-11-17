@@ -59,3 +59,4 @@ Descriptive comparison of teacher-made test scores (Fig 2, N = 351) reported gra
 - [Male-instructed classes show a small performance gender gap in favor of males (0.20 SD), while female-instructed classes show no significant gap](male-instructed-classes-performance-gap.md) — related
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — reports the opposite
 - [Middle school students' astronomy ranking-task performance is significantly stratified by gender, with female students scoring 15–20% lower on average](niaq-gender-stratification-astronomy.md) — related
+- [Course grades stratify by orientation in favor of framework orientation, but the difference is statistically significant in S14 only and the trend is tentative across semesters](framework-orientation-higher-course-grades-tentative.md) — related

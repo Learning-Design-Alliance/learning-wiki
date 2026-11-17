@@ -82,3 +82,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — a narrower finding that bears on this claim
 - [Several perceived-advantage comparisons between the social robotic and computer-based platforms did not reach statistical significance](social-robotic-vp-nonsignificant-comparisons.md) — related
 - [Acceptance and motivation for the ultrasound teaching videos were rated low while subjective learning success was rated positively by up to 88% of respondents](vist-video-acceptance-low-learning-success-positive.md) — related
+- [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related

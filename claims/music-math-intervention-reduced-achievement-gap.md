@@ -48,3 +48,4 @@ Descriptive statistics across the 15 MSA tests (Figure 2) showed "reduction of s
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
 - [Music group students' mathematics process ability (model, strategy, application) improved significantly across the intervention, with large effect sizes](music-math-process-ability-gains-time-series.md) — related
+- [Self-diagnosis interventions reduced the gap between low and high achievers on the difficult problem, but the diagnosis was not meaningful for any group](self-diagnosis-reduced-achievement-gap-not-meaningful-quiz6.md) — related

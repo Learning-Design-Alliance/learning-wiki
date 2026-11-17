@@ -42,6 +42,7 @@ The article recommends extending this material through problem sets in which stu
 
 - [Measurement Tasks](measurement_tasks.md)
 - [Have teachers learn a novel abstract subject themselves to experience the difficulties their pupils face](teachers-study-themselves-as-learners.md)
+- [Pose condenser design as an open-ended problem with multiple correct solutions that students find by trial and error](open-ended-condenser-design-strategy.md)
 
 ## Examples
 -

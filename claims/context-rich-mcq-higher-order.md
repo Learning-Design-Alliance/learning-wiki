@@ -69,3 +69,4 @@ The review reports studies of the effect of stimulus on thought processes in ope
 - [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — reports the opposite
 - [The multiple-choice format is substantially more reliable and more efficient than open-ended formats, with 4–8 multiple-choice items providing the information of a single essay](mcq-reliability-efficiency-advantage.md) — related
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
+- [Students learn what they are tested on, so physics instruction needs well-defined, measurable learning goals and assessment tools commensurate with those goals](well-defined-learning-goals-physics-assessment.md) — related

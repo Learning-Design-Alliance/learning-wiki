@@ -10,6 +10,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-17
 sources:
   - id: sun-dl-2015
     title: Sun DL 2015
@@ -31,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

@@ -52,3 +52,4 @@ Repeated-measures ANOVA on the London Bridge Task total originality score: Time 
 - [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md) — a broader claim this one bears on
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
 - [Students exposed to CREATE perceive their implementation of meta-creative processes to a greater extent than control students](create-higher-perceived-meta-creative-implementation.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

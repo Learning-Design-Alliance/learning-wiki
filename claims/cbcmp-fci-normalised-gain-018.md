@@ -51,3 +51,4 @@ Pre/post FCI administration to 47 students over three cohorts (2011-2013) in the
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
 - [MasteringPhysics hints and limited tries may not correct deeply ingrained misconceptions about force despite high homework scores](masteringphysics-corrective-measure-limit.md) — related
 - [Introductory physics students taught with Just-in-Time Teaching showed larger overall Force Concept Inventory gains (37.6%±2.0%) than students in traditional lecture courses (17.9%±2.5%)](jitt-larger-fci-gains-than-lecture.md) — related
+- [Students show a statistically significant pre-to-post gain on the FCI as a whole, with a low normalised gain of 0.20](fci-significant-prepost-gain-low-normalised-gain.md) — related

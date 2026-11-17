@@ -52,3 +52,4 @@ Correlation matrix from the 38-student post-play survey. Physics interest "was s
 - [Students reported above-average interest/enjoyment after playing Quantum Dreams, but did not perceive it as feeling like other good games](imi-scores-quantum-dreams-play-session.md) — related
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](emotions-correlate-motivation-strategies-resources.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related

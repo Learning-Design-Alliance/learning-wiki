@@ -48,6 +48,7 @@ The article argues that "The disaggregation of student data is an important prac
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 - [Disaggregate evaluation of educational AI by student error and proficiency before classroom deployment](disaggregate-edai-evaluation-by-student-error.md)
 - [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
+- [Consider sources of within-group variance when comparing performance between groups of students](consider-within-group-variance-in-gap-analyses.md)
 
 ## Examples
 -

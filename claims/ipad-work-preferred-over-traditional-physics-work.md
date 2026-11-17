@@ -71,3 +71,4 @@ Observational finding from the same qualitative study: after iPad implementation
 - [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related
 - [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](ipad-inclusion-social-status-play-agency.md) — related
 - [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](simulation-more-enjoyable-than-screenshots.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — related

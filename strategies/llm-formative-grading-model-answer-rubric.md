@@ -49,6 +49,7 @@ The article recommends deploying LLMs to grade student science writing at scale,
 ## Related Strategies
 
 - [Reserve LLM grading for short, well-structured tasks with explicit rubrics or exemplar answers, newer models, and stable API pipelines](reserve-llm-grading-for-structured-rubric-tasks.md)
+- [Grade programming assignments by peer assessment plus automated unit testing to learn from peers and scale the course](peer-assessment-autograding-scalable-programming-grading.md)
 
 ## Examples
 -

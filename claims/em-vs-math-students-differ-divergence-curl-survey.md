@@ -16,12 +16,14 @@ sources:
     author: Charles Baily, Laurens Bollen, Andrew Pattie, Paul van Kampen and Mieke De Cock
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-instruction E&M students and post-instruction vector calculus students give statistically different response distributions on divergence and curl survey statements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Charles Baily, Laurens Bollen, Andrew Pattie, Paul van Kampen and Mieke De Cock. (2014). Student thinking about the divergence and curl in mathematics and physics contexts. [doi:10.1119/perc.2015.pr.008](https://doi.org/10.1119/perc.2015.pr.008)
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Survey comparison of aggregate pre-instruction E&M responses (N=104, St Andrews and KU Leuven combined) with post-instruction St Andrews vector calculus students (N=124), shown in Fig. 1; the groups' distributions "are statistically different, for both the curl and divergence".
 

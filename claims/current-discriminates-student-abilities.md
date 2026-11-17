@@ -69,3 +69,4 @@ Item-test correlation analysis using Pearson correlation of each question with t
 - [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
 - [QMCS Version 2.0 shows item difficulties from 0.27 to 0.91, Cronbach Alpha of 0.44, and Ferguson's delta of 0.93](qmcs-item-and-test-statistics-v2.md) — related
 - [The E-CLASS shows strong whole-test discrimination, adequate item discrimination, and acceptable internal consistency](eclass-discrimination-internal-consistency.md) — related
+- [The CCMI is highly internally consistent and discriminates students on a per-point basis](ccmi-internal-consistency-discrimination.md) — related

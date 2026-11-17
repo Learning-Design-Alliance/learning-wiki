@@ -48,3 +48,5 @@ The author's argument in Section 3, citing how textbooks introduce the SHM solut
 - [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — a broader claim this one bears on
 - [Deriving the Lorentz transformations directly from Einstein's postulates damages students' conceptual hierarchy of space and time without replacing it](conventional-relativity-introduction-damages-conceptual-hierarchy.md) — related
 - [Some students who fail to write a differential equation can still represent the force descriptions mathematically, indicating difficulty moving from force to differential equation](difficulty-moving-from-force-to-differential-equation.md) — related
+- [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — related
+- [Instructors rated students' mathematical preparation for QM as average or below average, with special functions rated weakest](qm-student-math-preparation-rated-below-average.md) — related

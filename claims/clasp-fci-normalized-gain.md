@@ -75,3 +75,5 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related
 - [Students with the top grade in Mechanics and Thermodynamics showed a high gain (0.28), and students reporting much better understanding trended above average (0.24, not significant)](high-prior-graders-high-gain-gamified.md) — related
+- [Peer Instruction is more common in larger interactive engagement classes, scaling from 6% of small classes to 41% of classes over 100 students](peer-instruction-scales-with-class-size.md) — related
+- [Introducing Physics Invention Tasks into a large-enrollment calculus-based mechanics course coincided with an improvement in FCI normalized gain in a historical comparison](pit-introduction-improved-fci-normalized-gain.md) — related

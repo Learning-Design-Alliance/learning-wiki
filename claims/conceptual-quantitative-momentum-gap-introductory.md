@@ -47,3 +47,6 @@ Three groups of introductory students received multiple-choice questions: 138 st
 ## Related Claims
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Introductory students overlooked the similarity between isomorphic friction and tension problems: 28% correct on the friction problem versus 72% on the tension problem](isomorphic-friction-tension-overlooked-similarity.md) — related
+- [Students perform better on conceptual questions of an IPP when the paired quantitative question is also given, for at least three of five pairs](conceptual-questions-better-when-paired-with-quantitative.md) — related
+- [Pairing a conceptual question with a quantitative question does not significantly improve quantitative performance (H1 not supported)](quantitative-performance-not-improved-by-pairing.md) — related
+- [Students seldom convert conceptual questions into quantitative ones, even when explicitly encouraged by an interviewer](students-avoid-conceptual-to-quantitative-conversion.md) — related

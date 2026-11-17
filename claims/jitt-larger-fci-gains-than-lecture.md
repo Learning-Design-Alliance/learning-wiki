@@ -72,3 +72,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [The normalized gain gender gap on concept inventories averages 0.06, much smaller than the 0.25 gain difference between traditional and interactive engagement teaching](normalized-gain-gap-smaller-than-teaching-method-effect.md) — related
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [Peer Instruction is more common in larger interactive engagement classes, scaling from 6% of small classes to 41% of classes over 100 students](peer-instruction-scales-with-class-size.md) — related

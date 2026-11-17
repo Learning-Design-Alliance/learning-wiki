@@ -57,3 +57,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Educators' stance helped navigate students towards a benign, pedagogically useful framing of observation and anxiety during simulation](educator-stance-benign-observation-simulation.md) — related
 - [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
 - [Confidence items tied to performing in front of faculty and the possibility of making a mistake improved most between the first and second simulations](confidence-item-gains-front-of-faculty.md) — related
+- [Reflection that is insufficiently structured tends to be minimally useful, and evaluative rubric-based observation tools can create barriers to thoughtful reflection and self-motivated improvement](evaluative-observation-tools-hinder-reflective-improvement.md) — related

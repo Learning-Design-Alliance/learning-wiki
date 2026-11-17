@@ -16,12 +16,14 @@ sources:
     author: Lachlan P. McGinness and C. M. Savage
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students most commonly chose a new perspective on physics and seeing links between areas of physics as what they enjoyed most
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lachlan P. McGinness and C. M. Savage. (2016). Action Physics. [doi:10.1119/1.4955145](https://doi.org/10.1119/1.4955145)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Multi-select item on the 93-student end-of-module survey asked what aspects of action physics students enjoyed learning most; the top choices were "A new perspective on physics" (84 or 90%) and "Seeing the link between different areas of physics" (59 or 63%).
 
@@ -46,3 +48,4 @@ Multi-select item on the 93-student end-of-module survey asked what aspects of a
 - [Using Mathematica was the most commonly chosen challenge in learning action physics](mathematica-most-common-challenge-action-physics.md) — related
 - [Learners reported valuing teamwork, confidence, and a safe learning space, while requesting improved debriefing content and more procedural skills training](simulation-survey-themes-nepal.md) — related
 - [End-of-semester survey: most students reported the computational project let them explore new physics and roughly 90% gained confidence with Mathematica](student-survey-project-exploration-confidence.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — related

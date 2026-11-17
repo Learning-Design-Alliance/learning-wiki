@@ -51,4 +51,4 @@ A staged milestone schedule that pulls students into the capstone early. The art
 -
 
 ## Key Sources
-- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation. https://arxiv.org/abs/1510.09070
+- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation. https://arxiv.org/abs/1510.09070. [doi:10.1016/j.addma.2016.03.001](https://doi.org/10.1016/j.addma.2016.03.001)

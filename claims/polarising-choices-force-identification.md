@@ -68,3 +68,4 @@ Figure 3 analysis of the same six-question item data shows the wide gap between 
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Traditional curriculum students outperformed M&I students on every FCI concept category.](traditional-outperforms-mi-all-fci-concepts.md) — related
 - [Module analysis of FCI responses identified 13 student subgroups, with three normative groups differing in accuracy (77%, 73%, 53%) and in conceptual coherence](module-analysis-13-student-groups-fci.md) — related
+- [Most movement toward the correct answer among wrong-choice respondents is a direct migration from the fictitious-force choice X to the correct choice](wrong-choice-migration-x-to-correct-choice.md) — related

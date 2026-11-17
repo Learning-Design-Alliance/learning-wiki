@@ -69,3 +69,4 @@ The authors' stated inference from the screencast data: the iPad "has the potent
 - [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](ipad-inclusion-social-status-play-agency.md) — related
 - [Making screencasts created opportunities for students to engage in social interactions and exercise authorship within their physics assignments](screencasting-social-interactions-authorship.md) — related
 - [Students distinguished screencasts from traditional homework, most often saying screencasts require more work and greater depth of understanding (53%) and impose audience-based accountability](screencasts-vs-homework-depth-accountability.md) — related
+- [Students' screencast solutions were 21% more complete and 33% more likely to be correct than notebook solutions](screencasts-more-complete-and-correct-than-notebooks.md) — related

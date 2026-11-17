@@ -49,3 +49,4 @@ The authors' description of an affordance of the GBC spreadsheet: category count
 - [Students respond positively to GBC overall, complaining only that they lack immediate access to their numerical score](gbc-positive-student-response.md) — related
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — a broader claim this one bears on
 - [Form-recognition marking supported question-level analysis that revealed overly difficult or ambiguously worded workshop-test questions for lecturer feedback](question-level-item-analysis-reveals-difficult-or-ambiguous-questions.md) — related
+- [No statistically significant difference between the two algebra-based classes on the 15 common problems (p = 0.90; per-problem p-values 0.42–0.96)](algebra-versions-no-significant-difference.md) — related

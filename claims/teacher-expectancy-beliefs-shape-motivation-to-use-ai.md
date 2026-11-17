@@ -117,3 +117,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related
 - [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](self-handicapping-largest-ict-inhibitor.md) — related
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — related
+- [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](student-buy-in-struggle-physics-beliefs.md) — related

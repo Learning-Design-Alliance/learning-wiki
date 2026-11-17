@@ -79,6 +79,7 @@ Analogies are effective because they transfer *relational structure*, not surfac
 - [Use Concrete Examples](concrete-examples.md) — examples instantiate the target directly; analogies import structure from outside it
 - [Use Multiple Representations](multiple-representations.md) — an analogy is one representation among several; combining them offsets any single analogy's distortions
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](twa-step-by-step-analogy-teaching-strategy.md)
+- [Follow analogical reasoning activities with an instructor-led post-activity discussion targeting the misconception](post-activity-discussion-static-friction-strategy.md)
 
 ## Examples
 - **Electricity as water flow** — a staple of physics instruction: voltage as pressure, current as flow rate, resistance as pipe narrowing; effective only when instructors explicitly reject the "water is used up" implication.

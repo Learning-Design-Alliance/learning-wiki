@@ -49,3 +49,4 @@ A first-person classroom anecdote: during board derivations students ask 'How di
 - [Following a formal problem-solving rubric without activating sense-making intuition can produce nonsense, even by professionals](rubric-without-intuition-produces-nonsense.md) — related
 - [Physics and mathematics communities hold different hidden epistemological assumptions about equations that can cause students difficulties](physics-math-hidden-epistemological-differences.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [A disconnect exists in ADK between physicists and physics students even in reform-based, epistemologically-aware classrooms](adk-disconnect-physicists-physics-students.md) — related

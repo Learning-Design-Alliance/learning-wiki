@@ -43,7 +43,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (17 for, 8 mixed, 2 against) · 30 studies (11 review, 5 causal, 5 qualitative, 4 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 2 of 30 report an effect size · 21 claims rest on one study
+> **Evidence** · 28 claims (18 for, 8 mixed, 2 against) · 31 studies (11 review, 6 qualitative, 5 causal, 4 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 2 of 31 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Claims in the wiki that bear on the page's premise, not used in the model above.
 - [Attitudes Demographics Predict Counselor Rape Myth Acceptance](../claims/attitudes-demographics-predict-counselor-rape-myth-acceptance.md) [+M]
 - [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](../claims/label-condition-moderates-empathy-predictors.md) [~W]
 - [Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context](../claims/illiterate-adults-know-functions-not-environmental-print.md) [+W] — attached 2026-10-17 from Kurvers et al. (2009), which proposed "Build adult literacy teaching on the print knowledge learners bring into the classroom".
+- [Recruiting a student's relationship with biology into physics tasks engaged her in physics reasoning and increased her liking of physics](../claims/leveraging-biology-identity-engages-physics.md) [+W] — attached 2026-11-17 from Vashti Sawtelle et al. (2013), which proposed "Treat students' incoming expectations about a discipline as mutable and proactively work to reshape them through course design".
 
 ## Objective and learner-valued goal
 

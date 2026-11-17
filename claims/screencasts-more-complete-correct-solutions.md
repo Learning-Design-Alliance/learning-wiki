@@ -47,3 +47,4 @@ Classroom comparison of notebook versus screencast solutions in high school phys
 ## Related Claims
 - [The article argues that traditional teacher-centered lecturing fails to provide interaction and that active engagement is measurably more effective for understanding](traditional-lecture-fails-interaction-active-engagement-more-effective.md) — a broader claim this one bears on
 - [Students distinguished screencasts from traditional homework, most often saying screencasts require more work and greater depth of understanding (53%) and impose audience-based accountability](screencasts-vs-homework-depth-accountability.md) — related
+- [Students' screencast solutions were 21% more complete and 33% more likely to be correct than notebook solutions](screencasts-more-complete-and-correct-than-notebooks.md) — possibly the same claim (merge candidate)

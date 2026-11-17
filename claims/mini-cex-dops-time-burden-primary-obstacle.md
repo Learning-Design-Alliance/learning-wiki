@@ -53,3 +53,4 @@ Obstacles theme from interviews at one tertiary hospital; an ICU educator report
 - [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Most residents reported positive perceptions of the Mini-CEX plus DOPS evaluation mode, with 85% support and 15% reporting increased learning burden](resident-feedback-supports-minicex-dops-mode.md) — related
+- [Students willing to invest the necessary time and effort reported in a post-class survey that they learned a great deal, while heavy workload remained a retention risk for novices](intro-data-science-survey-learning-workload-risk.md) — related

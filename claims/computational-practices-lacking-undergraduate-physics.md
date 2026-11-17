@@ -25,6 +25,8 @@ sources:
     author: Marcos D. Caballero
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Computational practices (planning, modeling, programming, debugging, analysis, and visualization) are valued for modern science work but often lacking from the undergraduate experience
@@ -53,7 +55,7 @@ Qualitative analysis of conference field notes, with researchers as participant-
 
 Marcos D. Caballero. (2015). Computation across the curriculum: What skills are needed? arXiv:1507.00533v2 [physics.ed-ph]. [doi:10.1119/perc.2015.pr.015](https://doi.org/10.1119/perc.2015.pr.015)
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of one-hour follow-up interviews with six purposefully selected participants. Interviewees' remarks suggested the practices are important for modern science work but 'often lacking from the under- graduate experience'.
 

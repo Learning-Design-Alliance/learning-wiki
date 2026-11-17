@@ -48,3 +48,6 @@ Multi-university survey reviewed (Ref. [64]) on bound and scattering state wavef
 ## Related Claims
 - [Student difficulties in upper-level quantum mechanics are common across institutions and analogous in nature to reasoning difficulties found in introductory physics courses](qm-difficulties-analogous-to-introductory-across-institutions.md) — a broader claim this one bears on
 - [Student responses in upper-level quantum mechanics are context-dependent: a difficulty shown by 5–10% of students in one context likely appears in a higher percentage in another context](qm-context-dependence-of-reasoning-difficulties.md) — related
+- [Advanced students in quantum mechanics courses show widespread difficulties sketching bound and scattering state wave functions for a finite square well](advanced-students-wave-function-sketch-difficulties.md) — a broader claim this one bears on
+- [Students hold misconceptions that an energy eigenfunction can be simultaneously a bound and a scattering state and that certain potentials allow both](bound-scattering-state-misconceptions.md) — related
+- [Advanced students commonly believe only energy eigenstates are possible wavefunctions and that any well-shaped potential allows bound states](wavefunction-and-bound-state-misconceptions-1d-qm.md) — related

@@ -50,6 +50,7 @@ The library implements learning-science techniques by distributing rather than m
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
 - [Spaced Scheduling](spaced-scheduling.md)
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md)
+- [Reserve a large enough block of problem-solving practice (about four weeks rather than two) at the end of a concepts-first course](four-week-problem-solving-block-strategy.md)
 
 ## Examples
 -

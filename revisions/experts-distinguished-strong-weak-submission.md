@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/experts-distinguished-strong-weak-submission.md
+---
+
+# Revision history: [claims/experts-distinguished-strong-weak-submission](../claims/experts-distinguished-strong-weak-submission.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1604.06122 (Developing a project-based computational physics course grounded in expert practice) via eval_harness.py + ingest_extractions.py

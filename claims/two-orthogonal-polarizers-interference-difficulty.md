@@ -50,3 +50,4 @@ Think-aloud interview finding during QuILT development: students saw the two-pol
 - [Students overgeneralize classical optics of light beams to single photons, treating a single photon incident on a polarizer as partly transmitted and partly absorbed](single-photon-polarizer-classical-overgeneralization.md) — related
 - [On the pretest, 42% of students incorrectly claimed that all photons reaching the detectors display interference when a single polarizer is placed in one path of the MZI](single-polarizer-interference-difficulty.md) — related
 - [Think-aloud interviews with 15 upper-level undergraduate and graduate students identified common difficulties with single-photon MZI concepts](think-aloud-interviews-mzi-common-difficulties.md) — related
+- [Students fail to distinguish the quantum eraser setup from the setup with two orthogonal polarizers and cannot explain why interference is restored at D1](students-quantum-eraser-confusion-mzi.md) — related

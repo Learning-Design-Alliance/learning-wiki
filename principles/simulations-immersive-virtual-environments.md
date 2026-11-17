@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 568 claims (363 for, 180 mixed, 25 against) · 364 studies (163 causal, 81 review, 40 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 364 report an effect size · 563 claims rest on one study
+> **Evidence** · 569 claims (364 for, 180 mixed, 25 against) · 365 studies (163 causal, 81 review, 41 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 365 report an effect size · 564 claims rest on one study
 
 ## Conditional relationship
 
@@ -566,6 +566,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Most advanced students solved the built-in unknown-state challenges in the Superposition states and mixed states simulation](../claims/quvis-challenge-success-rates-mixed-superposition.md) [+W] — attached 2026-11-17 from Kohnle et al. (2014), which proposed "Embed challenges aligned with the simulation's learning goals to encourage prolonged engagement and assess outcomes".
 - [Elementary students reported a positive learning experience with the remixed energy simulation](../claims/elementary-positive-learning-experience-energy-simulation.md) [+W] — attached 2026-11-17 from Lye et al. (2014), which proposed "Five pedagogy-knowledge design principles for educational simulation: learning outcomes, inquiry support, teacher feedback, fidelity, and misconception challenge".
 - [First-year nursing students in class groups trained on a teacher-made IV injection model improved as much as those trained on a commercial model, with no significant difference in post-practice scores](../claims/teacher-made-model-equals-commercial-model-iv-training.md) [~W] — attached 2026-11-17 from Tran Trung Q et al. (2012), which proposed "Involve teachers in designing and producing locally made skills-training models as a sustainable, low-cost alternative to commercial simulators in resource-limited settings".
+- [First-year engineering students who used the virtual exam-simulation platform passed the first exam at a higher rate (40%) than non-users (12%)](../claims/arco-platform-users-higher-first-exam-passing.md) [+W] — attached 2026-11-17 from Analysis of the benefits of designing et al. (2010), which proposed "Exam-simulation practice pattern combining timed mock tests with post-hoc problem-solving heuristic feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

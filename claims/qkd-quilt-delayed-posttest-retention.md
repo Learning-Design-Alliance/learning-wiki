@@ -71,3 +71,6 @@ Question 5, which tests whether the photon's polarization can be determined only
 - [Students' reasoning about quantum key distribution concepts is inconsistent across nearly identical questions before the QuILT](qkd-student-reasoning-inconsistency-across-questions.md) — related
 - [Students incorrectly claiming Bob knows the photon polarization when his detector does not click dropped from 41% on the pretest to 6% on the posttest](qkd-quilt-q1-no-click-error-reduction.md) — related
 - [The posttest advantage of differentiated algebra teaching persists four weeks later](tiered-differentiated-teaching-algebra-persistency-advantage.md) — related
+- [Learning gains from the Larmor precession QuILT are retained on matched final-exam questions more than two months later](quilt-larmor-gains-retained-final-exam.md) — related
+- [QuILT work produces significant gains in correct quantum-mechanical reasoning that are retained, while classical reasoning shows no change or very small positive gain](quilt-larmor-quantum-reasoning-gains-retained.md) — a broader claim this one bears on
+- [Students retained the ability to distinguish a superposition from a mixture a full semester after working on the QuILT (8 of 9 correct)](sge-quilt-concepts-retained-semester.md) — related

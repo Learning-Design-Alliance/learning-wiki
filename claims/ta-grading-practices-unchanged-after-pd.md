@@ -73,3 +73,5 @@ Distribution of TA grades (Fig. 4) at both time points; the article reports 'the
 - [The preference for the minimal-reasoning solution over the detailed-reasoning solution softened but persisted in the homework context](tas-homework-grading-gap-softened.md) — related
 - [TAs' quiz-versus-homework grading differences may stem from their consideration of evidence of thought processes, quiz time limitations, or a preference for brief, condensed solutions](ta-grading-reasons-evidence-time-aesthetics.md) — related
 - [Physics TAs state that grading serves as a learning opportunity for the student and feedback for the instructor, and these stated purposes are stable across a semester](ta-stated-grading-purposes-learning-feedback.md) — related
+- [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
+- [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — related

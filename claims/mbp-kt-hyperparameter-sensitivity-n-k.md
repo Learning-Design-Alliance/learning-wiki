@@ -53,3 +53,4 @@ Sensitivity analysis (Figure 4) varying N in {2,3,4,5} and K in {10,20,30,40,50,
 - [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
+- [A windowed percent-correct analysis shows an optimal window length only in the Knewton dataset, indicating nontrivial temporal structure there](windowed-analysis-temporal-structure.md) — related

@@ -76,3 +76,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
 - [A 3-point subjective Accuracy scoring system for free-text ECG interpretations shows fair-to-good to excellent inter-rater agreement across four evaluators of different training levels](pecg-accuracy-score-interrater-agreement-validated.md) — related
 - [Interpreter and faculty raters gave similar scores on the interpreter-use subcompetency](interpreter-faculty-raters-similar-scores.md) — related
+- [Scoring categorizations was highly challenging for faculty evaluators, with substantial disagreement between evaluators on the same categories](categorization-scoring-challenging-evaluator-disagreement.md) — related

@@ -53,3 +53,4 @@ Exploratory PCA at the course level (146 courses, 10 aggregated PORTAAL practice
 - [First-generation and non-first-generation students benefit from learner-centered practices at different quartiles: non-FGN more at medium-high, FGN more at high levels](fgn-interaction-learner-centered-exam.md) — related
 - [Satisfaction with course leadership correlates with perceived benefit from instructor feedback only in tutor-taught groups, not in the lecturer-taught group](satisfaction-feedback-link-tutor-only.md) — related
 - [Principal component analysis finds the E-CLASS does not exhibit strong factors, consistent with its design targeting many distinct learning goals](eclass-pca-no-strong-factors.md) — related
+- [The first principal component of course grades explains almost 40% of total variance and tracks students' mean grade](first-pc-explains-40-percent-variance.md) — related

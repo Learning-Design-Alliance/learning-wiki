@@ -54,6 +54,7 @@ The authors recommend concrete design choices to mitigate study-load resistance 
 - [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
 - [Collect student feedback via online surveys and act on it: prioritize live video-lectures over posted presentations, manageable task loads, and extended thesis deadlines](strategy-student-suggestions-improve-e-learning.md)
 - [Keep guideline e-learning concise and integrate text with images and videos](concise-multimedia-guideline-e-learning-strategy.md)
+- [Align online video design and incentives with the concrete content students perceive as needed for assignment completion](align-online-videos-with-assignment-perceived-value.md)
 
 ## Examples
 -

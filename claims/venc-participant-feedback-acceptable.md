@@ -54,3 +54,4 @@ Six-month follow-up survey on a 1-to-5 Likert scale completed by participants in
 - [Users of Visual Clot report high acceptance: feeling better prepared, easy to learn, and willingness to use it clinically](visual-clot-high-user-acceptance-ratings.md) — related
 - [Users predominantly accepted the VI positively, with 79% reporting enhanced knowledge and themes of entertaining, engaging, and fun, though some reported technical loading issues](vi-user-acceptance-positive-with-technical-issues.md) — related
 - [Administrator-role researchers rate WriteSim TCExam fast, easy to learn, use and navigate](admin-survey-rates-writesim-usable-for-trainers.md) — related
+- [Students perceive the Energy Skate Park simulator as easy to use](energy-skate-park-high-perceived-usability.md) — related

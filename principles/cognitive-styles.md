@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (3 for, 17 mixed, 5 against) · 18 studies (8 review, 6 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (3 for, 18 mixed, 5 against) · 19 studies (8 review, 7 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 19 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims about cognitive and learning styles that were read for this rewrite but a
 - Theory, not a claim: [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) [~M] — the earlier page cited critics (Morgan, 1996, on that page) who argue MI's "intelligences" partly relabel cognitive-style research; it bears on what a style construct is, not on a design move.
 - [Virtually no learning-styles studies used designs capable of testing the required style-by-method crossover interaction](../claims/learning-styles-crossover-evidence-missing.md) [~W] — attached 2026-10-16 from Pashler et al. (2009), which proposed "Do not adopt learning-styles assessments in general educational practice; devote resources to practices with strong evidence bases".
 - [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](../claims/massa-mayer-no-meshing-support.md) [~M] — attached 2026-10-16 from Pashler et al. (2009), which proposed "Do not adopt learning-styles assessments in general educational practice; devote resources to practices with strong evidence bases"; tests this page's relationship.
+- [Learning styles showed no effect on post-test scores or on pleasure self-assessment across either learning material](../claims/learning-styles-no-effect-scores-or-pleasure.md) [~W] — attached 2026-11-17 from Lyra et al. (2016), which proposed "When choosing learning material, consider learners' enjoyment alongside the format, since enjoyment correlated with learning while learning styles did not"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,5 @@ Qualitative case study drawn from approximately 150 hours of video data of upper
 - [A journeyman student can nest Calculation, Physical Mapping, and Invoking Authority framings within an overarching framing that values coherence among lines of reasoning](overarching-coherency-valuing-framing.md) — related
 - [Warrants used in students' math arguments provide explicit evidence of epistemological framing](warrants-evidence-of-epistemological-framing.md) — related
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
+- [Frame transitions are brief, on the order of a few seconds, and can be triggered by instructor feedback or groupmate disagreement](brief-frame-transitions-triggered-externally.md) — related
+- [Productive problem solving can occur in any epistemological frame provided students transition appropriately between frames](productive-solving-any-frame-with-appropriate-transitions.md) — a broader claim this one bears on

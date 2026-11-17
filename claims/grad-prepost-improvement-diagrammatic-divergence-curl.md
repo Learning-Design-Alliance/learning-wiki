@@ -16,12 +16,14 @@ sources:
     author: Chandralekha Singh and Alexandru Maries
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Graduate students' performance on diagrammatic divergence and curl problems improves from pre-test to post-test in the EM core course, but remains imperfect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Chandralekha Singh and Alexandru Maries. (2012). Core Graduate Courses: A Missed Learning Opportunity?. [doi:10.1063/1.4789732](https://doi.org/10.1063/1.4789732)
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Written pre/post multiple-choice conceptual problems administered to first-year physics graduate students in a core electricity and magnetism course, before instruction and later in the course as part of an exam. The article reports that 'on each question, approximately half of the graduate students answered correctly' at pre-test and two-thirds at post-test.
 

@@ -45,7 +45,8 @@ The authors' recommendation for TA professional development: because TA-initiate
 - [Student engagement predicts lab exam performance after controlling for pre-test scores](../claims/engagement-correlates-lab-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use peer observation, reflection, clear examples, and departmental support to develop TA interactivity](ta-peer-observation-reflection-strategy.md)
 
 ## Examples
 -

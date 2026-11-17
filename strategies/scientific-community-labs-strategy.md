@@ -48,6 +48,7 @@ Reformed labs replace detailed protocols with a half-page instruction sheet cont
 ## Related Strategies
 
 - [Laboratory Reports](laboratory-reports.md)
+- [Question-driven lab report that lets students decide which measurements to perform](question-driven-report-student-liberty-strategy.md)
 
 ## Examples
 -

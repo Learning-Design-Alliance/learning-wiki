@@ -56,3 +56,4 @@ Multi-center mixed-methods study in which seven blinded expert raters scored vid
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Inter-rater reliability of OSCE scores was fair and similar for accented and non-accented videos](osce-fleiss-kappa-fair-reliability-both-accents.md) — related
 - [Blinded video assessment showed good inter-rater reliability for checklist scores but poor, non-significant reliability for GRS scores](inter-rater-reliability-checklist-good-grs-poor.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

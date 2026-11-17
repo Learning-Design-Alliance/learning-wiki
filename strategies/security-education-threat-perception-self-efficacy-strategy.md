@@ -56,4 +56,4 @@ The article recommends that IT security awareness, education and training progra
 -
 
 ## Key Sources
-- Arachchilage, N. A. G., Love, S., & Maple, C. (2013). Can a Mobile Game Teach Computer Users to Thwart Phishing Attacks. International Journal for Infonomics (IJI), Volume 6, Issues 3/4. http://www.infonomics-society.org/IJI
+- Arachchilage, N. A. G., Love, S., & Maple, C. (2013). Can a Mobile Game Teach Computer Users to Thwart Phishing Attacks. International Journal for Infonomics (IJI), Volume 6, Issues 3/4. http://www.infonomics-society.org/IJI. [doi:10.20533/iji.1742.4712.2013.0083](https://doi.org/10.20533/iji.1742.4712.2013.0083)

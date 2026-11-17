@@ -49,3 +49,4 @@ Post-test administration of the latest CCMI version at CU over three semesters w
 - [CCMI scores cannot yet be straightforwardly compared across partner institutions due to low enrollment and course-content differences](ccmi-partner-institution-limitations.md) — related
 - [CCMI Cronbach's alpha of 0.77 falls just below the 0.80 low-stakes cutoff, but is argued to underestimate true internal consistency](ccmi-cronbach-alpha-internal-consistency.md) — related
 - [First-year physics graduate students improved less than undergraduates (pre 44% to post 73%, normalized gain 0.52), possibly due to lack of grade incentives](quilt-dse-graduate-lower-gain-0-52.md) — related
+- [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related

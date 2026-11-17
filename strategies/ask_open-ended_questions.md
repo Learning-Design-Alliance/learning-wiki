@@ -59,9 +59,11 @@ Open-ended questions surface information that closed questions systematically mi
 6. **Normalize** — build the practice into routines such as [Class Discussion](../elements/class-discussion.md) openers or written warm-ups so disclosure is ordinary, not exceptional.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the follow-through skill; an open question without skilled listening is wasted
 - [Check-Ins](../principles/check-ins.md) — the routine structure that makes individual open questions sustainable at scale
 - [Building Empathy](../principles/building-empathy.md) — open questions are the primary data-gathering move for empathic response
+- [Question-driven lab report that lets students decide which measurements to perform](question-driven-report-student-liberty-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — open questions are the questioning half of the coaching cycle

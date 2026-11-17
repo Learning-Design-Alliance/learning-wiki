@@ -50,3 +50,4 @@ Coded transcript statements from the elevator problem in the think-aloud study; 
 - [Five of 14 M&I students misapplied F = ma on the falling balls problem, concluding a force difference implies a different fall time](mi-students-misapply-fma-falling-balls.md) — related
 - [Most common student responses on the Force Sled cluster match the force-proportional-to-velocity model](force-sled-common-responses-f-proportional-v.md) — related
 - [On the moving elevator problem, more traditional students selected the correct answer (60%) than M&I students (43%), a non-significant reversed distribution](elevator-problem-reversed-response-distribution.md) — related
+- [Students are not blank slates: naive conceptions from everyday experience can interfere with physics learning, so instructors should assess initial knowledge and build on it](prior-knowledge-naive-conceptions-physics.md) — a broader claim this one bears on

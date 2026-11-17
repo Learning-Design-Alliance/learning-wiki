@@ -110,3 +110,4 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Classroom social belonging increases with active learning only for non-URM students](social-belonging-increases-only-non-urm.md) — related
 - [Active-learning techniques improve STEM student performance relative to traditional lecture, including reduced failure and withdrawal among underrepresented groups](active-learning-outperforms-lecture-stem.md) — a broader claim this one bears on
 - [Sustained participation in well-executed out-of-school-time experiences improves academic achievement and social-developmental outcomes, especially for groups underrepresented in science](ost-participation-improves-outcomes-underrepresented.md) — related
+- [PER-based approaches are particularly helpful for underrepresented students and can decrease the gap between traditional and underrepresented students in physics classes](per-approaches-reduce-underrepresented-gap.md) — related

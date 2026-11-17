@@ -60,3 +60,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [The 12 SE-12 items form a single dominant factor, allowing item summarization](se-12-unidimensional-single-factor.md) — related
 - [After stepwise removal of misfitting items, the reduced 54-item pool shows no significant misfit to the Rasch unidimensional model](rasch-fit-reduced-54-item-pool.md) — related
 - [The final exam multiple-choice set showed acceptable internal consistency (KR-20 = 0.63) and item-total correlations from 0.15 to 0.51](final-exam-kr20-reliability-063.md) — related
+- [Physics graduate students benchmark an average MCS score of 83% with KR-20 of 0.87](mcs-graduate-student-benchmark.md) — related

@@ -52,3 +52,4 @@ The MANOVA main effect of cognitive style (field-dependent, intermediate, field-
 - [With motivational scaffolding, students of different FDI cognitive styles achieve equivalent learning](scaffolding-equalizes-achievement-across-cognitive-styles.md) — related
 - [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](motivational-scaffolding-raises-academic-self-efficacy-elearning.md) — related
 - [No significant main effect of style of categorisation on students' attitudes toward mathematics](no-main-effect-style-categorisation-attitudes.md) — related
+- [Learning styles showed no effect on post-test scores or on pleasure self-assessment across either learning material](learning-styles-no-effect-scores-or-pleasure.md) — related

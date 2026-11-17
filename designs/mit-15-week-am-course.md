@@ -47,4 +47,4 @@ A semester-long course taught at MIT to graduate students and advanced undergrad
 -
 
 ## Key Sources
-- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation.
+- Go, J., & Hart, A. J. (2015). A Framework for Teaching the Fundamentals of Additive Manufacturing and Enabling Rapid Innovation. [doi:10.1016/j.addma.2016.03.001](https://doi.org/10.1016/j.addma.2016.03.001)

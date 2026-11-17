@@ -47,3 +47,4 @@ Theoretical argument (type e) from the Advanced Physics Learning section: a stud
 ## Related Claims
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
+- [Proficiency at solving end-of-chapter exercises does not promote proficiency at solving conceptual problems](exercise-proficiency-does-not-promote-conceptual-problem-solving.md) — a narrower finding that bears on this claim

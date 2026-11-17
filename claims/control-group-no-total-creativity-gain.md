@@ -56,3 +56,4 @@ Dependent samples t-tests within the 20-student curriculum-based control group. 
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — related
 - [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related
 - [Blended learning improves the fluency skill of verbal creative thinking](blended-learning-improves-fluency-skill.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

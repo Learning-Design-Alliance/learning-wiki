@@ -56,3 +56,4 @@ First-round survey results: of 14 expert proposals, "Five were included as new a
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [A two-round eDelphi with eight external experts refined the EPR domains and learning outcomes to a final set of 32 outcomes](edelphi-refined-epr-outcomes-to-32.md) — related
 - [Expert faculty review supports the CURrENT's alignment with course-scale learning goals](expert-review-supports-current-learning-goal-alignment.md) — related
+- [Expert interviews revealed two competencies absent from an initial course-syllabus-derived model: Running and Testing](interviews-revealed-running-and-testing-competencies.md) — related

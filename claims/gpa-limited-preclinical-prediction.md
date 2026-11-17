@@ -54,3 +54,4 @@ Regression models with GPA alone as predictor across four cohorts; "Grade point 
 - [Predictive validity of the trial-studying test does not differ significantly from that of high school mean grades for first-year performance measures](trial-studying-predictive-validity-equals-high-school-grades.md) — related
 - [HAM-Nat is a stronger predictor than GPA of physics and chemistry course performance in three of four dental cohorts](ham-nat-stronger-than-gpa-physics-chemistry.md) — related
 - [HAM-Nat predicted ZVP examination performance better than GPA only in the WiSe 2009/10 cohort, when the test was part of selection](ham-nat-zvp-advantage-only-2009-cohort.md) — related
+- [Courses with higher mean grades tend to show lower grade variance across a physics curriculum](higher-mean-course-grades-lower-variance.md) — related

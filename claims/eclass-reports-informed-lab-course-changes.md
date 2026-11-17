@@ -24,6 +24,8 @@ sources:
     author: Bethany R. Wilcox, Benjamin M. Zwickl, Robert D. Hobbs, John M. Aiken, Nathan M. Welch, and H. J. Lewandowski
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: bethany-r-wilcox-2016-3
     resource: "https://doi.org/10.1103/physrevphyseducres.12.010139"
     title: "Bethany R. Wilcox, Benjamin M. Zwickl, Robert D. Hobbs, John M. Aiken, Nathan M. Welch, and H. J. Lewandowski (2016). An alternative model for administration and analysis of research-based assessments. [doi:10.1103/physrevphyseducres.12.010139](https://doi.org/10.1103/physrevphyseducres.12.010139)"
@@ -61,7 +63,7 @@ Email survey of a subset of report-receiving instructors (N=55 distributed, 17 r
 
 Bethany R. Wilcox, Benjamin M. Zwickl, Robert D. Hobbs, John M. Aiken, Nathan M. Welch, and H. J. Lewandowski (2016). An alternative model for administration and analysis of research-based assessments. [doi:10.1103/physrevphyseducres.12.010139](https://doi.org/10.1103/physrevphyseducres.12.010139)
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same instructor email survey (17 responses): '13 of 17 survey respondents reported dis- cussing their E-CLASS report with colleagues or depart- ment chairs', and roughly a third (N = 4) presented results at local or national meetings; two faculty members also included their report in tenure or post-tenure evaluation.
 

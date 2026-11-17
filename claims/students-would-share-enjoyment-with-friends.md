@@ -50,3 +50,4 @@ Item from the post-program youth surveys (grades 2-8) in the pilot assessment. D
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related
 - [Teachers judged the Quarked! programs valuable from both a curriculum and affective perspective](teachers-judge-quarked-programs-valuable.md) — related
 - [Over 90% of elementary and middle school students rated the Quarked! hands-on program 3 or higher out of 5, with more than half giving the top rating](quarked-hands-on-program-high-engagement-ratings.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 473 claims (237 for, 208 mixed, 28 against) · 354 studies (112 associational, 85 design, 61 causal, 48 review, 30 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 31 of 354 report an effect size · 466 claims rest on one study
+> **Evidence** · 476 claims (240 for, 208 mixed, 28 against) · 357 studies (113 associational, 86 design, 62 causal, 48 review, 30 theoretical, 13 quant-synthesis, 5 qualitative), `q1`–`q3` · 32 of 357 report an effect size · 469 claims rest on one study
 
 ## Conditional relationship
 
@@ -317,6 +317,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Adding a copying trait to IRT improves the predictive power of first-attempt homework ability relative to exam-derived ability](../claims/copying-trait-improves-homework-ability-prediction.md) [+W] — attached 2026-11-17 from Emre Gönülateş et al. (2015), which proposed "Treat first-attempt success on open-ended online homework as a potentially deceptive measure of ability, and avoid penalizing multiple attempts".
 - [A fixed raw or Hake gain corresponds to different proficiency progressions depending on students' initial pre-test score](../claims/fixed-gain-different-proficiency-progressions.md) [+W] — attached 2026-11-17 from Jean-François Parmentier et al. (2015), which proposed "Design conceptual tests with well-separated item characteristic curves and interpret progression on the proficiency scale rather than via gains"; tests this page's relationship.
 - [Even when no learning occurs, FCI gains rise with pre-test score up to one and losses fall from one to zero](../claims/no-learning-gains-losses-fci.md) [+W] — attached 2026-11-17 from Jean-François Parmentier et al. (2015), which proposed "Design conceptual tests with well-separated item characteristic curves and interpret progression on the proficiency scale rather than via gains"; tests this page's relationship.
+- [An untrained grader using the CCMI grading rubric scores student responses reliably](../claims/ccmi-untrained-grader-reliability.md) [+W] — attached 2026-11-17 from Marcos D. Caballero et al. (2016), which proposed "Separate scoring into an answer-focused grading rubric so untrained faculty can grade reliably"; tests this page's relationship.
+- [Weighted simulated multiple-choice scores correlate more highly with rubric-graded free-response performance than dichotomous simulated scores](../claims/weighted-mc-correlation-higher-than-dichotomous.md) [+M] — attached 2026-11-17 from Shih-Yin Lin et al. (2010), which proposed "Grade free-response questions carefully with a good rubric, since lenient grading does not reflect students' level of understanding"; tests this page's relationship.
+- [The Turkish AAPS translation showed robust internal consistency across all student groups, with Cronbach alpha ranging from 0.82 to 0.90](../claims/turkish-aaps-survey-reliability-validation.md) [+W] — attached 2026-11-17 from Nuri Balta et al. (2016), which proposed "Translate and validate attitude surveys through expert translation, bilingual physicist review, and one-on-one cognitive interviews with the least-experienced students before large-scale administration".
 
 ## Objective and learner-valued goal
 

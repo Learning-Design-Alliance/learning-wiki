@@ -44,6 +44,7 @@ A facilitation strategy used within Modeling Discourse Management: when student 
 
 - [Dialogic Facilitation of Student Resources](dialogic-facilitation-of-student-resources.md)
 - [Class Discussion Facilitation](class-discussion-facilitation.md)
+- [Seed ideas during small-group time and promote inter-student discussion as dominant discourse](seeding-inter-student-discussion-strategy.md)
 
 ## Examples
 -

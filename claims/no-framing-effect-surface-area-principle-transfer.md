@@ -51,3 +51,4 @@ ANOVA results across transfer-of-knowing, transfer-of-learning, and transfer-aft
 - [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](expansive-framing-boosts-transfer-of-knowing-facts.md) — related
 - No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
+- [How learning is framed influences the strategies students use, their enjoyment, and what they transfer](learning-framing-influences-strategies-and-transfer.md) — reports the opposite

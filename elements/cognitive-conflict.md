@@ -91,6 +91,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 **[Erroneous examples in math tutoring](https://link.springer.com/article/10.1007/s10648-006-9002-3)** — Systems such as [ASSISTments](https://www.assistments.org) present incorrect worked solutions for learners to debug, converting error detection into conceptual learning.
 - [Mediation suggesting courses of action that provoke articulation and reflection to lead groups toward more refined solutions](../strategies/mediation-provokes-articulation-reflection.md)
 - [Intentionally incorrect physics simulations to provoke conceptual reasoning](../strategies/intentionally-incorrect-simulation-conceptual-discourse.md)
+- [Induce cognitive conflict by having students predict, check predictions against simulations, and reconcile mismatches with guidance](../strategies/cognitive-conflict-predict-then-check-simulation-strategy.md)
 
 ## Key Sources
 - Limón, M. (2001). On the cognitive conflict as an mechanism of conceptual change. *Educational Psychology Review, 13*(4), 357–383.

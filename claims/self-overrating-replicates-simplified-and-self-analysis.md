@@ -69,3 +69,4 @@ Sixty juniors rated themselves and the typical junior on a ten-item trustworthin
 - [Self-raters show very little association between their introspective self-order of interests and the order attributed to them by peers, indicating a tendency to overrate themselves](self-rating-overrate-little-self-other-agreement.md) — related
 - [Students give themselves higher self-ratings on qualities they judge more important, averaging 14.75 points on A qualities versus 7.0 on F qualities](higher-self-ratings-on-important-qualities.md)
 - [Raters correlate the importance of a trait with how much of it they credit themselves, an average correlation of +.52 read as a self-defense mechanism](trait-importance-self-credit-correlation.md)
+- [Peer evaluations of student teaching were reliable and consistent with instructor and TA evaluations, but self-evaluations were not reliable](peer-evaluations-reliable-self-evaluations-not.md) — possibly the same claim (merge candidate)

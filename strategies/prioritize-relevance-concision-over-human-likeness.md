@@ -39,6 +39,7 @@ The article's design recommendation for scalable instructional systems is that "
 ## Related Strategies
 
 - [Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests](multiple-concise-llm-perspectives-learner-selection.md)
+- [Align online video design and incentives with the concrete content students perceive as needed for assignment completion](align-online-videos-with-assignment-perceived-value.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The concept test/peer instruction model developed by Eric Mazur stops lectures e
 - [Clicker Questions](clicker-questions.md)
 - [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
 - [Use clicker questions with student-student discussion during lecture to build qualitative understanding of basic concepts](clicker-peer-discussion-qualitative-lecture-strategy.md)
+- [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](sequenced-context-varied-concept-tests-strategy.md)
 
 ## Examples
 -

@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 77 claims (16 for, 42 mixed, 19 against) · 65 studies (31 causal, 15 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 21 of 65 report an effect size · 73 claims rest on one study
+> **Evidence** · 78 claims (16 for, 43 mixed, 19 against) · 66 studies (32 causal, 15 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 21 of 66 report an effect size · 74 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -127,6 +127,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Curriculum graduates rated their expected performance worse than Master graduates while rating case difficulty similarly](../claims/self-assessment-performance-difference.md) [~W]
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
 - [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
+- [With a more typical quiz problem, even minimal scaffolding (notes and textbook) supported reasonable self-diagnosis, unlike with the earlier extremely difficult problem](../claims/easier-quiz-problem-minimal-scaffold-self-diagnosis.md) [~W] — attached 2026-11-17 from E. Yerushalmi et al. (2009), which proposed "Self-diagnosis task with varied scaffolding supports in introductory physics".
 
 ## The evidence by question
 

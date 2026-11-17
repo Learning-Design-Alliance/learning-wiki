@@ -49,3 +49,4 @@ Multiple-choice survey of upper-level undergraduates (N = 210) after traditional
 - [Student responses in upper-level quantum mechanics are context-dependent: a difficulty shown by 5–10% of students in one context likely appears in a higher percentage in another context](qm-context-dependence-of-reasoning-difficulties.md) — related
 - [Students answer analogous measurement-probability questions consistently but mostly incorrectly](students-consistent-but-incorrect-analogous-quantum-questions.md) — related
 - [Students incorrectly assume the probability density for measuring position is time-independent, and this error is context-dependent](students-assume-position-probability-density-time-independent.md) — related
+- [Many students mistake the expectation value of energy for a possible measurement outcome and cannot distinguish individual measurements from expectation values](expectation-value-confused-with-measurement-outcome.md) — related

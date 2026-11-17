@@ -51,3 +51,4 @@ Dependent samples t-test within the 19-student CREACT group after four weeks of 
 - [Experimental-group students' learning achievement and creative thinking posttest scores were significantly higher than their pretest scores after learning with the model](model-pretest-posttest-gains-creative-thinking-achievement.md) — related
 - [Creative action increased in both experimental groups, with learners working creatively only fragmentally rising sharply](creative-action-increased-experimental-groups.md) — related
 - [Total pre-post scores rise significantly and consistently across two annual cohorts](vps-total-score-increase-two-cohorts.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

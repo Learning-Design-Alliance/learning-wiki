@@ -13,7 +13,7 @@ generated:
 # ConcepTest
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 2 associational, 2 theoretical, 1 causal), `q2`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 11 studies (4 quant-synthesis, 3 causal, 2 associational, 2 theoretical), `q2`–`q4` · 4 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 A ConcepTest is a short multiple-choice (or short-answer) question focused on a single concept — typically one where learners hold predictable misconceptions — posed to the whole class. Learners commit to an answer individually (often via clicker or show of hands), discuss with neighbors, revote, and then the instructor resolves the result. Developed by Eric Mazur in Harvard's physics course, it is the question engine of [Peer Instruction](../patterns/peer-instruction.md).
@@ -55,6 +55,8 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](../claims/clicker-presence-predicts-homework-explanation-quality.md) [+W]
 - [Clicker questions in Peer Discussion class sessions tend to be more challenging for students than those in the other two modes.](../claims/peer-discussion-sessions-more-challenging-questions.md) [+W] — attached 2026-11-09 from Lewin JD et al. (2016), which proposed "Community-vetted clicker question banks with challenging questions and supporting materials.".
+- [Junior-senior level QM classes using concept tests as peer instruction tools significantly outperform a traditionally taught comparison class on a conceptual quiz](../claims/qm-concept-tests-outperform-traditional-instruction.md) [+W] — attached 2026-11-17 from Chandralekha Singh et al. (2010), which proposed "Bank of about 500 research-based QM concept test questions"; tests this page's relationship.
+- [Students' average scores on quantum measurement questions rise from 26% after traditional instruction to 68% after concept tests and 91% after the measurement QuILT](../claims/quilt-concept-tests-improve-quantum-measurement-scores.md) [+W] — attached 2026-11-17 from Guangtian Zhu et al. (2008), which proposed "Research-based concept tests on quantum measurement as peer instruction tools".
 
 ## Related Elements
 
@@ -80,6 +82,7 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Use statistical-mode and induce-mode interactive questioning, especially for large classes, rather than passive or simple vote modes](../strategies/statistical-induce-interactive-modes.md)
 - [Teach single-quanta experiments by presenting actual data from original sources with clicker-question discussion, omitting extraneous technical details.](../strategies/single-quanta-original-data-clicker-discussion-strategy.md)
 - [Integrate concept tests on time dependence of expectation values into lectures with peer discussion](../strategies/concept-tests-peer-discussion-quantum-expectation-values.md)
+- [Use sequenced concept tests that address similar concepts in different contexts as peer instruction tools in quantum mechanics lectures](../strategies/sequenced-context-varied-concept-tests-strategy.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual.* Prentice Hall.

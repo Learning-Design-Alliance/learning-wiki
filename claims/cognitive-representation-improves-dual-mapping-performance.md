@@ -47,3 +47,4 @@ Single-group pre-post comparison of dual maps for the first and last of four cas
 ## Related Claims
 - [Dual-mapping performance improved significantly in four of five aspects, but not in reasoning links](dual-mapping-aspects-improved-except-reasoning-links.md) — a narrower finding that bears on this claim
 - [The cognitive-mapping group’s reasoning-process and knowledge-construction performance rose significantly from the first to the last case, while the verbal-text group showed no significant change across cases](cognitive-mapping-pre-post-improvement-within-group.md) — related
+- [After expert regrading, the quality of student work rapidly improved after the first project and continued improving through the last class project](rapid-improvement-after-first-project.md) — related

@@ -33,4 +33,4 @@ A commercially published astronomy workbook by Prather and colleagues that provi
 ## Key Sources
 - Rudolph, A. L. (2011). Do You Always Need a Textbook to Teach Astro 101?. Astronomy Education Review. https://aas.org
 - An Investigation into the Correlations between Students’ Written Responses to Lecture-Tutorial Questions and their Understandings of Key Astrophysics Concepts. (2014). No venue or author line printed in supplied text. https://scholar.google.com/scholar?q=An+Investigation+into+the+Correlations+between+Students+Written+Responses+to+Lecture-Tutorial+Questions+and+their+Understandings+of+Key+Astrophysics+Concepts
-- Wallace, C. S., Prather, E. E., Hornstein, S. D., Schlingman, W. M., Chambers, T. G., & Burns, J. O. (2015). A New Lecture-Tutorial for Teaching about Molecular Excitations and Synchrotron Radiation. https://eric.ed.gov/?id=ED555678
+- Wallace, C. S., Prather, E. E., Hornstein, S. D., Schlingman, W. M., Chambers, T. G., & Burns, J. O. (2015). A New Lecture-Tutorial for Teaching about Molecular Excitations and Synchrotron Radiation. https://eric.ed.gov/?id=ED555678. [doi:10.1119/1.4937972](https://doi.org/10.1119/1.4937972)

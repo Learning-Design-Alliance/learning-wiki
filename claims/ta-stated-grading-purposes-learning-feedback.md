@@ -48,3 +48,5 @@ Bottom-up coding of open-ended questionnaire responses about the purpose of grad
 - [TAs' stated goals for grading are frequently not aligned with their actual grading practice](ta-grading-goals-practice-misalignment.md) — related
 - [Physics TAs more often graded the minimally reasoned solution SSE higher than the elaborated solution SSD, and average grades did not change significantly from semester start to end in one group measured before and after one semester of teaching experience and TA professional development](ta-grading-practices-unchanged-after-pd.md) — related
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
+- [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
+- [Almost all first-year physics TAs stated that the purpose of grading was formative](tas-state-formative-purpose-of-grading.md) — possibly the same claim (merge candidate)

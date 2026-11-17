@@ -55,3 +55,4 @@ Performance on question 5 probing understanding of quantum measurement and measu
 - [Graduate students recall Ehrenfest's theorem as a memorized fact but many do not understand how it is derived mathematically](ehrenfest-theorem-recalled-by-rote-not-understood.md) — related
 - [Upper-level students recognize and recall translations of a generic state vector between Dirac notation and position/momentum representations far better than they can generate them](recognize-recall-easier-than-generate-generic-state.md) — related
 - [Students answer analogous measurement-probability questions consistently but mostly incorrectly](students-consistent-but-incorrect-analogous-quantum-questions.md) — related
+- [Difficulties with Dirac notation persisted in advanced students, and regression on problem 1 suggests some had memorized procedures rather than mastered the notation](dirac-notation-memorized-procedures.md) — related

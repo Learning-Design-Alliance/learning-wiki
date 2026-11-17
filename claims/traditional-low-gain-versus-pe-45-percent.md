@@ -57,3 +57,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [Traditional and M&I students show no significant difference in overall accuracy on 10 selected FCI problems in a think-aloud study](no-overall-fci-difference-mi-vs-traditional-think-aloud.md) — related
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [ACI administration diagnosed low teaching effectiveness for action concepts in 2014, with normalized gain improving after the 2015 course redesign](aci-normalized-gain-2014-2015.md) — related

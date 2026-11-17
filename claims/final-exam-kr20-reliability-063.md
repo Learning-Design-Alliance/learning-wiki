@@ -56,3 +56,4 @@ Post hoc psychometric analysis of the 20 final exam items: "KR-20 = 0.63 for the
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [The labs did not measurably affect conceptual learning: combined conceptual lab-related items showed no significant difference, and only one of 20 multiple-choice items was significant](lab-no-conceptual-learning-effect.md) — related
 - [Lab-course takers entered and left the course with higher content ability, but taking the lab did not interact with this ability gap](lab-students-higher-ability-no-interaction.md) — related
+- [Physics graduate students benchmark an average MCS score of 83% with KR-20 of 0.87](mcs-graduate-student-benchmark.md) — related

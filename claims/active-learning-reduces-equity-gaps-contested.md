@@ -70,3 +70,4 @@ The review reports an observational study cited as Stains et al. (2018) covering
 - [Active learning produces better student outcomes than lecture across STEM, including lower failure rates and higher test performance](active-learning-superior-to-lecture-stem.md) — a narrower finding that bears on this claim
 - [Most STEM faculty still rely primarily on lecture despite evidence favoring active learning](faculty-still-primarily-lecture-stem.md) — related
 - [Evidence that increased racial diversity improves medical education outcomes is very weak, though diverse-group problem-solving research is suggestive](diversity-educational-outcomes-evidence-weak.md) — related
+- [Active engagement is linked to better outcomes in undergraduate STEM classrooms and to improved K-12 teacher practice in professional development](active-engagement-linked-to-learning-outcomes.md) — possibly the same claim (merge candidate)

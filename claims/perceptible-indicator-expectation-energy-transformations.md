@@ -52,3 +52,4 @@ Phenomenological analysis of fifteen video episodes from six discussions in K-12
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — related
 - [Teachers across multiple courses and scenarios describe transformation into thermal energy as a terminal process, a 'dead end'](teachers-thermal-energy-terminal-dead-end.md) — related
 - [Some teachers also judge sound energy as a less useful form, suggesting transformation into sound renders energy unavailable](teachers-sound-energy-less-useful.md) — related
+- [Students perceive the simulator as contributing to learning of energy concepts](energy-skate-park-perceived-learning-contribution.md) — related

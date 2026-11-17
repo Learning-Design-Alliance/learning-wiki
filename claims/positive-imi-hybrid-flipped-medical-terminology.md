@@ -50,3 +50,4 @@ One-sample t-tests on IMI subscales from 149 valid student responses in a hybrid
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
 - [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related
+- [Students rate DiffGame as enjoyable and valuable, but intrinsic motivation does not correlate with performance](diffgame-intrinsic-motivation-performance-null.md) — related

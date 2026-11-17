@@ -50,3 +50,6 @@ Bottom-up coding of reasons TAs gave for their SSE quiz grades (Table 3). The au
 - [The preference for the minimal-reasoning solution over the detailed-reasoning solution softened but persisted in the homework context](tas-homework-grading-gap-softened.md) — related
 - [In a quiz context, TAs graded a minimal-reasoning solution (SSE) significantly higher than a detailed-reasoning solution with canceling mistakes (SSD)](tas-quiz-grading-favors-minimal-reasoning-solution.md) — related
 - [TAs' grading approaches indicate a subtractive scheme, weighing domain knowledge and correctness in the detailed solution but rarely docking the brief solution for missing justifications](tas-subtractive-grading-scheme.md) — related
+- [TAs' perceptions of grading did not change significantly during one semester of teaching experience](tas-grading-perceptions-stable-over-one-semester.md) — related
+- [In the homework context the SSE–SSD gap softened and average scores were comparable](tas-quiz-hw-grading-gap-softened-hw-nonsignificant.md) — related
+- [TAs' stated reasons for grading SSE included inadequate evidence, quiz time limitations, and aesthetics](tas-reasons-for-grading-brief-solution-evidence-time-aesthetics.md) — possibly the same claim (merge candidate)

@@ -74,3 +74,5 @@ Table II reports average normalized gains for students in the authors' courses o
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [After the AST1000F course, students' free associations with 'astronomy' shifted toward more technical concepts taught in the course](free-association-shift-toward-technical-astronomy-concepts.md) — related
 - [The Lawson test is inadequate as a diagnostic of proportional reasoning as used in physics](lawson-test-inadequate-proportional-diagnostic.md) — related
+- [Student difficulties on the test are not strongly dependent on student population or calculus background, except for honors and active-engagement classes](difficulty-independent-of-calculus-background.md) — related
+- [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — related

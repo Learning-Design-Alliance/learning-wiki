@@ -67,6 +67,8 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 - [Pair erroneous examples with prompts that require learners to identify, explain, correct, or reflect on errors, while monitoring complexity to avoid overload](prompt-identify-explain-correct-reflect-errors.md)
 - [Use a pupil-plays-teacher error-correction game format for language testing](pupil-plays-teacher-error-correction-format.md)
 - [Deliberately engineer a systematic error in students' first rough measurements to force discussion of the theory-practice gap](engineered-systematic-error-strategy.md)
+- [Provide a self-diagnosis rubric requiring students to explain specific missing details when reviewing their solutions](self-diagnosis-rubric-specific-details-strategy.md)
+- [Use a trick simulation showing an incorrect phenomenon to prompt unsure learners to reconsider their shadow reasoning](trick-simulation-to-provoke-reconsideration-strategy.md)
 
 ## Examples
 - **Incorrect examples in algebra instruction** (Renkl and colleagues' research program): students study a worked probability or algebra problem containing a typical error (e.g., adding fractions by adding numerators and denominators), explain what is wrong, then solve a near-transfer problem.

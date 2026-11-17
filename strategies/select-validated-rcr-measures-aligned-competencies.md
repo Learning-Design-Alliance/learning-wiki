@@ -42,7 +42,8 @@ The review offers its comprehensive overview of 15 validated measures as guidanc
 - [Rcr Validation Evidence Framework Fenn Extended](../research-methods/framework-of-reliability-and-validity-evidence-categories-for-classifying-rcr-outcome-meas.md)
 
 ## Related Strategies
-- 
+
+- [Choose assessments by matching instrument topic coverage, level, and format to your course content and goals](choose-rbai-matched-to-course-content.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Analysis of reasoning selections among the 176 students who chose Gauss's Law (F
 - [CMR format captures most but not all FR reasoning: about 74% of FR responses matched CMR reasoning elements](cmr-captures-three-quarters-of-fr-reasoning.md) — related
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [CUE rubric weaknesses: use of the term \"superposition\" is strongly curriculum-dependent (81% of CU vs 22% of OSU relevant answers), and only ~15% of students at either institution took a clearly correct approach](cue-superposition-rubric-curriculum-dependence.md) — related
+- [In the case study, nearly all interviewed students incorrectly concluded that the electric field is zero everywhere inside an asymmetric cavity in a charged insulating sphere, misapplying Gauss's law.](gauss-law-zero-field-cavity-misconception.md) — related

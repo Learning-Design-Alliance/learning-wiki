@@ -53,3 +53,4 @@ Theoretical argument in the physics module section, citing educational research 
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — a narrower finding that bears on this claim
 - [The deliberate practice transformation process covered 90% of the material of the traditional lecture format](deliberate-practice-90-percent-coverage.md) — related
 - [Students created more complete and more correct physics solutions when using screencasts instead of their traditional notebooks](screencasts-more-complete-correct-solutions.md) — a narrower finding that bears on this claim
+- [Teaching by telling is not an effective approach to helping students learn physics; PER-based curricula instead build on interactive engagement](teaching-by-telling-ineffective-physics.md) — a narrower finding that bears on this claim

@@ -17,7 +17,7 @@ sources:
 # Incorporate individual and group activities about introductory student difficulties using conceptual assessments like the TUG-K into TA training and professional development
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (1 causal), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (1 causal, 1 associational), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article recommends that TA training courses include tasks in which teaching assistants, first individually and then in groups, predict the most common incorrect answer choices of introductory students on conceptual assessments. The authors state that "performing individual and group activities about introductory student difficulties in the contexts of conceptual assessments like the TUG-K could be beneficial in improving the pedagogical content knowledge of the participants." Group discussion improved PCK performance in their study, and the follow-up class discussion suggested graduate students found the tasks challenging but worthwhile.
@@ -50,6 +50,7 @@ The article recommends that TA training courses include tasks in which teaching 
 ## Related Strategies
 
 - [Use TUG-K style PCK tasks in TA and new-faculty professional development, followed by discussion of common student difficulties](pck-task-ta-professional-development-strategy.md)
+- [Sensitize instructors to students' likely conceptual difficulties when teaching first-year graduate quantum mechanics](sensitize-instructors-quantum-conceptual-difficulties.md)
 
 ## Examples
 -

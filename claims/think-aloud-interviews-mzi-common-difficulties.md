@@ -53,3 +53,8 @@ Qualitative interview study during QuILT development. Common difficulties includ
 - [Upper-level undergraduate and graduate students exhibited the same difficulties with quantum eraser concepts](same-difficulties-undergrad-grad-students.md) — related
 - [Students incorrectly claimed that two orthogonal polarizers in the MZI paths differ from a single polarizer only in that fewer photons reach the detectors](two-orthogonal-polarizers-interference-difficulty.md) — related
 - [Students overgeneralize classical optics of light beams to single photons, treating a single photon incident on a polarizer as partly transmitted and partly absorbed](single-photon-polarizer-classical-overgeneralization.md) — related
+- [Working through the Mach-Zehnder interferometer QuILT improved average performance from 48% to 83%, with all but one of 12 students earning perfect scores on three polarizer questions](quilt-mach-zehnder-pre-post-gain.md) — related
+- [Upper-level undergraduate and Ph.D. student performance rose from pretest to posttest after the MZI QuILT, with average normalized gain of 0.78, in one single-group pre-post study](quilt-mzi-normalized-gain-0-78.md) — related
+- [Many upper-level students ignore classical interference of light at MZI detectors, incorrectly predicting half the light reaches each detector](students-ignore-mzi-interference-classical-light.md) — related
+- [Students incorrectly claim that removing or inserting beam-splitter BS2 does not change detector probabilities in the MZI](students-incorrect-bs2-role-mzi.md) — related
+- [Students struggle with wave-particle duality of single photons, treating a photon as a point particle or as split into two photons after BS1](students-treat-single-photon-as-point-particle-mzi.md) — related

@@ -47,3 +47,4 @@ Concordance analysis of 50 randomly selected dual stain slides (45 from women ag
 ## Related Claims
 - [Discordant dual stain results were mostly slides scored positive by novices but negative by the expert, sometimes explained by strong background staining obscuring single positive cells](discordance-driven-by-background-staining.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
+- [Students recover light-source spectra via FTS that agree with manufacturer specifications](student-fts-spectra-match-manufacturer-specs.md) — related

@@ -52,3 +52,4 @@ Illustrative examples from a calculus final exam and standard texts: a trout-den
 - [A student's unspoken warrant that mathematics should fit the physical system signals a Physical Mapping framing of math use](physical-mapping-warrant-episode.md) — a narrower finding that bears on this claim
 - [A changed meaning of equation correctness and derivation method is discussed and its effect on tutor effectiveness evaluated](changed-correctness-method-evaluated.md) — related
 - [Standard textbook presentation of SHM as a differential equation is alien to most first-course students](shm-differential-equation-alien-to-introductory-students.md) — a narrower finding that bears on this claim
+- [Students who succeeded in calculus can still be unable to approach multi-parameter physics equations](multi-parameter-equations-difficulty.md) — a narrower finding that bears on this claim

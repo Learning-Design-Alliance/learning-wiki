@@ -17,6 +17,8 @@ sources:
     author: Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: qing-x-ryan-2015-2
     resource: "https://doi.org/10.1119/perc.2015.pr.066"
     title: "Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox. (2015). Student Difficulties with Boundary Conditions in Electrodynamics. arXiv. [doi:10.1119/perc.2015.pr.066](https://doi.org/10.1119/perc.2015.pr.066)"
@@ -30,7 +32,7 @@ sources:
 # Students frequently select wrong boundary-condition equations or field components and drop exponential terms when setting up boundary equations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
@@ -43,7 +45,7 @@ sources:
 
 Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox. (2015). Student Difficulties with Boundary Conditions in Electrodynamics. arXiv. [doi:10.1119/perc.2015.pr.066](https://doi.org/10.1119/perc.2015.pr.066)
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Coding of exam solutions at ACER element C2 (selecting appropriate BCs and field components) across normal-incidence (128 solutions) and oblique-incidence (36 solutions) questions. The article reports 11% (14/128) wrong BCs equation and 33% (12/36) wrong components; no effect size printed.
 

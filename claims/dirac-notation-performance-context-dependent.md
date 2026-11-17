@@ -17,12 +17,14 @@ sources:
     author: Chandralekha Singh and Emily Marshman
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Graduate students perform inconsistently on Dirac notation questions within the same test, with performance depending on context
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Chandralekha Singh and Emily Marshman. (2013). Investigating Student Difficulties with Dirac Notation. 2013 PERC Proceedings. https://doi.org/10.1119/perc.2013.pr.074
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Written free-response and multiple-choice questions were administered in two graduate quantum mechanics courses (15 and 24 students), with 39 students' performance combined across two years since performances were similar; the authors report students were "inconsistent in their responses to different questions about Dirac notation given as a part of the same test."
 

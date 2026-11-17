@@ -16,12 +16,14 @@ sources:
     author: Angelo Kyrilov and David C. Noelle
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The authors report that instant binary Correct/Incorrect feedback on programming exercises can demotivate beginners and promote cheating
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Angelo Kyrilov and David C. Noelle. (2015). Using Automated Theorem Provers to Teach Knowledge Representation in First-Order Logic. 4th International Conference on Tools for Teaching Logic. [doi:10.48550/arXiv.1507.03670](https://doi.org/10.48550/arXiv.1507.03670)
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 This is the authors' stated belief, offered in the Future Work section in the context of their separate work on feedback for programming exercises; the article presents no data or argument testing this assertion, and no effect size is printed.
 

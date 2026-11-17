@@ -45,6 +45,7 @@ The article recommends presenting abstract curriculum material through real-time
 
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Design complementary computational and non-computational modeling activities to support teacher adoption of computational modeling](complementary-computational-noncomputational-modeling.md)
 
 ## Examples
 -

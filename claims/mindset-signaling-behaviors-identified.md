@@ -54,3 +54,4 @@ Narrative review reporting the behavior taxonomy from Muenks and Yan (2024)—co
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
 - [Students overwhelmingly categorize specific teaching practices as signaling growth versus fixed instructor mindsets](teaching-practices-signal-mindset-to-students.md) — related
+- [Student buy-in matters for PER-based pedagogies: explicitly discussing that struggling is integral to learning, and improving students' attitudes and beliefs about physics, supports motivation and learning](student-buy-in-struggle-physics-beliefs.md) — related

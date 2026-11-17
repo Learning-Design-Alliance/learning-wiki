@@ -68,3 +68,7 @@ The authors' interpretation of the graduate-undergraduate post-test discrepancy:
 - [Graduate quantum mechanics instruction does not improve students' undergraduate-level conceptual understanding as measured by the QMCS](qmcs-no-gain-graduate-course.md) — related
 - [Upper-level undergraduates improved dramatically from pre- to post-test after working through the double-slit QuILT, with a normalized gain of 0.94](quilt-dse-undergraduate-normalized-gain-0-94.md) — related
 - [Many students initially failed to identify that photon wavelength shorter than the slit separation destroys interference (Q1), and the QuILT largely remedied this for undergraduates](quilt-dse-wavelength-difficulty-q1.md) — related
+- [The CCMI is a difficult assessment: mean score 49.0% with first-year graduate students averaging 74.5%](ccmi-difficult-assessment.md) — related
+- [Graduate students significantly outperform undergraduates overall on the test but show similar misconceptions on Problems 13 and 17](graduate-students-75-percent-similar-misconceptions.md) — related
+- [Undergraduate pre- to post-test performance rose significantly from pre-test to post-test after working through the QuILT on addition of angular momentum, in one single-group pre-post study](quilt-angular-momentum-pre-post-gains.md) — related
+- [Students who used the tutorials significantly outperformed Honors students and upper-level undergraduates, but not first-year graduate students, on a cumulative test](tutorial-group-outperforms-honors-upperlevel-not-grads.md) — related

@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (67 show a difference, 25 mixed, 15 no difference) · 69 studies (43 causal, 8 associational, 7 qualitative, 5 theoretical, 4 review, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 69 report an effect size · 103 claims rest on one study
+> **Evidence** · 109 claims (69 show a difference, 25 mixed, 15 no difference) · 71 studies (44 causal, 8 associational, 7 qualitative, 5 theoretical, 4 review, 2 design, 1 quant-synthesis), `q1`–`q4` · 15 of 71 report an effect size · 105 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -144,6 +144,8 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](../claims/pat-alex-encyclopedic-contrast.md) [-W] — learners who differ on it differ in outcomes
 - [In clinical interviews, a student who blended the base+change symbolic form with physical meaning of the velocity equation showed more expert-like reasoning and problem use than a peer who treated the equation as a computational tool](../claims/base-change-blending-more-expert-like-reasoning.md) [+W] — learners who differ on it differ in outcomes
 - [The presence of even a single symbolic variable presents a significant obstacle to engineering students' algebraic reasoning, and symbolizing of proportional verbal statements shows no improvement after one semester of mechanics](../claims/single-variable-symbolizing-obstacle-introductory-physics.md) [-M] — measured as an outcome of the instruction studied
+- [After working through the tutorial, all eight interviewed students drew correct free body diagrams and Newton's second law equations for a near-transfer three-box problem](../claims/post-tutorial-near-far-transfer-success.md) [+M] — measured as an outcome of the instruction studied
+- [Common unscaffolded difficulties on the tire swing problem (treating it as equilibrium, missing the centripetal acceleration, misusing kinematics equations) were reduced by the solved-problem scaffolding](../claims/scaffolding-reduces-common-difficulties.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

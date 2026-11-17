@@ -51,3 +51,4 @@ End-of-semester-2 open-ended comparison assignment (Table 4, n=19) in which stud
 - [Students created more complete and more correct physics solutions when using screencasts instead of their traditional notebooks](screencasts-more-complete-correct-solutions.md) — related
 - [High school students who created screencast tutorials in a teaching-to-learn experience demonstrated greater metacognition about teaching and learning, focusing on audience engagement, assessment and growth](ttl-screencasts-metacognition.md) — related
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — related
+- [Students' screencast solutions were 21% more complete and 33% more likely to be correct than notebook solutions](screencasts-more-complete-and-correct-than-notebooks.md) — related

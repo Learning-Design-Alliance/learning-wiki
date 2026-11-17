@@ -49,3 +49,4 @@ Simulation check of the CMR scoring rubric: 100 computer-generated random respon
 - [Students obtain higher scores on integrated testlets than on concept-equivalent constructed-response questions, a difference largely attributable to guessing baseline](it-scores-higher-than-cr-equivalents.md) — related
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
 - [The CMR CUE yields an overall average score of 52.6 ± 0.9% (by student) across 15 courses at 9 institutions, with a slightly non-normal, positively skewed score distribution](cmr-cue-overall-average-52-6-percent.md) — related
+- [Weighted simulated multiple-choice scores correlate more highly with rubric-graded free-response performance than dichotomous simulated scores](weighted-mc-correlation-higher-than-dichotomous.md) — related

@@ -51,6 +51,7 @@ A grading-and-assignment recipe for team-based learning: classes were “divided
 - [Design virtual case-based learning as a three-phase, three-day flipped sequence combining team case discussion, peer presentation, and expert-supported conclusion](three-day-virtual-cbl-session-structure-strategy.md)
 - [Implement Photovoice with team-based learning as a two-stage activity: individual photo documentation with SHOWeD reflection, then group discussion and class presentation](photovoice-tbl-two-stage-activity-strategy.md)
 - [Include additional learning materials — MCQ tests with accessible correct answers, clinical cases, and a reflective written assignment with anonymous peer review — to provide feedback and support motivation](additional-learning-materials-feedback-strategy.md)
+- [Grade programming assignments by peer assessment plus automated unit testing to learn from peers and scale the course](peer-assessment-autograding-scalable-programming-grading.md)
 
 ## Examples
 -

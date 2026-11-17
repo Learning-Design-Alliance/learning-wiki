@@ -44,6 +44,7 @@ A specific design move for circuit labs: instead of supplying the resistor value
 ## Related Strategies
 
 - [Dialogic Facilitation of Student Resources](dialogic-facilitation-of-student-resources.md)
+- [Question-driven lab report that lets students decide which measurements to perform](question-driven-report-student-liberty-strategy.md)
 
 ## Examples
 -

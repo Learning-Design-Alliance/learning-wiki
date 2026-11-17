@@ -56,3 +56,4 @@ Narrative review of the survey articles reports that structured rubrics includin
 - [The OCHRA error-assessment tool shows excellent inter-rater reliability in robotic basic skills assessment](ochra-inter-rater-reliability-excellent.md) — a narrower finding that bears on this claim
 - [Structured assessment tools (GEARS/OSATS and NOTSS) were rarely implemented in practice, with tutors defaulting to open feedback despite curriculum requirements](structured-assessment-rarely-implemented-open-feedback.md) — related
 - [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — reports the opposite
+- [Experts distinguished a strong student submission from a weak one, confirming the rubric separates quality levels](experts-distinguished-strong-weak-submission.md) — a narrower finding that bears on this claim

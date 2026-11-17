@@ -50,3 +50,4 @@ HLM contrasts with energy can transfer (ECT) as reference found POT, COM, and EC
 - [Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground](pu-difficulty-stronger-than-gm-predicts-persistence.md) — related
 - [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](online-ps-solutions-predict-posttests.md) — related
+- [Student knowledge of energy and momentum is fragmented and context-dependent, triggered by surface features rather than underlying concepts](fragmented-context-dependent-energy-momentum-knowledge.md) — related

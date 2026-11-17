@@ -47,3 +47,12 @@ Multi-university study reviewed (Ref. [24]): a beam of electrons in spin state |
 
 ## Related Claims
 - [Upper-level students conflate an expectation value with its rate of change in Larmor precession, showing context-dependent reasoning](qm-inconsistent-reasoning-expectation-value-larmor.md) — related
+- [Advanced undergraduate and graduate students frequently confuse vectors and directions in 3D physical space with state vectors and operators in Hilbert space](confounding-physical-space-hilbert-space-qm.md) — a broader claim this one bears on
+- [Beginning graduate students confuse three-dimensional space with Hilbert space in Stern-Gerlach contexts: 41% correctly predicted beam splitting for a superposition spin state but only 23% for a |↑z⟩ state with a transverse field gradient](grad-qm-stern-gerlach-hilbert-space-confusion.md) — possibly the same claim (merge candidate)
+- [Undergraduate quantum mechanics students inappropriately transfer classical mechanics concepts into quantum mechanics contexts](inappropriate-classical-transfer-quantum-mechanics.md) — related
+- [Many advanced students incorrectly predict no beam splitting in an SGE whose field gradient is orthogonal to the spin state, connecting physical-space field direction with Hilbert-space state vectors](sge-orthogonal-gradient-no-splitting-difficulty.md) — possibly the same claim (merge candidate)
+- [Many students are unclear that a uniform magnetic field causes only spin precession while a non-uniform field as in the SGE exerts a force that can spatially separate angular momentum components](sge-uniform-vs-nonuniform-force-difficulty.md) — related
+- [Students perform poorly on predicting the screen pattern when a |↑⟩z state passes through an SGA with an x-direction field gradient (23% of graduates, 39% of undergraduates after instruction)](sge-x-gradient-question-difficulty.md) — related
+- [Students do not automatically transfer the quantum formalism from the 2-D Hilbert space of spin 1/2 systems to infinite-dimensional Hilbert spaces](spin-hilbert-space-transfer-difficulty.md) — related
+- [Only 23% of students correctly predicted beam splitting for a Stern-Gerlach gradient perpendicular to the spin state, most wrongly claiming orthogonality prevents splitting](stern-gerlach-x-gradient-orthogonality-difficulty.md) — possibly the same claim (merge candidate)
+- [Only 41% of students correctly predicted two-spot splitting along z for a Stern-Gerlach apparatus with a vertical magnetic field gradient](graduate-students-low-sge-splitting-z.md) — related

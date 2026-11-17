@@ -46,6 +46,7 @@ Scoring differentiates work by pen colour: full credit for correct answers in th
 - [Scoring-format variations to shift the assessment toward formative or competitive functions](buddy-quiz-scoring-variation-strategy.md)
 - [Handle incorrect completions by giving full credit for correct or as-good-as-correct answers and part credit for answers that give sense but are not strictly correct](part-credit-for-sensible-wrong-completions.md)
 - [Stick-It Together (Collaborative Problem-Solving)](stick-it-together-collaborative-problem-solving.md)
+- [Develop grading rubrics that credit deeper expert-like analysis even when the final answer is incorrect](rubrics-credit-deeper-analysis-incorrect-answers.md)
 
 ## Examples
 -

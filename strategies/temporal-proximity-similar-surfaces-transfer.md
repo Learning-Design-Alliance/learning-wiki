@@ -53,4 +53,4 @@ The article hypothesizes that transfer from the MZI to the DSE context was aided
 -
 
 ## Key Sources
-- Maries, A., Sayer, R., and Singh, C. (2015). Investigating transfer of learning in advanced quantum mechanics. https://arxiv.org/abs/1509.07570
+- Maries, A., Sayer, R., and Singh, C. (2015). Investigating transfer of learning in advanced quantum mechanics. https://arxiv.org/abs/1509.07570. [doi:10.1119/perc.2015.pr.047](https://doi.org/10.1119/perc.2015.pr.047)

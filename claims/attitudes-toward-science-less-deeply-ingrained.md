@@ -50,3 +50,4 @@ This is the author's interpretation in the conclusions section, offered as a pos
 - [Writing attitude changed negatively in the control group but remained unchanged in the Facebook experimental group](writing-attitude-control-negative-experimental-unchanged.md) — related
 - [Discussing Riccioli encouraged physics students and opened skeptical non-science-major astronomy students up to science](riccioli-discussion-student-reactions.md) — related
 - [Pre-post survey results show students enter introductory science classes with epistemological expectations about two-thirds in accord with their instructor's, and leave with expectations unchanged or deteriorated](mpex-pre-post-expectations-deteriorate.md) — related
+- [Biology majors shift toward favorable problem-solving attitudes (especially Confidence), while health science majors show negative confidence gains and lower overall CLASS scores](biology-majors-confidence-gains-health-lower.md) — related

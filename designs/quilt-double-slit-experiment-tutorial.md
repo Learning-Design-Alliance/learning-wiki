@@ -53,4 +53,4 @@ The DSE QuILT is a Quantum Interactive Learning Tutorial built from a cognitive 
 -
 
 ## Key Sources
-- Sayer, R., Maries, A., & Singh, C. (2015). Developing and evaluating a tutorial on the double-slit experiment. https://www.compadre.org/PER/
+- Sayer, R., Maries, A., & Singh, C. (2015). Developing and evaluating a tutorial on the double-slit experiment. https://www.compadre.org/PER/. [doi:10.1119/perc.2015.pr.070](https://doi.org/10.1119/perc.2015.pr.070)

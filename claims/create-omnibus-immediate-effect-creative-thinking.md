@@ -54,3 +54,4 @@ Two-factor repeated-measures MANOVA on the London Bridge Task with N = 100 sixth
 - [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md) — a narrower finding that bears on this claim
 - [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related
 - [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
+- [A 13-week creativity course produced significant pre-post CEDA gains in fluidity, flexibility and usefulness but not originality among engineering students](ind8108-ceda-significant-gains-fluidity-flexibility-usefulness-not-originality.md) — related

@@ -50,3 +50,4 @@ Descriptive statistics reported in the guide's overview, drawn from National Sci
 - [Girls and boys differ substantially in A-level subject choices (e.g. biology 63% girls vs 37% boys; physics 23% girls vs 77% boys) but not much in A-level results](sex-differences-in-subject-choice-not-achievement.md) — related
 - [Compass summer program participants are substantially more diverse than physics degree recipients nationally](compass-participants-more-diverse-than-physics-degrees.md) — related
 - [Early Compass participants completed science or engineering degrees at a higher rate than the national rate, but causality is not established](compass-retention-58-percent-not-causal.md) — related
+- [Women remain underrepresented in US physics, with men holding most senior positions (8% full professors), though numbers of women are increasing at all levels](women-underrepresented-us-physics-8-percent-full-professor.md) — related

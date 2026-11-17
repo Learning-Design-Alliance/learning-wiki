@@ -80,3 +80,5 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — reports the opposite
 - [FCI normalized gains at KU are strongly modulated by English language proficiency, converging on Hake's averages only at high IELTS scores](fci-gain-modulated-by-language-proficiency.md) — related
 - [A meta-analysis of FCI and FMCE data found no correlation of institutional SAT scores, pre-test scores, or institution type with normalized gains, though pre-test scores correlate with institution type.](normalized-gains-institution-type-independent.md) — reports the opposite
+- [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — reports the opposite
+- [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — reports the opposite

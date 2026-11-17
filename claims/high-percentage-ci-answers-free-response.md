@@ -52,3 +52,4 @@ Results section, Problem 1 part (c), where students chose the correct answer but
 - [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
 - [On the operator question, 54% answered correctly but 41% treated statements (1) and (2) inconsistently despite answering question 1 correctly](dirac-question4-operator-inconsistency.md) — a narrower finding that bears on this claim
+- [Many intervention 3 students gave dialogue answers inconsistent with their actual quiz-problem solutions](dialogue-answer-solution-inconsistency-intervention-3.md) — related

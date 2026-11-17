@@ -57,3 +57,5 @@ The review recounts the failed replications: Pollock et al. found 'no statistica
 - [FCI scores show consistent gender gaps of over 15% on pretests and over 13% on post-tests, with both genders gaining similarly](fci-consistent-gender-gaps-docktor-heller.md) — related
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — related
 - [Reformed pedagogies and a values-affirmation exercise reduced or eliminated gender gaps in some studies, with replication failures reported](reformed-pedagogy-gender-gap-reduction-mixed-replication.md) — possibly the same claim (merge candidate)
+- [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — related
+- [Values affirmation substantially reduced the male-female performance and learning difference in college introductory physics (Miyake et al.)](values-affirmation-reduced-gender-gap-introductory-physics.md) — related

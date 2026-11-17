@@ -51,3 +51,4 @@ Comparison of students using a primarily mathematical approach with and without 
 - [On the midterm exam problem, where all students received the same instructions, the former intervention groups performed comparably](midterm-no-group-differences.md) — related
 - [Six of seventeen students who drew circular field patterns around the wires made direction errors, while eleven of seventeen used the pattern productively to find the field at the observation location](circular-pattern-seventeen-students-outcomes.md) — related
 - [Students exposed to StudentResearcher in 2014 performed significantly better on the optional midterm test than the 2013 cohort without it](studentresearcher-2014-midterm-outperformed-2013.md) — related
+- [Across both groups, students who drew more diagrams or did more scratch work performed better on the final exam and improved more from midterm to final](diagram-scratch-work-correlates-with-exam-performance.md) — related

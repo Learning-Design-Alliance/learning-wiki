@@ -60,9 +60,11 @@ Text sets work because comprehension depends heavily on prior knowledge of the t
 6. Close by having learners articulate how their understanding changed across the set, consolidating the knowledge built.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the anchor text functions as a knowledge activation device for everything that follows
 - [Case-Based Learning](case-based-learning.md) — text sets supply the multiple source materials cases require
 - [3-Source Rule](3-source_rule.md) — a minimal version of text set construction for research tasks
+- [Design concept test sequences that vary representation and difficulty level](concept-test-sequence-design-strategy.md)
 
 ## Examples
 - **Concept-Oriented Reading Instruction (CORI)** — Guthrie and colleagues' research program sequences trade books and informational texts around science concepts (e.g., ecosystems), with observable gains in comprehension and engagement: [http://www.cori.umd.edu](http://www.cori.umd.edu)

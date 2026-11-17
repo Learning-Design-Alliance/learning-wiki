@@ -49,3 +49,4 @@ Documented AP physics example from a previous study: notebook solutions complete
 
 ## Related Claims
 - [Public screencasting context is associated with integrity and self-expression in AP physics](screencasting-integrity-self-expression.md) — related
+- [Students' screencast solutions were 21% more complete and 33% more likely to be correct than notebook solutions](screencasts-more-complete-and-correct-than-notebooks.md) — related

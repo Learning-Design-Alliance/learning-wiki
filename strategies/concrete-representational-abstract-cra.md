@@ -136,6 +136,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - [Scaffolding](scaffolding.md) — the stage sequence is a scaffold that must be faded as symbolic competence grows
 - [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](phase-matched-cfc-analogy-template-usage.md)
 - [Four constructivist pedagogic practices: multiple representations, interconnecting knowledge, extended context, and comparisons/contrasts](constructivist-pedagogic-practices-gerace.md)
+- [Hide information in early representations to reduce cognitive load before introducing more complex ones](black-box-hiding-reduce-cognitive-load-sequencing.md)
 
 ## Examples
 - **Place value**: learners build 342 with base ten blocks, then draw flats/longs/units, then write the numeral — with the numeral introduced while blocks are still visible

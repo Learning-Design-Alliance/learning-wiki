@@ -17,12 +17,14 @@ sources:
     author: Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Only 30% of electrodynamics students explicitly used boundary conditions on a conceptual question about the electric field outside a current-carrying wire
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Qing X. Ryan, Steven J. Pollock, and Bethany R. Wilcox. (2015). Student Difficulties with Boundary Conditions in Electrodynamics. arXiv. [doi:10.1119/perc.2015.pr.066](https://doi.org/10.1119/perc.2015.pr.066)
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of responses to a CURrENT conceptual survey question (ACER category A2) about the E field outside a wire carrying steady current. The article reports "Only 30% of the students (83 out of 278) explicitly used BCs"; no effect size is printed.
 

@@ -48,3 +48,4 @@ Comparison of FR midtest (N = 86) and MC midtest (N = 21) scores at OSU in Fall 
 ## Related Claims
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
 - [Item-level score differences between MC and FR CUE versions are significant for 4 of 16 items, with the MC version easier on only two](mc-cue-item-difficulty-four-of-sixteen.md) — related
+- [Free-response answers match the a priori choices of carefully designed research-based multiple-choice questions for the large majority of students](free-response-answers-match-apriori-mc-choices.md) — reports the opposite

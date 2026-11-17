@@ -27,4 +27,4 @@ A twelve-question conceptually challenging assessment developed by Wallace et al
 -
 
 ## Key Sources
-- Wallace, C. S., Prather, E. E., Hornstein, S. D., Schlingman, W. M., Chambers, T. G., & Burns, J. O. (2015). A New Lecture-Tutorial for Teaching about Molecular Excitations and Synchrotron Radiation. https://eric.ed.gov/?id=ED555678
+- Wallace, C. S., Prather, E. E., Hornstein, S. D., Schlingman, W. M., Chambers, T. G., & Burns, J. O. (2015). A New Lecture-Tutorial for Teaching about Molecular Excitations and Synchrotron Radiation. https://eric.ed.gov/?id=ED555678. [doi:10.1119/1.4937972](https://doi.org/10.1119/1.4937972)

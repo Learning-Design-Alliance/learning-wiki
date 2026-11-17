@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 694 claims (372 show a difference, 162 mixed, 160 no difference) · 487 studies (254 associational, 170 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 69 of 487 report an effect size · 686 claims rest on one study
+> **Evidence** · 699 claims (375 show a difference, 163 mixed, 161 no difference) · 490 studies (256 associational, 171 causal, 20 review, 18 quant-synthesis, 12 design, 8 theoretical, 5 qualitative), `q1`–`q4` · 70 of 490 report an effect size · 691 claims rest on one study
 
 ## How to read this page
 
@@ -733,6 +733,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students' average effect sizes in LA-supported courses were statistically significantly different from, and higher than, female students'](../claims/lasso-gender-effect-size-gap.md) [+M] — an instructional effect differs by group
 - [Reformed pedagogies and a values-affirmation exercise reduced or eliminated gender gaps in some studies, with replication failures reported](../claims/reformed-pedagogy-gender-gap-reduction-mixed-replication.md) [~M] — an instructional effect differs by group
 - [Revising FCI question contexts to stereotypically feminine settings narrowed the gender gap because men scored significantly worse, not because women improved](../claims/rfci-context-change-narrowed-gap-via-men.md) [+M] — an instructional effect differs by group
+- [Item-level E-CLASS gender gaps are small and relatively uniform, statistically significant for 25 items preinstruction and 22 postinstruction, with men outperforming women on nearly all items](../claims/eclass-item-level-gender-gaps-small.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No gender gap appeared on the multiple-choice final exam, which included both conceptual and quantitative questions on similar topics](../claims/no-gender-gap-final-exam.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No overall gender difference on the Turkish AAPS survey, but male and female response distributions differed significantly on 11 of 33 items, split roughly evenly in favor of each gender](../claims/turkish-aaps-gender-item-level-differences.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The E-CLASS gender gap is of moderate size for non-physics majors but small for physics majors, and physics majors of both genders outscore non-physics majors](../claims/eclass-gender-gap-smaller-physics-majors.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The E-CLASS gender gap is smaller in beyond-first-year than first-year courses — decreasing from a moderate to a small effect size — while remaining statistically significant, and BFY students of both genders score higher](../claims/eclass-gender-gap-smaller-bfy-than-fy.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -42,6 +42,7 @@ UCLA-CS uses a seminar program, driven by teachers' passions and partner availab
 ## Related Strategies
 
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](intrinsic-motivation-share-science-with-students.md)
+- [Support a long-term community engagement program whose form best matches the partner institution, such as guest speaker programs, outreach seminar courses, internships, or joint events](long-term-engagement-program-forms.md)
 
 ## Examples
 -

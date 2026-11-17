@@ -69,3 +69,4 @@ Moon-phase cause question answered by students; the correct proposal (Moon orbit
 - [Most preservice teachers believe the Moon does not rotate on its axis, and none correctly explained the Moon's same-face motion or a lunar eclipse](moon-motion-misconceptions-preservice-teachers.md) — related
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — a broader claim this one bears on
+- [Students remain confused when changes of referential are needed to understand astronomical phenomena such as moon phases, seasons, eclipses and orbital motion around a common centre of mass](referential-change-difficulty-astronomy-students.md) — related

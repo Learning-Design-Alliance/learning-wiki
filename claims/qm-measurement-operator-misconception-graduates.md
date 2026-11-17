@@ -50,3 +50,8 @@ Written test of the same 39 physics graduate students after at least one semeste
 - [48% of graduate students incorrectly claimed Ĥψ=Eψ is the most fundamental equation of QM and resisted verifying it explicitly for superposition states](schrodinger-equation-overgeneralization-graduates.md) — related
 - [Graduate students conflate eigenstates of operators that do not commute with the Hamiltonian with conserved quantities](conserved-quantities-eigenstate-confusion-graduate-students.md) — related
 - [Students incorrectly assume the probability density for measuring position is time-independent, and this error is context-dependent](students-assume-position-probability-density-time-independent.md) — related
+- [11% of beginning graduate students believed that a Hamiltonian operator acting on a state is a statement about an energy measurement that collapses the state](grad-qm-hamiltonian-as-measurement-misconception.md) — related
+- [Students incorrectly believe that an operator acting on a state corresponds to a measurement of the corresponding observable](operator-acting-on-state-mistaken-for-measurement.md) — related
+- [Eleven percent of students believed that a Hamiltonian operator acting on a state constitutes a measurement of energy, over-generalizing to Qψ = λψ for any observable](operator-action-measurement-conflation-qm.md) — related
+- [Students’ difficulties in quantum mechanics may result from unproductive framing rather than fundamental inability or content misconceptions](qm-difficulties-as-unproductive-framing.md) — related
+- [Many advanced students incorrectly conflate the action of an operator on a wave function with the measurement of the corresponding observable](students-conflate-operator-action-with-measurement.md) — related

@@ -51,3 +51,4 @@ Qualitative case study of an interview in which a student in Intermediate Mathem
 - [Dynamic handling of epistemological framing is an independent strength of advanced journeymen, dissociable from whether the student gets the problem right](epistemic-sophistication-independent-of-correctness.md) — related
 - [Citing a recalled theorem as justification signals an Invoking Authority framing of mathematics use](invoking-authority-framing-warrant.md) — related
 - [Oscillating between interpretive frames was not negatively related to correct physics answers, and exclusive single-frame users differed on overall correct answers and attempts](frame-oscillation-correct-answers-quantum-dreams.md) — related
+- [Students can exploit analogical reasoning effectively only if a coherent curriculum forces them to value coherence, e.g., by modeling it in class and grading for it on exams.](coherent-curriculum-value-coherence-recommendation.md) — related

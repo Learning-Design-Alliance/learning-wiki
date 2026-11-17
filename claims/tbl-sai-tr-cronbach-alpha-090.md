@@ -49,3 +49,4 @@ Psychometric analysis of survey data from 430 nursing students at one Istanbul u
 - [TBL-SAI-TR scores correlate strongly with self-directed learning scores, supporting criterion validity](tbl-sai-tr-criterion-validity-self-directed-learning.md) — related
 - [Expert panel content validation of the TBL-SAI-TR yields an average content validity index of 0.95](tbl-sai-tr-content-validity-cvi-095.md) — related
 - [The TBL-SAI-TR shows stable test–retest measurements over two weeks with intraclass correlations between 0.88 and 0.90](tbl-sai-tr-test-retest-icc-088-090.md) — related
+- [The Turkish AAPS translation showed robust internal consistency across all student groups, with Cronbach alpha ranging from 0.82 to 0.90](turkish-aaps-survey-reliability-validation.md) — related

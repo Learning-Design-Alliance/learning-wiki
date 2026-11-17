@@ -60,3 +60,4 @@ In Student C's chat log debugging the probe-setting problem (P6) with an unknown
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it](certainty-proof-gap-ai-detection.md) — related
 - [Confidence testing diagnoses misconceptions: two post-test questions showed negative confidence-score correlations](rci-confidence-misconception-diagnosis.md) — related
+- [Student pairs’ component replacements followed an order pattern: all pairs replaced the 100 Ω resistor, all-but-one replaced the faulty op-amp, and the resistor was always replaced before the op-amp, mostly during problem formulation.](repair-order-resistor-before-op-amp.md) — related

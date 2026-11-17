@@ -49,3 +49,4 @@ Primary retention outcome in the randomized cross-over design: "not significantl
 - [The effect of collaborative testing on retention does not differ across achievement levels from A to F letter grades](no-format-effect-any-letter-grade.md) — related
 - [Students whose group scores decreased showed better cumulative-question retention on exam 3, but this pattern was not significant on exam 4](group-score-decrease-retention-exam3-only.md) — related
 - [Individual exam performance is positively correlated with retention on subsequent cumulative questions regardless of testing format](individual-scores-correlate-retention.md) — related
+- [Students who worked in pairs on the CSEM showed significantly higher normalized gain on subsequent individual testing than a control group that took the test individually twice.](peer-pair-csem-higher-normalized-gain.md) — related

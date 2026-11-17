@@ -72,3 +72,4 @@ Observational analytics finding reported in the Results text and Figure 3, indic
 - [Students accessed the Moodle module heavily during the 6-day review period, peaking in the last 2 days before assessment, with the herbal plant atlas the most-used activity](moodle-access-patterns-herbal-review.md) — a narrower finding that bears on this claim
 - [Most students reported the per-module application day examining published articles was beneficial, while a minority did not find it helpful](application-day-beneficial-majority.md) — related
 - [PR usage spiked immediately before scheduled exams, with activity peaking at 800 problems served per hour on exam day, and no formal course credit was attached to use.](pr-usage-spikes-before-exams.md) — related
+- [Students accessed laboratory videos most just before lab due dates, but showed little spike around homework due dates and rarely revisited old videos before exams](video-access-timing-tied-to-assignments.md) — related

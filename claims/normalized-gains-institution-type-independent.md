@@ -68,3 +68,6 @@ The same meta-analysis found institution type uncorrelated with normalized gains
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — reports the opposite
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [Summer and fall MOOC students showed no statistically significant difference on the FMCE pre-test](no-fmce-pretest-difference-summer-fall-mooc.md) — related
+- [Institutional type (Carnegie classification) does not affect normalized gain after controlling for teaching method and test](carnegie-type-no-effect-on-gain.md) — possibly the same claim (merge candidate)
+- [Interactive engagement instruction yields significantly higher normalized learning gains than traditional lecture on both the FCI and FMCE](ie-higher-gains-than-lecture-physics-50k.md) — related
+- [Class-average pre-test score and institutional SAT score do not correlate with normalized gain after correcting for test and teaching method](pretest-and-sat-no-gain-correlation.md) — possibly the same claim (merge candidate)

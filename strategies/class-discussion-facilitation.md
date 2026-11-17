@@ -67,6 +67,7 @@ Discussion improves outcomes when it requires learners to generate explanations 
 - [Act It Out](../elements/act-it-out.md) — embodied alternative for learners who struggle with verbal-only participation
 - [Use a variety of talk formats — whole-class, small group, and pair work — strategically to encourage participation](varied-talk-formats-whole-class-small-group-pair.md)
 - [Seed discussions with simpler related questions when small groups are missing a critical idea](seeding-discussions-related-questions-strategy.md)
+- [Seed ideas during small-group time and promote inter-student discussion as dominant discourse](seeding-inter-student-discussion-strategy.md)
 
 ## Patterns That Use This Strategy
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the parent pattern; facilitation is its operational core

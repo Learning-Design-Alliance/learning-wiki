@@ -54,3 +54,4 @@ Kost et al.'s regression models on FMCE and BEMA posttest scores used predictive
 - [YWYL MOOC pretest FMCE scores average 39.9% with a bimodal distribution, including a top quintile unlike the typical introductory physics population](ywyl-pretest-fmce-bimodal-distribution.md) — related
 - [Men's average FCI and FMCE pretest scores are always higher than women's, and posttest scores and normalized gains are usually higher, with no single factor explaining the gap.](gender-gap-fci-fmce-pretest-scores.md) — related
 - [Matched-samples studies find no post-test performance difference between men and women in introductory physics when matched on prior measures](matched-samples-no-gender-posttest-difference.md) — reports the opposite
+- [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — a broader claim this one bears on

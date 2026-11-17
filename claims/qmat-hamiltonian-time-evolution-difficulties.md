@@ -52,3 +52,6 @@ Analysis of preliminary QMAT classroom data on Hamiltonian-time evolution: "Roug
 - [Converting open-ended QMAT Q6 to MC items yielded one item at ideal difficulty (~50% correct) and one overly challenging item, guiding revision choices](q6-mc-conversion-item-difficulty-q16-q17.md) — related
 - [Many graduate students incorrectly describe a stationary state as an eigenstate of any operator corresponding to an observable rather than an eigenstate of the Hamiltonian](stationary-state-misconception-eigenstate-of-any-operator.md) — related
 - [Most students incorrectly assume the probability distribution for an energy measurement depends on time](students-assume-energy-measurement-probability-time-dependent.md) — related
+- [Only 29% of beginning graduate students correctly explained that Ĥψ = Eψ holds only for stationary states; 39% asserted the statement is unconditionally correct](grad-qm-hamiltonian-eigenvalue-overgeneralization.md) — related
+- [Many graduate students fail to give the correct time-dependence of a non-stationary state, often writing a common phase factor](grad-qm-time-development-difficulties.md) — related
+- [Students incorrectly believe that an operator acting on a state corresponds to a measurement of the corresponding observable](operator-acting-on-state-mistaken-for-measurement.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use TA grading conflicts as starting points for professional development discussions that elicit and help TAs resolve conflicting ideas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 7 studies (2 causal, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 8 studies (3 qualitative, 2 causal, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 Professional development should elicit TAs' ideas about grading and allow them to reflect on and try to resolve conflicting ideas and approaches to physics instruction. The article suggests the conflicts between the features TAs are aware of, the features they grade on, and how they judge adequate evidence in different settings 'could serve as fruitful starting points for such discussions', guiding TAs toward grading practices that promote expert-like problem-solving.
@@ -50,6 +50,7 @@ Professional development should elicit TAs' ideas about grading and allow them t
 ## Related Strategies
 
 - [Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict](seven-perspective-conflict-heuristics-wpa.md)
+- [Anchor TA professional development in simulated grading activities that provoke cognitive conflict between stated goals and practices](simulated-grading-activities-pd-strategy.md)
 
 ## Examples
 -

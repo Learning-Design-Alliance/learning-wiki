@@ -64,3 +64,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related
 - [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim
 - [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related
+- [Inter-rater agreement for 3D-LAP coding meets a 75% threshold across disciplines and dimensions](3d-lap-inter-rater-agreement.md) — related

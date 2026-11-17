@@ -68,3 +68,4 @@ Observational log analysis of video accesses by GPA quartile in the flipped cour
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Flipped-format students score significantly higher on exams than standard-format students, by an average of 11.6% across three exams in an upper-division physical chemistry course](flipped-format-exam-scores-improve-upper-division.md) — related
+- [Student video-accessing behaviors showed little correlation with course performance in the blended mechanics course](video-accessing-uncorrelated-with-performance.md) — reports the opposite

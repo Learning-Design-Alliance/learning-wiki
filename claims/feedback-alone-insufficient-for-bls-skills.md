@@ -46,3 +46,4 @@ Paired practical analysis (Table 2): control group (n = 36) went from 14.4 ± 1.
 
 ## Related Claims
 - [Medical students who taught BLS to community members achieved superior practical performance to students reassessed before teaching](teaching-bls-improves-student-practical-skills.md) — related
+- [Students' second teaching performance did not significantly improve over their first performance](second-teaching-performance-not-significantly-different.md) — related

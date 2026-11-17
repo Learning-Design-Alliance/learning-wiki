@@ -72,3 +72,4 @@ From the same regression (Table 6), the no-prior-chemistry coefficient was −19
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](students-differ-in-initial-knowledge-not-learning-rate.md) — related
 - [Prior science experience and science interest related less strongly to quiz performance in intervention than comparison classrooms](cooperative-learning-levels-playing-field-achievement.md) — related
+- [Gender gaps in introductory physics post-test scores are associated with factors present prior to taking the course (Kost et al.)](gender-gaps-associated-with-pre-course-factors.md) — related

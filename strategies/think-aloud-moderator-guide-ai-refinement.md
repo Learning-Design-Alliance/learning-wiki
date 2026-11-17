@@ -44,6 +44,7 @@ The strategy runs think-aloud sessions in which students verbalize thoughts and 
 
 - [Write Alouds](write_alouds.md)
 - [Self Talk Logging](self-talk-logging.md)
+- [Develop tutorials iteratively through one-on-one think-aloud interviews and classroom refinement](quilt-iterative-development-interviews.md)
 
 ## Examples
 -

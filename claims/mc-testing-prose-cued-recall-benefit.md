@@ -80,3 +80,4 @@ A delayed-final-test experiment by Fazio, Marsh, and Roediger (2006), cited in t
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](retention-self-derived-knowledge-one-week.md) — related
 - [Hints in multiple-try feedback improve performance on a delayed test one week later](hints-improve-delayed-testing-one-week-later.md) — related
 - [A knowledge test taken 14 weeks after learning was as efficient as scheduled repetition activities for long-term recall](testing-effect-14-weeks-as-efficient-as-repetition.md) — related
+- [Viewing either learning material produced statistically significant knowledge gains from pretest to post-test, and knowledge was retained at one-week delay without significant loss](learning-material-significant-pretest-posttest-gain-retained-at-delay.md) — related

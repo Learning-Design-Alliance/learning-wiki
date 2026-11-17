@@ -75,6 +75,7 @@ Guided inquiry outperforms unguided discovery because learners lack the prior kn
 - [Permit chatbots selectively within structured activities, e.g. a chatbot-free consolidation phase followed by a resource-supported inquiry phase](selective-chatbot-phased-cbl-permission.md)
 - [Pair simulations with guided-inquiry activities rather than relying on undirected exploration](guide-simulation-exploration-with-activities.md)
 - [Eight open student exploration activities investigating freezing of water with varied containers, covers, hardness, stirring and freezers](mpemba-student-exploration-activities.md)
+- [Three-phase semi-guided exploration design for teaching energy with a simulator](three-phase-semi-guided-simulator-design.md)
 
 ## Examples
 - **[IQWST (Investigating and Questioning our World through Science and Technology)](https://iqwst.org)** — a middle-school science curriculum in which lessons are organized around guided investigations of canonical phenomena, with embedded question prompts and reading scaffolds.

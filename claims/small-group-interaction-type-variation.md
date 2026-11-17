@@ -49,3 +49,5 @@ Small group time interaction results from the RIOT observations, reported in min
 - [Whole class discussion interaction modes vary: modes other than clarifying are never used by some instructors and used frequently by others](wcd-interaction-mode-variation.md) — related
 - [The authors hypothesize that explaining during small group time may lead students to wait for help rather than continue working through problems](explaining-may-not-promote-active-sense-making.md) — related
 - [Time allocation between whole class discussion and small group work varies vastly between sections of the same course](wcd-sg-time-allocation-variation.md) — related
+- [Instructors' approaches to helping students make sense of the wavefunction varied widely](qm-wavefunction-teaching-approaches-varied.md) — related
+- [Compared to UC Davis CLASP, both SJSU courses showed much higher Not Interacting time in small-group mode, and SJSU students never shared ideas or presented, leading the author to conclude neither course could fairly be classified as interactive](sjsu-less-interactive-than-clasp.md) — related

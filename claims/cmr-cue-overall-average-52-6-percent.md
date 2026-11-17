@@ -51,3 +51,4 @@ Multi-institution post-test administration of the CMR CUE in 15 courses at 9 ins
 - [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related
 - [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
 - [Consistency-based scoring reduces credit obtainable by random guessing on the CMR CUE](cmr-consistency-scoring-reduces-guessing-credit.md) — related
+- [Upper-division students score similarly on the coupled multiple-response CUE-CMR as on the free-response CUE-FR, making the CUE-CMR an easier-to-grade alternative covering the same content](cue-cmr-scores-similar-to-cue-fr.md) — related

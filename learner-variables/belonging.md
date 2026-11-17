@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (102 show a difference, 33 mixed, 12 no difference) · 104 studies (27 review, 23 associational, 19 causal, 17 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 104 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (103 show a difference, 33 mixed, 12 no difference) · 105 studies (27 review, 23 associational, 19 causal, 17 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 9 of 105 report an effect size · 143 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -184,6 +184,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Interventions creating close, trusting ties between community members and CHVs through clear community positioning trigger self-esteem, pride, duty and community recognition](../claims/chv-community-ties-self-esteem-duty.md) [+M] — measured as an outcome of the instruction studied
 - [Post-implementation group differences are only slightly larger for written examinations than for coursework, not supporting a stereotype-threat advantage of coursework](../claims/exam-coursework-difference-magnitude-small-h2-unsupported.md) [-M] — an instructional effect differs with it
 - [Forum reputation system increases speed and volume of responses but does not improve grades, retention, or sense of community](../claims/reputation-system-responses-not-grades.md) [-M] — measured as an outcome of the instruction studied
+- [Faculty PD workshops typically fall into the prescriptive, individually-focused dissemination category of change efforts, which the authors argue can limit faculty's sense that their experiences matter](../claims/faculty-pd-workshops-prescriptive-dissemination-category.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

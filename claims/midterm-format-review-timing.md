@@ -48,3 +48,4 @@ End-of-course attitudinal survey self-reports analyzed with Mann-Whitney U tests
 - [In a course with frequent assessment, cumulative versus non-cumulative midterm format has no effect on final exam performance in introductory biology](cumulative-midterms-no-final-exam-effect-frequent-testing.md) — related
 - [Midterm format has no overall effect on retention exam scores five months after the course](midterm-format-no-overall-retention-effect.md) — related
 - [Students perceive cumulative midterms as more beneficial for retention regardless of the format they experienced](students-prefer-cumulative-midterms.md) — related
+- [Interviewed students did not expect midterm problems to reappear on the final exam and reviewed homework more carefully than past exams when studying](students-not-expect-repeat-problems.md) — related

@@ -48,6 +48,7 @@ PhET develops simulations through a repeating cycle (Fig. 5): experts create an 
 - [Pair simulations with guided-inquiry activities rather than relying on undirected exploration](guide-simulation-exploration-with-activities.md)
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
+- [Develop tutorials iteratively through one-on-one think-aloud interviews and classroom refinement](quilt-iterative-development-interviews.md)
 
 ## Examples
 -
