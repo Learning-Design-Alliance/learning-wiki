@@ -206,3 +206,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — a narrower finding that bears on this claim
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — a narrower finding that bears on this claim
+- [Two-dimensional molecular dynamics simulations with fixed-wall boundary conditions are preferable for many educational purposes](two-dimensional-md-preferred-education.md) — related

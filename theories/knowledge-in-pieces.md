@@ -13,7 +13,7 @@ author: Andrea diSessa; John P. Smith III, Andrea diSessa & Jeremy Roschelle
 # Knowledge in Pieces
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 14 studies (4 associational, 3 qualitative, 2 design, 2 theoretical, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 14 report an effect size · 13 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 17 studies (5 qualitative, 4 associational, 3 theoretical, 2 design, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 0 of 17 report an effect size · 15 claims rest on one study
 
 ## Description
 
@@ -57,6 +57,9 @@ A third tradition reached a similar question from procedural skills. Brown and B
 - [An interviewed student justified answering that the ATP bond breaking releases energy by appealing to the larger biological context of the hydrolysis reaction, not the raw misconception that bond breaking releases energy](../claims/gregor-justifies-atp-answer-via-larger-biological-context.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](../claims/wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) [+W] — attached 2026-11-17 from Benjamin W. Dreyfus et al. (2012), which proposed "Resources framework: students possess multiple context-dependently activated resources rather than unitary misconceptions".
 - [On a clicker question about gravitational force on falling bodies, half of students answered that equal speeds require equal pulls, while more than 80% answered the reversed horizontal version correctly](../claims/clicker-equal-pulls-framing-error.md) [+W] — attached 2026-11-17 from Edward F. Redish (2013), which proposed "The Resources Framework: a two-level phenomenological account of physics learning built on psychological foothold principles".
+- [In a ticker-tape Tutorial, students' confidently wrong answer about segment timing is an epistemological framing error, corrected when later questions shift the context](../claims/ticker-tape-framing-error-not-misconception.md) [+W] — attached 2026-11-17 from Redish (2012), which proposed "Epistemological framing: students' unconscious answer to what kind of knowledge is being learned and how to learn it controls their classroom behavior".
+- [Students' reasoning about electric fields is variable and context-sensitive rather than fixed](../claims/student-reasoning-variability-context-sensitive.md) [+W] — attached 2026-11-17 from Ying Cao et al. (2016), which proposed "Learning resources framework: students' preinstruction ideas as productive building blocks"; tests this page's relationship.
+- [Student groups working with ticker-tape timers shifted quickly between two mutually exclusive interpretations of the same dot spacing, drawing on different intuitive resources as the lesson's cues changed](../claims/ticker-tape-groups-shift-resource-activation.md) [+W] — attached 2026-11-17 from Edward F. Redish et al. (2014), which proposed "The Resources Framework: student reasoning as dynamic activation of fine-grained cognitive resources under conceptual, epistemological, and affective framing"; tests this page's relationship.
 
 ## Related Theories
 - [Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations](multiple-local-conceptual-coherences.md) — a development of the same view, explaining the local stabilities of variable thinking

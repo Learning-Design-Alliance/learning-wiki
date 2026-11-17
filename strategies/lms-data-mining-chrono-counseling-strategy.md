@@ -48,7 +48,8 @@ The article proposes using pre-existing learning management system login records
 - [The LMS inactive period is about an hour shorter on days with 08:00 classes than on non-school days, driven by earlier login onset](../claims/lms-inactive-period-shorter-early-classes.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Link SNS applications with the LMS used in universities](link-sns-applications-with-university-lms.md)
 
 ## Examples
 -

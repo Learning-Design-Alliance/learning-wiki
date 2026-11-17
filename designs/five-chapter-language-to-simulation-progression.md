@@ -46,4 +46,4 @@ The manual is organized as a deliberate progression: "In ﬁve chapters, this bo
 -
 
 ## Key Sources
-- Schmied, R. (2019). Using Mathematica for Quantum Mechanics: A Student's Manual. University of Basel. https://arxiv.org/abs/1403.7050
+- Schmied, R. (2019). Using Mathematica for Quantum Mechanics: A Student's Manual. University of Basel. https://arxiv.org/abs/1403.7050. [doi:10.1007/978-981-13-7588-0](https://doi.org/10.1007/978-981-13-7588-0)

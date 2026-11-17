@@ -64,3 +64,4 @@ Anecdotal observation reported by the teacher: a prospective student's stated en
 
 ## Related Claims
 - [Students articulated a strong preference for iPad work over traditional physics work and initiated out-of-class physics activity](ipad-work-preferred-over-traditional-physics-work.md) — related
+- [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](ipad-inclusion-social-status-play-agency.md) — a broader claim this one bears on

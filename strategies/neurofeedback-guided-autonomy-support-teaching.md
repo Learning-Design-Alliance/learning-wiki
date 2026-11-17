@@ -50,6 +50,7 @@ The article proposes that as portable neuroimaging matures, teacher–student IN
 
 - [Use EEG-based real-time monitoring to inform personalized educational interventions](eeg-based-real-time-personalized-interventions.md)
 - [Prioritize operational-setting protocols, longitudinal expertise tracking, team dynamics, and real-time monitoring as next steps for educational neuroimaging](neuroimaging-future-research-directions-hpe.md)
+- [Use the sign of students' Information Processing Index to trigger real-time instructor interventions on MOOC video segments](ipi-sign-based-real-time-interventions.md)
 
 ## Examples
 -

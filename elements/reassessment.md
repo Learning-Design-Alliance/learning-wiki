@@ -81,6 +81,7 @@ Reassessment leverages the testing effect a second time: the initial response fu
 
 **Exam wrappers** — Post-exam reflection forms asking students to categorize their errors and plan revisions, then re-solve selected items.
 - [Use peer feedback to prompt students to reconsider design judgments and engage in reflection](../strategies/peer-feedback-prompts-reflective-design-judgment.md)
+- [Revise reflection prompts to explicitly require action plans and support revisiting past reflections](../strategies/revise-reflection-prompts-action-plans.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.

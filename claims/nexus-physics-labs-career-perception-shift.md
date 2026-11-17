@@ -49,3 +49,4 @@ Authors' summary of multiple surveys administered in two small IPLS test classes
 - [NEXUS/Physics labs showed student success ratings comparable to ISLE labs on shared learning goals](nexus-labs-comparable-success-to-isle.md) — related
 - [Approximately two-thirds of pilot students affirmed learning biology-relevant lab skills, with negative responses disappearing by spring](nexus-labs-biology-relevant-skills-perception.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
+- [Students sometimes perceived the Arduino lab work as extra work tangential to the course syllabus and their careers](arduino-lab-perceived-as-extra-work.md) — reports the opposite

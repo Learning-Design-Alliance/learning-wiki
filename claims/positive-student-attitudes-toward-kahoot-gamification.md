@@ -57,3 +57,4 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
 - [Students in the game group reported significantly more positive attitudes toward the learning experience than the script group on all three questionnaire items](gbel-more-positive-attitudes-fun-confidence.md) — related
+- [Students surveyed reported highly positive attitudes toward the MCQ-authoring method and perceived benefits for understanding and problem-solving](survey-positive-attitudes-mcq-authoring.md) — related

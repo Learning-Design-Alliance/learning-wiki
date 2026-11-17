@@ -66,3 +66,4 @@ Fixed-effect ANOVAs compared student ratings between Universities A and B; the o
 ## Related Claims
 - [GTA-to-GTA variation in instructional quality is moderate to large, exceeding institutional differences in student ratings](gta-random-effects-instructional-variation.md) — related
 - [GTA self-rated teaching self-efficacy rose from pretest to posttest after presemester scientific-teaching workshops, with a small but statistically significant gain (d = 0.34) in one uncontrolled pre-post study across three institutions](gta-pd-self-efficacy-gains.md) — related
+- [A low student-to-GTA ratio (at least about 10:1) was associated with high satisfaction, while shortages of teaching assistants drew strongly negative feedback](low-student-gta-ratio-satisfaction.md) — related

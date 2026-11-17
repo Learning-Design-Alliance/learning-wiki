@@ -53,3 +53,4 @@ A 12-item five-point Likert survey of 33 experimental-group students, reviewed b
 - [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related
 - [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related
+- [Students surveyed reported highly positive attitudes toward the MCQ-authoring method and perceived benefits for understanding and problem-solving](survey-positive-attitudes-mcq-authoring.md) — related

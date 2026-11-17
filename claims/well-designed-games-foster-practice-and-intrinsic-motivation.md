@@ -92,3 +92,4 @@ Authors' interpretation in the section on games as a culture medium: game enviro
 - [High control predicts need frustration even when autonomy support is also present](high-control-predicts-need-frustration-despite-autonomy-support.md) — related
 - [The article reports that prior literature suggests that optimal rehabilitation game design includes rewards, optimal challenges, feedback, choices, clear instructions, and socialization](optimal-rehab-game-design-engagement-features.md) — a narrower finding that bears on this claim
 - [Educational booklets may affect knowledge but are limited for changing practice because learners are passive and reading is uncontrolled](booklet-limits-for-practice-change.md) — related
+- [Students' self-reported competence, autonomy, and relatedness showed a statistically significant link to both class grades and interest in learning physics](affective-experiences-linked-grades-interest.md) — related

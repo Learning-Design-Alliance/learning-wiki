@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 462 claims (302 show a difference, 110 mixed, 50 no difference) · 329 studies (124 associational, 110 causal, 42 review, 16 theoretical, 14 quant-synthesis, 13 qualitative, 10 design), `q1`–`q4` · 90 of 329 report an effect size · 450 claims rest on one study
+> **Evidence** · 465 claims (304 show a difference, 111 mixed, 50 no difference) · 332 studies (124 associational, 110 causal, 42 review, 16 theoretical, 14 quant-synthesis, 14 qualitative, 12 design), `q1`–`q4` · 90 of 332 report an effect size · 453 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -512,6 +512,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](../claims/flipped-course-increased-eoh-interest.md) [+M] — measured as an outcome of the instruction studied
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](../claims/einsteinmobil-student-interest.md) [+W] — measured as an outcome of the instruction studied
 - [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](../claims/wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Estevan persisted in sense-making about seasons for most of a 90-minute class despite frustration, reaching a mostly accurate model](../claims/estevan-seasons-persistence-case.md) [+W] — learners who differ on it differ in outcomes
+- [Reported increase in interest in astronomy was uniform across essay grade levels, with higher-scoring students not feeling more interested than lower-scoring ones](../claims/interest-increase-independent-of-essay-grade.md) [+M] — measured as an outcome of the instruction studied
+- [Students in the interpretation-focused courses showed significantly greater post-instruction interest in quantum mechanics, with interest decreasing in the Realist/Statistical course.](../claims/interpretation-curriculum-promotes-quantum-interest.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

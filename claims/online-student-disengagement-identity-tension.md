@@ -47,3 +47,4 @@ Qualitative interview findings from the study's second research question on impl
 ## Related Claims
 - [Technology integration expanded academics' workload, producing identity tension and emotional labour](technology-integration-expands-academic-workload-identity-tension.md) — related
 - [Technical difficulties disrupted teaching routines and produced role conflict in academics' professional identities](technical-difficulties-role-conflict-technology-integration.md) — related
+- [Academics' professional identity shows two headline markers — a good teacher is above all a good physicist, and teaching must favour interaction with students — and is marked by tensions between desired and declared practice](professional-identity-markers-and-tensions.md) — related

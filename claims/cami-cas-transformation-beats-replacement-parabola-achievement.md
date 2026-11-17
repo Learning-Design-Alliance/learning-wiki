@@ -57,3 +57,6 @@ Quasi-experimental study of 145 10th-grade students in three Turkish high school
 - [Before instruction, the experimental and control groups showed no statistically significant differences in mathematics report grades or parabola pretest scores](no-pretest-or-report-grade-group-differences.md) — related
 - [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](reviewed-studies-favor-computer-assisted-math-teaching.md) — a broader claim this one bears on
 - [Teachers reported high student motivation and self-directed learning when teaching through ICT tools](teacher-reports-high-motivation-ict-teaching.md) — related
+- [Computer modeling in a computer algebra system during all basic mathematical courses is proposed as the way to overcome the contradiction between modern scientific demands and mathematics education's potential](cas-modeling-concept-informatization.md) — related
+- [Teaching higher mathematics with CAS-based computer modeling raised exam performance above reference groups in first- and second-year non-mathematical-specialty groups](cas-modeling-exam-performance-gain.md) — related
+- [Students taught via CAS-based computer modeling showed increased motivation and higher self-estimated knowledge](cas-modeling-motivation-self-attestation.md) — related

@@ -44,6 +44,7 @@ The article recommends that “Such trainings may be supported by supervisory pr
 ## Related Strategies
 
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
+- [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 
 ## Examples
 -

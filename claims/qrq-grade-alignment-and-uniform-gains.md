@@ -69,3 +69,4 @@ Correlational analysis of gain scores against pretest scores; the article report
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
 - [Specific QRQ subscores improved — including distinguishing correlation from causation — while several misconception subscores decreased, but equiprobability bias was a consistent underperformer](qrq-subscore-and-misconception-changes.md) — related
 - [Pretest scores correlate positively with learning pace, but posttest scores show no such correlation, indicating slower students catch up when given more time and content](pretest-posttest-pace-correlation-equalization.md) — reports the opposite
+- [CURrENT scores correlate highly with students' final exams and course grades in junior E&M](current-scores-correlate-with-final-exams-and-grades.md) — related

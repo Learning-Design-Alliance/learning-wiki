@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 697 claims (483 for, 186 mixed, 28 against) · 446 studies (201 causal, 86 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 446 report an effect size · 686 claims rest on one study
+> **Evidence** · 699 claims (485 for, 186 mixed, 28 against) · 447 studies (201 causal, 87 design, 80 review, 38 quant-synthesis, 20 associational, 18 qualitative, 3 theoretical), `q1`–`q4` · 60 of 447 report an effect size · 688 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -756,6 +756,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Students using the PbI worksheet with a customized EJS simulation significantly outperformed traditional-instruction peers on Newton's 1st Law post-test items at a 95% confidence level](../claims/ejs-pbi-significant-newtons-first-law-gain.md) [+W] — attached 2026-11-17 from Goh et al. (2013), which proposed "Customized Easy Java Simulation two-body collision carts virtual laboratory model".
 - [The EJS PbI treatment produced no significant advantage over traditional instruction on Newton's 3rd Law post-test items](../claims/ejs-pbi-no-significant-newtons-third-law-gain.md) [-W] — attached 2026-11-17 from Goh et al. (2013), which proposed "Customized Easy Java Simulation two-body collision carts virtual laboratory model".
 - [Elementary teachers review the remixed energy simulation positively, with all six agreeing the added features are useful](../claims/six-teachers-positive-review-remixed-energy-simulation.md) [+W] — attached 2026-11-17 from Lye et al. (2012), which proposed "Remixed open source roller coaster energy simulation for elementary school".
+- [Students rated the simulation's design features (colour scheme, bar graphs, height and speed indications) as helping them understand energy concepts](../claims/simulation-design-features-aid-energy-understanding.md) [+W] — attached 2026-11-17 from Lye et al. (2014), which proposed "Remixed open-source roller coaster energy simulation for elementary school".
+- [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](../claims/self-directed-learning-remixed-simulation.md) [+W] — attached 2026-11-17 from Lye et al. (2014), which proposed "Remixed open-source roller coaster energy simulation for elementary school"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

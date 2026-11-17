@@ -73,3 +73,5 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Student reflections identified understanding, motivation, flexibility, and feedback as key benefits of the online modules](student-reflections-positive-module-themes.md) — related
 - [Students perceived the preformulated (non-synchronous) VP feedback as natural, as from a real tutor](preformulated-vp-feedback-perceived-natural.md) — related
 - [Tutors and students identified advantages of the fully online format, including participation from across Africa, cost-effectiveness and learning at one's own time and pace](online-ebm-module-advantages-global-access-flexibility.md) — related
+- [Students reported that iPads helped them learn science by providing resource access for student-directed research and by supporting personal learning needs such as pace and ease of use](ipads-support-student-directed-learning.md) — related
+- [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related

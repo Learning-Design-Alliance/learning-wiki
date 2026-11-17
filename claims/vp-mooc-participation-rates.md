@@ -47,3 +47,4 @@ Enrollment and completion counts reported for the KIBEHMEDx MOOC launched Septem
 
 ## Related Claims
 - [Health sciences undergraduates who completed a MOOC achieved significantly higher academic performance in subjects related to the MOOC content](mooc-higher-academic-performance-related-subjects.md) — related
+- [Certificate-earning MOOC students reported learning-goal rather than performance-goal motivation, with 98% saying the absence of a real degree posed no problem](mooc-learning-goal-motivation-98-percent.md) — related

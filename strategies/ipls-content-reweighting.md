@@ -45,6 +45,7 @@ Based on inquiries to biologists, including an AAMC committee and the authors' o
 ## Related Strategies
 
 - [Co-design interdisciplinary problems with biologists, negotiating realism, modeling, and multiple representations, and explicitly naming what biology is simplified away](negotiated-interdisciplinary-problems.md)
+- [Spreadsheet homework sequence: reproduce small-system tables, then scale up and add entropy columns](spreadsheet-homework-sequence-einstein-solids.md)
 
 ## Examples
 -

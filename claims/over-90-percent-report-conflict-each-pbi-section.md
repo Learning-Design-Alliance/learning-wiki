@@ -48,3 +48,4 @@ Case study applying iCARE weekly in a 10-week PBI course on electric circuits wi
 - [Concept-type conflict peaked at 40% of reported conflicts in the equivalent-resistance section, above its roughly 23% average across other topics](concept-conflict-peaks-equivalent-resistance-section.md) — related
 - [In the PBI course, about 50% of reported cognitive conflicts were experiment-induced while teacher-induced conflict was much less frequent than the other context types](experiment-context-dominates-teacher-conflict-rare.md) — related
 - [PBI students split into a stable low-conflict group (about one third) and a high-conflict group (about two thirds), with three conflicts per section as the separating threshold](low-and-high-conflict-student-groups-pbi.md) — related
+- [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](cl-prototypes-physics-topics.md) — related

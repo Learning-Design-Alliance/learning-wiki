@@ -66,3 +66,4 @@ The authors report their own teaching experience over several weeks of molecular
 ## Related Claims
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
 - [Energy conservation plus the identity a = (1/2)d(v²)/dx yields the falling rope's velocity and acceleration in a form suitable for beginning students](rope-energy-method-beginning-students.md) — related
+- [Students continue to have difficulty differentiating heat energy and temperature even after studying thermochemistry](heat-temperature-differentiation-persists-after-instruction.md) — related

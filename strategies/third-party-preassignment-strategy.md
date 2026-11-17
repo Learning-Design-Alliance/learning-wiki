@@ -48,6 +48,7 @@ The article proposes assigning material from outside sources such as YouTube vid
 - [Discussion-Oriented Flipped Classroom](discussion-oriented_flipped_classroom.md)
 - [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
+- [Flip videos introducing the Tracker interface before class so lesson time goes to richer discussion](flip-videos-tracker-interface-before-class.md)
 
 ## Examples
 -

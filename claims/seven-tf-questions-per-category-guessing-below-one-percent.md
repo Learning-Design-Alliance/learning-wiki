@@ -51,3 +51,4 @@ Design argument in the section on designing the diagnostic module: the author re
 - [MCQ format is unsatisfactory for diagnosis because fixed options combine concepts and permit erroneous inferences](mcq-unsatisfactory-for-diagnosis.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [If in doubt, progression decisions usually pass the student, and the article argues students should be regarded as incompetent until proven competent](leniency-failure-to-fail-standard-of-proof.md) — related
+- [False positives (categories 1, 2 and 3) were no more than 1% of total responses, which the authors attribute to the required justification tier discouraging guessing.](false-positives-below-one-percent-with-justification-tier.md) — related

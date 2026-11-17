@@ -48,3 +48,4 @@ Document analysis of 106 probability activities from Grade 3 to Grade 9 national
 
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](o-star-star-law-of-large-numbers.md)
+- [Experiment-oriented physics students showed very high interest in the mathematical peculiarities of probability and randomness foundations](physics-students-high-interest-probability-foundations.md) — related

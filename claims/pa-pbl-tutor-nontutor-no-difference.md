@@ -52,3 +52,4 @@ Mann-Whitney U comparison of final examination scores between PA-PBL tutors (n =
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
 - [No significant performance difference between EMERGE and PBL groups on key feature cases discussed in both instructional formats](no-difference-shared-content-cases.md) — related
 - [Non-facilitative tuition shows a non-significant trend toward larger knowledge gain in PBL, while both groups improve significantly from pre- to post-test](nonfacilitative-tuition-knowledge-gain-trend-pbl.md) — related
+- [Students who authored MCQs scored significantly higher on the exam's student-question-based MCQ test than a traditionally taught control group](mcq-authoring-higher-exam-mcq-score.md) — related

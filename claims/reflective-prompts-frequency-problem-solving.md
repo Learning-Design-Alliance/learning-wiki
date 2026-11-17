@@ -56,3 +56,4 @@ The introduction reports, citing Sijmkens et al. (2023), a study with university
 - [Topic-specificity of reflection modules is not essential for developing strategic approach, unlike for conceptual understanding](topic-specificity-not-essential-strategic-approach.md) — related
 - [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
+- [Insufficient prior conceptual understanding (solid angle and steradians) blocked accurate model construction in the LED lab](insufficient-conceptual-knowledge-blocks-model-construction.md) — related

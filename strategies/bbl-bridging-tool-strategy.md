@@ -41,7 +41,8 @@ The article suggests offering App Inventor-style courses at later stages of unde
 - motivation for programming
 
 ## Related Strategies
-- 
+
+- [Use App Inventor block-based app development to focus students on Big Data problem solving rather than coding syntax](app-inventor-big-data-problem-solving-strategy.md)
 
 ## Examples
 -

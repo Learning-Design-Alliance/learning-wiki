@@ -74,3 +74,4 @@ Large-scale observational analysis of seasonal score patterns on NWEA MAP Growth
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
 - [Standardized test results showed the greatest deficiency in grammar tests among summer-school pupils](grammar-tests-greatest-deficiency-1918.md) — related
+- [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — a narrower finding that bears on this claim

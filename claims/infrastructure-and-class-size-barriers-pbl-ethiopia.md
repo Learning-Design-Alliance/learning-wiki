@@ -54,3 +54,5 @@ Qualitative interview finding under the institutional theme. Participants report
 - [Trainees' main perceived challenges with the e-Learning pilot were limited computer-laboratory workspace (33%), slow internet/intranet speed (29%), and limited training of ICT staff (28%)](ghana-elearning-pilot-challenges-workspace-speed-capacity.md) — related
 - [Qualitative findings identify content quality as a facilitator of behaviour change and content difficulty, irrelevance, and hardware constraints as barriers](qualitative-barriers-facilitators-elearning-cme.md) — related
 - [University teachers report difficulty applying active teaching practices in large groups of more than 50 students](teachers-report-active-teaching-difficult-large-groups.md) — possibly the same claim (merge candidate)
+- [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
+- [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related

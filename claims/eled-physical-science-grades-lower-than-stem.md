@@ -51,3 +51,4 @@ Linear mixed model of Physical Science grades (GRADE ~ MAJOR TYPE + (1 | SECTION
 - [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
 - [Mean course grades differ significantly across the six general education courses, with the lowest means in History and Statistics and the highest in Biology, Humanities, and Physical Science](gen-ed-course-mean-grades-differ-six-courses.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
+- [Academic performance in the interdisciplinary biophysics course is unrelated to declared major](biophysics-course-performance-unrelated-to-major.md) — related

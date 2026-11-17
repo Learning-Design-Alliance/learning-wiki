@@ -113,3 +113,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [A renewed course-paper evaluation procedure cut grading time from two weeks to three days for 256 papers with high scorer agreement](renewed-paper-evaluation-efficiency.md) — related
 - [A mastery-based grading rubric produces consistent scores when used by untrained graders, with Cohen's kappa of 0.95](ccmi-grading-rubric-untrained-grader-reliability.md) — related
 - [Duplicate scoring of constructed-response exam questions reveals substantial inter-rater bias and random error even with high score correlations](cr-inter-rater-unreliability.md) — reports the opposite
+- [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related

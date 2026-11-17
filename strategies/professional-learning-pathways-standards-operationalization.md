@@ -70,6 +70,7 @@ The article recommends embedding the standards into structured professional lear
 - [Develop an EMS-specific simulation best-practices framework and regional/national faculty collaboration groups](ems-simulation-framework-and-workgroups-strategy.md)
 - [Provide ongoing, in-depth faculty professional development that targets peer discussion as an essential component of clicker use.](ongoing-pd-for-peer-discussion-clickers.md)
 - [Apprenticeship-style co-teaching sequence for sustaining reforms: secondary role first, then lead, then refinement](secondary-then-lead-coteaching-handoff.md)
+- [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 
 ## Examples
 -

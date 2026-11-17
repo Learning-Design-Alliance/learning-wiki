@@ -53,3 +53,4 @@ In the focus group study, participants identified key competencies including "pr
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
 - [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related
 - [EUtrain fellows reported that the program created a solid, long-lasting European-wide professional network and developed multidimensional skills](eutrain-network-and-multidimensional-skills.md) — related
+- [Psychosocial factors of motivation, attitude, confidence, and resilience influence attainment of communicative competence via AAC](psychosocial-factors-aac-communicative-competence.md) — related

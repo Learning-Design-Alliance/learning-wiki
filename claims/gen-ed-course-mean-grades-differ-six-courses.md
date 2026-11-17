@@ -53,3 +53,4 @@ Descriptive analysis of the full archival data set of 195860 grades across six c
 - [Elementary education majors entered with lower ACT scores but higher high school GPAs than students in other major types](eled-lower-act-higher-hs-gpa-than-other-majors.md) — related
 - [Physical education obtained the highest grade mean and satisfaction mean, while mathematics obtained the lowest grade mean](pe-highest-grade-and-satisfaction-math-lowest.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
+- [Academic performance in the interdisciplinary biophysics course is unrelated to declared major](biophysics-course-performance-unrelated-to-major.md) — related

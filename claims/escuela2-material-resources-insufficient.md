@@ -54,3 +54,4 @@ Theoretical argument from the literature review section; the quote states the ne
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [62% of teachers support the one laptop per child policy and report positive feedback regarding the application of Educational Technology.](escuela2-teacher-support-62-percent.md) — related
+- [Physics teachers have not sufficiently realized ICT introduction, lack suitable electronic resources, and face a psychological barrier](physics-teachers-ict-barriers.md) — related

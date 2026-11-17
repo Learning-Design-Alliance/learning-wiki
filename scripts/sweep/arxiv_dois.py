@@ -238,8 +238,9 @@ def main():
 
         new = ENTRY.sub(fix, text)
         for old, nw in renames.items():
-            o_anchor = re.sub(r"[^a-z0-9]+", "-", fold(old)).strip("-")
-            n_anchor = re.sub(r"[^a-z0-9]+", "-", fold(nw)).strip("-")
+            # python-markdown's heading id: punctuation dropped ("J.O." -> "jo"), spaces to hyphens
+            o_anchor = re.sub(r"[-\s]+", "-", re.sub(r"[^\w\s-]", "", fold(old))).strip("-")
+            n_anchor = re.sub(r"[-\s]+", "-", re.sub(r"[^\w\s-]", "", fold(nw))).strip("-")
             new = new.replace(f"(#{o_anchor})", f"(#{n_anchor})").replace(f"→ {old}]", f"→ {nw}]")
         if new != text:
             changed += 1

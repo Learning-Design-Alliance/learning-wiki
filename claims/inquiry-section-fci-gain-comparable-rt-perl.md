@@ -51,3 +51,4 @@ Pre/post FCI assessment comparing the small inquiry-based, laboratory-based alge
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [On the algebra-based MBT, in-class RT/PERL scores significantly exceeded RT/TL scores (p < 0.003) and INQ scores (p < 0.002), while online scores ran 10-15 percentage points lower](mbt-algebra-based-rt-perl-significantly-higher.md) — related
 - [Treatment and control sections showed similar, statistically indistinguishable FCI conceptual gains](fci-gains-similar-not-significant.md) — related
+- [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related

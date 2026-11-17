@@ -55,3 +55,4 @@ Theoretical argument in the perspective's literature-informed discussion of vide
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — a narrower finding that bears on this claim
 - [A single student's watching trajectory showed seeking and pausing mid-video to find values needed for the assignment, with only 46.8 s spent on the conceptual interaction-point questions](single-student-trajectory-value-seeking.md) — related
+- [Video-player control puts the power to repeat in the hand of the individual student, suiting individual needs](mooc-repetition-power-shifts-to-student.md) — a narrower finding that bears on this claim

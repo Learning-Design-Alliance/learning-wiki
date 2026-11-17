@@ -121,3 +121,4 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [The learning environment can engage children in advanced mathematical thinking in early education](game-engages-advanced-mathematical-thinking.md) — related
 - [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](discourse-analysis-student-reported-thinking-gains.md) — related
 - [Explicit instruction in scientific reasoning appears to produce larger reasoning gains, though observations are preliminary](explicit-reasoning-instruction-larger-gains-preliminary.md) — related
+- [Conference participants concluded that central to science is argumentation, criticism, and analysis, and students need to understand this](central-to-science-argumentation-criticism-analysis.md) — related

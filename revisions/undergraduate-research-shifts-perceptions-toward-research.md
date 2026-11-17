@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/undergraduate-research-shifts-perceptions-toward-research.md
+---
+
+# Revision history: [claims/undergraduate-research-shifts-perceptions-toward-research](../claims/undergraduate-research-shifts-perceptions-toward-research.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1409.8315 (Becoming a Physicist: The Roles of Research, Mindsets, and Milestones in upper-division student perceptions) via eval_harness.py + ingest_extractions.py

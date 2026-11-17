@@ -72,6 +72,7 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 - [Strengthen misconception remediation by scheduling dissonance-inducing activities before lecture and checking emerging understanding with clickers](schedule-dissonance-before-lecture-with-clickers.md)
 - [Require brief pre-session comprehension checks to improve pre-class preparation](pre-session-comprehension-checks-strategy.md)
 - [Use just-in-time teaching: pre-class electronic exercises whose responses structure the upcoming class session](just-in-time-teaching-pre-class-exercises.md)
+- [Provide pre-essay in-class activities, practice quizzes and worked examples before essay deadlines to prepare students for conceptual essay questions](pre-essay-activities-and-guidance-strategy.md)
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).

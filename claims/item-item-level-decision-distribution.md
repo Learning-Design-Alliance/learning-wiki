@@ -52,3 +52,4 @@ Item-level analysis of cognitive interview findings across the 40 ITEM questions
 - [Ambiguous technological terminology and unexplained abbreviations in the QVP required refinement for consistent interpretation](ambiguous-terminology-abbreviations-qvp-refinement.md) — related
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
 - [Simulation education experts raised feasibility concerns about question load and learner case experience, leading to modification of the metacognition questions](expert-interviews-protocol-modification.md) — related
+- [Think-aloud student interviews led to wording and spacing changes on CURrENT questions](think-aloud-interviews-improved-current-question-wording.md) — related

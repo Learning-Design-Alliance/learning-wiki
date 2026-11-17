@@ -48,3 +48,4 @@ Correlational analysis of the SP12 and FA12 post-survey utility and enjoyment ra
 - [FA12 students equally preferred occasional in-class tutorials and optional weekly sessions, and preferred both over a weekly class dedicated only to tutorials](student-preference-tutorial-implementation-formats.md) — related
 - [Utility ratings exceeded enjoyment ratings for every course element, but significantly only for textbook and homework](utility-exceeds-enjoyment-ratings.md) — related
 - [Student ratings of tutorial utility were comparable to other course elements in SP12 but rated significantly lower than pure lecturing in FA12](tutorial-utility-ratings-semester-variation.md) — related
+- [Many students wanted Lecture-Tutorial answers provided, and explicit post-tutorial debriefing reduced resistance](lecture-tutorial-answer-verification-resistance.md) — related

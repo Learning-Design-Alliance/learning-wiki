@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 565 claims (361 for, 179 mixed, 25 against) · 361 studies (162 causal, 81 review, 39 quant-synthesis, 38 design, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 361 report an effect size · 560 claims rest on one study
+> **Evidence** · 567 claims (363 for, 179 mixed, 25 against) · 363 studies (162 causal, 81 review, 40 design, 39 quant-synthesis, 27 qualitative, 11 theoretical, 3 associational), `q1`–`q4` · 64 of 363 report an effect size · 562 claims rest on one study
 
 ## Conditional relationship
 
@@ -563,6 +563,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [After VR training, inexperienced surgeons completed the test faster than experienced arthroscopic surgeons, but not statistically significantly (p = 0.4)](../claims/vr-trained-interns-match-experienced-surgeons-on-vr.md) [~W] — attached 2026-11-10 from Andersen C et al. (2011), which proposed "Use short immersive VR simulator training programs to help inexperienced surgeons acquire basic navigation skills before supervised real surgery".
 - [Additional mannequin simulation training beyond a brief session does not improve medical students' LMA placement success ratings in real patients](../claims/additional-mannequin-training-no-lma-placement-benefit.md) [~M] — attached 2026-11-10 from Laiou Elpiniki et al. (2011), which proposed "Educators should match simulation fidelity and training dose to the difficulty of the clinical skill being taught"; tests this page's relationship.
 - [Participants perceive mannequins as poor at mimicking reality, with a minority reporting the training built basic technique or confidence](../claims/mannequin-low-fidelity-participant-feedback-lma.md) [~M] — attached 2026-11-10 from Laiou Elpiniki et al. (2011), which proposed "Educators should match simulation fidelity and training dose to the difficulty of the clinical skill being taught".
+- [Most advanced students solved the built-in unknown-state challenges in the Superposition states and mixed states simulation](../claims/quvis-challenge-success-rates-mixed-superposition.md) [+W] — attached 2026-11-17 from Kohnle et al. (2014), which proposed "Embed challenges aligned with the simulation's learning goals to encourage prolonged engagement and assess outcomes".
+- [Elementary students reported a positive learning experience with the remixed energy simulation](../claims/elementary-positive-learning-experience-energy-simulation.md) [+W] — attached 2026-11-17 from Lye et al. (2014), which proposed "Five pedagogy-knowledge design principles for educational simulation: learning outcomes, inquiry support, teacher feedback, fidelity, and misconception challenge".
 
 ## Objective and learner-valued goal
 

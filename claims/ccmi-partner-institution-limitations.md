@@ -47,3 +47,4 @@ Discussion of data from eight partner institutions where the CCMI was administer
 
 ## Related Claims
 - [Mean CCMI post-test score across three pooled semesters was 52.9%, with a wide score range and some students outperforming first-year graduate students](ccmi-pooled-mean-score-distribution.md) — related
+- [Faculty want to norm assessment results by comparing to other schools and interacting with faculty and experts from other institutions.](faculty-want-assessment-comparison-and-community.md) — related

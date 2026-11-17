@@ -48,3 +48,4 @@ Review report of survey responses on proposals in secondary-school physics teach
 - [A majority consensus of sixty secondary-school physics teachers holds that the physics teacher should have preparation through the Master's degree in physics](hall-1910-physics-teacher-preparation-consensus.md) — related
 - [Biology courses alone are judged inadequate for sex instruction and should be supplemented by more personal and direct means such as special lectures.](biology-courses-inadequate-alone.md) — related
 - [Surveyed physics teachers do not endorse omitting the quantitative treatment of kinetics and accelerated motion](hall-1910-quantitative-kinetics-retained.md) — related
+- [Physics academics regard the lecture hall (amphi) as an irreplaceable teaching format whose success is judged by student participation and presence, not by exam results](amphi-irreplaceable-judged-by-participation.md) — related

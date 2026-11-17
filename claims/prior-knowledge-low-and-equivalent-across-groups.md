@@ -48,3 +48,4 @@ A six-item 7-point Likert prior-knowledge survey administered before the online 
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](background-knowledge-improves-comprehension-primary.md) — related
+- [Pre-test prior knowledge did not differ between GR and CC conditions](no-pretest-difference-gr-cc.md) — related

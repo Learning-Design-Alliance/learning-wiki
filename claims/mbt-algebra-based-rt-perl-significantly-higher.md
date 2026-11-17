@@ -52,3 +52,4 @@ Post-test MBT administration in algebra-based large lecture sections, with onlin
 - [Algebra-based FCI normalized gain reaches the interactive-engagement region (0.36) only when RT labs plus recitations are combined with PER-informed lecture instruction](combined-rt-labs-perl-lecture-ie-region-fci.md) — related
 - [Inquiry-based algebra-based students outperform all other introductory classes, including honors, on free-response pre- and post-tests in electricity and magnetism](inquiry-outperforms-on-free-response-testing.md) — related
 - [Replacing traditional labs with Real Time Physics labs plus recitations doubled algebra-based FCI normalized gain even under traditional lecture, but gains stayed below the interactive-engagement region](rt-labs-double-fci-gain-traditional-lecture.md) — related
+- [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related

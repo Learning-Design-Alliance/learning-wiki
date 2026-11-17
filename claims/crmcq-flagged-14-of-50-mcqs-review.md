@@ -50,3 +50,4 @@ Evaluation of individual CRMCQ results across the five modules against four revi
 - [Students reported that assigning certainty ratings to MCQ answers made them aware of what they know and do not know and assisted in identifying knowledge gaps](crmcq-student-survey-awareness-gaps.md) — related
 - [Higher student certainty in MCQ responses is associated with higher odds of answering correctly](mcq-certainty-odds-of-correctness.md) — related
 - [Among incorrect responses, high certainty increases the odds of an unsafe response except in the lowest-scoring group](incorrect-high-certainty-more-unsafe.md) — related
+- [Correct responses and certainty on a mixed-versus-superposition question increased from pre-test to post-test after the simulation homework](superposition-mixed-states-pretest-posttest-gains.md) — related

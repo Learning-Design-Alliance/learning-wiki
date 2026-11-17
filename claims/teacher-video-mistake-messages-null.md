@@ -50,3 +50,4 @@ Randomized controlled experiment (Selent and Heffernan 2015) comparing one-step 
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Video feedback improved performance on the next question in an ASSISTments randomized experiment, though not statistically significantly (d = 0.32, n = 89)](video-feedback-next-question-effect.md) — related
 - [Computer-tailored health communication meta-analyses show tailored messages significantly improve health-related behaviors compared to no intervention or a generic message](cthc-tailoring-improves-health-behaviors.md) — related
+- [Teachers without programming experience used a browser-based WYSIWYG editor to create new hints for 50 ASSISTments exercises now being tested in an ongoing experiment](teachers-created-hints-50-exercises-browser-only.md) — related

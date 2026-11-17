@@ -34,4 +34,4 @@ From an iterative knowledge analysis of about 50 argument snippets, the authors 
 ## Key Sources
 - Bing, T. J., & Redish, E. F. (2007). Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants. https://www.compadre.org/PER/
 - Bing, T. J., & Redish, E. F. (2009). Epistemic Complexity and the Journeyman-Expert Transition. http://www.physics.umd.edu/perg/dissertations/Bing/
-- Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education.
+- Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. [doi:10.48550/arxiv.1003.4288](https://doi.org/10.48550/arxiv.1003.4288)

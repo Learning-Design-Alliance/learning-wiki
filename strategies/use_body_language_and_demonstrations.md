@@ -65,6 +65,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 - [Think-Aloud Modeling](think-aloud-modeling.md) — verbalizes the invisible reasoning that physical demonstration cannot show
 - [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](four-embodied-strategies-dynamic-visualizations.md)
 - [Instructors on television should speak at a deliberate rate and use deliberate movements](deliberate-speech-and-movement-on-tv.md)
+- [Use conceptual blending analysis with gesture analysis as analytic tools for modeling learners' cognitive dynamics](blending-plus-gesture-analysis-research-strategy.md)
 
 ## Examples
 - A chemistry instructor demonstrates proper titration technique — hand position, swirl motion, reading the meniscus at eye level — while narrating each decision, then circulates as students replicate it.

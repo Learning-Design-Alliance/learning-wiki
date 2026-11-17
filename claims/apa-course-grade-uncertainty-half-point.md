@@ -48,3 +48,4 @@ Analytical worked example (Sections IV–V) applying the APA propagation equatio
 - [The oral test dominates the a priori uncertainty of the course grade while each category still contributes to the grade by its weight](oral-test-dominates-grade-uncertainty.md) — related
 - [The a priori grade uncertainty indicates a reasonable discretization scale for reporting grades](grade-discretization-from-a-priori-uncertainty.md) — related
 - [Statistical independence of repeated measurements does not hold for course grades, invalidating a posteriori error estimates](statistical-independence-violated-for-grades.md) — related
+- [A fairness criterion on the weight and number of Participation Grades keeps their volatility from affecting the reliability of the final laboratory grade (analytical derivation)](performance-grade-fairness-criterion.md) — related

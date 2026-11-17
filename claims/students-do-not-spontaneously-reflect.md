@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-17
 recheck_by: 2017
 sources:
   - id: bethany-r-wilcox-2012
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 8% of exam students made explicit attempts to check their solutions, only by checking limiting behavior; most interview participants made no attempt to reflect or only superficial familiarity statements. [→ Bethany R. Wilcox 2012](#bethany-r-wilcox-2012)
@@ -48,3 +49,5 @@ Exam coding of the Reflection component of the ACER framework. The quote shows "
 ## Related Claims
 - [Students rarely spontaneously checked units or limiting behavior of their solutions, though they endorsed such checks when prompted](reflection-checks-rarely-spontaneous.md) — possibly the same claim (merge candidate)
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](superficial-reflection-on-derived-expressions.md) — related
+- [Upper-division students rarely spontaneously reflect on their delta-function solutions, such as checking total charge in a region](students-rarely-reflect-spontaneously-on-delta-function-solutions.md) — related
+- [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — possibly the same claim (merge candidate)

@@ -42,6 +42,7 @@ The LSC plans exhibits and performances pairing art with gravitational-wave scie
 - [Use a frontier science facility's detector search as a platform for multi-audience outreach programs](ligo-observatory-outreach-programs.md)
 - [Exhibition Of Learning](exhibition-of-learning.md)
 - [Exhibition](exhibition.md)
+- [Four-step art–science collaboration process: scientist briefing, facility visit with concept pitches, mentored production with online feedback, and final screening critique](four-step-art-science-animation-process.md)
 
 ## Examples
 -

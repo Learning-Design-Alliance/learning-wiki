@@ -77,3 +77,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Barriers to improving CAM knowledge were financial cost, time constraints, scarce credible psychology-aware educators, and limited institutional support](cam-education-barriers-cost-time-credibility.md) — related
 - [The authors argue low-fidelity equipment with high environmental and psychological fidelity can impact clinical outcomes, making in situ simulation feasible for resource-limited institutions](low-fidelity-iss-high-psychological-fidelity.md) — related
 - [Idle simulation equipment is common and is associated with lower faculty training and personnel resources](idle-simulation-equipment-linked-training-personnel.md) — related
+- [Informatization of higher education institution management faces high costs, missing specialists, and missing links between facilities](informatization-management-problems.md) — related

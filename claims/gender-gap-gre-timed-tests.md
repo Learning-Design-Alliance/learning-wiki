@@ -54,3 +54,4 @@ The author's characterization of the ETS score distributions discussed in the ar
 - [Men in the lowest GRE Q quartile completed STEM PhDs at a higher rate than men in all three higher quartiles, a pattern seen at each of the four institutions](lowest-gre-q-quartile-men-highest-completion.md) — related
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
 - [In engineering, men who left doctoral programs had significantly higher GRE Q scores than men who completed, and lowest-quartile men completed at a rate 25% higher than highest-quartile men](engineering-men-gre-q-negative-predictor.md) — related
+- [A gender score offset appears in the distance cohort but not in the in-class cohorts, with a larger pre-class gap for distant learners](geas-gender-offset-distance-cohort.md) — related

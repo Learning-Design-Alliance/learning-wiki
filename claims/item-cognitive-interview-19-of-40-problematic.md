@@ -50,3 +50,4 @@ Cognitive interview study with 10 native Arabic-speaking medical students (4 yea
 - [Cognitive interviewing informed differentiated item-level decisions for ITEM: 11 questions received proposed wording or contextual revisions, 2 presentation-only modifications, and 6 were retained unchanged, with no items removed](item-item-level-decision-distribution.md) — related
 - [Difficulties with ITEM debriefing-domain questions may reflect limited contextual applicability rather than wording alone, because participants had not undergone a formal PEARLS-based structured debrief](item-debriefing-domain-contextual-applicability.md) — related
 - [Usability testing flagged eight items for problems such as overlapping content, ambiguous phrasing and restricted applicability](usability-issues-flagged-items.md) — related
+- [Think-aloud student interviews led to wording and spacing changes on CURrENT questions](think-aloud-interviews-improved-current-question-wording.md) — related

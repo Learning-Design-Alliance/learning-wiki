@@ -16,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (15 for, 13 mixed, 1 against) · 35 studies (13 causal, 10 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (18 for, 13 mixed, 1 against) · 36 studies (13 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,9 @@ Claims found while converting this page that bear on it but are not part of the 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- [The points-and-rank system motivated students to complete course work](../claims/points-rank-system-increased-motivation.md) [+W] — attached 2026-11-17 from Ian D. Beatty et al. (2014), which proposed "Game-inspired course pattern: levels, minions, bosses, mastery retries, points-and-rank grades, self-test feedback, and self-pacing".
+- [Students credited infinite retries under a mastery standard with increased content learning](../claims/infinite-retries-increased-content-learning.md) [+W] — attached 2026-11-17 from Ian D. Beatty et al. (2014), which proposed "Game-inspired course pattern: levels, minions, bosses, mastery retries, points-and-rank grades, self-test feedback, and self-pacing"; tests this page's relationship.
+- [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](../claims/authentic-level-bosses-real-world-preparation.md) [+W] — attached 2026-11-17 from Ian D. Beatty et al. (2014), which proposed "Game-inspired course pattern: levels, minions, bosses, mastery retries, points-and-rank grades, self-test feedback, and self-pacing".
 
 ## Illustrative design instance and observation record
 

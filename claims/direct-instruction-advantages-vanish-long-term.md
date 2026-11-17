@@ -89,3 +89,4 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Students with stronger growth mindsets earn higher grades than fixed-mindset students in early university terms, but the gap narrows and is statistically indistinguishable from Term 7 (observational)](growth-mindset-early-advantage-diminishes-over-time.md) — a narrower finding that bears on this claim
+- [The GR advantage persists at a reduced level after subsequent direct instruction, being neither nullified nor enhanced](gr-advantage-persists-after-direct-instruction.md) — related

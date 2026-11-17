@@ -51,3 +51,4 @@ Quasi-experimental pre-test–post-test control group study of 419 Ugandan 13th-
 - [VASS attitude classifications can be grouped into folk, transitional, and expert profiles using percent expert-like response](vass-three-profile-classification.md) — related
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
 - [Students in the Extensive section show a significantly greater expert shift in views about biology and learning biology than Moderate-section students](extensive-section-greater-expert-shift-vass.md) — a narrower finding that bears on this claim
+- [Introducing an end-of-session Performance Grade has been positively experienced as guiding a larger percentage of students towards a positive working attitude in experimental physics](performance-grade-positive-experience.md) — related

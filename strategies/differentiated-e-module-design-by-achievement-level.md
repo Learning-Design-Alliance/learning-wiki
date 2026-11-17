@@ -55,6 +55,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
 - [Use diagnostic quizzing and real-time recall accuracy data to classify learning-object difficulty and tailor instruction](recall-accuracy-diagnostic-tailoring-strategy.md)
+- [Differentiate simulation versions by prior knowledge using the expertise reversal effect](differentiated-simulation-versions-expertise-reversal.md)
 
 ## Examples
 -

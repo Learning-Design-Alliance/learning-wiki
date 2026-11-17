@@ -84,3 +84,5 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Lack of time is the most frequently mentioned barrier to implementing a digital communication training for oncological HCP](time-barrier-digital-communication-training.md) — related
 - [Implementing the blended course strained a small team that lacked blended-learning competencies and faced a larger-than-expected workload](blended-implementation-competency-and-workload-challenges.md) — related
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
+- [Different faculty personas need different levels and kinds of information about educational innovations](personas-differ-in-information-needs.md) — related
+- [In the Runes Department, faculty professed beliefs supporting active learning were not matched by their reported teaching practices](runes-belief-practice-discontinuity.md) — related

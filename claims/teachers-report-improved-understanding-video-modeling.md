@@ -70,3 +70,4 @@ Second teacher reflection in section VI: "video modeling pedagogy is suitable fo
 - [Dynamic particle models with incorrect force values, juxtaposed against real video data, compel students to rethink their force assumptions in projectile motion](dynamic-particle-model-refutes-impetus-misconceptions.md) — related
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
+- [Tracker-based computer laboratory lessons produce large within-group learning gains on toss-up and free fall kinematics for secondary students](tracker-lessons-large-kinematics-gains.md) — related

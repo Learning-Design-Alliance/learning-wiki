@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-17
 sources:
   - id: gupta-2011
     resource: "https://doi.org/10.48550/arXiv.1003.4288"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Jim's stickiness was not robust stubbornness; when asked about the sign of g he immediately reversed his conclusion, admitted his mistake, and said the revised answer was more comfortable. [→ Gupta 2011](#gupta-2011)

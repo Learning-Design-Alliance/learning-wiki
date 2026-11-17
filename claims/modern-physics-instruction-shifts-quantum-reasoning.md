@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-17
 sources:
   - id: charles-baily-and-noah-d-finkelstein-2009
     resource: "https://doi.org/10.1103/PhysRevSTPER.5.010106"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After modern physics instruction, students shifted from 10% to 32% in providing quantum-specific reasoning and from 13% to 49% in referencing quantum or relativistic reasons for agreeing with CLASS No. 41. [→ Charles Baily and Noah D. Finkelstein 2009](#charles-baily-and-noah-d-finkelstein-2009)

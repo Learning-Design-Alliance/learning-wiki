@@ -81,3 +81,4 @@ The same multivariate multilevel model showed no significant pre-post change in 
 - [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](srl-training-teacher-level-not-student-level-effects.md) — related
 - [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](no-motivation-difference-ibl-environments.md) — related
 - [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](srl-task-learning-gains-domain-concept-maps.md) — related
+- [Immersive inquiry research experiences produced significant gains in teachers' understanding of the nature of science and in their students' understanding](immersive-research-teacher-nos-gains.md) — related

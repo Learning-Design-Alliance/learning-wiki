@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 292 claims (211 show a difference, 47 mixed, 34 no difference) · 199 studies (84 causal, 57 associational, 23 review, 17 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 199 report an effect size · 286 claims rest on one study
+> **Evidence** · 295 claims (214 show a difference, 47 mixed, 34 no difference) · 202 studies (85 causal, 57 associational, 23 review, 19 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 52 of 202 report an effect size · 289 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -327,6 +327,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [The course contributed to greater student interest in environmental and occupational health despite initially low interest in the field](../claims/flipped-course-increased-eoh-interest.md) [+M] — measured as an outcome of the instruction studied
 - [In the EinsteinMobil travelling exhibition, most or all participating students showed much interest regardless of age, gender, or general interest in physics](../claims/einsteinmobil-student-interest.md) [+W] — measured as an outcome of the instruction studied
 - [In the 2010 Clarke Middle School pilot, WWTA participation increased sixth-graders' knowledge, understanding, and interest in science and interest in using real telescopes](../claims/wwta-pilot-dramatic-gains-knowledge-understanding-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Reported increase in interest in astronomy was uniform across essay grade levels, with higher-scoring students not feeling more interested than lower-scoring ones](../claims/interest-increase-independent-of-essay-grade.md) [+M] — measured as an outcome of the instruction studied
+- [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](../claims/simulation-more-enjoyable-than-screenshots.md) [+M] — measured as an outcome of the instruction studied
+- [Students in the interpretation-focused courses showed significantly greater post-instruction interest in quantum mechanics, with interest decreasing in the Realist/Statistical course.](../claims/interpretation-curriculum-promotes-quantum-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

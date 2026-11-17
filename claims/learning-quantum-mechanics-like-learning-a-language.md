@@ -50,3 +50,4 @@ Theoretical argument from the author's preface, offered as personal expert exper
 - [Majorana judges that the purely mathematical method of presenting quantum mechanics has even greater inconveniences than the historical one](purely-mathematical-method-greater-inconveniences.md) — related
 - [Student realist perspectives on quantum mechanics are nuanced, with some students distinguishing intuition from perceived correct answers](student-realist-perspectives-nuanced-intuition-versus-authority.md) — related
 - [Students most often vacillate in interpretive responses when intuitive sense conflicts with what they consider a correct response](students-vacillate-personal-versus-public-perspectives.md) — related
+- [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related

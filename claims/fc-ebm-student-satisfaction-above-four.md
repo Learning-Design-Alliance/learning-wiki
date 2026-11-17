@@ -55,3 +55,4 @@ Self-made 14-question Likert 5-point satisfaction survey completed by the 38 FC-
 - [Participants were highly satisfied with the online oncogenetics module, with satisfaction item scores of at least 4.1 and a global score of 7.9](high-satisfaction-online-genetics-cpd-module.md) — related
 - [Residents rated the EBM workshop very positively and reported perceived knowledge gains, but these perceptions were not associated with measured skill increases](workshop-satisfaction-not-linked-to-gains.md) — related
 - [A large majority of students in both transformed semesters rated the course aspects as useful or very useful for their learning](transformed-em-ii-student-approval.md) — related
+- [Students rated the redesigned introductory physics course very positively, with increased interest in studying physics](intro-physics-survey-high-ratings-increased-interest.md) — related

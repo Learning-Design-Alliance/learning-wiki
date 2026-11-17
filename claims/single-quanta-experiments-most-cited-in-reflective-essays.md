@@ -51,3 +51,4 @@ Analysis of students' end-of-term reflective essays (written by choice of a quan
 - [Students are more likely to maintain realist perspectives in topic areas where instructors are less explicit about interpretation](students-retain-realist-perspectives-where-instructors-less-explicit.md) — related
 - [Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor](student-interpretation-responses-align-with-instructor-explicit-teaching.md) — related
 - [Students taught delocalized wave descriptions in one context do not generalize to contexts where interpretation is not addressed](matter-wave-students-fail-to-generalize-to-atomic-context.md) — related
+- [In the Matter-Wave curriculum's Mach-Zehnder midterm question, nearly 40% of students cited lack of which-path information and 33% cited two paths in predicting wave-like behavior](mach-zehnder-midterm-which-path-responses.md) — related

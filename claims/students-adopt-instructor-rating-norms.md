@@ -48,3 +48,6 @@ Observational analysis of rating distributions in Figs. 1 and 2; only one "excel
 - [Student-instructor rating agreement in peer evaluation of video lab reports increased over the semester and was not solely an artifact of the distribution of instructor ratings](peer-evaluation-agreement-gains-over-semester.md) — related
 - [CURE students give higher overall LCAS total ratings than traditional lab students](lcas-total-score-cures-higher.md) — related
 - [Persistent student-instructor disagreements suggest students and instructors attend to different video features when evaluating](video-watching-practices-differ.md) — related
+- [Fall students picked up instructor norms on severe, obvious flaws but not on nuanced flaws in physics discussion](peer-evaluators-pick-up-severe-not-nuanced-flaws.md) — related
+- [After the practice-video intervention, students adopted more rigorous evaluative norms for introductions and for identification of physics principles](practice-videos-rigorous-norms-introduction-physics-principles.md) — related
+- [With only a single early intervention, Summer 2013 MOOC students had more lenient peer-evaluation norms than instructors](summer-mooc-peer-evaluators-more-lenient-than-instructors.md) — related

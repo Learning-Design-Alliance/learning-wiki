@@ -52,6 +52,7 @@ The review concludes that MOOCs "can be useful to educate students, mainly as el
 
 - [Develop intelligent techniques for collaboration at scale in massive online learning settings](aied-collaboration-at-scale.md)
 - [Use MOOC-based courses to provide free, accessible research-based continuing education to health professionals globally](mooc-postgraduate-medical-education-strategy.md)
+- [Keep MOOC content at core masters-course level rather than diluting it for a massive audience](mooc-core-level-content-at-scale-strategy.md)
 
 ## Examples
 -

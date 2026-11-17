@@ -119,3 +119,4 @@ Class-level comparison with Galley's original administration of the same questio
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) — related
 - [Interviewed students justified answering C by appealing to the larger biological context of ATP hydrolysis rather than holding a bond-breaking-releases-energy misconception](students-justify-atp-choice-c-via-biological-context.md) — related
 - [On the capstone essay question, nearly half of the 19 students discussed both the forming and the breaking of bonds in ATP hydrolysis](essay-nearly-half-discussed-bond-forming-and-breaking.md) — related
+- [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — related

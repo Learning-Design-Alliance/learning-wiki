@@ -76,3 +76,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Inter-rater agreement was near perfect for the shoulder checklist (97%; kappa 0.9) and moderate for the knee (87%; kappa 0.6)](osce-shoulder-knee-interrater-agreement.md) — related
 - [Concept-map scoring parameters show high inter-rater reliability with the Novak and Gowin protocol](concept-map-scoring-high-interrater-reliability.md) — related
 - [Session-rating measures of therapy quality have unsatisfactory inter-rater reliability, unestablished validity, and narrow content](session-rating-measures-shortcomings.md) — related
+- [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related

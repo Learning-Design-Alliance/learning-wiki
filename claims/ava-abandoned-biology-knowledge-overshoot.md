@@ -70,3 +70,4 @@ Essay-response analysis of Zeke's answer, which clearly described the O-P bond a
 - [An interviewed student held the pictures that bond breaking in ATP releases energy and that bond forming releases energy simultaneously, and had not fully reconciled them](wylie-holds-conflicting-bond-energy-pictures-simultaneously.md) — related
 - [Given appropriate supports, a substantial portion of the class reconciled the differing disciplinary perspectives on ATP bond energy, even if they might not have done so spontaneously](reconciliation-with-appropriate-supports-capstone.md) — related
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — related
+- [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — related

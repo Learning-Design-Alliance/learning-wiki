@@ -47,6 +47,7 @@ The paper's first recommendation to high schools, colleges, and universities is 
 ## Related Strategies
 
 - [Use → Modify → Create scaffolding strategy to navigate tensions between personal and disciplinary authenticity](use-modify-create-scaffolding-strategy.md)
+- [Provide underrepresented students opportunities to engage in authentic disciplinary practices of science](authentic-practices-underrepresented-students-strategy.md)
 
 ## Examples
 -

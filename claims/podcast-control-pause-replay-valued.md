@@ -53,3 +53,4 @@ Qualitative free-text analysis of comments from the 66 questionnaire respondents
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
 - [Most students judge live lectures better than video podcasts for learning and retaining new information](students-prefer-lecture-for-retention.md) — related
+- [Video-player control puts the power to repeat in the hand of the individual student, suiting individual needs](mooc-repetition-power-shifts-to-student.md) — possibly the same claim (merge candidate)

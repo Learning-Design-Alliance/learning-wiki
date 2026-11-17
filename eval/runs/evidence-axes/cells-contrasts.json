@@ -116246,5 +116246,793 @@
  "test-format\twritten-explanation formats\tMC and true/false formats": {
   "label": "free-response or written-explanation vs multiple-choice or true/false",
   "treatment_is_a": true
+ },
+ "active-learning\tExplanation and argumentation with a peer\tExplanation by the instructor": {
+  "label": "Peer explanation and argumentation vs instructor explanation",
+  "treatment_is_a": true
+ },
+ "active-learning\tLecture-Tutorials\tnot stated": {
+  "label": "Lecture-Tutorials vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tPI with explicit individual commitment and constructive perturbation\tSmooth, highly polished conventional lecture": {
+  "label": "Peer Instruction vs conventional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Instruction with conceptual questions and peer discussion\tfrontal lecture": {
+  "label": "Peer Instruction vs frontal lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Interaction with clickers\tSocratic Dialog": {
+  "label": "Clicker-based peer interaction vs Socratic dialogue",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer Interaction with clickers\tTraditional Lecture": {
+  "label": "Clicker-based peer interaction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tPeer discussion with a recently understanding classmate\tExplanation by the subject-matter expert": {
+  "label": "Peer discussion vs subject-matter-expert explanation",
+  "treatment_is_a": true
+ },
+ "active-learning\tRPBL group problem solving\tindividual student grading": {
+  "label": "Group problem solving vs individual grading",
+  "treatment_is_a": true
+ },
+ "active-learning\tSocratic Dialog\tTraditional Lecture": {
+  "label": "Socratic dialogue vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tTeaching that favors interaction with students\tTraditional teaching in which students are passive": {
+  "label": "Interactive teaching vs passive traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative group exam immediately after individual exam\tindividual exam only for the matched questions": {
+  "label": "Collaborative group exam vs individual exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative group exam immediately after the individual exam\tindividual exam only for the matched questions": {
+  "label": "Collaborative group exam vs individual exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative lesson-sharing and evidence-based negotiation\tinitial ambiguous understandings of inquiry": {
+  "label": "Collaborative lesson-sharing and evidence-based negotiation vs initial ambiguous understandings",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice active learning\ttraditional lecture": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice active-learning course\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice active-learning course taught by a second instructor\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice active-learning course transformation\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice materials taught by a second instructor\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice transformed course\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice-based active-learning course\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeliberate-practice-based active-learning materials taught by a second instructor\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdesired changes toward more interactive teaching\tteaching practices declared or considered feasible": {
+  "label": "More interactive teaching vs declared or feasible teaching practices",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped instruction with practical exercises\tpassive lecture instruction": {
+  "label": "Flipped instruction with practical exercises vs passive lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tforming an individual opinion before the resolution\tskipping individual opinion formation and waiting for the resolution": {
+  "label": "Individual opinion formation before resolution vs waiting for the resolution",
+  "treatment_is_a": true
+ },
+ "active-learning\tgraduate students discussed answers in groups of two or three\tgraduate students identified answers individually": {
+  "label": "Small-group discussion vs individual answering",
+  "treatment_is_a": true
+ },
+ "active-learning\thands-on construction and demonstration of low-cost robots linked to physics concepts\ttraditional classroom instruction": {
+  "label": "Hands-on educational robotics vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tindividually committing to an answer option in the first PI vote\ttraditional lecture without individual answer commitment": {
+  "label": "Individual answer commitment before peer discussion vs no individual commitment in lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based lecture with teacher-student discussion\tnot stated": {
+  "label": "Inquiry-based lecture with teacher-student discussion vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based model with discussion and activities\tnot stated": {
+  "label": "Inquiry-based discussion and activities vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tlearning activities in the transformed course\ttraditional lecture course": {
+  "label": "Active-learning course transformation vs traditional lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture notes converted into in-class learning activities\ttraditional lecture format": {
+  "label": "In-class learning activities vs traditional lecture format",
+  "treatment_is_a": true
+ },
+ "active-learning\tmeaningful and interactive presentation of mathematics\tnot stated": {
+  "label": "Meaningful interactive mathematics presentation vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tmodel-based classroom discussion and activities\tnot stated": {
+  "label": "Model-based classroom discussion and activities vs not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation in the collaborative group exam\tindividual exam only for the matched questions": {
+  "label": "Collaborative group exam vs individual exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation in the educational robotics exhibition\tstudents' prior classroom participation": {
+  "label": "Participation in an educational robotics exhibition vs prior classroom participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer discussion followed by a second vote\tinitial vote before peer discussion": {
+  "label": "Peer discussion followed by a second vote vs initial vote",
+  "treatment_is_a": true
+ },
+ "active-learning\trandom problem-based learning (RPBL)\tprevious instructional methods, including traditional lecturing and other active-learning approaches": {
+  "label": "Random problem-based learning vs previous instructional methods",
+  "treatment_is_a": true
+ },
+ "active-learning\trandom problem-based learning with randomly assigned teams\tprevious Dynamics course offerings": {
+  "label": "Random problem-based learning with randomly assigned teams vs previous course offerings",
+  "treatment_is_a": true
+ },
+ "active-learning\tsame deliberate-practice active-learning materials taught by a second instructor\ttraditional lecture course": {
+  "label": "Deliberate-practice active learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-generated MCQs with an educational game\ttraditional teaching": {
+  "label": "Student-generated questions with an educational game vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tteaching that favors interaction with students\ttraditional teaching with passive students": {
+  "label": "Interactive teaching vs passive traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tthree phases of hands-on project-based training\tmechanically introducing Big Data concepts": {
+  "label": "Hands-on project-based training vs mechanical introduction of concepts",
+  "treatment_is_a": true
+ },
+ "active-learning\ttransformed course taught by a second instructor\ttraditional lecture course": {
+  "label": "Active-learning course transformation vs traditional lecture course",
+  "treatment_is_a": true
+ },
+ "active-learning\ttransformed materials taught by a second instructor\ttraditional course implementation": {
+  "label": "Active-learning materials transformation vs traditional course implementation",
+  "treatment_is_a": true
+ },
+ "active-learning\ttwo-stage collaborative group exam\tindividual exam only": {
+  "label": "Two-stage collaborative group exam vs individual exam",
+  "treatment_is_a": true
+ },
+ "active-learning\tworking in groups of two or three\tworking individually": {
+  "label": "Small-group work vs individual work",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tentirely self-paced course with no assignment deadlines\tcoursework with externally imposed deadlines": {
+  "label": "self-paced, deadline-free coursework vs externally deadline-based coursework",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparticipation in a teacher-driven research community\tbefore participation in the community": {
+  "label": "participation in a teacher-driven research community vs pre-participation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparticipation in the teacher-driven research community\tpre-program participation": {
+  "label": "participation in a teacher-driven research community vs pre-program participation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-paced course with no deadlines\tusual deadline-based coursework": {
+  "label": "self-paced, deadline-free coursework vs usual deadline-based coursework",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher-driven professional development with tapered researcher support\tearly researcher-led participation": {
+  "label": "teacher-driven professional development with tapered researcher support vs early researcher-led participation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher-led participation with tapered researcher leadership\tresearcher-led participation at the outset": {
+  "label": "teacher-led participation with tapered researcher leadership vs researcher-led participation at the outset",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers increasingly taking charge of meetings\tresearcher-set agendas": {
+  "label": "teachers increasingly taking charge of meeting agendas vs researcher-set agendas",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers taking charge of meeting agendas\tresearchers providing the meeting agenda": {
+  "label": "teacher-led meeting agendas vs researcher-provided meeting agendas",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcalculating divergence from a mathematical expression\tinterpreting divergence from vector-field diagrams": {
+  "label": "calculating divergence from mathematical expressions vs interpreting divergence from vector-field diagrams",
+  "treatment_is_a": true
+ },
+ "case-comparison\tdissipative scenarios with imperceptible thermal warmth\tscenarios in which transformed thermal energy has perceptible warmth": {
+  "label": "perceptible vs imperceptible thermal warmth",
+  "treatment_is_a": false
+ },
+ "case-comparison\telectric dipole field context\tsteady current in a narrowing wire context": {
+  "label": "electric dipole field vs steady current in a narrowing wire",
+  "treatment_is_a": true
+ },
+ "case-comparison\trelating the original scenario to an exaggerated scenario with perceptible warmth\tconsidering the original imperceptible scenario without that exaggeration": {
+  "label": "exaggerated comparison vs original scenario without exaggeration",
+  "treatment_is_a": true
+ },
+ "case-comparison\trelating the scenario to an exaggerated dissipative case\toriginal scenario with imperceptible thermal energy": {
+  "label": "exaggerated comparison vs original scenario without exaggeration",
+  "treatment_is_a": true
+ },
+ "debriefing\texplicit post-tutorial debriefing language and answering a key tutorial question aloud in unison\toriginal post-tutorial response sequence": {
+  "label": "explicit debriefing vs original response sequence",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAST1000F introductory astronomy course\tpre-course responses": {
+  "label": "Introductory course instruction vs pre-course responses",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstructor A’s explicit discussion of atomic electron orbitals\tNo interpretive discussion of the Schrödinger hydrogen model": {
+  "label": "Explicit interpretive discussion vs no interpretive discussion",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInstructor described the electron as a wave passing through both slits\tInstructor taught that each electron goes through one slit or the other": {
+  "label": "Wave-through-both-slits instruction vs one-slit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave instruction\tCopenhagen/Agnostic instruction": {
+  "label": "Matter-wave instruction vs Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave instruction\tRealist/Statistical instruction": {
+  "label": "Matter-wave instruction vs realist/statistical instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave interpretation\tCopenhagen/Agnostic approach": {
+  "label": "Matter-wave interpretation vs Copenhagen/agnostic interpretation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tMatter-Wave interpretation\tRealist/Statistical interpretation": {
+  "label": "Matter-wave interpretation vs realist/statistical interpretation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPractice videos with instructor ratings, comments, and alignment incentive\tOne early lecture using two sample videos and instructor evaluations": {
+  "label": "Iterative video practice with feedback and incentives vs one-time sample-video evaluation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRealist/Statistical instruction\tCopenhagen/Agnostic instruction": {
+  "label": "Realist/statistical instruction vs Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRealist/Statistical or Matter-Wave instruction\tCopenhagen/Agnostic instruction": {
+  "label": "Realist/statistical or matter-wave instruction vs Copenhagen/agnostic instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSQILab with autonomous iterative measurement design\tNon-SQILab pendulum experiment": {
+  "label": "Autonomous iterative inquiry vs conventional experiment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSQILab with explicit compare-reflect-iterate instructions\tNon-SQILab pendulum experiment": {
+  "label": "Explicit compare-reflect-iterate instruction vs conventional experiment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcourse B\tINT-1 and INT-2 courses": {
+  "label": "Course B vs INT-1/INT-2 courses",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdifferent interpretive approaches across courses\tother interpretive approaches across courses": {
+  "label": "One interpretive approach across courses vs other interpretive approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction after the mid-test\tperformance before direct instruction at the mid-test": {
+  "label": "Direct instruction vs pre-instruction performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplanation of rotation versus orbital motion with demonstrations\tearlier essay submissions before the explanation": {
+  "label": "Explicit rotation/orbital explanation with demonstrations vs earlier essay performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction addressing divergence difficulties\tinstruction without explicit attention to common difficulties": {
+  "label": "Explicit instruction addressing divergence vs non-explicit or alternative divergence instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction addressing divergence difficulties\tprior mathematical-context instruction without physical context": {
+  "label": "Explicit instruction addressing divergence vs non-explicit or alternative divergence instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction addressing divergence difficulties\tstudents' prior or implicit understanding": {
+  "label": "Explicit instruction addressing divergence vs non-explicit or alternative divergence instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction and follow-up discussion about divergence\tstudents' initial reasoning before the instruction": {
+  "label": "Explicit instruction and follow-up discussion of divergence vs initial reasoning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction connecting divergence to sources and equations\tstudents' prior or diagram-based spreading-line reasoning": {
+  "label": "Explicit instruction connecting divergence to sources and equations vs prior diagram-based reasoning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction on divergence\tnot stated": {
+  "label": "Explicit instruction on divergence vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit interpretation-focused instruction\tdifferent or interpretation-deemphasizing instruction": {
+  "label": "Explicit interpretation-focused instruction vs interpretation-deemphasizing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction emphasizing a physical interpretation of electrons as particles or waves\tcalculation-focused or differently interpretive instruction": {
+  "label": "Physical-interpretation instruction vs calculation-focused or differently interpretive instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction for communication partners\tno partner instruction": {
+  "label": "Communication-partner instruction vs no partner instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinterpretation-attending INT curriculum\tInstructor A's Realist/Statistical course": {
+  "label": "Interpretation-attending curriculum vs realist/statistical course",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tnew curriculum explicitly attending to student interpretations\tother modern physics courses": {
+  "label": "Curriculum explicitly attending to student interpretations vs other modern physics curricula",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional electrodynamics instruction\tbefore instruction": {
+  "label": "Traditional electrodynamics instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional electrodynamics instruction\tpretest before instruction": {
+  "label": "Traditional electrodynamics instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional instruction in intermediate electrodynamics\tknowledge before the electrodynamics course": {
+  "label": "Traditional intermediate-electrodynamics instruction vs pre-course knowledge",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tRepeated practice-video evaluations with instructor ratings and comments\tOne early lecture using two sample reports and instructor evaluations": {
+  "label": "Repeated feedback vs one-time feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tperformance-grade feedback at the end of each session\tfeedback delayed until a later session": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnew hints and feedback created by teachers\texisting hints and feedback": {
+  "label": "newly created vs existing feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tvideo tutoring feedback on errors\ttext tutoring feedback on errors": {
+  "label": "video vs text feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFall 2013 practice-video intervention\tSummer 2013 procedure without continued practice videos": {
+  "label": "continued practice videos vs no continued practice videos",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfour practice videos with instructor ratings and comments before peer evaluation\tsingle early lecture using two sample videos and no further intervention": {
+  "label": "repeated practice videos with instructor feedback vs single early intervention",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tindividual participation grading within group laboratory work\tundifferentiated group grading": {
+  "label": "individual participation grading vs undifferentiated group grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tindividual performance grade during laboratory sessions\tordinary grading without a performance grade": {
+  "label": "individual performance grading vs no individual performance grading",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tindividual performance grade with immediate feedback after each laboratory session\tlaboratory evaluation without a performance grade": {
+  "label": "individual performance grading with immediate feedback vs no individual performance grading or feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer feedback, discussion and co-construction of a screencast rubric\tinitial screencast creation without guidelines": {
+  "label": "peer co-construction of a rubric with feedback and discussion vs unguided initial screencast creation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tperformance grade included with a small weight in the final grade\tordinary grade without the performance-grade component": {
+  "label": "performance grade included in the final grade vs ordinary grading without a performance-grade component",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tperformance grade with immediate explanations and recommendations\tno individual performance-grade feedback": {
+  "label": "performance grading with immediate explanatory feedback vs no individual performance-grade feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tperformance grade with observed work-practice feedback\tordinary grading without a performance grade": {
+  "label": "performance grading with observed work-practice feedback vs ordinary grading without a performance grade",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpractice videos with instructor ratings and comments before peer evaluation\tone early lecture intervention only": {
+  "label": "repeated practice videos with instructor feedback vs single early intervention",
+  "treatment_is_a": true
+ },
+ "gamification\tStudent-generated MCQs, instructor revision, and a classroom game\tTraditional teaching": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-like course design\tstudents' other or typical courses": {
+  "label": "Gamified course design vs usual/non-gamified course design",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-style point-and-rank system\tusual non-game-like course design": {
+  "label": "Gamified points-and-rank system vs non-gamified course design",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-style points-and-rank system linked to course grades\tcourse design without the points-and-rank system": {
+  "label": "Grade-linked points-and-rank gamification vs course design without points-and-rank gamification",
+  "treatment_is_a": true
+ },
+ "gamification\tstudent-generated-question game method\tno comparison reported": {
+  "label": "Student-generated-question game method vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "gamification\tstudent-generated-question game method\tno perceived benefit": {
+  "label": "Student-generated-question game method vs no perceived benefit",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tcaring teacher who challenges students to figure things out\tbeing given the answers": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmodel-based activities linking macroscopic and microscopic states\tnot stated": {
+  "label": "model-based guided discovery vs not stated",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmodel-based discussion of probability and the second law\tnot stated": {
+  "label": "model-based guided discovery vs not stated",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmodel-based inquiry and discussion of entropy\tnot stated": {
+  "label": "model-based guided discovery vs not stated",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tmodel-based inquiry into reversibility and statistical improbability\tnot stated": {
+  "label": "model-based guided discovery vs not stated",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tteacher challenges students to figure things out for themselves\tteacher gives students the answers": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tteacher-supported inquiry and challenge\tgiving students the answers": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\t14 assessment opportunities\t9 assessment opportunities": {
+  "label": "more assessment opportunities vs fewer assessment opportunities",
+  "treatment_is_a": true
+ },
+ "mastery-learning\t19 assessment opportunities\t9 assessment opportunities": {
+  "label": "more assessment opportunities vs fewer assessment opportunities",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tinfinite retries until a correct submission earns credit\ttypical courses where missed points are permanent": {
+  "label": "unlimited retries for credit vs permanent loss of missed points",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tinfinite retries until an entirely correct submission\ttypical courses in which missed points are permanent": {
+  "label": "unlimited retries to achieve full correctness vs one-shot or fixed-credit assignments",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmodel prediction with α=2/5, β=3/5\tobserved final mastery distribution in a real electromagnetism course": {
+  "label": "model-predicted mastery distribution vs observed mastery distribution",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmodel prediction with α=2/5, β=3/5\tobserved wave-packet behavior in a real electromagnetism course": {
+  "label": "model-predicted wave-packet behavior vs observed wave-packet behavior",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tunlimited retries until an entirely correct submission\tconventional one-shot or fixed-credit assignments": {
+  "label": "unlimited retries to achieve full correctness vs one-shot or fixed-credit assignments",
+  "treatment_is_a": true
+ },
+ "media-design\tRevised Visualization III\tOriginal photon depiction": {
+  "label": "Revised Visualization III vs original photon depiction",
+  "treatment_is_a": true
+ },
+ "media-design\tRevised Visualization III used in 2014\tOriginal photon depiction used in 2013": {
+  "label": "Revised Visualization III vs original photon depiction",
+  "treatment_is_a": true
+ },
+ "media-design\tVisualization III\tVisualizations I, II and IV": {
+  "label": "Visualization III vs other visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tVisualization III\tVisualizations I, II, and IV": {
+  "label": "Visualization III vs other visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tVisualization III revised depiction\toriginal photon depiction": {
+  "label": "Revised Visualization III vs original photon depiction",
+  "treatment_is_a": true
+ },
+ "media-design\tVisualization III with a dashed line linking the superposition components\tVisualizations I and II without a dashed linking line": {
+  "label": "Dashed linking line between superposition components vs no dashed linking line",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia, especially film, in teacher training\tnot stated in study text": {
+  "label": "Multimedia, especially film, vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tprofessionally produced video quality\tother course items or features": {
+  "label": "Professionally produced video vs other course items or features",
+  "treatment_is_a": true
+ },
+ "media-design\trevised Visualization III\toriginal photon depiction": {
+  "label": "Revised Visualization III vs original photon depiction",
+  "treatment_is_a": true
+ },
+ "media-design\trevised simulation showing each input particle's state\toriginal simulation without individual input-state display": {
+  "label": "Simulation displaying each input particle's state vs simulation without individual input-state display",
+  "treatment_is_a": true
+ },
+ "media-design\ttypical textbook lunar-phases scheme\tcorrect spatial explanation": {
+  "label": "Typical textbook lunar-phases scheme vs correct spatial explanation",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual fraction models\tmore-symbolic approaches": {
+  "label": "Visual fraction models vs more-symbolic approaches",
+  "treatment_is_a": true
+ },
+ "other\t10 assessors\t1 assessor": {
+  "label": "10 assessors vs 1 assessor",
+  "treatment_is_a": true
+ },
+ "other\t10 assessors\t8 assessors": {
+  "label": "10 assessors vs 8 assessors",
+  "treatment_is_a": true
+ },
+ "other\t10 maximum attempts\t20 maximum attempts": {
+  "label": "more maximum attempts vs fewer maximum attempts",
+  "treatment_is_a": false
+ },
+ "other\t10 maximum attempts\t99 maximum attempts": {
+  "label": "more maximum attempts vs fewer maximum attempts",
+  "treatment_is_a": false
+ },
+ "other\t10 or more GP generations\tfewer than 10 GP generations": {
+  "label": "10 or more GP generations vs fewer than 10 GP generations",
+  "treatment_is_a": true
+ },
+ "other\t10-month follow-up assessment\tgraduation assessment": {
+  "label": "10-month follow-up assessment vs graduation assessment",
+  "treatment_is_a": true
+ },
+ "other\t10-unit higher physical fitness (VO2max)\treference level of physical fitness": {
+  "label": "higher physical fitness vs reference physical fitness",
+  "treatment_is_a": true
+ },
+ "other\t10-unit higher physical fitness through the academic-achievement pathway\treference physical-fitness level": {
+  "label": "higher physical fitness through the academic-achievement pathway vs reference physical-fitness level",
+  "treatment_is_a": true
+ },
+ "other\t10-unit higher physical fitness without changing academic achievement\treference physical-fitness level with academic achievement unchanged": {
+  "label": "higher physical fitness without changing academic achievement vs reference physical-fitness level with academic achievement unchanged",
+  "treatment_is_a": true
+ },
+ "other\t10-unit higher physical fitness, with academic achievement changed accordingly\treference level of physical fitness, with academic achievement held at its reference-level value": {
+  "label": "higher physical fitness with academic achievement changed accordingly vs reference physical fitness with academic achievement held at its reference-level value",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour practice videos in each lab with instructor ratings and comments\tone early lecture with instructor evaluations of two sample reports": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour practice videos with instructor ratings and comments before peer evaluation\tone early lecture with sample evaluations and no further intervention": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour practice videos with instructor ratings and comments before peer evaluation\tone early lecture with two sample reports and instructor evaluations": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater or more attempted questions\tearlier or fewer attempted questions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tGRF-guided reflection prompts\tnot reported": {
+  "label": "guided reflection prompts vs no reported prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tSQILab compare-reflect-iterate framework\tNon-SQILab uncertainty-range comparison": {
+  "label": "compare-reflect-iterate framework vs alternative framework",
+  "treatment_is_a": true
+ },
+ "prompts\tSelf-diagnosis using books and notes\tDetailed solution provided without self-diagnosis": {
+  "label": "self-diagnosis vs provided solution",
+  "treatment_is_a": true
+ },
+ "prompts\tdirect follow-up question about assumptions\tno direct prompt during spontaneous reasoning": {
+  "label": "direct follow-up prompts vs no direct prompts",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit prompting to activate the mathematical tool\tno explicit prompting": {
+  "label": "explicit tool-activation prompts vs no explicit prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tlimited-time instructor prompts\tnot specified": {
+  "label": "limited-time instructor prompts vs no specified prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted articulation of assumptions\tunprompted assumption listing": {
+  "label": "prompted assumption articulation vs unprompted assumption listing",
+  "treatment_is_a": true
+ },
+ "prompts\tprompted to check the result\tnot prompted to check the result": {
+  "label": "result-checking prompts vs no result-checking prompts",
+  "treatment_is_a": true
+ },
+ "prompts\treflective question prompts above mathematics exercises\tother exercise versions with different questions": {
+  "label": "reflective-question prompts vs other exercise questions",
+  "treatment_is_a": true
+ },
+ "prompts\tvelocity prompt\tinitial reasoning without the velocity prompt": {
+  "label": "velocity prompts vs no velocity prompt",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly Guided Reflection Form with instructor feedback\tnone reported": {
+  "label": "guided reflection prompts with instructor feedback vs no reported reflection",
+  "treatment_is_a": true
+ },
+ "prompts\tweekly guided reflection prompts\tunguided final reflection": {
+  "label": "guided reflection prompts vs unguided reflection",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpoint-and-rank system linked to grades\tconventional grading without game-style points and ranks": {
+  "label": "game-style points and ranks vs conventional grading",
+  "treatment_is_a": true
+ },
+ "self-explanation\tkinesthetic activities with written descriptions, concepts, and explanations\tno comparison condition reported": {
+  "label": "self-explanation vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "simulation\tEJS visualization linking oscillating spring-mass systems to resonance graphs\tactivities or simulations without the explicit linked visualization": {
+  "label": "Explicit linked visualization vs non-linked visualization",
+  "treatment_is_a": true
+ },
+ "simulation\tQuVis interactive simulations used in the course\tnot stated": {
+  "label": "QuVis simulation use vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tcomplex authentic level-boss tasks with professional back-stories\tnon-authentic or less professionally framed coursework": {
+  "label": "Authentic professionally framed tasks vs non-authentic or less professionally framed tasks",
+  "treatment_is_a": true
+ },
+ "simulation\tcustomized simulation features\tno comparison reported": {
+  "label": "Customized simulation features vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "simulation\tequilibrium simulation near the critical density and temperature\tother equilibrium densities and temperatures": {
+  "label": "Near-critical equilibrium conditions vs other equilibrium conditions",
+  "treatment_is_a": true
+ },
+ "simulation\tfree exploration of interactive simulations\tnot stated": {
+  "label": "Free exploration of simulations vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tguided inquiry with a remixed energy simulation\tno comparison condition reported": {
+  "label": "Guided inquiry with a remixed simulation vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive Superposition states and mixed states simulation homework\tpre-test before the homework assignment": {
+  "label": "Simulation homework/activity vs pre-test",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive molecular-dynamics simulation with velocity reversal\tordinary forward evolution without velocity reversal": {
+  "label": "Velocity reversal in simulation vs ordinary forward evolution",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive simulation\tprinted screenshots of the simulation": {
+  "label": "Interactive simulation vs printed screenshots",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive simulation activity\tsame activity using printed screenshots": {
+  "label": "Interactive simulation vs printed screenshots",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive simulation homework\tpre-test before the homework": {
+  "label": "Simulation homework/activity vs pre-test",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive simulations used in seven in-class trials\tlow usefulness ratings on the Likert scale": {
+  "label": "Use of interactive simulations vs low usefulness rating",
+  "treatment_is_a": true
+ },
+ "simulation\tremixed energy simulation\tno comparison reported": {
+  "label": "Remixed simulation vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "simulation\tremixed energy simulation with guided 5E inquiry lesson\tno comparison condition reported": {
+  "label": "Guided inquiry with a remixed simulation vs comparison not reported",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation activity homework\tpre-test before completing the activity": {
+  "label": "Simulation homework/activity vs pre-test",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation homework activity\tpre-test before the activity": {
+  "label": "Simulation homework/activity vs pre-test",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulations\texperiential learning or real equipment laboratory experiments": {
+  "label": "Simulations vs experiential or real-equipment laboratory experiments",
+  "treatment_is_a": true
+ },
+ "simulation\ttwo-dimensional Lennard-Jones simulation at equilibrium\tnot stated": {
+  "label": "Two-dimensional Lennard-Jones equilibrium simulation vs comparison not stated",
+  "treatment_is_a": true
+ },
+ "test-format\tCMR CUE\tFR CUE": {
+  "label": "Free-response vs CMR",
+  "treatment_is_a": false
+ },
+ "test-format\tCMR with perfect scoring rubric\tFR assessment with standard scoring": {
+  "label": "Free-response vs CMR",
+  "treatment_is_a": false
+ },
+ "test-format\tMultiple-choice CUE\tFree-response CUE": {
+  "label": "Free-response vs multiple-choice",
+  "treatment_is_a": false
+ },
+ "test-format\tcoupled multiple-response CUE\tfree-response CUE": {
+  "label": "Free-response vs coupled multiple-response",
+  "treatment_is_a": false
+ },
+ "test-format\tenriched three-tier scoring\ttraditional multiple-choice scoring": {
+  "label": "Enriched three-tier assessment vs traditional multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tenriched three-tier test\ttraditional multiple-choice interpretation": {
+  "label": "Enriched three-tier assessment vs traditional multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tenriched three-tier test with written justification\ttraditional multiple-choice test": {
+  "label": "Enriched three-tier assessment vs traditional multiple-choice assessment",
+  "treatment_is_a": true
+ },
+ "test-format\tevaluating a statement containing an incorrect expression\tgenerating an answer to an open-ended question": {
+  "label": "Generating an answer vs evaluating a provided expression or statement",
+  "treatment_is_a": false
+ },
+ "test-format\tevaluating an explicitly stated rationale\tgenerating an incorrect expression": {
+  "label": "Generating an answer or expression vs evaluating a provided rationale",
+  "treatment_is_a": false
+ },
+ "test-format\texam charge-distribution prompts\tCUE charge-distribution prompt": {
+  "label": "Exam-style prompts vs CUE-style prompts",
+  "treatment_is_a": true
+ },
+ "test-format\topen-ended conceptual essay question\tmultiple-choice question": {
+  "label": "Open-ended vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\topen-ended question about whether ĤΨ = EΨ holds for all wavefunctions\tmultiple-choice evaluation of an explicit measurement-collapse explanation": {
+  "label": "Open-ended vs multiple-choice",
+  "treatment_is_a": true
+ },
+ "test-format\trevised CURrENT question wording and spacing\toriginal question wording and spacing": {
+  "label": "Revised wording and spacing vs original wording and spacing",
+  "treatment_is_a": true
+ },
+ "test-format\tupper-division conceptual assessments\ttraditional course exams": {
+  "label": "Upper-division conceptual assessment vs traditional course exam",
+  "treatment_is_a": true
  }
 }

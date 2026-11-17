@@ -99,3 +99,4 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - [The share of low-income students in a grade is negatively associated with proficiency across all school levels](low-income-share-negative-proficiency.md) — possibly the same claim (merge candidate)
 - [The absolute drop in math performance from 3rd to 8th grade correlates positively with district income, but the relative drop correlates negatively](math-drop-absolute-relative-income-opposite-signs.md) — related
 - [District proficiency rates increase with median household income in every state examined, averaging about a 3.6% score increase per $10,000 of income](positive-income-performance-correlation-all-states.md) — related
+- [Chicago public schools perform better than the rest of Illinois at the same poverty concentration, at nearly every grade and poverty level](chicago-schools-outperform-rest-of-state-at-equal-poverty.md) — a narrower finding that bears on this claim

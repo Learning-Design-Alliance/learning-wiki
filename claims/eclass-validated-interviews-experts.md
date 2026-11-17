@@ -57,3 +57,4 @@ Validation study for the E-CLASS survey described in the design and validation s
 - [Student interviews motivated changing single belief statements to personal/expert pairs to resolve ambiguity](student-interviews-drove-personal-expert-pair-format.md) — related
 - [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — related
 - [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related
+- [The CLASS was developed and validated through extensive student interviews combined with statistical techniques, with interviews as the ultimate test of statement validity](class-developed-with-student-interviews-and-statistics.md) — related

@@ -61,3 +61,4 @@ The article's relatedness section links IE's care element to SDT's relatedness n
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [Student‐perceived need support is positively associated with students' autonomous motivation at both the student and class levels](student-perceived-need-support-autonomous-motivation.md) — related
 - [Spaced education students felt their needs regarding communication with the teacher were fulfilled significantly better](spaced-education-better-teacher-communication-rating.md) — a narrower finding that bears on this claim
+- [Internalization of an activity occurs when it fulfills competence, autonomy, and relatedness needs](sdt-basic-needs-internalization.md) — a broader claim this one bears on

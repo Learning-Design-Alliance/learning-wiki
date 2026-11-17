@@ -55,3 +55,5 @@ Thematic content analysis of clinical interviews with 6 students (3 from each gr
 - [Multimedia learning materials supported self-paced review of difficult concepts, with auscultation skills highlighted as especially challenging](multimedia-materials-self-paced-review.md) — related
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
 - [Students gain direct understanding of the finiteness of the speed of light and of refraction slowing light](finiteness-of-light-understanding-outcome.md) — related
+- [Working with concrete materials such as styrofoam spheres and light sources pushed students away from lived-experience answers toward spatially relating the three bodies](concrete-materials-shift-student-responses.md) — related
+- [Video-player control puts the power to repeat in the hand of the individual student, suiting individual needs](mooc-repetition-power-shifts-to-student.md) — related

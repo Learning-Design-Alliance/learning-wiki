@@ -67,3 +67,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [No factor showed a significant effect on early drop-out rate, and embedded questions showed only non-significant trends on other outcomes](null-early-dropout-and-nonsignificant-embedded-question-effects.md) — related
 - [Video-group participants largely watched the training videos on the assessment day, amounting to just-in-time training](just-in-time-video-viewing-assessment-day.md) — related
 - [In the flipped course, video-lecture access correlates positively with exam scores and with GPA, and higher-GPA students spread viewing more evenly across weeks](video-access-correlates-with-exam-scores-and-gpa.md) — related
+- [More enthusiastic library users completed more problems and shifted their study time toward afternoons before weekly deadlines](geas-enthusiastic-users-study-more.md) — related

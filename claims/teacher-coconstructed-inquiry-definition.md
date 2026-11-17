@@ -46,3 +46,5 @@ The discussion was motivated by Teacher 2 after a conference, who reported feeli
 
 ## Related Claims
 - [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — related
+- [Teachers negotiating the meaning of \"inquiry\" through lesson-sharing moved through four phases to a shared definition: socially constructing evidence-based meaning of phenomena through intentionally sequenced events](four-phases-inquiry-meaning-negotiation.md) — related
+- [In a teacher-driven PD community, teachers' share of email communication and conversation-thread initiation increased over time, indicating growing participation and leadership initiative](teacher-email-participation-increased-over-time.md) — related

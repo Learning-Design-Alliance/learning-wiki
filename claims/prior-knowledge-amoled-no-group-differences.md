@@ -50,3 +50,4 @@ Pre-test of all 53 students in the video and text/image groups using two written
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — possibly the same claim (merge candidate)
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related
+- [Pre-test prior knowledge did not differ between GR and CC conditions](no-pretest-difference-gr-cc.md) — related

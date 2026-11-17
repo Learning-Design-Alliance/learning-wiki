@@ -66,6 +66,7 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 - [Debate](../patterns/debate.md) — a formalized discussion structure with assigned positions
 - [Flipped Classroom](../principles/flipped-learning.md) — frees class time for discussion by moving exposition outside class
 - [Use dialogue and shared interpretation discussion to develop reading and writing competences and metalinguistic consciousness](dialogue-discussion-metalinguistic-consciousness.md)
+- [Develop a framework for skilled reasoning-based classroom discussion with discussion goals, discussable questions, norms, and talk tools](reasoning-based-discussion-framework-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core element this strategy orchestrates

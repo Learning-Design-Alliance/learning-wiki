@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: geoffrey-wyatt-2014
     resource: "https://doi.org/10.3724/sp.j.1440-2807.2014.02.06"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 2013 trial with four schools (Year 2 to Year 4, aged 7 to 10), teacher feedback on the program was predominantly positive, and the use of modern technologies such as Stellarium was well received. [→ Geoffrey Wyatt 2014](#geoffrey-wyatt-2014)

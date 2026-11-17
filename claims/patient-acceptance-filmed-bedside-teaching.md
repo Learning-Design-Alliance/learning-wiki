@@ -48,3 +48,4 @@ Descriptive patient post-assessment questionnaire (Table 5, n = 8, 1–6 scale) 
 - [Students found the real-patient ward setting highly realistic, with filming itself only a minor behavioural confounder](ward-setting-realism-video-supervision.md) — related
 - [Participants reported apprehension before the in situ simulation, driven by fear of the unknown, filming, and perceived assessment, which mostly changed afterwards](simulation-apprehension-fear-assessment.md) — related
 - [EM interns who experienced a patient experience simulation reported firsthand physical discomfort, emotional stress, confusion, and poor communication as patients or family members in the ED](interns-experienced-ed-discomfort-stress-confusion.md) — related
+- [Academics are split on teacher training, yet 55% would accept being filmed and taking part in autoconfrontation sessions, and 98% report learning to teach on the job](formation-split-autoconfrontation-acceptance.md) — related

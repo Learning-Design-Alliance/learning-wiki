@@ -46,3 +46,4 @@ Cognitive-interview validation with ten students on an early version and nine st
 
 ## Related Claims
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
+- [The CLASS was developed and validated through extensive student interviews combined with statistical techniques, with interviews as the ultimate test of statement validity](class-developed-with-student-interviews-and-statistics.md) — related

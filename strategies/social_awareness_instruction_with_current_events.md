@@ -66,6 +66,7 @@ Social awareness develops through guided practice, not exposure alone: structure
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the discussion formats this strategy depends on
 - [Debate](../patterns/debate.md) — a more adversarial variant; useful when perspective-taking is already established
 - [Teacher practices to build specific perceived-SEC dimensions: reflect-brainstorm-practice-evaluate cycles and literature-based perspective-taking](teacher-practices-build-perceived-sec-dimensions.md)
+- [Assign small-group responses to popular science articles to build critical reading of science in media](popular-science-article-response-assignments.md)
 
 ## Examples
 - **[Facing History & Ourselves](https://www.facinghistory.org)** — published curriculum using historical and current events with structured discussion protocols to teach perspective-taking and ethical reasoning.

@@ -53,3 +53,4 @@ The authors' interpretive note (type e) qualifying the feedback debate: immediat
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
 - [The consequence-free, non-punitive simulated environment gives error a formative value, enabling rehearsal, correction, and learning from peers' mistakes](simulation-safe-environment-learning-from-errors.md) — related
+- [Using videos for home viewing frees curriculum time so teachers can give immediate assistance and richer in-class discussion](video-home-viewing-frees-class-time.md) — related

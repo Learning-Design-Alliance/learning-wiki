@@ -52,3 +52,4 @@ The review states this as a methodological limitation of the field, citing prior
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — possibly the same claim (merge candidate)
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](self-report-srl-limitations-combined-approach.md) — related
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — possibly the same claim (merge candidate)
+- [Beliefs surveys measure only professed beliefs and cannot capture enacted beliefs, which may differ from what students profess](surveys-cannot-capture-enacted-beliefs.md) — a narrower finding that bears on this claim

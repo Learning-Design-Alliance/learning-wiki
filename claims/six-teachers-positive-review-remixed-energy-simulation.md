@@ -47,3 +47,5 @@ First phase of an ongoing case study: the customized simulation was sent to teac
 ## Related Claims
 - [Students can conduct inquiry learning of science using teacher-created computer simulations, with more ambitious tasks including students creating and remixing their own simulations as representations of their understanding](ejs-simulations-support-inquiry-learning.md) — related
 - [Teachers can deepen their professional practice in physics education through informal professional learning with the Open Source Physics and Easy Java Simulation community, with remixing simulations as a form of self-directed professional learning](ejs-remixing-as-self-directed-professional-learning.md) — related
+- [Elementary students reported a positive learning experience with the remixed energy simulation](elementary-positive-learning-experience-energy-simulation.md) — related
+- [Students rated the simulation's design features (colour scheme, bar graphs, height and speed indications) as helping them understand energy concepts](simulation-design-features-aid-energy-understanding.md) — related

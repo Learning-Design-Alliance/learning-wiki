@@ -49,3 +49,4 @@ Reported outcome of the successor learning path in a different vocational school
 - [Vocational students showed uneven mastery after the lab path: most used units correctly but very few handled calorimetry or error propagation](vocational-lab-uneven-measurement-skill-outcomes.md) — related
 - [A well-tested introductory physics laboratory path adapted to a vocational school produced learning not comparable to that in other upper secondary schools](vocational-school-physics-lab-pilot-unsatisfactory-results.md) — related
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](hands-on-appreciated-insufficient-when-topic-perceived-useless.md) — related
+- [The author reports the model was successful in many contexts with great student involvement](model-successful-many-contexts-involvement.md) — a broader claim this one bears on

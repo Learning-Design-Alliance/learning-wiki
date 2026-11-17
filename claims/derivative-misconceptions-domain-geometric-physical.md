@@ -49,3 +49,4 @@ Pre-test descriptive analysis of the 12-question tool administered to both group
 - [Derive-based computer assisted instruction produced higher post-test understanding than traditional instruction on all attainments except the third](derive-more-effective-than-traditional-instruction.md) — related
 - [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — related
 - [Traditional direct lecturing reduced the number of students with derivative misconceptions across all six attainments](traditional-instruction-reduces-derivative-misconceptions.md) — related
+- [Students entering thermodynamics courses hold a firm belief that when taking a partial derivative everything else is held fixed](students-believe-everything-held-fixed-partial-derivative.md) — related

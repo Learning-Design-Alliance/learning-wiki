@@ -68,3 +68,4 @@ Qualitative observation of sorters at work during the categorization task: 'We o
 - [Expert and novice card sorters are not distinguishable by the number of categories they create](expert-novice-category-number-ks-null.md) — related
 - [Standard Erdős-Renyi and Barabasi random-graph models with optimized parameters do not statistically describe the sorter data](erdos-renyi-barabasi-fail-to-describe-sorters.md) — related
 - [Experts categorise problems by solution principles while novices categorise by surface features](experts-categorise-by-solution-novices-by-surface.md) — related
+- [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related

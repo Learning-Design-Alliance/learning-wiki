@@ -55,3 +55,4 @@ Psychometric analysis of two pilot exams (94 questions). Cronbach's alpha ranged
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
 - [European medical students' prescribing knowledge and skills are inadequate on a standardized pan-European exam](medical-students-prescribing-competence-inadequate.md) — related
 - [MCQ entrance exam reliability measured by Cronbach's alpha ranged from 0.530 to 0.747 across recruitment years](mcq-exam-reliability-range.md) — related
+- [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related

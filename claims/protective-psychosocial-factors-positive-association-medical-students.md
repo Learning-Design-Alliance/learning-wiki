@@ -57,3 +57,4 @@ Synthesis across the review's 45 included observational studies of undergraduate
 - [Resilience and motivational factors show no significant associations with placement performance, and partner support seeking is negatively associated with the professional dimension](null-resilience-motivation-partner-support-negative.md) — related
 - [Emotional intelligence is positively and significantly linked with self-efficacy, motivation, and resilience among both undergraduate and postgraduate students](ei-positive-links-self-efficacy-motivation-resilience.md) — related
 - [Perceived emotional intelligence influences perceived academic performance only indirectly, via resilience and life satisfaction](pei-indirect-influence-pap.md) — related
+- [Psychosocial factors of motivation, attitude, confidence, and resilience influence attainment of communicative competence via AAC](psychosocial-factors-aac-communicative-competence.md) — related

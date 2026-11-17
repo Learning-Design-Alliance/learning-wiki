@@ -51,3 +51,4 @@ The article reports this published Familial Control Method study using step-wise
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
 - [Formal math activities in the home environment mitigated the risk of parental math difficulties for children's math development (reported by the editors, citing Torppa et al.)](home-formal-math-activities-protect-against-parental-math-risk.md) — related
+- [Family background covariates relate similarly to Reading and Science but differently to Math, while contextual covariates act similarly across outcomes](background-reading-science-vs-math-pattern.md) — a broader claim this one bears on

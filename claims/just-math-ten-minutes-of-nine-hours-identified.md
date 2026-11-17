@@ -49,3 +49,4 @@ Coding of homework help session video: two researchers first identified roughly 
 - [Groups entering Just Math hold expectations that they must do math, that doing math is solitary, and that off-topic talk is permissible](just-math-group-expectations-do-math-solitary.md) — related
 - [Just Math discourse falls into two categories: brief narrow-and-serious math check-ins, and expansive-and-silly off-topic comments](just-math-discourse-two-talk-types.md) — related
 - [Just Math differs from the Worksheet e-frame in discourse content and expectations, not behaviors](just-math-distinct-from-worksheet-in-discourse.md) — related
+- [In a six-minute homework help session episode, Bill produced 14 instances of BESM talk whose trajectory moved from confusion toward found consistency](bill-episode-14-besm-instances.md) — related

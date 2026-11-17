@@ -66,3 +66,5 @@ Second interview set (five students) explicitly targeting Reflection with a thre
 ## Related Claims
 - [Students rarely spontaneously check units or limiting behavior to verify their potential solutions](students-do-not-spontaneously-reflect.md) — possibly the same claim (merge candidate)
 - [When prompted, most students reflect on derived expressions superficially and fail to connect terms to the relevant physics](superficial-reflection-on-derived-expressions.md) — related
+- [Upper-division students rarely spontaneously reflect on their delta-function solutions, such as checking total charge in a region](students-rarely-reflect-spontaneously-on-delta-function-solutions.md) — related
+- [Upper-division students rarely spontaneously reflect on their solutions but can do so when prompted](students-rarely-spontaneously-reflect.md) — possibly the same claim (merge candidate)

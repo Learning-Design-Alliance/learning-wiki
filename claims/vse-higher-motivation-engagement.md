@@ -48,3 +48,4 @@ Self-report motivation was measured with a five-point Likert Learning Behavior E
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — related
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
 - [VSE students retained more theoretical knowledge than traditionally taught students, both immediately and two weeks after the course](vse-knowledge-retention-advantage.md) — related
+- [Students taught via CAS-based computer modeling showed increased motivation and higher self-estimated knowledge](cas-modeling-motivation-self-attestation.md) — related

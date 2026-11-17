@@ -52,3 +52,4 @@ Narrative review statement, citing Bandura (1997) and Zeidner (1998), on anticip
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
 - [Students perceived traditional grading practices as harmful to motivation and well-being](traditional-grading-harms-motivation-wellbeing.md) — related
+- [Classroom context, not only student characteristics, drives whether students engage out of fear or self-expression](context-drives-fear-or-self-expression.md) — related

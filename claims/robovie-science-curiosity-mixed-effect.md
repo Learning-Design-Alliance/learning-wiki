@@ -50,3 +50,4 @@ The paper reports, citing Shiomi et al. (2015), a study placing the Robovie soci
 - [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related
+- [School teachers reported that their students began to interact more in class and question the role of science after the robotics exhibition](cl-teacher-reported-student-interaction.md) — related

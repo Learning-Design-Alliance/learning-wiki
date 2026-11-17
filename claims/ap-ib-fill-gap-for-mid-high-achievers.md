@@ -53,3 +53,4 @@ Descriptive comparison of incoming achievement across CPS program types. The rep
 - [Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support](ib-dp-students-limited-social-capital.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
+- [Selective enrollment (gifted) Chicago schools show the highest exam performance of all Chicago school types at every grade, most strikingly at grade 11](selective-enrollment-highest-performance-all-grades.md) — related

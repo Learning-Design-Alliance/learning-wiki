@@ -129,9 +129,11 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 
 ## Examples
+
 - A unit where learners reassess after targeted feedback until they meet the rubric threshold.
 - A digital practice system that unlocks later tasks only after demonstrated proficiency on prerequisite skills.
 - Small-group reteaching for students who miss the first checkpoint while others move to extension work.
+- [Use equation (4) to plan the number of assessment opportunities and to diagnose and improve a Keller-type course](../strategies/equation-4-planning-improving-keller-course.md)
 
 ## Key Sources
 - Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), *Mastery learning: Theory and practice*. Holt, Rinehart and Winston.

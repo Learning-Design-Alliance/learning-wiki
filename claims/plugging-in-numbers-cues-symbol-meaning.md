@@ -56,3 +56,4 @@ Speak-aloud interview evidence: two subjects made the t-cancellation error on th
 - [Five interview students made the most common Tortoise-and-Hare symbolic error by using the Tortoise's velocity symbol as if it were the Hare's final velocity, some treating symbol associations as dynamic](variable-confusion-tortoise-hare-error.md) — related
 - [Novice students often treat physics equations as mathematical grammar rather than integrating them with physical meaning, leading to predictable errors](novices-reason-from-mathematical-grammar.md) — related
 - [Think-aloud interviews suggest the select-all reasoning elements do not significantly inflate MC CUE scores](mc-cue-reasoning-elements-no-score-inflation.md) — related
+- [Students oversimplify multivariable thermodynamic relationships by reducing variables and imposing chronology and causality](students-oversimplify-multivariable-thermo-relationships.md) — related

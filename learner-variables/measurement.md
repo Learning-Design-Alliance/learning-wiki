@@ -13,7 +13,7 @@ generated:
 # Measurement
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 22 claims (15 show a difference, 4 mixed, 3 no difference) · 13 studies (6 causal, 3 qualitative, 2 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (17 show a difference, 4 mixed, 3 no difference) · 15 studies (6 causal, 4 qualitative, 2 associational, 2 design, 1 theoretical), `q1`–`q3` · 1 of 15 report an effect size · 23 claims rest on one study
 
 ## Description
 Measurement, as a mathematical skill, is identifying an attribute of something (its length, area, volume or duration) and comparing it with a unit that has the same attribute (an inch, a square centimetre, a minute), so that the attribute gets a number that can be reasoned with and calculated with. The Learner Variability Navigator describes it as the basis of scientific inquiry and a way into other mathematics, including estimation, fractions and [statistical reasoning](statistical-reasoning.md). It is assessed with instruments that separate spatial or conceptual reasoning about length, distance, perimeter, area and volume from the use of formulas.
@@ -58,6 +58,8 @@ LVN follows it from grade 3 to grade 10. It draws on [spatial ability](spatial-a
 - [Subjective and objective assessment skills were the most coded learning gain from the simulation placement, with outcome-measure practice carried into clinical placements](../claims/sbl-assessment-skills-most-coded.md) [+M] — measured as an outcome of the instruction studied
 - [Plotting microphone distance versus time delay yields the speed of sound as the slope, reinforcing the time-of-flight concept](../claims/distance-delay-slope-sound-speed.md) [+M] — measured as an outcome of the instruction studied
 - [One semester of modern physics instruction significantly shifts student reasoning toward quantum-specific justifications on a measurement statement.](../claims/modern-physics-instruction-shifts-quantum-reasoning.md) [+M] — measured as an outcome of the instruction studied
+- [Singaporean secondary students using the real-and-virtual measurement lesson scored an average of 88% correct on seven formative measurement questions](../claims/students-88-percent-average-correct-measurement-questions.md) [+M] — measured as an outcome of the instruction studied
+- [Students in an upper-division physics lab engage in meaningful modeling of measurement tools, not just knob-turning](../claims/students-meaningfully-model-measurement-tools.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measurement Skills Assessment (MeSA)** (Vasilyeva et al., 2009): Assesses students' reasoning about Measurement concepts (including length, distance, perimeter, area, and volume) and captures spatial/conceptual vs. formula-based Measurement skills.

@@ -70,3 +70,4 @@ Authors' observational statement in the Discussion about worksheet use during le
 - [Using recycle materials for science practicum has a statistically significant effect on Open University students' basic science process skills](recycle-materials-practicum-effect-science-process-skills.md) — related
 - [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](recycle-materials-practicum-positive-student-feedback.md) — related
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — related
+- [Using recyclable materials in some prototypes called community attention to the advantages of recycling and reinforced sustainability teaching](cl-recyclable-materials-sustainability-attention.md) — related

@@ -71,3 +71,4 @@ Chapter 5 regression-controlled comparison of PLAN and ACT scores in the primary
 - Students at higher-performing non-selective Chicago high schools report better school experiences, including safety, relationships, attendance, and fewer suspensions — related
 - [No school type stood out on TAP performance, but charter schools had substantially lower dropout rates after controlling for incoming student characteristics](chicago-charter-schools-lower-dropout-rates.md) — related
 - [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related
+- [Chicago charter high schools' higher PSAE scores are not fully explained by their higher expulsion rates](charter-expulsion-rates-do-not-fully-explain-scores.md) — related

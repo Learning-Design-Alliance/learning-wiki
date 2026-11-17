@@ -48,6 +48,7 @@ Because SCTs intentionally assess higher-level thinking in ambiguity while knowl
 
 - [Integrate video-based simulations into traditional MCQ examinations to assess non-verbal cue recognition and diagnostic competence](video-simulation-complement-mcq-assessment.md)
 - [Use CSV-IE modules alongside MCQ-based assessments as complementary feedback for curriculum development](csv-ie-complementary-feedback-strategy.md)
+- [Use validated conceptual diagnostics alongside traditional exams to assess upper-division course transformation](use-validated-conceptual-diagnostics-upper-division.md)
 
 ## Examples
 -

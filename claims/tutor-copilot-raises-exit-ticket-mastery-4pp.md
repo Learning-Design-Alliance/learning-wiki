@@ -137,3 +137,4 @@ The chapter reports, citing Wang et al., a randomised controlled trial of a huma
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
+- [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related

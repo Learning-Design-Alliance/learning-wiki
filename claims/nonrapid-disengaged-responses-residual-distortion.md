@@ -75,3 +75,4 @@ Third reported finding from the retest-data evaluation: the authors interpret re
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related
 - [Simulated guessing and copying rapidly degrade item difficulty estimates beyond about one-third occurrence, while discrimination and ability estimates remain robust past two-thirds, with no graceful degradation](guessing-copying-robustness-difficulty-vs-discrimination.md) — related
+- [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related

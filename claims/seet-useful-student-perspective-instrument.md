@@ -50,3 +50,4 @@ The review's synthesis of SEET validity evidence (Penuel et al., 2018) and its u
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — related
 - [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](empathy-interviews-adopted-by-improvement-teams.md) — related
 - [Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest](collective-enterprise-care-science-interest.md) — related
+- [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related

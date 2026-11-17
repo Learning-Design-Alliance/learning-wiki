@@ -55,6 +55,7 @@ The article recommends that institutions use persona profiles as the basis for d
 - [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 - [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
+- [Design differentiated professional development resources targeting prioritized personas rather than one-size-fits-all materials](persona-targeted-pd-design-strategy.md)
 
 ## Examples
 -

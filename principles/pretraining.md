@@ -174,6 +174,7 @@ The expectation should weaken if comparisons with novices, holding total time eq
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md)
 - [Design VR lessons with structured pre-, during-, and post-experience tasks](../strategies/structured-pre-during-post-vr-tasks.md)
 - [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
+- [Start with simple video analyses and a hands-on primer activity to reduce cognitive load before the performance task](../strategies/simple-videos-primer-activity-cognitive-load-strategy.md)
 
 ## Key Sources
 

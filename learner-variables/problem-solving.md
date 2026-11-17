@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (152 show a difference, 20 mixed, 26 no difference) · 162 studies (89 causal, 18 review, 14 associational, 12 quant-synthesis, 12 design, 11 qualitative, 5 theoretical), `q1`–`q4` · 35 of 162 report an effect size · 192 claims rest on one study
+> **Evidence** · 199 claims (152 show a difference, 20 mixed, 27 no difference) · 163 studies (90 causal, 18 review, 14 associational, 12 quant-synthesis, 12 design, 11 qualitative, 5 theoretical), `q1`–`q4` · 35 of 163 report an effect size · 193 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -236,6 +236,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Students solved analytic and computational homework problems with similar success rates (84.6% vs 85.8%)](../claims/analytic-vs-computational-homework-equal-success.md) [-W] — learners who differ on it differ in outcomes
 - [CWP cut course DFW rates from 50% to 24% and substantially improved problem-solving skill regardless of language ability](../claims/cwp-dfw-cut-50-to-24.md) [+M] — measured as an outcome of the instruction studied
 - [The author reports the approach supports development of procedural and conceptual understanding, problem-solving abilities, higher-level cognitive abilities, and affective outcomes](../claims/guided-problem-solving-developmental-outcomes.md) [+W] — measured as an outcome of the instruction studied
+- [Authoring MCQs was not detrimental to problem-solving performance: problem-solving and global scores were higher but not significantly different](../claims/mcq-authoring-problem-solving-not-significant.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

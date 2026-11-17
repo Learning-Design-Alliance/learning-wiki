@@ -50,3 +50,4 @@ Authors' interpretation (type e) in the Discussion section, not a directly teste
 ## Related Claims
 - [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](majority-vote-choice-raises-intrinsic-motivation-biology.md) — related
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](non-received-choice-no-motivation-deficit.md) — a broader claim this one bears on
+- [Charms Department faculty showed high readiness for the cultural change process, with twelve of thirteen survey respondents interested and a unanimous faculty vote to participate](charms-readiness-faculty-vote.md) — related

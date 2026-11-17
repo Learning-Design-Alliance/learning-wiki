@@ -54,3 +54,4 @@ Quasi-experiment in a first-year engineering lab (325 students across two task s
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
 - [Sixth-year simulation students rated the training as more helpful and were more likely to recommend it to peers than fifth-year lecture students](simulation-higher-satisfaction-and-recommendation.md) — related
 - [Medical students perceive an interactive case-based eModule as more enjoyable, engaging, recommendable and useful than a Wikipedia-like webpage with matching content](emodule-more-engaging-enjoyable-useful-than-wiki.md) — a narrower finding that bears on this claim
+- [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](simulation-more-enjoyable-than-screenshots.md) — related

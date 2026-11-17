@@ -46,4 +46,4 @@ A semester-long activity in which each student selects a peer-reviewed journal a
 -
 
 ## Key Sources
-- Kontur, F. J. (2014). Writing Science Fiction Stories to Motivate Analysis of Journal Articles. mailto:frederick.kontur@usafa.edu
+- Kontur, F. J. (2014). Writing Science Fiction Stories to Motivate Analysis of Journal Articles. mailto:frederick.kontur@usafa.edu. [doi:10.48550/arxiv.1403.2435](https://doi.org/10.48550/arxiv.1403.2435)

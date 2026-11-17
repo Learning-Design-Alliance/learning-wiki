@@ -49,6 +49,7 @@ The article reports that the authors made small modifications to the M&I curricu
 - [Iterative improvements and interdisciplinary integration for the next course iteration](next-iteration-improvements-life-science-physics.md)
 - [Embed new skill practice in existing course time with in-class group discussion rather than adding class time](embed-skill-practice-in-existing-lab-discussion-time.md)
 - [Teach computation via guided lab-built programs that students independently alter to solve modified homework problems, checked against a provided test case before a graded case.](lab-built-program-modification-homework-strategy.md)
+- [Align course assessment with modified labs by modifying semester exams and explicitly framing the long-term value of design work](align-exams-and-framing-with-modified-labs.md)
 
 ## Examples
 -

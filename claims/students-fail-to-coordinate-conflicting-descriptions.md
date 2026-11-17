@@ -59,3 +59,5 @@ Theoretical hypothesis advanced from the authors' data on students and physicist
 - [An exclusive substance metaphor led a student to incorrectly claim energy is released when bonds are broken; switching to a mixed ontology helped her analyze the situation correctly](substance-metaphor-bond-breaking-misconception.md) — a narrower finding that bears on this claim
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — related
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — a narrower finding that bears on this claim
+- [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — a narrower finding that bears on this claim
+- [Students bridge between particle and wave descriptions of electrons, switching within and across contexts](students-bridge-particle-wave-descriptions.md) — related

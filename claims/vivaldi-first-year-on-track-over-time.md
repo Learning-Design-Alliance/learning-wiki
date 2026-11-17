@@ -51,3 +51,4 @@ Observational counts in Table 5 tracking first-year on-track numbers for the fiv
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](vivaldi-2001-on-track-varies-by-high-school.md) — related
 - [First-year performance is treated as important enough that graduates are attributed to their first-enrolled high school](first-year-performance-graduate-attribution.md) — related
 - Freshman on-track rates varied by the elementary school Kenwood students attended, as shown in maps and tables for the classes of 1997 and 2001 — related
+- [Small student enrollments make RBA results difficult to interpret because statistical analysis is not valid on small numbers and scores fluctuate year to year.](small-course-rba-results-interpretation-fluctuations.md) — related

@@ -54,3 +54,4 @@ The article asserts, citing Zhai et al. (2024), that "students often adopt AI-ge
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — possibly the same claim (merge candidate)
 - [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related
 - [High school students used Google page rank as a first-order heuristic for relevance](google-page-rank-first-order-relevance-heuristic.md) — a narrower finding that bears on this claim
+- [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — a narrower finding that bears on this claim

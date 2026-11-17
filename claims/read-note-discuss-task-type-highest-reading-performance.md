@@ -47,3 +47,4 @@ Follow-up TUKEY test on the experimental group's four task-type score sets (Tabl
 ## Related Claims
 - [Scheffe post-hoc comparisons ranked concept mapping highest, followed by cooperative learning, then conventional teaching, with all pairwise differences significant](scheffe-posthoc-concept-mapping-highest-trigonometry.md) — related
 - [Reading performance differs significantly across the four task types used in the task-based treatment](task-type-reading-performance-anova-significant.md) — a broader claim this one bears on
+- [IPI differs significantly across achievement levels and continents, with Tukey posthoc tests identifying specific pairwise contrasts](ipi-achievement-and-continent-anova.md) — related

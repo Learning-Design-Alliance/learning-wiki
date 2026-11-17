@@ -41,7 +41,8 @@ Responding to the digital revolution and the multiplication of information sourc
 - [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](../claims/sns-learning-unbounded-space-time.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Link SNS applications with the LMS used in universities](link-sns-applications-with-university-lms.md)
 
 ## Examples
 -

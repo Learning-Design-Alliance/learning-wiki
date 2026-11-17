@@ -48,3 +48,4 @@ Follow-up of EOAS and PHAS adopters via SES knowledge and a survey of remaining 
 - [The fraction of faculty refusing to use RBIS because they did not believe in them decreased noticeably over time in every CWSEI-supported department](rbis-skepticism-declines-with-department-involvement.md) — related
 - [With CWSEI support, only 1 of 70 UBC science faculty RBIS adopters subsequently quit using the strategies, far below the one-third quitting rate found for US physics faculty](cwsei-one-of-seventy-adopters-quit-rbis.md) — related
 - [Fidelity of RBIS use appears largely maintained after SES support ends, with caveats of limited data, end-of-term syllabus pressure, and short follow-up duration](rbis-fidelity-maintained-after-support-ends.md) — related
+- [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related

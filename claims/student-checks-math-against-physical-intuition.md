@@ -52,3 +52,4 @@ Authors' analysis of the interview transcript, describing valuable habits of min
 - [Many students in a sophomore mechanics class incorrectly insert a minus sign in front of the ma term when setting up a scalar net-force equation.](students-incorrect-minus-sign-ma-term-scalar-equation.md) — related
 - [Michael's classroom talk shows a commitment to external coherence between intuitive physical explanation and mathematical/graphical representations](external-coherence-classroom-talk.md) — related
 - [Pat's explanation of the velocity equation evidenced the Base + Change symbolic form, connecting the whole equation to an intuitive conceptual schema](pat-base-change-symbolic-form.md) — related
+- [SQILab students can recognize limitations of the small-angle model when their precise measurements conflict with class expectations](sqilab-students-recognize-model-limitations.md) — related

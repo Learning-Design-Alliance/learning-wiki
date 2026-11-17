@@ -70,3 +70,4 @@ Same heterogeneity analysis (Figure 2, by tutor quality rating and experience). 
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related
 - [Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores](tutor-copilot-no-significant-effects-secondary-outcomes.md) — related
 - [The authors interpret the achievement gain as arising from students feeling more at ease with a peer tutor and from increased time in active learning](peer-tutor-ease-of-interaction-interpretation.md) — related
+- [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related

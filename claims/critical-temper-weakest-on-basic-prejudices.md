@@ -54,3 +54,4 @@ Theoretical argument in the paper's introduction, paraphrasing Siegel: the dispo
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related
+- [Conference participants concluded that central to science is argumentation, criticism, and analysis, and students need to understand this](central-to-science-argumentation-criticism-analysis.md) — related

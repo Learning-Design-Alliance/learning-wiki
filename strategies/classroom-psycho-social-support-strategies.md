@@ -48,6 +48,7 @@ The article recommends classroom interventions to develop secondary teachers' sk
 - [Growth Mindset Interventions](growth-mindset-interventions.md)
 - [Develop perseverance indirectly by shaping classroom context, mindsets, and learning strategies rather than targeting grit directly](develop-perseverance-through-context-mindsets-strategies.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
+- [Design classroom contexts that align activity goals and practices with student goals to promote belonging](align-context-goals-practices-belonging.md)
 
 ## Examples
 -

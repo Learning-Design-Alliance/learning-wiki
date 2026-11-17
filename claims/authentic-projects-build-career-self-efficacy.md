@@ -75,3 +75,4 @@ The authors describe Mr. Duarte's planned final project, in which students "will
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — a broader claim this one bears on
+- [Both early-research-exposure contexts increased student motivation to orient their careers toward research](both-contexts-increased-motivation-toward-research.md) — related

@@ -55,3 +55,4 @@ Prospective uncontrolled closed beta-testing study at UNSW in 2018; 26 recruited
 - [Learners rated RCDP-based simulations highly acceptable and educationally valuable, with most reporting positive impact on task ability, rotation objectives, and comfort managing deteriorating patients](rcdp-high-acceptability-perceived-impact.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Medical students report willingness to adopt ALERT STUDENT as a reference study tool](alert-student-adoption-willingness.md) — related
+- [APC participants rated the course content as relevant to their work and would recommend it](apc-survey-relevance-recommendation.md) — related

@@ -45,6 +45,7 @@ The article recommends that replicas of this study be conducted once similar tra
 - [Strategies for progressing evidence integration: research lesser-studied areas and populations, replicate intervention evaluations, and establish educator-researcher partnerships](evidence-integration-progress-strategies.md)
 - [Replicate the internship model in Type 1 and 2 universities and apply corrective processes to eliminate identified weaknesses](replicate-anesthesia-internship-corrective-processes.md)
 - [Tailor postgraduate educational programs to performance-trajectory subtypes and average internship scores across a year of monthly evaluations](tailored-programs-and-yearlong-internship-score-averaging.md)
+- [Encourage other university-supervised groups to establish similar robotics activities and extend programming logic to all projects in future iterations](strategy-scale-robotics-programming-future.md)
 
 ## Examples
 -

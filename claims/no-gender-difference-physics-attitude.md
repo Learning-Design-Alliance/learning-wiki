@@ -56,3 +56,4 @@ Nonparametric Mann-Whitney U tests on VASS scores (pre-test n = 239, post-test n
 - [VASS attitude classifications can be grouped into folk, transitional, and expert profiles using percent expert-like response](vass-three-profile-classification.md) — related
 - [Students' positive expert-like attitudes correlate only weakly with physics performance scores](weak-attitude-performance-correlation.md) — related
 - [Female students were significantly more likely than male students to revisit learning objectives from the feedback report](gender-difference-revisiting-objectives.md) — related
+- [No evidence that female students or statistically underrepresented ethnicities have lower or higher pre-course, post-course, or shift scores on the CLASS in UMI sections](umi-no-gender-ethnic-attitude-gaps.md) — related

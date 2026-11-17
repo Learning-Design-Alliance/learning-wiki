@@ -50,3 +50,4 @@ Randomized posttest-only control group experiment with 83 Open University Suraka
 - [Score distributions differed: the experimental class majority scored in the 80–90 range (49%) while the control class majority scored in the 70–80 range (64%)](recycle-practicum-score-distribution-shift.md) — related
 - [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](recycle-materials-practicum-positive-student-feedback.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
+- [Using recyclable materials in some prototypes called community attention to the advantages of recycling and reinforced sustainability teaching](cl-recyclable-materials-sustainability-attention.md) — related

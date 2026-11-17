@@ -149,3 +149,8 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Screencast activities shifted responsibility for determining solution steps from teacher to student, increasing student agency](screencasts-increase-student-agency-physics.md) — related
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Students consistently report enjoying the observing sessions and learning that measurements can be made from their own images](students-report-enjoyment-and-measurement-learning.md) — related
+- [Applying information technologies to teaching Physics is claimed to optimize teaching, support independent learning, motivation and mobility](ict-physics-teaching-benefits.md) — related
+- [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related
+- [Students reported that interactive engagement with the simulations was fun, engaging, and helped them remember how to read the scales](students-report-interactive-engagement-fun-and-memorable.md) — related
+- [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — related
+- [Student performance-task artifacts (research reports and Tracker *.TRZ files) suggest students behaved like scientists in classroom context](tracker-artifacts-indicate-scientist-like-behaviour.md) — related

@@ -54,3 +54,4 @@ Variance component analysis of diary data from 18 teachers found that 70-88% of 
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
+- [Class-level residual variance remains high after adjustment, indicating substantial unobserved class-level factors](residual-class-variance-high-after-adjustment.md) — related

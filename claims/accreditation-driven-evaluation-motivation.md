@@ -52,3 +52,4 @@ In the thematic analysis of the 60 semi-structured interviews, the 'Accreditatio
 - [Health advocate emerges as the intrinsic CanMEDS role most difficult to teach and evaluate](health-advocate-most-difficult-role.md) — related
 - [Faculty need to learn what the intrinsic roles are and how to teach them before they can be expected to evaluate residents on them](teach-before-evaluate-intrinsic-roles.md) — related
 - [Program director motivation is an expected implementation difficulty, with significantly more residents than program directors anticipating this problem](program-director-motivation-implementation-difficulty.md) — related
+- [Faculty consider their courses in broader departmental and accountability contexts, including program-level assessment and accreditation-driven pressures.](broader-context-program-assessment-accreditation-pressures.md) — related

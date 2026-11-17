@@ -53,6 +53,7 @@ The authors recommend using stand-alone, empirically tested online learning modu
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
+- [Devote the majority of class time to active learning via clicker questions and small-group worksheets](clickers-and-worksheets-majority-of-class-time.md)
 
 ## Examples
 -

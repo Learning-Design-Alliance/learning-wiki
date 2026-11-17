@@ -62,3 +62,4 @@ Authors' stated limitation in the Discussion: the Delphi process ensured content
 - [Both clinical reasoning outcome measures showed limited validity: weak construct and poor predictive validity](clinical-reasoning-measures-limited-validity.md) — related
 - [The SVI's validity for predicting future performance remains debated, and critics warn it may unintentionally diminish diversity in emergency medicine](svi-validity-debated-diversity-concern.md) — related
 - [The explorative Delphi method provides an adequate opportunity for experts to assess an outcome framework's future relevance and to anticipate future trends](explorative-delphi-adequate-for-of-review.md) — related
+- [Early external feedback on astroEDU was positive, but pedagogical impact remains unmeasured](astroedu-early-feedback-positive-impact-unmeasured.md) — related

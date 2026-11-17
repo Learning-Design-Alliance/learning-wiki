@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: e-f-redish-2014
     resource: "https://doi.org/10.1119/1.4870386"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Connecting course material to biology and chemistry through content, placement, and discussion leads students to identify and reconcile inconsistencies in their knowledge, per the authors' observations of small test classes (N~50). [→ E. F. Redish 2014](#e-f-redish-2014)
@@ -51,3 +52,5 @@ Authors' observational conclusion from ethnographic observations, classroom vide
 - [On an ATP high-energy-phosphate-bond quiz question, 79% of NEXUS physics students chose the misconception answer C versus 87% in Galley's chemistry class, and about one third chose both B and C](atp-bond-quiz-framing-differences.md) — related
 - [On an ATP quiz question, 79% of an introductory physics class for biology majors selected the answer that breaking the bond releases energy, broadly comparable to Galley's physical chemistry class](atp-quiz-79-percent-choose-bond-breaking-releases-energy.md) — related
 - [NEXUS/Physics replaces traditional physics content with chemical energy, entropy and Gibbs free energy, and random vs. coherent motion, while eliminating topics such as projectile motion and universal gravitation.](nexus-physics-content-restructuring.md) — related
+- [A student's outgoing epistemological stance toward physics expanded toward seeing physics knowledge as meaningful and consequential for biology and chemistry](outgoing-epistemological-stance-expansion.md) — a narrower finding that bears on this claim
+- [A biology major's relationship with physics shifted over a year-long interdisciplinary physics course, from hatred and avoidance toward identification, mixed affect, and more expert-like ways of knowing](violet-expanding-relationship-with-physics.md) — related

@@ -72,3 +72,4 @@ Descriptive comparison of post-test scores (SPSS statistics in Table 7) between 
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [Students taught with intensive practical activities gained far more from pre-test to post-test (mean gain 26.0) than conventionally taught students (mean gain 2.8)](practical-work-mean-gain-26-versus-2-8.md) — related
 - [Students taught graph functions with Geometer's Sketchpad showed significantly more positive attitude at post-test than the control group](gsp-attitude-post-test-significant.md) — related
+- [Teaching higher mathematics with CAS-based computer modeling raised exam performance above reference groups in first- and second-year non-mathematical-specialty groups](cas-modeling-exam-performance-gain.md) — related

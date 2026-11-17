@@ -56,3 +56,4 @@ Logistic regression on survey and platform data from 4,831 learners across six M
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related
 - [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](elaboration-intrinsic-goals-task-value-predict-epu.md) — related
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](learning-plans-effects-limited-goal-setting.md) — related
+- [Certificate-earning MOOC students reported learning-goal rather than performance-goal motivation, with 98% saying the absence of a real degree posed no problem](mooc-learning-goal-motivation-98-percent.md) — related

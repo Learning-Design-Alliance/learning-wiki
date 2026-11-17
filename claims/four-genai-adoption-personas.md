@@ -81,3 +81,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [GenAI-assisted persona profiles matched campaign briefings at high levels (average 85% mobile phone, 80% drink campaign)](genai-persona-briefing-high-matching.md) — related
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related
+- [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related

@@ -55,3 +55,4 @@ Qualitative analysis of posttest written comments, coded independently by two re
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related
 - [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](additional-support-no-significant-belief-impact.md) — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
+- [Immersive inquiry research experiences produced significant gains in teachers' understanding of the nature of science and in their students' understanding](immersive-research-teacher-nos-gains.md) — related

@@ -51,3 +51,4 @@ Theme analysis of tutor and student interviews on PBL cases found that "some of 
 - [Multiple barriers hinder infectious disease training, including lack of standardized scenarios, insufficient hands-on training, unclear guidelines, and low accessibility across roles](fgi-barriers-standardized-scenarios-hands-on-guidelines.md) — related
 - [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related
 - [Student-related barriers including resistance to PBL, work overload, dominance by a few students, high expectations of tutors, and insufficient communication skills hinder PBL implementation at Debre Berhan University medical school](dbu-pbl-student-related-barriers.md) — related
+- [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related

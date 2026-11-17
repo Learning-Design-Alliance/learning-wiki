@@ -18,7 +18,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 20 studies (7 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (11 for, 11 mixed, 1 against) · 21 studies (8 causal, 6 associational, 3 quant-synthesis, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 20 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -63,6 +63,7 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Self and peer marks correlate moderately with faculty marks while self and near-peer marks correlate weakly on a clinical history-taking task](../claims/self-peer-marks-moderately-correlate-faculty-np-weak.md) [~W] — attached 2026-11-09 from Fitzgerald K (2018), which proposed "Video-recorded history-taking assessment with SHARP debriefing rubric marked by four assessor groups".
 - [After an active-learning intervention, students' peer evaluations aligned more closely with the instructor's on graph/table statements (LO1), with significant convergence for Statements 1 and 3](../claims/cpr-intervention-improved-peer-evaluation-alignment-lo1.md) [+W] — attached 2026-11-09 from Saterbak Ann et al. (2018), which proposed "Calibrated Peer Review™ (CPR) as a formative-assessment and diagnostics tool for poster assignments"; tests this page's relationship.
 - [Correlation between student and instructor overall poster ratings improved after the intervention (peer r = 0.51 to 0.68; self r = 0.18 to 0.37)](../claims/student-instructor-rating-correlation-improved-post-intervention.md) [+W] — attached 2026-11-09 from Saterbak Ann et al. (2018), which proposed "Calibrated Peer Review™ (CPR) as a formative-assessment and diagnostics tool for poster assignments"; tests this page's relationship.
+- [After the practice-video intervention, student rating distributions shifted significantly toward the lower end on most Lab 4 rubric items](../claims/practice-videos-shifted-peer-ratings-lower-lab4.md) [~W] — attached 2026-11-17 from Shih-Yin Lin et al. (2014), which proposed "Practice-video calibration intervention in the Fall 2013 MOOC offering".
 
 ## The evidence by question
 

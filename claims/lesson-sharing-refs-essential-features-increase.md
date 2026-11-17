@@ -46,3 +46,4 @@ Coding of lesson-sharing reflections from four teachers against the five NSES es
 
 ## Related Claims
 - [Between two survey administrations, teachers' references to Communicate and Explain rose about five-fold while Evidence references decreased from 13 to 11](inquiry-survey-administration-shifts.md) — related
+- [Teachers negotiating the meaning of \"inquiry\" through lesson-sharing moved through four phases to a shared definition: socially constructing evidence-based meaning of phenomena through intentionally sequenced events](four-phases-inquiry-meaning-negotiation.md) — related

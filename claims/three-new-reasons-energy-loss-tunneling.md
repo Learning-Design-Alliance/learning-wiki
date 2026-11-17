@@ -67,3 +67,4 @@ Interview finding for reason 6: "four exhibited some form of this diﬃculty"; i
 - [After transformed instruction most students state energy is conserved in tunneling, yet energy-loss reasoning persists in subtle forms](energy-conservation-stated-but-energy-loss-reasoning-persists.md) — related
 - [Student scores on the tunneling energy question depend strongly on question format and context](tunneling-question-scores-context-dependent.md) — related
 - [A transformed curriculum reduces the prevalence of previously documented tunneling difficulties relative to comparable traditional courses](transformed-curriculum-reduces-tunneling-difficulties.md) — related
+- [Upper-level quantum mechanics students incorrectly claim a particle loses energy when it tunnels through a rectangular potential barrier, transferring classical reasoning](qm-tunneling-classical-energy-loss-difficulty.md) — related

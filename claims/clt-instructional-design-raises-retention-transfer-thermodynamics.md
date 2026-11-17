@@ -75,3 +75,4 @@ Follow-up univariate tests after MANOVA on eight-session means: experimental RT 
 - [Structure and layout of the exam pages strongly contribute to the success of the multimodal grading method and, for now, appear to be required](structure-and-layout-required-for-ai-grading.md) — related
 - [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](self-study-discussion-immediate-retention-transfer-high-school.md) — related
 - [Supplementing classroom instruction with e-learning raises post-test achievement more than classroom-only instruction](blended-elearning-raises-esp-posttest-scores.md) — related
+- [Students oversimplify multivariable thermodynamic relationships by reducing variables and imposing chronology and causality](students-oversimplify-multivariable-thermo-relationships.md) — related

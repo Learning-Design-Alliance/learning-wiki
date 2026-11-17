@@ -67,6 +67,7 @@ Shared reflection converts reflection from an individual metacognitive act into 
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
 - [Classroom strategies to develop metacognition: reflective questions, decision diagrams, thinking aloud, reflective dialogue, and metacognitive argumentation](metacognition-classroom-strategies-set.md)
 - [Use peer feedback to prompt students to reconsider design judgments and engage in reflection](peer-feedback-prompts-reflective-design-judgment.md)
+- [Shared online reflective journals for the instructional team](shared-reflective-journaling-strategy.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education) "Crew" meetings** — regular structured circles in which students share academic progress and struggles, with peers offering support; a core routine in EL Education network schools (https://eleducation.org).

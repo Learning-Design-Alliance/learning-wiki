@@ -55,3 +55,4 @@ Narrative background synthesis in the protocol introduction, drawing on cited st
 - [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
 - [SLTs report five implementation challenges for Makaton: limited awareness and training, financial and resource constraints, poor consistency and carryover, motor and cognitive limitations, and cultural and regional mismatches](makaton-implementation-five-challenges.md) — related
+- [Strategic competence compensates for limitations in linguistic, operational, and social competence](strategic-competence-compensatory-strategies-aac.md) — related

@@ -70,3 +70,4 @@ Cross-sectional perception-based survey of 398 business-school students in India
 - [SDT-based online unit significantly increased relatedness in online Algebra 2 students](sdt-based-online-unit-increased-relatedness.md) — related
 - [Student online engagement (cognitive, emotional, behavioral) positively predicts learning performance and satisfaction](online-engagement-predicts-performance-satisfaction.md) — related
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related
+- [Internalization of an activity occurs when it fulfills competence, autonomy, and relatedness needs](sdt-basic-needs-internalization.md) — related

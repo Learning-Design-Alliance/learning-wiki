@@ -51,4 +51,4 @@ The article's forward-looking recommendation is that "[a]ny course which adminis
 -
 
 ## Key Sources
-- Evrard, A. E., Mills, M., Winn, D., Jones, K., Tritz, J., and McKay, T. A. (2013). Problem Roulette: Studying Introductory Physics in the Cloud. https://arxiv.org/abs/1309.7678
+- Evrard, A. E., Mills, M., Winn, D., Jones, K., Tritz, J., and McKay, T. A. (2013). Problem Roulette: Studying Introductory Physics in the Cloud. https://arxiv.org/abs/1309.7678. [doi:10.48550/arxiv.1309.7678](https://doi.org/10.48550/arxiv.1309.7678)

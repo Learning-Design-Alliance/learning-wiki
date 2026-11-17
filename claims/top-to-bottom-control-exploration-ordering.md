@@ -48,3 +48,4 @@ Observation-session finding: "most students began exploring the controls fr om t
 - [Adding a fast-forward data-collection control to the hidden variable simulation resolved student complaints about the speed of data collection](fast-forward-control-speeds-data-collection-quantum-simulations.md) — related
 - [Trainees in the unstructured condition who adopted a top-down navigation style viewed fewer modules than those adopting a bottom-up style.](top-down-style-fewer-modules-viewed.md) — related
 - [Trainees in the unstructured condition varied more in the number of modules viewed, with some exploring more modules and others considerably fewer than in the structured condition.](unstructured-navigation-increases-module-viewing-variability.md) — related
+- [Freely explored simulations engage students in making connections, making predictions, testing them and interpreting outcomes](quvis-simulations-promote-student-driven-inquiry.md) — a broader claim this one bears on

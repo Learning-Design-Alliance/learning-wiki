@@ -50,3 +50,4 @@ Qualitative analysis across multiple episodes and scenarios (hot plate, ball pus
 - [Some teachers also judge sound energy as a less useful form, suggesting transformation into sound renders energy unavailable](teachers-sound-energy-less-useful.md) — related
 - [Teachers disagree about whether thermal energy can be useful, revealing that energy's usefulness depends on the objects included in the scenario](teachers-usefulness-depends-on-scenario-objects.md) — related
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — related
+- [Learners expect that energy associated with a perceptible indicator will be associated with another perceptible indicator when the energy transforms, challenging energy conservation when all indicators become imperceptible](perceptible-indicator-expectation-energy-transformations.md) — related

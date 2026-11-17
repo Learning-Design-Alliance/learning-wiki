@@ -50,3 +50,4 @@ Descriptive end-of-year survey of NAMI On Campus Club participants (Table 1, n =
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
 - [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related
+- [NITARP and its Spitzer predecessor reached thousands of students and influenced over 100 students to pursue science careers](nitarp-spitzer-reach-and-career-influence.md) — related

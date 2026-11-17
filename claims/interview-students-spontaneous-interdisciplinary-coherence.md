@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: benjamin-w-dreyfus-2013
     resource: "https://doi.org/10.1119/1.4870391"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A student (Betsy) spontaneously used the chemical energy thread to begin reconciling catabolic/anabolic reaction energetics from biology with bond-energy reasoning from chemistry, without explicit course coverage of that contrast. [→ Benjamin W. Dreyfus 2013](#benjamin-w-dreyfus-2013)

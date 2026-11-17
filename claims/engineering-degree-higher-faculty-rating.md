@@ -47,3 +47,4 @@ Retrospective cohort of 108 students with undergraduate majors categorized as ph
 ## Related Claims
 - [In engineering, men who left doctoral programs had significantly higher GRE Q scores than men who completed, and lowest-quartile men completed at a rate 25% higher than highest-quartile men](engineering-men-gre-q-negative-predictor.md) — related
 - [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related
+- [PER graduate students with undergraduate physics degrees learned of PER earlier than those without physics degrees](physics-degree-earlier-per-discovery.md) — related

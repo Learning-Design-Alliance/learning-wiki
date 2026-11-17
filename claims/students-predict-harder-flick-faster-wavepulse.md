@@ -50,3 +50,4 @@ Think-aloud interview analysis (data from the author's 1998 dissertation) of stu
 - [The Ohm's p-prim can be modeled as emerging within the wavepulse context rather than being activated as a pre-existing idea](ohm-p-prim-emerges-from-blend.md) — related
 - [Mental space integration makes fewer assumptions and has greater explanatory and predictive power than the resources framework for this data](blending-greater-power-than-resources-framework.md) — related
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — related
+- [In a year-1 key-drop lesson, Mr. S primarily attended and responded to the causal factors within students' ideas](causal-factors-foregrounding-year1.md) — related

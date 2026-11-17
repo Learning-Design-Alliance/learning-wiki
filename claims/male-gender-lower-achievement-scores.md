@@ -51,3 +51,4 @@ Multivariate linear mixed model coefficients (Table 2), reported in Results. The
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Female residents scored significantly higher than male residents on total LGBT-DOCSS-JP scores](female-residents-higher-lgbt-docss-jp-total.md) — related
+- [Being female is negatively associated with Math and Science scores but has no significant effect on Reading](female-negative-math-science-not-reading.md) — reports the opposite

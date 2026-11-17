@@ -56,3 +56,4 @@ Theoretical argument in a comment article, citing research on desirable difficul
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — a narrower finding that bears on this claim
 - [Lecturing persists for identifiable psychological and practical reasons: it is easy, exploits personal opinion, and satisfies pupils' craving for authority and ready-made knowledge](why-lecturing-persists.md) — related
 - [Addressing did not enhance transfer performance in study 1](addressing-no-transfer-effect.md) — a narrower finding that bears on this claim
+- [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — a narrower finding that bears on this claim

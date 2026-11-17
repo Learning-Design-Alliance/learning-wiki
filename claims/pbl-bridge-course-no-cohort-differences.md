@@ -50,3 +50,4 @@ One-way ANOVA comparing total scores across seven consecutive cohorts (N = 1,072
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](cohort-covariate-effect-below-small-threshold.md) — related
 - [Cohort effects on activity emotions are minimal across fourteen years, with cohort accounting for only 0.2% to 1.2% of variance in mean emotion scores](cohort-effects-minimal-activity-emotions.md) — related
 - [Peer-relatedness scores did not differ significantly among instructors across teaching profiles](peer-relatedness-no-instructor-differences.md) — related
+- [Average CUE scores did not differ significantly across instructor groups (one-way ANOVA, F = 1.08, p = 0.34)](cue-scores-no-instructor-difference-anova.md) — related

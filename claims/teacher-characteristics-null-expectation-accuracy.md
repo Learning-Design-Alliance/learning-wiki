@@ -50,3 +50,4 @@ Key Stage 2 regressions of teacher expectation accuracy on teacher-reported gend
 - [Pupils with higher polygenic scores for educational attainment outperform their teachers' expectations relative to pupils with lower scores](pgs-educational-attainment-expectation-accuracy.md) — related
 - [Pupils whose mothers have lower educational qualifications underperform their teachers' expectations relative to pupils of degree-educated mothers at ages 11 and 14](maternal-education-patterning-of-expectation-accuracy.md) — related
 - [Teacher expectations of achievement are strongly associated with pupils' realised national exam scores at ages 11 and 14](teacher-expectations-strongly-track-achievement-ks2-ks3.md) — related
+- [Teacher characteristics show no significant association with fourth-grade achievement in the Italian sample](teacher-covariates-not-significant-italian-sample.md) — related

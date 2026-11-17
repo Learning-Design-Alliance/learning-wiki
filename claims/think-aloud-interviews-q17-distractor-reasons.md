@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-17
 sources:
   - id: homeyra-sadaghiani-2013
     resource: "https://doi.org/10.1119/perc.2013.pr.066"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In thirteen think-aloud interviews, students dismissed the psi-1 option for being the lowest energy state with its particular shape, not for being a stationary eigenstate. [→ Homeyra Sadaghiani 2013](#homeyra-sadaghiani-2013)
@@ -66,3 +67,6 @@ Interview evidence from MC-Q17: a student choosing between superposition options
 ## Related Claims
 - [In the case study, students answering the questionnaire while thinking aloud showed misunderstanding of items, general rather than task-specific reference perspectives, middle-category 'neutral' answering, and probable social desirability](think-aloud-while-answering-reveals-questionnaire-problems.md) — related
 - [A student uses macroscopic physics phenomena (magnets, springs) as productive analogies for microscopic biological energy storage in ATP](macroscopic-analogies-for-microscopic-biological-energy.md) — related
+- [Students overgeneralize nonzero probability in the classically forbidden region and reject a valid finite-square-well wave function](qm-finite-square-well-overgeneralization.md) — related
+- [Upper-level students show inconsistent reasoning about the position-space wave function across consecutive questions](qm-inconsistent-reasoning-position-representation.md) — related
+- [Approximately one-third of students from seven universities incorrectly evolve a non-stationary superposition state with a single overall phase factor e^{-iEt/ħ}](qm-overall-phase-factor-time-evolution-difficulty.md) — related

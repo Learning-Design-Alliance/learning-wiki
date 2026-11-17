@@ -51,3 +51,4 @@ A meta-analysis of assessment protocols reviewed in the operational-definitions 
 - [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](coarse-grained-srl-self-reports-relatively-calibrated.md) — related
 - [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](schellings-convergent-validity-n16-correlation-51.md) — related
 - [Confidence bias is strongly dependent on cognitive task performance (r = 0.51 with decision analysis), whereas confidence judgement is only modestly correlated (r = 0.16)](confidence-bias-dependent-on-task-performance.md) — related
+- [Think-aloud student interviews led to wording and spacing changes on CURrENT questions](think-aloud-interviews-improved-current-question-wording.md) — related

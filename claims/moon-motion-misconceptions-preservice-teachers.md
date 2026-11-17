@@ -54,3 +54,5 @@ Results from Q6–Q8 on the Moon's movements and the three-body system: "nearly 
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — related
 - [Splitting one compound question about Earth's rotation and translation into two separate questions raised correct answers from about 10% to about 80%](question-splitting-earth-movements-accuracy.md) — related
 - [Widespread misconceptions persist among Belgian respondents about seasons, lunar phases, the Moon's light and the Moon's rotation](astronomy-misconceptions-seasons-moon-phases.md) — related
+- [Students frequently explain lunar phases as the Earth's shadow falling on the Moon (the eclipse theory)](eclipse-theory-alternative-conception.md) — related
+- [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related

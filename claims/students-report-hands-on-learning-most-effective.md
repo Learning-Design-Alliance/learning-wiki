@@ -75,3 +75,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Representative learning design preserves perception-action coupling needed for real-world clinical skill](representative-learning-design-clinical.md) — related
 - [In a small school focus group, 100% agreed the Planeterrella presentation was interesting and science affects everyday life, and 75% wanted to learn more about science careers](planeterrella-focus-group-interest-careers.md) — a narrower finding that bears on this claim
 - [Working with real data helps students understand the evidence behind scientific world views and discard mistaken preconceptions](real-data-helps-discarding-preconceptions.md) — related
+- [Students reported that pairing hands-on real tools with virtual tools helped them verify and understand both instruments](students-report-real-and-virtual-tools-mutually-supporting.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Retrospective correlational analysis of 108 matriculants comparing admissions st
 - [GRE verbal and quantitative scores correlated with course average, first-year graduate GPA, and exit exam scores in a medical physics graduate cohort](gre-quantitative-verbal-correlated-coursework-outcomes.md) — related
 - [Students with undergraduate engineering degrees received significantly higher faculty ratings, while physics degrees showed no advantage over other degree types](engineering-degree-higher-faculty-rating.md) — related
 - [Undergraduate GPA correlates with time to degree only for domestic students](ug-gpa-predicts-ttd-domestic-only.md) — related
+- [PER graduate students with undergraduate physics degrees learned of PER earlier than those without physics degrees](physics-degree-earlier-per-discovery.md) — related

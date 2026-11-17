@@ -47,6 +47,8 @@ The paper implements modeling learning goals through example prompts aligned wit
 ## Related Strategies
 
 - [Structured inquiry session sequence: introduction, questioning, investigation, presentations, and synthesis](inquiry-session-sequence-questioning-investigation-presentation-synthesis.md)
+- [Use the modeling framework as a curriculum design tool to generate lab variants emphasizing different modeling stages](framework-as-lab-curriculum-design-tool.md)
+- [Use the three-polarizer sequence as a step-by-step demonstration in undergraduate quantum physics lessons](three-polarizer-demonstration-sequence-strategy.md)
 
 ## Examples
 -

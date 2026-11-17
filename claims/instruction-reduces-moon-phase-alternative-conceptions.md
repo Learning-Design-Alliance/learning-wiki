@@ -49,3 +49,4 @@ Narrative review attributing this to Trundle et al. (2002) on Moon phases: "el p
 - [The review reports that many preservice primary teachers hold alternative conceptions about the day-night cycle, Moon phases and the seasons](preservice-teachers-alternative-conceptions-astronomy-reported.md) — related
 - [On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines](instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md) — related
 - [Preservice elementary teachers hold robust non-scientific conceptions of basic astronomical notions](preservice-teachers-astronomy-misconceptions.md) — related
+- [The proportion of students endorsing astrology's usefulness decreased after the course, with 89% post-course holding that astrology lacks evidential support](astrology-endorsement-decreased-after-astronomy-course.md) — related

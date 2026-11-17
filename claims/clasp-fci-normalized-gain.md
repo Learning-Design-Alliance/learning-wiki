@@ -73,3 +73,4 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [An interactive-engagement mechanics course using MasteringPhysics yields a normalised FCI gain of about 0.18 with a statistically significant pre-to-post improvement](cbcmp-fci-normalised-gain-018.md) — related
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
+- [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-17
 sources:
   - id: geoffrey-wyatt-2014
     resource: "https://doi.org/10.3724/sp.j.1440-2807.2014.02.06"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers, students, and guides raised five major criticisms of the program: planisphere content should be local (Sydney region), students wanted the planetarium, signal sticks were least relevant, students wanted to look through a telescope, and Indigenous guides would improve the program. [→ Geoffrey Wyatt 2014](#geoffrey-wyatt-2014)

@@ -42,7 +42,8 @@ The article prescribes an explanation sequence for physicists addressing non-sci
 - [Box Diagram Quantum State Visualization Framework](../designs/box-diagram-quantum-state-visualization-framework.md)
 
 ## Related Strategies
-- 
+
+- [In public physics talks, establish vivid contact, invite audience perceptions, and give simple answers to typical quantum questions](vivid-contact-audience-perception-outreach-strategy.md)
 
 ## Examples
 -

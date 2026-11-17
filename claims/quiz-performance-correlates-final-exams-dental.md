@@ -66,3 +66,4 @@ Figure 3 example: a single-best-answer periodontology quiz item on the pseudo-po
 ## Related Claims
 - [Pre-class quiz performance correlates with memory-item scores (r=0.528) and laboratory examination scores (r=0.254) in FCCL students](pre-class-quiz-correlates-memory-lce.md) — related
 - [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
+- [Library homework scores correlate strongly with midterm and final exam scores for both distance and in-class learners](geas-homework-correlates-with-exams.md) — related

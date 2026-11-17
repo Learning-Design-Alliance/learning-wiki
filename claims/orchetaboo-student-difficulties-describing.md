@@ -48,3 +48,4 @@ Content analysis of the interview question about difficulties while describing t
 - [53% of experimental students considered themselves sufficient at describing terms, most often citing ability of expressing](orchetaboo-self-sufficiency-expressing.md) — related
 - [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — related
 - [91% of experimental group students said OrCheTaboo helped them learn functional-group concepts](orchetaboo-students-report-learning-help.md) — related
+- [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related

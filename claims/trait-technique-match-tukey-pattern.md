@@ -66,3 +66,4 @@ Another Tukey pairwise contrast from the same post-hoc analysis found the extrov
 ## Related Claims
 - [Students with introvert personal traits achieved higher descriptive-writing scores than students with extrovert personal traits](introverts-outscore-extroverts-descriptive-writing.md) — related
 - [Teaching technique and personal traits interacted significantly in their effect on descriptive-writing achievement](technique-trait-interaction-descriptive-writing.md) — a broader claim this one bears on
+- [IPI differs significantly across achievement levels and continents, with Tukey posthoc tests identifying specific pairwise contrasts](ipi-achievement-and-continent-anova.md) — related

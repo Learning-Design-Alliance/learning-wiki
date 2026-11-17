@@ -57,3 +57,4 @@ Numerical regression estimates shown in Fig. 1 compare predicted losses at the 1
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — a broader claim this one bears on
 - [Whether longer school closures cause larger learning deficits remains an open question requiring cross-country comparison](longer-lockdowns-larger-learning-deficits-open-question.md) — reports the opposite
+- [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — related

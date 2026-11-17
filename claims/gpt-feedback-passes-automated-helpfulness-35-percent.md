@@ -54,3 +54,4 @@ The article's introduction reports this result from its series of studies examin
 - [Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics](inside-lowest-wasserstein-action-fidelity-test-op.md) — related
 - [Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy](gpt4-diagnoses-its-errors-87-8-accuracy.md) — related
 - [Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
+- [The red/green sticky-note system for in-class support requests and exit-ticket feedback was popular and coincided with a rise in the Feedback criterion score from 0.47 to 1.32](sticky-note-formative-feedback-system.md) — related

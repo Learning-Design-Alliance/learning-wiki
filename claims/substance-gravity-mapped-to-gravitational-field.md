@@ -49,3 +49,4 @@ The authors' analysis of Episode 1 transcript data: Lynn, using a substance-base
 - [Daniel's letter-grade analogy reconceived gravity as an intensive property that is not enhanced or diluted by combining or dividing objects](letter-grade-analogy-gravity-intensive-property.md) — related
 - [Substance-based ontological metaphors for gravity served as the source for teachers' generation of a sophisticated argument about equal gravitational acceleration](substance-ontologies-seed-sophisticated-argument.md) — related
 - [Interventions that prematurely curb learners' linguistic or conceptual use of incorrect ontologies might be detrimental to learners' progress](premature-ontology-correction-may-be-detrimental.md) — a broader claim this one bears on
+- [Incorrect answers about gravity on the moon remained comparable pre- and post-course (26% vs 24%), a topic not directly assessed in the course](gravity-misconceptions-unchanged-not-assessed.md) — related

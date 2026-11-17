@@ -49,3 +49,4 @@ Posttest results for situation b), which the article says tests understanding of
 - [Students commonly hold the everyday-experience-based misconception that electrostatic interaction stops when charged objects are placed at greater distance](greater-distance-no-interaction-misconception.md) — related
 - [Tenth-grade students taught electrical charging with real experiments or PhET simulations gave more correct posttest answers on a like-charge interaction question than students taught by traditional direct teaching](real-and-simulated-experiments-beat-direct-teaching-charging-posttest.md) — related
 - [The article concludes there is no significant difference between knowledge acquired through real experiments and through computer-simulated experiments](no-significant-difference-real-versus-simulated-experiments.md) — related
+- [A bigger charge exerts a stronger force, as expressed by students](bigger-charge-stronger-force-student-idea.md) — related

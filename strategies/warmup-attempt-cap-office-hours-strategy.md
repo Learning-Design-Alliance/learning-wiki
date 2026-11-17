@@ -51,6 +51,7 @@ The authors assigned 4 to 6 LON-CAPA questions per warm-up, ranging from simple 
 - [Leveraging Instructor Office Hours](leveraging_instructor_office_hours.md)
 - [Retrieval Practice Warm Ups](retrieval-practice-warm-ups.md)
 - [Pre Reading Quizzes](pre-reading-quizzes.md)
+- [Provide pre-essay in-class activities, practice quizzes and worked examples before essay deadlines to prepare students for conceptual essay questions](pre-essay-activities-and-guidance-strategy.md)
 
 ## Examples
 -

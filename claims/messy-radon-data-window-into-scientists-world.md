@@ -64,3 +64,4 @@ The commentary reports, citing Aridor et al. (this issue), a case study of two m
 - [Higher-scoring students in the data collection phase envisioned more meaningful engagement between scientists and the public](cl-data-collection-phase-meaningful-public-engagement.md) — related
 - [Students who learn about scientists who got wrong answers come to see scientific answers as elusive rather than found in the back of a book](wrong-answer-scientists-teach-answers-are-elusive.md) — related
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related
+- [Undergraduate art students collaborating with scientists gained understanding of how scientists operate and found scientists approachable](mica-fermi-student-scientist-collaboration-outcomes.md) — related

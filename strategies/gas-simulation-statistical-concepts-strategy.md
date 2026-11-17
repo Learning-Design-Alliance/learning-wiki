@@ -43,6 +43,7 @@ The article recommends supporting secondary-school explanation of thermodynamics
 ## Related Strategies
 
 - [Use a piston-in-tube heating exercise with an experimentally verifiable oscillatory solution in thermodynamics courses and laboratories](piston-in-tube-time-dependent-exercise-strategy.md)
+- [Extend basic molecular dynamics simulations with elastic bonds and anchored atoms for demonstrations beyond the pure Lennard-Jones system](md-bonds-and-anchoring-enhancements.md)
 
 ## Examples
 -

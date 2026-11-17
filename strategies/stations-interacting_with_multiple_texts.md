@@ -65,6 +65,7 @@ Stations exploit the benefits of multiple, contrasting representations: encounte
 - [Gallery Walk](../strategies/gallery-walk.md) — stations in reverse: learners produce artifacts, then rotate to view and critique peers' work
 - [Case Studies](../elements/case-studies.md) — a single deep source instead of many brief ones; stations trade depth for breadth of perspective
 - [Interdisciplinary scenario stations combining 3D models, CT-A interpretation, and expert-led clinical discussion](interdisciplinary-ica-scenario-stations.md)
+- [Assign small-group responses to popular science articles to build critical reading of science in media](popular-science-article-response-assignments.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text resources that populate stations

@@ -54,3 +54,4 @@ Qualitative analysis of giving-birth and die responses. The article reports o/o*
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](o-star-star-law-of-large-numbers.md) — related
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related
+- [Upper-level students conflate an expectation value with its rate of change in Larmor precession, showing context-dependent reasoning](qm-inconsistent-reasoning-expectation-value-larmor.md) — related
