@@ -64,3 +64,4 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [The two-parameter logistic model showed acceptable to excellent fit for all three course assessments](2pl-model-fit-preclinical-exams.md) — related
 - [Ignoring cluster dependence in analysis (naive analysis) inflates significance, making new teaching methods appear better than they are](naive-analysis-false-significance-cluster-studies.md) — related
 - [Fit parameters and local independence assumptions were satisfied in both scoring conditions](rasch-fit-parameters-optimal-both-conditions.md) — related
+- [Introducing the learner traits stabilizes item parameter estimates: difficulty divergence is absorbed and more items show positive discrimination](learner-traits-stabilize-item-parameters.md) — related

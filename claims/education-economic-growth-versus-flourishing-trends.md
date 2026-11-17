@@ -55,3 +55,4 @@ Assessment-level position statement: the ISEE Assessment, a transdisciplinary re
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [The ISEE Assessment finds that meritocracy as the great equalizer perpetuates educational, social and economic exclusion and proposes shifting from static merit-based assessment to potentiality](meritocracy-creates-hereditary-meritocracy-exclusion.md) — related
+- [Project Physics, a humanistic history-based physics curriculum, improved students' attitudes towards science while successfully teaching physics content](project-physics-attitudes-content.md) — related

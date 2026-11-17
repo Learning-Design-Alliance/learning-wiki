@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: weak
 newest_evidence: 2012
+source_checked: 2026-11-17
 sources:
   - id: edward-f-redish-and-todd-j-cooke-2012
     resource: "https://doi.org/10.1187/cbe.12-09-0147"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The interdisciplinary negotiations led the team to drop or reduce canonical topics (circular motion, projectiles, collisions) and to add diffusion, molecular interactions, and quantized excited states. [→ Edward F. Redish and Todd J. Cooke 2012](#edward-f-redish-and-todd-j-cooke-2012)

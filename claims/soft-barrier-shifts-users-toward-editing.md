@@ -48,3 +48,4 @@ Exploratory behavioral pilot with 18 participants using GPT-5.2 in a browser-bas
 - [Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent](soft-barriers-cpr-model-task-dependent.md) — a broader claim this one bears on
 - [Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle](ai-as-critical-file-design.md) — a broader claim this one bears on
 - [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related
+- [Copying occurs on average about 12% of initial submissions nearly independent of ability, while low-ability students guess more than high-ability students](copying-12-percent-guessing-ability-dependent.md) — related

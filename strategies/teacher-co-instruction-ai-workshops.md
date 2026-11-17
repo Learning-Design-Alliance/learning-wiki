@@ -45,6 +45,7 @@ Rather than having researchers teach students directly, the authors recruited 11
 - [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
 - [Involve local domain-unit staff for the full workshop day rather than as an end-of-day panel](local-domain-staff-full-day-workshop-involvement.md)
 - [Educator Ambassador model: master teachers train other educators in mission-linked professional development](educator-ambassador-master-teacher-model.md)
+- [Pair-of-teachers co-teaching with professional learning community preparation for new technology lessons](teacher-pairing-plc-strategy-new-tech-lessons.md)
 
 ## Examples
 -

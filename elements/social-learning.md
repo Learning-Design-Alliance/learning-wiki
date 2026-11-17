@@ -68,3 +68,4 @@ Social learning is the element in which interaction with peers, models, or commu
 
 - [Extend discussion sessions beyond the classroom through social network sites and visual cues](../strategies/extend-discussions-sns-visual-cues-strategy.md)
 - [Equip faculty and peer tutors with tools to foster social congruence with and between students](../strategies/faculty-development-social-congruence-strategy.md)
+- [Use national and international robotics competitions for talent development](../strategies/robotics-competitions-talent-development.md)

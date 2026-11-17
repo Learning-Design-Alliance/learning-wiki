@@ -72,3 +72,4 @@ Analysis of 74 instances in which two or three graduate students who had not all
 - [Graduate students' ability to identify common introductory difficulties was context dependent, e.g., for area-under-curve difficulties](gs-pck-context-dependent-tugk.md) — related
 - [American, Chinese and other foreign graduate students showed comparable PCK performance at identifying introductory student difficulties](us-familiarity-not-related-to-gs-pck-tugk.md) — related
 - [Few graduate students identified the introductory difficulty that determining slopes does not require examining initial conditions, while slope-height confusion was identified by more](initial-conditions-slope-difficulty-rarely-identified.md) — related
+- [Graduate students' identification of introductory students' alternate conceptions on the FCI rose from the individual task to group discussion in one group with no comparison group](group-discussion-improves-pck.md) — related

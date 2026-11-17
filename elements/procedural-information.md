@@ -93,6 +93,7 @@ Procedural information reduces the working-memory burden of executing routine ta
 **[Duolingo](https://www.duolingo.com)** — Grammar tips and inline hints deliver procedural rules at the moment a pattern first appears in an exercise, then withdraw them as items are mastered.
 
 **[Microsoft Office contextual help / Clippy-style task guidance](https://support.microsoft.com)** — Step-by-step task instructions surfaced within the application at the point of need, a classic performance-support implementation of just-in-time procedural information.
+- [Start with simple video analyses and a hands-on primer activity to reduce cognitive load before the performance task](../strategies/simple-videos-primer-activity-cognitive-load-strategy.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., Clark, R. E., & de Croock, M. B. M. (2002). Blueprints for complex learning: The 4C/ID-model. *Educational Psychology Review, 14*(1), 57–71.

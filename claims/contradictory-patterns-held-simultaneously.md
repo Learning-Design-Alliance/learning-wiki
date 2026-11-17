@@ -48,3 +48,4 @@ Re-analysis of a pre-interview with a student in an introductory algebra-based p
 - [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
 - [Children's apparently inconsistent answers about the earth's shape are largely explained by consistent use of alternative mental models](childrens-inconsistent-earth-answers-reflect-coherent-mental-models.md) — related
+- [Guanhua developed his understanding of superposition of electric forces during the interview, showing forces act simultaneously](superposition-understanding-developed-in-interview.md) — related

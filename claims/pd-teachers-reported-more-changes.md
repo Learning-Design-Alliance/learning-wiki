@@ -51,3 +51,4 @@ Change Question (CQ) analysis comparing teacher reports across conditions: all e
 - [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](pd-discrepancy-negative-for-rest-of-class.md)
 - [Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones](pd-relevant-scales-more-positive-effects.md)
 - [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](pd-student-change-question-differences.md)
+- [School teachers reported that their students began to interact more in class and question the role of science after the robotics exhibition](cl-teacher-reported-student-interaction.md) — related

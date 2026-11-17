@@ -52,3 +52,4 @@ Semi-structured December 2019 interviews with lighthouse project leaders. Motiva
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
 - [End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments](faculty-reflection-series-outcomes.md) — related
 - [The full potential of the Moodle platform was not used due to the short course timeline, a missed opportunity for a cross-institution community of inquiry](moodle-platform-underused-short-timeline.md) — related
+- [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related

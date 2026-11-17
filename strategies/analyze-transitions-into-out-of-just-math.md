@@ -45,7 +45,8 @@ The authors propose studying the scaffolding and negotiation that bring a group 
 - [Only about 10 minutes of 9 hours of homework help session video could be definitively categorized as Just Math](../claims/just-math-ten-minutes-of-nine-hours-identified.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Blend macroscopic and microscopic research approaches to study students' use of mathematics across topics and courses](blend-macro-micro-research-approaches.md)
 
 ## Examples
 -

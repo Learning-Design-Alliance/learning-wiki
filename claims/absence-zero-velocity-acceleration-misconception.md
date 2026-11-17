@@ -49,3 +49,5 @@ Maximum-height portion of the graph pre-test with 14 students. "93% of the class
 - [Probeware affords measurement of acceleration at the cart's highest point after an upward push, permitting the fallacy that acceleration is zero there to be addressed](probeware-turning-point-acceleration-affordance.md) — related
 - [The tape timer affords study of downward motion only, so the direction of acceleration and the acceleration at the turning point cannot be addressed](tape-timer-one-direction-limit.md) — related
 - [Sophomore engineering students can draw a correct free fall acceleration model while drawing incorrect position and velocity models for the same motion](memorized-acceleration-model-wrong-position-velocity-graphs.md) — related
+- [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related
+- [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — reports the opposite

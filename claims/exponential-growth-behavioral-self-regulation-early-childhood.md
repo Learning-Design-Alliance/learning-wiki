@@ -56,3 +56,4 @@ Latent growth curve modeling of HTKS scores in three longitudinal samples compar
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
 - [Power-function models fit the developmental trajectory better than linear models, with significant developmental change for high and moderate consistency only](power-function-developmental-trajectory-statistical-learning.md) — a narrower finding that bears on this claim
 - [Laparoscopic learning curves follow an exponential decay shape, with efficiency learned faster than precision](laparoscopic-learning-curves-exponential-decay.md) — a narrower finding that bears on this claim
+- [Upside-down mastery inversion occurs only as Na becomes greater than Nu, transitioning from bell-shaped to exponential-shaped curves](na-greater-than-nu-inversion-upside-down.md) — related

@@ -53,3 +53,4 @@ Results from the fitted item characteristic functions plotted in the FCI-metric 
 - [Search Skills station tasks were easiest, with Question #1 showing a difficulty index of 100% and a discrimination index of 0%](search-skills-station-low-discrimination.md) — related
 - [All 30 FCI items fit the three-parameter item response model acceptably, with chi-square goodness-of-fit statistics below 1](fci-irt-goodness-of-fit-chi-square.md) — related
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
+- [FCI questions 6, 16, 19 and 29 are problematic in high-achieving groups, combining high difficulty index with low discrimination and correlation](fci-items-6-16-19-29-problematic.md) — related

@@ -53,3 +53,4 @@ Qualitative survey excerpts under the themes Learning with computer models can b
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
 - [Students reported that Tracker lessons supported fun, self-directed inquiry learning of physics](students-reported-fun-inquiry-tracker-lessons.md) — related
 - [Pilot school-based use suggests students can enact investigative learning like scientists with the gravity models](pilot-investigative-learning-gravity-models.md) — related
+- [Students reported that interactive engagement with the simulations was fun, engaging, and helped them remember how to read the scales](students-report-interactive-engagement-fun-and-memorable.md) — related

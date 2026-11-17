@@ -50,3 +50,4 @@ The author's interpretation of student behavior in his classes: students focus o
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
 - [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related

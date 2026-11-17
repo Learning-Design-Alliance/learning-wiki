@@ -48,3 +48,5 @@ Exam analysis of the Execution component: 103 solutions contained Execution elem
 ## Related Claims
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — related
 - [Upper-division students have difficulty mapping physical systems onto the Coulomb potential integral, especially expressing the differential charge element and difference vector](construction-dq-script-r-difficulties.md) — related
+- [Roughly a quarter to a third of students make significant errors executing integrals containing delta functions, and success on simple integrals does not transfer to more complex ones](delta-function-integration-execution-errors.md) — related
+- [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on

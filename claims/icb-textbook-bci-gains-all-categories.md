@@ -51,3 +51,4 @@ Quasi-experimental comparison of ICB students (n = 76) and controls (n = 98) in 
 - [Taking only a single semester of the ICB curriculum did not harm student performance relative to peers](icb-single-semester-no-harm.md) — related
 - [ICB students scored in the top quintile of 15 years of historical MCAT content posttest performance, indicating no sacrifice in content knowledge](icb-mcat-top-quintile-content-knowledge.md) — related
 - [Within the ICB course, students in the bottom quartile of online textbook use scored significantly lower on course exams than top-quartile users](icb-textbook-use-dosage-exam-correlation.md) — related
+- [Normalized learning gains on the Light and Spectroscopy Concept Inventory were statistically indistinguishable whether the textbook was required or optional](lsci-gains-textbook-required-optional-no-difference.md) — reports the opposite

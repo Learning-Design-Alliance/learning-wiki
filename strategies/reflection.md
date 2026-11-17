@@ -64,6 +64,7 @@ Reflection converts experience into transferable knowledge by forcing learners t
 - [Action Planning](../strategies/action_planning.md) — the forward-looking half of the reflection cycle
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — reflection before learning serves the same retrieval function
 - [Engineer pauses, multimodal anchors, and improved prosody into AI-generated audio revision tools](engineer-pauses-anchors-prosody-ai-audio.md)
+- [Revise reflection prompts to explicitly require action plans and support revisiting past reflections](revise-reflection-prompts-action-plans.md)
 
 ## Examples
 - **Project-based science curricula** (e.g., [Project Lead The Way](https://www.pltw.org)) build design-journal reflections into engineering units, requiring students to justify design decisions and record revisions.

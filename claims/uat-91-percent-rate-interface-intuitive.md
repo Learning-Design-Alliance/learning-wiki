@@ -51,3 +51,4 @@ Usability outcome from the same preliminary user acceptance testing sessions (ap
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
+- [Questionnaire ranking with 248 participants using a five-level Likert item and a mean-points formula identifies ease of use and user-friendly interface as top MCL requirements](likert-questionnaire-ranks-mcl-basic-requirements.md) — related

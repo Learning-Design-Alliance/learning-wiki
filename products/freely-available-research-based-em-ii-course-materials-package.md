@@ -30,4 +30,4 @@ A freely available upper-division electrodynamics curriculum package developed b
 
 ## Key Sources
 - Charles Baily, Michael Dubson and Steven J. Pollock. (2012). Research-Based Course Materials and Assessments for Upper-Division Electrodynamics (E&M II). http://per.colorado.edu/Electrodynamics
-- Baily, C., Dubson, M., & Pollock, S. (2013). Developing Tutorials for Advanced Physics Students: Processes and Lessons Learned. http://per.colorado.edu/Electrodynamics
+- Baily, C., Dubson, M., & Pollock, S. (2013). Developing Tutorials for Advanced Physics Students: Processes and Lessons Learned. http://per.colorado.edu/Electrodynamics. [doi:10.1119/perc.2013.pr.003](https://doi.org/10.1119/perc.2013.pr.003)

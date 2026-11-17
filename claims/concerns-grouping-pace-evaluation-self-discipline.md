@@ -48,3 +48,4 @@ Focus group theme Needing to be improved: interviewees suggested instructors “
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — a broader claim this one bears on
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Nursing students reported that the in-class flipped classroom fostered self-directed learning capacity alongside teamwork, clinical thinking, and humanistic care](developed-abilities-self-directed-teamwork-clinical-thinking.md) — related
+- [The self-paced design prompted students to reflect on their self-discipline](self-paced-design-self-discipline-reflection.md) — related

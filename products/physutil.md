@@ -30,4 +30,4 @@ PhysUtil is a Georgia Tech-developed Python module that simplifies the creation 
 
 ## Key Sources
 - John M. Aiken, Marcos D. Caballero, Scott S. Douglas, John B. Burk, Erin M. Scanlon, Brian D. Thoms, Michael F. Schatz. (2012). Understanding Student Computational Thinking with Computational Modeling. https://vpython.org
-- Aiken, J. M. (2013). Transforming High School Physics with Modeling and Computation. Georgia State University. https://scholarworks.gsu.edu
+- Aiken, J. M. (2013). Transforming High School Physics with Modeling and Computation. Georgia State University. https://scholarworks.gsu.edu. [doi:10.48550/arxiv.1310.3725](https://doi.org/10.48550/arxiv.1310.3725)

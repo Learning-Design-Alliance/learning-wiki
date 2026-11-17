@@ -49,3 +49,4 @@ Descriptive content analysis of the 70 academics' email answers. The article rep
 - [Women academics mentioned fewer external motivators and more resource management strategies than men](gender-differences-in-advice-content.md) — related
 - [Academics with a higher student focus (ATI-R CCSF) advise more deep learning strategies in out-of-class email advice](student-focus-deep-learning-strategy-advice.md) — related
 - [Student-focused reflection instructions before answering led academics to give less advice than teacher-focused instructions](student-focus-reflection-less-advice.md) — related
+- [Student reflections focused on out-of-class academic work and time management, with resilience rarely addressed](grf-reflection-content-time-management-dominant.md) — related

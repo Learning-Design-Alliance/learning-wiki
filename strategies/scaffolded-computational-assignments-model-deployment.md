@@ -51,4 +51,4 @@ Leveraging MI's two-stage design, the instructor "replaced some of the worksheet
 -
 
 ## Key Sources
-- Aiken, J. M. (2013). Transforming High School Physics with Modeling and Computation. Georgia State University. https://arxiv.org/abs/1310.3725
+- Aiken, J. M. (2013). Transforming High School Physics with Modeling and Computation. Georgia State University. https://arxiv.org/abs/1310.3725. [doi:10.48550/arxiv.1310.3725](https://doi.org/10.48550/arxiv.1310.3725)

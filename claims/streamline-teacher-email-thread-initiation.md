@@ -49,3 +49,5 @@ Analysis of who originated new email discussion threads, reported in the Finding
 - [In the Streamline to Mastery community, teachers' share of group email traffic increased over the program year](streamline-teacher-email-participation-increased.md) — related
 - [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — possibly the same claim (merge candidate)
 - [Meeting agenda setting shifted from researchers providing all agenda items to teachers providing the majority](streamline-teacher-agenda-setting-shift.md) — related
+- [Teachers' formal sharing of knowledge generated in the community rose from zero presentations in 2010 to 27 presentations in 2013](knowledge-propagation-increased-to-27-presentations.md) — related
+- [In a teacher-driven PD community, teachers' share of email communication and conversation-thread initiation increased over time, indicating growing participation and leadership initiative](teacher-email-participation-increased-over-time.md) — possibly the same claim (merge candidate)

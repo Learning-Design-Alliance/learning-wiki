@@ -52,3 +52,5 @@ Class statement and follow-up interview with one student (pseudonym Anita) refle
 - [For some students the vertical location metaphor makes thinking of bond potential energy as negative more intuitive than positive](location-metaphor-negative-bond-energy-intuitive.md) — related
 - [Haphazard mixing of substance and location predicates leads students to confused reasoning about negative energy](haphazard-ontology-mixing-leads-to-confusion.md) — reports the opposite
 - [A structured blend of ontologies, not mere combination, supports productive reasoning: Peter's group succeeded where the metaphors complemented each other](structured-blend-enables-productive-reasoning.md) — a broader claim this one bears on
+- [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — a broader claim this one bears on
+- [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — related

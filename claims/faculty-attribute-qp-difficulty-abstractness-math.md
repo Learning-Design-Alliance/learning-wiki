@@ -69,3 +69,4 @@ From the same faculty interview analysis, the article reports that only three of
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
 - [Student quantum-thinking scores varied across the five faculty members' courses, with Eric's class highest (3.54 quantum, 2.00 classical)](class-level-variation-quantum-thinking-scores.md) — related
 - [The author argues that learning quantum mechanics is difficult and counter-intuitive and is much like learning a new language requiring solid mastery before fluency](learning-quantum-mechanics-like-learning-a-language.md) — possibly the same claim (merge candidate)
+- [Academics attribute student difficulties chiefly to lack of work, insufficient mastery of mathematical tools, difficulty giving physical meaning to knowledge, and lack of curiosity](student-difficulties-perceived-by-physics-academics.md) — related

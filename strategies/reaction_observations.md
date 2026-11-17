@@ -61,6 +61,7 @@ Structured observation tasks give young learners concrete experiences on which l
 - [Prediction-observation-explanation](prediction-observation-explanation.md) — a formalized version of the predict-then-observe cycle used here
 - [Activating prior knowledge](activating-prior-knowledge.md) — everyday liquid experiences (juice mixing, paint bleeding) anchor the new observations
 - [Emphasize rich materials and varied scientific activities, and spread GEMS-style education in preschool settings](gems-rich-materials-spread-strategy.md)
+- [Open with ink-drop diffusion and plasticine-mixing experiences to raise reversibility and homogeneity questions](ink-drop-plasticine-opening-experiences.md)
 
 ## Examples
 - **Colored Dots (NYSED elementary science)** — learners place a dot of colored ink on paper, touch it with a wet brush, and observe the ink bleeding into concentric color bands, then describe the spread.

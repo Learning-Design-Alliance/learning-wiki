@@ -54,3 +54,4 @@ Narrative review synthesizing 16 experimental and 4 correlational studies of jou
 - [GenAI-supported utility value reflection produced more favorable development of perceived utility value than GenAI-supported cognitive learning strategy prompting in secondary students](genai-utility-value-prompts-preserve-utility-value.md) — related
 - [UV writing assignments showed more personal focus, more social and cognitive process content, and higher articulated utility value than control summary assignments](uv-writing-style-content-versus-control.md) — related
 - [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](reflective-journal-writing-improves-self-regulation-strategies.md) — related
+- [Students who wrote about the GRF in their unguided final reflections described favorable experiences with reflection](final-reflections-positive-on-grf.md) — related

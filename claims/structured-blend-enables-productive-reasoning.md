@@ -51,3 +51,4 @@ Case study of Peter's group on the kinesin task: the group incorporated negative
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — a narrower finding that bears on this claim
 - [Daniel's letter-grade analogy reconceived gravity as an intensive property that is not enhanced or diluted by combining or dividing objects](letter-grade-analogy-gravity-intensive-property.md) — related
 - [Teachers in energy professional development spontaneously discuss energy as present but inaccessible while retaining commitment to energy conservation](teachers-energy-present-but-inaccessible.md) — related
+- [An expert physics instructor blends the energy-as-substance and energy-as-location metaphors into a single mental space rather than switching between separate ontologies](expert-substance-location-blend-energy.md) — related

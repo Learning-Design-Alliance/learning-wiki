@@ -52,3 +52,4 @@ Definitional and synthetic review statement contrasting two motivational regulat
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — related
 - [The study examines the development of motivational regulation strategy knowledge and its longitudinal relationship with academic procrastination over the course of study](motivational-regulation-knowledge-longitudinal-procrastination.md) — related
+- [Classroom context, not only student characteristics, drives whether students engage out of fear or self-expression](context-drives-fear-or-self-expression.md) — related

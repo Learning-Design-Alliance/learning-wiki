@@ -54,6 +54,8 @@ The activity runs as timed segments: a 25-minute introduction with slideshow, a 
 - [Lecture-course adaptation using a pre-lab website and TA-supported discussion sections](lecture-course-adaptation-prelab-website-ta-sections.md)
 - [Organize laboratory meetings as short introduction followed by inquiry in which students explore qualitatively, guess, and immediately test hypotheses](inquiry-guess-test-laboratory-cycle.md)
 - [Use guided-inquiry prompts organized by modeling-framework stages (construction, prediction, measurement modeling, comparison, refinement) in a polarization-of-light lab](modeling-prompt-stages-polarization-lab.md)
+- [Classroom implementation structure: preparation, introduction, activity, feedback cycle](activity-feedback-cycle-classroom-structure.md)
+- [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
 
 ## Examples
 -

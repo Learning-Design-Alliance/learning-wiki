@@ -50,3 +50,4 @@ The authors combine the written Taylor series pretest data with Year 1 teaching 
 - [Clinically interviewed students recognize the Taylor series as a relevant physics tool but lack criteria for when to use it and how many terms to keep](students-lack-truncation-criteria-taylor-series.md) — related
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [Students execute formal Taylor series definitions correctly but rarely use optimized expansion-template mapping](taylor-execution-template-mapping-rare.md) — a narrower finding that bears on this claim
+- [A computer-based statistical approach to entropy teaching succeeds with students at both introductory and upper-division levels](computer-statistical-entropy-approach-student-success.md) — related

@@ -59,3 +59,4 @@ This is design-based research across a small number of intensively-analyzed clas
 - [Underlying assumptions dictate how the five foundations are operationalized in a learning environment](assumptions-dictate-foundation-operationalization.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on
+- [Students often bypass articulating assumptions when a ready-made mathematical model is available](assumptions-bypassed-with-ready-mathematical-model.md) — related

@@ -51,3 +51,4 @@ Written Taylor series pretest administered before the Boltzmann Factor tutorial 
 - [Student difficulty using Taylor series in the tutorial context is not localized to one population, as reported at a second university](taylor-series-difficulty-not-localized-one-population.md) — related
 - [Only one of four interviewed students spontaneously generated a Taylor series expansion of reservoir entropy in the Boltzmann factor derivation](students-fail-to-spontaneously-generate-taylor-series-physical-context.md) — related
 - [Upper-division physics students often fail to activate approximation methods under implicit cueing, while explicit cueing reliably triggers them](implicit-cueing-taylor-approximation-activation.md) — related
+- [A computer-based statistical approach to entropy teaching succeeds with students at both introductory and upper-division levels](computer-statistical-entropy-approach-student-success.md) — related

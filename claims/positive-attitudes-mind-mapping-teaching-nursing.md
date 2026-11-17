@@ -49,3 +49,5 @@ Self-designed 5-point Likert questionnaire on mind mapping application, validate
 - [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](positive-attitude-toward-concept-mapping-likert.md) — related
 - [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
 - [Nursing students reported enhanced analytical and critical thinking skills as learning outcomes of EBP teaching strategies](ebp-teaching-enhances-analytical-skills-nursing.md) — related
+- [Students held positive attitudes toward using a Facebook page as a learning method](positive-student-attitudes-facebook-learning.md) — related
+- [Students surveyed reported highly positive attitudes toward the MCQ-authoring method and perceived benefits for understanding and problem-solving](survey-positive-attitudes-mcq-authoring.md) — related

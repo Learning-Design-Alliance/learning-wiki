@@ -87,3 +87,5 @@ Whole-test discrimination statistic for the QMCS: "Ferguson’s delta for the QM
 - [Facet difficulty and intercorrelation patterns: analyzing givens was easiest, evaluating progress hardest, and planning correlated 0.98 with the overall estimate](facet-difficulty-and-intercorrelations.md) — related
 - [The synthetic exercises differ in difficulty, with Teddy bears and Circles easiest, Matches and Glove finger intermediate, and Beans hardest](tes-exercise-difficulty-ordering.md) — related
 - [Modern physics students' QMCS pretest scores are only slightly above random guessing](qmcs-pretest-near-random-guessing.md) — related
+- [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
+- [CURrENT discriminates students of different abilities (Ferguson's δ = 0.99)](current-discriminates-student-abilities.md) — related

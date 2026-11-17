@@ -51,3 +51,4 @@ Theoretical argument in Siegel's plenary paper, illustrated with worked examples
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
 - In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related
+- [Conference participants concluded that central to science is argumentation, criticism, and analysis, and students need to understand this](central-to-science-argumentation-criticism-analysis.md) — related

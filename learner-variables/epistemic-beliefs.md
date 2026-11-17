@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (45 show a difference, 12 mixed, 4 no difference) · 37 studies (10 causal, 6 qualitative, 6 design, 5 review, 5 associational, 3 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 37 report an effect size · 61 claims rest on one study
+> **Evidence** · 62 claims (46 show a difference, 12 mixed, 4 no difference) · 38 studies (10 causal, 6 review, 6 qualitative, 6 design, 5 associational, 3 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 38 report an effect size · 62 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -93,6 +93,7 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Modeling Instruction is demonstrably effective at teaching physics concepts, developing self-efficacy, enriching notions of the nature of science, and improving traditional problem-solving competence](../claims/modeling-instruction-demonstrably-effective-multiple-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [An engineering student's failure at mathematical sense-making during problem solving stemmed in part from his epistemological views rather than from knowledge or skill deficits](../claims/epistemology-not-deficit-explains-stuck-problem-solving.md) [+M] — learners who differ on it differ in outcomes
 - [Jim's seemingly stubborn epistemological stance shifted in response to a contextual cue: a prompt about the sign of g unstuck him quickly and eagerly](../claims/epistemological-stance-shifts-with-contextual-cues.md) [+M] — measured as an outcome of the instruction studied
+- [Immersive inquiry research experiences produced significant gains in teachers' understanding of the nature of science and in their students' understanding](../claims/immersive-research-teacher-nos-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

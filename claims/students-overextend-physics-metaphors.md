@@ -54,3 +54,4 @@ Case study of a four-student homework group videotaped while solving a French an
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related
 - [Physicists and mathematicians tend to interpret the same symbolic function differently, as shown by the coordinate-transformation 'shibboleth' problem](corinnes-shibboleth-physicist-mathematician-contrast.md) — related
 - [Disorder and chaos metaphors do productive work for students in making sense of diffusion and osmosis](disorder-metaphor-productive-diffusion-osmosis.md) — related
+- [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related

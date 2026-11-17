@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 192 claims (100 for, 77 mixed, 15 against) · 162 studies (80 causal, 24 review, 16 associational, 15 quant-synthesis, 14 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 162 report an effect size · 191 claims rest on one study
+> **Evidence** · 194 claims (102 for, 77 mixed, 15 against) · 163 studies (81 causal, 24 review, 16 associational, 15 quant-synthesis, 14 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 163 report an effect size · 193 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -227,6 +227,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](../claims/ar-obgy-3d-understanding-clinical-thinking-perceptions.md) [+W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures"; tests this page's relationship.
 - [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](../claims/ar-obgy-satisfaction-no-difference.md) [~W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures".
 - [Public high-school students used the free CAS Maxima to build small routines, such as a unit-conversion routine, and created, answered and tested questions; the authors again report a successful experience](../claims/high-school-maxima-routines-introductory-physics.md) [+W] — attached 2026-11-16 from Danilo T. Alves (2011), which proposed "Syntax-free interactive graphical interfaces connected to a computer algebra system".
+- [Introducing iPads and screencasting into an urban high school physics class was followed by increased student social status, opportunities for play, and a sense of agency](../claims/ipad-inclusion-social-status-play-agency.md) [+W] — attached 2026-11-17 from Van Dusen (2014), which proposed "iPad with screencasting as a boundary object bridging peer, classroom, and physics cultural practices".
+- [Students created more complete and more correct physics solutions when using screencasts instead of their traditional notebooks](../claims/screencasts-more-complete-correct-solutions.md) [+W] — attached 2026-11-17 from Van Dusen (2014), which proposed "iPad with screencasting as a boundary object bridging peer, classroom, and physics cultural practices".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

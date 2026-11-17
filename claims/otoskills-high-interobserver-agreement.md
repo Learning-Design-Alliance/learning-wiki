@@ -56,3 +56,4 @@ Interobserver agreement analysis of anonymized video evaluations by two expert o
 - [Two independent blinded video raters showed excellent agreement when scoring chest tube insertions with the modified OSATS (ICC=0.96)](osats-chest-tube-interrater-reliability-icc.md) — related
 - [Novel didacticism measure is highly reproducible (intraclass coefficient 0.97)](didacticism-measure-high-reproducibility.md) — related
 - [The TABLT test shows high reliability with an intraclass correlation coefficient of 0.99](tablt-high-reliability-icc-099.md) — related
+- [CURrENT scoring rubric achieves high inter-rater reliability](current-rubric-high-inter-rater-reliability.md) — related

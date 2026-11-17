@@ -86,3 +86,4 @@ Multivariate Tests output (Wilks' Lambda 0.142, F = 433.577, sig 0.000) from the
 - [The electric circuit interpretation test is suitable for students with lower to moderate ability levels (-2.7 ≤ θ ≤ 1.8)](circuit-interpretation-test-suits-lower-moderate-ability.md) — related
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](cl-prototypes-physics-topics.md) — related

@@ -48,3 +48,5 @@ Within-expert-rating analysis excluding the single "excellent" instructor rating
 - [Student-instructor agreement gains were concentrated at the middle of the rating scale, with the largest gain on items instructors rated \"good\" and low agreement on \"poor\" and \"fair\"](agreement-gain-largest-in-good-rating.md) — reports the opposite
 - [Persistent student-instructor disagreements suggest students and instructors attend to different video features when evaluating](video-watching-practices-differ.md) — related
 - [Students appeared to adopt instructors' rating-scale norms, nearly ceasing to give \"excellent\" ratings after Lab 2](students-adopt-instructor-rating-norms.md) — related
+- [Fall students picked up instructor norms on severe, obvious flaws but not on nuanced flaws in physics discussion](peer-evaluators-pick-up-severe-not-nuanced-flaws.md) — related
+- [After the practice-video intervention, students adopted more rigorous evaluative norms for introductions and for identification of physics principles](practice-videos-rigorous-norms-introduction-physics-principles.md) — related

@@ -62,6 +62,7 @@ Talk moves operationalize "accountable talk" — classroom discourse that is acc
 - [Active Listening](active-listening.md) — talk moves presuppose and train genuine listening to peers' contributions
 - [Sentence Frames](sentence-frames.md) — the broader family of language supports of which talk moves are a discussion-specific instance
 - [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
+- [Develop a framework for skilled reasoning-based classroom discussion with discussion goals, discussable questions, norms, and talk tools](reasoning-based-discussion-framework-strategy.md)
 
 ## Related Elements
 - [Argumentation](../elements/argumentation.md) — talk moves give learners the linguistic tools to enact argumentation norms

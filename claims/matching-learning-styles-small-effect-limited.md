@@ -50,3 +50,4 @@ Re-analysis of Hattie's (2009) synthesis on matching learning styles. The articl
 ## Related Claims
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — reports the opposite
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
+- [Hattie's synthesis reports large effect sizes for quality of teaching and teacher-student relationships](hattie-effect-sizes-teaching-quality-relationships.md) — related

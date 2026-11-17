@@ -61,10 +61,12 @@ Journaling works by forcing generative processing: converting experience into la
 6. Close the loop with an end-of-term synthesis entry in which learners reread and evaluate their own trajectory.
 
 ## Related Strategies
+
 - [Self-Explanation](../elements/self-explanation.md) — journaling is self-explanation in written, persistent form
 - [Exam Wrappers](exam-wrappers.md) — a tightly scoped journaling variant tied to assessment feedback
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening journal entries can serve as the activation step before new instruction
 - [Check-Ins](../principles/check-ins.md) — affective micro-journaling as a classroom routine
+- [Shared online reflective journals for the instructional team](shared-reflective-journaling-strategy.md)
 
 ## Examples
 - **Double-entry journals in introductory biology** — students quote a passage from assigned reading on the left and explain its significance or question it on the right, then bring entries to [Class Discussion](../elements/class-discussion.md).

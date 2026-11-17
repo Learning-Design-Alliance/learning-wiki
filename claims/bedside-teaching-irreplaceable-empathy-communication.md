@@ -54,3 +54,4 @@ Theme 2 interview data from clinical faculty at the Pakistani study site; facult
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — reports the opposite
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Faculty endorsed a multimodal, scaffolded teaching structure—skills lab, tutorials, case-based learning, wards and outpatient departments—while favouring a bedside-heavy time split](multimodal-clinical-teaching-structure-faculty-preferences.md) — related
+- [Physics academics regard the lecture hall (amphi) as an irreplaceable teaching format whose success is judged by student participation and presence, not by exam results](amphi-irreplaceable-judged-by-participation.md) — related

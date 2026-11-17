@@ -29,4 +29,4 @@ An 18-poster standards-correlation framework developed by Larry Bowman and colle
 
 ## Key Sources
 - Larry L Bowman, Jr. and Aimee L Govett. (2014). Becoming the Change: A Critical Evaluation of the Changing Face of Life Science, as Reflected in the NGSS. Submitted to The Science Educator. http://www.etsu.edu/cas/gk/
-- Bowman, Jr., Larry L. and Govett, Aimee Lee. (2014). Changes to the TN Middle Grades Science Curriculum According to NGSS. As submitted to Tennessee Educational Leadership Journal on March 28, 2014. http://www.etsu.edu/cas/gk/
+- Bowman, Jr., Larry L. and Govett, Aimee Lee. (2014). Changes to the TN Middle Grades Science Curriculum According to NGSS. As submitted to Tennessee Educational Leadership Journal on March 28, 2014. http://www.etsu.edu/cas/gk/. [doi:10.48550/arxiv.1404.0690](https://doi.org/10.48550/arxiv.1404.0690)

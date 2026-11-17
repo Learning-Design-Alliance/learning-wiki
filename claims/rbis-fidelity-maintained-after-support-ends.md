@@ -48,3 +48,5 @@ SES-reported assessment of teaching fidelity using a criteria set supplied by th
 - [Over 90% of CWSEI RBIS adopters in EOAS and PHAS who had the opportunity went on to use RBIS in additional courses without ongoing support](cwsei-adopters-spread-rbis-other-courses.md) — related
 - [With CWSEI support, only 1 of 70 UBC science faculty RBIS adopters subsequently quit using the strategies, far below the one-third quitting rate found for US physics faculty](cwsei-one-of-seventy-adopters-quit-rbis.md) — related
 - [The fraction of faculty refusing to use RBIS because they did not believe in them decreased noticeably over time in every CWSEI-supported department](rbis-skepticism-declines-with-department-involvement.md) — related
+- [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related
+- [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related

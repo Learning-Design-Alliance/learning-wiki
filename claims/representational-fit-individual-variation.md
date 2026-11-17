@@ -60,3 +60,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Trails pointed students to objects they would not otherwise have noticed and helped when galleries felt overwhelming](trails-focus-attention-in-large-museums.md) — related
 - [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
+- [Finding the right visual metaphors was key to students interpreting scientific concepts accurately without being too literal](metaphor-finding-key-art-science-interpretation.md) — related

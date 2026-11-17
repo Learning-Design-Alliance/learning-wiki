@@ -50,3 +50,4 @@ Mixed-effects logistic regression of 6600 question attempts from 330 fifth-year 
 - [Among incorrect responses, high certainty increases the odds of an unsafe response except in the lowest-scoring group](incorrect-high-certainty-more-unsafe.md) — related
 - [Higher certainty is associated with lower odds of unsafe MCQ responses overall](mcq-certainty-lower-unsafe-odds.md) — related
 - [Certainty-rated pre- and post-test results flagged 14 of 50 MCQs for review of question formulation and content delivery, leading to course changes the following year](crmcq-flagged-14-of-50-mcqs-review.md) — related
+- [Correct responses and certainty on a mixed-versus-superposition question increased from pre-test to post-test after the simulation homework](superposition-mixed-states-pretest-posttest-gains.md) — related

@@ -48,3 +48,4 @@ The chapter summarizes multiple misconception studies (Prather et al. 2003; Wall
 ## Related Claims
 - [The most common challenges to integrating EBHC in clinical settings are lack of space, misconceptions about EBHC, staff resistance, tutor confidence, time and negative role modelling](challenges-integrating-ebhc-clinical-settings.md) — related
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
+- [The proportion of students dismissing the Big Bang theory as unsubstantiated speculation decreased from pre-course to post-course](big-bang-dismissal-decreased-post-course.md) — related

@@ -48,3 +48,4 @@ Observer feedback survey administered in Spring 2015 for 41 of the 80 clicker cl
 ## Related Claims
 - [Campus-wide clicker use falls into three predominant modes: Peer Discussion, Individual Thinking, and Alternative Collaboration.](three-modes-of-clicker-use.md) — a broader claim this one bears on
 - [Individual Thinking clicker class sessions devote significantly more time to instructor lecturing and student listening than the other two clicker-use modes.](individual-thinking-mode-more-lecture.md) — related
+- [Students' unprompted free-response comments strongly praised clicker use while criticizing the substitute lecturer's clarity of explanations](free-response-comments-praise-clickers-criticize-substitute-clarity.md) — related

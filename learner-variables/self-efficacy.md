@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 359 claims (271 show a difference, 47 mixed, 41 no difference) · 284 studies (95 causal, 91 associational, 33 review, 27 qualitative, 19 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 284 report an effect size · 355 claims rest on one study
+> **Evidence** · 360 claims (272 show a difference, 47 mixed, 41 no difference) · 285 studies (95 causal, 91 associational, 33 review, 28 qualitative, 19 design, 10 quant-synthesis, 8 theoretical), `q1`–`q4` · 58 of 285 report an effect size · 356 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -390,6 +390,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the appraising domain (r = 0.24, p = 0.1)](../claims/poor-correlation-self-perceived-objective-ebm-appraising.md) [-W] — learners who differ on it differ in outcomes
 - [Medical students' self-perceived competence in EBM correlates poorly with objectively measured EBM competence in the searching domain (r = 0.13, p = 0.4)](../claims/poor-correlation-self-perceived-objective-ebm-searching.md) [-W] — learners who differ on it differ in outcomes
 - [Pre-service teachers' science teaching efficacy beliefs improved on most STEBI items after instruction in LA-supported classes](../claims/stebi-gains-students-la-classes.md) [+M] — measured as an outcome of the instruction studied
+- [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](../claims/affect-self-efficacy-persistence.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

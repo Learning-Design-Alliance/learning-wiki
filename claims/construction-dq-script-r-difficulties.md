@@ -70,3 +70,6 @@ Five formal think-aloud interviews with students who had completed E&M 1. Four o
 - [Most junior-level E&M students correctly selected direct integration via Coulomb's Law for a disk potential problem, but a substantial minority routed through the electric field first](coulomb-law-activation-selection-patterns.md) — related
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](execution-math-errors-not-primary-barrier.md) — related
 - [Half of students who executed the integral made mathematical errors, most of them significant ones such as pulling integration variables outside integrals](execution-significant-math-errors.md) — related
+- [ACER captures some prior difficulty observations but fails to capture exclusively conceptual difficulties](acer-fails-exclusively-conceptual-difficulties.md) — related
+- [Locating the charge distribution from delta function arguments (element C2) is a minor difficulty, but errors concentrate in sign switches and orientation](delta-function-location-errors-sign-orientation.md) — related
+- [Procedural math fluency is often not the primary barrier; upper-division students struggle to interpret and generate mathematical expressions in physics](interpretation-not-procedural-fluency-barrier.md) — a broader claim this one bears on

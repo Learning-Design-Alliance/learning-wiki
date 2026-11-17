@@ -50,6 +50,7 @@ The article recommends a faculty-development pathway modeled on co-teaching: an 
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Mentor-supported implementation sequence: pre-course orientation workshops, one-on-one topic selection and individualized learning contracts](mentor-supported-topic-selection-implementation-sequence.md)
 - [Combine conceptual curriculum reform, mixed-format testing, hands-on demonstrations, semester projects, and university research involvement in high school physics](hs-physics-engagement-strategy-package.md)
+- [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 
 ## Examples
 -

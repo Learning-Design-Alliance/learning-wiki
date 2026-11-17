@@ -50,3 +50,4 @@ Affordance analysis of the probeware (MBL) lab, where a motion sensor displays p
 - [The tape timer affords study of downward motion only, so the direction of acceleration and the acceleration at the turning point cannot be addressed](tape-timer-one-direction-limit.md) — related
 - [What is possible for students to perceive or discern in a laboratory depends on the measurement technology used, even when the object of learning is the same](technology-determines-discernible-critical-features-labs.md) — a broader claim this one bears on
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — related
+- [The misconception that acceleration is zero at the top of toss-up motion persisted despite gains on the highest-point velocity item](zero-acceleration-apex-misconception-persists.md) — related

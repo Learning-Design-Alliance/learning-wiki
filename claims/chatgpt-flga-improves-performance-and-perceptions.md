@@ -73,3 +73,4 @@ A quasi-experiment in a courseware project compared two intact classes: one (42 
 - [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — related
 - [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related
 - [Flipped learning improved knowledge and skill subscale gains but not attitude gains relative to traditional instruction](flipped-learning-knowledge-skill-not-attitude-gains.md) — reports the opposite
+- [Students taught via CAS-based computer modeling showed increased motivation and higher self-estimated knowledge](cas-modeling-motivation-self-attestation.md) — related

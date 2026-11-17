@@ -50,6 +50,7 @@ The article enumerates potential motivations for using online video in physics l
 - [Flipped Classroom](flipped-classroom.md)
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
 - [Use videos of physics experiments for prediction-then-check activities, group data analysis, and demonstration of phenomena hard to show live](physics-video-prediction-group-analysis-strategy.md)
+- [Flip videos introducing the Tracker interface before class so lesson time goes to richer discussion](flip-videos-tracker-interface-before-class.md)
 
 ## Examples
 -

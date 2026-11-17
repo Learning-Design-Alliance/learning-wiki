@@ -48,3 +48,4 @@ Re-analysis of Hattie's (2009) synthesis reporting on reciprocal teaching. The t
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — related
 - [Across 169 meta-analyses, 254 variables with 427 effect sizes influence academic achievement; most variables have small or very small effects and none has a large, very large or huge negative effect](254-variables-427-effect-sizes-overview.md) — a broader claim this one bears on
 - [Co-teaching/team teaching shows a very low effect size of ES = 0.19](co-teaching-very-low-effect-size.md) — related
+- [Hattie's synthesis reports large effect sizes for quality of teaching and teacher-student relationships](hattie-effect-sizes-teaching-quality-relationships.md) — related

@@ -59,3 +59,4 @@ Authors' qualitative reflection on failure modes encountered across the ten-week
 - [At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience](kt1-model-resistance-six-of-ten-assignments.md) — related
 - [Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.](no-conceptual-hallucinations-28-contexts.md) — related
 - [Cooperative Project-Based Learning Methodology Engages Students in AI Topics](cpbl-methodology-ai-engagement.md) — a broader claim this one bears on
+- [The authors report that the three-phase project approach produced significant learning outcomes in Big Data skills](three-phase-big-data-significant-learning-outcomes.md) — related

@@ -13,7 +13,7 @@ generated:
 # Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.
@@ -28,6 +28,7 @@ Mastery learning is the element in which progression depends on demonstrated und
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [+W]
+- [Upside-down mastery inversion occurs only as Na becomes greater than Nu, transitioning from bell-shaped to exponential-shaped curves](../claims/na-greater-than-nu-inversion-upside-down.md) [~W] — attached 2026-11-17 from Danilo T. Alves et al. (2022), which proposed "Personalized System of Instruction (PSI) with mastery, self-pacing, repeated testing and immediate feedback".
 
 ## Related Elements
 - [Reassessment](reassessment.md)

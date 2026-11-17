@@ -51,3 +51,5 @@ Psychometric analysis of the MC CUE in the E&M 1 sample. The article notes the C
 - [Item-level score differences between MC and FR CUE versions are significant for 4 of 16 items, with the MC version easier on only two](mc-cue-item-difficulty-four-of-sixteen.md) — related
 - [Scores on the multiple-choice CUE do not differ significantly from scores on the free-response version in an upper-division electrostatics course](mc-cue-scores-match-fr-cue.md) — related
 - [A first 28-item multiple-choice version of the QMAT given to 61 students at two institutions showed strikingly similar item difficulty across institutions and low, comparable mean scores](mc-qmat-first-version-item-difficulty-similar-institutions.md) — related
+- [CMR and FR CUE show similar discrimination and internal consistency](cmr-reliability-discrimination-consistency.md) — related
+- [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — a broader claim this one bears on

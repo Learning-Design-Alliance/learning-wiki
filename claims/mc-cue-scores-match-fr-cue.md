@@ -9,6 +9,7 @@ generated:
   at: 2026-11-17
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-17
 recheck_by: 2016
 sources:
   - id: bethany-r-wilcox-and-steven-j-pollock-2013
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
+> **Currency** · newest study 2013 · checked against its sources 2026-11-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Using the R2 rubric, the average MC CUE score (58.9 ± 3.6%) was not significantly different from the average FR score (60.5 ± 2.8%; t-test p = 0.7) in matched groups of 25 students each. [→ Bethany R. Wilcox and Steven J. Pollock 2013](#bethany-r-wilcox-and-steven-j-pollock-2013)
@@ -51,3 +52,8 @@ Quasi-experimental comparison in E&M 1 at CU: half of the class (25 students) to
 - [Item-level score differences between MC and FR CUE versions are significant for 4 of 16 items, with the MC version easier on only two](mc-cue-item-difficulty-four-of-sixteen.md) — related
 - [The MC CUE shows acceptable internal consistency and discriminatory power comparable to the FR version](mc-cue-reliability-alpha-ferguson.md) — related
 - [Think-aloud interviews suggest the select-all reasoning elements do not significantly inflate MC CUE scores](mc-cue-reasoning-elements-no-score-inflation.md) — related
+- [Consistency-based scoring reduces credit obtainable by random guessing on the CMR CUE](cmr-consistency-scoring-reduces-guessing-credit.md) — related
+- [CMR and FR versions of the CUE yield the same average score under a nuanced grading rubric](cmr-fr-cue-equal-average-scores.md) — related
+- [CU's upper-division assessments meet standard Classical Test Theory validation criteria, with overall scores of 45-55% enabling discrimination](cu-assessments-ctt-validation-statistics.md) — related
+- [OSU students scored dramatically higher on multiple-choice than free-response CUE versions for some questions, with a 7-fold increase on the dipole-moment question](cue-fr-mc-score-discrepancies-osu.md) — related
+- [A strict right/wrong rubric breaks agreement between CMR and FR CUE scores](strict-rubric-breaks-cmr-fr-agreement.md) — related

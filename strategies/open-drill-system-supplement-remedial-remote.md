@@ -50,6 +50,7 @@ Because the tutor-web is freely accessible without regard to physical location o
 - [Supplement in-class physics teaching with a teacher-developed website offering modelled solutions, online quizzes with feedback, and moderated chats](supplement-in-class-teaching-with-teacher-developed-website.md)
 - [Use web-based learning as a flexible supplemental tool before practical training, pending further research on its optimal use](web-course-supplemental-before-practical-training.md)
 - [Supplement tutoring with vetted online video lectures and modeled solutions to close analogues](vetted-online-videos-and-analogue-solutions.md)
+- [Supplement computer-based mathematics courses with videos of experienced users working problems, and use over-qualified teachers, because optimized methods embed subconscious knowledge](videos-of-experienced-users-strategy.md)
 
 ## Examples
 -

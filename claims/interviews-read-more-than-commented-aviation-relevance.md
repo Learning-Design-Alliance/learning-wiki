@@ -67,3 +67,4 @@ In the same interviews, "most students replied that their interest increased mos
 - [Student blog comments progressed from surface-level to substantive over the semester, and commenting frequency tracked established face-to-face relationships with authors](blog-comments-surface-to-substantive-face-to-face-effect.md) — related
 - [Pre-to-post CLASS percent favorable scores rose in every category in the blog semester, with Personal Interest the one statistically significant shift](blog-semester-class-personal-interest-significant-increase.md) — related
 - [Periodic in-class surveys showed improved self-confidence in all identified skills, with lab and class activities cited far more often than the blog](in-class-surveys-confidence-improved-lab-and-activities-cited.md) — related
+- [Post-course, more than 80% of students reported high levels of both met expectations and interest in the course](high-post-course-expectations-met-and-interest.md) — related

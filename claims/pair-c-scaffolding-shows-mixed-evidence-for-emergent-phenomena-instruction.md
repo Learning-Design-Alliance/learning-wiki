@@ -80,3 +80,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — related
 - [There was no difference between groups in the change in deep learning approach across time](no-difference-deep-approach-change-cbl.md) — related
+- [A structured-inquiry remote telescope evaluation showed highly significant gains in astronomical understanding and reduced alternative conceptions, with perception gains varying dramatically between schools](csurtp-eye-observatory-evaluation-gains.md) — related

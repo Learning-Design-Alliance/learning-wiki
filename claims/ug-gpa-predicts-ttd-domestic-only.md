@@ -49,3 +49,4 @@ Pearson correlation of undergraduate GPA with time to degree across the 2007–2
 - [Quantitative GRE percentiles negatively correlate with PhD time to degree for all students, females, and international students](gre-quant-percentiles-correlated-ttd.md) — related
 - [Admissions committee scores do not predict PhD time to degree for any demographic group analyzed](admissions-scores-not-correlated-time-to-degree.md) — related
 - [Undergraduate GPA was not correlated with faculty rating in this highly selected graduate cohort](undergraduate-gpa-not-correlated-faculty-rating.md) — related
+- [PER graduate students with undergraduate physics degrees learned of PER earlier than those without physics degrees](physics-degree-earlier-per-discovery.md) — related

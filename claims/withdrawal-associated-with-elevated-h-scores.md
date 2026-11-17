@@ -47,3 +47,4 @@ Observational comparison of students who attended Midterm 1 but neither later ex
 ## Related Claims
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
 - [Daily assessments increased withdrawal rates compared to daily homework](daily-assessments-increased-withdrawal-rates.md) — related
+- [Distance-course completers, withdrawing students, and on-campus students performed equally on a pre-class survey of astronomical concepts](geas-preclass-survey-no-group-differences.md) — related

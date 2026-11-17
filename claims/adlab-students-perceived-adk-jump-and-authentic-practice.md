@@ -55,3 +55,5 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related
 - [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related
 - [The VCL's open infrastructure leaves all variables to students' experimental design](vcl-open-infrastructure-student-design.md) — related
+- [Experiencing authentic research shifts the perceived threshold from doing research to doing independent research](authentic-research-shifts-threshold-to-independent-research.md) — related
+- [In AdLab observations, a centrally-positioned student's positive affect toward physics became spontaneous and unsolicited](spontaneous-positive-affect-central-membership.md) — related

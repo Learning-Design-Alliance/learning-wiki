@@ -58,3 +58,4 @@ The review's coding found misconception-addressing work concentrated in science,
 - [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — a narrower finding that bears on this claim
 - [Using analogies to teach general relativity entails a considerable risk of misconception formation](gr-analogies-misconception-risk.md) — related
+- [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — a narrower finding that bears on this claim

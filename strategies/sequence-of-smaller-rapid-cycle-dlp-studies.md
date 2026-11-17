@@ -53,6 +53,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 - [Iteratively add complex clinical content and refine difficulty level before a full trial](add-complex-clinical-content-next-iteration-strategy.md)
 - [Improve the e-learning package's explanations and feedback, then re-test in an adequately powered trial of 90 participants](improve-lacaep-then-powered-trial-strategy.md)
+- [Use a two-phase pre-usability testing method (requirements gathering then questionnaire ranking) before developing a mobile collaborative learning application](two-phase-pre-usability-testing-strategy.md)
 
 ## Examples
 -

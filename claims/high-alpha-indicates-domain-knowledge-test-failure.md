@@ -73,3 +73,5 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
 - [The 40-item tests showed poor to moderate reliability, with the pre-course test highly random (alpha −0.022)](anatomical-test-reliability-poor-moderate.md) — related
 - [The BDF/PCC instrument showed high internal consistency, with Cronbach's α of 0.98 for the full scale](bdf-pcc-cronbach-alpha-0-98.md) — related
+- [CURrENT shows adequate internal consistency (Cronbach's alpha = 0.72)](current-adequate-internal-consistency.md) — related
+- [Standard psychometric criteria and single-construct assumptions are inappropriate for formative assessments like the CLASS](psychometric-single-construct-criteria-inappropriate-for-fasi.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Author's observational interpretation from the Discussion, not a tested result; 
 - [Students can apply procedural knowledge to solve integration problems but show limited understanding of basic integration concepts](procedural-strong-conceptual-limited-integral.md) — related
 - [Students exposed to the heuristic approach developed invented strategies and extended knowledge to unfamiliar situations, per the author's interpretation](heuristic-students-invented-strategies-transfer-interpretation.md) — related
 - [Students often possess relevant mathematical knowledge but fail to apply or interpret it in physics problem contexts](math-knowledge-fails-to-transfer-to-physics.md) — related
+- [Experiment-oriented physics students showed very high interest in the mathematical peculiarities of probability and randomness foundations](physics-students-high-interest-probability-foundations.md) — related

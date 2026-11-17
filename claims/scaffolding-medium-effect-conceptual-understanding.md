@@ -49,3 +49,4 @@ Quasi-experimental comparison of conceptual understanding gains on electromagnet
 - [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related
 - [Experimental class significantly outperformed control class in conceptual understanding of electromagnetism](kruskal-wallis-significant-conceptual-difference.md) — related
+- [The misconception that radio telescopes collect sound waves decreased after instruction, with 84% post-course correctly identifying electromagnetic waves](ska-sound-wave-misconception-reduced-post-course.md) — related

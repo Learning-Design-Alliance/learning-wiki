@@ -56,4 +56,4 @@ Because epistemological stances are nuanced and context-sensitive, the authors r
 -
 
 ## Key Sources
-- Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. https://arxiv.org/abs/1003.4288
+- Gupta, A., & Elby, A. (2011). Beyond deficit-based models of learners' cognition: Interpreting engineering students' difficulties with sense-making in terms of fine-grained epistemological and conceptual dynamics. Submitted to Journal of Engineering Education. https://arxiv.org/abs/1003.4288. [doi:10.48550/arxiv.1003.4288](https://doi.org/10.48550/arxiv.1003.4288)

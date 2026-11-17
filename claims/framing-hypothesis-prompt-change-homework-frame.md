@@ -47,3 +47,5 @@ This is the author's interpretive hypothesis (type e) offered in the analysis of
 ## Related Claims
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Reading core materials and completing assignments were the most time-consuming course activities](reading-and-assignments-most-time-consuming.md) — related
+- [Participation in a context requiring authoring of activity is hypothesized to lead to changes in participation, agency, and identity as instigators of change](authoring-of-activity-builds-agency-and-identity.md) — related
+- [Microscopic studies link student framing to resource activation, and frame shifts are frequent with instructor prompts enabling productive transitions](framing-drives-resource-activation.md) — related

@@ -40,6 +40,7 @@ The easiest use of the material is in lecture demonstrations, where the simple P
 ## Related Strategies
 
 - [Incorporate computation into an existing classical mechanics course through in-class demonstrations followed by student projects that progress from template modification to independent construction](demonstration-template-to-independent-projects.md)
+- [Teach test-driven development via live coding on a vector class exercise](tdd-live-coding-vector-exercise-strategy.md)
 
 ## Examples
 -

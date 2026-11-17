@@ -66,3 +66,4 @@ The abstract reports that the multi-year conversation between the physicist and 
 ## Related Claims
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [Epistemological expectation mismatches between students and instructors surfaced around independence, math, and social norms](epistemological-expectation-mismatches-astronomy.md) — related

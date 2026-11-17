@@ -49,3 +49,5 @@ Preliminary implementation of the first MC version at Cal Poly Pomona (N=17) and
 - [Converting open-ended QMAT Q6 to MC items yielded one item at ideal difficulty (~50% correct) and one overly challenging item, guiding revision choices](q6-mc-conversion-item-difficulty-q16-q17.md) — a narrower finding that bears on this claim
 - [For the Q12-derived operator items, most students identified a false statement but few selected all correct reasoning options, and multi-correct items showed undesirable difficulty](q12-operator-items-multicorrect-difficulty.md) — a narrower finding that bears on this claim
 - [The MC CUE shows acceptable internal consistency and discriminatory power comparable to the FR version](mc-cue-reliability-alpha-ferguson.md) — related
+- [QMAT data reveal widespread student difficulties relating the Hamiltonian to time evolution of quantum states](qmat-hamiltonian-time-evolution-difficulties.md) — related
+- [QMCA score patterns across five quantum concept areas are strikingly similar across 10 institutions, with greatest variation in measurement](qmca-cross-institution-consistent-patterns.md) — related

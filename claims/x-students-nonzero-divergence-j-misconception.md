@@ -47,3 +47,6 @@ Open-response CURrENT Q3 results at Institution X (N=11). The article reports th
 ## Related Claims
 - [Approximately 40% of students incorrectly answer that a large box enclosing a recoiling gas container would itself recoil](students-box-recoil-misconception-40-percent.md) — related
 - [17% of students think some delay exists between the motion of the piston and container in recoil](students-believe-recoil-delay-piston-container.md) — related
+- [Incorrect answers to CURrENT Q4(b) cluster around a small set of reasoning types, most commonly that the magnitude of J increasing to the right implies non-zero divergence](categorized-incorrect-reasoning-divergence-current-density.md) — related
+- [On a midterm dipole question most students correctly located non-zero divergence at the sources, but many did not transfer this resource to the current-density context](dipole-midterm-correct-but-not-transferred.md) — related
+- [Only 38% of St Andrews students correctly stated that the divergence of the current density is zero inside a wire with decreasing diameter on CURrENT Q4(b)](only-38-percent-correct-divergence-current-density-wire.md) — related

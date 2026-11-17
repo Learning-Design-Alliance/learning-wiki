@@ -48,3 +48,4 @@ Preliminary comparison of the CURrENT given in SP12 at CU (N=24) and at a small 
 ## Related Claims
 - [A majority of CU SP12 students gave complete, correct reasoning on the Stokes' theorem derivation, while few X-students reached the result](cu-complete-stokes-derivation-reasoning.md) — related
 - [Learning outcomes measured by the CURrENT assessment differed between SP12 and FA12, but the data are tentative pending validation](current-assessment-tentative-semester-differences.md) — related
+- [Preliminary CURrENT data indicate transformed curricular materials improve student learning relative to traditional lecture](current-transformed-preliminary-improvement.md) — a broader claim this one bears on

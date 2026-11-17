@@ -39,6 +39,7 @@ Because the first hurdle for beginning writers is not writing at all, the manual
 ## Related Strategies
 
 - [Use freewriting as a private, ungraded warm-up to unlock ideas and release tension](freewriting-private-ungraded-warmup.md)
+- [Provide pre-essay in-class activities, practice quizzes and worked examples before essay deadlines to prepare students for conceptual essay questions](pre-essay-activities-and-guidance-strategy.md)
 
 ## Examples
 -

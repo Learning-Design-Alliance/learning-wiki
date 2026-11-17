@@ -49,3 +49,4 @@ Episode analysis of a secondary-teacher discussion of a block sliding across the
 - [Teachers across multiple courses and scenarios describe transformation into thermal energy as a terminal process, a 'dead end'](teachers-thermal-energy-terminal-dead-end.md) — related
 - [Some teachers also judge sound energy as a less useful form, suggesting transformation into sound renders energy unavailable](teachers-sound-energy-less-useful.md) — related
 - [Teachers disagree about whether thermal energy can be useful, revealing that energy's usefulness depends on the objects included in the scenario](teachers-usefulness-depends-on-scenario-objects.md) — related
+- [Learners expect that energy associated with a perceptible indicator will be associated with another perceptible indicator when the energy transforms, challenging energy conservation when all indicators become imperceptible](perceptible-indicator-expectation-energy-transformations.md) — related

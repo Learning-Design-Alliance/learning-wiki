@@ -44,6 +44,7 @@ Responding to the FGD theme that the computer model alone did not relate to real
 ## Related Strategies
 
 - [Visualize contact forces with slow-motion, mass-proportional area representations to teach Newton's 3rd Law](slow-motion-contact-force-visualization-third-law-strategy.md)
+- [60-minute inquiry lesson using video analysis and modeling with Tracker on real-life motion examples](tracker-video-analysis-inquiry-lesson.md)
 
 ## Examples
 -

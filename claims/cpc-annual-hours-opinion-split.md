@@ -48,3 +48,4 @@ Survey item on preferred annual CPC hours, reported with Figure 4. The authors c
 - [Most surveyed EMTs already maintain portfolios and complete CPC activities voluntarily, and favour 20–40 annual hours](emts-voluntarily-complete-cpc-and-favour-20-40-hours.md) — related
 - [Practitioners already undertake substantial CPC hours and consider 21–40 hours per annum adequate](cpc-hours-completed-and-preferred.md) — related
 - [A majority (77%) of Irish paramedics and APs favour a mixed mandatory/voluntary CPC model with minimum standards including evidence of patient care](mixed-mandatory-voluntary-cpc-model-supported.md) — related
+- [Academics are split on teacher training, yet 55% would accept being filmed and taking part in autoconfrontation sessions, and 98% report learning to teach on the job](formation-split-autoconfrontation-acceptance.md) — related

@@ -71,3 +71,4 @@ Video analysis using the generatively developed 'challenging' code, marking when
 
 - [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — related
 - [Between two survey administrations, teachers' references to Communicate and Explain rose about five-fold while Evidence references decreased from 13 to 11](inquiry-survey-administration-shifts.md) — related
+- [In a teacher-driven PD community, teachers' share of email communication and conversation-thread initiation increased over time, indicating growing participation and leadership initiative](teacher-email-participation-increased-over-time.md) — related

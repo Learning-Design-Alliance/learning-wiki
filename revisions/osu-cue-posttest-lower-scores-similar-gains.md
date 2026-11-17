@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/osu-cue-posttest-lower-scores-similar-gains.md
+---
+
+# Revision history: [claims/osu-cue-posttest-lower-scores-similar-gains](../claims/osu-cue-posttest-lower-scores-similar-gains.md)
+
+### 2026-11-17 · ingest · process:wiki-ingest
+Ingested from arxiv-1501.06171 (Assessing student reasoning in upper-division electricity and magnetism at Oregon State University) via eval_harness.py + ingest_extractions.py

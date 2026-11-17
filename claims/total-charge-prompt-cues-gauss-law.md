@@ -47,3 +47,4 @@ Cross-semester comparison of exam prompts in the disk problem. The semester with
 ## Related Claims
 - [Students frequently misapplied Gauss's Law when direct integration was required, and requiring a sketch of the charge distribution was associated with no Gauss's Law attempts](gauss-law-misapplication-activation.md) — related
 - [Roughly a quarter of junior-level E&M students attempted to calculate the potential by first calculating the electric field rather than using direct integration of Coulomb's Law for potential](coulomb-law-activation-selection-patterns.md) — related
+- [Microscopic studies link student framing to resource activation, and frame shifts are frequent with instructor prompts enabling productive transitions](framing-drives-resource-activation.md) — a broader claim this one bears on

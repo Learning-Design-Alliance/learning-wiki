@@ -83,3 +83,4 @@ The final-exam t-test did not reach significance, but the article reports a prin
 - [Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation](trust-efficiency-versus-personalization-choice-rationales.md) — related
 - [Meta-analysis shows open-book exams yield higher STEM exam scores than closed-book exams, with an overall mean difference of 5.91 despite very high heterogeneity](obe-higher-scores-than-cbe-meta-analysis.md) — related
 - [Student-prepared aids did not yield significantly better exam performance than standard no-aids testing conditions](student-prepared-aids-not-significantly-better-than-no-aids.md) — related
+- [Self-diagnosis by consulting own books and notes yielded 46% better follow-up exam performance than being provided a detailed solution](self-diagnosis-books-notes-46-percent-better.md) — related

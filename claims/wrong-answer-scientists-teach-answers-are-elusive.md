@@ -48,3 +48,5 @@ The author's theoretical argument opening the essay: students rarely encounter s
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — a narrower finding that bears on this claim
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
 - [Some CURE students experience the discovery nature of CUREs as a struggle that undermines their sense of scientific capability](some-cure-students-struggle-with-discovery-uncertainty.md) — related
+- [Students learning science through historical accounts emphasizing scientists' struggles were more likely to be motivated to understand and retain science content](struggle-narratives-motivate-science-learning.md) — related
+- [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related

@@ -59,3 +59,4 @@ Heterogeneity assessment across the pooled short-term effect sizes in the review
 - Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related
 - Meta-regression finds no significant moderator of the ECE effect, leaving heterogeneity sources unexplained — related
 - [Class size and disciplinary domain do not significantly moderate POGIL's achievement effect, leaving residual heterogeneity unexplained](pogil-achievement-moderators-nonsignificant.md) — a narrower finding that bears on this claim
+- [Class-level residual variance remains high after adjustment, indicating substantial unobserved class-level factors](residual-class-variance-high-after-adjustment.md) — related

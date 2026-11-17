@@ -49,3 +49,4 @@ Chronological analysis of algebra-based FCI data split at Fall 2010, when small 
 - [The inquiry-based algebra-based section achieved an FCI normalized gain of 0.34, not significantly different from large sections with both RT labs and PERL instruction](inquiry-section-fci-gain-comparable-rt-perl.md) — related
 - [Algebra-based FCI normalized gain reaches the interactive-engagement region (0.36) only when RT labs plus recitations are combined with PER-informed lecture instruction](combined-rt-labs-perl-lecture-ie-region-fci.md) — related
 - [On the algebra-based MBT, in-class RT/PERL scores significantly exceeded RT/TL scores (p < 0.003) and INQ scores (p < 0.002), while online scores ran 10-15 percentage points lower](mbt-algebra-based-rt-perl-significantly-higher.md) — related
+- [Students in Arduino-based lab sections scored unremarkably on standard physics pre/post inventories](arduino-lab-standard-inventory-scores-unremarkable.md) — related

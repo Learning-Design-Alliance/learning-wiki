@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 366 claims (257 show a difference, 67 mixed, 42 no difference) · 240 studies (95 associational, 67 causal, 33 review, 17 qualitative, 12 quant-synthesis, 8 design, 8 theoretical), `q1`–`q4` · 53 of 240 report an effect size · 358 claims rest on one study
+> **Evidence** · 367 claims (258 show a difference, 67 mixed, 42 no difference) · 241 studies (95 associational, 67 causal, 33 review, 18 qualitative, 12 quant-synthesis, 8 design, 8 theoretical), `q1`–`q4` · 53 of 241 report an effect size · 359 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -406,6 +406,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Participants who under-used problem-solving or support-seeking showed increased problem-solving or support-seeking coping, and those who used escape-avoidance showed decreased escape-avoidance coping from pre-test to post-test within the reported groups](../claims/coping-improved-in-underutilizing-subgroups.md) [+W] — measured as an outcome of the instruction studied
 - [Use of problem-solving, seeking support, and escape-avoidance coping did not change over the course overall](../claims/coping-strategies-unchanged-overall.md) [-W] — measured as an outcome of the instruction studied
 - [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](../claims/pre-lab-prediction-improves-lab-experience.md) [+W] — measured as an outcome of the instruction studied
+- [Estevan persisted in sense-making about seasons for most of a 90-minute class despite frustration, reaching a mostly accurate model](../claims/estevan-seasons-persistence-case.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

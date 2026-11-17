@@ -51,3 +51,4 @@ In a mixed 2x2x4 ANOVA on drawing frequency with phase as repeated factor, the i
 - [Multimedia initial instruction lowers students' perceived difficulty of problems across instruction, practice, and posttest phases](multimedia-instruction-lowers-perceived-difficulty.md) — related
 - [Multimedia feedback yields higher overall accuracy during practice with feedback, but without iterative improvement over scenarios](multimedia-feedback-higher-practice-accuracy.md) — related
 - [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](multimedia-instruction-no-posttest-benefit.md) — related
+- [Ninth-grade students without formal electric field instruction spontaneously draw arrow diagrams in open-ended comic strip activities](students-spontaneously-draw-arrow-diagrams-preinstruction.md) — related

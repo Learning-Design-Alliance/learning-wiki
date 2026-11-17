@@ -112,3 +112,4 @@ Nothing here says where retention falls off.
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related
 - [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
+- [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — related

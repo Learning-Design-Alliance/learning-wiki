@@ -87,3 +87,5 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [An honors section taught with integrated PER-informed lab and lecture methods achieved an FCI normalized gain of 0.5, well above the large lecture sections](honors-integrated-per-perl-fci-gain-0-5.md) — related
 - [Normalised gains on the six force-identification FCI questions are low, ranging from 13% to 30%](low-gain-force-identification-questions.md) — related
 - [Involving introductory-course students in research activities with small assistantships and conference travel recruited new physics majors at a stated 10-20 percent success rate over eight years](research-involvement-recruits-physics-majors.md) — related
+- [Preliminary CURrENT data indicate transformed curricular materials improve student learning relative to traditional lecture](current-transformed-preliminary-improvement.md) — related
+- [Weighted exam averages were higher in the Traditional Lecture semester than in either interactive-engagement semester, with no significant difference between the two interactive treatments](exam-averages-higher-traditional-lecture-than-interactive-treatments.md) — related

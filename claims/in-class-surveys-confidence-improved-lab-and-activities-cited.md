@@ -51,3 +51,4 @@ Biweekly in-class surveys, based on established design principles for self-confi
 - [In the prior blog-free semester, Real World Connection percent favorable declined significantly by 10% while Problem Solving Confidence increased significantly](fall-2010-class-relevance-decline-confidence-increase.md) — related
 - [Laboratories and demonstrations are the most frequently used engagement techniques in high school physics across all location categories](labs-demos-most-frequent-engagement.md) — related
 - [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — related
+- [Students at both introductory and advanced levels perceived the two-level simulations as useful for improving their understanding](students-perceive-quvis-simulations-useful.md) — related

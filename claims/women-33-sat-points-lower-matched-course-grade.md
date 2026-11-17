@@ -59,3 +59,4 @@ Retrospective matched-sample analysis of first-year college math students, match
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
 - [Addressing women in the feminine rather than the masculine in Hebrew improves their maths test scores and reduces the maths gender gap](feminine-address-improves-women-maths-scores.md) — related
 - [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related
+- [Course final scores correlate strongly with students' sessional grade point average (R2 = 0.647)](biophysics-course-scores-correlate-with-sessional-gpa.md) — related

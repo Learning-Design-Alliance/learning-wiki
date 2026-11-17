@@ -60,9 +60,11 @@ Accountable Talk converts classroom discussion from recitation into collective r
 6. Close by publicly summarizing the reasoning trajectory and naming the talk moves students used well.
 
 ## Related Strategies
+
 - [Socratic Seminar](socratic-seminar.md) — a formalized discussion format that embodies accountability to text and reasoning
 - [Peer Instruction](peer-instruction.md) — structured peer argumentation around conceptual questions
 - [Jigsaw](jigsaw.md) — cooperative structure that distributes expertise and necessitates accountable exchange
+- [Develop a framework for skilled reasoning-based classroom discussion with discussion goals, discussable questions, norms, and talk tools](reasoning-based-discussion-framework-strategy.md)
 
 ## Examples
 - **[Institute for Learning](https://ifl.pitt.edu)** (University of Pittsburgh) — source of the Accountable Talk framework, talk moves toolkits, and professional development materials.

@@ -66,3 +66,4 @@ The chapter reports later large-scale surveys of students in introductory astron
 
 ## Related Claims
 - [Student understanding of cosmology increases over a semester with relevant and engaging exercises, but lecture alone was not seen to improve it significantly](lecture-alone-insufficient-cosmology-understanding.md) — related
+- [Students' stated reasons for taking the introductory astronomy course were predominantly interest-based (95%), not utilitarian](interest-dominant-motivation-astronomy-course.md) — related

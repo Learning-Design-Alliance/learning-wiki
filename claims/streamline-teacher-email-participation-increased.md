@@ -48,3 +48,5 @@ Email analysis of the Streamline group's messages over the program year, reporte
 ## Related Claims
 - [Teachers' participation and leadership in the professional community increased over time, shown in email volume, thread origination, and agenda setting](teacher-participation-leadership-increased.md) — possibly the same claim (merge candidate)
 - [Teachers in the Streamline community increasingly initiated new email conversation threads over time](streamline-teacher-email-thread-initiation.md) — related
+- [Teachers' formal sharing of knowledge generated in the community rose from zero presentations in 2010 to 27 presentations in 2013](knowledge-propagation-increased-to-27-presentations.md) — related
+- [In a teacher-driven PD community, teachers' share of email communication and conversation-thread initiation increased over time, indicating growing participation and leadership initiative](teacher-email-participation-increased-over-time.md) — possibly the same claim (merge candidate)

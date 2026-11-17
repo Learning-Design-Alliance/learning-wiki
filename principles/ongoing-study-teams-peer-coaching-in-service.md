@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (41 for, 17 mixed, 4 against) · 42 studies (10 causal, 10 design, 9 review, 5 associational, 5 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 42 report an effect size · 60 claims rest on one study
+> **Evidence** · 62 claims (41 for, 17 mixed, 4 against) · 43 studies (10 causal, 10 design, 9 review, 6 qualitative, 5 associational, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 43 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](../strategies/pbl-bridge-faculty-development-program.md)
 - [Use the tool predominantly for reflective learning conversations within an intentional programme of peer coaching for simulation faculty development](../strategies/fbat-reflective-learning-conversations-strategy.md)
 - [Adopt peer-coaching and faculty learning community models in which instructors regularly observe and support one another](../strategies/peer-coaching-faculty-learning-communities.md)
+- [Pair-of-teachers co-teaching with professional learning community preparation for new technology lessons](../strategies/teacher-pairing-plc-strategy-new-tech-lessons.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120

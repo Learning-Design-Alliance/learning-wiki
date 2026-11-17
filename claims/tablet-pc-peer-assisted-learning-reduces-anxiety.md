@@ -88,3 +88,4 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
 - [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](collaborative-peer-teaching-pamphlet-strategies.md) — related
 - [Students valued tablets for freehand drawing during group modeling activities in both classroom types](tablets-valued-group-modeling.md) — related
+- [Applying information technologies to teaching Physics is claimed to optimize teaching, support independent learning, motivation and mobility](ict-physics-teaching-benefits.md) — related

@@ -49,3 +49,4 @@ Qualitative episode analysis: elementary teacher Brice asks whether sound from a
 - [Teachers across multiple courses and scenarios describe transformation into thermal energy as a terminal process, a 'dead end'](teachers-thermal-energy-terminal-dead-end.md) — related
 - [Teachers describe energy losing usefulness as it disperses into a larger physical space, often accompanied by spreading gestures](teachers-energy-loses-usefulness-dispersal.md) — related
 - [Teachers disagree about whether thermal energy can be useful, revealing that energy's usefulness depends on the objects included in the scenario](teachers-usefulness-depends-on-scenario-objects.md) — related
+- [Learners expect that energy associated with a perceptible indicator will be associated with another perceptible indicator when the energy transforms, challenging energy conservation when all indicators become imperceptible](perceptible-indicator-expectation-energy-transformations.md) — related

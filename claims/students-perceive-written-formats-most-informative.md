@@ -47,3 +47,4 @@ Problem Format Survey administered to 91 students in the calculus-based class in
 ## Related Claims
 - [In FR and MC/FR formats, a large share of introductory physics students choose the correct answer but cannot correctly explain their reasoning or show calculations (CI answers)](correct-choice-incorrect-explanation-common-in-fr-formats.md) — related
 - [CI responses decreased dramatically when the quiz used a Ranking Task problem requiring explicit ranking, and the straight-calculation version also showed no significant percentage of CI answers](explicit-ranking-task-reduces-ci-responses.md) — related
+- [CMR format captures most but not all FR reasoning: about 74% of FR responses matched CMR reasoning elements](cmr-captures-three-quarters-of-fr-reasoning.md) — related

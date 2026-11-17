@@ -42,6 +42,7 @@ The paper recommends organizing improvement work as Plan-Do-Study-Act cycles in 
 - [Action Research](action-research.md)
 - [Lesson Study](lesson-study.md)
 - [Use a Plan-Do-Study-Act ramp to build simulation complexity stepwise, repeating a cycle when objectives are unmet before escalating.](pdsa-ramp-simulation-complexity-strategy.md)
+- [Design experimental comparisons that combine practical design alternatives with hypothesis-testing contrasts](practical-and-hypothesis-testing-version-design-strategy.md)
 
 ## Examples
 -

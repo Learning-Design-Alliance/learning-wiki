@@ -66,3 +66,4 @@ Same single-class report of the fall 2012 story-writing exercise. The author not
 ## Related Claims
 - [CUE diagnostic scores showed no evidence that the story-writing activity adversely affected student learning relative to comparable courses](cue-scores-no-learning-harm.md) — related
 - [Student feedback on the story-writing activity was overwhelmingly negative in both semesters despite high effort](story-writing-negative-feedback.md) — related
+- [Upper secondary students' written accounts of the pulling model reflect the effort-resistance-flow topology](student-accounts-reflect-effort-resistance-flow-topology.md) — related

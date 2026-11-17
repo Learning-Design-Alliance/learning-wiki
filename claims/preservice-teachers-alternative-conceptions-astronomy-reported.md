@@ -50,3 +50,4 @@ Narrative review attributing this to Parker y Heywood (1998): of 41 prospective 
 - [Para el ciclo día-noche el modelo más frecuente coincide con el científico aceptado, aunque algunas alumnas apelaron a un modelo geocéntrico](ciclo-dia-noche-modelo-cientifico-frecuente.md) — related
 - [The review reports that formal astronomy instruction sharply reduces preservice teachers' alternative conceptions of Moon phases](instruction-reduces-moon-phase-alternative-conceptions.md) — related
 - [Many preservice teachers explain the seasons with the proximity theory](proximity-theory-seasons-preservice-teachers.md) — a narrower finding that bears on this claim
+- [Many students cannot link an observation such as the new Moon to an explanation of the lunar phases, offering descriptive instead of explanatory answers](students-descriptive-not-explanatory-new-moon.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ Authors' summary of the four pre-unit case study interviews. Tammy used the ΔG 
 ## Related Claims
 - [IPLS students experience a tension between entropy-as-disorder and their knowledge that organized biological structures form spontaneously](ipls-student-tension-disorder-biological-structure.md) — related
 - [NEXUS/Physics replaces traditional physics content with chemical energy, entropy and Gibbs free energy, and random vs. coherent motion, while eliminating topics such as projectile motion and universal gravitation.](nexus-physics-content-restructuring.md) — related
+- [The two-state paramagnet model forces students to abandon the notion that temperature is merely a measure of average energy](paramagnet-negative-temperature-pedagogy.md) — related

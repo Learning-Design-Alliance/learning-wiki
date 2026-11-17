@@ -71,3 +71,4 @@ Observational analysis of the same 43 lesson enactments found CoV was addressed 
 - [Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest](treatment-greater-gains-math-in-science-context-tasks.md) — related
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](nico-nor-classroom-science-practices-coverage.md) — related
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
+- [Graph-recall and gradient-interpretation items (Q1-6) improved substantially after Tracker lessons, with gains of 16 to 33 percentage points](tracker-q1-6-positive-gains.md) — related

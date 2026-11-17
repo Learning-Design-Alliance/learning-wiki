@@ -40,6 +40,7 @@ The lesson exemplar has teachers introduce the pedagogy of video analysis and mo
 
 - [Differentiate by guiding higher-ability students to build models that validate their analysis, and support self-directed and collaborative learning goals](osp-differentiation-and-sdl-goals.md)
 - [Authentic Learning Tasks](authentic_learning_tasks.md)
+- [60-minute inquiry lesson using video analysis and modeling with Tracker on real-life motion examples](tracker-video-analysis-inquiry-lesson.md)
 
 ## Examples
 -

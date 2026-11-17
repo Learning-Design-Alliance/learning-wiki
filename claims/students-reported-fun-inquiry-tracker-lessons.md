@@ -68,3 +68,5 @@ Another section V qualitative survey excerpt: a student said the lesson was "Ver
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students found learning with the computer models fun, interesting and extending beyond the syllabus, and expressed appreciation](ejs-simulations-fun-beyond-syllabus-appreciation.md) — related
+- [Students reported that interactive engagement with the simulations was fun, engaging, and helped them remember how to read the scales](students-report-interactive-engagement-fun-and-memorable.md) — related
+- [Tracker video modeling lets students incrementally and iteratively improve self-proposed models of real motion using evidence from video analysis](tracker-video-modeling-iterative-self-invented-models.md) — related

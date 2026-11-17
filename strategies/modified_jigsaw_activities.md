@@ -69,6 +69,7 @@ Jigsaw enforces positive interdependence — each member holds information the o
 - [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
 - [Heterogeneous jigsaw grouping based on GPA level, gender and place of origin](heterogeneous-gpa-gender-origin-jigsaw-grouping.md)
 - [Use trained facilitator support and contingency planning to mitigate jigsaw's coverage and participation risks](facilitator-support-contingency-jigsaw.md)
+- [SOLE sessions structure self-organized collaborative inquiry in fixed 60-minute blocks](sole-60-minute-session-structure-strategy.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core mechanism: explaining to others consolidates the explainer's understanding

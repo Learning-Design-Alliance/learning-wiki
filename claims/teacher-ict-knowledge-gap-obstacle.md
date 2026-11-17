@@ -52,3 +52,4 @@ Background literature statement in the Introduction; the article attributes this
 - [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Teachers face substantial obstacles implementing thematic and character education curricula, with many reporting unreadiness](teacher-obstacles-thematic-character-implementation.md) — related
+- [Physics teachers have not sufficiently realized ICT introduction, lack suitable electronic resources, and face a psychological barrier](physics-teachers-ict-barriers.md) — related

@@ -48,3 +48,4 @@ Faculty interview study: fifteen faculty were interviewed for about one hour and
 - [Faculty did not emphasize content-specific goals but valued deep physics knowledge and expert-like habits of mind during experiments](faculty-value-expert-like-habits-not-content-goals.md) — related
 - [Faculty experts show majority but not complete consensus on E-CLASS statements](faculty-consensus-22-of-30-eclass-statements.md) — related
 - [Physics faculty lack consensus on what topics should be taught in modern physics](no-faculty-consensus-modern-physics-topics.md) — related
+- [Five distinct faculty personas emerged from interviews about physics assessment practices](personas-five-physics-faculty-archetypes.md) — related

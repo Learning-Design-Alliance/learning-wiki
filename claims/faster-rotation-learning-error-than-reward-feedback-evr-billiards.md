@@ -49,3 +49,4 @@ Repeated-measures ANOVA over block averages of cue-ball angle in the rotation ph
 - [Feedback manipulations were insufficient to isolate learning mechanisms: participants used both error-based and reward-based learning regardless of the feedback provided](feedback-manipulation-cannot-isolate-motor-learning-mechanisms.md) — related
 - [Inter-trial variability decay showed reward-like signatures in the error-feedback condition, especially when learning was matched across conditions (Round 2)](itv-decay-reward-like-signatures-error-condition.md) — related
 - [Laparoscopic learning curves follow an exponential decay shape, with efficiency learned faster than precision](laparoscopic-learning-curves-exponential-decay.md) — related
+- [Upside-down mastery inversion occurs only as Na becomes greater than Nu, transitioning from bell-shaped to exponential-shaped curves](na-greater-than-nu-inversion-upside-down.md) — related

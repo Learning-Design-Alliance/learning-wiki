@@ -50,3 +50,4 @@ A pedagogical experience at the Federal University of Pará in which undergradua
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [A GA-based presentation of electromagnetism is more accessible to students because it requires neither vector calculus nor tensor index notation](ga-electromagnetism-accessible-presentation.md) — related
 - [Numerical computation fosters student acceptance that kets are column vectors, bras row vectors, and operators matrices](numerical-computation-builds-ket-matrix-intuition.md) — related
+- [Students' concept images of grad, div and curl focus on evaluation, with few conceptual descriptions and confusion about vector or scalar character](concept-image-focused-on-evaluation.md) — related

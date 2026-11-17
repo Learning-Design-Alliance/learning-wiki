@@ -50,3 +50,5 @@ Program-level census by the science education specialists of adopters in six CWS
 - [The fraction of faculty refusing to use RBIS because they did not believe in them decreased noticeably over time in every CWSEI-supported department](rbis-skepticism-declines-with-department-involvement.md) — related
 - [Fidelity of RBIS use appears largely maintained after SES support ends, with caveats of limited data, end-of-term syllabus pressure, and short follow-up duration](rbis-fidelity-maintained-after-support-ends.md) — related
 - [One-time workshops raise awareness of evidence-based teaching strategies but are not sufficient for faculty to adopt them](workshops-insufficient-for-adoption-evidence-based-teaching.md) — related
+- [Many faculty who try research-based instructional strategies discontinue use after a single attempt due to lack of success and support](rbis-discontinuance-lack-of-support.md) — related
+- [Faculty interviews provided evidence of slippage in departments where SEI reforms were made after funding ended](sei-reform-slippage-after-funding.md) — related

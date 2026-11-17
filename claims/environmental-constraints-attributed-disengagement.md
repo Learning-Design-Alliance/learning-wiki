@@ -62,3 +62,4 @@ Semi-structured interviews with 28 purposively sampled teachers selected via hie
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Problems encountered in the flipped classroom fell into three themes: motivation, content, and learning](fc-problems-three-themes.md) — related
 - [Learner disengagement is widespread in developed countries' school systems](learner-disengagement-developed-countries-survey-data.md) — related
+- [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — a broader claim this one bears on

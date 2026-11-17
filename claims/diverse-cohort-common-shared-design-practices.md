@@ -51,3 +51,4 @@ The commentary reports that Bennett et al.'s study, which engaged "a diverse cro
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
 - [Bennett et al.'s study establishes faculty roles as designers of learning, an essential consideration when institutions seek digital design talent.](faculty-roles-as-designers-essential-for-digital-design-talent.md) — a broader claim this one bears on
+- [ASSISTments exercise sharing supported over 10 external collaborations, 16 students designing experiments in teams, and remote multi-disciplinary studies without face-to-face meetings](assistments-collaborative-work-external-collaborations.md) — related

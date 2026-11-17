@@ -71,3 +71,5 @@ Some faculty listed measurement as among the most important concepts while sever
 - [Student responses to double-slit interpretation questions align with the specific interpretation taught by their instructor](student-interpretation-responses-align-with-instructor-explicit-teaching.md) — related
 - [Faculty did not emphasize content-specific goals but valued deep physics knowledge and expert-like habits of mind during experiments](faculty-value-expert-like-habits-not-content-goals.md) — related
 - [Faculty consensus produced four categories of learning goals for the advanced lab: modeling, design, communication, and technical lab skills](four-learning-goal-categories-modeling-design-communication-technical.md) — related
+- [Expert faculty review supports the CURrENT's alignment with course-scale learning goals](expert-review-supports-current-learning-goal-alignment.md) — related
+- [Physics education worldwide lacks a deep course in probability and randomness, which the author argues causes misunderstandings of quantum theory](physics-curricula-lack-deep-probability-course.md) — related

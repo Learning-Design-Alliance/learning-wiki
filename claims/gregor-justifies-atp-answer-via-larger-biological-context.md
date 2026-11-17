@@ -53,3 +53,4 @@ Semi-structured interview with Gregor, a pre-med student, conducted immediately 
 - [Some students resolved the ATP conflict by abandoning correct biology knowledge in favor of physics reasoning about bond breaking](ava-abandoned-biology-knowledge-overshoot.md) — related
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — related
 - [Interviewed students justified answering C by appealing to the larger biological context of ATP hydrolysis rather than holding a bond-breaking-releases-energy misconception](students-justify-atp-choice-c-via-biological-context.md) — possibly the same claim (merge candidate)
+- [Students treat chemical bonds as physical entities, believing energy is required to form a bond and breaking a bond releases energy](bond-as-entity-energy-misconception.md) — reports the opposite

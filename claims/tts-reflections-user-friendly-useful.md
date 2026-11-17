@@ -47,3 +47,4 @@ Post-study reflection questionnaire with ten Likert-type and two open-ended ques
 ## Related Claims
 - [Text-to-speech website self-study improved oral achievement scores in fluency, pronunciation and total grades among EFL teacher trainees](tts-self-study-improved-pronunciation-scores.md) — related
 - [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands](interviews-asr-ease-and-speaking-benefits.md) — related
+- [Questionnaire ranking with 248 participants using a five-level Likert item and a mean-points formula identifies ease of use and user-friendly interface as top MCL requirements](likert-questionnaire-ranks-mcl-basic-requirements.md) — related

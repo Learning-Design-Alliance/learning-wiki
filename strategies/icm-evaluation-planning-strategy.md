@@ -43,6 +43,7 @@ The chapter recommends that evaluation start from a target state defined in adva
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 - [Build formal feedback mechanisms and an evaluation plan into ed-tech pilots](formal-feedback-and-evaluation-plan-pilots.md)
 - [Measure proximal, body-movement-based and affective outcomes in future physical activity intervention studies](proximal-body-movement-outcome-measures-future-pa-research.md)
+- [PI, ICM und JiTT als Einheit kombinieren: Vorlesungsinhalt vorlagern, Vorwissen online abprüfen und die gewonnene Zeit für verständnisorientierte Partnerdiskussion nutzen](pi-icm-jitt-blended-combination-strategy.md)
 
 ## Examples
 -

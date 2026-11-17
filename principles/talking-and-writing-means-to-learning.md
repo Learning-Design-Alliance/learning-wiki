@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (44 for, 13 mixed) · 43 studies (16 causal, 9 review, 6 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 53 claims rest on one study
+> **Evidence** · 58 claims (45 for, 13 mixed) · 44 studies (16 causal, 9 review, 6 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 2 design), `q1`–`q4` · 7 of 44 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue 
 - [No significant difference between writing-only and discussion+writing treatments on in-class activity writing](../claims/no-wo-dw-difference-in-class-writing.md) [~W] — attached 2026-11-10 from Linton et al. (2014), which proposed "Include individual student writing as part of cooperative group–based active-learning exercises whenever possible"; tests this page's relationship.
 - [In first-grade ELL classrooms, discussions grounded in shared, tangible phenomena foster spontaneous and substantial student contributions to scientific reasoning](../claims/shared-tangible-phenomena-foster-ell-discourse-contributions.md) [+W] — attached 2026-11-17 from Suarez et al. (2012), which proposed "Design learning environments that integrate language acquisition with physical science through evidence-based reasoning rather than separating them".
 - [Participating in phenomenon-based discussion appears to bolster ELL students' confidence to contribute despite limited English vocabulary](../claims/phenomenon-discussion-bolsters-ell-confidence.md) [+W] — attached 2026-11-17 from Suarez et al. (2012), which proposed "Design learning environments that integrate language acquisition with physical science through evidence-based reasoning rather than separating them".
+- [An inquiry-based dialogue lecture helps undergraduate students understand the rationale behind the use of differential equations in physics.](../claims/inquiry-dialogue-lecture-differential-equations-rationale.md) [+W] — attached 2026-11-17 from Siddiqui (2006), which proposed "Present mathematics meaningfully and interactively so that students take pleasure in learning physics."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

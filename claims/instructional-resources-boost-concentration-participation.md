@@ -69,3 +69,4 @@ Observation of resource-testing lessons; the article also cites an SHS teacher s
 - [Teaching Art lessons with instructional resources made lessons more practical and interactive and improved pupils' understanding and performance compared with lessons taught without resources](instructional-resources-improve-art-lesson-outcomes.md) — related
 - [Using instructional resources reduced the number of teaching periods needed for some Art lessons](instructional-resources-save-teaching-time.md) — related
 - [Wait time increased student participation in classroom discussion](wait-time-increases-participation.md) — related
+- [Using recyclable materials in some prototypes called community attention to the advantages of recycling and reinforced sustainability teaching](cl-recyclable-materials-sustainability-attention.md) — related

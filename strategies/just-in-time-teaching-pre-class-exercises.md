@@ -41,6 +41,7 @@ JiTT exercises cover material to be covered in the next class and are submitted 
 - [Use context-rich problems that place the student in a realistic scenario with missing or excess data to promote transfer](context-rich-problems-promote-transfer.md)
 - [Just In Time Teaching](just-in-time-teaching.md)
 - [Use pre-class online discussion on Moodle followed by in-class instruction responsive to the discussion](pre-class-moodle-discussion-then-responsive-lesson.md)
+- [Three guidelines to encourage completion of targeted pre-class reading](targeted-pre-reading-guidelines.md)
 
 ## Examples
 -

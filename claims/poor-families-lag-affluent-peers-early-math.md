@@ -51,3 +51,4 @@ The report's framing section states, as background motivation for the evaluation
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related
 - [Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)](ecls-kindergarten-literacy-math-gap-one-sd.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — a broader claim this one bears on
+- [Students entered Dynamics with poor background knowledge and skills despite prior Statics](poor-dynamics-background-readiness-test.md) — related

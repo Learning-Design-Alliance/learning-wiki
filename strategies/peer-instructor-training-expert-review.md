@@ -47,6 +47,7 @@ Before the SLPTS, the seven peer instructors attended a training session one wee
 ## Related Strategies
 
 - [Use expert-led Tours and student Tour creation with facilitation as a strategy for astronomy teaching](wwt-tour-creation-teaching-strategy.md)
+- [CAE two-day workshops with microteaching to prepare instructors in active-learning strategies](cae-workshop-microteaching-preparation.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Meeting report summarizes Alkaher and Dolan's interviews with CURE students at a
 - [Students who do not understand how elusive scientific answers are may dismiss science and see lab problems as signs of failure](answer-focus-misconceptions-about-science.md) — related
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
 - [Students who learn about scientists who got wrong answers come to see scientific answers as elusive rather than found in the back of a book](wrong-answer-scientists-teach-answers-are-elusive.md) — related
+- [The collaboration revealed that some art students held a misconception of science as a body of knowledge rather than a process](students-science-as-process-misconception.md) — related

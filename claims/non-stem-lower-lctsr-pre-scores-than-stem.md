@@ -81,3 +81,4 @@ Assessment study comparing pre-instruction LCTSR scores of non-science majors in
 - [Only a modest fraction of elementary education students enter the program as formal reasoners on the CTSR](modest-fraction-formal-reasoners-education-majors.md) — related
 - [Natural science majors score significantly higher in the objective-graded astronomy course (mean 61±13) than other majors, whose mean scores are identical at 55±12](natural-science-majors-score-higher-intro-astronomy.md) — related
 - [Non-science majors average an abysmal 38% on LCTSR questions testing hypothetico-deductive reasoning](non-majors-hypothetico-deductive-lctsr-38.md) — related
+- [Students' stated reasons for taking the introductory astronomy course were predominantly interest-based (95%), not utilitarian](interest-dominant-motivation-astronomy-course.md) — related

@@ -42,7 +42,8 @@ In the summary the authors present options for how instructors can use simulatio
 - [Students commonly hold a granular-matter mental model of gases, in which molecules rub and give off heat, and extended consideration of molecular dynamics leads most students to replace it with an energy-conserving model](../claims/granular-matter-model-replaced-by-md.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Twenty open-ended student exercises using an interactive molecular dynamics simulation in undergraduate thermal physics](twenty-md-student-exercises-strategy.md)
 
 ## Examples
 -

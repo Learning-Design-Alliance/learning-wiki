@@ -67,6 +67,7 @@ Resistance reading treats texts as socially situated artifacts rather than neutr
 - Debate and argumentative writing — counter-narratives are a written, text-anchored form of rebuttal
 - Culturally responsive literature discussion — supplies the texts and community norms that make resistance reading meaningful
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
+- [Assign small-group responses to popular science articles to build critical reading of science in media](popular-science-article-response-assignments.md)
 
 ## Examples
 - **Rethinking Schools / Teaching for Change curricula** ([https://www.rethinkingschools.org](https://www.rethinkingschools.org)) — published lessons in which students read textbook accounts of colonization or labor history, identify whose perspective is centered, and write counter-narratives from Indigenous or worker viewpoints.

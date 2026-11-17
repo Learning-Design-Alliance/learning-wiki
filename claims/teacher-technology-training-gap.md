@@ -59,3 +59,4 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
 - [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related
 - [The article argues that using Ejs as a pedagogical tool faces steep learning-curve and school-culture impediments](ejs-pedagogical-tool-impediments.md) — related
+- [Physics teachers have not sufficiently realized ICT introduction, lack suitable electronic resources, and face a psychological barrier](physics-teachers-ict-barriers.md) — related

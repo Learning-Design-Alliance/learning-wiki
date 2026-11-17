@@ -58,3 +58,4 @@ SEM path tests in the same 229-respondent survey found the two hypothesized dire
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Subjective norm showed no linear relationship with perceived ease of use or perceived usefulness, and its hypotheses were rejected](subjective-norm-no-relationship-3d-organon.md) — related
 - [English anxiety is negatively related to self-efficacy](english-anxiety-negatively-related-to-self-efficacy.md) — related
+- [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](affect-self-efficacy-persistence.md) — related

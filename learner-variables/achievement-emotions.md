@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (189 show a difference, 59 mixed, 26 no difference) · 170 studies (62 associational, 53 causal, 18 review, 15 qualitative, 10 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 170 report an effect size · 271 claims rest on one study
+> **Evidence** · 275 claims (190 show a difference, 59 mixed, 26 no difference) · 171 studies (62 associational, 54 causal, 18 review, 15 qualitative, 10 design, 10 theoretical, 2 quant-synthesis), `q1`–`q4` · 39 of 171 report an effect size · 272 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -309,6 +309,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Students' negative emotional responses to elearning are interpretable as negative achievement emotions associated with maladaptive, rote learning strategies](../claims/negative-achievement-emotions-elearning-rote-strategies.md) [+W] — learners who differ on it differ in outcomes
 - [Pre-lab prediction work improves the lab experience and cooperative groups reduce frustration](../claims/pre-lab-prediction-improves-lab-experience.md) [+W] — measured as an outcome of the instruction studied
 - [Mixing ATLAS and CMS masterclass institutes in the same videoconference confused students, who did not understand the other experiment's terminology and could lose interest](../claims/mixing-atlas-cms-institutes-videoconference-confusion.md) [+W] — measured as an outcome of the instruction studied
+- [Students found working with the interactive simulation more enjoyable than the same activity with printed screenshots](../claims/simulation-more-enjoyable-than-screenshots.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

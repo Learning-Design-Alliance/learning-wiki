@@ -49,3 +49,4 @@ Prospective observational pretest of the Quick Risk Test administered to 169 fin
 - [Bayes rule and screening-related concepts are the least understood basic medical-statistics concepts before training, some answered below chance](bayes-and-screening-concepts-weakest-before-training.md) — related
 - [Final-year medical students' Quick Risk Test performance rose from a median of 50% to about 90% correct after a 90-minute training session, in one single-group pre-test–post-test study](ninety-minute-training-raises-statistical-literacy.md) — related
 - [Senior medical educators answer about three-quarters of basic medical-statistics questions correctly, with notable gaps on sensitivity and specificity definitions](senior-educators-75-percent-quick-risk-test.md) — related
+- [Only about 25% of students in the course correctly answered a proportional-reasoning question despite knowing exponent rules](proportional-reasoning-weak-despite-exponent-rules.md) — related

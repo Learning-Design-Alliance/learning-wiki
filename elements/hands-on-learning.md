@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (25 for, 5 mixed) · 26 studies (12 causal, 5 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 26 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (26 for, 5 mixed) · 27 studies (12 causal, 6 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 27 report an effect size · 30 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -69,6 +69,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [First-year osteopathy students report strongly positive perceptions of 3D-printed anatomy models' usefulness for review, viva preparation, independent learning, motivation, and viva performance, with only note-reduction rated neutrally](../claims/3dp-bones-survey-positive-perceptions-block-mode.md) [+W] — attached 2026-11-08 from Tripodi N et al. (2020), which proposed "Take-home 3D-printed upper limb bone sets with putty muscle overlays as anatomy learning resources".
 - [The tactile, kinesthetic nature and take-home availability of 3D-printed bones increased students' engagement with class activities and unit content](../claims/3dp-bones-tactile-engagement-behavioral-theme.md) [+W] — attached 2026-11-08 from Tripodi N et al. (2020), which proposed "Take-home 3D-printed upper limb bone sets with putty muscle overlays as anatomy learning resources"; tests this page's relationship.
 - [Hands-on linear-array EUS training on a live pig significantly improves diagnostic visualization and interventional skills in novices](../claims/live-pig-linear-eus-training-improves-skills.md) [+W] — attached 2026-11-09 from Xu Wei et al. (2015), which proposed "Live pig model for hands-on EUS training"; tests this page's relationship.
+- [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](../claims/cl-prototypes-physics-topics.md) [+W] — attached 2026-11-17 from Marcos A. M. Souza et al. (2015), which proposed "Set of low-cost robot prototypes mapped to physics topics (Table I)".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

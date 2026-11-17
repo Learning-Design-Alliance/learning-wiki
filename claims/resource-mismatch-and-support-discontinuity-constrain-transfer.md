@@ -182,3 +182,6 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Time, perceived value and lack of incentives are key challenges to faculty evaluating the intrinsic roles](time-value-incentive-challenges.md) — related
 - [Polled MICA members who discontinued VW use most often cited lack of time, with avatar stigma and user-experience quality as additional factors](academic-non-uptake-of-vws-reasons.md) — a narrower finding that bears on this claim
 - [Undergraduates new to research lack jargon comprehension, knowledge of research practices, and familiarity with the technical literature, and limited mentor interaction time constrains immersion](undergraduate-research-readiness-barriers.md) — related
+- [It is difficult to change what science teachers do in their classrooms; multiple barriers impede adoption of HPS in science teaching](barriers-to-teacher-adoption-of-hps.md) — related
+- [Environmental barriers and supports across policy, practice, attitude, and knowledge/skill domains affect communicative competence](environmental-barriers-supports-aac-competence.md) — related
+- [In the Runes Department, faculty professed beliefs supporting active learning were not matched by their reported teaching practices](runes-belief-practice-discontinuity.md) — related

@@ -47,3 +47,4 @@ Two-way ANOVA of normalized anonymous course evaluation scores on four questions
 ## Related Claims
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](afl-positive-student-attitudes-esp.md) — related
+- [Students in the first transformed year reported favorable attitudes, indicating they saw the value of the learning activities](favorable-student-attitudes-transformed-optics.md) — related

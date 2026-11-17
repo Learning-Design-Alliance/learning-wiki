@@ -51,3 +51,4 @@ Interview excerpt (Nora) illustrating the theme 'Technology and STEM careers cre
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — a broader claim this one bears on
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related
+- [NITARP and its Spitzer predecessor reached thousands of students and influenced over 100 students to pursue science careers](nitarp-spitzer-reach-and-career-influence.md) — related

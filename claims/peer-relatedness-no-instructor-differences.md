@@ -51,3 +51,4 @@ In the same survey analysis across seven instructors (n reported per instructor 
 - [Self-, peer-, and instructor-feedback within SDTS show no statistically significant differences in post-training OSCE performance](feedback-modality-no-significant-difference.md) — related
 - [No statistically significant difference in total scores was found among the seven cohorts, with cohort membership explaining less than 1% of variance in scores.](pbl-bridge-course-no-cohort-differences.md) — related
 - [Despite calibration efforts, statistically significant mark differences between cohorts appeared across all disciplines except Endo simulation on extracted teeth](cohort-mark-differences-calibration-limitation.md) — related
+- [Average CUE scores did not differ significantly across instructor groups (one-way ANOVA, F = 1.08, p = 0.34)](cue-scores-no-instructor-difference-anova.md) — related

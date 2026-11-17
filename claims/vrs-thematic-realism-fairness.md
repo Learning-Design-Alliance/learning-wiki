@@ -55,3 +55,4 @@ Thematic analysis of anonymous open-ended responses from VRS participants, coded
 - [VR-based and physical OSCE stations testing identical emergency content show comparable item difficulty within the ideal reference range](vrs-item-difficulty-comparable.md) — related
 - [Thematic analysis of student comments identified 'experience' as the primary theme in student feedback on SBE](sbe-feedback-experience-primary-theme.md) — related
 - [Students' written comments about the SP activity clustered around realism, self-reflection, learning opportunities and practice](sp-workshop-student-comment-categories.md) — related
+- [Students consider open-ended assignment grading fair but many find open-ended questions hard to answer](open-ended-assignments-fair-but-challenging.md) — related

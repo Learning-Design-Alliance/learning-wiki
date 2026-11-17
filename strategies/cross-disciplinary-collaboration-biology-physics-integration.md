@@ -54,6 +54,7 @@ The article recommends that efforts to integrate physics and mathematics into bi
 - [Negotiate interdisciplinary problems jointly, seeking both physical validity and biological authenticity, and make modeling assumptions explicit.](negotiated-problem-design-physical-validity-biological-authenticity.md)
 - [Use interdisciplinary problem-solving tasks that apply physical energy models to biological scenarios](interdisciplinary-energy-tasks-biological-scenarios.md)
 - [Interdisciplinary task-design guidelines: respect disciplinary differences in language, identify cross-disciplinary reasoning similarities, and engage students in seeking coherence across apparently contradictory disciplinary ideas](interdisciplinary-task-design-guidelines-strategy.md)
+- [Use cross-disciplinary thermodynamics education research and mark student-data studies to target gaps](cross-disciplinary-thermo-research-strategy.md)
 
 ## Examples
 -

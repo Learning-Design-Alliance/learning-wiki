@@ -48,3 +48,4 @@ Study by the author's group in which novices were constrained by a computer-base
 - [In problem categorization tasks, novices sort physics problems by surface features while experts sort them by solution principles](experts-categorise-by-solution-novices-by-surface.md) — a broader claim this one bears on
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](structure-emphasizing-cover-stories-categorization.md) — related
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
+- [Upper-level quantum mechanics students often categorize problems by surface features rather than solution similarity](qm-students-poor-problem-categorization.md) — related

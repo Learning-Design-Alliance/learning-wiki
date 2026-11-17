@@ -68,3 +68,4 @@ Section IV.B activity: students key in positive fy values and infer their naive 
 - [Tracker video analysis lets students infer kinematics quantities from real video, yielding values consistent with gravitational acceleration](tracker-video-analysis-infers-kinematics-values.md) — related
 - [In the classroom activity, students extended the parabolic motion model with a velocity-dependent drag force to accurately predict a kicked soccer ball's trajectory](soccer-ball-drag-computational-extension.md) — related
 - [Teachers reported improved mathematical and graphical understanding of motion and judged video modeling suitable for active and deep learning](teachers-report-improved-understanding-video-modeling.md) — related
+- [Tracker video modeling lets students incrementally and iteratively improve self-proposed models of real motion using evidence from video analysis](tracker-video-modeling-iterative-self-invented-models.md) — a broader claim this one bears on

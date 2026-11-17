@@ -49,3 +49,4 @@ Descriptive comparison of test scores in the curriculum study: scores rose from 
 - [Self-paced VPS repetition is modest in practice: learners complete about 2 attempts per scenario in roughly 45 minutes despite a 70-minute allowance](vps-modest-time-on-task-attempts.md) — related
 - [Students who engaged in no repetition activity scored significantly lower on long-term anatomical retention than all other groups](no-repetition-lower-long-term-anatomical-retention.md) — related
 - [The type of repetition activity (test-only, lecture, e-learning module, or small-group dissession) did not affect long-term retention of anatomical knowledge](repetition-format-no-effect-retention.md) — related
+- [Students retained over 80% of learned E&M content after ~10 months without instruction, losing 9.7±2.4% (17.3±4.2% relative) between CUE midtests](cue-midtest-knowledge-decay-ten-months.md) — related

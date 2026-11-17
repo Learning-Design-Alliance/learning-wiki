@@ -52,3 +52,4 @@ Affordance analysis of the tape timer lab (dots on a paper tape at 0.01 s interv
 - [What is possible for students to perceive or discern in a laboratory depends on the measurement technology used, even when the object of learning is the same](technology-determines-discernible-critical-features-labs.md) — a broader claim this one bears on
 - [The zero-velocity/zero-acceleration misconception at maximum height was virtually absent in this sample](absence-zero-velocity-acceleration-misconception.md) — related
 - [Students perceive the downward part of a vertical launch and free fall from rest as different cases, with large decreases in correct models](downward-motion-perceived-different-case.md) — related
+- [Students engaged in self-directed learning with the simulation, customizing the roller coaster and addressing their own misconceptions](self-directed-learning-remixed-simulation.md) — related

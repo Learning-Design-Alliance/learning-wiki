@@ -48,6 +48,7 @@ This strategy converts open-ended assessment items into MC format by mining stud
 
 - [Build multiple-choice distractors and reasoning elements from a database of authentic student free-response answers](build-mc-distractors-from-student-response-database.md)
 - [Convert constructed-response problems into concept-equivalent integrated testlets by deconstructing solution elements and selecting key steps as MC items](cr-to-it-conversion-strategy.md)
+- [Build multiple-choice distractors from coded free-response student answers, with partial credit for partially correct reasoning](cmr-design-from-fr-response-data.md)
 
 ## Examples
 -

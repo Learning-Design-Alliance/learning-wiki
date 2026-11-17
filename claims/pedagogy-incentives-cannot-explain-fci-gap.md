@@ -54,3 +54,4 @@ The authors verified that both curricula used similar pedagogical methods and th
 - [Traditional students significantly outperformed M&I students on the falling balls FCI problem (90% vs 57% correct)](falling-balls-traditional-outperform-mi.md) — related
 - [The general physics course with the computational modelling component achieved an average FCI gain of 22%, performing like a traditional instruction course](fci-gain-22-percent-traditional-instruction.md) — related
 - [Traditional curriculum students significantly outperform Matter & Interactions students on the FCI post-test in introductory mechanics.](traditional-curriculum-higher-fci-posttest-than-mi.md) — related
+- [Over 90% of upper-division physics majors visibly interacted with one another during clicker questions, compared with 50-70% in introductory courses using similar methods](upper-division-students-interact-more-during-clickers-than-introductory.md) — related

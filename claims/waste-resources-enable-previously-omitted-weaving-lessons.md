@@ -67,3 +67,4 @@ Emena Primary Six teacher's report on the weaving lesson taught with the develop
 - [Teaching Art lessons with instructional resources made lessons more practical and interactive and improved pupils' understanding and performance compared with lessons taught without resources](instructional-resources-improve-art-lesson-outcomes.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related
+- [Using recyclable materials in some prototypes called community attention to the advantages of recycling and reinforced sustainability teaching](cl-recyclable-materials-sustainability-attention.md) — related

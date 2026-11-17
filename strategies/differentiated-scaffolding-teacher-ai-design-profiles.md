@@ -61,6 +61,7 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 - [Tailor infectious-disease training programs to trainees' sex, education level, professional background, and prior experience](tailor-training-to-trainee-characteristics.md)
+- [Design differentiated professional development resources targeting prioritized personas rather than one-size-fits-all materials](persona-targeted-pd-design-strategy.md)
 
 ## Examples
 -

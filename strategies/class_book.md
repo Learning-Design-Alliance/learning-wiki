@@ -58,9 +58,11 @@ Class books work because they supply an authentic audience and purpose, which ra
 5. Hold a reading event: the class reads the finished book together, or it circulates to families or another class, closing the audience loop.
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — like a class book, distributes individual responsibility within a collective product
 - [Gallery Walk](../strategies/gallery-walk.md) — another structure for making student work public to peers for feedback
 - [Peer Editing](../strategies/peer-editing.md) — the feedback mechanism that makes the revision cycle in a class book productive
+- [Mentoring students to create their own explanatory videos to nurture knowledge creators and peer discourse](student-created-explanation-videos.md)
 
 ## Examples
 - A fourth-grade teacher prompted students to create and illustrate a word problem using fractional parts of a set of 24. Each student's problem became a page in the class book, which was then used as a practice problem set for the class.

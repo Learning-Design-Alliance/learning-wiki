@@ -63,3 +63,4 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — related
 - [The study concludes a positive relationship between students' self-efficacy and academic performance in Kazo District secondary schools, and that intrinsic motivation positively influences performance](kazo-positive-psychological-patterns-performance.md) — a narrower finding that bears on this claim
+- [Self-confidence and self-efficacy are reported as the most significant and powerful influences on persistence with a subject](affect-self-efficacy-persistence.md) — related

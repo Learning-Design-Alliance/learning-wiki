@@ -90,3 +90,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Gender is not a significant predictor of first-term academic performance in any of the analyzed degrees](gender-not-significant-predictor-api.md) — reports the opposite
 - [Male gender is associated with a significant reduction in both literacy and mathematics achievement-test scores](male-gender-lower-achievement-scores.md) — related
 - [After adjustment, current GPA and knowledge test score — not learning method — were associated with final statistics achievement](gpa-and-knowledge-test-predict-final-score.md) — related
+- [Being female is negatively associated with Math and Science scores but has no significant effect on Reading](female-negative-math-science-not-reading.md) — related

@@ -50,3 +50,4 @@ Cross-sectional electronic survey of US anatomy teachers identified via AAA, HAP
 - [Anatomy teachers in healthcare professions education do not share a single profile; the majority hold a doctorate in anatomy or a related discipline, sometimes combined with a medical degree](anatomy-teachers-no-single-profile.md) — related
 - [Online MBP teachers are predominantly cis-gender females with high education and income, and mostly white](online-mbp-teachers-demographics-skewed.md) — related
 - [Graduate coursework across the traditional anatomical sciences subdisciplines is inconsistent among US anatomy teachers](inconsistent-subdiscipline-graduate-coursework-anatomy-teachers.md) — related
+- [Final-survey respondents were highly educated: 40% held a master's degree and 30% a doctorate, 90% in a scientific discipline](mooc-survey-demographics-highly-educated.md) — related

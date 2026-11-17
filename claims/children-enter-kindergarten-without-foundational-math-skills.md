@@ -55,3 +55,4 @@ The article states, citing Garcia & Weiss (2015), that many children enter kinde
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Students entered Dynamics with poor background knowledge and skills despite prior Statics](poor-dynamics-background-readiness-test.md) — a narrower finding that bears on this claim

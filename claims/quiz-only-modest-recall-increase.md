@@ -50,3 +50,4 @@ Quiz-only condition (n = 47 at study end) performing the 15-minute quiz task in 
 - [First-pass recall accuracy rises while trials-to-criterion and exposure duration fall across the three weekly relearning sessions](relearning-session-gains-recall-trials-exposure.md) — related
 - [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
+- [Review-quiz accuracy within the library rises as students answer more questions in a lecture module](geas-accuracy-rises-with-questions-answered.md) — related

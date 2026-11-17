@@ -70,3 +70,4 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [ANCOVA with pre-test as covariate confirms significant post-intervention increases in total attitude score and subscales 2 and 3](ancova-conflict-attitude-adjusted.md) — related
 - [Both PBL and traditional instruction produce statistically significant positive shifts in students' attitudes towards physics](both-instructions-significant-positive-attitude-shift.md) — related
 - [Student attitudes toward statistics improved in the course, with ATS scores increasing by 0.32 pretest SDs](ebm-course-ats-attitude-gain.md) — related
+- [Project Physics, a humanistic history-based physics curriculum, improved students' attitudes towards science while successfully teaching physics content](project-physics-attitudes-content.md) — related

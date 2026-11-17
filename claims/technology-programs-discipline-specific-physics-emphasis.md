@@ -51,3 +51,4 @@ Content-specialist scoring of physics exam questions plotted in the rigor-releva
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
 - [All participant groups scored higher on lower cognitive levels (Remembering, Understanding, Applying) than on higher levels (Analysing, Evaluating, Creating)](lower-cognitive-levels-outscore-higher.md) — related
+- [Building low-cost robot prototypes let high-school students work on electricity, kinematics, dynamics and modern-physics topics](cl-prototypes-physics-topics.md) — a narrower finding that bears on this claim

@@ -66,3 +66,4 @@ Normative comparison using not-at-risk peer data from the same district; gaps ex
 ## Related Claims
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — possibly the same claim (merge candidate)
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](measurement-fraction-intervention-beats-control-generalized-knowledge.md) — related
+- [The Common Core's 'different wholes' restriction on fraction comparison functions as a precision-avoiding loophole that dodges data/question disconnects in over-simplified word problems](different-wholes-precision-loophole.md) — related

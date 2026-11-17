@@ -60,9 +60,11 @@ Routines function as a form of [Automaticity](../elements/automaticity.md) appli
 6. **Review periodically.** Retire routines that no longer serve learning; introduce variation deliberately when attention wanes.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a common opening routine that doubles as retrieval and readiness work
 - [Act It Out](../strategies/act_it_out.md) — rehearsal technique for establishing behavioral and discourse routines
 - [Check-In](../elements/check-in.md) — a routine that builds relational predictability alongside procedural predictability
+- [Fade explicit comparison instructions across the course and extend the t'-score structure to weighted least-squares fitting](fade-t-score-instructions-extend-to-fitting.md)
 
 ## Examples
 - **Do-Now / Bell Work** — a fixed opening task visible as students enter; widely used in [Direct Instruction](../patterns/direct-instruction.md) and explicit-teaching traditions to reclaim the first minutes of class.

@@ -90,3 +90,6 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Students value the ability to pause, rewind and replay video podcasts to suit their own pace](podcast-control-pause-replay-valued.md) — related
 - [The author's teaching experience suggests that providing students hyperlinks to watch online video after class is the easiest but least effective route, with many students not watching the video](post-lecture-hyperlink-video-least-effective.md) — related
 - [Lectures can engage students when they have been properly prepared before class, as in the flip-JiTT structure](lectures-useful-when-students-prepared.md) — related
+- [Video-player control puts the power to repeat in the hand of the individual student, suiting individual needs](mooc-repetition-power-shifts-to-student.md) — related
+- [A 2012 video-based flipped classroom in which students watched recorded lectures left students feeling unsupported and produced lower satisfaction despite better marks than 2010](video-flipped-classroom-unsupported-students.md) — related
+- [Using videos for home viewing frees curriculum time so teachers can give immediate assistance and richer in-class discussion](video-home-viewing-frees-class-time.md) — related

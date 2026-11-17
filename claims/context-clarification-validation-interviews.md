@@ -50,3 +50,4 @@ Finding from the 42 student validation interviews described in the design and va
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md)
 - [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related
 - [Students hold much more expert-like views about research experiments than about classroom experiments](large-personal-professional-epistemology-splits-e-class.md) — related
+- [The CLASS was developed and validated through extensive student interviews combined with statistical techniques, with interviews as the ultimate test of statement validity](class-developed-with-student-interviews-and-statistics.md) — related

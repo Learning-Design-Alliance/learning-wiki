@@ -55,3 +55,4 @@ Post-hoc LSD comparisons among the cooperative-group styles (Styles 2-5 plus the
 - [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related
 - [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — related
 - [CAI mode matters: tutorials show the largest effects while strictly online CAI shows negative effects](cai-mode-tutorial-best-online-negative.md) — related
+- [Many students wanted Lecture-Tutorial answers provided, and explicit post-tutorial debriefing reduced resistance](lecture-tutorial-answer-verification-resistance.md) — related

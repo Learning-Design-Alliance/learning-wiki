@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (66 show a difference, 25 mixed, 14 no difference) · 66 studies (43 causal, 7 associational, 6 qualitative, 4 review, 4 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 66 report an effect size · 102 claims rest on one study
+> **Evidence** · 106 claims (67 show a difference, 25 mixed, 14 no difference) · 67 studies (43 causal, 7 associational, 6 qualitative, 5 theoretical, 4 review, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 67 report an effect size · 103 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -142,6 +142,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Students who solved a symbolic problem incorrectly using conflicting meanings of the same symbol t solved the numeric version correctly, with plugging in numbers acting as a cue to specify symbol meaning](../claims/plugging-in-numbers-cues-symbol-meaning.md) [~M] — measured as an outcome of the instruction studied
 - [Three interview students eliminated a known quantity from two symbolic equations, leaving one equation with two unknowns; such known/unknown confusion was not observed on numeric versions](../claims/known-unknown-confusion-symbolic-only.md) [~M] — measured as an outcome of the instruction studied
 - [Two students who can both solve problems correctly may attach qualitatively different encyclopedic meaning to the same equation](../claims/pat-alex-encyclopedic-contrast.md) [-W] — learners who differ on it differ in outcomes
+- [In clinical interviews, a student who blended the base+change symbolic form with physical meaning of the velocity equation showed more expert-like reasoning and problem use than a peer who treated the equation as a computational tool](../claims/base-change-blending-more-expert-like-reasoning.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

@@ -50,3 +50,4 @@ Descriptive account of the content changes made in the NEXUS/Physics two-semeste
 - [In the first year of the course, around half of the analyzed students met or exceeded expectations on the ATP reconciliation essay question.](half-students-met-expectations-atp-essay-rubric.md) — a narrower finding that bears on this claim
 - [The idea that spontaneity requires a negative change in Gibbs free energy was among the most consistently leveraged student resources across interviews](negative-gibbs-free-energy-spontaneity-resource.md) — related
 - [In NEXUS/Physics test classes, biology students bring sophisticated reasoning from other courses and reconcile previously unnoticed inconsistencies in their knowledge.](nexus-physics-students-reconcile-inconsistencies.md) — related
+- [The two-state paramagnet model forces students to abandon the notion that temperature is merely a measure of average energy](paramagnet-negative-temperature-pedagogy.md) — related

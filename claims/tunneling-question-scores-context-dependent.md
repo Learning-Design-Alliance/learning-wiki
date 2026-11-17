@@ -50,3 +50,4 @@ Administration of the Figure 6 question in transformed engineering courses acros
 - [Interviews in transformed courses reveal three new reasons students think energy is lost in tunneling, beyond the two reported in prior literature](three-new-reasons-energy-loss-tunneling.md) — related
 - [In the pilot, there was no difference in scores between open-ended and multiple-choice versions of the test](pilot-open-ended-mcq-no-difference.md) — reports the opposite
 - [Well-constructed context-rich multiple-choice items can assess five of Bloom's six cognitive levels, so the question's phrasing rather than the response format determines the cognitive level tested](context-rich-mcq-higher-order.md) — related
+- [Upper-level quantum mechanics students incorrectly claim a particle loses energy when it tunnels through a rectangular potential barrier, transferring classical reasoning](qm-tunneling-classical-energy-loss-difficulty.md) — related

@@ -52,3 +52,5 @@ Authors' interpretation drawn from teachers' observations, informal comments and
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [A successor vocational-school path connecting physics measures to a professional instrument fully achieved its aim of increasing students' attention on physics](professional-instrument-connection-raised-vocational-students-attention.md) — related
+- [The author reports the model was successful in many contexts with great student involvement](model-successful-many-contexts-involvement.md) — reports the opposite
+- [Simulations can supplement experiential learning where hands-on activities are absent](simulations-supplement-hands-on-physics.md) — related

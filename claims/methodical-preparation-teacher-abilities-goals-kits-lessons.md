@@ -50,3 +50,4 @@ Conceptual statement in a theoretical article: the author enumerates the aims of
 ## Related Claims
 - [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related
 - [An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice](teacher-internal-drive-successful-change.md) — related
+- [Applying information technologies to teaching Physics is claimed to optimize teaching, support independent learning, motivation and mobility](ict-physics-teaching-benefits.md) — related

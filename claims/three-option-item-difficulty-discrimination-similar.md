@@ -57,3 +57,4 @@ Paired t-tests on corrected point-biserial discrimination across the 150 matched
 - [Facility value is significantly higher for three-option MCQs than for four- and five-option MCQs](three-option-mcq-higher-facility-value.md) — related
 - [Item format has a significant effect on both difficulty and discrimination index in paediatric computer-based assessments](format-effect-difficulty-discrimination-cba.md) — related
 - [Removing the least attractive incorrect option raises mean item facility: the three-option test was 5.7% easier than the four-option test](three-option-test-easier-by-5-7-percent.md) — related
+- [Item difficulty differs significantly on 3 of 16 items, all easier on the CMR version](cmr-item-difficulty-three-items-easier.md) — related

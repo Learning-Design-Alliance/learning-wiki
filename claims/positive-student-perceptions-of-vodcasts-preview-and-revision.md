@@ -54,3 +54,4 @@ Likert-scale attitudinal survey (86% response rate) measuring student perception
 - [Students perceived distance learning as more efficient and as providing more time to study and review materials than classroom learning](distance-learning-perceived-more-efficient-more-time.md) — related
 - [First results of the revised instruction sheet suggest at least half of students showed better understanding of the experimental procedure and of their measurements](revised-sheet-first-findings-half-better-understanding.md) — related
 - [In an A-level mechanics revision lesson using multiple representations, the majority of the 25 surveyed students agreed the lesson deepened their understanding and recommended the strategy](mr-mechanics-revision-lesson-positive-feedback.md) — related
+- [Students at both introductory and advanced levels perceived the two-level simulations as useful for improving their understanding](students-perceive-quvis-simulations-useful.md) — related

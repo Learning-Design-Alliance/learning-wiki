@@ -51,3 +51,4 @@ Case study of Phillip's group on the kinesin energy bar-chart task in the NEXUS/
 - [Students fail to coordinate the multiple, ontologically conflicting descriptions embedded in physicists' language, which may produce patterns interpreted as misconceptions](students-fail-to-coordinate-conflicting-descriptions.md) — a broader claim this one bears on
 - [Switching to a blended substance/location ontology helped one student correct her understanding of chemical bond energy](blended-ontology-corrects-bond-energy-understanding.md) — reports the opposite
 - [A structured blend of ontologies, not mere combination, supports productive reasoning: Peter's group succeeded where the metaphors complemented each other](structured-blend-enables-productive-reasoning.md) — related
+- [A novice undergraduate student similarly blends substance and location ontologies when reasoning about ATP hydrolysis energy](novice-substance-location-blend-energy.md) — related

@@ -65,3 +65,5 @@ Post-semester interviews conducted by a co-author with no course association; in
 - [A pilot in a ninth-grade Physics First classroom shows computation's ability for connecting scientific practice to the high school science classroom](computation-connects-scientific-practice-high-school-pilot.md) — related
 - [Hands-on laboratory activities were appreciated by vocational students but did not suffice when physics was perceived as useless for their professional training](hands-on-appreciated-insufficient-when-topic-perceived-useless.md) — related
 - [Students in the authors' UNH IPLS course largely valued its biological examples: 80% found them interesting and 58% found they helped them understand the physics](unh-survey-biological-examples-valued.md) — related
+- [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — related
+- [Post-course, more than 80% of students reported high levels of both met expectations and interest in the course](high-post-course-expectations-met-and-interest.md) — related

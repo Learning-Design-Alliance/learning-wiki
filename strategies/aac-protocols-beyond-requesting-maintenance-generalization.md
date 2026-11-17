@@ -48,6 +48,7 @@ The article recommends that intervention protocols go beyond isolated settings, 
 - [Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations](naturalistic-design-for-dialogue-outcome-research.md)
 - [Devise language interventions using naturalistic teaching for acquisition with progression to contrived approaches for generalization](naturalistic-acquisition-contrived-generalization-sequence.md)
 - [Design technology-based ASD social skills studies to embed the child's real-world environment and measure generalization and maintenance of skills](real-world-environment-and-generalization-measures-asd-tech-studies.md)
+- [Define basic design specifications for AAC apps and social media tools to reduce operational demands](aac-design-specifications-reduce-operational-demands.md)
 
 ## Examples
 -

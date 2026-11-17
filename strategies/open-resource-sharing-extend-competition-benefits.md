@@ -48,6 +48,7 @@ In the Discussion the authors propose that future competitions increase overall 
 - [Combine live interactive webinars with asynchronous fora, instant-messaging channels and self-paced MOOCs in a modular, open-registration package for global workforce capacity building](webinar-plus-fora-plus-mooc-capacity-building-strategy.md)
 - [Refine competition-based tournaments by adding group-stage matches, spaced post-event quizzes, student question-writing and collaborative formats](pharmacotrophy-design-refinements-strategy.md)
 - [Implement a five-versus-five head-to-head group competition with task-reporting debriefings to raise robot-simulator training efficiency without extra equipment](five-versus-five-competition-task-reporting-strategy.md)
+- [Use national and international robotics competitions for talent development](robotics-competitions-talent-development.md)
 
 ## Examples
 -

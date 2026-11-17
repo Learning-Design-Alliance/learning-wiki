@@ -47,6 +47,7 @@ The authors recommend that instructors counter students' inherent bias against a
 ## Related Strategies
 
 - [Address student expectations of passive instruction early in the semester to promote buy-in](address-passive-expectations-early-buy-in-strategy.md)
+- [Align course assessment with modified labs by modifying semester exams and explicitly framing the long-term value of design work](align-exams-and-framing-with-modified-labs.md)
 
 ## Examples
 -

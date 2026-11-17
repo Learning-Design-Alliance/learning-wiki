@@ -53,3 +53,4 @@ Kruskal-Wallis test on survey data (χ2(3) = 8.21, p = 0.04) comparing RTN perce
 - [RTN perceptions differ by desired future career, with research-career aspirants most synergistic and nonacademic aspirants least](career-plans-differ-rtn-perceptions.md) — related
 - [No significant difference in RTN perceptions between master's and doctoral students](no-degree-type-rtn-difference.md) — related
 - [Biology graduate students receive mixed microsystem messages about research and teaching, with advisors sending both antagonistic and synergistic messages](microsystem-mixed-rtn-messages.md) — related
+- [Academics' professional identity shows two headline markers — a good teacher is above all a good physicist, and teaching must favour interaction with students — and is marked by tensions between desired and declared practice](professional-identity-markers-and-tensions.md) — related

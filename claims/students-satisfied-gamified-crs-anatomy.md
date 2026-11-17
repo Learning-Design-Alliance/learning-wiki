@@ -53,3 +53,4 @@ Nine-question five-point Likert questionnaire completed by 87, 71 and 38 student
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
 - [Students reported high satisfaction and increased motivation to learn from the gamified histology course](kahoot-satisfaction-motivation-histology.md) — related
 - [Earning badges was associated with greater completion of remaining questions only in round 2, with no significant badge effect in rounds 1 and 3.](badge-effect-on-completion-mixed-by-round.md) — related
+- [The points-and-rank system motivated students to complete course work](points-rank-system-increased-motivation.md) — related

@@ -50,3 +50,4 @@ Correlational analysis of UO records shown in figure 3, comparing 25X grades wit
 - [Tutorial-cohort students earn marginally but not significantly higher upper-division course grades than non-Tutorial peers](tutorial-cohort-upper-division-grades.md) — related
 - [SAT scores predict upper division in-major GPA with correlations of roughly 0.35 to 0.5 across majors at a broad-range state university](sat-predicts-upper-division-gpa-035-05.md) — related
 - [A roughly equally weighted combination of SAT and high school GPA (in SD units) best predicts upper division GPA](equal-weight-sat-hsgpa-best-predictor.md) — related
+- [Control-group students were at least as strong as experimental-group students in other traditionally taught upper-division physics courses](control-group-comparability-other-upper-division-courses.md) — related

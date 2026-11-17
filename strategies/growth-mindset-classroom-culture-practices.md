@@ -50,6 +50,7 @@ This strategy treats mindsets as shared classroom beliefs rather than individual
 - [Align peer mindset interventions with teacher practices and broader classroom context rather than isolating them](align-peer-interventions-with-classroom-context.md)
 - [Promote a Growth Mindset in Math](promote_a_growth_mindset_in_math.md)
 - [Growth Mindset Development](growth_mindset_development.md)
+- [Design classroom contexts that align activity goals and practices with student goals to promote belonging](align-context-goals-practices-belonging.md)
 
 ## Examples
 -

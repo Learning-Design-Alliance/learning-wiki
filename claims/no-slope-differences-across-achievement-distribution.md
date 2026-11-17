@@ -51,3 +51,4 @@ Supplemental spline regression analysis of the fully controlled models examined 
 - [Gains in counting and cardinality during the preschool year are associated with roughly half a standard deviation higher fifth grade mathematics achievement](preschool-counting-gains-predict-fifth-grade.md) — related
 - [The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data](counting-coefficient-larger-than-other-domains.md) — related
 - [ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust](chatgpt-exposure-performance-distribution-heterogeneity.md) — related
+- [Provincial wealth (GVA) relates positively to achievement only in provinces below the national average](gva-wealth-effect-below-average-only.md) — related

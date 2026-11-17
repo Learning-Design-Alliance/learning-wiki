@@ -49,3 +49,4 @@ Three-parameter model fits to the homework data, with and without attempt limits
 - [Choice of attempt threshold N has almost no influence on the quality of homework-based learner ability estimates](ability-estimate-independent-of-attempt-threshold.md) — related
 - [Restricting homework IRT analysis to first attempts spreads item characteristic curves further, making results less meaningful](first-attempt-filtering-worsens-item-curves.md) — related
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related
+- [Adding a copying trait to IRT improves the predictive power of first-attempt homework ability relative to exam-derived ability](copying-trait-improves-homework-ability-prediction.md) — related

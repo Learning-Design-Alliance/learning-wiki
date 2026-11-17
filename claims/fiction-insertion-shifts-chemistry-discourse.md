@@ -74,3 +74,4 @@ Interpretation of the same intervention classroom discussions: students practice
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [Most students reported in diaries that each book in a mostly science-fiction reading set increased their science curiosity, with 24 to 29 of 30 saying so per book](diaries-report-books-pique-curiosity.md) — related
 - [Families reported expanded vocabulary and increased interest in scientific matters after the program](families-report-expanded-vocabulary-and-science-interest.md) — related
+- [School teachers reported that their students began to interact more in class and question the role of science after the robotics exhibition](cl-teacher-reported-student-interaction.md) — related

@@ -58,3 +58,4 @@ Confusion-matrix comparison across the 5-fold test sets (Table 2) on a balanced 
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
 - [Teachers and pupils identified weaknesses in the LRS: no showing of working, mis-programmed answers, and small handsets](lrs-implementation-weaknesses.md) — related
 - [A relatively high percentage of correct-choice-incorrect-explanation (CI) answers appeared across many problems, revealing false positives invisible to answer-only scoring](high-percentage-ci-answers-free-response.md) — related
+- [False positives (categories 1, 2 and 3) were no more than 1% of total responses, which the authors attribute to the required justification tier discouraging guessing.](false-positives-below-one-percent-with-justification-tier.md) — related

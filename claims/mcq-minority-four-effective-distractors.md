@@ -49,3 +49,4 @@ Distractor analysis of end-of-semester exam responses at the first offering acro
 - [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — a broader claim this one bears on
 - [Two-distractor MCQs contain fewer item-writing flaws and more frequently have all distractors functional compared with three-distractor MCQs](two-distractor-items-fewer-flaws-more-functional.md) — related
 - [Most SBA questions in undergraduate medical summative exams contain fewer than four functional distractors](fewer-than-four-functional-distractors-sba-medical-exams.md) — possibly the same claim (merge candidate)
+- [Instructor review of student-authored MCQs retained most of them in a repository whose questions spanned diverse taxonomic levels of knowledge](student-mcq-repository-quality.md) — related

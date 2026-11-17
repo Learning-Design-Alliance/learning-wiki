@@ -48,3 +48,4 @@ Results section, Problem 1 electrostatics, comparing post-test and gain plots (F
 - [Inquiry-based algebra-based students outperform all other introductory classes, including honors, on free-response pre- and post-tests in electricity and magnetism](inquiry-outperforms-on-free-response-testing.md) — related
 - [In calculus-based FCI data, RT labs with traditional lecture significantly outperformed T, IL and RT-T labs with traditional lecture (p < 0.0001), a lab-style difference not seen under PERL lecture](calc-fci-rt-labs-beat-other-lab-styles-tl.md) — related
 - [Students completing multimedia learning modules score between 8 and 9% higher on mid-term examinations covering electrostatics and electromagnetism than non-MLM students](mlm-preparation-higher-exam-scores.md) — related
+- [Transformed electrostatics courses score significantly higher on the CUE post-test than traditional lecture-based courses](cue-transformed-courses-higher-posttest.md) — related

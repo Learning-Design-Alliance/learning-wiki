@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (21 for, 22 mixed, 4 against) · 44 studies (22 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 14 of 44 report an effect size · 40 claims rest on one study
+> **Evidence** · 48 claims (22 for, 22 mixed, 4 against) · 45 studies (22 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 14 of 45 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ Each question links a general claim that gathers the studies behind it and the n
 - [Irrelevant instructional humour yields worse transfer performance than relevant humour and than no humour in adult learners](../claims/irrelevant-humour-worse-transfer-adults.md) [+W] — attached 2026-11-04 from Bender et al. (2026), which proposed "Avoid irrelevant instructional humour because of the risk of a detrimental seductive details effect"; tests this page's relationship.
 - [Evidence for a seductive-details effect of irrelevant humour versus control is inconsistent across studies](../claims/seductive-humour-effect-inconsistent.md) [~W] — attached 2026-11-04 from Bender et al. (2026), which proposed "Avoid irrelevant instructional humour because of the risk of a detrimental seductive details effect"; tests this page's relationship.
 - [Background music varying in tempo and consonance has no influence on verbal learning performance](../claims/no-background-music-effect-verbal-learning.md) [-W] — attached 2026-11-10 from Jäncke L (2010), which proposed "Do not assume unfamiliar background music harms or helps verbal learning: performance can be preserved across acoustic background conditions"; tests this page's relationship.
+- [Different colors in the two superposition components led five of nine students to interpret Visualization IV as two half-energy photons](../claims/distinct-colors-suggest-half-energy-photons.md) [+W] — attached 2026-11-17 from Antje Kohnle et al. (2014), which proposed "Design visualization cues so perceptual features align with intended meaning and do not suggest classical-object splitting".
 
 ## Objective and learner-valued goal
 

@@ -68,3 +68,5 @@ Item-analysis finding from the first MC implementation: on multi-correct items, 
 - [A first 28-item multiple-choice version of the QMAT given to 61 students at two institutions showed strikingly similar item difficulty across institutions and low, comparable mean scores](mc-qmat-first-version-item-difficulty-similar-institutions.md) — a broader claim this one bears on
 - [Students struggle with the 'not' operator and logical operator precedence when evaluating conditional statements](students-struggle-operator-precedence-conditionals.md) — related
 - [Converting open-ended QMAT Q6 to MC items yielded one item at ideal difficulty (~50% correct) and one overly challenging item, guiding revision choices](q6-mc-conversion-item-difficulty-q16-q17.md) — related
+- [Upper-level students show inconsistent reasoning about the position-space wave function across consecutive questions](qm-inconsistent-reasoning-position-representation.md) — related
+- [QMAT data reveal widespread student difficulties relating the Hamiltonian to time evolution of quantum states](qmat-hamiltonian-time-evolution-difficulties.md) — related

@@ -184,3 +184,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Students regarded the primary care VP as an authentic intermediate learning activity between theory and clinical practice with immediate feedback](vp-intermediate-learning-activity-authenticity.md) — a narrower finding that bears on this claim
 - [Tutors regarded keeping EBM relevant and applicable to students' clinical practice as key to successful learning](tutors-relevance-to-clinical-practice-key.md) — related
 - [Instructional gains in special small-group programs may not generalize to real-world teaching conditions](special-program-gains-not-real-world.md) — related
+- [Authentic, complex level-boss tasks helped students feel prepared for real-world computational work](authentic-level-bosses-real-world-preparation.md) — a narrower finding that bears on this claim

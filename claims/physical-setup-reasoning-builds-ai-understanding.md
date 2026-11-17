@@ -50,3 +50,4 @@ Thematic analysis of the same qualitative dataset. James replaced a blue card wi
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related
 - [Students in introductory physics labs are almost never engaged in experiment design, so they hold only a theoretical view of setup limitations and how they affect measurement uncertainty](introductory-lab-students-not-engaged-in-design.md) — related
+- [Troubleshooting in the lab can become rapid model-based reasoning cycles of qualitative prediction and test](model-based-troubleshooting-episodes.md) — related

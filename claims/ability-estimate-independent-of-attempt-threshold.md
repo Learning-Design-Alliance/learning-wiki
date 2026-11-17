@@ -51,3 +51,4 @@ Threshold analysis varying the maximum number of considered attempts N in the ho
 - [Early in the semester, first-attempt homework data yields the highest ability-estimate agreement found in the study (cosine similarity 0.72), supporting an early-warning system for learners-at-risk](early-semester-first-attempt-highest-agreement.md) — related
 - [Restricting homework IRT analysis to first attempts spreads item characteristic curves further, making results less meaningful](first-attempt-filtering-worsens-item-curves.md) — reports the opposite
 - [A three-parameter model with a guessing parameter yields minimal fit improvement and is hardly useful for online homework](tpm-guessing-parameter-not-useful.md) — related
+- [Introducing the learner traits stabilizes item parameter estimates: difficulty divergence is absorbed and more items show positive discrimination](learner-traits-stabilize-item-parameters.md) — related

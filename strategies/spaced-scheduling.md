@@ -64,6 +64,7 @@ Spacing produces substantially better long-term retention than massed study of t
 - [Cumulative Review](cumulative-review.md) — a course-level way of institutionalizing spacing
 - [Cramming](cramming.md) — the massed alternative; useful for immediate performance but poor for retention
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
+- [Structure online practice as distributed, interleaved problem solving with retrieval practice rather than massed, blocked review](geas-distributed-interleaved-retrieval-design.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source spaced-repetition system using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual learning.

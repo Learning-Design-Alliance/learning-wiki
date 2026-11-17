@@ -89,3 +89,4 @@ Correlation in School B, based on side-by-side tests under the same school condi
 - [In School S, practice in rule sums improved numerical computation but produced no transfer to accuracy in arithmetical reasoning](winch-1910-school-s-no-transfer.md) — related
 - [Practice substantially improves numerical accuracy in rule sums, and in School B this carried over to better numerical accuracy within problem work](winch-1910-numerical-accuracy-gains-within-domain.md) — related
 - [Practice in rule sums produced considerable improvement in numerical accuracy within the practice medium itself in Schools I and O.K.](winch-rule-sum-practice-improved-numerical-accuracy.md) — related
+- [Formal 'unadd' and 'unmultiply' operations give cognitive simplicity over the usual subtract-from-each-side approach by separating organizational decisions from numerical activity](formal-unadd-unmultiply-cognitive-simplicity.md) — related

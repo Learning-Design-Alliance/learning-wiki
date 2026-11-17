@@ -50,3 +50,4 @@ Across the two interviews, the student bridged physics/biology via analogy and m
 - [An undergraduate life-science student perceives energy in physics as macroscopic and energy in biology as microscopic, and treats them as distinct](student-perceived-physics-biology-energy-disconnect.md) — related
 - [Students may not spontaneously integrate energy concepts across physics and biology under ordinary instruction, even with reasonably sophisticated conceptual understanding](energy-integration-not-spontaneous-under-ordinary-instruction.md) — a broader claim this one bears on
 - [A student spontaneously identifies electrons as the energy carrier unifying disparate microscopic energy phenomena](electrons-as-unifying-microscopic-energy-carrier.md) — related
+- [Defining entropy as the number of microscopic states of a macroscopic state makes the second law's non-increasing formulation understandable](entropy-as-microstate-count-second-law.md) — related

@@ -49,7 +49,8 @@ Based on documented student difficulties, the authors "advocate an increased foc
 - [Mathematical execution errors were common but not specific to Coulomb's Law problems and did not represent the primary barrier to success](../claims/execution-math-errors-not-primary-barrier.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teach the delta function with construction prompts, integration practice in multiple coordinate systems, and explicit emphasis on its units](delta-function-instruction-strategy.md)
 
 ## Examples
 -

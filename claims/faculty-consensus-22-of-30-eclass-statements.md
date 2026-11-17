@@ -52,3 +52,4 @@ Expert-validation step in which six faculty completed the survey to establish th
 - [Student views on the purpose of experiments are internally contradictory across similar statements](contradictory-student-views-experiment-purpose.md) — related
 - [Students and experts sharply disagree on whether the main goal of communicating results is a correctly formatted report](students-experts-disagree-report-formatting-goal.md) — related
 - [Upper-division lab students show more expert-like E-CLASS responses than algebra-based introductory students](upper-division-more-expert-like-e-class-responses.md) — related
+- [The CLASS was developed and validated through extensive student interviews combined with statistical techniques, with interviews as the ultimate test of statement validity](class-developed-with-student-interviews-and-statistics.md) — related

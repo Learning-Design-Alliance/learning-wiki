@@ -65,6 +65,7 @@ Structured discussion improves comprehension and reasoning more reliably than re
 - [Socratic Seminar](socratic-seminar.md) — the most widely used whole-class variant
 - [Accountable Talk](accountable_talk.md) — a talk-moves framework from the Institute for Learning
 - [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
+- [Develop a framework for skilled reasoning-based classroom discussion with discussion goals, discussable questions, norms, and talk tools](reasoning-based-discussion-framework-strategy.md)
 
 ## Examples
 - **[Accountable Talk](accountable_talk.md)** (University of Pittsburgh Institute for Learning, https://ifl.pitt.edu) — teacher training in talk moves such as revoicing and pressing for reasoning, implemented across district-wide literacy programs.
